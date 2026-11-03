@@ -1,0 +1,175 @@
+{
+  "_help": "Edit this file to change what the next round of training data looks like. See GUIDE.md phase 5. Weights are relative (they do not have to add to 1).",
+  "round": "r1",
+  "subjects": [
+    "mathematics"
+  ],
+  "grades": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "languages": [
+    "en"
+  ],
+  "mixed_fraction": 0.0,
+  "target_records": 300,
+  "kinds": [
+    "question",
+    "passage_questions",
+    "worked_example"
+  ],
+  "include_sources": [],
+  "holdout_sources": [],
+  "default_tracks": {
+    "english": "HL",
+    "afrikaans": "FAL"
+  },
+  "mode_mix": {
+    "faithful": 0.4,
+    "original": 0.6
+  },
+  "turns": {
+    "1": 0.35,
+    "2": 0.4,
+    "3": 0.25
+  },
+  "answer_policy_weights": {
+    "guided": 0.55,
+    "hint_only": 0.2,
+    "full_solution": 0.25
+  },
+  "student_level_weights": {
+    "struggling": 0.35,
+    "on_track": 0.45,
+    "advanced": 0.2
+  },
+  "tone_by_grade_band": {
+    "7-9": {
+      "friendly_playful": 0.5,
+      "encouraging": 0.4,
+      "calm_neutral": 0.1
+    },
+    "10-12": {
+      "encouraging": 0.4,
+      "calm_neutral": 0.3,
+      "concise_direct": 0.2,
+      "friendly_playful": 0.1
+    }
+  },
+  "response_length_weights": {
+    "short": 0.6,
+    "medium": 0.35,
+    "long": 0.05
+  },
+  "response_language_mirror_probability": 0.7,
+  "auto_fraction": 0.15,
+  "strategy_by_level": {
+    "struggling": {
+      "concrete_to_abstract": 3,
+      "worked_example": 3,
+      "step_walkthrough": 3,
+      "analogy_real_world": 2,
+      "reframe": 2,
+      "visual_board": 2,
+      "socratic_hints": 2,
+      "mnemonic": 1,
+      "story_context": 1,
+      "think_aloud": 1,
+      "faded_example": 1
+    },
+    "on_track": {
+      "socratic_hints": 3,
+      "faded_example": 2,
+      "step_walkthrough": 2,
+      "error_analysis": 2,
+      "answer_structure": 2,
+      "retrieval_quiz": 1,
+      "self_explanation": 1,
+      "direct_explanation": 1,
+      "gamified_challenge": 1,
+      "mnemonic": 1,
+      "visual_board": 1,
+      "think_aloud": 1
+    },
+    "advanced": {
+      "socratic_hints": 2,
+      "self_explanation": 3,
+      "error_analysis": 2,
+      "exam_technique": 2,
+      "answer_structure": 2,
+      "gamified_challenge": 1,
+      "retrieval_quiz": 1,
+      "reframe": 1
+    }
+  },
+  "strategy_exclude_by_subject": {
+    "english": [
+      "concrete_to_abstract"
+    ],
+    "afrikaans": [
+      "concrete_to_abstract"
+    ],
+    "life_sciences": [
+      "concrete_to_abstract"
+    ]
+  },
+  "thinking_probability": {
+    "mathematics": 0.8,
+    "mathematical_literacy": 0.7,
+    "natural_sciences": 0.5,
+    "physical_sciences": 0.8,
+    "life_sciences": 0.3,
+    "english": 0.2,
+    "afrikaans": 0.2
+  },
+  "tools_by_subject": {
+    "mathematics": [
+      "calculator",
+      "board",
+      "plot_function"
+    ],
+    "mathematical_literacy": [
+      "calculator",
+      "board"
+    ],
+    "natural_sciences": [
+      "calculator",
+      "board",
+      "search_curriculum"
+    ],
+    "physical_sciences": [
+      "calculator",
+      "board",
+      "search_curriculum"
+    ],
+    "life_sciences": [
+      "board",
+      "search_curriculum"
+    ],
+    "english": [
+      "board",
+      "search_curriculum"
+    ],
+    "afrikaans": [
+      "board",
+      "search_curriculum"
+    ]
+  },
+  "tool_availability_probability": 0.6,
+  "student_state_weights": {
+    "confused": 3,
+    "lost": 2,
+    "frustrated": 1,
+    "almost_there": 2,
+    "confident": 1,
+    "bored": 1,
+    "rushing": 1,
+    "asking_for_answer": 1
+  },
+  "misconception_probability": 0.4,
+  "math_format": "latex"
+}

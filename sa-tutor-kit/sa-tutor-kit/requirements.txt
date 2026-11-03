@@ -1,0 +1,6 @@
+sympy
+pypdf
+pypdfium2
+matplotlib
+transformers
+tokenizers

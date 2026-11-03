@@ -1,0 +1,5 @@
+source_id,title,url,licence,attribution,subject,grade,language,kind,track,year,pair_with,local_path,notes
+dbe-maths-g12-p1-2024-nov,Mathematics P1 Nov 2024,https://www.education.gov.za/,DBE copyright - check terms,Department of Basic Education,mathematics,12,en,past_paper,,2024,dbe-maths-g12-p1-2024-nov-memo,dbe/maths_g12_p1_2024_nov.pdf,held out for EVAL (do not train on it)
+dbe-maths-g12-p1-2024-nov-memo,Mathematics P1 Nov 2024 Memorandum,https://www.education.gov.za/,DBE copyright - check terms,Department of Basic Education,mathematics,12,en,memo,,2024,,dbe/maths_g12_p1_2024_nov_memo.pdf,
+siyavula-maths-g10-unbranded,Siyavula Maths Gr 10 (unbranded),https://www.siyavula.com/,CC BY 4.0,Siyavula Education,mathematics,10,en,textbook,,,,siyavula/maths_g10_unbranded.pdf,use the UNBRANDED CC BY version (the branded one is CC BY-ND)
+oak-maths-ks3-example,Oak National Academy lesson transcript,https://www.thenational.academy/,OGL v3.0,Contains public sector information licensed under the Open Government Licence v3.0 (Oak National Academy),mathematics,8,en,textbook,,2025,,oak/lesson_001.txt,England KS3 lesson: good for how teachers explain steps
