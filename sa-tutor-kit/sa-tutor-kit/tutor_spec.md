@@ -310,25 +310,43 @@ In **faithful** mode the learner's first message presents the real source questi
 
 The pipeline fills in `id`, `group_id`, `control`, `thinking`, licence and attribution, the real tool results and the remaining `meta`, then runs `tutor_data.py validate`.
 
-## 10. Decisions to settle, and order of work
+## 10. Decisions settled for Eishkom Stage 1, and order of work
 
-**Decisions** (my defaults in brackets)
+### Finalized Decisions (Eishkom Stage 1)
 
-1. Base model (decides tokenizer, chat template and thinking switch; audition candidates with `eval/run_eval.py` before training anything).
-2. Thinking default (on for multi-step maths and science, off for quick language and recall; off by default on phones).
-3. Maths notation (LaTeX, which KaTeX renders easily in a web app; add `plain` only if answers travel through plain-text channels).
-4. FAL policy by grade (section 2, point 4); confirm with a teacher.
-5. Decimal point or comma (point in v1).
-6. Who reviews the Afrikaans and who reviews the pedagogy (aim for at least 100 records each).
-7. Teacher model and its licence (open-weight, permissive, and the licence text must cover using outputs for training).
+1. **Model Family & Release Architecture:**
+   - **Release cycle:** Stage-based releases (`stage-1`, `stage-1.1`, `stage-2`, etc.) rather than point versions.
+   - **Clean branding rule:** Public model names **must not** display parameter counts or quantization suffixes.
+   - **The 5 Stage 1 models:**
+     - **`koeberg-stage-1`**: Flagship cloud 27B model (`unsloth/Qwen3.8-27B` base -> `UD-Q4_K_XL` GGUF, ~17.6 GB). Deployed on Google Cloud Run with Serverless NVIDIA L4 GPU (scale-to-zero).
+     - **`kendal-stage-1`**: Desktop/Laptop 4B model (`unsloth/Qwen3.5-4B` base -> `Q6_K` / `UD-Q6_K_XL` GGUF, ~3.53–4.15 GB). For GTX 1650 4GB VRAM and 16GB/20GB RAM PCs.
+     - **`kendal-flash-stage-1`**: Mobile 4B model (`empero-ai/Qwen3.8-4B-Distill` base -> `Q4_K_M` GGUF, ~2.78–2.91 GB). For midrange phones (6GB–8GB RAM).
+     - **`gariep-stage-1`**: Budget phone reasoning tutor (`empero-ai/Qwen3.8-2B-Distill` base -> `Q6_K` / `Q8_0` GGUF, ~1.75–2.15 GB). For 4GB phones.
+     - **`gariep-flash-stage-1`**: Budget phone fast vision/OCR (`LiquidAI/LFM3-VL-2B` base -> `Q6_K` GGUF, ~1.55 GB).
+2. **Critical Training Rule (Base Models vs. GGUF):**
+   - Never pass a `-GGUF` repository or file to `train_sft.py`.
+   - Train on unquantized Transformers base repos using Unsloth QLoRA (4-bit base + 16-bit LoRA adapters).
+   - Export to `.gguf` via `model.save_pretrained_gguf()` at the end of the run.
+3. **Training & Hosting Compute:**
+   - Funded by **\$60 Google Cloud & Gen AI credits** (\$10/month rolling grants).
+   - Training in **Vertex AI Colab Enterprise** on **NVIDIA L4 (24GB VRAM) Spot VMs** (~$0.32/hr), requiring a 1-GPU quota increase in GCP Console.
+   - Cloud hosting of `koeberg-stage-1` via **Google Cloud Run Serverless L4 GPU** with scale-to-zero instances (\$0.00/hr idle, ~$0.015/min active).
+4. **Teacher Model & Licensing:**
+   - Teacher: **DeepSeek V4.1 Flash 1017** (MIT License, permissive distillation) and **Google Gemini Flash** via Vertex AI credits.
+   - Free from OpenAI ToS restrictions or risk of distillation bans.
+5. **Thinking Default:** On for multi-step Mathematics and Physical Sciences; off by default on low-end phones for quick recall.
+6. **Maths Notation:** LaTeX rendered via KaTeX in mobile/web applications.
+7. **Decimal Convention:** Decimal point (2.5) in tutor generation and tool communication; accepts decimal comma (2,5) from South African learners.
+8. **Cross-Tier Distillation Trick:** Train Koeberg (27B) first -> generate 2,000–5,000 verified step-by-step solutions to hard DBE exam questions -> feed into Kendal (4B) and Gariep (2B) datasets.
 
 **Order of work:** `GUIDE.md` is the step-by-step version of this list.
 
-1. Settle the decisions above.
-2. Collect sources and cut them into items (`SOURCES.md`).
-3. Build the eval set BEFORE generating at scale.
-4. Audition base models on the eval set.
-5. Generate a small batch, read it, fix the teacher prompt, then scale; verify; review a sample.
-6. Train round 1, evaluate, analyse failures, improve the data, repeat until the move-on rules pass.
-7. Add the next subject as a new round (all data so far plus the new data).
-8. Preference training (DPO) from the model's own failures; export variants; vision last.
+1. Finalize sources and segment items (`SOURCES.md`, `pipeline/extract_items.py`).
+2. Build the held-out exam set BEFORE generating training data (`eval/make_eval_from_items.py`).
+3. Audition candidate base models in Colab Enterprise (`eval/report_eval.py --out audition`).
+4. Generate training records with teacher API, verify with SymPy, and review human sample (`pipeline/generate.py`, `verify.py`, `review_sample.py`).
+5. Train `koeberg-stage-1` (27B) on NVIDIA L4 Spot VM in Colab Enterprise.
+6. Generate Koeberg distillation dataset and train `kendal-stage-1` (4B) and `gariep-stage-1` (2B).
+7. Evaluate checkpoints against held-out DBE exam (`eval/evaluate.py`).
+8. Multi-quant export to GGUF with clean branding names (`training/export_gguf.py`).
+9. Deploy `koeberg-stage-1` to Google Cloud Run with scale-to-zero serverless GPU.

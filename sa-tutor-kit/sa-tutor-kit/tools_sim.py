@@ -205,6 +205,9 @@ def fill_tool_results(record, index=None):
 
 
 def _self_checks():
+    if sympy is None:
+        print("tools_sim.py self-checks skipped: sympy is not installed. Run 'pip install -r requirements.txt' to enable exact calculator arithmetic.")
+        return True
     ok = True
 
     def check(name, got, want):

@@ -237,6 +237,9 @@ def contains_final_answer(reply, expected):
 
 
 def run_self_checks():
+    if sympy is None:
+        print("answers.py notice: sympy is not installed in this environment.")
+        print("Run 'pip install -r requirements.txt' to test full symbolic and fraction equivalence.")
     ok = True
 
     def check(name, got, want=True):

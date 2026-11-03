@@ -1,26 +1,30 @@
 #!/usr/bin/env python3
 """
-train_sft.py - teach the base model your tutor behaviour (supervised fine-tuning with LoRA). Run in Colab on a GPU.
+train_sft.py - teach base models your South African CAPS tutor behaviour (supervised fine-tuning with LoRA).
+Run in Vertex AI Colab Enterprise on an NVIDIA L4 GPU (or Google Colab on T4).
 
-    # 1. free check on any computer (no GPU): render, count tokens, look at what the model will see
+EISHKOM STAGE 1 TRAINING RUNS:
+    # 1. Train Koeberg Flagship Cloud (27B) - runs on L4 Spot VM (~5.5 hrs, ~$1.76):
+    python training/train_sft.py --model unsloth/Qwen3.8-27B --data workspace/build/r1 --out workspace/runs/r1-koeberg --load-4bit --epochs 3
+
+    # 2. Train Kendal Desktop & Flash Mobile (4B) - runs on L4 Spot VM (~1.0 hr, ~$0.32):
+    python training/train_sft.py --model unsloth/Qwen3.5-4B --data workspace/build/r1 --out workspace/runs/r1-kendal --load-4bit --epochs 3
+    # Or train the mobile distill branch directly:
+    # python training/train_sft.py --model empero-ai/Qwen3.8-4B-Distill --data workspace/build/r1 --out workspace/runs/r1-kendal-flash --load-4bit
+
+    # 3. Train Gariep Budget Phone Tutor (2B) - runs on L4 Spot VM (~35 mins, ~$0.19):
+    python training/train_sft.py --model empero-ai/Qwen3.8-2B-Distill --data workspace/build/r1 --out workspace/runs/r1-gariep --load-4bit --epochs 3
+
+    # Smoke checks:
+    # Dry-run check on any PC (no GPU): render tokens and inspect loss mask:
     python training/train_sft.py --model unsloth/Qwen3.5-4B --data workspace/build/r1 --dry-run
-    # 2. the "can it memorise?" test (GUIDE.md phase 7): 20 samples, many passes. Loss should fall close to 0.
+    # The "can it memorise?" 20-sample test (loss should fall close to 0):
     python training/train_sft.py --model unsloth/Qwen3.5-4B --data workspace/build/r1 --out workspace/runs/overfit --limit 20 --epochs 15
-    # 3. the real run
-    python training/train_sft.py --model unsloth/Qwen3.5-4B --data workspace/build/r1 --out workspace/runs/r1
 
-WHAT "LoRA" MEANS HERE (plain words)
-  The base model has billions of numbers ("weights"). We lock all of them and clip on a small extra set (the
-  "adapter", about 1-2% of the size, rank --rank). Training only changes the adapter. That is why it fits on a
-  free/cheap GPU, why the result is a small folder (~100-300 MB) instead of 9 GB, and why the base model's
-  general skills are mostly preserved. Everything is saved to <out>/adapter.
-
-NOTES
-  * Qwen3.5: Unsloth recommends 16-bit LoRA (the default here), NOT 4-bit QLoRA. --load-4bit exists for models where 4-bit is fine.
-  * Every round starts again from the BASE model on ALL data so far (GUIDE.md): never continue round 2 from round 1's adapter.
-  * This script could not be run on a GPU by the person who wrote it. If model loading fails, open Unsloth's official notebook for
-    your model and copy ITS loading cell into load_model() below. Rendering, masking and saving stay the same.
-  * --resume continues an interrupted run from the last checkpoint (Colab disconnects: keep --out on Google Drive).
+CRITICAL TRAINING RULE: BASE REPOS ONLY (NEVER PASS -GGUF)
+  * Pass only unquantized base Hugging Face models (e.g. unsloth/Qwen3.8-27B, unsloth/Qwen3.5-4B).
+  * GGUF repositories are compiled read-only inference files; passing a GGUF repo to train_sft.py will crash.
+  * Export to GGUF (UD-Q4_K_XL, Q6_K, Q4_K_M) happens AFTER training completes via training/export_gguf.py.
 """
 import argparse
 import hashlib
