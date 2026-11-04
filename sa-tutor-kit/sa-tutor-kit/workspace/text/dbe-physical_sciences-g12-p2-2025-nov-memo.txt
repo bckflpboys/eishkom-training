@@ -511,4 +511,41 @@ $m = 42,75\text{ g}$ $\checkmark$ **(d)** (4)
 
 9.2.2 Decrease / Afneem $\checkmark$  
 * More copper (II) ions / $\text{Cu}^{2+}$ are reduced than formed. / Only copper (II) ions / $\text{Cu}^{2+}$ are reduced. $\checkmark$  
-* Copper (II
+* Copper (II) ion / $\text{Cu}^{2+}$ is a stronger oxidising agent than the zinc (II) ion / $\text{Zn}^{2+}$ $\checkmark$  
+  **OR**  
+  Zinc (II) ion / $\text{Zn}^{2+}$ is a weaker oxidising agent than the copper (II) ion / $\text{Cu}^{2+}$.  
+
+*(Koper(II)ioon/$\text{Cu}^{2+}$ is 'n sterker oksideermiddel as die sink(II)ioon/$\text{Zn}^{2+}$ OF Sink(II)ioon/$\text{Zn}^{2+}$ is 'n swakker oksideermiddel as die koper(II)ioon/$\text{Cu}^{2+}$)* (3)
+
+9.2.3 **Marking criteria:**  
+(a) USING RATIO: $n(\text{Cu}^{2+}) : n(\text{Zn}^{2+}) = 1 : 1$ $\checkmark$  
+(b) Formula: $n = \frac{m}{M}$ $\checkmark$  
+(c) Substitute $65$ AND $n(\text{Zn}^{2+})$ in $n = \frac{m}{M}$ $\checkmark$  
+(d) Subtraction of moles $\checkmark$  
+(e) Substitute $63,5$ AND $n(\text{Cu})$ in $n = \frac{m}{M}$ $\checkmark$  
+(f) Final correct answer: $9,6\text{ g}$ $\checkmark$ (NO RANGE)  
+
+**Nasienkriteria:**  
+(a) GEBRUIK VERHOUDING: $n(\text{Cu}^{2+}) : n(\text{Zn}^{2+}) = 1 : 1$ $\checkmark$  
+(b) Formule: $n = \frac{m}{M}$ $\checkmark$  
+(c) Vervang $65$ EN $n(\text{Zn}^{2+})$ in $n = \frac{m}{M}$ $\checkmark$  
+(d) Aftrek van aantal mol $\checkmark$  
+(e) Vervang $63,5$ EN $n(\text{Cu})$ in $n = \frac{m}{M}$ $\checkmark$  
+(f) Finale korrekte antwoord: $9,6\text{ g}$ $\checkmark$ (GEEN GEBIED)  
+
+$n(\text{Zn}^{2+}) = n(\text{Cu}^{2+}) = 0,05\text{ mol}$ $\checkmark\text{(a)}$  
+
+$m(\text{Zn}) = nM$ $\checkmark\text{(b)}$  
+$= (0,05)(65)$ $\checkmark\text{(c)}$  
+$= 3,25\text{ g Zn from R}$  
+
+$0,15 - 0,05 = 0,1\text{ mol Cu}$ $\checkmark\text{(d)}$  
+$m(\text{Cu}) = nM$  
+$= (0,1)(63,5)$ $\checkmark\text{(e)}$  
+$= 6,35\text{ g Cu from R}$  
+
+$\text{Change in mass} = 6,35 + 3,25 = 9,6\text{ g}$ (decrease in mass) $\checkmark\text{(f)}$ (6)
+
+**[11]**
+
+**TOTAL: 150**

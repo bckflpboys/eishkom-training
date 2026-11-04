@@ -257,3 +257,46 @@
 
 
 
+
+---
+
+## 15. Item Extraction: Physical Sciences Grade 12 Paper 2 (November 2025)
+- **Source & Memo:** `dbe-physical_sciences-g12-p2-2025-nov` and `dbe-physical_sciences-g12-p2-2025-nov-memo`
+- **Output Files:**
+  - `workspace/items/physical_sciences/dbe-physical_sciences-g12-p2-2025-nov.jsonl`
+  - `workspace/items/dbe-physical_sciences-g12-p2-2025-nov.jsonl`
+- **Extraction Metrics & Verification:**
+  - **Total Items Extracted:** 68 atomic items.
+  - **Multiple Choice:** Questions 1.1 to 1.10 extracted as 10 distinct, atomic items with 2 marks each (20 marks total), complete with options A–D and official memo rationales.
+  - **Long-form Questions:** Questions 2.1.1 through 9.2.3 fully extracted with all subquestions, criteria ticks ($\checkmark$), alternative calculation methods (Option 1/2/3, OR/OF), and target final answers.
+  - **Total Marks Verified:** Exactly 150 / 150 marks accounted for ($20 + 22 + 12 + 17 + 20 + 17 + 20 + 11 + 11 = 150$).
+  - **KaTeX & UDVES Adherence:**
+    - Standardized IUPAC condensed formulas (e.g. $\text{CH}_3\text{COCH(CH}_3)\text{CH}_3$) with parent chain and branch descriptions; zero fragile 2D ASCII matrices.
+    - Degree Celsius formatted strictly as `$^\circ\text{C}$` or `$25\,^\circ\text{C}$` (zero invalid `\text{^\circ C}`).
+    - Math mode decimal commas formatted as `$0{,}15$`, final answers using standard decimal point.
+    - All dollar delimiters validated with zero unbalanced KaTeX syntax errors.
+  - **Needs Review:** 0 items flagged with `needs_review: true` (all questions and visual graph/cell parameters fully specified in standardized UDVES passage notations).
+
+---
+
+## 16. Item Extraction: Afrikaans Huistaal Graad 12 Vraestel 1 (November 2023)
+- **Source & Memo:** `dbe-afrikaans_hl-g12-p1-2023-nov` and `dbe-afrikaans_hl-g12-p1-2023-nov-memo`
+- **Output Files:**
+  - `workspace/items/afrikaans_hl/dbe-afrikaans_hl-g12-p1-2023-nov.jsonl`
+  - `workspace/items/dbe-afrikaans_hl-g12-p1-2023-nov.jsonl`
+- **Resolution of Upstream DBE Memorandum Anomaly:**
+  - In the raw download bundle (`workspace/raw/dbe/afrikaans/afrikaans_hl/2023/afrikaans_hl_g12_2023_nov_p1_memo.pdf`), the PDF file content was an exact duplicate of the 2022 memorandum (MD5: `651d3730d71301d040ab5db5026e2674`).
+  - We sourced and verified the authentic, official DBE November 2023 Afrikaans Huistaal V1 Nasienriglyne (13 pages, approved by Prof. A. Coetzer and Mev. E. Gotze), corresponding exactly to the November 2023 paper (Teks A: Mikroplastiek, Teks B: Infografiek, Teks C: Skoolverlaters/Opsomming, Teks D: DOOM-advertensie, Teks E: Peanuts-strokiesprent, Teks F: Beesmisbrandstof).
+  - Updated `workspace/text/dbe-afrikaans_hl-g12-p1-2023-nov-memo.txt` with the complete, verified 2023 memorandum text.
+- **Extraction Metrics & Verification:**
+  - **Total Items Extracted:** 41 atomic items.
+  - **Afdeling A (Leesbegrip - 30 punte):** 17 items (1.1, 1.2.1, 1.2.2, 1.3, 1.4, 1.5.1, 1.5.2, 1.6, 1.7, 1.8.1, 1.8.2, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14), with complete passages for Teks A, Teks B (infographic notation), and combined Teks A & B in the `passage` field.
+  - **Afdeling B (Opsomming - 10 punte):** 1 atomic item (Vraag 2) with Teks C in `passage`, 7 core facts, model paragraph, quotation vs. own wording mapping, and language mark distribution in `memo`.
+  - **Afdeling C (Taalstrukture en -konvensies - 30 punte):**
+    - Vraag 3 (Advertensie - 10 punte): 8 items (3.1 to 3.7) with detailed advertisement components (A, B, C) in `passage`.
+    - Vraag 4 (Strokiesprent - 10 punte): 7 items (4.1 to 4.7) with frame-by-frame breakdown of panels 1 to 14 in `passage`.
+    - Vraag 5 (Artikel - 10 punte): 8 items (5.1 to 5.7) with full text of Teks F in `passage`.
+  - **Total Marks Verified:** Exactly 70 / 70 marks accounted for ($30 + 10 + 10 + 10 + 10 = 70$).
+  - **Needs Review:** 0 items flagged with `needs_review: true` (all visual elements described with UDVES precision).
+  - **KaTeX Validation:** Validated with zero syntax errors or unescaped delimiter issues.
+
