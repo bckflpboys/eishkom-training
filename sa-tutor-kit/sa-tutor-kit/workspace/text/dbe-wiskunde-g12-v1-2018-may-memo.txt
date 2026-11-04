@@ -1,0 +1,833 @@
+**SENIOR CERTIFICATE EXAMINATIONS / SENIORSERTIFIKAAT-EKSAMEN**
+
+**MATHEMATICS P1 / WISKUNDE V1**
+
+**2018**
+
+**MARKING GUIDELINES / NASIENRIGLYNE**
+
+---
+
+### NOTE / LET WEL:
+* If a candidate answers a question TWICE, only mark the FIRST attempt.
+* Consistent accuracy applies in ALL aspects of the marking guidelines.
+* *Indien 'n kandidaat 'n vraag TWEE KEER beantwoord, merk slegs die EERSTE poging.*
+* *Volgehoue akkuraatheid is op ALLE aspekte van die nasienriglyne van toepassing.*
+
+---
+
+### QUESTION / VRAAG 1
+
+1.1.1 
+$$(3x - 1)(x + 4) = 0$$
+$$x = \frac{1}{3} \quad \text{or} \quad x = -4$$
+
+* $\checkmark x = \frac{1}{3}$
+* $\checkmark x = -4$
+**(2)**
+
+---
+
+1.1.2 
+$$2x^2 + 9x - 14 = 0$$
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$= \frac{-9 \pm \sqrt{9^2 - 4(2)(-14)}}{2(2)}$$
+
+$$= \frac{-9 \pm \sqrt{193}}{4}$$
+
+$$x = 1,22 \quad \text{or} \quad x = -5,72$$
+
+**OR / OF**
+
+$$x^2 + \frac{9}{2}x = 7$$
+$$x^2 + \frac{9}{2}x + \frac{81}{16} = 7 + \frac{81}{16}$$
+$$\left(x + \frac{9}{4}\right)^2 = \frac{193}{16}$$
+$$x + \frac{9}{4} = \pm \frac{\sqrt{193}}{4}$$
+$$x = \frac{-9 \pm \sqrt{193}}{4}$$
+$$x = 1,22 \quad \text{or} \quad x = -5,72$$
+
+* $\checkmark$ substitution into correct formula
+* $\checkmark$ simplification
+* $\checkmark x = 1,22$
+* $\checkmark x = -5,72$
+
+**(4)**
+
+**OR / OF**
+* $\checkmark$ for adding $\frac{81}{16}$ on both sides
+* $\checkmark$ simplification
+* $\checkmark x = 1,22$
+* $\checkmark x = -5,72$
+
+**(4)**
+
+---
+
+1.1.3 
+$$\sqrt{3 - 26x} = 3x$$
+$$3 - 26x = 9x^2$$
+$$9x^2 + 26x - 3 = 0$$
+$$(9x - 1)(x + 3) = 0$$
+$$x = \frac{1}{9} \quad \text{or} \quad x = -3 \quad (\text{N/A})$$
+
+* $\checkmark 3 - 26x = 9x^2$
+* $\checkmark$ standard form
+* $\checkmark$ factors
+* $\checkmark$ answer with selection
+
+**(4)**
+
+---
+
+1.1.4 
+$$(x - 1)(x - 4) > x + 11$$
+$$x^2 - 5x + 4 > x + 11$$
+$$x^2 - 6x - 7 > 0$$
+$$(x - 7)(x + 1) > 0$$
+
+```
+   -1       7
++  ( ) --- ( )  +
+```
+$$x < -1 \quad \text{or} \quad x > 7$$
+
+* $\checkmark x^2 - 5x + 4$
+* $\checkmark$ standard form
+* $\checkmark$ factors
+* $\checkmark\checkmark$ $x < -1 \text{ or } x > 7$
+
+**(5)**
+
+---
+
+1.2 
+$$\frac{4\sqrt{x^7} - 5\sqrt{x^7}}{\sqrt{x}}$$
+$$= \frac{-\sqrt{x^7}}{\sqrt{x}}$$
+$$= \frac{-x^{\frac{7}{2}}}{x^{\frac{1}{2}}}$$
+$$= -x^3$$
+
+**OR / OF**
+$$\frac{\sqrt{x^7}(4 - 5)}{\sqrt{x}}$$
+$$= \sqrt{x^6}(-1)$$
+$$= -3 \text{ [Note: Typo in memorandum, usually }-x^3\text{]}$$
+
+**OR / OF**
+$$\frac{(16x^7)^{\frac{1}{2}} - (25x^7)^{\frac{1}{2}}}{x^{\frac{1}{2}}}$$
+$$= \frac{4x^{\frac{7}{2}} - 5x^{\frac{7}{2}}}{x^{\frac{1}{2}}}$$
+$$= \frac{-x^{\frac{7}{2}}}{x^{\frac{1}{2}}}$$
+$$= -x^3$$
+
+* $\checkmark 4\sqrt{x^7} - 5\sqrt{x^7}$
+* $\checkmark -\sqrt{x^7}$
+* $\checkmark -x^3$
+
+**(3)**
+
+**OR / OF**
+* $\checkmark \sqrt{x^7}(4 - 5)$
+* $\checkmark \sqrt{x^6}(-1)$
+* $\checkmark -x^3$
+
+**(3)**
+
+**OR / OF**
+* $\checkmark \frac{4x^{\frac{7}{2}} - 5x^{\frac{7}{2}}}{x^{\frac{1}{2}}}$
+* $\checkmark \frac{-x^{\frac{7}{2}}}{x^{\frac{1}{2}}}$
+* $\checkmark -x^3$
+
+**(3)**
+
+---
+
+1.3 
+$$x - 2y - 3 = 0$$
+$$x = 2y + 3 \quad \dots\dots (1)$$
+$$xy = 9 \quad \dots\dots (2)$$
+
+Substitute (1) into (2):
+$$(2y + 3)y = 9$$
+$$2y^2 + 3y = 9$$
+$$2y^2 + 3y - 9 = 0$$
+$$(2y - 3)(y + 3) = 0$$
+$$y = \frac{3}{2} \quad \text{or} \quad y = -3$$
+$$x = 6 \quad \text{or} \quad x = -3$$
+
+**OR / OF**
+$$y = \frac{x - 3}{2} \quad \dots\dots (1)$$
+$$xy = 9 \quad \dots\dots (2)$$
+Substitute (1) into (2):
+$$x\left(\frac{x - 3}{2}\right) = 9$$
+$$x^2 - 3x = 18$$
+$$x^2 - 3x - 18 = 0$$
+$$(x - 6)(x + 3) = 0$$
+$$x = 6 \quad \text{or} \quad x = -3$$
+$$y = \frac{3}{2} \quad \text{or} \quad y = -3$$
+
+* $\checkmark x = 2y + 3$
+* $\checkmark$ substitution
+* $\checkmark$ standard form
+* $\checkmark$ $y$-values
+* $\checkmark$ $x$-values
+
+**(5)**
+
+**OR / OF**
+* $\checkmark y = \frac{x - 3}{2}$
+* $\checkmark$ substitution
+* $\checkmark$ standard form
+* $\checkmark$ $x$-values
+* $\checkmark$ $y$-values
+
+**(5)**
+
+---
+
+1.4 
+$$x^2 + 2xy + 2y^2$$
+$$= x^2 + 2xy + y^2 + y^2$$
+$$= (x + y)^2 + y^2$$
+$$(x + y)^2 \ge 0 \quad \text{and} \quad y^2 \ge 0$$
+Therefore $(x + y)^2 + y^2 \ge 0$
+
+* $\checkmark x^2 + 2xy + y^2 + y^2$
+* $\checkmark (x + y)^2$
+* $\checkmark (x + y)^2 \ge 0 \text{ and } y^2 \ge 0$
+* $\checkmark (x + y)^2 + y^2 \ge 0$
+
+**(4)**
+
+**[27]**
+
+---
+
+### QUESTION / VRAAG 2
+
+2.1.1 
+$$\begin{array}{cccccccccc}
+5 & & 10 & & 17 & & 26 & & 37 & & 50 \\
+& 5 & & 7 & & 9 & & 11 & & 13 \\
+& & 2 & & 2 & & 2 & & 2
+\end{array}$$
+
+$37;\ 50$
+
+* $\checkmark 37$
+* $\checkmark 50$
+
+**(2)**
+
+---
+
+2.1.2 
+$$\text{second difference} = \frac{2}{2} = 1 \implies a = 1$$
+
+$$3a + b = 5$$
+$$3(1) + b = 5$$
+$$b = 2$$
+
+$$a + b + c = 5$$
+$$1 + 2 + c = 5$$
+$$c = 2$$
+
+$$T_n = an^2 + bn + c$$
+$$= n^2 + 2n + 2$$
+
+* $\checkmark \text{second difference of } 2$
+* $\checkmark a = 1$
+* $\checkmark b = 2$
+* $\checkmark c = 2$
+
+**(4)**
+
+---
+
+2.1.3 
+$$n^2 + 2n + 2 = 1765$$
+$$n^2 + 2n - 1763 = 0$$
+$$(n + 43)(n - 41) = 0$$
+$$n = -43 \quad (\text{N/A}) \quad \text{or} \quad n = 41$$
+
+**OR / OF**
+$$n^2 + 2n - 1763 = 0$$
+$$n = \frac{-2 \pm \sqrt{2^2 - 4(1)(-1763)}}{2(1)}$$
+$$= \frac{-2 \pm \sqrt{7056}}{2}$$
+$$n = -43 \quad (\text{N/A}) \quad \text{or} \quad n = 4$$ [Note: likely typo in memo for 41]
+
+* $\checkmark$ equating $T_n$ to $1765$
+* $\checkmark$ standard form
+* $\checkmark$ factors
+* $\checkmark$ answer with rejection
+
+**(4)**
+
+**OR / OF**
+* $\checkmark$ equating $T_n$ to $1765$
+* $\checkmark$ standard form
+* $\checkmark$ subt in correct formula
+* $\checkmark$ answer with rejection
+
+**(4)**
+
+---
+
+2.2 
+Sum of multiples of 7 from 35 to 196:
+$a = 35;\ d = 7$
+$$S_n = \frac{n}{2}[a + \ell]$$
+First find $n$:
+$196 = 35 + (n-1)7 \implies 7n = 168 \implies n = 24$
+
+$$S_{24} = \frac{24}{2}[35 + 196]$$
+$$= 12[231] = 2772$$
+
+Sum of all natural numbers from 35 to 196:
+$a = 35;\ d = 1;\ n = 196 - 35 + 1 = 162$
+$$S_{162} = \frac{162}{2}[35 + 196]$$
+$$= 81[231] = 18\ 711$$
+
+Sum of numbers not divisible by 7:
+$$= 18\ 711 - 2772 = 15\ 939$$
+
+* $\checkmark$ correct $a$, $d$ and $n$, substitution into correct formula
+* $\checkmark$ answer ($2772$)
+* $\checkmark 162$
+* $\checkmark$ answer ($18\ 711$)
+* $\checkmark$ answer ($15\ 939$)
+
+**(5)**
+
+**[15]**
+
+---
+
+### QUESTION / VRAAG 3
+
+3.1 
+$r = 0,94;\ a = 100$
+$$T_3 = ar^2 = 100(0,94)^2 = 88,36\text{ km}$$
+
+* $\checkmark r = 0,94$
+* $\checkmark$ answer
+
+**(2)**
+
+---
+
+3.2 
+$$S_n = \frac{a(r^n - 1)}{r - 1}$$
+$$750 = \frac{100(0,94^n - 1)}{0,94 - 1}$$
+$$\frac{750(-0,06)}{100} = 0,94^n - 1$$
+$$0,94^n = 1 - \frac{9}{20} = \frac{11}{20}$$
+$$0,94^n = 0,55$$
+$$n = \frac{\log 0,55}{\log 0,94} = 9,66$$
+He will pass the halfway point on the $10^{\text{th}}$ day.
+
+* $\checkmark$ substitution into correct formula
+* $\checkmark 0,94^n = 0,55$
+* $\checkmark$ use of logarithms
+* $\checkmark$ answer
+
+**(4)**
+
+---
+
+3.3 
+$$S_\infty = \frac{a}{1 - r}$$
+$$1500 < \frac{100}{1 - r}$$
+$$1 - r < \frac{100}{1500}$$
+$$r > \frac{14}{15} \quad \text{or} \quad 93,33\%$$
+
+* $\checkmark$ use of $S_\infty$ formula
+* $\checkmark$ substitution
+* $\checkmark$ answer
+
+**(3)**
+
+**[9]**
+
+---
+
+### QUESTION / VRAAG 4
+
+4.1 
+$$0 < x \le 1 \quad \text{or} \quad (0; 1]$$
+
+* $\checkmark\checkmark$ answer
+
+**(2)**
+
+---
+
+4.2 
+$$p = \log_{\frac{4}{3}} \frac{16}{9}$$
+$$\left(\frac{4}{3}\right)^p = \frac{16}{9}$$
+$$\left(\frac{4}{3}\right)^p = \left(\frac{4}{3}\right)^2$$
+$$p = 2$$
+
+* $\checkmark$ substitution
+* $\checkmark \left(\frac{4}{3}\right)^2$
+* $\checkmark$ answer
+
+**(3)**
+
+---
+
+4.3 
+$$f: y = \log_{\frac{4}{3}} x$$
+$$f^{-1}: x = \log_{\frac{4}{3}} y$$
+$$y = \left(\frac{4}{3}\right)^x$$
+
+* $\checkmark x = \log_{\frac{4}{3}} y$
+* $\checkmark y = \left(\frac{4}{3}\right)^x$
+
+**(2)**
+
+---
+
+4.4 
+$$y > 0 \quad \text{or} \quad y \in (0; \infty)$$
+
+* $\checkmark\checkmark$ answer
+
+**(2)**
+
+---
+
+4.5 
+$$\left(-2; \frac{16}{9}\right)$$
+
+* $\checkmark -2$
+* $\checkmark \frac{16}{9}$
+
+**(2)**
+
+**[11]**
+
+---
+
+### QUESTION / VRAAG 5
+
+5.1 
+$$x \in \mathbb{R};\ x \neq -1$$
+
+* $\checkmark x \in \mathbb{R}$
+* $\checkmark x \neq -1$
+
+**(2)**
+
+---
+
+5.2 
+$x$-intercept of $f$:
+$$0 = \frac{2}{x + 1} + 4$$
+$$\frac{2}{x + 1} = -4$$
+$$2 = -4x - 4$$
+$$4x = -6 \implies x = -\frac{3}{2}$$
+
+* $\checkmark$ equating to $0$
+* $\checkmark$ answer
+
+**(2)**
+
+---
+
+5.3 
+$$y = \frac{2}{x + 1} + 4$$
+$$\frac{14}{3} = \frac{2}{k + 1} + 4$$
+$$\frac{2}{k + 1} = \frac{14}{3} - 4 = \frac{2}{3}$$
+$$\frac{2}{k + 1} = \frac{2}{3}$$
+$$2k + 2 = 6 \implies k + 1 = 3 \implies k = 2$$
+
+* $\checkmark$ substitution
+* $\checkmark$ simplification
+* $\checkmark$ answer
+
+**(3)**
+
+---
+
+5.4 
+$$C(2; 4)$$
+
+* $\checkmark 2$
+* $\checkmark 4$
+
+**(2)**
+
+---
+
+5.5 
+$$y = a(x + p)^2 + q$$
+$$= a(x - 2)^2 + 4$$
+Substitute $(0; 0)$:
+$$0 = a(0 - 2)^2 + 4$$
+$$0 = 4a + 4 \implies a = -1$$
+$$y = -(x - 2)^2 + 4$$
+
+* $\checkmark a(x - 2)^2 + 4$
+* $\checkmark$ Substitute $(0; 0)$
+* $\checkmark a = -1$
+
+**(3)**
+
+---
+
+5.6 
+$$x \le -\frac{3}{2} \quad \text{or} \quad -1 < x < 0 \quad \text{or} \quad x > 4$$
+
+* $\checkmark x \le -\frac{3}{2}$
+* $\checkmark\checkmark -1 < x < 0$
+* $\checkmark x > 4$
+
+**(4)**
+
+---
+
+5.7 
+$y = \frac{2}{x} - 5$: $f$ shifted 1 unit to the right and 9 units down.
+$y = -(x - 3)^2 - 5$: $g$ shifted 1 unit to the right and 9 units down.
+Therefore the shift of both graphs took place relative to each other.
+They only intersect in the third quadrant.
+Therefore there is only one point of intersection.
+
+* $\checkmark$ both shifted 1 unit to the right
+* $\checkmark$ both shifted 9 units down
+* $\checkmark$ relative shift
+* $\checkmark$ one real root
+
+**(4)**
+
+**[20]**
+
+---
+
+### QUESTION / VRAAG 6
+
+6.1 
+$$A = P(1 - i)^n$$
+$$0,5P = P(1 - 0,15)^n$$
+$$(0,85)^n = 0,5$$
+$$n = \frac{\log 0,5}{\log 0,85} = 4,27\text{ years}$$
+
+* $\checkmark A = 0,5P$
+* $\checkmark$ substitution into correct formula
+* $\checkmark$ use of logs
+* $\checkmark$ answer
+
+**(4)**
+
+---
+
+6.2 
+In account one month before his $55^{\text{th}}$ birthday:
+$$F = \frac{x[(1 + i)^n - 1]}{i}$$
+$$= \frac{1500\left[\left(1 + \frac{0,092}{12}\right)^{384} - 1\right]}{\frac{0,092}{12}}$$
+$$= 3\ 478\ 620,49$$
+
+In account on his $55^{\text{th}}$ birthday:
+$$A = P(1 + i)^n$$
+$$= 3\ 478\ 620,49\left(1 + \frac{0,092}{12}\right) = \text{R}3\ 505\ 289,91$$
+
+**OR / OF**
+$$F = \frac{x(1 + i)[(1 + i)^n - 1]}{i}$$
+$$= \frac{1500\left(1 + \frac{0,092}{12}\right)\left[\left(1 + \frac{0,092}{12}\right)^{384} - 1\right]}{\frac{0,092}{12}}$$
+$$= \text{R}3\ 505\ 289,91$$
+
+* $\checkmark$ value of $i$
+* $\checkmark$ value of $n$ ($384$)
+* $\checkmark$ substitution into correct formula
+* $\checkmark$ adding last month's interest
+* $\checkmark$ answer
+
+**(5)**
+
+**OR / OF**
+* $\checkmark$ value of $i$
+* $\checkmark$ value of $n$ ($384$)
+* $\checkmark$ substitution into correct formula
+* $\checkmark$ adding last month's interest
+* $\checkmark$ answer
+
+**(5)**
+
+---
+
+6.3 
+Invest $\text{R}x$ in account A:
+$$A = x\left(1 + \frac{0,084}{4}\right)^{48} = 2,711662406x$$
+
+Invest $(\text{R}150\ 000 - x)$ in account B:
+$$A = (150\ 000 - x)\left(1 + \frac{0,096}{12}\right)^{144} = 3,150044027(150\ 000 - x)$$
+
+After 12 years, the amounts are equal:
+$$2,711662406x = 472506,6041 - 3,150044027x$$
+$$5,861706433x = 472506,6041$$
+$$x = \text{R}80\ 609,05$$
+
+Invest R80 609 in Account A and $\text{R}150\ 000 - \text{R}80\ 609,05 = \text{R}69\ 390,95$ in Account B.
+
+**OR / OF**
+Let $a$ be amount invested at $8,4\%$ p.a. compounded quarterly.
+Let $b$ be amount invested at $9,6\%$ p.a. compounded monthly.
+$a + b = 150\ 000 \implies a = 150\ 000 - b$
+
+$$(150\ 000 - b)\left(1 + \frac{0,084}{4}\right)^{48} = b\left(1 + \frac{0,096}{12}\right)^{144}$$
+$$b = \text{R}69\ 390,95$$
+$$a = \text{R}80\ 609,05$$
+
+* $\checkmark \left(1 + \frac{0,084}{4}\right)^{48}$
+* $\checkmark\checkmark (150\ 000 - x)\left(1 + \frac{0,096}{12}\right)^{144}$
+* $\checkmark$ equation
+* $\checkmark \text{R}80\ 609,05$
+* $\checkmark \text{R}69\ 390,95$
+
+**(6)**
+
+**OR / OF**
+* $\checkmark \left(1 + \frac{0,096}{12}\right)^{144}$
+* $\checkmark\checkmark (150\ 000 - b)\left(1 + \frac{0,084}{4}\right)^{48}$
+* $\checkmark$ equation
+* $\checkmark b$
+* $\checkmark a$
+
+**(6)**
+
+**[15]**
+
+---
+
+### QUESTION / VRAAG 7
+
+Penalize 1 mark for incorrect notation in the whole question.
+
+7.1 
+$$f(x + h) = 2 - 3(x + h)^2 = 2 - 3(x^2 + 2xh + h^2) = 2 - 3x^2 - 6xh - 3h^2$$
+$$f(x + h) - f(x) = 2 - 3x^2 - 6xh - 3h^2 - (2 - 3x^2) = -6xh - 3h^2$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+$$= \lim_{h \to 0} \frac{-6xh - 3h^2}{h}$$
+$$= \lim_{h \to 0} \frac{h(-6x - 3h)}{h}$$
+$$= \lim_{h \to 0} (-6x - 3h)$$
+$$= -6x$$
+
+* $\checkmark 2 - 3x^2 - 6xh - 3h^2$
+* $\checkmark -6xh - 3h^2$
+* $\checkmark$ subst. into formula
+* $\checkmark$ factorisation
+* $\checkmark$ answer
+
+**(5)**
+
+---
+
+7.2.1 
+$$D_x[(4x + 5)^2] = D_x(16x^2 + 40x + 25) = 32x + 40$$
+
+* $\checkmark 16x^2 + 40x + 25$
+* $\checkmark 32x$
+* $\checkmark + 40$
+
+**(3)**
+
+---
+
+7.2.2 
+$$y = \sqrt[4]{x} + \frac{x^2 - 8}{x^2} = x^{\frac{1}{4}} + 1 - 8x^{-2}$$
+$$\frac{dy}{dx} = \frac{1}{4}x^{-\frac{3}{4}} + 16x^{-3}$$
+
+* $\checkmark x^{\frac{1}{4}}$
+* $\checkmark 1 - 8x^{-2}$
+* $\checkmark \frac{1}{4}x^{-\frac{3}{4}}$
+* $\checkmark 16x^{-3}$
+
+**(4)**
+
+**[12]**
+
+---
+
+### QUESTION / VRAAG 8
+
+8.1 
+$$C(0; 12)$$
+
+* $\checkmark C(0; 12)$
+
+**(1)**
+
+---
+
+8.2 
+$$-x^3 + 13x + 12 = 0$$
+$$x^3 - 13x - 12 = 0$$
+$$(x + 1)(x^2 - x - 12) = 0$$
+$$(x + 1)(x - 4)(x + 3) = 0$$
+$$A(-3; 0)$$
+$$B(4; 0)$$
+
+* $\checkmark f(x) = 0$
+* $\checkmark (x + 1)$
+* $\checkmark (x^2 - x - 12)$
+* $\checkmark x = -3 \text{ or } 4$
+* $\checkmark$ clearly indicating A and B
+
+**(5)**
+
+---
+
+8.3 
+$$f'(x) = -3x^2 + 13$$
+$$f''(x) = -6x$$
+$$-6x = 0 \implies x = 0$$
+For $f(x)$, point of inflection will be at $(0; 12)$.
+For $g(x)$, point of inflection will be at $(0; -12)$.
+
+* $\checkmark f'(x) = -3x^2 + 13$
+* $\checkmark f''(x) = -6x$
+* $\checkmark$ equating to zero
+* $\checkmark (0; -12)$
+
+**(4)**
+
+**[14]**
+
+---
+
+### QUESTION / VRAAG 9
+
+9.1.1 
+$$AC = t - 30$$
+
+* $\checkmark$ answer
+
+**(1)**
+
+---
+
+9.1.2 
+$$30^2 = (t - 30)^2 + p^2 \quad \text{[Pythagoras]}$$
+$$p^2 = 900 - (t - 30)^2$$
+$$p^2 = 900 - (t^2 - 60t + 900)$$
+$$p^2 = 900 - t^2 + 60t - 900$$
+$$p^2 = 60t - t^2$$
+
+* $\checkmark p^2 = 900 - (t - 30)^2$
+* $\checkmark (t^2 - 60t + 900)$
+* $\checkmark p^2 = 60t - t^2$
+
+**(3)**
+
+---
+
+9.2 
+$$V(t) = \frac{1}{3}\pi r^2 t = \frac{1}{3}\pi (60t - t^2)t = 20\pi t^2 - \frac{1}{3}\pi t^3$$
+
+* $\checkmark$ substitution
+
+**(1)**
+
+---
+
+9.3 
+$$V(t) = 20\pi t^2 - \frac{1}{3}\pi t^3$$
+$$V'(t) = 40\pi t - \pi t^2$$
+$$40\pi t - \pi t^2 = 0$$
+$$t(40\pi - t\pi) = 0$$
+$$t = 0 \quad \text{or} \quad t = 40\text{ cm}$$
+
+* $\checkmark 40\pi t$
+* $\checkmark -\pi t^2$
+* $\checkmark$ answer with selection
+
+**(3)**
+
+---
+
+9.4 
+$$\text{Volume of cone} = 20\pi(40)^2 - \frac{1}{3}\pi(40)^3 = 10\ 666,67\pi \text{ or } 33\ 510,33211$$
+$$\text{Volume of sphere} = \frac{4}{3}\pi r^3 = \frac{4}{3}\pi (30)^3 = 36\ 000\pi \text{ or } 113\ 097,3355$$
+$$\frac{10\ 666,67\pi}{36\ 000\pi} = 0,296296 \approx 29,63\%$$
+
+* $\checkmark$ volume of cone
+* $\checkmark$ volume of sphere
+* $\checkmark \frac{10\ 666,67\pi}{36\ 000\pi}$
+* $\checkmark \%$ cut out
+
+**(4)**
+
+**[12]**
+
+---
+
+### QUESTION / VRAAG 10
+
+10.1 
+$$10! = 3\ 628\ 800$$
+
+* $\checkmark 10!$
+* $\checkmark$ answer
+
+**(2)**
+
+---
+
+10.2 
+$$4! \times 7! = 120\ 960$$
+
+**OR / OF**
+$$4! \times 6! \times 7 = 120\ 960$$
+
+* $\checkmark 4!$
+* $\checkmark 7!$
+* $\checkmark 4! \times 7! \text{ or } 120\ 960$
+
+**(3)**
+
+---
+
+10.3 
+$$\frac{6!}{10!} = \frac{1}{5040} \quad \text{or} \quad 0,000198$$
+
+* $\checkmark 6!$
+* $\checkmark \frac{6!}{10!} \text{ or } \frac{1}{5040} \text{ or } 0,000198$
+
+**(2)**
+
+**[7]**
+
+---
+
+### QUESTION / VRAAG 11
+
+11.1 
+$$P(\text{tennis}) \times P(\le 35\text{ years}) = P(\text{tennis and} \le 35\text{ years})$$
+$$\frac{21}{140} \times \frac{80}{140} = \frac{a}{140}$$
+$$a = 12$$
+
+* $\checkmark$ statement
+* $\checkmark$ substitution
+* $\checkmark$ answer
+
+**(3)**
+
+---
+
+11.2 
+$$P(\text{gym or} \le 35\text{ years}) = P(\text{gym}) + P(\le 35\text{ years}) - P(\text{gym and} \le 35\text{ years})$$
+$$= \frac{70}{140} + \frac{80}{140} - \frac{40}{140}$$
+$$= \frac{110}{140} = \frac{11}{14} \quad \text{or} \quad 0,79$$
+
+* $\checkmark$ statement
+* $\checkmark \frac{70}{140}$
+* $\checkmark \frac{80}{140}$
+* $\checkmark \frac{40}{140}$
+* $\checkmark \frac{110}{140} \text{ or } \frac{11}{14} \text{ or } 0,79$
+
+**(5)**
+
+**[8]**
+
+---
+**TOTAL / TOTAAL: 150**

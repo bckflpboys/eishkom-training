@@ -1,0 +1,131 @@
+# NATIONAL SENIOR CERTIFICATE / NASIONALE SENIOR SERTIFIKAAT
+
+**GRADE / GRAAD 12**
+
+**MATHEMATICS P2 / WISKUNDE V2**
+
+**NOVEMBER 2018**
+
+**MARKING GUIDELINES / NASIENRIGLYNE**
+
+---
+
+### NOTE:
+* If a candidate answers a question TWICE, only mark the FIRST attempt.
+* If a candidate has crossed out an attempt of a question and not redone the question, mark the crossed out version.
+* Consistent accuracy applies in ALL aspects of the marking memorandum. Stop marking at the second calculation error.
+* Assuming answers/values in order to solve a problem is NOT acceptable.
+
+### NOTA:
+* As 'n kandidaat 'n vraag TWEE KEER beantwoord, sien slegs die EERSTE poging na.
+* As 'n kandidaat 'n antwoord van 'n vraag doodtrek en nie oordoen nie, sien die doodgetrekte poging na.
+* Volgehoue akkuraatheid word in ALLE aspekte van die nasienriglyne toegepas. Hou op nasien by die tweede berekeningsfout.
+* Om antwoorde/waardes te aanvaar om 'n probleem op te los, word NIE toegelaat NIE.
+
+---
+
+### GEOMETRY • MEETKUNDE
+
+| | |
+| :---: | :--- |
+| **S** | A mark for a correct statement<br>(A statement mark is independent of a reason)<br><br>'n Punt vir 'n korrekte bewering<br>('n Punt vir 'n bewering is onafhanklik van die rede) |
+| **R** | A mark for the correct reason<br>(A reason mark may only be awarded if the statement is correct)<br><br>'n Punt vir 'n korrekte rede<br>('n Punt word slegs vir die rede toegeken as die bewering korrek is) |
+| **S/R** | Award a mark if statement AND reason are both correct<br><br>Ken 'n punt toe as die bewering EN rede beide korrek is |
+
+---
+
+## QUESTION / VRAAG 1
+
+| 1.1.1 | 140 items | ✓ answer | (1) |
+| :---: | :--- | :--- | :---: |
+| 1.1.2 | Modal class / modale klas: $20 < x \le 30 \text{ minutes}$<br>**OR / OF**<br>$20 \le x < 30 \text{ minutes}$ | ✓ answer<br><br>✓ answer | (1) |
+| 1.1.3 | Number of minutes taken = 20 minutes | ✓ answer | (1) |
+| 1.1.4 | $140 - 126 \text{ [Accept: } 124 \text{ to } 128]$<br>14 orders (12 to 16) | ✓ 126<br>✓ answer | (2) |
+| 1.1.5 | $75^{\text{th}}$ percentile is at 105 items<br>= 37 minutes [accept $36 - 38$ minutes] | ✓ 105<br>✓ answer | (2) |
+| 1.1.6 | Lower quartile is at 35 items<br>= 21,5 min [accept $21 - 23$ min]<br>$\text{IQR} = 37 - 21,5$<br> $\quad = 15,5 \text{ min [accept } 13 - 17 \text{ min]}$ | ✓ lower quartile ($Q_1$)<br>✓ answer | (2) |
+
+$$\begin{array}{ccccc} 35 & 70 & 75 & 80 & 80 \\ 90 & 100 & 100 & 105 & 105 \\ 110 & 110 & 115 & 120 & 125 \end{array}$$
+
+| 1.2.1(a) | $\bar{x} = \frac{1420}{15}$<br> $\quad = \text{R}94,666\dots = \text{R}94,67$ | ✓ 1420<br>✓ answer | (2) |
+| :---: | :--- | :--- | :---: |
+| 1.2.1(b) | $\sigma = \text{R}22,691\dots = \text{R}22,69$ | ✓✓ answer | (2) |
+| 1.2.2(a) | They both collected the same (equal) amount in tips, i.e. R1 420 over the 15-day period.<br><br>*Hulle albei het dieselfde bedrag met fooitjies ontvang, nl. R1 420 oor die 15 dae-tydperk* | ✓ answer | (1) |
+| 1.2.2(b) | Mary's standard deviation is smaller than Reggie's which suggests that there was greater variation in the amount of tips that Reggie collected each day compared to the number of tips that Mary collected each day.<br><br>*Marie se standaardafwyking is kleiner as Reggie s'n wat beteken dat daar groter variasie/verspreiding in die fooitjies was wat Reggie elke dag ontvang het in vergelyking met die getal fooitjies wat Marie elke dag ontvang het.* | ✓ explanation | (1) |
+| | | | **[15]** |
+
+---
+
+## QUESTION / VRAAG 2
+
+| 2.1 | $251 \text{ km/h}$ | ✓ answer | (1) |
+| :---: | :--- | :--- | :---: |
+| 2.2.1 | $r = 0,52 \quad \text{OR} \quad C$ | ✓ answer | (1) |
+| 2.2.2 | The points are fairly scattered and the least squares regression line is increasing.<br><br>*Die punte is redelik verspreid en die kleinstekwadrate-regressielyn neem toe.* | ✓ reason | (1) |
+| 2.3 | There is a weak positive relation hence the height could have an influence<br><br>*Daar is 'n swak positiewe verband, tog kan die lengte 'n invloed hê.*<br>**OR / OF**<br>There is no conclusive evidence that the height of a player will influence his/her tennis serve speed.<br><br>*Daar is geen duidelike bewys dat die lengte van die speler sy/haar afslaanspoed kan beïnvloed nie.*<br>**OR / OF**<br>There is no conclusive evidence that a taller person will serve faster than a shorter person.<br><br>*Daar is geen duidelike bewys dat 'n langer speler vinniger sal afslaan as 'n korter een nie.* | ✓ answer<br><br>✓ answer<br><br>✓ answer | (1) |
+| 2.4 | For $(0 ; 27,07)$, it means that the player has a height of $0\text{ m}$ but can serve at a speed of $27,07\text{ km/h}$. It is impossible for a person to have a height of $0\text{ m}$.<br><br>$(0 ; 27,07)$ *beteken dat 'n speler 'n lengte van $0\text{ m}$ kan hê en teen 'n spoed van $27,07\text{ km/h}$ kan afslaan. Dit is onmoontlik om 'n lengte van $0\text{ m}$ te hê.*<br>**OR / OF**<br>This means that the player does not exist and therefore cannot serve and have a serve speed.<br><br>*Dit beteken dat die speler nie bestaan nie en daarom nie kan afslaan en 'n afslaanspoed hê nie.* | ✓ explanation<br><br>✓ explanation | (1) |
+| | | | **[5]** |
+
+---
+
+## QUESTION / VRAAG 3
+
+| 3.1.1 | $\begin{aligned} m_{KN} &= \frac{y_2 - y_1}{x_2 - x_1} \\ m_{KN} &= \frac{2 - (-1)}{-1 - 1} \\ &= -\frac{3}{2} \end{aligned}$ | ✓ correct substitution<br>✓ answer | (2) |
+| :---: | :--- | :--- | :---: |
+| 3.1.2 | $\begin{aligned} \tan \theta &= m_{KN} = -\frac{3}{2} \\ \theta &= 180^{\circ} - 56,31^{\circ} \\ \theta &= 123,69^{\circ} \end{aligned}$ | $\begin{aligned} &\text{✓ } \tan \theta = m_{KN} = -\frac{3}{2} \\ &\text{✓ answer} \end{aligned}$ | (2) |
+| 3.2 | $\text{Inclination } KL = 123,69^{\circ} - 78,69^{\circ} = 45^{\circ} \text{ [ext } \angle \Delta]$<br>$\tan 45^{\circ} = m_{KL} = 1$ | $\begin{aligned} &\text{✓ } S \\ &\text{✓ } \tan 45^{\circ} = m_{KL} = 1 \end{aligned}$ | (2) |
+| 3.3 | $\begin{aligned} y &= x + c \\ 2 &= -1 + c \\ c &= 3 \\ y &= x + 3 \end{aligned}$<br>**OR / OF**<br>$\begin{aligned} y - y_1 &= l(x - x_1) \\ y - 2 &= 1(x - (-1)) \\ y &= x + 3 \end{aligned}$ | $\begin{aligned} &\text{✓ substitute } (-1 ; 2) \text{ and } m \\ &\text{✓ equation} \end{aligned}$<br><br>$\begin{aligned} &\text{✓ substitute } (-1 ; 2) \text{ and } m \\ &\text{✓ equation} \end{aligned}$ | (2) |
+| 3.4 | $\begin{aligned} KN &= \sqrt{(1 + 1)^2 + (-1 - 2)^2} \\ KN &= \sqrt{13} \text{ or } 3,61 \end{aligned}$ | $\begin{aligned} &\text{✓ substitute } K \text{ and } N \text{ into} \\ &\quad \text{distance formula} \\ &\text{✓ answer} \end{aligned}$ | (2) |
+
+---
+
+| 3.5.1 | $\begin{aligned} (x + 3)^2 + (y + 5)^2 &= 13 \quad \dots(1) \\ \text{L is a point } &\text{on } KL \\ y &= x + 3 \quad \dots(2) \end{aligned}$<br>(2) in (1):<br>$(x + 3)^2 + (x + 3 + 5)^2 = 13$<br>$x^2 + 6x + 9 + x^2 + 16x + 64 = 13$<br>$2x^2 + 22x + 60 = 0$<br>$x^2 + 11x + 30 = 0$<br>$(x + 5)(x + 6) = 0$<br>$x = -5 \text{ or } x = -6$<br>$y = -2 \text{ or } y = -3$<br>$L(-5 ; -2) \text{ or } (-6 ; -3)$<br>**OR / OF**<br>$\begin{aligned} (x + 3)^2 + (y + 5)^2 &= 13 \quad \dots(1) \\ \text{L is a point } &\text{on } KL \\ y = x + 3 \quad &\therefore x = y - 3 \quad \dots(2) \end{aligned}$<br>(2) in (1):<br>$(y - 3 + 3)^2 + (y + 5)^2 = 13$<br>$y^2 + y^2 + 10y + 25 = 13$<br>$2y^2 + 10y + 12 = 0$<br>$y^2 + 5y + 6 = 0$<br>$(y + 2)(y + 3) = 0$<br>$y = -2 \text{ or } y = -3$<br>$x = -5 \text{ or } x = -6$<br>$L(-5 ; -2) \text{ or } (-6 ; -3)$ | $\begin{aligned} &\text{✓ equation (1)} \\ &\text{✓ substituting eq (2)} \\ &\text{✓ standard form} \\ &\text{✓ } x\text{-values} \\ &\text{✓ } y\text{-values} \end{aligned}$<br><br><br><br><br><br><br><br><br>$\begin{aligned} &\text{✓ equation (1)} \\ &\text{✓ substituting eq (2)} \\ &\text{✓ standard form} \\ &\text{✓ } y\text{-values (both)} \\ &\text{✓ } x\text{-values (both)} \end{aligned}$ | (5) |
+| :---: | :--- | :--- | :---: |
+| 3.5.2 | $\begin{aligned} &\text{Midpoint of } KM: (-2 ; -1,5) \\ &\therefore \frac{x_L + 1}{2} = -2 \text{ and } \frac{y_L - 1}{2} = \frac{-3}{2} \\ &\therefore L(-5 ; -2) \end{aligned}$<br>**OR / OF**<br>$\begin{aligned} m_{KN} &= m_{LM} \\ \frac{y - (-5)}{x - (-3)} &= \frac{-1 - 2}{1 - (-1)} \\ 2(x + 3 + 5) &= -3(x + 3) \\ 2x + 16 &= -3x - 9 \\ 5x &= -25 \\ x &= -5 \\ \therefore L(-5 & ; -2) \end{aligned}$<br>**OR / OF**<br>$\begin{aligned} N &\to M: \\ (x ; y) &\to (x - 4 ; y - 4) \\ \therefore L(-1 &- 4 ; 2 - 4) \\ \therefore L(-5 & ; -2) \end{aligned} \quad \begin{aligned} N &\to K: \\ (x ; y) &\to (x - 2 ; y + 3) \\ \therefore L(-3 &- 2 ; -5 + 3) \\ \therefore L(-5 & ; -2) \end{aligned}$ | $\begin{aligned} &\text{✓ midpoint of } KM \\ &\text{✓ } x \text{ value } \checkmark y \text{ value} \end{aligned}$<br><br>$\begin{aligned} &\text{✓ } m_{LM} = m_{KN} \\ &\text{✓ } x \text{ value} \\ &\text{✓ } y \text{ value} \end{aligned}$<br><br>$\begin{aligned} &\text{✓ transformation} \\ &\text{✓ } x \text{ value } \checkmark y \text{ value} \end{aligned}$ | (3) |
+| 3.6 | $\begin{aligned} T(-6 ; &-3) \text{ (from Question 3.5.1)} \\ KT &= \sqrt{(-1 - (-6))^2 + (2 - (-3))^2} \\ &= \sqrt{50} \\ KN &= \sqrt{13} \text{ (CA from 3.4)} \\ \text{Area of } \Delta KTN &= \frac{1}{2} KT \cdot KN \sin L\hat{K}N \\ &= \frac{1}{2} \sqrt{50} \cdot \sqrt{13} \sin 78,69^{\circ} \\ &= 12,50 \text{ square units} \end{aligned}$<br>**OR / OF**<br>$\begin{aligned} \text{In } \Delta KLM: \quad &\frac{TL}{\sin 22,62^{\circ}} = \frac{\sqrt{13}}{\sin 78,69^{\circ}} \\ TL &= 1,414\dots \\ KL &= \sqrt{(-1 - (-5))^2 + (2 - (-2))^2} \\ &= \sqrt{32} \\ \therefore KT &= 7,0708\dots \\ \text{Area of } \Delta KTN &= \frac{1}{2} KT \cdot KN \sin L\hat{K}N \\ &= \frac{1}{2} (7,0708) \cdot \sqrt{13} \sin 78,69^{\circ} \\ &= 12,50 \text{ square units} \end{aligned}$ | $\begin{aligned} &\text{✓ coordinates of } T \\ &\text{✓ length of } KT \\ &\text{✓ substitution into area rule} \\ &\text{✓ answer} \end{aligned}$<br><br><br><br><br><br><br><br><br><br><br>$\begin{aligned} &\text{✓ length of } TL \\ &\text{✓ length of } KT \\ &\text{✓ substitution into area rule} \\ &\text{✓ answer} \end{aligned}$ | (4)<br>**[22]** |
+
+---
+
+## QUESTION / VRAAG 4
+
+| 4.1 | $F(3;1)$ | ✓ $x$ value ✓ $y$ value | (2) |
+| :---: | :--- | :--- | :---: |
+| 4.2 | $\begin{aligned} FS &= \sqrt{(6 - 3)^2 + (5 - 1)^2} \\ FS &= 5 \end{aligned}$ | $\begin{aligned} &\text{✓ substitution of } F \text{ \& } S \\ &\text{✓ answer} \end{aligned}$ | (2) |
+| 4.3 | $\begin{aligned} FH(FS) : HG &= 1 : 2 \\ \therefore HG &= 2\,FH \\ &= 10 \end{aligned}$ | ✓ $HG = 10$ | (1) |
+| 4.4 | Tangents from common/same point /<br>*Raaklyne vanaf gemeenskaplike of dieselfde punt* | ✓ answer | (1) |
+| 4.5.1 | $F\hat{H}J = 90^{\circ} \quad [\text{tan} \perp \text{radius} / \text{rkl} \perp \text{radius}]$<br>$FJ^2 = 20^2 + 5^2 \quad [\text{Pyth theorem/stelling}]$<br>$FJ = \sqrt{425} \text{ or } 5\sqrt{17} \text{ or } 20,62$ | $\begin{aligned} &\text{✓ } S \text{ ✓ } R \\ &\text{✓ } S \\ &\text{✓ answer} \end{aligned}$ | (4) |
+| 4.5.2 | $(x - m)^2 + (y - n)^2 = 100$ | ✓ answer | (1) |
+
+---
+
+| 4.5.3 | $\begin{aligned} K(22; n) &\quad [\text{radius} \perp \text{tangent}] \\ GK = HG = 10 &\quad [\text{radii}] \\ FH = FS = 5 &\quad [\text{radii}] \\ m &= 22 - 10 \\ m &= 12 \end{aligned}$<br>$F, H \text{ and } G \text{ are collinear} \quad [HJ \text{ is a common tangent}]$<br>*$F, H \text{ en } G \text{ is saamlynig} \quad [HJ \text{ is 'n gemeemskaplike raaklyn]$}<br>$\begin{aligned} FG^2 &= (12 - 3)^2 + (n - 1)^2 \\ 15^2 &= 81 + (n - 1)^2 \\ (n - 1)^2 &= 144 \\ n - 1 &= \pm 12 \quad \text{OR/OF} \quad n^2 - 2n - 143 = 0 \\ n \neq 13 &\text{ or } n = -11 \quad \quad (n + 11)(n - 13) = 0 \\ \therefore G(12; -11) &\quad \quad \quad \quad \quad n = -11 \text{ or } n \neq 13 \end{aligned}$<br>**OR / OF**<br>$\begin{aligned} K(22; n) &\quad [\text{radius} \perp \text{tangent}] \\ GK = HG = 10 &\quad [\text{radii}] \\ FH = FS = 5 &\quad [\text{radii}] \\ m &= 22 - 10 \\ m &= 12 \end{aligned}$<br>Let $J(22 ; y)$:<br>$\begin{aligned} FJ^2 &= (22 - 3)^2 + (y - 1)^2 \\ 425 &= 361 + y^2 - 2y + 1 \\ 0 &= y^2 - 2y - 63 \\ 0 &= (y - 9)(y + 7) \\ \therefore y = 9 &\text{ or/of } y \neq -7 \\ \therefore n &= 9 - 20 = -11 \\ \therefore G(12; &-11) \end{aligned}$ | $\begin{aligned} &\text{✓ } K(22; n) \\ &\text{✓ value of } m \\ &\text{✓ subst. of } F \text{ and } G \text{ in distance formula} \\ &\text{✓ } FG = 15 \\ &\text{✓ simplification/standard form} \\ &\text{✓ value of } n \\ &\text{✓ coordinates of } G \end{aligned}$<br><br><br><br><br><br><br>$\begin{aligned} &\text{✓ } K(22; n) \\ &\text{✓ value of } m \\ &\text{✓ subst. of } F \text{ and } J \text{ in distance formula} \\ &\text{✓ } FJ = \sqrt{425} \\ &\text{✓ standard form} \\ &\text{✓ value of } n \\ &\text{✓ coordinates of } G \end{aligned}$ | (7)<br>**[18]** |
+
+---
+
+## QUESTION / VRAAG 5
+
+| 5.1.1 | $\begin{aligned} k^2 &= (\sqrt{5})^2 - 1^2 \\ &= 4 \\ k &= -2 \end{aligned}$ | $\begin{aligned} &\text{✓ substitution into theorem of Pythagoras} \\ &\text{✓ answer} \end{aligned}$ | (2) |
+| :---: | :--- | :--- | :---: |
+| 5.1.2(a) | $\tan \theta = -\frac{1}{2}$ | ✓ answer | (1) |
+| 5.1.2(b) | $\begin{aligned} \cos(180^{\circ} + \theta) &= -\cos \theta \\ &= -\left(-\frac{2}{\sqrt{5}}\right) = \frac{2}{\sqrt{5}} \end{aligned}$ | $\begin{aligned} &\text{✓ reduction} \\ &\text{✓ answer} \end{aligned}$ | (2) |
+| 5.1.2(c) | $\begin{aligned} \sin(\theta + 60^{\circ}) &= \frac{a + b}{\sqrt{20}} \\ \text{LHS} &= \sin \theta \cos 60^{\circ} + \cos \theta \sin 60^{\circ} \\ &= \left(-\frac{1}{\sqrt{5}}\right)\left(\frac{1}{2}\right) + \left(-\frac{2}{\sqrt{5}}\right)\left(\frac{\sqrt{3}}{2}\right) \\ &= \frac{-1 - 2\sqrt{3}}{2\sqrt{5}} \\ &= \frac{-1 - 2\sqrt{3}}{\sqrt{20}} \end{aligned}$ | $\begin{aligned} &\text{✓ expansion} \\ &\text{✓ subst of } \sin \theta \\ &\text{✓ subst of } \cos \theta \\ &\text{✓ both special } \angle\text{s} \\ &\text{✓ } \frac{-1 - 2\sqrt{3}}{2\sqrt{5}} \end{aligned}$ | (5) |
+| 5.1.3 | $\begin{aligned} \tan \theta &= -\frac{1}{2} \\ \therefore \theta &= 180^{\circ} - 26,57^{\circ} \\ \therefore \theta &= 153,43^{\circ} \\ \tan(2\theta - 40^{\circ}) &= \tan[(2 \times 153,43^{\circ}) - 40^{\circ}] \\ &= \tan 266,87^{\circ} \\ &= 18,3 \end{aligned}$ | $\begin{aligned} &\text{✓ } \theta \\ &\text{✓ substitution} \\ &\text{✓ answer} \end{aligned}$ | (3) |
+
+---
+
+| 5.2 | $\begin{aligned} \text{LHS} &= \frac{\cos x + \sin x}{\cos x - \sin x} - \frac{\cos x - \sin x}{\cos x + \sin x} \quad \text{RHS} = 2 \tan 2x \\ &= \frac{(\cos x + \sin x)^2 - (\cos x - \sin x)^2}{(\cos x - \sin x)(\cos x + \sin x)} \\ &= \frac{\cos^2 x + 2\sin x \cos x + \sin^2 x - (\cos^2 x - 2\sin x \cos x - \sin^2 x)}{\cos^2 x - \sin^2 x} \\ &= \frac{2(2\sin x \cos x)}{\cos^2 x - \sin^2 x} \\ &= \frac{2 \sin 2x}{\cos 2x} \\ &= 2 \tan 2x \\ &= \text{RHS} \end{aligned}$<br>**OR / OF**<br>$\begin{aligned} \text{LHS} &= \frac{\cos x + \sin x}{\cos x - \sin x} - \frac{\cos x - \sin x}{\cos x + \sin x} \quad \text{RHS} = 2 \tan 2x \\ &= \frac{(\cos x + \sin x)^2 - (\cos x - \sin x)^2}{(\cos x - \sin x)(\cos x + \sin x)} \\ &= \frac{[(\cos x + \sin x) + (\cos x - \sin x)][(\cos x + \sin x) - (\cos x - \sin x)]}{\cos^2 x - \sin^2 x} \\ &= \frac{(2\cos x)(2\sin x)}{\cos^2 x - \sin^2 x} \\ &= \frac{2(2\sin x \cos x)}{\cos^2 x - \sin^2 x} \\ &= \frac{2 \sin 2x}{\cos 2x} \\ &= 2 \tan 2x \\ &= \text{RHS} \end{aligned}$<br>**OR / OF**<br>$\begin{aligned} \text{RHS} &= 2 \tan 2x \\ &= \frac{2 \sin 2x}{\cos 2x} \\ &= \frac{2(2 \sin x \cos x)}{\cos^2 x - \sin^2 x} \\ &= \frac{4\sin x \cos x}{\cos^2 x - \sin^2 x} \\ &= \frac{1 + 2\sin x \cos x - (1 - 2\sin x \cos x)}{\cos^2 x - \sin^2 x} \\ &= \frac{(\cos x + \sin x)^2 - (\cos x - \sin x)^2}{(\cos x + \sin x)(\cos x - \sin x)} \\ &= \frac{(\cos x + \sin x)^2}{(\cos x + \sin x)(\cos x - \sin x)} - \frac{(\cos x - \sin x)^2}{(\cos x + \sin x)(\cos x - \sin x)} \\ &= \frac{\cos x + \sin x}{\cos x - \sin x} - \frac{\cos x - \sin x}{\cos x + \sin x} = \text{LHS} \end{aligned}$ | $\begin{aligned} &\text{✓ single fraction} \\ &\text{✓ expansion} \\ &\text{✓ simplification (both)} \\ &\text{✓ double } \angle \text{ identity} \\ &\text{✓ double } \angle \text{ identity} \end{aligned}$<br><br><br><br><br><br>$\begin{aligned} &\text{✓ single fraction} \\ &\text{✓ difference of two squares} \\ &\text{✓ simplification (both)} \\ &\text{✓ double } \angle \text{ identity} \\ &\text{✓ double } \angle \text{ identity} \end{aligned}$<br><br><br><br><br><br>$\begin{aligned} &\text{✓ double } \angle \text{ identity} \\ &\text{✓ double } \angle \text{ identity} \\ &\text{✓ identity \& method} \\ &\text{✓ factorising numerator and denominator} \\ &\text{✓ writing as 2 terms} \end{aligned}$ | (5) |
+
+---
+
+| 5.3 | $\begin{aligned} \sum_{A=38^{\circ}}^{52^{\circ}} \cos^2 A &= \cos^2 38^{\circ} + \cos^2 39^{\circ} + \cos^2 40^{\circ} + \dots + \cos^2 51^{\circ} + \cos^2 52^{\circ} \\ &= \sin^2 52^{\circ} + \sin^2 51^{\circ} + \sin^2 50^{\circ} + \dots + \cos^2 51^{\circ} + \cos^2 52^{\circ} \\ &= 7(1) + \cos^2 45^{\circ} \\ &= 7 + \left(\frac{\sqrt{2}}{2}\right)^2 \text{ or } = 7 + \left(\frac{1}{\sqrt{2}}\right)^2 \\ &= 7\frac{1}{2} \end{aligned}$<br>**OR / OF**<br>$\begin{aligned} \sum_{A=38^{\circ}}^{52^{\circ}} \cos^2 A &= \cos^2 38^{\circ} + \cos^2 39^{\circ} + \cos^2 40^{\circ} + \dots + \cos^2 51^{\circ} + \cos^2 52^{\circ} \\ &= (\cos^2 38^{\circ} + \sin^2 52^{\circ}) + (\cos^2 39^{\circ} + \sin^2 51^{\circ})\dots + \cos^2 45^{\circ} \\ &= 7(1) + \cos^2 45^{\circ} \\ &= 7 + \left(\frac{\sqrt{2}}{2}\right)^2 \text{ or } = 7 + \left(\frac{1}{\sqrt{2}}\right)^2 \\ &= 7\frac{1}{2} \end{aligned}$ | $\begin{aligned} &\text{✓ expansion} \\ &\text{✓ co ratio} \\ &\text{✓ } \cos^2 45^{\circ} \\ &\text{✓ } 7 \times \text{ identity} \\ &\text{✓ answer} \end{aligned}$<br><br><br><br>$\begin{aligned} &\text{✓ expansion} \\ &\text{✓ pairing} \\ &\text{✓ } \cos^2 45^{\circ} \\ &\text{✓ } 7 \times \text{ identity} \\ &\text{✓ answer} \end{aligned}$ | (5)<br>**[23]** |
+
+---
+
+## QUESTION / VRAAG 6
+
+| 6.1 | $\text{Period} = 120^{\circ}$ | ✓ answer | (1) |
+| :---: | :--- | :--- | :---: |
+| 6.2 | $\begin{aligned} 2 &= -2 \tan \frac{3}{2}x \\ \tan\left(\frac{3}{2}t\right) &= -1 \end{aligned}$<br>$\begin{aligned} \frac{3}{2}t &= 135^{\circ} + k.180^{\circ} \\ t &= 90^{\circ} + k.120^{\circ} \; ; k \in \mathbb{Z} \end{aligned}$<br>**OR / OF**<br>$\begin{aligned} \frac{3}{2}t &= -45^{\circ} + k.180^{\circ} \\ t &= -30^{\circ} + k.120^{\circ} \; ; k \in \mathbb{Z} \end{aligned}$<br>**OR / OF**<br>$\begin{aligned} \frac{3}{2}t &= 135^{\circ} + k.360^{\circ} \quad \text{or/of} \quad \frac{3}{2}t = 315^{\circ} + k.360^{\circ} \\ t &= 90^{\circ} + k.240^{\circ} \text{ or.of } t = 210^{\circ} + k.240^{\circ} \; ; k \in \mathbb{Z} \end{aligned}$ | $\begin{aligned} &\text{✓ equating} \\ &\text{✓ general solution of } \frac{3}{2}t \\ &\text{✓ general solution of } t \end{aligned}$ | (3) |
+
+---
+
+| 6.3 | 

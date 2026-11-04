@@ -1,0 +1,620 @@
+# NATIONAL SENIOR CERTIFICATE / NASIONALE SENIOR SERTIFIKAAT
+
+**GRADE 12 / GRAAD 12**
+
+**MATHEMATICS P1 / WISKUNDE V1**
+**NOVEMBER 2022**
+**MARKING GUIDELINES / NASIENRIGLYNE**
+
+---
+
+**NOTE:**
+* If a candidate answers a question TWICE, only mark the FIRST attempt.
+* Consistent Accuracy applies in all aspects of the marking guidelines.
+
+**LET WEL:**
+* Indien 'n kandidaat 'n vraag TWEE keer beantwoord, sien slegs die EERSTE poging na.
+* Volgehoue akkuraatheid is DEURGAANS op ALLE aspekte van die nasienriglyne van toepassing.
+
+---
+
+## QUESTION 1 / VRAAG 1
+
+1.1.1 
+$$\begin{aligned}
+&(3x - 6)(x + 2) = 0 \\
+&x = 2 \quad \text{or} \quad x = -2
+\end{aligned}$$
+* $\checkmark x = 2$
+* $\checkmark x = -2$ &nbsp;&nbsp;&nbsp;&nbsp; (2)
+
+1.1.2 
+$$\begin{aligned}
+&2x^2 - 6x + 1 = 0 \\
+&x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} \\
+&x = \frac{-(-6) \pm \sqrt{(-6)^2 - 4(2)(1)}}{2(2)} \\
+&x = 2,82 \quad \text{or} \quad x = 0,18
+\end{aligned}$$
+* $\checkmark$ correct substitution into correct formula
+* $\checkmark 2,82$
+* $\checkmark 0,18$ &nbsp;&nbsp;&nbsp;&nbsp; (3)
+
+1.1.3 
+$$\begin{aligned}
+&x^2 - 90 > x \\
+&x^2 - x - 90 > 0 \\
+&(x + 9)(x - 10) > 0 \\
+&\text{CV:} \quad x = -9 \quad \text{or} \quad x = 10 \\
+&x < -9 \quad \text{or} \quad x > 10 \\
+&\textbf{OR/OF} \\
+&(-\infty; -9) \text{ or } (10; \infty)
+\end{aligned}$$
+* $\checkmark$ standard form
+* $\checkmark$ critical values
+* $\checkmark\checkmark x < -9 \text{ or } x > 10$ &nbsp;&nbsp;&nbsp;&nbsp; (4)
+
+1.1.4 
+$$\begin{aligned}
+&x - 7\sqrt{x} = -12 \\
+&x + 12 = 7\sqrt{x} \\
+&(x + 12)^2 = (7\sqrt{x})^2 \\
+&x^2 + 24x + 144 = 49x \\
+&x^2 - 25x + 144 = 0 \\
+&(x - 16)(x - 9) = 0 \\
+&x = 16 \quad \text{or} \quad x = 9 \\
+&\textbf{OR/OF} \\
+&x - 7\sqrt{x} + 12 = 0 \\
+&(\sqrt{x} - 3)(\sqrt{x} - 4) = 0 \quad \text{or let } \sqrt{x} = k \\
+&\sqrt{x} = 3 \quad \text{or} \quad \sqrt{x} = 4 \\
+&x = 9 \quad \text{or} \quad x = 16
+\end{aligned}$$
+* $\checkmark$ isolating the root
+* $\checkmark$ squaring both sides
+* $\checkmark$ standard form
+* $\checkmark$ both answers &nbsp;&nbsp;&nbsp;&nbsp; (4)
+
+**OR/OF**
+* $\checkmark$ standard form
+* $\checkmark$ factors
+* $\checkmark$ answers
+* $\checkmark$ both answers for $x$ &nbsp;&nbsp;&nbsp;&nbsp; (4)
+
+---
+
+1.2 
+$$\begin{aligned}
+&2x - y = 2 \\
+&y = 2x - 2 \qquad \text{--- (1)} \\
+&xy = 4 \qquad \text{--- (2)} \\
+&\text{(1) in (2):} \\
+&x(2x - 2) = 4 \\
+&2x^2 - 2x - 4 = 0 \\
+&x^2 - x - 2 = 0 \\
+&(x - 2)(x + 1) = 0 \\
+&x = 2 \quad \text{or} \quad x = -1 \\
+&y = 2 \quad y = -4
+\end{aligned}$$
+* $\checkmark \text{eq 1}$
+* $\checkmark$ substitution
+* $\checkmark$ standard form
+* $\checkmark x$-values
+* $\checkmark y$-values &nbsp;&nbsp;&nbsp;&nbsp; (5)
+
+**OR/OF**
+$$\begin{aligned}
+&2x - y = 2 \\
+&x = \frac{1}{2}y + 1 \qquad \text{--- (1)} \\
+&xy = 4 \qquad \text{--- (2)} \\
+&\text{(1) in (2):} \\
+&y\left(\frac{1}{2}y + 1\right) = 4 \\
+&\frac{1}{2}y^2 + y - 4 = 0 \\
+&y^2 + 2y - 8 = 0 \\
+&(y + 4)(y - 2) = 0 \\
+&y = -4 \quad \text{or} \quad y = 2 \\
+&x = -1 \quad x = 2
+\end{aligned}$$
+* $\checkmark \text{eq 1}$
+* $\checkmark$ substitution
+* $\checkmark$ standard form
+* $\checkmark y$-values
+* $\checkmark x$-values &nbsp;&nbsp;&nbsp;&nbsp; (5)
+
+**OR/OF**
+$$\begin{aligned}
+&2x - y = 2 \qquad \text{--- (1)} \\
+&y = \frac{4}{x} \qquad \text{--- (2)} \\
+&\text{(2) in (1):} \\
+&2x - \frac{4}{x} = 2 \\
+&2x^2 - 2x - 4 = 0 \\
+&x^2 - x - 2 = 0 \\
+&(x - 2)(x + 1) = 0 \\
+&x = 2 \quad \text{or} \quad x = -1 \\
+&y = 2 \quad y = -4
+\end{aligned}$$
+* $\checkmark \text{eq 2}$
+* $\checkmark$ substitution
+* $\checkmark$ standard form
+* $\checkmark x$-values
+* $\checkmark y$-values &nbsp;&nbsp;&nbsp;&nbsp; (5)
+
+**OR/OF**
+$$\begin{aligned}
+&2x - y = 2 \qquad \text{--- (1)} \\
+&x = \frac{4}{y} \qquad \text{--- (2)} \\
+&\text{(2) in (1):} \\
+&2\left(\frac{4}{y}\right) - y = 2 \\
+&8 - y^2 - 2y = 0 \\
+&y^2 + 2y - 8 = 0 \\
+&(y + 4)(y - 2) = 0 \\
+&y = -4 \quad \text{or} \quad y = 2 \\
+&x = -1 \quad x = 2
+\end{aligned}$$
+* $\checkmark \text{eq 2}$
+* $\checkmark$ substitution
+* $\checkmark$ standard form
+* $\checkmark y$-values
+* $\checkmark x$-values &nbsp;&nbsp;&nbsp;&nbsp; (5)
+
+**OR/OF**
+$$\begin{aligned}
+&2x - y = 2 \qquad \text{--- (1)} \\
+&x = \frac{y + 2}{2} \qquad \text{--- (2)} \\
+&\text{(2) in (1):} \\
+&\text{(or equivalent steps leading to solutions)}
+\end{aligned}$$
+
+---
+
+1.3 
+$$\begin{aligned}
+&2 \cdot 5^n - 5^{n+1} + 5^{n+2} = 2 \cdot 5^n - 5^n \cdot 5^1 + 5^n \cdot 5^2 \\
+&= 5^n(2 - 5 + 25) \\
+&= 5^n(22) \\
+&= 2 \cdot 5^n(11)
+\end{aligned}$$
+**OR/OF**
+Any integer multiplied by an even number will be even.
+* $\checkmark \text{exp law}$
+* $\checkmark \text{common factor}$
+* $\checkmark \text{answer/explanation}$ &nbsp;&nbsp;&nbsp;&nbsp; (3)
+
+---
+
+1.4 
+$$\begin{aligned}
+&\frac{3^{y+1}}{32} = \sqrt{96^x} \\
+&\frac{3^{y+1}}{2^5} = (96)^{\frac{x}{2}} \\
+&3^{y+1} \cdot 2^{-5} = 2^{\frac{5x}{2}} \cdot 3^{\frac{x}{2}} \\
+&-5 = \frac{5x}{2} \implies x = -2 \\
+&y + 1 = \frac{x}{2} \\
+&y + 1 = \frac{-2}{2} \\
+&\therefore y = -2
+\end{aligned}$$
+* $\checkmark \frac{3^{y+1}}{2^5} = (96)^{\frac{x}{2}}$
+* $\checkmark 3^{y+1} \cdot 2^{-5} = 2^{\frac{5x}{2}} \cdot 3^{\frac{x}{2}}$
+* $\checkmark x = -2$
+* $\checkmark y = -2$ &nbsp;&nbsp;&nbsp;&nbsp; (4)
+
+**OR/OF**
+$$\begin{aligned}
+&\frac{3^{y+1}}{32} = \sqrt{96^x} \\
+&\left(\frac{3^{y+1}}{2^5}\right)^2 = (\sqrt{96^x})^2 \\
+&\frac{3^{2y+2}}{2^{10}} = 2^{5x} \cdot 3^x \\
+&3^{2y+2} \cdot 2^{-10} = 2^{5x} \cdot 3^x \\
+&-10 = 5x \implies x = -2 \\
+&2y + 2 = -2 \implies y = -2
+\end{aligned}$$
+* $\checkmark \left(\frac{3^{y+1}}{2^5}\right)^2 = (\sqrt{96^x})^2$
+* $\checkmark 3^{2y+2} \cdot 2^{-10} = 2^{5x} \cdot 3^x$
+* $\checkmark x = -2$
+* $\checkmark y = -2$ &nbsp;&nbsp;&nbsp;&nbsp; (4)
+
+**[25]**
+
+---
+
+## QUESTION 2 / VRAAG 2
+
+2.1.1 
+$$\begin{aligned}
+&a = 14 \\
+&T_6 = 14r^5 = 448 \\
+&r^5 = 32 \\
+&\therefore r = 2
+\end{aligned}$$
+* $\checkmark 14r^5 = 448$
+* $\checkmark r = 2$ &nbsp;&nbsp;&nbsp;&nbsp; (2)
+*(Answer only: full marks)*
+
+2.1.2 
+$$\begin{aligned}
+&T_n = 14(2)^{n-1} \\
+&S_n = \frac{14(2^6 - 1)}{2 - 1} \\
+&S_6 = 882 \\
+&114\ 674 - 882 = 113\ 792 \\
+&113\ 792 = 896(2^n - 1) \\
+&128 = 2^n \\
+&n = 7
+\end{aligned}$$
+**OR/OF**
+$$\begin{aligned}
+&S_n = \frac{a(r^n - 1)}{r - 1} \\
+&114\ 674 = \frac{14(2^n - 1)}{2 - 1} \\
+&8191 = 2^n - 1 \\
+&2^n = 8192 \\
+&n = \log_2 8192 \\
+&n = 13 \\
+&\therefore 7 \text{ more terms must be added to the first 6 terms.}
+\end{aligned}$$
+* $\checkmark$ substitution into correct formula
+* $\checkmark S_6 = 882$
+* $\checkmark 128 = 2^n$
+* $\checkmark 7$ &nbsp;&nbsp;&nbsp;&nbsp; (4)
+
+**OR/OF**
+* $\checkmark$ substitution into correct formula
+* $\checkmark 2^n = 8192$
+* $\checkmark n = 13$
+* $\checkmark 7$ &nbsp;&nbsp;&nbsp;&nbsp; (4)
+
+2.1.3 
+$$\begin{aligned}
+&r = \frac{1}{2} \quad \text{OR} \quad 448r^5 = 14 \implies r = \frac{1}{2} \\
+&S_\infty = \frac{a}{1 - r} \\
+&S_\infty = \frac{448}{1 - \frac{1}{2}} \\
+&S_\infty = 896
+\end{aligned}$$
+* $\checkmark r = \frac{1}{2}$
+* $\checkmark$ substitution
+* $\checkmark$ answer &nbsp;&nbsp;&nbsp;&nbsp; (3)
+*(Answer only: full marks)*
+
+---
+
+2.2 
+$$\begin{aligned}
+&\sum_{p=0}^k \left(\frac{1}{3}p + \frac{1}{6}\right) = 20\frac{1}{6} \\
+&T_1 = \frac{1}{6}, \quad T_2 = \frac{1}{3} + \frac{1}{6} = \frac{3}{6} \\
+&d = \frac{3}{6} - \frac{1}{6} = \frac{1}{3} \\
+&\frac{121}{6} = \frac{n}{2}\left[2\left(\frac{1}{6}\right) + (n - 1)\left(\frac{1}{3}\right)\right] \\
+&\frac{121}{3} = n\left[\frac{1}{3} + \frac{1}{3}n - \frac{1}{3}\right] \\
+&\frac{121}{3} = \frac{1}{3}n^2 \implies 121 = n^2 \\
+&n = 11 \implies k = 10
+\end{aligned}$$
+**OR/OF**
+$$\begin{aligned}
+&a = \frac{1}{6}, \quad l = \frac{1}{3}k + \frac{1}{6}, \quad n = k + 1 \\
+&S_n = \frac{n}{2}[a + l] \\
+&\frac{121}{6} = \frac{k + 1}{2}\left[\frac{1}{6} + \frac{1}{3}k + \frac{1}{6}\right] \\
+&\frac{121}{6} = \frac{k + 1}{2}\left[\frac{1}{3}k + \frac{1}{3}\right] = \frac{k + 1}{2}\left[\frac{k + 1}{3}\right] \\
+&\frac{121}{6} = \frac{(k + 1)^2}{6} \\
+&k + 1 = \pm\sqrt{121} \implies k + 1 = 11 \implies k = 10
+\end{aligned}$$
+* $\checkmark T_1 = \frac{1}{6}$
+* $\checkmark d$
+* $\checkmark$ substitution
+* $\checkmark$ value of $n$
+* $\checkmark$ value of $k$ &nbsp;&nbsp;&nbsp;&nbsp; (5)
+
+**OR/OF**
+* $\checkmark a = \frac{1}{6}$
+* $\checkmark l$
+* $\checkmark n = k + 1$
+* $\checkmark \frac{121}{6} = \frac{(k + 1)^2}{6}$
+* $\checkmark$ value of $k$ &nbsp;&nbsp;&nbsp;&nbsp; (5)
+
+**[14]**
+
+---
+
+## QUESTION 3 / VRAAG 3
+
+3.1 
+$$\begin{aligned}
+&3a + b = 7 \\
+&3 + b = 7 \implies b = 4 \\
+&\textbf{OR/OF} \\
+&T_2 - T_1 = 7 \\
+&4 + 2b + 9 - (1 + b + 9) = 7 \implies b = 4
+\end{aligned}$$
+* $\checkmark 3a + b = 7$
+* $\checkmark 3 + b = 7$ &nbsp;&nbsp;&nbsp;&nbsp; (2)
+
+**OR/OF**
+* $\checkmark T_2 - T_1 = 7$
+* $\checkmark$ substitution &nbsp;&nbsp;&nbsp;&nbsp; (2)
+*(Answer only: full marks)*
+
+3.2 
+$$\begin{aligned}
+&T_n = n^2 + 4n + 9 \\
+&T_{60} = (60)^2 + 4(60) + 9 = 3849
+\end{aligned}$$
+* $\checkmark$ substitution
+* $\checkmark$ answer &nbsp;&nbsp;&nbsp;&nbsp; (2)
+*(Answer only: full marks)*
+
+3.3 
+$$14 ; 21 ; 30 ; 41 ; \dots$$
+First difference: $7 ; 9 ; 11 ; \dots$
+Common $2^{\text{nd}}$ difference: $2$
+$$T_p = 2p + 5$$
+**OR/OF**
+$T_n = a + (n-1)d \implies T_p = 7 + (p - 1)(2) \implies T_p = 2p + 5$
+* $\checkmark \text{first difference}$
+* $\checkmark 2$
+* $\checkmark 2p + 5$ &nbsp;&nbsp;&nbsp;&nbsp; (3)
+
+**OR/OF**
+* $\checkmark \text{first difference}$
+* $\checkmark 2$
+* $\checkmark 2p + 5$ &nbsp;&nbsp;&nbsp;&nbsp; (3)
+
+3.4 
+$$\begin{aligned}
+&157 = 2p + 5 \\
+&p = 76 \\
+&\therefore \text{Between } T_{76} \text{ and } T_{77}
+\end{aligned}$$
+**OR/OF**
+$$\begin{aligned}
+&T_{n+1} - T_n = 157 \\
+&(n + 1)^2 + 4(n + 1) + 9 - (n^2 + 4n + 9) = 157 \\
+&n^2 + 2n + 1 + 4n + 4 + 9 - n^2 - 4n - 9 = 157 \\
+&2n = 152 \implies n = 76 \\
+&\therefore \text{Between } T_{76} \text{ and } T_{77}
+\end{aligned}$$
+* $\checkmark 157 = 2p + 5$
+* $\checkmark p = 76$
+* $\checkmark T_{76} \text{ and } T_{77}$ &nbsp;&nbsp;&nbsp;&nbsp; (3)
+
+**OR/OF**
+* $\checkmark T_{n+1} - T_n = 157$
+* $\checkmark n = 76$
+* $\checkmark T_{76} \text{ and } T_{77}$ &nbsp;&nbsp;&nbsp;&nbsp; (3)
+
+**[10]**
+
+---
+
+## QUESTION 4 / VRAAG 4
+
+4.1.1 $p = -1 \text{ and } q = 2$
+* $\checkmark p = -1$
+* $\checkmark q = 2$ &nbsp;&nbsp;&nbsp;&nbsp; (2)
+
+4.1.2 
+$$\begin{aligned}
+&\frac{1}{x - 1} + 2 = 0 \\
+&-2x + 2 = 1 \\
+&x = \frac{1}{2} \\
+&\left(\frac{1}{2} ; 0\right)
+\end{aligned}$$
+* $\checkmark = 0$
+* $\checkmark$ answer &nbsp;&nbsp;&nbsp;&nbsp; (2)
+
+4.1.3 $x = \frac{1}{2}(-3) = -\frac{5}{2}$
+* $\checkmark -3$
+* $\checkmark -\frac{5}{2}$ &nbsp;&nbsp;&nbsp;&nbsp; (2)
+*(Answer only: full marks)*
+
+4.1.4 
+$$\begin{aligned}
+&y = x + t \\
+&2 = 1 + t \implies t = 1
+\end{aligned}$$
+* $\checkmark \text{subst } (1; 2)$
+* $\checkmark t = 1$ &nbsp;&nbsp;&nbsp;&nbsp; (2)
+
+4.1.5 
+$$\begin{aligned}
+&-2 \le \frac{1}{x - 1} \\
+&\frac{1}{x - 1} + 2 \ge 0 \\
+&\therefore x \le \frac{1}{2} \quad \text{or} \quad x > 1 \\
+&\textbf{OR/OF} \\
+&x \in \left(-\infty; \frac{1}{2}\right] \text{ or } (1; \infty)
+\end{aligned}$$
+* $\checkmark \frac{1}{x - 1} + 2 \ge 0$
+* $\checkmark x \le \frac{1}{2}$
+* $\checkmark x > 1$ &nbsp;&nbsp;&nbsp;&nbsp; (3)
+
+4.2.1 $y = -5$
+* $\checkmark$ answer &nbsp;&nbsp;&nbsp;&nbsp; (1)
+
+4.2.2 
+$$\begin{aligned}
+&x = \frac{-b}{2a} = \frac{-(-4)}{2(1)} = 2 \\
+&f(2) = (2)^2 - 4(2) - 5 = -9 \\
+&\therefore D(2; -9) \\
+&\textbf{OR/OF} \\
+&f'(x) = 2x - 4 = 0 \implies x = 2 \\
+&f(2) = (2)^2 - 4(2) - 5 = -9 \\
+&\therefore D(2; -9)
+\end{aligned}$$
+* $\checkmark x = 2$
+* $\checkmark y = -9$ &nbsp;&nbsp;&nbsp;&nbsp; (2)
+
+**OR/OF**
+* $\checkmark x = 2$
+* $\checkmark y = -9$ &nbsp;&nbsp;&nbsp;&nbsp; (2)
+
+4.2.3 
+$$\begin{aligned}
+&q = -5 \\
+&-9 = a(2)^2 - 5 \\
+&-4 = 4a \implies a = -1 \\
+&\therefore g(x) = -2^x - 5 \quad \text{(Wait, } g(x) = ax^2 - 5 \text{ since it's a parabola)} \\
+&-9 = a(2)^2 - 5 \implies a = -1
+\end{aligned}$$
+* $\checkmark q = -5$
+* $\checkmark$ substitution of $(2; -9)$
+* $\checkmark a = -1$ &nbsp;&nbsp;&nbsp;&nbsp; (3)
+
+4.2.4 $y \in (-\infty; -5) \quad \text{OR} \quad y < -5; y \in \mathbb{R}$
+* $\checkmark$ answer &nbsp;&nbsp;&nbsp;&nbsp; (1)
+
+4.2.5 $k < -9$
+* $\checkmark -9$
+* $\checkmark k < -9$ &nbsp;&nbsp;&nbsp;&nbsp; (2)
+
+**[20]**
+
+---
+
+## QUESTION 5 / VRAAG 5
+
+5.1 $y = 6$
+* $\checkmark y = 6$ &nbsp;&nbsp;&nbsp;&nbsp; (1)
+
+5.2 
+$$\begin{aligned}
+&y = 2x + 6 \\
+&x = 2y + 6 \\
+&y = \frac{1}{2}x - 3
+\end{aligned}$$
+* $\checkmark \text{swop } x \text{ and } y$
+* $\checkmark \text{equation}$ &nbsp;&nbsp;&nbsp;&nbsp; (2)
+*(Answer only: Full marks)*
+
+5.3 
+$$\begin{aligned}
+&\frac{1}{2}x - 3 = 2x + 6 \\
+&x - 6 = 4x + 12 \\
+&3x = -18 \implies x = -6 \\
+&y = -6 \\
+&A(-6; -6) \\
+&\textbf{OR/OF} \\
+&2x + 6 = x \implies x = -6, \quad y = -6
+\end{aligned}$$
+* $\checkmark \text{equating}$
+* $\checkmark x = -6$
+* $\checkmark y = -6$ &nbsp;&nbsp;&nbsp;&nbsp; (3)
+
+**OR/OF**
+* $\checkmark \text{equating}$
+* $\checkmark x = -6$
+* $\checkmark y = -6$ &nbsp;&nbsp;&nbsp;&nbsp; (3)
+
+5.4 
+$$\begin{aligned}
+AB &= \sqrt{(6)^2 + (12)^2} \\
+&= \sqrt{180} = 6\sqrt{5} = 13,42
+\end{aligned}$$
+* $\checkmark \text{substitution}$
+* $\checkmark \text{answer}$ &nbsp;&nbsp;&nbsp;&nbsp; (2)
+
+5.5 
+$$\begin{aligned}
+BC &= \sqrt{6^2 + 6^2} = \sqrt{72} = 6\sqrt{2} \\
+AB &= AC = \sqrt{180} \quad (\text{symmetry of } g \text{ and } g^{-1}) \\
+\perp h &= \sqrt{(\sqrt{180})^2 - \left(\frac{\sqrt{72}}{2}\right)^2} \\
+&= \sqrt{162} = 9\sqrt{2} \\
+\text{area of } \Delta ABC &= \frac{1}{2}BC \times h \\
+&= \frac{1}{2} \times \sqrt{72} \times \sqrt{162} = 54 \text{ units}^2 \\
+&\textbf{OR/OF} \\
+\tan B\hat{D}C &= 2 \implies B\hat{D}C = 63,43^\circ \\
+\tan D\hat{C}A &= \frac{1}{2} \implies D\hat{C}A = 26,57^\circ \\
+\therefore D\hat{A}C &= 36,86^\circ \quad (\text{ext angle triangle}) \\
+\text{Area of } \Delta ABC &= \frac{1}{2}(\sqrt{180})(\sqrt{180})\sin 36,86^\circ = 53,99 \text{ units}^2 \\
+&\textbf{OR/OF} \\
+\text{Area of } \Delta ABC &= \text{Area of } \Delta BDC + \text{Area of } \Delta ADC \\
+&= \frac{1}{2}DC \cdot BO + \frac{1}{2}DC \cdot \text{height} \\
+&= \frac{1}{2}(9)(6) + \frac{1}{2}(9)(6) = 54 \text{ units}^2
+\end{aligned}$$
+* $\checkmark BC$
+* $\checkmark AB = AC / \text{midpoint } (3; 3)$
+* $\checkmark \perp h$ (A)
+* $\checkmark \text{substitution}$
+* $\checkmark \text{answer}$ (A) &nbsp;&nbsp;&nbsp;&nbsp; (5)
+
+**OR/OF**
+* $\checkmark B\hat{D}C = 63,43^\circ$
+* $\checkmark D\hat{A}C = 36,86^\circ$
+* $\checkmark AC = \sqrt{180}$
+* $\checkmark \text{substitution into the correct formula}$
+* $\checkmark \text{answer}$ (A) &nbsp;&nbsp;&nbsp;&nbsp; (5)
+
+**OR/OF**
+* $\checkmark \text{Areas } (\Delta BDC + \Delta ADC)$
+* $\checkmark \frac{1}{2}DC \cdot BO$
+* $\checkmark \frac{1}{2}DC \cdot \text{height}$
+* $\checkmark \text{substitution}$
+* $\checkmark \text{answer}$ (A) &nbsp;&nbsp;&nbsp;&nbsp; (5)
+
+**[13]**
+
+---
+
+## QUESTION 6 / VRAAG 6
+
+6.1 
+$$\begin{aligned}
+A &= P(1 + i)^n \\
+13\ 459 &= 12\ 000\left(1 + \frac{m}{400}\right)^8 \\
+\left(1 + \frac{m}{400}\right)^8 &= 1,121\dots \\
+1 + \frac{m}{400} &= \sqrt[8]{1,121\dots} \\
+\frac{m}{400} &= 0,0144\dots \\
+\therefore m &= 5,78\%
+\end{aligned}$$
+* $\checkmark 8$
+* $\checkmark \text{subst into correct formula}$
+* $\checkmark 1 + \frac{m}{400} = \sqrt[8]{1,121\dots}$
+* $\checkmark 5,78\%$ &nbsp;&nbsp;&nbsp;&nbsp; (4)
+
+6.2 
+$$\begin{aligned}
+F &= \frac{x[(1 + i)^n - 1]}{i} \\
+F &= \frac{1\ 000\left[\left(1 + \frac{0,075}{12}\right)^{12} - 1\right]}{\frac{0,075}{12}} \\
+&= \text{R12\ 421,22}
+\end{aligned}$$
+He won't be able to buy the computer because $\text{R13\ 000} - \text{R12\ 421,22} = \text{R578,78}$
+**OR/OF**
+He won't be able to buy the computer because $\text{R12\ 421,22} < \text{R13\ 000}$
+* $\checkmark \frac{0,075}{12}$
+* $\checkmark 12$
+* $\checkmark \text{answer}$
+* $\checkmark \text{conclusion}$ &nbsp;&nbsp;&nbsp;&nbsp; (4)
+
+6.3.1 $\text{Loan amount} = 85\% \times \text{R250\ 000} = \text{R212\ 500}$
+**OR/OF**
+$\text{Loan amount} = \text{R250\ 000} - (15\% \times \text{R250\ 000}) = \text{R212\ 500}$
+* $\checkmark \text{answer}$ &nbsp;&nbsp;&nbsp;&nbsp; (1)
+
+6.3.2 
+$$\begin{aligned}
+A &= 212\ 500\left(1 + \frac{0,13}{12}\right)^5 = 224\ 262,53 \\
+P &= \frac{x[1 - (1 + i)^{-n}]}{i} \\
+224\ 262,53 &= \frac{x\left[1 - \left(1 + \frac{0,13}{12}\right)^{-67}\right]}{\frac{0,13}{12}} \\
+\therefore x &= \text{R4\ 724,96}
+\end{aligned}$$
+* $\checkmark A = 212\ 500\left(1 + \frac{0,13}{12}\right)^5$
+* $\checkmark \text{answer}$
+* $\checkmark \text{substitution into correct formula}$
+* $\checkmark -67$
+* $\checkmark \text{answer}$ &nbsp;&nbsp;&nbsp;&nbsp; (5)
+
+**[14]**
+
+---
+
+## QUESTION 7 / VRAAG 7
+
+7.1 
+$$\begin{aligned}
+f(x) &= x^2 + x \\
+f'(x) &= \lim_{h \to 0} \frac{f(x + h) - f(x)}{h} \\
+&= \lim_{h \to 0} \frac{(x + h)^2 + (x + h) - (x^2 + x)}{h} \\
+&= \lim_{h \to 0} \frac{x^2 + 2xh + h^2 + x + h - x^2 - x}{h} \\
+&= \lim_{h \to 0} \frac{2xh + h^2 + h}{h} \\
+&= \lim_{h \to 0} \frac{h(2x + h + 1)}{h} \\
+\therefore f'(x) &= 2x + 1
+\end{aligned}$$
+**OR/OF**
+$f(x + h) = (x + h)^2 + (x + h) = x^2 + 2xh + h^2 + x + h$
+$f(x + h) - f(x) = 2xh + h^2 + h$
+*(Then substitute into limit formula)*
+* $\checkmark \text{substitution into the formula}$
+* $\checkmark x^2 + 2xh + h^2 + x + h$
+* $\checkmark 2xh + h^2 + h$
+* $\checkmark \text{common factor}$
+* $\checkmark

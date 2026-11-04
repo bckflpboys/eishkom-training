@@ -1,0 +1,264 @@
+SENIOR SERTIFIKAAT-EKSAMEN
+
+**WISKUNDE V1**
+
+**2018**
+
+**PUNTE:** 150  
+**TYD:** 3 uur
+
+---
+
+Hierdie vraestel bestaan uit 9 bladsye en 1 inligtingsblad.
+
+---
+
+### INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies aandagtig deur voordat die vrae beantwoord word.
+
+1. Hierdie vraestel bestaan uit 11 vrae.
+2. Beantwoord AL die vrae.
+3. Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie vraestel gebruik is.
+4. Dui ALLE berekeninge, diagramme, grafieke, ensovoorts wat jy gebruik het om jou antwoorde te bepaal, duidelik aan.
+5. Volpunte sal nie noodwendig aan slegs antwoorde toegeken word nie.
+6. Jy mag 'n goedgekeurde, wetenskaplike sakrekenaar (nieprogrammeerbaar en niegrafies) gebruik, tensy anders vermeld.
+7. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders vermeld.
+8. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+9. 'n Inligtingsblad met formules is aan die einde van die vraestel ingesluit.
+10. Skryf netjies en leesbaar.
+
+---
+
+### VRAAG 1
+
+1.1 Los op vir $x$:
+  1.1.1 $(3x - 1)(x + 4) = 0$ $(2)$
+  1.1.2 $2x^2 + 9x - 14 = 0$ (korrek tot TWEE desimale plekke) $(4)$
+  1.1.3 $\sqrt{3 - 26x} = 3x$ $(4)$
+  1.1.4 $(x - 1)(x - 4) > x + 1$ $(5)$
+
+1.2 Vereenvoudig volledig:
+  $$\frac{\sqrt{16x^7} - \sqrt{25x^7}}{\sqrt{x}}$$ $(3)$
+
+1.3 Los gelyktydig op vir $x$ en $y$:
+  $xy = 9$ en $x - 2y - 3 = 0$ $(5)$
+
+1.4 Bewys dat $x^2 + 2xy + 2y^2$ nie negatief vir $x, y \in \mathbb{R}$ kan wees nie. $(4)$
+
+**[27]**
+
+---
+
+### VRAAG 2
+
+2.1 Gegee die kwadratiese patroon: $5; 10; 17; 26; \dots$
+  2.1.1 Skryf die volgende TWEE terme van die patroon neer. $(2)$
+  2.1.2 Bepaal die formule vir die $n^{\text{de}}$ term van die patroon. $(4)$
+  2.1.3 Watter term van die patroon sal 'n waarde van $1\ 765$ hê? $(4)$
+
+2.2 Die eerste 24 terme van 'n rekenkundige reeks is: $35 + 42 + 49 + \dots + 196$.
+  Bereken die som van AL die natuurlike getalle vanaf 35 tot by 196 wat NIE deur 7 deelbaar is NIE. $(5)$
+
+**[15]**
+
+---
+
+### VRAAG 3
+
+Themba beplan 'n fietsrit van Kaapstad tot in Pretoria. Die totale afstand wat gedurende die rit gedek sal word, is $1\ 500\text{ km}$. Hy beplan om die eerste dag $100\text{ km}$ af te lê. Vir elke volgende dag beplan hy om $94\%$ van die afstand wat hy die vorige dag afgelê het, te ry.
+
+3.1 Watter afstand sal hy op dag 3 van die rit aflê? $(2)$
+3.2 Op watter dag van die rit sal Themba verby die halfpadmerk wees? $(4)$
+3.3 Themba moet elke dag 'n sekere persentasie van die vorige dag se afstand aflê om seker te maak dat hy uiteindelik Pretoria bereik. Bereken ALLE moontlike waarde(s) van hierdie persentasie. $(3)$
+
+**[9]**
+
+---
+
+### VRAAG 4
+
+Die grafiek van $f(x) = \log_{\frac{1}{3}} x$ is hieronder geteken. $\text{B}\left(\frac{16}{9}; p\right)$ is 'n punt op $f$.
+
+[DIAGRAM: A sketch graph of $f(x) = \log_{\frac{1}{3}} x$ passing through the fourth quadrant, with an x-intercept at $(1,0)$. Point $\text{B}(\frac{16}{9}; p)$ lies on the curve in the fourth quadrant.]
+
+4.1 Vir watter waarde(s) van $x$ is $\log_{\frac{1}{3}} x \le 0$? $(2)$
+4.2 Bepaal die waarde van $p$, sonder die gebruik van 'n sakrekenaar. $(3)$
+4.3 Skryf die vergelyking van die inverse van $f$ in die vorm $y = \dots$ neer. $(2)$
+4.4 Skryf die waardeversameling van $y = f^{-1}(x)$ neer. $(2)$
+4.5 Die funksie $h(x) = \left(\frac{3}{4}\right)^x$ is verkry nadat twee refleksies op $f$ toegepas is.
+  Skryf die koördinate van $\text{B}''$, die beeld van $\text{B}$ op $h$, neer. $(2)$
+
+**[11]**
+
+---
+
+### VRAAG 5
+
+Die grafieke van $f(x) = \frac{2}{x + 1} + 4$ en parabool $g$ is hieronder geteken.
+
+* $\text{C}$, die draaipunt van $g$, lê op die horisontale asimptoot van $f$.
+* Die grafiek van $g$ gaan deur die oorsprong.
+* $\text{B}\left(k; \frac{14}{3}\right)$ is 'n punt op $f$ sodanig dat $\text{BC}$ ewewydig aan die $y$-as is.
+
+[DIAGRAM: A hyperbola $f$ with vertical asymptote $x = -1$ and horizontal asymptote $y = 4$, and a parabola $g$ with maximum point $\text{C}$ lying on the line $y = 4$. $g$ passes through the origin $(0,0)$. $\text{B}(k, \frac{14}{3})$ is on $f$ and $\text{C}$ has the same x-coordinate as $\text{B}$, forming a vertical line segment $\text{BC}$.]
+
+5.1 Skryf die definisieversameling van $f$ neer. $(2)$
+5.2 Bepaal die $x$-afsnit van $f$. $(2)$
+5.3 Bereken die waarde van $k$. $(3)$
+5.4 Skryf die koördinate van $\text{C}$ neer. $(2)$
+5.5 Bepaal die vergelyking van $g$ in die vorm $y = a(x + p)^2 + q$. $(3)$
+5.6 Vir watter waarde(s) van $x$ sal $\frac{f(x)}{g(x)} \le 0$? $(4)$
+5.7 Gebruik die grafieke van $f$ en $g$ om die aantal reële wortels van $\frac{2}{x} - 5 = -(x - 3)^2 - 5$ te bepaal. Gee redes vir jou antwoord. $(4)$
+
+**[20]**
+
+---
+
+### VRAAG 6
+
+6.1 Bereken die aantal jare wat dit vir die waarde van 'n vragmotor sal neem om te verminder na $50\%$ van die oorspronklike waarde indien depressie teen $15\%$ per jaar bereken word deur die verminderderdesaldo-metode te gebruik. $(4)$
+
+6.2 Tshepo het elke maand $\text{R1}\ 500$ vir sy aftrede in 'n rekening gedeponeer wat rente teen 'n koers van $9,2\%$ per jaar, maandeliks saamgestel, betaal. Tshepo het sy eerste deposito op sy $23^{\text{ste}}$ verjaarsdag gemaak en die laaste deposito 'n maand voor sy $55^{\text{ste}}$ verjaarsdag. Bereken die bedrag geld wat hy op sy $55^{\text{ste}}$ verjaarsdag in die rekening gehad het. $(5)$
+
+6.3 Abram het $\text{R150}\ 000$ om in twee aparte rekeninge te belê. Een rekening betaal rente teen 'n koers van $8,4\%$ per jaar, kwartaalliks saamgestel, en die ander rekening teen 'n koers van $9,6\%$ per jaar, maandeliks saamgestel. Hoeveel geld moet hy in elke rekening belê sodat hy, aan die einde van 12 jaar, dieselfde bedrag uit elke rekening sal vorder? $(6)$
+
+**[15]**
+
+---
+
+### VRAAG 7
+
+7.1 Gegee: $f(x) = 2 - 3x^2$  
+  Bepaal $f'(x)$ vanuit eerste beginsels. $(5)$
+
+7.2 Bepaal:  
+  7.2.1 $D_x[(4x + 5)^2]$ $(3)$
+  7.2.2 $\frac{dy}{dx}$ indien $y = \sqrt[4]{x} + \frac{x^2 - 8}{x^2}$ $(4)$
+
+**[12]**
+
+---
+
+### VRAAG 8
+
+Die grafiek van $f(x) = -x^3 + 13x + 12$ is hieronder geskets.  
+$\text{A}$, $\text{B}$ en $\text{D}(-1; 0)$ is die $x$-afsnitte van $f$.  
+$\text{C}$ is die $y$-afsnit van $f$.
+
+[DIAGRAM: A cubic graph $f(x) = -x^3 + 13x + 12$ with $y$-intercept $\text{C}$, and $x$-intercepts $\text{A}$, $\text{D}(-1,0)$, and $\text{B}$. The curve rises to a local maximum and falls through $\text{C}$ to $\text{B}$ and $\text{A}$.]
+
+8.1 Skryf die koördinate van $\text{C}$ neer. $(1)$
+8.2 Bereken die koördinate van $\text{A}$ en $\text{B}$. $(5)$
+8.3 Bepaal die buigpunt van $g$ indien dit gegee word dat $g(x) = -f(x)$. $(4)$
+8.4 Bereken die waarde(s) van $x$ waarvoor die raaklyn aan $f$ ewewydig is aan die lyn $y = -14x + c$. $(4)$
+
+**[14]**
+
+---
+
+### VRAAG 9
+
+'n Regte sirkelvormige keël, met radius $p$ en hoogte $t$, is gemasjineer (uitgesny) uit 'n soliede sfeer (met middelpunt $\text{C}$) met 'n radius van $30\text{ cm}$, soos getoon in die skets.
+
+[DIAGRAM: A sphere of radius 30 cm centered at C, containing an inscribed right circular cone of height $t$ and base radius $p$. The cone's vertex is at the top of the sphere, its base is a circle near the bottom, and the center C lies on its axis of height $t$. A radius of 30 cm is shown from C to the edge of the sphere and from C to the base edge of the cone.]
+
+Sfeer: $V = \frac{4}{3}\pi r^3$  
+Keël: $V = \frac{1}{3}\pi r^2 h$
+
+9.1 Vanuit die gegewe inligting, druk die volgende uit:  
+  9.1.1 $\text{AC}$ in terme van $t$. $(1)$
+  9.1.2 $p^2$, in sy eenvoudigste vorm, in terme van $t$. $(3)$
+
+9.2 Toon dat die volume van die keël as $V(t) = 20\pi t^2 - \frac{1}{3}\pi t^3$ geskryf kan word. $(1)$
+9.3 Bereken die waarde van $t$ waarvoor die volume van die keël 'n maksimum sal wees. $(3)$
+9.4 Watter persentasie van die sfeer is gebruik om hierdie keël met die grootste volume te verkry? $(4)$
+
+**[12]**
+
+---
+
+### VRAAG 10
+
+Ben, Nhlanhla, Owen, Derick en 6 ander atlete neem aan 'n $100\text{ m}$-resies deel. Daar word 'n baan aan elke atleet toegeken om in te hardloop. Die atletiekbaan het 10 bane.
+
+10.1 Op hoeveel verskillende maniere kan 'n baan aan al die atlete toegeken word? $(2)$
+10.2 Vier atlete wat aan die item deelneem, dring daarop aan om in aangrensende bane geplaas te word. Op hoeveel verskillende manier kan die bane nou aan die atlete toegeken word? $(3)$
+10.3 Indien bane willekeurig aan atlete toegeken word, bepaal die waarskynlikheid dat Ben in baan 1, Nhlanhla in baan 3, Owen in baan 5 en Derick in baan 7 geplaas sal word. $(2)$
+
+**[7]**
+
+---
+
+### VRAAG 11
+
+'n Opname oor hul voorkurmanier van oefen, is onder 140 mense in twee ouderdomsgroepe gedoen. Die inligting is hieronder opgesom.
+
+| OUDERDOM | TENNIS | HARDLOOP | GIM | TOTAAL |
+| :--- | :---: | :---: | :---: | :---: |
+| **35 jaar en jonger** | $a$ | $28$ | $c$ | $80$ |
+| **Ouer as 35 jaar** | $b$ | $21$ | $d$ | $60$ |
+| | $21$ | $49$ | $70$ | $140$ |
+
+11.1 Bepaal die waarde van $a$ indien dit gegee word dat 'n tennisvoorkeur en ouderdom onafhanklik van mekaar is. $(3)$
+11.2 Indien dit gegee word dat $a = 12$, bepaal die waarskynlikheid dat 'n willekeurig gekose persoon verkies om gim toe te gaan of in die ouderdomsgroep 35 jaar en jonger is. $(5)$
+
+**[8]**
+
+**TOTAAL: 150**
+
+---
+
+### INLIGTINGSBLAD
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni)$$  
+$$A = P(1 - ni)$$  
+$$A = P(1 - i)^n$$  
+$$A = P(1 + i)^n$$
+
+$$T_n = a + (n - 1)d$$  
+$$S_n = \frac{n}{2}[2a + (n - 1)d]$$
+
+$$T_n = ar^{n-1}$$  
+$$S_n = \frac{a(r^n - 1)}{r - 1} \quad (r \neq 1)$$  
+$$S_\infty = \frac{a}{1 - r} \quad (-1 < r < 1)$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i}$$  
+$$P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$  
+$$\text{M}\left(\frac{x_1 + x_2}{2}; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c$$  
+$$y - y_1 = m(x - x_1)$$  
+$$m = \frac{y_2 - y_1}{x_2 - x_1}$$  
+$$m = \tan \theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+In $\Delta ABC$:  
+$$\frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}$$  
+$$a^2 = b^2 + c^2 - 2bc \cos A$$  
+$$\text{area } \Delta ABC = \frac{1}{2}ab \sin C$$
+
+$$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta$$  
+$$\sin(\alpha - \beta) = \sin \alpha \cos \beta - \cos \alpha \sin \beta$$
+
+$$\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta$$  
+$$\cos(\alpha - \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2 \alpha - \sin^2 \alpha \\ 1 - 2\sin^2 \alpha \\ 2\cos^2 \alpha - 1 \end{cases}$$  
+$$\sin 2\alpha = 2\sin \alpha \cos \alpha$$
+
+$$\bar{x} = \frac{\sum x}{n}$$  
+$$\sigma^2 = \frac{\sum_{i=1}^{n}(x_i - \bar{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)}$$  
+$$P(\text{A of B}) = P(A) + P(B) - P(\text{A en B})$$
+
+$$\hat{y} = a + bx$$  
+$$b = \frac{\sum (x - \bar{x})(y - \bar{y})}{\sum (x - \bar{x})^2}$$

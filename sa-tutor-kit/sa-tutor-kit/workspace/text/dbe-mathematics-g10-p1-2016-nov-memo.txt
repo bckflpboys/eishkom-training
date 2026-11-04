@@ -1,0 +1,376 @@
+**NOTE / LET WEL:**
+* If a candidate answered a question TWICE, mark only the FIRST attempt. / *As 'n kandidaat 'n vraag TWEE keer beantwoord het, sien slegs die EERSTE poging na.*
+* If a candidate crossed out an answer and did not redo it, mark the crossed-out answer. / *As 'n kandidaat 'n antwoord deurgehaal en nie oorgedoen het nie, sien die deurgehaalde antwoord na.*
+* Consistent accuracy applies to ALL aspects of the marking memorandum. / *Volgehoue akkuraatheid is op ALLE aspekte van die memorandum van toepassing.*
+* Assuming values/answers in order to solve a problem is unacceptable. / *Dit is onaanvaarbaar om waardes/antwoorde te veronderstel om 'n probleem op te los.*
+
+---
+
+### QUESTION/VRAAG 1
+
+1.1.1 
+$$x^2 - x$$
+$$= x(x - 1)$$
+$\checkmark$ answer/antwoord (1)
+
+1.1.2 
+$$3x^2 + 3px - 2mx - 2mp$$
+$$= 3x(x + p) - 2m(x + p)$$
+$$= (3x - 2m)(x + p)$$
+$\checkmark$ com. fact/ gemeen fak.
+$\checkmark$ com.brack./ gem. haak
+$\checkmark$ answer/antwoord (3)
+
+**OR/OF**
+
+$$3x^2 - 2mx + 3px - 2mp$$
+$$= x(3x - 2m) + p(3x - 2m)$$
+$$= (3x - 2m)(x + p)$$
+$\checkmark$ com. fact/ gem fak
+$\checkmark$ com.brack/gem. hak
+$\checkmark$ answer/antwoord (3)
+
+1.1.3 
+$$2p^2 - 2p - 12$$
+$$= 2(p^2 - p - 6)$$
+$$= 2(p - 3)(p + 2)$$
+$\checkmark$ com fact/ gem fak
+$\checkmark$ trinomial/drie
+$\checkmark$ answer/antwoord (3)
+
+**OR/OF**
+
+$$2p^2 - 2p - 12$$
+$$= (2p - 6)(p + 2)$$
+$$= 2(p - 3)(p + 2)$$
+$\checkmark$ fact/fak
+$\checkmark$ com fact/ gem fak
+$\checkmark$ answer/antwoord (3)
+
+1.2.1 
+$$\frac{2^{a+1} - 2^{a-1}}{2^a}$$
+$$= \frac{2^a(2 - 2^{-1})}{2^a}$$
+$$= 2 - \frac{1}{2}$$
+$$= \frac{3}{2}$$
+$\checkmark$ com fact/ gem fak
+$\checkmark$ $2 - 2^{-1}$
+$\checkmark$ answer/antwoord (3)
+
+1.2.2 
+$$\frac{x^2 - x + 1}{x^3 + 1} \div \frac{2x}{2x + 2}$$
+$$= \frac{x^2 - x + 1}{(x + 1)(x^2 - x + 1)} \times \frac{2(x + 1)}{2x}$$
+$$= \frac{1}{x}$$
+$\checkmark$ fact. of cube/fak van vierkant
+$\checkmark$ tip and times/inv. en maal
+$\checkmark$ fact./fak
+$\checkmark$ answer/antwoord (4)
+
+**[14]**
+
+---
+
+### QUESTION/VRAAG 2
+
+2.1.1 
+$$x(x - 1) = 20$$
+$$x^2 - x - 20 = 0$$
+$$(x - 5)(x + 4) = 0$$
+$$x = 5 \text{ or/of } x = -4$$
+$\checkmark$ simpl/simpl
+$\checkmark$ stand. form/stand. vorm
+$\checkmark$ fact/fak
+$\checkmark$ answer/antwoord (4)
+
+2.1.2 
+$$\frac{3x - 2}{2} = (x + 1)$$
+$$3x - 2 = 2(x + 1)$$
+$$3x - 2 = 2x + 2$$
+$$x = 4$$
+$\checkmark$ multipl./maal
+$\checkmark$ simpl/simp.
+$\checkmark$ answer/antwoord (3)
+
+**OR/OF**
+
+$$\frac{3x - 2}{2} - (x + 1) = 0$$
+$$\frac{3x - 2 - 2(x + 1)}{2} = 0$$
+$$\frac{3x - 2 - 2x - 2}{2} = 0$$
+$$\frac{x - 4}{2} = 0$$
+$$x = 4$$
+$\checkmark$ multipl./maal
+$\checkmark$ simpl/simpl.
+$\checkmark$ answer/antwoord (3)
+
+2.2.1 
+$$-4 \leq -\frac{1}{2}m < 5$$
+$$-8 \leq -m < 10$$
+$$8 \geq m > -10$$
+$$-10 < m \leq 8$$
+$\checkmark$ multipl/maal by 2
+$\checkmark$ $m$-values/waardes
+$\checkmark$ corr.notat/korr. not. (3)
+
+**OR/OF**
+
+$$-4 \leq -\frac{1}{2}m \text{ and/en } -\frac{1}{2}m < 5$$
+$$-8 \leq -m \text{ and/en } -m < 10$$
+$$-10 < m \leq 8$$
+$\checkmark$ multipl/maal by 2
+$\checkmark$ $m$-values/waardes
+$\checkmark$ corr.notat/korr. not. (3)
+
+2.2.2 
+$$(-10; 8]$$
+$\checkmark$ ans/ant (1)
+
+2.3.1 
+$$\text{Given/Gegee: } 4x^2 - y^2 = 171$$
+$$2x - y = 9$$
+$$(2x - y)(2x + y) = 171$$
+$$9(2x + y) = 171$$
+$$2x + y = 19$$
+$\checkmark$ fact/fak
+$\checkmark$ ans/ant (2)
+
+2.3.2 
+$$2x - y = 9$$
+$$2x + y = 19$$
+$$4x = 28$$
+$$x = 7$$
+$$y = 5$$
+$\checkmark$ method/methode
+$\checkmark$ $x$-value/waarde
+$\checkmark$ $y$-value/waarde (3)
+
+**OR/OF**
+
+$$2x - y = 9 \implies y = 2x - 9$$
+$$2x + y = 19$$
+$$2x - (2x - 9) = 19$$
+$$4x = 28$$
+$$x = 7$$
+$$y = 5$$
+$\checkmark$ method/methode
+$\checkmark$ $x$-value/waarde
+$\checkmark$ $y$-value/waarde (3)
+
+**[16]**
+
+---
+
+### QUESTION/VRAAG 3
+
+3.1 
+$$9$$
+$\checkmark$ ans/ant (1)
+
+3.2 
+$$25$$
+$\checkmark$ ans/ant (1)
+
+3.3 
+$$D_n = 2n - 1$$
+$\checkmark\checkmark$ ans/ant (2)
+
+3.4 
+$$L_n = (n - 1)^2$$
+$\checkmark\checkmark$ ans/ant (2)
+
+3.5 
+$$L_n = (n - 1)^2$$
+$$(n - 1)^2 = 64$$
+$$n^2 - 2n + 1 = 64$$
+$$n^2 - 2n - 63 = 0$$
+$$(n - 9)(n + 7) = 0$$
+$$n = 9 \text{ or/of } n = -7 \text{ n/a}$$
+$\checkmark$ equating/vergelyk
+$\checkmark$ factors/faktore
+$\checkmark$ ans/ant (3)
+
+3.6 
+$$\text{Number of dark tiles/Getal donker teëls}$$
+$$= 1 + 3 + 5 + ... + 199$$
+$$= 10\ 000$$
+$$\text{Total area covered/Total oppervlakte gedek}$$
+$$= 10\ 000(0,3 \times 0,6)$$
+$$= 1800\text{ m}^2$$
+$\checkmark\checkmark$ $10\ 000$ dark tiles/donker teëls
+$\checkmark$ ans/ant (3)
+
+**[12]**
+
+---
+
+### QUESTION/VRAAG 4
+
+4.1.1 
+$$\text{The cash deposit/Kontantdeposito} = 0,15 \times \text{R}15\ 550 = \text{R}2\ 332,50$$
+$$\text{The value of loan/Waarde van lening} = \text{R}15\ 550 - \text{R}2\ 332,50 = \text{R}13\ 217,50$$
+$\checkmark$ deposit/deposito
+$\checkmark$ ans/ant (2)
+
+4.1.2 
+$$A = P(1 + i.n)$$
+$$= 13\ 217,50 \left(1 + 0,1625 \times \frac{54}{12}\right)$$
+$$= \text{R}22\ 882,80$$
+$\checkmark$ $A = P(1 + i.n)$
+$\checkmark$ correct sub into correct formula / vervang in korrekte formule
+$\checkmark$ ans/ant (3)
+
+4.1.3 
+$$\text{Annual Insurance premium/Per jaar versekeringspremie} = 0,015 \times 15\ 550 = \text{R}233,25\text{ per annum / per jaar}$$
+$$\text{Monthly payments/Maandelikse paaiement} = \frac{22\ 882,80}{54} + \frac{233,25}{12}$$
+$$= \text{R}443,19$$
+$\checkmark$ instalment per Month / paaiement per maand
+$\checkmark$ insurance/versekering
+$\checkmark$ ans/ant (3)
+
+4.2.1 
+$$\$1 = \text{R}13,45$$
+$$\$x = \text{R}4\ 800$$
+$$\$x = \frac{4\ 800}{13,45}$$
+$$\$ = 356,88$$
+$\checkmark \frac{4\ 800}{13,45}$
+$\checkmark$ answer (2)
+
+4.2.2 
+$$\$1 = \text{R}13,45$$
+$$\$85 = \text{R}1\ 143,25$$
+$$1\text{£} = 21,41$$
+$$\text{£}x = \frac{1\ 143,25}{21,41}$$
+$$\text{£} = 53,40$$
+$\checkmark$ R1 143,25
+$\checkmark$ $1\text{£} = 21,41$
+$\checkmark$ ans/ant (3)
+
+4.3 
+$$A = P(1 + i)^n$$
+$$2P = P(1 + i)^5$$
+$$2 = (1 + i)^5$$
+$$\sqrt[5]{2} = 1 + i$$
+$$i = \sqrt[5]{2} - 1$$
+$$i = 0,148698 \times 100$$
+$$r = 14,87\%\text{ p.a/per jaar}$$
+$\checkmark$ $A = P(1 + i)^n$
+$\checkmark$ $2P = P(1 + i)^5$
+$\checkmark$ $r = 14,87\%$ p.a / pj (3)
+
+**[16]**
+
+---
+
+### QUESTION/VRAAG 5
+
+5.1 $C(0; -4)$ $\checkmark$ ans/ant (1)
+
+5.2 $D(0; 2)$ $\checkmark$ ans/ant (1)
+
+5.3 $CD = 2 - (-4) = 6\text{ units/eenhede}$ $\checkmark$ ans/ant (1)
+
+5.4 
+$$x^2 - 4 = 0$$
+$$(x - 2)(x + 2) = 0$$
+$$x = 2 \text{ or } x = -2$$
+$$B(-2; 0)$$
+$\checkmark$ $y = 0$
+$\checkmark$ factors/faktore
+$\checkmark$ ans/ant (3)
+
+5.5 
+$$x^2 - 4 = -x + 2$$
+$$x^2 + x - 6 = 0$$
+$$(x - 2)(x + 3) = 0$$
+$$x = 2 \text{ or } x = -3$$
+$$E(-3; 5)$$
+$\checkmark$ equating/vergelyk
+$\checkmark$ factors/faktore
+$\checkmark$ $x$-answer/antwoord
+$\checkmark$ $y$-answer/antwoord (4)
+
+5.6.1 $-3 < x < 2$ **OR/OF** $(-3; 2)$ $\checkmark$ values/waardes $\checkmark$ notation/notasie (2)
+
+5.6.2 $(-\infty; -2] \cup \{2\}$ $\checkmark (-\infty; -2]$ $\checkmark 2$ (2)
+
+5.7 
+$$K(-2; 4)$$
+$$BK = 4\text{ units/eenhede}$$
+$$AB = 4\text{ units/eenhede}$$
+$$AK = \sqrt{4^2 + 4^2}\text{ (Pythagoras)}$$
+$$= 5,66\text{ units/eenhede}$$
+$\checkmark$ BK
+$\checkmark$ AB
+$\checkmark$ method/methode
+$\checkmark$ answer/antwoord (4)
+
+**[18]**
+
+---
+
+### QUESTION/VRAAG 6
+
+6.1 $y < 8$ $\checkmark$ answer/antwoord (1)
+
+6.2 
+$$-2^x + 8 = 0$$
+$$2^x = 8$$
+$$2^x = 2^3$$
+$$x = 3$$
+$$B(3; 0)$$
+$\checkmark$ equating to $0$ / vergelyk met $0$
+$\checkmark$ simpli/vereenv.
+$\checkmark$ answer/antwoord (3)
+
+6.3 $h(x) = 2^x - 8$ $\checkmark\checkmark$ answer/antwoord (2)
+
+6.4 The graph of $g$ was reflected over the $x$-axis to form $h$. This means when $y = 0$, the solution will be the same for both functions. This means that both $g$ and $h$ will have an $x$-intercept at $B$. / *Grafiek $g$ oor die $x$-as gereflekteer om $h$ te vorm. As $y = 0$, sal die oplossing dieselfde wees vir albei funksies. Beide $g$ en $h$ sal 'n $x$-afsnit by $B$ hê.*
+$\checkmark$ reflection over $x$-axis / reflek oor $x$-as
+$\checkmark$ explanation/verduideliking (2)
+
+**[8]**
+
+---
+
+### QUESTION/VRAAG 7
+
+$$h(x) = \frac{a}{x} + 3$$
+$$0 = \frac{a}{2} + 3$$
+$$a = -6$$
+$$h(x) = \frac{-6}{x} + 3$$
+$\checkmark +3$
+$\checkmark$ subs of $(2; 0)$ / sub van $(2; 0)$
+$\checkmark$ answer for $a$ / antwoord van $a$
+$\checkmark$ answer/antwoord (4)
+
+**[4]**
+
+---
+
+### QUESTION/VRAAG 8
+
+8.1.1 
+$$27 - x + x + 32 - x + 7 = 42$$
+$$-x = 42 - 66$$
+$$x = 24$$
+$\checkmark$ equation/vergelyking
+$\checkmark$ answer/antwoord (2)
+
+8.1.2 (a) $\text{P(does not play hockey or soccer / speel nie hokkie of sokker)} = \frac{7}{42} = \frac{1}{6}$ $\checkmark$ answer/antwoord (1)
+
+8.1.2 (b) $\text{P(soccer only / slegs sokker)} = \frac{8}{42} = \frac{4}{21}$ **OR/OF** $\text{P}(\text{soccer only}) = 1 - \left(\frac{3 + 24 + 7}{42}\right) = \frac{8}{42} = \frac{4}{21}$ $\checkmark\checkmark$ answer/antwoord (2)
+
+8.2.1 $x + 3$ $\checkmark$ answer/antwoord (1)
+
+8.2.2 $\text{P(blue / blou)} = \frac{3}{x + 3}$ $\checkmark\checkmark$ ans/antwoord (2)
+
+8.3.1 $\text{P(A and / en B)} = 0$ $\checkmark$ answer/answer (1)
+
+8.3.2 
+$$\text{P}(B) = 1 - \text{P}(B') = 1 - 0,7 = 0,3$$
+$$\text{P}(A \text{ or/of } B) = \text{P}(A) + \text{P}(B) = 0,55 + 0,3 = 0,85$$
+$\checkmark$ $\text{P}(B) = 0.3$
+$\checkmark$ subst./vervang
+$\checkmark$ answer/antwoord (3)
+
+**[12]**
+
+**TOTAL/TOTAAL: 100**

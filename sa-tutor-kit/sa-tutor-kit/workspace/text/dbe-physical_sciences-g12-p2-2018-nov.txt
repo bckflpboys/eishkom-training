@@ -1,0 +1,1423 @@
+=== page 1 ===
+Copyright reserved  Please turn over
+
+MARKS:  150
+
+TIME:  3 hours
+
+This question paper consists of 15 pages and 4 data sheets.
+
+PHYSICAL SCIENCES:  CHEMISTRY (P2)
+
+NOVEMBER 2018
+NATIONAL
+SENIOR CERTIFICATE
+GRADE 12
+
+=== page 2 ===
+Physical Sciences/P2  2 DBE/November 2018
+ NSC
+Copyright reserved  Please turn over
+
+INSTRUCTIONS AND INFORMATION
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+Write your examination number and centre number in the appropriate spaces
+on the ANSWER BOOK.
+
+This question paper consists of TEN questions. Answer ALL the questions in
+the ANSWER BOOK.
+
+Start EACH question on a NEW page in the ANSWER BOOK.
+
+Number the answers correctly according to the numbering system used in this
+question paper.
+
+Leave ONE line between two subquestions, e.g. between QUESTION 2.1 and
+QUESTION 2.2.
+
+You may use a non-programmable calculator.
+
+You may use appropriate mathematical instruments.
+
+Show ALL formulae and substitutions in ALL calculations.
+
+Round off your FINAL numerical answers to a minimum of TWO decimal
+places.
+
+Give brief motivations, discussions, etc. where required.
+
+You are advised to use the attached DATA SHEETS.
+
+Write neatly and legibly.
+
+=== page 3 ===
+Physical Sciences/P2  3 DBE/November 2018
+ NSC
+Copyright reserved  Please turn over
+
+QUESTION 1: MULTIPLE-CHOICE QUESTIONS
+
+Various options are provided as possible answers to the following questions. Choose
+the answer and write only the letter (A–D) next to the question numbers (1.1 to 1.10) in
+the ANSWER BOOK, e.g. 1.11 D.
+
+1.1 Which ONE of the following is the structural formula of the functional group of
+the KETONES?
+
+ A
+
+B
+
+C
+
+D
+
+(2)
+
+1.2 Which ONE of the formulae below represents an ALKANE?
+
+ A
+
+B
+
+C
+
+D
+C2H4
+
+C5H10
+
+C14H30
+
+C8H14
+
+(2)
+
+1.3 Consider the organic compound below.
+
+The IUPAC name of this compound is …
+
+ A
+
+B
+
+C
+
+D
+2,3-dimethyl butane.
+
+3,3-dimethyl butane.
+
+2,2-dimethyl butane.
+
+1,1,1-trimethyl propane.
+
+(2)
+   C C
+H CH3
+C H
+H
+H H
+CH3
+CH3
+C
+O
+C
+O
+C C O H C
+C
+O
+H
+
+=== page 4 ===
+Physical Sciences/P2  4 DBE/November 2018
+ NSC
+Copyright reserved  Please turn over
+
+1.4 Activation energy can best be described as the minimum ener gy required
+to …
+
+ A
+
+B
+
+C
+
+D
+cause effective collisions.
+
+make reactant molecules collide.
+
+change the orientation of reactant molecules.
+
+increase the kinetic energy of reactant molecules.
+
+(2)
+
+1.5 Which statement is CORRECT for a system in DYNAMIC EQUILIBRIUM?
+
+ A
+
+B
+
+C
+
+D
+All reactants are used up.
+
+The forward reaction is equal to the reverse reaction.
+
+All substances in the reaction are of equal concentration.
+
+The concentration of the reactants and products remain constant.
+
+(2)
+
+1.6 Initially, a certain amount of P(g) was placed in an empty container.
+The hypothetical reaction reaches equilibrium in a closed container  according
+to the following balanced equation:
+
+P(g)  ⇌  2Q(g)                 H  <  0
+
+At time t, the temperature is increased.
+
+Which graph below best illustrates the resulting changes in the rates of the
+forward and reverse reactions after the temperature is increased?
+
+A
+
+B
+
+C
+
+D
+
+(2) time (s)
+
+rate (mol∙s-1)
+t
+rate (mol∙s-1)
+time (s)
+
+t time (s)
+rate (mol∙s-1)
+
+t
+time (s)
+rate (mol∙s-1)
+
+t
+
+=== page 5 ===
+Physical Sciences/P2  5 DBE/November 2018
+ NSC
+Copyright reserved  Please turn over
+
+1.7 Reactions I and II below have equilibrium constant s (Kc) greater
+than 1.
+
+I:    H3X  +  HCO
+
+3   ⇌  H2X−  +  H2CO3 Kc > 1
+
+II:   H3O+  +  H2X−  ⇌  H2O  +  H3X Kc > 1
+
+Based on the  reactions above, the ACIDS in order of INCREASING
+STRENGTH (weakest to strongest) are …
+
+ A
+
+B
+
+C
+
+D
+H3X,  H2X−,  H3O+
+
+H2CO3, H3X,  H3O+
+
+H3X,  H2CO3,  H3O+
+
+H3X,  H3O+,  H2CO3
+
+(2)
+
+1.8 Consider the cell notation for a galvanic cell below.
+
+Ni(s) | Ni2+(aq) || H+(aq) | H2(g) | Pt(s)
+
+Which ONE of the following half -reactions takes place at the ANODE of
+this cell?
+
+ A
+
+B
+
+C
+
+D
+2H+(aq) + 2e−  →  H2(g)
+
+H2(g)  →  2H+(aq) + 2e−
+
+Ni2+(aq) + 2e−  →  Ni(s)
+
+Ni(s)  →  Ni2+(aq) + 2e−
+
+(2)
+
+1.9 Which ONE of the following is applicable to an ELECTROLYTIC CELL?
+
+ A
+
+B
+
+C
+
+D
+Reduction takes place at the anode.
+
+Oxidation takes place at the cathode.
+
+It uses alternating current.
+
+A battery is used for the cell to function.
+
+(2)
+
+=== page 6 ===
+Physical Sciences/P2  6 DBE/November 2018
+ NSC
+Copyright reserved  Please turn over
+
+1.10 The flow diagram below shows four sta ges (A, B, C and D) in the conversion
+of sulphur to sulphuric acid.
+
+ At which stage is a catalyst used?
+
+ A
+
+B
+
+C
+
+D
+A
+
+B
+
+C
+
+D
+
+(2)
+   [20]
+
+Sulphur Sulphur dioxide Sulphur trioxide Oleum
+Sulphuric acid
+Stage D
+Stage C Stage B Stage A
+
+=== page 7 ===
+Physical Sciences/P2  7 DBE/November 2018
+ NSC
+Copyright reserved  Please turn over
+
+QUESTION 2 (Start on a new page.)
+
+A test tube containing a straight chain organic acid X, ethanol and a catalyst is heated
+in a water bath, as illustrated below.
+
+Organic compound Y is produced according to the following equation:
+
+X  +  C2H5OH  ⟶  Y  +  H2O
+
+2.1 Give a reason why the test tube is heated in a water bath instead of directly
+over the flame.
+
+(1)
+
+2.2 Write down the:
+
+ 2.2.1 Type of reaction that takes place here  (1)
+
+ 2.2.2 FORMULA of the catalyst needed  (1)
+
+ 2.2.3 Homologous series to which compound Y belongs  (1)
+
+The molecular mass of compound Y is 144 g∙mol-1 and its empirical formula is C4H8O.
+
+2.3 Determine the molecular formula of compound Y.   (2)
+
+2.4 Write down the IUPAC name of compound Y.  (2)
+
+2.5 Write down the structural formula of the organic acid X.  (2)
+   [10]
+
+X + C2H5OH + catalyst      water bath
+      tripod  Bunsen burner
+test tube
+
+=== page 8 ===
+Physical Sciences/P2  8 DBE/November 2018
+ NSC
+Copyright reserved  Please turn over
+
+QUESTION 3 (Start on a new page.)
+
+The boiling points of different organic compounds are given below.
+
+COMPOUND BOILING POINT (°C)
+A HCOOH 101
+B CH3COOH 118
+C CH3CH2COOH 141
+D CH3CH2CH2COOH 164
+
+3.1 Define boiling point.  (2)
+
+3.2 Write down the:
+
+ 3.2.1 Name of the FUNCTIONAL GROUP of these compounds  (1)
+
+ 3.2.2 IUPAC name of compound C  (1)
+
+ 3.2.3 Structural formula of the FUNCTIONAL isomer of compound B  (2)
+
+3.3 Which ONE of the compounds, A or B or C, has the highest vapour pressure?
+Refer to the data in the table to give a reason for the answer.
+
+(2)
+
+3.4 The boiling point of compound B is now compared with of compound X.
+
+COMPOUND BOILING POINT (°C)
+B CH3COOH 118
+X CH3CH2CH2OH 98
+
+ 3.4.1 Besides the conditions used to determine boiling poi nts, g ive a
+reason why this is a fair comparison.
+
+(1)
+
+ 3.4.2 Is compound X a PRIMARY, SECONDARY or TERTIARY alcohol?
+Give a reason for the answer.
+
+(2)
+
+ 3.4.3 Fully explain the difference between the boiling points by referring
+to the types of intermo lecular forces present in each of these
+compounds.
+
+(4)
+   [15]
+
+=== page 9 ===
+Physical Sciences/P2  9 DBE/November 2018
+ NSC
+Copyright reserved  Please turn over
+
+QUESTION 4 (Start on a new page.)
+
+4.1 Three reactions of organic compounds from the same homologous series are
+shown below.
+
+ I: Butane  +  Br2  ⟶  2-bromobutane  +  P
+
+II: Pentane  +  excess oxygen  ⟶
+
+III: Hexane  ⟶  C2H4 + Q
+
+ 4.1.1 Define a homologous series.  (2)
+
+ 4.1.2 Name the type of reaction represented by I.  (1)
+
+ 4.1.3 Write down the formula of the inorganic compound P.  (1)
+
+ 4.1.4 Give the structural f ormula of a POSITIONAL isomer of
+2-bromobutane.
+
+(2)
+
+ 4.1.5 Using molecular formulae, w rite down the balanced equation  for
+reaction II.
+
+(3)
+
+ Reaction III is an example of a cracking reaction.
+
+ 4.1.6 Define a cracking reaction.  (2)
+
+ 4.1.7 Give the structural formula of organic compound Q.   (2)
+
+4.2 Study the flow diagram below.
+
+ 4.2.1 Write down the IUPAC name of compound R.  (2)
+
+ 4.2.2 Compound R reacts in the presence of concentrated phosphoric
+acid to form an alkene.
+
+Write down the structural formula of the MAJOR PRODUCT in this
+reaction.
+
+(2)
+   [17]
+
+2-bromobutane Hydrolysis Compound R Alkene
+heat
+
+=== page 10 ===
+Physical Sciences/P2  10 DBE/November 2018
+ NSC
+Copyright reserved  Please turn over
+
+QUESTION 5 (Start on a new page.)
+
+The reaction of zinc and EXCESS dilute hydrochloric acid is used to investigate factors
+that affect reaction rate. The balanced equation for the reaction is:
+
+Zn(s)  +  2HCℓ(aq)  ⟶  ZnCℓ2(aq)  +  H2(g)
+
+The reaction conditions used and the results obtained for each experiment are
+summarised in the table below.
+
+The same mass of zinc is used in all the experiments. The zinc is completely covered
+in all reactions. The reaction time is the time it takes the reaction to be completed.
+
+EXPERIMENT CONCENTRATION OF HCℓ (mol∙dm-3) VOLUME OF HCℓ (cm3) STATE OF DIVISION  OF Zn TEMPERATURE OF HCℓ (°C) REACTION TIME (min.)
+1 2,0 200 powder 25 7
+2 1,5 200 granules 25 14
+3 5,0 200 powder 25 5
+4 1,5 400 granules 25 x
+5 2,0 200 powder 35 4
+
+5.1 Experiment 1 and experiment 5 are compared. Write down the independent
+variable.
+
+(1)
+
+5.2 Define reaction rate.  (2)
+
+5.3 Write down the value of x in experiment 4.  (2)
+
+5.4 The Maxwell -Boltzmann energy distribution curves for particles in each of
+experiments 1, 3 and 5 are shown below.
+
+ Identify the graph (A or B or C) that represents the following:
+
+ 5.4.1 Experiment 3
+Give a reason for the answer.
+
+(2)
+
+ 5.4.2 Experiment 5
+Give a reason for the answer.
+
+(2)
+A
+number of molecules
+B
+C
+Ea kinetic energy
+
+=== page 11 ===
+Physical Sciences/P2  11 DBE/November 2018
+ NSC
+Copyright reserved  Please turn over
+
+5.5 Experiment 6 is now conducted using a catalyst and the SAME reaction
+conditions as for Experiment 1.
+
+ 5.5.1 What is the function of the catalyst in this experiment?  (1)
+
+ 5.5.2 How will the heat of reaction in experiment 6 compare to that in
+experiment 1? Choose from : GREATER THAN, EQUAL TO or
+LESS THAN.
+
+(1)
+
+5.6 Calculate the average rate of the reaction (in mol·min-1) with respect to zinc
+for experiment 2 if 1,5 g of zinc is used.
+
+(4)
+  [15]
+
+QUESTION 6 (Start on a new page.)
+
+Dinitrogen tetraoxide, N 2O4(g), decomposes to nitrogen dioxide, NO 2(g), in a sealed
+syringe of volume 2 dm3.
+
+The mixture reaches equilibrium at 325  °C according to the following balanced
+equation:
+N2O4(g)  ⇌  2NO2 (g)
+                                                  colourless       brown
+
+When equilibrium is reached, it is observed that the colour of the gas in the syringe is
+brown.
+
+6.1 State Le Chatelier's principle.  (2)
+
+6.2 The syringe is now d ipped into a beaker of ice water. After a while the brown
+colour disappears.
+
+Is the forward reaction EXOTHERMIC or ENDOTHERMIC? Explain the
+answer using Le Chatelier's principle.
+
+(3)
+
+6.3 The volume of the syringe is now decreased whil e the temperature  is kept
+constant.
+
+How will EACH of the following be affected? Choose from : INCREASES,
+DECREASES or REMAINS THE SAME.
+
+ 6.3.1 The number of moles of N2O4(g)    (1)
+
+ 6.3.2 The value of the equilibrium constant  (1)
+
+ 6.3.3 The rate of the forward and reverse reactions  (1)
+
+6.4 Initially X moles of N 2O4(g) were placed in the syringe  of volume 2 dm3.
+When equilibrium was reached , it was found that 20% o f the N2O4(g) had
+decomposed.
+
+If the equilibrium constant, K c, for the reaction is 0,16 at 325 °C, calculate the
+value of X.
+
+(8)
+   [16]
+
+2 dm3
+
+=== page 12 ===
+Physical Sciences/P2  12 DBE/November 2018
+ NSC
+Copyright reserved  Please turn over
+
+QUESTION 7 (Start on a new page.)
+
+7.1 Sulphuric acid is a strong acid present in acid rain . It ionises in two steps as
+follows:
+
+ I: H2SO4(aq)  +  H2O(ℓ)  ⇌  H3O+(aq)  +
+
+4HSO (aq)
+
+II:
+
+4HSO (aq)  +  H2O(ℓ)  ⇌  H3O+(aq)  +
+2
+4SO (aq)
+
+ 7.1.1 Define an acid in terms of the Lowry-Brønsted theory.  (2)
+
+ 7.1.2 Write down the FORMULA of the conjugate base of H3O+(aq).    (1)
+
+ 7.1.3 Write down the FORMULA of the substance that acts as an
+ampholyte in the ionisation of sulphuric acid.
+
+(2)
+
+7.2 Acid rain does not cause damage to lakes that have rocks containing
+limestone (CaCO 3). Hydrolysis of CaCO 3 results in the formation of ions ,
+which neutralise the acid.
+
+ 7.2.1 Define hydrolysis of a salt.  (2)
+
+ 7.2.2 Explain, with the aid of the relevant HYDROLYSIS reaction, how
+limestone can neutralise the acid.
+
+(3)
+
+7.3 The water in a certain lake has a pH of 5.
+
+ 7.3.1 Calculate the concentration of the hydronium ions in the water.  (3)
+
+ The volume of water in the lake is 4 x 10 9 dm3. Lime, CaO, is added to the
+water to neutralise the acid according to the following reaction:
+
+CaO  +  2H3O+  ⇌  Ca2+  +  3H2O
+
+ 7.3.2 If the final amount of hydronium ions is 1, 26 x 103 moles, calculate
+the mass of lime that was added to the lake.
+
+(7)
+    [20]
+
+=== page 13 ===
+Physical Sciences/P2  13 DBE/November 2018
+ NSC
+Copyright reserved  Please turn over
+
+QUESTION 8 (Start on a new page.)
+
+8.1 Corrosion is a redox reaction that takes place in the presence of oxygen and
+water. Rusting is the corrosion of iron leading to the formation of iron(III) ions.
+
+ 8.1.1 Define oxidation in terms of electron transfer.  (2)
+
+ A cleaned copper rod and a cleaned iron nail are placed in a beaker
+containing water at 25°C, as shown below.
+
+ After a while it was observed  that the iron nail was coated  with rust. The
+copper rod showed no visible signs of corrosion.
+
+ 8.1.2 Write down the half-reaction for the iron nail.  (2)
+
+ 8.1.3 Does iron act as REDUCING AGENT or OXIDISING AGENT in the
+beaker?
+
+(1)
+
+ 8.1.4 Explain the above observation by referring to the Table of Standard
+Reduction Potentials.
+
+(3)
+
+ To prevent rusting of an underground iron pipe, the pipe is connected to a
+metal (Q) that corrodes easily.
+
+ 8.1.5 You are given two metals, Zn and Cu, to use as metal Q.
+Which metal would more suitable? Give a reason.
+
+(2)
+
+8.2 A galvanic cell is constructed using a Fe | Fe 3+ half-cell and a Cu | Cu 2+
+half-cell.
+
+ 8.2.1 Write down the overall (net) cell reaction that takes place when the
+cell is functioning.
+
+(3)
+
+ 8.2.2 Calculate the cell potential of this cell under standard conditions.  (4)
+    [17]
+H2O(ℓ)
+Cu
+ Fe
+connecting wire
+Q
+iron pipe
+moist soil
+
+=== page 14 ===
+Physical Sciences/P2  14 DBE/November 2018
+ NSC
+Copyright reserved  Please turn over
+
+QUESTION 9 (Start on a new page.)
+
+The electrolytic cell belo w is set up to obtain pure copper from a piece of impure
+copper.
+
+The impure copper contains other metals , such as platinum, iron, cobalt, silver and
+nickel.
+
+The cell potential of the power source is adjusted so that only copper is depo sited on
+electrode B.
+
+9.1 Define an electrolytic cell.  (2)
+
+9.2 Write down the FORMULA of a suitable electrolyte for this cell.  (1)
+
+9.3 Which electrode (A or B) is the cathode?
+Write down the relevant half-reaction taking place at this electrode.
+
+(3)
+
+9.4 Sludge forms below one of the electrodes whil e the cell above is in operation.
+Which of the metals, PLATINUM, IRON, COBALT, SILVER or NICKEL, will be
+present in the sludge?
+
+(2)
+   [8]
+
+electrolyte
+ B  A
+power source
+
+=== page 15 ===
+Physical Sciences/P2  15 DBE/November 2018
+ NSC
+Copyright reserved
+
+QUESTION 10 (Start on a new page.)
+
+10.1 Write down the name of the industrial process:
+
+ 10.1.1 I  (1)
+
+ 10.1.2 II  (1)
+
+10.2 Write down the NAME or FORMULA of:
+
+ 10.2.1 Fertiliser Y   (1)
+
+ 10.2.2 The catalyst used in process I  (1)
+
+10.3 In reaction P, NH3(g) reacts with another substance. Write down a balanced
+equation for this reaction.
+
+(3)
+
+10.4 The following substances are present in a bag of fertiliser:
+
+ 20 kg ammonium nitrate (NH4NO3)
+ 12 kg sodium phosphate (Na3PO4)
+ 18 kg potassium chloride (KCℓ)
+
+Calculate the NPK ratio of the fertiliser.
+
+(5)
+   [12]
+
+ TOTAL:  150
+
+In the flow d iagram below, I and II represent industrial processes used in the fertiliser
+industry.
+
+P and Q are chemical reactions that take place to produce  ammonium sulphate and
+fertiliser Y respectively.
+
+NH3(g) N2(g) + H2(g)
+Fertiliser Y
+Ammonium sulphate
+HNO3(aq) I II
+P
+HNO3(aq) Q
+
+=== page 16 ===
+Physical Sciences/P2 1 DBE/November 2018
+ NSC
+Copyright reserved Please turn over
+
+DATA FOR PHYSICAL SCIENCES GRADE 12
+PAPER 2 (CHEMISTRY)
+
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 12
+VRAESTEL 2 (CHEMIE)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Standard pressure
+Standaarddruk
+p  1,013 x 105 Pa
+Molar gas volume at STP
+Molêre gasvolume by STD Vm 22,4 dm3∙mol-1
+Standard temperature
+Standaardtemperatuur
+T  273 K
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Avogadro's constant
+Avogadro-konstante NA 6,02 x 1023 mol-1
+
+TABLE 2:  FORMULAE/TABEL 2:  FORMULES
+
+M
+mn
+
+AN
+Nn
+V
+nc
+          or/of
+MV
+mc
+mV
+Vn
+b
+a
+bb
+aa
+n
+n
+vc
+vc 
+ pH = -log[H3O+]
+Kw = [H3O+][OH-] = 1 x 10-14 at/by 298 K
+θ
+anode
+θ
+cathode
+θ
+cell EEE 
+ /
+θ
+anode
+θ
+katode
+θ
+sel EEE 
+
+or/of
+θ
+oxidation
+θ
+reduction
+θ
+cell EEE 
+/
+θ
+oksidasie
+θ
+reduksie
+θ
+sel EEE 
+
+or/of
+θ
+agent reducing
+θ
+agent oxidising
+θ
+cell EEE 
+ /
+θ
+ddelreduseermi
+θ
+ddeloksideermi
+θ
+sel EEE 
+
+=== page 17 ===
+Physical Sciences/P2 2 DBE/November 2018
+ NSC
+Copyright reserved  Please turn over
+TABLE 3: THE PERIODIC TABLE OF ELEMENTS
+TABEL 3: DIE PERIODIEKE TABEL VAN ELEMENTE
+1
+(I)
+2
+(II)
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12 13
+(III)
+14
+(IV)
+15
+(V)
+16
+(VI)
+17
+(VII)
+18
+(VIII)
+2,1 1
+H
+1
+
+  2
+He
+4
+1,0 3
+Li
+7
+1,5 4
+Be
+9
+
+2,0 5
+B
+11
+2,5 6
+C
+12
+3,0 7
+N
+14
+3,5 8
+O
+16
+4,0 9
+F
+19
+ 10
+Ne
+20
+0,9 11
+Na
+23
+1,2 12
+Mg
+24
+
+1,5 13
+Aℓ
+27
+1,8 14
+Si
+28
+2,1 15
+P
+31
+2,5 16
+S
+32
+3,0 17
+Cℓ
+35,5
+ 18
+Ar
+40
+0,8 19
+K
+39
+1,0 20
+Ca
+40
+1,3 21
+Sc
+45
+1,5 22
+Ti
+48
+1,6 23
+V
+51
+1,6 24
+Cr
+52
+1,5 25
+Mn
+55
+1,8 26
+Fe
+56
+1,8 27
+Co
+59
+1,8 28
+Ni
+59
+1,9 29
+Cu
+63,5
+1,6 30
+Zn
+65
+1,6 31
+Ga
+70
+1,8 32
+Ge
+73
+2,0 33
+As
+75
+2,4 34
+Se
+79
+2,8 35
+Br
+80
+ 36
+Kr
+84
+0,8 37
+Rb
+86
+1,0 38
+Sr
+88
+1,2 39
+Y
+89
+1,4 40
+Zr
+91
+
+41
+Nb
+92
+1,8 42
+Mo
+96
+1,9 43
+Tc
+
+2,2 44
+Ru
+101
+2,2 45
+Rh
+103
+2,2 46
+Pd
+106
+1,9 47
+Ag
+108
+1,7 48
+Cd
+112
+1,7 49
+In
+115
+1,8 50
+Sn
+119
+1,9 51
+Sb
+122
+2,1 52
+Te
+128
+2,5 53
+I
+127
+ 54
+Xe
+131
+0,7 55
+Cs
+133
+0,9 56
+Ba
+137
+
+57
+La
+139
+1,6 72
+Hf
+179
+
+73
+Ta
+181
+
+74
+W
+184
+
+75
+Re
+186
+
+76
+Os
+190
+
+77
+Ir
+192
+
+78
+Pt
+195
+
+79
+Au
+197
+
+80
+Hg
+201
+1,8 81
+Tℓ
+204
+1,8 82
+Pb
+207
+1,9 83
+Bi
+209
+2,0 84
+Po
+
+2,5 85
+At
+
+ 86
+Rn
+
+0,7 87
+Fr
+
+0,9 88
+Ra
+226
+
+89
+Ac
+
+58
+Ce
+140
+59
+Pr
+141
+60
+Nd
+144
+61
+Pm
+
+62
+Sm
+150
+63
+Eu
+152
+64
+Gd
+157
+65
+Tb
+159
+66
+Dy
+163
+67
+Ho
+165
+68
+Er
+167
+69
+Tm
+169
+70
+Yb
+173
+71
+Lu
+175
+
+90
+Th
+232
+91
+Pa
+
+92
+U
+238
+93
+Np
+
+94
+Pu
+
+95
+Am
+
+96
+Cm
+
+97
+Bk
+
+98
+Cf
+
+99
+Es
+
+100
+Fm
+
+101
+Md
+
+102
+No
+
+103
+Lr
+
+Electronegativity
+Elektronegatiwiteit
+Approximate relative atomic mass
+Benaderde relatiewe atoommassa
+Atomic number
+Atoomgetal
+
+    29
+   Cu
+    63,5
+1,9  Symbol
+ Simbool
+
+KEY/SLEUTEL
+
+=== page 18 ===
+Physical Sciences/P2 3 DBE/November 2018
+ NSC
+Copyright reserved Please turn over
+TABLE 4A: STANDARD REDUCTION POTENTIALS
+TABEL 4A: STANDAARD-REDUKSIEPOTENSIALE
+Half-reactions/Halfreaksies
+θE  (V)
+F2(g) + 2e ⇌ 2F + 2,87
+Co3+ + e ⇌ Co2+ + 1,81
+H2O2 + 2H+ +2e ⇌ 2H2O +1,77
+MnO
+
+4  + 8H+ + 5e ⇌ Mn2+ + 4H2O + 1,51
+Cℓ2(g) + 2e ⇌ 2Cℓ + 1,36
+Cr2O
+2
+7  + 14H+ + 6e ⇌ 2Cr3+ + 7H2O + 1,33
+O2(g) + 4H+ + 4e ⇌ 2H2O + 1,23
+MnO2 + 4H+ + 2e ⇌ Mn2+ + 2H2O + 1,23
+Pt2+ + 2e ⇌ Pt + 1,20
+Br2(ℓ) + 2e ⇌ 2Br + 1,07
+NO
+
+3  + 4H+ + 3e ⇌ NO(g) + 2H2O + 0,96
+Hg2+ + 2e ⇌ Hg(ℓ) + 0,85
+Ag+ + e ⇌ Ag + 0,80
+NO
+
+3  + 2H+ + e ⇌ NO2(g) + H2O + 0,80
+Fe3+ + e ⇌ Fe2+ + 0,77
+O2(g) + 2H+ + 2e ⇌ H2O2 + 0,68
+I2 + 2e ⇌ 2I + 0,54
+Cu+ + e ⇌ Cu + 0,52
+SO2 + 4H+ + 4e ⇌ S + 2H2O + 0,45
+2H2O + O2 + 4e ⇌ 4OH + 0,40
+Cu2+ + 2e ⇌ Cu + 0,34
+SO
+2
+4  + 4H+ + 2e ⇌ SO2(g) + 2H2O + 0,17
+Cu2+ + e ⇌ Cu+ + 0,16
+Sn4+ + 2e ⇌ Sn2+ + 0,15
+S + 2H+ + 2e  ⇌ H2S(g) + 0,14
+2H+ + 2e ⇌ H2(g) 0,00
+Fe3+ + 3e ⇌ Fe  0,06
+Pb2+ + 2e ⇌ Pb  0,13
+Sn2+ + 2e ⇌ Sn  0,14
+Ni2+ + 2e ⇌ Ni  0,27
+Co2+ + 2e ⇌ Co  0,28
+Cd2+ + 2e ⇌ Cd  0,40
+Cr3+ + e ⇌ Cr2+  0,41
+Fe2+ + 2e ⇌ Fe  0,44
+Cr3+ + 3e ⇌ Cr  0,74
+Zn2+ + 2e ⇌ Zn  0,76
+2H2O + 2e ⇌ H2(g) + 2OH  0,83
+Cr2+ + 2e ⇌ Cr  0,91
+Mn2+ + 2e ⇌ Mn  1,18
+Aℓ3+ + 3e ⇌ Aℓ  1,66
+Mg2+ + 2e ⇌ Mg  2,36
+Na+ + e ⇌ Na  2,71
+Ca2+ + 2e ⇌ Ca  2,87
+Sr2+ + 2e ⇌ Sr  2,89
+Ba2+ + 2e ⇌ Ba  2,90
+Cs+ + e- ⇌ Cs - 2,92
+K+ + e ⇌ K  2,93
+Li+ + e ⇌ Li  3,05
+Increasing oxidising ability/Toenemende oksiderende vermoë
+Increasing reducing ability/Toenemende reduserende vermoë
+
+=== page 19 ===
+Physical Sciences/P2 4 DBE/November 2018
+NSC
+Copyright reserved
+TABLE 4B: STANDARD REDUCTION POTENTIALS
+TABEL 4B: STANDAARD-REDUKSIEPOTENSIALE
+
+Half-reactions/Halfreaksies
+θE  (V)
+Li+ + e ⇌ Li  3,05
+K+ + e ⇌ K  2,93
+Cs+ +  e ⇌ Cs  2,92
+Ba2+ + 2e ⇌ Ba  2,90
+Sr2+ + 2e ⇌ Sr  2,89
+Ca2+ + 2e ⇌ Ca  2,87
+Na+ + e ⇌ Na  2,71
+Mg2+ + 2e ⇌ Mg  2,36
+Aℓ3+ + 3e ⇌ Aℓ  1,66
+Mn2+ + 2e ⇌ Mn  1,18
+Cr2+ + 2e ⇌ Cr  0,91
+2H2O + 2e ⇌ H2(g) + 2OH  0,83
+Zn2+ + 2e ⇌ Zn  0,76
+Cr3+ + 3e ⇌ Cr  0,74
+Fe2+ + 2e ⇌ Fe  0,44
+Cr3+ + e ⇌ Cr2+  0,41
+Cd2+ + 2e ⇌ Cd  0,40
+Co2+ + 2e ⇌ Co  0,28
+Ni2+ + 2e ⇌ Ni  0,27
+Sn2+ + 2e ⇌ Sn  0,14
+Pb2+ + 2e ⇌ Pb  0,13
+Fe3+ + 3e ⇌ Fe  0,06
+2H+ + 2e ⇌ H2(g) 0,00
+S + 2H+ + 2e  ⇌ H2S(g) + 0,14
+Sn4+ + 2e ⇌ Sn2+ + 0,15
+Cu2+ + e ⇌ Cu+ + 0,16
+SO
+2
+4  + 4H+ + 2e ⇌ SO2(g) + 2H2O + 0,17
+Cu2+ + 2e ⇌ Cu  + 0,34
+2H2O + O2 + 4e ⇌ 4OH + 0,40
+SO2 + 4H+ + 4e ⇌ S + 2H2O + 0,45
+Cu+ + e ⇌ Cu + 0,52
+I2 + 2e ⇌ 2I + 0,54
+O2(g) + 2H+ + 2e ⇌ H2O2 + 0,68
+Fe3+ + e ⇌ Fe2+ + 0,77
+NO
+
+3  + 2H+ + e ⇌ NO2(g) + H2O + 0,80
+Ag+ + e ⇌ Ag + 0,80
+Hg2+ + 2e ⇌ Hg(ℓ) + 0,85
+NO
+
+3  + 4H+ + 3e ⇌ NO(g) + 2H2O + 0,96
+Br2(ℓ) + 2e ⇌ 2Br + 1,07
+Pt2+ + 2 e ⇌ Pt + 1,20
+MnO2 + 4H+ + 2e ⇌ Mn2+ + 2H2O + 1,23
+O2(g) + 4H+ + 4e ⇌ 2H2O + 1,23
+Cr2O
+2
+7  + 14H+ + 6e ⇌ 2Cr3+ + 7H2O + 1,33
+Cℓ2(g) + 2e ⇌ 2Cℓ + 1,36
+MnO
+
+4  + 8H+ + 5e ⇌ Mn2+ + 4H2O + 1,51
+H2O2 + 2H+ +2 e ⇌ 2H2O +1,77
+Co3+ + e ⇌ Co2+ + 1,81
+F2(g) + 2e ⇌ 2F + 2,87
+Increasing oxidising ability/Toenemende oksiderende vermoë
+Increasing reducing ability/Toenemende reduserende vermoë

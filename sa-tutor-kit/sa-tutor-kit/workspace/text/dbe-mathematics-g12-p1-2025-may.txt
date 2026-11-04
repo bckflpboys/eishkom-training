@@ -1,0 +1,317 @@
+Confidential
+
+**basic education**  
+Department:  
+Basic Education  
+REPUBLIC OF SOUTH AFRICA  
+
+---
+
+**SENIOR CERTIFICATE EXAMINATIONS /**  
+**NATIONAL SENIOR CERTIFICATE EXAMINATIONS**  
+
+---
+
+**MATHEMATICS P1**  
+
+**MAY/JUNE 2025**  
+
+**MARKS:** 150  
+**TIME:** 3 hours  
+
+---
+
+This question paper consists of 9 pages and 1 information sheet.
+
+---
+Copyright reserved  
+Please turn over
+
+---
+
+## INSTRUCTIONS AND INFORMATION
+
+Read the following instructions carefully before answering the questions.
+
+1. This question paper consists of 11 questions.
+
+2. Answer **ALL** the questions in the **SPECIAL ANSWER BOOK** provided.
+
+3. Clearly show **ALL** calculations, diagrams, graphs, etc. which you have used in determining your answers.
+
+4. Answers only will **NOT** necessarily be awarded full marks.
+
+5. You may use an approved scientific calculator (non-programmable and non-graphical), unless stated otherwise.
+
+6. If necessary, round off answers correct to **TWO** decimal places, unless stated otherwise.
+
+7. Diagrams are **NOT** necessarily drawn to scale.
+
+8. An information sheet with formulae is included at the end of the question paper.
+
+9. Write neatly and legibly.
+
+---
+Copyright reserved  
+Please turn over
+
+---
+
+## QUESTION 1
+
+1.1 Solve for $x$:
+
+1.1.1 $x^2 - 3x - 10 = 0$ (3)
+
+1.1.2 $3x^2 + 6x + 1 = 0$ (correct to **TWO** decimal places) (3)
+
+1.1.3 $2^{x+4} + 2^x = 8\ 704$ (3)
+
+1.1.4 $(x - 8)(x + 2) \le 0$ (3)
+
+1.1.5 $x + 3\sqrt{x + 2} = 2$ (4)
+
+1.2 A rectangle having sides of $(y - 3)\text{ metres}$ and $(x + 2)\text{ metres}$ has a perimeter of $24\text{ metres}$ and an area of $32\text{ square metres}$. Calculate the values of $x$ and $y$. (6)
+
+1.3 Show that $(1 + x^m + x^{-n})^2 - (1 - x^m - x^{-n})^2$ is divisible by $2$ for all real values of $m$ and $n$. (3)  
+**[25]**
+
+---
+Copyright reserved  
+Please turn over
+
+---
+
+## QUESTION 2
+
+2.1 Given the arithmetic series: $5 + 7 + 9 + \dots + 93$
+
+2.1.1 Determine the general term of the series, $T_n$, in the form $T_n = pn + q$. (2)
+
+2.1.2 The given series represents the number of kilometres that an athlete ran each week in preparation for an ultramarathon. The athlete ran $93\text{ km}$ in the last week of the training programme. How long, in weeks, was the training programme? (2)
+
+2.1.3 The athlete used this opportunity to raise funds for her high school. The community sponsored her $\text{R}10$ for each kilometre run during the training programme. Calculate the total amount that the athlete raised for her school. (3)
+
+2.2 The general term of a geometric sequence is $T_n = 2^{n+2}$
+
+2.2.1 Write down:
+
+(a) The first term (1)
+
+(b) The common ratio (1)
+
+2.2.2 Calculate $T_{20}$ (Write your answer as a power of 4.) (2)
+
+2.2.3 Calculate $\sum_{n=1}^{\infty} \frac{1}{T_n}$ (3)
+
+2.2.4 Consider the first $21$ terms of the sequence $T_n = 2^{n+2}$. Calculate the sum of the terms in this sequence that are not powers of $4$. (4)  
+**[18]**
+
+---
+
+## QUESTION 3
+
+Given the quadratic sequence: $14\ ;\ 9\ ;\ 6\ ;\ 5\ ;\ \dots$
+
+3.1 Show that the general term of this sequence is $T_n = n^2 - 8n + 21$. (3)
+
+3.2 Two consecutive terms of the quadratic sequence have a difference of $33$. Calculate the value of the larger term. (3)
+
+3.3 The value of $m$ is added to each term in the quadratic sequence. Determine the values of $m$ for which only the terms between $T_1$ and $T_7$ of the quadratic sequence will have negative values. (3)  
+**[9]**
+
+---
+Copyright reserved  
+Please turn over
+
+---
+
+## QUESTION 4
+
+[DIAGRAM: A sketch of the hyperbola $f(x) = \frac{4}{x-3} + 4$ in a Cartesian plane. The asymptotes intersect at point M, with the horizontal asymptote above the x-axis and the vertical asymptote to the right of the y-axis. The graph has two branches: one in the top right quadrant relative to M, with point A on it closest to M; and one in the bottom left quadrant relative to M. The x-intercept is C and the y-intercept is D.]
+
+The graph of $f(x) = \frac{4}{x-3} + 4$ is drawn below. M is the point where the asymptotes of $f$ intersect. C and D are the $x$- and $y$-intercepts respectively of $f$. A is the point on $f$ that is closest to M.
+
+4.1 Write down the coordinates of M. (2)
+
+4.2 Calculate the coordinates of D. (2)
+
+4.3 If $y = x + t$ is the equation of a line of symmetry of $f$, calculate the value of $t$. (2)
+
+4.4 Determine the values of $x$ for which $f(x) \le 0$. (4)
+
+4.5 Calculate the coordinates of A. (3)
+
+4.6 A single transformation is applied to $f$ to obtain a new graph defined as $h(x) = \frac{-4}{x+3} + 4$. $A'$ is the image of A under this transformation. Calculate the length of $AA'$. (2)  
+**[15]**
+
+---
+Copyright reserved  
+Please turn over
+
+---
+
+## QUESTION 5
+
+[DIAGRAM: A sketch of the parabola $f(x) = a(x+p)^2 + q$ opening downwards with turning point $C(-1; 4)$ and passing through point $B(-3; -4)$. The graph intersects the x-axis at two points and the y-axis in the positive region.]
+
+The graph of $f(x) = a(x+p)^2 + q$ is drawn below. $C(-1\ ;\ 4)$ is the turning point of $f$. $B(-3\ ;\ -4)$ is a point on $f$.
+
+5.1 Show that $f(x) = -2x^2 - 4x + 2$. (3)
+
+5.2 Determine the values of $k$ for which $h(x) = f(x) + k$ will have no real roots. (2)
+
+5.3 The graph of $y = g'(x)$, where $g'$ is the derivative of $g$, is obtained when $f$ is reflected over the line $y = 4$. Draw a sketch graph of $g$ if $g(0) < 0$. Clearly indicate any stationary points on your graph. (4)  
+**[9]**
+
+---
+Copyright reserved  
+Please turn over
+
+---
+
+## QUESTION 6
+
+[DIAGRAM: A sketch of an exponential graph $f(x) = p^x + q$ and a straight line $g(x) = mx + c$. The exponential graph passes through $A(3; 4)$ and its horizontal asymptote is below the x-axis, passing through $B(0; -3)$, which is also the y-intercept of $f$. The straight line $g$ intersects $f$ at $A(3; 4)$, has y-intercept at $(0, c)$, and an x-intercept at $E$.]
+
+The graphs of $f(x) = p^x + q$ and $g(x) = mx + c$ are drawn below. $A(3\ ;\ 4)$ is the point of intersection of $f$ and $g$. $B(0\ ;\ -3)$ is the $y$-intercept of $f$. $E$ is the $x$-intercept of $g$.
+
+6.1 Calculate the values of $p$ and $q$. (4)
+
+6.2 Write down the range of $f$. (1)
+
+6.3 The graph of $g^{-1}$, the inverse of $g$, also passes through $B$. Determine the equation of $g$ in the form $y = \dots$ (4)
+
+6.4 Write down the equation of $g^{-1}$ in the form $y = \dots$ (2)  
+**[11]**
+
+---
+Copyright reserved  
+Please turn over
+
+---
+
+## QUESTION 7
+
+7.1 John invests an amount of money in an account paying interest at a rate of $15\%\text{ p.a.}$, compounded monthly. Calculate the annual effective interest rate of this investment. (2)
+
+7.2 Tino invests $\text{R}500\ 000$ in an account earning interest at the rate of $6\%\text{ p.a.}$, compounded quarterly. Tino decides to withdraw $\text{R}11\ 250$ at the end of every $3\text{ months}$. Tino will continue making these regular withdrawals until there is no money in the account. How many withdrawals of $\text{R}11\ 250$ will Tino be able to make? (5)
+
+7.3 On **1 March 2021**, Abby made a once-off deposit of $\text{R}12\ 000$ into an account earning interest at a rate of $9,5\%\text{ p.a.}$, compounded monthly. She deposited $\text{R}500$ into the same account on **1 April 2023** and continues to make these monthly deposits of $\text{R}500$ on the first day of each month thereafter.  
+
+Calculate how much money was in the account immediately after the deposit of $\text{R}500$ is made on **1 March 2025**, exactly four full years after her initial deposit. (6)  
+**[13]**
+
+---
+
+## QUESTION 8
+
+8.1 Determine $f'(x)$ from first principles if it is given that $f(x) = x^2 - 2$ (5)
+
+8.2 Determine:
+
+8.2.1 $\frac{d}{dx}\left[3x^2 - 4x\right]$ (2)
+
+8.2.2 $g'(x)$ if $g(x) = -2\sqrt{x}(x-1)^2$ (4)
+
+8.3 Given that $y = 4x - 14$ is a common tangent to $f(x) = 2x^2 - 4x - 6$ and $g(x) = ax^2 + bx - 18$, calculate the values of $a$ and $b$. (6)  
+**[17]**
+
+---
+Copyright reserved  
+Please turn over
+
+---
+
+## QUESTION 9
+
+Given: $f(x) = x^3 - 6x^2 + 9x - 4 = (x - 4)(x - k)^2$
+
+9.1 Show that $k = 1$. (2)
+
+9.2 Calculate the coordinates of the turning points of $f$. (4)
+
+9.3 Describe the concavity of $f$ at $x = -3$. (2)
+
+9.4 Draw the graph of $f$. Label **ALL** turning points and intercepts with the axes. (4)
+
+9.5 Calculate the maximum vertical distance between $f$ and $h$ for $1 < x < 3$, if $h(x) = -2f'(x)$. (6)  
+**[18]**
+
+---
+
+## QUESTION 10
+
+10.1 A and B are mutually exclusive events.  
+If $P(A) = 0,42$ and $P(A\text{ or }B) = 0,79$, calculate $P(B)$. (2)
+
+10.2 A game at a fun park requires a player to roll a six-sided dice and pick a card from a deck of 52 cards.  
+
+A player wins if an odd number appears on the uppermost face of the dice and the player also draws a picture card from the deck.  
+
+* A deck of cards has 4 suites (hearts, diamonds, spades and clubs).
+* There are 4 picture cards (king, queen, jack and ace) in every suite.  
+
+A player pays $\text{R}10$ to play a game and in an hour, 260 people can each play one game. If the owner wants to make a $70\%$ profit per hour, calculate the maximum amount that the owner must pay out to each winner. (6)  
+**[8]**
+
+---
+
+## QUESTION 11
+
+Consider the three-digit numbers from $501$ up to $999$.
+
+11.1 How many of these three-digit numbers have exactly one $5$ in them? (4)
+
+11.2 Calculate the probability of a three-digit number not satisfying the condition given in QUESTION 11.1. (3)  
+**[7]**
+
+---
+
+**TOTAL: 150**
+
+---
+Copyright reserved
+
+---
+
+## INFORMATION SHEET
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni) \quad A = P(1 - ni) \quad A = P(1 - i)^n \quad A = P(1 + i)^n$$
+
+$$T_n = a + (n-1)d \quad S_n = \frac{n}{2}[2a + (n-1)d]$$
+
+$$T_n = ar^{n-1} \quad S_n = \frac{a(r^n - 1)}{r - 1} \quad (r \neq 1) \quad S_{\infty} = \frac{a}{1 - r} \quad (-1 < r < 1)$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i} \quad P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} \quad M\left(\frac{x_1 + x_2}{2}\ ;\ \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c \quad y - y_1 = m(x - x_1) \quad m = \frac{y_2 - y_1}{x_2 - x_1} \quad m = \tan \theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+$$\text{In }\triangle ABC:\ \frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}$$
+
+$$a^2 = b^2 + c^2 - 2bc\cos A$$
+
+$$\text{area }\triangle ABC = \frac{1}{2}ab\sin C$$
+
+$$\sin(\alpha + \beta) = \sin\alpha\cos\beta + \cos\alpha\sin\beta \quad \sin(\alpha - \beta) = \sin\alpha\cos\beta - \cos\alpha\sin\beta$$
+
+$$\cos(\alpha + \beta) = \cos\alpha\cos\beta - \sin\alpha\sin\beta \quad \cos(\alpha - \beta) = \cos\alpha\cos\beta + \sin\alpha\sin\beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2\alpha - \sin^2\alpha \\ 1 - 2\sin^2\alpha \\ 2\cos^2\alpha - 1 \end{cases} \quad \sin 2\alpha = 2\sin\alpha\cos\alpha$$
+
+$$\bar{x} = \frac{\sum_{i=1}^{n} x_i}{n} \quad \sigma^2 = \frac{\sum_{i=1}^{n}(x_i - \bar{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)} \quad P(\text{A or B}) = P(A) + P(B) - P(A\text{ and }B)$$
+
+$$\hat{y} = a + bx \quad b = \frac{\sum(x - \bar{x})(y - \bar{y})}{\sum(x - \bar{x})^2}$$
+
+---
+Copyright reserved

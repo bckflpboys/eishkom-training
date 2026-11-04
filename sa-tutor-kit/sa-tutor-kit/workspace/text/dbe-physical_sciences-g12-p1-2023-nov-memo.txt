@@ -1,0 +1,309 @@
+# Physical Sciences P1/Fisiese Wetenskappe V1
+## Marking Guidelines/Nasienriglyne
+### November 2023
+### Grade 12
+
+---
+
+**QUESTION 1/VRAAG 1**
+
+1.1 B ✓✓ (2)
+1.2 A ✓✓ (2)
+1.3 D ✓✓ (2)
+1.4 B ✓✓ (2)
+1.5 B ✓✓ (2)
+1.6 A ✓✓ (2)
+1.7 D ✓✓ (2)
+1.8 B ✓✓ (2)
+1.9 C ✓✓ (2)
+1.10 A ✓✓ (2)
+**[20]**
+
+---
+
+**QUESTION 2/VRAAG 2**
+
+2.1 **Marking criteria/Nasienkriteria**
+If any of the underlined key words/phrases in the correct context is omitted deduct 1 mark/Indien enige van die onderstreepte sleutelwoorde/frases in die korrekte konteks uitgelaat is, trek 1 punt af.
+
+When a resultant/net force acts on an object, the object will accelerate in the direction of the force. The acceleration is directly proportional to the resultant/net force and inversely proportional to the mass of the object. ✓✓
+Wanneer 'n resulterende/netto krag op 'n voorwerp inwerk, sal die voorwerp in die rigting van die krag versnel. Die versnelling is direk eweredig aan die netto/resulterende krag en omgekeerd eweredig aan die massa van die voorwerp.
+
+**OR/OF**
+The resultant/net force acting on an object is equal to the rate of change of momentum of the object in the direction of the resultant/net force. (2 or 0)
+Die resulterende/netto krag wat op 'n voorwerp inwerk is gelyk aan die tempo van verandering van momentum in die rigting van die resulterende/netto krag. (2 of 0) (2)
+
+2.2
+[Diagram showing N upwards, w downwards, f to the left, T to the right]
+
+| Accepted labels/Aanvaarde benoemings |
+| :--- |
+| **N**: $F_N$/Normal/$F_{normal}$/$F_{normaal}$/Normaal |
+| **f**: (kinetic) friction/5,88 N /$F_f$/$f_k$/(kinetiese) wrywing /$F_w$ |
+| **w**: $F_g$/$F_w$/weight/mg/39,2 N/gravitational force / $F_g$/$F_w$/gewig/mg/39,2 N/gravitasiekrag |
+| **T**: $F_T$/$F_{string}$/tension/spanning/$F_{tou}$ |
+
+**Notes/Aantekeninge**
+* Mark is awarded for label and arrow./Punt word toegeken vir byskrif en pyltjie.
+* Do not penalise for length of arrows./Moenie vir die lengte van die pyltjies penaliseer nie.
+* If w is not shown but $w_{\parallel}$ and $w_{\perp}$ are shown, give 1 mark for both./Indien w nie getoon is nie maar $w_{\parallel}$ en $w_{\perp}$ is getoon, ken 1 punt toe vir beide.
+* If arrows do not touch the dot/Indien pyle nie die kolletjie raak nie: Max/Maks 3/4
+* Any other additional force(s)/Enige ander addisionele krag(te): Max/Maks 3/4
+* If everything correct, but no arrows/Indien alles korrek, maar geen pyltjies: Max/Maks 3/4 (4)
+
+2.3.1 **For block A/Vir blok A:**
+**UP THE INCLINE AS POSITIVE/TEEN DIE SKUINSTE OP AS POSITIEF**
+$F_{net} = ma$
+$T - f_k - w_{\parallel} = ma$
+$T - f_k - mg\sin\theta = ma$
+$T - 5,88 - 4(9,8)\sin35^\circ = 4(2)$ ✓
+$T = 36,36\text{ N}$ ✓
+
+**DOWN THE INCLINE AS POSITIVE/TEEN DIE SKUINSTE AF AS POSITIEF**
+$F_{net} = ma$
+$-T + f_k + w_{\parallel} = ma$
+$-T + f_k + mg\sin\theta = ma$
+$-T + 5,88 + 4(9,8)\sin35^\circ = 4(-2)$ ✓
+$T = 36,36\text{ N}$ ✓ (4)
+
+2.3.2 **POSITIVE MARKING FROM QUESTION 2.3.1**
+**For block B/Vir blok B:**
+**UP THE INCLINE AS POSITIVE/TEEN DIE SKUINSTE OP AS POSITIEF**
+$F_{net} = ma$
+$F - T - f_k - w_{\parallel} = ma$
+$F - 36,36 - 13,23 - 9(9,8)\sin35^\circ = (9)(2)$ ✓
+$F = 118,18\text{ N}$ ✓
+
+**DOWN THE INCLINE AS POSITIVE/TEEN DIE SKUINSTE AF AS POSITIEF**
+$F_{net} = ma$
+$-F + T + f_k + w_{\parallel} = ma$
+$-F + 36,36 + 13,23 + 9(9,8)\sin35^\circ = (9)(-2)$ ✓
+$F = 118,18\text{ N}$ ✓ (3)
+
+2.4.1 INCREASES/TOENEEM ✓ (1)
+
+2.4.2 Since $\mu_k$ and $m$ are constant, as $\theta$ decreases, normal force/$w_{\perp}$/$mg\cos\theta$ will increase. ✓
+Aangesien $\mu_k$ en $m$ konstant is, soos $\theta$ afneem sal normaalkrag/$w_{\perp}$/$mg\cos\theta$ toeneem.
+**OR/OF**
+$N = mg\cos\theta$
+Frictional force is directly proportional to normal force/ ✓
+Wrywing is direk eweredig aan normaalkrag
+**OR/OF** $f \propto N$ / $f \propto w_{\perp}$ / $f = \mu_k N$ (2)
+**[16]**
+
+---
+
+**QUESTION 3/VRAAG 3**
+
+3.1 Motion under the influence of gravitational force only. ✓✓ Accept weight/gravity.
+Beweging slegs onder die invloed van gravitasiekrag. Aanvaar swaartekrag/gewig/gravitasie. (2 or/of 0)
+**OR/OF**
+Motion in which the only force acting is gravitational force. Accept weight/gravity.
+Beweging waar die enigste krag wat inwerk, gravitasiekrag is. Aanvaar swaartekrag/gewig/gravitasie. (2 or/of 0) (2)
+
+3.2 **Marking criteria/Nasienkriteria**
+* Correct formula for $v_i$. ✓
+* Correct substitution into formula. ✓
+* Correct final answer: $10,74\text{ m}\cdot\text{s}^{-1}$ ✓
+Note: If energy principles are used, max: 1/3 for answer.
+
+**OPTION 1/OPSIE 1 (A-B)**
+**UPWARDS AS POSITIVE:** $v_f^2 = v_i^2 + 2a\Delta y$ ✓
+$0^2 = v_i^2 + 2(-9,8)(5,89)$ ✓
+$v_i = 10,74\text{ m}\cdot\text{s}^{-1}$ ✓
+
+**DOWNWARDS AS POSITIVE:** $v_f^2 = v_i^2 + 2a\Delta y$ ✓
+$0^2 = v_i^2 + 2(9,8)(-5,89)$ ✓
+$v_i = 10,74\text{ m}\cdot\text{s}^{-1}$ ✓ (3)
+
+3.3.1 **POSITIVE MARKING FROM QUESTION 3.2.**
+**Marking criteria/Nasienkriteria**
+* Any one of the correct formulae leading to the velocity at which the ball strikes the ground. ✓
+* Correct substitution leading to the velocity at which the ball strikes the ground. ✓
+* Correct formula for $\Delta E_k$/$E_k$/$E_k$ lost. ✓
+* Correct substitution into $\Delta E_k$/$E_k$ lost formula. ✓
+* Correct final answer: +/- 68,31 J ✓ (Range: 67,91 – 69,34 J)
+
+**DURING COLLISION/TYDENS BOTSING**
+$\Delta E_k = E_{kf} - E_{ki}$
+$\Delta E_k = \frac{1}{2}m(v_f^2 - v_i^2)$
+$\Delta E_k = \frac{1}{2}(0,5)[(11,92)^2 - (20,38)^2]$ ✓
+$\Delta E_k/E_k \text{ lost} = -68,31\text{ J}$ ✓
+
+**OR/OF**
+$\Delta E_k = \frac{1}{2}(0,5)[(20,38)^2 - (11,92)^2]$ ✓
+$\Delta E_k/E_k \text{ lost} = 68,31\text{ J}$ ✓
+
+3.3.2 **Marking criteria/Nasienkriteria**
+* Correct formula to calculate $\Delta t$. ✓
+* Correct substitution to calculate $\Delta t$. ✓
+* Correct final answer: $1,22\text{ s}$ ✓
+
+**OPTION 1 (G-P, UPWARDS AS POSITIVE):**
+$v_f = v_i + a\Delta t$ ✓
+$0 = 11,92 + (-9,8)\Delta t$ ✓
+$\Delta t = 1,22\text{ s}$ ✓
+
+3.4.1 $11,92\text{ (m}\cdot\text{s}^{-1})$ ✓ (1)
+3.4.2 $10,74\text{ (m}\cdot\text{s}^{-1})$ ✓ (1)
+3.4.3 $1,22\text{ (s)}$ ✓ (1)
+**[16]**
+
+---
+
+**QUESTION 4/VRAAG 4**
+
+4.1 $591\text{ N}$ to the right/original direction of bullet/Accept East ✓ (1)
+
+4.2 **Marking criteria/Nasienkriteria**
+* Any correct formula for conservation of momentum. ✓
+* Correct substitutions. ✓✓
+* Correct final answer: $395,58\text{ m}\cdot\text{s}^{-1}$ ✓
+
+**OPTION 1:**
+$\Sigma p_i = \Sigma p_f$
+$m_b v_{bi} + m_t v_{ti} = (m_b + m_t)v_f$
+$(0,03)v_{bi} + (2,7)(-3) = (0,03 + 2,7)(1,38)$ ✓
+$(0,03)v_{bi} = 11,86$
+$v_i = 395,58\text{ m}\cdot\text{s}^{-1}$ ✓ (4)
+
+4.3 **Marking criteria/Nasienkriteria**
+The total (linear) momentum in an isolated system is conserved/remains constant. ✓✓
+Accept for 1 mark: In an isolated system the total momentum before a collision is equal to the total momentum after a collision. (2)
+
+4.4 **POSITIVE MARKING FROM QUESTION 4.2.**
+**OPTION 1 (RIGHT AS POSITIVE):**
+$\Sigma p_i = \Sigma p_f$
+$m_x v_{ix} + m_y v_{iy} = m_x v_{fx} + m_y v_{fy}$
+$(0,03)(395,58) + (2,7)(-3) = v_f(0,03 + 2,7)$ ✓
+$v_f = 1,38\text{ m}\cdot\text{s}^{-1}$ ✓ (4)
+**[11]**
+
+---
+
+**QUESTION 5/VRAAG 5**
+
+5.1 [Diagram showing N upwards, w downwards, f to the left] (3)
+
+5.2 Initial kinetic energy/$E_{kA}$/$E_{ki}$/$K_i$ ✓ (1)
+
+5.3 The net/total work done (on an object) is equal to the change in the object's kinetic energy. ✓✓ (2)
+
+5.4 **OPTION 1:**
+gradient = $\frac{\Delta y}{\Delta x} = \frac{1}{f}$ ✓
+$\frac{1,5}{6} = \frac{1}{f}$ ✓
+$f = 4\text{ N}$
+$f_k = \mu_k N$ ✓
+$4 = (0,18)(m)(9,8)$ ✓
+$m = 2,27\text{ kg}$ ✓ (6)
+**[12]**
+
+---
+
+**QUESTION 6/VRAAG 6**
+
+6.1.1 The change in frequency (pitch) of the sound detected by a listener because the sound source and the listener have different velocities relative to the medium of sound propagation. ✓✓ (2)
+
+6.1.2 $f_L = \frac{v \pm v_L}{v \pm v_s} f_s$ ✓
+$512,64 = \left(\frac{v}{v + 25}\right)(550)$ ✓
+$v = 343,04\text{ m}\cdot\text{s}^{-1}$ ✓ (5)
+
+6.1.3 a) Remains the same ✓ (1)
+b) Remains the same ✓ (1)
+c) Decreases ✓ (1)
+
+6.2.1 AWAY FROM/WEG VAN ✓ (1)
+
+6.2.2 A lower frequency/longer wavelength ✓ is detected. The spectral lines are shifted to the red end of the spectrum. ✓ (2)
+**[13]**
+
+---
+
+**QUESTION 7/VRAAG 7**
+
+7.1 Electric field is a region/space in which an electric charge experiences a force. ✓✓ (2)
+
+7.2 [Sketch of electric field lines between two positive charges]
+* Correct direction of field lines. ✓
+* Correct shape of the electric field lines. ✓
+* No field lines crossing each other. ✓ (3)
+
+7.3 **OPTION 1:**
+$E = \frac{kQ}{r^2}$ ✓
+$E_{net} = E_A - E_B$
+$27 = \frac{(9 \times 10^9)(3 \times 10^{-9})}{r^2} - \frac{(9 \times 10^9)(3 \times 10^{-9})}{(2r)^2}$ ✓
+$r = 0,87\text{ (m)}$ ✓ (5)
+
+7.4 $F = Eq$ ✓
+$F = (27)(1,6 \times 10^{-19})$ ✓
+$F = 4,32 \times 10^{-18}\text{ N}$ ✓ (3)
+**[13]**
+
+---
+
+**QUESTION 8/VRAAG 8**
+
+8.1 The potential difference (voltage) across a conductor is directly proportional to the current in the conductor at constant temperature. ✓✓ (2)
+
+8.2.1 **OPTION 1:**
+$R_{12L} = R_L + \left(\frac{R_1 R_2}{R_1 + R_2}\right) = 10 + \left(\frac{10 \times 10}{10 + 10}\right) = 15\text{ }\Omega$ ✓
+$R_p = \left(\frac{R_3 R_{12L}}{R_3 + R_{12L}}\right) = \left(\frac{15 \times 15}{15 + 15}\right) = 7,5\text{ }\Omega$ ✓ (5)
+
+8.2.2 $\varepsilon = I(R + r)$ ✓
+$12 = I(7,5 + 0,5)$ ✓
+$I = 1,5\text{ A}$ ✓ (3)
+
+8.2.3 $P = I^2R$ ✓
+$P = (0,75)^2(15)$ ✓
+$P = 8,44\text{ W}$ ✓ (4)
+
+8.3.1 INCREASES/NEEM TOE ✓ (1)
+
+8.3.2 Total resistance of the circuit increases and total current in circuit decreases. ✓
+$V_{internal}$ decreases and $V_{external}$ increases. ✓
+Power output increases therefore brightness increases. ✓ (3)
+**[18]**
+
+---
+
+**QUESTION 9/VRAAG 9**
+
+9.1.1 Split ring/Commutator ✓ (1)
+9.1.2 Electrical to mechanical/kinetic ✓ (1)
+9.1.3 Clockwise/Kloksgewys ✓✓ (2)
+9.1.4 Increase the strength of the magnetic field / Increase the current. ✓✓ (2)
+
+9.2.1 Root-mean-square current is the alternating current (AC) that dissipates the same amount of energy/heating effect as an equivalent direct current (DC) current. ✓✓ (2)
+
+9.2.2 $I_{rms} = \frac{I_{max}}{\sqrt{2}}$ ✓
+$I_{rms} = \frac{3,6}{\sqrt{2}} = 2,55\text{ A}$ ✓ (3)
+
+9.2.3 $W = VI\Delta t$ ✓
+$W = (220)(2,62)(120)$ ✓
+$W = 69 168\text{ J}$ ✓ (3)
+**[14]**
+
+---
+
+**QUESTION 10/VRAAG 10**
+
+10.1.1 The minimum energy (of incident photons) that can eject electrons from a metal/surface. ✓✓ (2)
+
+10.1.2 **OPTION 1:**
+$E = hf$ ✓
+$E = (6,63 \times 10^{-34})(2,8 \times 10^{16})$ ✓
+$E = 1,86 \times 10^{-17}\text{ J}$ ✓
+Since $E > W_0$, electrons will be ejected. ✓ (4)
+
+10.1.3 **OPTION 1:**
+$F = \frac{kQ_1 Q_2}{r^2}$ ✓
+$0,027 = \frac{(9 \times 10^9)(5,4 \times 10^{-6})Q_2}{(0,1)^2}$ ✓
+$Q_2 = 5,56 \times 10^{-9}\text{ C}$
+$n = \frac{Q}{e} = \frac{5,56 \times 10^{-9}}{1,6 \times 10^{-19}} = 3,47 \times 10^{10}\text{ electrons}$ ✓ (6)
+
+10.2.1 (Line) Absorption ✓ (1)
+10.2.2 Continuous spectrum of white light with dark/black lines. ✓✓ (2)
+10.2.3 Diagram B ✓✓ (2)
+**[17]**
+
+**TOTAL/TOTAAL: 150**

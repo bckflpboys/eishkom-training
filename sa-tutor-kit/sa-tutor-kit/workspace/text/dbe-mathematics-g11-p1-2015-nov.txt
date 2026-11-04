@@ -1,0 +1,263 @@
+# basic education
+**Department:**  
+Basic Education  
+REPUBLIC OF SOUTH AFRICA  
+
+---
+
+**NATIONAL  
+SENIOR CERTIFICATE**  
+
+**GRADE 11**  
+
+---
+
+**MATHEMATICS P1**  
+
+**NOVEMBER 2015**  
+
+---
+
+**MARKS:** 150  
+**TIME:** 3 hours  
+
+This question paper consists of 8 pages.
+
+---
+
+## INSTRUCTIONS AND INFORMATION
+
+Read the following instructions carefully before answering the questions.
+
+1. This question paper consists of 9 questions.
+
+2. Answer ALL the questions.
+
+3. Number the answers correctly according to the numbering system used in this question paper.
+
+4. Clearly show ALL calculations, diagrams, graphs et cetera that you have used in determining your answers.
+
+5. Answers only will not necessarily be awarded full marks.
+
+6. You may use an approved scientific calculator (non-programmable and non-graphical), unless stated otherwise.
+
+7. If necessary, round off answers to TWO decimal places, unless stated otherwise.
+
+8. Diagrams are NOT necessarily drawn to scale.
+
+9. Write neatly and legibly.
+
+---
+
+## QUESTION 1
+
+1.1 Solve for $x$ in each of the following:
+
+$$\text{1.1.1} \quad x^2 + x - 12 = 0 \tag{3}$$
+
+$$\text{1.1.2} \quad \sqrt{2x + 1} = x - 1 \tag{5}$$
+
+$$\text{1.1.3} \quad 2^{x}\sqrt{x} = 2^{27} \tag{4}$$
+
+$$\text{1.1.4} \quad x^2 - 2x - 8 < 0 \tag{3}$$
+
+1.2 Given: $f(x) = 5x^2 + 6x - 7$
+
+$$\text{1.2.1} \quad \text{Solve for } x \text{ if } f(x) = 0 \text{ (correct to TWO decimal places).} \tag{4}$$
+
+$$\text{1.2.2} \quad \text{Hence, or otherwise, calculate the value of } d \text{ for which } 5x^2 + 6x - d = 0 \text{ has equal roots.} \tag{3}$$
+
+1.3 Solve for $x$ and $y$ simultaneously:
+
+$$x - 2y = -3 \quad \text{and} \quad xy = 20 \tag{6}$$
+
+**[28]**
+
+---
+
+## QUESTION 2
+
+2.1 Simplify, without using a calculator:
+
+$$\text{2.1.1} \quad \frac{2^{n+2} \cdot 4^{n+1}}{8^{n-1}} \tag{3}$$
+
+$$\text{2.1.2} \quad \sqrt{x + \sqrt{2x-1}} \cdot \sqrt{x - \sqrt{2x-1}} \tag{4}$$
+
+2.2 Given: $P = \frac{5}{\sqrt{x+2}} + \frac{x}{3}$
+
+$$\text{2.2.1} \quad \text{For what value(s) of } x \text{ will } P \text{ be a real number?} \tag{2}$$
+
+$$\text{2.2.2} \quad \text{Show that } P \text{ is rational if } x = 3. \tag{2}$$
+
+2.3 Calculate the sum of the digits of $2^{2015} \times 5^{2019}$. \tag{4}
+
+**[15]**
+
+---
+
+## QUESTION 3
+
+3.1 Given the linear pattern: $5 ; -2 ; -9 ; \dots ; -289$
+
+$$\text{3.1.1} \quad \text{Write down the constant first difference.} \tag{1}$$
+
+$$\text{3.1.2} \quad \text{Write down the value of } T_4. \tag{1}$$
+
+$$\text{3.1.3} \quad \text{Calculate the number of terms in the pattern.} \tag{3}$$
+
+3.2 A linear pattern has a difference of $3$ between consecutive terms and its $20^{\text{th}}$ term is equal to $64$ (that is $T_{20} = 64$).
+
+$$\text{3.2.1} \quad \text{Determine the value of } T_{22}. \tag{1}$$
+
+$$\text{3.2.2} \quad \text{Which term in the pattern will be equal to } 3T_5 - 2? \tag{4}$$
+
+3.3 Consider the quadratic pattern: $5 ; 12 ; 29 ; 56 ; \dots$
+
+$$\text{3.3.1} \quad \text{Write down the NEXT TWO terms of the pattern.} \tag{2}$$
+
+$$\text{3.3.2} \quad \text{Prove that the first differences of this pattern will always be odd.} \tag{3}$$
+
+**[15]**
+
+---
+
+## QUESTION 4
+
+4.1 Consider the quadratic pattern: $3 ; 5 ; 8 ; 12 ; \dots$
+
+Determine the value of $T_{26}$. \tag{6}
+
+4.2 A certain quadratic pattern has the following characteristics:
+
+* $T_1 = p$
+* $T_2 = 18$
+* $T_4 = 4T_1$
+* $T_3 - T_2 = 10$
+
+Determine the value of $p$. \tag{6}
+
+**[12]**
+
+---
+
+## QUESTION 5
+
+5.1 The sketch below shows the graph of $f(x) = \frac{-9}{x-1} - 2$.  
+$A$ is the point of intersection of the asymptotes of $f$.
+
+[DIAGRAM: Hyperbola $f$ with horizontal asymptote $y = -2$ and vertical asymptote $x = 1$ intersecting at point $A(1, -2)$. The hyperbola branches lie in the second and fourth quadrants relative to the asymptotes.]
+
+$$\text{5.1.1} \quad \text{Write down the coordinates of } A. \tag{2}$$
+
+$$\text{5.1.2} \quad \text{Determine the coordinates of the } x\text{- and } y\text{-intercepts of } f. \tag{5}$$
+
+$$\text{5.1.3} \quad \text{Write down an equation of the axis of symmetry of } f \text{ that has a negative gradient.} \tag{2}$$
+
+$$\text{5.1.4} \quad \text{Hence, or otherwise, determine the coordinates of a point that lies on } f \text{ in the fourth quadrant, which is the closest to point } A. \tag{5}$$
+
+$$\text{5.1.5} \quad \text{The graph of } f \text{ is reflected about the } x\text{-axis to obtain the graph of } g. \text{ Write down the equation of } g \text{ in the form } y = \dots \tag{2}$$
+
+5.2 Given: $h(x) = 4\left(2^{-x}\right) + 1$
+
+$$\text{5.2.1} \quad \text{Determine the coordinates of the } y\text{-intercept of } h. \tag{2}$$
+
+$$\text{5.2.2} \quad \text{Explain why } h \text{ does not have an } x\text{-intercept.} \tag{2}$$
+
+$$\text{5.2.3} \quad \text{Draw a sketch graph of } h, \text{ clearly showing all asymptotes, intercepts with the axes and at least one other point on } h. \tag{3}$$
+
+$$\text{5.2.4} \quad \text{Describe the transformation from } h \text{ to } g \text{ if } g(x) = 4\left(2^{-x} + 2\right). \tag{2}$$
+
+**[25]**
+
+---
+
+## QUESTION 6
+
+The sketch below represents the graphs of two parabolas, $f$ and $g$.  
+$f(x) = \frac{1}{2}x^2 - 8$  
+The turning point of $g$ is $C(2 ; 9)$ and the $y$-intercept of $g$ is $A(0 ; 5)$.  
+$B$ and $D$ are the $x$-intercepts of $f$ and $g$ respectively.
+
+[DIAGRAM: Two parabolas. Parabola $f$ opens upwards with vertex at $(0, -8)$ and $x$-intercept $B$ in the negative region. Parabola $g$ opens downwards with turning point $C(2,9)$, $y$-intercept $A(0,5)$, and $x$-intercept $D$ in the positive region. The two parabolas intersect at two points.]
+
+6.1 Show that $g(x) = -x^2 + 4x + 5$. \tag{4}
+
+6.2 Calculate the average gradient of $g$ between $A$ and $C$. \tag{2}
+
+6.3 Calculate the length of $BD$. \tag{5}
+
+6.4 Use the graphs to solve for $x$, if:
+
+$$\text{6.4.1} \quad f(x) \geq 0 \tag{2}$$
+
+$$\text{6.4.2} \quad f \text{ and } g \text{ are both strictly increasing} \tag{2}$$
+
+**[15]**
+
+---
+
+## QUESTION 7
+
+The sketch below shows the graphs of $f(x) = 2x + 3$ and $g(x) = -2x^2 + 14x + k$.  
+$C$ is any point on $f$ and $D$ any point on $g$, such that $CD$ is parallel to the $y$-axis.  
+$k$ is a value such that $C$ lies above $D$.
+
+[DIAGRAM: Straight line $f$ with positive slope and parabola $g$ opening downwards. Vertical line segment $CD$ connects a point $C$ on line $f$ to a point $D$ directly below it on the parabola $g$. The origin $O$ is marked.]
+
+7.1 Write down a simplified expression for the length of $CD$ in terms of $x$ and $k$. \tag{3}
+
+7.2 If the minimum length of $CD$ is $5$, calculate the value of $k$. \tag{4}
+
+**[7]**
+
+---
+
+## QUESTION 8
+
+8.1 A school buys tablets at a total cost of $\text{R}140\ 000$. If the average rate of inflation is $6,1\%$ per annum over the next $4$ years, determine the cost of replacing these tablets in $4$ years' time. \tag{3}
+
+8.2 An investment earns interest at a rate of $7\%$ per annum, compounded semi-annually. Calculate the effective annual interest rate on this investment. \tag{3}
+
+8.3 A savings account was opened with an initial deposit of $\text{R}24\ 000$. Eighteen months later $\text{R}7\ 000$ was withdrawn from the account. Calculate how much money will be in the savings account at the end of $4$ years if the interest rate was $10,5\%$ p.a., compounded monthly. \tag{5}
+
+8.4 A car costing $\text{R}198\ 000$ has a book value of $\text{R}102\ 755,34$ after $3$ years. If the value of the car depreciates at $r\%$ p.a. on a reducing balance, calculate $r$. \tag{5}
+
+**[16]**
+
+---
+
+## QUESTION 9
+
+9.1 Given:  
+$\text{P}(A) = 0,6$  
+$\text{P}(B) = 0,3$  
+$\text{P}(A \text{ or } B) = 0,8 \quad \text{where } A \text{ and } B \text{ are two different events}$
+
+Are the events $A$ and $B$ mutually exclusive? Justify your answer with appropriate calculations and/or a diagram. \tag{4}
+
+9.2 The table below shows data on the monthly income of employed people in two residential areas. Representative samples were used in the collection of the data.
+
+| MONTHLY INCOME<br>(IN RANDS) | AREA 1 | AREA 2 | TOTAL |
+| :--- | :---: | :---: | :---: |
+| $x < 3\ 200$ | $500$ | $460$ | $960$ |
+| $3\ 200 \leq x < 25\ 600$ | $1\ 182$ | $340$ | $1\ 522$ |
+| $x \geq 25\ 600$ | $150$ | $14$ | $164$ |
+| **Total** | **1 832** | **814** | **2 646** |
+
+$$\text{9.2.1} \quad \text{What is the probability that a person chosen randomly from the entire sample will be:}$$
+
+$$\text{(a)} \quad \text{From Area 1} \tag{2}$$
+
+$$\text{(b)} \quad \text{From Area 2 and earn less than } \text{R}3\ 200 \text{ per month} \tag{1}$$
+
+$$\text{(c)} \quad \text{A person from Area 2 who earns more than or equal to } \text{R}3\ 200 \tag{2}$$
+
+$$\text{9.2.2} \quad \text{Prove that earning an income of less than } \text{R}3\ 200 \text{ per month is not independent of the area in which a person resides.} \tag{5}$$
+
+$$\text{9.2.3} \quad \text{Which is more likely: a person from Area 1 earning less than } \text{R}3\ 200 \text{ or a person from Area 2 earning less than } \text{R}3\ 200\text{? Show calculations to support your answer.} \tag{3}$$
+
+**[17]**
+
+---
+
+**TOTAL: 150**

@@ -1,0 +1,232 @@
+NATIONAL SENIOR CERTIFICATE
+
+GRADE 11
+
+MATHEMATICS P1
+
+NOVEMBER 2016
+
+MARKS: 150
+
+TIME: 3 hours
+
+This question paper consists of 9 pages.
+
+---
+
+## INSTRUCTIONS AND INFORMATION
+
+Read the following instructions carefully before answering the questions.
+
+1. This question paper consists of 10 questions.
+2. Answer ALL the questions.
+3. Number the answers correctly according to the numbering system used in this question paper.
+4. Clearly show ALL calculations, diagrams, graphs et cetera that you have used in determining your answers.
+5. Answers only will not necessarily be awarded full marks.
+6. You may use an approved scientific calculator (non-programmable and non-graphical), unless stated otherwise.
+7. If necessary, round off answers to TWO decimal places, unless stated otherwise.
+8. Diagrams are NOT necessarily drawn to scale.
+9. Write neatly and legibly.
+
+---
+
+## QUESTION 1
+
+1.1 Solve for $x$ in each of the following:
+
+1.1.1 $3x^2 - 5x - 1 = 0$ (leave your answer correct to TWO decimal places) (3)
+
+1.1.2 $x^2 - 6x + 8 = 0$ (3)
+
+1.1.3 $4x - 2x^2 < 0$ (4)
+
+1.1.4 $2^{3x+1} + 2^{3x} = 12$ (4)
+
+1.1.5 $\sqrt{x-1} + 3 = x - 4$ (6)
+
+1.2 Solve for $x$ and $y$ simultaneously:
+
+$3x - y + 2 = 0$ and $y = -x^2 + 2x + 8$ (6)
+
+1.3 Show that the roots of $3x^2 + (k+2)x = 1 - k$ are real and rational for all values of $k$. (4)
+
+**[30]**
+
+---
+
+## QUESTION 2
+
+2.1 Simplify fully, WITHOUT using a calculator:
+
+2.1.1 $\frac{5^{a-2} \cdot 2^{a+2}}{10^a - 10^{a-1} \cdot 2}$ (5)
+
+2.1.2 $\frac{\sqrt{27m^6} - \sqrt{48m^6}}{\sqrt{12m^6}}$ (3)
+
+2.2 WITHOUT using a calculator, show that $\frac{2}{1+\sqrt{2}} - \frac{8}{\sqrt{8}} = -2$ (4)
+
+**[12]**
+
+---
+
+## QUESTION 3
+
+Consider the quadratic pattern: $-9; -6; 1; 12; x; \dots$
+
+3.1 Determine the value of $x$. (1)
+
+3.2 Determine a formula for the $n^{\text{th}}$ term of the pattern. (4)
+
+3.3 A new pattern, $P_n$, is formed by adding $3$ to each term in the given quadratic pattern. Write down the general term of $P_n$ in the form $P_n = an^2 + bn + c$. (1)
+
+3.4 Which term of the sequence found in QUESTION 3.3 has a value of $400$? (4)
+
+**[10]**
+
+---
+
+## QUESTION 4
+
+4.1 Given the linear pattern: $18; 14; 10; \dots$
+
+4.1.1 Write down the fourth term. (1)
+
+4.1.2 Determine a formula for the general term of the pattern. (2)
+
+4.1.3 Which term of the pattern will have a value of $-70$? (2)
+
+4.1.4 If this linear pattern forms the first differences of a quadratic pattern, $Q_n$, determine the first difference between $Q_{509}$ and $Q_{510}$. (2)
+
+4.2 A quadratic pattern has a constant second difference of $2$ and $T_5 = T_{17} = 29$.
+
+4.2.1 Does this pattern have a minimum or maximum value? Justify the answer. (3)
+
+4.2.2 Determine an expression for the $n^{\text{th}}$ term in the form $T_n = an^2 + bn + c$. (5)
+
+**[15]**
+
+---
+
+## QUESTION 5
+
+Given: $f(x) = -2x^2 + x + 6$
+
+5.1 Calculate the coordinates of the turning point of $f$. (4)
+
+5.2 Determine the $y$-intercept of $f$. (1)
+
+5.3 Determine the $x$-intercepts of $f$. (4)
+
+5.4 Sketch the graph of $f$ showing clearly all intercepts with the axes and turning point. (3)
+
+5.5 Determine the values of $k$ such that $f(x) = k$ has equal roots. (2)
+
+5.6 If the graph of $f$ is shifted two units to the right and one unit upwards to form $h$, determine the equation $h$ in the form $y = a(x+p)^2 + q$. (3)
+
+**[17]**
+
+---
+
+## QUESTION 6
+
+The diagram below shows the graph of $f(x) = \frac{1}{x+3} - 1$ and $g(x) = \frac{1}{2}x$.
+The graph of $f$ intersects the $x$-axis at $A$ and the $y$-axis at $B$.
+The graph of $f$ and $g$ intersect at points $C$ and $D$.
+
+[DIAGRAM: Cartesian plane showing two graphs. Graph $f(x)$ is a hyperbola with vertical asymptote at $x = -3$ and horizontal asymptote at $y = -1$. The upper branch of $f$ crosses the $x$-axis at $A$ and the $y$-axis at $B$, and intersects the straight line $g(x)$ at point $C$. The straight line $g(x)$ passes through the origin $O$ with positive gradient. The lower branch of $f$ intersects $g(x)$ at point $D$ in the third quadrant.]
+
+6.1 Write down the equations of the asymptotes of $f$. (2)
+
+6.2 Determine the domain of $f$. (2)
+
+6.3 Calculate the length of:
+
+6.3.1 $OB$ (2)
+
+6.3.2 $OA$ (3)
+
+6.4 Determine the coordinates of $C$ and $D$. (6)
+
+6.5 Use the graphs to obtain the solution to: $\frac{1}{x+3} \ge \frac{x+2}{2}$ (4)
+
+**[19]**
+
+---
+
+## QUESTION 7
+
+The sketch below is the graph of $f(x) = 2.b^{x+1} + q$.
+The graph of $f$ passes through the points $A(1; 20)$ and $B(-1; y)$.
+The line $y = 2$ is an asymptote of $f$.
+
+[DIAGRAM: Cartesian plane showing an exponential growth curve $f$ passing through $A(1; 20)$ and $B(-1; y)$, lying above a horizontal dashed asymptote line $y = 2$. The curve crosses the $y$-axis above the asymptote.]
+
+7.1 Show that the equation of $f$ is $f(x) = 2(3)^{x+1} + 2$ (3)
+
+7.2 Calculate the $y$-coordinate of the point $B$. (1)
+
+7.3 Determine the average gradient of the curve between the points $A$ and $B$. (2)
+
+7.4 A new function $h$ is obtained when $f$ is reflected about its asymptote. Determine the equation of $h$. (2)
+
+7.5 Write down the range of $h$. (1)
+
+**[9]**
+
+---
+
+## QUESTION 8
+
+8.1 A machine costs $\text{R}25\ 000$ in $2016$. Calculate the book value of the machine after $4$ years if it depreciates at $9\%$ p.a. according to the reducing balance method. (3)
+
+8.2 The nominal interest rate of an investment is $12{,}35\%$ p.a., compounded monthly. Calculate the effective interest rate. (4)
+
+8.3 The value of a property increased from $\text{R}145\ 000$ to $\text{R}221\ 292{,}32$ over $6$ years. Calculate the average annual rate of increase of the property over $6$ years. (4)
+
+8.4 Tebogo made an initial deposit of $\text{R}15\ 000$ into an account that paid interest at $9{,}6\%$ p.a., compounded quarterly. Six months later she withdrew $\text{R}5\ 000$ from the account. Two years after the initial deposit she deposited another $\text{R}3\ 500$ into this account. How much does she have in the account $3$ years after her initial deposit? (5)
+
+**[16]**
+
+---
+
+## QUESTION 9
+
+9.1 Given:
+$P(A) = 0{,}2$
+$P(B) = 0{,}5$
+$P(\text{A or B}) = 0{,}6$ where $A$ and $B$ are two different events
+
+9.1.1 Calculate $P(A \text{ and } B)$. (2)
+
+9.1.2 Are the events $A$ and $B$ independent? Show your calculations. (3)
+
+9.2 A survey was conducted amongst $100$ learners at a school to establish their involvement in three codes of sport, soccer, netball and volleyball. The results are shown below:
+- $55$ learners play soccer ($S$)
+- $21$ learners play netball ($N$)
+- $7$ learners play volleyball ($V$)
+- $3$ learners play netball only
+- $2$ learners play soccer and volleyball
+- $1$ learner plays all $3$ sports
+
+The Venn diagram below shows the information above.
+
+[DIAGRAM: Venn diagram with three intersecting circles representing Soccer ($S$), Netball ($N$), and Volleyball ($V$) inside a rectangle representing the sample space. Regions are labelled with variables $a, b, c, d, e$ and specific numbers: $1$ in the center intersection of all three, $3$ in netball only, $2$ in soccer and volleyball intersection (outside netball).]
+
+9.2.1 Determine the values of $a$, $b$, $c$, $d$ and $e$. (5)
+
+9.2.2 What is the probability that one of the learners chosen at random from this group plays netball or volleyball? (2)
+
+9.3 The probability that the first answer in a maths quiz competition will be correct is $0{,}4$. If the first answer is correct, the probability of getting the next answer correct rises to $0{,}5$. However, if the first answer is wrong, the probability of getting the next answer correct is only $0{,}3$.
+
+9.3.1 Represent the information on a tree diagram. Show the probabilities associated with each branch as well as the possible outcomes. (3)
+
+9.3.2 Calculate the probability of getting the second answer correct. (3)
+
+**[18]**
+
+---
+
+## QUESTION 10
+
+Bongani wants to start a small vegetable garden at his house. He wants to use an existing wall and $14\text{ m}$ of fencing to enclose a rectangular area for the garden. Calculate the dimensions of the largest rectangular area that he can enclose. (4)
+
+**TOTAL: 150**

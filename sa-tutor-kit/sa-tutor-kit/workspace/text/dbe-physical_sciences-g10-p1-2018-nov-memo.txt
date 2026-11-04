@@ -1,0 +1,600 @@
+=== page 1 ===
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+MARKS/PUNTE:  150
+
+These marking guidelines consist of 12 pages.
+Hierdie nasienriglyne bestaan uit 12 bladsye.
+
+PHYSICAL SCIENCES:  PHYSICS (P1)
+FISIESE WETENSKAPPE: FISIKA (V1)
+
+NOVEMBER 2018
+
+MARKING GUIDELINES/NASIENRIGLYNE
+NATIONAL
+SENIOR CERTIFICATE/
+NASIONALE
+SENIOR SERTIFIKAAT
+GRADE/GRAAD 10
+
+=== page 2 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 2 DBE/November 2018
+CAPS/KABV – Grade10/Graad 10 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+QUESTION 1/VRAAG 1
+
+1.1 C
+
+1.2 C
+
+1.3 A
+
+1.4 A
+
+1.5 C
+
+1.6 A
+
+1.7 B
+
+1.8 B
+
+1.9 C
+
+1.10 C/B
+   [20]
+
+QUESTION 2/VRAAG 2
+
+2.1  The difference in position (in space). /Die verskil in posisie in ruimte.
+
+ OR/OF
+
+ The change in position (of an object. )/Die verandering in posisie van 'n
+voorwerp. (2)
+
+2.2 12 m west/wes or/of -12 m 
+
+IF/INDIEN
+– 12 m West/Wes                  (Award 1 mark only/Ken 1 punt toe)
+
+Accept/Aanvaar
+12 m left/links  (2)
+
+2.3 v = tx∆∆
+   = 305
+   = 0,17 m·s-1 west/wes 
+
+Accept/Aanvaar
+0,17 m·s-1 left/links  (4)
+
+
+
+
+
+=== page 3 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 3 DBE/November 2018
+CAPS/KABV – Grade10/Graad 10 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+2.4 POSITIVE MARKING FROM  2.2 and 2.3/POSITIEWE NASIEN VANAF
+2.2.en2.3
+Speed = timecetandis / Spoed = tyd dtanafs
+(0,17)(2)  =  0,34 m·s-1
+
+    0,34  = t12∆ 
+Δt = 35,29 s  (4)
+  [12]
+
+QUESTION 3/VRAAG 3
+
+3.1 Motion with u niform velocity: Motion at constant velocity.  / Motion with
+zero or no acceleration.
+Beweging met uniforme  snelheid: Beweging teen konstante snelheid. /
+Beweging met nul of geen vernselling.
+
+Uniform accelerated motion: Motion with constant acceleration. /Velocity
+changes with the same amount during each time interval.  /Motion during
+which the velocity changes with a constant amount per unit time.  /
+Uniforme versnelde beweging:  Beweging met konstante
+versnelling/Snelheid verander met dieselfde hoeveelheid gedurende elke
+tydinterval/Beweging waartydens die snelheid met 'n konstante hoeveelheid
+per eenheid tyd verander. (4)
+
+3.2.1 Motion with uniform velocity/Beweging met uniforme snelheid (1)
+
+3.2.2 Uniform accelerated motion /Uniforme versnelde beweging (1)
+
+=== page 4 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 4 DBE/November 2018
+CAPS/KABV – Grade10/Graad 10 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+3.3
+
+ (5)
+
+MARKING GUIDELINES/NASIENRIGLYNE
+ x-axis and units correctly labelled/x-as en eenhede korrek gemerk
+ y-axis and units correctly labelled/y-as en eenhede korrek gemerk
+ 2 points correctly plotted and joined/2 punte korrek gestip en verbind
+ shape of the graph (0 – 3 s/vorm van die grafiek(0 – 3s) / straight line/reguitlyn
+ shape of graph 3 – 7,5 s curved / vorm van grafiek 3 – 7,5 s kurwe / tangent /raaklyn
+Position/Posisie (m)
+0           1,5           3           4,5           6            7,5           9
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+●
+●
+●
+●
+3.5 
+●
+time/tyd (s)
+
+=== page 5 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 5 DBE/November 2018
+CAPS/KABV – Grade10/Graad 10 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+3.4 Instantaneous velocity: rate of change in position . /Oombliklike snelheid:
+tempo van verandering in posisie.
+
+OR/OF
+Displacement divided by a very small time interval . /Verplasing gedeel
+deur 'n baie klein tydinterval.
+
+OR/OF
+Velocity at a particular time. /Snelheid op 'n spesifieke tyd. (2)
+
+3.5 Refer to the graph./Verwys na die grafiek.
+(Tangent to the curve/ Raaklyn aan kurwe) (2)
+
+3.6 v = tx∆∆
+    = 03 06 −−
+    = 2 m·s-1 right/regs  (4)
+  [19]
+
+QUESTION 4/VRAAG 4
+
+4.1 The rate of change of velocity. /Die tempo van verandering van snelheid. (2)
+
+4.2.1 vf =vi + aΔt 
+0 = 15 + (-4,5)Δt 
+Δt = 3,33 s 
+
+OR/OF
+vf =vi + aΔt 
+0 = -15 + (4,5)Δt 
+Δt = 3,33 s 
+
+(4)
+
+4.2.2 OPTION 1/OPSIE 1
+vf2 = vi2 + 2aΔx 
+02 = 152 + 2(-4,5)Δx 
+Δx = 25 m 
+
+OPTION 2/OPSIE 2
+POSITIVE MARKING FROM 4.2.1/POSITIEWE NASIEN VANAF 4.2.1
+Δx = 
+
+
+
+ +
+2
+vv if Δt 
+     = 
+
+
+
+ +
+2
+150 (3,33)
+     = 24,98 m 
+
+OPTION 3/OPSIE 3
+POSITIVE MARKING FROM 4.2.1/POSITIEWE NASIEN VANAF 4.2.1
+Δx = viΔt + ½ aΔt2 
+      = (15)(3,33) + ½ (-4,5)(3.33)2
+Δx = 25 m 
+
+(4)
+
+
+
+
+
+=== page 6 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 6 DBE/November 2018
+CAPS/KABV – Grade10/Graad 10 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+4.3 OPTION 1/OPSIE 1
+vf2 = vi2 + 2aΔx 
+02 =  302 + 2(-4,5)Δx 
+Δx = 100 m 
+
+Car B has a larger stopping distance (100 m > 25 m ) /Kar B het 'n groter
+stopafstand (100 m > 25 m).
+
+OPTION 2/OPSIE 2
+vf = vi + aΔt 
+0  = 30 + (-4,5)Δt
+Δt = 6,67 s
+
+Car B  it takes longer to stop hence larger stopping distance / Kar B dit
+neem langer om tot stilstand te kom dus 'n groter stopafstand
+
+IF/INDIEN
+Car B  it has a higher velocity  than car A and therefore have a larger
+stopping distance at the same acceleration  Max: (2/6)
+Kar B  dit het 'n hoër snelheid as kar A en het dus 'n groter stopafstand met
+dieselfde versnelling  Maks: (2/6) (6)
+
+4.4 The greater/ larger the speed, the larger the s topping distance  if
+acceleration is constant . /Hoe groter die spoed, hoe groter die stopafstand
+indien versnelling konstant is.
+
+(2)
+[18]
+
+QUESTION 5/VRAAG 5
+
+5.1 The energy an object has because of its position in the gravitational field
+ relative to some reference point .  /Die energie wat 'n voorwerp het as
+gevolg van die posisie daarvan in die gravitasieveld relatief tot 'n sekere
+verwysingspunt. (2)
+
+5.2 Ep  = mgh
+      = (65)(9,8)(4,5)
+      = 2 866,5 J (3)
+
+5.3 The net/total mechanical energy  (sum of kinetic and gravitational potential
+energy)  in an isolated/closed system  remains constant / is
+conserved./Die netto/totale meganiese energie in 'n geïsoleerde/geslote
+sisteem bly konstant/bly konstant. (2)
+
+5.4             (Ep + Ek)top/bo = (Ep + Ek)bottom/onder
+                 mgh + 0 = mgh + ½mv2
+       (65)(9,8)(4,5)= 0 + ½(65)v2  
+                            v = 9,39 m∙s-1   
+OR/OF
+(Ep + Ek)top/bo = (Ep + Ek)bottom/onder
+                 mgh + 0 = mgh + ½mv2
+2 866,5  = 0 + ½(65)v2  
+               v = 9,39 m∙s-1    (4)
+
+
+
+
+=== page 7 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 7 DBE/November 2018
+CAPS/KABV – Grade10/Graad 10 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+5.5 OPTION 1/OPSIE 1
+              (Ep + Ek)top/bo = (Ep + Ek)bottom/onder
+                mgh + 0 = mgh + ½mv2
+   (65)(9,8)h  + 0 = 0 + ½ x 65 x (9,39)2  
+                            637 h = 2 865,6
+                                  h = 4,49 m
+
+No/Nee. h = 4,49 m < 6 m
+ OPTION 2/OPSIE 2
+Ep at Y = mgh 
+          = (65)(9,8)(6)
+          = 3 822 J
+
+Emech  < Ep at Y therefore he will not reach point Y / Emeg <Ep by Y daarom
+sal hy nie punt Y  bereik nie (5)
+  [16]
+
+QUESTION 6/VRAAG 6
+
+6.1 Difference/Verskil Similarity/Ooreenkoms
+Amplitudes Wavelength/Golflengte
+Period/Tydperk
+Frequency/Frekwensie
+Transverse/Transversaal
+(Any one)/(Enige een)
+
+         (2)
+
+6.2.1 A and/en B
+
+OR/OF
+C and/en D
+
+OR/OF
+B and/en C
+
+OR/OF
+A and/en D (1)
+
+6.2.2 15 (mm)  (1)
+
+6.3 The number of waves/wave pulses passing a point per second. /Die getal
+golwe/golfpulse wat per sekonde by 'n punt verby beweeg. (2)
+
+6.4.1 f = T1 
+   = 5,11 
+   = 0,67 Hz  (3)
+
+
+
+=== page 8 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 8 DBE/November 2018
+CAPS/KABV – Grade10/Graad 10 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+6.4.2 POSITIVE MARKING FROM 6.4.1
+POSITIEWE NASIEN VANAF 6.1
+OPTION 1/OPSIE 1
+v = fλ
+   = (0,67)(0,1)
+   = 0,067 m·s-1 
+OPTION 2/OPSIE 2
+v = tx∆∆   or/of  speed = timecetandis  
+   = 5,1 1,0 
+   = 0,067 m·s-1 (3)
+  [12]
+
+QUESTION 7/VRAAG 7
+
+7.1.1 What is the relationship between the speed of sound and temperature? /
+Wat is die verband tussen die spoed van klank en temperatuur?
+
+OR/OF
+How will the temperature affect the speed of sound? /Hoe sal die
+temperatuur die spoed van klank beïnvloed?
+
+OR/OF
+What is the relationship between the time taken for the sound to travel and
+temperature? / Wat is die verband tussen die spoed van klank en
+temperatuur? (2)
+ Marking criteria/Nasienriglyne:
+
+Dependent and independent variables correctly identified.
+Afhanklike en onafhanklike veranderlikes korrek geïdentifiseer.
+
+ Ask a question about the relationship between the independent and
+dependent variables ./Vra 'n vraag oor die verwantskap tussen die
+afhanklike en onafhanklike veranderlikes.
+
+
+7.1.2 Temperature /Temperatuur (1)
+
+7.1.3 Speed of sound/Time taken for the sound to travel ./Spoed van klank/Tyd
+geneem vir die klank om te beweeg. (1)
+
+7.2 v = tx∆∆     or/of   speed = timecetandis 
+   = 146,050 
+   = 342,47 m·s-1 (3)
+
+7.3 The speed of sound increases / time taken for the sound to travel decreases /
+as the temperature increases . /Die spoed van klank neem toe / tyd
+geneem vir die klank om te beweeg neem af  soos die temperatuur toeneem. (2)
+
+7.4 Echo/Eggo (1)
+  [10]
+
+QUESTION 8/VRAAG 8
+
+8.1 Accelerating charges /Versnelde ladings (1)
+
+8.2 Gamma rays /Gammastrale (1)
+-
+
+=== page 9 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 9 DBE/November 2018
+CAPS/KABV – Grade10/Graad 10 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+8.3 It has the highest frequency  Energy is directly proportional to frequency  /
+E α f /
+Dit het die hoogste frekwensie.  Energie is direk eweredig aan die frekwenie/
+E α f (2)
+
+8.4.1 OPTION 1/OPSIE 1
+c = fλ
+3 x 108 = f(600 x 10-10) 
+f = 5 x 1015 Hz 
+
+Ultraviolet /Ultraviolet
+OPTION 2/OPSIE 2
+E = λhc
+    = 10
+834
+10600
+)103)(1063,6(
+−
+−
+×
+×× 
+    = 3,315 x 10-18 J
+
+E = hf
+3,315 x 10-18 = (6,63 x 10-34)f
+f = 5x 1015 Hz 
+
+Ultraviolet /Ultraviolet (4)
+
+8.4.2 POSITIVE MARKING FROM 8.4.1/POSITIEWE NASIEN VANAF 8.4.1
+Sterilisation of medical equipment./ Sterilisasie van mediese toerusting
+Suntan beds /Sonbeddens
+Security in currency/Veiligheid in valuta
+Astronomy/ Astronomie
+(Any one/Any relevant use/Enige een/Enige relevante gebruik) (1)
+  [9]
+
+QUESTION 9/VRAAG 9
+
+9.1 Ferromagnetic (material) /Ferromagneties (materiaal) (1)
+
+9.2 B  (1)
+
+9.3 South /Suid (1)
+
+9.4
+
+         
+ OR/OF
+ Magnets X repels Y/ South pole /Magneet X stoot Y af / Suidpool
+
+Magnet Y attracts B/ South pole at B /Magneet Y trek B aan / Suidpool by B (2)
+
+B
+N
+X
+ Y
+S
+ S
+S
+ N
+ Any one
+    Enige een
+
+=== page 10 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 10 DBE/November 2018
+CAPS/KABV – Grade10/Graad 10 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+9.5
+
+Marking criteria/Nasienkriteria
+Correct direction of field lines/Korrekte rigting van veldlyne  
+Shape of the magnetic field/Vorm van die magneetveld  
+No field lines crossing each other/Geen veldlyne kruis
+mekaar nie.
+
+
+(3)
+
+9.6.1 Less than 5 cm / Minder as 5 cm (1)
+
+9.6.2 Magnitude of magnetic force is inversely proportional to the distance.  B, is
+no longer attracting Y to the right 
+Grootte van magnetiese krag is omgekeerd eweredig aan die afstand. B, trek
+nie meer Y na regs aan nie
+
+OR/OF
+A decrease in distance increases the magnetic force.  B, is no longer
+attracting Y to the right 
+'n Afname in afstand laat die magnetiese krag toeneem,  B, trek nie meer Y
+na regs aan nie (2)
+  [11]
+
+QUESTION 10/VRAAG 10
+
+10.1 n = eQ  or/of eqQ
+30 = 19106,1 Q −×− 
+Q = -4,8 x 10-18 C 
+
+Accept/Aanvaar
+n = eQ  or/of eqQ
+30 = 19106,1 Q −× 
+Q = 4,8 x 10-18 C  (3)
+
+10.2 Unlike/opposite charges attract/Ongelyksoortige/teenoorgestelde ladings
+trek mekaar aan. (2)
+
+=== page 11 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 11 DBE/November 2018
+CAPS/KABV – Grade10/Graad 10 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+10.3 The net/total charge  in an isolated/closed system  remains constant/is
+conserved Die netto/totale lading  in  'n geïsoleerde/geslote sisteem
+bly konstant. (2)
+ NOTE/LET WEL:
+If any of the underlined words/ phrases are omitted in the correct context:
+minus 1 mark.)
+Indien enige van die onderstreepte woorde/frases in die korrekte konteks
+weggelaat is: minus een punt.)
+
+10.4 POSITIVE MARKING FROM 10.1/POSITIEWE NASIEN VANAF 10.1
+Qnet/netto = 2 QQ 21 + 
+              = 2 )108,4(104 1818 −− ×−+×
+              = -4 x 10-19 C  (4)
+  [11]
+
+QUESTION 11/VRAAG 11
+
+11.1.1 (a) V1 = 24 (V) (1)
+
+ (b) A1 = 0 (A) (1)
+
+11.1.2 OPTION 1/OPSIE 1
+pR
+1 =
+21 R
+1
+R
+1 + 
+     = 8181 + 
+Rp = 4 Ω
+
+RT = Rs + Rp
+     = 8 + 4
+     = 12 Ω
+OPTION 2/OPSIE 2
+Rp = som/sum produk/product 
+     = 88 )8)(8( + 
+     = 4 Ω
+
+RT = Rs + Rp
+     = 8 + 4
+     = 12 Ω (4)
+
+
+ 
+
+=== page 12 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 12 DBE/November 2018
+CAPS/KABV – Grade10/Graad 10 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou
+
+11.1.3 OPTION 1/OPSIE 1
+V divides in a ratio 8 : 4  (series)/V verdeel in 'n verhouding 8 : 4 (serie)
+V2 = 128 x 24  or/of  V2 = 32 x 24
+     = 16 V 
+
+ OPTION2 / OPSIE 2
+POSITIVE MARKING FROM 11.1.2/POSITIEWE NASIEN VANAF 11.2.1
+V = IR
+24 = I(12)
+I = 2 A
+
+V = IR
+    = (2)(8)
+    = 16 V  (3)
+
+11.1.4 A2 = A3 .  (1)
+
+11.2.1 Resistance is directly proportional  to the length of the conducting wire . /
+Weerstand is direk eweredig aan die lengte van die geleidingsdraad.
+
+OR/OF
+
+As the length of the wire increases, the resistance increases ./Soos die lengte
+van die geleidingsdraad toeneem, neem die weerstand toe (1)
+
+11.2.2 1,35 Ω        (Range/Variasiewydte:  1,3 Ω to/tot 1,4 Ω) (1)
+  [12]
+
+  TOTAL/TOTAAL:   150

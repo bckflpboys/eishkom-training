@@ -1,0 +1,324 @@
+**basic education**
+Department: Basic Education  
+REPUBLIC OF SOUTH AFRICA
+
+---
+
+**NASIONALE SENIOR SERTIFIKAAT**
+
+**GRAAD 12**
+
+**WISKUNDE V1**  
+**NOVEMBER 2024**
+
+**PUNTE: 150**  
+**TYD: 3 uur**
+
+---
+
+Hierdie vraestel bestaan uit 9 bladsye en 1 inligtingsblad.
+
+---
+
+### INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies noukeurig deur voordat die vrae beantwoord word.
+
+1. Hierdie vraestel bestaan uit 12 vrae.
+2. Beantwoord AL die vrae.
+3. Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie vraestel gebruik is.
+4. Dui ALLE berekeninge, diagramme, grafieke, ens. wat jy gebruik het om jou antwoorde te bepaal, duidelik aan.
+5. Volpunte sal NIE noodwendig aan slegs antwoorde toegeken word NIE.
+6. Jy mag 'n goedgekeurde wetenskaplike sakrekenaar (nieprogrammeerbaar en niegrafies) gebruik, tensy anders vermeld.
+7. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders vermeld.
+8. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+9. 'n Inligtingsblad met formules is aan die einde van die vraestel ingesluit.
+10. Skryf netjies en leesbaar.
+
+---
+
+## VRAAG 1
+
+1.1 Los op vir $x$:
+
+1.1.1 $x(x - 3) = 0$ (2)
+
+1.1.2 $2x^2 + 1 = 4x$ (korrek tot TWEE desimale plekke) (4)
+
+1.1.3 $x^2 - 2x - 3 > 0$ (4)
+
+1.1.4 $2^{2x} - 2^{x+2} - 32 = 0$ (5)
+
+1.1.5 $\sqrt{-2x + 4} - x = 2$ (4)
+
+1.2 Los gelyktydig vir $x$ en $y$ op:
+$$2x + y = 3$$
+$$y^2 + xy = 2$$
+(5)
+
+1.3 Beskou die produk $\left(1 + \frac{1}{2}\right)\left(1 + \frac{1}{3}\right)\left(1 + \frac{1}{4}\right)\dots$
+
+Elke faktor in die produk is van die vorm $\left(1 + \frac{1}{n}\right)$ vir $n \ge 2$.
+
+Bepaal AL die waardes van $n$ waarvoor die produk 'n heelgetalwaarde sal wees. (3)
+
+**[27]**
+
+---
+
+## VRAAG 2
+
+2.1 Die eerste term van 'n rekenkundige reeks is $7$. Die gemeenskaplike verskil van hierdie reeks is $5$ en die reeks bevat $20$ terme.
+
+2.1.1 Bereken die som van hierdie reeks. (2)
+
+2.1.2 Die oorspronklike rekenkundige reeks word na $75$ terme uitgebrei. Die som van hierdie $75$ terme is $14\,400$. Gebruik sigma-notasie om 'n vergelyking vir die som van die terme wat by die oorspronklike reeks getel is, neer te skryf. (4)
+
+2.2 Die ry van die eerste verskille van 'n kwadratiese patroon is: $1; 3; 5; \dots$
+
+2.2.1 Indien $T_{99}$ van die kwadratiese patroon $9\,632$ is, bereken die waarde van $T_{98}$. (3)
+
+2.2.2 Indien daar verder gegee word dat die derde term van die kwadratiese patroon $32$ is, bepaal die algemene term, $T_n$, van die kwadratiese patroon. (5)
+
+**[14]**
+
+---
+
+## VRAAG 3
+
+'n Sirkel met 'n radius van $6\text{ cm}$ word geteken.  
+'n Tweede, kleiner sirkel word deur die middelpunt van die eerste sirkel geteken en raak ook die eerste sirkel inwendig, soos in die diagram aangedui.  
+'n Derde, kleiner sirkel word deur die middelpunt van die tweede sirkel geteken en raak die tweede sirkel inwendig. Die proses om sirkels te teken, gaan voort en vorm 'n meetkundige patroon.
+
+[DIAGRAM: Three concentric-like circles nested inside each other. A circle of radius 6, inside it a second circle touching it internally and passing through its center, and inside the second circle a third smaller circle touching it internally and passing through its center.]
+
+3.1 Skryf die radius van die $3^{\text{de}}$ sirkel neer. (2)
+
+3.2 Bereken die som van die oppervlaktes van die eerste $10$ sirkels. (4)
+
+3.3 Watter sirkel het 'n middellyn van $\frac{3}{128}\text{ cm}$? (4)
+
+**[10]**
+
+---
+
+## VRAAG 4
+
+Gegee: $f(x) = a^x - 1$ vir $a > 0$. $B\left(2; -\frac{5}{9}\right)$ is 'n punt op $f$.
+
+4.1 Bereken die waarde van $a$. (2)
+
+4.2 Skryf die waardeverzameling van $f$ neer. (1)
+
+4.3 Skets die grafiek van $f$. Dui die afsnitte met die asse en asimptote, indien enige, duidelik aan. (3)
+
+4.4 Daar word verder gegee dat $C$ 'n punt op $f$ is by $y = \frac{19}{8}$.
+
+Bepaal die koördinate van $C'$, die beeld van $C$, wanneer $C$ om die lyn $y = x$ gereflekteer word. (3)
+
+**[9]**
+
+---
+
+## VRAAG 5
+
+Hieronder is die grafiek van $f(x) = \frac{a}{x + p} + q$ geskets met die definisieversameling $(-\infty; 1) \cup (1; \infty)$.  
+Die grafiek van $f$ sny die $y$-as by $(0; 1)$. 'n Simmetrielyn van $f$ word deur $g(x) = x - 3$ gegee.
+
+[DIAGRAM: Cartesian plane showing hyperbola $f$ with vertical asymptote $x = 1$ and horizontal asymptote $y = -2$ (implied by symmetry line $g(x) = x - 3$), intersecting $y$-axis at $(0, 1)$, and a straight line $g(x) = x - 3$.]
+
+5.1 Skryf die waarde van $p$ neer. (1)
+
+5.2 Bepaal die vergelyking van die horisontale asimptoot van $f$. (2)
+
+5.3 Bereken die waarde van $a$. (2)
+
+5.4 Vir watter waardes van $x$ is $f(x) \ge 0$? (3)
+
+5.5 Grafiek $f$ transformeer na $h$ waar:
+- Die definisie- en waardeverzameling van $h$ dieselfde as dié van $f$ is.
+- $h'(x)$, die afgeleide van $h$, negatief in die definisieversameling daarvan is.
+
+Beskryf 'n moontlike transformasie wat $f$ kon ondergaan het om na $h$ te lei. (2)
+
+**[10]**
+
+---
+
+## VRAAG 6
+
+In die diagram hieronder is die grafieke van $f(x) = -x^2 + 4x + 5$ en $g$, 'n reguitlyn, geskets.  
+$C(3; 8)$ is 'n snypunt van $f$ en $g$. $EH$ is ewewydig aan die $y$-as getrek, met $E$ 'n punt op $f$ en $H$ 'n punt op $g$.
+
+[DIAGRAM: Parabola $f$ opening downwards with $x$-intercepts $A$ and $D$, turning point $B$, and intersection $C(3, 8)$. Straight line $g$ passes through $A$ and $C$. Vertical dashed line $EH$ connects a point $E$ on $f$ and point $H$ on $g$, parallel to the $y$-axis.]
+
+6.1 Bereken die koördinate van $B$, die draaipunt van $f$. (3)
+
+6.2 Toon dat die vergelyking van die lyn deur $A$ en $C$ deur $g(x) = 2x + 2$ gegee word. (3)
+
+6.3 Bereken die maksimum lengte van $EH$ vir $f > g$. (4)
+
+6.4 Gegee: $k(x) = f(x + m) = -x^2 - 2mx - m^2 + 4x + 4m + 5$
+
+Bepaal die waarde van $m$ sodat $g$ 'n raaklyn aan $k$ is. (5)
+
+**[15]**
+
+---
+
+## VRAAG 7
+
+7.1 Mary se grootouers het op haar geboortedag $\text{R}5\ 000$ in 'n spaarrekening gedeponeer.  
+Die rekening verdien rente teen 'n koers van $6,8\%$ p.j., kwartaalliks saamgestel.  
+Bereken die opgehoopte bedrag in hierdie rekening op Mary se $16^{\text{de}}$ verjaardag. (3)
+
+7.2 Die waarde van 'n drukker is ná 4 jaar die helfte van sy oorspronklike waarde. Bepaal die koers waarteen die waarde van die drukker gedurende hierdie tydperk gedepresieer het, indien waardevermindering volgens die reguitlynmetode bereken is. (2)
+
+7.3 Tshepo het op $1\text{ Maart }2022$ 'n lening van $\text{R}100\ 000$ bekom teen 'n rentekoers van $13,5\%$ p.j., maandeliks saamgestel. Tshepo het onderneem om die lening oor $5\text{ jaar}$, vanaf $1\text{ April }2022$, met maandelikse paaiemente van $\text{R}2\ 300,98$ terug te betaal.
+
+7.3.1 Bereken die totale rente wat hy oor die $5\text{ jaar}$ sal betaal. (2)
+
+7.3.2 Tshepo het op $1\text{ Maart }2024$ $\text{R}22\ 300,98$ (sy maandelikse paaiement en 'n addisionele $\text{R}20\ 000$) in die leningsrekening inbetaal. Hy gaan daarna voort om die oorspronklike maandelikse paaiement te betaal. Hoeveel maande vroeër sal Tshepo die lening terugbetaal? (7)
+
+**[14]**
+
+---
+
+## VRAAG 8
+
+8.1 Bepaal:
+
+8.1.1 $\frac{d}{dx}\left[3x - 5x^2\right]$ (2)
+
+8.1.2 $g'(x)$ indien $g(x) = \frac{2}{x^2} - \sqrt[3]{x^7}$ (4)
+
+8.2 Bepaal die vergelyking van die raaklyn aan $f(x) = x^3 - 4x^2 + 2x + 3$ by $x = 2$. (3)
+
+8.3 Gegee: $f(x) = -6x^2$
+
+8.3.1 Bepaal $f'(x)$ vanuit eerste beginsels. (5)
+
+8.3.2 Skryf neer hoe jy die definisieversameling van $f$ sal beperk sodat $f^{-1}$, die inverse van $f$, 'n funksie is. (1)
+
+8.3.3 Bepaal die vergelyking van $f^{-1}$ vir $f^{-1}(x) \le 0$. Skryf jou antwoord in die vorm $y = \dots$ neer. (3)
+
+**[18]**
+
+---
+
+## VRAAG 9
+
+$A(1; 9)$ en $B\left(\frac{5}{2}; 8\right)$ is die draaipunte van grafiek $f$ hieronder.  
+$C(0; 7)$ is die $y$-afsnit van $f$.
+
+[DIAGRAM: Graph of a cubic function $f$ with local maximum at $A(1, 9)$, local minimum at $B(\frac{5}{2}, 8)$, and $y$-intercept at $C(0, 7)$.]
+
+9.1 Vir watter waardes van $x$ is $f$ dalend? (2)
+
+9.2 Skryf die $x$-afsnitte van $f'$, die afgeleide van $f$, neer. (2)
+
+9.3 Vir watter waardes van $x$ sal $f$ konkaaf op wees? (2)
+
+9.4 Bepaal die waarde van $k$ waarvoor $y = f(x) + k$ DRIE positiewe $x$-afsnitte sal hê. (2)
+
+**[8]**
+
+---
+
+## VRAAG 10
+
+'n Fietsryer het vanaf dorp $P$ gery en in dorp $T$ gestop. Die spoed (in $\text{km/h}$) waarteen hierdie fietsryer gery het, word deur die vergelyking $s'(t) = -3t^2 + 18t$ voorgestel.
+
+**LET WEL:** Spoed is die tempo van verandering van afstand met betrekking tot tyd.
+
+10.1 Bereken die maksimum spoed wat die fietsryer gedurende hierdie rit bereik het. (3)
+
+10.2 Bereken die afstand tussen dorp $P$ en dorp $T$. (5)
+
+**[8]**
+
+---
+
+## VRAAG 11
+
+'n Sekere aantal leerders lê eksamens in Wiskunde, Toerisme en Geografie af.
+
+- Al hierdie leerders lê ten minste een van hierdie eksamens af.
+- Die totale getal leerders wat Wiskunde ($M$) aflê, is $22$.
+- Die totale getal leerders wat Toerisme ($T$) aflê, is $16$.
+- Die totale getal leerders wat Geografie ($G$) aflê, is $18$.
+- $5$ leerders lê Wiskunde en Toerisme af, maar nie Geografie nie.
+- $4$ leerders lê Wiskunde en Geografie af, maar nie Toerisme nie.
+- $3$ leerders lê Toerisme en Geografie af, maar nie Wiskunde nie.
+- $6$ leerders lê slegs Toerisme af.
+
+11.1 Teken 'n Venn-diagram om AL die leerders voor te stel wat hierdie eksamens aflê. (3)
+
+11.2 Bereken die waarskynlikheid dat 'n leerder wat willekeurig gekies word, eksamens in ten minste TEE van die vakke sal aflê. (2)
+
+11.3 Bepaal of die gebeurtenisse: aflê van die Wiskunde-eksamen en aflê van die Toerisme-eksamen, onafhanklik is. Ondersteun jou antwoord met die nodige berekeninge. (4)
+
+**[9]**
+
+---
+
+## VRAAG 12
+
+'n Maatskappy ontwikkel 'n $4$-karakter-kode deur die $26$ letters van die alfabet en die $10$ syfers van $0$ tot $9$ te gebruik.
+
+Die kode is in die vorm: $\text{letter} \quad \text{syfer} \quad \text{letter} \quad \text{syfer}$
+
+12.1 Bepaal hoeveel verskillende kodes gevorm kan word indien letters en syfers herhaal mag word. (2)
+
+12.2 Bepaal hoeveel verskillende kodes gevorm kan word indien:
+- Die letters $D, F, I, Q, U$ en $V$ NIE gebruik mag word NIE
+- Die kode NIE met 'n $W$ of $Z$ mag begin nie
+- Letters of syfers NIE herhaal mag word NIE
+- Die kode op 'n onewetal eindig
+(4)
+
+12.3 Die maatskappy wil die aantal $4$-karakter-kodes wat in VRAAG $12.2$ gevorm is, vermeerder deur die gebruik van die letters $D, F, I, Q, U$ en $V$ toe te laat. Bereken die persentasie toename in die aantal verskillende kodes wat nou gevorm kan word. (2)
+
+**[8]**
+
+**TOTAAL: 150**
+
+---
+
+### INLIGTINGSBLAD
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni) \quad A = P(1 - ni) \quad A = P(1 - i)^n \quad A = P(1 + i)^n$$
+
+$$T_n = a + (n - 1)d \quad S_n = \frac{n}{2}[2a + (n - 1)d]$$
+
+$$T_n = ar^{n-1} \quad S_n = \frac{a(r^n - 1)}{r - 1} \quad (r \ne 1) \quad S_\infty = \frac{a}{1 - r} \quad (-1 < r < 1)$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i} \quad p = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} \quad M\left(\frac{x_1 + x_2}{2}; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c \quad y - y_1 = m(x - x_1) \quad m = \frac{y_2 - y_1}{x_2 - x_1} \quad m = \tan \theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+$$\text{In } \triangle ABC: \frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}$$
+
+$$a^2 = b^2 + c^2 - 2bc \cos A$$
+
+$$\text{area } \triangle ABC = \frac{1}{2}ab \sin C$$
+
+$$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta \quad \sin(\alpha - \beta) = \sin \alpha \cos \beta - \cos \alpha \sin \beta$$
+
+$$\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta \quad \cos(\alpha - \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2 \alpha - \sin^2 \alpha \\ 1 - 2\sin^2 \alpha \\ 2\cos^2 \alpha - 1 \end{cases} \quad \sin 2\alpha = 2\sin \alpha \cos \alpha$$
+
+$$\bar{x} = \frac{\sum_{i=1}^n x_i}{n} \quad \sigma^2 = \frac{\sum_{i=1}^n (x_i - \bar{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)} \quad P(A \text{ of } B) = P(A) + P(B) - P(A \text{ en } B)$$
+
+$$\hat{y} = a + bx \quad b = \frac{\sum (x - \bar{x})(y - \bar{y})}{\sum (x - \bar{x})^2}$$

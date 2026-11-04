@@ -1,0 +1,288 @@
+basic education  
+Department:  
+Basic Education  
+REPUBLIC OF SOUTH AFRICA  
+
+SENIORSERTIKAAT-EKSAMEN/  
+NASIONALE SENIORSERTIKAAT-EKSAMEN  
+
+WISKUNDE V1  
+
+MEI/JUNIE 2023  
+
+PUNTE: 150  
+TYD: 3 uur  
+
+Hierdie vraestel bestaan uit 8 bladsye en 1 inligtingsblad.
+
+---
+
+**INSTRUKSIES EN INLIGTING**
+
+Lees die volgende instruksies noukeurig deur voordat die vrae beantwoord word.
+
+1. Hierdie vraestel bestaan uit 10 vrae.
+2. Beantwoord AL die vrae.
+3. Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie vraestel gebruik is.
+4. Dui ALLE berekeninge, diagramme, grafieke, ens. wat jy gebruik het om jou antwoorde te bepaal, duidelik aan.
+5. Volpunte sal NIE noodwendig aan slegs antwoorde toegeken word NIE.
+6. Jy mag 'n goedgekeurde, wetenskaplike sakrekenaar (nieprogrammeerbaar en niegrafies) gebruik, tensy anders vermeld.
+7. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders vermeld.
+8. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+9. 'n Inligtingsblad met formules is aan die einde van die vraestel ingesluit.
+10. Skryf netjies en leesbaar.
+
+---
+
+### VRAAG 1
+
+1.1 Los op vir $x$:
+
+1.1.1 $x^2 - 7x + 12 = 0$ (3)
+
+1.1.2 $x(3x + 5) = 1$ (korrek tot TWEE desimale syfers) (4)
+
+1.1.3 $x^2 < -2x + 15$ (4)
+
+1.1.4 $\sqrt{2(1 - x)} = x - 1$ (4)
+
+1.2 Los gelyktydig vir $x$ en $y$ op:
+
+$3^{x + y} = 27 \quad \text{en} \quad x^2 + y^2 = 17$ (6)
+
+1.3 Bepaal, sonder die gebruik van 'n sakrekenaar, die waarde van:
+$$\frac{1}{\sqrt{1} + \sqrt{2}} + \frac{1}{\sqrt{2} + \sqrt{3}} + \frac{1}{\sqrt{3} + \sqrt{4}} + ... + \frac{1}{\sqrt{99} + \sqrt{100}}$$ (3)  
+**[24]**
+
+---
+
+### VRAAG 2
+
+2.1 Gegee die meetkundige reeks: $\frac{1}{5} + \frac{1}{15} + \frac{1}{45} + ...$
+
+2.1.1 Is dit 'n konvergerende meetkundige reeks? Motiveer jou antwoord met die nodige berekeninge. (2)
+
+2.1.2 Bereken die som tot oneindig van hierdie reeks. (2)
+
+2.2 'n Rekenkundige en 'n meetkundige ry word gekombineer om die patroon te vorm wat gegee word deur: $P_n = x; \frac{1}{3}; 2x; \frac{1}{9}; 3x; \frac{1}{27}; ...$
+
+2.2.1 Skryf die volgende TWEE terme van die patroon neer. (2)
+
+2.2.2 Bepaal die algemene term ($T_n$) vir die onewe terme van hierdie patroon. Skryf jou antwoord in terme van $x$ neer. (2)
+
+2.2.3 Bereken die waarde van $P_{26}$. (3)
+
+2.2.4 Indien $\sum_{n=1}^{21} P_n = 33,5$, bepaal die waarde van $x$. (6)  
+**[17]**
+
+---
+
+### VRAAG 3
+
+'n Kwadratiese ry het die volgende eienskappe:
+* Die tweede verskil is $10$.
+* Die eerste twee terme is gelyk, d.w.s. $T_1 = T_2$.
+* $T_1 + T_2 + T_3 = 28$
+
+3.1 Toon dat die algemene term van die ry $T_n = 5n^2 - 15n + 16$ is. (6)
+
+3.2 Is $216$ 'n term van hierdie ry? Motiveer jou antwoord met die nodige berekeninge. (3)  
+**[9]**
+
+---
+
+### VRAAG 4
+
+4.1 Gegee die funksie $p(x) = \left(\frac{1}{3}\right)^x$.
+
+4.1.1 Is $p$ 'n stygende of dalende funksie? (1)
+
+4.1.2 Bepaal $p^{-1}$, die inverse van $p$, in die vorm $y = ...$ (2)
+
+4.1.3 Skryf die definisieversameling van $p^{-1}$ neer. (1)
+
+4.1.4 Skryf die vergelyking van die asimptoot van $p(x) - 5$ neer. (1)
+
+4.2 Gegee: $f(x) = \frac{4}{x - 1} + 2$
+
+4.2.1 Skryf die vergelyking van die asimptote van $f$ neer. (2)
+
+4.2.2 Bereken die $x$-afsnit van $f$. (2)
+
+4.2.3 Teken die grafiek van $f$, en dui alle asimptote en die afsnitte met die asse aan. (4)
+
+4.2.4 Gebruik jou grafiek om die waardes van $x$ te bepaal waarvoor $\frac{4}{x - 1} \ge -2$. (2)
+
+4.2.5 Bepaal die vergelyking van die simmetrie-as van $f(x - 2)$, wat 'n negatiewe gradiënt het. (3)  
+**[18]**
+
+---
+
+### VRAAG 5
+
+Die grafieke van die funksies $f(x) = -(x + 3)^2 + 4$ en $g(x) = x + 5$ is hieronder geteken.  
+Die grafieke sny by $A$ en $B$.
+
+[DIAGRAM: A Cartesian plane showing two graphs. A parabola $f$ opens downwards with vertex at $(-3, 4)$, with $x$-intercepts and intersecting the straight line $g$ at points A and B. The line $g(x) = x + 5$ has a positive gradient, passing through the origin region with $y$-intercept $(0,5)$ and $x$-intercept $(-5,0)$. Point A is the leftmost intersection point, and Point B is the rightmost intersection point.]
+
+5.1 Skryf die koördinate van die draaipunt van $f$ neer. (2)
+
+5.2 Skryf die waardeversameling van $f$ neer. (1)
+
+5.3 Toon dat die $x$-koördinate van $A$ en $B$ onderskeidelik $-5$ en $-2$ is. (4)
+
+5.4 Vervolgens, bepaal die waardes van $c$ waarvoor die vergelyking $-(x + c + 3)^2 + 4 = (x + c) + 5$ EEN negatiewe en EEN positiewe wortel het. (2)
+
+5.5 Die maksimum afstand tussen $f$ en $g$ in die interval $x_A < x < x_B$ is $k$. Indien $h(x) = g(x) + k$, bepaal die vergelyking van $h$ in die vorm $h(x) = ...$ (5)  
+**[14]**
+
+---
+
+### VRAAG 6
+
+6.1 'n Maatskappy het op 1 Julie 2022 'n fotostaatmasjien vir $\text{R}150\ 000$ gekoop. Hulle sal die ou fotostaatmasjien inruil wanneer hulle dit oor 5 jaar, op 30 Junie 2027, met 'n soortgelyke nuwe fotostaatmasjien vervang.
+
+6.1.1 Die gemiddelde inflasiekoers vir die volgende 5 jaar sal $6,5\%$ p.j. wees. Bepaal die prys van 'n soortgelyke nuwe fotostaatmasjien oor 5 jaar. (2)
+
+6.1.2 Bereken die inruilwaarde van die ou fotostaatmasjien na 5 jaar, indien dit teen 'n koers van $9\%$ p.j. volgens die reguitlynmetode depresieer. (2)
+
+6.1.3 Die maatskappy het 'n delgingsfonds gestig om die vervangingskoste van die nuwe fotostaatmasjien te dek. Die fonds verdien rente teen $7,85\%$ p.j., maandeliks saamgestel. Die maatskappy het hulle eerste maandelikse deposito op 31 Julie 2022 gemaak en sal tot 31 Mei 2027 voortgaan om dit te doen, 'n maand voordat die nuwe fotostaatmasjien gekoop word. Hoeveel moet aan die einde van elke maand gedeponeer word sodat die maatskappy die nuwe fotostaatmasjien kan koop? (4)
+
+6.2 Andrew het vandag $\text{R}200\ 000$ by 'n bank geleen. Die bank hef rente teen $5,25\%$ p.j., kwartaalliks saamgestel. Andrew sal aan die einde van elke 3 maande terugbetalings van $\text{R}6\ 000$ maak. Sy eerste terugbetaling sal 3 maande van nou af gemaak word. Hoeveel jaar sal dit Andrew neem om hierdie lening terug te betaal? (5)  
+**[13]**
+
+---
+
+### VRAAG 7
+
+7.1 Bepaal $f'(x)$ vanuit eerste beginsels, indien $f(x) = -2x^2 - 1$. (5)
+
+7.2 Bepaal:
+
+7.2.1 $f'(x)$, indien dit gegee word dat $f(x) = -2x^3 + 3x^2$ (2)
+
+7.2.2 $\frac{dy}{dx}$ indien $y = 2x + \frac{1}{\sqrt{4x}}$ (4)
+
+7.3 Die grafiek $y = f'(x)$ het 'n minimum draaipunt by $(1; -3)$. Bepaal die waardes van $x$ waarvoor $f$ konkaaf af is. (2)  
+**[13]**
+
+---
+
+### VRAAG 8
+
+Gegee: $f(x) = x^3 + 4x^2 - 7x - 10$
+
+8.1 Skryf die $y$-afsnit van $f$ neer. (1)
+
+8.2 Toon dat $2$ 'n wortel van die vergelyking $f(x) = 0$ is. (2)
+
+8.3 Faktoriseer vervolgens $f(x)$ volledig. (3)
+
+8.4 Indien dit verder gegee word dat die koördinate van die draaipunte naasby $(0,7; -12,6)$ en $(-3,4; 20,8)$ is, teken die grafiek van $f$ en dui al die afsnitte en draaipunte aan. (3)
+
+8.5 Gebruik jou grafiek om die waardes van $x$ te bepaal waarvoor:
+
+8.5.1 $f'(x) < 0$ (2)
+
+8.5.2 Die gradiënt van 'n raaklyn aan $f$ 'n minimum is (2)
+
+8.5.3 $f'(x) \cdot f''(x) \le 0$ (3)  
+**[16]**
+
+---
+
+### VRAAG 9
+
+'n Draad, $12$ meter lank, word in twee stukke geknip. Die een deel word gebuig om 'n gelyksydige driehoek te vorm en die ander 'n vierkant. 'n Sy van die driehoek se lengte is $2x$ meter.
+
+9.1 Skryf die lengte van 'n sy van die vierkant in terme van $x$ neer. (2)
+
+9.2 Indien hierdie vierkant nou as die basis van 'n reghoekige prisma met 'n hoogte van $4x$ meter gebruik word, bepaal die maksimum volume van die reghoekige prisma. (7)  
+**[9]**
+
+---
+
+### VRAAG 10
+
+10.1 'n Groep mense het aan 'n toets deelgeneem om 'n nuwe hoofpynpil te toets.
+* $50\%$ van die deelnemers het die hoofpynpil ontvang.
+* $50\%$ van die deelnemers het 'n suikerpil ontvang.
+* $\frac{2}{5}$ van die groep wat die hoofpynpil ontvang het, is nie genees nie.
+* $\frac{3}{10}$ van die groep wat die suikerpil ontvang het, is genees.
+
+10.1.1 Stel die gegewe inligting op 'n boomdiagram voor. Dui op jou grafiek die waarskynlikheid wat met elke tak geassosieer word, asook die uitkoms, aan. (3)
+
+10.1.2 Bepaal die waarskynlikheid dat 'n persoon wat willekeurig uit die groep gekies is, NIE genees sal word NIE. (2)
+
+10.2 Drie gebeurtenisse, $A$, $B$ en $C$, word in geneem:  
+$P(A) = \frac{2}{5}$, $P(B) = \frac{1}{4}$ en $P(A \text{ of } B) = \frac{13}{20}$.
+
+10.2.1 Is gebeurtenisse $A$ en $B$ onderling uitsluitend? Ondersteun jou antwoord met die nodige berekeninge. (2)
+
+10.2.2 Bepaal $P(\text{not } C)$, indien dit verder gegee word dat $P(A \text{ of } C) = \frac{7}{10}$, $P(A \text{ en } C) = \frac{2}{5}$ en $2P(B \text{ en } C) = P(A \text{ en } C)$. (3)
+
+10.2.3 Bepaal die waarskynlikheid dat gebeurtenisse $A$, $B$ of $C$ NIE plaasvind NIE. (2)
+
+10.3 Sewe vriende (4 seuns en 3 dogters) wil in 'n reguitlyn langs mekaar staan om 'n foto te neem.
+
+10.3.1 Op hoeveel maniere kan die 3 dogters langs mekaar in die foto staan? (2)
+
+10.3.2 In die volgende foto, bepaal die waarskynlikheid dat Selwyn ('n seun) en Lindiwe ('n dogter) NIE langs mekaar in die foto sal staan NIE. (3)  
+**[17]**
+
+**TOTAAL: 150**
+
+---
+
+### INLIGTINGSBLAD
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni)$$  
+$$A = P(1 - ni)$$  
+$$A = P(1 - i)^n$$  
+$$A = P(1 + i)^n$$
+
+$$T_n = a + (n - 1)d$$  
+$$S_n = \frac{n}{2}[2a + (n - 1)d]$$
+
+$$T_n = ar^{n-1}$$  
+$$S_n = \frac{a(r^n - 1)}{r - 1} \quad (r \neq 1)$$  
+$$S_\infty = \frac{a}{1 - r} \quad (-1 < r < 1)$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i}$$  
+$$P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$  
+$$M\left(\frac{x_1 + x_2}{2}; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c$$  
+$$y - y_1 = m(x - x_1)$$  
+$$m = \frac{y_2 - y_1}{x_2 - x_1}$$  
+$$m = \tan \theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+In $\Delta ABC$:  
+$$\frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}$$  
+$$a^2 = b^2 + c^2 - 2bc \cos A$$  
+$$\text{area } \Delta ABC = \frac{1}{2}ab \sin C$$
+
+$$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta$$  
+$$\sin(\alpha - \beta) = \sin \alpha \cos \beta - \cos \alpha \sin \beta$$  
+$$\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta$$  
+$$\cos(\alpha - \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2 \alpha - \sin^2 \alpha \\ 1 - 2\sin^2 \alpha \\ 2\cos^2 \alpha - 1 \end{cases}$$  
+$$\sin 2\alpha = 2\sin \alpha \cos \alpha$$
+
+$$\bar{x} = \frac{\sum x}{n}$$  
+$$\sigma^2 = \frac{\sum_{i=1}^n (x_i - \bar{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)}$$  
+$$P(A \text{ of } B) = P(A) + P(B) - P(A \text{ en } B)$$
+
+$$\hat{y} = a + bx$$  
+$$b = \frac{\sum(x - \bar{x})(y - \bar{y})}{\sum(x - \bar{x})^2}$$

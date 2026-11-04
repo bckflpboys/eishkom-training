@@ -1,0 +1,292 @@
+# NATIONAL SENIOR CERTIFICATE
+
+**GRADE 12**
+
+**ENGLISH HOME LANGUAGE P1**
+
+**NOVEMBER 2019**
+
+---
+
+MARKS: 70  
+TIME: 2 hours  
+
+This question paper consists of 12 pages.
+
+---
+
+## INSTRUCTIONS AND INFORMATION
+
+1. This question paper consists of THREE sections:
+   - SECTION A: Comprehension (30)
+   - SECTION B: Summary (10)
+   - SECTION C: Language structures and conventions (30)
+
+2. Read ALL the instructions carefully.
+3. Answer ALL the questions.
+4. Start EACH section on a NEW page.
+5. Rule off after each section.
+6. Number the answers correctly according to the numbering system used in this question paper.
+7. Leave a line after each answer.
+8. Pay special attention to spelling and sentence construction.
+9. Suggested time allocation:
+   - SECTION A: 50 minutes
+   - SECTION B: 30 minutes
+   - SECTION C: 40 minutes
+10. Write neatly and legibly.
+
+---
+
+## SECTION A: COMPREHENSION
+
+### QUESTION 1: READING FOR MEANING AND UNDERSTANDING
+
+Read TEXTS A and B below and answer the questions set.
+
+#### TEXT A
+
+##### THE RISE OF THE MACHINES
+*The Rise of the Machines: Are we ready to participate in the Fourth Industrial Revolution, or be crushed by it?*
+
+1. Machines are learning so fast, and processing so much big data, that humans can only be seen as deficient. When talking about the Fourth Industrial Revolution as personified through artificial intelligence (AI), we generally refer to the symbiotic$^1$ relationship between man and machine.
+
+2. A recent study demonstrated that all smart gadgets are built and designed to relay all information back to the manufacturer. Besides the fact that every device needed to have its own password and security features, one common thing the study found was that every device reported back to its manufacturer on how it was being used by the recipient client.
+
+3. Now, you may think, what's the harm in that – but when your dishwasher informs on you and what products you generally tend to use, this provides valuable intelligence on what products you should be exposed to, where you should shop for it and why it would be better to use and purchase specific products.
+
+4. Researchers of the Fourth Industrial Revolution remind us that artificial intelligence has already been weaponised. We now have smart bombs and missiles which cannot only see the target toward which they are flying but also whether to take the decision to kill or not. Yes, you heard me, to take the decision to kill or not. In the past, in order to have a measure of control over the machines, we humans insisted that all kill decisions must and can only be made with human participation. Increasingly now, they say, military personnel are insisting that such decisions must be made by the machine. They argue that more precise information or data will be processed and as such a more informed decision would be made, taking all variables into consideration – much more than a human being could process. Also, this would greatly reduce fatality rates and collateral damage, or so they argue.
+
+5. I have a friend in London who works at Google. His sole purpose at work is to develop a 'kill switch' for robots and machines. 'Why?' you might ask. Because when the robots and machines go berserk – and some will – we need to neutralise them. Imagine a military drone going haywire and deciding to fire its payload into civilian-populated areas? Or a self-driving car deciding that it mathematically makes more sense to kill an aged person instead of a young life inside the vehicle? This set of moral and ethical dilemmas is another area humans have not yet solved.
+
+6. We're already finding ourselves unable to control certain functions, which we have completely outsourced to machines. They are outsmarting human beings because they can retain and process vast amounts of information. Consequently, the machines will see us as being sick, having a digital malfunction and in the end, in desperate need of repair or deletion.
+
+7. Then there are the labour implications of the revolution. It's all too easy to say we must prepare for the eventuality of job losses and retrain ourselves to be employable in the digital age. But this is more easily said than done. A closer examination of the issue suggests that the only real jobs protected from a complete overhaul by machines are the creative ones – the current elite will have job security while blue-collar workers will be threatened by huge job losses due to machines.
+
+8. There is also the inescapable puzzle of what to do about the 'rights' of robots: should they be unionised to avoid exploitative practices? Just because they can work non-stop does not mean they are not entitled to regular upgrades, maintenance and cleaning. Should the machines pay tax, as proposed by Bill Gates, because one of the obvious negatives when they take over is that there will be a reduction in taxpaying people? These are all issues that deserve our attention if we are to make a success of this industrial revolution.
+
+9. Critical to the success of the industrial revolution is the undisputed need for a constant supply of electricity, without which we cannot have satellite communication to keep smart devices working, fibre connectivity and so much more. How do we guarantee participants in this revolution when South Africa has such unreliable electricity grids?
+
+10. Whilst driving at night in Johannesburg, we see corporate buildings lit up like Christmas trees – there is no regulation that says only one or two floors' lights may be on and the rest must have day-night switches. If we cannot even get such a simple thing right, what's to say we'll be ready to be participants in the Fourth Industrial Revolution? Or has the revolution already passed us by and we're oblivious to the fact that as usual, we are already subjects of it?
+
+*[Source: Daily Maverick, 28 August 2018]*
+
+***
+
+**GLOSSARY:**  
+$^1$ *symbiotic – interdependent/mutual*
+
+---
+
+#### TEXT B
+
+[DIAGRAM: A 6-panel cartoon strip. 
+- Panel 1: A bearded man sitting on a sofa looking at his phone, saying "I'M GOING OUT." A robot standing nearby asks "WHERE?". The man replies "NOWHERE."
+- Panel 2: The robot leans in, asking "IS THERE A PARTY AT THIS 'NOWHERE'?" The man looks annoyed, saying "WHAT??".
+- Panel 3: The man responds, "I'M JUST ASKING IF YOU'RE GOING TO A PARTY THAT YOU DON'T WANT ME TO KNOW ABOUT."
+- Panel 4: The man throws his hands up in frustration, shouting "MO-OM!" while the robot looks on innocently.
+- Panel 5: The robot replies, "YETH."
+- Panel 6: The man sits back down with his phone, thinking. The robot looks at the reader with a text bubble: "Does mom always know the truth?" with a thought bubble from the man saying "I'd be lying if I said she doesn't."]
+
+*[Source: www.twitter.com]*
+
+**GLOSSARY:**  
+$^2$ *AI – Artificial Intelligence*
+
+---
+
+### QUESTIONS: TEXT A
+
+1.1 What is the function of the rhetorical question in the by-line, 'The Rise of the Machines … be crushed by it?' (2)
+
+1.2 Refer to lines 1–2: 'that humans can only be seen as deficient.'  
+Explain why human beings could be viewed as 'deficient'. (2)
+
+1.3 Discuss the apparent contradiction with regard to using password protection in paragraph 2. (2)
+
+1.4 Refer to paragraph 3.  
+Discuss the importance of 'valuable intelligence' in the context of paragraph 3. (3)
+
+1.5 Suggest reasons for the writer's inclusion of the aside, 'you heard me' (line 18). (3)
+
+1.6 Comment on the irony implicit in paragraph 6. (3)
+
+1.7 Refer to paragraphs 7 and 8.  
+Comment on the implications of the Fourth Industrial Revolution. (3)
+
+1.8 Refer to paragraphs 9 and 10.  
+In your opinion, is the writer's viewpoint in paragraphs 9 and 10 convincing? Motivate your response. (3)
+
+### QUESTIONS: TEXT B
+
+1.9 Explain how the setting of TEXT B depicts the relationship between the two characters. (2)
+
+1.10 Critically discuss how the priorities of EACH of the characters convey his differences. (3)
+
+### QUESTION: TEXTS A AND B
+
+1.11 In your view, does TEXT B support the views expressed in paragraph 4 of TEXT A?  
+Justify your response with close reference to both TEXT A and TEXT B. (4)
+
+**TOTAL SECTION A: 30**
+
+---
+
+## SECTION B: SUMMARY
+
+### QUESTION 2: SUMMARISING IN YOUR OWN WORDS
+
+TEXT C provides insight into censorship of the internet by governments around the world. Summarise, in your own words, the political censorship of the internet.
+
+**NOTE:**  
+1. Your summary should include SEVEN points and NOT exceed 90 words.  
+2. You must write a fluent paragraph.  
+3. You are NOT required to include a title for the summary.  
+4. Indicate your word count at the end of your summary.  
+
+#### TEXT C
+
+##### GOVERNMENTS GAG THE NET
+
+As the internet continues to gain considerable power and agency around the world, many governments have moved to regulate it. And where regulation fails, some states resort to internet shutdowns or deliberate disruptions. 
+
+The justifications for such shutdowns are usually relatively predictable. Governments often claim that internet access is blocked in the interest of public security and order. In some instances, however, their reasoning borders on the curious if not downright absurd. 
+
+Whatever their reasons, governments have three general approaches to controlling citizens' access to the web. The first and probably the most serious is where the state completely blocks access to the internet on all platforms. It's arguably the most punitive, with significant social, economic and political costs. The financial costs can run into millions of dollars for each day the internet is blocked, damaging businesses, discouraging investments, and hindering economic growth. The second way that governments restrict internet access is by applying content-blocking techniques. They restrict access to particular sites or applications. This common strategy is usually targeted at social media platforms. The idea is to stop or limit conversations on these platforms. Governments argue, for example, that social media platforms encourage the spread of rumours which can trigger public unrest. The third strategy, done almost by stealth, is the use of what is generally known as 'bandwidth throttling'. In this case telecom operators or internet service providers are forced to lower the quality of their cell signals or internet speed. In most cases, the desire to control the internet is rooted in governments' determination to control the political narrative. Many see the internet as an existential threat that must be contained, no matter what consequences it will have on other sectors.
+
+The irony, however, is that as these shutdowns continue, even proliferate, there is scant evidence they actually work. Instead, they seem to animate dissent and encourage precisely the kind of responses considered subversive by many governments.
+
+The future of unfettered internet access in Africa looks precarious should governments continue on this trajectory. The absence in many African countries of enforceable constitutional guarantees that protect the public's right to information means there are few opportunities for legal redress. This makes the development of legislative regimes that recognise and protect access to the internet both urgent and necessary.
+
+*[Adapted from http://theconversation.com]*
+
+**TOTAL SECTION B: [10]**
+
+---
+
+## SECTION C: LANGUAGE STRUCTURES AND CONVENTIONS
+
+### QUESTION 3: ANALYSING ADVERTISING
+
+Study the advertisement (TEXT D) below and answer the questions set.
+
+#### TEXT D
+
+[DIAGRAM: Black and white outdoor advertisement showing a runner jogging down a wet, tree-lined path in heavy rain/snow under a stormy sky. A telephone pole is on the right. At the top right, the Nike swoosh and "AIR" logo appear. At the bottom centre, the headline "NEITHER SNOW, NOR RAIN, NOR COMMON SENSE." is displayed above small descriptive text and an image of a Nike running shoe.]
+
+**The text in small font reads as follows:**
+NEITHER SNOW, NOR RAIN, NOR COMMON SENSE.  
+You are not one to let a little torrential downpour get in the way of a run. You lace up the Nike Air Pegasus ACG, the all-weather version of the world's most popular running shoe. You put on the All Conditions Gear Gore-Tex® suit. You hit the road.  
+You're warm. You're dry. You're nuts.
+
+*[Source: www.designyourway.net]*
+
+---
+
+#### QUESTIONS: TEXT D
+
+3.1 
+```
+NEITHER SNOW, NOR RAIN,
+NOR COMMON SENSE.
+```
+Discuss what the advertiser's use of the negatives, in the above headline, suggests about the runner. (2)
+
+3.2 Comment on the tone used in the first paragraph. (2)
+
+3.3 Identify and critically discuss ONE persuasive technique used by the advertiser. (3)
+
+3.4 In your view, does the visual image in the main body of the advertisement support the claims made by the advertiser? Justify your response. (3)
+
+**[10]**
+
+---
+
+### QUESTION 4: UNDERSTANDING OTHER ASPECTS OF THE MEDIA
+
+Study TEXT E below and answer the questions set.
+
+#### TEXT E: CARTOON
+
+[DIAGRAM: A 6-frame comic strip featuring a teenager (Peter) and his mother.
+- FRAME 1: Peter looks at his phone and says "I'M GOING OUT." His mother, sitting nearby, asks "WHERE?".
+- FRAME 2: Peter replies "NOWHERE." His mother looks suspicious and asks "IS THERE A PARTY AT THIS 'NOWHERE'?"
+- FRAME 3: Peter says "WHAT??", looking defensive. His mother responds, "I'M JUST ASKING IF YOU'RE GOING TO A PARTY THAT YOU DON'T WANT ME TO KNOW ABOUT."
+- FRAME 4: Peter yells out in frustration: "MO-OM!" while his mother calmly looks at him.
+- FRAME 5: Peter's mother sticks her tongue out playfully, saying "YETH."
+- FRAME 6: Peter sits on the couch reading a book while his mother reads nearby. Thought bubbles appear above them: Mother thinks "DOES MOM ALWAYS KNOW THE TRUTH?", Peter thinks "I'D BE LYING IF I SAID SHE DOESN'T."]
+
+*[Source: www.pinterest.com]*
+
+---
+
+#### QUESTIONS: TEXT E
+
+4.1 Refer to FRAME 1 and FRAME 2.  
+Explain the boy's attitude in FRAME 2 towards his mother's question in FRAME 1. (2)
+
+4.2 Discuss the mother's tone in FRAME 2. (2)
+
+4.3 Refer to FRAME 4.  
+Assess the effectiveness of the technique used in 'MO-OM!' (2)
+
+4.4 Comment on both the visual and verbal cues used in FRAME 5. (4)
+
+**[10]**
+
+---
+
+### QUESTION 5: USING LANGUAGE CORRECTLY
+
+Read TEXT F, which contains some deliberate errors, and answer the questions set.
+
+#### TEXT F
+
+##### EATING THE BUNNY
+
+1. We were pre-teens. That wonderful sepia-coloured time just before you looked at boys in a different way. We were good kids and bunked school only when we knew we wouldn't get in trouble – especially during those chalkdowns in the 1990s.
+
+2. So we trekked to a friend's house, hunched over, carrying school cases filled with heavy, leaden textbooks that wouldn't be opened that day.
+
+3. But first one needed food as there was no choice when you were that young and that hungry. We would pool the little money that we had. We could afford a few loaves of bread, chips, polony and atchaar at one of the many cafés in Johannesburg. We would scoop out the bread and stuff it with the other ingredients. Wash down with Fanta Orange.
+
+4. Those were the best meals of my life. Sitting around with my friends, laughing and kidding around as we stuffed our faces with double carbs.
+
+5. That's the beauty of the bunny chow. All it takes is only a quarter of a loaf, with a filling, and that made life good. Some places call them 'scambane' or 'kota' (quarter), but they all taste the same and every time I bite into one, it brings back those golden memories of childhood.
+
+*[Adapted from Sunday Times, 16 September 2018]*
+
+---
+
+#### QUESTIONS: TEXT F
+
+5.1 Refer to the use of the hyphen (line 1) and dash (line 3).
+   - 5.1.1 Account for the use of the hyphen in 'sepia-coloured' (line 1). (1)
+   - 5.1.2 Account for the use of the dash in line 3. (1)
+
+5.2 'looked at boys in a different way' (line 2).  
+Replace the underlined phrase with a synonymous adverb. (1)
+
+5.3 'We were good kids and bunked school only when we knew we wouldn't get in trouble' (lines 2–3).  
+Correct the preposition error in the above sentence. (1)
+
+5.4 Write down the redundant word in paragraph 2. (1)
+
+5.5 Correct the pronoun error in paragraph 3. (1)
+
+5.6 'We would scoop out the bread and stuff it with the other ingredients' (lines 10–11).  
+Change the above sentence into the passive voice. (1)
+
+5.7 'Sitting around with my friends, laughing and kidding around as we stuffed our faces with double carbs' (lines 12–13).  
+Rewrite the above sentence so that it is grammatically correct. (1)
+
+5.8 Rewrite 'stuffed our faces' (line 13) in formal English. (1)
+
+5.9 'All it takes is only a quarter of a loaf, with a filling, and that made life good' (lines 14–15).  
+Correct the error of tense in the above sentence. (1)
+
+**[10]**
+
+---
+
+**TOTAL SECTION C: 30**  
+**GRAND TOTAL: 70**

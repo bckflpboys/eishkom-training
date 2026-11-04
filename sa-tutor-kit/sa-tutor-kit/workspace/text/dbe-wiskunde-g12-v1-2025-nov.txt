@@ -1,0 +1,433 @@
+**Vertroulik**
+
+# basic education
+Department: Basic Education  
+REPUBLIC OF SOUTH AFRICA
+
+---
+
+## NASIONALE  
+## SENIOR SERTIFIKAAT
+
+### GRAAD 12
+
+---
+
+### WISKUNDE V1  
+### NOVEMBER 2025
+
+**PUNTE: 150**  
+**TYD: 3 uur**
+
+---
+
+Hierdie vraestel bestaan uit 11 bladsye, 1 inligtingsblad en 'n antwoordeboek van 23 bladsye.
+
+---
+
+Kopiereg voorbehou  
+Blaai om asseblief
+
+---
+
+Wiskunde/V1  
+2  
+NSS Vertroulik  
+DBE/November 2025
+
+### INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies en inligting noukeurig deur voordat die vrae beantwoord word.
+
+1. Hierdie vraestel bestaan uit 11 vrae.
+
+2. Beantwoord AL die vrae in die SPESIALE ANTWOORDEBOEK wat verskaf word.
+
+3. Dui ALLE berekeninge, diagramme, grafieke, ens. wat jy gebruik het om jou antwoorde te bepaal, duidelik aan.
+
+4. Volpunte sal NIE noodwendig aan slegs antwoorde toegeken word NIE.
+
+5. Jy mag 'n goedgekeurde wetenskaplike sakrekenaar (nieprogrammeerbaar en niegrafies) gebruik, tensy anders vermeld.
+
+6. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders vermeld.
+
+7. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+
+8. 'n Inligtingsblad met formules is aan die einde van die vraestel ingesluit.
+
+9. Skryf netjies en leesbaar.
+
+---
+
+Kopiereg voorbehou  
+Blaai om asseblief
+
+---
+
+Wiskunde/V1  
+3  
+NSS Vertroulik  
+DBE/November 2025
+
+## VRAAG 1
+
+1.1 Los op vir $x$:
+
+1.1.1 $(x + 5)(x - 2) = 0$  *(2)*
+
+1.1.2 $5x^2 + 2 = -9x$ (korrek tot TWEE desimale plekke)  *(4)*
+
+1.1.3 $8x^2 > 2x$  *(4)*
+
+1.1.4 $2^{2x} - 9 \cdot 2^x + 4 = 0$  *(4)*
+
+1.1.5 $\sqrt{\dfrac{1}{x}} + 2 = \dfrac{1}{\sqrt{x}}$  *(5)*
+
+1.2 Bereken die waardes van $x$ en $y$ indien:
+* $x$ die som van $2$ en $y$ is
+* Vyf keer die produk van $x$ en $y$, $6$ meer as die kwadraat van $x$ is  *(6)*  
+**[25]**
+
+---
+
+## VRAAG 2
+
+2.1 Gegee die oneindige meetkundige reeks: $(t + 10) + (t - 2) + (t + 4) + \dots$
+
+2.1.1 Dui aan dat $t = -2$  *(3)*
+
+2.1.2 Bereken die waarde van $T_{25}$. Skryf jou antwoord in die vorm $T_n = b^x$  *(3)*
+
+2.1.3 Bereken die som van die oneindige reeks.  *(2)*
+
+2.2 Gegee $\sum_{p=k}^{117} (4p - 1) = 26\ 675$
+
+2.2.1 Skryf die verskil tussen $T_6$ en $T_{14}$ neer.  *(2)*
+
+2.2.2 Bereken die waarde van $k$.  *(5)*  
+**[15]**
+
+---
+
+Kopiereg voorbehou  
+Blaai om asseblief
+
+---
+
+Wiskunde/V1  
+4  
+NSS Vertroulik  
+DBE/November 2025
+
+## VRAAG 3
+
+Die diepte van 'n torpedo onder seevlak vorm 'n kwadratiese patroon, waar $0\text{ meter}$ by seevlak is. 'n Duikboot het 'n torpedo met intervalle van een sekonde elk gevolg.
+
+[DIAGRAM: An illustration showing a submarine ("DUIKBOOT") launching a torpedo ("TORPEDO") into the water.]
+
+Die diepte (in meter) wat die torpedo bereik, word in die tabel hieronder gegee.
+
+| | Diepte (in meter) |
+|---|---|
+| Aan die einde van die eerste sekonde | $36$ |
+| Aan die einde van die eerste $2$ sekondes | $71$ |
+| Aan die einde van die eerste $3$ sekondes | $104$ |
+
+3.1 Bereken die diepte van die torpedo aan die einde van die eerste $5$ sekondes.  *(2)*
+
+3.2 Toon dat die diepte van die torpedo aan die einde van $n$ sekondes $T_n = -n^2 + 38n - 1$ was.  *(3)*
+
+3.3 Bereken die maksimum diepte wat die torpedo bereik het.  *(3)*
+
+3.4 Na hoeveel sekondes was die torpedo vir die tweede keer op $104\text{ m}$ onder seevlak?  *(2)*  
+**[10]**
+
+---
+
+Kopiereg voorbehou  
+Blaai om asseblief
+
+---
+
+Wiskunde/V1  
+5  
+NSS Vertroulik  
+DBE/November 2025
+
+## VRAAG 4
+
+Die grafiek van $f(x) = \log_{\frac{1}{3}} x$ is hieronder geskets. Punt A is die $x$-afsnit van $f$ en $(3; t)$ is op $f$.
+
+[DIAGRAM: Cartesian plane showing a decreasing logarithmic graph $f$ passing through point $A$ on the x-axis, the origin $O$, and a point $(3; t)$ in the fourth quadrant.]
+
+4.1 Bepaal die waarde van $t$  *(1)*
+
+4.2 Skryf die koördinate van A neer.  *(1)*
+
+4.3 Bepaal die vergelyking van $f^{-1}$, die inverse van $f$, in die formaat $y = \dots$  *(2)*
+
+4.4 Skryf die vergelyking van die asimptoot van $f^{-1}$ neer.  *(1)*
+
+4.5 Skets die grafiek van $f^{-1}$ op die assestelsel wat in die ANTWOORDEBOEK verskaf word. Dui duidelik die afsnitte met die asse, die koördinate van EEN ander punt en die asimptote aan.  *(3)*
+
+4.6 Die grafiek van $h$ word verkry indien $f^{-1}$ 'n translasie van $5$ eenhede na regs ondergaan. Bepaal die $y$-waardes van $h$ waar $x > 4$.  *(2)*  
+**[10]**
+
+---
+
+Kopiereg voorbehou  
+Blaai om asseblief
+
+---
+
+Wiskunde/V1  
+6  
+NSS Vertroulik  
+DBE/November 2025
+
+## VRAAG 5
+
+Die grafiek van $f(x) = ax^2 + bx + c$ en $g(x) = \dfrac{-4}{x - 3} + 8$ is hieronder geskets.  
+P is die draaipunt van $f$ sowel as die snypunt van die asimptote van $g$.  
+Die grafieke sny mekaar by $D(5; 6)$. $M$ en $T$ is $x$-afsnitte van $f$ en $g$ respektiewelik.
+
+[DIAGRAM: Cartesian plane showing a parabola $f$ opening downwards with vertex $P$, intersecting the x-axis at $M$ and another point, and a hyperbolic graph $g$ with asymptotes intersecting at $P$, passing through $D(5; 6)$ and having an x-intercept at $T$.]
+
+5.1 Skryf die definisieversameling van $g$ neer.  *(1)*
+
+5.2 Skryf die waardeversameling van $f$ neer.  *(1)*
+
+5.3 Bepaal die waardes van $x$ waarvoor:
+
+5.3.1 $g(x) \le f(x)$  *(2)*
+
+5.3.2 $f(x) < 6$  *(2)*
+
+5.4 Toon dat die vergelyking van die parabool $f(x) = -\dfrac{1}{2}x^2 + 3x + \dfrac{7}{2}$ is.  *(3)*
+
+5.5 Bereken die lengte van $MT$.  *(6)*
+
+5.6 Bepaal die vergelyking van die raaklyn aan $f$ by $D$.  *(3)*  
+**[18]**
+
+---
+
+Kopiereg voorbehou  
+Blaai om asseblief
+
+---
+
+Wiskunde/V1  
+7  
+NSS Vertroulik  
+DBE/November 2025
+
+## VRAAG 6
+
+Die grafiek van $g(x) = x + c$ en $f(x) = \dfrac{a}{x + p} + q$ is hieronder geskets. Grafiek $g$ en die vertikale asimptoot van $f$ sny mekaar op die $x$-as.
+
+[DIAGRAM: Cartesian plane showing a straight line $f$ or $g$ and a hyperbola $f$ with dashed asymptotes intersecting the axes.]
+
+6.1 Skryf die koördinate van die $x$-afsnit van $g$ in terme van $p$ neer.  *(1)*
+
+6.2 Grafiek $g$ sny die horisontale asimptoot van grafiek $f$ by $x = 1$ en die grafiek $f$ by $x = 3$. Grafieke $f$ en $g$ sny mekaar ook op die $y$-as. Bepaal die vergelyking van $f$.  *(5)*
+
+6.3 Beskryf die transformasie wat $g$ moet ondergaan om 'n simmetrie-as van $f$ te word wat $f$ op twee punte sny.  *(2)*  
+**[8]**
+
+---
+
+Kopiereg voorbehou  
+Blaai om asseblief
+
+---
+
+Wiskunde/V1  
+8  
+NSS Vertroulik  
+DBE/November 2025
+
+## VRAAG 7
+
+7.1 'n Reisagentskap lig Robert in dat 'n vakansie na 'n spesifieke bestemming nou $\text{R}40\ 000$ kos. Die agentskap voorspel dat die koste van hierdie vakansie jaarliks met $7,8\%$ sal verhoog. Wat sal hierdie vakansie oor $5$ jaar kos?  *(2)*
+
+7.2 Sarah het 'n spaarrekening oopgemaak wat rente teen $5,8\%$ p.j., kwartaalliks saamgestel, betaal. Sy het op $1$ Januarie 2020, $\text{R}2\ 300$ in die rekening gedeponeer en voortgegaan om deposito's van $\text{R}2\ 300$ aan die begin van elke kwartaal daarna te maak. Sy het haar laaste deposito op $1$ Oktober 2025 gemaak. Bereken die totale bedrag in die rekening op $1$ Januarie 2026.  *(4)*
+
+7.3 Die bank het op $28$ Februarie 2024 'n lening van $\text{R}900\ 000$ vir Rajesh toegestaan teen 'n rentekoers van $6,8\%$ p.j., maandeliks saamgestel.
+
+7.3.1 Rajesh kon nie die eerste drie betalings maak nie. Hy het op $30$ Junie 2024 sy eerste terugbetaling van $\text{R}10\ 000$ gemaak. Hy het voortgegaan om aan die einde van elke maand daarna maandelikse terugbetalings van $\text{R}10\ 000$ te maak. Hoe lank, in volle maande, sal dit Rajesh neem om die lening terug te betaal vanaf die tyd wat die lening goedgekeur is?  *(5)*
+
+7.3.2 Bereken die waarde van die finale betaling.  *(4)*  
+**[15]**
+
+---
+
+## VRAAG 8
+
+8.1 Bepaal $f'(x)$ vanuit eerste beginsels indien dit gegee word dat $f(x) = -2x + 3$.  *(4)*
+
+8.2 Bepaal:
+
+8.2.1 $g'(x)$ indien $g(x) = -3x^4 + 2x$  *(2)*
+
+8.2.2 $\dfrac{dy}{dx}$ indien $y = \dfrac{2x^4 + 1}{x^2}$  *(4)*  
+**[10]**
+
+---
+
+Kopiereg voorbehou  
+Blaai om asseblief
+
+---
+
+Wiskunde/V1  
+9  
+NSS Vertroulik  
+DBE/November 2025
+
+## VRAAG 9
+
+Die grafiek van $f(x) = x^3 - 8x^2 + 5x + 14$ is hieronder geskets. A, B en C is die $x$-afsnitte van $f$. D en E is die draaipunte van $f$.
+
+[DIAGRAM: Cubic graph $f$ with x-intercepts $A$, $B(2;0)$, $C$, local maximum $D$ on the y-axis, and local minimum $E$.]
+
+9.1 Bereken die koördinate van E.  *(4)*
+
+9.2 Vir watter waardes van $x$ is $f$ konkaaf na onder?  *(3)*
+
+9.3 Die koördinate van B is $(2; 0)$. Gebruik die grafiek om die waardes van $x$ te bepaal waarvoor $f(x) \cdot f''(x) < 0$  *(4)*
+
+9.4 Vir watter waardes van $t$ sal $y = -11x + t$ die grafiek van $f$ by $3$ verskillende punte sny?  *(6)*  
+**[17]**
+
+---
+
+Kopiereg voorbehou  
+Blaai om asseblief
+
+---
+
+Wiskunde/V1  
+10  
+NSS Vertroulik  
+DBE/November 2025
+
+## VRAAG 10
+
+'n Reghoekige metaalplaat het afmetings van $x$ en $h$ eenhede, met $x > h$, en 'n omtrek van $50$ eenhede. Die metaalplaat word in 'n silinder gerol met twee oop kante (bo en onder) en hoogte $h$ eenhede.
+
+[DIAGRAM: A rectangular plate of width $x$ and height $h$ alongside a cylinder formed from it of height $h$ and circumference corresponding to $x$.]
+
+10.1 Toon dat die volume van die silinder deur $V = \dfrac{25x^2}{4\pi} - \dfrac{x^3}{4\pi}$ gegee word.  *(3)*
+
+10.2 Bereken die waarde van $x$ wat die volume van die silinder sal maksimeer.  *(3)*  
+**[6]**
+
+---
+
+Kopiereg voorbehou  
+Blaai om asseblief
+
+---
+
+Wiskunde/V1  
+11  
+NSS Vertroulik  
+DBE/November 2025
+
+## VRAAG 11
+
+11.1 'n Opname is onder vroulike en manlike leerders by 'n skool gedoen oor watter tipe koeldrank hulle verkies. Die data van die opname word in die tabel hieronder gegee.
+
+| | SAP | ENERGIEDRANKIES | TOTAAL |
+|---|---|---|---|
+| Vroulik | $a$ | $b$ | $c$ |
+| Manlik | $36$ | $54$ | $f$ |
+| Totaal | $e$ | $d$ | $210$ |
+
+11.1.1 Die gebeurtenisse manlik en verkies sap is onafhanklik. Toon dat $e = 84$.  *(3)*
+
+11.1.2 Bereken die waarskynlikheid dat 'n vroulike leerder, willekeurig uit die groep gekies, van energiedrankies sal hou.  *(3)*
+
+11.2 By 'n kiosk koop $120$ persone óf 'n koppie koffie óf 'n bottel water. Die moontlikheid vir reën op enige gegewe dag is $75\%$. Die moontlikheid dat 'n persoon 'n koppie koffie op 'n reënerige dag sal koop, is drie keer die moontlikheid dat 'n persoon koffie op 'n niereënerige dag sal koop.
+
+Die waarskynlikheid dat 'n persoon koffie op enige gegewe dag sal koop, is $\dfrac{7}{12}$.  
+Bereken die getal koppies koffie wat op 'n niereënerige dag verkoop sal word.  *(4)*
+
+11.3 Agt deelnemers neem aan 'n wedloop deel waar daar geen gelykop-uitslag is nie. Bongi en Andrew is twee van die deelnemers.
+
+11.3.1 Bereken die totale getal moontlike maniere waarop die 8 deelnemers die wedloop kan voltooi indien Bongi in 'n posisie direk ná Andrew eindig.  *(2)*
+
+11.3.2 Bereken die waarskynlikheid dat TWEE OF MEER deelnemers die wedloop ná Andrew en voor Bongi sal voltooi.  *(4)*  
+**[16]**
+
+**TOTAAL: 150**
+
+---
+
+Kopiereg voorbehou
+
+---
+
+Wiskunde/V1  
+12  
+NSS Vertroulik  
+DBE/November 2025
+
+---
+
+### INLIGTINGSBLAD
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni)$$  
+$$A = P(1 - ni)$$  
+$$A = P(1 - i)^n$$  
+$$A = P(1 + i)^n$$
+
+$$T_n = a + (n - 1)d$$  
+$$S_n = \frac{n}{2}[2a + (n - 1)d]$$
+
+$$T_n = ar^{n-1}$$  
+$$S_n = \frac{a(r^n - 1)}{r - 1} \quad (r \neq 1)$$  
+$$S_\infty = \frac{a}{1 - r} \quad (-1 < r < 1)$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i}$$  
+$$P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$  
+$$M\left(\frac{x_1 + x_2}{2}; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c$$  
+$$y - y_1 = m(x - x_1)$$  
+$$m = \frac{y_2 - y_1}{x_2 - x_1}$$  
+$$m = \tan \theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+In $\triangle ABC$:  
+$$\frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}$$  
+$$a^2 = b^2 + c^2 - 2bc \cos A$$  
+$$\text{area } \triangle ABC = \frac{1}{2}ab \sin C$$
+
+$$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta$$  
+$$\sin(\alpha - \beta) = \sin \alpha \cos \beta - \cos \alpha \sin \beta$$  
+$$\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta$$  
+$$\cos(\alpha - \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2 \alpha - \sin^2 \alpha \\ 1 - 2\sin^2 \alpha \\ 2\cos^2 \alpha - 1 \end{cases}$$  
+$$\sin 2\alpha = 2\sin \alpha \cos \alpha$$
+
+$$\bar{x} = \frac{\sum_{i=1}^{n} x_i}{n}$$  
+$$\sigma^2 = \frac{\sum_{i=1}^{n} (x_i - \bar{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)}$$  
+$$P(A \text{ of } B) = P(A) + P(B) - P(A \text{ en } B)$$
+
+$$\hat{y} = a + bx$$  
+$$b = \frac{\sum (x - \bar{x})(y - \bar{y})}{\sum (x - \bar{x})^2}$$
+
+---
+Kopiereg voorbehou

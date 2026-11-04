@@ -1,0 +1,519 @@
+# NATIONAL SENIOR CERTIFICATE / NASIONALE SENIOR SERTIFIKAAT
+
+**GRADE / GRAAD 12**
+
+# PHYSICAL SCIENCES: CHEMISTRY (P2) / FISIESE WETENSKAPPE: CHEMIE (V2)
+
+**NOVEMBER 2024**
+
+**MARKING GUIDELINES / NASIENRIGLYNE**
+
+---
+
+**MARKS / PUNTE: 150**
+
+---
+
+## QUESTION 1 / VRAAG 1
+
+1.1 C $\checkmark\checkmark$ (2)
+
+1.2 C $\checkmark\checkmark$ (2)
+
+1.3 B $\checkmark\checkmark$ (2)
+
+1.4 D $\checkmark\checkmark$ (2)
+
+1.5 A $\checkmark\checkmark$ (2)
+
+1.6 A $\checkmark\checkmark$ (2)
+
+1.7 B $\checkmark\checkmark$ (2)
+
+1.8 D $\checkmark\checkmark$ (2)
+
+1.9 B $\checkmark\checkmark$ (2)
+
+1.10 D $\checkmark\checkmark$ (2)
+
+**[20]**
+
+---
+
+## QUESTION 2 / VRAAG 2
+
+2.1
+2.1.1 D $\checkmark$ (1)
+
+2.1.2 A $\checkmark$ (1)
+
+2.1.3 E $\checkmark$ (1)
+
+2.2
+2.2.1 
+> **Marking criteria:**
+> * Correct stem, i.e. hexane. $\checkmark$
+> * Correct substituents (bromo and methyl) identified. $\checkmark$
+> * IUPAC name completely correct including numbering, sequence, hyphens and commas. $\checkmark$
+> 
+> **Nasienkriteria:**
+> * Korrekte stam d.i. heksaan. $\checkmark$
+> * Korrekte substituente (bromo en metiel) geïdentifiseer. $\checkmark$
+> * IUPAC-naam heeltemal korrek insluitende nommering, volgorde, koppeltekens en kommas. $\checkmark$
+
+3,3-dibromo-4,4-dimethylhexane / 3,3-dibromo-4,4-dimetielheksaan $\checkmark\checkmark\checkmark$ (3)
+
+2.2.2 
+> **Marking criteria:**
+> * Correct stem, i.e. pentyne. $\checkmark$
+> * Substituent (dimethyl) correctly identified. $\checkmark$
+> * IUPAC name completely correct including numbering, sequence, hyphens and commas. $\checkmark$
+> 
+> **Nasienkriteria:**
+> * Korrekte stam, d.i. pentyn. $\checkmark$
+> * Substituente (dimetiel) korrek geïdentifiseer. $\checkmark$
+> * IUPAC-naam heeltemal korrek insluitende nommering, volgorde, koppeltekens en kommas. $\checkmark$
+
+4,4-dimethylpent-2-yne / 4,4-dimethyl-2-pentyne $\checkmark\checkmark\checkmark$
+4,4-dimetielpent-2-yn / 4,4-dimetiel-2-pentyn (3)
+
+2.3
+2.3.1 
+> **Marking criteria / Nasienkriteria**
+> If any one of the underlined key phrases in the correct context is omitted, deduct 1 mark. / Indien enige van die onderstreepte frases in die korrekte konteks uitgelaat is, trek 1 punt af.
+
+Compounds with the same molecular formula, $\checkmark$ but different functional groups / homologous series. $\checkmark$
+
+Verbindings met dieselfde molekulêre formule, maar verskillende funksionele groepe / homoloë reekse. (2)
+
+2.3.2 A and / en C $\checkmark$ (1)
+
+2.4
+2.4.1 $\text{H}_2\text{SO}_4$ / Sulphuric acid / Swaelsuur $\checkmark$ (1)
+
+2.4.2 Esterification / Condensation / Verestering / Esterifikasie / Kondensasie $\checkmark$ (1)
+
+2.4.3 
+> **Marking criteria:**
+> * Functional group correct. $\checkmark$
+> * Whole structural formula correct. $\checkmark$
+> 
+> **Nasienkriteria:**
+> * Funksionele groep korrek. $\checkmark$
+> * Hele struktuurformule korrek. $\checkmark$
+
+$$\begin{array}{cc}
+\phantom{H} & \text{O} \\
+\text{H}-\text{C}-&\text{C}-\text{O}-\text{C}-\text{C}-\text{C}-\text{C}-\text{H} \\
+\phantom{H} & \phantom{C}
+\end{array}$$ (Structure representation) (2)
+
+2.4.4 
+> **Marking criteria:**
+> * Correct chain length and functional group, i.e. Propanol. $\checkmark$
+> * Everything else correct: IUPAC name completely correct including numbering. $\checkmark$
+> 
+> **Nasienkriteria:**
+> * Korrekte kettinglengte en funksionele groep, d.i. Propanol. $\checkmark$
+> * Alles verder reg: IUPAC-naam heeltemal korrek nommering ingesluit. $\checkmark$
+
+Propan-1-ol / 1-propanol $\checkmark\checkmark$
+
+**NOTE / AANTEKENING:**
+Propanol $\checkmark$ (2)
+
+**[18]**
+
+---
+
+## QUESTION 3 / VRAAG 3
+
+3.1 
+> **Marking criteria / Nasienkriteria**
+> If any one of the underlined key phrases in the correct context is omitted, deduct 1 mark. / Indien enige van die onderstreepte frases in die korrekte konteks uitgelaat is, trek 1 punt af.
+
+The pressure exerted by a vapour at equilibrium with its liquid in a closed system. $\checkmark\checkmark$
+
+Die druk uitgeoefen deur 'n damp in ewewig met sy vloeistof in 'n geslote sisteem. (2)
+
+3.2
+3.2.1 $146\text{ (kPa)}$ $\checkmark$
+
+**Accept / Aanvaar:**
+$146\text{ }000\text{ Pa}$ (1)
+
+3.2.2 
+> **Marking criteria:**
+> * Compare structures. $\checkmark$
+> * Compare the strength of intermolecular forces. $\checkmark$
+> * Compare the energy required to overcome intermolecular forces. $\checkmark$
+> 
+> **Nasienkriteria:**
+> * Vergelyk strukture. $\checkmark$
+> * Vergelyk die sterkte van intermolekulêre kragte. $\checkmark$
+> * Vergelyk die energie benodig om intermolekulêre kragte te oorkom. $\checkmark$
+
+**Accept / Aanvaar:**
+Abbreviation IMF in explanations. / Afkorting IMK in verduidelikings.
+
+**Comparing compound C/2,2-dimethylpropane with compounds A/pentane and B/2-methylbutane**
+* **Structure:** Compound C is more branched than compounds A and B / Shorter chain length / most compact / most spherical / smallest surface area (over which intermolecular forces act). $\checkmark$
+* **Intermolecular forces:** Compound C has weaker / less intermolecular forces / Van der Waals forces / London forces than A and B. $\checkmark$
+* **Energy:** Lesser energy needed to overcome or break intermolecular forces / Van der Waals force in compound C than A and B. $\checkmark$
+
+**Vergelyk verbinding C/2,2-dimetielpropaan met verbindings A/pentaan en B/2-metielbutaan**
+* **Struktuur:** Verbinding C is meer vertak as verbindings A en B / Korter kettinglengte / meer kompak / meer sferies / kleiner oppervlak (waaroor intermolekulêre kragte werk). $\checkmark$
+* **Intermolekulêre kragte:** Verbinding C het swakker / minder intermolekulêre kragte / Van der Waals-kragte / London-kragte as verbindings A en B. $\checkmark$
+* **Energie:** Minder energie benodig om intermolekulêre kragte / Van der Waals-kragte / London-kragte van verbinding C te oorkom / breek as in verbinding A en B. $\checkmark$ (3)
+
+3.3
+3.3.1 E / butanal / butanaal $\checkmark$ (1)
+
+3.3.2 
+> **Marking criteria:**
+> * Strongest intermolecular forces in compound D: Hydrogen bond. $\checkmark$
+> * Strongest intermolecular forces in compound E: Dipole-dipole forces. $\checkmark$
+> * Compare the strength of intermolecular forces. $\checkmark$
+> * Compare the energy required to overcome intermolecular forces. $\checkmark$
+> 
+> **Nasienkriteria:**
+> * Sterkste intermolekulêre kragte in verbinding D: Waterstofbinding. $\checkmark$
+> * Sterkste intermolekulêre kragte in verbinding E: Dipool-dipoolkragte. $\checkmark$
+> * Vergelyk die sterkte van die intermolekulêre kragte. $\checkmark$
+> * Vergelyk die energie benodig om intermolekulêre kragte te oorkom. $\checkmark$
+
+**Accept / Aanvaar:**
+Abbreviation IMF in explanations. / Afkorting IMK in verduidelikings.
+
+* Compound D / Propanoic acid has hydrogen bonding (dipole-dipole and London forces) between molecules. $\checkmark$
+* Compound E / Butanal has dipole-dipole forces (and London forces) between molecules. $\checkmark$
+* Intermolecular forces between molecules of compound D / propanoic acid are stronger than intermolecular forces between molecules of compound E / butanal. $\checkmark$
+* More energy is needed to overcome / break intermolecular forces between molecules of compound D / propanoic acid than in compound E / butanal $\checkmark$
+
+**OR**
+* Compound D / Propanoic acid has hydrogen bonding (dipole-dipole and London forces) between molecules.
+* Compound E / Butanal has dipole-dipole forces (and London forces) between molecules.
+* Intermolecular forces between molecules of compound E / butanal are weaker than intermolecular forces between compound D / propanoic acid.
+* Lesser energy is needed to overcome / break intermolecular forces between molecules of compound E / butanal than in compound D / propanoic acid.
+
+**OF**
+* Verbinding D / propanoësuur het waterstofbinding (dipool-dipool en London-kragte) tussen die molekules.
+* Verbinding E / butanaal het dipool-dipoolkragte (en London-kragte) tussen die molekules.
+* Intermolekulêre kragte tussen die molekules van verbinding D / propanoësuur is sterker as die intermolekulêre kragte tussen molekules van verbinding E / butanaal.
+* Meer energie word benodig om die intermolekulêre kragte tussen die molekules van verbinding D / propanoësuur te oorkom / breek.
+
+**OF**
+* Verbinding D / propanoësuur het waterstofbinding (dipool-dipool en London-kragte) tussen die molekules.
+* Verbinding E / butanaal het dipool-dipoolkragte (en London-kragte) tussen die molekules.
+* Intermolekulêre kragte tussen die molekules van verbinding E / butanaal is swakker as die intermolekulêre kragte tussen verbinding D / propanoësuur.
+* Minder energie word benodig om die intermolekulêre kragte tussen die molekules van verbinding D / butanaal te oorkom / breek. (4)
+
+**[11]**
+
+---
+
+## QUESTION 4 / VRAAG 4
+
+4.1 
+> **Marking criteria / Nasienkriteria**
+> If any one of the underlined key phrases in the correct context is omitted, deduct 1 mark. / Indien enige van die onderstreepte frases in die korrekte konteks uitgelaat is, trek 1 punt af.
+> The underlined phrases must be in the correct context. / Die onderstreepte frases moet in die korrekte konteks wees.
+
+The chemical process / reaction in which longer chain hydrocarbon / alkane molecules are broken down to shorter (more useful) molecules. $\checkmark\checkmark$
+
+Die chemiese proses / reaksie waarin langer kettingkoolwaterstof / alkaan-molekule afgebreek word in korter (meer bruikbare) molekules. (2)
+
+4.2 Primary / Primêre $\checkmark$
+
+The halogen / bromine / functional group ($\text{-X}$) is bonded to a C atom that is bonded to one other C atom. $\checkmark$
+
+Die halogeen / broom / funksionele groep ($\text{-X}$) is gebind aan 'n C-atoom wat aan een ander C-atoom gebind is / 'n primêre C-atoom.
+
+**OR / OF**
+The functional group ($\text{-C-Br/X}$) is bonded to one other C atom.
+
+Die funksionele groep ($\text{-C-Br/X}$) is gebind aan een ander C-atoom.
+
+**Accept / Aanvaar:**
+The $\text{Br}$ / bromine (atom) / $\text{X}$ / halogen is bonded to first / last / terminal C-atom.
+Die $\text{Br}$ / broom (atoom) / $\text{X}$ / halogeen is gebind / verbind aan die eerste / laaste C-atoom. (2)
+
+4.3
+4.3.1 
+> **Marking criteria:**
+> * Correct stem, i.e. 4 C atoms. $\checkmark$
+> * Whole structural formula correct. $\checkmark\checkmark$
+> 
+> **Nasienkriteria:**
+> * Korrekte stam, d.w.s. 4 C-atome. $\checkmark$
+> * Hele struktuur korrek. $\checkmark\checkmark$
+
+(Structure of 2-bromobutane) $\checkmark\checkmark\checkmark$ (3)
+
+**POSITIVE MARKING FROM QUESTION 4.3.1 / POSITIEWE NASIEN VANAF VRAAG 4.3.1**
+
+4.3.2 $\text{C}_8\text{H}_{18}$ $\checkmark$ (1)
+
+4.4
+4.4.1 $\text{Br}_2$ / Bromine / Broom $\checkmark$ (1)
+
+4.4.2 Substitution / Substitusie $\checkmark$ (1)
+
+4.4.3 $\text{UV}$ / (Sun)light / Heat / (Son)lig / Hitte $\checkmark$ (1)
+
+4.5 Dehydrohalogenation / Dehydrobromination $\checkmark$
+Dehidrohalogenering / Dehidrohalogenasie / Dehidrobrominering (1)
+
+4.6
+4.6.1 
+> **Marking criteria:**
+> **Reaction IV**
+> * Functional group of alkene on first C atom. $\checkmark$
+> * Whole structural formula of alkene correct. $\checkmark$
+> * $\text{HBr}$. $\checkmark$
+> * Functional group of haloalkane correct. $\checkmark$
+> * Whole structural formula of haloalkane correct (halogen on second/first C-atom). $\checkmark$
+> 
+> **Nasienkriteria:**
+> * Funksionele groep van alkeen op die eerste C-atoom. $\checkmark$
+> * Hele struktuurformule van alkeen korrek. $\checkmark$
+> * $\text{HBr}$. $\checkmark$
+> * Funksionele groep van haloalkaan korrek. $\checkmark$
+> * Hele struktuurformule van haloalkaan korrek (halogeen op die tweede/eerste C-atoom). $\checkmark$
+> 
+> **IF / INDIEN:**
+> * Condensed, semi structural or molecular formula / Gekondenseerde, semi-struktuurformule of molekulêre formule: Max / Maks: $\frac{1}{5}$
+> * Marking rule 6.3.10 / Nasienreël 6.3.10
+> 
+> **Note / Aantekening:**
+> For extra product or reactant, deduct 1 mark. / Vir ekstra produk of reaktans, trek 1 punt af.
+
+(Reaction equation with structures) $\checkmark\checkmark\checkmark\checkmark\checkmark$ (5)
+
+4.6.2 
+> **Marking criteria:**
+> * $\text{NaOH}$. $\checkmark$
+> * Whole structural formula of alkene correct (functional group on second/first C atom). $\checkmark$
+> * $\text{NaBr} + \text{H}_2\text{O}$ $\checkmark$
+> 
+> **Nasienkriteria:**
+> * $\text{NaOH}$. $\checkmark$
+> * Hele struktuurformule van alkeen korrek (funksionele groep op de tweede/eerste C-atoom). $\checkmark$
+> * $\text{NaBr} + \text{H}_2\text{O}$ $\checkmark$
+> 
+> **IF / INDIEN:**
+> * Condensed, semi structural or molecular formula / Gekondenseerde, semi-struktuurformule of molekulêre formule. Max / Maks: $\frac{1}{5}$
+> * Marking rule 6.3.10 / Nasienreël 6.3.10
+> 
+> **Note / Aantekening:**
+> For extra product or reactant, deduct 1 mark. / Vir ekstra produk of reaktans, trek 1 punt af.
+
+(Reaction equation with structures) $\checkmark\checkmark\checkmark$ (3)
+
+4.6.3 But-2-ene / 2-butene / but-1-ene / 1-butene / But-2-een / 2-buteen / but-1-een / 1-buteen $\checkmark\checkmark$
+Butene / Buteen: deduct 1 mark / trek een punt af. (2)
+
+**[22]**
+
+---
+
+## QUESTION 5 / VRAAG 5
+
+5.1
+5.1.1 
+> **NOTE / LET WEL**
+> Give the mark for per unit time only if in context of reaction rate. / Gee die punt vir per eenheid tyd slegs indien in konteks met reaksietempo.
+
+**ANY ONE / ENIGE EEN:**
+* Change in concentration $\checkmark$ of products / reactants per (unit) time. $\checkmark$
+* Change in amount / number of moles / volume / mass of products or reactants per (unit) time.
+* Amount / number of moles / volume / mass of products formed / reactants used per (unit) time.
+* Rate of change in concentration / amount / number of moles / volume / mass. $\checkmark\checkmark$ **(2 or 0)**
+
+(Verandering in konsentrasie van produkte/reaktanse per (eenheid) tyd, etc.) (2)
+
+5.1.2 
+> **Marking criteria:**
+> (a) Substitute 0,033 and 5 in rate formula. $\checkmark$
+> (b) Substitute 24,5 in $\frac{V}{V_m}$ $\checkmark$
+> (c) USE mol ratio: $n(\text{A}\ell) : n(\text{H}_2) = 2 : 3$ $\checkmark$
+> (d) Substitute $27\text{ g}\cdot\text{mol}^{-1}$ in $\frac{m}{M}$ $\checkmark$
+> (e) Subtract $m(\text{A}\ell)_{t=5}$ from $m(\text{A}\ell)_{\text{ini}}$ / $n(\text{A}\ell)_{t=5}$ from $n(\text{A}\ell)_{\text{ini}}$ $\checkmark$
+> (f) Final correct answer: $0,38\text{ g}$ $(0,379)$ $\checkmark$
+> **Range:** $0,365 – 0,42\text{ g}$
+> 
+> **Nasienkriteria:**
+> (a) Vervang 0,033 en 5 in tempoformule $\checkmark$
+> (b) Vervang 24,5 in $\frac{V}{V_m}$ $\checkmark$
+> (c) GEBRUIK molverhouding: $n(\text{A}\ell) : n(\text{H}_2) = 2 : 3$ $\checkmark$
+> (d) Vervang 27 g in $\frac{m}{M}$ $\checkmark$
+> (e) Trek $m(\text{A}\ell)_{t=5}$ van $m(\text{A}\ell)_{\text{begin}}$ / $n(\text{A}\ell)_{t=5}$ van $n(\text{A}\ell)_{\text{begin}}$ $\checkmark$
+> (f) Finale korrekte antwoord: $0,38\text{ g}$ $(0,379\text{ g})$ $\checkmark$
+> **Gebied:** $0,365 – 0,42\text{ g}$
+
+$$\text{Rate} / \text{Tempo} = \frac{\Delta V(\text{H}_2)}{\Delta t}$$
+$$0,033 = \frac{\Delta V(\text{H}_2)}{5} \checkmark\text{(a)}$$
+$$V(\text{H}_2) = 0,165\text{ dm}^3$$
+
+$$n(\text{H}_2) = \frac{V}{V_m} = \frac{0,165}{24,5} \checkmark\text{(b)}$$
+$$= 6,74 \times 10^{-3}\text{ mol } (0,0067)$$
+
+$$n(\text{A}\ell) = \frac{2}{3} n(\text{H}_2) \checkmark\text{(c)}$$
+$$= \frac{2}{3} (6,74 \times 10^{-3}) = 4,49 \times 10^{-3}\text{ mol } (0,00449)$$
+
+**OPTION 1 / OPSIE 1:**
+$$n(\text{A}\ell) = \frac{m}{M}$$
+$$4,49 \times 10^{-3} = \frac{m(\text{Al})}{27} \checkmark\text{(d)}$$
+$$m(\text{A}\ell) = 0,12\text{ g } (0,121)$$
+
+$$\Delta m(\text{A}\ell) = 0,5 - 0,12 \checkmark\text{(e)}$$
+$$= 0,38\text{ g} \checkmark\text{(f)}$$
+
+**OPTION 2 / OPSIE 2:**
+$$n(\text{A}\ell) = \frac{m}{M} = \frac{0,5}{27} = 0,0185\text{ mol}$$
+$$\Delta n(\text{A}\ell) = 0,0185 - 4,49 \times 10^{-3} = 0,014\text{ mol} \checkmark\text{(e)}$$
+
+$$n(\text{A}\ell) = \frac{m}{M}$$
+$$0,014 = \frac{m(\text{Al})}{27} \checkmark\text{(d)}$$
+$$m(\text{A}\ell) = 0,38\text{ g} \checkmark\text{(f)}$$ (6)
+
+5.1.3 
+* The surface area / contact area / mass / size of aluminium decreases. $\checkmark$
+* Less particles exposed. $\checkmark$
+* Less effective collisions per unit time / second. $\checkmark$ 
+**OR** Lower frequency of effective collisions.
+* Reaction rate decreases. / Lower reaction rate. / Reaction slows down. $\checkmark$
+
+* Die reaksieoppervlak / kontakoppervlak / massa / grootte van aluminium neem af.
+* Minder deeltjies blootgestel.
+* Minder effektiewe botsings per eenheid tyd / sekonde. 
+**OF** Laer frekwensie van effektiewe botsings.
+* Reaksietempo neem af. / Laer reaksietempo. / Reaksie is stadiger. (4)
+
+5.1.4 
+> **Marking criteria:**
+> * Curve B starts at the origin and ends at the same point as curve A. $\checkmark$
+> * Gradient of curve B steeper for the whole duration. $\checkmark$
+> 
+> **Note:** Graph not labelled: Max. $\frac{1}{2}$
+> 
+> **Nasienkriteria:**
+> * Kurwe B begin by oorsprong en eindig by dieselfde punt as kurwe A. $\checkmark$
+> * Gradiënt van kurwe B steiler vir die volle duur. $\checkmark$
+> 
+> **Aantekening:** Grafiek nie benoem nie: Maks. $\frac{1}{2}$
+
+(Graph sketch with Curve B steeper and ending at same point as A) $\checkmark\checkmark$ (2)
+
+5.1.5 Equal to. / Gelyk aan. $\checkmark$ (1)
+
+5.2
+5.2.1 An increase in temperature. / 'n Toename in temperatuur. $\checkmark$ (1)
+
+5.2.2 Curve Y has a peak / maximum at a higher kinetic energy. / Peak shifted to the right. 
+**OR** 
+The (average) kinetic energy (of the particles) increases. / More particles with higher kinetic energy. / Larger area with higher kinetic energy. $\checkmark$
+
+Kurwe Y het 'n piek / maksimum by 'n hoër kinetiese energie. / Piek het regs geskuif. 
+**OF** 
+Die (gemiddelde) kinetiese energie van die deeltjies het toegeneem. / Meer deeltjies met 'n hoër kinetiese energie. / Groter oppervlak met hoër kinetiese energie. (1)
+
+**[17]**
+
+---
+
+## QUESTION 6 / VRAAG 6
+
+6.1
+6.1.1 (The dynamic equilibrium when) the rate of the forward reaction equals the rate of the reverse reaction. $\checkmark\checkmark$ **(2 or 0)**
+
+(Die dinamiese ewewig wanneer) die tempo van die voorwaartse reaksie gelyk is aan die tempo van die terugwaartse reaksie. 
+
+**OR / OF**
+The stage in a chemical reaction when the concentrations of the reactants and products remain constant. 
+
+Die stadium in 'n chemiese reaksie waar die konsentrasie van die reaktanse en produkte konstant bly. (2)
+
+6.1.2 X $\checkmark$ (1)
+
+6.1.3 Decreased / Verlaag $\checkmark$ (1)
+
+6.1.4 The concentrations of (all) the gases decreased. / The reverse reaction was favoured. $\checkmark$
+
+Die konsentrasies van die (al) die gasse verminder. / Die terugwaartse reaksie is bevoordeel.
+
+**Accept / Aanvaar:**
+All concentrations decreased. / Al die konsentrasies het verminder. (1)
+
+6.1.5 $\text{CO(g)}$ / carbon monoxide / koolstofmonoksied $\checkmark$ (1)
+
+6.1.6 The concentration of Z ($\text{CO}$) decreased with a decrease in the concentration of X ($\text{O}_2$). $\checkmark$
+**OR** The concentration of Z ($\text{CO}$) increased with an increase in the concentration of X ($\text{O}_2$).
+**OR** Z ($\text{CO}$) behaves like X ($\text{O}_2$) / Follows the same trend as X ($\text{O}_2$).
+**OR** Z ($\text{CO}$) and $\text{X(O}_2)$ are both reactants / $\text{Y(CO}_2)$ is the product.
+**OR** The reverse reaction is favoured to increase the number of moles.
+
+Die konsentrasie van Z ($\text{CO}$) neem af met 'n afname in die konsentrasie van X ($\text{O}_2$). 
+**OF** Die konsentrasie van Z ($\text{CO}$) neem toe met 'n toename in die konsentrasie van X ($\text{O}_2$). 
+**OF** Z ($\text{CO}$) tree dieselfde op as X ($\text{O}_2$) / volg dieselfde neiging as X ($\text{O}_2$). 
+**OF** $\text{Z(CO)}$ en $\text{X(O}_2)$ is beide reaktanse / $\text{Y(CO}_2)$ is die produk. 
+**OF** Die terugwaartse reaksie word bevoordeel om die hoeveelheid mol te verhoog. (1)
+
+6.1.7 Decreased / Verlaag $\checkmark$ (1)
+
+6.1.8 
+* Concentration of products / Y / $\text{CO}_2$ increases. $\checkmark$ **OR** Concentration of reactant / Z / X / $\text{CO}$ / $\text{O}_2$ decreases. **OR** The forward reaction is favoured.
+* The forward reaction is exothermic. $\checkmark$
+* A decrease in temperature favours the exothermic reaction. $\checkmark$
+
+* Konsentrasie van produkte / Y / $\text{CO}_2$ neem toe. $\checkmark$ **OF** Konsentrasie van reaktanse / Z / X / $\text{CO}$ / $\text{O}_2$ neem af. **OF** Die voorwaartse reaksie word bevoordeel.
+* Die voorwaartse reaksie is eksotermies. $\checkmark$
+* Afname in temperatuur bevoordeel die eksotermiese reaksie. $\checkmark$ (3)
+
+6.2 **REACTANTS ARE USED / REAKTANSE WORD GEBRUIK**
+**CALCULATIONS USING MOLES / BEREKENINGE WAT GETAL MOL GEBRUIK**
+
+> **Marking criteria:**
+> (a) USING ratio: $n(\text{H}_2\text{O}) : n(\text{CO}) : n(\text{H}_2) : n(\text{CO}_2) = 1 : 1 : 1 : 1$ $\checkmark$
+> (b) $n(\text{CO})_{\text{eq}} = n(\text{CO})_{\text{initial}} - \Delta n(\text{CO})$, $n(\text{H}_2\text{O})_{\text{eqm}} = n(\text{H}_2\text{O})_{\text{initial}} - \Delta n(\text{H}_2\text{O})$, $n(\text{CO}_2)_{\text{eq}} = n(\text{CO}_2)_{\text{initial}} + \Delta n(\text{CO}_2)$ AND $n(\text{H}_2)_{\text{eqm}} = n(\text{H}_2)_{\text{initial}} + \Delta n(\text{H}_2)$ $\checkmark$
+> (c) Divide $n_{\text{eq}}$ by the volume $2\text{ dm}^3$ $\checkmark$
+> (d) Correct $K_c$ expression. $\checkmark$
+> (e) Substitute $K_c$ value 4. $\checkmark$
+> (f) Substitute concentrations in $K_c$ expression. $\checkmark$
+> (g) Substitute numerical values of $x$ in $n(\text{CO})_{\text{initial}} - \Delta n(\text{CO})_{\text{change}}$ $\checkmark$
+> (h) Substitute of 28 in $n = \frac{m}{M}$ $\checkmark$
+> (i) Final answer: $6,44\text{ g}$ $\checkmark$
+> **Range:** $6,44 – 6,72\text{ g}$
+> 
+> **Nasienkriteria:**
+> (a) GEBRUIK verhouding: $n(\text{H}_2\text{O}) : n(\text{CO}) : n(\text{H}_2) : n(\text{CO}_2) = 1 : 1 : 1 : 1$ $\checkmark$
+> (b) $n(\text{CO})_{\text{ewe}} = n(\text{CO})_{\text{begin}} - \Delta n(\text{CO})$, $n(\text{H}_2\text{O})_{\text{ewe}} = n(\text{H}_2\text{O})_{\text{begin}} - \Delta n(\text{H}_2\text{O})$, $n(\text{CO}_2)_{\text{ewe}} = n(\text{CO}_2)_{\text{begin}} + \Delta n(\text{CO}_2)$ EN $n(\text{H}_2)_{\text{ewe}} = n(\text{H}_2)_{\text{begin}} + \Delta n(\text{H}_2)$ $\checkmark$
+> (c) Deel $n_{\text{ewe}}$ deur $2\text{ dm}^3$ $\checkmark$
+> (d) Korrekte $K_c$-uitdrukking. $\checkmark$
+> (e) Vervang $K_c$-waarde 4. $\checkmark$
+> (f) Vervanging van konsentrasies in $K_c$-uitdrukking. $\checkmark$
+> (g) Vervanging van numeriese waarde van $x$ in $n(\text{CO})_{\text{begin}} - \Delta n(\text{CO})$ $\checkmark$
+> (h) Vervanging van 28 in $n = \frac{m}{M}$ $\checkmark$
+> (i) Finale antwoord: $6,44\text{ g}$ $\checkmark$
+> **Gebied:** $6,44 – 6,72\text{ g}$
+> 
+> **IF / INDIEN:**
+> No table / calculation giving table values – do not award marks for criteria (a) and (b) / Geen tabel / berekening waarin tabelwaardes gegee is – geen punt vir riglyn (a) en (b).
+
+$$\begin{array}{|l|c|c|c|c|}
+\hline
+\text{(x change in amount / verandering in hoeveelheid)} & \text{CO} & \text{H}_2\text{O} & \text{CO}_2 & \text{H}_2 \\
+\hline
+\text{Initial amount (moles) / Aanvanklike hoeveelheid (mol)} & 0,6 & 0,6 & 0,1 & 0,1 \\
+\hline
+\text{Change in amount (moles) / Verandering in hoeveelheid (mol)} & x & x & x & x \checkmark\text{ (a)} \\
+\hline
+\text{Equilibrium amount (moles) / Ewewigshoeveelheid (mol)} & 0,6 - x & 0,6 - x & 0,1 + x & 0,1 + x \checkmark\text{ (b)} \\
+\hline
+\text{Equilibrium concentration (mol}\cdot\text{dm}^{-3}\text{) / Ewewigskonsentrasie} & \frac{0,6 - x}{2} & \frac{0,6 - x}{2} & \frac{0,1 + x}{2} & \frac{0,1 + x}{2} \checkmark\text{ (c)} \\
+\hline
+\end{array}$$
+
+$$K_c = \frac{[\text{CO}_2][\text{H}_2]}{[\text{CO}][\text{H}_2\text{O}]} \checkmark\text{(d)}$$
+
+$$4 \checkmark\text{(e)} = \frac{\left(\frac{0,1 + x}{2}\right)\left(\frac{0,1 + x}{2}\right)}{\left(\frac

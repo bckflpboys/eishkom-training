@@ -1,0 +1,732 @@
+\newpage
+
+\begin{center}
+\includegraphics[width=0.25\textwidth]{} % Placeholder for government coat of arms or logo if needed, omitted per standard text.
+\textbf{basic education}\\
+Department:\\
+Basic Education\\
+REPUBLIC OF SOUTH AFRICA
+
+\vspace{1cm}
+
+\textbf{\textsc{NATIONAL\\[0.5em]SENIOR CERTIFICATE}}
+
+\vspace{1cm}
+
+\textbf{\textsc{GRADE 12}}
+
+\vspace{1.5cm}
+
+\fbox{\begin{minipage}{0.7\textwidth}\centering\vspace{0.3cm}
+\textbf{ENGLISH FIRST ADDITIONAL LANGUAGE P2}\\[0.5em]
+\textbf{NOVEMBER 2019}\vspace{0.3cm}
+\end{minipage}}
+
+\vspace{1.5cm}
+\end{center}
+
+\noindent\textbf{MARKS: 70}
+
+\noindent\textbf{TIME: 2 hours}
+
+\vspace{1cm}
+
+\noindent This question paper consists of 27 pages.
+
+\vfill
+\noindent Copyright reserved \hfill Please turn over
+
+\newpage
+
+\noindent English First Additional Language/P2 \hfill 2 \hfill DBE/November 2019\\
+NSC\hfill Copyright reserved Please turn over
+
+\vspace{0.5cm}
+
+\textbf{INSTRUCTIONS AND INFORMATION}
+
+\noindent Read this page carefully before you begin to answer the questions.
+
+\begin{enumerate}
+\item Do NOT attempt to read the entire question paper. Consult the TABLE OF CONTENTS on the next page and mark the numbers of the questions set on the texts you have studied this year. Read these questions carefully and answer as per the instructions.
+
+\item This question paper consists of FOUR sections:
+\begin{tabbing}
+SECTION A: \=Novel \= (35)\\
+SECTION B: \>Drama \> (35)\\
+SECTION C: \>Short stories \> (35)\\
+SECTION D: \>Poetry \> (35)
+\end{tabbing}
+
+\item Answer TWO QUESTIONS in all, ONE question each from ANY TWO sections.
+
+\begin{tabbing}
+SECTION A: \= NOVEL\\
+\> Answer the question on the novel you have studied.\\[0.5em]
+SECTION B: \> DRAMA\\
+\> Answer the question on the drama you have studied.\\[0.5em]
+SECTION C: \> SHORT STORIES\\
+\> Answer the questions set on BOTH short stories.\\[0.5em]
+SECTION D: \> POETRY\\
+\> Answer the questions set on BOTH poems.
+\end{tabbing}
+
+Use the checklist on page 4 to assist you.
+
+\item Follow the instructions at the beginning of each section carefully.
+
+\item Number the answers correctly according to the numbering system used in this question paper.
+
+\item Start EACH section on a NEW page.
+
+\item Suggested time management: Spend approximately 60 minutes on each section.
+
+\item Write neatly and legibly.
+\end{enumerate}
+
+\newpage
+
+\noindent English First Additional Language/P2 \hfill 3 \hfill DBE/November 2019\\
+NSC\hfill Copyright reserved Please turn over
+
+\vspace{0.5cm}
+
+\textbf{TABLE OF CONTENTS}
+
+\begin{center}
+\begin{tabular}{|l|c|c|}
+\hline
+\multicolumn{3}{|l|}{\textbf{SECTION A: NOVEL}} \\
+\hline
+\multicolumn{3}{|l|}{\textbf{Answer ANY ONE question.}} \\
+\hline
+\multicolumn{1}{|c|}{\textbf{QUESTION NO.}} & \textbf{MARKS} & \textbf{PAGE NO.} \\
+\hline
+1. \quad \textit{Cry, the Beloved Country} & 35 & 5 \\
+\hline
+2. \quad \textit{Strange Case of Dr Jekyll and Mr Hyde} & 35 & 8 \\
+\hline
+\multicolumn{3}{|l|}{\textbf{SECTION B: DRAMA}} \\
+\hline
+\multicolumn{3}{|l|}{\textbf{Answer ANY ONE question.}} \\
+\hline
+3. \quad \textit{Macbeth} & 35 & 12 \\
+\hline
+4. \quad \textit{My Children! My Africa!} & 35 & 16 \\
+\hline
+\multicolumn{3}{|l|}{\textbf{SECTION C: SHORT STORIES}} \\
+\hline
+\multicolumn{3}{|l|}{\textbf{Answer the questions set on BOTH extracts.}} \\
+\hline
+5.1 \quad 'Next door' & 18 & 20 \\
+\hline
+\multicolumn{3}{|c|}{\textbf{AND}} \\
+\hline
+5.2 \quad 'The last breath' & 17 & 22 \\
+\hline
+\multicolumn{3}{|l|}{\textbf{SECTION D: POETRY}} \\
+\hline
+\multicolumn{3}{|l|}{\textbf{Answer the questions set on BOTH poems.}} \\
+\hline
+6.1 \quad 'Everything has changed (except graves)' & 18 & 24 \\
+\hline
+\multicolumn{3}{|c|}{\textbf{AND}} \\
+\hline
+6.2 \quad 'To learn how to speak \dots' & 17 & 26 \\
+\hline
+\end{tabular}
+\end{center}
+
+\newpage
+
+\noindent English First Additional Language/P2 \hfill 4 \hfill DBE/November 2019\\
+NSC\hfill Copyright reserved Please turn over
+
+\vspace{0.5cm}
+
+\textbf{CHECKLIST}
+
+\noindent\textbf{NOTE:} 
+\begin{itemize}
+\item Answer questions from ANY TWO sections.
+\item Tick ($\checkmark$) the sections you have answered.
+\end{itemize}
+
+\begin{center}
+\begin{tabular}{|ll|c|c|c|}
+\hline
+\multicolumn{2}{|c|}{\textbf{SECTIONS}} & \textbf{QUESTION NUMBERS} & \textbf{NO. OF QUESTIONS TO ANSWER} & \textbf{TICK ($\checkmark$)} \\
+\hline
+A: & Novel & 1–2 & 1 & \\
+\hline
+B: & Drama & 3–4 & 1 & \\
+\hline
+C: & Short stories & 5 & 1 & \\
+\hline
+D: & Poetry & 6 & 1 & \\
+\hline
+\end{tabular}
+\end{center}
+
+\noindent\textbf{NOTE:} Ensure that you have answered questions on TWO sections only.
+
+\newpage
+
+\noindent English First Additional Language/P2 \hfill 5 \hfill DBE/November 2019\\
+NSC\hfill Copyright reserved Please turn over
+
+\vspace{0.5cm}
+
+\textbf{SECTION A: NOVEL}
+
+\noindent In this section, questions are set on the following novels:
+\begin{itemize}
+\item \textit{CRY, THE BELOVED COUNTRY} by Alan Paton
+\item \textit{STRANGE CASE OF DR JEKYLL AND MR HYDE} by Robert Louis Stevenson
+\end{itemize}
+
+\noindent Answer ALL the questions on the novel that you have studied.
+
+\noindent\textbf{QUESTION 1: CRY, THE BELOVED COUNTRY}
+
+\noindent Read the extracts from the novel below and answer the questions set on each. The number of marks allocated to each question serves as a guide to the expected length of your answer.
+
+\noindent\textbf{NOTE:} Answer the questions set on BOTH extracts, i.e. QUESTION 1.1 AND QUESTION 1.2.
+
+\subsection*{1.1 EXTRACT A}
+
+[Stephen Kumalo is upset.]
+
+\begin{quote}
+– My son was not a thief, said Kumalo harshly. There was a white man, a good man, devoted to his wife and children. And worst of all – devoted to our people. And his wife, these children, they are bereaved because of my son. I cannot suppose it to be less than the greatest evil I have known.\\
+– A man may repent him of any evil.\\
+– He will repent, said Kumalo bitterly. If I say to him, Do you repent? he will say, It is as my father says. If I say to him, Was this not evil? he will say, It is evil. But if I speak otherwise, putting no words in his mouth, if I say, What will you do now? he will say, I do not know, or he will say, It is as my father says.\\
+Kumalo's voice rose as though some anguish compelled him.\\
+– He is a stranger, he said, I cannot touch him, I cannot reach him. I see no shame in him, no pity for those he has hurt. Tears come out of his eyes, but it seems that he weeps only for himself, not for his wickedness, but for his danger.\\
+The man cried out, Can a person lose all sense of evil? A boy, brought up as he was brought up?
+\end{quote}
+\hspace{11.5cm}[Book 1, Chapter 15]
+
+\begin{enumerate}
+\item[1.1.1] Choose a description from COLUMN B that matches a name in COLUMN A. Write only the letter (A–E) next to the question numbers (1.1.1(a) to 1.1.1(d)) in the ANSWER BOOK.
+
+\begin{center}
+\begin{tabular}{|ll|ll|}
+\hline
+\multicolumn{2}{|c|}{\textbf{COLUMN A}} & \multicolumn{2}{c|}{\textbf{COLUMN B}} \\
+\hline
+(a) & Theophilus Msimangu & A & a servant of Arthur Jarvis \\
+(b) & John Kumalo & B & a reverend in Sophiatown \\
+(c) & Johannes Pafuri & C & the owner of High Place \\
+(d) & James Jarvis & D & lives at Mrs Mkize's house \\
+    &                  & E & a former carpenter, turned politician \\
+\hline
+\end{tabular}
+\end{center}
+\hfill (4 $\times$ 1) (4)
+\end{enumerate}
+
+\newpage
+
+\noindent English First Additional Language/P2 \hfill 6 \hfill DBE/November 2019\\
+NSC\hfill Copyright reserved Please turn over
+
+\begin{enumerate}
+\item[1.1.2] Refer to lines 1–3 ('There was a \dots to our people').
+
+Explain how this white man was 'devoted to our people'. \hfill (2)
+
+\item[1.1.3] What does Stephen Kumalo mean when he says that he 'cannot reach' his son (line 11)? \hfill (2)
+
+\item[1.1.4] What does this extract reveal about Stephen Kumalo's character? 
+
+Substantiate your answer. \hfill (2)
+
+\item[1.1.5] With whom does Stephen Kumalo have the conversation in this extract? \hfill (1)
+
+\item[1.1.6] One of the themes in \textit{Cry, the Beloved Country} is religion.
+
+Discuss how this theme is relevant to the various priests in the novel. \hfill (3)
+
+\item[1.1.7] Stephen Kumalo's attitude towards his son is harsh in this extract. 
+
+Discuss your view. \hfill (3)
+\end{enumerate}
+
+\begin{center}
+\textbf{AND}
+\end{center}
+
+\subsection*{1.2 EXTRACT B}
+
+[The small boy visits the Kumalos.]
+
+\begin{quote}
+– Something bright will go out of Ndotsheni, said Kumalo in Zulu.\\
+– Something about Ndotsheni. But it's so hard for me. Say it in English, umfundisi.\\
+– Something bright will go out of Ndotsheni, said Kumalo in English.\\
+– Yes, I see. When I go, something bright will go out of Ndotsheni.\\
+The small boy laughed with pleasure. I hear you, he said in Zulu.\\
+And Kumalo clapped his hands in astonishment, and said Au! Au! You speak Zulu, so that the small boy laughed with still greater pleasure, and Kumalo clapped his hands again, and made many exclamations. The door opened and his wife came in, and he said to the small boy, This is my wife, and he said to his wife in Zulu, This is the son of the man. The small boy stood up and made a bow to Kumalo's wife, and she stood and looked at him with fear and sorrow. But he said to her, You have a nice house here, and he laughed. She said to her husband in Zulu, I am overcome, I do not know what to say. And the small boy said in Zulu, I hear you, so that she took a step backwards in fear.
+\end{quote}
+\hspace{11.5cm}[Book 3, Chapter 4]
+
+\newpage
+
+\noindent English First Additional Language/P2 \hfill 7 \hfill DBE/November 2019\\
+NSC\hfill Copyright reserved Please turn over
+
+\begin{enumerate}
+\item[1.2.1] Refer to lines 2–3 ('Something about Ndotsheni \dots in English, umfundisi').
+
+Choose the correct answer to complete the following sentence. Write only the letter (A–D) next to the question number (1.2.1) in the ANSWER BOOK.
+
+'Umfundisi' is the isiZulu word for \dots
+\begin{tabbing}
+A \quad \= mister.\\
+B \> priest.\\
+C \> lawyer.\\
+D \> father.
+\end{tabbing}
+\hfill (1)
+
+\item[1.2.2] Refer to line 4 ('Something bright will \dots Kumalo in English').
+
+\begin{enumerate}
+\item[(a)] Identify the figure of speech in this line. \hfill (1)
+
+\item[(b)] Explain how this figure of speech is relevant in this extract. \hfill (2)
+\end{enumerate}
+
+\item[1.2.3] Refer to lines 7–8 ('You speak Zulu').
+
+\begin{enumerate}
+\item[(a)] What tone would Stephen Kumalo use in these lines? \hfill (1)
+
+\item[(b)] Why would Stephen Kumalo use this tone in these lines? \hfill (1)
+\end{enumerate}
+
+\item[1.2.4] In line 11 Stephen Kumalo says, 'This is the son of the man'. 
+
+Why does Stephen Kumalo not call the man by his name? \hfill (2)
+
+\item[1.2.5] State TWO actions from the extract to show that the small boy is polite. \hfill (2)
+
+\item[1.2.6] Describe the atmosphere between Stephen Kumalo and the small boy in this extract. 
+
+Substantiate your answer. \hfill (2)
+
+\item[1.2.7] Why is the following statement FALSE?
+
+In this extract Mrs Kumalo has a long conversation with the small boy. \hfill (1)
+
+\item[1.2.8] Refer to the novel as a whole.
+
+Explain the irony in the killing of Arthur Jarvis. \hfill (2)
+
+\item[1.2.9] Refer to the novel as a whole.
+
+Stephen Kumalo's journey to Johannesburg increases his awareness of the good qualities of human beings. 
+
+Discuss your view. \hfill (3)
+\end{enumerate}
+\hfill\textbf{[35]}
+
+\newpage
+
+\noindent English First Additional Language/P2 \hfill 8 \hfill DBE/November 2019\\
+NSC\hfill Copyright reserved Please turn over
+
+\noindent\textbf{QUESTION 2: STRANGE CASE OF DR JEKYLL AND MR HYDE}
+
+\noindent Read the extracts from the novel below and answer the questions set on each. The number of marks allocated to each question serves as a guide to the expected length of your answer.
+
+\noindent\textbf{NOTE:} Answer the questions set on BOTH extracts, i.e. QUESTION 2.1 AND QUESTION 2.2.
+
+\subsection*{2.1 EXTRACT C}
+
+[Mr Utterson is at one of Dr Jekyll's dinner parties.]
+
+\begin{quote}
+'What I heard was abominable,' said Utterson.\\
+'It can make no change. You do not understand my position,' returned the doctor, with a certain incoherency of manner. 'I am painfully situated, Utterson; my position is a very strange – a very strange one. It is one of those affairs that cannot be mended by talking.'\\
+'Jekyll,' said Utterson, 'you know me: I am a man to be trusted. Make a clean breast of this in confidence; and I make no doubt I can get you out of it.'\\
+'My good Utterson,' said the doctor, 'this is very good of you, this is downright good of you, and I cannot find words to thank you in. I believe you fully; I would trust you before any man alive – ay, before myself, if I could make the choice; but indeed it isn't what you fancy; it is not so bad as that; and just to put your good heart at rest, I will tell you one thing: the moment I choose, I can be rid of Mr Hyde. I give you my hand upon that; and I thank you again and again; and I will just add one little word, Utterson, that I'm sure you'll take in good part: this is a private matter, and I beg of you to let it sleep.'
+\end{quote}
+\hspace{11.5cm}[\textit{Dr Jekyll was Quite at Ease}]
+
+\begin{enumerate}
+\item[2.1.1] Choose a description from COLUMN B that matches a name in COLUMN A. Write only the letter (A–E) next to the question numbers (2.1.1(a) to 2.1.1(d)) in the ANSWER BOOK.
+
+\begin{center}
+\begin{tabular}{|ll|ll|}
+\hline
+\multicolumn{2}{|c|}{\textbf{COLUMN A}} & \multicolumn{2}{c|}{\textbf{COLUMN B}} \\
+\hline
+(a) & Utterson & A & Jekyll's butler \\
+(b) & Poole & B & lawyer \\
+(c) & Guest & C & police inspector \\
+(d) & Enfield & D & handwriting expert \\
+    &         & E & Utterson's cousin \\
+\hline
+\end{tabular}
+\end{center}
+\hfill (4 $\times$ 1) (4)
+
+\item[2.1.2] Refer to lines 1–5 ('What I heard \dots mended by talking').
+
+\begin{enumerate}
+\item[(a)] What is 'abominable' (line 1) about what Mr Utterson has heard? \hfill (2)
+
+\item[(b)] Describe the atmosphere between Dr Jekyll and Mr Utterson in lines 1--5. 
+
+Substantiate your answer. \hfill (2)
+\end{enumerate}
+\end{enumerate}
+
+\newpage
+
+\noindent English First Additional Language/P2 \hfill 9 \hfill DBE/November 2019\\
+NSC\hfill Copyright reserved Please turn over
+
+\begin{enumerate}
+\item[2.1.3] Refer to lines 8–9 ('My good Utterson \dots thank you in').
+
+\begin{enumerate}
+\item[(a)] What tone would Dr Jekyll use in these lines? \hfill (1)
+
+\item[(b)] Why would Dr Jekyll use this tone in these lines? \hfill (1)
+\end{enumerate}
+
+\item[2.1.4] Choose the correct answer to complete the following sentence. Write only the letter (A–D) next to the question number (2.1.4) in the ANSWER BOOK.
+
+When Dr Jekyll mentions 'it' (line 15), he refers to the \dots
+\begin{tabbing}
+A \quad \= experiment.\\
+B \> letter.\\
+C \> will.\\
+D \> confession.
+\end{tabbing}
+\hfill (1)
+
+\item[2.1.5] What does this extract reveal about Mr Utterson's character?
+
+Substantiate your answer. \hfill (2)
+
+\item[2.1.6] Refer to the novel as a whole. 
+
+Explain the irony in the death of Mr Hyde. \hfill (2)
+
+\item[2.1.7] Refer to the novel as a whole. 
+
+Dr Lanyon's attitude to science is better than that of Dr Jekyll.
+
+Discuss your view. \hfill (3)
+\end{enumerate}
+
+\begin{center}
+\textbf{AND}
+\end{center}
+
+\newpage
+
+\noindent English First Additional Language/P2 \hfill 10 \hfill DBE/November 2019\\
+NSC\hfill Copyright reserved Please turn over
+
+\subsection*{2.2 EXTRACT D}
+
+[Mr Utterson and Poole are discussing Dr Jekyll's strange behaviour.]
+
+\begin{quote}
+'This is a strange note,' said Mr Utterson; and then sharply, 'How do you come to have it open?'\\
+'The man at Maw's was main angry, sir, and he threw it back to me like so much dirt,' returned Poole.\\
+'This is unquestionably the doctor's hand, do you know?' resumed the lawyer.\\
+'I thought it looked like it,' said the servant rather sulkily; and then, with another voice, 'But what matters hand-of-write?' he said.\\
+'I've seen him!'\\
+'Seen him?' repeated Mr Utterson. 'Well?'\\
+'That's it!' said Poole. 'It was this way. I came suddenly into the theatre from the garden. It seems he had slipped out to look for this drug, or whatever it is; for the cabinet door was open, and there he was at the far end of the room digging among the crates. He looked up when I came in, gave a kind of cry, and whipped upstairs into the cabinet. It was but for one minute that I saw him, but the hair stood up on my head like quills. Sir, if that was my master, why had he a mask upon his face? If it was my master, why did he cry out like a rat, and run from me? I have served him long enough. And then \dots', the man paused and passed his hand over his face.
+\end{quote}
+\hspace{11.5cm}[\textit{The Last Night}]
+
+\begin{enumerate}
+\item[2.2.1] Refer to lines 1–4 ('"This is a \dots dirt," returned Poole').
+
+\begin{enumerate}
+\item[(a)] What is written in the note? \hfill (2)
+
+\item[(b)] Why does the man at Maw's throw the note back at Poole in lines 3–4? \hfill (1)
+\end{enumerate}
+
+\item[2.2.2] Refer to line 17 ('why had he \dots upon his face?').
+
+Mr Utterson tells Poole that the man he (Poole) saw was wearing a mask.
+
+\begin{enumerate}
+\item[(a)] How does Mr Utterson explain the 'mask' to Poole after this extract? \hfill (2)
+
+\item[(b)] If the man wearing the mask, as Mr Utterson suspects, is indeed Mr Hyde, what is so strange about Mr Hyde's behaviour? \hfill (2)
+\end{enumerate}
+
+\item[2.2.3] Refer to line 18 ('he cry out \dots run from me?').
+
+\begin{enumerate}
+\item[(a)] Identify the figure of speech in this line. \hfill (1)
+
+\item[(b)] Explain how this figure of speech is relevant in this extract. \hfill (2)
+\end{enumerate}
+\end{enumerate}
+
+\newpage
+
+\noindent English First Additional Language/P2 \hfill 11 \hfill DBE/November 2019\\
+NSC\hfill Copyright reserved Please turn over
+
+\begin{enumerate}
+\item[2.2.4] Why is the following statement FALSE?
+
+In this extract, the conversation between Mr Utterson and Poole takes place in Hyde's house in Soho. \hfill (1)
+
+\item[2.2.5] One of the themes in the novel is that good and evil exist in all human beings. 
+
+Discuss how this theme is revealed through Dr Jekyll and Mr Hyde. \hfill (3)
+
+\item[2.2.6] Friendship plays an important role in revealing the mystery of Mr Hyde. 
+
+Discuss your view. \hfill (3)
+\end{enumerate}
+\hfill\textbf{[35]}
+
+\noindent\textbf{TOTAL SECTION A: 35}
+
+\newpage
+
+\noindent English First Additional Language/P2 \hfill 12 \hfill DBE/November 2019\\
+NSC\hfill Copyright reserved Please turn over
+
+\vspace{0.5cm}
+
+\textbf{SECTION B: DRAMA}
+
+\noindent In this section, contextual questions are set on the following dramas:
+\begin{itemize}
+\item \textit{MACBETH} by William Shakespeare
+\item \textit{MY CHILDREN! MY AFRICA!} by Athol Fugard
+\end{itemize}
+
+\noindent Answer the question on the drama that you have studied.
+
+\noindent\textbf{QUESTION 3: MACBETH}
+
+\noindent Read the extracts from the play below and answer the questions set on each. The number of marks allocated to each question serves as a guide to the expected length of your answer.
+
+\noindent\textbf{NOTE:} Answer the questions set on BOTH extracts, i.e. QUESTION 3.1 AND QUESTION 3.2.
+
+\subsection*{3.1 EXTRACT E}
+
+[Macbeth and Banquo encounter the witches on the heath.]
+
+\begin{tabbing}
+MACBETH: \quad\= So foul and fair a day I have not seen.\\
+BANQUO: \> How far is't called to Forres? What are these,\\
+\> So withered, and so wild in their attire,\\
+\> That look not like the inhabitants o'the earth,\\
+\> And yet are on't? Live you? Or are you aught\\
+\> That man may question? You seem to understand me,\\
+\> By each at once her choppy finger laying\\
+\> Upon her skinny lips. You should be women,\\
+\> And yet your beards forbid me to interpret\\
+\> That you are so.\\
+MACBETH: \> Speak, if you can. What are you?\\
+$1^{\text{ST}}$ WITCH: \> All hail, Macbeth! Hail to thee, Thane of Glamis!\\
+$2^{\text{nd}}$ WITCH: \> All hail, Macbeth! Hail to thee, Thane of Cawdor!\\
+$3^{\text{RD}}$ WITCH: \> All hail, Macbeth, that shalt be king hereafter!\\
+BANQUO: \> Good sir, why do you start, and seem to fear\\
+\> Things that do sound so fair? I'th' name of truth\\
+\> Are ye fantastical, or that indeed\\
+\> Which outwardly ye show? My noble partner\\
+\> You greet with present grace and great prediction\\
+\> Of noble having and of royal hope,\\
+\> That he seems rapt withal. To me you speak not.\\
+\> If you can look into the seeds of time,\\
+\> And say which grain will grow and which will not,\\
+\> Speak then to me, who neither beg nor fear\\
+\> Your favours nor your hate.
+\end{tabbing}
+\hspace{11.5cm}[Act 1 Scene 3]
+
+\newpage
+
+\noindent English First Additional Language/P2 \hfill 13 \hfill DBE/November 2019\\
+NSC\hfill Copyright reserved Please turn over
+
+\begin{enumerate}
+\item[3.1.1] Choose a description from COLUMN B that matches a name in COLUMN A. Write only the letter (A–E) next to the question numbers (3.1.1(a) to 3.1.1(d)) in the ANSWER BOOK.
+
+\begin{center}
+\begin{tabular}{|ll|ll|}
+\hline
+\multicolumn{2}{|c|}{\textbf{COLUMN A}} & \multicolumn{2}{c|}{\textbf{COLUMN B}} \\
+\hline
+(a) & Lady Macbeth & A & loyal to Scotland \\
+(b) & Macduff & B & a cruel leader \\
+(c) & Duncan & C & later commits suicide \\
+(d) & Macbeth & D & a kind king \\
+    &         & E & flees to Norway \\
+\hline
+\end{tabular}
+\end{center}
+\hfill (4 $\times$ 1) (4)
+
+\item[3.1.2] Refer to line 1, ('So foul and \dots have not seen').
+
+Explain what Macbeth means in this line? \hfill (2)
+
+\item[3.1.3] Choose the correct answer to complete the following sentence. Write only the letter (A–D) next to the question number (3.1.3) in the ANSWER BOOK.
+
+Forres (line 2) in this extract is \dots castle.
+\begin{tabbing}
+A \quad \= Macbeth's\\
+B \> Banquo's\\
+C \> Duncan's\\
+D \> Macduff's
+\end{tabbing}
+\hfill (1)
+
+\item[3.1.4] Refer to lines 7–8 ('By each at \dots her skinny lips').
+
+Why do the witches perform this action? \hfill (1)
+
+\item[3.1.5] Explain the real reason why the witches address Macbeth as the 'Thane of Cawdor' (line 13). \hfill (2)
+
+\item[3.1.6] What does this extract reveal about Banquo's character? 
+
+Substantiate your answer. \hfill (2)
+
+\item[3.1.7] How do Macbeth's and Banquo's reactions differ after their encounter with the witches? \hfill (2)
+
+\item[3.1.8] The witches are responsible for Macbeth's actions after their first meeting with him. 
+
+Discuss your view. \hfill (3)
+\end{enumerate}
+
+\begin{center}
+\textbf{AND}
+\end{center}
+
+\newpage
+
+\noindent English First Additional Language/P2 \hfill 14 \hfill DBE/November 2019\\
+NSC\hfill Copyright reserved Please turn over
+
+\subsection*{3.2 EXTRACT F}
+
+[Ross meets with Macduff and Malcolm in England.]
+
+\begin{tabbing}
+MACDUFF: \quad\= Stands Scotland where it did?\\
+ROSS: \> Alas, poor country!\\
+\> Almost afraid to know itself! It cannot\\
+\> Be called our mother, but our grave; where nothing,\\
+\> But who knows nothing, is once seen to smile;\\
+\> Where sighs and groans and shrieks that rend the air,\\
+\> Are made, not marked; where violent sorrow seems\\
+\> A modern ecstasy. The dead man's knell\\
+\> Is there scarce asked for who, and good men's lives\\
+\> Expire before the flowers in their caps,\\
+\> Dying or ere they sicken.\\
+MACDUFF: \> O, relation,\\
+\> Too nice, and yet too true!\\
+MALCOLM: \> What's the newest grief?\\
+ROSS: \> That of an hour's age doth hiss the speaker,\\
+\> Each minute teems a new one.\\
+MACDUFF: \> How does my wife?\\
+ROSS: \> Why, well.\\
+MACDUFF: \> And all my children?\\
+ROSS: \> Well too.\\
+MACDUFF: \> The tyrant has not battered at their peace?\\
+ROSS: \> No they were well at peace when I did leave 'em.\\
+MACDUFF: \> Be not a niggard of your speech, how goes't?\\
+ROSS: \> When I came hither to transport the tidings,\\
+\> Which I have heavily borne, there ran a rumour\\
+\> Of many worthy fellows that were out,\\
+\> Which was to my belief witnessed the rather,\\
+\> For that I saw the tyrant's power a-foot.\\
+\> Now is the time of help; your eye in Scotland\\
+\> Would create soldiers, make our women fight,\\
+\> To doff their dire distresses.
+\end{tabbing}
+\hspace{11.5cm}[Act 4 Scene 3]
+
+\begin{enumerate}
+\item[3.2.1] Why does Macduff ask Ross, 'Stands Scotland where it did' in line 1? \hfill (2)
+
+\item[3.2.2] Refer to lines 9–10 ('Is there scarce \dots in their caps').
+
+\begin{enumerate}
+\item[(a)] Identify the figure of speech in these lines. \hfill (1)
+
+\item[(b)] Explain why this figure of speech is relevant in this extract. \hfill (2)
+\end{enumerate}
+
+\item[3.2.3] Why is the following statement FALSE?
+
+Malcolm has fled to Ireland to seek help for Scotland. \hfill (1)
+\end{enumerate}
+
+\newpage
+
+\noindent English First Additional Language/P2 \hfill 15 \hfill DBE/November 2019\\
+NSC\hfill Copyright reserved Please turn over
+
+\begin{enumerate}
+\item[3.2.4] If you were the director of this play, what would you tell Ross to do when saying line 18 ('Why, well')? 
+
+State TWO points. \hfill (2)
+
+\item[3.2.5] Refer to line 22 ('No they were \dots did leave 'em').
+
+Discuss the irony of Ross' words in this line. \hfill (2)
+
+\item[3.2.6] Refer to line 23 ('Be not a \dots speech, how goes't?').
+
+\begin{enumerate}
+\item[(a)] What tone would Macduff use in this line? \hfill (1)
+
+\item[(b)] Why would Macduff use this tone in this line? \hfill (1)
+\end{enumerate}
+
+\item[3.2.7] One of the themes in the play is betrayal.
+
+Discuss how this theme is relevant to the character of Macbeth. \hfill (3)
+
+\item[3.2.8] It is Lady Macbeth's ambition, and not Macbeth's, which causes their destruction. 
+
+Discuss your view. \hfill (3)
+\end{enumerate}
+\hfill\textbf{[35]}
+
+\newpage
+
+\noindent English First Additional Language/P2 \hfill 16 \hfill DBE/November 2019\\
+NSC\hfill Copyright reserved Please turn over
+
+\noindent\textbf{QUESTION 4: MY CHILDREN! MY AFRICA!}
+
+\noindent Read the extracts from the play below and answer the questions set on each. The number of marks allocated to each question serves as a guide to the expected length of your answer.
+
+\noindent\textbf{NOTE:} Answer the questions set on BOTH extracts, i.e. QUESTION 4.1 AND QUESTION 4.2.
+
+\subsection*{4.1 EXTRACT G}
+
+[Thami and Isabel are having a conversation in Thami's classroom.]
+
+\begin{tabbing}
+ISABEL: \quad\= And where does \dots [She finds his name in the register.] Thami Mbikwana sit?\\
+\> [Thami points. Isabel goes to the desk and sits.]\\
+THAMI: \> Yes, that's the one. For nearly two years I've sat there \dots being educated!\\
+ISABEL: \> [Reading names carved into the wood of the desk] John, Bobby, Zola, Bo \dots Boni \dots\\
+THAMI: \> Bonisile.\\
+ISABEL: \> Where's your name?\\
+THAMI: \> You won't find it there. I don't want to leave any part of me in this classroom.\\
+ISABEL: \> That sounds heavy.\\
+TH

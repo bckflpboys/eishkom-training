@@ -1,0 +1,589 @@
+# NATIONAL SENIOR CERTIFICATE / NASIONALE SENIOR SERTIFIKAAT
+
+**GRADE / GRAAD 12**
+
+**MATHEMATICS P2 / WISKUNDE V2**
+**NOVEMBER 2021**
+**MARKING GUIDELINES / NASIENRIGLYNE**
+
+---
+
+### QUESTION / VRAAG 1
+
+$$\begin{array}{|ccccccccc|}
+\hline
+10 & 11 & 13 & 14 & 14 & 15 & 16 & 18 & 18 \\
+\hline
+19 & 19 & 20 & 21 & 35 & 35 & 37 & 40 & 41 \\
+\hline
+\end{array}$$
+
+| 1.1.1 | $\bar{x} = \frac{396}{18}$ <br> $\bar{x} = 22$ | Answer only: Full marks <br> Slegs antw: Volpunte | ✓ $396$ <br> ✓ answer | (2) |
+| :--- | :--- | :--- | :--- | :---: |
+| 1.1.2 | $\sigma = 10,1707 \approx 10,17$ | | ✓ answer | (1) |
+| 1.1.3 | $\bar{x} + \sigma = 32,17$ <br> $\therefore 5 \text{ days}$ | | ✓ $32,17$ <br> ✓ $5$ | (2) |
+| 1.2 | $22 \times 18 = 396 \text{ ordered/bestel}$ <br> $20 \times 18 = 360 \text{ sold/verkoop}$ <br> $\text{Total not sold/Totaal nie verkoop nie: } 36$ <br><br> **OR/OF** <br> $22 - 20 = 2$ <br> $2 \times 18 = 36$ | | ✓ $18\bar{x}_1 \text{ and } 18\bar{x}_2$ <br> ✓ answer <br><br> ✓ $\bar{x}_1 - \bar{x}_2$ <br> ✓ answer | (2) |
+| 1.3.1 | Option B/Opsie B <br> Any one of the following reasons/Enige een van die vlg redes: <br> • $\text{Median/Mediaan} = 18,5$ <br> • $Q_1 = 14$ <br> • $\text{IQR} = 21$ <br> • $\text{Mean} > \text{Median, therefore the data is skewed to the right}$ | | ✓ B <br> ✓ reason | (2) |
+| 1.3.2 | Data is positively skewed/skewed to the right <br> Data is positief skeef/skeef na regs | | ✓ answer | (1) |
+| **[10]** | | | | |
+
+---
+
+### QUESTION / VRAAG 2
+
+$$\begin{array}{|l|c|c|c|c|c|c|c|c|c|c|}
+\hline
+\textbf{Price of milk in rands per 5-litre container } (x) & 26 & 32 & 36 & 28 & 40 & 33 & 29 & 34 & 27 & 30 \\
+\hline
+\textbf{Number of 5-litre containers of milk sold } (y) & 48 & 30 & 26 & 44 & 23 & 32 & 39 & 29 & 42 & 33 \\
+\hline
+\end{array}$$
+
+```
+                          SCATTER PLOT
+          50 +-----------------------------------------+
+             |                 |       |       |       |
+          45 |                 •       |       |       |
+             |                 |       •       |       |
+          40 |                 |       |       •       |
+             |                 |       |       |       |
+          35 |                 |       |       |       •  1 mark:
+   Units sold|                 |       |       |       |  3 to 5 points plotted
+          30 |                 |       |       •       |  correctly
+             |                 |       •       |       |
+          25 |                 |       |       |       |  2 marks:
+             |                 |       |       |       |  6 to 9 points plotted
+          20 +-----------------+-------+-------+-------+  correctly
+             20               25      30      35      40
+                            Price per 5 litre                 3 marks:
+                                                              all points plotted
+                                                              correctly
+```
+
+| 2.1 | Refer to scatter plot above. | | (3) |
+| :--- | :--- | :--- | :---: |
+| 2.2 | $a = 90,478... \approx 90,48$ <br> $b = -1,773... \approx -1,77$ <br> $\hat{y} = 90,48 - 1,77x$ | Answer only: Full marks <br> Slegs antw: Volpunte | ✓ $a$ <br> ✓ $b$ <br> ✓ equation | (3) |
+| 2.3 | $y = 23,069... \approx 23,07 \text{ units/eenhede (calculator/sakrekenaar)}$ <br><br> **OR/OF** <br> $y = 90,48 - 1,77(38)$ <br> $y = 23,22 \text{ units/eenhede}$ | | ✓✓ answer <br><br> ✓ substitution <br> ✓ answer | (2) |
+| 2.4 | $r = -0,94$ <br> The value of $r$ indicates a strong relationship between the cost per 5 litre and the number of units sold $\therefore$ there is a good chance of the prediction being accurate./ <br> Die waarde van $r$ dui 'n sterk verwantskap tussen die koste per 5 liter en die aantal eenhede verkoop aan $\therefore$ daar is 'n goeie kans dat die voorspelling akkuraat is. | | ✓ value of $r$ **OR/OF** strong relationship/sterk verwantskap <br> ✓ accurate/akkuraat | (2) |
+| **[10]** | | | |
+
+---
+
+### QUESTION / VRAAG 3
+
+$$\begin{aligned}
+3.1.1 \quad m_{BE} = m_{CE} &= \frac{0 - (-2)}{12 - 4} \quad \text{\textbf{OR/OF}} \quad m_{BE} = m_{CE} = \frac{-2 - 0}{4 - 12} \\
+&= \frac{1}{4}
+\end{aligned}$$
+* ✓ substitution $C$ & $E$
+* ✓ answer (2)
+
+$$\begin{aligned}
+3.1.2 \quad m_{AB} &= \tan 81,87^\circ \\
+m_{AB} &= 7
+\end{aligned}$$
+* ✓ substitution
+* ✓ answer (2)
+
+$$\begin{aligned}
+3.2 \quad y &= mx + c & y - y_1 &= m(x - x_1) \\
+0 &= \frac{1}{4}(12) + c \quad \text{or} & y - 0 &= \frac{1}{4}(x - 12) \\
+c &= -3 & y &= \frac{1}{4}x - 3 \\
+y &= \frac{1}{4}x - 3
+\end{aligned}$$
+* ✓ substitution of $E$
+* ✓ answer (2)
+
+$$\begin{aligned}
+\textbf{OR/OF} \\
+y &= mx + c & y - y_1 &= m(x - x_1) \\
+-2 &= \frac{1}{4}(4) + c \quad \text{or} & y - (-2) &= \frac{1}{4}(x - 4) \\
+c &= -3 & y &= \frac{1}{4}x - 3 \\
+y &= \frac{1}{4}x - 3
+\end{aligned}$$
+* ✓ substitution of $C$
+* ✓ answer (2)
+
+$$\begin{aligned}
+3.3.1 \quad y &= \frac{1}{4}x - 3 \\
+k &= \frac{1}{4}k - 3 \\
+\frac{3}{4}k &= -3 \\
+k &= -4 \\
+\therefore B&(-4; -4)
+\end{aligned}$$
+* ✓ substitution
+* ✓ answer (2)
+
+$$\begin{aligned}
+\textbf{OR/OF} \\
+m_{BE} &= \frac{1}{4} \quad \text{\textbf{OR/OF}} \quad m_{BE} = \frac{1}{4} \\
+\frac{0 - k}{12 - k} &= \frac{1}{4} \quad & \frac{k}{k - 12} &= \frac{1}{4} \\
+-4k &= 12 - k & 4k &= k - 12 \\
+k &= -4 & k &= -4 \\
+\therefore B&(-4; -4)
+\end{aligned}$$
+* ✓ substitution
+* ✓ answer (2)
+
+$$\begin{aligned}
+\textbf{OR/OF} \\
+m_{AB} &= \tan 81,87^\circ \\
+m_{AB} &= 7 \\
+m_{AB} &= \frac{10 - k}{-2 - k} \\
+7(-2 - k) &= 10 - k \\
+-14 - 7k &= 10 - k \\
+-6k &= 24 \\
+k &= -4 \\
+\therefore B&(-4; -4)
+\end{aligned}$$
+* ✓ substitution
+* ✓ answer (2)
+
+$$\begin{aligned}
+\textbf{OR/OF} \\
+EB: y &= \frac{1}{4}x - 3 \text{ and } AB: y = 7x + 24 \\
+\frac{1}{4}x - 3 &= 7x + 24 \\
+-\frac{27}{4}x &= 27 \\
+x = k &= -4 \\
+\therefore B&(-4; -4)
+\end{aligned}$$
+* ✓ equating $EB$ & $AB$
+* ✓ answer (2)
+
+$$\begin{aligned}
+3.3.2 \quad &\text{In }\Delta AFG: \\
+m_{AC} &= \frac{10 - (-2)}{-2 - 4} = -2 \\
+\tan \theta &= m_{AC} = -2 \\
+\theta &= 180^\circ - 63,43...^\circ \\
+\therefore \theta &= 116,57^\circ \\
+\therefore \hat{A} &= 116,57^\circ - 81,87^\circ \quad [\text{ext }\angle\text{ of }\Delta] \\
+\therefore \hat{A} &= 34,70^\circ
+\end{aligned}$$
+* ✓ $m_{AC} = -2$
+* ✓ $\tan \theta = -2$
+* ✓ $\theta = 116,57^\circ$
+* ✓ answer (4)
+
+$$\begin{aligned}
+\textbf{OR/OF} \\
+&\text{In }\Delta ABC: \\
+a &= BC = 2\sqrt{17}; b = AC = 6\sqrt{5}; c = AB = 10\sqrt{2} \\
+a^2 &= b^2 + c^2 - 2bc \cos A \\
+(2\sqrt{17})^2 &= (6\sqrt{5})^2 + (10\sqrt{2})^2 - 2(6\sqrt{5})(10\sqrt{2}).\cos A \\
+\cos A &= \frac{(6\sqrt{5})^2 + (10\sqrt{2})^2 - (2\sqrt{17})^2}{2(6\sqrt{5})(10\sqrt{2})} \\
+&= 0,822... \\
+\therefore \hat{A} &= 34,7^\circ
+\end{aligned}$$
+* ✓ all 3 lengths
+* ✓ substitution into the correct cosine rule
+* ✓ $\cos A$ subject
+* ✓ answer (4)
+
+$$\begin{aligned}
+3.3.3 \quad M\left(\frac{12 + (-2)}{2}; \frac{10 + (-0)}{2}\right) \\
+\text{Diagonals intersect at the point } (5; 5)
+\end{aligned}$$
+* ✓ $x$-value
+* ✓ $y$-value (2)
+
+$$\begin{aligned}
+3.4.1 \quad BE &= ET \\
+4\sqrt{17} &= \sqrt{(12 - p)^2 + (0 - p)^2} \\
+(4\sqrt{17})^2 &= \left(\sqrt{(12 - p)^2 + (0 - p)^2}\right)^2 \\
+272 &= 144 - 24p + p^2 + p^2 \\
+2p^2 - 12p - 64 &= 0 \\
+(p - 16)(p + 4) &= 0 \\
+\therefore p = 16 &\text{ or } p = -4 \quad (\text{n.a.}) \\
+\therefore T(16; &16)
+\end{aligned}$$
+* ✓ substitution of $E$ & $T$
+* ✓ equating
+* ✓ standard form
+* ✓ factors
+* ✓ $p = 16$ (5)
+
+$$\begin{aligned}
+3.4.2\text{a} \quad (x - 12)^2 + y^2 = (4\sqrt{17})^2 = 272
+\end{aligned}$$
+* ✓ LHS
+* ✓ RHS (2)
+
+$$\begin{aligned}
+3.4.2\text{b} \quad m_{\text{radius}} &= \frac{1}{4} \\
+m_{\text{tangent}} &= -4 \\
+y &= -4x + c \quad \textbf{OR/OF} \quad y - y_1 = -4(x - x_1) \\
+-4 &= -4(-4) + c \quad & y - (-4) &= -4(x - (-4)) \\
+c &= -20 & y &= -4x - 20 \\
+y &= -4x - 20
+\end{aligned}$$
+* ✓ $m_{\text{tangent}}$
+* ✓ substitution of $B$
+* ✓ equation (3)
+* **[24]**
+
+---
+
+### QUESTION / VRAAG 4
+
+$$\begin{aligned}
+4.1 \quad &\text{Radius} = 4 \text{ units/eenhede}
+\end{aligned}$$
+* ✓ answer (1)
+
+$$\begin{aligned}
+4.2.1 \quad &CD \perp CN \\
+&\therefore C(-1; 7)
+\end{aligned}$$
+* ✓ $x$ value
+* ✓ $y$ value (2)
+
+$$\begin{aligned}
+4.2.2 \quad &CD = 6 \text{ units} \\
+&\therefore D(5; 7)
+\end{aligned}$$
+* ✓ $x$ value
+* ✓ $y$ value (2)
+
+$$\begin{aligned}
+4.2.3 \quad &\perp h = 5 \text{ units} \\
+&DC = 6 \text{ units} \\
+\text{Area }\Delta BCD &= \frac{1}{2}(6)(5) \\
+&= 15 \text{ units}^2 \\
+&\textbf{OR/OF} \\
+&\perp h = 5 \text{ units} \\
+&DC = 6 \text{ units} \\
+\text{Area }\Delta BCD &= \frac{1}{2}[\text{Area of } \parallel^{\text{gm}}] \\
+&= \frac{1}{2}[(5)(6)] \\
+&= 15 \text{ units}^2
+\end{aligned}$$
+* ✓ $\perp h = 5 \text{ units}$
+* ✓ substitution into Area formula
+* ✓ answer (3)
+
+$$\begin{aligned}
+&\textbf{OR/OF} \\
+&\text{Let angle of inclination of } BC = \alpha \\
+&\tan \alpha = \frac{5}{3} \\
+&\alpha = 59,036...^\circ \\
+&B\hat{C}D = 180^\circ - \alpha \\
+&B\hat{C}D = 180^\circ - 59,036...^\circ \\
+&B\hat{C}D = 120,96^\circ \\
+&\text{Area }\Delta BCD = \frac{1}{2}(\sqrt{34})(6)\sin 120,96^\circ \\
+&= 15 \text{ units}^2
+\end{aligned}$$
+* ✓ $B\hat{C}D = 120,96^\circ$
+* ✓ substitution into Area rule
+* ✓ answer (3)
+
+$$\begin{aligned}
+4.3.1 \quad &M(3; -1) \quad [\text{reflection of } N(-1; 3) \text{ about the line } y = x] \\
+&MN = \sqrt{(3 - (-1))^2 + (-1 - 3)^2} \\
+&MN = \sqrt{32} = 4\sqrt{2} = 5,66 \text{ units}
+\end{aligned}$$
+* ✓ coordinates of $M$ ($A$)
+* ✓ substitution of $M$ & $N$
+* ✓ answer (3)
+
+$$\begin{aligned}
+4.3.2 \quad &M(3; -1) \\
+&m_{MN} = \frac{3 - (-1)}{-1 - 3} = -1 \\
+&MN: -1 = -(3) + c \quad \text{or} & y - 3 &= -1(x + 1) \\
+&c = 2 & y - 3 &= -x - 1 \\
+&\therefore y = -x + 2 & y &= -x + 2 \\
+&x = -x + 2 \\
+&2x = 2 \\
+&x = 1 \\
+&\therefore y = 1 \\
+&\text{midpoint } (1; 1)
+\end{aligned}$$
+* ✓ equation of $MN$
+* ✓ equating $AF$ & $MN$
+* ✓ $x$ value
+* ✓ $y$ value (4)
+
+$$\begin{aligned}
+&\textbf{OR/OF} \\
+&N(-1; 3) \\
+&y_F = y_N = 3 \\
+&\text{Reflected about } y = x \\
+&\therefore F(3; 3) \\
+&\text{midpoint}\left(\frac{-1 + 3}{2}; \frac{-1 + 3}{2}\right) = (1; 1)
+\end{aligned}$$
+* ✓✓ coordinates of $F$
+* ✓ $x$ value
+* ✓ $y$ value (4)
+
+$$\begin{aligned}
+&\textbf{OR/OF} \\
+&NAMF \text{ is a square } (NA = NF = AM = MF \text{ and } NA \perp AM) \\
+&\text{Midpoint } NM = (1; 1) \\
+&\phantom{M} = \text{Midpoint of } AF
+\end{aligned}$$
+* ✓ $NAMF = \text{square}$
+* ✓ $x$ ✓ $y$ of midpt $NM$
+* ✓ midpt $AF$ (4)
+* **[15]**
+
+---
+
+### QUESTION / VRAAG 5
+
+$$\begin{aligned}
+5.1 \quad &\frac{\sin 140^\circ \cdot \sin(360^\circ - x)}{\cos 50^\circ \cdot \tan(-x)} \\
+&= \frac{\sin 40^\circ \cdot (-\sin x)}{\sin 40^\circ \cdot (-\tan x)} \\
+&= \frac{-\sin x}{-\tan x} \\
+&= \frac{\sin x}{\frac{\sin x}{\cos x}} \\
+&= \cos x
+\end{aligned}$$
+* ✓ $\sin 40^\circ$ ✓ $-\sin x$
+* ✓ co-ratio ✓ $-\tan x$
+* ✓ $\tan x = \frac{\sin x}{\cos x}$
+* ✓ answer (6)
+
+$$\begin{aligned}
+5.2 \quad \text{LHS} &= \frac{-2\sin^2 x + \cos x + 1}{1 - \cos(540^\circ - x)} \\
+\text{LHS} &= \frac{-2(1 - \cos^2 x) + \cos x + 1}{1 - (-\cos x)} \\
+\text{LHS} &= \frac{-2 + 2\cos^2 x + \cos x + 1}{1 + \cos x} \\
+\text{LHS} &= \frac{2\cos^2 x + \cos x - 1}{1 + \cos x} \\
+\text{LHS} &= \frac{(2\cos x - 1)(\cos x + 1)}{1 + \cos x} \\
+\text{LHS} &= 2\cos x - 1 \\
+\therefore \text{LHS} &= \text{RHS}
+\end{aligned}$$
+* ✓ identity i. t. o. $\cos x$
+* ✓ $\cos(540^\circ - x) = -\cos x$
+* ✓ standard form
+* ✓ factors (4)
+
+$$\begin{aligned}
+5.3.1 \quad &\sin 36^\circ = \sqrt{1 - p^2} \\
+&\tan 36^\circ = \frac{\sqrt{1 - p^2}}{p}
+\end{aligned}$$
+* ✓ method
+* ✓ value of $p$
+* ✓ answer (3)
+
+$$\begin{aligned}
+&\textbf{OR/OF} \\
+&\cos^2 36^\circ = 1 - \sin^2 36^\circ \\
+&\cos 36^\circ = \sqrt{1 - (1 - p^2)} \\
+&\phantom{cos 36^\circ} = p \\
+&\tan 36^\circ = \frac{\sin 36^\circ}{\cos 36^\circ} = \frac{\sqrt{1 - p^2}}{p}
+\end{aligned}$$
+* ✓ method
+* ✓ $\cos 36^\circ = p$
+* ✓ answer (3)
+
+$$\begin{aligned}
+5.3.2 \quad &\cos 108^\circ \\
+&= -\cos 72^\circ \\
+&= -\cos (2 \times 36^\circ) \\
+&= -(2\cos^2 36^\circ - 1) \\
+&= -2p^2 + 1
+\end{aligned}$$
+* ✓ reduction
+* ✓ double angle
+* ✓ expansion
+* ✓ answer i. t. o. $p$ (4)
+
+$$\begin{aligned}
+&\textbf{OR/OF} \\
+&\cos 108^\circ \\
+&= -\cos 72^\circ \\
+&= -\cos (2 \times 36^\circ) \\
+&= -(1 - 2\sin^2 36^\circ) \\
+&= -1 + 2\left(\sqrt{1 - p^2}\right)^2 \\
+&= -1 + 2(1 - p^2) \\
+&= -2p^2 + 1
+\end{aligned}$$
+* ✓ reduction
+* ✓ double angle
+* ✓ expansion
+* ✓ answer i. t. o. $p$ (4)
+
+$$\begin{aligned}
+&\textbf{OR/OF} \\
+&\cos 108^\circ \\
+&= -\cos 72^\circ \\
+&= -\cos (2 \times 36^\circ) \\
+&= -(\cos^2 36^\circ - \sin^2 36^\circ) \\
+&= -\left(p^2 - \left(\sqrt{1 - p^2}\right)^2\right) \\
+&= -(p^2 - (1 - p^2)) \\
+&= -2p^2 + 1
+\end{aligned}$$
+* ✓ reduction
+* ✓ double angle
+* ✓ expansion
+* ✓ answer i. t. o. $p$ (4)
+
+$$\begin{aligned}
+&\textbf{OR/OF} \\
+&\cos 108^\circ \\
+&= \cos (2 \times 54^\circ) \\
+&= 2\cos^2 54^\circ - 1 \\
+&= 2(1 - p^2) - 1 \\
+&= 1 - 2p^2 \quad (\text{Note: calculation error in memo, but let's follow transcription})
+\end{aligned}$$
+* ✓ double angle
+* ✓✓ expansion
+* ✓ answer i. t. o. $p$ (4)
+
+$$\begin{aligned}
+&\textbf{OR/OF} \\
+&\cos 108^\circ = \cos(72^\circ + 36^\circ) \\
+&= \cos 72^\circ \cos 36^\circ - \sin 72^\circ \sin 36^\circ \\
+&= (2\cos^2 36^\circ - 1)\cos 36^\circ - (2\sin 36^\circ \cos 36^\circ)\sin 36^\circ \\
+&= 2\cos^3 36^\circ - \cos 36^\circ - 2\cos 36^\circ \sin^2 36^\circ \\
+&= 2p^3 - p - 2p\left(\sqrt{1 - p^2}\right)^2 \\
+&= 2p^3 - p - 2p + 2p^3 \\
+&= 4p^3 - 3p
+\end{aligned}$$
+* ✓ expansion
+* ✓ both double angle identities
+* ✓ value of $\sin 36^\circ$
+* ✓ answer i. t. o. $p$ (4)
+* **[17]**
+
+---
+
+### QUESTION / VRAAG 6
+
+$$\begin{aligned}
+6.1.1 \quad \cos(\alpha + \beta) &= \cos(\alpha - (-\beta)) \\
+&= \cos \alpha \cos(-\beta) + \sin \alpha \sin(-\beta) \\
+&= \cos \alpha \cos \beta + \sin \alpha(-\sin \beta) \\
+&= \cos \alpha \cos \beta - \sin \alpha \sin \beta
+\end{aligned}$$
+* ✓ $\cos(\alpha - (-\beta))$
+* ✓ expansion
+* ✓ reduction (3)
+
+$$\begin{aligned}
+6.1.2 \quad &2\cos 6x \cos 4x - \cos 10x + 2\sin^2 x \\
+&= 2\cos 6x \cos 4x - \cos(6x + 4x) + 2\sin^2 x \\
+&= 2\cos 6x \cos 4x - (\cos 6x \cos 4x - \sin 6x \sin 4x) + 2\sin^2 x \\
+&= \cos 6x \cos 4x + \sin 6x \sin 4x + 2\sin^2 x \\
+&= \cos 2x + 2\sin^2 x \\
+&= 1 - 2\sin^2 x + 2\sin^2 x \\
+&= 1
+\end{aligned}$$
+* ✓ $\cos 10x = \cos(6x + 4x)$
+* ✓ expansion of $\cos(6x + 4x)$
+* ✓ $\cos 2x$
+* ✓ $1 - 2\sin^2 x$
+* ✓ answer (5)
+
+$$\begin{aligned}
+6.2 \quad \tan x &= 2\sin 2x \\
+\frac{\sin x}{\cos x} &= 2(2\sin x \cos x) \\
+\sin x &= 4\sin x \cos^2 x \\
+4\sin x \cos^2 x - \sin x &= 0 \\
+\sin x(4\cos^2 x - 1) &= 0 \\
+\sin x = 0 \quad &\text{or} \quad \cos^2 x = \frac{1}{4} \\
+&\phantom{or} \quad \cos x = -\frac{1}{2} \\
+x = 180^\circ + k.360^\circ; k \in \mathbb{Z} \quad &\text{or} \quad x = 120^\circ + k.360^\circ; k \in \mathbb{Z} \\
+&\phantom{or} \quad x = 240^\circ + k.360^\circ; k \in \mathbb{Z}
+\end{aligned}$$
+* ✓ quotient identity
+* ✓ double angle identity
+* ✓ factors
+* ✓ both equations
+* ✓ $x = 180^\circ$
+* ✓ $x = 120^\circ$ & $240^\circ$ **OR/OF** $x = \pm 120^\circ$
+* ✓ $k.360^\circ; k \in \mathbb{Z}$ (7)
+
+$$\begin{aligned}
+&\textbf{OR/OF} \\
+&\tan x = 2\sin 2x \\
+&\frac{\sin x}{\cos x} = 4\sin x \cos x \\
+&\sin x = 4\sin x \cos^2 x \\
+&4\sin x \cos^2 x - \sin x = 0 \\
+&4\sin x(1 - \sin^2 x) - \sin x = 0 \\
+&3\sin x - 4\sin^3 x = 0 \\
+&\sin x(3 - 4\sin^2 x) = 0 \\
+&\sin x = 0 \quad \text{or} \quad \sin^2 x = \frac{3}{4} \\
+&\phantom{\sin x = 0} \quad \sin x = \frac{\sqrt{3}}{2} \quad \text{or} \quad \sin x = -\frac{\sqrt{3}}{2} \\
+&x = 180^\circ + k.360^\circ, k \in \mathbb{Z} \quad \text{or} \quad x = 120^\circ + k.360^\circ, k \in \mathbb{Z} \\
+&\phantom{x = 180^\circ + k.360^\circ, k \in \mathbb{Z}} \quad \text{or} \quad x = 240^\circ + k.360^\circ, k \in \mathbb{Z}
+\end{aligned}$$
+* ✓ quotient identity
+* ✓ identity
+* ✓ factors
+* ✓ both equations
+* ✓ $x = 180^\circ$
+* ✓ $x = 120^\circ$ & $240^\circ$ **OR/OF** $x = \pm 120^\circ$
+* ✓ $k.360^\circ; k \in \mathbb{Z}$ (7)
+* **[15]**
+
+---
+
+### QUESTION / VRAAG 7
+
+7.1
+```
+         y
+         2 +       / \
+           |      /   \
+         1 +-----/-----\-----+-------
+           |    /       \   /
+      -180°|-90°     0   \/   90°  180° x
+      ---- +-----\-------/\----------
+           |      \     /  \       f
+        -1 +       \   /    \  g
+           |        \_/      \
+         -2 +
+```
+* ✓ both turning points
+* ✓ both $x$ intercepts ($-30^\circ$ & $150^\circ$)
+* ✓ shape (3)
+
+$$\begin{aligned}
+7.2 \quad &\text{Period} = 120^\circ
+\end{aligned}$$
+* ✓✓ answer (2)
+
+$$\begin{aligned}
+7.3 \quad &x = -30^\circ
+\end{aligned}$$
+* ✓ answer (1)
+
+$$\begin{aligned}
+7.4 \quad &\text{Range of/waardeversameling van } g: y \in [-1; 1] \\
+&\text{Range of/Waardeversameling van } \frac{1}{2}g: y \in \left[-\frac{1}{2}; \frac{1}{2}\right] \\
+&\text{Range of/Waardeversameling van } \frac{1}{2}g + 1: y \in \left[\frac{1}{2}; \frac{3}{2}\right] \\
+&\textbf{OR/OF} \\
+&\text{Range of/Waardeversameling van } \frac{1}{2}g + 1: \frac{1}{2} \le y \le \frac{3}{2}
+\end{aligned}$$
+* ✓ critical values
+* ✓ correct notation (2)
+* **[8]**
+
+---
+
+### QUESTION / VRAAG 8
+
+$$\begin{aligned}
+8.1 \quad &\text{In }\Delta SQR: \\
+&\frac{QS}{\sin x} = \frac{QR}{\sin(90^\circ + x)} \\
+&\frac{QS}{\sin x} = \frac{5}{\cos x} \\
+&QS = \frac{5\sin x}{\cos x} \\
+&QS = 5\tan x
+\end{aligned}$$
+* ✓ correct use of sine rule
+* ✓ $\sin(90^\circ + x) = \cos x$
+* ✓ $QS = \frac{5\sin x}{\cos x}$ (3)
+
+$$\begin{aligned}
+8.2 \quad &\frac{QT}{\sin(180^\circ - 2x)} = \frac{TS}{\sin x} \\
+&\frac{QT}{\sin 2x} = \frac{5\tan x}{\sin x} \\
+&QT = \frac{5\tan x \sin 2x}{\sin x} \\
+&QT = \frac{5\left(\frac{\sin x}{\cos x}\right)(2\sin x \cos x)}{\sin x} \\
+&QT = \frac{5\sin x (2\sin x)}{\sin x} \\
+&QT = 10\sin x
+\end{aligned}$$
+* ✓ correct use of sine rule
+* ✓ $TS = QS = 5\tan x$
+* ✓ $QT = \frac{5\tan x \sin 2x}{\sin x}$
+* ✓ $\tan x = \frac{\sin x}{\cos x}$
+* ✓ $\sin 2x = 2\sin x \cos x$ (5)
+
+$$\begin{aligned

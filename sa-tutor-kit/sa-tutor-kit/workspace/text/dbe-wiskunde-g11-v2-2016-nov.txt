@@ -1,0 +1,295 @@
+**NASIONALE SENIOR SERTIFIKAAT**
+**GRAAD 11**
+
+**WISKUNDE V2**
+**NOVEMBER 2016**
+
+**PUNTE:** 150  
+**TYD:** 3 uur  
+
+Hierdie vraestel bestaan uit 13 bladsye en 'n 22 bladsy-antwoordeboek.
+
+---
+
+### INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies aandagtig deur voordat jy die vrae beantwoord.
+
+1. Hierdie vraestel bestaan uit 12 vrae.
+2. Beantwoord AL die vrae in die SPESIALE ANTWOORDEBOEK wat verskaf word.
+3. Dui ALLE berekeninge, diagramme, grafieke ensovoorts wat jy gebruik het om die antwoorde te bepaal, duidelik aan.
+4. Volpunte sal NIE noodwendig aan slegs antwoorde toegeken word NIE.
+5. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders aangedui.
+6. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+7. Jy mag 'n goedgekeurde wetenskaplike sakrekenaar (nieprogrammeerbaar en niegrafies) gebruik, tensy anders aangedui.
+8. Skryf netjies en leesbaar.
+
+---
+
+### VRAAG 1
+
+Die tabel hieronder toon die getal blikkies ingemaakte kos wat 9 klasse tydens 'n liefdadigheidsveldtog ingesamel het.
+
+$$\begin{array}{|c|c|c|c|c|c|c|c|c|}
+\hline
+5 & 8 & 15 & 20 & 25 & 27 & 31 & 36 & 75 \\
+\hline
+\end{array}$$
+
+1.1 Bereken die omvang (variasiewydte) van die data. (1)
+
+1.2 Bereken die standaardafwyking van die data. (2)
+
+1.3 Bepaal die mediaan van die data. (1)
+
+1.4 Bepaal die interkwartielomvang van die data. (3)
+
+1.5 Gebruik die getallelyn wat in die ANTWOORDEBOEK verskaf word om 'n mond-en-snordiagram van die data hierbo te skets. (3)
+
+1.6 Beskryf die skeefheid van die data. (1)
+
+1.7 Identifiseer uitskieters, indien enige, vir die data hierbo. (1)  
+**[12]**
+
+---
+
+### VRAAG 2
+
+Die tabel hieronder toon die tyd (in minute) wat 200 leerders gedurende 'n skooldag op hulle selfone spandeer het.
+
+$$\begin{array}{|c|c|}
+\hline
+\textbf{TYD SPANDEER} & \textbf{FREKWENSIE} \\
+\textbf{(IN MINUTE)} & \\
+\hline
+95 < x \le 105 & 15 \\
+\hline
+105 < x \le 115 & 27 \\
+\hline
+115 < x \le 125 & 43 \\
+\hline
+125 < x \le 135 & 52 \\
+\hline
+135 < x \le 145 & 28 \\
+\hline
+145 < x \le 155 & 21 \\
+\hline
+155 < x \le 165 & 10 \\
+\hline
+165 < x \le 175 & 4 \\
+\hline
+\end{array}$$
+
+2.1 Voltooi die kumulatiefrekwensie-kolom in die tabel wat in die ANTWOORDEBOEK verskaf word. (2)
+
+2.2 Teken 'n kumulatiefrekwensie-grafiek (ogief) van die data op die rooster wat verskaf word. (3)
+
+2.3 Gebruik die kumulatiefrekwensie-grafiek om die waarde van die laer kwartiel te bepaal. (2)
+
+2.4 Bepaal, vanaf die kumulatiefrekwensie-grafiek, die getal leerders wat hulle selfone vir meer as $140\text{ minute}$ gebruik het. (2)  
+**[9]**
+
+---
+
+### VRAAG 3
+
+[DIAGRAM: In a Cartesian plane, triangle $ABC$ has vertices $A(6; -2)$, $B(2; 15)$, and $C(-4; 3)$. $M$ is the midpoint of $AB$, indicated with equal tick marks on $AM$ and $MB$. A line passes through $M$ and $N$, where $N$ is a point on $CA$ such that $MN \parallel BC$, indicated with arrows.]
+
+In die diagram is $A(6; -2)$, $B(2; 15)$ en $C(-4; 3)$ die hoekpunte van $\triangle ABC$.  
+$M$ is die middelpunt van $AB$. $N$ is 'n punt op $CA$ sodanig dat $MN \parallel BC$.
+
+3.1 Bepaal die koördinate van $M$, die middelpunt van $AB$. (2)
+
+3.2 Bepaal die gradiënt van lyn $MN$. (3)
+
+3.3 Bepaal vervolgens of andersins die vergelyking van lyn $MN$, in die vorm $y = mx + c$. (2)
+
+3.4 Bereken, met redes, die koördinate van punt $N$. (4)
+
+3.5 Indien $ABCD$ (in daardie volgorde) 'n parallelogram is, bepaal die koördinate van punt $D$. (4)  
+**[15]**
+
+---
+
+### VRAAG 4
+
+[DIAGRAM: A Cartesian plane showing two intersecting lines $AR$ and an inclined line passing through $M(k; 0)$, $P(0; 2)$, and $N(3; 4)$. The line $AR$ has equation $y = -\frac{1}{2}x + 4$, intersecting the $y$-axis at $P(0; 2)$ and the $x$-axis at $R$. Line $MN$ passes through $M(k; 0)$ and $N(3; 4)$. The angle of inclination of $MN$ is $\alpha$, and of $AR$ is $\beta$. The obtuse angle between the two lines at their intersection point is $\theta$.]
+
+In die diagram is $R$ en $A$ die $x$- en $y$-afsnitte onderskeidelik van die reguitlyn $AR$.  
+Die vergelyking van $AR$ is $y = -\frac{1}{2}x + 4$. Nog 'n reguitlyn sny die $y$-as by $P(0; 2)$ en gaan deur die punte $M(k; 0)$ en $N(3; 4)$.  
+$\alpha$ en $\beta$ is die inklinasiehoeke van die lyne $MN$ en $AR$ onderskeidelik.
+
+4.1 Indien gegee word dat $M$, $P$ en $N$ kollinéêre punte is, bereken die waarde van $k$. (3)
+
+4.2 Bepaal die grootte van $\theta$, die stomphoek tussen die twee lyne. (4)
+
+4.3 Bereken die lengte van $MR$. (3)
+
+4.4 Bereken die oppervlakte van $\triangle MNR$. (3)  
+**[13]**
+
+---
+
+### VRAAG 5
+
+5.1 In die diagram hieronder is $P(-8; t)$ 'n punt in die Kartesiese vlak sodanig dat $OP = 17\text{ eenhede}$ en refleks $\hat{XOP} = \theta$.
+
+[DIAGRAM: A Cartesian plane with origin $O$. A point $P(-8; t)$ is in the third quadrant, with $OP = 17$. The reflex angle from the positive $x$-axis clockwise/counter-clockwise to $OP$ is $\theta$.]
+
+5.1.1 Bereken die waarde van $t$. (2)
+
+5.1.2 Bepaal die waarde van elk van die volgende SONDER die gebruik van 'n sakrekenaar:
+(a) $\cos(-\theta)$ (2)
+(b) $1 - \sin\theta$ (2)
+
+5.2 Indien $\sin 17^\circ = a$, druk die volgende in terme van $a$ uit SONDER die gebruik van 'n sakrekenaar:
+
+5.2.1 $\tan 17^\circ$ (3)
+
+5.2.2 $\sin 107^\circ$ (2)
+
+5.2.3 $\cos^2 253^\circ + \sin^2 557^\circ$ (4)
+
+5.3 Vereenvoudig volledig SONDER die gebruik van 'n sakrekenaar:
+$$\frac{\cos(-225^\circ).\sin 135^\circ + \sin 330^\circ}{\tan 225^\circ}$$ (6)
+
+5.4 Bewys die identiteit:
+$$\frac{1}{(\cos x + 1)(\cos x - 1)} = \frac{-1}{\tan^2 x . \cos^2 x}$$ (4)
+
+5.5 Bepaal die algemene oplossing vir $2\sin x . \cos x = \cos x$. (6)  
+**[31]**
+
+---
+
+### VRAAG 6
+
+[DIAGRAM: Graphs of $f(x) = \cos x$ and $g(x) = \sin(x + b)$ sketched for the interval $-180^\circ \le x \le 90^\circ$. Curve $f$ has a maximum at $(0; 1)$, passes through $(-90^\circ; 0)$, reaches minimum at $(-180^\circ; -1)$ and $(180^\circ; 1)$ outside range. Curve $g$ has maximum at $(30^\circ; 1)$, minimum at $(-150^\circ; -1)$, and passes through $(-60^\circ; 0)$ and $(60^\circ; 0)$.]
+
+In die diagram is die grafieke van $f(x) = \cos x$ en $g(x) = \sin(x + b)$ geskets vir die interval $-180^\circ \le x \le 90^\circ$.
+
+6.1 Skryf die waarde van $b$ neer. (1)
+
+6.2 Skryf die periode van $g$ neer. (1)
+
+6.3 Skryf neer die waarde(s) van $x$ in die interval $-180^\circ \le x \le 90^\circ$ waarvoor $f(x) - g(x) = 0$. (2)
+
+6.4 Vir watter waardes van $x$ in die interval $-180^\circ \le x \le 90^\circ$ is $\sin(90^\circ - x) > g(x)$? (3)
+
+6.5 Die grafiek van $h$ word verkry deur $f$ $3\text{ eenhede}$ opwaarts te skuif. Bepaal die waardeverzameling van $h$. (2)  
+**[9]**
+
+---
+
+### VRAAG 7
+
+7.1 In die figuur hieronder is skerphoekige $\triangle ABC$ geteken met $C$ by die oorsprong.
+
+[DIAGRAM: An acute-angled triangle $ABC$ with vertex $C$ at the origin of a Cartesian coordinate system, vertex $B$ above, and vertex $A$ to the right along the $x$-axis.]
+
+7.1.1 Bewys dat $c^2 = a^2 + b^2 - 2ab\cos C$. (6)
+
+7.1.2 Lei gevolglik af dat $1 + \cos C = \frac{(a + b + c)(a + b - c)}{2ab}$. (4)
+
+7.2 Vierhoek $ABCD$ is geteken met $BC = 235\text{ m}$ en $AB = 90,52\text{ m}$. Daar word ook gegee dat $\hat{ADB} = 31,23^\circ$; $D\hat{A}B = 109,16^\circ$ en $C\hat{B}D = 48,88^\circ$.
+
+[DIAGRAM: A quadrilateral $ABCD$ divided into two triangles $ABD$ and $BCD$ by diagonal $BD$. $AB = 90.52\text{ m}$, $BC = 235\text{ m}$, $D\hat{A}B = 109.16^\circ$, $\hat{ADB} = 31.23^\circ$, and $C\hat{B}D = 48.88^\circ$.]
+
+Bepaal die lengte van:
+
+7.2.1 $BD$ (3)
+
+7.2.2 $CD$ (3)  
+**[16]**
+
+---
+
+### VRAAG 8
+
+Die diagram hieronder toon 'n watertenk wat bestaan uit 'n silinder met 'n keil bo-op waarvan die radiusse ewe groot is. Die hoogte van die tenk is $1,8\text{ m}$ en die radius is $0,5\text{ m}$. Die hoek tussen die loodregte hoogte, $AB$, en die skuinshoogte, $AC$, van die keëlvormige gedeelte is $35,5^\circ$.
+
+[DIAGRAM: A water tank composed of a cylinder of height $(1,8 - AB)$ and radius $0,5\text{ m}$ with a cone on top of radius $0,5\text{ m}$, perpendicular height $AB$, and slant height $AC$. The angle between $AB$ and $AC$ is $35,5^\circ$. Total height of the tank is $1,8\text{ m}$.]
+
+$$\begin{aligned}
+&\text{Volume van keël} = \frac{1}{3}\pi r^2 h \\
+&\text{Totale oppervlakte van keël} = \pi r^2 + \pi r s \\
+&\text{Volume van silinder} = \pi r^2 h \\
+&\text{Totale oppervlakte van silinder} = 2\pi r^2 + 2\pi r h
+\end{aligned}$$
+
+8.1 Bereken die loodregte hoogte, $AB$, van die keël. (2)
+
+8.2 Wanneer die tenk vol is, skakel 'n elektriese pomp aan en pomp die water uit die tenk teen 'n tempo van $0,52\text{ m}^3\text{/h}$ in 'n besproeiingstelsel in. Die pomp skakel outomaties af wanneer die tenk $\frac{1}{4}$ vol is.  
+Bereken hoe lank, in uur, die pomp water in die besproeiingstelsel invoer. (4)  
+**[6]**
+
+---
+
+### VRAAG 9
+
+**Gee redes vir jou bewewings en berekeninge in VRAAG 9, 10, 11 en 12.**
+
+9.1 Voltooi die stelling sodat dit WAAR is:  
+Die hoek onderspan deur 'n boog in die middel van 'n sirkel is ... (2)
+
+9.2 $O$ is die middel van sirkel $\text{TNSPR}$. $P\hat{O}S = 60^\circ$ en $PS = NT$.
+
+[DIAGRAM: A circle with center $O$ and points $T, N, S, P, R$ on the circumference. $P\hat{O}S = 60^\circ$. Chord $PS$ has a single tick mark, and chord $NT$ has a single tick mark indicating equality. Lines $OP$, $OS$, $OR$, $RP$, $PS$, $TN$, $TS$ are drawn.]
+
+Bereken die grootte van:
+
+9.2.1 $P\hat{R}S$ (2)
+
+9.2.2 $N\hat{S}T$ (2)  
+**[6]**
+
+---
+
+### VRAAG 10
+
+$D, E, F, G$ en $H$ is punte op die omtrek van die sirkel.  
+$\hat{G}_1 = x + 20^\circ$ en $\hat{H} = 2x + 10^\circ$. $DE \parallel FG$.
+
+[DIAGRAM: A circle with points $D, E, F, G, H$ on the circumference. $DE \parallel FG$ with arrow indicators. Chord $DF$ and chords $EH$, $HG$, $DG$, $ED$ are drawn. $\hat{G}_1$ is marked at angle $E\hat{G}F = x + 20^\circ$, angle $\hat{H}$ is marked as $2x + 10^\circ$.]
+
+10.1 Bepaal die grootte van $D\hat{E}G$ in terme van $x$. (2)
+
+10.2 Bereken die grootte van $D\hat{H}G$. (4)  
+**[6]**
+
+---
+
+### VRAAG 11
+
+$O$ is die middel van die sirkel $\text{PTR}$. $N$ is 'n punt op koord $RP$ sodanig dat $ON \perp PR$.  
+$RS$ en $PS$ is raaklyne aan die sirkel by $R$ en $P$ onderskeidelik.  
+$RS = 15\text{ eenhede}$; $TS = 9\text{ eenhede}$; $R\hat{P}S = 42,83^\circ$.
+
+[DIAGRAM: A circle with center $O$ and points $P, T, R$ on its circumference. $N$ is a point on chord $RP$ such that $ON \perp PR$. Tangents $PS$ and $RS$ meet at $S$. $TS = 9$, $RS = 15$, $R\hat{P}S = 42,83^\circ$. Lines $OR$, $ON$, $OP$, $OS$, $TS$ are drawn.]
+
+11.1 Bereken die grootte van $N\hat{O}R$. (5)
+
+11.2 Bereken die lengte van die radius van die sirkel. (4)  
+**[9]**
+
+---
+
+### VRAAG 12
+
+12.1 Gebruik die diagram hieronder om die stelling te bewys wat beweer dat $E\hat{F}G = E\hat{D}F$.
+
+[DIAGRAM: A circle with points $D, E, F$ on the circumference and a tangent $FG$ at point $F$. Chords $DE, EF, DF$ are drawn.] (5)
+
+12.2 In die diagram hieronder is $BOC$ 'n middellyn van die sirkel. $AP$ is 'n raaklyn aan die sirkel by $A$ en $AE = EC$.
+
+[DIAGRAM: A circle with diameter $BOC$. Tangent $AP$ touches the circle at $A$, extending to $P$. $AE = EC$. Chords $AB$, $AC$, $AO$, $OD$, $DC$ and lines $BP$, $DP$ are drawn. Angle numbers are shown: $A_1, A_2, A_3, D_1, D_2, D_3, E_1, E_2, E_3, O_1, O_2, O_3, C_1, C_2, C_3$.]
+
+Bewys dat:
+
+12.2.1 $BA \parallel OD$ (4)
+
+12.2.2 $AOCD$ is 'n koordevierhoek (5)
+
+12.2.3 $DC$ is 'n raaklyn aan die sirkel by $C$ (4)  
+**[18]**
+
+**TOTAAL: 150**

@@ -1,0 +1,509 @@
+# NATIONAL SENIOR CERTIFICATE / NASIONALE SENIOR SERTIFIKAAT
+## GRADE / GRAAD 10
+### MATHEMATICS P1 / WISKUNDE V1
+#### NOVEMBER 2017
+#### MARKING GUIDELINES / NASIENRIGLYNE
+
+---
+
+**NOTE:**
+* If a candidate answered a question TWICE, mark only the FIRST attempt.
+* If a candidate crossed out an answer and did not redo it, mark the crossed-out answer.
+* Consistent accuracy applies to ALL aspects of the marking guidelines.
+* Assuming values/answers in order to solve a problem is unacceptable.
+
+**LET WEL:**
+* As 'n kandidaat 'n vraag TWEE keer beantwoord het, sien slegs die EERSTE poging na.
+* As 'n kandidaat 'n antwoord deurgehaal en nie oorgedoen het nie, sien die deurgehaalde antwoord na.
+* Volgehoue akkuraatheid is op ALLE aspekte van die nasienriglyne van toepassing.
+* Dit is onaanvaarbaar dat waardes/antwoorde veronderstel word om 'n probleem op te los.
+
+---
+
+### QUESTION / VRAAG 1
+
+1.1.1 
+$$q = \sqrt{b^2 - 4ac}$$
+$$q = \sqrt{(-1)^2 - 4(2)(-4)}$$
+$$q = \sqrt{33}$$
+$\checkmark$ subst./verv.  
+$\checkmark$ answ/antw  
+**(2)**
+
+1.1.2 Irrational/Irrasioneel  
+$\checkmark$ answ/antw  
+**(1)**
+
+1.1.3 $5$ and/en $6$  
+$\checkmark$ answ/antw  
+**(1)**
+
+1.2.1 
+$$t^2(r - s) - r + s$$
+$$= t^2(r - s) - (r - s)$$
+$$= (r - s)(t^2 - 1)$$
+$$= (r - s)(t - 1)(t + 1)$$
+$\checkmark$ grouping/groepering  
+$\checkmark$ factors/faktore  
+$\checkmark$ difference of two squares/verskil van twee kwadrate  
+**(3)**
+
+1.2.2 
+$$\frac{x^3 + 1}{x^2 - x + 1}$$
+$$= \frac{(x + 1)(x^2 - x + 1)}{x^2 - x + 1}$$
+$$= x + 1$$
+$\checkmark$ factors/faktore  
+$\checkmark$ answ/antw  
+**(2)**
+
+1.3.1 
+$$(2y + 3)(7y^2 - 6y - 8)$$
+$$= 14y^3 - 12y^2 - 16y + 21y^2 - 18y - 24$$
+$$= 14y^3 + 9y^2 - 34y - 24$$
+$\checkmark$ simpl./vereenv  
+$\checkmark$ answ/antw  
+**(2)**
+
+1.3.2 
+$$\frac{3}{x^2 - 9} + \frac{2}{(x - 3)^2}$$
+$$= \frac{3}{(x - 3)(x + 3)} + \frac{2}{(x - 3)^2}$$
+$$= \frac{3(x - 3) + 2(x + 3)}{(x - 3)^2(x + 3)}$$
+$$= \frac{3x - 9 + 2x + 6}{(x - 3)^2(x + 3)}$$
+$$= \frac{5x - 3}{(x - 3)^2(x + 3)}$$
+$\checkmark$ LCD/KGN  
+$\checkmark$ simpl./vereenv  
+$\checkmark$ answ/antw  
+**(3)**
+
+1.3.3 
+$$\frac{3^t - 3^{t-2}}{2.3^t - 3^t}$$
+$$= \frac{3^t(1 - 3^{-2})}{3^t(2 - 1)}$$
+$$= 1 - \frac{1}{9}$$
+$$= \frac{8}{9}$$
+$\checkmark$ factors/faktore  
+$\checkmark$ simpl./vereenv  
+$\checkmark$ answ/antw  
+**(3)**
+
+**[17]**
+
+---
+
+### QUESTION / VRAAG 2
+
+2.1.1 
+$$4 - 2x < 16$$
+$$-2x < 12$$
+$$x > -6$$
+$\checkmark$ simpl./vereenv  
+$\checkmark$ answ/antw  
+**(2)**
+
+2.1.2 
+$$\begin{tikzpicture}
+\draw[->] (-3,0) -- (2,0);
+\draw (0,0) node[below] {$0$};
+\draw (-2,0) node[above] {$\circ$};
+\draw (-2,0) node[below] {$-6$};
+\draw[->, thick] (-2,0) -- (1.5,0);
+\end{tikzpicture}$$
+$\checkmark$ answ/antw  
+**(1)**
+
+2.2 
+$$\begin{align*}
+3x - 4y &= -4 \dots\dots\text{(1)} \\
+-2x - y &= 10 \dots\dots\text{(2)}
+\end{align*}$$
+From (2) $\times 4$: 
+$$-8x - 4y = -40 \dots\dots\text{(3)}$$
+$$(1) + (3): 11x = -44$$
+$$x = -4$$
+Substitute $x = -4$ into (2):
+$$-2(-4) - y = 10$$
+$$y = -2$$
+$\checkmark$ multipl./maal (2) by/met 4  
+$\checkmark$ adding/tel op (1) & (3)  
+$\checkmark$ $x$-value/waarde  
+$\checkmark$ $y$-value/waarde  
+**(4)**
+
+**OR / OF**
+
+From (2): $y = -2x - 10 \dots\dots\text{(3)}$  
+Subst. (3) into (1): $3x - 4(-2x - 10) = -4$  
+$$3x + 8x + 40 = -4$$
+$$11x = -44$$
+$$x = -4$$
+Subst. $x = -4$ into (3): $y = -2(-4) - 10$  
+$$y = -2$$
+$\checkmark$ equation/verg (3)  
+$\checkmark$ subst./verv.  
+$\checkmark$ $x$-value/waarde  
+$\checkmark$ $y$-value/waarde  
+**(4)**
+
+2.3.1 
+$$\frac{x(x - 5)}{6} - 1 = 0$$
+$$x^2 - 5x - 6 = 0$$
+$$(x - 6)(x + 1) = 0$$
+$$x = 6 \quad \text{or/of} \quad x = -1$$
+$\checkmark$ stand. form/-vorm  
+$\checkmark$ factors/faktore  
+$\checkmark$ answ/antw  
+**(3)**
+
+2.3.2 
+$$c = \sqrt{a + 2x}$$
+$$c^2 = a + 2x$$
+$$2x = c^2 - a$$
+$$x = \frac{c^2 - a}{2}$$
+$\checkmark$ squaring/kwadrering  
+$\checkmark$ answ/antw  
+**(2)**
+
+2.4 
+Let Linda's age now be $x$ / *Laat Linda se ouderdom nou $x$ wees*  
+Therefore Tabelo's age is $4x$ / *Dus is Tabelo se ouderdom $4x$*  
+$6$ years/jaar later:  
+Linda's age will be: $x + 6$ / *Linda se ouderdom sal wees: $x + 6$*  
+Tabelo's age will be: $4x + 6$ / *Tabelo se ouderdom sal wees: $4x + 6$*  
+$$4x + 6 = 3(x + 6)$$
+$$4x - 3x = 18 - 6$$
+$$x = 12$$
+Linda's age / *Linda se ouderdom* is $12$ years/jaar  
+$\checkmark 4x$  
+$\checkmark x + 6$  
+$\checkmark$ equating/verg.  
+$\checkmark$ answ/antw  
+**(4)**
+
+**[16]**
+
+---
+
+### QUESTION / VRAAG 3
+
+3.1.1 $b = 14$  
+$\checkmark\checkmark$ answ/antw  
+**(2)**
+
+3.1.2 The sequence is linear / *Hierdie ry is lineêr:* $T_n = pn + q$  
+$$T_n = 3n + q$$
+$$T_n = 3n + 2$$
+$\checkmark 3n$  
+$\checkmark 2$  
+**(2)**
+
+3.1.3 
+$$T_n = 3n + 2$$
+$$T_{15} = 3(15) + 2$$
+$$T_{15} = 47$$
+$\checkmark$ subst./verv.  
+$\checkmark$ answ/antw  
+**(2)**
+
+3.1.4 
+$$T_n = 3n + 2$$
+$$83 = 3n + 2$$
+$$3n = 81$$
+$$n = 27$$
+$\checkmark T_n = 83$  
+$\checkmark$ answ/antw  
+**(2)**
+
+3.2.1 Sum of the terms in rows / *Som van terme in ry:* $2; 16; 54; 128; \dots$  
+Row/Ry 1: $2 \times 1 = 2$  
+Row/Ry 2: $2 \times 8 = 16$  
+Row/Ry 3: $2 \times 27 = 54$  
+Row/Ry 4: $2 \times 64 = 128$  
+$\vdots$  
+Row/Ry $n$: $2n^3$  
+Row/Ry $8 = 2(8)^3 = 1024$  
+$\checkmark$ gen./alg. term  
+$\checkmark$ subst./verv.  
+$\checkmark$ answ/antw  
+**(3)**
+
+**OR / OF**
+
+Pattern for the first terms in rows / *Patroon van die eerste terme in rye:* $2; 6; 14; 26; \dots$  
+$2; \quad 4(1) + 2; \quad 4(1) + 4(2) + 2; \quad 4(1) + 4(2) + 4(3) + 2; \dots$  
+$$T_8 = 4(1 + 2 + 3 + 4 + 5 + 6 + 7) + 2$$
+$$= 114$$
+Sum of the terms in row 8 / *Som van terme in ry 8:*  
+$$= 114 + 118 + 122 + 126 + 130 + 134 + 138 + 142$$
+$$= 1024$$
+$\checkmark T_8 = 114$  
+$\checkmark$ sum of terms in row / *som van terme in ry 8*  
+$\checkmark$ answ/antw  
+**(3)**
+
+3.2.2 
+$$\text{Mean in row / Gemiddeld in ry } 20 = \frac{2(20)^3}{20} = 800$$
+$\checkmark$ subst./verv.  
+$\checkmark$ answ/antw  
+**(2)**
+
+**OR / OF**
+
+First term of row / *Eerste term in ry 20:*  
+$$T_{20} = 4(1 + 2 + 3 + 4 + \dots + 19) + 2$$
+$$= 762$$
+Sum of terms in row / *Som van terme in ry 20*  
+$$= 762 + 766 + 770 + \dots + 838$$
+$$= 16\,000$$
+$\therefore \text{Mean / Gemiddeld} = \frac{16\,000}{20} = 800$  
+$\checkmark 16\,000$  
+$\checkmark$ answ/antw  
+**(2)**
+
+**[13]**
+
+---
+
+### QUESTION / VRAAG 4
+
+4.1.1 
+$$\text{SI} = \frac{\text{Prt}}{100}$$
+$$= \frac{18\,000 \times 4,5 \times 7}{100}$$
+$$= \text{R}5\,670,00$$
+$\checkmark$ subst./verv.  
+$\checkmark$ answ/antw  
+**(2)**
+
+**OR / OF**
+
+$$A = P(1 + i.n)$$
+$$= 18\,000(1 + 0,045 \times 7)$$
+$$= \text{R}23\,670$$
+$\text{Interest / Rente} = 23\,670 - 18\,000$  
+$$= \text{R}5\,670$$
+$\checkmark \text{R}23\,670$  
+$\checkmark \text{R}5\,670$  
+**(2)**
+
+4.1.2 
+$$A = P(1 + i)^n$$
+$$\text{R}27\,660 = P(1 + 0,067)^5$$
+$$P = \frac{27\,660}{(1 + 0,067)^5}$$
+$$P = \text{R}20\,000$$
+$\checkmark$ subst./verv. in correct formula / *korrekte formule*  
+$\checkmark$ simpl./vereenv  
+$\checkmark$ answ/antw  
+**(3)**
+
+4.1.3 
+$$A = P(1 + i.n)$$
+$$27\,660 = 18\,000(1 + i \times 7)$$
+$$\frac{27\,660}{18\,000} = 1 + 7i$$
+$$7i = \frac{27\,660}{18\,000} - 1$$
+$$i = \frac{\frac{27\,660}{18\,000} - 1}{7}$$
+$$i = 0,07666\dots$$
+Simple interest rate should have been / *Eenvoudige rente moes wees:* $7,67\%$  
+$\checkmark$ subst./verv.  
+$\checkmark$ simpl./vereenv  
+$\checkmark$ answ/antw  
+**(3)**
+
+4.2 
+$$\frac{\text{Pound / Pond}}{\text{Dollar}} = \frac{\text{R}16,52}{\text{R}12,91}$$
+$$\therefore \text{£}1 \approx \$1,28$$
+$\checkmark$ proportion/verhouding  
+$\checkmark \text{£}1 \approx \$1,28$  
+**(2)**
+
+**OR / OF**
+
+$$\frac{\text{Dollar}}{\text{Pound / Pond}} = \frac{\text{R}12,91}{\text{R}16,52}$$
+$$\therefore \$1 \approx \text{£}0,78$$
+$\checkmark$ proportion/verhouding  
+$\checkmark \$1 \approx \text{£}0,78$  
+**(2)**
+
+**[10]**
+
+---
+
+### QUESTION / VRAAG 5
+
+5.1 Range of / *Waardeversameling van* $g$: $y \le 8$  
+$\checkmark$ answ/antw  
+**(1)**
+
+5.2 $x = -2$  
+$\checkmark$ answ/antw  
+**(1)**
+
+5.3 
+$$g(x) = ax^2 + q \Rightarrow q = 8$$
+$$g(2) = a(2)^2 + 8 = 0$$
+$$\Rightarrow a = -2$$
+$\checkmark q = 8$  
+$\checkmark$ subst./verv. $(2; 0)$  
+$\checkmark a = -2$  
+**(3)**
+
+5.4 
+$$f(x) = mx + c \Rightarrow c = 8$$
+$$f(-2) = -2m + 8 = 0$$
+$$\Rightarrow m = 4$$
+$$f(x) = 4x + 8$$
+$\checkmark c = 8$  
+$\checkmark$ subst./verv. $(-2; 0)$  
+$\checkmark m = 4$  
+**(3)**
+
+5.5.1 $x = -2 \quad \text{or/of} \quad x = 0$  
+$\checkmark x = -2$  
+$\checkmark x = 0$  
+**(2)**
+
+5.5.2 
+$$x \cdot g(x) \le 0$$
+$$-2 \le x \le 0 \quad \text{or/of} \quad x \ge 2$$
+$\checkmark\checkmark -2 \le x \le 0$  
+or/of  
+$\checkmark x \ge 2$  
+**(3)**
+
+5.6 
+$$h(x) = -(-2x^2 + 8)$$
+$$h(x) = 2x^2 - 8$$
+$\checkmark\checkmark 2x^2 - 8$  
+**(2)**
+
+**[15]**
+
+---
+
+### QUESTION / VRAAG 6
+
+6.1.1 The range / *Waardeversameling van* is $y > -9$  
+$\checkmark$ answ/antw  
+**(1)**
+
+6.1.2 
+$$p(x) = k^x + q$$
+$$p(x) = k^x - 9$$
+$$0 = k^2 - 9$$
+$$k^2 = 9$$
+$$k = \pm 3$$
+$$k = 3 \quad \text{since } k > 0$$
+$$p(x) = 3^x - 9$$
+$\checkmark q = -9$  
+$\checkmark$ subst./verv. $(2; 0)$  
+$\checkmark k = 3$  
+**(3)**
+
+6.1.3 
+$$\begin{tikzpicture}
+\draw[->] (-3,0) -- (4,0) node[right] {$x$};
+\draw[->] (0,-8) -- (0,4) node[above] {$y$};
+\draw[dashed] (-3,-6.9) -- (4,-6.9);
+\draw (0,-6.9) node[left] {$y = -9$};
+\draw[domain=-2.1:2.4, smooth, variable=\x, blue] plot ({\x}, {pow(3,\x)-6});
+\node at (2.5,1) {$p$};
+\end{tikzpicture}$$
+$\checkmark$ asymptote / *asimptoot*  
+$\checkmark$ intercepts / *afsnitte*  
+$\checkmark$ shape / *vorm*  
+**(3)**
+
+6.2.1 $w = -1$  
+$\checkmark$ answ/antw  
+**(1)**
+
+6.2.2 
+$$f(x) = \frac{k}{x} - 1$$
+$$7 = \frac{k}{-2} - 1$$
+$$k = -16$$
+$\checkmark$ subst./verv. $(2; -7)$  
+$\checkmark$ answ/antw  
+**(2)**
+
+6.2.3 
+$$f(x) = g(x)$$
+$$\frac{-16}{x} - 1 = -x - 1$$
+$$x^2 - 16 = 0$$
+$$(x - 4)(x + 4) = 0$$
+$$x_Q = 4 \quad \text{or/of} \quad x_P = -4$$
+$\checkmark$ equating / *verg.*  
+$\checkmark$ simpl./vereenv  
+$\checkmark x = -4$ at/by $P$  
+$\checkmark x = 4$ at/by $Q$  
+**(4)**
+
+6.2.4 $-4 < x < 0 \quad \text{or/of} \quad x > 4$  
+$\checkmark -4 < x < 0$  
+$\checkmark x > 4$  
+**(2)**
+
+**[16]**
+
+---
+
+### QUESTION / VRAAG 7
+
+7.1.1 $P(A) + P(B) = 1$  
+$\checkmark$ answ/antw  
+**(1)**
+
+7.1.2 $P(A \text{ and } B) = 0$  
+$\checkmark$ answ/antw  
+**(1)**
+
+7.1.3 
+$$P(B) = P(A')$$
+$$= 0,35$$
+$\checkmark$ answ/antw  
+**(1)**
+
+7.2.1 
+$$\begin{tikzpicture}
+\draw (0,0) rectangle (8,4);
+\node at (0.5, 3.7) {$S = 150$};
+\draw (2.5,2) circle (1.2cm);
+\draw (4.5,2) circle (1.2cm);
+\node at (2,2) {$x - 20$};
+\node at (3.5,2) {$20$};
+\node at (5,2) {$28$};
+\node at (7,0.5) {$8$};
+\node at (1.8,3.2) {$S$};
+\node at (5.2,3.2) {$B$};
+\end{tikzpicture}$$
+$\checkmark 20$  
+$\checkmark 28$  
+$\checkmark x - 20$  
+$\checkmark 8$  
+**(4)**
+
+7.2.2 
+$$x - 20 + 20 + 28 + 8 = 150$$
+$$x = 114$$
+Smartphone only / *Slegs slimfoon* $= 114 - 20$  
+$$= 94$$
+$\checkmark$ equation / *verg.*  
+$\checkmark$ value / *waarde of/van* $x$  
+$\checkmark$ answ/antw  
+**(3)**
+
+7.2.3 (a) 
+$$P(\text{S only / slegs}) = \frac{94}{150} = 0,63$$
+$\checkmark$ answ/antw  
+**(1)**
+
+7.2.3 (b) 
+$$\begin{align*}
+P(\text{S or / of T or neither / of geeneen}) &= \frac{94}{150} + \frac{28}{150} + \frac{8}{150} \\
+&= \frac{130}{150} \\
+&= \frac{13}{15} \\
+&= 0,87
+\end{align*}$$
+$\checkmark$ addition / *optel*  
+$\checkmark$ answ/antw  
+**(2)**
+
+**[13]**
+
+**TOTAL / TOTAAL: 100**

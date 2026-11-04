@@ -1,0 +1,232 @@
+**NASIONALE SENIOR SERTIFIKAAT**
+
+**GRAAD 11**
+
+**WISKUNDE V1**
+
+**NOVEMBER 2016**
+
+**PUNTE:** 150  
+**TYD:** 3 uur  
+
+Hierdie vraestel bestaan uit 9 bladsye.
+
+---
+
+### INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies aandagtig deur voordat jy die vrae beantwoord.
+
+1. Hierdie vraestel bestaan uit 10 vrae.
+2. Beantwoord AL die vrae.
+3. Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie vraestel gebruik is.
+4. Dui ALLE berekeninge, diagramme, grafieke ensovoorts wat jy gebruik het om die antwoorde te bepaal, duidelik aan.
+5. Volpunte sal nie noodwendig aan slegs antwoorde toegeken word nie.
+6. Jy mag 'n goedgekeurde wetenskaplike sakrekenaar (nieprogrammeerbaar en niegrafies) gebruik, tensy anders aangedui.
+7. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders aangedui.
+8. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+9. Skryf netjies en leesbaar.
+
+---
+
+### VRAAG 1
+
+1.1 Los op vir $x$ in elk van die volgende:
+
+1.1.1 $3x^2 - 5x - 1 = 0$ (los jou antwoord korrek tot TWEE desimale plekke) (3)
+
+1.1.2 $x^2 - 6x + 8 = 0$ (3)
+
+1.1.3 $4x - 2x^2 < 0$ (4)
+
+1.1.4 $2^{3x+1} + 2^{3x} = 12$ (4)
+
+1.1.5 $\sqrt{x-1} + 3 = x - 4$ (6)
+
+1.2 Los gelyktydig op vir $x$ en $y$:
+
+$3x - y + 2 = 0$ en $y = -x^2 + 2x + 8$ (6)
+
+1.3 Toon dat die wortels van $3x^2 + (k + 2)x = 1 - k$ reëel en rasioneel vir alle waardes van $k$ is. (4)
+
+**[30]**
+
+---
+
+### VRAAG 2
+
+2.1 Vereenvoudig volledig, SONDER om 'n sakrekenaar te gebruik:
+
+2.1.1 $\frac{5^{a-2} \cdot 2^{a+2}}{10^a - 10^{a-1} \cdot 2}$ (5)
+
+2.1.2 $\frac{\sqrt{27m^6} - \sqrt{48m^6}}{\sqrt{12m^6}}$ (3)
+
+2.2 SONDER om 'n sakrekenaar te gebruik, toon dat $\frac{2}{1+\sqrt{2}} - \frac{8}{\sqrt{8}} = -2$ (4)
+
+**[12]**
+
+---
+
+### VRAAG 3
+
+Beskou die kwadratiese patroon: $-9; -6; 1; 12; x; \dots$
+
+3.1 Bepaal die waarde van $x$. (1)
+
+3.2 Bepaal 'n formule vir die $n^{\text{de}}$ term van die patroon. (4)
+
+3.3 'n Nuwe patroon, $P_n$, word gevorm deur $3$ by elke term in die gegewe kwadratiese patroon te voeg. Skryf die algemene term van $P_n$ neer in die vorm $P_n = an^2 + bn + c$. (1)
+
+3.4 Watter term van die ry wat in VRAAG 3.3 gevind word, het 'n waarde van $400$? (4)
+
+**[10]**
+
+---
+
+### VRAAG 4
+
+4.1 Die lineêre patroon word gegee: $18; 14; 10; \dots$
+
+4.1.1 Skryf die vierde term neer. (1)
+
+4.1.2 Bepaal 'n formule vir die algemene term van die patroon. (2)
+
+4.1.3 Watter term van die patroon sal 'n waarde van $-70$ hê? (2)
+
+4.1.4 Indien hierdie lineêre patroon die eerste verskille van 'n kwadratiese patroon, $Q_n$, vorm, bepaal die eerste verskil tussen $Q_{509}$ en $Q_{510}$. (2)
+
+4.2 'n Kwadratiese patroon het 'n konstante tweede verskil van $2$ en $T_5 = T_{17} = 29$.
+
+4.2.1 Het hierdie patroon 'n minimum of 'n maksimum waarde? Regverdig die antwoord. (3)
+
+4.2.2 Bepaal 'n uitdrukking vir die $n^{\text{de}}$ term in die vorm $T_n = an^2 + bn + c$. (5)
+
+**[15]**
+
+---
+
+### VRAAG 5
+
+Gegee: $f(x) = -2x^2 + x + 6$
+
+5.1 Bereken die koördinate van die draaipunt van $f$. (4)
+
+5.2 Bepaal die $y$-afsnit van $f$. (1)
+
+5.3 Bepaal die $x$-afsnitte van $f$. (4)
+
+5.4 Skets die grafiek van $f$ en toon duidelik alle afsnitte met die asse en draaipunt. (3)
+
+5.5 Bepaal die waardes van $k$ sodat $f(x) = k$ gelyke wortels het. (2)
+
+5.6 Indien die grafiek van $f$ twee eenhede na regs en een eenheid opwaarts geskuif word om $h$ te vorm, bepaal die vergelyking $h$ in die vorm $y = a(x + p)^2 + q$. (3)
+
+**[17]**
+
+---
+
+### VRAAG 6
+
+[DIAGRAM: A Cartesian coordinate plane shows the graph of $f(x) = \frac{1}{x+3} - 1$ and a straight line $g(x) = \frac{1}{2}x$. The hyperbola $f$ has vertical asymptote $x = -3$ (dashed line) and horizontal asymptote $y = -1$ (dashed line). It intersects the $x$-axis at $A$, the $y$-axis at $B$. The line $g$ passes through the origin $O(0,0)$ and intersects $f$ at points $C$ and $D$, where $C$ is in the fourth quadrant and $D$ is in the third quadrant.]
+
+Die diagram hieronder toon die grafiek van $f(x) = \frac{1}{x+3} - 1$ en $g(x) = \frac{1}{2}x$.  
+Die grafiek van $f$ sny die $x$-as by $A$ en die $y$-as by $B$.  
+Die grafiek van $f$ en $g$ sny by punte $C$ en $D$.
+
+6.1 Skryf die vergelykings van die asimptote van $f$ neer. (2)
+
+6.2 Bepaal die domein van $f$. (2)
+
+6.3 Bereken die lengte van:
+
+6.3.1 $OB$ (2)
+
+6.3.2 $OA$ (3)
+
+6.4 Bepaal die koördinate van $C$ en $D$. (6)
+
+6.5 Gebruik die grafieke om die oplossing te vind van $\frac{1}{x+3} \ge \frac{x+2}{2}$ (4)
+
+**[19]**
+
+---
+
+### VRAAG 7
+
+[DIAGRAM: A Cartesian plane shows an exponential curve $f(x) = 2 \cdot b^{x+1} + q$ passing through point $A(1; 20)$ and $B(-1; y)$. A horizontal dashed asymptote is drawn at $y = 2$. The curve approaches $y = 2$ as $x$ decreases.]
+
+Die skets hieronder is die grafiek van $f(x) = 2 \cdot b^{x+1} + q$.  
+Die grafiek van $f$ gaan deur die punte $A(1; 20)$ en $B(-1; y)$.  
+Die lyn $y = 2$ is 'n asimptoot van $f$.
+
+7.1 Toon dat die vergelyking van $f$ is $f(x) = 2(3)^{x+1} + 2$ (3)
+
+7.2 Bereken die $y$-koördinaat van die punt $B$. (1)
+
+7.3 Bepaal die gemiddelde gradiënt van die kurwe tussen punt $A$ en $B$. (2)
+
+7.4 'n Nuwe funksie $h$ word verkry wanneer $f$ om sy asimptoot gereflekteer word. Bepaal die vergelyking van $h$. (2)
+
+7.5 Skryf die waardeversameling van $h$ neer. (1)
+
+**[9]**
+
+---
+
+### VRAAG 8
+
+8.1 In 2016 kos 'n masjien $\text{R}25\ 000$. Bereken die boekwaarde van die masjien na 4 jaar indien dit teen $9\%$ p.j. volgens die verminderdesaldo-metode deponeer. (3)
+
+8.2 Die nominale rentekoers van 'n belegging is $12,35\%$ p.j., maandeliks saamgestel. Bereken die effektiewe rentekoers. (4)
+
+8.3 Die waarde van 'n eiendom het in 6 jaar van $\text{R}145\ 000$ tot $\text{R}221\ 292,32$ toegeneem. Bereken die gemiddelde jaarlikse koers van toename van die eiendom in die 6 jaar. (4)
+
+8.4 Tebogo het 'n aanvanklike deposito van $\text{R}15\ 000$ in 'n rekening gemaak wat rente betaal teen $9,6\%$ p.j., kwartaalliks saamgestel. Ses maande later het sy $\text{R}5\ 000$ uit die rekening onttrek. Twee jaar na die aanvanklike deposito het sy nog 'n deposito van $\text{R}3\ 500$ in hierdie rekening gemaak. Hoeveel het sy 3 jaar na haar aanvanklike deposito in die rekening? (5)
+
+**[16]**
+
+---
+
+### VRAAG 9
+
+9.1 Gegee:  
+$P(A) = 0,2$  
+$P(B) = 0,5$  
+$P(\text{A of B}) = 0,6$ waar $A$ en $B$ twee verskillende gebeurtenisse is
+
+9.1.1 Bereken $P(\text{A en B})$. (2)
+
+9.1.2 Is die gebeurtenisse $A$ en $B$ onafhanklik? Toon jou berekeninge. (3)
+
+9.2 'n Opname is onder $100$ leerders by 'n skool gedoen om hulle betrokkenheid by drie sportsoorte, sokker, netbal en vlugbal, vas te stel. Die resultate word hieronder getoon.
+
+* $55$ leerders speel sokker ($S$)
+* $21$ leerders speel netbal ($N$)
+* $7$ leerders speel vlugbal ($V$)
+* $3$ leerders speel netbal
+* $2$ leerders speel sokker en vlugbal
+* $1$ leerder speel al $3$ sportsoorte
+
+[DIAGRAM: A Venn diagram with three intersecting circles representing soccer ($S$), netbal ($N$), and vlugbal ($V$) inside a rectangle. The regions inside $S$ contain $c$, outside intersections but inside $S$ are labelled $a$. The intersection of $S$ and $N$ has $3$. The intersection of all three is $1$. The intersection of $S$ and $V$ has $b$. The intersection of $N$ and $V$ has $2$. The region only in $V$ has $d$, and the region outside all circles is $e$.]
+
+Die Venn-diagram hieronder vertoon die inligting hierbo.
+
+9.2.1 Bepaal die waardes van $a$, $b$, $c$, $d$ en $e$. (5)
+
+9.2.2 Wat is die waarskynlikheid dat een van die leerders wat ewekansig uit hierdie groep gekies word, netbal of vlugbal speel? (2)
+
+9.3 Die waarskynlikheid dat die eerste antwoord in 'n wiskunde-vasvrawedstryd korrek sal wees, is $0,4$. Indien die eerste antwoord korrek is, styg die waarskynlikheid dat die volgende vraag korrek beantwoord sal word tot $0,5$. Indien die eerste antwoord egter verkeerd is, is die waarskynlikheid dat die volgende antwoord korrek sal wees slegs $0,3$.
+
+9.3.1 Stel die inligting op 'n boomdiagram voor. Toon die waarskynlikhede wat met elke tak, asook die moontlike uitkomste, geassosieer word. (3)
+
+9.3.2 Bereken die waarskynlikheid om die tweede vraag korrek te beantwoord. (3)
+
+**[18]**
+
+---
+
+### VRAAG 10
+
+Bongani wil 'n groentetuintjie by sy huis begin. Hy wil 'n bestaande muur en 'n $14\text{ m}$-heining gebruik om 'n reghoekige area vir die tuin af te baken. Bereken die afmetings van die grootste reghoekige oppervlakte wat hy kan omhein. (4)
+
+**TOTAAL: 150**

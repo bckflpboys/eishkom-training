@@ -1,0 +1,313 @@
+# SENIOR SERTIFIKAAT/NASIONALE SENIOR SERTIFIKAAT
+
+**GRAAD 12**
+
+**WISKUNDE V2**  
+**NOVEMBER 2020**
+
+**PUNTE:** 150  
+**TYD:** 3 uur  
+
+Hierdie vraestel bestaan uit 14 bladsye, 1 inligtingsblad en 'n antwoordeboek van 24 bladsye.
+
+---
+
+## INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies aandagtig deur voordat die vraestel beantwoord word.
+
+1. Hierdie vraestel bestaan uit 10 vrae.
+2. Beantwoord AL die vrae in die SPESIALE ANTWOORDEBOOK wat verskaf word.
+3. Dui ALLE berekeninge, diagramme, grafieke, ens. wat jy gebruik in die beantwoording van die vrae, duidelik aan.
+4. Slegs antwoorde sal NIE noodwendig volpunte verdien NIE.
+5. Jy kan 'n goedgekeurde wetenskaplike sakrekenaar gebruik (nieprogrammeerbaar en niegrafies), tensy anders vermeld.
+6. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders vermeld.
+7. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+8. 'n Inligtingsblad met formules is aan die einde van die vraestel ingesluit.
+9. Skryf netjies en leesbaar.
+
+---
+
+## VRAAG 1
+
+'n Wiskunde-onderwyseres was nuuskierig om vas te stel of haar leerders se Wiskundepunte hulle Fisiese Wetenskappe-punte beïnvloed. In die tabel hieronder word 15 van die leerders in haar klas se Wiskunde- en Fisiese Wetenskappe-punte as 'n persentasie (%) getoon.
+
+| WISKUNDE (AS %) | 26 | 62 | 21 | 33 | 53 | 76 | 32 | 59 | 43 | 33 | 49 | 51 | 19 | 34 | 85 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| FISIESE WETENSKAPPE (AS %) | 34 | 67 | 28 | 46 | 65 | 76 | 26 | 73 | 50 | 39 | 57 | 51 | 24 | 41 | 80 |
+
+### SPREIDIAGRAM
+
+[DIAGRAM: A scatter plot showing 15 data points mapping Mathematics (%) on the horizontal axis (from 0 to 90) against Physical Sciences (%) on the vertical axis (from 0 to 90). The points generally show a positive linear trend.]
+
+1.1 Bepaal die vergelyking van die kleinstekwadrate-regressielyn vir die data. (3)
+
+1.2 Skets die kleinstekwadrate-regressielyn op die spreidiagram wat in die ANTWOORDEBOOK verskaf word. (2)
+
+1.3 Voorspel die Fisiese Wetenskappe-punt van 'n leerder wat $69\%$ in Wiskunde behaal het. (2)
+
+1.4 Skryf die korrelasiekoëffisiënt tussen die Wiskunde- en Fisiese Wetenskappe-punte vir die data neer. (1)
+
+1.5 Lewer kommentaar op die sterkte van die korrelasie tussen die Wiskunde- en Fisiese Wetenskappe-punte van die data. (1)
+
+1.6 Watter tendens het die onderwyseres tussen die uitslae van die twee vakke waargeneem? (1)  
+**[10]**
+
+---
+
+## VRAAG 2
+
+Die getal vliegtuie wat in die tydperk vanaf April 2017 tot Maart 2018 op die King Shaka Internasionale Lughawe en die Port Elizabeth-lughawe geland het, word in die dubbelstaafgrafiek hieronder getoon.
+
+[DIAGRAM: A double bar chart comparing monthly aircraft landings between April 2017 and March 2018 for "King Shaka" and "Port Elizabeth". The horizontal axis lists months from Apr to Mar, and the vertical axis shows the number of landings from 0 to 3000.]
+
+2.1 Die getal vliegtuie wat gedurende party maande van die gegewe tydperk op die Port Elizabeth-lughawe geland het, oorskry die getal landings op die King Shaka Internasionale Lughawe. Gedurende watter maand is hierdie verskil die grootste? (1)
+
+2.2 Die getal vliegtuie wat maandeliks op die King Shaka Lughawe geland het is:
+
+$$\begin{array}{|l|l|l|l|l|l|}
+\hline 2\,182 & 2\,323 & 2\,267 & 2\,334 & 2\,346 & 2\,175 \\
+\hline 2\,293 & 2\,263 & 2\,215 & 2\,271 & 2\,018 & 2\,254 \\
+\hline
+\end{array}$$
+
+Bereken die gemiddelde getal van die data (2)
+
+2.3 Bereken die standaardafwyking van die getal vliegtuiglandings op die King Shaka Internasionale Lughawe vir die gegewe tydperk. (2)
+
+2.4 Bepaal die getal maande waardydens die getal vliegtuiglandings op die King Shaka Internasionale Lughawe binne een standaardafwyking vanaf die gemiddelde was. (3)
+
+2.5 Watter EEN van die volgende bewering is KORREK?
+- A. Daar was meer landings in Desember en Januarie op die Port Elizabeth-lughawe as op die King Shaka Internasionale Lughawe.
+- B. Daar was vir die gegewe tydperk 'n groter variasie in die getal vliegtuiglandings op die King Shaka Internasionale Lughawe as op die Port Elizabeth-lughawe.
+- C. Die standaardafwyking van die getal vliegtuiglandings op die Port Elizabeth-lughawe sal hoër wees as die standaardafwyking van die getal vliegtuiglandings op die King Shaka Internasionale Lughawe. (1)  
+**[9]**
+
+---
+
+## VRAAG 3
+
+$\Delta TSK$ is geskets. Die vergelyking van $ST$ is $y = \frac{1}{2}x + 6$ en $ST$ sny die $x$-as by $M$.  
+$W(-4; 4)$ lê op $ST$ en $R$ lê op $SK$ sodanig dat $WR$ ewewydig aan die $y$-as is. $WK$ sny die $x$-as by $V$ en die $y$-as by $P(0; -4)$. $KS$ verleng, sny die $x$-as by $N$. $T\hat{S}K = \theta$.
+
+[DIAGRAM: Cartesian plane showing $\Delta TSK$ with vertices $T$, $S$, and $K$. $ST$ intersects the $x$-axis at $M$ and has an obtuse angle $\beta$ at $N$ where $KS$ extended meets the $x$-axis. $W(-4;4)$ lies on $ST$. Vertical line $WR$ is parallel to the $y$-axis, meeting $SK$ at $R$. $WK$ intersects the $x$-axis at $V$ and the $y$-axis at $P(0;-4)$. Angle $\theta$ is marked at $S$.]
+
+3.1 Bereken die gradiënt van $WP$. (2)
+
+3.2 Toon dat $WP \perp ST$. (2)
+
+3.3 As die vergelyking van $SK$ as $5y + 2x + 60 = 0$ gegee word, bereken die koördinate van $S$. (4)
+
+3.4 Bereken die lengte van $WR$. (4)
+
+3.5 Bereken die grootte van $\theta$. (5)
+
+3.6 Laat $L$ 'n punt in die derde kwadrant wees sodanig dat $SWRL$, in daardie volgorde, 'n parallelogram vorm. Bereken die oppervlakte van $SWRL$. (4)  
+**[21]**
+
+---
+
+## VRAAG 4
+
+$M(-3; 4)$ is die middelpunt van die groot sirkel en 'n punt op die kleiner sirkel met middelpunt $O(0; 0)$. Vanaf $N(-11; p)$ is 'n raaklyn getrek aan die groter sirkel by $T$ met $NT$ ewewydig aan die $y$-as. $NM$ is 'n raaklyn aan die kleiner sirkel by $M$ met $MOS$ 'n middellyn.
+
+[DIAGRAM: Two circles. The smaller circle has center $O(0;0)$ and passes through $M(-3;4)$. The larger circle has center $M(-3;4)$ and a tangent $NT$ from point $N(-11;p)$ where $NT$ is parallel to the $y$-axis. $NM$ is tangent to the smaller circle at $M$. Diameter $MOS$ intersects the smaller circle at $S$.]
+
+4.1 Bepaal die vergelyking van die klein sirkel. (2)
+
+4.2 Bepaal die vergelyking van die sirkel met middelpunt $M$ in die vorm $(x - a)^2 + (y - b)^2 = r^2$ (3)
+
+4.3 Bepaal die vergelyking van $NM$ in die vorm $y = mx + c$ (4)
+
+4.4 Bereken die lengte van $SN$. (5)
+
+4.5 Indien nog 'n sirkel met middelpunt $B(-2; 5)$ en radius $k$ die sirkel met middelpunt $M$ raak, bepal die waarde(s) van $k$, korrek tot EEN desimale syfer. (5)  
+**[19]**
+
+---
+
+## VRAAG 5
+
+Die grafieke van $f(x) = -\frac{1}{2}\cos x$ en $g(x) = \sin(x + 30^\circ)$, vir die interval $x \in [0^\circ; 180^\circ]$, is hieronder geskets. $A(130,9^\circ; 0,33)$ is die benaderde snypunt van die twee grafieke.
+
+[DIAGRAM: Graphs of $f(x) = -\frac{1}{2}\cos x$ (below the $x$-axis for most of the domain, passing through $0^\circ$ at $-0.5$ and $180^\circ$ at $0.5$) and $g(x) = \sin(x+30^\circ)$ (above the $x$-axis, intersecting at point $A(130.9^\circ; 0.33)$) for $x \in [0^\circ; 180^\circ]$.]
+
+5.1 Skryf die periode van $g$ neer. (1)
+
+5.2 Skryf die amplitude van $f$ neer. (1)
+
+5.3 Bepaal die waarde van $f(180^\circ) - g(180^\circ)$ (1)
+
+5.4 Gebruik die grafieke om die waardes van $x$ in die interval $x \in [0^\circ; 180^\circ]$ te bepaal, waarvoor:
+5.4.1 $f(x - 10^\circ) = g(x - 10^\circ)$ (1)
+5.4.2 $\sqrt{3}\sin x + \cos x \geq 1$ (4)  
+**[8]**
+
+---
+
+## VRAAG 6
+
+6.1 In die diagram is $P(-5; 12)$ en $T$ lê op die positiewe $x$-as. $P\hat{O}T = \theta$.
+
+[DIAGRAM: Cartesian plane showing point $P(-5;12)$ in the second quadrant. Angle $\theta$ is measured from the positive $x$-axis counterclockwise to line segment $OP$.]
+
+Beantwoord die volgende vrae sonder om 'n sakrekenaar te gebruik.
+
+6.1.1 Skryf die waarde van $\tan \theta$ neer. (1)
+
+6.1.2 Bereken die waarde van $\cos \theta$ (3)
+
+6.1.3 $S(a; b)$ is 'n punt in die derde kwadrant sodat $T\hat{O}S = \theta + 90^\circ$ en $OS = 6,5$ eenhede. Bepaal die waarde van $b$. (4)
+
+6.2 Bepaal, sonder om 'n sakrekenaar te gebruik, die waarde van die volgende trigonometriese uitdrukking:
+
+$$\frac{\sin 2x.\cos(-x) + \cos 2x.\sin(360^\circ - x)}{\sin(180^\circ + x)}$$ (5)
+
+6.3 Bepaal die algemene oplossing van die volgende vergelyking:
+
+$$6\sin^2 x + 7\cos x - 3 = 0$$ (6)
+
+6.4 Gegee: $x + \frac{1}{x} = 3\cos A$ en $x^2 + \frac{1}{x^2} = 2$
+
+Bepaal die waarde van $\cos 2A$, sonder om 'n sakrekenaar te gebruik. (5)  
+**[24]**
+
+---
+
+## VRAAG 7
+
+'n Landskapkunstenaar beplan om blomme binne twee konsentriese sirkels rondom 'n vertikale lamppaal $PQ$ te plant. $R$ is 'n punt op die binneste sirkel en $S$ is 'n punt op die buitenste sirkel. $R, Q$ en $S$ lê op dieselfde horisontale vlak. $RS$ is 'n pyp wat vir die besproeiingstelsel van die tuin gebruik word.
+
+- Die radius van die binneste sirkel is $r$ eenhede en die radius van die buitenste sirkel is $QS$.
+- Die hoogtehoek vanaf $S$ na $P$ is $30^\circ$.
+- $R\hat{Q}S = 2x$ en $PQ = \sqrt{3}r$
+
+[DIAGRAM: 3D perspective drawing showing vertical lamp post $PQ = \sqrt{3}r$. Two concentric circles on a horizontal plane with center $Q$. Inner circle radius is $r$ ($Q$ to $R$). Outer circle radius is $QS$. Pipe $RS$ connects points $R$ and $S$. Angle of elevation from $S$ to $P$ is $30^\circ$. Angle $R\hat{Q}S = 2x$.]
+
+7.1 Toon dat $QS = 3r$ (3)
+
+7.2 Bepaal, in terme van $r$, die oppervlakte van die blomtuin. (2)
+
+7.3 Toon aan dat $RS = r\sqrt{10 - 6\cos 2x}$ (3)
+
+7.4 Indien $r = 10\text{ meter}$ en $x = 56^\circ$, bereken $RS$. (2)  
+**[10]**
+
+---
+
+## VRAAG 8
+
+8.1 $O$ is die middelpunt van die sirkel. $KOM$ halveer koord $LN$ en $M\hat{N}O = 26^\circ$. $K$ en $P$ is punte op die sirkel met $N\hat{K}P = 32^\circ$. $OP$ is getrek.
+
+[DIAGRAM: Circle with center $O$. Chord $LN$ is bisected by $KOM$. $M\hat{N}O = 26^\circ$. $K$ and $P$ are points on the circle with $N\hat{K}P = 32^\circ$. Line segment $OP$ is drawn. Angles indicated: $\hat{K}_1, \hat{K}_2 = 32^\circ$, $\hat{O}_1, \hat{O}_2, \hat{O}_3$, $\hat{M}_1, \hat{M}_2$, $N\hat{M}O = 26^\circ$.]
+
+8.1.1 Bepaal, met redes, die grootte van:  
+(a) $\hat{O}_2$ (2)  
+(b) $\hat{O}_1$ (4)  
+
+8.1.2 Bewys, met redes, dat $KN$ vir $O\hat{K}P$ halveer. (3)
+
+8.2 In $\Delta ABC$ is $F$ en $G$ punte op sye $AB$ en $AC$ onderskeidelik. $D$ is 'n punt op $GC$ sodat $\hat{D}_1 = \hat{B}$.
+
+[DIAGRAM: $\Delta ABC$ with points $F$ on $AB$ and $G$ on $AC$. Line segment $FD$ connects $F$ to point $D$ on $GC$. Angle $\hat{D}_1 = \hat{B}$. Tangent $AF$ touches the circle passing through points $F, G, D$ at $F$.]
+
+8.2.1 Indien $AF$ 'n raaklyn is aan die sirkel wat deur die punte $F, G$ en $D$ gaan, bewys, met redes, dat $FG \parallel BC$. (4)
+
+8.2.2 As verder gegee word dat $\frac{AF}{FB} = \frac{2}{5}$, $AC = 2x - 6$ en $GC = x + 9$, bereken die waarde van $x$. (4)  
+**[17]**
+
+---
+
+## VRAAG 9
+
+9.1 In die diagram is $O$ die middelpunt van die sirkel. Punte $S$, $T$ en $R$ lê op die sirkel. Koorde $ST$, $SR$ en $TR$ is in die sirkel getrek. $QS$ is 'n raaklyn aan die sirkel by $S$.
+
+[DIAGRAM: Circle with center $O$. Points $S, T, R$ on circumference. Chords $ST, SR, TR$. Tangent $QS$ at $S$.]
+
+Gebruik die diagram om die stelling te bewys wat beweer dat $Q\hat{S}T = \hat{R}$. (5)
+
+9.2 Koord $QN$ halveer $M\hat{N}P$ en sny koord $MP$ by $S$. Die raaklyn by $P$ sny $MN$ verleng by $R$ sodat $QN \parallel PR$. Stel $\hat{P}_1 = x$.
+
+[DIAGRAM: Circle with chords $MN$, $NP$, $MP$, $NQ$. $NQ$ bisects $M\hat{N}P$ and intersects $MP$ at $S$. Tangent at $P$ intersects extended $MN$ at $R$ such that $QN \parallel PR$. Angle $\hat{P}_1 = x$.]
+
+9.2.1 Bepaal die volgende hoeke in terme van $x$. Gee redes.  
+(a) $\hat{N}_2$ (2)  
+(b) $\hat{Q}_2$ (2)  
+
+9.2.2 Bewys, met redes, dat $\frac{MN}{NR} = \frac{MS}{SQ}$ (6)  
+**[15]**
+
+---
+
+## VRAAG 10
+
+In die diagram gaan 'n sirkel deur $D, B$ en $E$. Middellyn $ED$ van die sirkel word verleng na $C$ en $AC$ is 'n raaklyn aan die sirkel by $B$. $M$ is 'n punt op $DE$ sodat $AM \perp DE$. $AM$ en koord $BE$ sny mekaar by $F$.
+
+[DIAGRAM: Circle passing through $D, B, E$. Diameter $ED$ extended to $C$. Tangent $AC$ at $B$. Point $M$ on $ED$ such that $AM \perp DE$. $AM$ and chord $BE$ intersect at $F$.]
+
+10.1 Bewys, met redes, dat:  
+10.1.1 $FBDM$ 'n koordevierhoek is (3)  
+10.1.2 $\hat{B}_3 = \hat{F}_1$ (4)  
+10.1.3 $\Delta CDB \parallel\parallel\parallel \Delta CBE$ (3)  
+
+10.2 As verder gegee word dat $CD = 2\text{ eenhede}$ en $DE = 6\text{ eenhede}$, bereken die lengte van:  
+10.2.1 $BC$ (3)  
+10.2.2 $DB$ (4)  
+**[17]**
+
+**TOTAAL: 150**
+
+---
+
+## INLIGTINGSBLAD
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni)$$  
+$$A = P(1 - ni)$$  
+$$A = P(1 - i)^n$$  
+$$A = P(1 + i)^n$$
+
+$$T_n = a + (n - 1)d$$  
+$$S_n = \frac{n}{2}[2a + (n - 1)d]$$
+
+$$T_n = ar^{n-1}$$  
+$$S_n = \frac{a(r^n - 1)}{r - 1} \quad (r \neq 1)$$  
+$$S_\infty = \frac{a}{1 - r} \quad (-1 < r < 1)$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i}$$  
+$$P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$  
+$$M\left(\frac{x_1 + x_2}{2}; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c$$  
+$$y - y_1 = m(x - x_1)$$  
+$$m = \frac{y_2 - y_1}{x_2 - x_1}$$  
+$$m = \tan \theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+In $\Delta ABC$:  
+$$\frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}$$  
+$$a^2 = b^2 + c^2 - 2bc \cos A$$  
+$$\text{area } \Delta ABC = \frac{1}{2}ab \sin C$$
+
+$$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta$$  
+$$\sin(\alpha - \beta) = \sin \alpha \cos \beta - \cos \alpha \sin \beta$$  
+$$\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta$$  
+$$\cos(\alpha - \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2 \alpha - \sin^2 \alpha \\ 1 - 2\sin^2 \alpha \\ 2\cos^2 \alpha - 1 \end{cases}$$  
+$$\sin 2\alpha = 2\sin \alpha \cos \alpha$$
+
+$$\bar{x} = \frac{\sum x}{n}$$  
+$$\sigma^2 = \frac{\sum_{i=1}^n (x_i - \bar{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)}$$  
+$$P(A \text{ of } B) = P(A) + P(B) - P(A \text{ en } B)$$
+
+$$\hat{y} = a + bx$$  
+$$b = \frac{\sum(x - \bar{x})(y - \bar{y})}{\sum(x - \bar{x})^2}$$

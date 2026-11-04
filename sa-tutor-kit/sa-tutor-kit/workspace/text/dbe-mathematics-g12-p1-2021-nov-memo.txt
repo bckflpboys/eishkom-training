@@ -1,0 +1,715 @@
+# NATIONAL SENIOR CERTIFICATE / NASIONALE SENIOR SERTIFIKAAT
+
+**GRADE 12 / GRAAD 12**
+
+## MATHEMATICS P1 / WISKUNDE V1
+### NOVEMBER 2021
+### MARKING GUIDELINES / NASIENRIGLYNE
+
+---
+
+**NOTE:**
+* If a candidate answers a question TWICE, only mark the FIRST attempt.
+* Consistent accuracy applies in all aspects of the marking guidelines.
+
+**LET WEL:**
+* Indien 'n kandidaat 'n vraag TWEE keer beantwoord, sien slegs die EERSTE poging na.
+* Volgehoue akkuraatheid is op ALLE aspekte van die nasienriglyne van toepassing.
+
+---
+
+### QUESTION / VRAAG 1
+
+1.1.1 
+$$x^2 - 2x - 24 = 0$$
+$$(x - 6)(x + 4) = 0$$
+$x = 6 \text{ or } x = -4$
+
+* $\checkmark \text{ factors}$
+* $\checkmark x = 6$
+* $\checkmark x = -4$
+(3)
+
+1.1.2 
+$$2x^2 - 3x - 3 = 0$$
+$$x = \frac{-(-3) \pm \sqrt{(-3)^2 - 4(2)(-3)}}{2(2)}$$
+$$x = \frac{3 \pm \sqrt{33}}{4}$$
+$x = 2,19 \text{ or } x = -0,69$
+
+* $\checkmark \text{ substitution into the correct formula}$
+* $\checkmark x = 2,19$ 
+* $\checkmark x = -0,69$
+(3)
+
+1.1.3 
+$$x^2 + 5x \le -4$$
+$$x^2 + 5x + 4 \le 0$$
+$$(x + 4)(x + 1) \le 0$$
+Critical values: $x = -4 \text{ or } x = -1$
+
+```
+      +         –         +  
+––––––––○–––––––––○–––––––––
+       –4        –1          
+```
+
+$$-4 \le x \le -1 \quad \textbf{OR/OF} \quad x \in [-4 ; -1]$$
+
+* $\checkmark \text{ standard form}$
+* $\checkmark \text{ critical values}$
+* $\checkmark\checkmark \text{ answer}$
+(4)
+
+1.1.4 
+$$\sqrt{x + 28} = 2 - x$$
+$$(\sqrt{x + 28})^2 = (2 - x)^2$$
+$$x + 28 = 4 - 4x + x^2$$
+$$x^2 - 5x - 24 = 0$$
+$$(x - 8)(x + 3) = 0$$
+$x \neq 8 \text{ or } x = -3$
+
+* $\checkmark \text{ squaring both sides}$
+* $\checkmark \text{ standard form}$
+* $\checkmark \text{ factors}$
+* $\checkmark \text{ answers with selection}$
+(4)
+
+---
+
+1.2 
+$$2y = 3 + x \dots (1)$$
+$$x = 2y - 3$$
+$$2xy + 7 = x^2 + 4y^2 \dots (2)$$
+$$2y(2y - 3) + 7 = (2y - 3)^2 + 4y^2$$
+$$4y^2 - 6y + 7 = 4y^2 - 12y + 9 + 4y^2$$
+$$4y^2 - 6y + 2 = 0$$
+$$2y^2 - 3y + 1 = 0$$
+$$(2y - 1)(y - 1) = 0$$
+$y = \frac{1}{2} \text{ or } y = 1$
+$x = -2 \text{ or } x = -1$
+
+* $\checkmark \text{ equation 1}$
+* $\checkmark \text{ substitution}$
+* $\checkmark \text{ simplification}$
+* $\checkmark \text{ standard form}$
+* $\checkmark y \text{ – values}$
+* $\checkmark x \text{ – values}$
+(6)
+
+**OR/OF**
+
+$$2y = 3 + x$$
+$$y = \frac{3}{2} + \frac{x}{2} \dots (1)$$
+$$2xy + 7 = x^2 + 4y^2 \dots (2)$$
+$$2x\left(\frac{3}{2} + \frac{x}{2}\right) + 7 = x^2 + 4\left(\frac{3}{2} + \frac{x}{2}\right)^2$$
+$$3x + x^2 + 7 = x^2 + 9 + 6x + x^2$$
+$$x^2 + 3x + 2 = 0$$
+$$(x + 2)(x + 1) = 0$$
+$x = -2 \text{ or } x = -1$
+$y = \frac{1}{2} \text{ or } y = 1$
+
+* $\checkmark \text{ equation 1}$
+* $\checkmark \text{ substitution}$
+* $\checkmark \text{ simplification}$
+* $\checkmark \text{ standard form}$
+* $\checkmark x \text{ – values}$
+* $\checkmark y \text{ – values}$
+(6)
+
+1.3 
+$$\frac{n}{m} = \frac{p}{n}$$
+$$n^2 = mp$$
+$$\Delta = b^2 - 4ac$$
+$$\Delta = n^2 - 4mp, \text{ but } n^2 = mp$$
+$$\Delta = n^2 - 4n^2 \quad \textbf{OR/OF} \quad \Delta = mp - 4mp$$
+$$\Delta = -3n^2 \quad \quad \quad \quad \quad \quad \Delta = -3mp$$
+$n^2 > 0 \quad \quad \quad \quad \quad \quad mp > 0$
+$\therefore -3n^2 < 0 \quad \quad \quad \quad \quad \therefore -3mp < 0$
+
+$$\therefore \Delta < 0 \Rightarrow x \text{ is a non-real number}$$
+
+* $\checkmark \frac{n}{m} = \frac{p}{n}$
+* $\checkmark n^2 = mp$
+* $\checkmark \Delta = -3n^2 \text{ or } -3mp$
+* $\checkmark \Delta < 0$
+(4)
+
+**[24]**
+
+---
+
+### QUESTION / VRAAG 2
+
+2.1 
+$$\frac{90}{x} = \frac{81}{90}$$
+$$81x = 8100$$
+$$x = 100$$
+
+**OR/OF**
+$$x = 90 \times \frac{10}{9}$$
+$$x = 100$$
+
+* $\checkmark \frac{90}{x} = \frac{81}{90}$
+* $\checkmark \text{ answer}$
+(2)
+
+**OR/OF**
+* $\checkmark \frac{10}{9}$
+* $\checkmark \text{ answer}$
+(2)
+
+2.2 
+$$S_n = \frac{a(1 - r^n)}{1 - r}$$
+$$S_n = \frac{100(1 - (0,9)^n)}{1 - 0,9}$$
+$$S_n = \frac{100(1 - (0,9)^n)}{0,1}$$
+$$\therefore S_n = 1\,000(1 - (0,9)^n)$$
+
+* $\checkmark r = 0,9$
+* $\checkmark \text{ substitution into correct formula}$
+(2)
+
+2.3 
+$$S_\infty = \frac{a}{1 - r}$$
+$$S_\infty = \frac{100}{1 - \frac{9}{10}}$$
+$$S_\infty = 1000$$
+
+**OR/OF**
+$$S_\infty = \lim_{n\to\infty} [1\,000(1 - (0,9)^n)]$$
+$$S_\infty = 1000$$
+
+* $\checkmark \text{ substitution}$
+* $\checkmark \text{ answer}$
+(2)
+
+**OR/OF**
+* $\checkmark \lim_{n\to\infty} [1\,000(1 - (0,9)^n)]$
+* $\checkmark \text{ answer}$
+(2)
+
+**[6]**
+
+---
+
+### QUESTION / VRAAG 3
+
+3.1 $-82$
+* $\checkmark \text{ answer}$
+(1)
+
+3.2 
+$-145 ; -122 ; -101 ; \dots$
+$$\underbrace{\quad_{-122 - (-145)}_{23} \quad \underbrace{\quad_{-101 - (-122)}_{21} \quad}_{-2}}_{-2}$$
+
+$$2a = -2 \therefore a = -1$$
+$$3a + b = 23 \therefore 3(-1) + b = 23 \therefore b = 26$$
+$$a + b + c = -145 \therefore -1 + 26 + c = -145 \therefore c = -170$$
+$$\therefore T_n = -n^2 + 26n - 170$$
+
+**OR/OF**
+$$2a = -2 \therefore a = -1$$
+$$c = -145 + (-2) - 23 = -170$$
+$$\therefore T_n = -n^2 + bn - 170$$
+$$-145 = -1 + b - 170$$
+$$b = 26$$
+$$\therefore T_n = -n^2 + 26n - 170$$
+
+* $\checkmark 2a = -2$
+* $\checkmark 3(-1) + b = 23$
+* $\checkmark -1 + 26 + c = -145$
+(3)
+
+**OR/OF**
+* $\checkmark 2a = -2$
+* $\checkmark c = -145 + (-2) - 23$
+* $\checkmark -145 = -1 + b - 170$
+(3)
+
+3.3 
+$$T_n = bn + c \quad \text{or} \quad T_n = a + (n - 1)d$$
+$$T_n = -2n + 25 \quad \quad \quad \ \ = 23 + (n - 1)(-2)$$
+$$\quad \quad \quad \quad \quad \quad \quad \quad = 25 - 2n$$
+
+$$-2n + 25 = -121$$
+$$-2n = -146$$
+$$n = 73$$
+**Between $T_{73}$ and $T_{74}$**
+
+**OR/OF**
+$$T_{n+1} - T_n = -(n + 1)^2 + 26(n + 1) - 170 - (-n^2 + 26n - 170)$$
+$$-121 = -2n + 25$$
+$$n = 73$$
+**Between $T_{73}$ and $T_{74}$**
+
+* $\checkmark T_n = -2n + 25$
+* $\checkmark T_n = -121$
+* $\checkmark n = 73$
+* $\checkmark \text{ answer}$
+(4)
+
+**OR/OF**
+* $\checkmark T_n = -2n + 25$
+* $\checkmark T_n = -121$
+* $\checkmark n = 73$
+* $\checkmark \text{ answer}$
+(4)
+
+3.4 
+$$n = \frac{-b}{2a} = \frac{-26}{2(1)} = 13$$
+$$T_{13} = -1$$
+$$\therefore \text{ add } 2$$
+
+**OR/OF**
+$$T'_n = -2n + 26 = 0$$
+$$n = 13$$
+$$T_{13} = -(13)^2 + 26(13) - 170 = -1$$
+$$\therefore \text{ add } 2$$
+
+* $\checkmark 13$
+* $\checkmark T_{13} = -1$
+* $\checkmark \text{ add } 2$
+(3)
+
+**OR/OF**
+* $\checkmark 13$
+* $\checkmark T_{13} = -1$
+* $\checkmark \text{ add } 2$
+(3)
+
+**[11]**
+
+---
+
+### QUESTION / VRAAG 4
+
+4.1 
+$a = 5 \text{ and/en } d = 2$
+$$T_{51} = 5 + (51 - 1)(2)$$
+$$= 105$$
+
+* $\checkmark a \text{ and } d$
+* $\checkmark \text{ substitution into correct formula}$
+* $\checkmark \text{ answer}$
+(3)
+
+4.2 
+$$S_n = \frac{n}{2}[2a + (n - 1)d]$$
+$$S_{51} = \frac{51}{2}[2(5) + (51 - 1)2] \quad \text{or/of} \quad S_{51} = \frac{51}{2}[5 + 105]$$
+$$= 2\,805 \quad \quad \quad \quad \quad \quad \quad \quad = 2\,805$$
+
+* $\checkmark \text{ substitution into correct formula}$
+* $\checkmark \text{ answer}$
+(2)
+
+4.3 
+$$\sum_{n=1}^{5\,000} (2n + 3) = 5 + 7 + 9 + \dots + 10\,003$$
+
+* $\checkmark \text{ expansion}$
+(1)
+
+4.4 
+$$T_1 = -3 \quad \quad T_{4999} = -2(4\,999) - 1 = -9\,999$$
+$$\sum_{n=1}^{5\,000} (2n + 3) + \sum_{n=1}^{4\,999} (-2n - 1)$$
+$$= (5 + 7 + 9 + \dots + 9\,999 + 10\,001 + 10\,003) + (-3 - 5 - 7 - 9 - \dots - 9\,999)$$
+$$= 10\,001 + 10\,003 - 3$$
+$$= 20\,001$$
+
+**OR/OF**
+$$S_{4\,999} = \frac{4\,999}{2}[2(-3) + (4\,999 - 1)(-2)] = -24\,999\,999$$
+$$S_{5\,000} = \frac{5\,000}{2}[(2)(5) + (5\,000 - 1)(2)] = 25\,020\,000$$
+$$\sum_{n=1}^{5\,000} (2n + 3) + \sum_{n=1}^{4\,999} (-2n - 1) = 25\,020\,000 - 24\,999\,999$$
+$$= 20\,001$$
+
+* $\checkmark T_1 = -3$
+* $\checkmark T_{4999} = -9\,999$
+* $\checkmark \text{ both expansions}$
+* $\checkmark \text{ answer (A)}$
+(4)
+
+**OR/OF**
+* $\checkmark T_1 = -3$
+* $\checkmark S_{4999} = -24\,999\,999$
+* $\checkmark S_{5000} = 25\,020\,000$
+* $\checkmark \text{ answer (A)}$
+(4)
+
+**[10]**
+
+---
+
+### QUESTION / VRAAG 5
+
+5.1 
+$x = 3$
+$y = 2$
+
+* $\checkmark x = 3$
+* $\checkmark y = 2$
+(2)
+
+5.2 
+$x \in \mathbb{R}, x \neq 3$
+
+**OR/OF**
+$x \in (-\infty ; 3) \cup (3 ; \infty)$
+
+**OR/OF**
+$x < 3 \text{ or } x > 3$
+
+* $\checkmark \text{ answer}$
+(1)
+
+**OR/OF**
+* $\checkmark \text{ answer}$
+(1)
+
+**OR/OF**
+* $\checkmark \text{ answer}$
+(1)
+
+5.3 
+$$0 = \frac{-1}{x - 3} + 2$$
+$$-2x + 6 = -1$$
+$$x = \frac{7}{2}$$
+$x\text{-int:} \left(\frac{7}{2} ; 0\right)$
+
+* $\checkmark y = 0$
+* $\checkmark \text{ answer}$
+(2)
+
+5.4 
+$y\text{-int:} \left(0 ; \frac{7}{3}\right)$
+
+* $\checkmark x = 0$
+* $\checkmark \frac{7}{3}$
+(2)
+
+5.5 
+```
+        y
+       ^
+       |          /
+2,33---|         /
+       |        /
+     2 |---+---+-------> x
+       |  /    | 3
+   ----+-/-----+------
+       |/      | 3,5
+     0 +-------+----->
+      /        |
+     /         |
+               v
+```
+
+* $\checkmark \text{ asymptotes}$
+* $\checkmark \text{ intercepts with the axes}$
+* $\checkmark \text{ shape}$
+(3)
+
+**[10]**
+
+---
+
+### QUESTION / VRAAG 6
+
+6.1 
+$f(x) = \log_4 x$
+$$2 = \log_4 k$$
+$$4^2 = k$$
+$$\therefore k = 16$$
+
+* $\checkmark \text{ substitution of }(k ; 2)$
+* $\checkmark \text{ answer}$
+(2)
+
+6.2 
+$$-1 = \log_4 x \quad \therefore x = \frac{1}{4}$$
+$$\frac{1}{4} \le x \le 16 \quad \text{or/of} \quad x \in \left[\frac{1}{4} ; 16\right]$$
+
+* $\checkmark x = \frac{1}{4}$
+* $\checkmark \text{ answer}$
+(2)
+
+6.3 
+$f(x) = \log_4 x$
+$$y = \log_4 x$$
+$$x = \log_4 y$$
+$$y = 4^x$$
+
+* $\checkmark \text{ swopping } x \text{ and } y$
+* $\checkmark \text{ answer}$
+(2)
+
+6.4 
+$x < 0$
+
+**OR/OF**
+$x \in (-\infty ; 0)$
+
+* $\checkmark\checkmark \text{ answer}$
+(2)
+
+**OR/OF**
+* $\checkmark\checkmark \text{ answer}$
+(2)
+
+**[8]**
+
+---
+
+### QUESTION / VRAAG 7
+
+7.1 
+$B(-4 ; 0)$
+$D(6 ; 0)$
+
+* $\checkmark B(-4 ; 0)$
+* $\checkmark D(6 ; 0)$
+(2)
+
+7.2 
+$f(x) = x^2 - 2x - 24$
+$$x_{tp} = \frac{-b}{2a} \quad \text{OR/OF} \quad 2x - 2 = 0 \quad \text{OR/OF} \quad x = \frac{-4 + 6}{2}$$
+$$x = \frac{-(-2)}{2(1)}$$
+$$\therefore x_{tp} = 1$$
+$$y_{tp} = f(1)$$
+$$= (1)^2 - 2(1) - 24$$
+$$= -25$$
+$C(1 ; -25)$
+
+* $\checkmark x_{tp} = 1$
+* $\checkmark y_{tp} = -25$
+(2)
+
+7.3 
+$y \ge -25$
+
+**OR/OF**
+$y \in [-25 ; \infty)$
+
+* $\checkmark \text{ answer}$
+(1)
+
+**OR/OF**
+* $\checkmark \text{ answer}$
+(1)
+
+7.4.1 
+$$m_{AE} = \tan 14,04^\circ = 0,25 = \frac{1}{4}$$
+
+* $\checkmark \text{ answer}$
+(1)
+
+7.4.2 
+$m_{\text{tang}} = -4$
+$$f'(x) = 2x - 2$$
+$$2x - 2 = -4$$
+$$x_T = -1$$
+$$y_T = -21$$
+
+* $\checkmark m_{\text{tang}} = -4$
+* $\checkmark f'(x) = 2x - 2$
+* $\checkmark \text{ equating}$
+* $\checkmark x_T = -1$
+* $\checkmark y_T = -21$
+(5)
+
+7.5 
+$$m_{\text{line}} = \frac{1}{4}$$
+$$y + 9 = \frac{1}{4}(x + 3) \quad \text{OR/OF} \quad -9 = \frac{1}{4}(-3) + c$$
+$$y + 9 = \frac{1}{4}x + \frac{3}{4} \quad \quad \quad \quad c = -\frac{33}{4} = -8,25$$
+$$y = \frac{1}{4}x - \frac{33}{4} \quad \ \ \textbf{OR/OF} \quad y = 0,25x - 8,25$$
+$$x^2 - 2x - 24 = \frac{1}{4}x - \frac{33}{4}$$
+$$4x^2 - 8x - 96 = x - 33$$
+$$4x^2 - 9x - 63 = 0$$
+$$(4x - 21)(x + 3) = 0$$
+$$\therefore x = \frac{21}{4} = 5,25 \quad \text{or} \quad x \neq -3$$
+
+* $\checkmark m_{\text{line}} = \frac{1}{4}$
+* $\checkmark \text{ substitution } m \text{ and } K(-3 ; -9)$
+* $\checkmark y = \frac{1}{4}x - \frac{33}{4}$
+* $\checkmark \text{ equating}$
+* $\checkmark \text{ standard form}$
+* $\checkmark \text{ answer with selection}$
+(6)
+
+**[17]**
+
+---
+
+### QUESTION / VRAAG 8
+
+8.1 
+$$A = P(1 - i)^n$$
+$$A = 980\ 000(1 - 0,092)^7$$
+$$A = \text{R498\ 685,82}$$
+
+* $\checkmark \text{ correct formula}$
+* $\checkmark \text{ substitution}$
+* $\checkmark \text{ answer (A)}$
+(3)
+
+8.2 
+$$A = P(1 + i)^n$$
+$$116\ 253,50 = 75\ 000 \left(1 + \frac{0,068}{4}\right)^{4n}$$
+$$1,550\ 046\ 667 = (1,017)^{4n}$$
+$$\log(1,550\ 046\ 667) = 4n \log(1,017)$$
+$$4n = \frac{\log(1,550\ 046\ 667)}{\log(1,017)} \quad \text{or } 4n = \log_{1,017} (1,550\ 046\ 667)$$
+$$4n = 25,99\dots$$
+$$n = 6,50 \text{ years}$$
+
+* $\checkmark \frac{0,068}{4}$
+* $\checkmark \text{ substitution in correct formula}$
+* $\checkmark \text{ correct use of logs}$
+* $\checkmark \text{ answer}$
+(4)
+
+8.3.1 
+$$F = \frac{x[(1 + i)^n - 1]}{i}$$
+$$450\ 000 = \frac{x\left[\left(1 + \frac{0,0835}{12}\right)^{60} - 1\right]}{\frac{0,0835}{12}}$$
+$$x = \text{R6\ 068,69}$$
+
+* $\checkmark i = \frac{0,0835}{12}$
+* $\checkmark \text{ substitution into correct formula}$
+* $\checkmark \text{ answer}$
+(3)
+
+8.3.2(a) 
+$$P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+$$P = \frac{11\ 058,85\left[1 - \left(1 + \frac{0,12}{12}\right)^{-4\times 12}\right]}{\frac{0,12}{12}}$$
+$$P = \text{R419\ 948,32}$$
+
+**OR/OF**
+$$\text{Balance} = A - F$$
+$$= P(1 + i)^n - \frac{x[(1 + i)^n - 1]}{i}$$
+$$= 1\ 050\ 000\left(1 + \frac{0,12}{12}\right)^{12\times 21} - \frac{11\ 058,85\left[\left(1 + \frac{0,12}{12}\right)^{12\times 21} - 1\right]}{\frac{0,12}{12}}$$
+$$=\text{R12\ 887\ 702,20} - \text{R12\ 467\ 749,81}$$
+$$=\text{R419\ 952,39}$$
+
+* $\checkmark n = 48 \text{ in P-formula}$
+* $\checkmark \text{ substitution into correct formula}$
+* $\checkmark \text{ answer (A)}$
+(3)
+
+**OR/OF**
+* $\checkmark n = 252 \text{ in both formulae}$
+* $\checkmark \text{ subst into correct formulae}$
+* $\checkmark \text{ answer (A)}$
+(3)
+
+8.3.2(b) 
+$$\text{Total paid} = 11\ 058,85 \times 21 \times 12 = 2\ 786\ 830,20$$
+$$\text{Loan Paid} = 1\ 050\ 000 - 419\ 948,32 = 630\ 051,68$$
+$$\text{Interest paid} = 2\ 786\ 830,20 - 630\ 051,68$$
+$$= \text{R2\ 156\ 778,52}$$
+
+**OR/OF**
+$$\text{Total paid} = 11\ 058,85 \times 21 \times 12 = 2\ 786\ 830,20$$
+$$\text{Loan Paid} = 1\ 050\ 000 - 419\ 952,39 = 630\ 047,61$$
+$$\text{Interest paid} = 2\ 786\ 830,20 - 630\ 047,61$$
+$$= \text{R2\ 156\ 782,59}$$
+
+**OR/OF**
+$$\text{Interest paid}$$
+$$= 11\ 058,85 \times 21 \times 12 - (1\ 050\ 000 - 419\ 948,32)$$
+$$= 2\ 786\ 830,20 - 630\ 051,68$$
+$$= \text{R2\ 156\ 778,52}$$
+
+* $\checkmark 11\ 058,85 \times 21 \times 12$
+* $\checkmark 1\ 050\ 000 - \text{Balance Outstanding}$
+* $\checkmark \text{ answer}$
+(3)
+
+**OR/OF**
+* $\checkmark 11\ 058,85 \times 21 \times 12$
+* $\checkmark 1\ 050\ 000 - \text{Balance Outstanding}$
+* $\checkmark \text{ answer}$
+(3)
+
+**OR/OF**
+* $\checkmark 11\ 058,85 \times 21 \times 12$
+* $\checkmark 1\ 050\ 000 - \text{Balance Outstanding}$
+* $\checkmark \text{ answer}$
+(3)
+
+**[16]**
+
+---
+
+### QUESTION / VRAAG 9
+
+9.1 
+$$f'(x) = \lim_{h\to 0} \frac{f(x + h) - f(x)}{h}$$
+$$f'(x) = \lim_{h\to 0} \frac{2(x + h)^2 - 3(x + h) - (2x^2 - 3x)}{h}$$
+$$f'(x) = \lim_{h\to 0} \frac{2x^2 + 4xh + 2h^2 - 3x - 3h - 2x^2 + 3x}{h}$$
+$$= \lim_{h\to 0} \frac{4xh + 2h^2 - 3h}{h}$$
+$$= \lim_{h\to 0} \frac{h(4x + 2h - 3)}{h}$$
+$$= \lim_{h\to 0} (4x + 2h - 3)$$
+$$\therefore f'(x) = 4x - 3$$
+
+**OR/OF**
+$$f(x) = 2x^2 - 3x$$
+$$f(x + h) = 2(x + h)^2 - 3(x + h)$$
+$$f(x + h) = 2x^2 + 4xh + 2h^2 - 3x - 3h$$
+$$f(x + h) - f(x) = 4xh + 2h^2 - 3h$$
+$$f'(x) = \lim_{h\to 0} \frac{f(x + h) - f(x)}{h}$$
+$$= \lim_{h\to 0} \frac{4xh + 2h^2 - 3h}{h}$$
+$$= \lim_{h\to 0} \frac{h(4x + 2h - 3)}{h}$$
+$$= \lim_{h\to 0} (4x + 2h - 3)$$
+$$\therefore f'(x) = 4x - 3$$
+
+* $\checkmark \text{ substitution}$
+* $\checkmark 2x^2 + 4xh + 2h^2 - 3x - 3h$
+* $\checkmark 4xh + 2h^2 - 3h$
+* $\checkmark \text{ factorisation}$
+* $\checkmark \text{ answer}$
+(5)
+
+**OR/OF**
+* $\checkmark \text{ substitution}$
+* $\checkmark 2x^2 + 4xh + 2h^2 - 3x - 3h$
+* $\checkmark 4xh + 2h^2 - 3h$
+* $\checkmark \text{ factorisation}$
+* $\checkmark \text{ answer}$
+(5)
+
+9.2.1 
+$$y = 4x^5 - 6x^4 + 3x$$
+$$\frac{dy}{dx} = 20x^4 - 24x^3 + 3$$
+
+* $\checkmark 20x^4$
+* $\checkmark -24x^3$
+* $\checkmark 3$
+(3)
+
+9.2.2 
+$$D_x \left[ \frac{-\sqrt[3]{x}}{2} + \left(\frac{1}{3x}\right)^2 \right]$$
+$$= D_x \left[ -\frac{1}{2}x^{\frac{1}{3}} + \frac{1}{9}x^{-2} \right]$$
+$$= -\frac{1}{6}x^{-\frac{2}{3}} - \frac{2}{9}x^{-3}$$
+$$= -\frac{1}{6x^{\frac{2}{3}}} - \frac{2}{9x^3}$$
+
+* $\checkmark -\frac{1}{2}x^{\frac{1}{3}}$
+* $\checkmark \frac{1}{9}x^{-2}$
+* $\checkmark -\frac{1}{6}x^{-\frac{2}{3}}$
+* $\checkmark -\frac{2}{9}x^{-3}$
+(4)
+
+**[12]**
+
+---
+
+### QUESTION / VRAAG 10
+
+10.1 
+$$h(x) = ax^3 + bx^2$$
+$$h'(x) = 3ax^2 + 2bx$$
+$$h'(4) = 0$$
+$$48a + 8b = 0$$
+$$6a + b = 0 \dots (1)$$
+$$h(4) = 32$$
+$$64a + 16b = 32$$
+$$4a + b = 2 \dots (2)$$
+
+$$(1) - (2)\text{: } 6a + b = 0$$
+$$\quad \quad \ \ 4a + b = 2$$
+$$2a = -2$$
+$$a

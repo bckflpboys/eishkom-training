@@ -1,0 +1,270 @@
+BASIESE ONDERWYS / BASIC EDUCATION  
+DEPARTMENT OF BASIC EDUCATION REPUBLIC OF SOUTH AFRICA  
+
+**NASIONALE SENIOR SERTIFIKAAT**  
+**GRAAD 12**  
+
+**WISKUNDE V1**  
+**NOVEMBER 2018**  
+
+PUNTE: 150  
+TYD: 3 uur  
+
+Hierdie vraestel bestaan uit 9 bladsye en 1 inligtingsblad.  
+
+---
+
+### INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies aandagtig deur voordat die vrae beantwoord word.
+
+1. Hierdie vraestel bestaan uit 12 vrae.
+2. Beantwoord AL die vrae.
+3. Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie vraestel gebruik is.
+4. Dui ALLE berekeninge, diagramme, grafieke, ens. wat jy gebruik het om jou antwoorde te bepaal, duidelik aan.
+5. Volpunte sal NIE noodwendig aan slegs antwoorde toegeken nie.
+6. Jy mag 'n goedgekeurde, wetenskaplike sakrekenaar (nieprogrammeerbaar en niegrafies) gebruik, tensy anders vermeld.
+7. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders vermeld.
+8. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+9. 'n Inligtingsblad met formules is aan die einde van die vraestel ingesluit.
+10. Skryf netjies en leesbaar.
+
+---
+
+## VRAAG 1
+
+1.1 Los op vir $x$:
+  1.1.1 $x^2 - 4x + 3 = 0$ $(3)$
+  1.1.2 $5x^2 - 5x + 1 = 0$ (korrek tot TWEE desimale plekke) $(3)$
+  1.1.3 $x^2 - 3x - 10 > 0$ $(3)$
+  1.1.4 $3\sqrt{x} = x - 4$ $(4)$
+
+1.2 Los gelyktydig op vir $x$ en $y$:
+  $$3x - y = 2 \quad \text{en} \quad 2y + 9x^2 = -1$$ $(6)$
+
+1.3 Indien $3^x = 64$ en $5^y = 64$, bereken, SONDER die gebruik van 'n sakrekenaar, die waarde van:
+  $$\frac{[3^{x-1}]^3}{\sqrt{5}\sqrt{5^y}}$$ $(4)$  
+**[23]**
+
+---
+
+## VRAAG 2
+
+2.1 Gegee die kwadratiese ry: $2 ; 3 ; 10 ; 23 ; \dots$
+  2.1.1 Skryf die volgende term van die ry neer. $(1)$
+  2.1.2 Bepaal die $n^{\text{de}}$ term van die ry. $(4)$
+  2.1.3 Bereken die $20^{\text{ste}}$ term van die ry. $(2)$
+
+2.2 Gegee die rekenkundige ry: $35 ; 28 ; 21 ; \dots$  
+    Bereken watter term van die ry 'n waarde van $-140$ sal hê. $(3)$
+
+2.3 Vir watter waarde van $n$ sal die som van die eerste $n$ terme van die rekenkundige ry in VRAAG 2.2 gelyk wees aan die $n^{\text{de}}$ term van die kwadratiese ry in VRAAG 2.1? $(6)$  
+**[16]**
+
+---
+
+## VRAAG 3
+
+'n Meetkundige reeks het 'n konstante verhouding van $\frac{1}{2}$ en 'n som tot oneindigheid van $6$.
+
+3.1 Bereken die eerste term van die reeks. $(2)$
+
+3.2 Bereken die $8^{\text{ste}}$ term van die reeks. $(2)$
+
+3.3 Gegee: $\sum_{k=1}^{n} 3(2)^{1-k} = 5,8125$. Bereken die waarde van $n$. $(4)$
+
+3.4 Indien $\sum_{k=1}^{20} 3(2)^{1-k} = p$, skryf $\sum_{k=1}^{20} 24(2)^{-k}$ in terme van $p$ neer. $(3)$  
+**[11]**
+
+---
+
+## VRAAG 4
+
+In die diagram hieronder is die grafiek van $f(x) = ax^2$ in die interval $x \le 0$ geteken.  
+Die grafiek van $f^{-1}$ is ook geteken. $P(-6 ; -12)$ is 'n punt op $f$ en $R$ is 'n punt op $f^{-1}$.
+
+[DIAGRAM: Graph of $f(x) = ax^2$ for $x \le 0$ curving downwards and to the left through origin $(0,0)$ and point $P(-6, -12)$. Its reflection $f^{-1}$ is drawn across the line $y = x$, curving downwards through the origin and point $R$.]
+
+4.1 Is $f^{-1}$ 'n funksie? Motiveer jou antwoord. $(2)$
+
+4.2 Indien $R$ die refleksie van $P$ in die lyn $y = x$ is, skryf die koördinate van $R$ neer. $(1)$
+
+4.3 Bereken die waarde van $a$. $(2)$
+
+4.4 Skryf die vergelyking van $f^{-1}$ neer in die vorm $y = \dots$ $(3)$  
+**[8]**
+
+---
+
+## VRAAG 5
+
+Gegee: $f(x) = \frac{-1}{x-1}$
+
+5.1 Skryf die definisieversameling van $f$ neer. $(1)$
+
+5.2 Skryf die asymptote van $f$ neer. $(2)$
+
+5.3 Skets die grafiek van $f$ en dui alle afsnitte met die asse en enige asymptote duidelik aan. $(3)$
+
+5.4 Vir watter waardes van $x$ sal $x \cdot f'(x) \ge 0$? $(2)$  
+**[8]**
+
+---
+
+## VRAAG 6
+
+In die diagram hieronder is $A$ en $B$ die $x$-afsnitte van die grafiek van $f(x) = x^2 - 2x - 3$.  
+'n Reguitlyn, $g$, deur $A$ sny $f$ by $C(4 ; 5)$ en die $y$-as by $(0 ; 1)$.  
+$M$ is 'n punt op $f$ en $N$ is 'n punt op $g$ sodat $MN$ ewewydig aan die $y$-as is.  
+$MN$ sny die $x$-as by $T$.
+
+[DIAGRAM: Parabola $f(x) = x^2 - 2x - 3$ intersecting $x$-axis at $A$ and $B$, vertex below $x$-axis. A straight line $g$ passes through $A(-1,0)$, $y$-intercept $(0,1)$, and $C(4,5)$. Vertical line segment $MN$ parallel to $y$-axis connects point $M$ on $f$ and point $N$ on $g$, intersecting $x$-axis at $T$.]
+
+6.1 Toon dat $g(x) = x + 1$. $(2)$
+
+6.2 Bereken die koördinate van $A$ en $B$. $(3)$
+
+6.3 Bepaal die waardeversameling van $f$. $(3)$
+
+6.4 As $MN = 6$:  
+  6.4.1 Bepaal die lengte van $OT$ as $T$ op die negatiewe $x$-as lê. Toon AL jou bewerkings. $(4)$  
+  6.4.2 Skryf gevolglik die koördinate van $N$ neer. $(2)$
+
+6.5 Bepaal die vergelyking van die raaklyn aan $f$ wat ewewydig aan $g$ getrek is. $(5)$
+
+6.6 Vir watter waarde(s) van $k$ sal $f(x) = x^2 - 2x - 3$ en $h(x) = x + k$ NIE sny NIE? $(1)$  
+**[20]**
+
+---
+
+## VRAAG 7
+
+7.1 Selby het vandag besluit dat hy oor die volgende vier jaar R15 000 per kwartaal sal spaar. Hy sal binne drie maande die eerste deposito in 'n spaarrekening maak en hy sal aan die einde van vier jaar van nou af die laaste deposito maak.  
+  7.1.1 Hoeveel sal Selby aan die einde van vier jaar hê indien rente teen $8,8\%$ per jaar, kwartaalliks samestel, verdien word? $(3)$  
+  7.1.2 Indien Selby aan die einde van drie jaar van nou af besluit om R100 000 uit die rekening te onttrek, hoeveel sal hy aan die einde van vier jaar van nou af in die rekening hê? $(3)$
+
+7.2 Tshepo neem 'n huislening oor 20 jaar uit om 'n huis te koop wat R1 500 000 kos.  
+  7.2.1 Bereken die maandelikse paaieement indien rente teen $10,5\%$ p.j., maandeliks samestel, bereken word. $(4)$  
+  7.2.2 Bereken die uitstaande balans onmiddellik nadat die $144^{\text{ste}}$ betaling gemaak is. $(5)$  
+**[15]**
+
+---
+
+## VRAAG 8
+
+8.1 Bepaal $f'(x)$ vanuit eerste beginsels indien dit gegee word dat $f(x) = x^2 - 5$. $(5)$
+
+8.2 Bepaal $\frac{dy}{dx}$ indien:  
+  8.2.1 $y = 3x^3 + 6x^2 + x - 4$ $(3)$  
+  8.2.2 $yx - y = 2x^2 - 2x ; \quad x \ne 1$ $(4)$  
+**[12]**
+
+---
+
+## VRAAG 9
+
+9.1 Die grafiek van $g(x) = x^3 + bx^2 + cx + d$ is hieronder geskets.  
+Die grafiek van $g$ sny die $x$-as by $(-5 ; 0)$ en by $P$, en die $y$-as by $(0 ; 20)$.  
+$P$ en $R$ is draaipunte van $g$.
+
+[DIAGRAM: Cubic graph $g(x)$ with local maximum $R$ in the second quadrant, $y$-intercept at $20$, local minimum $P$ on the positive $x$-axis, and $x$-intercept at $(-5, 0)$.]
+
+  9.1.1 Toon dat $b = 1$, $c = -16$ en $d = 20$. $(4)$  
+  9.1.2 Bereken die koördinate van $P$ en $R$. $(5)$  
+  9.1.3 Is die grafiek konkaaf op of konkaaf af by $(0 ; 20)$? Toon AL jou berekeninge. $(3)$
+
+9.2 Indien $g$ 'n derdemagsfunksie is met:  
+  * $g(3) = g'(3) = 0$  
+  * $g(0) = 27$  
+  * $g''(x) > 0$ as $x < 3$ en $g''(x) < 0$ as $x > 3$,  
+  teken 'n sketsgrafiek van $g$ en dui AL die relevante punte aan. $(3)$  
+**[15]**
+
+---
+
+## VRAAG 10
+
+In $\triangle ABC$:  
+* $D$ is 'n punt op $AB$, $E$ is 'n punt op $AC$ en $F$ is 'n punt op $BC$ sodat $DECF$ 'n parallelogram is.  
+* $BF : FC = 2 : 3$.  
+* Die loodregte hoogte $AG$ word getrek om $DE$ by $H$ te sny.  
+* $AG = t$ eenhede.  
+* $BC = (5 - t)$ eenhede.
+
+[DIAGRAM: Triangle $ABC$ with vertex $A$ at the top, base $BC$. Points $D$ on $AB$ and $E$ on $AC$ are connected by a horizontal line segment $DE$. $F$ lies on $BC$. $DECF$ forms a parallelogram. Perpendicular height $AG$ from $A$ to $BC$ intersects $DE$ at $H$.]
+
+10.1 Skryf neer $AH : HG$. $(1)$
+
+10.2 Bereken $t$ indien die oppervlakte van die parallelogram 'n maksimum is.  
+(LET WEL: Oppervlakte van 'n parallelogram = $\text{basis} \times \perp \text{hoogte}$) $(5)$  
+**[6]**
+
+---
+
+## VRAAG 11
+
+Gegee die syfers: $3 ; 4 ; 5 ; 6 ; 7 ; 8$ en $9$
+
+11.1 Bereken hoeveel unieke $5$-syfer-kodes gevorm kan word deur die syfers hierbo te gebruik, indien:  
+  11.1.1 Die syfers herhaal kan word $(2)$  
+  11.1.2 Die syfers nie herhaal kan word nie $(2)$
+
+11.2 Bereken hoeveel unieke $3$-syfer-kodes gevorm kan word deur die syfers hierbo te gebruik, indien:  
+  * Syfers herhaal kan word  
+  * Die kode groter as $400$ maar kleiner as $600$ is  
+  * Die kode deur $5$ deelbaar is $(3)$  
+**[7]**
+
+---
+
+## VRAAG 12
+
+12.1 Gegee: $\text{P}(A) = 0,45 ; \text{P}(B) = y$ en $\text{P}(A \text{ of } B) = 0,74$  
+Bepaal die waarde(s) van $y$ indien $A$ en $B$ onderling uitsluitend is. $(3)$
+
+12.2 'n Organisasie besluit om geskenksakkies met lekkers vir 'n graad R-klas by 'n sekere skool, te gee. Daar is 'n geheime geskenk in presies $\frac{1}{4}$ van die totale getal sakkies.
+
+Elke leerder in die klas kan twee geskenksakkies met lekkers willekeurig kies, die een na die ander. Die waarskynlikheid dat 'n leerder twee sakkies lekkers met 'n geheime geskenk sal kies, is $\frac{7}{118}$. Bereken die getal geskenksakkies met lekkers wat 'n geheime geskenk in het. $(6)$  
+**[9]**
+
+**TOTAAL: 150**
+
+---
+
+## INLIGTINGSBLAD
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni) \quad A = P(1 - ni) \quad A = P(1 - i)^n \quad A = P(1 + i)^n$$
+
+$$T_n = a + (n-1)d \quad S_n = \frac{n}{2}[2a + (n-1)d]$$
+
+$$T_n = ar^{n-1} \quad S_n = \frac{a(r^n - 1)}{r - 1} \quad (r \ne 1) \quad S_\infty = \frac{a}{1 - r} \quad (-1 < r < 1)$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i} \quad P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} \quad M\left(\frac{x_1 + x_2}{2} ; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c \quad y - y_1 = m(x - x_1) \quad m = \frac{y_2 - y_1}{x_2 - x_1} \quad m = \tan \theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+$$\text{In } \triangle ABC: \quad \frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}$$
+
+$$a^2 = b^2 + c^2 - 2bc \cos A$$
+
+$$\text{area } \triangle ABC = \frac{1}{2}ab \sin C$$
+
+$$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta \quad \sin(\alpha - \beta) = \sin \alpha \cos \beta - \cos \alpha \sin \beta$$
+
+$$\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta \quad \cos(\alpha - \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2 \alpha - \sin^2 \alpha \\ 1 - 2\sin^2 \alpha \\ 2\cos^2 \alpha - 1 \end{cases} \quad \sin 2\alpha = 2\sin \alpha \cos \alpha$$
+
+$$\bar{x} = \frac{\sum x}{n} \quad \sigma^2 = \frac{\sum_{i=1}^n (x_i - \bar{x})^2}{n}$$
+
+$$\text{P}(A) = \frac{n(A)}{n(S)} \quad \text{P}(A \text{ of } B) = \text{P}(A) + \text{P}(B) - \text{P}(A \text{ en } B)$$
+
+$$\hat{y} = a + bx \quad b = \frac{\sum (x - \bar{x})(y - \bar{y})}{\sum (x - \bar{x})^2}$$

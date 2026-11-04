@@ -1,0 +1,221 @@
+NASIONALE SENIOR SERTIFIKAAT
+
+GRAAD 10
+
+WISKUNDE V1
+
+NOVEMBER 2017
+
+PUNTE: 100
+
+TYD: 2 uur
+
+Hierdie vraestel bestaan uit 7 bladsye.
+
+---
+
+**INSTRUKSIES EN INLIGTING**
+
+Lees die volgende instruksies aandagtig deur voordat jy die vrae beantwoord.
+
+1. Hierdie vraestel bestaan uit 7 vrae.
+2. Beantwoord AL die vrae.
+3. Dui ALLE berekeninge, diagramme, grafieke, ensovoorts wat jy gebruik het om die antwoorde te bepaal, duidelik aan.
+4. Slegs antwoorde sal NIE noodwendig volpunte verdien NIE.
+5. Jy mag 'n goedgekeurde wetenskaplike sakrekenaar (nieprogrammeerbaar en niegrafies) gebruik, tensy anders aangedui.
+6. Rond antwoorde tot TWEE desimale plekke af, tensy anders aangedui.
+7. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+8. Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie vraestel gebruik is.
+9. Skryf netjies en leesbaar.
+
+---
+
+## VRAAG 1
+
+1.1 Gegee: $q = \sqrt{b^2 - 4ac}$
+
+1.1.1 Bepaal die waarde van $q$ as $a = 2$, $b = -1$ en $c = -4$. Laat jou antwoord in eenvoudigste wortelvorm. (2)
+
+1.1.2 Noem of $q$ rasioneel of irrasioneel is. (1)
+
+1.1.3 Tussen watter TWEE opeenvolgende heelgetalle lê $q$? (1)
+
+1.2 Faktoriseer die volgende uitdrukkings volledig:
+
+1.2.1 $t^2(r - s) - r + s$ (3)
+
+1.2.2 $\frac{x^3 + 1}{x^2 - x + 1}$ (2)
+
+1.3 Vereenvoudig die volgende volledig:
+
+1.3.1 $(2y + 3)(7y^2 - 6y - 8)$ (2)
+
+1.3.2 $\frac{3}{x^2 - 9} + \frac{2}{(x - 3)^2}$ (3)
+
+1.3.3 $\frac{3^t - 3^{t-2}}{2.3^t - 3^t}$ (3)
+
+**[17]**
+
+---
+
+## VRAAG 2
+
+2.1 Gegee: $4 - 2x < 16$ waar $x \in \mathbb{R}$
+
+2.1.1 Los die ongelykheid op. (2)
+
+2.1.2 Stel gevolglik jou antwoord op VRAAG 2.1.1 op 'n getallelyn voor. (1)
+
+2.2 Los gelyktydig vir $x$ en $y$ op:
+$$-2x - y = 10 \quad \text{en} \quad 3x - 4y = -4$$ (4)
+
+2.3 Los op vir $x$:
+
+2.3.1 $\frac{x(x - 5)}{6} - 1 = 0$ (3)
+
+2.3.2 $c = \sqrt{a + 2x}$ (2)
+
+2.4 Tabelo is tans vier keer so oud soos sy dogter, Linda. Tabelo sal ses jaar van nou af drie keer so oud soos Linda wees.
+
+Bereken Linda se ouderdom tans. (4)
+
+**[16]**
+
+---
+
+## VRAAG 3
+
+3.1 Beskou die lineêre ry: $5; 8; 11; b; 17; \dots$
+
+3.1.1 Skryf die waarde van $b$ neer. (2)
+
+3.1.2 Bepaal die $n^{\text{de}}$ term van die ry. (2)
+
+3.1.3 Bereken die waarde van die $15^{\text{de}}$ term van die ry. (2)
+
+3.1.4 Watter term in die ry is aan $83$ gelyk? (2)
+
+3.2 Beskou die getalpatroon hieronder wat geskep is deur die getalle van die ry $2; 6; 10; 14; 18; \dots$ te gebruik.
+
+$$2$$
+$$6 \quad 10$$
+$$14 \quad 18 \quad 22$$
+$$26 \quad 30 \quad 34 \quad 38$$
+$$42 \quad \dots \quad \dots \quad \dots \quad \dots$$
+
+3.2.1 Bereken die som van die getalle in die $8^{\text{ste}}$ ry. (3)
+
+3.2.2 Bepaal die gemiddeld van die getalle in die $20^{\text{ste}}$ ry. (2)
+
+**[13]**
+
+---
+
+## VRAAG 4
+
+4.1 Mev. Grey het sewe jaar gelede besluit om $\text{R}18\ 000$ in 'n bankrekening te belê wat eenvoudige rente teen $4,5\%$ p.j. betaal het.
+
+4.1.1 Bereken hoeveel rente mev. Grey in die sewe jaar verdien het. (2)
+
+4.1.2 Mev. Grey wil 'n televisiestel koop wat tans $\text{R}27\ 660,00$ kos. Indien die gemiddelde inflasiekoers die laaste 5 jaar $6,7\%$ p.j. was, bereken wat die televisiestel 5 jaar gelede sou gekos het. (3)
+
+4.1.3 Teen watter eenvoudige rentekoers moes mev. Grey 7 jaar gelede haar geld belê het as sy beplan om nou die televisiestel te koop deur slegs haar oorspronklike belegging van $\text{R}18\ 000$ en die rente verdien in die laaste 7 jaar te gebruik? (3)
+
+4.2 Die wisselkoers tussen die Amerikaanse dollar en die Suid-Afrikaanse rand op 'n sekere dag is $\$1 = \text{R}12,91$. Dieselfdetyd is die wisselkoers tussen die Britse pond en die Suid-Afrikaanse rand $\text{£}1 = \text{R}16,52$.
+
+Bereken die wisselkoers tussen die Britse pond en die Amerikaanse dollar op daardie dag. (2)
+
+**[10]**
+
+---
+
+## VRAAG 5
+
+Die diagram toon die grafieke van $g(x) = ax^2 + q$ en $f(x) = mx + c$.
+R en $\text{S}(2; 0)$ is die $x$-afsnitte van $g$ en $\text{T}(0; 8)$ is die $y$-afsnit van $g$.
+Grafiek $f$ gaan deur R en T.
+
+[DIAGRAM: A Cartesian plane shows a parabola $g$ opening downwards with $y$-intercept $\text{T}(0;8)$ and $x$-intercepts $\text{R}$ (in the negative $x$-axis) and $\text{S}(2;0)$. A straight line $f$ passes through points $\text{R}$ and $\text{T}$ with a positive gradient.]
+
+5.1 Skryf die waardeversameling van $g$ neer. (1)
+
+5.2 Skryf die $x$-koördinaat van R neer. (1)
+
+5.3 Bereken die waardes van $a$ en $q$. (3)
+
+5.4 Bepaal die vergelyking van $f$. (3)
+
+5.5 Gebruik die grafiek om die waarde(s) van $x$ te bepaal waarvoor:
+
+5.5.1 $f(x) = g(x)$ (2)
+
+5.5.2 $x \cdot g(x) \le 0$ (3)
+
+5.6 Die grafiek $h$ word verkry wanneer $g$ op die lyn $y = 0$ gereflekteer word.
+Skryf die vergelyking van $h$ in die vorm $h(x) = px^2 + k$ neer. (2)
+
+**[15]**
+
+---
+
+## VRAAG 6
+
+6.1 Die funksie $p(x) = k^x + q$ word deur die volgende eienskappe beskryf:
+* $k > 0; k \neq 1$
+* $x$-afsnit by $(2; 0)$
+* Die horisontale asimptoot is $y = -9$
+
+6.1.1 Skryf die waardieversameling van $p$ neer. (1)
+
+6.1.2 Bepaal die vergelyking van $p$. (3)
+
+6.1.3 Skets die grafiek van $p$. Toon duidelik die snypunte van die asse en die asimptoot. (3)
+
+6.2 Die skets hieronder toon die grafieke van $f(x) = \frac{k}{x} + w$ en $g(x) = -x - 1$.
+Die grafiek $g$ is 'n simmetrie-as van $f$. Die grafieke $f$ en $g$ sny by P en Q.
+
+[DIAGRAM: A Cartesian plane shows a hyperbola $f$ with two branches in quadrants 2 and 4, and a straight line $g$ with negative gradient passing through the origin. Point P is in the second quadrant, and point Q is in the fourth quadrant. The point $(-2; 7)$ is on $f$.]
+
+6.2.1 Skryf die waarde van $w$ neer. (1)
+
+6.2.2 Die punt $(-2; 7)$ lê op $f$. Bereken die waarde van $k$. (2)
+
+6.2.3 Bereken die $x$-koördinate van P en Q. (4)
+
+6.2.4 Skryf die waardes van $x$ neer waarvoor $\frac{-16}{x} > -x$. (2)
+
+**[16]**
+
+---
+
+## VRAAG 7
+
+7.1 Twee gebeurtenisse, A and B, is komplementêr en vul die hele steekproefruimte. Net so $\text{P}(\text{A}') = 0,35$.
+
+7.1.1 Voltooi die stelling: $\text{P}(\text{A}) + \text{P}(\text{B}) = \dots$ (1)
+
+7.1.2 Skryf die waarde van $\text{P}(\text{A} \text{ en } \text{B})$ neer. (1)
+
+7.1.3 Skryf die waarde van $\text{P}(\text{B})$ neer. (1)
+
+7.2 'n Opname is onder $150$ leerders in graad $10$ by 'n sekere skool gedoen om vas te stel hoeveel van hulle die volgende toestelle besit het: slimfoon (S) of tablet (T).
+
+Die uitslag was soos volg:
+* $8$ leerders het nie 'n slimfoon óf 'n tablet besit nie.
+* $20$ leerders het beide 'n slimfoon en 'n tablet besit.
+* $48$ leerders het 'n tablet besit.
+* $x$ leerders het 'n slimfoon besit.
+
+7.2.1 Stel die inligting hierbo in 'n Venn-diagram voor. (4)
+
+7.2.2 Hoeveel leerders het slegs 'n slimfoon besit? (3)
+
+7.2.3 Bereken die waarskynlikheid dat 'n leerder wat ewekansig uit hierdie groep gekies word:
+
+(a) Slegs 'n slimfoon besit het (1)
+
+(b) Op die meeste een tipe toestel besit het (2)
+
+**[13]**
+
+**TOTAAL: 100**

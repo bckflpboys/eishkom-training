@@ -1,0 +1,335 @@
+**basic education**
+Department: Basic Education
+REPUBLIC OF SOUTH AFRICA
+
+**NATIONAL SENIOR CERTIFICATE**
+
+**GRADE 12**
+
+**MATHEMATICS P2**
+**NOVEMBER 2023**
+
+MARKS: 150  
+TIME: 3 hours
+
+This question paper consists of 13 pages, 1 information sheet and an answer book of 23 pages.
+
+---
+
+### INSTRUCTIONS AND INFORMATION
+
+Read the following instructions carefully before answering the questions.
+
+1. This question paper consists of $10$ questions.
+2. Answer ALL the questions in the SPECIAL ANSWER BOOK provided.
+3. Clearly show ALL calculations, diagrams, graphs, etc. which you have used in determining your answers.
+4. Answers only will NOT necessarily be awarded full marks.
+5. You may use an approved scientific calculator (non-programmable and non-graphical), unless stated otherwise.
+6. If necessary, round off answers correct to TWO decimal places, unless stated otherwise.
+7. Diagrams are NOT necessarily drawn to scale.
+8. An information sheet with formulae is included at the end of the question paper.
+9. Write neatly and legibly.
+
+---
+
+### QUESTION 1
+
+Truck drivers travel a certain distance and have a rest before travelling further. A driver kept record of the distance he travelled (in km) on $8$ trips and the amount of time he rested (in minutes) before he continued his journey. The information is given in the table below.
+
+$$\begin{array}{|l|c|c|c|c|c|c|c|c|}
+\hline
+\begin{array}{l}
+\text{Distance travelled} \\
+\text{(in km) } (x)
+\end{array} & 180 & 200 & 400 & 600 & 170 & 350 & 270 & 300 \\
+\hline
+\begin{array}{l}
+\text{Amount of rest time} \\
+\text{(in minutes) } (y)
+\end{array} & 20 & 25 & 55 & 120 & 15 & 50 & 40 & 45 \\
+\hline
+\end{array}$$
+
+1.1 Determine the equation of the least squares regression line for the data. $(3)$
+
+1.2 If a truck driver travelled $550\text{ km}$, predict the amount of time (in minutes) that he should rest before continuing his journey. $(2)$
+
+1.3 Write down the correlation coefficient for the data. $(1)$
+
+1.4 Interpret your answer to QUESTION 1.3. $(1)$
+
+1.5 At each stop, the truck driver spent money buying food and other refreshments. The amount spent (in rands) is given in the table below.
+
+$$\begin{array}{|l|l|l|l|l|l|l|l|}
+\hline
+100 & 150 & 130 & 200 & 50 & 180 & 200 & 190 \\
+\hline
+\end{array}$$
+
+1.5.1 Calculate the mean amount of money he spent at each stop. $(2)$
+
+1.5.2 Calculate the standard deviation for the data. $(1)$
+
+1.5.3 At how many stops did the driver spend an amount that was less than one standard deviation below the mean? $(2)$  
+**[12]**
+
+---
+
+### QUESTION 2
+
+At a certain school, the staff committee wanted to determine how many glasses of water the staff members drank during a school day. All teachers present on a specific day were interviewed. The information is shown in the table below.
+
+$$\begin{array}{|c|c|}
+\hline
+\textbf{NUMBER OF GLASSES OF} & \textbf{NUMBER OF STAFF} \\
+\textbf{WATER DRANK PER DAY} & \textbf{MEMBERS} \\
+\hline
+0 \le x < 2 & 5 \\
+\hline
+2 \le x < 4 & 15 \\
+\hline
+4 \le x < 6 & 13 \\
+\hline
+6 \le x < 8 & 5 \\
+\hline
+8 \le x < 10 & 2 \\
+\hline
+\end{array}$$
+
+2.1 Complete the cumulative frequency column provided in the table in the ANSWER BOOK. $(2)$
+
+2.2 How many staff members were interviewed? $(1)$
+
+2.3 How many staff members drank fewer than $6$ glasses of water during a school day? $(1)$
+
+2.4 The staff committee observed that $k$ teachers were absent on the day of the interviews. It was found that half of these $k$ teachers drank from $0$ to fewer than $2$ (that is $0 \le x < 2$) glasses of water per day, while the remainder of them drank from $4$ to fewer than $6$ (that is $4 \le x < 6$) glasses of water per day. When these $k$ teachers are included in the data, the estimated mean is $4$ glasses of water per staff member per day.
+
+How many teachers were absent on the day of the interviews? $(4)$  
+**[8]**
+
+---
+
+### QUESTION 3
+
+[DIAGRAM: Cartesian plane with a triangle $SLN$ and a line through $N(-2; -3)$ and $L(-4; 1)$. $L$ is in the second quadrant with coordinates $(-4; 1)$, $S$ is in the first quadrant with coordinates $(4; 5)$. $N$ is in the third/fourth quadrant with coordinates $(-2; -3)$. $S\hat{L}N = 90^\circ$. $LN$ intersects the $x$-axis at $K$. The angle of inclination of line $SN$ with the positive $x$-axis is $\theta$.]
+
+In the figure, $L(-4; 1)$, $S(4; 5)$ and $N(-2; -3)$ are the vertices of a triangle having $S\hat{L}N = 90^\circ$. $LN$ intersects the $x$-axis at $K$.
+
+3.1 Calculate the length of $SL$. Leave your answer in surd form. $(2)$
+
+3.2 Calculate the gradient of $SN$. $(2)$
+
+3.3 Calculate the size of $\theta$, the angle of inclination of $SN$. $(2)$
+
+3.4 Calculate the size of $L\hat{N}S$. $(3)$
+
+3.5 Determine the equation of the line which passes through $L$ and is parallel to $SN$. Write your answer in the form $y = mx + c$. $(3)$
+
+3.6 Calculate the area of $\Delta LSN$. $(3)$
+
+3.7 Calculate the coordinates of point $P$, which is equidistant from $L$, $S$ and $N$. $(3)$
+
+3.8 Calculate the size of $L\hat{P}S$. $(2)$  
+**[20]**
+
+---
+
+### QUESTION 4
+
+[DIAGRAM: Two circles in a Cartesian plane. The smaller circle has centre $O(0; 0)$ and a tangent touches it at $D(p; -2)$ in the $4^{\text{th}}$ quadrant, and passes through point $E$ where it touches both circles. The larger circle has centre $G(t; 0)$ on the positive $x$-axis. A common tangent touches the larger circle at $F$ and the smaller circle at $D$, intersecting the line of centres at $E$.]
+
+In the diagram, the circle with centre $O$ has the equation $x^2 + y^2 = 20$. $G(t; 0)$ is the centre of the larger circle. A common tangent touches the circles at $D$ and $F$ respectively, such that $D(p; -2)$ lies in the $4^{\text{th}}$ quadrant.
+
+4.1 Given that $D(p; -2)$ lies on the smaller circle, show that $p = 4$. $(2)$
+
+4.2 $E(6; 2)$ is the midpoint of $DF$. Determine the coordinates of $F$. $(3)$
+
+4.3 Determine the equation of the common tangent, $DF$, in the form $y = mx + c$. $(4)$
+
+4.4 Calculate the value of $t$. Show ALL working. $(3)$
+
+4.5 Determine the equation of the larger circle in the form $ax^2 + by^2 + cx + dy + e = 0$. $(4)$
+
+4.6 The smaller circle must be translated by $k$ units along the $x$-axis to touch the larger circle internally. Calculate the possible values of $k$. $(4)$  
+**[20]**
+
+---
+
+### QUESTION 5
+
+5.1 Given: $\sin \beta = -\frac{1}{3}$, where $\beta \in (90^\circ; 270^\circ)$
+
+Without using a calculator, determine each of the following:
+
+5.1.1 $\cos \beta$ $(3)$
+
+5.1.2 $\sin 2\beta$ $(3)$
+
+5.1.3 $\cos(450^\circ - \beta)$ $(3)$
+
+5.2 Given: $\frac{\cos^4 x + \sin^2 x \cdot \cos^2 x}{1 + \sin x}$
+
+5.2.1 Prove that $\frac{\cos^4 x + \sin^2 x \cdot \cos^2 x}{1 + \sin x} = 1 - \sin x$ $(4)$
+
+5.2.2 For what value(s) of $x$ in the interval $x \in [0^\circ; 360^\circ]$ is $\frac{\cos^4 x + \sin^2 x \cdot \cos^2 x}{1 + \sin x}$ undefined? $(2)$
+
+5.2.3 Write down the minimum value of the function defined by $y = \frac{\cos^4 x + \sin^2 x \cdot \cos^2 x}{1 + \sin x}$ $(2)$
+
+5.3 Given: $\cos(A - B) = \cos A \cos B + \sin A \sin B$
+
+5.3.1 Use the above identity to deduce that $\sin(A - B) = \sin A \cos B - \cos A \sin B$ $(3)$
+
+5.3.2 Hence, or otherwise, determine the general solution of the equation $\sin 48^\circ \cos x - \cos 48^\circ \sin x = \cos 2x$ $(5)$
+
+5.4 Simplify $\frac{\sin 3x + \sin x}{\cos 2x + 1}$ to a single trigonometric ratio. $(6)$  
+**[31]**
+
+---
+
+### QUESTION 6
+
+[DIAGRAM: Graphs of $f(x) = 2\sin 2x$ and $g(x) = -\cos(x + 45^\circ)$ are drawn for the interval $x \in [0^\circ; 180^\circ]$. $A(105^\circ; -1)$ lies on $f$.]
+
+In the diagram, the graphs of $f(x) = 2\sin 2x$ and $g(x) = -\cos(x + 45^\circ)$ are drawn for the interval $x \in [0^\circ; 180^\circ]$. $A(105^\circ; -1)$ lies on $f$.
+
+6.1 Write down the period of $f$. $(1)$
+
+6.2 Determine the range of $g$ in the interval $x \in [0^\circ; 180^\circ]$. $(2)$
+
+6.3 Determine the values of $x$, in the interval $x \in [0^\circ; 180^\circ]$, for which:
+
+6.3.1 $f(x) \cdot g(x) > 0$ $(2)$
+
+6.3.2 $f(x) + 1 \le 0$ $(2)$
+
+6.4 Another graph $p$ is defined as $p(x) = -f(x)$. $D(k; -1)$ lies on $p$. Determine the value(s) of $k$ in the interval $x \in [0^\circ; 180^\circ]$. $(3)$
+
+6.5 Graph $h$ is obtained when $g$ is translated $45^\circ$ to the left. Determine the equation of $h$. Write your answer in its simplest form. $(2)$  
+**[12]**
+
+---
+
+### QUESTION 7
+
+[DIAGRAM: Horizontal plane with points $S$, $T$ and $K$. $RS$ is a vertical tower of height $p$ metres. Angle of elevation from $T$ to $R$ is formed with $\hat{S} = 90^\circ$. $T\hat{S}K = \alpha$. $TS = p$ metres and the area of $\Delta STK$ is $q\text{ m}^2$. Angle of depression from $R$ to $K$ is $\beta$.]
+
+In the diagram, $S$, $T$ and $K$ lie in the same horizontal plane. $RS$ is a vertical tower. The angle of depression from $R$ to $K$ is $\beta$. $T\hat{S}K = \alpha$, $TS = p$ metres and the area of $\Delta STK$ is $q\text{ m}^2$.
+
+7.1 Determine the length of $SK$ in terms of $p$, $q$ and $\alpha$. $(2)$
+
+7.2 Show that $RS = \frac{2q \tan \beta}{p \sin \alpha}$ $(2)$
+
+7.3 Calculate the size of $\alpha$ if $\alpha < 90^\circ$ and $RS = 70\text{ m}$, $p = 80\text{ m}$, $q = 2500\text{ m}^2$ and $\beta = 42^\circ$. $(3)$  
+**[7]**
+
+---
+
+### QUESTION 8
+
+8.1 [DIAGRAM: Circle with centre $O$. Points $K$, $P$ and $T$ lie on the circumference. $KT$ is a chord. $OT$ and $OK$ are radii. $\hat{O}$ is the angle at the centre subtended by chord $KT$. $P$ is a point on the circumference such that $K\hat{P}T$ is the angle at the circumference subtended by $KT$.]
+
+Use the diagram above to prove the theorem which states that the angle subtended by a chord at the centre of the circle is equal to twice the angle subtended by the same chord at the circumference, that is, prove that $\hat{O} = 2K\hat{P}T$. $(5)$
+
+8.2 [DIAGRAM: Cyclic quadrilateral $ABCD$ inscribed in a circle with centre $O$. $OB$ and $OD$ are drawn. Angles $\hat{O}_1, \hat{O}_2, \hat{D}_1, \hat{D}_2, \hat{B}_1, \hat{B}_2, \hat{C}$ are indicated.]
+
+In the diagram, $O$ is the centre of the circle and $ABCD$ is a cyclic quadrilateral. $OB$ and $OD$ are drawn.
+
+If $\hat{O}_1 = 4x + 100^\circ$ and $\hat{C} = x + 34^\circ$, calculate, giving reasons, the size of $x$. $(5)$
+
+8.3 [DIAGRAM: Larger circle with centre $O$. $OB$ is a diameter of the smaller circle. Chord $AB$ of the larger circle intersects the smaller circle at $M$ and $B$. $OM$ is a radius of the smaller circle.]
+
+In the diagram, $O$ is the centre of the larger circle. $OB$ is a diameter of the smaller circle. Chord $AB$ of the larger circle intersects the smaller circle at $M$ and $B$.
+
+8.3.1 Write down the size of $O\hat{M}B$. Provide a reason. $(2)$
+
+8.3.2 If $AB = \sqrt{300}$ units and $OM = 5$ units, calculate, giving reasons, the length of $OB$. $(4)$  
+**[16]**
+
+---
+
+### QUESTION 9
+
+[DIAGRAM: Parallelogram $ABCD$ with $AB = 14$ units. $AD$ is produced to $E$ such that $AD : DE = 4 : 3$. $EB$ intersects $DC$ in $F$. $EB = 21$ units. Arrows indicate parallel lines $AD \parallel BC$ and $DC \parallel AB$.]
+
+In the diagram, $ABCD$ is a parallelogram with $AB = 14$ units. $AD$ is produced to $E$ such that $AD : DE = 4 : 3$. $EB$ intersects $DC$ in $F$. $EB = 21$ units.
+
+9.1 Calculate, with reasons, the length of $FB$. $(3)$
+
+9.2 Prove, with reasons, that $\Delta EDF ||| \Delta EAB$. $(3)$
+
+9.3 Calculate, with reasons, the length of $FC$. $(3)$  
+**[9]**
+
+---
+
+### QUESTION 10
+
+[DIAGRAM: Cyclic quadrilateral $PQRS$ with $PQ = PR$. Tangents to the circle through $P$ and $R$ meet $QS$ produced at $A$. $RS$ is produced to meet tangent $AP$ at $B$. $PS$ is produced to meet tangent $AR$ at $C$. $PR$ and $QS$ intersect at $M$. Various angles $\hat{S}_1, \hat{S}_2, \hat{S}_3, \hat{S}_4, \hat{S}_5, \hat{S}_6$ and $\hat{M}_1, \hat{M}_2, \hat{M}_3, \hat{M}_4$ are indicated.]
+
+In the diagram, $PQRS$ is a cyclic quadrilateral such that $PQ = PR$. The tangents to the circle through $P$ and $R$ meet $QS$ produced at $A$. $RS$ is produced to meet tangent $AP$ at $B$. $PS$ is produced to meet tangent $AR$ at $C$. $PR$ and $QS$ intersect at $M$.
+
+Prove, giving reasons, that:
+
+10.1 $\hat{S}_3 = \hat{S}_4$ $(5)$
+
+10.2 $SMRC$ is a cyclic quadrilateral $(4)$
+
+10.3 $RP$ is a tangent to the circle passing through $P$, $S$ and $A$ at $P$ $(6)$  
+**[15]**
+
+**TOTAL: 150**
+
+---
+
+### INFORMATION SHEET
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni)$$  
+$$A = P(1 - ni)$$  
+$$A = P(1 - i)^n$$  
+$$A = P(1 + i)^n$$
+
+$$T_n = a + (n - 1)d$$  
+$$S_n = \frac{n}{2}[2a + (n - 1)d]$$
+
+$$T_n = ar^{n-1}$$  
+$$S_n = \frac{a(r^n - 1)}{r - 1} \quad (r \neq 1)$$  
+$$S_\infty = \frac{a}{1 - r} \quad (-1 < r < 1)$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i}$$  
+$$P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$  
+$$M\left(\frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c$$  
+$$y - y_1 = m(x - x_1)$$  
+$$m = \frac{y_2 - y_1}{x_2 - x_1}$$  
+$$m = \tan \theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+In $\Delta ABC$:  
+$$\frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}$$  
+$$a^2 = b^2 + c^2 - 2bc \cos A$$  
+$$\text{area } \Delta ABC = \frac{1}{2}ab \sin C$$
+
+$$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta$$  
+$$\sin(\alpha - \beta) = \sin \alpha \cos \beta - \cos \alpha \sin \beta$$  
+$$\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta$$  
+$$\cos(\alpha - \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2 \alpha - \sin^2 \alpha \\ 1 - 2\sin^2 \alpha \\ 2\cos^2 \alpha - 1 \end{cases}$$  
+$$\sin 2\alpha = 2\sin \alpha \cos \alpha$$
+
+$$\bar{x} = \frac{\sum_{i=1}^n x_i}{n}$$  
+$$\sigma^2 = \frac{\sum_{i=1}^n (x_i - \bar{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)}$$  
+$$P(A \text{ or } B) = P(A) + P(B) - P(A \text{ and } B)$$
+
+$$\hat{y} = a + bx$$  
+$$b = \frac{\sum(x - \bar{x})(y - \bar{y})}{\sum(x - \bar{x})^2}$$

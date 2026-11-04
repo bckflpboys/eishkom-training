@@ -1,0 +1,213 @@
+Wiskunde/V1  
+DBE/November 2017  
+KABV – Graad 11  
+
+---
+
+**BASIESE ONDERWYS**  
+**Departement: Basiese Onderwys**  
+**REPUBLIEK VAN SUID-AFRIKA**  
+
+**NASIONALE SENIOR SERTIFIKAAT**  
+
+**GRAAD 11**  
+
+**WISKUNDE V1**  
+**NOVEMBER 2017**  
+
+**PUNTE:** 150  
+**TYD:** 3 uur  
+
+Hierdie vraestel bestaan uit 7 bladsye.  
+
+Kopiereg voorbehou  
+Blaai om asseblief  
+
+---
+
+Wiskunde/V1  
+2  
+DBE/November 2017  
+KABV – Graad 11  
+
+### INSTRUKSIES EN INLIGTING  
+
+Lees die volgende instruksies aandagtig deur voordat jy die vrae beantwoord.  
+
+1. Hierdie vraestel bestaan uit **NEGE** vrae.  
+2. Beantwoord **AL** die vrae.  
+3. Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie vraestel gebruik is.  
+4. Duis **ALLE** berekeninge, diagramme, grafieke, ensovoorts wat jy gebruik het om die antwoorde te bepaal, duidelik aan.  
+5. Volpunte sal nie noodwendig aan slegs antwoorde toegeken word nie.  
+6. Jy mag 'n goedgekeurde wetenskaplike sakrekenaar (nie-programmeerbaar en nie-grafies) gebruik, tensy anders aangedui.  
+7. Rond antwoorde tot **TWEE** desimale plekke af, tensy anders aangedui.  
+8. Diagramme is **NIE** noodwendig volgens skaal geteken nie.  
+9. Skryf netjies en leesbaar.  
+
+Kopiereg voorbehou  
+Blaai om asseblief  
+
+---
+
+Wiskunde/V1  
+3  
+DBE/November 2017  
+KABV – Graad 11  
+
+## VRAAG 1  
+
+1.1 Los op vir $x$:  
+  1.1.1 $(2x - 3)(x + 7) = 0$ $(2)$  
+  1.1.2 $7x^2 + 3x - 2 = 0$ (los jou antwoord korrek tot TWEE desimale plekke) $(3)$  
+  1.1.3 $\sqrt{x - 1} + 3 = x$ $(6)$  
+  1.1.4 $x^2 > 3(x + 6)$ $(4)$  
+
+1.2 Los gelyktydig vir $x$ en $y$ op:  
+  $$2y + x = 1$$  
+  $$x^2 + y^2 + 3xy = y = 0$$ [Nota: $x^2 + y^2 + 3xy + y = 0$ as per standaardvorm, let op tipografiese fout op bladsy 3: $x^2 + y^2 + 3xy + y = 0$] $(6)$  
+
+1.3 As $f(x) = 0$ die wortels $x = \frac{-5 \pm \sqrt{3 - 12k^2}}{4}$ het, vir watter waardes van $k$ sal die wortels gelyk wees? $(3)$  
+**[24]**  
+
+## VRAAG 2  
+
+2.1 Vereenvoudig volledig, SONDER om 'n sakrekenaar te gebruik:  
+  $$\frac{3^{m+4} - 6 \cdot 3^{m+1}}{7 \cdot 3^{m+2}}$$ $(4)$  
+
+2.2 Los op vir $x$, SONDER om 'n sakrekenaar te gebruik:  
+  2.2.1 $x^{-\frac{3}{4}} = 8$ $(3)$  
+  2.2.2 $4^x - 2^x = 2$ $(4)$  
+
+2.3 As $x = \frac{3 - \sqrt{a}}{\sqrt{2}}$ en $y = \frac{4 + \sqrt{a}}{\sqrt{2}}$, bepaal die waarde van $(x + y)^2$ $(3)$  
+
+2.4 Toon, SONDER om 'n sakrekenaar te gebruik, dat $\sqrt[12]{10} \times \sqrt[6]{640} \times \sqrt[4]{810} \times \sqrt{40} = 120$ $(4)$  
+**[18]**  
+
+---
+
+Wiskunde/V1  
+4  
+DBE/November 2017  
+KABV – Graad 11  
+
+## VRAAG 3  
+
+3.1 Gegee die eindige lineêre patroon: $12\ ;\ 17\ ;\ 22\ ;\ \dots\ ;\ 172$  
+  3.1.1 Bepaal 'n formule vir die $n^{\text{de}}$ term van die patroon. $(2)$  
+  3.1.2 Bereken die waarde van $T_{12}$. $(2)$  
+  3.1.3 Bepaal die getal terme in die patroon. $(2)$  
+
+3.2 Gegee die eerste vier terme van 'n lineêre (lys + vorige vraestelle) patroon: $3\ ;\ x\ ;\ y\ ;\ 30$  
+  Bereken die waardes van $x$ en $y$. $(4)$  
+**[10]**  
+
+## VRAAG 4  
+
+Gegee die kwadratiese patroon: $244\ ;\ 193\ ;\ 148\ ;\ 109\ \dots$  
+
+4.1 Skryf die volgende term van die patroon neer. $(2)$  
+4.2 Bepaal 'n formule vir die $n^{\text{de}}$ term van die patroon. $(4)$  
+4.3 Watter term van die patroon sal 'n waarde van $508$ hê? $(4)$  
+4.4 Tussen watter TWEE opeenvolgende terme van die kwadratiese patroon sal die eerste verskil $453$ wees? $(3)$  
+4.5 Toon dat al die terme van die kwadratiese patroon positief is. $(4)$  
+**[17]**  
+
+## VRAAG 5  
+
+Gegee: $f(x) = \frac{-3}{x + 2} + 1$ en $g(x) = 2^{-x} - 4$  
+
+5.1 Bepaal $f(-3)$. $(1)$  
+5.2 Bepaal $x$ as $g(x) = 4$. $(2)$  
+5.3 Skryf die asimptote van $f$ neer. $(2)$  
+5.4 Skryf die waardeverzameling van $g$ neer. $(1)$  
+5.5 Bepaal die koördinate van die $x$- en $y$-afsnitte van $f$. $(5)$  
+5.6 Bepaal die vergelyking van die simmetrie-as van $f$ met 'n negatiewe gradiënt. Los jou antwoord in die vorm $y = mx + c$. $(2)$  
+5.7 Skets die grafieke van $f$ en $g$ op dieselfde assestelsel. Toon duidelik ALLE afsnitte met die asse en enige asimptote. $(6)$  
+5.8 Indien dit gegee word dat $f(-1) = g(-1)$, bepaal die waardes van $x$ waarvoor $g(x) \ge f(x)$. $(2)$  
+**[21]**  
+
+---
+
+Wiskunde/V1  
+5  
+DBE/November 2017  
+KABV – Graad 11  
+
+## VRAAG 6  
+
+Die diagram hieronder toon die grafieke van $f(x) = -x^2 - x + 6$ en $g(x) = mx + c$.  
+$A(-2\ ;\ 4)$ is die snypunt van die grafieke.  
+
+[DIAGRAM: A Cartesian plane showing a parabola $f$ opening downwards with vertex in the upper half, $y$-intercept at $D$, and $x$-intercepts at $B$ and $C$. A straight line $g$ has a positive gradient, intersecting $f$ at point $A(-2; 4)$ and passing through $D$ on the $y$-axis and point $B$ on the negative $x$-axis.]  
+
+6.1 Bepaal die $x$-afsnitte van $f$. $(4)$  
+6.2 Skryf die vergelyking van die simmetrie-as van $f$ neer. $(2)$  
+6.3 Bepaal die waardeverzameling van $f$. $(3)$  
+6.4 Skryf die vergelyking van $g$ in die vorm $g(x) = mx + c$ neer. $(3)$  
+6.5 Skryf die gemiddelde gradiënt tussen punt $A$ en $D$ neer. $(1)$  
+6.6 Bepaal die vergelyking van $h$, as $h$ die refleksie van $f$ om die $x$-as is en dan met 3 eenhede na regs geskuif word. Los jou antwoord in die vorm $h(x) = a(x + p)^2 + q$. $(3)$  
+6.7 Skryf die waardes van $x$ neer waarvoor $f(x) > 0$. $(2)$  
+6.8 Indien $f(p) = f(r) = 4$, bereken die waarde van $p - r$ as $r < 0$. $(4)$  
+**[22]**  
+
+---
+
+Wiskunde/V1  
+6  
+DBE/November 2017  
+KABV – Graad 11  
+
+## VRAAG 7  
+
+7.1 'n Maatskappy het masjinerie teen 'n waarde van R80 000 gekoop. Hulle gebruik die verminderdesaldo-metode en na 5 jaar het die masjinerie 'n boekwaarde van R20 000.  
+Bereken die koers van vermindering. $(3)$  
+
+7.2 Bereken die effektiewe rentekoers as rente saamgestel word teen $5\%$ p.j., kwartaalliks saamgestel. $(3)$  
+
+7.3 Sipho het R30 000 vir 6 jaar belê. Die belegging het rente verdien teen $12\%$ p.j., maandeliks saamgestel vir die eerste twee jaar. Die rentekoers het daarna verander na $10,8\%$ p.j., halfjaarliks saamgestel vir die res van die tydperk.  
+Bereken die waarde van die belegging aan die einde van 6 jaar. (Daar was geen ander transaksies op die rekening nie.) $(4)$  
+
+7.4 Mary het R25 000 in 'n spaarrekening gedeponeer teen 'n rentekoers van $18\%$ p.j., maandeliks saamgestel. Mary het R8 000 uit die rekening onttrek 2 jaar nadat sy die aanvanklike bedrag gedeponeer het. Sy deponeer nog R4 000 in hierdie rekening $3\frac{1}{2}$ jaar nadat sy die aanvanklike bedrag gedeponeer het. Watter bedrag sal Mary 5 jaar na die aanvanklike deposito in hierdie rekening hê? $(6)$  
+**[16]**  
+
+## VRAAG 8  
+
+8.1 'n Sak bevat 3 blou alabasters en 2 rooi alabasters. 'n Albaster word uit die sak gehaal, die kleur word aangeteken en die albaster word eenkant gesit. 'n Tweede albaster word uit die sak gehaal, die kleur word aangeteken en dan eenkant gesit.  
+  8.1.1 Teken 'n boomdiagram om die inligting hierbo voor te stel. Toon die waarskynlikhede wat met ELKE tak, asook die moontlike uitkomste, geassosieer word. $(3)$  
+  8.1.2 Bepaal die waarskynlikheid om eers 'n rooi albaster en dan 'n blou albaster, in daardie volgorde, uit te haal. $(2)$  
+
+8.2 A en B is twee gebeurtenisse. Die waarskynlikheid dat gebeurtenis A sal plaasvind, is $0,4$ en die waarskynlikheid dat gebeurtenis B sal plaasvind, is $0,3$. Die waarskynlikheid dat gebeurtenis A of gebeurtenis B sal plaasvind, is $0,58$.  
+  8.2.1 Is gebeurtenis A en B onderling uitsluitend? Regverdig jou antwoord met toepaslike berekeninge. $(3)$  
+  8.2.2 Is gebeurtenis A en B onafhanklik? Regverdig jou antwoord met toepaslike berekeninge. $(3)$  
+**[11]**  
+
+---
+
+Wiskunde/V1  
+7  
+DBE/November 2017  
+KABV – Graad 11  
+
+## VRAAG 9  
+
+'n Opname is onder 80 leerders oor hulle gunstelingsoort gedoen.  
+Die resultate word hieronder getoon.  
+
+* 52 leerders hou van rugby (R)  
+* 42 leerders hou van vrugbal (V)  
+* 5 leerders hou slegs van skaak (C)  
+* 14 leerders hou van rugby en vrugbal, maar nie van skaak nie  
+* 12 leerders hou van rugby en skaak, maar nie van vrugbal nie  
+* 15 leerders hou van vrugbal en skaak, maar nie van rugby nie  
+* $x$ leerders hou van al 3 sportsoorte  
+* 3 leerders het van geen sportsoort gehou nie  
+
+9.1 Teken 'n Venn-diagram om die inligting hierbo voor te stel. $(5)$  
+9.2 Toon aan dat $x = 8$. $(2)$  
+9.3 Hoeveel leerders hou slegs van rugby? $(1)$  
+9.4 Bereken die waarskynlikheid dat 'n leerder wat willekeurig gekies word, van ten minste TWEE verskillende sportsoorte hou. $(3)$  
+**[11]**  
+
+**TOTAAL: 150**  
+
+Kopiereg voorbehou

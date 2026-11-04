@@ -1,0 +1,397 @@
+Confidential
+
+**SENIOR CERTIFICATE EXAMINATIONS /**
+**NATIONAL SENIOR CERTIFICATE EXAMINATIONS**
+
+**PHYSICAL SCIENCES: PHYSICS (P1)**
+
+**MAY/JUNE 2025**
+
+**MARKS:** 150  
+**TIME:** 3 hours
+
+This question paper consists of 16 pages and 3 data sheets.
+
+---
+
+### INSTRUCTIONS AND INFORMATION
+
+1. Write your centre number and examination number in the appropriate spaces on the ANSWER BOOK.
+2. This question paper consists of TEN questions. Answer ALL the questions in the ANSWER BOOK.
+3. Start EACH question on a NEW page in the ANSWER BOOK.
+4. Number the answers correctly according to the numbering system used in this question paper.
+5. Leave ONE line between two subquestions, e.g. between QUESTION 2.1 and QUESTION 2.2.
+6. You may use a non-programmable calculator.
+7. You may use appropriate mathematical instruments.
+8. Show ALL formulae and substitutions in ALL calculations.
+9. Round off your FINAL numerical answers to a minimum of TWO decimal places.
+10. Give brief motivations, discussions, etc. where required.
+11. You are advised to use the attached DATA SHEETS.
+12. Write neatly and legibly.
+
+---
+
+### QUESTION 1: MULTIPLE-CHOICE QUESTIONS
+
+Various options are provided as possible answers to the following questions. Each question has only ONE correct answer. Choose the answer and write only the letter (A–D) next to the question numbers (1.1 to 1.10) in the ANSWER BOOK, e.g. 1.11 E.
+
+1.1 Three forces act on an object so that the resultant force is zero.
+
+Which ONE of the following vector diagrams is the CORRECT representation of the three forces?
+
+[DIAGRAM: Four vector diagrams labelled A, B, C, D showing triangular arrangements of three directional force vectors]
+A, B, C, D  
+*(2)*
+
+1.2 Two large objects $\mathbf{P}$ and $\mathbf{R}$, each of mass $m$, are placed with their centres $r$ metres apart, as shown in the diagram below. They exert a gravitational force of magnitude $F$ on each other.
+
+[DIAGRAM: Two spherical objects P and R of mass m separated by distance r between centres]
+
+The mass of $\mathbf{R}$ is increased to $2m$ and the objects are now placed so that the distance between their centres is $2r$ metres.
+
+Which ONE of the following is the magnitude of the gravitational force that $\mathbf{R}$ now exerts on $\mathbf{P}$?
+
+A $\frac{1}{2}F$  
+B $F$  
+C $2F$  
+D $4F$  
+*(2)*
+
+1.3 The velocity versus time sketch graph below is for the motion of a ball that is projected vertically upwards from the top of a building.
+
+[DIAGRAM: A velocity-time graph showing a straight line with negative gradient starting at positive velocity P, crossing zero at Q, reaching R at the bottom, then dashed/solid continuation through S]
+
+The ball reached its greatest height above the ground at a certain time. Which point on the graph corresponds to this greatest height?
+
+A $P$  
+B $Q$  
+C $R$  
+D $S$  
+*(2)*
+
+1.4 Two hard objects collide INELASTICALLY in an isolated system.
+
+Which ONE of the following statements is CORRECT for this collision?
+
+A Both total momentum and total kinetic energy are conserved.  
+B Neither total momentum nor total kinetic energy is conserved.  
+C Total momentum is not conserved, but total kinetic energy is conserved.  
+D Total momentum is conserved, but total kinetic energy is not conserved.  
+*(2)*
+
+1.5 Engine $\mathbf{P}$ has a greater maximum power output than engine $\mathbf{Q}$.
+
+Which ONE of the following statements is CORRECT when $\mathbf{P}$ and $\mathbf{Q}$ each operate at their maximum power output?
+
+A $\mathbf{Q}$ does more work than $\mathbf{P}$ in the same amount of time.  
+B $\mathbf{P}$ and $\mathbf{Q}$ do the same amount of work in the same amount of time.  
+C $\mathbf{P}$ and $\mathbf{Q}$ do the same amount of work, but $\mathbf{Q}$ does it in a shorter time than $\mathbf{P}$.  
+D $\mathbf{P}$ and $\mathbf{Q}$ do the same amount of work, but $\mathbf{P}$ does it in a shorter time than $\mathbf{Q}$.  
+*(2)*
+
+1.6 The absorption spectra of the same element surrounding both star $\mathbf{A}$ and star $\mathbf{B}$ are observed from Earth.
+
+The spectral lines for star $\mathbf{B}$ are more red-shifted than those for star $\mathbf{A}$.
+
+How do the frequencies of the observed spectral lines and the speed of star $\mathbf{B}$ compare to that of star $\mathbf{A}$?
+
+| | FREQUENCIES OF THE OBSERVED SPECTRAL LINES FROM STAR B COMPARED TO THOSE FROM STAR A | SPEED OF STAR B COMPARED TO THAT OF STAR A |
+|---|---|---|
+| A | Higher | Greater |
+| B | Higher | Smaller |
+| C | Lower | Greater |
+| D | Lower | Smaller |
+
+*(2)*
+
+1.7 $\mathbf{R}$ and $\mathbf{S}$ are two small charged spheres placed a distance apart. $\mathbf{P}$ is a point to the right of sphere $\mathbf{S}$. $\mathbf{E}_R$ and $\mathbf{E}_S$ are the electric fields at point $\mathbf{P}$ due to the charges on spheres $\mathbf{R}$ and $\mathbf{S}$ respectively. See the diagram below.
+
+[DIAGRAM: Sphere R and Sphere S in a line, with point P to the right. E_S points left towards S, E_R points right away from R]
+
+Which ONE of the following combinations is CORRECT for the net charge on spheres $\mathbf{R}$ and $\mathbf{S}$?
+
+| | SPHERE R | SPHERE S |
+|---|---|---|
+| A | Positive | Negative |
+| B | Negative | Positive |
+| C | Negative | Negative |
+| D | Positive | Positive |
+
+*(2)*
+
+1.8 The circuit below was used in a practical investigation. The battery has emf $\varepsilon$ and internal resistance $r$. Ignore the resistance of the connecting wires.
+
+Graphs $\mathbf{K}$ and $\mathbf{L}$ below were obtained from the readings taken.
+
+[DIAGRAM: Electric circuit with a battery (emf epsilon, r), ammeter A, voltmeters V1 and V2, and a variable resistor with switch S. Below are two graphs: Graph K showing linear increase of Voltage vs Current; Graph L showing linear decrease of Voltage vs Current]
+
+Which ONE of the combinations below CORRECTLY indicates the voltmeter readings taken to obtain graphs $\mathbf{K}$ and $\mathbf{L}$?
+
+| | GRAPH K | GRAPH L |
+|---|---|---|
+| A | $V_1$ | $V_1$ |
+| B | $V_1$ | $V_2$ |
+| C | $V_2$ | $V_1$ |
+| D | $V_2$ | $V_2$ |
+
+*(2)*
+
+1.9 Which ONE of the following is the function of the split-ring commutator in an electric motor?
+
+The split-ring commutator …
+
+A rotates the coil.  
+B delivers current from the coil to the external circuit.  
+C ensures that the coil rotates continuously in one direction.  
+D ensures that the current in the external circuit changes direction.  
+*(2)*
+
+1.10 Which ONE of the following statements CORRECTLY describes the photoelectric effect?
+
+A An electron absorbs the energy of a photon and emits light.  
+B An electron emits a photon when it collides with another electron.  
+C An electron absorbs the energy of a photon and is ejected from the surface of a metal.  
+D A photon is emitted when an electron moves from a lower energy level to a higher energy level.  
+*(2)*  
+**[20]**
+
+---
+
+### QUESTION 2 (Start on a new page.)
+
+A crate of mass $25\text{ kg}$ slides down a rough inclined plane at a constant speed of $2\text{ m}\cdot\text{s}^{-1}$ towards point $\mathbf{A}$ while force $F$ acts on it, parallel to the incline, as shown below. A constant kinetic frictional force of $40\text{ N}$ acts on the crate when the plane is inclined at an angle of $30^\circ$ with the horizontal.
+
+[DIAGRAM: A 25 kg crate on an inclined plane at 30 degrees, moving down at 2 m/s towards point A, with a force F acting upwards parallel to the incline, distance to A is 5 m]
+
+2.1 State Newton's First Law of Motion in words. *(2)*
+
+2.2 Draw a labelled free-body diagram showing ALL the forces acting on the crate, as it moves towards point $\mathbf{A}$. *(4)*
+
+2.3 Calculate the magnitude of $F$. *(3)*
+
+When the crate reaches point $\mathbf{A}$, force $F$ is removed, and the angle of inclination is decreased immediately to $\theta$ so that the crate continues moving at $2\text{ m}\cdot\text{s}^{-1}$ towards point $\mathbf{B}$.
+
+[DIAGRAM: Crate on an incline of angle theta moving towards point B, distance from A to B is 5 m]
+
+2.4 Use the relationship between the forces acting on the crate between points $\mathbf{A}$ and $\mathbf{B}$ to show that $\mu_k = \frac{\sin\theta}{\cos\theta}$. *(3)*
+
+2.5 The coefficient of kinetic friction between the crate and the inclined plane is $0,19$. Using the identity $\frac{\sin\theta}{\cos\theta} = \tan\theta$, calculate the frictional force as the crate slides from point $\mathbf{A}$ to point $\mathbf{B}$. *(3)*  
+**[15]**
+
+---
+
+### QUESTION 3 (Start on a new page.)
+
+A ball is dropped from point $\mathbf{A}$ and reaches point $\mathbf{B}$ $h$ metres below point $\mathbf{A}$, in time $t$. The ball takes $2\text{ s}$ to fall from point $\mathbf{B}$ to point $\mathbf{C}$ on the ground. The distance from point $\mathbf{B}$ to point $\mathbf{C}$ is $8h$ metres. See the diagram below.
+
+Ignore the effects of air friction.
+
+[DIAGRAM: Vertical line from point A down to B (distance h, time t), then from B to C (distance 8h, time 2 s), with 'ground' at C]
+
+3.1 Define the term *free fall*. *(2)*
+
+3.2 Show, by means of calculations, that time $t$ is equal to $1\text{ second}$. *(4)*
+
+3.3 Using EQUATIONS OF MOTION ONLY, calculate the speed with which the ball reached point $\mathbf{C}$. *(3)*
+
+3.4 Determine the height:
+
+3.4.1 From which the ball was dropped *(2)*
+
+3.4.2 Of the ball at point $\mathbf{B}$ *(1)*
+
+3.5 Sketch a position versus time graph for the motion of the ball from the moment the ball was dropped until it reached point $\mathbf{C}$.
+
+Take the GROUND AS THE ZERO POSITION.
+
+Indicate the following values on your graph:
+* The position of the ball from which it was dropped
+* The time and position of the ball when it was at point $\mathbf{B}$
+* The time taken for the ball to reach point $\mathbf{C}$ *(4)*  
+**[16]**
+
+---
+
+### QUESTION 4 (Start on a new page.)
+
+Trolley $\mathbf{A}$ of mass $1,5\text{ kg}$ is at rest on a frictionless horizontal surface. A second trolley $\mathbf{B}$, of mass $2\text{ kg}$, travelling horizontally at a constant speed $v$, collides with trolley $\mathbf{A}$. The trolleys stick together and move at a constant velocity to the right, covering a distance of $0,8\text{ m}$ in $2\text{ s}$. See the diagram below.
+
+Ignore ALL frictional and rotational effects.
+
+[DIAGRAM: Before collision: Trolley B (2 kg) moving right at speed v towards Trolley A (1,5 kg) at rest. After collision: Both trolleys stuck together moving right]
+
+4.1 State the principle of conservation of linear momentum in words. *(2)*
+
+4.2 Calculate speed $v$ with which trolley $\mathbf{B}$ moves before the collision. *(5)*
+
+4.3 Is the collision ELASTIC or INELASTIC? *(1)*
+
+4.4 During another collision, trolley $\mathbf{B}$ exerts a greater force on trolley $\mathbf{A}$ and the change in momentum of trolley $\mathbf{A}$ is the same as before. How is the time for the collision affected?
+
+Choose from INCREASES, DECREASES or REMAINS THE SAME.
+
+Write down a relevant equation that supports the answer. *(2)*  
+**[10]**
+
+---
+
+### QUESTION 5 (Start on a new page.)
+
+Water is drawn from a water source $12,5\text{ m}$ below the ground by an electric pump. The water is lifted vertically upwards at a constant speed, as shown in the simplified diagram below.
+
+The pump lifts the water upwards at a rate of $2,5\text{ kg}\cdot\text{s}^{-1}$. Ignore ALL frictional and capillarity effects.
+
+[DIAGRAM: An electric pump at ground level drawing water from a water source 12,5 m below ground through a vertical pipe]
+
+5.1 Define the term *non-conservative force*. *(2)*
+
+5.2 Draw a labelled free-body diagram showing ALL the forces acting on a fixed mass of water as it moves from the source to the ground. *(2)*
+
+5.3 The pump lifts $200\text{ kg}$ of water from the source to the ground at a constant speed. Calculate the:
+
+5.3.1 Work done by the pump *(3)*
+
+5.3.2 Constant speed at which the water is lifted *(3)*
+
+5.3.3 Average power dissipated by the pump  
+Ignore energy losses in the form of heat and sound. *(3)*  
+**[13]**
+
+---
+
+### QUESTION 6 (Start on a new page.)
+
+A bat emits sound waves with a frequency $f_s$ as it flies at a constant speed $v_B$ towards a vertical cliff. The waves reflect off the cliff with the same frequency that they strike the cliff, and with a wavelength of $\lambda_L = 0,016\text{ m}$, as shown in the simplified diagram below.
+
+Take the speed of sound in air to be $340\text{ m}\cdot\text{s}^{-1}$.
+
+[DIAGRAM: A bat flying towards a vertical cliff at speed v_B, emitting sound waves shown as curved wavefronts reflecting off the cliff with wavelength lambda_L = 0,016 m]
+
+6.1 NAME and STATE the phenomenon that results in a change in frequency of the detected sound waves. *(3)*
+
+6.2 Show that $f_s$, the frequency of the sound waves emitted by the bat, is $(21\text{ }250 - 62,5v_B)$. *(4)*
+
+6.3 The frequency of the reflected sound waves detected by the bat is $850\text{ Hz}$ higher than the frequency of the sound waves emitted by the bat.
+
+Calculate the speed of the bat, $v_B$. *(5)*  
+**[12]**
+
+---
+
+### QUESTION 7 (Start on a new page.)
+
+7.1 A small negative charge $q$ placed at a fixed distance from charged sphere $\mathbf{Q}$, experiences a force $F$, as shown in the diagram below.
+
+[DIAGRAM: Sphere Q next to charge -q with an attractive force F between them]
+
+The charge $q$ is now removed.
+
+Draw the electric field pattern for the charged sphere $\mathbf{Q}$. *(3)*
+
+7.2 Sphere $\mathbf{S}$ is attached to the ceiling at point $\mathbf{P}$ by a light inextensible string. When sphere $\mathbf{R}$, on an insulated stand, is brought close to sphere $\mathbf{S}$ they repel and sphere $\mathbf{S}$ comes to rest with the horizontal distance between the centres of the spheres equal to $0,03\text{ m}$.
+
+Sphere $\mathbf{R}$ is directly below point $\mathbf{P}$. The string makes an angle $\theta$ with the vertical, as shown in the diagram below.
+
+[DIAGRAM: Ceiling with point P. A string of length hangs down at angle theta to sphere S. Sphere R is on an insulated stand directly below P. Horizontal distance between R and S is 0,03 m]
+
+7.2.1 State Coulomb's law in words. *(2)*
+
+7.2.2 Draw a labelled free-body diagram showing ALL the forces acting on sphere $\mathbf{S}$ when it is at rest. *(3)*
+
+Sphere $\mathbf{R}$ has a charge of $+6\text{ nC}$. Sphere $\mathbf{S}$ has a charge $+3\text{ nC}$ and a mass of $0,15\text{ g}$.
+
+7.2.3 Calculate angle $\theta$. *(5)*  
+**[13]**
+
+---
+
+### QUESTION 8 (Start on a new page.)
+
+In the circuit diagram below, the battery has an emf of $24\text{ V}$ and an internal resistance of $0,3\ \Omega$. Light bulb $\mathbf{L}$ has a resistance of $9,5\ \Omega$ and $\mathbf{R}$ is a resistor of unknown resistance. Ignore the resistance of the ammeters and the connecting wires.
+
+[DIAGRAM: DC circuit with a battery (emf 24V, internal resistance 0,3 ohms), switch S1, ammeter A2, light bulb L (9,5 ohms), switch S2 in parallel with ammeter A1 and a 13 ohm resistor, and another branch with a 9 ohm resistor, plus a voltmeter V across the parallel network]
+
+8.1 State Ohm's law in words. *(2)*
+
+When both switches $S_1$ and $S_2$ are CLOSED, the reading on ammeter $A_1$ is $0,8\text{ A}$.
+
+8.2 Calculate the:
+
+8.2.1 Current through light bulb $\mathbf{L}$ *(3)*
+
+8.2.2 Reading on ammeter $\mathbf{A}_2$ *(4)*
+
+8.2.3 Resistance of resistor $\mathbf{R}$ *(5)*
+
+Switch $S_2$ is now OPENED, while switch $S_1$ remains CLOSED.
+
+8.3 How will this affect the reading on ammeter $\mathbf{A}_2$? Choose from INCREASES, DECREASES or REMAINS THE SAME. Give a reason for the answer. *(2)*
+
+8.4 How will the brightness of bulb $\mathbf{L}$ be affected? Choose from INCREASES, DECREASES or REMAINS THE SAME. Explain the answer. *(4)*
+
+The letters $\mathbf{A}$ to $\mathbf{F}$ represent different quantities in the circuit, as shown in the table below.
+
+| | | | |
+|---|---|---|---|
+| $\mathbf{A}$ | Voltage across the battery | $\mathbf{D}$ | Current through ammeter $\mathbf{A}_2$ |
+| $\mathbf{B}$ | Internal resistance of the battery | $\mathbf{E}$ | Resistance of resistor $\mathbf{R}$ |
+| $\mathbf{C}$ | Current through ammeter $\mathbf{A}_1$ | $\mathbf{F}$ | Potential difference across the $9\ \Omega$ resistor |
+
+Switch $S_1$ is now OPENED, while switch $S_2$ is CLOSED.
+
+8.5 Write down the LETTERS of the quantities that will now be equal to zero. *(3)*  
+**[23]**
+
+---
+
+### QUESTION 9 (Start on a new page.)
+
+9.1 The diagram below represents a simplified version of an AC generator.
+
+The induced current flows from $\mathbf{X}$ to $\mathbf{Y}$ in the coil when the coil is rotated clockwise, as shown in the diagram below.
+
+[DIAGRAM: Simplified AC generator with permanent magnets (pole A and opposite pole), a rectangular coil with slip rings and brushes, showing induced current from X to Y]
+
+9.1.1 What is the polarity of $\mathbf{A}$? Choose from NORTH or SOUTH. *(2)*
+
+9.1.2 State ONE way in which the induced emf of this generator can be increased. *(1)*
+
+9.1.3 Sketch a graph of induced current versus time for ONE complete rotation of the coil from the horizontal position, as shown in the diagram above. *(3)*
+
+9.2 An AC generator produces a maximum output voltage of $340\text{ V}$. A $1\text{ }200\text{ W}$ electric kettle operates optimally when it is connected to this generator.
+
+9.2.1 Define the term *root mean square current*. *(2)*
+
+9.2.2 Calculate the root mean square current passing through the kettle. *(4)*
+
+9.2.3 Calculate the resistance of the kettle. *(3)*  
+**[15]**
+
+---
+
+### QUESTION 10 (Start on a new page.)
+
+Light of different frequencies is incident on a metal plate. The sketch graph below shows the relationship between the maximum kinetic energy, $E_{k(\max)}$, of the photoelectrons and the energy of the incident photons.
+
+[DIAGRAM: Graph of E_k(max) (x 10^-19 J) vs Energy of photons (J), starting at intercept 3,68 x 10^-19 on the x-axis, passing through (Y, 2,99)]
+
+10.1 Define the term *work function of a metal*. *(2)*
+
+10.2 Write down the numerical value of the gradient of the above graph. *(2)*
+
+10.3 Calculate the:
+
+10.3.1 Maximum speed of the photoelectrons when photons with energy $\mathbf{Y}$, as shown on the graph, strike the metal plate *(3)*
+
+10.3.2 Value of $\mathbf{Y}$ *(4)*
+
+10.4 Photons with energy $4,02 \times 10^{-19}\text{ J}$ strike the metal plate and photoelectrons are emitted.
+
+The number of photons with energy $4,02 \times 10^{-19}\text{ J}$ striking the metal plate per second is now increased.
+
+How will the maximum kinetic energy of the photoelectrons be affected? Choose from INCREASES, DECREASES or REMAINS THE SAME.
+
+Give a reason for the answer. *(2)*  
+**[13]**
+
+**TOTAL: 150**

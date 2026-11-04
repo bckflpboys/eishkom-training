@@ -1,0 +1,368 @@
+**NATIONAL SENIOR CERTIFICATE**
+**GRADE 12**
+
+**PHYSICAL SCIENCES: CHEMISTRY (P2)**
+**NOVEMBER 2025**
+
+**MARKS: 150**
+**TIME: 3 hours**
+
+---
+
+### INSTRUCTIONS AND INFORMATION
+
+1. Write your centre number and examination number in the appropriate spaces on the ANSWER BOOK.
+2. This question paper consists of NINE questions. Answer ALL the questions in the ANSWER BOOK.
+3. Start EACH question on a NEW page in the ANSWER BOOK.
+4. Number the answers correctly according to the numbering system used in this question paper.
+5. Leave ONE line between two subquestions, e.g. between QUESTION 2.1 and QUESTION 2.2.
+6. You may use a non-programmable calculator.
+7. Show ALL formulae and substitutions in ALL calculations.
+8. Round off your FINAL numerical answers to a minimum of TWO decimal places.
+9. Give brief motivations, discussions, etc. where required.
+10. You are advised to use the attached DATA SHEETS.
+11. Write neatly and legibly.
+
+---
+
+### QUESTION 1: MULTIPLE-CHOICE QUESTIONS
+
+Various options are provided as possible answers to the following questions. Each question has only ONE correct answer. Choose the answer and write only the letter (A–D) next to the question numbers (1.1 to 1.10) in the ANSWER BOOK, e.g. 1.11 E.
+
+1.1 Which ONE of the following is the name of the functional group of propan-1-ol?
+A Carboxyl
+B Carbonyl
+C Hydroxyl
+D Formyl (2)
+
+1.2 The organic compound $\text{C}_2\text{H}_4$ is converted to an alkane as shown by the reaction below:
+$$\text{C}_2\text{H}_4 \rightarrow \text{Alkane}$$
+Which ONE of the following is a suitable catalyst for this reaction?
+A Lead
+B Platinum
+C Hydrogen
+D Iron (2)
+
+1.3 Which of the following statements ALWAYS apply to compounds that are structural isomers of one another?
+(i) They belong to the same homologous series.
+(ii) They have the same structural formula.
+(iii) They have the same molecular formula.
+A (iii) only
+B (i) and (iii) only
+C (i) and (ii) only
+D (i), (ii) and (iii) (2)
+
+1.4 Magnesium ribbon of mass $2\text{ g}$ reacts with excess hydrochloric acid of concentration $0,1\text{ mol}\cdot\text{dm}^{-3}$ at $20\ \text{^\circ C}$:
+$$\text{Mg(s)} + 2\text{HCl(aq)} \rightarrow \text{MgCl}_2\text{(aq)} + \text{H}_2\text{(g)}$$
+Which ONE of the following changes will NOT increase the initial rate of the reaction?
+A Using $2\text{ g}$ of powdered magnesium
+B Increasing the temperature of $\text{HCl}$ to $30\ \text{^\circ C}$
+C Using a longer piece of the magnesium ribbon
+D Doubling the volume of the hydrochloric acid used (2)
+
+1.5 The following reaction reaches equilibrium in a closed container:
+$$\text{H}_2\text{(g)} + \text{S(s)} \rightleftharpoons \text{H}_2\text{S(g)} \quad \Delta H < 0$$
+The reaction rate versus time graph for the reaction is given below.
+
+[DIAGRAM: Reaction rate versus time graph showing a solid line decreasing to an equilibrium level, then abruptly dropping and rising back to a new higher rate at time $t_1$.]
+
+What change was made to the system at time $t_1$?
+A The pressure was increased at a constant temperature.
+B The volume of the container was increased.
+C The temperature was increased.
+D More hydrogen was added to the system. (2)
+
+1.6 A hypothetical endothermic reaction is given below:
+$$\text{A(g)} + \text{B(g)} \rightleftharpoons \text{AB(g)}$$
+The activation energy for the reverse reaction is $50\text{ kJ}\cdot\text{mol}^{-1}$.
+Which ONE of the following is possible for the reaction above?
+A The heat of the reaction is $+70\text{ kJ}\cdot\text{mol}^{-1}$.
+B The activation energy for the forward reaction is $50\text{ kJ}\cdot\text{mol}^{-1}$.
+C The energy of the activated complex is $40\text{ kJ}\cdot\text{mol}^{-1}$.
+D The activation energy for the forward reaction is $40\text{ kJ}\cdot\text{mol}^{-1}$. (2)
+
+1.7 The products for the reaction between a metal oxide and an acid are …
+A a salt and water.
+B a salt and hydrogen gas.
+C a salt and carbon dioxide.
+D a salt, water and carbon dioxide. (2)
+
+1.8 The concentration of each of the four solutions below is $0,1\text{ mol}\cdot\text{dm}^{-3}$:
+$$\text{HNO}_3\text{(aq)},\ \text{NH}_3\text{(aq)},\ \text{NaOH(aq) and }\text{H}_2\text{CO}_3\text{(aq)}$$
+Which ONE of the following CORRECTLY places the solutions in order of INCREASING pH?
+A $\text{H}_2\text{CO}_3\ ;\ \text{HNO}_3\ ;\ \text{NH}_3\ ;\ \text{NaOH}$
+B $\text{HNO}_3\ ;\ \text{H}_2\text{CO}_3\ ;\ \text{NH}_3\ ;\ \text{NaOH}$
+C $\text{NaOH}\ ;\ \text{NH}_3\ ;\ \text{H}_2\text{CO}_3\ ;\ \text{HNO}_3$
+D $\text{HNO}_3\ ;\ \text{H}_2\text{CO}_3\ ;\ \text{NaOH}\ ;\ \text{NH}_3$ (2)
+
+1.9 A galvanic cell consists of the following half-cells:
+$$\text{Fe}^{3+}\text{(aq)}|\text{Fe}^{2+}\text{(aq)}$$
+$$\text{Ni}^{2+}\text{(aq)}|\text{Ni(s)}$$
+Which ONE of the following statements is CORRECT for this cell?
+A $\text{Ni}^{2+}$ is reduced and $\text{Fe}^{2+}$ is oxidised.
+B $\text{Ni}^{2+}$ is oxidised and $\text{Fe}^{3+}$ is reduced.
+C Pt is the electrode at the cathode.
+D Ni is the electrode at the cathode. (2)
+
+1.10 The set-up for electroplating an iron medal with silver is shown in the simplified diagram below.
+
+[DIAGRAM: Simplified circuit diagram showing a power source connected to a silver rod and an iron medal immersed in an electrolyte containing silver ions.]
+
+Which ONE of the following combinations for the ANODE and REACTION AT THE CATHODE is CORRECT?
+
+| | ANODE | REACTION AT THE CATHODE |
+|---|---|---|
+| A | Iron medal | $\text{Ag}^+\text{(aq)} + \text{e}^- \rightarrow \text{Ag(s)}$ |
+| B | Silver rod | $\text{Fe}^{2+}\text{(aq)} + 2\text{e}^- \rightarrow \text{Fe(s)}$ |
+| C | Iron medal | $\text{Ag(s)} \rightarrow \text{Ag}^+\text{(aq)} + \text{e}^-$ |
+| D | Silver rod | $\text{Ag}^+\text{(aq)} + \text{e}^- \rightarrow \text{Ag(s)}$ |
+
+(2)
+**[20]**
+
+---
+
+### QUESTION 2 (Start on a new page.)
+
+The letters **A** to **G** in the table below represent organic compounds.
+
+| **A** | 
+$\begin{matrix}
+\text{H}\quad\text{O}\quad\text{H}\quad\text{H} \\
+|\quad\,\,| \quad\,\,|\quad\,\,| \\
+\text{H}-\text{C}-\text{C}-\text{C}-\text{C}-\text{H} \\
+|\quad\quad\,\,|\quad\,\,| \\
+\text{H}\quad\text{H}-\text{C}-\text{H}\quad\text{H} \\
+\quad\quad\,\,| \\
+\quad\quad\text{H}
+\end{matrix}$ | **B** |
+$\begin{matrix}
+\text{H}\quad\text{H} \\
+|\quad\,\,| \\
+\text{Cl}-\text{C}-\text{C}-\text{C}-\text{H} \\
+|\quad\,\,|\quad\,\,| \\
+\text{H}\quad\text{H}\quad\text{H} \\
+\text{H}\quad\text{H}\quad\text{H}\quad\text{H}\quad\text{H} \\
+|\quad\,\,|\quad\,\,|\quad\,\,|\quad\,\,| \\
+\text{H}-\text{C}-\text{C}-\text{C}-\text{C}-\text{C}-\text{H} \\
+|\quad\,\,|\quad\,\,|\quad\,\,|\quad\,\,| \\
+\text{H}\quad\text{Cl}\quad\text{H}\quad\text{H}\quad\text{H}
+\end{matrix}$ |
+| **C** | $\text{CH}_3\text{CH}(\text{CH}_3)\text{CH}_2\text{CHO}$ | **D** | $\text{C}_4\text{H}_{10}\text{O}$ |
+| **E** | $\text{C}_3\text{H}_8$ | **F** | Pentane |
+| **G** | [DIAGRAM: Structural formula of an organic compound containing a chain with a double bond and multiple methyl branches] | | |
+
+2.1 Write down the LETTER(S) that represent(s) EACH of the following:
+2.1.1 An alcohol (1)
+2.1.2 TWO compounds that are functional isomers of one another (1)
+2.1.3 TWO compounds that belong to the same homologous series (1)
+
+2.2 Write down the:
+2.2.1 IUPAC name of compound **A** (3)
+2.2.2 IUPAC name of compound **B** (3)
+2.2.3 IUPAC name of compound **G** (3)
+2.2.4 STRUCTURAL FORMULAE of two STRAIGHT CHAIN positional isomers of compound **D** (4)
+
+2.3 Compound **E**, $\text{C}_3\text{H}_8\text{(g)}$, reacts with oxygen, $\text{O}_2\text{(g)}$, according to the balanced equation:
+$$\text{C}_3\text{H}_8\text{(g)} + 5\text{O}_2\text{(g)} \rightarrow 3\text{CO}_2\text{(g)} + 4\text{H}_2\text{O}\text{(g)}$$
+Initially $8\text{ cm}^3$ of compound **E** and $50\text{ cm}^3$ of oxygen were injected into a container of adjustable volume and allowed to react.
+
+[DIAGRAM: Syringe-like container of adjustable volume showing reaction mixture]
+
+2.3.1 Write down the name for this type of reaction. (1)
+2.3.2 Calculate the TOTAL volume of the GASES present in the container at the end of the reaction. (5)
+**[22]**
+
+---
+
+### QUESTION 3 (Start on a new page.)
+
+Two bottles contain compounds **A** and **B** with the same molecular formula, $\text{C}_4\text{H}_8\text{O}_2$. These compounds are straight chain organic molecules that belong to two different homologous series.
+
+[DIAGRAM: Two reagent bottles labeled A and B, both containing $\text{C}_4\text{H}_8\text{O}_2$]
+
+The boiling points are used to distinguish between the two compounds.
+
+3.1 Define the term homologous series. (1)
+3.2 Identify the TWO homologous series to which these compounds belong. (2)
+
+The following are the vapour pressures of these compounds at a given temperature:
+* Compound **A**: $0,071\text{ kPa}$
+* Compound **B**: $9,7\text{ kPa}$
+
+3.3 Write down the:
+3.3.1 STRUCTURAL FORMULA of compound **A** (2)
+3.3.2 IUPAC name for a possible compound **B** (2)
+
+3.4 Write down the strongest type of Van der Waal's forces between the molecules in:
+3.4.1 Compound **A** (1)
+3.4.2 Compound **B** (1)
+
+3.5 Which compound, **A** or **B**, has a higher boiling point? Give a reason for the answer by referring to the strength of the intermolecular forces. (2)
+
+3.6 The boiling point of compound **A** is measured again on another day when the atmospheric pressure is much lower. 
+How will the boiling point of this compound now be affected? Choose from INCREASES, DECREASES or REMAINS THE SAME. (1)
+**[12]**
+
+---
+
+### QUESTION 4 (Start on a new page.)
+
+4.1 Study the three organic reactions **I**, **II** and **III** below. Compounds **T** and **W** are organic compounds. **R** and **S** are inorganic substances. Consider only the major products.
+
+| | Reaction |
+|---|---|
+| **I** | $\text{HBr(g)} + \mathbf{T} \rightarrow \mathbf{W}$ |
+| **II** | $\mathbf{W} + \text{NaOH(aq)} \rightarrow \text{CH}_3\text{CH(OH)CH}_2\text{CH}_3 + \mathbf{R}$ |
+| **III** | $\text{CH}_3\text{CH(OH)CH}_2\text{CH}_3 \xrightarrow{\mathbf{S}} \mathbf{T} + \text{H}_2\text{O(}\ell\text{)}$ |
+
+Write down the:
+4.1.1 IUPAC name of compound **W** (2)
+4.1.2 NAME or FORMULA of **R** (1)
+4.1.3 TWO names for the type of reaction in reaction **I** (2)
+4.1.4 NAME or FORMULA of **S** (1)
+4.1.5 STRUCTURAL formula of compound **T** (2)
+
+Compound **W** can be converted to compound **T** in one step.
+4.1.6 State, besides heat, ONE other reaction condition for this conversion. (1)
+
+4.2 A compound with the formula $\text{C}_{10}\text{H}_{22}$ undergoes a cracking reaction according to the equation:
+$$\text{C}_{10}\text{H}_{22}\text{(}\ell\text{)} \rightarrow 2\mathbf{X}\text{(g)} + \text{C}_4\text{H}_{10}\text{(g)}$$
+The mixture of the two products is bubbled in bromine water, $\text{Br}_2\text{(aq)}$, in a darkened room.
+
+4.2.1 Define the term cracking. (2)
+4.2.2 State ONE change, besides a change in temperature, that will be observed when the mixture is bubbled in $\text{Br}_2\text{(aq)}$. (1)
+4.2.3 Write down the STRUCTURAL FORMULA of **X**. (2)
+4.2.4 Which compound, **X** or $\text{C}_4\text{H}_{10}$, reacts faster with $\text{Br}_2\text{(aq)}$? Explain the answer. (3)
+**[17]**
+
+---
+
+### QUESTION 5 (Start on a new page.)
+
+5.1 Define the term reaction rate. (2)
+
+5.2 Carbon monoxide, $\text{CO(g)}$, reacts with oxygen, $\text{O}_2\text{(g)}$, to form carbon dioxide, $\text{CO}_2\text{(g)}$, in a sealed container according to the balanced equation:
+$$2\text{CO(g)} + \text{O}_2\text{(g)} \rightarrow 2\text{CO}_2\text{(g)}$$
+
+The graph below shows the concentration of $\text{O}_2\text{(g)}$ versus time.
+
+[DIAGRAM: Graph of concentration of $\text{O}_2\text{(g)}$ versus time, starting at $0,30\text{ mol}\cdot\text{dm}^{-3}$ at $0\text{ s}$ and decreasing non-linearly to around $0,05\text{ mol}\cdot\text{dm}^{-3}$ at $60\text{ s}$.]
+
+5.2.1 At which time, $10\text{ s}$ or $30\text{ s}$, is the reaction rate higher? (1)
+5.2.2 The reaction takes place in a $3\text{ dm}^3$ container. Calculate the average rate (in $\text{mol}\cdot\text{s}^{-1}$) at which $\text{CO}_2\text{(g)}$ is formed in the first $10\text{ s}$. (5)
+5.2.3 Which reactant is in excess, $\text{CO}$ or $\text{O}_2$? (1)
+5.2.4 This reaction was repeated using a smaller sealed container. How will this affect the magnitude of the gradient of the graph at the beginning of the reaction? Choose from INCREASES, DECREASES or REMAINS THE SAME. 
+Give a reason for the answer. (2)
+
+5.3 The reaction between sulphur dioxide, $\text{SO}_2\text{(g)}$, and oxygen, $\text{O}_2\text{(g)}$, takes place in a sealed container according to the balanced equation below:
+$$2\text{SO}_2\text{(g)} + \text{O}_2\text{(g)} \rightleftharpoons 2\text{SO}_3\text{(g)} \quad \Delta H = -196\text{ kJ}\cdot\text{mol}^{-1}$$
+
+5.3.1 Was there a net release or net absorption of energy during the REVERSE reaction? (1)
+5.3.2 Define the term activated complex. (2)
+5.3.3 A catalyst, vanadium pentoxide, is added to the reaction. Explain, in terms of the collision theory, why the rate of the reaction will increase. (3)
+
+Curve **X** is the Maxwell Boltzmann distribution curve for the reaction above.
+
+[DIAGRAM: Maxwell-Boltzmann distribution curve labeled X showing number of particles versus kinetic energy]
+
+More $\text{SO}_2\text{(g)}$ is now added to the container at constant temperature.
+
+5.3.4 How will this change affect the heat of the reaction? Choose from INCREASES, DECREASES or REMAINS THE SAME. (1)
+5.3.5 Redraw the above graph in the ANSWER BOOK. On the same set of axes, draw the curve that will now be obtained. Label this as curve **Y**. (2)
+**[20]**
+
+---
+
+### QUESTION 6 (Start on a new page.)
+
+6.1 Equilibrium is established at $25\ \text{^\circ C}$ in a saturated calcium hydroxide solution according to the reaction:
+$$\text{Ca(OH)}_2\text{(s)} \rightleftharpoons \text{Ca}^{2+}\text{(aq)} + 2\text{OH}^-\text{(aq)}$$
+
+6.1.1 State Le Chatelier's principle. (2)
+6.1.2 A few drops of concentrated hydrochloric acid, $\text{HCl(conc.)}$, are added to the equilibrium mixture. What effect does this addition have on the mass of $\text{Ca(OH)}_2\text{(s)}$? Choose from INCREASES, DECREASES or REMAINS THE SAME. (1)
+6.1.3 Explain the answer to QUESTION 6.1.2 by using Le Chatelier's principle. (2)
+
+6.2 Initially $70\text{ g}$ of $\text{NH}_4\text{HS(s)}$ is placed in a $3\text{ dm}^3$ container at $250\ \text{^\circ C}$. The container is sealed and the reaction is allowed to reach equilibrium according to the balanced equation:
+$$\text{NH}_4\text{HS(s)} \rightleftharpoons \text{NH}_3\text{(g)} + \text{H}_2\text{S(g)}$$
+
+The $K_c$ values for the decomposition of $\text{NH}_4\text{HS(s)}$ at different temperatures are given in the table below:
+
+| TEMPERATURE ($^\circ\text{C}$) | $K_c$ |
+|---|---|
+| $200$ | $7,5 \times 10^{-2}$ |
+| $250$ | $18 \times 10^{-2}$ |
+| $300$ | $40 \times 10^{-2}$ |
+
+6.2.1 Is the decomposition of $\text{NH}_4\text{HS(s)}$ an EXOTHERMIC or ENDOTHERMIC reaction? (1)
+6.2.2 Explain the answer to QUESTION 6.2.1 by using Le Chatelier's principle. (3)
+6.2.3 Calculate the mass of $\text{NH}_4\text{HS(s)}$ that will be present at equilibrium at $250\ \text{^\circ C}$. (8)
+**[17]**
+
+---
+
+### QUESTION 7 (Start on a new page.)
+
+7.1 Phosphoric acid, $\text{H}_3\text{PO}_4\text{(aq)}$, is an example of an acid that can ionise in three steps, as shown below:
+$$\text{H}_3\text{PO}_4\text{(aq)} + \text{H}_2\text{O(}\ell\text{)} \rightleftharpoons \text{H}_3\text{O}^+\text{(aq)} + \text{H}_2\text{PO}_4^-\text{(aq)} \quad K_a = 6,9 \times 10^{-3}$$
+$$\text{H}_2\text{PO}_4^-\text{(aq)} + \text{H}_2\text{O(}\ell\text{)} \rightleftharpoons \text{H}_3\text{O}^+\text{(aq)} + \text{HPO}_4^{2-}\text{(aq)} \quad K_a = 6,2 \times 10^{-8}$$
+$$\text{HPO}_4^{2-}\text{(aq)} + \text{H}_2\text{O(}\ell\text{)} \rightleftharpoons \text{H}_3\text{O}^+\text{(aq)} + \text{PO}_4^{3-}\text{(aq)} \quad K_a = 4,8 \times 10^{-13}$$
+
+7.1.1 Which one is the stronger acid, $\text{H}_2\text{PO}_4^-$ or $\text{HPO}_4^{2-}$? Give a reason for the answer by referring to the data above. (2)
+7.1.2 Write down the FORMULA for the conjugate base of $\text{H}_2\text{PO}_4^-\text{(aq)}$. (1)
+7.1.3 Identify a substance behaving as an ampholyte in the reactions above. (1)
+
+Sodium hydrogen phosphate, $\text{Na}_2\text{HPO}_4\text{(s)}$, is dissolved in water.
+7.1.4 Will the resulting solution be ACIDIC or BASIC? (1)
+7.1.5 Write a balanced equation to explain the answer to QUESTION 7.1.4. (3)
+
+7.2 Barium hydroxide, $\text{Ba(OH)}_2$, dissolves in water according to the balanced equation:
+$$\text{Ba(OH)}_2\text{(s)} \rightarrow \text{Ba}^{2+}\text{(aq)} + 2\text{OH}^-\text{(aq)}$$
+
+A $100\text{ cm}^3$ solution is prepared by dissolving an unknown amount of $\text{Ba(OH)}_2$ at $25\ \text{^\circ C}$.
+$25\text{ cm}^3$ of this $\text{Ba(OH)}_2$ solution is reacted with $15\text{ cm}^3$ of a $0,2\text{ mol}\cdot\text{dm}^{-3}$ $\text{HCl}$ solution in a flask, according to the balanced equation:
+$$\text{Ba(OH)}_2\text{(aq)} + 2\text{HCl(aq)} \rightarrow \text{BaCl}_2\text{(aq)} + 2\text{H}_2\text{O(}\ell\text{)}$$
+
+The final pH of the solution is $12,62$ at $25\ \text{^\circ C}$.
+
+Calculate the:
+7.2.1 Final concentration of the hydroxide ions in the flask (4)
+7.2.2 Number of moles of $\text{Ba(OH)}_2$ used to prepare the $100\text{ cm}^3$ solution (8)
+**[20]**
+
+---
+
+### QUESTION 8 (Start on a new page.)
+
+The diagram below represents a cell that operates initially under standard conditions.
+
+[DIAGRAM: Electrochemical cell setup with an Al electrode in $\text{Al}^{3+}\text{(aq)}$ and a Zn electrode in $\text{Zn}^{2+}\text{(aq)}$, connected via a voltmeter and a salt bridge.]
+
+8.1 Define the term electrolyte. (2)
+8.2 Which ion concentration, $\text{Al}^{3+}\text{(aq)}$ or $\text{Zn}^{2+}\text{(aq)}$, will increase? Give a reason for the answer. (2)
+8.3 Write down the cell notation for this cell. (3)
+
+The electrolyte in the aluminium half-cell is prepared by dissolving some aluminium sulphate, $\text{Al}_2(\text{SO}_4)_3\text{(s)}$, in water.
+8.4 Calculate the mass of $\text{Al}_2(\text{SO}_4)_3\text{(s)}$ needed to prepare $250\text{ cm}^3$ of this solution so that the cell operates initially under STANDARD CONDITIONS. (4)
+**[11]**
+
+---
+
+### QUESTION 9 (Start on a new page.)
+
+The diagram below represents a cell used for the refining of copper.
+
+[DIAGRAM: Electrolytic cell setup with two electrodes labeled Electrode Q and Electrode R, an electrolyte, and a DC power source with a switch.]
+
+The unrefined copper contains zinc as the only impurity.
+
+9.1 Is this an ELECTROLYTIC or a GALVANIC cell? (1)
+
+9.2 When the switch is closed, it is found after $T$ hours that the amount of $\text{Cu}^{2+}\text{(aq)}$ ions in the electrolyte changed by $0,05\text{ moles}$ and $0,15\text{ moles}$ of $\text{Cu(s)}$ were deposited on electrode **Q**.
+
+9.2.1 How will the concentration of the zinc ions in the electrolyte be affected during the refining of the copper? Choose from INCREASES, DECREASES or REMAINS THE SAME. (1)
+9.2.2 Will the amount of $\text{Cu}^{2+}\text{(aq)}$ ions INCREASE or DECREASE? Explain the answer in terms of the relative strengths of the oxidising agents present. (3)
+9.2.3 Calculate the change in mass of electrode **R** after $T$ hours. (6)
+**[11]**
+
+**TOTAL: 150**

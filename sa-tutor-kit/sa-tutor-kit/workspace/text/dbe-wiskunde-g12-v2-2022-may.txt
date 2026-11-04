@@ -1,0 +1,292 @@
+#basic education
+**Department:**
+Basic Education
+REPUBLIC OF SOUTH AFRICA
+
+# SENIORSERTIKAAT-EKSAMEN / NASIONALE SENIORSERTIKAAT-EKSAMEN
+
+## WISKUNDE V2
+
+### 2022
+
+**PUNTE:** 150  
+**TYD:** 3 uur
+
+Hierdie vraestel bestaan uit 14 bladsye en 1 inligtingsblad.
+
+---
+
+## INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies aandagtig deur voordat jy die vraestel beantwoord.
+
+1. Hierdie vraestel bestaan uit 10 vrae.
+2. Beantwoord AL die vrae in die SPESIALE ANTWOORDEBOEK wat verskaf word.
+3. Dui ALLE berekeninge, diagramme, grafieke, ens. wat jy in die beantwoording van die vrae gebruik, duidelik aan.
+4. Slegs antwoorde sal NIE noodwendig volpunte verdien NIE.
+5. Jy kan 'n goedgekeurde wetenskaplike sakrekenaar gebruik (nieprogrammeerbaar en niegrafies), tensy anders vermeld.
+6. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders vermeld.
+7. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+8. 'n Inligtingsblad met formules is aan die einde van die vraestel ingesluit.
+9. Skryf netjies en leesbaar.
+
+---
+
+## VRAAG 1
+
+Die tabel hieronder toon die massa (in kg) van skooltasse van $80$ leerders.
+
+| MASSA (in kg) | FREKWENSIE |
+| :---: | :---: |
+| $5 < m \le 7$ | $6$ |
+| $7 < m \le 9$ | $18$ |
+| $9 < m \le 11$ | $21$ |
+| $11 < m \le 13$ | $19$ |
+| $13 < m \le 15$ | $11$ |
+| $15 < m \le 17$ | $4$ |
+| $17 < m \le 19$ | $1$ |
+
+1.1 Skryf die modale klas van die data neer. (1)
+
+1.2 Voltooi die kumulatiewefrekwensie-kolom in die tabel in die ANTWOORDEBOEK. (2)
+
+1.3 Skets 'n kumulatiewefrekwensie-grafiek (ogief) vir die gegewe data op die rooster wat in die ANTWOORDEBOEK verskaf word. (3)
+
+1.4 Gebruik die grafiek om die mediaanmassa vir hierdie data te bepaal. (2)
+
+1.5 Die internasionale riglyn vir die massa van 'n skooltas is dat dit nie $10\%$ van 'n leerder se liggaamsmassa moet oorskry nie.
+
+1.5.1 Bereken die benaderde gemiddelde massa van die skooltasse. (2)
+
+1.5.2 Daar is gevind dat die gemiddelde massa van hierdie groep leerders $80\text{ kg}$ is. Met verwysing na gemiddelde massa, voldoen hierdie skooltasse aan die internasionale riglyn? Motiveer jou antwoord. (2)
+
+---
+
+## VRAAG 2
+
+Die tabel hieronder toon die grootte (in karaat) en die prys (in rand) van $10$ diamante wat deur 'n diamanthandelaar verkoop is. Hierdie inligting word ook in die spreidiagram hieronder getoon. Die kleinstekwadrate-regressielyn is getrek.
+
+| Grootte, in karaat, van diamant ($x$) | $0,1$ | $0,15$ | $0,2$ | $0,2$ | $0,3$ | $0,35$ | $0,4$ | $0,45$ | $0,45$ | $0,55$ |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Prys, in rand, van diamant ($y$) | $4\ 000$ | $6\ 000$ | $6\ 500$ | $8\ 400$ | $9\ 000$ | $10\ 000$ | $13\ 440$ | $15\ 120$ | $16\ 800$ | $18\ 480$ |
+
+[DIAGRAM: Spreidiagram showing points for diamond size ($x$) vs price ($y$) ranging from $0$ to $0,6$ on the horizontal axis and $0$ to $20\ 000$ on the vertical axis, with a line of best fit.]
+
+2.1 Bepaal die vergelyking van die kleinstekwadrate-regressielyn vir die data. (3)
+
+2.2 As die handelaar 'n diamant verkoop wat $0,25$ karaat groot is, voorspel die verkoopprys van die diamant in rand. (2)
+
+2.3 Bereken die gemiddelde prysverhoging per $0,05$ karaat van die diamante. (2)
+
+2.4 Daar is later vasgestel dat die prys van die $0,35$ karaat diamant verkeerd aangeteken is. Die korrekte prys is $\text{R}11\ 500$. Wanneer die datastel reggestel word, raak die korrelasie tussen die grootte en die prys van hierdie diamante sterker. Verduidelik die rede hiervoor deur na die gegewe spreidiagram te verwys. (1)
+
+---
+
+## VRAAG 3
+
+[DIAGRAM: Cartesian plane showing a trapezium $ABCD$ where $A(5;3)$, $B(0; \frac{1}{2})$, $E(6;-4)$, and $D$ is the $y$-intercept of $CE$ with $CD = DE$, and $BA \parallel CE$.]
+
+In die diagram is $A(5; 3)$, $B\left(0; \frac{1}{2}\right)$, $C$ en $E(6; -4)$ die hoekpunte van 'n trapesium met $BA \parallel CE$. $D$ is die $y$-afsnit van $CE$ en $CD = DE$.
+
+3.1 Bereken die gradiënt van $AB$. (2)
+
+3.2 Bepaal die vergelyking van $CE$ in die vorm $y = mx + c$. (3)
+
+3.3 Bereken die:
+3.3.1 Koördinate van $C$ (3)
+3.3.2 Oppervlakte van vierhoek $ABCD$ (4)
+
+3.4 As punt $K$ die refleksie van $E$ in die $y$-as is:
+3.4.1 Skryf die koördinate van $K$ neer (2)
+3.4.2 Bereken die:
+(a) Omtrek van $\Delta KEC$ (4)
+(b) Grootte van $\hat{KCE}$ (3)
+
+---
+
+## VRAAG 4
+
+[DIAGRAM: Circle with center $M(a; b)$ and $x$-intercepts $T$ and $R(6; 0)$. A tangent line is drawn at $K(5; 7)$ to the circle. $M$ lies on the line $y = x + 1$.]
+
+In die diagram is die sirkel met middelpunt $M(a; b)$ geskets. $T$ en $R(6; 0)$ is die $x$-afsnitte van die sirkel. 'n Raaklyn is aan die sirkel by $K(5; 7)$ getrek.
+
+4.1 $M$ is 'n punt op die lyn $y = x + 1$.
+4.1.1 Skryf $b$ in terme van $a$. (1)
+4.1.2 Bereken die koördinate van $M$. (5)
+
+4.2 As $(2; 3)$ die koördinate van $M$ is, bereken die lengte van:
+4.2.1 Die radius van die sirkel (2)
+4.2.2 $TR$ (2)
+
+4.3 Bepaal die vergelyking van die raaklyn aan die sirkel by $K$. Skryf jou antwoord in die vorm $y = mx + c$. (5)
+
+4.4 'n Horisontale lyn word as 'n raaklyn aan die sirkel $M$ by die punt $N(c; d)$ getrek, waar $d < 0$.
+4.4.1 Skryf die koördinate van $N$ neer. (2)
+4.4.2 Bepaal die vergelyking van die sirkel met middelpunt $N$ wat deur $T$ gaan. Skryf jou antwoord in die vorm $(x - a)^2 + (y - b)^2 = r^2$. (3)
+
+---
+
+## VRAAG 5
+
+[DIAGRAM: Cartesian plane showing point $P(-7; 4)$ in the second quadrant, and point $R$ on the positive $x$-axis such that obtuse angle $P\hat{O}R = \theta$.]
+
+5.1 In die diagram hieronder is $P(-7; 4)$ 'n punt in die Kartesiese vlak. $R$ is 'n punt op die positiewe $x$-as sodanig dat stomphoek $P\hat{O}R = \theta$.
+
+Bereken, sonder die gebruik van 'n sakrekenaar, die:
+5.1.1 Lengte $OP$ (2)
+5.1.2 Waarde van:
+(a) $\tan\theta$ (1)
+(b) $\cos(\theta - 180^\circ)$ (2)
+
+5.2 Bepaal die algemene oplossing van: $\sin x\cos x + \sin x = 3\cos^2 x + 3\cos x$ (7)
+
+5.3 Gegee die identiteit: $\frac{\sin 3x}{1 - \cos 3x} = \frac{1 + \cos 3x}{\sin 3x}$
+
+5.3.1 Bewys die identiteit hierbo gegee. (3)
+5.3.2 Bepaal die waardes van $x$, in die interval $x \in [0^\circ; 60^\circ]$, waarvoor die identiteit ongedefinieerd sal wees. (3)
+
+---
+
+## VRAAG 6
+
+6.1 Vereenvoudig, sonder die gebruik van 'n sakrekenaar, die volgende uitdrukking tot 'n enkele trigonometriese term:
+$$\frac{\sin 10^\circ}{\cos 440^\circ} + \tan(360^\circ - \theta)\cdot\sin 2\theta$$ (6)
+
+6.2 Gegee: $\sin(60^\circ + 2x) + \sin(60^\circ - 2x)$
+
+6.2.1 Bereken die waarde van $k$ as $\sin(60^\circ + 2x) + \sin(60^\circ - 2x) = k\cos 2x$. (3)
+6.2.2 As $\cos x = \sqrt{t}$, bepal, sonder die gebruik van 'n sakrekenaar, die waarde van $\tan 60^\circ [\sin(60^\circ + 2x) + \sin(60^\circ - 2x)]$ in terme van $t$. (3)
+
+---
+
+## VRAAG 7
+
+[DIAGRAM: Graphs of $f(x) = \frac{1}{2}\cos x$ and $g(x) = \sin(x - 30^\circ)$ for the interval $x \in [-90^\circ; 240^\circ]$. $A$ and $B$ are the $y$-intercepts of $f$ and $g$ respectively.]
+
+In die diagram hieronder is die grafieke van $f(x) = \frac{1}{2}\cos x$ en $g(x) = \sin(x - 30^\circ)$ vir die interval $x \in [-90^\circ; 240^\circ]$ geskets. $A$ en $B$ is onderskeidelik die $y$-afsnitte van $f$ en $g$.
+
+7.1 Bepaal die lengte van $AB$. (2)
+
+7.2 Skryf die waardeversameling van $3f(x) + 2$ neer. (2)
+
+7.3 Lees vanaf die grafiek 'n waarde van $x$ waarvoor $g(x) - f(x) = \frac{\sqrt{3}}{2}$. (2)
+
+7.4 Vir watter waardes van $x$, in die interval $x \in [-90^\circ; 240^\circ]$, is:
+7.4.1 $f(x)\cdot g(x) > 0$ (2)
+7.4.2 $g'(x - 5^\circ) > 0$ (2)
+
+---
+
+## VRAAG 8
+
+[DIAGRAM: FIGURE I shows a ramp leading to a building entrance $AE = 0,915\text{ m}$, vertical height $AC = 0,5\text{ m}$ at angle $15^\circ$. FIGURE II shows top view with $B\hat{A}E = 120^\circ$, $B\hat{F}D = 75^\circ$, $BF = FD$, and $BF = \frac{5}{7}BE$.]
+
+FIGUUR I toon 'n oprit wat na die ingang van 'n gebou lei. $B$, $C$ en $D$ lê op dieselfde horisontale vlak. Die loodregte hoogte ($AC$) van die oprit is $0,5\text{ m}$ en die hoogtehoek vanaf $B$ na $A$ is $15^\circ$. Die ingang van die gebou ($AE$) is $0,915\text{ m}$ wyd.
+
+8.1 Bereken die lengte van $AB$. (2)
+
+8.2 Figuur II toon die boaansig van die oprit. Die oppervlak van die bokant van die oprit word in drie driehoeke verdeel, soos in die diagram getoon.
+
+Indien $B\hat{A}E = 120^\circ$, bereken die lengte van $BE$. (3)
+
+8.3 Bereken die oppervlakte van $\Delta BFD$ as $B\hat{F}D = 75^\circ$, $BF = FD$ en $BF = \frac{5}{7}BE$. (3)
+
+---
+
+## VRAAG 9
+
+[DIAGRAM: Cyclic quadrilateral $DEFG$ with $DE \parallel GF$. $DE$ is extended to $R$. $T$ is a point on the circle. $EG$, $FT$ and $ET$ are drawn. $\hat{E}_4 = 72^\circ$ and $\hat{G}_1 = 16^\circ$.]
+
+9.1 In die diagram is $DEFG$ 'n koordevierhoek met $DE \parallel GF$. $DE$ word na $R$ verleng. $T$ is nog 'n punt op die sirkel. $EG$, $FT$ en $ET$ word getrek. $\hat{E}_4 = 72^\circ$ en $\hat{G}_1 = 16^\circ$.
+
+Bepaal, met redes, die grootte van die volgende hoeke:
+9.1.1 $D\hat{G}F$ (2)
+9.1.2 $\hat{T}$ (2)
+9.1.3 $G\hat{E}F$ (2)
+
+9.2 [DIAGRAM: Parallelogram $KLMN$ where diagonals intersect at $P$. $NM$ is extended to $S$. $R$ is a point on $KL$ and $RS$ intersects $PL$ at $T$. $NM : MS = 4 : 1$, $NL = 32$ units and $TL = 12$ units.]
+
+In die diagram sny die hoeklyne van parallelogram $KLMN$ by $P$. $NM$ is verleng na $S$. $R$ is 'n punt op $KL$ en $RS$ sny $PL$ by $T$. $NM : MS = 4 : 1$, $NL = 32$ eenhede en $TL = 12$ eenhede.
+
+9.2.1 Bepaal, met redes, die waarde van die verhouding $NP : PT$ in eenvoudigste vorm. (4)
+9.2.2 Bewys, met redes, dat $KM \parallel RS$. (2)
+9.2.3 As $NM = 21$ eenhede, bepaal, met redes, die lengte van $RL$. (4)
+
+---
+
+## VRAAG 10
+
+10.1 [DIAGRAM: $\Delta ABC$ and $\Delta DEF$ where $\hat{A} = \hat{D}$, $\hat{B} = \hat{E}$ and $\hat{C} = \hat{F}$.]
+
+In die diagram is $\Delta ABC$ en $\Delta DEF$ geskets sodanig dat $\hat{A} = \hat{D}$, $\hat{B} = \hat{E}$ en $\hat{C} = \hat{F}$.
+
+Gebruik die diagram in die ANTWOORDEBOEK om die stelling te bewys wat bewys dat as twee driehoeke gelykhoekig is, dan is die ooreenstemmende sye in dieselfde verhouding, d.i. $\frac{AB}{DE} = \frac{AC}{DF}$. (6)
+
+10.2 [DIAGRAM: Circle with center $O$ passing through $A, B, C, D$. $EC$ is tangent to circle at $C$. Diameter $DB$ extended meets tangent $EC$ at $E$. $F$ is a point on $EC$ such that $BF \perp EC$. Radius $CO$ extended to bisect $AD$ at $G$. $BC$ and $CD$ are drawn.]
+
+In die diagram is $O$ die middelpunt van 'n sirkel wat deur $A, B, C$ en $D$ gaan. $EC$ is 'n raaklyn aan die sirkel by $C$. Middellyn $DB$ word verleng om die raaklyn $EC$ by $E$ te ontmoet. $F$ is 'n punt op $EC$ sodanig dat $BF \perp EC$. Radius $CO$ word verleng om $AD$ by $G$ te halveer. $BC$ en $CD$ is getrek.
+
+10.2.1 Bewys, met redes, dat:
+(a) $FB \parallel CG$ (3)
+(b) $\Delta FCB \parallel\vert \Delta CDB$ (5)
+10.2.2 Gee 'n rede waarom $\hat{G}_1 = 90^\circ$. (1)
+10.2.3 Bewys, met redes, dat $CD^2 = CG \cdot DB$. (5)
+10.2.4 Bewys vervolgens dat $DB = CG + FB$. (5)
+
+**TOTAAL: 150**
+
+---
+
+## INLIGTINGSBLAD
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni)$$
+$$A = P(1 - ni)$$
+$$A = P(1 - i)^n$$
+$$A = P(1 + i)^n$$
+
+$$T_n = a + (n - 1)d$$
+$$S_n = \frac{n}{2}[2a + (n - 1)d]$$
+
+$$T_n = ar^{n-1}$$
+$$S_n = \frac{a(r^n - 1)}{r - 1} \quad (r \neq 1)$$
+$$S_\infty = \frac{a}{1 - r} \quad (-1 < r < 1)$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i}$$
+$$P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$
+$$M\left(\frac{x_1 + x_2}{2}; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c$$
+$$y - y_1 = m(x - x_1)$$
+$$m = \frac{y_2 - y_1}{x_2 - x_1}$$
+$$m = \tan\theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+In $\Delta ABC$:
+$$\frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}$$
+$$a^2 = b^2 + c^2 - 2bc\cos A$$
+$$\text{area } \Delta ABC = \frac{1}{2}ab\sin C$$
+
+$$\sin(\alpha + \beta) = \sin\alpha\cos\beta + \cos\alpha\sin\beta$$
+$$\sin(\alpha - \beta) = \sin\alpha\cos\beta - \cos\alpha\sin\beta$$
+$$\cos(\alpha + \beta) = \cos\alpha\cos\beta - \sin\alpha\sin\beta$$
+$$\cos(\alpha - \beta) = \cos\alpha\cos\beta + \sin\alpha\sin\beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2\alpha - \sin^2\alpha \\ 1 - 2\sin^2\alpha \\ 2\cos^2\alpha - 1 \end{cases}$$
+
+$$\sin 2\alpha = 2\sin\alpha\cos\alpha$$
+
+$$\bar{x} = \frac{\sum x}{n}$$
+$$\sigma^2 = \frac{\sum_{i=1}^n (x_i - \bar{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)}$$
+$$P(A \text{ of } B) = P(A) + P(B) - P(A \text{ en } B)$$
+
+$$\hat{y} = a + bx$$
+$$b = \frac{\sum(x - \bar{x})(y - \bar{y})}{\sum(x - \bar{x})^2}$$

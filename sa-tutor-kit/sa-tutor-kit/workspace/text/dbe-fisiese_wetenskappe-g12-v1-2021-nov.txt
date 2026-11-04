@@ -1,0 +1,1029 @@
+=== page 1 ===
+Kopiereg voorbehou  Blaai om asseblief
+
+PUNTE:  150
+
+TYD:  3 uur
+
+Hierdie vraestel bestaan uit 17 bladsye en 3 gegewensblaaie.
+
+GRAAD 12
+NASIONALE
+SENIOR SERTIFIKAAT
+FISIESE WETENSKAPPE:  FISIKA (V1)
+
+NOVEMBER 2021
+
+=== page 2 ===
+Fisiese Wetenskappe/V1 2 DBE/November 2021
+ NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+INSTRUKSIES EN INLIGTING
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+Skryf jou eksamennommer en sentrumnomm er in die toepaslike ruimtes op
+die ANTWOORDEBOEK neer.
+
+Hierdie vraestel bestaan uit TIEN vrae. Beantwoord AL die vrae in die
+ANTWOORDEBOEK.
+
+Begin ELKE vraag op 'n NUWE bladsy in die ANTWOORDEBOEK.
+
+Nommer die antwoorde korrek volgens die nommeringstels el wat in hierdie
+vraestel gebruik is.
+
+Laat EEN reël tussen twee subvrae oop, bv. tussen VRAAG 2.1 en
+VRAAG 2.2.
+
+Jy mag 'n nieprogrammeerbare sakrekenaar gebruik.
+
+Jy mag toepaslike wiskundige instrumente gebruik.
+
+Toon ALLE formules en vervangings in ALLE berekeninge.
+
+Rond jou FINALE numeriese antwoorde tot 'n minimum van TWEE desimale
+plekke af.
+
+Gee kort (bondige) motiverings, besprekings, ens. waar nodig.
+
+Jy word aangeraai om die aangehegte GEGEWENSBLAAIE te gebruik.
+
+Skryf netjies en leesbaar.
+
+=== page 3 ===
+Fisiese Wetenskappe/V1 3 DBE/November 2021
+ NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 1:  MEERVOUDIGEKEUSE-VRAE
+
+Verskillende opsies word as moontlike antwoorde op die volgende vrae gegee. Elke
+vraag het slegs EEN korrekte antwoord . Kies die antwoord en skryf slegs die letter
+(A–D) langs die vraagnommers (1.1 tot 1.10)  in die ANTWOORDEBOEK neer,
+bv. 1.11 E.
+
+1.1 Beskou die stelling hieronder.
+
+Die loodregte krag uitgeoefen deur 'n oppervlak op 'n voorwerp in kontak met
+die oppervlak.
+
+Watter EEN van die volgende kragte word deur die stelling hierbo
+gedefinieer?
+
+ A
+
+B
+
+C
+
+D
+Normaalkrag
+
+Resultante krag
+
+Wrywingskrag
+
+Gravitasiekrag
+
+(2)
+
+1.2 Twee balle met massas  m en 2m  word gelyktydig vanaf dieselfde hoogte bo
+die grond laat val. Ignoreer lugweerstand.
+
+Watter EEN van die volgende fisiese groothede sal dieselfde vir beide balle
+wees wanneer die balle die grond tref?
+
+ A
+
+B
+
+C
+
+D
+Gewig
+
+Snelheid
+
+Momentum
+
+Kinetiese energie
+
+(2)
+
+=== page 4 ===
+Fisiese Wetenskappe/V1 4 DBE/November 2021
+ NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+1.3 Die grafiek hieronder toon hoe die momentum (p) van 'n voorwerp met tyd (t)
+verander.
+
+Tydens watter EEN van die volgende tydintervalle, gemeet in sekondes, is die
+grootte van die netto krag wat op die voorwerp inwerk, die grootste?
+
+ A
+
+B
+
+C
+
+D
+0 na 1
+
+1 na 2
+
+2 na 3
+
+3 na 4
+
+(2)
+
+1.4 'n Bal word vanaf 'n hoogte bokant die vloer laat val. Die bal bots elasties met
+die vloer by tyd to en hop vertikaal opwaarts.
+
+Ignoreer lugweerstand.
+
+Watter EEN van die volgende grafieke toon aan hoe die totale meganiese
+energie (EM) van die bal verander met tyd?
+
+ A
+
+B
+ C
+
+D
+(2)
+p (kg∙ms -1)
+0
+10
+20
+-10
+-20
+t (s) 1 2 3 4
+t to 0
+EM
+t to 0
+EM
+t to 0
+EM
+t to 0
+EM
+
+=== page 5 ===
+Fisiese Wetenskappe/V1 5 DBE/November 2021
+ NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+1.5 Beskou die twee spektrumdiagramme hieronder.
+
+ Diagram 1 verteenwoordig die spektrum van 'n element in 'n laboratorium op
+die Aarde.
+
+Diagram 2 verteenwoordig die spektrum van dieselfde element vanaf 'n
+afgeleë ster soos vanaf die Aarde waargeneem.
+
+Watter EEN van die volgende kan uit die spektra hierbo afgelei word?
+
+ A
+
+B
+
+C
+
+D
+Die ster beweeg na die Aarde toe.
+
+Die ster is in rus relatief tot die Aarde.
+
+Die ster beweeg weg van die Aarde af.
+
+Beide die ster en die Aarde beweeg na mekaar toe.
+
+(2)
+
+1.6 Die diagram hieronder toon die veldlyne vir die gekombineerde elektriese veld
+as gevolg van twee klein gelaaide sfere P en Q.
+
+ Watter EEN van die kombinasies hieronder toon die polariteite van sfeer P en
+Q korrek?
+
+  SFEER P SFEER Q
+ A Negatief Positief
+ B Negatief Negatief
+ C Positief Positief
+ D Positief Negatief   (2)
+Diagram 1
+Diagram 2
+Blou Rooi
+Blou Rooi
+P Q
+
+=== page 6 ===
+Fisiese Wetenskappe/V1 6 DBE/November 2021
+ NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+V
+1
+V1
+
+V
+1
+V3
+ ε     S
+   R
+
+V
+1
+V4
+
+V
+1
+V2
+  R
+
+  R
+
+1.7 Twee identiese sfer e, P en Q, dra onderskeidelik ladings van +q en –2q.
+Sfeer P oefen 'n elektrostatiese krag met grootte F op sfeer Q uit.
+
+Watter EEN van die volgende verteenwoordig die grootte van die
+elektrostatiese krag wat op sfeer P deur sfeer Q uitgeoefen word?
+
+A
+
+B
+
+C
+
+D
+2
+1
+F
+
+F
+
+2F
+
+4F
+
+(2)
+
+1.8 In die stroombaandiagram hieronder  is al di e resistors IDENTIES. Ignoreer
+die interne weerstand van die sel.
+
+  Watter voltmeter sal die HOOGSTE lesing hê wanneer skakelaar S gesluit
+word?
+
+ A
+
+B
+
+C
+
+D
+V1
+
+V2
+
+V3
+
+V4
+
+(2)
+
+=== page 7 ===
+Fisiese Wetenskappe/V1 7 DBE/November 2021
+ NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+1.9 In watter EEN van die volgende elektr iese masjiene word elektriese energie
+na meganiese energie omgeskakel?
+
+ A
+
+B
+
+C
+
+D
+WS-generator
+
+GS-generator
+
+WS-dinamo
+
+GS-motor
+
+(2)
+
+1.10 Watter EEN van die volgende kombinasies verbind 'n emissiespektrum en 'n
+absorpsiespektrum korrek met die en ergieoorgange van 'n elektron in 'n
+atoom?
+
+  EMISSIESPEKTRUM  ABSORPSIESPEKTRUM
+ A Vanaf lae na hoë energievlakke Vanaf hoë na lae energievlakke
+ B Vanaf lae na hoë energievlakke Vanaf lae na hoë energievlakke
+ C Vanaf hoë na lae energievlakke Vanaf hoë na lae energievlakke
+ D Vanaf hoë na lae energievlakke Vanaf lae na hoë energievlakke   (2)
+      [20]
+
+=== page 8 ===
+Fisiese Wetenskappe/V1 8 DBE/November 2021
+ NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 2 (Begin op 'n nuwe bladsy.)
+
+'n 20 kg -blok word op 'n ruwe oppervlak geplaas wat 'n hoek van 30° met die
+horisontaal maak. 'n Konstante krag F, wat parallel tot die oppervlak inwerk, word op
+die blok toegepas sodat die blok teen 'n KONSTANTE SNELHEID van 2 ms-1 teen die
+helling op beweeg. Verwys na die diagram hieronder.
+
+'n Konstante kinetiese wrywingskrag van 18 N werk op die blok in.
+
+2.1 Stel Newton se Eerste Wet in woorde.  (2)
+
+2.2 Teken 'n benoemde vrye kragtediagram (vrye liggaamdiagram) vir die blok.  (4)
+
+2.3 Bereken die grootte van krag F.  (4)
+
+Krag F word verwyder wanneer die blok punt  X op die oppervlak bereik. Die blok hou
+aan om teen die oppervlak op te beweeg en kom vir 'n oomblik by punt Y tot stilstand.
+
+Aanvaar dat die kinetiese wrywingskrag , wat op die blok inwerk , 18 N bly terwyl dit
+vanaf punt X na punt Y beweeg.
+
+2.4 Skryf die netto krag neer wat op die blok inwerk soos dit vanaf X na Y
+beweeg.
+
+(2)
+
+2.5 Bereken die afstand tussen punt X en Y.  (4)
+[16]
+
+F
+
+20 kg
+30°
+Y
+X
+
+ 
+
+=== page 9 ===
+Fisiese Wetenskappe/V1 9 DBE/November 2021
+ NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 3 (Begin op 'n nuwe bladsy.)
+
+'n Warmlugballon beweeg opwaarts teen 'n KONSTANTE ONBEKENDE spoed.
+
+3.1 Is die warmlugballon in vryval? Kies uit JA of NEE.
+
+Gee 'n rede vir die antwoord.
+
+(2)
+
+Wanneer die ballon 200 m bokant die grond is, word 'n klippie A vanuit die ballon laat
+val. Sien die diagram hierbo. Nog 'n klippie B word 5 s lat er vanuit die ballon laat val
+terwyl die ballon steeds opwaarts beweeg teen konstante snelheid.
+
+Klippie A tref die grond teen 'n spoed van 62,68 m∙s-1.
+
+Ignoreer lugweerstand.
+
+3.2 Bereken die:
+
+ 3.2.1 Spoed van die warmlugballon   (3)
+
+ 3.2.2 Tyd wat dit klippie A neem om die grond te tref  (3)
+
+ 3.2.3 Afstand tussen die warmlugballon en klip pie B op die oomblik
+wanneer klippie A die grond tref
+
+(6)
+
+3.3 Teken op dieselfde asse stelsel posisie-tyd-grafieke vir beide die
+warmlugballon en klip pie A vanaf die oomblik wat die klippie  laat val word
+totdat dit die grond tref.
+
+Gebruik die grond as nulverwysing.
+
+Benoem jou grafieke BALLON en A.
+
+(4)
+[18]
+200 m
+grond
+
+A
+
+=== page 10 ===
+Fisiese Wetenskappe/V1 10 DBE/November 2021
+ NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 4 (Begin op 'n nuwe bladsy.)
+
+'n Bal X, met 'n massa van 10 kg, beweeg ooswaarts met 'n snelheid van 2 m∙s-1. Dit
+bots ELASTIES met nog 'n bal, Y, met 'n massa van 2 kg wat met 'n onbekende
+snelheid vY beweeg het (Diagram A). Onmiddellik na die botsing kom bal X tot rus en
+bal Y beweeg ooswaarts met 'n kinetiese energie van 36 J (Diagram B).
+
+Ignoreer wrywing.
+
+                         DIAGRAM A    DIAGRAM B
+
+4.1 Verduidelik die betekenis van die term elastiese botsing.  (2)
+
+4.2 Bereken snelheid vY.  (5)
+
+Die balle was vir 0,1 s tydens die botsing met mekaar in kontak.
+
+4.3 Bereken die grootte van die krag wat bal X tydens die botsing op bal  Y
+uitgeoefen het.
+
+(3)
+[10]
+
+Voor botsing
+X
+2 m∙s-1
+Y X Y
+        Na botsing
+N
+E
+S
+W
+36 J 0 m∙s-1 vY
+
+=== page 11 ===
+Fisiese Wetenskappe/V1 11 DBE/November 2021
+ NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 5 (Begin op 'n nuwe bladsy.)
+
+'n 2 kg-boks word 5 m bokant die grond vanuit rus by punt P losgelaat. Dit gly langs 'n
+gladde, wrywinglose, geboë baan PQ af. Sien die diagram hieronder.
+
+5.1 Stel die beginsel van behoud van meganiese energie in woorde.   (2)
+
+5.2 Gebruik die BEGINSEL VAN BEHOUD VAN MEGANIESE ENERGIE om die
+spoed van die boks te bereken wanneer dit punt Q bereik.
+
+(3)
+
+Die boks gaan verby punt Q en beweeg 10 m op 'n ruwe horisontale oppervlak voordat
+dit 'n versperring by punt R teen 'n spoed van 4 ms-1 tref.
+
+5.3 Gebruik ENERGIEBEGINSELS om die grootte te bereken van die
+gemiddelde wrywingskrag wa t op die boks inwerk soos dit vanaf Q na R
+beweeg.
+
+(4)
+
+Die versperring oefen 'n impuls van 14 Ns na LINKS op die boks uit wanneer die boks
+die versperring tref.
+
+5.4 Bereken die verandering in kinetiese energie van die boks  nadat dit die
+versperring getref het.
+
+(5)
+[14]
+
+5 m
+P
+Q R 10 m
+
+2 kg
+versperring
+
+=== page 12 ===
+Fisiese Wetenskappe/V1 12 DBE/November 2021
+ NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 6 (Begin op 'n nuwe bladsy.)
+
+Die sirene van 'n stilstaande ambulans stel klankgolwe teen 'n konstante frekwensie
+van 680 Hz vry. 'n Man staan met 'n detektor wat die golflengte van die klank aanteken
+wat deur die sirene vrygestel word, soos in die diagram hieronder getoon.
+
+Die spoed van klank in lug is 340 m∙s-1.
+
+6.1 Bereken die golflengte van die waargenome klank.  (3)
+
+Die ambulans beweeg nou teen 'n konstante spoed met die pad NA die man toe.
+Die detektor teken nou die golflengte van die klank aan, wat met 0,05 m van die vorige
+lesing verskil.
+
+6.2 Stel die Doppler-effek.  (2)
+
+6.3 Hoe sou ELK van die volgend e verander het wanneer die ambulans na die
+detektor toe beweeg  het in vergelyking met toe die ambulans stilstaande
+was?
+
+Kies uit TOEGENEEM, AFGENEEM of GEEN VERANDERING NIE.
+
+ 6.3.1 Afstand tussen die golffronte   (1)
+
+ 6.3.2 Frekwensie van die waargenome golwe  (1)
+
+6.4 Bereken die spoed van die ambulans.  (5)
+   [12]
+
+=== page 13 ===
+Fisiese Wetenskappe/V1 13 DBE/November 2021
+ NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 7 (Begin op 'n nuwe bladsy.)
+
+7.1 'n Klein neutrale sfeer verkry 'n lading van -1,95 x 10-6 C.
+
+ 7.1.1 Is elektrone BY  die sfeer GEVOEG of VANAF die  sfeer
+VERWYDER?
+
+(1)
+
+ 7.1.2 Bereken die aantal elektrone wat bygevoeg of verwyder is.  (3)
+
+ 7.1.3 Definieer die term elektriese veld by 'n punt.  (2)
+
+ 7.1.4 Bereken die grootte van die elektriese veld by 'n punt 0,5 m vanaf
+die middelpunt van die gelaaide sfeer.
+
+(3)
+
+7.2 Twee puntladings, q1 en q2, word 0,02 m van mekaar vasgemaak. Die grootte
+van ladings q1 en q2 is dieselfde en q1 is NEGATIEF gelaai.
+
+Die klein gelaaide sfeer met die lading van -1,95 x 10 -6 C word by punt  P,
+0,03 m oos van lading  q2 geplaas, soos in die diagram hieronder getoon.
+Die sfeer by punt P ondervind 'n netto elektrostatiese krag van 1,38 N wes.
+
+ Bereken die grootte van die lading op q2.  (5)
+[14]
+
+-1,95 x 10-6 C
+0,02 m 0,03 m
+● ● ● q1 q2 P FE = 1,38 N
+N
+E
+S
+W
+
+=== page 14 ===
+Fisiese Wetenskappe/V1 14 DBE/November 2021
+ NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 8 (Begin op 'n nuwe bladsy.)
+
+Die battery in die stroombaan  hieronder het 'n emk van 12 V en 'n onbekende interne
+weerstand r.
+
+Die weerstand van die verbindingsdrade en die ammeter is weglaatbaar.
+
+Skakelaar S is OOP.
+
+8.1 Skryf die lesing neer op:
+
+ 8.1.1 Voltmeter V1  (1)
+
+ 8.1.2 Voltmeter V2  (1)
+
+Skakelaar S word nou GESLUIT.
+
+Die lesing op die ammeter is 1,2  A en die drywing wat in resistor X verbruik word,
+is 5,76 W.
+
+8.2 Definieer die term drywing.  (2)
+
+Bereken die:
+
+8.3 Weerstand van resistor X  (3)
+
+8.4 Totale EKSTERNE weerstand van die stroombaan  (3)
+
+8.5 Lesing op voltmeter V2  (5)
+
+'n Stuk draad met weglaatbare weerstand word gebruik om punt P met punt Q in die
+stroombaan te verbind.
+
+8.6 Hoe sal die lesing op voltmeter V1 beïnvloed word?
+
+Kies uit TOENEEM, AFNEEM of GEEN INVLOED NIE.
+
+Verduidelik die antwoord.
+
+(4)
+   [19]
+•
+r
+5,76 W
+S
+6 Ω
+Ɛ = 12 V
+•
+X 2,4 Ω
+V1
+P
+•
+Q
+•
+V2 6 Ω
+A
+
+=== page 15 ===
+Fisiese Wetenskappe/V1 15 DBE/November 2021
+ NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 9 (Begin op 'n nuwe bladsy.)
+
+'n Vereenvoudigde diagram van 'n WS-generator wat aan 'n 25 Ω-resistor verbind is,
+word hieronder getoon. Die spoel roteer antikloksgewys.
+
+9.1 Noem die komponent wat hierdie generator van 'n GS-generator onderskei.  (1)
+
+9.2 In watter rigting sal die geïnduseerde stroom in deel XY van die spoel vloei?
+
+Kies uit X na Y OF Y na X.
+
+(2)
+
+Die grafiek hieronder toon die uitsetspanning ( uitsetpotensiaalverskil) van die
+generator vir een rotasiesiklus van die spoel.
+
+9.3 Definieer die term wgk-potensiaalverskil.   (2)
+
+9.4 Bereken die wgk-stroom in die stroombaan.   (4)
+
+9.5 Bereken die gemiddelde drywing wat in die 25 Ω-resistor verbruik word.   (3)
+N
+S
+Y
+X
+25 Ω
+0,05 t (s)
+V (V)
+0
+0,1
+-100
+100
+0,025 0,075
+
+=== page 16 ===
+Fisiese Wetenskappe/V1 16 DBE/November 2021
+ NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+Die rotasiespoed van die spoel in die generator word nou VERDUBBEL.
+
+9.6 Teken die assestelsel hieronder in jou ANT WOORDEBOEK oor en skets die
+grafiek van uitsetspanning (uitsetpotensiaalverskil) teenoor tyd vir 0,1 s.
+
+    (3)
+[15]
+0,05 t (s)
+V (V)
+0
+0,1 0,025 0,075
+-100
+-200
+100
+200
+
+=== page 17 ===
+Fisiese Wetenskappe/V1 17 DBE/November 2021
+ NSS
+Kopiereg voorbehou
+
+VRAAG 10 (Begin op 'n nuwe bladsy.)
+
+Die verhouding tussen frekwensie  (f) en maksimum  kinetiese energie (Ek(maks)) van
+foto-elektrone vrygestel uit twee katodes, M en N, van verskillende foto-elektriese selle
+word ondersoek. Die grafieke hieronder is uit die resultate verkry.
+
+10.1 Definieer die term drumpelfrekwensie.  (2)
+
+10.2 Hoe vergelyk die maksimum kinetiese energie  van foto -elektrone wat uit
+katode N vrygestel word met die maksimum kinetiese energie van dié wat
+uit katode M vrygestel word  wanneer lig met 'n frekwensie groter as
+10,40 x 1014 Hz op elk van die katodes skyn?
+
+Kies uit GROTER AS, KLEINER AS of GELYK AAN.
+
+(2)
+
+10.4 Die eksperiment word nou vir katode M herhaal deur lig met 'n frekwensie van
+fx, maar van hoër intensiteit, te gebruik . Hoe sal ELK van die volgende
+beïnvloed word?
+
+Kies uit VERHOOG, VERLAAG of GEEN INVLOED NIE.
+
+ 10.4.1 Die y-afsnit van die grafiek  (1)
+
+ 10.4.2 Die aantal foto-elektrone wat per eenheid tyd vrygestel word  (1)
+
+ 10.4.3 Die maksimum kinetiese energie van die vrygestelde foto-elektrone  (1)
+[12]
+
+ TOTAAL:  150
+
+10.3 Bereken die waarde van frekwensie fx soos op die grafiek getoon.   (5)
+M
+f (x 1014 Hz)
+N 10,40
+fx
+5,16
+23,01 Ek (maks) (x 10-19 J)
+
+=== page 18 ===
+Fisiese Wetenskappe/V1 1 DBE/November 2021
+ NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+DATA FOR PHYSICAL SCIENCES GRADE 12
+PAPER 1 (PHYSICS)
+
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 12
+VRAESTEL 1 (FISIKA)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Acceleration due to gravity
+Swaartekragversnelling g 9,8 m·s-2
+Universal gravitational constant
+Universele gravitasiekonstant G 6,67 x 10-11 N·m2·kg-2
+Radius of the Earth
+Radius van die Aarde RE 6,38 x 106 m
+Mass of the Earth
+Massa van die Aarde ME 5,98 x 1024 kg
+Speed of light in a vacuum
+Spoed van lig in 'n vakuum c 3,0 x 108 m·s-1
+Planck's constant
+Planck se konstante h 6,63 x 10-34 J·s
+Coulomb's constant
+Coulomb se konstante k 9,0 x 109 N·m2·C-2
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Electron mass
+Elektronmassa me 9,11 x 10-31 kg
+
+=== page 19 ===
+Fisiese Wetenskappe/V1 2 DBE/November 2021
+ NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+TABLE 2:  FORMULAE/TABEL 2:  FORMULES
+
+MOTION/BEWEGING
+tavv if 
+
+2
+2
+1
+i taΔtvΔx   or/of
+2
+2
+1
+i taΔtvΔy 
+xa2vv
+2
+i
+2
+f 
+ or/of
+ya2vv
+2
+i
+2
+f 
+Δt2 vvΔx fi    or/of
+Δt2 vvΔy fi  
+
+FORCE/KRAG
+
+maFnet
+
+mvp
+Nf s
+maks
+s 
+
+Nμ =f kk
+if
+net
+mv- mv=pΔ
+pΔ=tΔF
+
+mgw
+
+2
+21
+d
+mmG=F
+       or/of
+2
+21
+r
+mmG=F
+
+2d
+MG  g 
+2r
+MG g 
+WORK, ENERGY AND POWER/ARBEID, ENERGIE EN DRYWING
+
+xΔF=W
+cos
+
+mghU           or/of
+mghEP
+2mv21K 
+       or/of
+2
+k mv21E 
+KWnet 
+        or/of
+knet EW 
+
+if KKK 
+     or/of
+kikfk EEE 
+UKWnc 
+ or/of
+pknc EEW 
+
+t
+WP 
+Pave = Fvave    /    Pgemid = Fvgemid
+
+WAVES, SOUND AND LIGHT/GOLWE, KLANK EN LIG
+
+ fv
+
+f
+1T
+s
+s
+L
+L fvv vvf 
+
+b
+b
+L
+L fvv vvf 
+hfE     or /of
+ hcE
+
+k(max)0 E+ W=E
+  or
+max0 K+ W=E  where
+hf  E
+ and
+00 hfW  and
+2
+max(max)k mv21E     or
+
+2
+maxmax mv21K 
+
+k (mak s)E WE  0
+  of
+mak s0 K WE   waar
+hf  E
+ en
+00 hfW     en
+2
+mak s)mak s(k mv21E    /
+2
+maksmv21K m aks
+
+or/of
+or/of
+
+=== page 20 ===
+Fisiese Wetenskappe/V1 3 DBE/November 2021
+ NSS
+Kopiereg voorbehou
+
+ELECTROSTATICS/ELEKTROSTATIKA
+
+2
+21
+r
+QkQF
+
+2r
+kQE 
+q
+WV
+
+q
+FE
+
+e
+Q=n
+eq
+Q=n
+
+ELECTRIC CIRCUITS/ELEKTRIESE STROOMBANE
+
+I
+VR 
+
+emf (
+ε ) = I(R + r)
+
+emk (
+ε ) = I(R + r)
+...RRR 21s 
+
+...R1R1R1 21p 
+
+tq  I
+W = Vq
+
+W = VI
+ t
+
+W = I2R
+ t
+
+W =
+R
+ΔtV2
+Δt
+WP 
+
+P = VI
+
+RP 2I
+
+R
+VP 2
+
+ALTERNATING CURRENT/WISSELSTROOM
+
+2
+max
+rms
+II 
+             /
+2
+maks
+wgk
+II 
+
+2
+VV maxrms 
+           /
+2
+VV makswgk 
+rmsrmsave VP I
+     /
+wgkwgkgemiddeld VP I
+
+RP 2rmsave I
+       /
+RP 2wgkgemiddeld I
+
+R
+VP 2rmsave
+        /
+R
+VP 2wgkgemiddeld
+
+output
+N S
+or/of

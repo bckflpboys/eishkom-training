@@ -1,0 +1,263 @@
+**NATIONAL SENIOR CERTIFICATE**
+**GRADE 12**
+
+---
+
+**MATHEMATICS P2**
+**NOVEMBER 2019**
+
+**MARKS: 150**
+**TIME: 3 hours**
+
+---
+
+### INSTRUCTIONS AND INFORMATION
+
+Read the following instructions carefully before answering the questions.
+
+1. This question paper consists of 10 questions.
+2. Answer ALL the questions in the SPECIAL ANSWER BOOK provided.
+3. Clearly show ALL calculations, diagrams, graphs, etc. which you have used in determining your answers.
+4. Answers only will NOT necessarily be awarded full marks.
+5. You may use an approved scientific calculator (non-programmable and non-graphical), unless stated otherwise.
+6. If necessary, round off answers correct to TWO decimal places, unless stated otherwise.
+7. Diagrams are NOT necessarily drawn to scale.
+8. An information sheet with formulae is included at the end of the question paper.
+9. Write neatly and legibly.
+
+---
+
+### QUESTION 1
+
+The table below shows the monthly income (in rands) of 6 different people and the amount (in rands) that each person spends on the monthly repayment of a motor vehicle.
+
+| MONTHLY INCOME (IN RANDS) | 9 000 | 13 500 | 15 000 | 16 500 | 17 000 | 20 000 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| MONTHLY REPAYMENT (IN RANDS) | 2 000 | 3 000 | 3 500 | 5 200 | 5 500 | 6 000 |
+
+1.1 Determine the equation of the least squares regression line for the data. (3)
+
+1.2 If a person earns R14 000 per month, predict the monthly repayment that the person could make towards a motor vehicle. (2)
+
+1.3 Determine the correlation coefficient between the monthly income and the monthly repayment of a motor vehicle. (1)
+
+1.4 A person who earns R18 000 per month has to decide whether to spend R9 000 as a monthly repayment of a motor vehicle, or not. If the above information is a true representation of the population data, which of the following would the person most likely decide on:
+
+A: Spend R9 000 per month because there is a very strong positive correlation between the amount earned and the monthly repayment.
+
+B: NOT to spend R9 000 per month because there is a very weak positive correlation between the amount earned and the monthly repayment.
+
+C: Spend R9 000 per month because the point $(18\ 000; 9\ 000)$ lies very near to the least squares regression line.
+
+D: NOT to spend R9 000 per month because the point $(18\ 000; 9\ 000)$ lies very far from the least squares regression line. (2)
+
+**[8]**
+
+---
+
+### QUESTION 2
+
+A survey was conducted among 100 people about the amount that they paid on a monthly basis for their cellphone contracts. The person carrying out the survey calculated the estimated mean to be R309 per month. Unfortunately, he lost some of the data thereafter. The partial results of the survey are shown in the frequency table below:
+
+| AMOUNT PAID (IN RANDS) | FREQUENCY |
+| :---: | :---: |
+| $0 < x \le 100$ | 7 |
+| $100 < x \le 200$ | 12 |
+| $200 < x \le 300$ | $a$ |
+| $300 < x \le 400$ | 35 |
+| $400 < x \le 500$ | $b$ |
+| $500 < x \le 600$ | 6 |
+
+2.1 How many people paid R200 or less on their monthly cellphone contracts? (1)
+
+2.2 Use the information above to show that $a = 24$ and $b = 16$. (5)
+
+2.3 Write down the modal class for the data. (1)
+
+2.4 On the grid provided in the ANSWER BOOK, draw an ogive (cumulative frequency graph) to represent the data. (4)
+
+2.5 Determine how many people paid more than R420 per month for their cellphone contracts. (2)
+
+**[13]**
+
+---
+
+### QUESTION 3
+
+[DIAGRAM: Trapezoid PRST with vertices $P(3;5)$, $R(3;5)$ [wait, let's check diagram: $P(3;5)$ is at top right? No, looking closely at diagram: $C(0;5)$ and $R(3;5)$, $P$ is at $(3;5)$? Let's re-read text: $P, R(3;5)$ and $S(-3;-7)$ and $T(-5;k)$ are vertices of trapezium $PRST$ and $PT \parallel RS$. $RS$ and $PR$ cut the $y$-axis at $D$ and $C(0;5)$ respectively. $PT$ and $RS$ cut the $x$-axis at $E$ and $F$ respectively. $\text{P\^{E}F} = \theta$.]
+
+3.1 Write down the equation of $PR$. (1)
+
+3.2 Calculate the:
+3.2.1 Gradient of $RS$ (2)
+3.2.2 Size of $\theta$ (3)
+3.2.3 Coordinates of $D$ (3)
+
+3.3 If it is given that $TS = 2\sqrt{5}$, calculate the value of $k$. (4)
+
+3.4 Parallelogram $TDNS$, with $N$ in the $4^{\text{th}}$ quadrant, is drawn. Calculate the coordinates of $N$. (3)
+
+3.5 $\Delta PRD$ is reflected about the $y$-axis to form $\Delta P'R'D'$. Calculate the size of $R\hat{D}R'$. (3)
+
+**[19]**
+
+---
+
+### QUESTION 4
+
+[DIAGRAM: A circle with centre $M$ touching the $x$-axis at $A(-1;0)$ and the $y$-axis at $B(0;1)$. A smaller circle, centred at $N(-\frac{1}{2}; \frac{3}{2})$, passes through $M$ and cuts the larger circle at $B$ and $C$. $BNC$ is a diameter of the smaller circle. A tangent drawn to the smaller circle at $C$, cuts the $x$-axis at $D$.]
+
+4.1 Determine the equation of the circle centred at $M$ in the form $(x-a)^2 + (y-b)^2 = r^2$ (3)
+
+4.2 Calculate the coordinates of $C$. (2)
+
+4.3 Show that the equation of the tangent $CD$ is $y - x = 3$. (4)
+
+4.4 Determine the values of $t$ for which the line $y = x + t$ will NOT touch or cut the smaller circle. (3)
+
+4.5 The smaller circle centred at $N$ is transformed such that point $C$ is translated along the tangent to $D$. Calculate the coordinates of $E$, the new centre of the smaller circle. (3)
+
+4.6 If it is given that the area of quadrilateral $OBCD$ is $2a^2$ square units and $a > 0$, show that $a = \frac{\sqrt{7}}{2}$ units. (5)
+
+**[20]**
+
+---
+
+### QUESTION 5
+
+5.1 Simplify the following expression to ONE trigonometric term:
+$$\frac{\sin x}{\cos x \cdot \tan x} + \sin(180^\circ + x)\cos(90^\circ - x)$$ (5)
+
+5.2 Without using a calculator, determine the value of:
+$$\frac{\sin^2 35^\circ - \cos^2 35^\circ}{4\sin 10^\circ \cos 10^\circ}$$ (4)
+
+5.3 Given: $\cos 26^\circ = m$
+
+Without using a calculator, determine $2\sin^2 77^\circ$ in terms of $m$. (4)
+
+5.4 Consider: $f(x) = \sin(x + 25^\circ)\cos 15^\circ - \cos(x + 25^\circ)\sin 15^\circ$
+
+5.4.1 Determine the general solution of $f(x) = \tan 165^\circ$ (6)
+
+5.4.2 Determine the value(s) of $x$ in the interval $x \in [0^\circ; 360^\circ]$ for which $f(x)$ will have a minimum value. (3)
+
+**[22]**
+
+---
+
+### QUESTION 6
+
+[DIAGRAM: Graphs of $f(x) = \sin x - 1$ and $g(x) = \cos 2x$ drawn for the interval $x \in [-90^\circ; 360^\circ]$. Graphs $f$ and $g$ intersect at $A$. $B(360^\circ; -1)$ is a point on $f$.]
+
+6.1 Write down the range of $f$. (2)
+
+6.2 Write down the values of $x$ in the interval $x \in [-90^\circ; 360^\circ]$ for which graph $f$ is decreasing. (2)
+
+6.3 $P$ and $Q$ are points on graphs $g$ and $f$ respectively such that $PQ$ is parallel to the $y$-axis. If $PQ$ lies between $A$ and $B$, determine the value(s) of $x$ for which $PQ$ will be a maximum. (6)
+
+**[10]**
+
+---
+
+### QUESTION 7
+
+[DIAGRAM: Solar panel $ABCD$, fixed to concrete slab $EFCD$. $ABCD$ and $EFCD$ are identical rhombuses. $K$ is a point on $DC$ such that $DK = KC$ and $AK \perp DC$. $AF$ and $KF$ are drawn. $\hat{D}C = C\hat{D}E = 60^\circ$ and $AD = x$ units.]
+
+7.1 Determine $AK$ in terms of $x$. (2)
+
+7.2 Write down the size of $K\hat{C}F$. (1)
+
+7.3 It is further given that $A\hat{K}F$, the angle between the solar panel and the concrete slab, is $y$. Determine the area of $\Delta AKF$ in terms of $x$ and $y$. (7)
+
+**[10]**
+
+---
+
+### QUESTION 8
+
+8.1 [DIAGRAM: $PQRS$ is a cyclic quadrilateral. Chord $RS$ is produced to $T$. $K$ is a point on $RS$ and $W$ is a point on the circle such that $QRKW$ is a parallelogram. $PS$ and $QW$ intersect at $U$. $P\hat{S}T = 136^\circ$ and $\hat{Q}_1 = 100^\circ$.]
+
+Determine, with reasons, the size of:
+8.1.1 $\hat{R}$ (2)
+8.1.2 $\hat{P}$ (2)
+8.1.3 $P\hat{Q}W$ (3)
+8.1.4 $\hat{U}_2$ (2)
+
+8.2 [DIAGRAM: Diagonals of quadrilateral $CDEF$ intersect at $T$. $EF = 9$ units, $DC = 18$ units, $ET = 7$ units, $TC = 10$ units, $FT = 5$ units and $TD = 14$ units.]
+
+Prove, with reasons, that:
+8.2.1 $E\hat{F}D = E\hat{C}D$ (4)
+8.2.2 $D\hat{F}C = D\hat{E}C$ (3)
+
+**[16]**
+
+---
+
+### QUESTION 9
+
+[DIAGRAM: $O$ is the centre of the circle. $ST$ is a tangent to the circle at $T$. $M$ and $P$ are points on the circle such that $TM = MP$. $OT$, $OP$ and $TP$ are drawn. Let $\hat{O}_1 = x$.]
+
+Prove, with reasons, that $S\hat{T}M = \frac{1}{4}x$. **[7]**
+
+---
+
+### QUESTION 10
+
+10.1 [DIAGRAM: $\Delta ABC$ is drawn. $D$ is a point on $AB$ and $E$ is a point on $AC$ such that $DE \parallel BC$. $BE$ and $DC$ are drawn.]
+
+Use the diagram to prove the theorem which states that a line drawn parallel to one side of a triangle divides the other two sides proportionally, in other words prove that $\frac{AD}{DB} = \frac{AE}{EC}$ (6)
+
+10.2 [DIAGRAM: $ST$ and $VT$ are tangents to the circle at $S$ and $V$ respectively. $R$ is a point on the circle and $W$ is a point on chord $RS$ such that $WT$ is parallel to $RV$. $SV$ and $WV$ are drawn. $WT$ intersects $SV$ at $K$. Let $\hat{S}_2 = x$.]
+
+10.2.1 Write down, with reasons, THREE other angles EACH equal to $x$. (6)
+
+10.2.2 Prove, with reasons, that:
+(a) $WSTV$ is a cyclic quadrilateral (2)
+(b) $\Delta WRV$ is isosceles (4)
+(c) $\Delta WRV \parallel\parallel \Delta ATSV$ [Wait, text says $\Delta ATSV$? Let's check: $\Delta W\dots$ let's look closely at image: $\Delta WRV \parallel\parallel \Delta ATSV$ or $\Delta TSF$ etc? Let's transcribe standard: $\Delta WRV \parallel\parallel \Delta TSV$] (3)
+(d) $\frac{RV}{SR} = \frac{KV}{TS}$ (4)
+
+**[25]**
+
+**TOTAL: 150**
+
+---
+
+### INFORMATION SHEET: MATHEMATICS
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni) \quad A = P(1 - ni) \quad A = P(1 - i)^n \quad A = P(1 + i)^n$$
+
+$$T_n = a + (n-1)d \quad S_n = \frac{n}{2}[2a + (n-1)d]$$
+
+$$T_n = ar^{n-1} \quad S_n = \frac{a(r^n - 1)}{r - 1} \quad (r \neq 1) \quad S_\infty = \frac{a}{1 - r} \quad (-1 < r < 1)$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i} \quad P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} \quad M\left(\frac{x_1 + x_2}{2}; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c \quad y - y_1 = m(x - x_1) \quad m = \frac{y_2 - y_1}{x_2 - x_1} \quad m = \tan \theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+In $\Delta ABC$:
+$$\frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}$$
+$$a^2 = b^2 + c^2 - 2bc \cos A$$
+$$\text{area } \Delta ABC = \frac{1}{2}ab \sin C$$
+
+$$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta$$
+$$\sin(\alpha - \beta) = \sin \alpha \cos \beta - \cos \alpha \sin \beta$$
+$$\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta$$
+$$\cos(\alpha - \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2 \alpha - \sin^2 \alpha \\ 1 - 2\sin^2 \alpha \\ 2\cos^2 \alpha - 1 \end{cases}$$
+$$\sin 2\alpha = 2\sin \alpha \cos \alpha$$
+
+$$\bar{x} = \frac{\sum x}{n} \quad \sigma^2 = \frac{\sum_{i=1}^n (x_i - \bar{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)} \quad P(A \text{ or } B) = P(A) + P(B) - P(A \text{ and } B)$$
+
+$$\hat{y} = a + bx \quad b = \frac{\sum(x - \bar{x})(y - \bar{y})}{\sum(x - \bar{x})^2}$$

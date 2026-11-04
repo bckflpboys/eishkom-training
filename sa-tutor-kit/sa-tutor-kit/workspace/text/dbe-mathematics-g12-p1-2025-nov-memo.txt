@@ -1,0 +1,675 @@
+**NATIONAL SENIOR CERTIFICATE / NASIONALE SENIOR SERTIFIKAAT**
+
+**GRADE 12 / GRAAD 12**
+
+**MATHEMATICS P1 / WISKUNDE V1**
+
+**NOVEMBER 2025**
+
+**MARKING GUIDELINES / NASIENRIGLYNE**
+
+---
+
+**NOTE:**
+* If a candidate answers a question TWICE, only mark the FIRST attempt.
+* Consistent Accuracy applies in all aspects of the marking guidelines.
+
+**LET WEL:**
+* Indien 'n kandidaat 'n vraag TWEE keer beantwoord, sien slegs die EERSTE poging na.
+* Volgehoue akkuraatheid is DEURGAANS op ALLE aspekte van die nasienriglyne van toepassing.
+
+---
+
+### QUESTION / VRAAG 1
+
+1.1.1 
+$$(x + 5)(x - 2) = 0$$
+$x = -5 \text{ or } x = 2$
+* $\checkmark x = -5$
+* $\checkmark x = 2$
+**(2)**
+
+1.1.2 
+$$5x^2 + 2 = -9x$$
+$$5x^2 + 9x + 2 = 0$$
+$$x = \frac{-9 \pm \sqrt{(9)^2 - 4(5)(2)}}{2(5)}$$
+$$x = \frac{-9 \pm \sqrt{41}}{10}$$
+$x = -0,26 \text{ or } x = -1,54$
+* $\checkmark$ standard form
+* $\checkmark$ substitution into the correct formula
+* $\checkmark$ answer
+* $\checkmark$ answer
+**(4)**
+
+1.1.3 
+$$8x^2 > 2x$$
+$$8x^2 - 2x > 0$$
+$$2x(4x - 1) > 0$$
+$\text{CV: } 0 ; \frac{1}{4}$
+$x < 0 \text{ or } x > \frac{1}{4}$
+* $\checkmark$ standard form
+* $\checkmark$ critical values/factors
+* $\checkmark\checkmark$ answer
+**(4)**
+
+1.1.4 
+$$2 \cdot 2^{2x} - 9 \cdot 2^x + 4 = 0$$
+$$(2 \cdot 2^x - 1)(2^x - 4) = 0$$
+$$2^x = \frac{1}{2} \quad \text{or} \quad 2^x = 4$$
+$$2^x = 2^{-1} \quad \text{or} \quad 2^x = 2^2$$
+$$x = -1 \quad \text{or} \quad x = 2$$
+* $\checkmark$ factors
+* $\checkmark$ both equations
+* $\checkmark$ answer
+* $\checkmark$ answer
+**(4)**
+
+**OR / OF**
+
+$$2 \cdot 2^{2x} - 9 \cdot 2^x + 4 = 0$$
+$\text{Let } k = 2^x$
+$$2k^2 - 9k + 4 = 0$$
+$$(2k - 1)(k - 4) = 0$$
+$$k = \frac{1}{2} \quad \text{or} \quad k = 4$$
+$$\therefore 2^x = \frac{1}{2} \quad \text{or} \quad 2^x = 4$$
+$$\therefore x = -1 \quad \text{or} \quad x = 2$$
+* $\checkmark$ factors
+* $\checkmark$ both equations
+* $\checkmark$ answer
+* $\checkmark$ answer
+**(4)**
+
+1.1.5 
+$$\sqrt{\frac{1}{x}} + 2 = \frac{1}{\sqrt{x}}$$
+$$\left(\sqrt{\frac{1}{x}} + 2\right)^2 = \left(\frac{1}{\sqrt{x}}\right)^2$$
+$$\frac{1}{x} + 2 = \frac{1}{x}$$
+$$\frac{1}{\sqrt{x}} = \frac{1}{x} - 2$$
+$$\left(\frac{1}{\sqrt{x}}\right)^2 = \left(\frac{1}{x} - 2\right)^2$$
+$$\frac{1}{x} = \frac{1}{x^2} - \frac{4}{x} + 4$$
+$$\frac{1}{x^2} - \frac{5}{x} + 4 = 0$$
+$$4x^2 - 5x + 1 = 0$$
+$$(4x - 1)(x - 1) = 0$$
+$$x = \frac{1}{4} \quad \text{or} \quad x \neq 1$$
+* $\checkmark$ squaring both sides
+* $\checkmark$ isolation of surd
+* $\checkmark$ squaring both sides only after isolation of surd
+* $\checkmark$ standard form
+* $\checkmark$ answer with selection
+**(5)**
+
+**OR / OF**
+
+$$\sqrt{\frac{1}{x}} + 2 = \frac{1}{\sqrt{x}}$$
+$\text{Let } k = \frac{1}{\sqrt{x}}$
+$$\sqrt{k} + 2 = k$$ (Note: typo in guideline image showing $\sqrt{k} \rightarrow k+2 = k^2$, direct substitution leads to $k + 2 = k^2$)
+$$k + 2 = k^2$$
+$$k^2 - k - 2 = 0$$
+$$(k - 2)(k + 1) = 0$$
+$$\therefore k = 2 \quad \text{or} \quad k = -1$$
+$$\frac{1}{\sqrt{x}} = 2 \quad \text{or} \quad \frac{1}{\sqrt{x}} \neq -1$$
+$$2\sqrt{x} = 1$$
+$$4x = 1$$
+$$\therefore x = \frac{1}{4}$$
+* $\checkmark$ equation
+* $\checkmark$ squaring both sides
+* $\checkmark$ standard form
+* $\checkmark$ substitution
+* $\checkmark$ answer with selection
+**(5)**
+
+1.2 
+$$x = y + 2 \quad \dots\dots(1)$$
+$$5xy = x^2 + 6 \quad \dots\dots(2)$$
+$$5(y + 2)y = (y + 2)^2 + 6$$
+$$5y^2 + 10y = y^2 + 4y + 4 + 6$$
+$$4y^2 + 6y - 10 = 0$$
+$$2y^2 + 3y - 5 = 0$$
+$$(2y + 5)(y - 1) = 0$$
+$$y = -\frac{5}{2} \quad \text{or} \quad y = 1$$
+$$x = -\frac{1}{2} \quad \text{or} \quad x = 3$$
+* $\checkmark x = y + 2$
+* $\checkmark 5xy = x^2 + 6$
+* $\checkmark$ substitution
+* $\checkmark$ standard form
+* $\checkmark$ $y$-values
+* $\checkmark$ $x$-values
+**(6)**
+
+**OR / OF**
+
+$$y = x - 2 \quad \dots\dots(1)$$
+$$5xy - 6 = x^2 \quad \dots\dots(2)$$
+$$5x(x - 2) - 6 = x^2$$
+$$5x^2 - 10x - 6 = x^2$$
+$$4x^2 - 10x - 6 = 0$$
+$$2x^2 - 5x - 3 = 0$$
+$$(2x + 1)(x - 3) = 0$$
+$$x = -\frac{1}{2} \quad \text{or} \quad x = 3$$
+$$y = -\frac{5}{2} \quad \text{or} \quad y = 1$$
+* $\checkmark y = x - 2$
+* $\checkmark 5xy - 6 = x^2$
+* $\checkmark$ substitution
+* $\checkmark$ standard form
+* $\checkmark$ $x$-values
+* $\checkmark$ $y$-values
+**(6)**
+
+**[25]**
+
+---
+
+### QUESTION / VRAAG 2
+
+2.1.1 
+$$(10 + t) + (t - 2) + (t + 4)$$
+$$\frac{t - 2}{t + 10} = \frac{t + 4}{t - 2}$$
+$$(t - 2)^2 = (t + 4)(t + 10)$$
+$$t^2 - 4t + 4 = t^2 + 14t + 40$$
+$$-18t = 36$$
+$$\therefore t = -2$$
+* $\checkmark$ equating the ratios
+* $\checkmark$ cross multiplication
+* $\checkmark$ expansion
+**(3)**
+
+2.1.2 
+$8 ; -4 ; \dots$
+$$r = \frac{-4}{8} = -\frac{1}{2}$$
+$$T_{25} = 8\left(-\frac{1}{2}\right)^{24}$$
+$$T_{25} = \left(\frac{1}{2}\right)^{21} \quad \text{or} \quad T_{25} = (2)^{-21} \quad \text{or} \quad T_{25} = (8)^{-7} \quad \text{or} \quad T_{25} = (128)^{-3} \quad \text{or} \quad T_{25} = (2\ 097\ 152)^{-1}$$
+* $\checkmark 8 \text{ and } -4$
+* $\checkmark r$
+* $\checkmark$ answer in exponential form
+**(3)**
+
+2.1.3 
+$$S_\infty = \frac{a}{1 - r}$$
+$$S_\infty = \frac{8}{1 - \left(-\frac{1}{2}\right)}$$
+$$S_\infty = \frac{16}{3} = 5,33$$
+* $\checkmark$ substitution
+* $\checkmark$ answer
+**(2)**
+
+2.2.1 
+$$T_{14} - T_6 = 4 \times 8 = 32$$
+* $\checkmark\checkmark$ answer
+**(2)**
+
+**OR / OF**
+$$T_{14} - T_6 = (4(14) - 1) - (4(6) - 1)$$
+$$= 55 - 23$$
+$$= 32$$
+* $\checkmark$ subs
+* $\checkmark$ answer
+**(2)**
+
+**OR / OF**
+$$T_{14} - T_6 = (4(k + 13) - 1) - (4(k + 5) - 1)$$
+$$= 4k + 51 - (4k + 19)$$
+$$= 32$$
+* $\checkmark$ subs
+* $\checkmark$ answer
+**(2)**
+
+2.2.2 
+$n = 118 - k$
+$$T_{117} = 467$$
+$$S_{118-k} = \frac{118-k}{2}[4k - 1 + 467]$$
+$$26\ 675 = (118 - k)[2k + 233]$$
+$$26\ 675 = 236k + 27\ 494 - 2k^2 - 233k$$
+$$2k^2 - 3k - 819 = 0$$
+$$(k - 21)(2k + 39) = 0$$
+$$\therefore k = 21 \quad \text{or} \quad k \neq -\frac{39}{2}$$
+* $\checkmark$ number of terms
+* $\checkmark$ last term
+* $\checkmark$ substitution
+* $\checkmark$ standard form
+* $\checkmark$ answer with selection
+**(5)**
+
+**OR / OF**
+$n = 118 - k$
+$$S_{118-k} = \frac{118-k}{2}[2(4k - 1) + (118 - k - 1)(4)]$$
+$$26\ 675 = \frac{118-k}{2}[8k - 2 + 468 - 4k]$$
+$$53\ 350 = (118 - k)[4k + 466]$$
+$$53\ 350 = 472k + 54\ 988 - 4k^2 - 466k$$
+$$4k^2 - 6k - 1638 = 0$$
+$$2k^2 - 3k - 819 = 0$$
+$$(k - 21)(2k + 39) = 0$$
+$$\therefore k = 21 \quad \text{or} \quad k \neq -\frac{39}{2}$$
+* $\checkmark$ number of terms
+* $\checkmark$ substitution
+* $\checkmark$ simplification
+* $\checkmark$ standard form
+* $\checkmark$ answer with selection
+**(5)**
+
+**OR / OF**
+$T_1 = 3 \quad T_2 = 7$
+$$S_{117} - S_{k-1} = 26\ 675$$
+$$S_{117} = \frac{n}{2}[2a + (n-1)d]$$
+$$= \frac{117}{2}[2(3) + (116)4]$$
+$$= 27\ 495$$
+$$\therefore S_{k-1} = 27\ 495 - 26\ 675 = 820$$
+$$820 = \frac{n}{2}[2(3) + 4n - 4]$$
+$$0 = 2n^2 + n - 820$$
+$$(2n + 41)(n - 20) = 0$$
+$$\therefore n = 20$$
+$$\therefore k - 1 = 20$$
+$$k = 21$$
+* $\checkmark 27\ 495$
+* $\checkmark$ difference
+* $\checkmark$ substitution
+* $\checkmark$ standard form
+* $\checkmark$ answer with selection
+**(5)**
+
+**[15]**
+
+---
+
+### QUESTION / VRAAG 3
+
+3.1 
+$36 \quad 71 \quad 104 \quad 135 \quad 164$
+$\quad 35 \quad 33 \quad 31 \quad 29$
+$\quad\quad -2$
+
+$$T_5 = 164$$
+* $\checkmark$ first differences
+* $\checkmark$ answer
+**(2)**
+
+3.2 
+$$2a = -2 \implies a = -1$$
+$$3(-1) + b = 35 \implies b = 38$$
+$$-1 + 38 + c = 36 \implies c = -1$$
+$$T_n = -n^2 + 38n - 1$$
+* $\checkmark 2a = -2$
+* $\checkmark 3(-1) + b = 35$
+* $\checkmark -1 + 38 + c = 36$
+**(3)**
+
+3.3 
+$$n = \frac{-38}{2(-1)} = 19$$
+$$T_{19} = -(19)^2 + 38(19) - 1 = 360$$
+* $\checkmark$ method
+* $\checkmark$ $n$
+* $\checkmark$ answer
+**(3)**
+
+**OR / OF**
+$$T_n' = -2n + 38 = 0 \implies n = 19$$
+$$T_{19} = -(19)^2 + 38(19) - 1 = 360$$
+* $\checkmark$ method
+* $\checkmark$ $n$
+* $\checkmark$ answer
+**(3)**
+
+3.4 
+$$\frac{n+3}{2} = 19$$
+$$n + 3 = 38 \implies n = 35$$
+* $\checkmark$ method
+* $\checkmark$ answer
+**(2)**
+
+**OR / OF**
+$$-n^2 + 38n - 1 = 104$$
+$$n^2 - 38n + 105 = 0$$
+$$(n - 35)(n - 3) = 0$$
+$$n = 35$$
+* $\checkmark$ method
+* $\checkmark$ answer
+**(2)**
+
+**[10]**
+
+---
+
+### QUESTION / VRAAG 4
+
+4.1 
+$$t = \log_{\frac{1}{3}} 3 \implies t = -1$$
+* $\checkmark$ answer
+**(1)**
+
+4.2 
+$A(1 ; 0)$
+* $\checkmark$ answer
+**(1)**
+
+4.3 
+$$f(x) = \log_{\frac{1}{3}} x$$
+$$y = \log_{\frac{1}{3}} x$$
+$$x = \log_{\frac{1}{3}} y$$
+$$y = \left(\frac{1}{3}\right)^x = 3^{-x}$$
+* $\checkmark$ swopping
+* $\checkmark$ answer
+**(2)**
+
+4.4 
+$$y = 0$$
+* $\checkmark$ answer
+**(1)**
+
+4.5 
+* $\checkmark$ decreasing exponential shape with asymptote $y = 0$
+* $\checkmark$ $y$-intercept $(0 ; 1)$
+* $\checkmark$ any point
+**(3)**
+
+4.6 
+$$0 < y < 3 \quad \text{or} \quad y \in (0 ; 3)$$
+* $\checkmark\checkmark$ answer
+**(2)**
+
+**[10]**
+
+---
+
+### QUESTION / VRAAG 5
+
+5.1 
+$$x \in \mathbb{R}, x \neq 3$$
+* $\checkmark$ answer
+**(1)**
+
+5.2 
+$$y \le 8$$
+* $\checkmark$ answer
+**(1)**
+
+5.3.1 
+$$3 < x \le 5 \quad \text{OR/OF} \quad x \in (3 ; 5]$$
+* $\checkmark\checkmark$ answer
+**(2)**
+
+5.3.2 
+$$x < 1 \text{ or } x > 5 \quad \text{OR/OF} \quad x \in (-\infty ; 1) \text{ or } x \in (5 ; \infty)$$
+* $\checkmark x < 1$
+* $\checkmark x > 5$
+**(2)**
+
+5.4 
+$$y = a(x - 3)^2 + 8$$
+$$6 = a(5 - 3)^2 + 8$$
+$$-2 = 4a \implies a = -\frac{1}{2}$$
+$$y = -\frac{1}{2}(x - 3)^2 + 8$$
+$$y = -\frac{1}{2}(x^2 - 6x + 9) + 8$$
+$$y = -\frac{1}{2}x^2 + 3x + \frac{7}{2}$$
+* $\checkmark p \text{ and } q$ values
+* $\checkmark$ substitution $(5 ; 6)$
+* $\checkmark$ simplification
+**(3)**
+
+5.5 
+$$y = -\frac{1}{2}x^2 + 3x + \frac{7}{2}$$
+$$-\frac{1}{2}x^2 + 3x + \frac{7}{2} = 0$$
+$$x^2 - 6x - 7 = 0$$
+$$(x - 7)(x + 1) = 0$$
+$$x = 7 \quad \text{or} \quad x = -1$$
+$$M(-1 ; 0)$$
+$$0 = \frac{-4}{x - 3} + 8$$
+$$-8x + 24 = -4$$
+$$x = \frac{7}{2}$$
+$$T\left(\frac{7}{2} ; 0\right)$$
+$$MT = \frac{7}{2} + 1 = \frac{9}{2} = 4,5$$
+* $\checkmark$ solve for $x$
+* $\checkmark$ $x$-values
+* $\checkmark$ coordinates of $M$
+* $\checkmark$ solve for $x$
+* $\checkmark$ $x$-value
+* $\checkmark$ $MT$
+**(6)**
+
+5.6 
+$$f(x) = -\frac{1}{2}x^2 + 3x + \frac{7}{2}$$
+$$f'(x) = -x + 3$$
+$$m = f'(5) = -5 + 3 = -2$$
+$$6 = -2(5) + c \implies c = 16$$
+$$\therefore y = -2x + 16$$
+* $\checkmark f'(x) = -x + 3$
+* $\checkmark m = f'(5)$
+* $\checkmark$ answer
+**(3)**
+
+**[18]**
+
+---
+
+### QUESTION / VRAAG 6
+
+6.1 
+$$(-p ; 0)$$
+* $\checkmark (-p ; 0)$
+**(1)**
+
+6.2 
+$$g(x) = x + c \implies q = 1 + c$$
+$$f(x) = \frac{a}{x + c} + 1 + c$$
+$\text{Point } (0 ; c)$:
+$$c = \frac{a}{0 + c} + 1 + c$$
+$$-1 = \frac{a}{c} \implies a = -c$$
+$\text{Point } (3 ; 3 + c)$:
+$$3 + c = \frac{a}{3 + c} + 1 + c$$
+$$2 = \frac{-c}{3 + c}$$
+$$6 + 2c = -c \implies 3c = -6 \implies c = -2$$
+$$a = 2, q = -1$$
+$$f(x) = \frac{2}{x - 2} - 1$$
+* $\checkmark q = 1 + c$
+* $\checkmark f(x) = \frac{a}{x + c} + 1 + c$
+* $\checkmark 3 + c = \frac{a}{3 + c} + 1 + c$
+* $\checkmark a = 2$
+* $\checkmark q = -1$
+**(5)**
+
+**OR / OF**
+$$0 = x + c \implies x = -c$$
+$$q = 1 + c$$
+$$f(x) = \frac{a}{x + c} + 1 + c$$
+$$3 + c = \frac{a}{3 + c} + 1 + c$$
+$$2 = \frac{a}{3 + c} \implies a = 6 + 2c$$
+$$y = \frac{6 + 2c}{x + c} + 1 + c$$
+$$c = \frac{6 + 2c}{0 + c} + 1 + c$$
+$$-1 = \frac{6 + 2c}{c} \implies -c = 6 + 2c \implies c = -2$$
+$$a = 2, q = -1$$
+$$\therefore f(x) = \frac{2}{x - 2} - 1$$
+* $\checkmark q = 1 + c$
+* $\checkmark f(x) = \frac{a}{x + c} + 1 + c$
+* $\checkmark 3 + c = \frac{a}{3 + c} + 1 + c$
+* $\checkmark a = 2$
+* $\checkmark q = -1$
+**(5)**
+
+6.3 
+Translation of 1 unit down
+**OR / OF**
+Translation of 1 unit to the right
+* $\checkmark\checkmark$ answer
+**(2)**
+
+**[8]**
+
+---
+
+### QUESTION / VRAAG 7
+
+7.1 
+$$A = P(1 + i)^n$$
+$$A = 40\ 000(1 + 7,8\%)^5$$
+$$A = \text{R}58\ 230,94$$
+* $\checkmark$ substitution into correct formula
+* $\checkmark$ answer
+**(2)**
+
+7.2 
+$$F = \frac{x[(1 + i)^n - 1]}{i}$$
+$$F = \frac{2\ 300\left[\left(1 + \frac{0,058}{4}\right)^{24} - 1\right]}{\frac{0,058}{4}} \times \left(1 + \frac{0,058}{4}\right)^1$$
+$$F = \text{R}66\ 411,60$$
+* $\checkmark i$
+* $\checkmark$ substitution into correct formula
+* $\checkmark$ future value $\times (1 + i)^1$
+* $\checkmark$ answer
+**(4)**
+
+**OR / OF**
+$$F = \frac{2\ 300\left[\left(1 + \frac{0,058}{4}\right)^{25} - 1\right]}{\frac{0,058}{4}} - 2300$$
+$$F = \text{R}66\ 411,60$$
+* $\checkmark i$
+* $\checkmark$ substitution into correct formula
+* $\checkmark -2300$
+* $\checkmark$ answer
+**(4)**
+
+7.3.1 
+$$A = P(1 + i)^n$$
+$$A = 900\ 000\left(1 + \frac{0,068}{12}\right)^3 = \text{R}915\ 386,86$$
+$$P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+$$915\ 386,86 = \frac{10\ 000\left[1 - \left(1 + \frac{0,068}{12}\right)^{-n}\right]}{\frac{0,068}{12}}$$
+$$\left(1 + \frac{0,068}{12}\right)^{-n} = 0,4812\dots$$
+$$-n = \log_{1,005\dots} 0,4812\dots$$
+$$n = 129,419\dots \text{ months}$$
+$$\therefore 132,419 \text{ months since loan was granted}$$
+$$\therefore 133 \text{ months since loan was granted}$$
+* $\checkmark$ answer
+* $\checkmark$ substitution into correct formula
+* $\checkmark$ correct use of logs
+* $\checkmark$ answer of $n$
+* $\checkmark$ final answer
+**(5)**
+
+7.3.2 
+$$P = \frac{10\ 000\left[1 - \left(1 + \frac{0,068}{12}\right)^{-0,419\dots}\right]}{\frac{0,068}{12}}$$
+$$= \text{R}4\ 173,55\dots$$
+$$\text{Final payment} = 4173,55\dots\left(1 + \frac{0,068}{12}\right)^1 = \text{R}4197,21$$
+* $\checkmark$ substitution
+* $\checkmark$ $n$
+* $\checkmark$ balance
+* $\checkmark$ final payment
+**(4)**
+
+**OR / OF**
+$$A = 915\ 386,86\left(1 + \frac{0,068}{12}\right)^{129} = \text{R}1\ 897\ 482,712$$
+$$F = \frac{10\ 000\left[\left(1 + \frac{0,068}{12}\right)^{129} - 1\right]}{\frac{0,068}{12}} = \text{R}1\ 893\ 309,16$$
+$$\text{Balance after } 129 \text{ months} = \text{R}4\ 173,552$$
+$$\text{Final payment} = 4173,552\left(1 + \frac{0,068}{12}\right)^1 = \text{R}4197,21$$
+* $\checkmark$ answer
+* $\checkmark$ answer
+* $\checkmark$ balance
+* $\checkmark$ final payment
+**(4)**
+
+**[15]**
+
+---
+
+### QUESTION / VRAAG 8
+
+8.1 
+$$f(x) = -2x + 3$$
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+$$= \lim_{h \to 0} \frac{-2(x + h) + 3 - (-2x + 3)}{h}$$
+$$= \lim_{h \to 0} \frac{-2h}{h}$$
+$$= \lim_{h \to 0} (-2) = -2$$
+* $\checkmark f(x + h)$
+* $\checkmark$ substitution
+* $\checkmark$ simplification
+* $\checkmark$ answer
+**(4)**
+
+**OR / OF**
+$$f(x) = -2x + 3$$
+$$f(x + h) = -2(x + h) + 3$$
+$$f(x + h) - f(x) = -2x - 2h + 3 + 2x - 3 = -2h$$
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+$$= \lim_{h \to 0} \frac{-2h}{h}$$
+$$= \lim_{h \to 0} (-2) = -2$$
+* $\checkmark f(x + h)$
+* $\checkmark$ simplification
+* $\checkmark$ substitution
+* $\checkmark$ answer
+**(4)**
+
+8.2.1 
+$$g(x) = -3x^4 + 2x$$
+$$g'(x) = -12x^3 + 2$$
+* $\checkmark -12x^3$
+* $\checkmark 2$
+**(2)**
+
+8.2.2 
+$$y = \frac{2x^4 + 1}{x^2}$$
+$$y = 2x^2 + x^{-2}$$
+$$\frac{dy}{dx} = 4x - 2x^{-3}$$
+* $\checkmark 2x^2$
+* $\checkmark x^{-2}$
+* $\checkmark$ derivative first term
+* $\checkmark$ derivative second term
+**(4)**
+
+**[10]**
+
+---
+
+### QUESTION / VRAAG 9
+
+9.1 
+$$f(x) = x^3 - 8x^2 + 5x + 14$$
+$$f'(x) = 3x^2 - 16x + 5 = 0$$
+$$(3x - 1)(x - 5) = 0$$
+$$x = \frac{1}{3} \quad \text{or} \quad x = 5$$
+$$E(5 ; -36)$$
+* $\checkmark f'(x)$
+* $\checkmark f'(x) = 0$
+* $\checkmark$ $x$-value
+* $\checkmark$ $y$-value
+**(4)**
+
+9.2 
+$$f''(x) = 6x - 16 < 0$$
+$$x < \frac{8}{3}$$
+* $\checkmark f''(x)$
+* $\checkmark f''(x) < 0$
+* $\checkmark$ answer
+**(3)**
+
+**OR / OF**
+$$x = \frac{\frac{1}{3} + 5}{2} = \frac{8}{3}$$
+$$x < \frac{8}{3}$$
+* $\checkmark$ midpoint of TPs
+* $\checkmark f''(x) < 0$
+* $\checkmark$ answer
+**(3)**
+
+9.3 
+$x\text{-intercepts of } f\text{: } (-1 ; 0) \text{ and } (7 ; 0)$
+$$-1 < x < 2 \quad \text{or} \quad \frac{8}{3} < x < 7$$
+* $\checkmark\checkmark$ $x$-intercepts
+* $\checkmark$ first interval
+* $\checkmark$ second interval
+**(4)**
+
+9.4 
+$$3x^2 - 16x + 5 = -11$$
+$$3x^2 - 16x + 16 = 0$$
+$$(x - 4)(3x - 4) = 0$$
+$$x = 4 \quad \text{or} \quad x = \frac{4}{3}$$
+$$\text{At } x = 4\text{: } (4)^3 - 8(4)^2 + 5(4) + 14 = -11(4) + t \implies t = 14$$
+$$\text{At } x = \frac{4}{3}\text{: } \left(\frac{4}{3}\right)^3 - 8\left(\frac{4}{3}\right)^2 + 5\left(\frac{4}{3}\right) + 14 = -11\left(\frac{4}{3}\right) + t \implies t = \frac{634}{27} = 23\frac{13}{27} = 23,48$$
+$$\therefore 14 < t < \frac{634}{27}$$
+* $\checkmark$ equating
+* $\checkmark$ $x$-values
+* $\checkmark$ answer
+* $\checkmark$ answer
+* $\checkmark\checkmark$ answer
+**(6)**
+
+**OR / OF**
+$$x^3 - 8x^2 + 5x + 14 = -11x + t$$
+$$x^3 - 8x^2 + 5x + 14 + 11x = t$$
+$$x^3 - 8x^2 + 16x + 14 = t$$
+$$3x^2 - 16x + 16 = 0$$
+$$(x - 4)(3x - 4) = 0$$
+$$x = 4 \quad \text{or} \quad x = \frac{4}{3}$$
+$$\text{At } x = 4\text{: } (4)^3 - 8(4)^2 + 5(4) + 14 = -11(4) + t \implies t = 14$$
+$$\text{At } x = \frac{4}{3}\text{: } \left(\frac{4}{3

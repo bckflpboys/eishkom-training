@@ -1,0 +1,240 @@
+**Vertroulik**
+
+**basic education**  
+Department:  
+Basic Education  
+**REPUBLIC OF SOUTH AFRICA**
+
+---
+
+**SENIORSERTIFIKAAT-EKSAMEN/**  
+**NASIONALE SENIORSERTIFIKAAT-EKSAMEN**
+
+**WISKUNDE V1**
+
+**MEI/JUNIE 2025**
+
+**PUNTE: 150**  
+**TYD: 3 uur**
+
+Hierdie vraestel bestaan uit 9 bladsye en 1 inligtingsblad.
+
+---
+
+### INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies noukeurig deur voordat die vrae beantwoord word.
+
+1. Hierdie vraestel bestaan uit 11 vrae.
+2. Beantwoord AL die vrae in die SPESIALE ANTWOORDEBOEK wat verskaf word.
+3. Dui ALLE berekeninge, diagramme, grafieke, ens. wat jy gebruik het om jou antwoorde te bepaal, duidelik aan.
+4. Volpunte sal NIE noodwendig aan slegs antwoorde toegeken word NIE.
+5. Jy mag 'n goedgekeurde wetenskaplike sakrekenaar (nieprogrammerbaar en niegrafies) gebruik, tensy anders vermeld.
+6. Indien nodig, rond antwoorde korrek tot TWEE desimale mekke af, tensy anders vermeld.
+7. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+8. 'n Inligtingsblad met formules is aan die einde van die vraestel ingesluit.
+9. Skryf netjies en leesbaar.
+
+---
+
+### VRAAG 1
+
+1.1 Los op vir $x$:
+
+1.1.1 $x^2 - 3x - 10 = 0$ (3)
+
+1.1.2 $3x^2 + 6x + 1 = 0$ (korrek tot TWEE desimale mekke) (3)
+
+1.1.3 $2^{x+4} + 2^x = 8704$ (3)
+
+1.1.4 $(x - 8)(x + 2) \le 0$ (3)
+
+1.1.5 $x + 3\sqrt{x+2} = 2$ (4)
+
+1.2 'n Reghoek met sye van $(y - 3)$ meter en $(x + 2)$ meter het 'n omtrek van $24$ meter en 'n oppervlakte van $32$ vierkante meter. Bereken die waardes van $x$ en $y$. (6)
+
+1.3 Toon dat $(1 + x^m + x^{-n})^2 - (1 - x^m - x^{-n})^2$ deelbaar is deur $2$ vir alle reële waardes van $m$ en $n$. (3)  
+**[25]**
+
+---
+
+### VRAAG 2
+
+2.1 Gegee die rekenkundige reeks: $5 + 7 + 9 + \dots + 93$
+
+2.1.1 Bepaal die algemene term van die reeks, $T_n$, in die vorm $T_n = pn + q$. (2)
+
+2.1.2 Die gegewe reeks stel die aantal kilometer voor wat 'n atleet elke week as voorbereiding vir 'n ultramaraton gehardloop het. Die atleet het in die laaste week van die oefenprogram $93\text{ km}$ gehardloop. Hoe lank, in weke, was die oefenprogram? (2)
+
+2.1.3 Die atleet het hierdie geleentheid gebruik om vir haar hoërskool fondse in te samel. Die gemeenskap het haar R10 geborg vir elke kilometer wat tydens die oefenprogram gehardloop is. Bereken die totale bedrag wat die atleet vir haar skool ingesamel het. (3)
+
+2.2 Die algemene term van 'n meetkundige ry is $T_n = 2^{n+2}$
+
+2.2.1 Skryf neer:
+(a) Die eerste term (1)
+(b) Die gemeenskaplike verhouding (1)
+
+2.2.2 Bereken $T_{20}$ (Skryf jou antwoord as 'n mag van 4.) (2)
+
+2.2.3 Bereken $\sum_{n=1}^{\infty} \frac{1}{T_n}$ (3)
+
+2.2.4 Beskou die eerste 21 terme van die ry $T_n = 2^{n+2}$. Bereken die som van die terme in hierdie ry wat nie magte van 4 is nie. (4)  
+**[18]**
+
+---
+
+### VRAAG 3
+
+Gegee die kwadratiese ry: $14\ ;\ 9\ ;\ 6\ ;\ 5\ ;\ \dots$
+
+3.1 Dui aan dat die algemene term van hierdie ry gegee word deur $T_n = n^2 - 8n + 21$. (3)
+
+3.2 Twee opeenvolgende terme van die kwadratiese ry het 'n verskil van 33. Bereken die waarde van die grootste term. (3)
+
+3.3 Die waarde van $m$ word by elke term in die kwadratiese ry getel. Bepaal die waardes van $m$ waarvoor slegs die terme tussen $T_1$ en $T_7$ van die kwadratiese ry negatiewe waardes sal hê. (3)  
+**[9]**
+
+---
+
+### VRAAG 4
+
+Die grafiek van $f(x) = \frac{4}{x-3} + 4$ is hieronder geteken. $M$ is die punt waar die asimptote van $f$ mekaar sny. $C$ en $D$ is onderskeidelik die $x$- en $y$-afsnitte van $f$. $A$ is die punt op $f$ wat die naaste aan $M$ is.
+
+[DIAGRAM: Die hiperbool $f(x) = \frac{4}{x-3} + 4$ met 'n vertikale asimptoot by $x = 3$ en 'n horisontale asimptoot by $y = 4$. Die asimptote sny by punt $M(3, 4)$. Die $y$-afsnit word gemerk as $D$ en die $x$-afsnit as $C$. Punt $A$ lê op die boonste regtertak van die hiperbool, die naaste aan $M$.]
+
+4.1 Skryf die koördinate van $M$ neer. (2)
+
+4.2 Bereken die koördinate van $D$. (2)
+
+4.3 Indien $y = x + t$ die vergelyking van 'n simmetrielyn van $f$ is, bereken die waarde van $t$. (2)
+
+4.4 Bepaal die waardes van $x$ waarvoor $f(x) \le 0$. (4)
+
+4.5 Bereken die koördinate van $A$. (3)
+
+4.6 'n Enkele transformasie word op $f$ toegepas om 'n nuwe grafiek, gedefinieer as $h(x) = \frac{-4}{x+3} + 4$, te verkry. $A'$ is die beeld van $A$ as gevolg van hierdie transformasie. Bereken die lengte van $AA'$. (2)  
+**[15]**
+
+---
+
+### VRAAG 5
+
+Die grafiek van $f(x) = a(x+p)^2 + q$ is hieronder geteken. $C(-1\ ;\ 4)$ is die draaipunt van $f$. $B(-3\ ;\ -4)$ is 'n punt op $f$.
+
+[DIAGRAM: Parabool $f(x)$ wat afwaarts open met 'n draaipunt by $C(-1, 4)$ en wat deur die punt $B(-3, -4)$ gaan.]
+
+5.1 Toon dat $f(x) = -2x^2 - 4x + 2$. (3)
+
+5.2 Bepaal die waardes van $k$ waarvoor $h(x) = f(x) + k$ geen reële wortels sal hê nie. (2)
+
+5.3 Die grafiek van $y = g'(x)$, waar $g'$ die afgeleide van $g$ is, word verkry wanneer $f$ om die lyn $y = 4$ gereflekteer word. Teken 'n sketsgrafiek van $g$ indien $g(0) < 0$. Dui enige stasionêre punte duidelik op jou grafiek aan. (4)  
+**[9]**
+
+---
+
+### VRAAG 6
+
+Die grafieke van $f(x) = p^x + q$ en $g(x) = mx + c$ is hieronder geteken. $A(3\ ;\ 4)$ is die snypunt van $f$ en $g$. $B(0\ ;\ -3)$ is die $y$-afsnit van $f$. $E$ is die $x$-afsnit van $g$.
+
+[DIAGRAM: Grafieke van 'n eksponensiële funksie $f(x) = p^x + q$ met 'n horisontale asimptoot onder die $x$-as, $y$-afsnit by $B(0, -3)$, en 'n reguitlyn $g(x) = mx + c$ wat $f$ sny by $A(3, 4)$. $E$ is die $x$-afsnit van die lyn $g$.]
+
+6.1 Bereken die waardes van $p$ en $q$. (4)
+
+6.2 Skryf die waardeverameling van $f$ neer. (1)
+
+6.3 Die grafiek van $g^{-1}$, die inverse van $g$, gaan ook deur punt $B$. Bepaal die vergelyking van $g$ in die vorm $y = \dots$ (4)
+
+6.4 Skryf die vergelyking van $g^{-1}$ in die vorm $y = \dots$ neer. (2)  
+**[11]**
+
+---
+
+### VRAAG 7
+
+7.1 John belê 'n bedrag geld in 'n rekening wat rente betaal teen 'n koers van $15\%\text{ p.j.}$, maandeliks saamgestel. Bereken die jaarlikse effektiewe rentekoers van hierdie belegging. (2)
+
+7.2 Tino belê $\text{R}500\ 000$ in 'n rekening wat rente verdien teen 'n koers van $6\%\text{ p.j.}$, kwartaalliks saamgestel. Tino besluit om $\text{R}11\ 250$ aan die einde van elke 3 maande te onttrek. Tino sal voortgaan om hierdie gereelde onttrekkings te maak totdat daar geen geld in die rekening oor is nie. Hoeveel onttrekkings van $\text{R}11\ 250$ sal Tino kan maak? (5)
+
+7.3 Op 1 Maart 2021 het Abby 'n eenmalige deposito van $\text{R}12\ 000$ in 'n rekening gemaak wat rente verdien teen 'n koers van $9,5\%\text{ p.j.}$, maandeliks saamgestel. Sy het op 1 April 2023 $\text{R}500$ in dieselfde rekening gedeponeer en gaan voort om hierdie maandelikse deposito's van $\text{R}500$ op die eerste dag van elke maand daarna te maak.
+
+Bereken hoeveel geld in die rekening was onmiddellik nadat die deposito van $\text{R}500$ op 1 Maart 2025 gemaak is, presies vier volle jare ná haar oorspronklike deposito. (6)  
+**[13]**
+
+---
+
+### VRAAG 8
+
+8.1 Bepaal $f'(x)$ vanuit eerste beginsels indien dit gegee word dat $f(x) = x^2 - 2$. (5)
+
+8.2 Bepaal:
+
+8.2.1 $\frac{d}{dx}\left[3x^2 - 4x\right]$ (2)
+
+8.2.2 $g'(x)$ as $g(x) = -2\sqrt{x}(x-1)^2$ (4)
+
+8.3 Gegee dat $y = 4x - 14$ 'n gemeenskaplike raaklyn is aan $f(x) = 2x^2 - 4x - 6$ en $g(x) = ax^2 + bx - 18$, bereken die waardes van $a$ en $b$. (6)  
+**[17]**
+
+---
+
+### VRAAG 9
+
+Gegee: $f(x) = x^3 - 6x^2 + 9x - 4 = (x-4)(x-k)^2$
+
+9.1 Toon dat $k = 1$. (2)
+
+9.2 Bereken die koördinate van die draaipunte van $f$. (4)
+
+9.3 Bespreek die konkawiteit van $f$ by $x = -3$. (2)
+
+9.4 Skets die grafiek van $f$. Benoem AL die draaipunte en afsnitte met die asse. (4)
+
+9.5 Bereken die maksimum vertikale afstand tussen $f$ en $h$ vir $1 < x < 3$, indien $h(x) = -2f'(x)$. (6)  
+**[18]**
+
+---
+
+### VRAAG 10
+
+10.1 $A$ en $B$ is onderling uitsluitende gebeurtenisse.  
+Indien $P(A) = 0,42$ en $P(A \text{ of } B) = 0,79$, bereken $P(B)$. (2)
+
+10.2 'n Speletjie by 'n pretpark vereis dat 'n speler 'n seskantige dobbelsteen gooi en 'n kaart uit 'n pak van 52 speelkaarte trek.
+
+'n Speler wen indien 'n onewe getal op die boonste vlak van die dobbelsteen voorkom en die speler ook 'n prentkaart uit die pak kaarte trek.
+
+* 'n Pak kaarte het 4 stelle (harte, diamante, skoppens en klawers).
+* Daar is 4 prentkaarte (koning, koningin, heer en aas) in elke stel.
+
+'n Speler betaal R10 om 'n spel te speel en in een uur kan 260 meense elkeen een keer speel. Indien die eienaar 'n 70%-wins per uur wil maak, bereken die maksimum bedrag wat die eienaar aan elke wenner moet uitbetaal. (6)  
+**[8]**
+
+---
+
+### VRAAG 11
+
+Beskou die driesyfer-getalle vanaf 501 tot by 999.
+
+11.1 Hoeveel van hierdie driesyfer-getalle het presies een 5 in die getal? (4)
+
+11.2 Bereken die waarskynlikheid dat 'n driesyfer-getal nie aan die voorwaarde, gegee in VRAAG 11.1, sal voldoen nie. (3)  
+**[7]**
+
+**TOTAAL: 150**
+
+---
+
+### INLIGTINGSBLAD
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni)$$
+$$A = P(1 - ni)$$
+$$A = P(1 - i)^n$$
+$$A = P(1 + i)^n$$
+
+$$T_n = a + (n-1)d$$
+$$S_n = \frac{n}{2}[2a + (n-1)d]$$
+
+$$T_n = ar^{n-1}$$
+$$S_n = \frac{a(r^n - 

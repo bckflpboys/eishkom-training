@@ -115,134 +115,65 @@ This transfers 27B-level pedagogical reasoning directly into your 4B and 2B mode
 
 ---
 
+## Phase 1 Automated Downloader (`pipeline/download_dbe.py`)
+
+To streamline data collection from the Department of Basic Education without manual clicking:
+```bash
+# Preview what will be collected across all subjects & sessions:
+python pipeline/download_dbe.py --dry-run
+
+# Run the automated crawler to download PDFs and update sources ledger:
+python pipeline/download_dbe.py
+```
+- **Language & Subject Partitioning:** Exam papers and memorandums are downloaded into isolated folders under `workspace/raw/dbe/<language>/<subject>/<year>/`.
+- **Bidirectional Ledger:** Auto-populates `workspace/sources/sources.csv` with paired question paper and memorandum references (`pair_with`).
+- **Benchmark Protection:** Automatically flags November 2024 Grade 12 NSC papers with `held out for EVAL (do not train on it)` to prevent training contamination.
+
+---
+
+## Phase 2 Text Ingestion & Extraction Strategy
+
+All 600 PDFs were ingested into plain text in `workspace/text/` using `pipeline/ingest.py --skip-existing`:
+- **Audited Scale:** **600 text files**, **14,959,351 characters total**, 0 errors.
+- **Auto-DOCX Conversion:** Magic byte detection routed 4 misnamed DOCX papers to `read_docx()`.
+- **Mathematical Equations:** Standardized into LaTeX inside `$..$` (inline) and `$$..$$` (display block) for rendering via KaTeX.
+- **Text-Describable Diagrams (~20%):** Euclidean geometry (circles, parallel lines, tangents), circuits, and coordinate graphs are written out in the `"passage"` field so language models receive complete spatial context.
+- **Pure Visual Diagrams (~10%):** Flagged `"needs_review": true`, excluded from text SFT, rendered to PNG images in `workspace/images/` for multimodal vision training on `LiquidAI/LFM3-VL-2B` (`gariep-flash-stage-1`).
+- **Memo-First Question Recovery:** Mathematics question papers with rasterized formulas have their question text and marking rubrics extracted directly from the paired DBE memorandum (1.38M characters of memo text across math papers).
+
+
+---
+
 ## Directory Structure
 
-All of your data lives in `workspace/`. Kit code never overwrites an earlier step.
+All of your data lives in `sa-tutor-kit/sa-tutor-kit/workspace/`. Kit code never overwrites an earlier step.
 
 ```
-sa-tutor-kit/
-├── README.md                          # This architecture map and model overview
-├── GUIDE.md                           # Step-by-step manual from Phase 0 to Phase 12
-├── tutor_spec.md                      # Pedagogical specification and grading rubric
-├── tutor_data.py                      # Record schema validator and dataset split builder
-├── SOURCES.md                         # South African curriculum source guide and licensing
-├── llm.py                             # Unified OpenAI/DeepSeek/Gemini API client with spend cap
-├── board.py, answers.py, tools_sim.py # Blackboard parser, math answer checkers, tool stubs
-├── retrieval.py                       # Searchable curriculum textbook index
-├── wspaths.py                         # Path manager for workspace subdirectories
-├── colab/
-│   └── sa_tutor_colab.ipynb          # Cloud Colab Enterprise notebook (audition, train, export)
-├── pipeline/
-│   ├── init_workspace.py             # Creates folder hierarchy and sample configs
-│   ├── ingest.py                     # Extracts raw text from DBE/Siyavula PDFs
-│   ├── extract_items.py              # Segments text into questions and memos
-│   ├── plan.py                       # Generates pedagogical curriculum blueprints
-│   ├── generate.py                   # Calls teacher model to write tutoring dialogues
-│   ├── verify.py                     # Multi-layer checks (SymPy arithmetic, leak check, judge)
-│   ├── review_sample.py              # CLI for human spot-check review
-│   ├── merge.py                      # Combines verified rounds into single dataset
-│   └── make_vision_records.py        # Converts exam questions into multi-modal vision records
-├── eval/
-│   ├── make_eval_from_items.py       # Cuts held-out exam questions
-│   ├── run_eval.py                   # Executes exam against models
-│   ├── score_eval.py                 # Scores answers against memo and policy rubrics
-│   ├── report_eval.py                # Generates comparison tables and charts
-│   └── analyze_failures.py           # Uses teacher LLM to categorize error patterns
-├── training/
-│   ├── train_sft.py                  # LoRA / QLoRA training script with Unsloth kernels
-│   ├── export_gguf.py                # Multi-quant GGUF exporter (UD-Q4_K_XL, Q6_K, Q4_K_M)
-│   ├── make_dpo_pairs.py             # Generates preference pairs from model errors
-│   └── vision_prepare.py             # Formats image tokens for multi-modal training
-└── workspace/                        # Your private project data (not committed to git)
-    ├── raw/                          # Source PDFs
-    ├── sources/sources.csv           # Source ledger with license tracking
-    ├── eval/eval_items.jsonl         # Held-out examination benchmark
-    ├── build/r1/                     # Final train.jsonl, val.jsonl, test.jsonl
-    ├── runs/r1/                      # Trained LoRA adapter checkpoints and loss graphs
-    └── exports/                      # Exported GGUF files for offline deployment
+files/
+├── PROGRESS.md                          # Master progress tracker, checklists, and compute ledger
+├── README.md                            # High-level architecture map and model overview
+├── GUIDE.md                             # Step-by-step manual from Phase 0 to Phase 12
+├── SOURCES.md                           # South African curriculum source guide and licensing
+├── stage-1/                             # Dedicated Stage 1 release cycle hub
+│   ├── PROGRESS.md                      # Detailed Stage 1 roadmap and verification logs
+│   ├── README.md                        # Stage 1 model overview and release philosophy
+│   ├── GUIDE.md                         # Quick reference developer execution runbook
+│   ├── MODELS.md                        # Architectural specs for all 5 Stage 1 models
+│   └── CORPUS.md                        # Inventory of 600 Phase 1 downloaded PDFs (378 MB)
+└── sa-tutor-kit/sa-tutor-kit/           # Complete training, evaluation, and pipeline codebase
+    ├── stage-1/                         # Synchronized Stage 1 documentation mirror
+    ├── pipeline/                        # Data download, ingestion, and extraction tools
+    ├── training/                        # Unsloth fine-tuning and GGUF export tools
+    ├── colab/                           # Vertex AI Colab Enterprise notebook (L4 Spot VM)
+    └── workspace/                       # User data directory (raw PDFs, text, items, models)
 ```
-
----
-
-## Quick Start: Local PC Setup
-
-Run these commands from inside `sa-tutor-kit/`:
-
-```bash
-# 1. Set up Python virtual environment
-python -m venv .venv
-.venv\Scripts\activate          # Windows
-# source .venv/bin/activate     # macOS / Linux
-pip install -r requirements.txt
-
-# 2. Initialize workspace hierarchy
-python pipeline/init_workspace.py
-
-# 3. Validate starter schema
-python tutor_data.py validate examples/examples.jsonl --images-root examples
-```
-
-The validator should confirm: `Checked 14 records: 0 errors, 0 warnings.`
-
-### Configuring Environment & Sources:
-1. Copy `.env.example` to `.env`. Set `TEACHER_API_KEY` (e.g., DeepSeek API key or Google Gemini key via OpenAI-compatible endpoint) and set `MAX_SPEND_USD=15`.
-2. Place 3–5 recent DBE past exam papers **with official marking memos** into `workspace/raw/`.
-3. Add entries to `workspace/sources/sources.csv` (recording source name, grade, subject, and license).
-4. Run `python pipeline/ingest.py` to extract text.
-5. Cut held-out exam items **before** generating any training records (`python eval/make_eval_from_items.py`).
-
----
-
-## Quick Start: Training & Exporting in Colab Enterprise
-
-1. Upload the entire `sa-tutor-kit/` folder (including `workspace/`) to Google Drive.
-2. In Google Cloud Console, open **Vertex AI > Colab Enterprise** (or open standard Google Colab).
-3. Connect an **NVIDIA L4 GPU** (or T4 GPU) instance.
-4. Open `colab/sa_tutor_colab.ipynb`.
-5. Run cells 1–4 to verify GPU access, mount Google Drive, install Unsloth, and log in to Hugging Face.
-6. **Audition (Cell 5):** Benchmark candidate base models on the starter exam before training.
-7. **Train (Cells 6a–6c):**
-   - **Koeberg (27B):** Set `MODEL = 'unsloth/Qwen3.8-27B'` -> Train on L4 Spot VM (~5.5 hrs, ~$1.76).
-   - **Kendal (4B):** Set `MODEL = 'unsloth/Qwen3.5-4B'` -> Train on L4 Spot VM (~1.0 hr, ~$0.32).
-   - **Gariep (2B):** Set `MODEL = 'empero-ai/Qwen3.8-2B-Distill'` -> Train on L4 Spot VM (~35 mins, ~$0.19).
-8. **Export (Cell 9):**
-   Export multi-quant files with clean Eishkom branding names:
-   ```bash
-   # Koeberg Flagship Export
-   python training/export_gguf.py --adapter workspace/runs/r1-koeberg/adapter \
-          --out workspace/exports/koeberg-stage-1 --quants ud-q4_k_xl
-
-   # Kendal Desktop & Flash Mobile Export (from a single 4B training run!)
-   python training/export_gguf.py --adapter workspace/runs/r1-kendal/adapter \
-          --out workspace/exports/kendal-stage-1 --quants q6_k q4_k_m
-
-   # Gariep Budget Tutor Export
-   python training/export_gguf.py --adapter workspace/runs/r1-gariep/adapter \
-          --out workspace/exports/gariep-stage-1 --quants q6_k q8_0
-   ```
-
----
-
-## What "Ready to Train" & "Good Enough to Ship" Look Like
-
-### Ready to Train Checklist:
-- `workspace/build/r1/train.jsonl` exists with balanced coverage across grades and strategies.
-- The dry-run command (`train_sft.py ... --dry-run`) reports `too_long: 0` and `mismatch: 0`.
-- Trainable token share is between 10% and 25%.
-- The 20-sample overfit smoke test (`train_sft.py ... --limit 20 --epochs 15`) drives loss close to zero.
-- A human has reviewed at least 40 generated records (`review_sample.py`) with a bad rate below 10%.
-
-### Good Enough to Ship Checklist:
-- Overall held-out exam pass rate ≥ 70%, or at least 85% of the teacher model's score.
-- Policy compliance ≥ 90%; language consistency ≥ 95%; tool-calling execution ≥ 90%.
-- No individual topic/grade slice drops by more than 3 points from the previous run (no catastrophic forgetting).
-- Quantized GGUF files tested on local hardware via `llama-server` and verified on physical phones.
 
 ---
 
 ## Consultation Archives & Provenance
 
 The design decisions and specifications in this kit were developed across two comprehensive consultations:
-- **Claude Consultation:** [`chats/claude-transcript.md`](../../../chats/claude-transcript.md) and [`chats/claude-transcript.html`](../../../chats/claude-transcript.html) (Pedagogical spec, zero-budget local hardware constraints, schema design).
-- **Gemini Consultation:** [`chats/gemini-transcript.md`](../../../chats/gemini-transcript.md) and [`chats/Google Cloud & Gen AI Credits Guide.pdf`](../../../chats/Google%20Cloud%20%26%20Gen%20AI%20Credits%20Guide.pdf) (Google Cloud & Gen AI credits utilization, Vertex AI Colab Enterprise, NVIDIA L4 Spot VM pricing, Google Cloud Run scale-to-zero serverless deployment, and the 5-model Eishkom Stage 1 lineup).
-- **Consultation Index:** [`chats/README.md`](../../../chats/README.md).
+- **Claude Consultation:** [`../chats/claude-transcript.md`](../chats/claude-transcript.md) and [`../chats/claude-transcript.html`](../chats/claude-transcript.html) (Pedagogical spec, zero-budget local hardware constraints, schema design).
+- **Gemini Consultation:** [`../chats/gemini-transcript.md`](../chats/gemini-transcript.md) and [`../chats/Google Cloud & Gen AI Credits Guide.pdf`](../chats/Google%20Cloud%20%26%20Gen%20AI%20Credits%20Guide.pdf) (Google Cloud & Gen AI credits utilization, Vertex AI Colab Enterprise, NVIDIA L4 Spot VM pricing, Google Cloud Run scale-to-zero serverless deployment, and the 5-model Eishkom Stage 1 lineup).
+- **Consultation Index:** [`../chats/README.md`](../chats/README.md).
+

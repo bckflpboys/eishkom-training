@@ -1,0 +1,986 @@
+=== page 1 ===
+Kopiereg voorbehou  Blaai om asseblief
+
+SENIORSERTIFIKAAT-EKSAMEN/
+NASIONALE SENIORSERTIFIKAAT-EKSAMEN
+
+FISIESE WETENSKAPPE:  FISIKA (V1)
+
+2019
+
+PUNTE:  150
+
+TYD:  3 uur
+
+Hierdie vraestel bestaan uit 16 bladsye en 3 gegewensblaaie.
+
+=== page 2 ===
+Fisiese Wetenskappe/V1 2 DBE/2019
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+INSTRUKSIES EN INLIGTING
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+Skryf jou eksamennommer en sentrumnommer in die toepaslike ruimtes op
+die ANTWOORDEBOEK.
+
+Hierdie vraestel bestaan uit TIEN vrae. Beantwoord AL die vrae in die
+ANTWOORDEBOEK.
+
+Begin ELKE vraag op 'n NUWE bladsy in die ANTWOORDEBOEK.
+
+Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie
+vraestel gebruik is.
+
+Laat EEN reël tussen twee subvrae oop, bv. tussen VRAAG 2.1 en
+VRAAG 2.2.
+
+Jy mag 'n nieprogrammeerbare sakrekenaar gebruik.
+
+Jy mag toepaslike wiskundige instrumente gebruik.
+
+Toon ALLE formules en vervangings in ALLE berekeninge.
+
+Rond jou FINALE numeriese antwoorde tot 'n minimum van TWEE desimale
+plekke af.
+
+Gee kort (bondige) motiverings, besprekings, ens. waar nodig.
+
+Jy word aangeraai om die aangehegte GEGEWENSBLAAIE te gebruik.
+
+Skryf netjies en leesbaar.
+
+=== page 3 ===
+Fisiese Wetenskappe/V1 3 DBE/2019
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 1:  MEERVOUDIGEKEUSE-VRAE
+
+Verskeie opsies word as moontlike antwoorde op die volgende vrae gegee. Kies die
+antwoord en skryf slegs die letter (A–D) langs die vraagnommers (1.1 tot 1.10) in die
+ANTWOORDEBOEK neer, bv. 1.11 D.
+
+1.1 'n Motor beweeg teen 'n konstante snelheid.
+
+Watter EEN van die volgende stellings oor die kragte wat op die motor inwerk,
+is KORREK?
+
+ A
+
+B
+
+C
+
+D
+Die netto krag wat op die motor inwerk, is nul.
+
+Daar is geen kragte wat op die motor inwerk nie.
+
+Die gewig van die motor is gelyk aan die normaalkrag wat op die motor
+inwerk.
+
+Daar is 'n nie-nul netto krag wat op die motor inwerk.
+
+(2)
+
+1.2 'n Bal word vertikaal opwaarts geprojekteer. Ignoreer lugweestand.
+
+Watter EEN van die volgende stellings oor die versnelling van die bal op sy
+maksimum hoogte is KORREK?
+
+Die versnelling is gelyk aan …
+
+ A
+
+B
+
+C
+
+D
+nul.
+
+g en is afwaarts gerig.
+
+g en is opwaarts gerig.
+
+g en is horisontaal gerig.
+
+(2)
+
+=== page 4 ===
+Fisiese Wetenskappe/V1 4 DBE/2019
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+1.3 Die grafiek hieronder, nie volgens skaal geteken nie, toon die verwantskap
+tussen die gravitasiekrag op 'n gegewe massa en sy afstand  vanaf die
+middelpunt van die Aarde.
+
+Die grootte van die krag op die massa op 'n afstand R vanaf die middelpunt
+van die Aarde is F.
+
+ Watter EEN van die volgende verteenwoordig die grootte van krag x getoon
+op die grafiek KORREK?
+
+ A
+
+B
+
+C
+
+D
+6F
+
+12F
+
+6
+1
+F
+
+36
+1
+F
+
+(2)
+
+1.4 Bal M, wat teen spoed v na regs beweeg, bots met 'n stilsaande bal N op 'n
+gladde, horisontale oppervlak. Onmiddellik na die botsing kom bal M tot rus
+en bal N beweeg na regs met spoed v.
+
+Watter EEN van die volgende stellings oor die botsing van die ba lle is
+KORREK?
+
+ A
+
+B
+
+C
+
+D
+Totale momentum bly behoue en die massas van die balle is ongelyk.
+
+Totale kinetiese energie bly behoue en die massas van die balle is
+ongelyk.
+
+Totale momentum en totale kinetiese energie bly behoue en die massas
+van die balle is gelyk.
+
+Totale momentum bly behoue maar totale kinetiese energie bly nie
+behoue nie en die massas van die balle is gelyk.
+
+(2)
+Afstand vanaf die middelpunt van die Aarde
+2R 6R R
+F
+¼F
+x
+   Gravitasiekrag
+
+=== page 5 ===
+Fisiese Wetenskappe/V1 5 DBE/2019
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+1.5 'n Klein klippie word uit rus laat val en ondergaan vryval.
+
+Watter EEN van die grafieke hieronder toon die KORR EKTE verwantskap
+tussen onderskeidelik die gravitasie- potensiële energie (U) en spoed v en die
+kinetiese energie (K) en spoed v van die klip ? Die grafieke is NIE volgens
+skaal geteken NIE.
+
+ A
+
+B
+ C
+
+D
+(2)
+
+1.6 'n Stilstaande pas sasier by 'n spoorwegstasie luister na 'n trein wat teen
+konstante spoed aankom.
+
+Watter EEN van die volgende is KORREK vir die aankomende trein se klank
+soos deur die stilstaande passasier gehoor?
+
+ A
+
+B
+
+C
+
+D
+Laer toonhoogte, laer frekwensie
+
+Hoër toonhoogte, laer frekwensie
+
+Hoër toonhoogte, hoër frekwensie
+
+Laer toonhoogte, hoër frekwensie
+
+(2)
+
+Energie (J) Energie (J) U K
+v (m∙s-1)
+U K
+v (m∙s-1)
+Energie (J)
+U K
+v (m∙s-1)
+Energie (J)
+U
+K
+v (m∙s-1)
+
+=== page 6 ===
+Fisiese Wetenskappe/V1 6 DBE/2019
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+1.7 Deeltjie P het lading Q en deeltjie R het lading 2Q. Hulle word deur 'n klein
+afstand, r, van mekaar geskei.
+
+Watter EEN van die stellings hieronder oor die elektrostatiese kragte, FPR, wat
+P op R uitoefen en FRP, wat R op P uitoefen, is KORREK?
+
+ A
+
+B
+
+C
+
+D
+FPR = ½FRP
+
+FPR = FRP
+
+FPR = 2FRP
+
+FPR = FRP
+
+(2)
+
+1.8 'n Battery met emk Ɛ en weglaatbare interne weerstand word in 'n
+stroombaan gekoppel, soos hieronder getoon. Die weerstande van R 1 en R2
+is hoog.
+
+ Watter EEN van die volgende kombinasies oor die ammeterlesings
+sal KORREK wees wanneer skakelaar S oop is en wanneer skakelaar S
+gesluit is?
+
+  SKAKELAAR OOP SKAKELAAR TOE
+ A Ammeter lees slegs die stroom in R1 Ammeter lees slegs die stroom in R2
+ B Ammeter lees slegs die stroom in R2 Ammeter lees die stroom in beide R1 en R2
+ C Ammeter lees die stroom in beide R1 en R2 Ammeter lees die stroom in beide R1 en R2
+ D Ammeter lees die stroom in beide R1 en R2 Ammeter lees slegs die stroom in R2   (2)
+
+1.9 Die rigting van die geïnduseerde stroom in  die spoel van 'n generator is
+afhanklik van die ...
+
+ A
+
+B
+
+C
+
+D
+lengte van die spoel.
+
+rotasiespoed van die spoel.
+
+rigting van die magnetiese veld.
+
+sterkte van die magnetiese veld.
+
+(2)
+R2
+A
+●
+●
+R1
+Ɛ
+S
+
+=== page 7 ===
+Fisiese Wetenskappe/V1 7 DBE/2019
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+1.10 Die arbeidsfunksie van sink is groter as dié van magnesium.
+
+Watter EEN van die volgende stellings oor die drumpelfrekwensies van die
+metale is KORREK?
+
+ A
+
+B
+
+C
+
+D
+Die drumpelfrekwensie van sink is groter as dié van magnesium.
+
+Die drumpelfrekwensie van sink is kleiner as dié van magnesium.
+
+Beide sink en magnesium het dieselfde drumpelfrekwensie.
+
+Die drumpelfrekwensies van sink en magnesium  is onafhanklik van hul
+arbeidsfunksies.
+
+(2)
+    [20]
+
+=== page 8 ===
+Fisiese Wetenskappe/V1 8 DBE/2019
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+40o
+
+VRAAG 2 (Begin op 'n nuwe bladsy.)
+
+2.1 'n Persoon stoot 'n grassnyer met 'n massa van 15 kg teen 'n konstante
+spoed in 'n reguitlyn oor 'n plat grasoppervlak met 'n krag van 90 N. Die krag
+is al langs die handvatsel va n die grassnyer gerig. Die handvatsel is teen 'n
+hoek van 40° met die horisontaal gestel. Verwys na die diagram hieronder.
+
+ 2.1.1 Teken 'n benoemde vrye kragtediagram/vrye liggaamdiagram vir die
+grassnyer.
+
+(4)
+
+  2.1.2 Waarom is dit KORREK om te sê dat die bewegende grassnyer in
+ewewig is?
+
+(1)
+
+ 2.1.3 Bereken die grootte van die  wrywingskrag wat tussen die grassnyer
+en die gras inwerk
+ (3)
+
+ Die grassnyer word nou tot stilstand gebring.
+
+ 2.1.4 Bereken die grootte van die  konstante krag wat deur die handvatsel
+toegepas moet word om die grassnyer uit rus na 2 m.s-1 in 'n tyd van
+3 s te versnel. Aanvaar dat die wrywingskrag tussen die grassnyer
+en die gras dieselfde bly as in VRAAG 2.1.3.
+
+(6)
+
+2.2 Planeet Y het 'n radius of 6 x  105 m. 'n 10 kg-massa weeg 20 N op die
+oppervlak van planeet Y.
+
+Bereken die massa van planeet Y.
+
+(4)
+   [18]
+
+=== page 9 ===
+Fisiese Wetenskappe/V1 9 DBE/2019
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 3 (Begin op 'n nuwe bladsy.)
+
+'n Bal word vertikaal opwaarts, met snelheid v, vanaf die rand van die dak van 'n 40 m
+hoë gebou gegooi. Die bal neem 1,53 s om sy maksimum hoogte te bereik.  Ignoreer
+lugweerstand.
+
+3.1 Definieer die term vryval.  (2)
+
+3.2 Bereken die:
+
+ 3.2.1 Grootte van die beginsnelheid v van die bal.  (3)
+
+ 3.2.2 Maksimum hoogte wat bo die rand van die dak deur die bal bereik is  (3)
+
+3.3 Neem die rand van die dak as verwysingspunt. Bepaal die posisie van die bal
+relatief tot die rand van die gebou na 4 s.
+
+(3)
+
+3.4 Sal enige van die antwoorde op VRAAG 3.2 en 3.3 verander indien die
+hoogte van die gebou 30 m is? Kies uit JA of NEE.
+
+Gee 'n rede vir die antwoord.
+
+(3)
+   [14]
+
+40 m
+v
+
+=== page 10 ===
+Fisiese Wetenskappe/V1 10 DBE/2019
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+0,45 kg
+0,20 kg houer
+NA
+ N
+S
+O W
+0,45 kg
+9 m∙s-1 vi = 0 m∙s-1
+bal
+0,20 kg-houer in
+rus
+VOOR
+
+VRAAG 4 (Begin op 'n nuwe bladsy.)
+
+'n Sokkerspeler skop 'n bal met 'n massa van 0,45 kg ooswaarts. Die bal beweeg teen
+'n snelheid van 9 ms-1 horisontaal in 'n reguitlyn, sonder om die grond te raak, en gaan
+in 'n houer in wat op sy sy in rus lê, soos in die diagram hieronder getoon.  Die massa
+van die houer is 0,20 kg.
+
+Die bal sit na die botsing in die houer vas. Die bal en die houer beweeg nou saam in 'n
+reguitlyn na oos. Ignoreer wrywing en rotasie-effekte.
+
+4.1 Stel die beginsel van behoud van lineêre momentum in woorde.   (2)
+
+4.2 Bereken die grootte van die snelheid van die bal -houer-stelsel onmiddellik na
+die botsing.
+
+(4)
+
+4.3 Bepaal, deur middel van 'n geskikte berekening, of die botsing tussen die bal
+en die houer elasties of onelasties is.
+
+(5)
+   [11]
+
+=== page 11 ===
+Fisiese Wetenskappe/V1 11 DBE/2019
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 5 (Begin op 'n nuwe bladsy.)
+
+'n 70 kg-houer is aanvanklik in rus aan die onder punt van 'n RUWE skuinsvlak wat 'n
+hoek van 30° met die horisontaal maak. Die houer word teen die skuinsvlak opgetrek
+deur middel van 'n ligte, onrekbare tou wat parallel aan die skuinsvlak gehou word,
+soos in die diagram  hieronder getoon. Die krag wat op die tou toegepas word,
+is 700 N.
+
+5.1 Wat is die naam wat aan die krag in die tou gegee word.  (1)
+
+5.2 Gee 'n rede waarom die meganiese energie van die stelsel NIE behoue sal
+bly soos wat die houer teen die skuinsvlak opgetrek word NIE.
+
+(1)
+
+Die houer wor d oor 'n afstand van 4 m  al langs die skuinsvlak getrek. Die kinetiese
+wrywingskrag tussen die houer en die skuinsvlak is 178,22 N.
+
+5.3 Teken 'n benoemde vrye kragtediagram/vrye liggaamdiagram vir die houer
+soos dit teen die skuinsvlak op beweeg.
+
+(4)
+
+5.4 Bereken die arbeid wat deur die wrywingskrag oor die 4 m op die houer verrig
+word.
+
+(3)
+
+5.5 Gebruik energiebeginsels om die spoed van die houer te bereken nadat dit
+4 m beweeg het.
+
+(5)
+
+5.6 Wanneer die houer 4 m teen die skuinsvlak op is, breek die tou per ongeluk ,
+wat veroorsaak dat die houer teruggly na die onderpunt van die skuinsvlak.
+
+Wat sal die totale arbeid  wees wat deur wrywing verrig is wanneer die houer
+opwaarts en dan afwaarts na die onderpunt van die skuinsvlak beweeg?
+
+(1)
+   [15]
+
+30°
+70 kg
+700 N
+
+=== page 12 ===
+Fisiese Wetenskappe/V1 12 DBE/2019
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+932
+
+ Waargenome frekwensie
+(Hz)
+0 10 tyd (s)
+
+VRAAG 6 (Begin op 'n nuwe bladsy.)
+
+6.1 'n Patrolliemotor beweeg teen 'n konstante spoed na 'n stilstaande
+waarnemer toe. Die bestuurder skakel die sirene van die motor aan wanneer
+dit 300 m vanaf die waarnemer is.
+
+Die waarnemer teken die waargenome frekwensie van die klankgolwe van die
+sirene aan soos wat die patrolliemotor hom nader, verby en weg van hom af
+beweeg.
+
+Die inligting wat verkry is, word in die grafiek hieronder getoon.
+
+ 6.1.1 Bereken die spoed van die patrolliemotor.  (2)
+
+ 6.1.2 Stel die Doppler-effek.  (2)
+
+ 6.1.3 Die waargenome frekwensie verander skielik by t = 10  s. Gee 'n
+rede vir hierdie verandering.
+
+(2)
+
+ Neem die spoed van klank in lug as 340 m∙s-1.
+
+ 6.1.4 Bereken die frekwensie van die klank wat deur die sirene vrygestel
+word.
+
+(4)
+
+6.2 Noem TWEE toepassings van die Doppler-effek.  (2)
+   [12]
+
+=== page 13 ===
+Fisiese Wetenskappe/V1 13 DBE/2019
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+● ●
+q1 = –3 x 10-9 C q2
+30 cm
+●
+P
+10 cm
+
+VRAAG 7 (Begin op 'n nuwe bladsy.)
+
+Twee puntladings , q 1 en q2, word 30 cm van mekaar langs 'n reguitlyn geplaas.
+Lading q1 is –3 x 10-9 C. Punt P is 10 cm na links van q1, soos in die diagram hieronder
+getoon. Die netto elektriese veld by punt P is nul.
+
+7.1 Definieer die term elektriese veld by 'n punt.  (2)
+
+7.2 Noem, met redes, of puntlading q2 positief of negatief is.  (3)
+
+7.3 Bereken die grootte van lading q2.  (4)
+
+7.4 Stel Coulomb se wet in woorde.  (2)
+
+7.5 Bereken die grootte van die elektrostatiese krag wat lading q 1 op lading q 2
+uitoefen.
+
+(3)
+
+7.6 Die twee ladi ngs word nou met mekaar in kontak gebring en dan geskei.
+'n Leerder teken die elektrieseveldpatroon vir die nuwe ladings q 3 en q 4 na
+kontak, soos hieronder getoon.
+
+ Is die diagram KORREK? Gee 'n rede vir die antwoord.  (2)
+   [16]
+
+=== page 14 ===
+Fisiese Wetenskappe/V1 14 DBE/2019
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 8 (Begin op 'n nuwe bladsy.)
+
+8.1 Drie identiese gloeilampe, A, B en C, is elk op 6 W, 12 V bepaal.
+
+ 8.1.1 Definieer die term drywing.  (2)
+
+ 8.1.2 Bereken die weerstand van ELKE gloeilamp wanneer dit gebruik
+word soos bepaal is.
+
+(3)
+
+ Die gloeilampe word in 'n stroombaan met 'n battery met 'n emk () van 12 V
+en interne weerstand (r) van 2  gekoppel. Verwys na die diagram hieronder.
+
+Neem aan dat die weerstand van elke gloeilamp dieselfde is as wat dit  in
+VRAAG 8.1.2 bereken is. Skakelaar S word gesluit.
+
+ 8.1.3 Bereken die totale stroom in die stroombaan.  (5)
+
+ 8.1.4 Bereken die potensiaalverskil oor gloeilamp C.  (3)
+
+ 8.1.5 Verduidelik waarom gloeilamp C in die stroombaan NIE teen sy
+maksimum helderheid sal gloei NIE.
+
+(3)
+
+8.2 Resistors A, B, C en D is aan 'n battery met emk  en weglaatbare interne
+weerstand verbind, soos in die diagram hieronder getoon.
+
+ 8.2.1 Gee 'n rede waarom die stroom in resistor A groter is as di é in
+resistor C.
+
+(2)
+
+ 8.2.2 Resistor C word verwyder. Hoe sal die stroom in resistor B met die
+stroom in resistor A vergelyk? Gee 'n rede vir die antwoord.
+
+(2)
+    [20]
+● ●
+S
+ = 12 V
+r = 2 
+A
+B C
+
+
+A
+B
+C
+D
+
+=== page 15 ===
+Fisiese Wetenskappe/V1 15 DBE/2019
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 9 (Begin op 'n nuwe bladsy.)
+
+Die diagram hieronder toon die spanningsuitset van 'n generator.
+
+9.1 Het hierdie generator splitringe of sleepringe?  (1)
+
+9.2 Watter EEN van die diagramme  hieronder, A of B, toon die posisie van die
+generator se spoel by tyd = 0,10 s?
+
+(1)
+
+(1)
+
+9.3 Bereken die  wortelgemiddeldekwadraat(wgk)-potensiaalverskil vir hierdie
+generator.
+
+(3)
+
+9.4 'n Toestel met 'n weerstand van 40  is aan hierdie generator gekoppel.
+
+Bereken die:
+
+ 9.4.1 Gemiddelde drywing wat deur die generator aan die toestel gelewer
+word
+
+(3)
+
+ 9.4.2 Maksimum stroom wat deur die generator aan die toestel gelewer
+word
+
+(4)
+   [12]
+Potensiaalverskil (V)
+0
++ 312
+tyd (s)
+– 312
+0,20 0,10 0,30
+● ● ●
+Rigting van eenvormige
+magnetiese veld
+Diagram A
+Diagram B
+
+=== page 16 ===
+Fisiese Wetenskappe/V1 16 DBE/2019
+ SS/NSS
+Kopiereg voorbehou
+A
+kaliummetaalplaat
+invallende lig
+
+VRAAG 10 (Begin op 'n nuwe bladsy.)
+
+'n Kaliummetaalplaat word bestraal met lig van  golflengte van 5 x 10-7 m in 'n
+rangskikking, soos hieronder getoon.  Die d rumpelfrekwensie van kalium is
+5,55 x 1014 Hz.
+
+10.1 Definieer die term drumpelfrekwensie.  (2)
+
+10.2 Bereken die energie van 'n foton wat op die metaalplaat inval.  (3)
+
+10.3 Gebruik 'n geskikte berekening en bewys dat die ammeter 'n lesing sal toon.   (4)
+
+10.4 Die intensiteit van die lig word nou verhoog. Verduidelik waarom hierdie
+verandering 'n verhoging in die ammeterlesing veroorsaak.
+
+(3)
+   [12]
+
+ TOTAAL:  150
+
+=== page 17 ===
+Fisiese Wetenskappe/V1 1 DBE/2019
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+DATA FOR PHYSICAL SCIENCES GRADE 12
+PAPER 1 (PHYSICS)
+
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 12
+VRAESTEL 1 (FISIKA)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Acceleration due to gravity
+Swaartekragversnelling g 9,8 m·s-2
+Universal gravitational constant
+Universele gravitasiekonstant G 6,67 x 10-11 N·m2·kg-2
+Radius of the Earth
+Radius van die Aarde RE 6,38 x 106 m
+Mass of the Earth
+Massa van die Aarde ME 5,98 x 1024 kg
+Speed of light in a vacuum
+Spoed van lig in 'n vakuum c 3,0 x 108 m·s-1
+Planck's constant
+Planck se konstante h 6,63 x 10-34 J·s
+Coulomb's constant
+Coulomb se konstante k 9,0 x 109 N·m2·C-2
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Electron mass
+Elektronmassa me 9,11 x 10-31 kg
+
+=== page 18 ===
+Fisiese Wetenskappe/V1 2 DBE/2019
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+TABLE 2:  FORMULAE/TABEL 2:  FORMULES
+
+MOTION/BEWEGING
+tavv if 
+
+2
+2
+1
+i taΔtvΔx   or/of
+2
+2
+1
+i taΔtvΔy 
+xa2vv
+2
+i
+2
+f 
+ or/of
+ya2vv
+2
+i
+2
+f 
+Δt2 vvΔx fi    or/of
+Δt2 vvΔy fi  
+
+FORCE/KRAG
+
+maFnet
+
+mvp
+Nμ=f s
+max
+s
+
+Nμ =f kk
+if
+net
+mv- mv=pΔ
+pΔ=tΔF
+
+mgw
+
+2
+21
+d
+mmG=F
+       or/of
+2
+21
+r
+mmG=F
+
+2d
+MG =g
+2r
+MG =g
+WORK, ENERGY AND POWER/ARBEID, ENERGIE EN DRYWING
+
+xΔF=W
+cos
+
+mghU          or/of
+mghEP 
+2mv21K
+       or/of
+2
+k mv21E 
+KWnet 
+       or/of
+knet EW 
+
+if KKK 
+    or/of
+kikfk EEE 
+UKWnc 
+ or/of
+pknc EEW 
+
+t
+WP 
+Pave = Fvave  /  Pgemid = Fvgemid
+
+WAVES, SOUND AND LIGHT/GOLWE, KLANK EN LIG
+
+ fv
+
+f
+1T
+s
+s
+L
+L fvv vvf 
+
+or/of
+
+b
+b
+L
+L fvv vvf 
+hfE     or /of
+
+ hcE
+
+)k(max/maks0 E+ W=E
+  or/of
+max/maks0 K+ W=E   where/waar
+hf  E
+ and/en
+00 hfW   and/en
+2
+maksmax/)maks(max/k mv21=E    or/of
+2
+maksmax/maksmax/ mv21=K
+
+or/of
+
+=== page 19 ===
+Fisiese Wetenskappe/V1 3 DBE/2019
+ SS/NSS
+Kopiereg voorbehou
+
+ELECTROSTATICS/ELEKTROSTATIKA
+
+2
+21
+r
+QkQF
+
+2r
+kQE 
+q
+WV
+
+q
+FE
+
+e
+Q=n
+eq
+Q=n
+
+ELECTRIC CIRCUITS/ELEKTRIESE STROOMBANE
+
+I
+VR
+
+emf (
+ε ) = I(R + r)
+
+emk (
+ε ) = I(R + r)
+...RRR 21s 
+
+...R1R1R1 21p 
+
+tq  I
+W = Vq
+
+W = VI
+ t
+
+W = I2R
+ t
+
+W =
+R
+ΔtV2
+Δt
+WP 
+
+P = VI
+
+RP 2I=
+
+R
+VP 2
+
+ALTERNATING CURRENT/WISSELSTROOM
+
+2
+max
+rms
+II 
+             /
+2
+maks
+wgk
+II 
+
+2
+VV maxrms 
+           /
+2
+VV makswgk 
+rmsrmsave VP I
+     /
+wgkwgkgemiddeld VP I
+
+RP 2rmsave I
+       /
+RP 2wgkgemiddeld I
+
+R
+VP 2rmsave
+        /
+R
+VP 2wgkgemiddeld
+
+or/of

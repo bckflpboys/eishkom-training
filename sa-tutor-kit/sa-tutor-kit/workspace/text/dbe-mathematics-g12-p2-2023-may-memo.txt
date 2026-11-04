@@ -1,0 +1,702 @@
+**SENIOR CERTIFICATE EXAMINATIONS / NATIONAL SENIOR CERTIFICATE EXAMINATIONS**
+
+**MATHEMATICS P2 / WISKUNDE V2**
+**MARKING GUIDELINES / NASIENRIGLYNE**
+**MAY/JUNE / MEI/JUNIE 2023**
+
+---
+
+### QUESTION / VRAAG 1
+
+1.1.1 
+$a = 1730,22$
+$b = 13,96$
+$\hat{y} = 1730,22 + 13,96x$
+* $\checkmark a = 1730,22$
+* $\checkmark b = 13,96$
+* $\checkmark \text{equation}$
+(3)
+
+1.1.2 
+$\hat{y} = 1730,22 + 13,96x$
+$\hat{y} = 1730,22 + 13,96(28500)$
+$\hat{y} = \text{R399 }590,22$
+
+**OR/OF**
+
+$\hat{y} = \text{R399 }599,64 \text{ (calc)}$
+* $\checkmark \text{substitution}$
+* $\checkmark \text{answer}$
+(2)
+
+* $\checkmark\checkmark \text{answer}$
+(2)
+
+1.1.3 
+$r = 0,98002\dots$
+$r = 0,98$
+* $\checkmark \text{answer}$
+(1)
+
+1.1.4 
+There is a very strong positive correlation between the amount spent on advertising and sales. /
+Daar is 'n baie sterk positiewe korrelasie tussen die bedrag spandeer op advertensie en die verkope.
+* $\checkmark \text{strong positive}$
+(1)
+
+1.2.1 
+$\bar{x} = \frac{1552195}{9}$
+$\bar{x} = 172466,11$
+* $\checkmark \bar{x} = \frac{1552195}{9}$
+* $\checkmark \text{answer}$
+(2)
+
+1.2.2 
+$\sigma = 56950,09$
+* $\checkmark \text{answer}$
+(1)
+
+1.2.3 
+$\bar{x} + \sigma$
+$= 172466,11 + 56950,09$
+$= 229416,20$
+
+$2\text{ years / jaar}$
+* $\checkmark \bar{x} + \sigma$
+* $\checkmark \text{answer}$
+(2)
+**[12]**
+
+---
+
+### QUESTION / VRAAG 2
+
+2.1 
+$35 < x \le 45$
+* $\checkmark \text{answer}$
+(1)
+
+2.2 
+$320\text{ people / mense}$
+* $\checkmark \text{answer}$
+(1)
+
+2.3 
+
+| AGE | NUMBER OF PEOPLE | CUMULATIVE FREQUENCY |
+| :---: | :---: | :---: |
+| $5 < x \le 15$ | 20 | 20 |
+| $15 < x \le 25$ | 25 | 45 |
+| $25 < x \le 35$ | 60 | 105 |
+| $35 < x \le 45$ | 90 | 195 |
+| $45 < x \le 55$ | 55 | 250 |
+| $55 < x \le 65$ | 40 | 290 |
+| $65 < x \le 75$ | 30 | 320 |
+
+* $\checkmark \text{cumulative frequency}$
+* $\checkmark \text{grounding}$
+* $\checkmark \text{plotting at upper limit}$
+* $\checkmark \text{shape}$
+(4)
+
+2.4 
+$\text{Median} = 41$
+* $\checkmark\checkmark \text{answer}$
+(2)
+**[8]**
+
+---
+
+### QUESTION / VRAAG 3
+
+3.1.1 
+$y = -x - 11$
+$A(-1; t)$
+$t = -(-1) - 11$
+$t = -10$
+* $\checkmark \text{substitution}$
+* $\checkmark \text{value of } t$
+(2)
+
+3.1.2 
+$\tan\alpha = -1$
+$\text{ref. }\angle = 45^\circ$
+$\therefore \alpha = 135^\circ$
+* $\checkmark \tan\alpha = -1$
+* $\checkmark 135^\circ$
+(2)
+
+3.1.3 
+$\tan 63,43^\circ = m_{AC}$
+$m_{AC} = 2$
+* $\checkmark \tan 63,43^\circ = m_{AC}$
+* $\checkmark \text{answer}$
+(2)
+
+3.2 
+$m_{AC} = 2$
+$A(-1; -10)$
+
+$y = 2x + k$
+$-10 = 2(-1) + k$
+$k = -8$
+$y = 2x - 8$
+
+**OR/OF**
+
+$y - y_1 = 2(x - x_1)$
+$y - (-10) = 2(x - (-1))$
+$y = 2x - 8$
+* $\checkmark \text{substitution of } m \text{ and } A$
+* $\checkmark \text{equation}$
+(2)
+
+3.3.1 
+$y = 2x - 8$
+$0 = 2x - 8$
+$x_B = 4$
+
+$\frac{x_C + (-1)}{2} = 4$
+$x_C = 9$
+
+$\frac{y_C + (-10)}{2} = 0$
+$y_C = 10$
+
+**OR/OF by translation / met translasie**
+$A \to B (x; y) \to (x + 5; y + 10)$
+$B \to C (4; 0) \to (4 + 5; 0 + 10) = (9; 10)$
+* $\checkmark x_B = 4$
+* $\checkmark x_C = 9$
+* $\checkmark y_C = 10$
+(3)
+
+* $\checkmark (x + 5; y + 10)$
+* $\checkmark x_C = 9$
+* $\checkmark y_C = 10$
+(3)
+
+3.3.2 
+$\hat{A}_1 = 63,43^\circ \quad [\text{vert. opp }\angle\text{'s} =]$
+$\hat{E}_2 = 63,43^\circ \quad [\text{corres. }\angle\text{'s, } DE \parallel AB]$
+$\hat{E}_1 = 45^\circ \quad [\angle\text{s on a str line}]$
+$\hat{FEd} = 108,43^\circ$
+
+**OR/OF**
+$\hat{EAB} = 135^\circ - 63,43^\circ$
+$\hat{AEB} = 71,57^\circ$
+$\hat{DEA} = \hat{AEB} = 71,57^\circ$
+$\hat{FED} = 108,43^\circ$
+
+**OR/OF**
+$\hat{ABE} = 63,43^\circ \quad [\text{vert. opp }\angle\text{'s}]$
+$\hat{DEO} = 116,57^\circ \quad [\text{co-int. }\angle\text{'s, } DE \parallel AB]$
+$\hat{FED} = 360^\circ - (116,57^\circ + 135^\circ) = 108,43^\circ$
+* $\checkmark \hat{ABE} = 63,43^\circ$
+* $\checkmark \hat{E}_1 = 45^\circ$
+* $\checkmark \hat{FED} = 108,43^\circ$
+(3)
+
+* $\checkmark \hat{AEB} = 71,57^\circ$
+* $\checkmark \hat{DEA} = \hat{AEB} = 71,57^\circ$
+* $\checkmark \hat{FED} = 108,43^\circ$
+(3)
+
+* $\checkmark \hat{ABE} = 63,43^\circ$
+* $\checkmark \hat{DEO} = 116,57^\circ$
+* $\checkmark \hat{FED} = 108,43^\circ$
+(3)
+
+3.4 
+$y = 0$
+$x_E = -11$
+
+$\frac{x_G + (-11)}{2} = 4$
+$x_G = 19$
+
+$(x - 19)^2 + y^2 = 15^2$
+$(x - 19)^2 + y^2 = 225$
+* $\checkmark x_E = -11$
+* $\checkmark x_G = 19$
+* $\checkmark (x - 19)^2 + y^2$
+* $\checkmark 225$
+(4)
+**[18]**
+
+---
+
+### QUESTION / VRAAG 4
+
+4.1 
+$M(-6; -3)$
+* $\checkmark -6$
+* $\checkmark -3$
+(2)
+
+4.2.1 
+$x^2 + y^2 + 24x - 10y + 153 = 0$
+$(x + 12)^2 + (y - 5)^2 = -153 + 144 + 25$
+$(x + 12)^2 + (y - 5)^2 = 16$
+$r^2 = 16$
+$r = 4\text{ units}$
+* $\checkmark r^2 = -153 + 144 + 25$
+* $\checkmark \text{length of radius}$
+(2)
+
+4.2.2 
+$NM = \sqrt{(-12 - (-6))^2 + (5 - (-3))^2}$
+$NM = 10\text{ units}$
+
+$SM = 5\text{ units}$
+$\therefore TS = 10 - 5 - 4 = 1\text{ unit}$
+* $\checkmark \text{substitution into distance formula}$
+* $\checkmark NM = 10\text{ units}$
+* $\checkmark SM = 5\text{ units}$
+* $\checkmark \text{answer}$
+(4)
+
+4.3.1 
+$R(-6; -8)$
+$y = -8$
+* $\checkmark y_R = -8$
+* $\checkmark \text{answer}$
+(2)
+
+4.3.2 
+$m_{NM} = \frac{5 - (-3)}{-12 - (-6)}$
+$m_{NM} = \frac{8}{-6} = -\frac{4}{3}$
+$m_{\text{tangent}} = \frac{3}{4}$
+
+$-5 = \frac{3}{4}(-17) + c$
+$c = \frac{31}{4}$
+$y = \frac{3}{4}x + \frac{31}{4}$
+
+**OR/OF**
+$y - y_1 = \frac{3}{4}(x - x_1)$
+$y - (-5) = \frac{3}{4}(x - (-17))$
+$y = \frac{3}{4}x + \frac{31}{4}$
+
+**OR/OF**
+$NS = SM = 5$
+$S\left(\frac{-12 - 6}{2}; \frac{5 - 3}{2}\right) \implies S(-9; 1)$
+
+$m_{SK} = \frac{1 - (-5)}{-9 - (-17)} = \frac{6}{8} = \frac{3}{4}$
+
+$y + 5 = \frac{3}{4}(x + 17)$
+$y = \frac{3}{4}x + \frac{31}{4} \quad \text{or } y = \frac{3}{4}x + 7\frac{3}{4}$
+* $\checkmark \text{substitution}$
+* $\checkmark m_{NM} = -\frac{4}{3}$
+* $\checkmark m_{\text{tangent}} = \frac{3}{4}$
+* $\checkmark \text{substitution of } m \text{ and } N$
+* $\checkmark \text{equation}$
+(5)
+
+* $\checkmark S \text{ midpoint}$
+* $\checkmark \text{coordinates of } S$
+* $\checkmark m_{\text{tangent}} = \frac{3}{4}$
+* $\checkmark \text{substitution of } m \text{ and } K(-17; -5) \text{ or } S$
+* $\checkmark \text{equation}$
+(5)
+
+4.4.1 
+$-8 = \frac{3}{4}x + \frac{31}{4}$
+$-32 = 3x + 31$
+$3x = -63$
+$x = -21$
+$P(-21; -8)$
+$R(-6; -8)$
+
+$PR = PS = 15\text{ units} \quad [\text{tangents from same point}]$
+$MS = MR = 5\text{ units}$
+
+$\text{Perimeter PSMR} = 15 + 15 + 5 + 5 = 40\text{ units}$
+* $\checkmark -8 = \frac{3}{4}x + \frac{31}{4}$
+* $\checkmark x = -21$
+* $\checkmark PR = PS = 15\text{ units}$
+* $\checkmark MS = MR = 5\text{ units}$
+* $\checkmark \text{answer}$
+(5)
+
+4.4.2 
+$\frac{\text{area of }\Delta NPS}{\text{area of quadrilateral PSMR}}$
+$= \frac{\frac{1}{2}NS \cdot SP}{\frac{1}{2}SP \cdot MS + \frac{1}{2}MR \cdot PR}$
+$= \frac{\frac{1}{2}(5)(15)}{\frac{1}{2}(5)(15) + \frac{1}{2}(5)(15)}$
+$= \frac{1}{2}$
+
+**OR**
+$\Delta NPS \equiv \Delta SPM \equiv \Delta MPR$
+$\frac{\text{area of }\Delta NPS}{\text{area of quadrilateral PSMR}} = \frac{1}{2}$
+* $\checkmark \text{substitution}$
+* $\checkmark \text{answer}$
+(2)
+
+* $\checkmark \text{congruent}$
+* $\checkmark \text{answer}$
+(2)
+**[22]**
+
+---
+
+### QUESTION / VRAAG 5
+
+5.1 
+$\frac{1 - \sin(-\theta)\cos(90^\circ + \theta)}{\cos(\theta - 360^\circ)}$
+$= \frac{1 - (-\sin\theta)(-\sin\theta)}{\cos\theta}$
+$= \frac{1 - \sin^2\theta}{\cos\theta}$
+$= \frac{\cos^2\theta}{\cos\theta}$
+$= \cos\theta$
+* $\checkmark -\sin\theta$
+* $\checkmark -\sin\theta$
+* $\checkmark \cos\theta$
+* $\checkmark \cos^2\theta$
+* $\checkmark \text{answer}$
+(5)
+
+5.2.1 
+$\cos 200^\circ$
+$= -\cos 20^\circ$
+$= -p$
+* $\checkmark \text{reduction}$
+* $\checkmark \text{answer}$
+(2)
+
+5.2.2 
+$\sin(-70^\circ)$
+$= -\sin 70^\circ$
+$= -\cos 20^\circ$
+$= -p$
+
+**OR/OF**
+$\sin(-70^\circ) = -\sin 70^\circ = -p$
+* $\checkmark \text{reduction}$
+* $\checkmark \text{answer}$
+(2)
+
+* $\checkmark \text{reduction}$
+* $\checkmark \text{answer}$
+(2)
+
+5.2.3 
+$\sin 10^\circ$
+$\cos(2(10^\circ)) = 1 - 2\sin^2 10^\circ$
+$2\sin^2 10^\circ = 1 - \cos 20^\circ$
+$\sin 10^\circ = \sqrt{\frac{1 - \cos 20^\circ}{2}}$
+$\sin 10^\circ = \sqrt{\frac{1 - p}{2}}$
+
+**OR/OF**
+$\sin 10^\circ = \sin(30^\circ - 20^\circ)$
+$= \sin 30^\circ\cos 20^\circ - \cos 30^\circ\sin 20^\circ$
+$= \frac{1}{2}p - \frac{\sqrt{3}}{2}\sqrt{1 - p^2} = \frac{p - \sqrt{3}\sqrt{1 - p^2}}{2}$
+* $\checkmark \text{double angle}$
+* $\checkmark \sin 10^\circ \text{ as subject}$
+* $\checkmark \text{answer}$
+(3)
+
+* $\checkmark \text{using special angle}$
+* $\checkmark \text{expanding}$
+* $\checkmark \text{answer}$
+(3)
+
+5.3 
+$\cos(A + 55^\circ)\cos(A + 10^\circ) + \sin(A + 55^\circ)\sin(A + 10^\circ)$
+$= \cos[A + 55^\circ - (A + 10^\circ)]$
+$= \cos 45^\circ$
+$= \frac{1}{\sqrt{2}} \text{ or } \frac{\sqrt{2}}{2}$
+* $\checkmark\checkmark \text{compound identity}$
+* $\checkmark \text{answer}$
+(3)
+
+5.4.1 
+$\text{LHS} = \frac{\cos 2x + \sin 2x - \cos^2 x}{\sin x - 2\cos x}$
+$= \frac{\cos^2 x - \sin^2 x + 2\sin x\cos x - \cos^2 x}{\sin x - 2\cos x}$
+$= \frac{-\sin^2 x + 2\sin x\cos x}{\sin x - 2\cos x}$
+$= \frac{-\sin x(\sin x - 2\cos x)}{\sin x - 2\cos x}$
+$= -\sin x = \text{RHS}$
+* $\checkmark \cos^2 x - \sin^2 x$
+* $\checkmark 2\sin x\cos x$
+* $\checkmark \text{common factor of } -\sin x$
+(3)
+
+5.4.2 
+$\frac{\cos 2x + \sin 2x - \cos^2 x}{-3\sin^2 x + 6\sin x\cos x}$
+$= \frac{\cos 2x + \sin 2x - \cos^2 x}{-3\sin x(\sin x - 2\cos x)}$
+$= \frac{\cos 2x + \sin 2x - \cos^2 x}{(\sin x - 2\cos x)} \times \frac{1}{-3\sin x}$
+$= (-\sin x) \times \frac{1}{-3\sin x}$
+$= \frac{1}{3}$
+* $\checkmark \text{common factor of } -3\sin x$
+* $\checkmark \text{substitution}$
+* $\checkmark \text{answer}$
+(3)
+
+5.5.1 
+$3\tan 4x = -2\cos 4x$
+$3\left(\frac{\sin 4x}{\cos 4x}\right) = -2\cos 4x$
+$3\sin 4x + 2\cos^2 4x = 0$
+$3\sin 4x + 2(1 - \sin^2 4x) = 0$
+$-2\sin^2 4x + 3\sin 4x + 2 = 0$
+$2\sin^2 4x - 3\sin 4x - 2 = 0$
+$(2\sin 4x + 1)(\sin 4x - 2) = 0$
+$\sin 4x = -\frac{1}{2} \quad \text{or } \sin 4x \ne 2$
+* $\checkmark \text{identity}$
+* $\checkmark 1 - \sin^2 4x$
+* $\checkmark \text{standard form}$
+* $\checkmark \text{factors}$
+(4)
+
+5.5.2 
+$\sin 4x = -\frac{1}{2}$
+$\text{ref. }\angle = 30^\circ$
+
+$4x = 210^\circ + k \cdot 360^\circ \quad \text{or } 4x = 330^\circ + k \cdot 360^\circ$
+$x = 52,5^\circ + k \cdot 90^\circ; \quad k \in \mathbb{Z} \quad \text{or } x = 82,5^\circ + k \cdot 90^\circ; \quad k \in \mathbb{Z}$
+* $\checkmark 210^\circ; 330^\circ$
+* $\checkmark 52,5^\circ; 82,5^\circ$
+* $\checkmark k \cdot 90^\circ; k \in \mathbb{Z}$
+(3)
+**[28]**
+
+---
+
+### QUESTION / VRAAG 6
+
+6.1 
+$\text{Period} = 180^\circ$
+* $\checkmark \text{answer}$
+(1)
+
+6.2 
+* $\checkmark x\text{-intercepts}$
+* $\checkmark \text{turning points}$
+* $\checkmark \text{end points}$
+(3)
+
+6.3 
+$y \in [-1; 1] \quad \text{OR/OF} \quad -1 \le y \le 1$
+* $\checkmark \text{answer}$
+(1)
+
+6.4 
+$g(x) = -\cos 2x$
+$g(x + 45^\circ) = -\cos 2(x + 45^\circ)$
+$= -\cos(2x + 90^\circ)$
+$= \sin 2x$
+* $\checkmark -\cos 2(x + 45^\circ)$
+* $\checkmark \text{answer}$
+(2)
+
+6.5.1 
+$x \in (-90^\circ; -45^\circ) \quad \text{OR/OF} \quad -90^\circ < x < -45^\circ$
+* $\checkmark\checkmark x \in (-90^\circ; -45^\circ)$
+(2)
+
+6.5.2 
+$2\cos 2x - 1 > 0$
+$\cos 2x > \frac{1}{2}$
+$-\cos 2x < -\frac{1}{2}$
+$x \in (-30^\circ; 30^\circ) \quad \text{OR/OF} \quad -30^\circ < x < 30^\circ$
+* $\checkmark \cos 2x > \frac{1}{2}$
+* $\checkmark -\cos 2x < -\frac{1}{2}$
+* $\checkmark x = \pm 30^\circ$
+* $\checkmark \text{interval}$
+(4)
+**[13]**
+
+---
+
+### QUESTION / VRAAG 7
+
+7.1.1 
+$\frac{AC}{20} = \cos 30^\circ$
+$AC = 20\cos 30^\circ$
+$AC = 10\sqrt{3} = 17,32\text{ units}$
+
+**OR/OF**
+$\frac{AC}{\sin 60^\circ} = \frac{20}{\sin 90^\circ}$
+$\therefore AC = 20\sin 60^\circ = 17,32$
+* $\checkmark \text{trig ratio}$
+* $\checkmark \text{answer}$
+(2)
+
+* $\checkmark \text{trig ratio}$
+* $\checkmark \text{answer}$
+(2)
+
+7.1.2 
+$AB^2 = AC^2 + BC^2 - 2AC \cdot BC\cos A\hat{C}B$
+$AB^2 = (10\sqrt{3})^2 + 8^2 - 2(10\sqrt{3})(8)\cos 100^\circ$
+$AB = 20,30\text{ units}$
+* $\checkmark \text{cosine formula}$
+* $\checkmark \text{substitution into cosine formula}$
+* $\checkmark \text{answer}$
+(3)
+
+7.2 
+$\frac{\sin A\hat{D}B}{AB} = \frac{\sin A\hat{B}D}{AD}$
+$\frac{\sin A\hat{D}B}{20,3} = \frac{\sin 73,4^\circ}{20}$
+$\sin A\hat{D}B = \frac{20,3\sin 73,4^\circ}{20}$
+$A\hat{D}B = 76,58^\circ$
+* $\checkmark \text{sine formula in }\Delta ABD$
+* $\checkmark \text{substitution into sine formula}$
+* $\checkmark \text{answer}$
+(3)
+**[8]**
+
+---
+
+### QUESTION / VRAAG 8
+
+8.1.1(a) 
+$\hat{T}_2 = 54^\circ \quad [\tan \perp \text{rad}]$
+* $\checkmark S \quad \checkmark R$
+(2)
+
+8.1.1(b) 
+$\hat{L} = 36^\circ \quad [\tan\text{-chord theorem}]$
+* $\checkmark S \quad \checkmark R$
+(2)
+
+8.1.1(c) 
+$K\hat{O}T = 72^\circ \quad [\text{centre} = 2 \times \text{circumference}]$
+
+**OR/OF**
+$O\hat{K}T = \hat{T}_2 = 54^\circ \quad [\angle\text{s opposite} = \text{radii}]$
+$K\hat{O}T = 180^\circ - (54^\circ + 54^\circ) \quad [\text{sum of int }\angle\text{s of }\Delta]$
+$= 72^\circ$
+* $\checkmark S \quad \checkmark R$
+(2)
+
+* $\checkmark S/R$
+* $\checkmark S$
+(2)
+
+8.1.2 
+$K\hat{M}O = 180^\circ - (18^\circ + 72^\circ)$
+$= 90^\circ \quad [\text{sum of int }\angle\text{s of }\Delta]$
+$\therefore KM = ML \quad [\text{line from centre } \perp \text{ to chord}]$
+
+**OR/OF**
+$K\hat{O}T = 54^\circ \quad [\angle\text{s opposite} = \text{radii}]$
+$\hat{K}_1 = 54^\circ - 18^\circ = 36^\circ$
+$T\hat{M}K = 90^\circ \quad [\text{sum of int }\angle\text{s of }\Delta]$
+$\therefore KM = ML \quad [\text{line from centre } \perp \text{ to chord}]$
+* $\checkmark S$
+* $\checkmark S$
+* $\checkmark R$
+(3)
+
+* $\checkmark S$
+* $\checkmark S$
+* $\checkmark R$
+(3)
+
+8.2.1 
+$\frac{DC}{CS} = \frac{20}{12} = \frac{5}{3}$
+$\frac{DC}{CS} = \frac{RB}{BS}$
+$\therefore BC \parallel DR \quad [\text{converse line } \parallel \text{ one side of }\Delta \text{ OR sides in the same proportion}]$
+$\therefore BC \parallel AD$
+* $\checkmark S$
+* $\checkmark S$
+* $\checkmark R$
+(3)
+
+8.2.2 
+$\frac{AR}{AD} = \frac{RB}{BS} \quad [\text{line } \parallel \text{ one side of }\Delta] \text{ OR } [\text{Prop Theorem } AB \parallel DS]$
+$\frac{AR}{AD} = \frac{5}{3}$
+$\frac{48 - AD}{AD} = \frac{5}{3}$
+$\therefore 5AD = 144 - 3AD$
+$AD = 18$
+$AB = 20 \quad [\text{opp sides of parm}]$
+$\therefore AD : AB = 18 : 20 = 9 : 10$
+
+**OR/OF**
+$\frac{AR}{RD} = \frac{5}{8} \quad [\text{prop thm } AB \parallel DS]$
+$\frac{AR}{48} = \frac{5}{8}$
+$\therefore AR = 30 \text{ and } AD = 18$
+$\frac{AR}{RD} = \frac{AB}{DS} \quad [\dots \parallel\parallel\text{'s}]$
+$\therefore AB = 20$
+$\therefore AB : AD = 18 : 20 = 9 : 10$
+* $\checkmark \frac{AR}{AD} = \frac{5}{3}$
+* $\checkmark AD = 18$
+* $\checkmark \text{ratio}$
+(3)
+
+* $\checkmark \frac{AR}{RD} = \frac{5}{8}$
+* $\checkmark AD = 18$
+* $\checkmark \text{ratio}$
+(3)
+**[15]**
+
+---
+
+### QUESTION / VRAAG 9
+
+9.1 
+Constr: Draw radii OA and OC.
+Proof:
+$\hat{O}_1 = 2\hat{B} \quad [\text{at centre} = 2 \times \text{at circumference}]$
+$\hat{O}_2 = 2\hat{D} \quad [\text{at centre} = 2 \times \text{at circumference}]$
+$\hat{O}_1 + \hat{O}_2 = 360^\circ \quad [\text{revolution}]$
+$2\hat{B} + 2\hat{D} = 360^\circ \quad [\text{revolution}]$
+$\therefore \hat{B} + \hat{D} = 180^\circ$
+* $\checkmark \text{Construction}$
+* $\checkmark S \quad \checkmark R$
+* $\checkmark S/R$
+* $\checkmark S$
+(5)
+
+9.2 
+$E\hat{F}G = 180^\circ - \hat{D}_1 \quad [\text{opp }\angle\text{'s of cyclic quad}]$
+$\therefore E\hat{F}G = 180^\circ - x$
+$E\hat{F}G = 180^\circ - \hat{G} \quad [\text{co-int }\angle\text{'s; } EF \parallel DG]$
+$\hat{G} = x$
+$\text{But } \hat{G} = \hat{D}_2 \quad [\text{alt }\angle\text{'s; } DH \parallel FG]$
+$\therefore \hat{D}_1 = \hat{D}_2 = x$
+* $\checkmark S \quad \checkmark R$
+* $\checkmark S/R$
+* $\checkmark S/R$
+(4)
+**[9]**
+
+---
+
+### QUESTION / VRAAG 10
+
+10.1.1 
+$T\hat{P}R = 90^\circ \quad [\angle \text{ in semi-circle}]$
+$S\hat{P}R = 90^\circ \quad [\angle\text{'s on a straight line}]$
+$\therefore SR \text{ is a diameter} \quad [\text{converse } \angle \text{ in semi-circle}]$
+
+**OR**
+$T\hat{K}R = 90^\circ \quad [\angle \text{ in semi-circle}]$
+$S\hat{P}R = 90^\circ \quad [\text{ext }\angle \text{ of cyclic quad}]$
+$\therefore SR \text{ is a diameter} \quad [\text{converse } \angle \text{ in semi-circle}]$
+**OR** $[\text{chord subtends a right angle}]$
+* $\checkmark S \quad \checkmark R$
+* $\checkmark S$
+* $\checkmark R$
+(4)
+
+* $\checkmark S \quad \checkmark R$
+* $\checkmark S$
+* $\checkmark R$
+(4)
+
+10.1.2 
+$\hat{R}_1 = P\hat{T}K \quad [\text{ext }\angle \text{ of cyclic quad}]$
+$\hat{P}_1 = P\hat{T}K = \hat{R}_1 \quad [\angle\text{s opp equal sides}]$
+$\hat{S} + \hat{R}_1 = \hat{P}_1 + \hat{P}_2 \quad [\text{ext }\angle \text{ of }\Delta]$
+$\therefore \hat{S} = \hat{P}_2 \quad [\hat{R}_1 = \hat{P}_1]$
+* $\checkmark S \quad \checkmark R$
+* $\checkmark S/R$
+* $\checkmark S \quad \checkmark R$
+(5)
+
+10.1.3 
+**In $\Delta SPK$ and $\Delta PRK$**
+$\hat{S} = \hat{P}_2 \quad [\text{proved}]$
+$\hat{K}_2 = \hat{K}_2 \quad [\text{common}]$
+$\Delta SPK \parallel\parallel\parallel \Delta PRK \quad [\angle, \angle, \angle]$
+
+**OR/OF**
+$\hat{S} = \hat{P}_2 \quad [\text{proved}]$
+$\hat{K}_2 = \hat{K}_2 \quad [\text{common}]$
+$S\hat{P}K = P\hat{R}K \quad [\text{sum of }\angle\text{s in }\

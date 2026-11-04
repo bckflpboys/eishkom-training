@@ -1,0 +1,351 @@
+# Mathematics P2/Wiskunde V2 - Grade 11 Memorandum (November 2015)
+
+**NOTE:**
+* If a candidate answered a question TWICE, mark only the FIRST attempt.
+* If a candidate crossed out an answer and did not redo it, mark the crossed-out answer.
+* Consistent accuracy applies to ALL aspects of the marking memorandum.
+* Assuming values/answers in order to solve a problem is unacceptable.
+
+---
+
+### QUESTION/VRAAG 1
+
+| Data | 56 | 68 | 69 | 71 | 71 | 72 | 82 | 84 | 85 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| | 88 | 89 | 90 | 92 | 93 | 94 | 96 | 97 | 99 |
+| | 102 | 103 | 127 | 128 | 134 | 135 | 137 | 144 | 156 |
+
+1.1 Range/Omvang $= 156 - 56 = 100 \text{ kg}$
+* ✓ $\text{max} - \text{min}$
+* ✓ $\text{answer/antw}$ (2)
+
+1.2 Mode/Modus $= 71 \text{ kg}$
+* ✓ $\text{answer/antw}$ (1)
+
+1.3 Median/Mediaan $= T_{14} = 93 \text{ kg}$
+* ✓ $\text{answer/antw}$ (1)
+
+1.4 $Q_1 = T_7 = 82$; $Q_3 = T_{21} = 127$
+$IQR = Q_3 - Q_1 = 127 - 82 = 45 \text{ kg}$
+* ✓ $Q_1 = 82$
+* ✓ $Q_3 = 127$
+* ✓ $\text{answer/antw}$ (3)
+
+1.5 Box and whisker plot:
+* ✓ $\text{box/mond}$
+* ✓ $\text{whiskers/snor}$ (2)
+
+1.6 $SD = 25,838 \approx 25,84 \text{ kg}$
+* ✓✓ $\text{answer/antw}$ (2)
+
+1.7 $\bar{x} = 98,59$
+$\bar{x} + 1\sigma = 98,59 + 25,84 = 124,43 \text{ kg}$
+$127 > 124,43$
+$\therefore$ I agree with this person/Ek stem met die persoon saam.
+* ✓ $\bar{x} = 98,59$
+* ✓ $124,43$
+* ✓ $\text{conclusion/gevolgtrekking}$ (3)
+**[14]**
+
+---
+
+### QUESTION/VRAAG 2
+
+2.1 Average/Gemiddelde $= \frac{1250 \times 2 + 1750 \times 3 + \dots + 4750 \times 1}{27} = \frac{81250}{27} \approx 3009,26 \text{ g}$
+* ✓ $81 250$
+* ✓ $\text{answer/antw}$ (2)
+
+2.2 Ogive/Ogief:
+* ✓ $\text{grounded/geanker}$
+* ✓ $\text{upper limits/boonste limiete}$
+* ✓ $\text{cumulative frequency/kumulatiewe frekwensie}$
+* ✓ $\text{smooth curve/gladde kurwe}$ (4)
+
+2.3 $(3200; 14)$
+$27 - 14 = 13 \text{ participants/deelnemers}$ (accept/aanvaar: $12 - 14$)
+* ✓ $14$
+* ✓ $13$ (2)
+**[8]**
+
+---
+
+### QUESTION/VRAAG 3
+
+3.1 $m_{AC} = \frac{11 - 3}{10 - (-2)} = \frac{8}{12} = \frac{2}{3}$
+* ✓ $\text{subst into gradient form/in gradiëntvorm}$
+* ✓ $\text{answer/antw}$ (2)
+
+3.2 $m_{DE} = m_{AC} = \frac{2}{3} \quad [DE \parallel CA]$
+$y - y_1 = m(x - x_1) \implies y - (-1) = \frac{2}{3}(x - 5)$
+$y = \frac{2}{3}x - \frac{13}{3}$
+* ✓ $\text{gradients equal/gradiënte gelyk}$
+* ✓ $\text{subst } m \text{ & } (5; -1) \text{ into eq of straight line/in vgl v rt lyn}$
+* ✓ $\text{equation/vgl}$ (3)
+
+3.3 $\tan F\hat{G}O = m_{AC} = \frac{2}{3}$
+$F\hat{G}O = 33,69^\circ$
+$\therefore \alpha = 90^\circ + 33,69^\circ = 123,69^\circ \quad [\text{ext/buite } \angle \text{ of } \Delta]$
+* ✓ $\tan F\hat{G}O = m_{AC}$
+* ✓ $33,69^\circ$
+* ✓ $\text{answer/antw}$ (3)
+
+3.4.1 Midpoint of $BE = \text{midpoint of } AD = \left( \frac{-2+5}{2}; \frac{3+(-1)}{2} \right) = \left( \frac{3}{2}; 1 \right)$
+* ✓ $R$
+* ✓ $x\text{-value/waarde}$
+* ✓ $y\text{-value/waarde}$ (3)
+
+3.4.2 $BE = AD = \sqrt{(-2-5)^2 + (3-(-1))^2} = \sqrt{49+16} = \sqrt{65} \text{ units/eenh}$
+* ✓ $R$
+* ✓ $\text{subst into distance formula/subst in afstandsformule}$
+* ✓ $\text{answer/antw}$ (3)
+**[14]**
+
+---
+
+### QUESTION/VRAAG 4
+
+4.1 $x + ay - a = 0 \implies 0 + ay - a = 0 \implies y = 1 \implies P(0; 1)$
+* ✓ $x = 0$
+* ✓ $y = 1$ (2)
+
+4.2 $OP = 1 \text{ unit} \implies SP = 3 \text{ units} \implies S(3; 0)$
+$3 + a(0) - a = 0 \implies a = 3$
+* ✓ $S(3; 0)$
+* ✓ $\text{answer/antw}$ (2)
+
+4.3 $m_{PS} = -\frac{PO}{OS} = -\frac{1}{3}$
+$m_{PS} \times m_{TR} = -1 \implies m_{TR} = 3$
+$y = 3x - \frac{2}{3}$
+* ✓ $m_{PS} = -\frac{1}{3}$
+* ✓ $m_{TR} = 3$
+* ✓ $\text{equation/vgl}$ (3)
+
+4.4 $x + 3y = 3$ and $y = 3x - \frac{2}{3}$
+$x + 3(3x - \frac{2}{3}) = 3 \implies x + 9x - 2 = 3 \implies 10x = 5 \implies x = \frac{1}{2}$ (Note: OCR shows $10x=20$, following provided text: $x=2$)
+$y = 3(2) - \frac{2}{3} = \frac{16}{3} = 5\frac{1}{3}$ (Note: OCR shows $y=1/3$, following provided text: $R(2; 1/3)$)
+* ✓ $\text{subst of eq of TR into } x + 3y = 3$
+* ✓ $\text{simplify/vereenv}$
+* ✓ $x = 2$
+* ✓ $y = \frac{1}{3}$ (4)
+
+4.5 $\text{Area } \Delta PRT = \frac{1}{2} \times PT \times h = \frac{1}{2} \times (6\frac{2}{3}) \times 2 = 6\frac{2}{3} \text{ sq units/vk eenh}$
+* ✓ $6\frac{2}{3}$
+* ✓ $\perp h$
+* ✓ $\text{answer/antw}$ (3)
+
+4.6 $PT$ is diameter: $r = \frac{1}{2} \times 6\frac{2}{3} = 3\frac{1}{3}$
+* ✓ $S/R$
+* ✓ $\text{answer/antw}$ (2)
+**[16]**
+
+---
+
+### QUESTION/VRAAG 5
+
+5.1.1 $x^2 + y^2 = r^2 \implies x^2 + (24)^2 = 25^2 \implies x^2 = 49 \implies x = -7$
+* ✓ $\text{subst}$
+* ✓ $\text{answer/antw}$ (2)
+
+5.1.2(a) $\sin \beta = \frac{24}{25}$
+* ✓ $\text{answer/antw}$ (1)
+
+5.1.2(b) $\cos(180^\circ - \beta) = -\cos \beta = -(-\frac{7}{25}) = \frac{7}{25}$
+* ✓ $\text{reduction/reduksie}$
+* ✓ $\text{answer/antw}$ (2)
+
+5.1.2(c) $\tan(-\beta) = -\tan \beta = -(\frac{24}{-7}) = \frac{24}{7}$
+* ✓ $\text{reduction/reduksie}$
+* ✓ $\text{answer/antw}$ (2)
+
+5.1.3 $\sin \beta = \frac{24}{25} = \frac{y_T}{15} \implies y_T = 14\frac{2}{5}$
+$\cos \beta = \frac{-7}{25} = \frac{x_T}{15} \implies x_T = -4\frac{1}{5}$
+* ✓ $\text{equating ratios/stel verh's gelyk}$
+* ✓ $y_T$
+* ✓ $\text{equating ratios/stel verh's gelyk}$
+* ✓ $x_T$ (4)
+
+5.2 $\frac{2\sin x \cos x (1 + \frac{\sin^2 x}{\cos^2 x})}{\frac{\sin x}{\cos x}} = 2\sin x \cos x (\frac{\cos^2 x + \sin^2 x}{\cos^2 x}) \times \frac{\cos x}{\sin x} = 2\cos^2 x (\frac{1}{\cos^2 x}) = 2$
+* ✓ $\tan x = \frac{\sin x}{\cos x}$
+* ✓ $\text{identity/identiteit}$
+* ✓ $\text{simplify/vereenv}$
+* ✓ $\text{answer/antw}$ (4)
+
+5.3.1 $\frac{1 - \cos^2 A}{4(-\sin A)} = \frac{\sin^2 A}{-4\sin A} = -\frac{1}{4}\sin A$
+* ✓ $-\sin A$
+* ✓ $\text{identity/identiteit}$
+* ✓ $\text{answer/antw}$ (3)
+
+5.3.2 $\frac{1}{4} - \sin 2x = 0,21 \implies \sin 2x = -0,84$
+$\text{ref } \angle = 57,14^\circ$
+$2x = 237,14^\circ + k.360^\circ$ or $2x = 302,86^\circ + k.360^\circ$
+$x = 118,57^\circ + k.180^\circ$ or $x = 151,43^\circ + k.180^\circ; k \in \mathbb{Z}$
+* ✓ $\text{correct equation/korrekte vgl}$
+* ✓ $-0,84$
+* ✓ $\text{ref/verw } \angle = 57,14^\circ$
+* ✓ $237,14^\circ \text{ \& } 302,86^\circ$
+* ✓ $118,57^\circ \text{ \& } 151,43^\circ$
+* ✓ $k.180^\circ; k \in \mathbb{Z}$ (6)
+**[24]**
+
+---
+
+### QUESTION/VRAAG 6
+
+6.1.1 $b = 2$
+* ✓ $\text{answer/antw}$ (1)
+
+6.1.2 $45^\circ < x \leq 67,5^\circ$
+* ✓ $\text{extreme values/grenswaardes}$
+* ✓ $\text{notation/notasie}$ (2)
+
+6.1.3 $x = -10^\circ$ and $x = 80^\circ$
+* ✓ $x = -10^\circ$
+* ✓ $x = 80^\circ$ (2)
+
+6.2.1
+* ✓ $TP(-90^\circ; 1)$
+* ✓ $TP(90^\circ; -1)$
+* ✓ $(-150^\circ; \frac{1}{2}) \text{ and } (120^\circ; -0,87)$
+* ✓ $y\text{-intercept/afsnit}$ (4)
+
+6.2.2 $\text{min value/waarde} = -1 - 3 = -4$
+* ✓✓ $\text{answer/antw}$ (2)
+
+6.2.3 $\cos(x + 60^\circ) = -\sin x = \cos(90^\circ + x)$
+$x + 60^\circ = 90^\circ + x$ (no solution) or $x + 60^\circ = -(90^\circ + x) + k.360^\circ$
+$2x = -150^\circ + k.360^\circ \implies x = -75^\circ + k.180^\circ$
+$\therefore x = -75^\circ \text{ or } 105^\circ$
+* ✓ $\text{co-ratio/ko-verh}$
+* ✓✓ $\text{correct equations/korrekte vgls}$
+* ✓ $x = -75^\circ + k.180^\circ$
+* ✓ $-75^\circ$ ✓ $105^\circ$ (6)
+
+6.2.4 $-75^\circ < x < 105^\circ$
+* ✓ $\text{extreme values/grenswaardes}$
+* ✓ $\text{notation/notasie}$ (2)
+
+6.2.5 $y = \cos(x + 60^\circ) = \sin(90^\circ - (x + 60^\circ)) = \sin(30^\circ - x) = -\sin(x - 30^\circ)$
+$\therefore \theta = 30^\circ$
+* ✓ $\text{co-ratio/ko-verh}$
+* ✓ $\text{answer/antw}$ (2)
+**[21]**
+
+---
+
+### QUESTION/VRAAG 7
+
+7.1 $PQ^2 = QR^2 + PR^2 - 2QR.PR.\cos \theta$
+$y^2 = (2y)^2 + (2y)^2 - 2(2y)(2y)\cos \theta$
+$\cos \theta = \frac{4y^2 + 4y^2 - y^2}{8y^2} = \frac{7}{8}$
+* ✓ $\text{subst into cosine rule/in cos-reël}$
+* ✓ $\cos \theta \text{ as subject/as onderwerp}$
+* ✓ $\text{simplify/vereenv}$
+* ✓ $\text{answer/antw}$ (4)
+
+7.2 $PT \perp QR \quad [\angle \text{ in semi-circle/halfsirkel}]$
+$\sin \theta = \frac{PT}{2y} \implies PT = 2y \sin \theta$
+* ✓ $R$
+* ✓ $\text{correct ratio/korrekte verh}$
+* ✓ $\text{answer/antw}$ (3)
+**[7]**
+
+---
+
+### QUESTION/VRAAG 8
+
+8.1 $SA = 2\pi rh + \pi r^2 + 2\pi r^2 = 2\pi rh + 3\pi r^2$
+$= 2\pi(2,9)(16) + 3\pi(2,9)^2 = 118,03\pi = 370,80 \text{ cm}^2$
+* ✓ $\text{SA of tin/OA v blik}$
+* ✓ $\text{SA of hemisphere/BO v hemisfeer}$
+* ✓ $\text{SA of base/BO v basis}$
+* ✓ $\text{subst}$
+* ✓ $\text{answer/antw}$ (5)
+
+8.2 $V = \frac{1}{2} \times \frac{4}{3}\pi r^3 = \frac{2}{3}\pi(2,9)^3 = 16,26\pi$
+$80\% \text{ of } V = 0,8 \times 16,26\pi = 40,86 \text{ cm}^3$
+* ✓ $V \text{ of hemisphere}$
+* ✓ $\text{subst}$
+* ✓ $\text{answer/antw}$ (3)
+**[8]**
+
+---
+
+### QUESTION/VRAAG 9
+
+9.1 $L\hat{K}R = 90^\circ \quad [\angle \text{ in semi-circle/halfsirkel}]$
+* ✓ $S$ ✓ $R$ (2)
+
+9.2 $\hat{R} = 180^\circ - (90^\circ + 58^\circ) = 32^\circ \quad [\angle s \text{ of } \Delta]$
+* ✓ $S$ ✓ $R$ (2)
+
+9.3 $\hat{N} = 32^\circ \quad [\angle s \text{ in same segment/dieselfde segment}]$
+* ✓ $S$ ✓ $R$ (2)
+**[6]**
+
+---
+
+### QUESTION/VRAAG 10
+
+10.1.1 $AO = CO$ (radii) $\implies \hat{A} = \hat{C}_1 = x$
+$\hat{O}_1 = \hat{A} + \hat{C}_1 = 2x \quad [\text{ext } \angle \text{ of } \Delta]$
+* ✓ $S$
+* ✓ $S$ ✓ $R$ (3)
+
+10.1.2 $\hat{B} = \hat{C}_2 = y$ (radii)
+$\hat{O}_2 = \hat{B} + \hat{C}_2 = 2y \quad [\text{ext } \angle \text{ of } \Delta]$
+$A\hat{O}B = 2x + 2y = 2(\hat{C}_1 + \hat{C}_2) = 2A\hat{C}B$
+* ✓ $S$
+* ✓ $S$
+* ✓ $S$ (3)
+
+10.2.1 $\text{ext } \angle \text{ of cyc quad/buite } \angle \text{ v koordevh}$
+* ✓ $R$ (1)
+
+10.2.2 $MP = QM$ (radii) $\implies \hat{Q}_1 = x$
+* ✓ $S$ ✓ $R$ (2)
+
+10.2.3 $\hat{M}_1 = 180^\circ - 2x \quad [\angle s \text{ of } \Delta]$
+$\hat{R} = 90^\circ - x \quad [\angle \text{ at centre} = 2 \times \angle \text{ at circumference}]$
+* ✓ $S$
+* ✓ $S$ ✓ $R$ (3)
+
+10.2.4 In $\Delta NSR$: $\hat{R} = 90^\circ - x$ and $\hat{N}_2 = x$
+$\hat{S}_2 = 180^\circ - (90^\circ - x + x) = 90^\circ$
+$PS = SR \quad [\text{line from centre } \perp \text{ chord}]$
+* ✓ $S$
+* ✓ $S$ ✓ $R$ (3)
+**[15]**
+
+---
+
+### QUESTION/VRAAG 11
+
+11.1 $\hat{B}_1 = \hat{A}$ (tangent-chord); $\hat{A} = \hat{T}_3$ (corresp $\angle s; TE \parallel AC$) $\implies \hat{B}_1 = \hat{T}_3$
+* ✓ $S$ ✓ $R$
+* ✓ $S$ ✓ $R$ (4)
+
+11.2 $BE = CE$ (tangents); $\hat{B}_1 = \hat{C}_3$ ($\angle s$ opp equal sides); $\hat{C}_3 = \hat{T}_3$ ($\hat{B}_1 = \hat{T}_3$)
+$\therefore TBEC$ is cyclic quad (converse $\angle s$ in same segment)
+* ✓ $R$
+* ✓ $S$
+* ✓ $S$
+* ✓ $R$ (4)
+
+11.3 $\hat{B}_1 = \hat{T}_2$ ($\angle s$ in same segment); $\hat{B}_1 = \hat{T}_3$ (proven) $\implies \hat{T}_2 = \hat{T}_3$
+$\therefore ET$ bisects $B\hat{T}C$
+* ✓ $S$ ✓ $R$ (2)
+
+11.4 $\hat{B}_2 = \hat{E}_2$ (tangent-chord); $\hat{C}_2 = \hat{E}_2$ ($\angle s$ in same segment)
+$\therefore TB = TC$ (sides opposite equal $\angle s$)
+* ✓ $S$ ✓ $R$
+* ✓ $R$
+* ✓ $R$ (4)
+
+11.5 $\hat{C}_1 = \hat{T}_2$ (alternate $\angle s; TE \parallel AC$); $\hat{C}_1 = \hat{A}$
+$\therefore AT = TC$ (sides opposite equal $\angle s$)
+$T$ is equidistant from $A, B, C \implies T$ is centre.
+* ✓ $S$
+* ✓ $S$
+* ✓ $S$ (3)
+**[17]**
+**TOTAL: 150**

@@ -1,0 +1,710 @@
+**NOTE:**
+* If a candidate answers a question TWICE, only mark the FIRST attempt.
+* Consistent Accuracy applies in all aspects of the marking guidelines.
+
+**LET WEL:**
+* Indien 'n kandidaat 'n vraag TWEE keer beantwoord, merk slegs die EERSTE poging.
+* Volgehoue akkuraatheid is DEURGAANS op ALLE aspekte van die nasienriglyne van toepassing.
+
+---
+
+### QUESTION/VRAAG 1
+
+1.1.1 
+$$x^2 + 2x - 15 = 0$$
+$$(x + 5)(x - 3) = 0$$
+$x = -5 \text{ or } x = 3$
+
+* $\checkmark$ factors
+* $\checkmark$ $x = -5$
+* $\checkmark$ $x = 3$
+(3)
+
+1.1.2 
+$$5x^2 - x - 9 = 0$$
+$$x = \frac{-(-1) \pm \sqrt{(-1)^2 - 4(5)(-9)}}{2(5)}$$
+$$x = \frac{1 \pm \sqrt{181}}{10}$$
+$x = 1,45 \text{ or } x = -1,25$
+
+* $\checkmark$ substitution into the correct formula
+* $\checkmark$ $x = 1,45$
+* $\checkmark$ $x = -1,25$
+(3)
+
+1.1.3 
+$$x^2 \le 3x$$
+$$x^2 - 3x \le 0$$
+$$x(x - 3) \le 0$$
+
+*(Graph shown in guidelines)*
+
+$$0 \le x \le 3 \quad \text{OR} \quad x \in [0; 3]$$
+
+* $\checkmark$ standard form
+* $\checkmark$ factors
+* $\checkmark\checkmark$ answer
+(4)
+
+1.2.1 
+$$a + \frac{64}{a} = 16$$
+$$a^2 - 16a + 64 = 0$$
+$$(a - 8)^2 = 0$$
+$$a = 8$$
+
+* $\checkmark$ standard form
+* $\checkmark$ factors
+* $\checkmark$ answer
+(3)
+
+1.2.2 
+$$2^x + 2^{6-x} = 16$$
+$$2^x + \frac{64}{2^x} = 16$$
+$$2^x = 8 \quad (\text{from } 1.2.1)$$
+$$2^x = 2^3$$
+$$x = 3$$
+
+* $\checkmark$ exp law
+* $\checkmark$ $2^x = 8$
+* $\checkmark$ answer
+(3)
+
+1.3 
+$$\frac{\sqrt{2^{1002}(1 + 2^4)}}{17(2)^{998}}$$
+$$= \frac{\sqrt{2^4(17)}}{17}$$
+$$= \sqrt{2^4}$$
+$$= 2^2$$
+$$= 4$$
+
+* $\checkmark$ common factor
+* $\checkmark$ second factor
+* $\checkmark$ simplification
+* $\checkmark$ answer
+(4)
+
+1.4 
+$$2x - y = 2 \quad \dots(1)$$
+$$\frac{1}{x} - 3y = 1 \quad \dots(2)$$
+
+$$y = 2x - 2$$
+$$\frac{1}{x} - 3(2x - 2) = 1$$
+$$\frac{1}{x} - 6x + 6 - 1 = 0$$
+$$\frac{1}{x} - 6x + 5 = 0$$
+$$-6x^2 + 5x + 1 = 0$$
+$$6x^2 - 5x - 1 = 0$$
+$$(6x + 1)(x - 1) = 0$$
+$$x = -\frac{1}{6} \quad \text{or} \quad x = 1$$
+$$y = 2\left(-\frac{1}{6}\right) - 2 \quad \text{or} \quad y = 2(1) - 2$$
+$$y = -\frac{7}{3} \quad \text{or} \quad y = 0$$
+
+* $\checkmark$ $y = 2x - 2$
+* $\checkmark$ substitution
+* $\checkmark$ simplification
+* $\checkmark$ standard form
+* $\checkmark$ $x$-values
+* $\checkmark$ $y$-values
+(6)
+
+**OR/OF**
+
+$$x = \frac{2 + y}{2} \quad \dots(1)$$
+$$\frac{1}{x} - 3y = 1 \quad \dots(2)$$
+
+$$\frac{1}{\frac{2 + y}{2}} - 3y = 1$$
+$$\frac{2}{2 + y} - 3y = 1$$
+$$\frac{2 - 6y - 3y^2}{2 + y} = 1$$
+$$2 - 6y - 3y^2 = 2 + y$$
+$$-3y^2 - 7y = 0$$
+$$-y(3y + 7) = 0$$
+$$y = 0 \quad \text{or} \quad y = -\frac{7}{3}$$
+$$x = 1 \quad \text{or} \quad x = -\frac{1}{6}$$
+
+* $\checkmark$ $x = \frac{2 + y}{2}$
+* $\checkmark$ substitution
+* $\checkmark$ simplification
+* $\checkmark$ standard form
+* $\checkmark$ $y$-values
+* $\checkmark$ $x$-values
+(6)
+
+**[26]**
+
+---
+
+### QUESTION/VRAAG 2
+
+2.1.1 
+$$a + 6d = 35$$
+$$-1 + 6d = 35$$
+$$6d = 36$$
+$$d = 6$$
+
+**OR/OF**
+$$\frac{35 - (-1)}{7 - 1} = 6$$
+
+* $\checkmark$ substitution
+* $\checkmark$ answer
+(2)
+
+*(Note: ANSWER ONLY: FULL MARKS)*
+
+2.1.2 
+$$T_n = a + (n - 1)d$$
+$$473 = -1 + (n - 1)(6)$$
+$$79 = n - 1$$
+$$\therefore n = 80$$
+
+* $\checkmark$ substitution into the correct formula
+* $\checkmark$ equating to 473
+* $\checkmark$ answer
+(3)
+
+*(Note: ANSWER ONLY: FULL MARKS)*
+
+2.1.3 
+$$S_n = \frac{n}{2}[2a + (n - 1)d]$$
+$$S_{40} = \frac{40}{2}[2(-1) + (40 - 1)(6)]$$
+$$\therefore S_{40} = 4 640$$
+
+**OR/OF**
+$$T_{40} = 6(40) - 7 = 233$$
+$$S_n = \frac{n}{2}(a + l)$$
+$$S_{40} = \frac{40}{2}(-1 + 233)$$
+$$= 4 640$$
+
+* $\checkmark$ substitution
+* $\checkmark$ answer
+(2)
+
+*(Note: ANSWER ONLY: FULL MARKS)*
+
+2.2.1 
+$$75 \quad 53 \quad 35 \quad 21$$
+$$\quad -22 \quad -18 \quad -14$$
+$$\quad \quad 4 \quad 4$$
+
+$$T_5 = 11$$
+
+* $\checkmark$ answer
+(1)
+
+2.2.2 
+$$T_n = an^2 + bn + c$$
+$$2a = 4 \implies a = 2$$
+$$3a + b = -22 \implies 6 + b = -22 \implies b = -28$$
+$$a + b + c = 75 \implies 2 - 28 + c = 75 \implies c = 101$$
+$$\therefore T_n = 2n^2 - 28n + 101$$
+
+* $\checkmark$ $T_n = an^2 + bn + c$
+* $\checkmark$ $a = 2$
+* $\checkmark$ $b = -28$
+* $\checkmark$ $c = 101$
+(4)
+
+2.2.3 
+Minimum value of $T_n$:
+$$n = -\frac{b}{2a} = -\frac{(-28)}{2(2)} = 7$$
+Minimum value of $T_n = 2(7)^2 - 28(7) + 101 = 3$
+
+Each term in the new pattern is $-\frac{1}{5}$ the value of the terms in the old pattern.
+Maximum value of new pattern $= -\frac{3}{5}$
+
+**OR/OF**
+$$T'_n = 4n - 28$$
+$$4n - 28 = 0 \implies n = 7$$
+Minimum value of $T_n = 2(7)^2 - 28(7) + 101 = 3$
+Each term in the new pattern is $-\frac{1}{5}$ the value of the terms in the old pattern.
+Maximum value of new pattern $= -\frac{3}{5}$
+
+**OR/OF**
+$$T_n = \frac{2}{5}n^2 - \frac{28}{5}n - \frac{101}{5}$$
+$$n = -\frac{b}{2a} = -\frac{-\frac{28}{5}}{2\left(\frac{2}{5}\right)} = 7$$
+$$T_7 = -\frac{3}{5}$$
+
+**OR/OF**
+$$T_n = \frac{2}{5}n^2 - \frac{28}{5}n - \frac{101}{5}$$
+$$T'_n = \frac{4}{5}n - \frac{28}{5}$$
+$$\frac{4}{5}n - \frac{28}{5} = 0 \implies n = 7$$
+Minimum value of $T_n = 2(7)^2 - 28(7) + 101 = 3$
+Each term in the new pattern is $-\frac{1}{5}$ the value of the terms in the old pattern.
+Maximum value of new pattern $= -\frac{3}{5}$
+
+* $\checkmark$ $n = 7$
+* $\checkmark$ min value $= 3$
+* $\checkmark$ $-\frac{1}{5}$ value of term of old pattern
+* $\checkmark$ max value $= -\frac{3}{5}$
+(4)
+
+**[16]**
+
+---
+
+### QUESTION/VRAAG 3
+
+3.1.1 
+$$T_n = ar^{n-1}$$
+$$T_{10} = 1024\left(\frac{1}{4}\right)^{10-1}$$
+$$\therefore T_{10} = \frac{1}{256}$$
+
+* $\checkmark$ substitution into the correct formula
+* $\checkmark$ answer
+(2)
+
+*(Note: ANSWER ONLY: FULL MARKS)*
+
+3.1.2 
+$$\sum_{p=0}^{8} 256(4^{1-p}) = 1024 + 256 + 64 + \dots$$
+$$S_n = \frac{a[1 - r^n]}{1 - r}$$
+$$S_9 = \frac{1024\left[1 - \left(\frac{1}{4}\right)^9\right]}{1 - \frac{1}{4}}$$
+$$S_9 = \frac{87381}{64} = 1365,33$$
+
+**OR/OF**
+$$\sum_{p=0}^{8} 256(4^{1-p}) = 1024 + 256 + 64 + 16 + 4 + 1 + \frac{1}{4} + \frac{1}{16} + \frac{1}{64}$$
+$$S_9 = \frac{87381}{64} = 1365,33$$
+
+* $\checkmark$ $1024$
+* $\checkmark$ $n = 9$
+* $\checkmark$ substitution into the correct formula
+* $\checkmark$ answer
+(4)
+
+3.2 
+$$-t^2 - 6t - 9; \quad \frac{t^3 + 9t^2 + 27t + 27}{2}; \quad \dots$$
+$$-(t^2 + 6t + 9); \quad \frac{1}{2}(t^3 + 6t^2 + 6t + 9) \dots \quad [\text{Wait, matching rubric}]$$
+
+$$r = \frac{\frac{t^3 + 9t^2 + 27t + 27}{2}}{-t^2 - 6t - 9}$$
+$$r = \frac{\frac{1}{2}(t + 3)^3}{-(t + 3)^2} = -\frac{t + 3}{2}$$
+
+For convergence:
+$$-1 < r < 1$$
+$$-1 < -\frac{t + 3}{2} < 1$$
+$$-2 < -t - 3 < 2$$
+$$1 < -t < 5$$
+$$-5 < t < -1$$
+
+* $\checkmark$ $r = \frac{\frac{t^3 + 9t^2 + 27t + 27}{2}}{-t^2 - 6t - 9}$
+* $\checkmark$ $-(t^2 + 6t + 9)$
+* $\checkmark$ $\frac{1}{2}(t + 3)(t^2 + 6t + 9)$
+* $\checkmark$ $-1 < \frac{-t - 3}{2} < 1$
+* $\checkmark$ answer
+(5)
+
+**[11]**
+
+---
+
+### QUESTION/VRAAG 4
+
+4.1 
+$$10 = a\left(\frac{1}{3}\right)^{-2} + 7$$
+$$3 = 9a$$
+$$\therefore a = \frac{1}{3}$$
+
+* $\checkmark$ subs $(-2 ; 10)$
+* $\checkmark$ simplification
+* $\checkmark$ answer
+(3)
+
+4.2 
+$$y = g(0)$$
+$$y = \frac{1}{3}\left(\frac{1}{3}\right)^0 + 7$$
+$$y = \frac{22}{3} = 7,33$$
+$$\therefore \left(0 ; \frac{22}{3}\right)$$
+
+* $\checkmark$ substitution of $x = 0$
+* $\checkmark$ answer
+(2)
+
+*(Note: ANSWER ONLY: FULL MARKS)*
+
+4.3.1 
+Translation by $1$ unit to the right and $7$ units downwards.
+
+* $\checkmark$ $1$ unit right
+* $\checkmark$ $7$ units downwards
+(2)
+
+4.3.2 
+$$h(x) = \left(\frac{1}{3}\right)^x$$
+$$h^{-1} : x = \left(\frac{1}{3}\right)^y$$
+$$y = \log_{\frac{1}{3}}(x) \quad \text{OR/OF} \quad y = -\log_3(x)$$
+
+* $\checkmark$ swap $x$ and $y$
+* $\checkmark$ answer
+(2)
+
+*(Note: ANSWER ONLY: FULL MARKS)*
+
+**[9]**
+
+---
+
+### QUESTION/VRAAG 5
+
+5.1 
+$$g(x) = \frac{a}{x + 2} + q$$
+Subs $(1 ; 0)$:
+$$0 = \frac{a}{1 + 2} + q$$
+$$0 = a + 3q$$
+
+Subs $\left(0 ; -\frac{1}{2}\right)$:
+$$-\frac{1}{2} = \frac{a}{0 + 2} + q$$
+$$-1 = a + 2q$$
+
+Solving simultaneously:
+$$q = 1$$
+$$a = -3$$
+$$\therefore g(x) = \frac{-3}{x + 2} + 1$$
+
+* $\checkmark$ $g(x) = \frac{a}{x + 2} + q$
+* $\checkmark$ $0 = a + 3q$
+* $\checkmark$ $-1 = a + 2q$
+* $\checkmark$ solving simultaneously
+* $\checkmark$ $q = 1$
+* $\checkmark$ $a = -3$
+(6)
+
+5.2 
+$$y \in \mathbb{R}; y \neq 1$$
+**OR/OF** $(-\infty; 1) \text{ or } (1; \infty)$
+**OR/OF** $y < 1 \text{ or } y > 1$
+
+* $\checkmark$ answer
+(1)
+
+5.3 
+$$y - 1 = 1(x + 2) \quad \text{OR/OF} \quad 1 = 1(-2) + c \implies c = 3$$
+$$y = x + 3$$
+
+* $\checkmark$ $m = 1$
+* $\checkmark$ subs point $(-2 ; 1)$
+* $\checkmark$ answer
+(3)
+
+*(Note: ANSWER ONLY: FULL MARKS)*
+
+5.4 
+$$K'(-3 ; 4)$$
+
+* $\checkmark$ $x$-value
+* $\checkmark$ $y$-value
+(2)
+
+**[12]**
+
+---
+
+### QUESTION/VRAAG 6
+
+6.1 
+$$f(x) = -x^2 - 6x + 7$$
+$$f'(x) = -2x - 6$$
+$$-2x - 6 = 0 \quad \text{OR/OF} \quad x = -\frac{(-6)}{2(-1)}$$
+$$x = -3$$
+$$E(-3 ; 16)$$
+
+* $\checkmark$ method
+* $\checkmark$ $x$-value
+* $\checkmark$ $y$-value
+(3)
+
+*(Note: ANSWER ONLY: FULL MARKS)*
+
+6.2 
+$$k = f(-5)$$
+$$k = -(-5)^2 - 6(-5) + 7$$
+$$\therefore k = 12$$
+
+* $\checkmark$ answer
+(1)
+
+6.3 
+$$C(0 ; 7)$$
+$$D(-5 ; 12)$$
+$$m_{CD} = \frac{12 - 7}{-5 - 0} = -1$$
+Equation of CD:
+$$y = -x + 7$$
+
+* $\checkmark$ coordinates of C
+* $\checkmark$ substitution
+* $\checkmark$ $m$
+* $\checkmark$ answer
+(4)
+
+6.4 
+$$-2x - 6 = -1$$
+$$-2x = 5$$
+$$x = -\frac{5}{2}$$
+$$y = f\left(-\frac{5}{2}\right) = -\left(-\frac{5}{2}\right)^2 - 6\left(-\frac{5}{2}\right) + 7 = \frac{63}{4} = 15,75$$
+$$\therefore P\left(-\frac{5}{2} ; \frac{63}{4}\right)$$
+
+* $\checkmark$ $f'(x) = -2x - 6$
+* $\checkmark$ equating to $-1$
+* $\checkmark$ $x$-value
+* $\checkmark$ $y$-value
+(4)
+
+*(Note: ANSWER ONLY: FULL MARKS)*
+
+6.5 
+Point of symmetry: $(-1 ; 12)$
+$$-5 < x < -1$$
+
+**OR/OF**
+$$-x^2 - 6x + 7 > 12$$
+$$-x^2 - 6x - 5 > 0$$
+$$x^2 + 6x + 5 < 0$$
+$$(x + 1)(x + 5) < 0$$
+$$-5 < x < -1$$
+
+* $\checkmark$ $-1$
+* $\checkmark$ answer
+(2)
+
+*(Note: ANSWER ONLY: FULL MARKS)*
+
+**[14]**
+
+---
+
+### QUESTION/VRAAG 7
+
+7.1 
+$$A = P(1 + i)^n$$
+$$2 = 1\left(1 + \frac{0,085}{4}\right)^{4n}$$
+$$4n = \log_{\left(1+\frac{0,085}{4}\right)} 2$$
+$$n = 8,24 \text{ years}$$
+
+* $\checkmark$ $2$ and $\left(1 + \frac{0,085}{4}\right)$ in correct formula
+* $\checkmark$ use of logs
+* $\checkmark$ answer in years
+(4)
+
+7.2.1 
+$$A = P(1 - i)^n$$
+$$180\ 000 = 500\ 000(1 - i)^5$$
+$$\frac{9}{25} = (1 - i)^5$$
+$$\sqrt[5]{\frac{9}{25}} = 1 - i$$
+$$i = 0,1848068\dots$$
+$$r = 18,48\%$$
+
+* $\checkmark$ subs into correct formula
+* $\checkmark$ simplification
+* $\checkmark$ $i = 0,1848\dots$
+* $\checkmark$ answer
+(4)
+
+7.2.2 
+$$A = P(1 + i)^n$$
+$$A = 500\ 000(1 + 0,063)^5$$
+$$A = \text{R678 }635,11$$
+
+* $\checkmark$ subs into correct formula
+* $\checkmark$ answer
+(2)
+
+7.2.3 
+$$\text{Sinking Fund} = 678\ 635,11 - 180\ 000 = \text{R498 }635,11$$
+
+$$498\ 635,11 = \frac{x\left[\left(1 + \frac{0,1025}{12}\right)^{58} - 1\right]\left(1 + \frac{0,1025}{12}\right)^3}{\frac{0,1025}{12}}$$
+
+$$x = \text{R6 }510,36$$
+
+* $\checkmark$ value of sinking fund
+* $\checkmark$ $\frac{0,1025}{12}$
+* $\checkmark$ $n = 58$
+* $\checkmark$ $\left(1 + \frac{0,1025}{12}\right)^3$
+* $\checkmark$ answer
+(5)
+
+**[15]**
+
+---
+
+### QUESTION/VRAAG 8
+
+8.1 
+$$f(x) = -x^2$$
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+$$f'(x) = \lim_{h \to 0} \frac{-(x + h)^2 + x^2}{h}$$
+$$f'(x) = \lim_{h \to 0} \frac{-x^2 - 2xh - h^2 + x^2}{h}$$
+$$= \lim_{h \to 0} \frac{-2xh - h^2}{h}$$
+$$= \lim_{h \to 0} \frac{h(-2x - h)}{h}$$
+$$= \lim_{h \to 0} (-2x - h)$$
+$$\therefore f'(x) = -2x$$
+
+**OR/OF**
+$$f(x) = -x^2$$
+$$f(x + h) = -(x + h)^2 = -x^2 - 2xh - h^2$$
+$$f(x + h) - f(x) = -x^2 - 2xh - h^2 - (-x^2) = -2xh - h^2$$
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+$$= \lim_{h \to 0} \frac{-2xh - h^2}{h}$$
+$$= \lim_{h \to 0} \frac{h(-2x - h)}{h}$$
+$$= \lim_{h \to 0} (-2x - h)$$
+$$\therefore f'(x) = -2x$$
+
+* $\checkmark$ substitution into formula
+* $\checkmark$ $-(x^2 + 2xh + h^2)$
+* $\checkmark$ $-2xh - h^2$
+* $\checkmark$ $-2x - h$
+* $\checkmark$ answer
+(5)
+
+8.2.1 
+$$f(x) = 4x^3 - 5x^2$$
+$$f'(x) = 12x^2 - 10x$$
+
+* $\checkmark$ $12x^2$
+* $\checkmark$ $-10x$
+(2)
+
+8.2.2 
+$$D_x\left[\frac{-6\sqrt{x} + 2}{x^4}\right]$$
+$$= D_x\left[\frac{-6x^{\frac{1}{3}} + 2}{x^4}\right]$$
+$$= D_x\left[-6x^{-\frac{11}{3}} + 2x^{-4}\right]$$
+$$= 22x^{-\frac{14}{3}} - 8x^{-5}$$
+
+* $\checkmark$ $x^{\frac{1}{3}}$
+* $\checkmark$ $-6x^{-\frac{11}{3}} + 2x^{-4}$
+* $\checkmark$ $22x^{-\frac{14}{3}}$
+* $\checkmark$ $-8x^{-5}$
+(4)
+
+**[11]**
+
+---
+
+### QUESTION/VRAAG 9
+
+9.1 
+$$f(x) = (x + t)^2(x - 3)$$
+$$-3 = (0 + t)^2(0 - 3)$$
+$$1 = t^2$$
+$$t = \pm 1 \implies t = 1$$
+$$f(x) = (x + 1)^2(x - 3)$$
+$$f(x) = (x^2 + 2x + 1)(x - 3)$$
+$$f(x) = x^3 - x^2 - 5x - 3$$
+
+* $\checkmark$ $f(x) = (x + t)^2(x - 3)$
+* $\checkmark$ subs $(0 ; -3)$
+* $\checkmark$ $t$
+* $\checkmark$ $f(x) = (x + 1)^2(x - 3)$
+* $\checkmark$ expansion
+(5)
+
+9.2 
+$$f'(x) = 3x^2 - 2x - 5$$
+$$0 = 3x^2 - 2x - 5$$
+$$0 = (x + 1)(3x - 5)$$
+$$x = -1 \text{ or } x = \frac{5}{3}$$
+$$N\left(\frac{5}{3} ; -\frac{256}{27}\right) = (1,67 ; -9,48)$$
+
+* $\checkmark$ $f'(x) = 3x^2 - 2x - 5$
+* $\checkmark$ $= 0$
+* $\checkmark$ factors
+* $\checkmark$ $x$-value ($x > 0$)
+* $\checkmark$ $y$-value
+(5)
+
+9.3.1 
+$$x < 3 ; x \neq -1$$
+**OR/OF** $x < -1 \text{ or } -1 < x < 3$
+**OR/OF** $(-\infty; -1) \text{ or } (-1; 3)$
+
+* $\checkmark$ $x < 3$
+* $\checkmark$ $x \neq -1$
+(2)
+
+9.3.2 
+$$x < -1 \text{ or } x > \frac{5}{3} \quad \text{OR/OF} \quad x \le -1 \text{ or } x \ge \frac{5}{3}$$
+**OR/OF** $(-\infty; -1) \text{ or } \left(\frac{5}{3}; \infty\right)$
+
+* $\checkmark$ $x < -1$
+* $\checkmark$ $x > \frac{5}{3}$
+(2)
+
+9.3.3 
+$$f''(x) > 0$$
+$$6x - 2 > 0$$
+$$x > \frac{1}{3} \quad \text{OR/OF} \quad \left(\frac{1}{3}; \infty\right)$$
+
+* $\checkmark$ $6x - 2$
+* $\checkmark$ $\frac{1}{3}$
+* $\checkmark$ $x > \frac{1}{3}$
+(3)
+
+9.4 
+$$\text{Distance} = x^3 - x^2 - 5x - 3 - (3x^2 - 2x - 5)$$
+$$= x^3 - 4x^2 - 3x + 2$$
+$$\frac{d\text{Distance}}{dx} = 3x^2 - 8x - 3$$
+$$0 = 3x^2 - 8x - 3$$
+$$0 = (3x + 1)(x - 3)$$
+$$x = 3 \text{ or } x = -\frac{1}{3}$$
+
+$$\text{Max distance} = \left(-\frac{1}{3}\right)^3 - 4\left(-\frac{1}{3}\right)^2 - 3\left(-\frac{1}{3}\right) + 2$$
+$$= \frac{68}{27} = 2,52$$
+
+* $\checkmark$ $x^3 - 4x^2 - 3x + 2$
+* $\checkmark$ $\frac{d\text{Distance}}{dx} = 3x^2 - 8x - 3$
+* $\checkmark$ factors
+* $\checkmark$ $x$-values
+* $\checkmark$ $x = -\frac{1}{3}$
+* $\checkmark$ answer
+(6)
+
+**[23]**
+
+---
+
+### QUESTION/VRAAG 10
+
+10.1.1 
+$$7! = 5\ 040$$
+
+* $\checkmark\checkmark$ answer
+(2)
+
+10.1.2 
+$$4! \times 4! = 576$$
+$$\text{P(African flags together)} = \frac{576}{5\ 040} = \frac{4}{35} = 0,11$$
+
+* $\checkmark$ $4!$
+* $\checkmark$ $4! \times 4!$
+* $\checkmark$ answer
+(3)
+
+10.2 
+$$\text{P(A or B)} = \text{P(A)} + \text{P(B)} - \text{P(A and B)}$$
+$$0,88 = 0,4 + \text{P(B)} - \text{P(A and B)}$$
+$$0,88 = 0,4 + \text{P(B)} - 0,4\text{P(B)}$$
+$$0,48 = 0,6\text{P(B)}$$
+$$\text{P(B)} = 0,8$$
+
+* $\checkmark$ subs into rule
+* $\checkmark$ $\text{P(A and B)} = 0,4\text{P(B)}$
+* $\checkmark$ answer
+(3)
+
+10.3 
+*(Tree diagram components given in guidelines)*
+
+$$\text{Probability of first passenger choosing meat} = \frac{x}{120}$$
+$$\text{Probability of second passenger choosing cheese} = \frac{120 - x}{119}$$
+
+$$\frac{x}{120} \times \frac{120 - x}{119} = \frac{18}{85}$$
+
+$$120x - x^2 = 3\ 024$$
+$$x^2 - 120x + 3\ 024 = 0$$
+$$(x - 84)(x - 36) = 0$$
+$$x = 84 \text{ or } x = 36$$
+$$\therefore \text{P}(1^{\text{st}} \text{ cheese}) = \frac{36}{120} = \frac{3}{10}$$
+
+* $\checkmark$ $\frac{x}{120}$
+* $\checkmark$ $\frac{120 - x}{119}$
+* $\checkmark$ $\frac{x}{120} \times \frac{120 - x}{119} = \frac{18}{85}$
+* $\checkmark$ $x = 84 \text{ or } x = 36$
+* $\checkmark$ $\frac{3}{10}$
+(5)
+
+**[13]**
+
+**TOTAL/TOTAAL: 150**

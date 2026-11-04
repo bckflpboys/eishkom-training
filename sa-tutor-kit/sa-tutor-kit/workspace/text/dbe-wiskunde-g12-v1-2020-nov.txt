@@ -1,0 +1,285 @@
+# SENIOR SERTIFIKAAT/NASIONALE SENIOR SERTIFIKAAT
+
+**GRAAD 12**
+
+## WISKUNDE V1
+
+**NOVEMBER 2020**
+
+**PUNTE:** 150  
+**TYD:** 3 uur
+
+Hierdie vraestel bestaan uit 10 bladsye en 1 inligtingsblad.
+
+---
+
+## INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies noukeurig deur voordat die vrae beantwoord word.
+
+1. Hierdie vraestel bestaan uit 11 vrae.
+2. Beantwoord AL die vrae.
+3. Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie vraestel gebruik is.
+4. Dui ALLE berekeninge, diagramme, grafieke, ens. wat jy gebruik het om jou antwoorde te bepaal, duidelik aan.
+5. Vopunte sal NIE noodwendig aan slegs antwoorde toegeken word NIE.
+6. Jy mag 'n goedgekeurde, wetenskaplike sakrekenaar (nieprogrammeerbaar en niegrafies) gebruik, tensy anders vermeld.
+7. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders vermeld.
+8. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+9. 'n Inligtingsblad met formules is aan die einde van die vraestel ingesluit.
+10. Skryf netjies en leesbaar.
+
+---
+
+## VRAAG 1
+
+1.1 Los op vir $x$:
+
+1.1.1 $x^2 - 6x = 0$ (2)
+
+1.1.2 $x^2 + 10x + 8 = 0$ (korrek tot TWEE desimale plekke) (3)
+
+1.1.3 $(1 - x)(x + 2) < 0$ (3)
+
+1.1.4 $\sqrt{x + 18} = x - 2$ (5)
+
+1.2 Los gelyktydig op vir $x$ en $y$:
+
+$x + y = 3 \quad \text{en} \quad 2x^2 + 4xy - y = 15$ (6)
+
+1.3 Indien $n$ die grootste heelgetal is waarvoor $n^{200} < 5^{300}$, bepaal die waarde van $n$. (3)  
+**[22]**
+
+---
+
+## VRAAG 2
+
+2.1 $7 \ ; \ x \ ; \ y \ ; \ -11 \ ; \ \dots$ is 'n rekenkundige ry. Bepaal die waardes van $x$ en $y$. (4)
+
+2.2 Gegee die kwadratiese getalpatroon: $-3 \ ; \ 6 \ ; \ 27 \ ; \ 60 \ ; \ \dots$
+
+2.2.1 Bepaal die algemene term van die patroon in die vorm $T_n = an^2 + bn + c$. (4)
+
+2.2.2 Bereken die waarde van die $50^{\text{ste}}$ term van die patroon. (2)
+
+2.2.3 Toon aan dat die som van die eerste $n$ eerste-verskille van hierdie patroon deur $S_n = 6n^2 + 3n$ gegee kan word. (3)
+
+2.2.4 Hoeveel opeenvolgende eerste-verskille is by die eerste term van die kwadratiese getalpatroon getel om 'n term in die kwadratiese getalpatroon met 'n waarde van $21\ 060$ te verkry? (4)  
+**[17]**
+
+---
+
+## VRAAG 3
+
+3.1 Bewys dat $\sum_{k=1}^{\infty} 4 \cdot 3^{2-k}$ 'n konvergende meetkundige reeks is. Toon AL jou berekeninge. (3)
+
+3.2 Indien $\sum_{k=p}^{\infty} 4 \cdot 3^{2-k} = \frac{2}{9}$, bepaal die waarde van $p$. (5)  
+**[8]**
+
+---
+
+## VRAAG 4
+
+4.1 Gegee: $h(x) = \frac{-3}{x - 1} + 2$
+
+4.1.1 Skryf die vergelykings van die asimptote van $h$ neer. (2)
+
+4.1.2 Bepaal die vergelyking van die simmetrie-as van $h$ wat 'n negatiewe gradiënt het. (2)
+
+4.1.3 Skets die grafiek van $h$ en dui die asimptote en die afsnitte met die asse aan. (4)
+
+4.2 Die grafieke van $f(x) = \frac{1}{2}(x + 5)^2 - 8$ en $g(x) = \frac{1}{2}x + \frac{9}{2}$ is hieronder geskets.
+* $A$ is die draaipunt van $f$.
+* Die simmetrie-as van $f$ sny die $x$-as by $E$ en die lyn $g$ by $D(m; n)$.
+* $C$ is die $y$-afsnit van $f$ en $g$.
+
+[DIAGRAM: Cartesian plane showing parabola $f$ opening upwards with vertex A in the third quadrant, a straight line $g$ with positive gradient intersecting the $y$-axis at $C$ and the axis of symmetry at $D(m;n)$. The axis of symmetry is a vertical line passing through $E$ on the $x$-axis.]
+
+4.2.1 Skryf die koördinate van $A$ neer. (2)
+
+4.2.2 Skryf die waardeversameling van $f$ neer. (1)
+
+4.2.3 Bereken die waardes van $m$ en $n$. (3)
+
+4.2.4 Bereken die oppervlakte van $OCDE$. (3)
+
+4.2.5 Bepaal die vergelyking van $g^{-1}$, die inverse van $g$, in die vorm $y = \dots$ (2)
+
+4.2.6 Indien $h(x) = g^{-1}(x) + k$ 'n raaklyn aan $f$ is, bepaal die koördinate van die raakpunt van $h$ en $f$. (4)  
+**[23]**
+
+---
+
+## VRAAG 5
+
+Die grafiek van $f(x) = 3^{-x}$ is hieronder geteken. $A$ is die $y$-afsnit van $f$. $B$ is die snypunt van $f$ en die lyn $y = 9$.
+
+[DIAGRAM: Cartesian plane showing exponential curve $f(x) = 3^{-x}$ decreasing from left to right, intersecting the $y$-axis at $A$, and the horizontal line $y=9$ at point $B$.]
+
+5.1 Skryf die koördinate van $A$ neer. (1)
+
+5.2 Bepaal die koördinate van $B$. (3)
+
+5.3 Skryf die definisieversameling van $f^{-1}$ neer. (2)
+
+5.4 Beskryf die translasie van $f$ na $h(x) = \frac{27}{3^x}$. (3)
+
+5.5 Bepaal die waardes van $x$ waarvoor $h(x) < 1$. (3)  
+**[12]**
+
+---
+
+## VRAAG 6
+
+6.1 Op 31 Januarie 2020 maak Tshepo sy eerste maandelikse deposito van $\text{R1 } 000$ in 'n spaarrekening. Hy gaan voort om aan die einde van elke maand tot en met 31 Januarie 2032, deposito's van $\text{R1 } 000$ te maak. Die rentekoers is op $7,5\%$ p.j., maandeliks saamgestel, vasgestel.
+
+6.1.1 Hoeveel sal die belegging onmiddellik na die laaste deposito weerd wees? (4)
+
+6.1.2 As hy geen verdere betalings maak nie, maar die geld in die rekening los, hoeveel geld sal op 31 Januarie 2033 in die rekening wees? (2)
+
+6.2 Jim het 'n nuwe motor vir $\text{R250 } 000$ gekoop. Die motor se waarde jaarliks teen 'n koers van $22\%$ p.j. volgens die verminderdesaldo-metode verminder. Na hoeveel jaar sal die boekwaarde daarvan $\text{R92 } 537,64$ wees? (3)
+
+6.3 Mpho het 'n lening onder die volgende voorwaardes verkry:
+* Die rentekoers is $11,3\%$ p.j., maandeliks saamgestel.
+* Die leningstydperk is 6 jaar.
+* Die maandelikse terugbetaling is $\text{R1 } 500$.
+* Haar eerste terugbetaling is een maand nadat die lening aan haar toegestaan is, gemaak.
+
+6.3.1 Bepaal die waarde van die lening. (3)
+
+6.3.2 Hoeveel rente in totaal sal Mpho gedurende die eerste 5 jaar betaal? (4)  
+**[16]**
+
+---
+
+## VRAAG 7
+
+7.1 Bepaal $f'(x)$ vanuit eerste beginsels indien $f(x) = 2x^2 - 1$. (5)
+
+7.2 Bepaal:
+
+7.2.1 $\frac{d}{dx} \left(\sqrt{x^2} + x^3\right)$ (3)
+
+7.2.2 $f'(x)$ as $f(x) = \frac{4x^2 - 9}{4x + 6} ; \ x \neq -\frac{3}{2}$ (4)  
+**[12]**
+
+---
+
+## VRAAG 8
+
+Die grafiek van $g(x) = ax^3 + bx^2 + cx$, 'n kubiese funksie met 'n $y$-afsnit by $0$, is hieronder geteken. Die $x$-koördinate van die draaipunte van $g$ is $-1$ en $2$.
+
+[DIAGRAM: Cartesian plane showing cubic graph $g(x)$ with local minimum at $x = -1$ and local maximum at $x = 2$, passing through the origin.]
+
+8.1 Vir watter waardes van $x$ is $g$ stygend? (2)
+
+8.2 Skryf die $x$-koördinaat van die buigpunt van $g$ neer. (2)
+
+8.3 Vir watter waardes van $x$ is $g$ konkaaf af? (2)
+
+8.4 Indien $g'(x) = -6x^2 + 6x + 12$ is, bepaal die vergelyking van $g$. (4)
+
+8.5 Bepaal die vergelyking van die raaklyn aan $g$ met die maksimum gradiënt. Skryf jou antwoord in die vorm $y = mx + c$. (5)  
+**[15]**
+
+---
+
+## VRAAG 9
+
+'n Toe reghoekige houer (boks) moet soos volg vervaardig word:
+* Afmetings: lengte ($l$), breedte ($w$) en hoogte ($h$).
+* Die lengte ($l$) van die basis moet $3$ keer die breedte ($w$) wees.
+* Die volume moet $5\text{ m}^3$ wees.
+
+Die materiaal vir die bokant en onderkant kos $\text{R}15$ per vierkante meter en die materiaal vir die sykante kos $\text{R}6$ per vierkante meter.
+
+9.1 Toon dat die koste om die houer te vervaardig soos volg bereken kan word:  
+$\text{Koste} = 90w^2 + 48wh$ (4)
+
+9.2 Bepaal die breedte van die houer sodat die koste om die houer te vervaardig, 'n minimum sal wees. (6)  
+**[10]**
+
+---
+
+## VRAAG 10
+
+10 syfer-telefoonnommers met die volgende formaat word in 'n sekere land in gebruik geneem:
+
+| Formaat | Area-kode | Sentralekode | Nommer |
+| :--- | :---: | :---: | :---: |
+| Aantal syfers | 3 syfers | 3 syfers | 4 syfers |
+| Voorbeeld | 901 | 544 | 1230 |
+
+Syfers kan herhaal word.
+
+10.1 Hoeveel moontlike 10 syfer-telefoonnommers kon gevorm word? (2)
+
+10.2 Sekere beperkings is op die groepe syfers geplaas:
+* Area-kode: moet 3 syfers wees en die eerste syfer kan NIE $0$ of $1$ wees NIE.
+* Sentralekode: moet 3 syfers wees en die eerste en tweede syfers kan NIE $0$ of $1$ wees NIE.
+* Nommer: moet 4 syfers wees en die eerste syfer MOET 'n $0$ of $1$ wees.
+
+10.2.1 Hoeveel geldige 10 syfer-telefoonnommers kon gevorm word deur die gegewe beperkings toe te pas? (3)
+
+10.2.2 Bepaal die waarskynlikheid dat enige 10 syfer-telefoonnommer wat ewekansig gekies word, 'n geldige telefoonnommer sal wees. (2)  
+**[7]**
+
+---
+
+## VRAAG 11
+
+Harry skiet pyle na 'n teikenbord. Hy het 'n $50\%$-kans om die kol met elke skoot te tref.
+
+11.1 Bereken die waarskynlikheid dat Harry die kol met sy eerste skoot en sy tweede skoot sal tref. (2)
+
+11.2 Bereken die waarskynlikheid dat Harry die kol ten minste twee keer met sy eerste drie skote sal tref. (3)
+
+11.3 Glenda het ook 'n $50\%$-kans om die kol met elke skoot te tref. Harry en Glenda sal beurte maak om 'n pyl te skiet en die eerste persoon wat die kol tref, sal die wenner wees. Bereken die waarskynlikheid dat die persoon wat eerste skiet, die wenner van die uitdaging sal wees. (3)  
+**[8]**
+
+**TOTAAL: 150**
+
+---
+
+## INLIGTINGSBLAD
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni) \quad A = P(1 - ni) \quad A = P(1 - i)^n \quad A = P(1 + i)^n$$
+
+$$T_n = a + (n - 1)d \quad S_n = \frac{n}{2}[2a + (n - 1)d]$$
+
+$$T_n = ar^{n-1} \quad S_n = \frac{a(r^n - 1)}{r - 1} \quad (r \neq 1) \quad S_{\infty} = \frac{a}{1 - r} \quad (-1 < r < 1)$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i} \quad P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} \quad M\left(\frac{x_1 + x_2}{2}; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c \quad y - y_1 = m(x - x_1) \quad m = \frac{y_2 - y_1}{x_2 - x_1} \quad m = \tan \theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+$$\text{In } \Delta ABC: \quad \frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}$$
+
+$$a^2 = b^2 + c^2 - 2bc \cos A$$
+
+$$\text{area } \Delta ABC = \frac{1}{2}ab \sin C$$
+
+$$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta \quad \sin(\alpha - \beta) = \sin \alpha \cos \beta - \cos \alpha \sin \beta$$
+
+$$\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta \quad \cos(\alpha - \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2 \alpha - \sin^2 \alpha \\ 1 - 2\sin^2 \alpha \\ 2\cos^2 \alpha - 1 \end{cases} \quad \sin 2\alpha = 2\sin \alpha \cos \alpha$$
+
+$$\bar{x} = \frac{\sum x}{n}$$
+
+$$\sigma^2 = \frac{\sum_{i=1}^n(x_i - \bar{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)}$$
+
+$$P(\text{A of B}) = P(A) + P(B) - P(\text{A en B})$$
+
+$$\hat{y} = a + bx$$
+
+$$b = \frac{\sum(x - \bar{x})(y - \bar{y})}{\sum(x - \bar{x})^2}$$

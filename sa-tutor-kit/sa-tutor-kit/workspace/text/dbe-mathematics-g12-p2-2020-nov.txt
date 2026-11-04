@@ -1,0 +1,313 @@
+**SENIOR CERTIFICATE/NATIONAL SENIOR CERTIFICATE**
+
+**GRADE 12**
+
+**MATHEMATICS P2**
+**NOVEMBER 2020**
+
+**MARKS:** 150  
+**TIME:** 3 hours  
+
+---
+
+### INSTRUCTIONS AND INFORMATION
+
+Read the following instructions carefully before answering the questions.
+
+1. This question paper consists of 10 questions.
+2. Answer ALL the questions in the SPECIAL ANSWER BOOK provided.
+3. Clearly show ALL calculations, diagrams, graphs, etc. that you have used in determining your answers.
+4. Answers only will NOT necessarily be awarded full marks.
+5. You may use an approved scientific calculator (non-programmable and non-graphical), unless stated otherwise.
+6. If necessary, round off answers correct to TWO decimal places, unless stated otherwise.
+7. Diagrams are NOT necessarily drawn to scale.
+8. An information sheet with formulae is included at the end of the question paper.
+9. Write neatly and legibly.
+
+---
+
+### QUESTION 1
+
+A Mathematics teacher was curious to establish if her learners' Mathematics marks influenced their Physical Sciences marks. In the table below, the Mathematics and Physical Sciences marks of 15 learners in her class are given as percentages ($\%$).
+
+| MATHEMATICS (AS %) | $26$ | $62$ | $21$ | $33$ | $53$ | $76$ | $32$ | $59$ | $43$ | $33$ | $49$ | $51$ | $19$ | $34$ | $85$ |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| PHYSICAL SCIENCES (AS %) | $34$ | $67$ | $28$ | $46$ | $65$ | $76$ | $26$ | $73$ | $50$ | $39$ | $57$ | $51$ | $24$ | $41$ | $80$ |
+
+[DIAGRAM: A scatter plot titled "SCATTER PLOT" showing physical sciences (%) on the vertical axis from 0 to 90 and mathematics (%) on the horizontal axis from 0 to 90, with 15 plotted points representing the data pairs.]
+
+1.1 Determine the equation of the least squares regression line for the data. (3)
+
+1.2 Draw the least squares regression line on the scatter plot provided in the ANSWER BOOK. (2)
+
+1.3 Predict the Physical Sciences mark of a learner who achieved $69\%$ for Mathematics. (2)
+
+1.4 Write down the correlation coefficient between the Mathematics and Physical Sciences marks for the data. (1)
+
+1.5 Comment on the strength of the correlation between the Mathematics and Physical Sciences marks for the data. (1)
+
+1.6 What trend did the teacher observe between the results of the two subjects? (1)
+
+---
+
+### QUESTION 2
+
+The number of aircraft landing at the King Shaka International Airport and the Port Elizabeth Airport for the period starting in April 2017 and ending in March 2018, is shown in the double bar graph below.
+
+[DIAGRAM: A double bar graph titled "Number of aircraft landing at the King Shaka International Airport and the Port Elizabeth Airport for the period April 2017 to March 2018", showing monthly landing counts from Apr to Mar with King Shaka represented by dark bars and Port Elizabeth by light bars.]
+
+2.1 The number of aircraft landing at the Port Elizabeth Airport exceeds the number of aircraft landing at the King Shaka International Airport during some months of the given period. During which month is this difference the greatest? (1)
+
+2.2 The number of aircraft landing at the King Shaka International Airport during these months are:
+
+$$\begin{array}{|l|l|l|l|l|l|}
+\hline 2\,182 & 2\,323 & 2\,267 & 2\,334 & 2\,346 & 2\,175 \\
+\hline 2\,293 & 2\,263 & 2\,215 & 2\,271 & 2\,018 & 2\,254 \\
+\hline
+\end{array}$$
+
+Calculate the mean for the data. (2)
+
+2.3 Calculate the standard deviation for the number of aircraft landing at the King Shaka International Airport for the given period. (2)
+
+2.4 Determine the number of months in which the number of aircraft landing at the King Shaka International Airport were within one standard deviation of the mean. (3)
+
+2.5 Which ONE of the following statements is CORRECT?
+
+A. During December and January, there were more landings at the Port Elizabeth Airport than at the King Shaka International Airport.
+
+B. There was a greater variation in the number of aircraft landing at the King Shaka International Airport than at the Port Elizabeth Airport for the given period.
+
+C. The standard deviation of the number of landings at the Port Elizabeth Airport will be higher than the standard deviation of the number of landings at the King Shaka International Airport. (1)
+
+---
+
+### QUESTION 3
+
+$\triangle TSK$ is drawn. The equation of $ST$ is $y = \frac{1}{2}x + 6$ and $ST$ cuts the $x$-axis at $M(-4; 4)$ lies on $ST$ and $R$ lies on $SK$ such that $WR$ is parallel to the $y$-axis. $WK$ cuts the $x$-axis at $V$ and the $y$-axis at $P(0; -4)$. $KS$ produced cuts the $x$-axis at $N$. $T\hat{S}K = \theta$.
+
+[DIAGRAM: Cartesian plane showing $\triangle TSK$ with vertices $T$, $S$, and $K$. Line $ST$ has $M(-4; 4)$ on it. $W$ is $(-4; 4)$ on $ST$. Line $WK$ is vertical, passing through $V$ on the $x$-axis and $P(0;-4)$ on the $y$-axis. $R$ is on $SK$ with $WR \parallel y$-axis. $KS$ produced meets the $x$-axis at $N$. Angle $\beta$ is at $N$ and $\theta$ at $S$.]
+
+3.1 Calculate the gradient of $WP$. (2)
+
+3.2 Show that $WP \perp ST$. (2)
+
+3.3 If the equation of $SK$ is given as $5y + 2x + 60 = 0$, calculate the coordinates of $S$. (4)
+
+3.4 Calculate the length of $WR$. (4)
+
+3.5 Calculate the size of $\theta$. (5)
+
+3.6 Let $L$ be a point in the third quadrant such that $SWRL$, in that order, forms a parallelogram. Calculate the area of $SWRL$. (4)
+
+---
+
+### QUESTION 4
+
+$M(-3; 4)$ is the centre of the large circle and a point on the small circle having centre $O(0; 0)$. From $N(-11; p)$, a tangent is drawn to touch the large circle at $T$ with $NT$ is parallel to the $y$-axis. $NM$ is a tangent to the smaller circle at $M$ with $MOS$ a diameter.
+
+[DIAGRAM: Two circles. The smaller circle is centered at $O(0;0)$ with diameter $MOS$. The larger circle is centered at $M(-3;4)$. A tangent $NT$ touches the large circle at $T$, with $N(-11;p)$. Line segment $NM$ is tangent to the small circle at $M$. $S$ is a point on the circles/axes.]
+
+4.1 Determine the equation of the small circle. (2)
+
+4.2 Determine the equation of the circle centred at $M$ in the form $(x - a)^2 + (y - b)^2 = r^2$ (3)
+
+4.3 Determine the equation of $NM$ in the form $y = mx + c$ (4)
+
+4.4 Calculate the length of $SN$. (5)
+
+4.5 If another circle with centre $B(-2; 5)$ and radius $k$ touches the circle centred at $M$, determine the value(s) of $k$, correct to ONE decimal place. (5)
+
+---
+
+### QUESTION 5
+
+The graphs of $f(x) = -\frac{1}{2}\cos x$ and $g(x) = \sin(x + 30^\circ)$, for the interval $x \in [0^\circ; 180^\circ]$, are drawn below. $A(130,9^\circ; 0,33)$ is the approximate point of intersection of the two graphs.
+
+[DIAGRAM: Graphs of $f(x)$ and $g(x)$ plotted on a Cartesian plane from $0^\circ$ to $180^\circ$. $f(x)$ is a cosine-like wave starting at $-0.5$ and $g(x)$ is a sine wave shifted. They intersect at point $A(130,9^\circ; 0,33)$.]
+
+5.1 Write down the period of $g$. (1)
+
+5.2 Write down the amplitude of $f$ (1)
+
+5.3 Determine the value of $f(180^\circ) - g(180^\circ)$ (1)
+
+5.4 Use the graphs to determine the values of $x$, in the interval $x \in [0^\circ; 180^\circ]$, for which:
+
+5.4.1 $f(x - 10^\circ) = g(x - 10^\circ)$ (1)
+
+5.4.2 $\sqrt{3}\sin x + \cos x \ge 1$ (4)
+
+---
+
+### QUESTION 6
+
+6.1 In the diagram, $P(-5; 12)$ and $T$ lies on the positive $x$-axis. $P\hat{O}T = \theta$
+
+[DIAGRAM: Cartesian plane showing point $P(-5;12)$ in the second quadrant. Ray $OP$ makes an angle $\theta$ with the positive $x$-axis at origin $O$. Point $T$ lies on the positive $x$-axis.]
+
+Answer the following without using a calculator:
+
+6.1.1 Write down the value of $\tan\theta$ (1)
+
+6.1.2 Calculate the value of $\cos\theta$ (3)
+
+6.1.3 $S(a; b)$ is a point in the third quadrant such that $T\hat{O}S = \theta + 90^\circ$ and $OS = 6,5$ units. Calculate the value of $b$. (4)
+
+6.2 Determine, without using a calculator, the value of the following trigonometric expression:
+
+$$\frac{\sin 2x \cdot \cos(-x) + \cos 2x \cdot \sin(360^\circ - x)}{\sin(180^\circ + x)}$$ (5)
+
+6.3 Determine the general solution of the following equation:
+
+$$6\sin^2 x + 7\cos x - 3 = 0$$ (6)
+
+6.4 Given: $x + \frac{1}{x} = 3\cos A$ and $x^2 + \frac{1}{x^2} = 2$
+
+Determine the value of $\cos 2A$ without using a calculator. (5)
+
+---
+
+### QUESTION 7
+
+A landscape artist plans to plant flowers within two concentric circles around a vertical light pole $PQ$. $R$ is a point on the inner circle and $S$ is a point on the outer circle. $R$, $Q$ and $S$ lie in the same horizontal plane. $RS$ is a pipe used for the irrigation system in the garden.
+
+* The radius of the inner circle is $r$ units and the radius of the outer circle is $QS$.
+* The angle of elevation from $S$ to $P$ is $30^\circ$.
+* $R\hat{Q}S = 2x$ and $PQ = \sqrt{3}r$
+
+[DIAGRAM: 3D perspective drawing of a cone-like structure with vertical height $PQ = \sqrt{3}r$. $Q$ is the center of two concentric circles on the ground. $R$ is on the inner circle of radius $r$. $S$ is on the outer circle. $RS$ connects the two points on the ground. Angle of elevation from $S$ to $P$ is $30^\circ$. $R\hat{Q}S = 2x$.]
+
+7.1 Show that $QS = 3r$ (3)
+
+7.2 Determine, in terms of $r$, the area of the flower garden. (2)
+
+7.3 Show that $RS = r\sqrt{10 - 6\cos 2x}$ (3)
+
+7.4 If $r = 10$ metres and $x = 56^\circ$, calculate $RS$. (2)
+
+---
+
+### QUESTION 8
+
+8.1 $O$ is the centre of the circle. $KOM$ bisects chord $LN$ and $M\hat{N}O = 26^\circ$. $K$ and $P$ are points on the circle with $N\hat{K}P = 32^\circ$. $OP$ is drawn.
+
+[DIAGRAM: A circle with center $O$. Chord $LN$ is bisected by line segment $KOM$. $M$ and $N$ are on the circle with $M\hat{N}O = 26^\circ$. $K$ and $P$ are on the circle with $N\hat{K}P = 32^\circ$. Line segment $OP$ is drawn. Angles $\hat{O}_1, \hat{O}_2, \hat{O}_3$ are formed at $O$, and $\hat{K}_1, \hat{K}_2$ at $K$.]
+
+8.1.1 Determine, giving reasons, the size of:
+
+(a) $\hat{O}_2$ (2)
+
+(b) $\hat{O}_1$ (4)
+
+8.1.2 Prove, giving reasons, that $KN$ bisects $O\hat{K}P$. (3)
+
+8.2 In $\triangle ABC$, $F$ and $G$ are points on sides $AB$ and $AC$ respectively. $D$ is a point on $GC$ such that $\hat{D}_1 = \hat{B}$.
+
+[DIAGRAM: Triangle $ABC$ with points $F$ on $AB$ and $G$ on $AC$. Line segment $FG$ is drawn. Point $D$ lies on $GC$ such that $\hat{D}_1 = \hat{B}$. Angles $\hat{F}_1, \hat{F}_2, \hat{D}_1, \hat{D}_2$ are labeled.]
+
+8.2.1 If $AF$ is a tangent to the circle passing through points $F$, $G$ and $D$, then prove, giving reasons, that $FG \parallel BC$. (4)
+
+8.2.2 If it is further given that $\frac{AF}{FB} = \frac{2}{5}$, $AC = 2x - 6$ and $GC = x + 9$, then calculate the value of $x$. (4)
+
+---
+
+### QUESTION 9
+
+9.1 In the diagram, $O$ is the centre of the circle. Points $S$, $T$ and $R$ lie on the circle. Chords $ST$, $SR$ and $TR$ are drawn in the circle. $QS$ is a tangent to the circle at $S$.
+
+[DIAGRAM: Circle with center $O$. Points $S, T, R$ on the circumference. Chords $ST, SR, TR$ form a triangle inside the circle. $QS$ is a tangent to the circle at $S$.]
+
+Use the diagram to prove the theorem which states that $Q\hat{S}T = \hat{R}$. (5)
+
+9.2 Chord $QN$ bisects $M\hat{N}P$ and intersects chord $MP$ at $S$. The tangent at $P$ meets $MN$ produced at $R$ such that $QN \parallel PR$. Let $\hat{P}_1 = x$.
+
+[DIAGRAM: Circle with chord $MP$, $MN$, and $NP$. Chord $QN$ bisects $M\hat{N}P$ and intersects $MP$ at $S$. Tangent at $P$ meets $MN$ produced at $R$, with $QN \parallel PR$. $\hat{P}_1 = x$. Angles $\hat{N}_1, \hat{N}_2, \hat{N}_3, \hat{M}_1, \hat{M}_2, \hat{Q}_1, \hat{Q}_2, \hat{P}_1, \hat{P}_2, \hat{P}_3$ are labeled.]
+
+9.2.1 Determine the following angles in terms of $x$. Give reasons:
+
+(a) $\hat{N}_2$ (2)
+
+(b) $\hat{Q}_2$ (2)
+
+9.2.2 Prove, giving reasons, that $\frac{MN}{NR} = \frac{MS}{SQ}$ (6)
+
+---
+
+### QUESTION 10
+
+In the diagram, a circle passes through $D$, $B$ and $E$. Diameter $ED$ of the circle is produced to $C$ and $AC$ is a tangent to the circle at $B$. $M$ is a point on $DE$ such that $AM \perp DE$. $AM$ and chord $BE$ intersect at $F$.
+
+[DIAGRAM: Circle passing through $D, B, E$ with diameter $ED$ produced to $C$. $AC$ is a tangent at $B$. $M$ is a point on $DE$ such that $AM \perp DE$. $AM$ and chord $BE$ intersect at $F$. Points $C, D, M, E, B, F, A$ form a complex geometric figure with perpendiculars and tangents.]
+
+10.1 Prove, giving reasons, that:
+
+10.1.1 $FBDM$ is a cyclic quadrilateral (3)
+
+10.1.2 $\hat{B}_3 = \hat{F}_1$ (4)
+
+10.1.3 $\triangle CDB ||| \triangle CBE$ (3)
+
+10.2 If it is further given that $CD = 2$ units and $DE = 6$ units, calculate the length of:
+
+10.2.1 $BC$ (3)
+
+10.2.2 $DB$ (4)
+
+**TOTAL: 150**
+
+---
+
+### INFORMATION SHEET
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni)$$
+$$A = P(1 - ni)$$
+$$A = P(1 - i)^n$$
+$$A = P(1 + i)^n$$
+
+$$T_n = a + (n - 1)d$$
+$$S_n = \frac{n}{2}[2a + (n - 1)d]$$
+
+$$T_n = ar^{n-1}$$
+$$S_n = \frac{a(r^n - 1)}{r - 1} \quad (r \neq 1)$$
+$$S_\infty = \frac{a}{1 - r} \quad (-1 < r < 1)$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i}$$
+$$P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$
+$$M\left(\frac{x_1 + x_2}{2}; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c$$
+$$y - y_1 = m(x - x_1)$$
+$$m = \frac{y_2 - y_1}{x_2 - x_1}$$
+$$m = \tan\theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+In $\triangle ABC$:
+$$\frac{\sin A}{a} = \frac{\sin B}{b} = \frac{\sin C}{c}$$
+$$a^2 = b^2 + c^2 - 2bc\cos A$$
+$$\text{area } \triangle ABC = \frac{1}{2}ab\sin C$$
+
+$$\sin(\alpha + \beta) = \sin\alpha\cos\beta + \cos\alpha\sin\beta$$
+$$\sin(\alpha - \beta) = \sin\alpha\cos\beta - \cos\alpha\sin\beta$$
+$$\cos(\alpha + \beta) = \cos\alpha\cos\beta - \sin\alpha\sin\beta$$
+$$\cos(\alpha - \beta) = \cos\alpha\cos\beta + \sin\alpha\sin\beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2\alpha - \sin^2\alpha \\ 1 - 2\sin^2\alpha \\ 2\cos^2\alpha - 1 \end{cases}$$
+
+$$\sin 2\alpha = 2\sin\alpha\cos\alpha$$
+
+$$\bar{x} = \frac{\sum x}{n}$$
+$$\sigma^2 = \frac{\sum_{i=1}^n(x_i - \bar{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)}$$
+$$P(A \text{ or } B) = P(A) + P(B) - P(A \text{ and } B)$$
+
+$$\hat{y} = a + bx$$
+$$b = \frac{\sum(x - \bar{x})(y - \bar{y})}{\sum(x - \bar{x})^2}$$

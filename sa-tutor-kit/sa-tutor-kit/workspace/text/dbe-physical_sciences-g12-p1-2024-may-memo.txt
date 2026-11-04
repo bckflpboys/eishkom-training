@@ -1,0 +1,390 @@
+# Physical Sciences P1/Fisiese Wetenskappe V1
+## Marking Guidelines/Nasienriglyne
+### May/June/Mei/Junie 2024
+
+---
+
+### QUESTION 1/VRAAG 1
+
+1.1 B ✓✓ (2)
+1.2 B ✓✓ (2)
+1.3 C ✓✓ (2)
+1.4 A ✓✓ (2)
+1.5 D ✓✓ (2)
+1.6 A ✓✓ (2)
+1.7 A ✓✓ (2)
+1.8 C ✓✓ (2)
+1.9 A ✓✓ (2)
+1.10 C ✓✓ (2)
+**[20]**
+
+---
+
+### QUESTION 2/VRAAG 2
+
+2.1 **Marking criteria/Nasienkriteria:**
+If any of the underlined key words/phrases in the correct context is omitted deduct 1 mark.
+
+When a **resultant/net force** acts on an object, the object will **accelerate** in the direction of the force. The **acceleration** is **directly proportional** to the resultant/net force and **inversely proportional** to the **mass** of the object. ✓✓
+
+**OR/OF**
+The **resultant/net force** acting on an object is equal to the **rate of change of momentum** of the object in the direction of the resultant/net force. (2 or/of 0) (2)
+
+2.2 
+*(Diagram showing a dot with vectors: F pointing up-right, T pointing down-left, f pointing down-left, N pointing up, w pointing down)*
+
+**Accepted labels/Aanvaarde benoemings:**
+*   $w$: $F_g/F_w/40,18\text{ N}/mg/\text{weight}/\text{gravitational force}/\text{gewig}/\text{gravitasiekrag}$
+*   $T$: $F_T/\text{tension}/\text{spanning}/F_{\text{string}}/F_{\text{tou}}$
+*   $f$: (kinetic) friction/$F_f/f_k/f_r$/(kinetiese) wrywing/$f_w$
+*   $N$: $F_N/\text{Normal}/F_{\text{normal}}/F_{\text{normaal}}/\text{Normaal}$
+*   $F$: $F_{\text{app}}/F_{\text{toeg}}/49\text{ N}/F_a/F_A$
+
+**Notes/Aantekeninge:**
+*   Mark awarded for label and arrow.
+*   Do not penalise for length of arrows since drawing is not to scale.
+*   Any other additional force(s): Max $4/5$
+*   If everything is correct, but no arrows: Max $4/5$
+*   If force(s) do not make contact with the dot: Max $4/5$
+*   If forces are superimposed: Max $4/5$ (5)
+
+2.3.1 
+$f_k = \mu_k N$
+$f_k = \mu_k(F_g - F_y)$
+$f_k = \mu_k(mg - F\sin\theta)$
+$= (0,35)[(4,1)(9,8) - 49\sin50^\circ]$ ✓
+$= 0,93\text{ N}$ ✓ Range/Gebied: $(0,92 - 0,93\text{ N})$ (3)
+
+2.3.2 **POSITIVE MARKING FROM QUESTION 2.3.1.**
+
+**For A:**
+LEFT AS POSITIVE:
+$F_{\text{net}} = ma$
+$F_x - T - f = ma$
+$F\cos\theta - T - \mu_k N = ma$
+$49\cos50^\circ - T - 0,93$ ✓ $= (4,1)a$
+$T = 30,57 - 4,1a$ ... equation 1
+
+**For B:**
+UPWARDS AS POSITIVE:
+$F_{\text{net}} = ma$
+$T - F_g = ma$
+$T - (2,3)(9,8)$ ✓ $= (2,3)a$
+$T = 2,3a + 22,54$ ... equation 2
+
+$30,57 - 4,1a = 2,3a + 22,54$
+$a = 1,25\text{ m}\cdot\text{s}^{-2}$ ✓ Range/Gebied: $(1,25 - 1,26\text{ m}\cdot\text{s}^{-2})$
+
+**OR**
+
+**For A:**
+RIGHT AS POSITIVE:
+$F_{\text{net}} = ma$
+$-F_x + T + f = ma$
+$-F\cos\theta + T + \mu_k N = ma$
+$-49\cos50^\circ + T + 0,93$ ✓ $= (4,1)a$
+$T = 30,57 + 4,1a$ ... equation 1
+
+**For B:**
+DOWNWARDS AS POSITIVE:
+$F_{\text{net}} = ma$
+$F_g - T = ma$
+$(2,3)(9,8) - T$ ✓ $= (2,3)a$
+$T = 22,54 - 2,3a$ ... equation 2
+
+$30,57 + 4,1a = 22,54 - 2,3a$
+$a = -1,25\text{ m}\cdot\text{s}^{-2}$
+$a = 1,25\text{ m}\cdot\text{s}^{-2}$ ✓ Range/Gebied: $(1,25 - 1,26\text{ m}\cdot\text{s}^{-2})$ (5)
+
+**NOTE:** systems approach $2/5$ marks for formula and correct answer.
+**[15]**
+
+---
+
+### QUESTION 3/VRAAG 3
+
+3.1 Motion during which the only force acting is gravitational force. (2 or 0)
+**OR/OF**
+Motion under the influence of gravitational force only. ✓✓ (2)
+NOTE: if projectile is defined 0/2
+
+3.2 NO ✓ (1)
+
+3.3.1 **Marking criteria:**
+*   Formula with $\Delta t$. ✓
+*   Correct substitution into formula. ✓
+*   Final answer: $1,44\text{ s}$ ✓
+
+**OPTION 1:**
+DOWNWARDS AS POSITIVE:
+$\Delta y = v_i\Delta t + \frac{1}{2}a\Delta t^2$ ✓
+$15 = 3,4\Delta t + \frac{1}{2}(9,8)\Delta t^2$ ✓
+$\Delta t = 1,44\text{ s}$ ✓
+
+**OPTION 2:**
+DOWNWARDS AS POSITIVE:
+$v_f^2 = v_i^2 + 2a\Delta y$
+$v_f^2 = (3,4)^2 + 2(9,8)(15)$
+$v_f = 17,48\text{ m}\cdot\text{s}^{-1}$
+$v_f = v_i + a\Delta t$ ✓
+$17,48 = 3,4 + (9,8)\Delta t$ ✓
+$\Delta t = 1,44\text{ s}$ ✓ (3)
+
+3.3.2 **POSITIVE MARKING FROM QUESTION 3.3.1.**
+**Marking criteria:**
+*   Correct formula to calculate $\Delta y$. ✓
+*   Correct substitution into formula. ✓
+*   Subtraction of displacement from initial height. ✓
+*   Final answer: Range $(10,1 - 10,12\text{ m})$ ✓
+
+**OPTION 1:**
+UPWARDS AS POSITIVE:
+$\Delta y = v_i\Delta t + \frac{1}{2}a\Delta t^2$ ✓
+$\Delta y = -3,4(1,44) + \frac{1}{2}(0)(1,44)^2$ ✓
+$\Delta y = -4,896\text{ m}$
+Height $= 15 - 4,896$ ✓ $= 10,1\text{ m}$ ✓ (4)
+
+3.4 **POSITIVE MARKING FROM Q 3.3.1.**
+**Marking criteria:**
+*   Correct formula to calculate $\Delta t$. ✓
+*   Correct substitution into formula. ✓
+*   Addition of three time values. ✓
+*   Final answer: Range $(2,37 - 2,38\text{ s})$ ✓
+
+**OPTION 1:**
+UPWARDS AS +:
+$v_f = v_i + a\Delta t$ ✓
+$0 = 7,2 + (-9,8)\Delta t$ ✓
+$\Delta t = 0,73\text{ s}$
+
+$t_3 = 1,44 + 0,2 + 0,73$ ✓
+$= 2,37\text{ s}$ ✓ (4)
+**[14]**
+
+---
+
+### QUESTION 4/VRAAG 4
+
+4.1 In an isolated system the **total (linear) momentum is conserved/remains constant**. ✓✓ (Accept closed system for this exam) (2)
+
+4.2 **Marking criteria:**
+*   Correct momentum formula. ✓
+*   Correct substitution into momentum formula. ✓✓
+*   Correct substitution into equation of motion. ✓
+*   Final correct answer: $0,64\text{ m}$ ✓
+
+**OPTION 1:**
+RIGHT AS POSITIVE:
+$\sum p_i = \sum p_f$
+$m_A v_{iA} + m_B v_{iB} = m_A v_{fA} + m_B v_{fB}$
+$0$ ✓ $= (3,2)(-0,4) + (2,6)v_f$ ✓
+$\therefore v_f = 0,49\text{ m}\cdot\text{s}^{-1}$
+$v = \frac{\Delta x}{\Delta t}$
+$0,49 = \frac{\Delta x}{1,3}$ ✓
+$\Delta x_B = 0,64\text{ m}$ ✓ (5)
+
+4.3 **POSITIVE MARKING FROM QUESTION 4.2.**
+**OPTION 1:**
+RIGHT AS POSITIVE:
+$F_{\text{net}}\Delta t = \Delta p$
+$F_{\text{net}}\Delta t = m(v_f - v_i)$
+$(-4,2)\Delta t = 3,2(-0,4 - 0)$ ✓
+$\Delta t = 0,3\text{ s}$ ✓ (3)
+
+4.4 LESS THAN ✓
+Final momentum/change in momentum/impulse remains constant. ✓
+If mass/inertia increases, velocity decreases/velocity inversely proportional to mass. ✓ (3)
+**[13]**
+
+---
+
+### QUESTION 5/VRAAG 5
+
+5.1 The **total mechanical energy/sum of the gravitational potential energy and kinetic energy/sum of $E_p$ and $E_k$** in an isolated system is **conserved/remains constant**. ✓✓ (Accept closed system for this exam) (2)
+
+5.2 **OPTION 1:**
+$(E_{\text{mech}})_{\text{Top}} = (E_{\text{mech}})_{\text{Bottom}}$
+$(E_p + E_k)_{\text{Top}} = (E_p + E_k)_{\text{Bottom}}$
+$(mgh + \frac{1}{2}mv^2)_{\text{Top}} = (mgh + \frac{1}{2}mv^2)_{\text{Bottom}}$
+$(18)(9,8)(3) + 0 = 0 + (\frac{1}{2})(18)v^2$ ✓
+$v = 7,67\text{ m}\cdot\text{s}^{-1}$ ✓ (3)
+
+5.3 The **net/total work done** (on an object) is equal to the **change in the object's kinetic energy**. ✓✓ (2)
+
+5.4 **POSITIVE MARKING FROM QUESTION 5.2.**
+**OPTION 1:**
+$W_{\text{net}} = \Delta E_k$
+$W_f = \Delta E_k$
+$f\Delta x\cos180^\circ = \frac{1}{2}mv_f^2 - \frac{1}{2}mv_i^2$
+$(40,6)\Delta x(-1)$ ✓ $= \frac{1}{2}(18)[(0)^2 - (7,67)^2]$ ✓
+$\Delta x = 13,04\text{ m}$ ✓ Range: $(13,03 - 13,04\text{ m})$ (4)
+
+5.5 Smaller than/Kleiner as ✓
+*   Total mechanical/Gravitational potential energy (at A) is less. ✓
+*   Velocity(speed) at B is less/Kinetic energy at B/$\Delta E_k$ will be less from B to C/rest. ✓ (3)
+**[14]**
+
+---
+
+### QUESTION 6/VRAAG 6
+
+6.1 It is the (apparent) **change in frequency/pitch** of the sound (detected by a listener) because the sound source and the listener have **different velocities relative to the medium** of sound propagation. ✓✓ (2)
+
+6.2 **MOVING TOWARDS OBSERVER:**
+$f_L = \frac{v}{v - v_s} f_s$
+$615 = (\frac{v}{v - 26})f_s$ ✓
+$f_s = \frac{615(v - 26)}{v}$
+
+**MOVING AWAY FROM OBSERVER:**
+$f_L = \frac{v}{v + v_s} f_s$
+$526 = (\frac{v}{v + 26})f_s$ ✓
+$f_s = \frac{526(v + 26)}{v}$
+
+$\frac{615(v - 26)}{v} = \frac{526(v + 26)}{v}$
+$v = 333,33\text{ m}\cdot\text{s}^{-1}$ ✓ Range: $(331,88 - 333,33\text{ m}\cdot\text{s}^{-1})$ (5)
+
+6.3 **POSITIVE MARKING FROM QUESTION 6.2.**
+$f_s = \frac{615(333,33 - 26)}{333,33}$ ✓
+$f_s = 567,03\text{ Hz}$
+$v = f\lambda$ ✓
+$333,33 = 567,03\lambda$ ✓
+$\lambda = 0,59\text{ m}$ ✓ Range: $(0,585 - 0,59\text{ m})$ (4)
+
+6.4
+*   The lines before and after $t_1$ are horizontal. ✓
+*   The frequency after $t_1$ is less than before $t_1$. ✓
+*   Time $t_1$ correctly indicated where the frequency changes if everything else is correct. ✓ (3)
+**[14]**
+
+---
+
+### QUESTION 7/VRAAG 7
+
+7.1.1
+*   Correct shape. ✓
+*   Correct direction away from the charge. ✓ (2)
+
+7.1.2 $E = \frac{kQ}{r^2}$ ✓
+$= \frac{(9 \times 10^9)(4 \times 10^{-9})}{(0,025)^2}$ ✓
+$= 5,76 \times 10^4\text{ N}\cdot\text{C}^{-1}$ ✓ (3)
+
+7.2.1 The magnitude of the **electrostatic force** exerted by one point charge on another is **directly proportional** to the **product of the magnitudes of the charges** and **inversely proportional** to the **square of the distance** between them. ✓✓ (2)
+
+7.2.2 **Marking criteria:**
+*   Correct substitution of $mg$ with angle $9^\circ$ or $81^\circ$. ✓
+*   Correct trig-expression equated to $F_E$. ✓
+*   Correct Coulombs’ formula. ✓
+*   Correct substitution into $F_E$/Coulombs’ formula. ✓
+*   Calculating $2Q$. ✓
+*   Final correct answer: Range $(2,88 \times 10^{-7} - 2,98 \times 10^{-7}\text{ C})$ ✓
+
+**OPTION 1:**
+$F_E = mg(\tan\theta)$
+$F_E = (0,012)(9,8)(\tan 9^\circ)$ ✓
+$= 0,0186\text{ N}$
+$F_E = \frac{kQ_AQ_B}{r^2}$ ✓
+$0,0186 = \frac{(9 \times 10^9)(Q^2)}{0,1^2}$ ✓
+$Q = 1,44 \times 10^{-7}\text{ C}$
+$Q_B = 2(1,44 \times 10^{-7})$ ✓
+$= 2,88 \times 10^{-7}\text{ C}$ ✓ (6)
+**[13]**
+
+---
+
+### QUESTION 8/VRAAG 8
+
+8.1 The resistor $R_Z$ is short circuited. ✓ (1)
+
+8.2 **Marking criteria:**
+*   Correct emf or $V_{\text{int}}$ formula. ✓
+*   Correct substitution into emf or $V_{\text{int}}$ formula. ✓
+*   Correct $R_p$ formula ($R_X = R$). ✓
+*   Correct substitution into $R_p$ formula. ✓
+*   Final correct answer: Range $(5,92\ \Omega - 5,96\ \Omega)$ ✓
+
+**OPTION 1:**
+$\frac{1}{R_p} = \frac{1}{R} + \frac{1}{2R}$ ✓
+$R_p = 0,67R$
+$\varepsilon = I(R + r)$ ✓
+$12 = 5,5(0,67R + 0,2)$ ✓
+$R = 2,97\ \Omega$
+$R_Y = 2(2,97) = 5,95\ \Omega$ ✓ (5)
+
+8.3 **POSITIVE MARKING FROM QUESTION 8.2.**
+$V_p = I_T R_p = (5,5)(1,98) = 10,89\text{ V}$
+$I_x = \frac{2}{3}(5,5) = 3,67\text{ A}$ ✓
+$P = I^2R$ ✓
+$= (3,67)^2(2,97)$ ✓
+$= 40\text{ W}$ ✓ (4)
+
+8.4 **POSITIVE MARKING FROM QUESTION 8.2.**
+$V = IR$ ✓
+$= 1,3(5,95)$ ✓
+$= 7,72\text{ V}$ ✓ Range: $(7,7 - 7,75\text{ V})$ (3)
+
+8.5 **POSITIVE MARKING FROM QUESTION 8.2 and 8.4.**
+$S_1$ AND $S_2$ OPEN:
+$\varepsilon = I(R + r)$ ✓
+$12 = 1,3(R_T + 0,2)$ ✓
+$R_T = 9,03\ \Omega$
+$R_T = R_Y + R_Z$
+$9,03 = 5,95 + R_Z$ ✓
+$R_Z = 3,08\ \Omega$
+
+$S_1$ OPEN AND $S_2$ CLOSED:
+$R_{ex} = 3,08 + 1,98 = 5,06\ \Omega$
+$\varepsilon = I(R + r)$
+$12 = I(5,06 + 0,2)$ ✓
+$I = 2,28\text{ A}$ ✓ (6)
+**[19]**
+
+---
+
+### QUESTION 9/VRAAG 9
+
+9.1 Y to/na X ✓✓ (2)
+
+9.2 Mechanical/Kinetic to electrical energy. ✓ (1)
+
+9.3 The rms potential difference is the alternating current potential difference which **dissipates/produces the same amount of energy/heating effect** as an equivalent DC potential difference. ✓✓ (2)
+
+9.4 $V_{\text{rms}} = \frac{V_{\text{max}}}{\sqrt{2}}$ ✓
+$= \frac{125}{\sqrt{2}}$ ✓
+$= 88,39\text{ V}$ ✓ (3)
+
+9.5 **OPTION 1:**
+$I_{\text{max}} = \frac{V_{\text{max}}}{R}$ ✓
+$= \frac{125}{42,4}$ ✓
+$= 2,95\text{ A}$ ✓ (3)
+
+9.6 **POSITIVE MARKING FROM 9.5.**
+*   Two complete cycles indicated. ✓
+*   Graph stops at $0,1\text{ s}$ OR one cycle in $0,05\text{ s}$. ✓
+*   Maximum current $(2,94/2,95\text{ A})$ as a positive or negative value correctly indicated. ✓
+*   Correct shape (cosine graph). ✓ (4)
+**[15]**
+
+---
+
+### QUESTION 10/VRAAG 10
+
+10.1 The process whereby **electrons are ejected from a (metal) surface** when **light of suitable frequency is incident on that surface**. ✓✓ (2)
+
+10.2 **OPTION 1:**
+$E = W_0 + K_{\text{max}}$
+$\frac{hc}{\lambda} = hf_0 + \frac{1}{2}mv_{\text{max}}^2$
+$\frac{(6,63 \times 10^{-34})(3 \times 10^8)}{4,7 \times 10^{-7}}$ ✓ $= (6,63 \times 10^{-34})(4,37 \times 10^{14})$ ✓ $+ \frac{1}{2}(9,11 \times 10^{-31})v_{\text{max}}^2$ ✓
+$v_{\text{max}} = 5,41 \times 10^5\text{ m}\cdot\text{s}^{-1}$ ✓ (5)
+
+10.3.1 Higher than/Hoër as ✓ (1)
+
+10.3.2
+*   (Photons of UV light) eject electrons (from the disc/Zn). ✓
+*   The negative charge on the electroscope decreases/becomes zero. ✓
+*   The electrostatic/repulsive force on the foil decreases/becomes zero. ✓ (3)
+
+10.3.3 No/Nee ✓
+(Increasing the intensity increases the number of photons) does not increase the energy of the photon(s) OR photons will still have the same energy OR frequency stays the same/does not increase. ✓ (2)
+**[13]**
+
+**TOTAL/TOTAAL: 150**

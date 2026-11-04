@@ -1,0 +1,534 @@
+# SENIOR CERTIFICATE EXAMINATIONS/SENIORSERTIFIKAAT-EKSAMEN NATIONAL SENIOR CERTIFICATE EXAMINATIONS/NASIONALE SENIORSERTIFIKAAT-EKSAMEN
+
+## MATHEMATICS P2 / WISKUNDE V2
+
+### MARKING GUIDELINES / NASIENRIGLYNE
+
+**2022**
+
+**MARKS: 150**
+
+---
+
+**NOTE:**
+* If a candidate answers a question TWICE, mark only the FIRST attempt.
+* If a candidate has crossed out an attempt at an answer and not redone the question, mark the crossed-out version.
+* Consistent accuracy applies in ALL aspects of the marking guidelines. Stop marking at the second calculation error.
+* Assuming answers/values in order to solve a problem is NOT acceptable.
+
+**LET WEL:**
+* As 'n kandidaat 'n vraag TWEE KEER beantwoord, sien slegs die EERSTE poging na.
+* As 'n kandidaat 'n antwoord van 'n vraag doodtrek en nie oordoen nie, merk die doodgetrekte poging.
+* Volgehoue akkuraatheid word in ALLE aspekte van die nasienriglyne toegepas. Hou op nasien by die tweede berekeningsfout.
+* Aanvaar van antwoorde/waardes om 'n probleem op te los, word NIE toegelaat nie.
+
+---
+
+### GEOMETRY • MEETKUNDE
+
+| S | A mark for a correct statement *(A statement mark is independent of a reason)* <br> 'n Punt vir 'n korrekte bewering *('n Punt vir 'n bewering is onafhanklik van die rede)* |
+|---|---|
+| R | A mark for the correct reason *(A reason mark may only be awarded if the statement is correct)* <br> 'n Punt vir 'n korrekte rede *('n Punt word slegs vir die rede toegeken as die bewering korrek is)* |
+| S/R | Award a mark if statement AND reason are both correct <br> Ken 'n punt toe as die bewering EN rede beide korrek is |
+
+---
+
+### QUESTION / VRAAG 1
+
+1.1 Modal class: $9 < m \le 11$ \
+$\checkmark$ answer (1)
+
+1.2 
+| Mass (in kg) | Frequency | Cumulative frequency |
+| :---: | :---: | :---: |
+| $5 < m \le 7$ | 6 | 6 |
+| $7 < m \le 9$ | 18 | 24 |
+| $9 < m \le 11$ | 21 | 45 |
+| $11 < m \le 13$ | 19 | 64 |
+| $13 < m \le 15$ | 11 | 75 |
+| $15 < m \le 17$ | 4 | 79 |
+| $17 < m \le 19$ | 1 | 80 |
+
+$\checkmark$ adding \
+$\checkmark$ 80 (2)
+
+1.3 
+$\checkmark$ grounding $(5 ; 0)$ \
+$\checkmark$ points \
+$\checkmark$ shape (3)
+
+1.4 Median mass: $10,5\text{ kg}$ \
+$\checkmark\checkmark$ answer (2)
+
+1.5.1 
+$$\bar{x} = \frac{(6 \times 6) + (18 \times 8) + (21 \times 10) + (19 \times 12) + (11 \times 14) + (4 \times 16) + (1 \times 18)}{80}$$
+$$= \frac{854}{80}$$
+$$= 10,68$$
+
+$\checkmark$ 854 \
+$\checkmark$ answer (2) \
+*(Answer only 2/2)*
+
+1.5.2 Learners' bags are heavier than the stipulated international guideline. \
+Estimated mean = $10,68\text{ kg}$ \
+$10\%$ of $80\text{ kg} = 8\text{ kg}$ \
+$10,68\text{ kg} > 8\text{ kg}$ \
+$\checkmark$ answer \
+$\checkmark$ $8\text{ kg}$ (2)
+
+**OR / OF**
+
+Learners' bags are heavier than the stipulated international guideline. \
+$$\text{Estimated mean} = \frac{10,68}{80} \times 100$$
+$$= 13,35\%$$
+$$13,35\% > 10\%$$
+
+$\checkmark$ answer \
+$\checkmark$ $13,35\%$ (2)
+
+---
+
+### QUESTION / VRAAG 2
+
+| Size, in carats, of diamond ($x$) | 0,1 | 0,15 | 0,2 | 0,2 | 0,3 | 0,35 | 0,4 | 0,45 | 0,45 | 0,55 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Price, in rands, of diamond ($y$) | 4 000 | 6 000 | 6 500 | 8 400 | 9 000 | 10 000 | 13 440 | 15 120 | 16 800 | 18 480 |
+
+2.1 $a = 634,382\dots$ \
+$b = 32 189,263\dots$ \
+$\hat{y} = 634,38 + 32189,26x$ \
+$\checkmark a$ \
+$\checkmark b$ \
+$\checkmark$ equation (3) \
+*(Answer only 3/3)*
+
+2.2 $\hat{y} = 634,38 + 32189,26(0,25)$ \
+$= \text{R } 8 681,70$ \
+$\checkmark$ substitution \
+$\checkmark$ answer (2)
+
+**OR / OF** \
+$\hat{y} = \text{R } 8 681,70$ (if using calculator) \
+$\checkmark\checkmark$ answer (2)
+
+2.3 Average price increase $= \text{R } \frac{32189,26}{20}\text{ per } 0,05\text{ carat}$ \
+$= \text{R } 1 609,46\text{ per } 0,05\text{ carat}$ \
+$\checkmark$ divide gradient by 20 \
+$\checkmark$ answer (2)
+
+**OR / OF** \
+Average price increase $= 0,05 \times 32189,26$ \
+$= \text{R } 1 609,46\text{ per } 0,05\text{ carat}$ \
+$\checkmark$ multiply gradient by 0,05 \
+$\checkmark$ answer (2)
+
+**OR / OF** \
+at $0,3$: $\hat{y} = \text{R } 10 291,16$ \
+$\therefore$ Average price increase $= 10 291,16 - 8 681,70$ \
+$= \text{R } 1 609,46\text{ per } 0,05\text{ carat}$ \
+$\checkmark$ Estimated price of a $0,3\text{ carat}$ diamond \
+$\checkmark$ answer (2) \
+*(Answer only 2/2)*
+
+2.4 The point $(0,35 ; 11500)$ is closer to the least squares regression line. \
+$\checkmark$ reason (1)
+
+---
+
+### QUESTION / VRAAG 3
+
+3.1 $m_{AB} = \frac{3 - \frac{1}{2}}{5 - 0}$ \
+$m_{AB} = \frac{1}{2}$ \
+$\checkmark$ substitution \
+$\checkmark$ answer (2) \
+*(Answer only 2/2)*
+
+3.2 $m_{CE} = m_{BA} = \frac{1}{2}$ \
+$-4 = \frac{1}{2}(6) + c \quad \text{OR/OF} \quad y - (-4) = \frac{1}{2}(x - 6)$ \
+$c = -7$ \
+$y = \frac{1}{2}x - 7$ \
+$\checkmark$ gradient \
+$\checkmark$ substitution of E \
+$\checkmark$ answer (3)
+
+3.3.1 $D(0 ; -7)$ \
+$\frac{x_C + 6}{2} = 0 \quad \text{and} \quad \frac{y_C + (-4)}{2} = -7$ \
+$x_C = -6 \quad y_C = -10$ \
+$C(-6 ; -10)$ \
+$\checkmark D(0 ; -7)$ \
+$\checkmark x_C = -6$ \
+$\checkmark y_C = -10$ (3) \
+*(Answer only 3/3)*
+
+3.3.2 $\text{Area }\Delta BCD = \frac{1}{2}(7,5)(6) = 22,5$ \
+$\text{Area }\Delta ABD = \frac{1}{2}(7,5)(5) = 18,75$ \
+$\text{Area }ABCD = 22,5 + 18,75 = 41,25\text{ units}^2$ \
+$\checkmark$ subst of correct base and height into the area formula \
+$\checkmark$ area $\Delta BCD = 22,5$ \
+$\checkmark$ area $\Delta ABD = 18,75$ \
+$\checkmark$ answer (4)
+
+3.4.1 $K(-6 ; -4)$ \
+$\checkmark x_K = -6 \quad \checkmark y_K = -4$ (2)
+
+3.4.2a $KC = 6\text{ units}; KE = 12\text{ units};$ \
+$CE = \sqrt{(6)^2 + (12)^2} \quad [\text{Pythagoras}]$ \
+$CE = \sqrt{180} = 6\sqrt{5} = 13,42$ \
+$\text{Perimeter }\Delta KEC = 6 + 12 + \sqrt{180}$ \
+$= 31,42\text{ units}$ \
+$\checkmark KC = 6\text{ units}$ \
+$\checkmark KE = 12\text{ units}$ \
+$\checkmark CE$ \
+$\checkmark$ answer (4)
+
+3.4.2b $\tan K\hat{C}E = \frac{KE}{KC} = \frac{12}{6} = 2$ \
+$K\hat{C}E = 63,43^\circ$ \
+$\checkmark$ trig ratio \
+$\checkmark \tan K\hat{C}E = 2$ \
+$\checkmark$ answer (3)
+
+**OR / OF** \
+$\sin K\hat{C}E = \frac{KE}{CE} = \frac{12}{\sqrt{180}} = \frac{2\sqrt{5}}{5}$ \
+$K\hat{C}E = 63,43^\circ$ \
+$\checkmark$ trig ratio \
+$\checkmark \sin K\hat{C}E = \frac{12}{\sqrt{180}}$ \
+$\checkmark$ answer (3)
+
+**OR / OF** \
+$m_{CE} = \frac{1}{2}$ \
+$\tan \theta = \frac{1}{2}$ \
+$\theta = 26,57^\circ$ \
+$K\hat{C}E = 90^\circ - 26,57^\circ$ \
+$K\hat{C}E = 63,43^\circ$ \
+$\checkmark \tan \theta = \frac{1}{2}$ \
+$\checkmark \theta = 26,57^\circ$ \
+$\checkmark$ answer (3)
+
+**OR / OF** \
+$KE^2 = KC^2 + CE^2 - 2(KC)(CE)\cos K\hat{C}E$ \
+$(12)^2 = (6)^2 + (\sqrt{180})^2 - 2(6)(\sqrt{180})(\cos K\hat{C}E)$ \
+$\cos K\hat{C}E = \frac{\sqrt{5}}{5}$ \
+$K\hat{C}E = 63,43^\circ$ \
+$\checkmark$ substitution into cosine rule \
+$\checkmark$ trig ratio \
+$\checkmark$ answer (3)
+
+---
+
+### QUESTION / VRAAG 4
+
+4.1.1 $y = x + 1$ \
+$b = a + 1$ \
+$\checkmark b = a + 1$ (1)
+
+4.1.2 $MR^2 = MK^2$ \
+$(a - 6)^2 + (b - 0)^2 = (a - 5)^2 + (b - 7)^2$ \
+$(a - 6)^2 + (a + 1)^2 = (a - 5)^2 + (a + 1 - 7)^2$ \
+$a^2 + 2a + 1 = a^2 - 10a + 25$ \
+$12a = 24$ \
+$a = 2$ \
+$b = 3$ \
+$M(2 ; 3)$ \
+$\checkmark$ equating radii / solving simultaneously \
+$\checkmark$ substitution $b = a + 1$ \
+$\checkmark 12a = 24$ \
+$\checkmark a = 2$ \
+$\checkmark b = 3$ (5)
+
+4.2.1 $(6 - 2)^2 + (0 - 3)^2 = r^2$ \
+$r = 5$ \
+$\checkmark$ substitution R and M \
+$\checkmark r = 5$ (2)
+
+**OR / OF** \
+$(2 - 5)^2 + (3 - 7)^2 = r^2$ \
+$r = 5$ \
+$\checkmark$ substitution K and M \
+$\checkmark r = 5$ (2) \
+*(Answer only 2/2)*
+
+4.2.2 $T(-2 ; 0)$ \
+$TR = 8\text{ units} \quad [\text{line from centre }\perp\text{ to chord}]$ \
+$\checkmark T(-2 ; 0)$ \
+$\checkmark$ answer (2)
+
+**OR / OF** \
+$M(2 ; 3), \quad F(a ; 0)$ \
+$FR = 4\text{ units}$ \
+$TR = 8\text{ units} \quad [\text{line from centre }\perp\text{ to chord}]$ \
+$\checkmark 4\text{ units}$ \
+$\checkmark$ answer (2)
+
+**OR / OF** \
+$(x - 2)^2 + (0 - 3)^2 = 25$ \
+$x^2 - 4x + 4 + 9 = 25$ \
+$x^2 - 4x - 12 = 0$ \
+$(x - 6)(x + 2) = 0$ \
+$x = 6\text{ or }x = -2$ \
+$TR = 8\text{ units}$ \
+$\checkmark x$ values \
+$\checkmark$ answer (2) \
+*(Answer only 2/2)*
+
+4.3 $m_{\text{radius}} = \frac{7 - 3}{5 - 2} = \frac{4}{3}$ \
+$m_{\text{tangent}} = -\frac{3}{4}$ \
+$7 = -\frac{3}{4}(5) + c \quad \text{OR/OF} \quad y - 7 = -\frac{3}{4}(x - 5)$ \
+$c = \frac{43}{4}$ \
+$y = -\frac{3}{4}x + \frac{43}{4}$ \
+$\checkmark$ substitution \
+$\checkmark m_{\text{radius}} = \frac{4}{3}$ \
+$\checkmark m_{\text{tangent}} = -\frac{3}{4}$ \
+$\checkmark$ substitution \
+$\checkmark$ answer (5)
+
+4.4.1 $N(2 ; -2)$ \
+$\checkmark x_N = 2 \quad \checkmark y_N = -2$ (2)
+
+4.4.2 $(-2 - 2)^2 + (0 + 2)^2 = r^2$ \
+$r^2 = 20$ \
+$(x - 2)^2 + (y + 2)^2 = 20$ \
+$\checkmark$ substitution \
+$\checkmark r^2 = 20$ \
+$\checkmark$ answer (3)
+
+---
+
+### QUESTION / VRAAG 5
+
+5.1.1 $OP = \sqrt{(-7)^2 + (4)^2}$ \
+$= \sqrt{65}$ \
+$\checkmark$ substitution \
+$\checkmark$ answer (2) \
+*(Answer only 2/2)*
+
+5.1.2(a) $\tan \theta = \frac{4}{-7}$ \
+$\checkmark$ answer (1)
+
+5.1.2(b) $\cos(\theta - 180^\circ) = -\cos \theta$ \
+$= \frac{7}{\sqrt{65}}$ \
+$\checkmark$ reduction \
+$\checkmark$ answer (2)
+
+5.2 $\sin x \cos x + \sin x = 3\cos^2 x + 3\cos x$ \
+$\sin x \cos x + \sin x - 3\cos^2 x - 3\cos x = 0$ \
+$\sin x(\cos x + 1) - 3\cos x(\cos x + 1) = 0$ \
+$(\cos x + 1)(\sin x - 3\cos x) = 0$ \
+$\cos x = -1 \quad \text{or} \quad \sin x = 3\cos x$ \
+$\tan x = 3$ \
+$x = 180^\circ + k.360^\circ \quad \text{or} \quad x = 71,57^\circ + k.180^\circ ; k \in \mathbb{Z}$ \
+$\checkmark \text{RHS} = 0$ \
+$\checkmark$ grouping \
+$\checkmark$ factors \
+$\checkmark$ both equations \
+$\checkmark x = 180^\circ$ \
+$\checkmark x = 71,57^\circ$ \
+$\checkmark + k.180^\circ ; k \in \mathbb{Z}$ (7)
+
+**OR / OF** \
+$\sin x \cos x + \sin x = 3\cos^2 x + 3\cos x$ \
+$\sin x \cos x + \sin x - 3\cos^2 x - 3\cos x = 0$ \
+$\sin x(\cos x + 1) - 3\cos x(\cos x + 1) = 0$ \
+$(\cos x + 1)(\sin x - 3\cos x) = 0$ \
+$\cos x = -1 \quad \text{or} \quad \sin x = 3\cos x$ \
+$\tan x = 3$ \
+$x = 180^\circ + k.360^\circ \quad \text{or} \quad x = 71,57^\circ + k.360^\circ \quad \text{or} \quad x = 251,57^\circ + k.360^\circ ; k \in \mathbb{Z}$ \
+$\checkmark \text{RHS} = 0$ \
+$\checkmark$ grouping \
+$\checkmark$ factors \
+$\checkmark$ both equations \
+$\checkmark x = 180^\circ$ \
+$\checkmark x = 71,57^\circ \text{ and } 251,57^\circ$ \
+$\checkmark + k.360^\circ ; k \in \mathbb{Z}$ (7)
+
+5.3.1 $\text{LHS} = \frac{\sin 3x}{1 - \cos 3x} \times \frac{1 + \cos 3x}{1 + \cos 3x}$ \
+$= \frac{(\sin 3x)(1 + \cos 3x)}{(1 - \cos 3x)(1 + \cos 3x)}$ \
+$= \frac{(\sin 3x)(1 + \cos 3x)}{1 - \cos^2 3x}$ \
+$= \frac{(\sin 3x)(1 + \cos 3x)}{\sin^2 3x}$ \
+$= \frac{1 + \cos 3x}{\sin 3x} = \text{RHS}$ \
+$\checkmark$ multiply by "1" \
+$\checkmark 1 - \cos^2 3x$ \
+$\checkmark$ square identity (3)
+
+**OR / OF** \
+$\text{LHS} = \frac{\sin 3x}{1 - \cos 3x} \times \frac{\sin 3x}{\sin 3x}$ \
+$= \frac{\sin^2 3x}{\sin 3x(1 - \cos 3x)}$ \
+$= \frac{1 - \cos^2 3x}{\sin 3x(1 - \cos 3x)}$ \
+$= \frac{(1 - \cos 3x)(1 + \cos 3x)}{\sin 3x(1 - \cos 3x)}$ \
+$= \frac{1 + \cos 3x}{\sin 3x} = \text{RHS}$ \
+$\checkmark$ multiply by "1" \
+$\checkmark$ square identity \
+$\checkmark$ factors (3)
+
+5.3.2 undefined when $\sin 3x = 0 \quad \text{and} \quad 1 - \cos 3x = 0$ \
+$3x = 0^\circ \quad \text{or} \quad 3x = 180^\circ \quad \text{and} \quad 3x = 0^\circ \quad \text{or} \quad 3x = 360^\circ$ \
+$x = 0^\circ \quad \text{or} \quad x = 60^\circ$ \
+$\checkmark \sin 3x = 0 \quad \text{and} \quad 1 - \cos 3x = 0$ \
+$\checkmark 0^\circ \quad \checkmark 60^\circ$ (3)
+
+---
+
+### QUESTION / VRAAG 6
+
+6.1 $\frac{\sin 10^\circ}{\cos 440^\circ} + \tan(360^\circ - \theta).\sin 2\theta$ \
+$= \frac{\sin 10^\circ}{\cos 80^\circ} - \tan \theta(2\sin \theta \cos \theta)$ \
+$= \frac{\sin 10^\circ}{\sin 10^\circ} - \frac{\sin \theta}{\cos \theta}(2\sin \theta \cos \theta)$ \
+$= 1 - 2\sin^2 \theta$ \
+$= \cos 2\theta$ \
+$\checkmark -\tan \theta$ \
+$\checkmark \cos 80^\circ$ \
+$\checkmark$ co-ratio \
+$\checkmark$ double angle \
+$\checkmark$ quotient identity \
+$\checkmark$ answer (6)
+
+6.2.1 $\sin(60^\circ + 2x) + \sin(60^\circ - 2x) = k \cos 2x$ \
+$(\sin 60^\circ \cos 2x + \cos 60^\circ \sin 2x) + (\sin 60^\circ \cos 2x - \cos 60^\circ \sin 2x) = k \cos 2x$ \
+$2\sin 60^\circ \cos 2x = k \cos 2x$ \
+$2\left(\frac{\sqrt{3}}{2}\right)\cos 2x = k \cos 2x$ \
+$\therefore k = \sqrt{3}$ \
+$\checkmark$ both expansions correct \
+$\checkmark$ special $\angle\text{s}$ \
+$\checkmark$ answer (3)
+
+6.2.2 $\tan 60^\circ [\sin(60^\circ + 2x) + \sin(60^\circ - 2x)]$ \
+$= \tan 60^\circ [k \cos 2x]$ \
+$= \sqrt{3}(\sqrt{3} \cos 2x)$ \
+$= 3(2\cos^2 x - 1)$ \
+$= 3(2(\sqrt{t})^2 - 1)$ \
+$= 6(\sqrt{t})^2 - 3$ \
+$= 6t - 3$ \
+$\checkmark$ special $\angle$ \
+$\checkmark$ double $\angle\text{s}$ \
+$\checkmark$ answer i.t.o $t$ (3)
+
+---
+
+### QUESTION / VRAAG 7
+
+7.1 $A\left(0 ; \frac{1}{2}\right) \quad B\left(0 ; -\frac{1}{2}\right)$ \
+$AB = \frac{1}{2} - \left(-\frac{1}{2}\right) = 1\text{ unit}$ \
+$\checkmark y\text{-values}$ \
+$\checkmark$ answer (2) \
+*(Answer only 2/2)*
+
+7.2 Range of $f : y \in \left[-\frac{1}{2} ; \frac{1}{2}\right]$ \
+Range of $3f(x) + 2 : y \in \left[\frac{1}{2} ; \frac{3}{2}\right] \quad \text{OR/OF} \quad \frac{1}{2} \le y \le \frac{3}{2}$ \
+$\checkmark$ critical values \
+$\checkmark$ answer (2)
+
+7.3 $x = 90^\circ$ \
+$\checkmark\checkmark x = 90^\circ$ (2)
+
+7.4.1 $x \in (30^\circ ; 90^\circ) \cup (210^\circ ; 240^\circ]$ \
+$\text{OR/OF} \quad 30^\circ < x < 90^\circ \quad \text{or} \quad 210^\circ < x \le 240^\circ$ \
+$\checkmark x \in (30^\circ ; 90^\circ) \quad \checkmark (210^\circ ; 240^\circ]$ \
+$(\text{OR } \checkmark 30^\circ < x < 90^\circ \quad \checkmark 210^\circ < x \le 240^\circ)$ (2)
+
+7.4.2 $x \in (-55^\circ ; 125^\circ)$ \
+$\text{OR/OF} \quad -55^\circ < x < 125^\circ$ \
+$\checkmark$ critical values \
+$\checkmark$ answer (2)
+
+---
+
+### QUESTION / VRAAG 8
+
+8.1 $\frac{0,5}{AB} = \sin 15^\circ$ \
+$AB = \frac{0,5}{\sin 15^\circ}$ \
+$AB = 1,93\text{ m}$ \
+$\checkmark$ trig ratio \
+$\checkmark$ answer (2) \
+*(Answer only 2/2)*
+
+8.2 $BE^2 = AB^2 + AE^2 - 2(AB)(AE)\cos B\hat{A}E$ \
+$BE^2 = (1,93)^2 + (0,915)^2 - 2(1,93)(0,915)(\cos 120^\circ)$ \
+$BE = 2,52\text{ m}$ \
+$\checkmark$ correct use of cosine rule \
+$\checkmark$ substitution \
+$\checkmark$ answer (3)
+
+8.3 $BF = FD = \frac{5}{7}(2,52) = 1,80\text{ m}$ \
+$\text{Area }\Delta BFD = \frac{1}{2}(BF)(FD)\sin B\hat{F}D$ \
+$= \frac{1}{2}(1,8)(1,8)(\sin 75^\circ)$ \
+$= 1,56\text{ m}^2$ \
+$\checkmark BF$ \
+$\checkmark$ correct substitution into the area rule \
+$\checkmark$ answer (3)
+
+---
+
+### QUESTION / VRAAG 9
+
+9.1.1 $D\hat{G}F = \hat{E}_4 = 72^\circ \quad [\text{ext }\angle\text{ of cyclic quad} / \text{buite }\angle\text{ v kvh}]$ \
+$\checkmark \text{S} \quad \checkmark \text{R}$ (2)
+
+9.1.2 $\hat{G}_2 = 72^\circ - 16^\circ = 56^\circ$ \
+$\hat{T} = \hat{G}_2 = 56^\circ \quad [\angle\text{s in the same seg} / \angle\text{e in dies. }\odot\text{ segment}]$ \
+$\checkmark \text{S} \quad \checkmark \text{S}/\text{R}$ (2)
+
+9.1.3 $\hat{F}_1 = \hat{E}_4 = 72^\circ \quad [\text{alt }\angle\text{s}; DE \parallel GF / \text{verv. }\angle\text{e}; DE \parallel GF]$ \
+$\therefore E\hat{G}F = 52^\circ \quad [\text{sum of }\angle\text{s in }\Delta / \angle\text{e van }\Delta]$ \
+$\checkmark \text{S}/\text{R} \quad \checkmark \text{S}$ (2)
+
+**OR / OF** \
+$\hat{E}_1 = 56^\circ \quad [\text{alt }\angle\text{s}; DE \parallel GF / \text{verv. }\angle\text{e}; DE \parallel GF]$ \
+$\therefore E\hat{G}F = 52^\circ \quad [\angle\text{s on a str. line} / \angle\text{e op 'n reguitlyn}]$ \
+$\checkmark \text{S}/\text{R} \quad \checkmark \text{S}$ (2)
+
+9.2.1 $NP = PL = 16 \quad [\text{diag of }\parallel\text{m} / \text{hoeklyne van }\parallel\text{m}]$ \
+$PT = 4$ \
+$NP : PT = 16 : 4$ \
+$= 4 : 1$ \
+$\checkmark \text{S} \quad \checkmark \text{R}$ \
+$\checkmark \text{S}$ \
+$\checkmark$ answer (4)
+
+9.2.2 $NM : MS = 4 : 1$ \
+$NP : PT = NM : MS \quad [\text{line divides two sides of }\Delta\text{ in prop} / \text{Lyn verdeel 2 sye v }\Delta\text{ eweredig}]$ \
+$KM \parallel RS$ \
+$\checkmark \text{S} \quad \checkmark \text{R}$ (2)
+
+**OR / OF** \
+$[\text{converse prop theorem} / \text{omgekeerde lyn }\parallel\text{ een sy v }\Delta]$
+
+9.2.3 $\frac{RL}{KL} = \frac{TL}{LP} \quad [\text{prop theorem; } KM \parallel RS \text{ OR line } \parallel \text{ one side of }\Delta / \text{Lyn } \parallel \text{ een sy v }\Delta]$ \
+$\frac{RL}{21} = \frac{12}{16}$ \
+$RL = \frac{12 \times 21}{16}$ \
+$= 15,75$ \
+$\checkmark \text{S} \quad \checkmark \text{R}$ \
+$\checkmark \text{S}$ \
+$\checkmark$ answer (4)
+
+**OR / OF** \
+$NM : MS = 4 : 1$ \
+$KR = MS = 5,25 \quad [\text{opp side of }\parallel\text{m} / \text{teenoorst. sye van }\parallel\text{m}]$ \
+$KL = NM = 21$ \
+$RL + 5,25 = 21$ \
+$RL = 15,75$ \
+$\checkmark \text{S} \quad \checkmark \text{R}$ \
+$\checkmark \text{S}$ \
+$\checkmark$ answer (4)
+
+---
+
+### QUESTION / VRAAG 10
+
+10.1 Constr: Let $M$ and $N$ lie on $AB$ and $AC$ respectively such that $AM = DE$ and $AN = DF$. Draw $MN$. \
+Proof: \
+In $\Delta AMN$ and $\Delta DEF$ \
+$AM = DE \quad [\text{Constr} / \text{Konstruksie}]$ \
+$AN = DF \quad [\text{Constr} / \text{Konstruksie}]$ \
+$\hat{A} = \hat{D} \quad [\text{Given} / \text{Gegee}]$ \
+$\therefore \Delta AMN \equiv \Delta DEF \quad [s, \angle, s]$ \
+$\therefore A\hat{M}N = \hat{E} = \hat{B}$ \
+$MN \parallel BC \quad [\text{corresp }\angle\text{'s are equal} / \text{ooreenk. }\angle\text{e gelyk}]$ \
+$\frac{AB}{AM} = \frac{AC}{AN} \quad [\text{line } \parallel \text{ one side of }\Delta \text{ OR/OF prop theorem; } MN \parallel BC / \text{Lyn } \parallel \text{ een sy v }\Delta]$ \
+$\therefore \frac{AB}{DE} = \frac{AC}{DF} \quad [AM = DE \text{ and } AN = DF]$ \
+$\checkmark \text{Constr}$ \
+$\checkmark \text{S} \quad \checkmark \text{R}$ \
+$\checkmark \text{S}/\text{R}$ \
+$\checkmark \text{S} \quad \checkmark \text{R}$ (6)
+
+10.2.1(a) $F\hat{C}O = 90^\circ \quad [\text{tan} \perp \text{ radius} / \text{raaklyn} \perp \text{ radius}]$ \
+$\hat{F}_1 = 90^\circ \quad [BF \perp EC]$ \
+$\therefore

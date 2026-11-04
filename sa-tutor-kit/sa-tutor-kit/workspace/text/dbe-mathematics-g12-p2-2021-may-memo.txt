@@ -1,0 +1,186 @@
+# MATHEMATICS P2 / WISKUNDE V2
+## MARKING GUIDELINES / NASIENRIGLYNE
+### SENIOR CERTIFICATE EXAMINATIONS / NATIONAL SENIOR CERTIFICATE EXAMINATIONS - 2021
+
+---
+
+## QUESTION/VRAAG 1
+
+1.1 
+$$26 \quad 13 \quad 3 \quad 18 \quad 12 \quad 34 \quad 24 \quad 58 \quad 16 \quad 10 \quad 15 \quad 69 \quad 20 \quad 17 \quad 40$$
+
+| 1.1.1(a) | $\bar{x} = \frac{375}{15}$ <br> $\bar{x} = 25\text{ MB}$ | \begin{tabular}{l} $\checkmark 375$ \\ $\checkmark \text{ answer}$ \\ \small{\text{Answer only: Full marks}} \end{tabular} | (2) |
+| :--- | :--- | :--- | :--- |
+| 1.1.1(b) | $\sigma = 17,65\text{ MB}$ | $\checkmark \text{answer}$ | (1) |
+| 1.1.2 | $25 + 17,65 = 42,65$ <br> $\therefore 2\text{ days}$ | \begin{tabular}{l} $\checkmark 42,65$ \\ $\checkmark 2$ \end{tabular} | (2) |
+| 1.1.3 | Overall $\bar{x} = \frac{80}{100} \times 25$ <br> $= 20\text{ MB}$ <br> $\frac{375 + x}{30} = 20$ <br> $x = 600 - 375$ <br> $= 225$ <br> maximum total amount of data that Sam must use for <br> the remainder of the month: $\mathbf{225\text{ MB}}$ | \begin{tabular}{l} $\checkmark \text{ Overall } \bar{x} = 20$ \\ $\checkmark \frac{375 + x}{30} = 20$ \\ $\checkmark \text{ answer}$ \end{tabular} | (3) |
+
+1.2
+
+| Wind speed in km/h ($x$) | 2 | 6 | 15 | 20 | 25 | 17 | 11 | 24 | 13 | 22 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Temperature in °C ($y$) | 28 | 26 | 22 | 22 | 16 | 20 | 24 | 19 | 26 | 19 |
+
+| 1.2.1 | $a = 29,35$ <br> $b = -0,46$ <br> $\hat{y} = 29,35 - 0,46x$ | \begin{tabular}{l} $\checkmark a$ \\ $\checkmark b$ \\ $\checkmark \text{ equation}$ \end{tabular} | (3) |
+| :--- | :--- | :--- | :--- |
+| 1.2.2 | $y = 25,20\text{ °C}$ (calculator) <br><br> **OR** <br><br> $\hat{y} = 29,35 - 0,46(9)$ <br> $y = 25,21\text{ °C}$ | $\checkmark\checkmark\text{ answer}$ <br><br> $\checkmark \text{ substitution}$ <br> $\checkmark \text{ answer}$ | (2) |
+| 1.2.3 | $b < 0$, indicating that as the wind speed increases the temperature decreases. | $\checkmark \text{ interpretation}$ | (1) |
+
+---
+
+## QUESTION/VRAAG 2
+
+| Number of days absent | Number of learners | Cumulative frequency |
+| :---: | :---: | :---: |
+| $0 \le x < 5$ | 34 | 34 |
+| $5 \le x < 10$ | 45 | 79 |
+| $10 \le x < 15$ | 98 | 177 |
+| $15 \le x < 20$ | 43 | 220 |
+| $20 \le x < 25$ | 7 | 227 |
+| $25 \le x < 30$ | 3 | 230 |
+
+| 2.1 | Modal class: $10 \le x < 15$ | $\checkmark \text{ answer}$ | (1) |
+| :--- | :--- | :--- | :--- |
+| 2.2 | 177 learners | $\checkmark \text{ answer}$ | (1) |
+| 2.3 | 230 learners | $\checkmark \text{ answer}$ | (1) |
+| 2.4 | **Ogive** <br> *(Graph showing cumulative frequency vs number of days absent)* | \begin{tabular}{l} $\checkmark \text{ grounding at }(0;0)$ \\ $\checkmark \text{ shape}$ \\ \checkmark \text{ upper limits} \\ $\checkmark \text{ All other points}$ \\ $\quad\text{correct}$ \end{tabular} | (4) |
+| 2.5 | The median is at position 115. <br> $\therefore \text{value of median is } 12\text{ days (accept } 11 - 14\text{)}$ <br> \small{\text{Answer only: Full marks}} | \begin{tabular}{l} $\checkmark \text{ reading off at } 115$ \\ $\checkmark \text{ answer}$ \end{tabular} | (2) |
+
+---
+
+## QUESTION/VRAAG 3
+
+```
+                y
+                |
+           R    |
+               /|\
+              / | \
+             /  |  \ N(8 ; 0)
+            /   |  / \
+           /  L | /   \
+          /     |/     \ M
+         /      T     / \
+        /     / P    /   \ Q(4 ; –8)
+       /    /       /     \
+      /   /        /       \
+     /  /         /         \
+    / /          /           \
+   /             S(0 ; –16)   \
+  ------------------------------ x
+```
+
+| 3.1 | $\text{M}\left(\frac{4 + 8}{2}; \frac{-8 + 0}{2}\right)$ <br> $\text{M}(6; -4)$ | \begin{tabular}{l} $\checkmark x_{\text{M}}$ \\ $\checkmark y_{\text{M}}$ \end{tabular} | (2) |
+| :--- | :--- | :--- | :--- |
+| 3.2 | $m_{\text{NS}} = \frac{0 - (-16)}{8 - 0}\text{ or } m_{\text{NQ}} = \frac{0 - (-8)}{8 - 4}\text{ or } m_{\text{QS}} = \frac{-8 - (-16)}{4 - 0}$ <br> $= 2$ | \begin{tabular}{l} $\checkmark \text{ subst } \text{N}\text{ and }\text{Q}\text{ or }\text{N}$ \\ $\quad\text{and }\text{Q}\text{ or }\text{Q}\text{ and }\text{S}\text{ into}$ \\ $\quad\text{gradient formula}$ \\ $\checkmark \text{ answer}$ \end{tabular} | (2) |
+| 3.3 | $m_{\text{LQ}} \times 2 = -1 \quad [\text{LQ} \perp \text{NS}]$ <br> $\therefore m_{\text{LQ}} = -\frac{1}{2}$ <br> $-8 = -\frac{1}{2}(4) + c \quad \mathbf{OR} \quad y + 8 = -\frac{1}{2}(x - 4)$ <br> $c = -6 \quad y + 8 = -\frac{1}{2}x + 2$ <br> $\therefore y = -\frac{1}{2}x - 6$ | \begin{tabular}{l} $\checkmark m_{\text{LQ}}$ \\ $\checkmark \text{ substitution of }\text{Q}$ \\ $\checkmark \text{ calculation of } c \text{ or}$ \\ $\quad\text{simplification}$ \end{tabular} | (3) |
+| 3.4 | $\text{OS}$ is the radius of circle passing through $\text{S}$ <br> $(x - 0)^2 + (y - 0)^2 = (16)^2$ <br> $x^2 + y^2 = 256$ <br> \small{\text{Answer only: Full marks}} | \begin{tabular}{l} $\checkmark \text{ identifying radius} = 16$ \\ $\checkmark \text{ Equation of circle}$ \end{tabular} | (2) |
+
+---
+
+```
+Mathematics P2/Wiskunde V2              6                          DBE/2021
+                               SC/SS/NSC/NSS – Marking Guidelines
+```
+
+| 3.5 | $m_{\text{RM}} = m_{\text{LQ}} = -\frac{1}{2} \quad [\text{RM} \parallel \text{LQ}]$ <br> $-4 = -\frac{1}{2}(6) + c \quad \mathbf{OR} \quad y + 4 = -\frac{1}{2}(x - 6)$ <br> $c = -1 \quad y + 4 = -\frac{1}{2}x + 3$ <br> $\therefore y = -\frac{1}{2}x - 1$ <br> $\text{T}(0; -1)$ | \begin{tabular}{l} $\checkmark m_{\text{RM}}$ \\ $\checkmark \text{ substitution of}$ \\ $\quad\text{M}(6; -4)$ \\ $\checkmark \text{ coordinates of T}$ \end{tabular} | (3) |
+| :--- | :--- | :--- | :--- |
+| 3.6 | $\text{T}(0; -1), \text{P}(0; -6)\text{ and }\text{S}(0; -16)$ <br> $\therefore \text{PS} = 10\text{ units and }\text{TS} = 15\text{ units}$ <br> $\frac{\text{LS}}{\text{RS}} = \frac{\text{PS}}{\text{TS}} = \frac{2}{3} \quad \begin{array}{l} [\text{prop theorem; RM} \parallel \text{LP}] \\ \text{OR } [\text{line} \parallel \text{ one side of } \\ \Delta / \text{lyn} \parallel \text{ een sy v } \Delta] \end{array}$ <br> **OR** <br> $\text{M}(6; -4), \text{Q}(4; -8)\text{ and }\text{S}(0; -16)$ <br> $\text{MS} = \sqrt{180} = 6\sqrt{5}\text{ and }\text{QS} = \sqrt{80} = 4\sqrt{5}$ <br> $\frac{\text{LS}}{\text{RS}} = \frac{\text{QS}}{\text{MS}} = \frac{2}{3} \quad \begin{array}{l} [\text{prop theorem; RM} \parallel \text{LQ}] \\ \text{OR } [\text{line} \parallel \text{ one side of } \\ \Delta / \text{lyn} \parallel \text{ een sy v } \Delta] \end{array}$ <br> \small{\text{Answer only: Full marks}} | \begin{tabular}{l} $\checkmark \text{PS} = 10\text{ units}$ \\ $\checkmark \text{TS} = 15\text{ units}$ \\ $\checkmark \text{ answer}$ \\ \\ \\ $\checkmark \text{MS} = 6\sqrt{5}\text{ units}$ \\ $\checkmark \text{QS} = 4\sqrt{5}\text{ units}$ \\ $\checkmark \text{ answer}$ \end{tabular} | (3) |
+| 3.7 | $\text{area of PTMQ} = \text{area of }\Delta\text{TSM} - \text{area of }\Delta\text{PSQ}$ <br> $= \frac{1}{2}.\text{ST}.h_{\text{M}} - \frac{1}{2}.\text{PS}.h_{\text{Q}}$ <br> $= \frac{1}{2}(15)(6) - \frac{1}{2}(10)(4)$ <br> $= 45 - 20$ <br> $= 25\text{ square units}$ <br> **OR** <br> $\text{TM} = \sqrt{45} = 3\sqrt{5} = 6,71 \quad \text{MQ} = \sqrt{20} = 2\sqrt{5} = 4,47 \quad \text{PQ} = \sqrt{20} = 2\sqrt{5} = 4,47$ <br> $\text{area of trapezium PTMQ} = \frac{1}{2}(3\sqrt{5} + 2\sqrt{5})(2\sqrt{5})$ <br> $= \frac{1}{2}(5\sqrt{5})(2\sqrt{5})$ <br> $= 25\text{ square units}$ <br> **OR** <br> $\text{MQ} = \sqrt{20} = 2\sqrt{5}, \quad \text{PQ} = \sqrt{20} = 2\sqrt{5}, \quad \text{TP} = 5$ <br> $\text{area of PTMQ} = \text{area of }\Delta\text{MTP} + \text{area of }\Delta\text{PQM}$ <br> $\text{area of PTMQ} = \frac{1}{2}(5)\times 6 + \frac{1}{2}(2\sqrt{5})(2\sqrt{5})$ <br> $\text{area }\Delta\text{MTP} = 10, \quad \text{area }\Delta\text{PQM} = 15$ <br> $\text{area of PTMQ} = 10 + 15 = 25$ | \begin{tabular}{l} $\checkmark \text{ area of }\Delta\text{TSM} - \text{area of }\Delta\text{PSQ}$ \\ $\checkmark \text{ area }\Delta\text{TSM} = 45$ \\ $\checkmark \text{ area }\Delta\text{PSQ} = 20$ \\ $\checkmark \text{ answer}$ \\ \\ \\ $\checkmark \text{TM} = 3\sqrt{5}, \text{MQ} = 2\sqrt{5}, \text{PQ} = 2\sqrt{5}$ \\ $\checkmark \text{ area of trapezium} = \frac{1}{2}(\text{sum of }\parallel\text{sides})(\text{height})$ \\ $\checkmark \text{ substitute into formula}$ \\ $\checkmark \text{ answer}$ \\ \\ \\ $\checkmark \text{ area of }\Delta\text{MTP} + \text{area of }\Delta\text{PQM}$ \\ $\checkmark \text{ area }\Delta\text{MTP} = 10$ \\ $\checkmark \text{ area }\Delta\text{PQM} = 15$ \\ $\checkmark \text{ answer}$ \end{tabular} | (4) |
+
+---
+
+## QUESTION/VRAAG 4
+
+```
+              y
+              |  W
+              | / \
+              |/   \
+              |     B
+              | P(–3 ; 4)
+              |/    \
+             /|      C
+            / |     /
+           /  | V(k ; 1)
+          /   |/
+         T    O-------- x
+         \   /
+          \ /
+           a
+```
+
+| 4.1 | $\text{PV} = r = \sqrt{10}$ <br> $\text{PV} = \sqrt{(k - (-3))^2 + (1 - 4)^2} = \sqrt{10}$ <br> $(\text{PV})^2 = (k - (-3))^2 + (1 - 4)^2 = 10$ <br> $k^2 + 6k + 9 + 9 = 10 \quad \mathbf{OR} \quad (k + 3)^2 + 9 = 10$ <br> $k^2 + 6k + 8 = 0 \quad (k + 3)^2 = 1$ <br> $(k + 4)(k + 2) = 0 \quad k + 3 = 1 \text{ or } k + 3 = -1$ <br> $k = -4 \text{ or } k = -2$ <br> $\therefore k = -2$ | \begin{tabular}{l} $\checkmark \text{PV} = r = \sqrt{10}$ \\ $\checkmark \text{ substitution into}$ \\ $\quad\text{distance formula}$ \\ $\checkmark \text{ standard form}$ \\ $\checkmark \text{ factors}$ \\ $\checkmark \text{ answer}$ \end{tabular} | (5) |
+| :--- | :--- | :--- | :--- |
+| 4.2 | $x^2 + 6x + y^2 - 8y + 15 = 0$ <br> $y\text{-intercepts: } (0)^2 + 6(0) + y^2 - 8y + 15 = 0$ <br> $(y - 3)(y - 5) = 0$ <br> $y_{\text{C}} = 3 \text{ or } y_{\text{B}} = 5$ <br> $\therefore \text{BC} = 2\text{ units}$ | \begin{tabular}{l} $\checkmark x = 0$ \\ $\checkmark \text{ factors}$ \\ $\checkmark \text{ both values}$ \\ $\checkmark \text{ answer}$ \end{tabular} | (4) |
+
+---
+
+```
+Mathematics P2/Wiskunde V2              9                          DBE/2021
+                               SC/SS/NSC/NSS – Marking Guidelines
+```
+
+| 4.3.1 | $m_{\text{TC}} = \frac{3 - 1}{0 - (-2)}$ <br> $= 1$ <br> $\tan\alpha = 1$ <br> $\therefore \alpha = 45^\circ$ <br> **OR** <br> $y = mx + 3$ <br> $1 = m(-2) + 3$ <br> $m_{\text{TC}} = 1$ <br> $\tan\alpha = 1$ <br> $\therefore \alpha = 45^\circ$ | \begin{tabular}{l} $\checkmark \text{ substitution into}$ \\ $\quad\text{gradient formula}$ \\ $\checkmark \tan\alpha = 1$ \\ $\checkmark \text{ answer}$ \\ \\ \\ $\checkmark \text{ substitution into}$ \\ $\quad\text{equation of a line}$ \\ $\checkmark \tan\alpha = 1$ \\ $\checkmark \text{ answer}$ \end{tabular} | (3) |
+| :--- | :--- | :--- | :--- |
+| 4.3.2 | $\hat{\text{B}}_{\text{CV}} = 135^\circ \quad [\text{ext }\angle\text{ of }\Delta]$ <br> $\therefore \hat{\text{V}}\text{W}\text{B} = 45^\circ \quad [\text{opp }\angle\text{s of cyclic quad}]$ <br> **OR** <br> $\hat{\text{T}}\hat{\text{C}}\text{O} = 45^\circ \quad [\angle\text{s of }\Delta]$ <br> $\therefore \hat{\text{V}}\text{W}\text{B} = 45^\circ \quad [\text{ext }\angle\text{s of cyclic quad}]$ <br> \small{\text{Answer only: Full marks}} | \begin{tabular}{l} $\checkmark \hat{\text{B}}_{\text{CV}} = 135^\circ$ \\ $\checkmark \text{ answer}$ \\ \\ \\ $\checkmark \hat{\text{T}}\hat{\text{C}}\text{O} = 45^\circ$ \\ $\checkmark \text{ answer}$ \end{tabular} | (2) |
+| 4.4.1 | $\text{Q}(-3; -2)$ | $\checkmark x_{\text{Q}} \quad \checkmark y_{\text{Q}}$ | (2) |
+| 4.4.2 | $(x + 3)^2 + (y + 2)^2 = 10$ | $\checkmark \text{LHS} \quad \checkmark \text{RHS}$ | (2) |
+| 4.4.3 | $x = -2 \text{ or } x = -4$ | $\checkmark x = -2 \quad \checkmark x = -4$ | (2) |
+
+---
+
+## QUESTION/VRAAG 5
+
+| 5.1 | $\tan(-x).\cos x.\sin(x - 180^\circ) - 1$ <br> $= -\tan x.\cos x.\sin(-(180^\circ - x)) - 1$ <br> $= -\frac{\sin x}{\cos x}.\cos x.(-\sin x) - 1$ <br> $= \sin^2 x - 1$ <br> $= -\cos^2 x$ | \begin{tabular}{l} $\checkmark -\tan x$ \\ $\checkmark -\sin x \quad \checkmark -\frac{\sin x}{\cos x}$ \\ $\checkmark \sin^2 x - 1$ \\ $\checkmark \text{ answer}$ \end{tabular} | (5) |
+| :--- | :--- | :--- | :--- |
+| 5.2.1 | $\cos 215^\circ$ <br> $= -\cos 35^\circ$ <br> $= -m$ | \begin{tabular}{l} $\checkmark \text{ reduction}$ \\ $\checkmark \text{ answer}$ \end{tabular} | (2) |
+| 5.2.2 | $\sin 20^\circ$ <br> $= \cos 70^\circ$ <br> $= \cos 2(35^\circ)$ <br> $= 2\cos^2 35^\circ - 1$ <br> $= 2m^2 - 1$ <br> **OR** <br> $= \sin (55^\circ - 35^\circ)$ <br> $= \sin 55^\circ\cos 35^\circ - \cos 55^\circ\sin 35^\circ$ <br> $= m.m - \sqrt{1 - m^2}.\sqrt{1 - m^2}$ <br> $= m^2 - (1 - m^2)$ <br> $= 2m^2 - 1$ | \begin{tabular}{l} $\checkmark \text{ co-function}$ \\ $\checkmark \text{ double angle}$ \\ $\quad\text{expansion}$ \\ $\checkmark \text{ answer in terms of } m$ \\ \\ \\ $\checkmark \text{ compound angle}$ \\ $\quad\text{expansion}$ \\ $\checkmark \cos 55^\circ = \sqrt{1 - m^2} \text{ or}$ \\ $\quad\sin 35^\circ = \sqrt{1 - m^2}$ \\ $\checkmark \text{ answer in terms of } m$ \end{tabular} | (3) |
+| 5.3 | $\cos 4x.\cos x + \sin 4x.\sin x = -0,7$ <br> $\cos(4x - x) = -0,7$ <br> $\text{ref }\angle = 45,57\dots^\circ$ <br> $3x = 180^\circ - 45,57\dots^\circ + k.360^\circ \quad \text{or} \quad 3x = 180^\circ + 45,57\dots^\circ + k.360^\circ$ <br> $3x = 134,43^\circ + k.360^\circ \quad \text{or} \quad 3x = 225,57^\circ + k.360^\circ$ <br> $x = 44,81^\circ + k.120^\circ; \ k \in \mathbb{Z} \quad x = 75,19^\circ + k.120^\circ; \ k \in \mathbb{Z}$ | \begin{tabular}{l} $\checkmark \text{ compound angle}$ \\ $\checkmark 3x = 134,43^\circ \text{ or}$ \\ $\quad 225,57^\circ$ \\ $\checkmark x = 44,81^\circ \text{ or } 75,19^\circ$ \\ $\checkmark + k.120^\circ; \ k \in \mathbb{Z}$ \end{tabular} | (4) |
+
+---
+
+```
+Mathematics P2/Wiskunde V2              11                         DBE/2021
+                               SC/SS/NSC/NSS – Marking Guidelines
+```
+
+| 5.4 | $\text{RHS} = \cos^2 x - \sin^2 x$ <br> $\text{LHS} = \frac{\sin 4x.\cos 2x - 2\cos 4x.\sin x.\cos x}{\frac{\sin 2x}{\cos 2x}}$ <br> $= \frac{\sin 4x.\cos 2x - \cos 4x.\sin 2x}{\frac{\sin 2x}{\cos 2x}}$ <br> $= \sin(4x - 2x)\left(\frac{\cos 2x}{\sin 2x}\right)$ <br> $= \cos 2x$ <br> $= \cos^2 x - \sin^2 x$ <br> $\text{LHS} = \text{RHS}$ | \begin{tabular}{l} $\checkmark \sin 2x$ \\ $\checkmark \frac{\cos 2x}{\sin 2x}$ \\ $\checkmark \sin(4x - 2x)$ \\ $\checkmark \cos 2x$ \end{tabular} | (4) |
+
+---
+
+## QUESTION/VRAAG 6
+
+| 6.1 | $1 - 2\sin^2 x = -\sin x$ <br> $2\sin^2 x - \sin x - 1 = 0$ <br> $(2\sin x + 1)(\sin x - 1) = 0$ <br> $\sin x = -\frac{1}{2} \quad \text{or} \quad \sin x = 1$ <br> $\text{ref }\angle = 30^\circ \quad \text{ref }\angle = 90^\circ$ <br> $x = 210^\circ + k.360^\circ \quad x = 90^\circ + k.360^\circ$ <br> $\text{or } x = 330^\circ + k.360^\circ$ <br> $x = -150^\circ \text{ or } x = -30^\circ \text{ or } x = 90^\circ$ <br> **OR** <br> $\cos 2x = -\sin x$ <br> $\cos 2x = -\cos(90^\circ - x)$ <br> $2x = 180^\circ - (90^\circ - x) + k.360^\circ \quad \text{or} \quad 2x = 180^\circ + (90^\circ - x) + k.360^\circ$ <br> $2x = 90^\circ + x + k.360^\circ \quad \text{or} \quad 2x = 270^\circ - x + k.360^\circ$ <br> $x = 90^\circ + k.360^\circ \quad x = 90^\circ + k.120^\circ$ <br> $x = -150^\circ \text{ or } x = -30^\circ \text{ or } x = 90^\circ$ <br> **OR** <br> $\cos 2x = -\sin x$ <br> $\cos 2x = \cos(90^\circ + x)$ <br> $2x = 90^\circ + x + k.360^\circ \quad \text{or} \quad 2x = 360^\circ - (90^\circ + x) + k.360^\circ$ <br> $x = 90^\circ + k.360^\circ \quad \text{or} \quad 3x = 270^\circ + k.360^\circ$ <br> $x = 90^\circ + k.120^\circ$ <br> $x = -150^\circ \text{ or } x = -30^\circ \text{ or } x = 90^\circ$ <br> **OR** <br> $\cos 2x = -\sin x$ <br> $\sin(90^\circ - 2x) = -\sin x$ <br> $90^\circ - 2x = 180^\circ + x + k.360^\circ \quad \text{or} \quad 90^\circ - 2x = 360^\circ - x + k.360^\circ$ <br> $x = -30^\circ + k.120^\circ \quad x = -270^\circ + k.360^\circ$ <br> $x = -150^\circ \text{ or } x = -30^\circ \text{ or } x = 90^\circ$ | \begin{tabular}{l} $\checkmark \text{ identity}$ \\ $\checkmark \text{ factors}$ \\ $\checkmark \sin x = -\frac{1}{2}$ \\ $\checkmark \sin x = 1$ \\ $\checkmark -150^\circ \text{ and } -30^\circ$ \\ $\checkmark 90^\circ \text{ (A)}$ \\ \\ \\ $\checkmark \text{ co-functions}$ \\ $\checkmark 2x \text{ in quadrant } 2$ \\ $\checkmark 2x \text{ in quadrant } 3$ \\ $\checkmark \text{ both general}$ \\ $\quad\text{solutions}$ \\ $\checkmark -150^\circ \text{ and } -30^\circ$ \\ $\checkmark 90^\circ \text{ (A)}$ \\ \\ \\ $\checkmark \text{ co-functions}$ \\ $\checkmark 2x \text{ in quadrant } 1$ \\ $\checkmark 2x \text{ in quadrant } 4$ \\ $\checkmark \text{ both general}$ \\ $\quad\text{solutions}$ \\ $\checkmark -150^\circ \text{ and } -30^\circ$ \\ $\checkmark 90^\circ \text{ (A)}$ \\ \\ \\ $\checkmark \text{ co-functions}$ \\ $\checkmark 90^\circ - 2x \text{ in}$ \\ $\quad\text{quadrant } 3$ \\ $\checkmark 90^\circ - 2x \text{ in}$ \\ $\quad\text{quadrant } 4$ \\ $\checkmark \text{ both general}$ \\ $\quad\text{solutions}$ \\ $\checkmark -150^\circ \text{ and } -30^\circ$ \\ $\checkmark 90^\circ \text{ (A)}$ \end{tabular} | (6) |
+
+---
+
+```
+Mathematics P2/Wiskunde V2              13                         DBE/2021
+                               SC/SS/NSC/NSS – Marking Guidelines
+```
+
+6.2 
+*(Graph showing sinusoidal curves $f$ and $g$ intersecting at A and B)*
+
+| 6.2.1 | $\text{A}(-150^\circ; 0,5) \quad \text{B}(-30^\circ; 0,5)$ <br> $\text{AB} = -30^\circ - (-150^\circ)$ <br> $\text{AB} = 120^\circ$ <br> \small{\text{Answer only: Full marks}} | \begin{tabular}{l} $\checkmark \text{AB} = -30^\circ - (-150^\circ)$ \\ $\checkmark \text{answer}$ \end{tabular} | (2) |
+| :--- | :--- | :--- | :--- |
+| 6.2.2 | $x \in (0^\circ; 90^\circ) \quad \text{or} \quad x \in (90^\circ; 180^\circ)$ <br> **OR** <br> $0^\circ < x < 90^\circ \quad \text{or} \quad 90^\circ < x < 180^\circ$ | \begin{tabular}{l} $\checkmark x \in (0^\circ; 90^\circ) \quad \checkmark x \in (90^\circ; 180^\circ)$ \\ \\ $\checkmark 0^\circ < x < 90^\circ \quad \checkmark 90^\circ < x < 180^\circ$ \end{tabular} | (2) |
+| 6.2.3 | $\cos 2x = k - 3$ <br> $k - 3 < -1 \quad \text{or} \quad k - 3 > 1$ <br> $k < 2 \quad \text{or} \quad k > 4$ <br> **OR** <br> *(Sketch of $y = \cos 2x + 3$)* <br> $k < 2 \quad \text{or} \quad k > 4$ <br> \small{\text{Answer only: Full marks}} | \begin{tabular}{l} $\checkmark k - 3 < -1 \quad \text{or} \quad k - 3 > 1$ \\ $\checkmark k < 2 \quad \checkmark k > 4$ \\ \\ $\checkmark \text{graph of } y = \cos 2x + 3$ \\ $\checkmark k < 2 \quad \checkmark k > 4$ \end{tabular} | (3) |
+
+---
+
+## QUESTION/VRAAG 7
+
+```
+          A----------------D
+          |                |
+          |                | x
+          |                |/
+          |                C
+          |               /
+          |              /
+          B            / 2x
+           \          /
+            \ 30°    /
+             \

@@ -1,0 +1,751 @@
+=== page 1 ===
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+MARKS/PUNTE:  150
+
+These marking guidelines consist of 14 pages.
+Hierdie nasienriglyne bestaan uit 14 bladsye.
+
+PHYSICAL SCIENCES:  PHYSICS (P1)
+FISIESE WETENSKAPPE: FISIKA (V1)
+
+NOVEMBER 2017
+
+MARKING GUIDELINES/NASIENRIGLYNE
+NATIONAL
+SENIOR CERTIFICATE/
+NASIONALE
+SENIOR SERTIFIKAAT
+GRADE/GRAAD 11
+
+=== page 2 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 2 DBE/November 2017
+ CAPS/KABV – Grade/Graad 11 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief
+
+QUESTION/VRAAG 1
+
+1.1 D   (2)
+
+1.2 A   (2)
+
+1.3 D   (2)
+
+1.4 C   (2)
+
+1.5 B   (2)
+
+1.6 C   (2)
+
+1.7 B   (2)
+
+1.8 D   (2)
+
+1.9 C   (2)
+
+1.10  B   (2)
+   [20]
+
+=== page 3 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 3 DBE/November 2017
+ CAPS/KABV – Grade/Graad 11 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION/VRAAG 2
+
+2.1 The vector sum of two or more vectors. 
+Die vektorsom van twee of meer vektore. 
+OR/OF
+The single vector which has the same effect as two or more vectors together.
+Die enkele vektor met dieselfde effek as twee of meer vektore saam.
+
+(2)
+
+2.2 0 N    (1)
+
+2.3
+
+   (3)
+Notes:  Accepted Labels/Aanvaarbare Byskrifte Mark/Punt
+w weight/FG/Fg
+gewig/gravitasiekrag/swaartekrag
+
+FC Tension in cable/TC
+Spanning in kabel/TC
+
+FR Tension in rope/TR
+Spanning in tou/TR
+
+ Any additional force: deduct 1 mark (maximum ⅔) Enige addisionele krag: trek 1 punt af (maksimum ⅔)
+ Lines must touch object otherwise (maximum ⅔ ) Lyne moet voorwerp raak anders (maksimum ⅔)
+
+2.4 200 N   (1)
+
+2.5
+35tan
+200FRY =  = 285,63 N 
+
+Fg = mg = 56(9,8) = 548,8 N 
+
+FRY + FCY = Fg
+285,63 + FCY  = 548,8 
+FCY = 263,17 N 
+
+(4)
+
+ 2.6 POSITIVE MARKING FROM QUESTION 2.4 and 2.5
+POSITIEWE NASIEN VANAF VRAAG 2.4 en 2.5
+200
+17,263tan =θ 
+θ = 52,77° 
+
+(2)
+   [13]
+
+w
+FR
+FC
+
+=== page 4 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 4 DBE/November 2017
+ CAPS/KABV – Grade/Graad 11 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION/VRAAG 3
+
+3.1 Criteria for hypothesis/Riglyne vir hipotese
+The dependent and independent variables are stated correctly.
+Die afhanklike en onafhanklike veranderlikes korrek genoem.
+
+State the relationship between the dependent and independent
+variables.
+Stel die verwantskap tussen die afhanklike en onafhanklike veranderlike.
+
+Dependent variable/afhanklike veranderlike: acceleration/versnelling
+Independent variable/onafhanklike veranderlike: (net) force/(netto) krag
+
+ Example/Voorbeeld:
+The (net) force is directly proportional to acceleration if the mass of the trolley
+is kept constant  
+Die (netto) krag is direk eweredig aan die versnelling indien die massa van die
+trollie konstant bly. 
+
+(2)
+
+3.2.1 (Net) Force 
+(Netto) Krag 
+
+(1)
+
+3.2.2 Mass of trolley 
+Massa van die trollie 
+
+(1)
+
+3.3
+
+Refer to back of memo for graph drawn to scale
+Verwys na die laaste bladsy van memorandum vir skaalgrafiek
+
+ Marking criteria for graph
+Nasienkriteria vir grafiek
+
+ Axes with correct/appropriate scale
+Asse met korrekte/toepaslike skaal
+
+
+ 3 or more coordinates correctly plotted
+3 of meer koördinate korrek gestip
+
+
+ Drawing a line of best fit
+Teken 'n lyn van beste passing
+
+(4)
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+1.4
+0 0.2 0.4 0.6 0.8 1 1.2 1.4 1.6
+Accelaration / Versnelling (m∙s-2)
+Force / Krag (N)
+Graph of acceleration versus net force
+Grafiek van versnelling teenoor netto krag
+
+=== page 5 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 5 DBE/November 2017
+ CAPS/KABV – Grade/Graad 11 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+3.4 Accept any set of coordinates from the graph, for example:
+Aanvaar enige kombinasie van koördinate vanaf die grafiek, byvoorbeeld:
+
+gradient = 3,02,1 36,045,1 −−     = 1,21 
+OR/OF
+gradient = 09,0 009,1 −−     = 1,21 
+OR/OF
+gradient = 06,0 073,0 −−     = 1,22 
+OR/OF
+gradient = 03,0 036,0 −−     = 1,2 
+
+(3)
+
+3.5 POSITIVE MARKING FROM QUESTION 3.4
+POSITIEWE NASIEN VANAF VRAAG 3.4
+Gradient = m1Fa =
+1,21
+1m=  = 0,83 kg 
+
+(2)
+   [13]
+
+
+
+
+=== page 6 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 6 DBE/November 2017
+ CAPS/KABV – Grade/Graad 11 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION/VRAAG 4
+
+4.1 Frictional force is the force that opposes the motion of an object and which
+acts parallel to the surface. 
+Wrywingskrag is die krag wat die beweging van ' n voorwerp teenstaan en
+ewewydig aan die oppervlak inwerk. 
+
+(2)
+
+4.2 Newton's Third law:   When object A exerts a force on object B, object B
+simultaneously exerts an oppositely directed force of equal magnitude on
+object A. 
+Newton se Derde wet:  Wanneer voorwerp A 'n krag op voorwerp B uitoefen
+sal voorwerp B gelyktydig 'n krag van gelyke grootte in die teenoorgestelde
+rigting op voorwerp A uitoefen. 
+
+(3)
+
+4.3
+
+   (5)
+Notes:  Accepted Labels/Aanvaarbare Byskrifte Mark/Punt
+w weight/gravitational force/FG/Fg/12 740 N
+gewig/gravitasiekrag/swaartekrag/FG/Fg/12 740 N
+
+T Tension/FT
+Spanning/FT
+
+f friction/Ff
+Wrywing/Ff
+
+N Normal/FN/12 740 N
+Normaal/FN/12 740 N
+
+FA Applied force/Fapplied/Fengine/F
+Toegepaste krag/Ftoegepas/Fengin/F
+
+ Any additional force: deduct 1 mark (maximum 4/5) Enige addisionele krag: trek 1 punt af (maksimum 4/5)
+ Lines must touch object otherwise (maximum 4/5 ) Lyne moet voorwerp raak anders (maksimum 4/5)
+
+4.4 4.4.1 Fnet = ma
+Fengine – f – T = 0
+9 000 – 0,45(Fg) – T = 0
+9 000 – 0,45(1 300)(9,8)  – T  = 0 
+T = 3 267 N 
+
+(5)
+
+N
+f
+ T
+FA
+w
+
+
+=== page 7 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 7 DBE/November 2017
+ CAPS/KABV – Grade/Graad 11 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+ 4.4.2 POSITIVE MARKING FROM QUESTION 4.4.1
+POSITIEWE NASIEN VANAF VRAAG 4.4.1
+Fnet = ma
+T – f = 0
+3 267 – f  = 0 
+f = 3 267 N  (backwards/terugwaarts)
+fk = µkN 
+fk = µkmg
+3 267 = µk(950)(9,8) 
+µk = 0,35 
+
+(5)
+
+4.5 According to Newton's first law,  an object will continue moving at a constant
+velocity unless a non-zero net force acts on it.  The net force acting on the
+car now is the frictional force and it causes the car to slow down. 
+Volgens Newton se eerste wet,  sal 'n voorwerp aanhou beweeg teen ' n
+konstante snelheid tensy 'n nie- nul netto krag daarop inwerk.  Die netto
+krag op die kar is nou wrywingskrag en dit veroorsaak dat die kar stadiger
+beweeg. 
+
+(3)
+
+4.6 Fnet = ma
+-3 267 = 950a 
+a = -3,44 m∙s-2
+   =  3,44 m∙s-2   backwards/to the right / terugwaarts/regs 
+
+(3)
+   [26]
+
+QUESTION/VRAAG 5
+
+5.1 Weight is the gravitational force exerted on an object by the earth. 
+Gewig is die gravitasiekrag wat die Aarde op 'n voorwerp uitoefen. 
+Mass is the amount of matter in a body. 
+Massa is die hoeveelheid materie in 'n liggaam. 
+
+(2)
+
+5.2
+2r
+GMg=  
+26
+11
+)1038,631(
+M1067,67,2
+××
+×= −
+M = 1,83 x 1023 kg 
+
+(4)
+
+5.3
+7,2
+8,9  = 3,63 times smaller on planet X than on Earth 
+                     keer kleiner op planeet X as op die Aarde
+
+(2)
+   [8]
+
+
+
+
+
+=== page 8 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 8 DBE/November 2017
+ CAPS/KABV – Grade/Graad 11 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION/VRAAG 6
+
+6.1 Angle of incidence is the angle between the normal to a reflecting surface and
+incident ray. 
+Invalshoek is die hoek tussen die normaal op die oppervlak en die invallende
+straal. 
+
+(2)
+
+6.2 OPTION 1/OPSIE 1
+056,0
+037,0gradient −−=  = 0,66 
+gradient =
+i
+r
+sin
+sin
+θ
+θ =
+r
+i
+n
+n
+gradient =
+rn
+1
+nr = 66,01  
+nr = 1,51 
+
+OPTION 2/OPSIE 2
+ni sin θi = nr sin θr 
+1(0,56) = nr (0,37) 
+nr = 1,51 
+
+(3)
+
+6.3 POSITIVE MARKING FROM QUESTION 6.2
+POSITIEWE NASIEN VANAF VRAAG 6.2
+v
+cn=  
+v
+10351,1 8×=  
+v = 1,99 x 108 m∙s-1  
+
+(3)
+
+6.4.1 ni sin θi = nr sin θr 
+1 sin 40°  = nr sin 31° 
+nr = 1,25 
+
+(4)
+
+6.4.2
+
+Criteria/Kriteria:
+The gradient of B must be bigger than the gradient of A. 
+Die helling van B moet groter wees as die helling van A. 
+
+(2)
+
+6.5.1 Angle of incidence should be between 49° and 90°.  
+Invalshoeke tussen 49° en 90°. 
+OR/OF
+49° < θ < 90°.
+
+(2)
+
+6.5.2 Light must travel from optically denser medium (higher refractive index) to an
+optically less dense medium (lower refractive index). 
+Lig moet beweeg vanaf ' n medium met hoë  optiese digtheid
+(hoë brekingsindeks) na 'n medium met lae optiese digtheid (l ae
+brekingsindeks) 
+
+(2)
+   [18]
+B
+sin θi
+sin θr
+A
+
+=== page 9 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 9 DBE/November 2017
+ CAPS/KABV – Grade/Graad 11 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION/VRAAG 7
+
+7.1 Criteria for investigative question:/Kriteria vir ondersoekende vraag
+The dependent and independent variables are stated correctly.
+Die afhanklike en onafhanklike veranderlikes korrek genoem.
+
+State the relationship between the dependent and independent
+variables.
+Stel die verwantskap tussen die afhanklike en onafhanklike veranderlike.
+
+Dependent variable/ afhanklike veranderlike : degree of diffraction/ mate
+van diffraksie
+Independent variable/onafhanklike veranderlike: slit width/spleetwydte
+
+Examples:/Voorbeelde:
+What is the relationship between slit width and degree of diffraction?
+Wat is die verhouding tussen spleetwydte en mate van diffraksie?
+OR/OF
+How does the width of the ce ntral bright band change as the slit width
+changes?
+Hoe word die breedte van die sentrale helder band beï nvloed deur die
+verandering in spleetwydte?
+
+(2)
+
+7.2 Every point of a wave front serves as a point source of spherical, secondary
+waves that move forward with the same speed as the wave. 
+Elke punt van 'n golffront dien  as 'n puntbron van sferiese, sekondê re golwe
+wat voortwaarts beweeg teen dieselfde spoed as die golf. 
+
+(2)
+
+7.3 Decrease 
+Neem af 
+
+(1)
+
+7.4 The degree/amount of diffraction is inversely proportional to the slit width. 
+Die mate van diffraksie is omgekeerd eweredig aan die spleetwydte. 
+
+(2)
+
+7.5 Increase 
+Toeneem 
+
+(1)
+   [8]
+
+=== page 10 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 10 DBE/November 2017
+ CAPS/KABV – Grade/Graad 11 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION/VRAAG 8
+
+8.1 Electric field at a point is the electrostatic force experienced per unit positive
+charge placed at that point. 
+Elektriese veld by 'n punt is die elektrostatiese krag wat per eenheid positiewe
+lading ondervind word by daardie punt. 
+
+(2)
+
+8.2 Negative 
+Negatief 
+
+(1)
+
+8.3 POSITIVE MARKING FROM QUESTION 8.2
+POSITIEWE NASIEN VANAF VRAAG 8.2
+
+ Criteria for marking/Nasienkriteria
+Shape of the field
+Vorm van veld
+
+Direction of the field
+Rigting van veld
+
+Lines touch charge/line don't cross etc.
+Lyne raak lading/lyne kruis nie ens.
+
+
+(3)
+
+8.4
+22net r
+kQ
+r
+kQE +=  
+5,44 x 106  = 23
+9
+)105(
+Q109
+−×
+×   + 239 )103( Q109 −××  
+Q =  4 x 10-9 C 
+
+(5)
+
+8.5 Net electric field DECREASES 
+The positive charge on X will have a field in the opposite direction. The
+electric field (strength) being a vector will decrease because of opposite
+directions. 
+Netto elektriese veld NEEM AF 
+Die positiewe lading op X het ' n veld in die teenoorgestelde rigting. Die
+elektriese veld (sterkte) is 'n vektor en dit sal die veld laat afneem as die
+rigtings van die twee ladings se velde teenoorgesteld is. 
+
+(2)
+   [13]
+
+=== page 11 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 11 DBE/November 2017
+ CAPS/KABV – Grade/Graad 11 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION/VRAAG 9
+
+9.1 The magnitude of the induced emf across the ends of a conductor is directly
+proportional  to the rate of change in the magnetic flux linkage with the
+conductor. 
+Die grootte van die geï nduseerde emk oor die ente van ' n geleier is direk
+eweredig  aan die tempo van verandering van die magnetiese vloedkoppeling
+met die geleier. 
+
+ (2)
+
+9.2 Accept any correct combination of coordinates from the graph for example:
+(1/Δt ; ε) can be (1,8 ; 3) OR (1,2 ; 2) OR (0,6 ; 1)
+Aanvaar enige korrekte kombinasie van koördinate vanaf die grafiek
+byvoorbeeld: (1/Δt ; ε) kan wees (1,8 ; 3) OF (1,2 ; 2) OF (0,6 ; 1)
+
+OPTION 1/OPSIE 1
+t
+N
+∆
+∆Φ−=ε 
+3 = (-200)∆Φ(1,8)  
+∆Φ = -0,0083 Wb 
+
+OPTION 2/OPSIE 2
+t
+N
+∆
+∆Φ−=ε  
+3  = (-200)∆Φ( 56,01 ) 
+∆Φ = -0,0083 Wb 
+
+OPTION 3/OPSIE 3
+gradient = ε∆t = -N∆Φ 
+3(0,56)   = (-200)∆Φ
+∆Φ = -0,0083 Wb 
+
+ (5)
+
+9.3 POSITIVE MARKING FROM 9.2
+POSITIEWE NASIEN VANAF VRAAG 9.2
+∆Φ = Φf - Φi
+-0,0083  = (4,86 x 10-3)(2,4) cos90° – (4,86 x 10-3)(2,4) cosθ 
+θ = 44,64° 
+
+(4)
+   [11]
+
+=== page 12 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 12 DBE/November 2017
+ CAPS/KABV – Grade/Graad 11 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION/VRAAG 10
+
+10.1.1 Power is the rate at which work is done or energy is transfered. 
+Drywing is die tempo waarteen arbeid verrig of energie oorgedra word 
+
+(2)
+
+10.1.2 OPTION 1/OPSIE 1
+21// R
+1
+R
+1
+R
+1 +=
+15
+1
+6
+1
+R
+1
+//
++= 
+Rll = 4,29 Ω  
+OPTION 2/OPSIE 2
+21
+21
+//
+RR
+RRR +×=
+156
+156R//
++
+×=  
+R// = 4,29 Ω  
+
+(2)
+
+10.1.3 POSITIVE MARKING FROM QUESTION 10.1.2
+POSITIEWE NASIEN VANAF VRAAG 10.1.2
+R
+VP 2= 
+29,4
+V50 2= 
+V = 14,65 V 
+
+(3)
+
+10.1.4 POSITIVE MARKING FROM QUESTION 10.1.2 and 10.1.3
+POSITIEWE NASIEN VANAF VRAAG 10.1.2 en 10.1.3
+
+OPTION 1/OPSIE 1
+I
+VR=   
+I
+65,1429,4 =   
+I = 3,41 A 
+
+OPTION 2/OPSIE 2
+P = VI 
+50 = (14,65)I  
+I = 3,41 A 
+
+OPTION 3/OPSIE 3
+P = I2R  
+50 = I2(4,29) 
+I = 3,41 A 
+
+OPTION 4/OPSIE 4
+V = IR  
+14,65 = I(6)
+I = 2,44 A
+V = IR
+14,65 = I(15)
+I = 0,98 A
+2,44 + 0,98  = 3,42 A  
+
+(3)
+
+10.1.5 Decreases 
+Neem af 
+
+(1)
+
+=== page 13 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 13 DBE/November 2017
+ CAPS/KABV – Grade/Graad 11 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+10.1.6 The total resistance increases 
+The current in the circuit decreases 
+The resistance of R is constant,   then the potential difference across R
+decreases.
+Totale weerstand neem toe 
+Die stroom in die stroombaan neem af 
+Die weerstand van R is konstant  so die potensiaalverskil oor resistor R sal
+afneem
+
+(3)
+
+10.2.1
+t
+WP ∆=  
+2 000  = 00018W 
+W = 3,6 x 107 J  
+
+(4)
+
+10.2.2 Cost = price x unit kWh / Koste = prys x eenheid kWh
+Cost = 80(2)(5)(30) 
+Cost = 24 000 cents = R240 
+(answer can be given in rand or cents)
+(antwoord kan in rand of sent gegee word)
+
+(2)
+   [20]
+
+=== page 14 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 14 DBE/November 2017
+ CAPS/KABV – Grade/Graad 11 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou
+
+ANSWER SHEET/ANTWOORDBLAD
+
+NAME/NAAM: ____________________________________ CLASS/KLAS: _____
+
+QUESTION/VRAAG 3.3
+
+TOTAL/TOTAAL:  150
+
+0,15       0,3         0,45       0,6         0,75        0,9         1,05      1,2
+1,5
+
+1,35
+
+1,2
+
+1,05
+
+0,9
+
+0,75
+
+0,6
+
+0,45
+
+0,3
+
+0,15
+GRAPH OF ACCELARATION AGAINST NET FORCE
+GRAFIEK VAN VERSNELLING TEENOOR NETTO KRAG
+a
+(m.s-2)
+F (N)
+0

@@ -1,0 +1,258 @@
+# NASIONALE SENIOR SERTIFIKAAT
+
+## GRAAD 11
+
+### WISKUNDE V2
+
+**NOVEMBER 2015**
+
+**PUNTE:** 150  
+**TYD:** 3 uur
+
+---
+
+## INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies aandagtig deur voordat jy die vrae beantwoord.
+
+1. Hierdie vraestel bestaan uit 11 vrae.
+2. Beantwoord AL die vrae in die SPESIALE ANTWOORDEBOEK wat verskaf word.
+3. Dui ALLE berekeninge, diagramme, grafieke ensovoorts wat jy gebruik het om jou antwoorde te bepaal, duidelik aan.
+4. Antwoorde alleenlik sal NIE noodwendig volpunte verdien NIE.
+5. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders aangedui.
+6. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+7. Jy mag 'n goedgekeurde wetenskaplike sakrekenaar (nieprogrammeerbaar en niegrafies) gebruik, tensy anders aangedui.
+8. Skryf netjies en leesbaar.
+
+---
+
+## VRAAG 1
+
+Die tabel hieronder toon die gewig (tot die naaste kilogram) van elk van die 27 deelnemers aan 'n gewigsverliesprogram.
+
+| 56 | 68 | 69 | 71 | 71 | 72 | 82 | 84 | 85 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 88 | 89 | 90 | 92 | 93 | 94 | 96 | 97 | 99 |
+| 102 | 103 | 127 | 128 | 134 | 135 | 137 | 144 | 156 |
+
+1.1 Bereken die omvang (variasiewydte) van die data. (2)
+
+1.2 Skryf die modus van die data neer. (1)
+
+1.3 Bepaal die mediaan van die data. (1)
+
+1.4 Bepaal die interkwartielomvang van die data. (3)
+
+1.5 Gebruik die getallelyn wat in die ANTWOORDEBOEK verskaf word om 'n mond- en-snordiagram van die data hierbo te skets. (2)
+
+1.6 Bepaal die standaardafwyking van die data. (2)
+
+1.7 Die persoon wat $127\text{ kg}$ weeg, beweer dat sy meer as een standaardafwyking bo die gemiddelde weeg. Stem jy met dié persoon saam? Gebruik berekeninge om jou antwoord te motiveer. (3)
+
+---
+
+## VRAAG 2
+
+Die tabel hieronder toon die gewig (in gram) wat elkeen van die 27 deelnemers in totaal in die eerste 4 weke op die gewigsverliesprogram verloor het.
+
+| GEWIGSVERLIES IN 4 WEKE (IN GRAM) | FREKWENSIE |
+| :---: | :---: |
+| $1\ 000 < x \le 1\ 500$ | 2 |
+| $1\ 500 < x \le 2\ 000$ | 3 |
+| $2\ 000 < x \le 2\ 500$ | 3 |
+| $2\ 500 < x \le 3\ 000$ | 4 |
+| $3\ 000 < x \le 3\ 500$ | 5 |
+| $3\ 500 < x \le 4\ 000$ | 7 |
+| $4\ 000 < x \le 4\ 500$ | 2 |
+| $4\ 500 < x \le 5\ 000$ | 1 |
+
+2.1 Skat die gemiddelde gewigsverlies, in gram, van die deelnemers in die eerste 4 weke. (2)
+
+2.2 Skets 'n ogief (kumulatiewefrekwensie-grafiek) van die data op die rooster wat verskaf word. (4)
+
+2.3 Die gewigsverliesprogram waarborg 'n verlies van $800\text{ g}$ per week indien 'n persoon die program volg sonder om te kul. Bepaal vervolgens hoeveel van die deelnemers in die eerste 4 weke 'n gemiddelde gewigsverlies van $800\text{ g}$ of meer per week gehad het. (2)
+
+---
+
+## VRAAG 3
+
+[DIAGRAM: $\triangle ACD$ with vertices $A(-2; 3)$, $C(10; 11)$, and $D(5; -1)$. $CA$ extended cuts the $y$-axis at $F$ and the $x$-axis at $G$. Straight line $DE$ is drawn parallel to $CA$. Angle $\hat{CFO} = \alpha$.]
+
+In die diagram is $A(-2; 3)$, $C(10; 11)$ en $D(5; -1)$ die hoekpunte van $\triangle ACD$. $CA$ sny die $y$-as in $F$ en $CA$ verleng sny die $x$-as in $G$. Die reguitlyn $DE$ word ewewydig aan $CA$ getrek. $\hat{CFO} = \alpha$.
+
+3.1 Bereken die gradiënt van die lyn $AC$. (2)
+
+3.2 Bepaal die vergelyking van lyn $DE$ in die vorm $y = mx + c$. (3)
+
+3.3 Bereken die grootte van $\alpha$. (3)
+
+3.4 $B$ is 'n punt in die eerste kvadrant sodat $ABDE$, in daardie volgorde, 'n reeshoek vorm. Bereken, met redes, die:
+
+3.4.1 Koördinate van $M$, die middelpunt van $BE$ (3)
+
+3.4.2 Lengte van hoeklyn $BE$ (3)
+
+---
+
+## VRAAG 4
+
+[DIAGRAM: Straight line $SP$ with $S$ and $P$ as $x$- and $y$-intercepts respectively. $OS = 3OP$. Straight line $RT$ drawn with $R$ on $SP$ and $RT \perp PS$. $RT$ cuts the $y$-axis at $T\left(0; -5\frac{2}{3}\right)$. A right-angle symbol is at $R$.]
+
+In die diagram is die reguitlyn $SP$ getrek met $S$ en $P$ as die $x$- en $y$-afsnitte onderskeidelik. Die vergelyking van $SP$ is $x + ay - a = 0$, $a > 0$. Dit word ook gegee dat $OS = 3OP$.
+
+Die reguitlyn $RT$ word getrek met $R$ op $SP$ en $RT \perp PS$. $RT$ sny die $y$-as by $T\left(0; -5\frac{2}{3}\right)$.
+
+4.1 Bereken die koördinate van $P$. (2)
+
+4.2 Bereken die waarde van $a$. (2)
+
+4.3 Bepaal die vergelyking van $RT$ in die vorm $y = mx + c$ as gegee word dat $a = 3$. (3)
+
+4.4 Bereken die koördinate van $R$, die punt waar $PS$ en $TR$ ontmoet. (4)
+
+4.5 Bereken die oppervlakte van $\triangle PRT$ as gegee word dat $R\left(2; \frac{1}{3}\right)$. (3)
+
+4.6 Bereken, met redes, die radius van 'n sirkel wat deur die punte $P$, $R$ en $T$ gaan. (2)
+
+---
+
+## VRAAG 5
+
+[DIAGRAM: Point $P(x; 24)$ where $OP = 25$ and $R\hat{O}P = \beta$, where $\beta$ is an obtuse angle. $R$ lies on the positive $x$-axis. $T$ is a point on $OP$ such that $OT = 15$.]
+
+5.1 In die diagram hieronder is $P(x; 24)$ 'n punt sodat $OP = 25$ en $R\hat{O}P = \beta$, waar $\beta$ 'n stomphoek is.
+
+5.1.1 Bereken die waarde van $x$. (2)
+
+5.1.2 Bepaal die waarde van elk van die volgende SONDER om 'n sakrekenaar te gebruik:
+(a) $\sin\beta$ (1)
+(b) $\cos(180^\circ - \beta)$ (2)
+(c) $\tan(-\beta)$ (2)
+
+5.1.3 $T$ is 'n punt op $OP$ sodat $OT = 15$. Bepaal die koördinate van $T$ SONDER om 'n sakrekenaar te gebruik. (4)
+
+5.2 Bepaal die waarde van die volgende uitdrukking:
+$$\frac{2\sin x.\cos x(1 + \tan^2 x)}{\tan x}$$ (4)
+
+5.3 Beskou: $\frac{1 - \cos^2 A}{4\cos(90^\circ + A)}$
+
+5.3.1 Vereenvoudig die uitdrukking tot 'n enkele trigonometriese term. (3)
+
+5.3.2 Bepaal vervolgens die algemene oplossing van $\frac{1 - \cos^2 2x}{4\cos(90^\circ + 2x)} = 0{,}21$. (6)
+
+---
+
+## VRAAG 6
+
+6.1 In die diagram is die grafiek van $f(x) = \tan bx$ vir die interval $-90^\circ \le x \le 135^\circ$ geskets.
+
+[DIAGRAM: Graph of $f(x) = \tan bx$ with asymptotes at $x = -45^\circ$, $x = 45^\circ$, and $x = 135^\circ$. Period shows one full branch between $-45^\circ$ and $45^\circ$, crossing origin.]
+
+6.1.1 Bepaal die waarde van $b$. (1)
+
+6.1.2 Bepaal die waardes van $x$ in die interval $0^\circ \le x \le 135^\circ$ waarvoor $f(x) \le -1$. (2)
+
+6.1.3 Grafiek $h$ is gedefinieer as $h(x) = \tan b(x + 55^\circ)$. Skryf die vergelykings van die asimptote van $h$ in die interval $-90^\circ \le x \le 135^\circ$ neer. (2)
+
+6.2 In die diagram is die grafiek van $g(x) = \cos(x + 60^\circ)$ geskets vir die interval $-150^\circ \le x \le 120^\circ$.
+
+[DIAGRAM: Cosine graph $g(x) = \cos(x + 60^\circ)$ for $-150^\circ \le x \le 120^\circ$, with maximum at $(-60^\circ; 1)$ and $y$-intercept at $(0; 0.5)$, crossing $x$-axis at $30^\circ$.]
+
+6.2.1 Teken op dieselfde assestelsel die grafiek van $k(x) = -\sin x$ vir die interval $-150^\circ \le x \le 120^\circ$. Toon ALLE afsnitte met die asse asook die koördinate van die draaipunte en eindpunte van die grafiek. (4)
+
+6.2.2 Bepaal die minimum waarde van $h(x) = \cos(x + 60^\circ) - 3$. (2)
+
+6.2.3 Los die vergelyking $\cos(x + 60^\circ) + \sin x = 0$ op vir die interval $-150^\circ \le x \le 120^\circ$. (6)
+
+6.2.4 Bepaal die waardes van $x$ vir die interval $-150^\circ \le x \le 120^\circ$, waarvoor $\cos(x + 60^\circ) + \sin x > 0$. (2)
+
+6.2.5 Die funksie $g$ kan ook as $y = -\sin(x - \theta)$ gedefinieer word, waar $\theta$ 'n skerphoek is. Bepaal die waarde van $\theta$. (2)
+
+---
+
+## VRAAG 7
+
+[DIAGRAM: A circle with diameter $PR$. $\triangle PQR$ has vertex $Q$ outside the circle. $R\hat{P}Q = \theta$, $PR = 2y$, $QR = 2y$, and $PQ = y$.]
+
+In die diagram is $PR$ die middellyn van die sirkel. Driehoek $PQR$ is getrek met hoekpunt $Q$ buite die sirkel. $\hat{R} = \theta$, $PR = 2y$, $QR = 2y$ en $PQ = y$.
+
+7.1 Bepaal die waarde van $\cos\theta$. (4)
+
+7.2 As $QR$ die omtrek van die sirkel by $T$ sny, bepaal $PT$ in terme van $y$ en $\theta$. (3)
+
+---
+
+## VRAAG 8
+
+[DIAGRAM: FIGUUR 1 shows a cylindrical can with a hemispherical lid on top. Total height is $16\text{ cm}$, radius of base is $2.9\text{ cm}$. FIGUUR 2 shows the hemispherical lid partially filled with liquid.]
+
+'n Silindriese spuitkannetjie het 'n deksel in die vorm van 'n hemisfeer wat presies bo-op die kannetjie pas. Die hoogte van die kannetjie is $16\text{ cm}$ en die radius van die basis van die kannetjie is $2,9\text{ cm}$.
+
+$$\text{Volume van sfeer} = \frac{4}{3}\pi r^3$$
+$$\text{Buite-oppervlakte van sfeer} = 4\pi r^2$$
+
+8.1 Bereken die buite-oppervlakte van die kannetjie met die deksel, soos in FIGUUR 1 getoon. (5)
+
+8.2 As die deksel $80\%$ met 'n vloeistof gevul word, soos in FIGUUR 2 getoon, bereken die volume van die vloeistof in die deksel. (3)
+
+---
+
+**Gee redes vir jou bewering en berekeninge in VRAAG 9, 10 EN 11.**
+
+## VRAAG 9
+
+[DIAGRAM: Circle with center $O$. Diameter $LR$ subtends $L\hat{K}R$ on the circumference. $N$ is another point on the circumference and chords $LN$ and $KN$ are drawn. $\hat{L}_1 = 58^\circ$.]
+
+In die diagram is $O$ die middelpunt van die sirkel. Middellyn $LR$ onderspan $L\hat{K}R$ op die omtrek van die sirkel. $N$ is 'n ander punt op die omtrek en koorde $LN$ en $KN$ word getrek. $\hat{L}_1 = 58^\circ$.
+
+Bereken, met redes, die grootte van:
+
+9.1 $L\hat{K}R$ (2)
+
+9.2 $\hat{R}$ (2)
+
+9.3 $\hat{N}$ (2)
+
+---
+
+## VRAAG 10
+
+10.1 [DIAGRAM: Circle with center $O$. Points $A$, $B$, and $C$ on the circumference. Chords $AC$ and $BC$ and radii $AO$, $BO$, and $CO$ are drawn. $\hat{A} = x$ and $\hat{B} = y$.]
+
+In die diagram is $O$ die middelpunt van die sirkel. $A$, $B$ en $C$ is punte op die omtrek van die sirkel. Koorde $AC$ en $BC$ en radiusse $AO$, $BO$ en $CO$ is getrek. $\hat{A} = x$ en $\hat{B} = y$.
+
+10.1.1 Bepaal die grootte van $\hat{O}_1$ in terme van $x$. (3)
+
+10.1.2 Bewys vervolgens die stelling wat beweer dat die hoek wat deur 'n boog by die middelpunt onderspan word, gelyk is aan twee keer die hoek wat deur dieselfde boog by die omtrek van die sirkel onderspan word, dit is $\hat{O}_1 = 2A\hat{C}B$. (3)
+
+10.2 [DIAGRAM: Two intersecting circles with common chord $PQ$. $M$ is the center of the larger circle, lying on the circumference of the smaller circle. $PMNQ$ is a cyclic quadrilateral in the smaller circle. $QN$ extended to $R$, a point on the larger circle. $NM$ extended meets chord $PR$ at $S$. $\hat{P}_2 = x$.]
+
+In die diagram is $PQ$ 'n gemeenskaplike koord van die twee sirkels. Die middelpunt, $M$, van die groter sirkel lê op die omtrek van die kleiner sirkel. $PMNQ$ is 'n koordevierhoek in die kleiner sirkel. $QN$ is verleng tot by $R$, 'n punt op die groter sirkel. $NM$ verleng ontmoet die koord $PR$ by $S$. $\hat{P}_2 = x$.
+
+10.2.1 Gee 'n rede waarom $\hat{N}_2 = x$. (1)
+
+10.2.2 Skryf 'n ander hoek neer wat gelyk in grootte aan $x$ is. Gee 'n rede. (2)
+
+10.2.3 Bepaal die grootte van $\hat{R}$ in terme van $x$. (3)
+
+10.2.4 Bewys dat $PS = SR$. (3)
+
+---
+
+## VRAAG 11
+
+[DIAGRAM: $\triangle ABC$ vertices $A$, $B$, and $C$ are concyclic. $EB$ and $EC$ are tangents to the circle at $B$ and $C$ respectively. $T$ is a point on $AB$ such that $TE \parallel AC$. $BC$ cuts $TE$ in $F$.]
+
+In die diagram is die hoekpunte $A$, $B$ en $C$ van $\triangle ABC$ konsiklies. $EB$ en $EC$ is raaklyne aan die sirkel by $B$ en $C$ onderskeidelik. $T$ is 'n punt op $AB$ sodat $TE \parallel AC$. $BC$ sny $TE$ in $F$.
+
+11.1 Bewys dat $\hat{B}_1 = \hat{T}_3$. (4)
+
+11.2 Bewys dat $TBEC$ 'n koordevierhoek is. (4)
+
+11.3 Bewys dat $ET$ vir $B\hat{T}C$ halveer. (2)
+
+11.4 Indien gegee word dat $TB$ 'n raaklyn aan die sirkel deur $B$, $F$ en $E$ is, bewys dat $TB = TC$. (4)
+
+11.5 Bewys vervolgens dat $T$ die middelpunt van die sirkel deur $A$, $B$ en $C$ is. (3)
+
+**TOTAAL: 150**

@@ -1,0 +1,476 @@
+**NATIONAL SENIOR CERTIFICATE**
+**NASIONALE SENIOR SERTIFIKAAT**
+
+**GRADE/GRAAD 12**
+
+**PHYSICAL SCIENCES: CHEMISTRY (P2)**
+**FISIESE WETENSKAPPE: CHEMIE (V2)**
+
+**NOVEMBER 2025**
+**MARKING GUIDELINES / NASIENRIGLYNE**
+
+---
+
+### **QUESTION 1 / VRAAG 1**
+
+1.1 C $\checkmark\checkmark$ (2)
+
+1.2 B $\checkmark\checkmark$ (2)
+
+1.3 A $\checkmark\checkmark$ (2)
+
+1.4 D $\checkmark\checkmark$ (2)
+
+1.5 A $\checkmark\checkmark$ (2)
+
+1.6 A $\checkmark\checkmark$ (2)
+
+1.7 A $\checkmark\checkmark$ (2)
+
+1.8 B $\checkmark\checkmark$ (2)
+
+1.9 C $\checkmark\checkmark$ (2)
+
+1.10 D $\checkmark\checkmark$ (2)
+**[20]**
+
+---
+
+### **QUESTION 2 / VRAAG 2**
+
+2.1 
+2.1.1 D $\checkmark$ (1)
+
+2.1.2 A and/en C $\checkmark$ (1)
+
+2.1.3 E and/en F $\checkmark$ (1)
+
+2.2 
+2.2.1 
+<u>Marking criteria:</u>
+* Correct stem i.e. butanone. $\checkmark$
+* Substituents (methyl) correctly identified. $\checkmark$
+* IUPAC name is completely correct including numbering, sequence, hyphens and commas. $\checkmark$
+
+<u>Nasienkriteria:</u>
+* Korrekte stam, d.i. butanoon.
+* Substituente (metiel) korrek geïdentifiseer.
+* IUPAC-naam heeltemal korrek insluitende nommering, volgorde, koppeltekens en kommas.
+
+3-methylbutan-2-one $\checkmark\checkmark\checkmark$ / 3-methylbutanone  
+3-metielbutan-2-oon / 3-metielbutanoon
+
+<u>ACCEPT/AANVAAR</u>  
+3-methyl-2-butanone / methylbutanone / 3-metiel-2-butanoon / metielbutanoon (3)
+
+2.2.2 
+<u>Marking criteria:</u>
+* Correct stem i.e. heptane. $\checkmark$
+* Substituents (dichloro and dimethyl) correctly identified. $\checkmark$
+* IUPAC name is completely correct including numbering, sequence, hyphens and commas. $\checkmark$
+
+<u>Nasienkriteria:</u>
+* Korrekte stam, d.i. heptaan.
+* Substituente (dichloro en dimetiel) korrek geïdentifiseer.
+* IUPAC-naam heeltemal korrek insluitende nommering, volgorde, koppeltekens en kommas.
+
+2,6-dichloro-2,5-dimethylheptane $\checkmark\checkmark\checkmark$  
+2,6-dichloro-2,5-dimetielheptaan (3)
+
+2.2.3 
+<u>Marking criteria:</u>
+* Correct stem i.e. hexene. $\checkmark$
+* Substituents (ethyl and methyl) correctly identified. $\checkmark$
+* IUPAC name is completely correct including numbering, sequence, hyphens and commas. $\checkmark$
+
+<u>Nasienkriteria:</u>
+* Korrekte stam, d.i. hekseen.
+* Substituente (etiel en metiel) korrek geïdentifiseer.
+* IUPAC-naam heeltemal korrek insluitende nommering, volgorde, koppeltekens en kommas.
+
+3-ethyl-2-methylhex-2-ene $\checkmark\checkmark\checkmark$ / 3-ethyl-2-methyl-2-hexene  
+3-etiel-2-metielheks-2-een / 3-etiel-2-metiel-2-hekseen (3)
+
+2.2.4 
+
+| Marking criteria/Nasienkriteria: | Marking criteria/Nasienkriteria: |
+| :--- | :--- |
+| • Hydroxyl group on the $1^{\text{st}}$ C-atom. $\checkmark$<br>Hidroksiel groep op $1^{\text{ste}}$ C-atoom. | • Hydroxyl group on the $2^{\text{nd}}$ C-atom. $\checkmark$<br>Hidroksiel groep op $2^{\text{de}}$ C-atoom. |
+| • Whole structure correct. $\checkmark$<br>Hele struktuur korrek. | • Whole structure correct. $\checkmark$<br>Hele struktuur korrek. |
+
+```text
+       H   H   H   H
+       |   |   |   |
+H—O—C——C———C———C———H
+       |   |   |   |
+       H   H   H   H
+     (✓)  (✓) (✓) (✓)
+```
+```text
+       H   H   H   H
+       |   |   |   |
+H—C——C———C———C———H
+       |   |   |   |
+       H   O   H   H
+           |
+           H
+     (✓)  (✓) (✓) (✓)
+```
+
+<u>IF/INDIEN</u>
+* More than one functional group/wrong functional group: $\frac{0}{2}$ per molecule/molekule  
+  Meer as een funksionele groep/foutiewe funksionele groep:
+* Condensed structural formulae used / Gekondenseerde struktuurformules gebruik: Max/Maks. $\frac{2}{4}$
+* Bond between O and H not shown, accept. / Binding tussen O en H nie gewys nie, aanvaar. (4)
+
+2.3 
+2.3.1 Combustion/oxidation / Verbranding/oksidasie $\checkmark$ (1)
+
+2.3.2 
+<u>Marking criteria:</u>
+(a) Volume $\text{O}_2$ and $\text{C}_3\text{H}_8$ used. $\checkmark$  
+(b) Volume $\text{CO}_2$ and $\text{H}_2\text{O}$ produced $\checkmark$  
+(c) Volume $\text{O}_2$ remaining $\checkmark$  
+(d) Addition of the three volumes $\checkmark$  
+(e) Correct final answer $66\text{ cm}^3$ or $0,066\text{ dm}^3$ $\checkmark$
+
+<u>Nasienkriteria:</u>
+(a) Volume $\text{O}_2$ en $\text{C}_3\text{H}_8$ gebruik. $\checkmark$  
+(b) Volume $\text{CO}_2$ en $\text{H}_2\text{O}$ gevorm $\checkmark$  
+(c) Volume $\text{O}_2$ wat oorbly $\checkmark$  
+(d) Optel van drie volumes $\checkmark$  
+(e) Korrekte finale antwoord $66\text{ cm}^3$ of $0,066\text{ dm}^3$ $\checkmark$
+
+**OPTION 1 / OPSIE 1:**  
+$\text{V(O}_2)_{\text{used/gebruik}} = 5\text{V(C}_3\text{H}_8)$  
+$= (5)(8)$  
+$= 40\text{ cm}^3$ $\checkmark\text{ (a)}$  
+
+$\text{V(CO}_2)_{\text{formed/gevrom}} = 3\text{V(C}_3\text{H}_8)$  
+$= (3)(8)$  
+$= 24\text{ cm}^3$  
+
+$\text{V(H}_2\text{O)}_{\text{formed/gevrom}} = 4\text{V(C}_3\text{H}_8)$  
+$= (4)(8)$  
+$= 32\text{ cm}^3$ $\checkmark\text{ (b)}$  
+
+$\text{V(O}_2)_{\text{unused}} = 50 - 40 = 10\text{ cm}^3$ $\checkmark\text{ (c)}$  
+
+Volume gas in the container $= 10 + 24 + 32$ $\checkmark\text{ (d)}$  
+Total volume gas in the container $= 66\text{ cm}^3$ $\checkmark\text{ (e)}$  
+
+**OPTION 2 / OPSIE 2:**  
+
+| | $\text{C}_3\text{H}_8$ | $\text{O}_2$ | $\text{CO}_2$ | $\text{H}_2\text{O}$ |
+| :--- | :---: | :---: | :---: | :---: |
+| Initial volume $(\text{cm}^3)$<br>Aanvanklike volume $(\text{cm}^3)$ | $8$ | $50$ | $0$ | $0$ |
+| Change volume $(\text{cm}^3)$<br>Verandering in volume $(\text{cm}^3)$ | $-8$ $\checkmark\text{ (a)}$ | $-40$ | $24$ $\checkmark\text{ (b)}$ | $32$ |
+| Final volume $(\text{cm}^3)$<br>Finale volume $(\text{cm}^3)$ | $0$ | $10$ $\checkmark\text{ (c)}$ | $24$ | $32$ |
+| Total volume of gases in container $(\text{cm}^3)$<br>Totale volume gas in houer $(\text{cm}^3)$ | | | $10 + 24 + 32$<br>$= 66\text{ cm}^3$ | $\checkmark\text{ (d)}$<br>$\checkmark\text{ (e)}$ |
+
+<u>ACCEPT/AANVAAR:</u>  
+If subtraction not shown, give mark for the $10\text{ cm}^3$. / Indien aftrekking nie getoon, gee punt vir $10\text{ cm}^3$.  
+
+$n(\text{C}_3\text{H}_8) : n(\text{O}_2) : n(\text{CO}_2) : n(\text{H}_2\text{O})$  
+$1 : 5 : 3 : 4$  
+
+$\text{V} = 8 \quad 40 \quad 24 \quad 32$  
+$\checkmark\text{ (a)} \quad \checkmark\text{ (b)}$  
+$\checkmark\text{ (c)}$  
+$\text{Total volume} = 10 + 24 + 32$ $\checkmark\text{ (d)}$  
+$= 66\text{ cm}^3$ $\checkmark\text{ (e)}$  
+
+<u>ACCEPT/AANVAAR:</u>  
+Moles calculated using $22,4\text{ dm}^3$ or any other molar gas volume.  
+Mol bereken deur $22,4\text{ dm}^3$ of ander molêre gasvolume te gebruik.  
+
+<u>Marking criteria:</u>  
+(a) $\text{V(O}_2)$ and $\text{V(C}_3\text{H}_8) / n(\text{O}_2)$ and $n(\text{C}_3\text{H}_8)$ used. $\checkmark$  
+(b) $\text{V(CO}_2)$ and $\text{V(H}_2\text{O)} / n(\text{CO}_2)$ and $n(\text{H}_2\text{O})$ produced. $\checkmark$  
+(c) $\text{V(O}_2) / n(\text{O}_2)$ remaining $\checkmark$  
+(d) Addition of the three volumes/moles $\checkmark$  
+(e) Correct final answer $66\text{ cm}^3$ or $0,066\text{ dm}^3$ $\checkmark$  
+
+<u>Nasienkriteria:</u>  
+(a) $\text{V(O}_2)$ en $\text{V(C}_3\text{H}_8) / n(\text{O}_2)$ en $n(\text{C}_3\text{H}_8)$ gebruik. $\checkmark$  
+(b) $\text{V(CO}_2)$ en $\text{V(H}_2\text{O)} / n(\text{CO}_2)$ en $n(\text{H}_2\text{O})$ gevorm. $\checkmark$  
+(c) $\text{V(O}_2) / n(\text{O}_2)$ wat oorbly $\checkmark$  
+(d) Optel van drie volumes/moles $\checkmark$  
+(e) Korrekte finale antwoord $66\text{ cm}^3$ of $0,066\text{ dm}^3$ $\checkmark$  
+
+$$n(\text{C}_3\text{H}_8) = \frac{\text{V}}{\text{V}_m} = \frac{0,008}{22,4} = 3,571 \times 10^{-4}\text{ mol}$$  
+$$n(\text{O}_2)_{\text{change}} = (5)(3,571 \times 10^{-4}) = 1,7855 \times 10^{-3}\text{ mol}$$  
+$$n(\text{O}_2)_{\text{change}} = \frac{\text{V}}{\text{V}_m} \implies 1,7855 \times 10^{-3} = \frac{\text{V}}{22,4} \implies \text{V(O}_2)_{\text{change}} = 0,04\text{ dm}^3$$ $\checkmark\text{ (a)}$  
+$$\text{V(O}_2)_{\text{remaining}} = 0,05 - 0,04 = 0,01\text{ dm}^3$$ $\checkmark\text{ (c)}$  
+$$n(\text{CO}_2) = (3)(3,571 \times 10^{-4}) = 1,0713 \times 10^{-3}\text{ mol}$$  
+$$n(\text{CO}_2) = \frac{\text{V}}{\text{V}_m} \implies 1,0713 \times 10^{-3} = \frac{\text{V}}{22,4} \implies \text{V(CO}_2) = 0,024\text{ dm}^3$$  
+$$n(\text{H}_2\text{O}) = (4)(3,571 \times 10^{-4}) = 1,43 \times 10^{-3}\text{ mol}$$ $\checkmark\text{ (b)}$  
+$$n(\text{H}_2\text{O}) = \frac{\text{V}}{\text{V}_m} \implies 1,43 \times 10^{-3} = \frac{\text{V}}{22,4} \implies \text{V(H}_2\text{O)} = 0,032\text{ dm}^3$$  
+$$\text{V}_{\text{Total}} = 0,01 + 0,024 + 0,032$$ $\checkmark\text{ (d)}$  
+$$= 0,066\text{ dm}^3$$ $\checkmark\text{ (e)}$  
+
+**OR / OF**  
+
+$$n(\text{C}_3\text{H}_8) = \frac{\text{V}}{\text{V}_m} = \frac{0,008}{22,4} = 3,571 \times 10^{-4}\text{ mol}$$  
+$$n(\text{O}_2)_{\text{change}} = (5)(3,571 \times 10^{-4}) = 1,7855 \times 10^{-3}\text{ mol}$$ $\checkmark\text{ (a)}$  
+$$n(\text{O}_2)_{\text{ini}} = \frac{\text{V}}{\text{V}_m} = \frac{0,05}{22,4} = 2,232 \times 10^{-3}\text{ mol}$$  
+$$n(\text{O}_2)_{\text{remaining}} = 2,232 \times 10^{-3} - 1,7855 \times 10^{-3} = 4,465 \times 10^{-4}\text{ mol}$$ $\checkmark\text{ (c)}$  
+$$n(\text{CO}_2) = (3)(3,571 \times 10^{-4}) = 1,0713 \times 10^{-3}\text{ mol}$$  
+$$n(\text{H}_2\text{O}) = (4)(3,571 \times 10^{-4}) = 1,43 \times 10^{-3}\text{ mol}$$ $\checkmark\text{ (b)}$  
+$$n_{\text{Total}} = 4,465 \times 10^{-4} + 1,0713 \times 10^{-3} + 1,43 \times 10^{-3}$$ $\checkmark\text{ (d)}$  
+$$= 2,95 \times 10^{-3}\text{ mol}$$  
+$$n_{\text{Total}} = \frac{\text{V}}{\text{V}_m} \implies 2,95 \times 10^{-3} = \frac{\text{V}}{22,4} \implies \text{V}_{\text{Total}} = 0,066\text{ dm}^3$$ $\checkmark\text{ (e)}$ (5)  
+**[22]**
+
+---
+
+### **QUESTION 3 / VRAAG 3**
+
+3.1 A series of organic compounds that can be described by the same general formula. $\checkmark$ (1 OR 0)  
+**OR**  
+A series of organic compounds in which one member differs from the next by a $\text{CH}_2$ group.  
+
+'n Reeks organiese verbindings wat deur dieselfde algemene formule beskryf kan word. (1 OF 0)  
+**OF**  
+'n Reeks organiese verbindings waarin die een lid van die volgende verskil met 'n $\text{CH}_2$-groep (1)
+
+3.2 Ester $\checkmark$ and carboxylic acid $\checkmark$ / Ester en karboksielsuur (2)
+
+3.3 
+3.3.1 
+```text
+       H   H   H   O
+       |   |   |   ||
+H—C——C———C———C———O—H
+       |   |   |
+       H   H   H
+     (✓)  (✓)
+```
+<u>Marking criteria/Nasienkriteria:</u>  
+(a) Functional group correct. $\checkmark$ / Funksionele groep korrek.  
+(b) Whole structure correct. $\checkmark$ / Hele struktuur korrek. (2)
+
+3.3.2 Methyl propanoate / Propyl methanoate / Ethyl ethanoate $\checkmark\checkmark$ (2 OR/OF 0)  
+Metielpropanoaat / Propielmetanoaat / Etieletanoaat (2)
+
+3.4 
+3.4.1 Hydrogen bonds / Waterstofbindings $\checkmark$ (1)
+
+3.4.2 Dipole-dipole forces / Dipool-dipoolkragte $\checkmark$ (1)
+
+3.5 A $\checkmark$  
+The hydrogen bond is stronger than the dipole-dipole force. $\checkmark$  
+**OR**  
+The dipole-dipole force is weaker than the hydrogen bonds.  
+**OR**  
+Compound A has stronger intermolecular forces (than B).  
+**OR**  
+Compound B has weaker intermolecular forces (than A).  
+
+Die waterstofbinding is sterker as die dipool-dipoolkrag.  
+**OF**  
+Die dipool-dipoolkragte is swakker as die waterstofbinding.  
+**OF**  
+Verbinding A het sterker intermolekulêre kragte (as B).  
+**OF**  
+Verbinding B het swakker intermolekulêre kragte (as A). (2)
+
+3.6 Decreases / Afneem $\checkmark$ (1)  
+**[12]**
+
+---
+
+### **QUESTION 4 / VRAAG 4**
+
+4.1 
+4.1.1 2-bromo$\checkmark$butane$\checkmark$ / 2-bromobutaan (2)
+
+4.1.2 $\text{NaBr}$ / Sodium bromide / Natriumbromied $\checkmark$ (1)
+
+4.1.3 Addition / Addisie $\checkmark$  
+Hydrohalogenation / Hydrobromination / Hydrohalogenering / Hidrobrominering $\checkmark$ (2)
+
+4.1.4 (Concentrated) sulphuric acid / $\text{H}_2\text{SO}_4$ / Phosphoric acid / $\text{H}_3\text{PO}_4$ / (Gekonsentreerde) swaelsuur / Fosforsuur $\checkmark$ (1)
+
+4.1.5 
+```text
+       H   H   H   H
+       |   |   |   |
+H—C——C———C———C———H
+       |       |
+       H       H
+     (✓)     (✓)
+```
+<u>Marking criteria/Nasienkriteria:</u>  
+(a) Correct functional group. $\checkmark$ / Funksionele groep korrek.  
+(b) Whole structure correct. $\checkmark$ / Hele struktuur korrek.  
+
+<u>IF/INDIEN</u>  
+* More than one functional group/wrong functional group: $\frac{0}{2}$  
+  Meer as een funksionele groep/foutiewe funksionele groep:
+* Correct condensed formula / Korrekte gekondenseerde formule Max: $\frac{1}{2}$ (2)
+
+4.1.6 Concentrated strong base / Gekonsentreerde sterk basis $\checkmark$  
+Concentrated / Gekonsentreerde $\text{NaOH} / \text{KOH} / \text{LiOH}$ (1)
+
+4.2 
+4.2.1 <u>Marking criteria/Nasienkriteria</u>  
+If any one of the underlined key phrases in the correct context is omitted, deduct 1 mark. / Indien enige van die onderstreepte frases in die korrekte konteks uitgelaat is, trek 1 punt af.  
+The underlined phrases must be in the correct context. / Die onderstreepte frases moet in die korrekte konteks wees.  
+
+The chemical process/reaction in which <u>longer chain hydrocarbon/alkane molecules</u> are <u>broken down</u> to <u>shorter (more useful) molecules</u>. $\checkmark\checkmark$  
+Die chemiese proses/reaksie waarin <u>langer kettingkoolwaterstof/alkaan-molekule</u> <u>afgebreek</u> word in <u>korter (meer bruikbare) molekules</u>. (2)
+
+4.2.2 Decolourisation / colour fades / becomes lighter in colour / colourless $\checkmark$  
+Ontkleuring / kleur raak dowwer / word ligter van kleur / kleurloos (1)
+
+4.2.3 
+```text
+       H   H   H
+       |   |   |
+H—C——C———C———H
+     (✓)   |
+           H
+         (✓)
+```
+<u>Marking criteria/Nasienkriteria:</u>  
+(a) Correct functional group. $\checkmark$ / Funksionele groep korrek.  
+(b) Whole structure correct. $\checkmark$ / Hele struktuur korrek. (2)
+
+4.2.4 $\text{X} / \text{C}_3\text{H}_6$ / Propene / Propeen $\checkmark$  
+* $\text{X}$ is unsaturated/has a double bond/is an alkene. $\checkmark$  
+  **ANY ONE**  
+* $\text{X}$ undergoes addition. $\checkmark$  
+  **OR**  
+  Alkenes are more reactive than alkanes / Unsaturated compounds react faster than saturated compounds.  
+  Addition reaction is faster than substitution.  
+  Addition reaction does not need UV/light.  
+
+* $\text{X}$ is onversadig/besit 'n dubbelbinding/is 'n alkeen.  
+  **ENIGE EEN**  
+* $\text{X}$ ondergaan addisie.  
+  **OF**  
+  Alkene is meer reaktief as alkane. / Onversadigde verbindings reageer vinniger as versadigde verbindings.  
+  Addisiereaksie is vinniger as substitusie.  
+  Addisiereaksie benodig nie UV/lig. (3)  
+**[17]**
+
+---
+
+### **QUESTION 5 / VRAAG 5**
+
+5.1 <u>NOTE/LET WEL</u>  
+Give the mark for per unit time only if in context of reaction rate.  
+Gee die punt vir per eenheid tyd slegs indien in konteks met reaksietempo.  
+
+**ANY ONE:**  
+* Change in concentration $\checkmark$ of products/reactants per (unit) time. $\checkmark$  
+* Change in amount/number of moles/volume/mass of products or reactants per (unit) time.  
+* Amount/number of moles/volume/mass of products formed/reactants used per (unit) time.  
+* Rate of change in concentration/amount/number of moles/volume/mass. $\checkmark\checkmark$ (2 or 0)  
+
+**ENIGE EEN:**  
+* Verandering in konsentrasie van produkte/reaktanse per (eenheid) tyd.  
+* Verandering in hoeveelheid/getal mol/volume/massa van produkte of reaktanse per (eenheid) tyd.  
+* Hoeveelheid/getal mol/volume/massa van produkte gevorm/reaktanse gebruik per (eenheid) tyd.  
+* Tempo van verandering in konsentrasie/ hoeveelheid/aantal mol/volume/massa. (2 of 0) (2)
+
+5.2 
+5.2.1 $10\text{ (s)}$ $\checkmark$ (1)
+
+5.2.2 <u>Marking criteria</u>  
+(a) Calculate the change:  
+$\text{[O}_2\text{]}_{\text{final}} - \text{[O}_2\text{]}_{\text{initial}} / n(\text{O}_2)_{\text{final}} - n(\text{O}_2)_{\text{initial}} / n(\text{CO}_2)_{\text{final}} - n(\text{CO}_2)_{\text{initial}}$. $\checkmark$  
+Accept: $0,265\text{ to }0,27$ for $\text{[O}_2\text{]}_{\text{initial}}$  
+(b) Substitute $10\text{ s}$ in rate formula. $\checkmark$  
+(c) Multiply rate / concentration of $\text{O}_2$ by $3\text{ dm}^3$. $\checkmark$  
+(d) USE mol ratio: $n(\text{O}_2) : n(\text{CO}_2) = 1 : 2$ $\checkmark$  
+(e) Final correct answer $= 0,072\text{ (mol}\cdot\text{s}^{-1}\text{)}$ $\checkmark$  
+RANGE: $0,06 - 0,072$  
+
+<u>Nasienkriteria:</u>  
+(a) Bereken die verandering:  
+$\text{[O}_2\text{]}_{\text{finale}} - \text{[O}_2\text{]}_{\text{aanvank}} / n(\text{O}_2)_{\text{finale}} - n(\text{O}_2)_{\text{aanvanklik}} / n(\text{CO}_2)_{\text{finale}} - n(\text{CO}_2)_{\text{aanvanklik}}$ $\checkmark$  
+Aanvaar: $0,265\text{ tot }0,27$ vir $\text{[O}_2\text{]}_{\text{aanvank}}$  
+(b) Vervang $10\text{ s}$ in tempoformule. $\checkmark$  
+(f) Vermenigvuldig tempo/konsentrasie $\text{O}_2$ met $3\text{ dm}^3$. $\checkmark$  
+(c) Gebruik molverhouding: $n(\text{O}_2) : n(\text{CO}_2) = 1 : 2$ $\checkmark$  
+(d) Finale korrekte antwoord $= 0,072\text{ (mol}\cdot\text{s}^{-1}\text{)}$ $\checkmark$  
+GEBIED: $0,06 - 0,072$  
+
+**OPTION 1 / OPSIE 1:**  
+$$\text{Rate/Tempo} = -\frac{\Delta c(\text{O}_2)}{\Delta t}$$  
+$$= -\left(\frac{0,15 - 0,27}{10 - 0}\right) \checkmark\text{ (a)} \checkmark\text{ (b)}$$  
+$$= 0,012\text{ mol}\cdot\text{dm}^{-3}\cdot\text{s}^{-1}$$  
+
+$$\text{Rate/Tempo (O}_2\text{) in mol}\cdot\text{s}^{-1} = c\text{V}$$  
+$$= (0,012)(3) \checkmark\text{ (c)}$$  
+$$= 0,036\text{ mol}\cdot\text{s}^{-1}$$  
+
+$$\text{Rate/Tempo (CO}_2) = 2 \times \text{rate (O}_2)$$  
+$$= 2 \times 0,036 \checkmark\text{ (d)}$$  
+$$= 0,072\text{ (mol}\cdot\text{s}^{-1}\text{)} \checkmark\text{ (e)}$$  
+
+**OPTION 2 / OPSIE 2:**  
+$$\Delta c(\text{O}_2) = 0,27 - 0,15 \checkmark\text{ (a)}$$  
+$$= 0,12\text{ mol}\cdot\text{dm}^{-3}$$  
+$$\Delta n(\text{O}_2) = c\text{V} = 0,12(3) = 0,36\text{ mol}$$  
+$$\Delta n(\text{CO}_2) = 2n(\text{O}_2) \checkmark\text{ (c)}$$  
+$$= 2(0,36) = 0,72\text{ mol}$$  
+$$\text{Rate(CO}_2) = \frac{\Delta n}{\Delta t} = \frac{0,72}{10 - 0} \checkmark\text{ (b)}$$  
+$$= 0,072\text{ (mol}\cdot\text{s}^{-1}\text{)} \checkmark\text{ (e)}$$  
+
+**OPTION 3 / OPSIE 3:**  
+$$n(\text{O}_2)_{\text{at }0\text{s}} = c\text{V} = 0,27 \times 3 \checkmark\text{ (c)} = 0,81\text{ mol}$$  
+$$n(\text{O}_2)_{\text{at }10\text{s}} = c\text{V} = 0,15 \times 3 = 0,45\text{ mol}$$  
+$$\text{Rate (O}_2) = -\frac{\Delta n}{\Delta t} = -\left(\frac{0,45 - 0,81}{10 - 0}\right) \checkmark\text{ (a)} \checkmark\text{ (b)}$$  
+$$= 0,036\text{ mol}\cdot\text{s}^{-1}$$  
+$$\text{Rate (CO}_2) = 2 \times \text{rate (O}_2) = 2 \times 0,036 \checkmark\text{ (d)} = 0,072\text{ (mol}\cdot\text{s}^{-1}\text{)} \checkmark\text{ (e)}$$ (5)
+
+5.2.3 $\text{O}_2$ / Oxygen / Suurstof $\checkmark$ (1)
+
+5.2.4 Increases / Neem toe $\checkmark$  
+Higher reaction rate. / Concentration of reactants are higher. $\checkmark$  
+Hoër reaksietempo. / Konsentrasie van die reaktanse is hoër.  
+
+<u>ACCEPT/AANVAAR:</u> pressure increased / druk verhoog. (2)
+
+5.3 
+5.3.1 Absorption / Absorpsie $\checkmark$ (1)
+
+5.3.2 <u>Marking criteria/Nasienkriteria:</u>  
+If any one of the underlined key phrases in the correct context is omitted, deduct 1 mark. / Indien enige van die onderstreepte frases in die korrekte konteks uitgelaat is, trek 1 punt af.  
+The underlined phrases must be in the correct context. / Die onderstreepte frases moet in die korrekte konteks wees.  
+
+Unstable (high energy) <u>transition state</u> <u>from reactants to products</u>. $\checkmark\checkmark$  
+Onstabiele (hoë energie) <u>oorgangstoestand</u> <u>van reaktanse na produkte</u>.  
+
+<u>ACCEPT/AANVAAR:</u>  
+Unstable (high energy) <u>transition state</u> <u>between reactants and products</u>. $\checkmark\checkmark$  
+Onstabiele (hoë energie) <u>oorgangstoestand</u> <u>tussen reaktanse en produkte</u>. (2)
+
+5.3.3 * Catalyst provides an alternative path with lower activation energy / lowers the activation energy. $\checkmark$  
+* More particles have sufficient (kinetic) energy / kinetic energy greater (or equal to) activation energy. $\checkmark$  
+* More effective collisions per unit time/second. $\checkmark$  
+  **OR**  
+  Higher frequency of effective collisions.  
+
+* Katalisator verskaf 'n alternatiewe roete met 'n laer aktiveringsenergie / Verlaag die aktiveringsenergie. $\checkmark$  
+* Meer deeltjies het genoeg (kinetiese) energie / kinetiese energie groter (of gelyk aan) aktiveringsenergie. $\checkmark$  
+* Meer effektiewe botsings per eenheid tyd/sekonde. $\checkmark$  
+  **OF**  
+  Hoër frekwensie van effektiewe botsings. (3)
+
+5.3.4 Remains the same / Bly dieselfde $\checkmark$ (1)
+
+5.3.5 <u>Marking criteria:</u>  
+* Both curves start at origin and have correct shape with peaks at same $E_k$. $\checkmark$  
+* Peak of curve Y must be higher than curve X with peaks at same $E_k$. $\checkmark$  
+
+<u>Nasienkriteria:</u>  
+* Beide kurwes begin by die oorsprong en het dieselfde vorm met maksimums by dieselfde $E_k$. $\checkmark$  
+* Maksimum van kurwe Y moet hoër wees as kurwe X met maksimums by dieselfde $E_k$. $\checkmark$  
+
+<u>IF/INDIEN:</u>  
+* Both curves not labelled. / Beide kurwes nie benoem: $\frac{0}{2}$  
+* Curves intersect

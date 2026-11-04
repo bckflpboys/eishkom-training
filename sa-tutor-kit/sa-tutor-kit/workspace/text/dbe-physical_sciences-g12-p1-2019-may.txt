@@ -1,0 +1,965 @@
+=== page 1 ===
+Copyright reserved  Please turn over
+
+SENIOR CERTIFICATE EXAMINATIONS/
+NATIONAL SENIOR CERTIFICATE EXAMINATIONS
+
+PHYSICAL SCIENCES:  PHYSICS (P1)
+
+2019
+
+MARKS:  150
+
+TIME:  3 hours
+
+This question paper consists of 16 pages and 3 data sheets.
+
+=== page 2 ===
+Physical Sciences/P1 2 DBE/2019
+ SC/NSC
+Copyright reserved  Please turn over
+
+INSTRUCTIONS AND INFORMATION
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+Write your examination number and centre number in the appropriate spaces
+on the ANSWER BOOK.
+
+This question paper consists of TEN questions. Answer ALL the questions in
+the ANSWER BOOK.
+
+Start EACH question on a NEW page in the ANSWER BOOK.
+
+Number the answers correctly according to the numbering system used in this
+question paper.
+
+Leave ONE line between two subquestions, e.g. between QUESTION 2.1 and
+QUESTION 2.2.
+
+You may use a non-programmable calculator.
+
+You may use appropriate mathematical instruments.
+
+Show ALL formulae and substitutions in ALL calculations.
+
+Round off your FINAL numerical answers to a minimum of TWO decimal
+places.
+
+Give brief motivations, discussions, etc. where required.
+
+You are advised to use the attached DATA SHEETS.
+
+Write neatly and legibly.
+
+=== page 3 ===
+Physical Sciences/P1 3 DBE/2019
+ SC/NSC
+Copyright reserved  Please turn over
+
+QUESTION 1:  MULTIPLE-CHOICE QUESTIONS
+
+Various options are provided as possible answers to the following questions. Choose
+the answer and write only the letter (A–D) next to the question numbers (1.1 to 1.10) in
+the ANSWER BOOK, e.g. 1.11 D.
+
+1.1 A car is moving at a constant velocity.
+
+Which ONE of the following statements  about the forces acting on the car is
+CORRECT?
+
+ A
+
+B
+
+C
+
+D
+The net force acting on the car is zero.
+
+There are no forces acting on the car.
+
+The weight of the car is equal to the normal force acting on the car.
+
+There is a non-zero net force acting on the car.
+
+(2)
+
+1.2 A ball is projected vertically upwards. Ignore air resistance.
+
+Which ONE of the following statements about the acceleration of the ball at its
+maximum height is CORRECT?
+
+The acceleration is equal to …
+
+ A
+
+B
+
+C
+
+D
+zero.
+
+g and is directed downwards.
+
+g and is directed upwards.
+
+g and is directed horizontally.
+
+(2)
+
+=== page 4 ===
+Physical Sciences/P1 4 DBE/2019
+ SC/NSC
+Copyright reserved  Please turn over
+Gravitational force
+Distance from the centre of Earth
+2R 6R R
+F
+¼F
+x
+
+1.3 The graph below , not drawn  to scale,  shows the relationship between the
+gravitational force on a given mass and its distance from the centre of Earth.
+
+The magnitude of the force on the mass at a distance  R from the cent re of
+Earth is F.
+
+ Which ONE of the following is the CORRECT representation of the magnitude
+of force x shown on the graph?
+
+ A
+
+B
+
+C
+
+D
+6F
+
+12F
+
+6
+1
+F
+
+36
+1
+F
+
+(2)
+
+1.4 Ball M, moving at speed v to the right , collides with a stationary ball N on a
+smooth horizontal surface. Immediately a fter the collision, ball M comes to
+rest and ball N moves to the right with speed v.
+
+Which ONE of the following  statements about the collision of the balls  is
+CORRECT?
+
+ A
+
+B
+
+C
+
+D
+Total momentum is conserved and the masses of the balls are unequal.
+
+Total kinetic energy is conserved and the masses of the balls are
+unequal
+
+Total momentum and total kinetic energy are conserved and the masses
+of the balls are equal.
+
+Total momentum is conserved but total kinetic energy is not conserved
+and the masses of the balls are equal.
+
+(2)
+
+=== page 5 ===
+Physical Sciences/P1 5 DBE/2019
+ SC/NSC
+Copyright reserved  Please turn over
+
+1.5 A small stone is dropped from rest and undergoes free fall.
+
+Which ONE of the graphs below shows the CORRECT relation ship between
+the gravitational potential energy (U)  and speed v and the kinetic energy (K)
+and speed v, respectively, for the stone? The graphs are NOT drawn to scale.
+
+ A
+
+B
+ C
+
+D
+
+(2)
+
+1.6 A stationary passenger at a railway station listens to a train approaching at
+constant speed.
+
+Which ONE of the following is CORRECT for the sound of the approaching
+train heard by the stationary passenger?
+
+ A
+
+B
+
+C
+
+D
+Lower pitch, lower frequency
+
+Higher pitch, lower frequency
+
+Higher pitch, higher frequency
+
+Lower pitch, higher frequency
+
+(2)
+
+Energy (J) Energy (J) U K
+v (m∙s-1)
+U K
+v (m∙s-1)
+Energy (J)
+U K
+v (m∙s-1)
+Energy (J)
+U
+K
+v (m∙s-1)
+
+=== page 6 ===
+Physical Sciences/P1 6 DBE/2019
+ SC/NSC
+Copyright reserved  Please turn over
+
+1.7 Particle P has charge Q and particle R has charge 2Q. They are separated by
+a small distance, r.
+
+Which ONE of the statements below about the electrostatic forces, FPR, which
+P exerts on R and FRP, which R exert on P, is CORRECT?
+
+ A
+
+B
+
+C
+
+D
+FPR = ½FRP
+
+FPR = FRP
+
+FPR = 2FRP
+
+FPR = –FRP
+
+(2)
+
+1.8 A battery of emf Ɛ and negligible internal resistance is connected in a circuit ,
+as shown below. The resistances of R1 and R2 are high.
+
+ Which ONE of the following combinations about the ammeter readings will be
+CORRECT when switch S is open and when switch S is closed?
+
+  SWITCH OPEN SWITCH CLOSED
+ A Ammeter reads only the current
+in R1
+Ammeter reads only the current
+in R2
+
+ B Ammeter reads only the current in R2  Ammeter reads the current in both R1 and R2
+ C Ammeter reads the current in both R1 and R2 Ammeter reads the current in both R1 and R2
+ D Ammeter reads the current
+in both R1 and R2
+Ammeter reads the current
+in R2 only
+
+(2)
+
+1.9 The direction of the induced current in the coil of a generator depends on
+the …
+
+ A
+
+B
+
+C
+
+D
+length of the coil.
+
+speed of rotation of the coil.
+
+direction of the magnetic field.
+
+strength of the magnetic field.
+
+(2)
+
+R2
+A
+●
+●
+R1
+Ɛ
+S
+
+=== page 7 ===
+Physical Sciences/P1 7 DBE/2019
+ SC/NSC
+Copyright reserved  Please turn over
+
+1.10 The work function of zinc is greater than that of magnesium.
+
+Which ONE of the following statements about the threshold frequencies of the
+metals is CORRECT?
+
+ A
+
+B
+
+C
+
+D
+The threshold frequency of zinc is greater than that of magnesium.
+
+The threshold frequency of zinc is smaller than that of magnesium.
+
+Both zinc and magnesium have the same threshold frequency.
+
+The threshold frequencies of zinc and magnesium are independent of
+their work functions.
+
+(2)
+    [20]
+
+=== page 8 ===
+Physical Sciences/P1 8 DBE/2019
+ SC/NSC
+Copyright reserved  Please turn over
+40o
+
+QUESTION 2 (Start on a new page.)
+
+2.1 A person push es a lawn mower of mass 15 kg at a constant speed  in a
+straight line over a flat grass surface with a force of 90 N. The force is directed
+along the handle of the  lawn mower. The handle has been set at an angle of
+40° to the horizontal. Refer to the diagram below.
+
+ 2.1.1 Draw a labelled free-body diagram for the lawn mower.  (4)
+
+ 2.1.2 Why is it CORRECT to say that the moving lawn mower is in
+equilibrium?
+
+(1)
+
+ 2.1.3 Calculate the magnitude of  the frictional force  acting betwe en the
+lawn mower and the grass
+
+(3)
+
+ The lawn mower is now brought to a stop.
+
+ 2.1.4 Calculate the magnitude of the  constant force that must be applied
+through the handle in order to accelerate the lawn mower from
+rest to 2 m∙s -1 in a time of 3 s. Assume that the frictional force
+between the lawn mower and grass remains the same as in
+QUESTION 2.1.3.
+
+(6)
+
+2.2 Planet Y has a radius of 6 x 105 m. A 10 kg mass weighs 20 N on the surface
+of planet Y.
+
+Calculate the mass of planet Y.
+
+(4)
+   [18]
+
+=== page 9 ===
+Physical Sciences/P1 9 DBE/2019
+ SC/NSC
+Copyright reserved  Please turn over
+
+QUESTION 3 (Start on a new page.)
+
+A ball is thrown vertically upwards, with velocity v, from the edge of a roof of a 40 m tall
+building. The ball takes 1,53 s to reach its maximum height. Ignore air resistance.
+
+3.1 Define the term free fall.  (2)
+
+3.2 Calculate the:
+
+ 3.2.1 Magnitude of the initial velocity v of the ball  (3)
+
+ 3.2.2 Maximum height reached by the ball above the edge of the roof  (3)
+
+3.3 Take the edge of the roof as reference  point. Determine the position of the
+ball relative to the edge of the roof after 4 s.
+
+(3)
+
+3.4 Will any of the answers to QUESTION S 3.2 and 3.3 change if the height of
+the building is 30 m? Choose from YES or NO.
+
+Give a reason for the answer.
+
+(3)
+   [14]
+
+40 m
+v
+
+=== page 10 ===
+Physical Sciences/P1 10 DBE/2019
+ SC/NSC
+Copyright reserved  Please turn over
+0,45 kg
+9 m∙s-1
+ball
+0,20 kg container at rest
+BEFORE
+W
+S
+E
+N
+0,45 kg
+0,20 kg container
+AFTER
+
+QUESTION 4 (Start on a new page.)
+
+A soccer player kicks a ball of mass 0,45 kg to the east. The ball travel s horizontally at
+a velocity of 9 m s-1 along a straight line , without touching the ground, and enters a
+container lying at rest on its side , as shown in the diagram below . The mass of the
+container is 0,20 kg.
+
+The ball is stuck in the container after the collision. The ball and container  now move
+together along a straight line towards the east. Ignore friction and rotational effects.
+
+4.1 State the principle of conservation of linear momentum in words.   (2)
+
+4.2 Calculate the m agnitude of the velocity of the ball -container system
+immediately after the collision.
+
+(4)
+
+4.3 Determine, by means of a suitable calculation, whether the collision between
+the ball and container is elastic or inelastic.
+
+(5)
+   [11]
+
+=== page 11 ===
+Physical Sciences/P1 11 DBE/2019
+ SC/NSC
+Copyright reserved  Please turn over
+
+QUESTION 5 (Start on a new page.)
+
+A 70 kg box is initially at rest at the bottom o f a ROUGH plane inclined at an angle of
+30° to the horizontal. The box is pulled up the plane by means of a light inextensible
+rope, held parallel to the plane , as shown in the diagram below. The force applied to
+the rope is 700 N.
+
+5.1 What is the name given to the force in the rope?  (1)
+
+5.2 Give a reason why the mechanical energy of t he system will NOT be
+conserved as the box is pulled up the plane.
+
+(1)
+
+The box is pulled up over a distance of 4 m along the plane. The kinetic frictional force
+between the box and the plane is 178,22 N.
+
+5.3 Draw a labelled free-body diagram for the box as it moves up the plane.  (4)
+
+5.4 Calculate the work done on the box by the frictional force over the 4 m.  (3)
+
+5.5 Use energy principles to calculate the speed of the box after it has
+moved 4 m.
+
+(5)
+
+5.6 When the box is 4 m up the incline, t he rope accidentally breaks, causing the
+box to slide back down to the bottom of the inclined plane.
+
+What will be the total work done by friction  when the box moves up and then
+down to the bottom of the inclined plane?
+
+(1)
+   [15]
+
+30°
+70 kg
+700 N
+
+=== page 12 ===
+Physical Sciences/P1 12 DBE/2019
+ SC/NSC
+Copyright reserved  Please turn over
+932
+
+Detected  frequency (Hz)
+ 0   10 time (s)
+
+QUESTION 6 (Start on a new page.)
+
+6.1 A patrol car is moving at a constant speed towards a stationary observer . The
+driver switches on the siren of the car when it is 300 m away from the
+observer.
+
+The observer records the detected frequency of the sound waves of the siren
+as the patrol car approaches, passes and moves away from him.
+
+The information obtained is shown in the graph below.
+
+ 6.1.1 Calculate the speed of the patrol car.  (2)
+
+ 6.1.2 State the Doppler effect.  (2)
+
+ 6.1.3 The detected frequency suddenly changes at t = 10 s. Give a reason
+for this change.
+
+(2)
+
+ Take the speed of sound in air as 340 m∙s-1.
+
+ 6.1.4 Calculate the frequency of the sound emitted by the siren.   (4)
+
+6.2 State TWO applications of the Doppler effect.  (2)
+   [12]
+
+=== page 13 ===
+Physical Sciences/P1 13 DBE/2019
+ SC/NSC
+Copyright reserved  Please turn over
+● ●
+q1 = –3 x 10-9 C q2
+30 cm
+●
+P
+10 cm
+
+QUESTION 7 (Start on a new page.)
+
+Two point charges, q 1 and q 2, are placed 30  cm apart along a st raight line .
+Charge q 1 = –3 x 10 -9 C. Point P is 10 cm to the left  of q 1, as shown in the diagram
+below. The net electrostatic field at point P is zero.
+
+7.1 Define the term electric field at a point.  (2)
+
+7.2 State, giving reasons, whether point charge q2 is positive or negative.  (3)
+
+7.3 Calculate the magnitude of charge q2.  (4)
+
+7.4 State Coulomb's law in words.  (2)
+
+7.5 Calculate the magnitude of the electrostatic force exerted by charge q 1 on
+charge q2.
+
+(3)
+
+7.6 The two c harges are now brought into contact with each other and are then
+separated. A learner draws the electric field pattern for the new charges q 3
+and q4 after contact, as shown below.
+
+ Is the diagram CORRECT? Give a reason for the answer.  (2)
+[16]
+
+=== page 14 ===
+Physical Sciences/P1 14 DBE/2019
+ SC/NSC
+Copyright reserved  Please turn over
+
+QUESTION 8 (Start on a new page.)
+
+8.1 Three identical light bulbs, A, B and C, are each rated at 6 W, 12 V.
+
+ 8.1.1 Define the term power.  (2)
+
+ 8.1.2 Calculate the resistance of EACH bulb when used as rated.  (3)
+
+ The l ight bulbs are connected in a circuit with a battery having an emf ( )
+of 12 V and internal resistance (r) of 2 . Refer to the diagram below.
+
+Assume that the resistance of each light bulb is the same as that calculated in
+QUESTION 8.1.2. Switch S is closed.
+
+ 8.1.3 Calculate the total current in the circuit.  (5)
+
+ 8.1.4 Calculate the potential difference across light bulb C.  (3)
+
+ 8.1.5 Explain why light bulb C in the circuit will NOT burn at its maximum
+brightness.
+
+(3)
+
+8.2 Resistors A, B, C and D are connected to a battery  having emf () and
+negligible internal resistance, as shown in the diagram below.
+
+ 8.2.1 Give a reason why the current in resistor A is greater than that in
+resistor C.
+
+(2)
+
+ 8.2.2 Resistor C is removed. How will the current in resistor B compare to
+the current in A? Give a reason for the answer.
+
+(2)
+    [20]
+● ●
+S
+ = 12 V
+r = 2 
+A
+B C
+
+A
+ B
+
+C
+D
+
+=== page 15 ===
+Physical Sciences/P1 15 DBE/2019
+ SC/NSC
+Copyright reserved  Please turn over
+
+QUESTION 9 (Start on a new page.)
+
+The diagram below shows the voltage output of a generator.
+
+9.1 Does this generator have split rings or slip rings?  (1)
+
+9.2 Which ONE of the diagrams  below, A or B, shows the position of the
+generator's coil at time = 0,10 s?
+
+(1)
+
+9.3 Calculate the root mean square (rms) voltage for this generator.  (3)
+
+9.4 A device with a resistance of 40  is connected to this generator.
+
+Calculate the:
+
+ 9.4.1 Average power delivered by the generator to the device  (3)
+
+ 9.4.2 Maximum current delivered by the generator to the device  (4)
+    [12]
+
+Potential difference (V)
+0
++ 312
+time (s)
+– 312
+0,20 0,10 0,30
+● ● ●
+Direction of uniform
+magnetic field
+Diagram A
+Diagram B
+
+=== page 16 ===
+Physical Sciences/P1 16 DBE/2019
+ SC/NSC
+Copyright reserved
+A
+potassium metal plate
+incident light
+
+QUESTION 10 (Start on a new page.)
+
+A potassium metal plate is irradiated with light  of wavelength 5 x 10 -7 m
+in an arrangement , as shown below. The threshold frequency o f potassium is
+5,55 x 1014 Hz.
+
+10.1 Define the term threshold frequency.  (2)
+
+10.2 Calculate the energy of a photon incident on the metal plate.  (3)
+
+10.3 Using a suitable calculation, prove that the ammeter will show a reading.   (4)
+
+10.4 The intensity of the light is now increased. Explain why this change causes an
+increase in the ammeter reading.
+
+(3)
+   [12]
+
+ TOTAL:  150
+
+=== page 17 ===
+Physical Sciences/P1 1 DBE/2019
+ SC/NSC
+Copyright reserved  Please turn over
+
+DATA FOR PHYSICAL SCIENCES GRADE 12
+PAPER 1 (PHYSICS)
+
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 12
+VRAESTEL 1 (FISIKA)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Acceleration due to gravity
+Swaartekragversnelling g 9,8 m·s-2
+Universal gravitational constant
+Universele gravitasiekonstant G 6,67 x 10-11 N·m2·kg-2
+Radius of the Earth
+Radius van die Aarde RE 6,38 x 106 m
+Mass of the Earth
+Massa van die Aarde ME 5,98 x 1024 kg
+Speed of light in a vacuum
+Spoed van lig in 'n vakuum c 3,0 x 108 m·s-1
+Planck's constant
+Planck se konstante h 6,63 x 10-34 J·s
+Coulomb's constant
+Coulomb se konstante k 9,0 x 109 N·m2·C-2
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Electron mass
+Elektronmassa me 9,11 x 10-31 kg
+
+=== page 18 ===
+Physical Sciences/P1 2 DBE/2019
+ SC/NSC
+Copyright reserved  Please turn over
+
+TABLE 2:  FORMULAE/TABEL 2:  FORMULES
+
+MOTION/BEWEGING
+tavv if 
+
+2
+2
+1
+i taΔtvΔx   or/of
+2
+2
+1
+i taΔtvΔy 
+xa2vv
+2
+i
+2
+f 
+ or/of
+ya2vv
+2
+i
+2
+f 
+Δt2 vvΔx fi    or/of
+Δt2 vvΔy fi  
+
+FORCE/KRAG
+
+maFnet
+
+mvp
+Nμ=f s
+max
+s
+
+Nμ =f kk
+if
+net
+mv- mv=pΔ
+pΔ=tΔF
+
+mgw
+
+2
+21
+d
+mmG=F
+       or/of
+2
+21
+r
+mmG=F
+
+2d
+MG =g
+2r
+MG =g
+WORK, ENERGY AND POWER/ARBEID, ENERGIE EN DRYWING
+
+xΔF=W
+cos
+
+mghU           or/of
+mghEP 
+2mv21K
+       or/of
+2
+k mv21E 
+KWnet 
+        or/of
+knet EW 
+
+if KKK 
+     or/of
+kikfk EEE 
+UKWnc 
+ or/of
+pknc EEW 
+
+t
+WP 
+Pave = Fvave    / Pgemid = Fvgemid
+
+WAVES, SOUND AND LIGHT/GOLWE, KLANK EN LIG
+
+ fv
+
+f
+1T
+s
+s
+L
+L fvv vvf 
+
+or/of
+
+b
+b
+L
+L fvv vvf 
+hfE     or /of
+
+ hcE
+
+)k(max/maks0 E+ W=E
+  or/of
+max/maks0 K+ W=E   where/waar
+hf  E
+ and/en
+00 hfW   and/en
+2
+maksmax/)maks(max/k mv21=E    or/of
+2
+maksmax/maksmax/ mv21=K
+
+or/of
+
+=== page 19 ===
+Physical Sciences/P1 3 DBE/2019
+ SC/NSC
+Copyright reserved
+
+ELECTROSTATICS/ELEKTROSTATIKA
+
+2
+21
+r
+QkQF
+
+2r
+kQE 
+q
+WV
+
+q
+FE
+
+e
+Q=n
+eq
+Q=n
+
+ELECTRIC CIRCUITS/ELEKTRIESE STROOMBANE
+
+I
+VR
+
+emf (
+ε ) = I(R + r)
+
+emk (
+ε ) = I(R + r)
+...RRR 21s 
+
+...R1R1R1 21p 
+
+tq  I
+W = Vq
+
+W = VI
+ t
+
+W = I2R
+ t
+
+W =
+R
+ΔtV2
+Δt
+WP 
+
+P = VI
+
+RP 2I
+
+R
+VP 2
+
+ALTERNATING CURRENT/WISSELSTROOM
+
+2
+max
+rms
+II 
+             /
+2
+maks
+wgk
+II 
+
+2
+VV maxrms 
+           /
+2
+VV makswgk 
+rmsrmsave VP I
+     /
+wgkwgkgemiddeld VP I
+
+RP 2rmsave I
+       /
+RP 2wgkgemiddeld I
+
+R
+VP 2rmsave
+       /
+R
+VP 2wgkgemiddeld
+
+or / of

@@ -1,0 +1,1369 @@
+=== page 1 ===
+Copyright reserved  Please turn over
+
+MARKS:  150
+
+TIME:  3 hours
+
+This question paper consists of 14 pages and 4 data sheets.
+
+PHYSICAL SCIENCES:  CHEMISTRY (P2)
+
+NOVEMBER 2019
+
+NATIONAL
+SENIOR CERTIFICATE
+GRADE 12
+
+=== page 2 ===
+Physical Sciences/P2 2 DBE/November 2019
+ NSC
+Copyright reserved  Please turn over
+
+INSTRUCTIONS AND INFORMATION
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+Write your centre number and examination number in the appropriate spaces
+on the ANSWER BOOK.
+
+This question paper consists of TEN questions. Answer ALL the questions in
+the ANSWER BOOK.
+
+Start EACH question on a NEW page in the ANSWER BOOK.
+
+Number the answers correctly according to the numbering system used in this
+question paper.
+
+Leave ONE line between two subquestions, e.g. between QUESTION 2.1 and
+QUESTION 2.2.
+
+You may use a non-programmable calculator.
+
+You may use appropriate mathematical instruments.
+
+You are advised to use the attached DATA SHEETS.
+
+Show ALL formulae and substitutions in ALL calculations.
+
+Round off your FINAL numerical answers to a minimum of TWO decimal
+places.
+
+Give brief motivations, discussions, etc. where required.
+
+Write neatly and legibly.
+
+=== page 3 ===
+Physical Sciences/P2 3 DBE/November 2019
+ NSC
+Copyright reserved  Please turn over
+
+QUESTION 1:  MULTIPLE-CHOICE QUESTIONS
+
+Four options are provided as possible answers to the following questions. Choose the
+answer and w rite only the letter (A –D) next to the question number s (1.1 to 1.10) in
+the ANSWER BOOK, e.g. 1.11 E.
+
+1.1 Which ONE of the following compounds has the HIGHEST vapour pressure?
+
+ A
+
+B
+
+C
+
+D
+HCOOH
+
+CH3CHO
+
+CH3CH2OH
+
+CH3CH2CH3
+
+(2)
+
+1.2 Which ONE of the formulae below represents the product of a
+POLYMERISATION reaction?
+
+A
+
+B
+
+C
+
+D
+
+(2)
+
+1.3 Which ONE of the following combinations are BOTH UNSATURATED
+HYDROCARBONS?
+
+ A
+
+B
+
+C
+
+D
+Ethane and ethene
+
+Ethene and ethyne
+
+Ethane and ethanol
+
+Ethanoic acid and ethene
+
+(2)
+C C
+H
+H H
+H
+n
+O C C H
+H
+H H
+H
+H
+H C C
+H
+H H
+H
+O C C
+O H
+H
+H
+O C C
+H H
+H
+H
+
+=== page 4 ===
+Physical Sciences/P2 4 DBE/November 2019
+ NSC
+Copyright reserved  Please turn over
+
+1.4 Which ONE of the following  sets of values for activation energy (Ea) and heat
+of reaction (∆H) is possible for a reaction?
+
+ACTIVATION ENERGY
+(Ea)
+(kJ∙mol-1)
+HEAT OF REACTION
+(∆H)
+(kJ∙mol-1)
+
+(2)
+A 100 +100
+B 50 +100
+C 50 +50
+D 100 -50
+
+1.5 Consider the following balanced equation for a system at equilibrium:
+
+2SO2(g)  +  O2(g)  ⇌  2SO3(g)
+
+How will the addition of a catalyst to the equilibrium mixture affect the YIELD
+and REACTION RATE?
+
+  YIELD REACTION RATE
+(2)
+A Increases Increases
+B Remains the same Remains the same
+C Remains the same Increases
+D Decreases Increases
+
+1.6 A hypothetical reaction reaches equilibrium  at a certain temperature  in a
+closed container according to the following balanced equation:
+
+A(g)  +  2B(g)  ⇌  3C(s)      ∆H < 0
+
+Which ONE of the following changes to the equilibrium conditions will result in
+an INCREASE in the equilibrium constant, Kc?
+
+ A
+
+B
+
+C
+
+D
+Increase in temperature
+
+Decrease in temperature
+
+Increase in pressure at constant temperature
+
+Decrease in pressure at constant temperature
+
+(2)
+
+=== page 5 ===
+Physical Sciences/P2 5 DBE/November 2019
+ NSC
+Copyright reserved  Please turn over
+
+1.7 A hydr ochloric acid  solution, HCℓ(aq), and an acetic acid  solution,
+CH3COOH(aq), of EQUAL CONCENTRATIONS are compared.
+
+How do  the H 3O+(aq) concentration of HCℓ(aq) and the pH of HCℓ(aq)
+compare to that of CH3COOH(aq)?
+
+  [H3O+] of HCℓ(aq) pH of HCℓ(aq)
+(2)
+A Higher than Higher than
+B Higher than Lower than
+C Equal to Equal to
+D Higher than Equal to
+
+1.8 Two hypothetical  half-reactions and their respective reduction potentials are
+shown below:
+
+   B+(aq)  +  e-  ⇌  B(s)              Eθ = -1,5 V
+A2+(aq)  +  2e-  ⇌  A(s)                    Eθ =  2,5 V
+
+A galvanic cell is set up using the above substances.
+
+Which ONE of the following statements is CORRECT for this galvanic cell?
+
+ A
+
+B
+
+C
+
+D
+B(s) is the reducing agent.
+
+A(s) is the oxidising agent.
+
+The mass of B(s) will increase.
+
+The mass of A(s) will decrease.
+
+(2)
+
+1.9 In an electrolytic cell …
+
+ A
+
+B
+
+C
+
+D
+the anode is the positive electrode.
+
+oxidation takes place at the cathode.
+
+electrons flow from the cathode to the anode.
+
+the mass of the anode increases.
+
+(2)
+
+1.10 Which ONE of the following is used as a catalyst in the Ostwald process?
+
+ A
+
+B
+
+C
+
+D
+Iron
+
+Copper
+
+Platinum
+
+Vanadium (V) oxide
+
+(2)
+    [20]
+
+=== page 6 ===
+Physical Sciences/P2 6 DBE/November 2019
+ NSC
+Copyright reserved  Please turn over
+
+QUESTION 2 (Start on a new page.)
+
+ 2.1.1 Write down the GENERAL FORMULA of the homologous  series to
+which this compound belongs.
+
+(1)
+
+2.2 The organic compound below has one positional isomer and one functional
+isomer.
+
+ 2.2.1 Define the term positional isomer.  (2)
+
+ For this compound, write down the:
+
+ 2.2.2 IUPAC name of its POSITIONAL isomer  (2)
+
+ 2.2.3 Structural formula of its FUNCTIONAL isomer  (2)
+
+2.3 Consider the condensed structural formula of an organic compound below.
+
+ 2.3.1 Is this a PRIMARY, SECONDARY or TERTIARY alcohol?
+Give a reason for the answer.
+
+(2)
+
+ 2.3.2 Write down the IUPAC name of the above compound.  (2)
+
+ 2.3.3 Write down the IUPAC name of the MA JOR ORGANIC PRODUCT
+formed when this compound undergoes an elimination reaction.
+
+(2)
+    [16]
+
+2.1 The IUPAC name of an organic compound is 4,4-dimethylpent-2-yne.
+ 2.1.2 Write down the STRUCTURAL formula of this compound.  (3)
+C
+O
+H C C C
+H
+H
+H
+H H
+H
+H
+H
+H
+C
+OH
+CH3CH2C(CH3)CH3
+
+=== page 7 ===
+Physical Sciences/P2 7 DBE/November 2019
+ NSC
+Copyright reserved  Please turn over
+
+QUESTION 3 (Start on a new page.)
+
+The boiling points of five organic compounds (P, Q, R, S and T) are studied.
+
+COMPOUND IUPAC NAME
+P Pentanal
+Q 2,2-dimethylbutane
+R 3-methylpentane
+S Hexane
+T Pentan-1-ol
+
+3.1 Define the term boiling point.  (2)
+
+The boiling points of compounds Q, R and S are compared.
+
+3.2 Give a reason why this is a fair comparison.  (1)
+
+The boiling points  of Q, R and S are given below ( NOT necessarily in the correct
+order).
+
+55 °C  49,7 °C 68 °C
+
+3.3 Which ONE of the  three boiling points is most likely the boiling point of
+compound R? Explain the answer.
+
+(4)
+
+3.4 A mixture of e qual amounts of P and T is placed in a flask and heated to a
+temperature below their boiling points.  Assume that no reaction or
+condensation takes place. The vapour produced is collected in a syringe.
+
+ 3.4.1 Which compound (P or T) will be present in a greater amount in the
+SYRINGE?
+
+(2)
+
+ 3.4.2 Explain the answer to QUESTION 3.4.1 by referring to the TYPES
+and STRENGTHS of intermolecular forces.
+
+(3)
+    [12]
+Syringe
+Mixture of P and T
+vapour
+
+=== page 8 ===
+Physical Sciences/P2 8 DBE/November 2019
+ NSC
+Copyright reserved  Please turn over
+
+QUESTION 4 (Start on a new page.)
+
+The flow diagram below shows how compound A can be used to prepare other organic
+compounds. The numbers I, II, III and IV represent different organic reactions.
+
+Use the information in the flow diagram to answer the following questions.
+
+4.1 Name the homologous series to which compound A belongs.  (1)
+
+4.2 Write down the TYPE of reaction represented by:
+
+ 4.2.1 I  (1)
+
+ 4.2.2 III  (1)
+
+ 4.2.3 IV  (1)
+
+4.3 Consider reaction III. Write down the:
+
+ 4.3.1 TWO reaction conditions for this reaction  (2)
+
+ 4.3.2 IUPAC name of the primary alcohol that is formed  (2)
+
+4.4 Draw the STRUCTURAL FORMULA for compound B.  (2)
+
+4.5 Consider reaction IV. Write down the:
+
+ 4.5.1 Structural formula of organic compound C  (2)
+
+ 4.5.2 NAME or FORMULA of the catalyst that is used  (1)
+    [13]
+
+I
+Concentrated
+KOH
+Primary alcohol
+Compound A
+III
+base
+CH3COOH IV
+Organic compound C
+hydration II
+Compound B
+(major product)
+
+C C C H
+
+H H H
+H
+H
+
+=== page 9 ===
+Physical Sciences/P2 9 DBE/November 2019
+ NSC
+Copyright reserved  Please turn over
+
+QUESTION 5 (Start on a new page.)
+
+The calcium carbonate (CaCO 3) in antacid tablets  reacts with dilute hydrochloric acid
+(HCℓ) according to the following balanced equation:
+
+CaCO3(s) + 2HCℓ(aq)  →  CaCℓ2(aq) + CO2(g) + H2O(ℓ)     H  <  0
+
+5.1 Is the above reaction EXOTHERMIC or ENDOTHERMIC ? Give a reason for
+the answer.
+
+(2)
+
+An antacid tablet of mass 2 g is placed in HCℓ(aq). After 30 s the mass of the tablet
+was found to be 0,25 g.
+
+5.2 Calculate the average rate (in g∙s-1) of the above reaction.  (3)
+
+The antacid tablet contains 40% calcium carbonate. Another antacid tablet of mass 2  g
+is allowed to react completely with HCℓ(aq).
+
+5.3 Calculate the volume of carbon dioxide, CO 2(g) that will be collected at STP.
+Assume that all the CO2(g) produced is from the calcium carbonate.
+
+(5)
+
+The reaction  rate of similar antacid tablets with excess HCℓ(aq) of concentra tion
+0,1 mol∙dm -3 at DIFFERENT TEMPERATURES is measured. The graph below was
+obtained.
+
+Use the information in the graph to answer the following questions.
+
+5.4 Write down ONE controlled variable for this investigation.  (1)
+
+5.5 Write down a conclusion that can be made from the graph.  (2)
+
+5.6 Use the collision theory to fully explain the answer to QUESTION 5.5  (3)
+
+5.7 Redraw the graph above in the ANSWER BOOK. On the same set of axes,
+sketch the curve that will be obtained if HCℓ (aq) of concentration 0,2 mol∙dm-3
+is now used. Label this curve Y.
+
+(2)
+   [18]
+Temperature (°C)
+time
+1
+(s-1)
+
+=== page 10 ===
+Physical Sciences/P2 10 DBE/November 2019
+ NSC
+Copyright reserved  Please turn over
+
+QUESTION 6 (Start on a new page.)
+
+Initially 60,8 g pure carbon dioxide , CO2(g), is reacted with carbon, C(s), in a sealed
+container of volume 3  dm3. The reaction reac hes equilibrium at temperature  T
+according to the following balanced equation:
+
+C(s)  +  CO2(g) ⇌  2CO(g)
+
+6.1 Define the term chemical equilibrium.  (2)
+
+6.2 At equilibrium it is found that the concentration of the carbon dioxide is
+0,054 mol∙dm-3.
+
+Calculate the:
+
+ 6.2.1 Equilibrium constant, KC, for this reaction at temperature T  (7)
+
+ 6.2.2 Minimum mass of C (s) that must be present in the c ontainer to
+obtain this equilibrium
+
+(3)
+
+6.3 How will EACH of the following changes affect the AMOUNT of CO(g) at
+equilibrium?
+
+Choose from INCREASES, DECREASES or REMAINS THE SAME.
+
+ 6.3.1 More carbon is added to the container  (1)
+
+ 6.3.2 The pressure is increased  by reducing the volume of the container
+at constant temperature.
+Use Le Chatelier's principle to explain the answer.
+
+(3)
+
+6.4 The table below shows the percentages of CO2(g) and CO(g) in the container
+at different temperatures.
+
+TEMPERATURE (°C) % CO2(g) % CO(g)
+827 6,23 93,77
+950 1,32 98,68
+1 050 0,37 99,63
+1 200 0,06 99,94
+
+ 6.4.1 Is the reaction EXOTHERMIC or ENDOTHERMIC?
+Refer to the data in the table and explain the answer.
+
+(3)
+
+ 6.4.2 Use the informatio n in the table to determine temperature T.
+Show clearly how you arrived at the answer.
+
+(3)
+    [22]
+
+=== page 11 ===
+Physical Sciences/P2 11 DBE/November 2019
+ NSC
+Copyright reserved  Please turn over
+
+QUESTION 7 (Start on a new page.)
+
+A hydrogen bromide solution, HBr(aq), reacts with water according to the following
+balanced chemical equation:
+
+HBr(aq)   +  H2O(ℓ)  ⇌
+Br (aq)  +  H3O+(aq)
+
+The Ka value of HBr(aq) at 25 °C is 1 x 109.
+
+7.1 Is hydrogen b romide a STRONG ACID or a WEAK ACID? Give a reason for
+the answer.
+
+(2)
+
+7.2 Write down the FORMULAE of the TWO bases in the above reaction.  (2)
+
+7.3 HBr(aq) reacts with Zn(OH)2(s) according to the following balanced equation:
+
+Zn(OH)2(s)  +  2HBr(aq)  →  ZnBr2(aq)  +  2H2O(ℓ)
+
+An unknown quantity of Zn(OH) 2(s) is reacted with 90 cm 3 of HBr(aq) in a
+flask. (Assume that the volume of the solution does not change  during the
+reaction.)
+
+The EXCESS HBr(aq) is then neutralised by 16,5  cm3 of NaOH(aq) of
+concentration 0,5 mol·dm-3. The balanced equation for the reaction is:
+
+HBr(aq)  +  NaOH(aq)  →  NaBr(aq)  +  H2O(ℓ)
+
+ 7.3.1 Calculate the pH of the HBr solution remaining in the flask AFTER
+the reaction with Zn(OH)2(s).
+
+(7)
+
+ 7.3.2 Calculate the mass of Zn(OH) 2(s) INITIALLY present in the flask if
+the initial concentration of HBr(aq) was 0,45 mol∙dm-3.   (6)
+   [17]
+
+=== page 12 ===
+Physical Sciences/P2 12 DBE/November 2019
+ NSC
+Copyright reserved  Please turn over
+
+QUESTION 8 (Start on a new page.)
+
+A standard electrochemical cell is set up using two standard half-cells, as shown in the
+diagram below.
+
+8.1 State the energy conversion that takes place in this cell.  (1)
+
+8.2 What is the function of component Q?  (1)
+
+X is a metal. A voltmeter connected across the cell initially registers 1,49 V.
+
+8.3 Use a calculation to identify metal X.  (5)
+
+8.4 Write down the NAME or FORMULA of the reducing agent.  (1)
+
+8.5 The reading on the vo ltmeter becomes ZERO after  this cell operates for
+several hours.
+
+ 8.5.1 Give a reason for this reading by referring to the  rates of oxidation
+and reduction half-reactions taking place in the cell.
+
+(1)
+
+ A silver nitrate solution, AgNO 3(aq), is NOW added to the chlorine half-cell
+and a precipitate forms.
+
+ 8.5.2 How will the reading on the voltmeter be affected?
+(Choose from INCREASES, DECREASES or REMAINS the same)
+
+(1)
+
+ 8.5.3 Use Le Chatelier 's principle to explain the answer to
+QUESTION 8.5.2.
+
+(2)
+    [12]
+
+Q
+Cℓ2(g)
+Platinum
+Cℓ-(aq)
+V
+ X
+)aq(X2
+
+=== page 13 ===
+Physical Sciences/P2 13 DBE/November 2019
+ NSC
+Copyright reserved  Please turn over
+
+QUESTION 9 (Start on a new page.)
+
+Chlorine is produced industrially by the electrolysis of a concent rated sodium chloride
+solution, NaCℓ(aq).
+
+The balanced equation for the net (overall) cell reaction is as follows:
+
+2NaCℓ(aq)  +  2H2O(ℓ)  →  H2(g)  +  2NaOH(aq)  +  Cℓ2(g)
+
+9.1 Define the term electrolysis.  (2)
+
+9.2 For the above reaction, write down the:
+
+ 9.2.1 Half-reaction that takes place at the cathode  (2)
+
+ 9.2.2 NAME or FORMULA of the oxidising agent  (1)
+
+9.3 Refer to the Table of Standard Reduction Potentials to explain why sodium
+ions are not reduced during this process.
+
+(3)
+   [8]
+
+=== page 14 ===
+Physical Sciences/P2 14 DBE/November 2019
+ NSC
+Copyright reserved
+O2(g)
+Nitrogen gas
+H2O(ℓ)
+Gas X
+
+QUESTION 10 (Start on a new page.)
+
+The flow diagram below shows the process es involved in the industrial preparation of
+an ammonium fertiliser.
+
+10.1 Write down the NAME or FORMULA of:
+
+ 10.1.1 Gas X  (1)
+
+ 10.1.2 Gas Y  (1)
+
+ 10.1.3 Acid Q  (1)
+
+10.2 Write down the:
+
+ 10.2.1 TYPE of chemical reaction that converts compound P into gas Y  (1)
+
+ 10.2.2 Balanced equation for the reaction between compound P and
+acid Q
+
+(3)
+
+10.3 Two separate bags of fertilisers are labelled as follows:
+
+ 10.3.1 What do the numbers (21) and (27) on the labels represent?  (1)
+
+ 10.3.2 Determine, by means of c alculations, which bag (A or B) contains
+a greater mass of phosphorous.
+
+(4)
+    [12]
+
+ TOTAL:  150
+NO2(g) Gas Y Compound P
+Ammonium
+fertiliser
+Acid Q
+BAG A
+
+1 : 3 : 4 (21)
+50 kg
+BAG B
+
+1 : 3 : 4 (27)
+40 kg
+
+=== page 15 ===
+Physical Sciences/P2 1 DBE/November 2019
+ NSC
+Copyright reserved
+
+DATA FOR PHYSICAL SCIENCES GRADE 12
+PAPER 2 (CHEMISTRY)
+
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 12
+VRAESTEL 2 (CHEMIE)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Standard pressure
+Standaarddruk
+p  1,013 x 105 Pa
+Molar gas volume at STP
+Molêre gasvolume by STD Vm 22,4 dm3∙mol-1
+Standard temperature
+Standaardtemperatuur
+T  273 K
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Avogadro's constant
+Avogadro-konstante NA 6,02 x 1023 mol-1
+
+TABLE 2:  FORMULAE/TABEL 2:  FORMULES
+
+M
+mn
+
+AN
+Nn
+V
+nc
+          or/of
+MV
+mc
+mV
+Vn
+b
+a
+bb
+aa
+n
+n
+vc
+vc 
+ pH = -log[H3O+]
+Kw = [H3O+][OH-] = 1 x 10-14 at/by 298 K
+θ
+anode
+θ
+cathode
+θ
+cell EEE 
+ /
+θ
+anode
+θ
+katode
+θ
+sel EEE 
+
+or/of
+θ
+oxidation
+θ
+reduction
+θ
+cell EEE 
+/
+θ
+oksidasie
+θ
+reduksie
+θ
+sel EEE 
+
+or/of
+θ
+agent reducing
+θ
+agent oxidising
+θ
+cell EEE 
+ /
+θ
+ddelreduseermi
+θ
+ddeloksideermi
+θ
+sel EEE 
+
+=== page 16 ===
+Physical Sciences/P2 2 DBE/November 2019
+ NSC
+Copyright reserved
+TABLE 3: THE PERIODIC TABLE OF ELEMENTS
+TABEL 3: DIE PERIODIEKE TABEL VAN ELEMENTE
+1
+(I)
+2
+(II)
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12 13
+(III)
+14
+(IV)
+15
+(V)
+16
+(VI)
+17
+(VII)
+18
+(VIII)
+2,1 1
+H
+1
+
+  2
+He
+4
+1,0 3
+Li
+7
+1,5 4
+Be
+9
+
+2,0 5
+B
+11
+2,5 6
+C
+12
+3,0 7
+N
+14
+3,5 8
+O
+16
+4,0 9
+F
+19
+ 10
+Ne
+20
+0,9 11
+Na
+23
+1,2 12
+Mg
+24
+
+1,5 13
+Aℓ
+27
+1,8 14
+Si
+28
+2,1 15
+P
+31
+2,5 16
+S
+32
+3,0 17
+Cℓ
+35,5
+ 18
+Ar
+40
+0,8 19
+K
+39
+1,0 20
+Ca
+40
+1,3 21
+Sc
+45
+1,5 22
+Ti
+48
+1,6 23
+V
+51
+1,6 24
+Cr
+52
+1,5 25
+Mn
+55
+1,8 26
+Fe
+56
+1,8 27
+Co
+59
+1,8 28
+Ni
+59
+1,9 29
+Cu
+63,5
+1,6 30
+Zn
+65
+1,6 31
+Ga
+70
+1,8 32
+Ge
+73
+2,0 33
+As
+75
+2,4 34
+Se
+79
+2,8 35
+Br
+80
+ 36
+Kr
+84
+0,8 37
+Rb
+86
+1,0 38
+Sr
+88
+1,2 39
+Y
+89
+1,4 40
+Zr
+91
+
+41
+Nb
+92
+1,8 42
+Mo
+96
+1,9 43
+Tc
+
+2,2 44
+Ru
+101
+2,2 45
+Rh
+103
+2,2 46
+Pd
+106
+1,9 47
+Ag
+108
+1,7 48
+Cd
+112
+1,7 49
+In
+115
+1,8 50
+Sn
+119
+1,9 51
+Sb
+122
+2,1 52
+Te
+128
+2,5 53
+I
+127
+ 54
+Xe
+131
+0,7 55
+Cs
+133
+0,9 56
+Ba
+137
+
+57
+La
+139
+1,6 72
+Hf
+179
+
+73
+Ta
+181
+
+74
+W
+184
+
+75
+Re
+186
+
+76
+Os
+190
+
+77
+Ir
+192
+
+78
+Pt
+195
+
+79
+Au
+197
+
+80
+Hg
+201
+1,8 81
+Tℓ
+204
+1,8 82
+Pb
+207
+1,9 83
+Bi
+209
+2,0 84
+Po
+
+2,5 85
+At
+
+ 86
+Rn
+
+0,7 87
+Fr
+
+0,9 88
+Ra
+226
+
+89
+Ac
+
+58
+Ce
+140
+59
+Pr
+141
+60
+Nd
+144
+61
+Pm
+
+62
+Sm
+150
+63
+Eu
+152
+64
+Gd
+157
+65
+Tb
+159
+66
+Dy
+163
+67
+Ho
+165
+68
+Er
+167
+69
+Tm
+169
+70
+Yb
+173
+71
+Lu
+175
+
+90
+Th
+232
+91
+Pa
+
+92
+U
+238
+93
+Np
+
+94
+Pu
+
+95
+Am
+
+96
+Cm
+
+97
+Bk
+
+98
+Cf
+
+99
+Es
+
+100
+Fm
+
+101
+Md
+
+102
+No
+
+103
+Lr
+
+Electronegativity
+Elektronegatiwiteit
+Approximate relative atomic mass
+Benaderde relatiewe atoommassa
+Atomic number
+Atoomgetal
+
+    29
+   Cu
+    63,5
+1,9  Symbol
+ Simbool
+
+KEY/SLEUTEL
+
+=== page 17 ===
+Physical Sciences/P2 3 DBE/November 2019
+ NSC
+Copyright reserved
+TABLE 4A: STANDARD REDUCTION POTENTIALS
+TABEL 4A: STANDAARD-REDUKSIEPOTENSIALE
+Half-reactions/Halfreaksies
+θE  (V)
+F2(g) + 2e ⇌ 2F + 2,87
+Co3+ + e ⇌ Co2+ + 1,81
+H2O2 + 2H+ +2e ⇌ 2H2O +1,77
+MnO
+
+4  + 8H+ + 5e ⇌ Mn2+ + 4H2O + 1,51
+Cℓ2(g) + 2e ⇌ 2Cℓ + 1,36
+Cr2O
+2
+7  + 14H+ + 6e ⇌ 2Cr3+ + 7H2O + 1,33
+O2(g) + 4H+ + 4e ⇌ 2H2O + 1,23
+MnO2 + 4H+ + 2e ⇌ Mn2+ + 2H2O + 1,23
+Pt2+ + 2e ⇌ Pt + 1,20
+Br2(ℓ) + 2e ⇌ 2Br + 1,07
+NO
+
+3  + 4H+ + 3e ⇌ NO(g) + 2H2O + 0,96
+Hg2+ + 2e ⇌ Hg(ℓ) + 0,85
+Ag+ + e ⇌ Ag + 0,80
+NO
+
+3  + 2H+ + e ⇌ NO2(g) + H2O + 0,80
+Fe3+ + e ⇌ Fe2+ + 0,77
+O2(g) + 2H+ + 2e ⇌ H2O2 + 0,68
+I2 + 2e ⇌ 2I + 0,54
+Cu+ + e ⇌ Cu + 0,52
+SO2 + 4H+ + 4e ⇌ S + 2H2O + 0,45
+2H2O + O2 + 4e ⇌ 4OH + 0,40
+Cu2+ + 2e ⇌ Cu + 0,34
+SO
+2
+4  + 4H+ + 2e ⇌ SO2(g) + 2H2O + 0,17
+Cu2+ + e ⇌ Cu+ + 0,16
+Sn4+ + 2e ⇌ Sn2+ + 0,15
+S + 2H+ + 2e  ⇌ H2S(g) + 0,14
+2H+ + 2e ⇌ H2(g) 0,00
+Fe3+ + 3e ⇌ Fe  0,06
+Pb2+ + 2e ⇌ Pb  0,13
+Sn2+ + 2e ⇌ Sn  0,14
+Ni2+ + 2e ⇌ Ni  0,27
+Co2+ + 2e ⇌ Co  0,28
+Cd2+ + 2e ⇌ Cd  0,40
+Cr3+ + e ⇌ Cr2+  0,41
+Fe2+ + 2e ⇌ Fe  0,44
+Cr3+ + 3e ⇌ Cr  0,74
+Zn2+ + 2e ⇌ Zn  0,76
+2H2O + 2e ⇌ H2(g) + 2OH  0,83
+Cr2+ + 2e ⇌ Cr  0,91
+Mn2+ + 2e ⇌ Mn  1,18
+Aℓ3+ + 3e ⇌ Aℓ  1,66
+Mg2+ + 2e ⇌ Mg  2,36
+Na+ + e ⇌ Na  2,71
+Ca2+ + 2e ⇌ Ca  2,87
+Sr2+ + 2e ⇌ Sr  2,89
+Ba2+ + 2e ⇌ Ba  2,90
+Cs+ + e- ⇌ Cs - 2,92
+K+ + e ⇌ K  2,93
+Li+ + e ⇌ Li  3,05
+Increasing oxidising ability/Toenemende oksiderende vermoë
+Increasing reducing ability/Toenemende reduserende vermoë
+
+=== page 18 ===
+Physical Sciences/P2 4 DBE/November 2019
+ NSC
+Copyright reserved
+TABLE 4B: STANDARD REDUCTION POTENTIALS
+TABEL 4B: STANDAARD-REDUKSIEPOTENSIALE
+
+Half-reactions/Halfreaksies
+θE  (V)
+Li+ + e ⇌ Li  3,05
+K+ + e ⇌ K  2,93
+Cs+ +  e ⇌ Cs  2,92
+Ba2+ + 2e ⇌ Ba  2,90
+Sr2+ + 2e ⇌ Sr  2,89
+Ca2+ + 2e ⇌ Ca  2,87
+Na+ + e ⇌ Na  2,71
+Mg2+ + 2e ⇌ Mg  2,36
+Aℓ3+ + 3e ⇌ Aℓ  1,66
+Mn2+ + 2e ⇌ Mn  1,18
+Cr2+ + 2e ⇌ Cr  0,91
+2H2O + 2e ⇌ H2(g) + 2OH  0,83
+Zn2+ + 2e ⇌ Zn  0,76
+Cr3+ + 3e ⇌ Cr  0,74
+Fe2+ + 2e ⇌ Fe  0,44
+Cr3+ + e ⇌ Cr2+  0,41
+Cd2+ + 2e ⇌ Cd  0,40
+Co2+ + 2e ⇌ Co  0,28
+Ni2+ + 2e ⇌ Ni  0,27
+Sn2+ + 2e ⇌ Sn  0,14
+Pb2+ + 2e ⇌ Pb  0,13
+Fe3+ + 3e ⇌ Fe  0,06
+2H+ + 2e ⇌ H2(g) 0,00
+S + 2H+ + 2e  ⇌ H2S(g) + 0,14
+Sn4+ + 2e ⇌ Sn2+ + 0,15
+Cu2+ + e ⇌ Cu+ + 0,16
+SO
+2
+4  + 4H+ + 2e ⇌ SO2(g) + 2H2O + 0,17
+Cu2+ + 2e ⇌ Cu + 0,34
+2H2O + O2 + 4e ⇌ 4OH + 0,40
+SO2 + 4H+ + 4e ⇌ S + 2H2O + 0,45
+Cu+ + e ⇌ Cu + 0,52
+I2 + 2e ⇌ 2I + 0,54
+O2(g) + 2H+ + 2e ⇌ H2O2 + 0,68
+Fe3+ + e ⇌ Fe2+ + 0,77
+NO
+
+3  + 2H+ + e ⇌ NO2(g) + H2O + 0,80
+Ag+ + e ⇌ Ag + 0,80
+Hg2+ + 2e ⇌ Hg(ℓ) + 0,85
+NO
+
+3  + 4H+ + 3e ⇌ NO(g) + 2H2O + 0,96
+Br2(ℓ) + 2e ⇌ 2Br + 1,07
+Pt2+ + 2 e ⇌ Pt + 1,20
+MnO2 + 4H+ + 2e ⇌ Mn2+ + 2H2O + 1,23
+O2(g) + 4H+ + 4e ⇌ 2H2O + 1,23
+Cr2O
+2
+7  + 14H+ + 6e ⇌ 2Cr3+ + 7H2O + 1,33
+Cℓ2(g) + 2e ⇌ 2Cℓ + 1,36
+MnO
+
+4  + 8H+ + 5e ⇌ Mn2+ + 4H2O + 1,51
+H2O2 + 2H+ +2 e ⇌ 2H2O +1,77
+Co3+ + e ⇌ Co2+ + 1,81
+F2(g) + 2e ⇌ 2F + 2,87
+Increasing oxidising ability/Toenemende oksiderende vermoë
+Increasing reducing ability/Toenemende reduserende vermoë

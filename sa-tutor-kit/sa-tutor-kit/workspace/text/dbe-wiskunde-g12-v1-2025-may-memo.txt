@@ -1,0 +1,714 @@
+# SENIOR CERTIFICATE EXAMINATIONS / NATIONAL SENIOR CERTIFICATE EXAMINATIONS
+## MATHEMATICS P1 / WISKUNDE V1
+### MARKING GUIDELINES / NASIENRIGLYNE
+**MAY/JUNE / MEI/JUNIE 2025**
+
+**MARKS / PUNTE: 150**
+
+---
+
+**NOTE / LET WEL:**
+* If a candidate answers a question TWICE, only mark the FIRST attempt. / *Indien 'n kandidaat 'n vraag TWEE keer beantwoord, sien slegs die EERSTE poging na.*
+* Consistent Accuracy applies in all aspects of the marking guidelines. / *Volgehoue akkuraatheid is DEURGAANS op ALLE aspekte van die nasienriglyne van toepassing.*
+
+---
+
+## QUESTION/VRAAG 1
+
+1.1.1 
+$$x^2 - 3x - 10 = 0$$
+$$(x + 2)(x - 5) = 0$$
+$$x = -2 \text{ or } x = 5$$
+* $\checkmark$ factors/formula
+* $\checkmark$ answer
+* $\checkmark$ answer
+**(3)**
+
+1.1.2 
+$$3x^2 + 6x + 1 = 0$$
+$$x = \frac{-(6) \pm \sqrt{(6)^2 - 4(3)(1)}}{2(3)}$$
+$$x = -1,82 \text{ or } x = -0,18$$
+* $\checkmark$ correct substitution into correct formula
+* $\checkmark$ answer
+* $\checkmark$ answer
+**(3)**
+
+1.1.3 
+$$2^{x+4} + 2^x = 8704$$
+$$2^x(16 + 1) = 8704$$
+$$2^x = 512 \quad \text{OR/OF} \quad 2^x = 512$$
+$$= 2^9 \quad \text{OR/OF} \quad x = \log_2 512 = 9$$
+$$x = 9$$
+* $\checkmark$ factorisation
+* $\checkmark$ simplify to exponential eq
+* $\checkmark$ answer
+**(3)**
+
+1.1.4 
+$$(x - 8)(x + 2) \le 0$$
+$\text{CV: } x = 8 \text{ or } x = -2$
+$\therefore -2 \le x \le 8 \quad \text{OR/OF} \quad x \in [-2; 8]$
+* $\checkmark$ critical values
+* $\checkmark\checkmark$ answer
+**(3)**
+
+1.1.5 
+$$x + 3\sqrt{x + 2} = 2$$
+$$3\sqrt{x + 2} = 2 - x$$
+$$9(x + 2) = 4 - 4x + x^2$$
+$$x^2 - 13x - 14 = 0$$
+$$(x - 14)(x + 1) = 0$$
+$$x \neq 14 \text{ or } x = -1$$
+* $\checkmark$ isolating the surd
+* $\checkmark$ squaring both sides (method)
+* $\checkmark$ standard form
+* $\checkmark$ answer with selection
+**(4)**
+
+---
+
+1.2 
+$$\begin{aligned}
+(y - 3)(x + 2) &= 32 \quad \text{....(1)} \\
+yx + 2y - 3x - 6 &= 32
+\end{aligned}$$
+$$\begin{aligned}
+2(y - 3) + 2(x + 2) &= 24 \\
+y + x - 1 &= 12 \\
+y &= 13 - x \quad \text{....(2)}
+\end{aligned}$$
+$$(13 - x)x + 2(13 - x) - 3x - 6 = 32$$
+$$13x - x^2 + 26 - 2x - 3x - 6 = 32$$
+$$-x^2 + 8x - 12 = 0$$
+$$x^2 - 8x + 12 = 0$$
+$$(x - 6)(x - 2) = 0$$
+$$x = 6 \text{ or } x = 2$$
+$$y = 13 - 6 \text{ or } y = 13 - 2$$
+$$y = 7 \quad\quad y = 11$$
+
+* $\checkmark$ setting up eq 1 (Area)
+* $\checkmark$ setting up eq 2 (Perimeter)
+* $\checkmark$ substitution
+* $\checkmark$ standard form
+* $\checkmark$ $x$-values
+* $\checkmark$ $y$-values
+**(6)**
+
+**OR/OF**
+$$\begin{aligned}
+(y - 3)(x + 2) &= 32 \quad \text{....(1)} \\
+yx + 2y - 3x - 6 &= 32
+\end{aligned}$$
+$$\begin{aligned}
+2(y - 3) + 2(x + 2) &= 24 \\
+y + x - 1 &= 12 \\
+x &= 13 - y \quad \text{....(2)}
+\end{aligned}$$
+$$y(13 - y) + 2y - 3(13 - y) - 6 = 32$$
+$$13y - y^2 + 2y - 39 + 3y - 6 - 32 = 0$$
+$$-y^2 + 18y - 77 = 0$$
+$$y^2 - 18y + 77 = 0$$
+$$(y - 7)(y - 11) = 0$$
+$$y = 7 \text{ or } y = 11$$
+$$x = 13 - 7 \text{ or } x = 13 - 11$$
+$$x = 6 \quad\quad x = 2$$
+
+* $\checkmark$ setting up eq 1 (Area)
+* $\checkmark$ setting up eq 2 (Perimeter)
+* $\checkmark$ substitution
+* $\checkmark$ standard form
+* $\checkmark$ $y$-values
+* $\checkmark$ $x$-values
+**(6)**
+
+---
+
+1.3 
+$$(1 + x^m + x^{-n})^2 - (1 - x^m - x^{-n})^2$$
+$$= \left[ 1 + x^m + x^{-n} - (1 - x^m - x^{-n}) \right] \left[ 1 + x^m + x^{-n} + (1 - x^m - x^{-n}) \right]$$
+$$= (2)\left(2x^m + 2x^{-n}\right)$$
+$$= (2)(2)\left(x^m + x^{-n}\right)$$
+$$= 4\left(x^m + x^{-n}\right)$$
+* $\checkmark$ factorisation
+* $\checkmark$ $2$
+* $\checkmark$ $(2x^m + 2x^{-n})$
+**(3)**
+
+**OR/OF**
+$$(1 + x^m + x^{-n})^2 = 1 + x^m + x^{-n} + x^m + x^{2m} + x^{m-n} + x^{-n} + x^{m-n} + x^{-2n}$$
+$$= 1 + 2x^m + 2x^{-n} + x^{2m} + x^{2m-n} + x^{-2n}$$
+$$(1 - x^m - x^{-n})^2 = 1 - 2x^m - 2x^{-n} + x^{2m} + 2x^{m-n} + x^{-2n}$$
+$$(1 + x^m + x^{-n})^2 - (1 - x^m - x^{-n})^2 = 4x^m + 4x^{-n}$$
+$$= 4\left(x^m + x^{-n}\right)$$
+$$= (2)\left(2x^m + 2x^{-n}\right)$$
+
+* $\checkmark$ expansion
+* $\checkmark$ $4$
+* $\checkmark$ $(x^m + x^{-n})$
+**(3)**
+
+**[25]**
+
+---
+
+## QUESTION/VRAAG 2
+
+2.1.1 
+$$T_n = 2n + 3$$
+* $\checkmark$ $2n$
+* $\checkmark$ $3$
+**(2)**
+
+2.1.2 
+$$93 = 2n + 3$$
+$$90 = 2n$$
+$$45 = n$$
+* $\checkmark$ equating
+* $\checkmark$ answer
+**(2)**
+
+2.1.3 
+$$50 + 70 + 90 + \ldots + 930$$
+$$S_{45} = \frac{45}{2}\left[2(50) + (45 - 1)(20)\right]$$
+$$S_{45} = \text{R22 050}$$
+$$\text{Total raised} = \text{R22 050}$$
+* $\checkmark$ convert to money
+* $\checkmark$ substitution
+* $\checkmark$ answer
+**(3)**
+
+**OR/OF**
+$$50 + 70 + 90 + \ldots + 930$$
+$$S_{45} = \frac{45}{2}\left[50 + 930\right]$$
+$$S_{45} = \text{R22 050}$$
+$$\text{Total raised} = \text{R22 050}$$
+* $\checkmark$ convert to money
+* $\checkmark$ substitution
+* $\checkmark$ answer
+**(3)**
+
+**OR/OF**
+$$5 + 7 + 9 + \ldots + 93$$
+$$S_{45} = \frac{45}{2}\left[2(5) + (45 - 1)(2)\right]$$
+$$S_{45} = 2\ 205\text{km}$$
+$$S_{45} = \text{R22 050}$$
+$$\text{Total raised} = \text{R22 050}$$
+* $\checkmark$ substitution
+* $\checkmark$ answer
+* $\checkmark$ convert to money
+**(3)**
+
+**OR/OF**
+$$5 + 7 + 9 + \ldots + 93$$
+$$S_{45} = \frac{45}{2}\left[5 + 93\right]$$
+$$S_{45} = 2\ 205\text{km}$$
+$$S_{45} = \text{R22 050}$$
+$$\text{Total raised} = \text{R22 050}$$
+* $\checkmark$ substitution
+* $\checkmark$ answer
+* $\checkmark$ convert to money
+**(3)**
+
+2.2.1 a) 
+$$T_1 = (2)^{1+2}$$
+$$T_1 = 8$$
+* $\checkmark$ $a = 8$
+**(1)**
+
+2.2.1 b) 
+$$r = 2$$
+* $\checkmark$ $r = 2$
+**(1)**
+
+2.2.2 
+$$T_{20} = (2)^{20+2}$$
+$$T_{20} = 2^{22} = (2^2)^{11}$$
+$$= 4^{11}$$
+* $\checkmark$ substitution
+* $\checkmark$ answer
+**(2)**
+
+2.2.3 
+$$\frac{1}{8} + \frac{1}{16} + \frac{1}{32} + \ldots$$
+$$S_\infty = \frac{a}{1 - r}$$
+$$= \frac{\frac{1}{8}}{1 - \frac{1}{2}}$$
+$$\therefore S_\infty = \frac{1}{4}$$
+* $\checkmark$ series
+* $\checkmark$ substitution
+* $\checkmark$ answer
+**(3)**
+
+2.2.4 
+$$8 + 4^2 + 32 + 4^3 + \ldots + 4^{11} + \ldots$$
+$$S_{21} - S_{10} = \frac{8\left(2^{21} - 1\right)}{2 - 1} - \frac{16\left(4^{10} - 1\right)}{4 - 1}$$
+$$= 16\ 777\ 208 - 5\ 592\ 400$$
+$$= 11\ 184\ 808$$
+* $\checkmark$ $\frac{8\left(2^{21} - 1\right)}{2 - 1}$
+* $\checkmark$ $n = 10$
+* $\checkmark$ $\frac{16\left(4^{10} - 1\right)}{4 - 1}$
+* $\checkmark$ $11\ 184\ 808$
+**(4)**
+
+**OR/OF**
+$$8 + 32 + 128 + \ldots$$
+$$S_{11} = \frac{8\left(4^{11} - 1\right)}{4 - 1}$$
+$$\therefore S_{11} = 11\ 184\ 808$$
+* $\checkmark$ $n = 11$
+* $\checkmark$ $r = 4$
+* $\checkmark$ $\frac{8\left(4^{11} - 1\right)}{4 - 1}$
+* $\checkmark$ $11\ 184\ 808$
+**(4)**
+
+**[18]**
+
+---
+
+## QUESTION/VRAAG 3
+
+3.1 
+$$\begin{array}{cccccccccc}
+14 & ; & 9 & ; & 6 & ; & 5 & ; & \ldots \\
+ & -5 & & -3 & & -1 & & \\
+ & & 2 & & 2 & & &
+\end{array}$$
+$$\begin{array}{rll}
+2a &= 2 \quad\quad\quad\quad\quad\quad 3(1) + b = -5 & 1 - 8 + c = 14 \\
+a &= 1 \quad\quad\quad\quad\quad\quad\quad\quad b = -8 & c = 21
+\end{array}$$
+$$\therefore T_n = n^2 - 8n + 21$$
+* $\checkmark$ $2a = 2$
+* $\checkmark$ $3(1) + b = -5$
+* $\checkmark$ $1 - 8 + c = 14$
+**(3)**
+
+3.2 
+$$T_n = -5 + (n - 1)(2)$$
+$$T_n = 2n - 7$$
+$$2n - 7 = 33$$
+$$\therefore n = 20$$
+$$\therefore T_{21} = (21)^2 - 8(21) + 21$$
+$$T_{21} = 294$$
+* $\checkmark$ general term
+* $\checkmark$ equating to $33$
+* $\checkmark$ answer
+**(3)**
+
+**OR/OF**
+$$\begin{aligned}
+\therefore T_{n+1} - T_n &= (n + 1)^2 - 8(n + 1) + 21 - n^2 + 8n - 21 \\
+n^2 + 2n + 1 - 8n - 8 + 21 - n^2 + 8n - 21 &= 33 \\
+2n - 7 &= 33 \\
+\therefore n &= 20 \\
+\therefore T_{21} &= (21)^2 - 8(21) + 21 \\
+T_{21} &= 294
+\end{aligned}$$
+* $\checkmark$ $T_{n+1} - T_n$
+* $\checkmark$ equating to $33$
+* $\checkmark$ answer
+**(3)**
+
+3.3 
+$$T_7 = T_1 = 14$$
+$$\therefore 14 + m \ge 0$$
+$$m \ge -14$$
+$$\text{And } T_6 = T_2$$
+$$\therefore 9 + m < 0$$
+$$m < -9$$
+$$\therefore -14 \le m < -9$$
+* $\checkmark -14$
+* $\checkmark -9$
+* $\checkmark -14 \le m < -9$
+**(3)**
+
+**[9]**
+
+---
+
+## QUESTION/VRAAG 4
+
+4.1 
+$$\text{M}(3; 4)$$
+* $\checkmark$ $x = 3$
+* $\checkmark$ $y = 4$
+**(2)**
+
+4.2 
+$$f(x) = \frac{4}{x - 3} + 4$$
+$$y = \frac{4}{0 - 3} + 4 = -\frac{4}{3} + 4 = \frac{8}{3}$$
+$$\therefore \text{D}\left(0; \frac{8}{3}\right)$$
+* $\checkmark$ $x = 0$
+* $\checkmark$ $y$-value
+**(2)**
+
+4.3 
+$$\text{M}(3; 4)$$
+$$\begin{aligned}
+y &= x + t \quad \text{OR/OF} & y &= (x + p) + q \\
+4 &= 3 + t & y &= x - 3 + 4 \\
+t &= 1 & y &= x + 1 \\
+& & \therefore t &= 1
+\end{aligned}$$
+* $\checkmark$ substituting M
+* $\checkmark$ value of $t$
+**(2)**
+
+4.4 
+$$\frac{4}{x - 3} + 4 = 0$$
+$$-4(x - 3) = 4$$
+$$x - 3 = -1$$
+$$x = 2$$
+$$\text{C}(2; 0)$$
+$$\therefore 2 \le x < 3$$
+* $\checkmark$ $y = 0$
+* $\checkmark$ $x = 2$
+* $\checkmark\checkmark$ answer
+**(4)**
+
+4.5 
+$$\frac{4}{x - 3} + 4 = x + 1$$
+$$\frac{4}{x - 3} = x - 3$$
+$$4 = (x - 3)^2$$
+$$\pm 2 = x - 3$$
+$$\therefore x = 5 \text{ or } x \neq 1$$
+$$\therefore \text{A}(5; 6)$$
+* $\checkmark$ equating
+* $\checkmark x_\text{A}$ $\checkmark y_\text{A}$
+**(3)**
+
+**OR/OF**
+$$\text{Point closest to the origin in } y = \frac{a}{x} \text{ is } (\sqrt{a}; \sqrt{a})$$
+$$\text{By translation:}$$
+$$\text{A}(\sqrt{a} + 3; \sqrt{a} + 4)$$
+$$\text{A}(5; 6)$$
+* $\checkmark$ translation
+* $\checkmark x_\text{A}$ $\checkmark y_\text{A}$
+**(3)**
+
+4.6 
+$$h(x) = \frac{-4}{x + 3} + 4$$
+$$= \frac{4}{-x - 3} + 4$$
+$$\therefore \text{Reflection in } y-\text{axis.}$$
+$$\text{A}'(-5; 6)$$
+$$\text{AA}' = 10$$
+* $\checkmark$ coordinates
+* $\checkmark$ distance
+**(2)**
+
+**[15]**
+
+---
+
+## QUESTION/VRAAG 5
+
+5.1 
+$$y = a(x + 1)^2 + 4$$
+$$-4 = a(-3 + 1)^2 + 4$$
+$$-8 = 4a$$
+$$-2 = a$$
+$$y = -2(x + 1)^2 + 4$$
+$$y = -2x^2 - 4x + 2$$
+* $\checkmark$ substitute $(-1; 4)$
+* $\checkmark$ substitute $(-3; -4)$
+* $\checkmark -8 = 4a$
+**(3)**
+
+5.2 
+$$k < -4$$
+* $\checkmark\checkmark k < -4$
+**(2)**
+
+5.3 
+*(Graph showing point of inflection at $(-1; y)$, change of concavity, $y$-intercept below $x$-axis, increasing curve)*
+* $\checkmark$ point of inflection
+* $\checkmark$ change of concavity at $x = -1$
+* $\checkmark$ $y$-intercept below $x$-axis
+* $\checkmark$ increasing curve
+**(4)**
+
+**[9]**
+
+---
+
+## QUESTION/VRAAG 6
+
+6.1 
+$$(0; -3) \quad -3 = p^0 + q \quad \text{OR} \quad y = p^x - 4$$
+$$q = -4$$
+$$(3; 4) \quad 4 = p^3 - 4$$
+$$p^3 = 8$$
+$$p = 2$$
+$$\therefore f(x) = 2^x - 4$$
+* $\checkmark$ substitute $(0; -3)$
+* $\checkmark$ answer for $q$
+* $\checkmark$ substitute $(3; 4)$
+* $\checkmark$ answer for $p$
+**(4)**
+
+6.2 
+$$y > -4 \quad \text{OR/OF} \quad y \in (-4; \infty)$$
+* $\checkmark$ answer
+**(1)**
+
+6.3 
+$$g(x) = mx + c$$
+$$\text{E}(-3; 0)$$
+$$m = \frac{4 - 0}{3 - (-3)} = \frac{4}{6} = \frac{2}{3}$$
+$$y = \frac{2}{3}x + c$$
+$$0 = \frac{2}{3}(-3) + c \quad \text{OR} \quad y - 0 = \frac{2}{3}(x + 3)$$
+$$\therefore c = 2$$
+$$y = \frac{2}{3}x + 2$$
+* $\checkmark \text{E}(-3; 0)$
+* $\checkmark m_\text{AE}$
+* $\checkmark$ substitution
+* $\checkmark$ equation
+**(4)**
+
+**OR/OF**
+$$\text{For } g^{-1}\text{:}$$
+$$y = mx - 3$$
+$$3 = m(4) - 3$$
+$$m = \frac{3}{2}$$
+$$\therefore g^{-1}(x) = \frac{3}{2}x - 3$$
+$$\text{For } g\text{:}$$
+$$2x + 6 = 3y$$
+$$\frac{2}{3}x + 2 = y$$
+$$\therefore y = \frac{2}{3}x + 2$$
+* $\checkmark$ substitution of $(4; 3)$
+* $\checkmark m$ of inverse
+* $\checkmark$ equation of $g^{-1}$
+* $\checkmark$ equation of $g$
+**(4)**
+
+6.4 
+$$g(x) = \frac{2}{3}x + 2$$
+$$x = \frac{2}{3}y + 2$$
+$$g^{-1}(x) = \frac{3}{2}x - 3$$
+* $\checkmark$ swop $x$ and $y$
+* $\checkmark$ equation
+**(2)**
+
+**[11]**
+
+---
+
+## QUESTION/VRAAG 7
+
+7.1 
+$$\left(1 + i\right) = \left(1 + \frac{15}{1200}\right)^{12}$$
+$$i = 16,08\%$$
+* $\checkmark$ substitution into correct formula
+* $\checkmark$ answer
+**(2)**
+
+7.2 
+$$P = \frac{x\left[1 - (1 + i)^{-n}\right]}{i}$$
+$$500\ 000 = \frac{11\ 250\left[1 - \left(1 + \frac{0,06}{4}\right)^{-n}\right]}{\frac{0,06}{4}}$$
+$$\frac{2}{3} = 1 - \left(1 + \frac{0,06}{4}\right)^{-n}$$
+$$\left(1,015\right)^{-n} = \frac{1}{3}$$
+$$-n = \log_{1,015}\left(\frac{1}{3}\right)$$
+$$n = 73,788\ldots$$
+$$\therefore n = 73 \text{ withdrawals}$$
+* $\checkmark i = \frac{0,06}{4}$
+* $\checkmark$ substitution into correct formula
+* $\checkmark$ correct use of logs
+* $\checkmark$ answer for $n$
+* $\checkmark$ final answer
+**(5)**
+
+7.3 
+$$\begin{aligned}
+A &= P(1 + i)^n \\
+&= 12\ 000\left(1 + \frac{0,095}{12}\right)^{12 \times 4} \\
+&= \text{R17 } 521,17895\ldots
+\end{aligned}$$
+$$\begin{aligned}
+F &= \frac{x\left[(1 + i)^n - 1\right]}{i} \\
+&= \frac{500\left[\left(1 + \frac{0,095}{12}\right)^{24} - 1\right]}{\frac{0,095}{12}} \\
+&= \text{R13 } 158,64744\ldots
+\end{aligned}$$
+$$\begin{aligned}
+\text{Total} &= 17\ 521,17895\ldots + 13\ 158,64744\ldots \\
+&= \text{R30 } 679,83
+\end{aligned}$$
+* $\checkmark i = \frac{0,095}{12}$
+* $\checkmark n = 48 \text{ in } A$
+* $\checkmark$ substitution into correct formula
+* $\checkmark n = 24 \text{ in } F$
+* $\checkmark$ substitution into correct formula
+* $\checkmark$ adding compound and future values
+**(6)**
+
+**[13]**
+
+---
+
+## QUESTION/VRAAG 8
+
+8.1 
+$$f(x) = x^2 - 2$$
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+$$f'(x) = \lim_{h \to 0} \frac{x^2 + 2xh + h^2 - 2 - (x^2 - 2)}{h}$$
+$$f'(x) = \lim_{h \to 0} \frac{2xh + h^2}{h}$$
+$$f'(x) = \lim_{h \to 0} \frac{h(2x + h)}{h}$$
+$$f'(x) = \lim_{h \to 0} (2x + h)$$
+$$\therefore f'(x) = 2x$$
+* $\checkmark f(x + h)$
+* $\checkmark$ substitution
+* $\checkmark$ simplification
+* $\checkmark$ factorisation
+* $\checkmark$ answer
+**(5)**
+
+**OR/OF**
+$$f(x) = x^2 - 2$$
+$$f(x + h) = (x + h)^2 - 2 = x^2 + 2xh + h^2 - 2$$
+$$f(x + h) - f(x) = 2xh + h^2$$
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+$$f'(x) = \lim_{h \to 0} \frac{2xh + h^2}{h}$$
+$$f'(x) = \lim_{h \to 0} \frac{h(2x + h)}{h}$$
+$$f'(x) = \lim_{h \to 0} (2x + h)$$
+$$\therefore f'(x) = 2x$$
+* $\checkmark f(x + h)$
+* $\checkmark$ simplification
+* $\checkmark$ substitution
+* $\checkmark$ factorisation
+* $\checkmark$ answer
+**(5)**
+
+8.2.1 
+$$\frac{d}{dx}\left[3x^2 - 4x\right]$$
+$$= 6x - 4$$
+* $\checkmark 6x$
+* $\checkmark -4$
+**(2)**
+
+8.2.2 
+$$g(x) = -2\sqrt{x}(x - 1)^2$$
+$$g(x) = -2x^{\frac{1}{2}}(x^2 - 2x + 1)$$
+$$g(x) = -2x^{\frac{5}{2}} + 4x^{\frac{3}{2}} - 2x^{\frac{1}{2}}$$
+$$g'(x) = -5x^{\frac{3}{2}} + 6x^{\frac{1}{2}} - x^{-\frac{1}{2}}$$
+* $\checkmark x^{\frac{1}{2}}$
+* $\checkmark$ expansion
+* $\checkmark -5x^{\frac{3}{2}} + 6x^{\frac{1}{2}}$
+* $\checkmark -x^{-\frac{1}{2}}$
+**(4)**
+
+---
+
+8.3 
+$$y = 4x - 14 \text{ tangent}$$
+$$\therefore 4x - 4 = 4$$
+$$4x = 8$$
+$$x = 2$$
+$$\therefore y = 4(2) - 14$$
+$$\text{at point } (2; -6)$$
+$$g(2) = a(2)^2 + b(2) - 18 = -6$$
+$$4a + 2b = 12 \quad \text{....(1)}$$
+$$g'(2) = 2a(2) + b = 4$$
+$$4a + b = 4 \quad \text{....(2)}$$
+$$\begin{aligned}
+(1) - (2) \quad b &= 8 \\
+4a + 8 &= 4 \\
+4a &= -4 \\
+a &= -1
+\end{aligned}$$
+* $\checkmark 4x - 4 = 4$
+* $\checkmark y$-value
+* $\checkmark g(2) = - \text{value}$
+* $\checkmark g'(2) = 4$
+* $\checkmark a \text{ and } b$
+**(6)**
+
+**OR/OF**
+$$2x^2 - 4x - 6 = 4x - 14$$
+$$2x^2 - 8x + 8 = 0$$
+$$x^2 - 4x + 4 = 0$$
+$$(x - 2)^2 = 0$$
+$$\therefore x = 2$$
+$$\therefore y = 4(2) - 14$$
+$$\text{at point } (2; -6)$$
+$$g(2) = a(2)^2 + b(2) - 18 = -6$$
+$$4a + 2b = 12 \quad \text{....(1)}$$
+$$g'(2) = 2a(2) + b = 4$$
+$$4a + b = 4 \quad \text{....(2)}$$
+$$\begin{aligned}
+(1) - (2) \quad b &= 8 \\
+4a + 8 &= 4 \\
+4a &= -4 \\
+a &= -1
+\end{aligned}$$
+* $\checkmark$ equating
+* $\checkmark y$-value
+* $\checkmark g(2) = - \text{value}$
+* $\checkmark g'(x)$ $\checkmark g'(2) = 4$
+* $\checkmark a \text{ and } b$
+**(6)**
+
+**[17]**
+
+---
+
+## QUESTION/VRAAG 9
+
+9.1 
+$$f(x) = (x - 4)(x^2 - 2x + 1)$$
+$$f(x) = (x - 4)(x - 1)^2$$
+$$\therefore k = 1$$
+* $\checkmark (x^2 - 2x + 1)$
+* $\checkmark (x - 1)^2$
+**(2)**
+
+**OR/OF**
+$$f(1) = 1 - 6 + 9 - 4 = 0$$
+$$(x - 1) \text{ is a factor}$$
+$$\therefore k = 1$$
+* $\checkmark f(1)$
+* $\checkmark f(1) = 0$
+**(2)**
+
+**OR/OF**
+$$-4k^2 = -4$$
+$$k^2 = 1$$
+$$\therefore k = 1$$
+* $\checkmark -4k^2 = -4$
+* $\checkmark k^2 = 1$
+**(2)**
+
+9.2 
+$$3x^2 - 12x + 9 = 0$$
+$$x^2 - 4x + 3 = 0$$
+$$(x - 3)(x - 1) = 0$$
+$$x = 3 \text{ or } x = 1$$
+$$\text{TP's: } (3; -4) \text{ and } (1; 0)$$
+* $\checkmark f'(x)$
+* $\checkmark$ values of $x$
+* $\checkmark\checkmark$ turning points
+**(4)**
+
+9.3 
+$$f''(x) = 6x - 12$$
+$$f''(-3) = -30$$
+$$f''(x) < 0 \text{, therefore concave down}$$
+* $\checkmark$ substitution $x = -3 \text{ into } f''(x)$
+* $\checkmark$ concave down
+**(2)**
+
+9.4 
+*(Graph showing turning points, x-intercepts, y-intercept, shape)*
+* $\checkmark$ turning points
+* $\checkmark$ $x$-intercepts
+* $\checkmark$ $y$-intercept
+* $\checkmark$ shape
+**(4)**
+
+9.5 
+$$\begin{aligned}
+\text{Distance} &= (-6x^2 + 24x - 18) - (x^3 - 6x^2 + 9x - 4) \\
+&= -6x^2 + 24x - 18 - x^3 + 6x^2 - 9x + 4 \\
+&= -x^3 + 15x - 14
+\end{aligned}$$
+$$\begin{aligned}
+\text{Max distance: } -3x^2 + 15 &= 0 \\
+3x^2 &= 15 \\
+x^2 &= 5 \\
+x &= \pm\sqrt{5} \text{, but } 1 <

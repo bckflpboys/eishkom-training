@@ -1,0 +1,347 @@
+**Vertroulik**
+
+**NASIONALE SENIOR SERTIFIKAAT**
+
+**GRAAD 12**
+
+# FISIESE WETENSKAPPE: CHEMIE (V2)
+
+**NOVEMBER 2025**
+
+**PUNTE: 150**  
+**TYD: 3 uur**
+
+Hierdie vraestel bestaan uit 16 bladsye en 4 gegewensblaaie.
+
+---
+
+### INSTRUKSIES EN INLIGTING
+
+1. Skryf jou sentrumnommer en eksamennommer in die toepaslike ruimtes op die ANTWOORDEBOEK neer.
+2. Hierdie vraestel bestaan uit NEGE vrae. Beantwoord AL die vrae in die ANTWOORDEBOEK.
+3. Begin ELKE vraag op 'n NUWE bladsy in die ANTWOORDEBOEK.
+4. Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie vraestel gebruik is.
+5. Laat EEN reël tussen twee subvrae oop, bv. tussen VRAAG 2.1 en VRAAG 2.2.
+6. Jy mag 'n nieprogrammeerbare sakrekenaar gebruik.
+7. Toon ALLE formules en substitusies in ALLE berekeninge.
+8. Rond jou FINALE numeriese antwoorde tot 'n minimum van TWEE desimale plekke af.
+9. Gee kort (bondige) motiverings, besprekings, ens. waar nodig.
+10. Jy word aangeraai om die aangehegte GEGEWENSBLAAIE te gebruik.
+11. Skryf netjies en leesbaar.
+
+---
+
+## VRAAG 1: MEERVOUDIGEKEUSE-VRAE
+
+Verskeie opsies word as moontlike antwoorde op die volgende vrae gegee. Elke vraag het slegs EEN korrekte antwoord. Kies die antwoord en skryf slegs die letter (A–D) langs die vraagnommers (1.1 tot 1.10) in die ANTWOORDEBOEK neer, bv. 1.11 E.
+
+1.1 Watter EEN van die volgende is die naam van die funksionele groep van propan-1-ol?
+A Karboksiel  
+B Karboniel  
+C Hidroksiel  
+D Formiel  
+(2)
+
+1.2 Die organiese verbinding $\text{C}_2\text{H}_4$ word na 'n alkaan omgeskakel, soos in die reaksie hieronder getoon.
+$$\text{C}_2\text{H}_4 \rightarrow \text{Alkaan}$$
+Watter EEN van die volgende is 'n geskikte katalisator vir hierdie reaksie?
+A Lood  
+B Platinum  
+C Waterstof  
+D Yster  
+(2)
+
+1.3 Watter van die volgende stellings is ALTYD van toepassing op verbindings wat strukturele isomere van mekaar is?
+
+(i) Hulle behoort aan dieselfde homoloë reeks.  
+(ii) Hulle het dieselfde struktuurformule.  
+(iii) Hulle het dieselfde molekulêre formule.
+
+A Slegs (iii)  
+B Slegs (i) en (iii)  
+C Slegs (i) en (ii)  
+D (i), (ii) en (iii)  
+(2)
+
+1.4 Magnesiumlint met 'n massa van $2\text{ g}$ reageer met oormaat soutsuur met 'n konsentrasie van $0,1\text{ mol}\cdot\text{dm}^{-3}$ by $20\text{ }^\circ\text{C}$:
+$$\text{Mg(s)} + 2\text{HCl(aq)} \rightarrow \text{MgCl}_2\text{(aq)} + \text{H}_2\text{(g)}$$
+Watter EEN van die volgende veranderinge sal NIE die aanvanklike reaksietempo verhoog NIE?
+A Gebruik $2\text{ g}$ verpoeierde magnesium  
+B Verhoog die temperatuur van $\text{HCl}$ tot $30\text{ }^\circ\text{C}$  
+C Gebruik 'n langer stuk van die magnesiumlint  
+D Verdubbel die volume van die soutsuur gebruik  
+(2)
+
+1.5 Die volgende reaksie bereik ewewig in 'n geslote houer:
+$$\text{H}_2\text{(g)} + \text{S(s)} \rightleftharpoons \text{H}_2\text{S(g)} \quad \Delta H < 0$$
+Die reaksietempo-teenoor-tydgrafiek vir die reaksie word hieronder gegee.
+
+[DIAGRAM: A line graph of Reaction rate vs Time ($t_1$). An initial exponential decay/rise curve flattens out, then at time $t_1$ the rate jumps vertically upwards to a higher horizontal level.]
+
+Watter verandering is by tyd $t_1$ aan die sisteem gemaak?
+A Die druk is by 'n konstante temperatuur verhoog.  
+B Die volume van die houer is vergroot.  
+C Die temperatuur is verhoog.  
+D Meer waterstof is by die sisteem gevoeg.  
+(2)
+
+1.6 'n Hipotetiese endotermiese reaksie word hieronder gegee.
+$$\text{A(g)} + \text{B(g)} \rightleftharpoons \text{AB(g)}$$
+Die aktiveringsenergie vir die terugwaartse reaksie is $50\text{ kJ}\cdot\text{mol}^{-1}$.
+
+Watter EEN van die volgende is moontlik vir die reaksie hierbo?  
+A Die reaksiewarmte is $+70\text{ kJ}\cdot\text{mol}^{-1}$.  
+B Die aktiveringsenergie vir die voorwaartse reaksie is $50\text{ kJ}\cdot\text{mol}^{-1}$.  
+C Die energie van die geaktiveerde kompleks is $40\text{ kJ}\cdot\text{mol}^{-1}$.  
+D Die aktiveringsenergie vir die voorwaartse reaksie is $40\text{ kJ}\cdot\text{mol}^{-1}$.  
+(2)
+
+1.7 Die produkte vir die reaksie tussen 'n metaaloksied en 'n suur is ...  
+A 'n sout en water.  
+B 'n sout en waterstofgas.  
+C 'n sout en koolstofdioksied.  
+D 'n sout, water en koolstofdioksied.  
+(2)
+
+1.8 Die konsentrasie van elk van die vier oplossings hieronder is $0,1\text{ mol}\cdot\text{dm}^{-3}$.  
+$$\text{HNO}_3\text{(aq)}, \quad \text{NH}_3\text{(aq)}, \quad \text{NaOH(aq)} \text{ en } \text{H}_2\text{CO}_3\text{(aq)}$$
+Watter EEN van die volgende plaas die oplossings in die KORREKTE volgorde van TOENEMENDE $\text{pH}$?  
+A $\text{H}_2\text{CO}_3 \text{ ; } \text{HNO}_3 \text{ ; } \text{NH}_3 \text{ ; } \text{NaOH}$  
+B $\text{HNO}_3 \text{ ; } \text{H}_2\text{CO}_3 \text{ ; } \text{NH}_3 \text{ ; } \text{NaOH}$  
+C $\text{NaOH} \text{ ; } \text{NH}_3 \text{ ; } \text{H}_2\text{CO}_3 \text{ ; } \text{HNO}_3$  
+D $\text{HNO}_3 \text{ ; } \text{H}_2\text{CO}_3 \text{ ; } \text{NaOH} \text{ ; } \text{NH}_3$  
+(2)
+
+1.9 'n Galvaniese sel bestaan uit die volgende halfselle:  
+$$\text{Fe}^{3+}\text{(aq)}|\text{Fe}^{2+}\text{(aq)}$$  
+$$\text{Ni}^{2+}\text{(aq)}|\text{Ni(s)}$$  
+Watter EEN van die volgende stellings is KORREK vir hierdie sel?  
+A $\text{Ni}^{2+}$ is gereduseer en $\text{Fe}^{2+}$ is geoksideer.  
+B $\text{Ni}^{2+}$ is geoksideer en $\text{Fe}^{3+}$ is gereduseer.  
+C $\text{Pt}$ is die elektrode by die katode.  
+D $\text{Ni}$ is die elektrode by die katode.  
+(2)
+
+1.10 Die opstelling vir die elektroplatering van 'n ystermedalje met silwer word in die vereenvoudigde diagram hieronder getoon.
+
+[DIAGRAM: An electroplating cell setup with an energy source (DC power supply), a silver rod connected to the positive terminal, an iron medal connected to the negative terminal, immersed in an electrolyte solution.]
+
+Watter EEN van die volgende kombinasies vir die ANODE en REAKSIE BY DIE KATODE is KORREK?
+
+| | ANODE | REAKSIE BY DIE KATODE |
+|---|---|---|
+| A | Ystermedalje | $\text{Ag}^{+}\text{(aq)} + \text{e}^{-} \rightarrow \text{Ag(s)}$ |
+| B | Silwerstaaf | $\text{Fe}^{2+}\text{(aq)} + 2\text{e}^{-} \rightarrow \text{Fe(s)}$ |
+| C | Ystermedalje | $\text{Ag(s)} \rightarrow \text{Ag}^{+}\text{(aq)} + \text{e}^{-}$ |
+| D | Silwerstaaf | $\text{Ag}^{+}\text{(aq)} + \text{e}^{-} \rightarrow \text{Ag(s)}$ |
+
+(2)  
+**[20]**
+
+---
+
+## VRAAG 2 (Begin op 'n nuwe bladsy.)
+
+Die letters **A** tot **G** in die tabel hieronder verteenwoordig organiese verbindings.
+
+| A | [DIAGRAM: Structural formula of 2-methylpropan-1-ol / or similar carbonyl-containing structure] | B | [DIAGRAM: Structural formula of a chlorinated alkane chain] |
+|---|---|---|---|
+| **C** | $\text{CH}_3\text{CH(CH}_3\text{)CH}_2\text{CHO}$ | **D** | $\text{C}_4\text{H}_{10}\text{O}$ |
+| **E** | $\text{C}_3\text{H}_8$ | **F** | Pentaan |
+| **G** | [DIAGRAM: Structural formula of a branched alkene/alkane] | | |
+
+2.1 Skryf die LETTER(S) neer wat ELK van die volgende verteenwoordig:  
+   2.1.1 'n Alkohol (1)  
+   2.1.2 TWEE verbindings wat funksionele isomere van mekaar is (1)  
+   2.1.3 TWEE verbindings wat aan dieselfde homoloë reeks behoort (1)  
+
+2.2 Skryf neer die:  
+   2.2.1 IUPAC-naam van verbinding **A** (3)  
+   2.2.2 IUPAC-naam van verbinding **B** (3)  
+   2.2.3 IUPAC-naam van verbinding **G** (3)  
+   2.2.4 STRUKTUURFORMULES van twee REGUITKETTING-posisionele isomere van verbinding **D** (4)  
+
+2.3 Verbinding **E**, $\text{C}_3\text{H}_8\text{(g)}$, reageer met suurstof, $\text{O}_2\text{(g)}$, volgens die gebalanseerde vergelyking:  
+   $$\text{C}_3\text{H}_8\text{(g)} + 5\text{O}_2\text{(g)} \rightarrow 3\text{CO}_2\text{(g)} + 4\text{H}_2\text{O}\text{(g)}$$  
+   Aanvanklik is $8\text{ cm}^3$ van verbinding **E** en $50\text{ cm}^3$ suurstof in 'n houer met veranderbare volume ingespuit en toegelaat om te reageer.  
+   2.3.1 Skryf die naam van hierdie tipe reaksie neer. (1)  
+   2.3.2 Bereken die TOTALE volume van die GASSE wat teen die einde van die reaksie in die houer teenwoordig is. (5)  
+**[22]**
+
+---
+
+## VRAAG 3 (Begin op 'n nuwe bladsy.)
+
+Twee bottels bevat verbindings **A** en **B** met dieselfde molekulêre formule, $\text{C}_4\text{H}_8\text{O}_2$. Hierdie verbindings is reguitketting- organiese molekules wat aan twee verskillende homoloë reekse behoort.
+
+[DIAGRAM: Two reagent bottles labeled A and B, both with formula $\text{C}_4\text{H}_8\text{O}_2$]
+
+Die kookpunte word gebruik om tussen die twee verbindings te onderskei.
+
+3.1 Definieer die term homoloë reeks. (1)  
+3.2 Identifiseer die TWEE homoloë reekse waaraan hierdie verbindings behoort. (2)
+
+Die volgende is die dampdrukke van hierdie verbindings by 'n gegewe temperatuur:  
+$$\text{Verbinding A} \quad 0,071\text{ kPa} \qquad \text{Verbinding B} \quad 9,7\text{ kPa}$$
+
+3.3 Skryf neer die:  
+   3.3.1 STRUKTUURFORMULE van verbinding **A** (2)  
+   3.3.2 IUPAC-naam vir 'n moontlike verbinding **B** (2)  
+
+3.4 Skryf neer die sterkste tipe Van der Waalskrag tussen die molekules in:  
+   3.4.1 Verbinding **A** (1)  
+   3.4.2 Verbinding **B** (1)  
+
+3.5 Watter verbinding, **A** of **B**, het 'n hoër kookpunt? Gee 'n rede vir die antwoord deur na die sterkte van die intermolekulêre kragte te verwys. (2)  
+3.6 Die kookpunt van verbinding **A** word weer gemeet op 'n ander dag wanneer die atmosferiese druk heelwat laer is.  
+   Hoe sal die kookpunt van hierdie verbinding nou beïnvloed word? Kies uit TOENEEM, AFNEEM of BLY DIESELFDE. (1)  
+**[12]**
+
+---
+
+## VRAAG 4 (Begin op 'n nuwe bladsy.)
+
+4.1 Bestudeer die drie organiese reaksies **I**, **II** en **III** hieronder. Verbindings **T** en **W** is organiese verbindings. **R** en **S** is anorganiese stowwe. Neem slegs die hoofprodukte in ag.
+
+| I | $\text{HBr(g)} + \mathbf{T} \longrightarrow \mathbf{W}$ |
+|---|---|
+| II | $\mathbf{W} + \text{NaOH(aq)} \longrightarrow \text{CH}_3\text{CH(OH)CH}_2\text{CH}_3 + \mathbf{R}$ |
+| III | $\text{CH}_3\text{CH(OH)CH}_2\text{CH}_3 \xrightarrow{\mathbf{S}} \mathbf{T} + \text{H}_2\text{O}(\ell)$ |
+
+Skryf neer die:  
+   4.1.1 IUPAC-naam van verbinding **W** (2)  
+   4.1.2 NAAM of FORMULE van **R** (1)  
+   4.1.3 TWEE name vir die tipe reaksie in reaksie **I** (2)  
+   4.1.4 NAAM of FORMULE van **S** (1)  
+   4.1.5 STRUKTUURFORMULE van verbinding **T** (2)  
+
+Verbinding **W** kan in een stap na verbinding **T** omgeskakel word.  
+   4.1.6 Noem, behalwe hitte, EEN ander reaksietoestand vir hierdie reaksie. (1)  
+
+4.2 'n Verbinding met die formule $\text{C}_{10}\text{H}_{22}$ ondergaan 'n krakingsreaksie volgens die vergelyking:  
+   $$\text{C}_{10}\text{H}_{22}(\ell) \rightarrow 2\mathbf{X}(\text{g}) + \text{C}_4\text{H}_{10}\text{(g)}$$  
+   Die mengsel van die twee produkte word in 'n donker vertrek in broomwater, $\text{Br}_2\text{(aq)}$, geborrel.  
+   4.2.1 Definieer die term kraking. (2)  
+   4.2.2 Noem EEN verandering, behalwe 'n verandering in temperatuur, wat waargeneem sal word wanneer die mengsel in $\text{Br}_2\text{(aq)}$ geborrel word. (1)  
+   4.2.3 Skryf die STRUKTUURFORMULE van verbinding **X** neer. (2)  
+   4.2.4 Watter verbinding, **X** of $\text{C}_4\text{H}_{10}$, reageer vinniger met $\text{Br}_2\text{(aq)}$? Verduidelik die antwoord. (3)  
+**[17]**
+
+---
+
+## VRAAG 5 (Begin op 'n nuwe bladsy.)
+
+5.1 Definieer die term reaksietempo. (2)  
+5.2 Koolstofmonoksied, $\text{CO(g)}$, reageer met suurstof, $\text{O}_2\text{(g)}$, om koolstofdioksied, $\text{CO}_2\text{(g)}$, in 'n verseëlde houer te vorm, volgens die gebalanseerde vergelyking:  
+   $$2\text{CO(g)} + \text{O}_2\text{(g)} \rightarrow 2\text{CO}_2\text{(g)}$$  
+   Die grafiek hieronder toon die konsentrasie van $\text{O}_2\text{(g)}$ teenoor tyd.
+
+[DIAGRAM: A graph of Concentration of $\text{O}_2\text{(g)}$ ($\text{mol}\cdot\text{dm}^{-3}$) vs Time ($\text{s}$). The curve starts at $0,30\text{ mol}\cdot\text{dm}^{-3}$ at time $0\text{ s}$ and decreases non-linearly over $60\text{ s}$.]
+
+   5.2.1 By watter tyd, $10\text{ s}$ of $30\text{ s}$, is die reaksietempo hoër? (1)  
+   5.2.2 Die reaksie vind plaas in 'n $3\text{ dm}^3$-houer. Bereken die gemiddelde tempo (in $\text{mol}\cdot\text{s}^{-1}$) waartegen $\text{CO}_2\text{(g)}$ in die eerste $10\text{ s}$ gevorm word. (5)  
+   5.2.3 Watter reaktans is in oormaat, $\text{CO}$ of $\text{O}_2$? (1)  
+   5.2.4 Hierdie reaksie is herhaal deur 'n kleiner verseëlde houer te gebruik. Hoe sal dit die grootte van die gradiënt van die grafiek aan die begin van die reaksie beïnvloed? Kies uit VERHOOG, VERLAAG of BLY DIESELFDE. Gee 'n rede vir die antwoord. (2)  
+
+5.3 Die reaksie tussen swaeldioksied, $\text{SO}_2\text{(g)}$, en suurstof, $\text{O}_2\text{(g)}$, vind plaas in 'n verseëlde houer volgens die gebalanseerde vergelyking hieronder.  
+   $$2\text{SO}_2\text{(g)} + \text{O}_2\text{(g)} \rightleftharpoons 2\text{SO}_3\text{(g)} \quad \Delta H = -196\text{ kJ}\cdot\text{mol}^{-1}$$  
+   5.3.1 Was daar 'n netto vrystelling of netto absorpsie van energie tydens die TERUGWAARTSE reaksie? (1)  
+   5.3.2 Definieer die term geaktiveerde kompleks. (2)  
+   5.3.3 'n Katalisator, vanadiumpentoksied, word by die reaksie gevoeg. Verduidelik, in terme van die botsingsteorie, waarom die reaksietempo sal toeneem. (3)  
+
+   Kurwe **X** is die Maxwell Boltzmann-verspreidingskurwe vir die reaksie hierbo.  
+
+[DIAGRAM: Maxwell-Boltzmann distribution curve labeled X showing Number of particles vs Kinetic energy]
+
+   Meer $\text{SO}_2\text{(g)}$ word nou by konstante temperatuur in die houer bygevoeg.  
+   5.3.4 Hoe sal hierdie verandering die reaksiewarmte beïnvloed? Kies uit TOENEEM, AFNEEM of BLY DIESELFDE. (1)  
+   5.3.5 Teken die grafiek hierbo in die ANTWOORDEBOEK oor. Teken op dieselfde assestelsel die kurwe wat nou verkry sal word. Benoem dit as kurwe **Y**. (2)  
+**[20]**
+
+---
+
+## VRAAG 6 (Begin op 'n nuwe bladsy.)
+
+6.1 Ewewig word by $25\text{ }^\circ\text{C}$ in 'n versadigde kalsiumhidroksiedoplossing volgens die vergelyking bereik:  
+   $$\text{Ca(OH)}_2\text{(s)} \rightleftharpoons \text{Ca}^{2+}\text{(aq)} + 2\text{OH}^{-}(\text{aq})$$  
+   6.1.1 Stel Le Chatelier se beginsel. (2)  
+   6.1.2 'n Paar druppels gekonsentreerde soutsuur, $\text{HCl}\text{(gekons.)}$, word by die ewewigsmengsel gevoeg. Watter effek het hierdie byvoeging op die massa van $\text{Ca(OH)}_2\text{(s)}$? Kies uit TOENEEM, AFNEEM of BLY DIESELFDE. (1)  
+   6.1.3 Verduidelik die antwoord op VRAAG 6.1.2 deur van Le Chatelier se beginsel gebruik te maak. (2)  
+
+6.2 Aanvanklik word $70\text{ g}$ $\text{NH}_4\text{HS}\text{(s)}$ in 'n $3\text{ dm}^3$-houer by $250\text{ }^\circ\text{C}$ geplaas. Die houer word verseël en die reaksie word toegelaat om ewewig te bereik volgens die gebalanseerde vergelyking:  
+   $$\text{NH}_4\text{HS}\text{(s)} \rightleftharpoons \text{NH}_3\text{(g)} + \text{H}_2\text{S}\text{(g)}$$  
+   Die $K_c$-waardes vir die ontbinding van $\text{NH}_4\text{HS}\text{(s)}$ by verskillende temperature word in die tabel hieronder gegee.
+
+| TEMPERATUUR ($^\circ\text{C}$) | $K_c$ |
+|---------------------------------|-------|
+| 200 | $7,5 \times 10^{-2}$ |
+| 250 | $18 \times 10^{-2}$ |
+| 300 | $40 \times 10^{-2}$ |
+
+   6.2.1 Is die ontbinding van $\text{NH}_4\text{HS}\text{(s)}$ 'n EKSOTERMIESE of ENDOTERMIESE reaksie? (1)  
+   6.2.2 Verduidelik die antwoord op VRAAG 6.2.1 deur van Le Chatelier se beginsel gebruik te maak. (3)  
+   6.2.3 Bereken die massa $\text{NH}_4\text{HS}\text{(s)}$ wat by ewewig by $250\text{ }^\circ\text{C}$ teenwoordig sal wees. (8)  
+**[17]**
+
+---
+
+## VRAAG 7 (Begin op 'n nuwe bladsy.)
+
+7.1 Fosforsuur, $\text{H}_3\text{PO}_4\text{(aq)}$, is 'n voorbeeld van 'n suur wat in drie stappe kan ioniseer, soos hieronder getoon.  
+   $$\text{H}_3\text{PO}_4\text{(aq)} + \text{H}_2\text{O}(\ell) \rightleftharpoons \text{H}_3\text{O}^{+}(\text{aq}) + \text{H}_2\text{PO}_4^{-}(\text{aq}) \quad K_a = 6,9 \times 10^{-3}$$  
+   $$\text{H}_2\text{PO}_4^{-}(\text{aq}) + \text{H}_2\text{O}(\ell) \rightleftharpoons \text{H}_3\text{O}^{+}(\text{aq}) + \text{HPO}_4^{2-}(\text{aq}) \quad K_a = 6,2 \times 10^{-8}$$  
+   $$\text{HPO}_4^{2-}(\text{aq}) + \text{H}_2\text{O}(\ell) \rightleftharpoons \text{H}_3\text{O}^{+}(\text{aq}) + \text{PO}_4^{3-}(\text{aq}) \quad K_a = 4,8 \times 10^{-13}$$  
+   7.1.1 Watter een is die sterkste suur, $\text{H}_2\text{PO}_4^{-}$ of $\text{HPO}_4^{2-}$? Gee 'n rede vir die antwoord deur na die data hierbo te verwys. (2)  
+   7.1.2 Skryf die FORMULE vir die gekonjugeerde basis van $\text{H}_2\text{PO}_4^{-}(\text{aq})$ neer. (1)  
+   7.1.3 Identifiseer 'n stof wat as 'n amfoliet in die reaksies hierbo optree. (1)  
+
+Natriumwaterstoffosfaat, $\text{Na}_2\text{HPO}_4\text{(s)}$, word in water opgelos.  
+   7.1.4 Sal die gevolglike oplossing SUUR of BASIES wees? (1)  
+   7.1.5 Skryf 'n gebalanseerde vergelyking om die antwoord op VRAAG 7.1.4 te verduidelik. (3)  
+
+7.2 Bariumhidroksied, $\text{Ba(OH)}_2$, los op in water volgens die gebalanseerde vergelyking:  
+   $$\text{Ba(OH)}_2\text{(s)} \rightarrow \text{Ba}^{2+}(\text{aq}) + 2\text{OH}^{-}(\text{aq})$$  
+   'n Oplossing van $100\text{ cm}^3$ word berei deur 'n onbekende hoeveelheid $\text{Ba(OH)}_2$ by $25\text{ }^\circ\text{C}$ op te los.  
+   $25\text{ cm}^3$ van hierdie $\text{Ba(OH)}_2$-oplossing word in 'n fles met $15\text{ cm}^3$ van 'n $0,2\text{ mol}\cdot\text{dm}^{-3}$-$\text{HCl}$-oplossing gereageer, volgens die gebalanseerde vergelyking:  
+   $$\text{Ba(OH)}_2\text{(aq)} + 2\text{HCl(aq)} \rightarrow \text{BaCl}_2\text{(aq)} + 2\text{H}_2\text{O}(\ell)$$  
+   Die finale $\text{pH}$ van die oplossing is $12,62$ by $25\text{ }^\circ\text{C}$.  
+
+Bereken die:  
+   7.2.1 Finale konsentrasie van die hidroksiedione in die fles (4)  
+   7.2.2 Aantal mol $\text{Ba(OH)}_2$ wat gebruik is om die $100\text{ cm}^3$-oplossing te berei (8)  
+**[20]**
+
+---
+
+## VRAAG 8 (Begin op 'n nuwe bladsy.)
+
+Die diagram hieronder verteenwoordig 'n sel wat aanvanklik onder standaardtoestande werk.
+
+[DIAGRAM: A galvanic cell setup with an aluminium electrode in an $\text{Al}^{3+}$ solution connected via a salt bridge and voltmeter to a zinc electrode in a $\text{Zn}^{2+}$ solution.]
+
+8.1 Definieer die term elektroliet. (2)  
+8.2 Watter ioonkonsentrasie, $\text{Al}^{3+}(\text{aq})$ of $\text{Zn}^{2+}(\text{aq})$, sal toeneem? Gee 'n rede vir die antwoord. (2)  
+8.3 Skryf die selnotasie vir hierdie sel neer. (3)  
+
+Die elektroliet vir die aluminiumhalfsel word voorberei deur 'n hoeveelheid aluminiumsulfaat, $\text{Al}_2\text{(SO}_4)_3\text{(s)}$, in water op te los.  
+8.4 Bereken die massa $\text{Al}_2\text{(SO}_4)_3\text{(s)}$ wat benodig word om $250\text{ cm}^3$ van hierdie oplossing te berei sodat die sel aanvanklik onder STANDAARDTOESTANDE werk. (4)  
+**[11]**
+
+---
+
+## VRAAG 9 (Begin op 'n nuwe bladsy.)
+
+Die diagram hieronder verteenwoordig 'n sel wat vir die raffinering van koper gebruik word.
+
+[DIAGRAM: An electrolytic refining cell with Electrode Q and Electrode R immersed in an electrolyte solution, connected to a DC power supply with a switch.]
+
+Die onsuiwer koper bevat sink as die enigste onsuiwerheid.  
+
+9.1 Is dit 'n ELEKTROLITIESE of 'n GALVANIESE sel? (1)  
+9.2 Wanneer die skakelaar gesluit word, word daar ná $T$-uur gevind dat die hoeveelheid $\text{Cu}^{2+}(\text{aq})$-ione in die elektroliet met $0,05\text{ mol}$ verander het en dat $0,15\text{ mol}$ $\text{Cu(s)}$ op elektrode **Q** neergeslaan het.  
+   9.2.1 Hoe sal die konsentrasie van die sink-ione in die elektroliet tydens die raffinering van die koper beïnvloed word? Kies uit TOENEEM, AFNEEM of BLY DIESELFDE. (1)  
+   9.2.2 Sal die hoeveelheid $\text{Cu}^{2+}(\text{aq})$-ione AFNEEM of TOENEEM? Verduidelik die antwoord volgens die relatiewe sterktes van die oksideermiddels teenwoordig. (3)  
+   9.2.3 Bereken die verandering in die massa van elektrode **R** ná $T$-uur. (6)  
+**[11]**
+
+**TOTAAL: 150**

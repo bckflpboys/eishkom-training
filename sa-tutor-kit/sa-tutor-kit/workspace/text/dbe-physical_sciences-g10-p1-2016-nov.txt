@@ -1,0 +1,965 @@
+=== page 1 ===
+Copyright reserved Please turn over
+
+MARKS:  150
+
+TIME:  2 hours
+
+This question paper consists of 16 pages, 1 answer sheet and 2 data sheets.
+
+GRADE 10
+NATIONAL
+SENIOR CERTIFICATE
+PHYSICAL SCIENCES:  PHYSICS (P1)
+
+NOVEMBER 2016
+
+=== page 2 ===
+Physical Sciences/P1  2                 DBE/November 2016
+CAPS – Grade 10
+Copyright reserved  Please turn over
+
+INSTRUCTIONS AND INFORMATION
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+Write your name and class (for example 10A)  in the appropriate spaces on
+the ANSWER BOOK.
+
+This question paper  consists of 11 questions. Answer ALL t he questions in
+the ANSWER BOOK, except QUESTION 7.3 which must be done on the
+graph on the attached ANSWER SHEET. Ensure that you hand in the
+ANSWER SHEET together with the ANSWER BOOK.
+
+Start EACH question on a NEW page in the ANSWER BOOK.
+
+Number the answers correctly according to the numbering system used in this
+question paper.
+
+Leave ONE line between two subquestions, for example between
+QUESTION 2.1 and QUESTION 2.2.
+
+You may use a non-programmable calculator.
+
+You may use appropriate mathematical instruments.
+
+You are advised to use the attached DATA SHEETS.
+
+Show ALL formulae and substitutions in ALL calculations.
+
+Round off your final numerical answers to a minimum of TWO decimal places.
+
+Give brief motivations, discussions et cetera where required.
+
+Write neatly and legibly.
+
+=== page 3 ===
+Physical Sciences/P1  3                 DBE/November 2016
+CAPS – Grade 10
+Copyright reserved  Please turn over
+t
+
+QUESTION 1:  MULTIPLE-CHOICE QUESTIONS
+
+Four options are provided as possible answers to the following questions. Each
+question has only ONE correct answer. Choose the answer and write only the
+letter (A –D) next to the question number (1.1– 1.10) in the ANSWER BOOK, for
+example 1.11 E.
+
+1.1 Which ONE of the following physical quantities is a vector?
+
+ A
+
+B
+
+C
+
+D
+Distance
+
+Displacement
+
+Mass
+
+Time
+
+(2)
+
+1.2 In the equation vf = vi + a∆t, the SI unit for a∆t is …
+
+ A
+
+B
+
+C
+
+D
+m
+
+m∙s-2
+
+m∙s-1
+
+s-1
+
+(2)
+
+1.3 Consider the acceleration-time graph of an object in motion below.
+
+ Which ONE of the graphs below represents the velocity -time graph of
+the object?
+
+ (2)
+
+C
+v
+t
+B
+v
+t
+A
+v
+t
+D
+v
+t
+a
+
+=== page 4 ===
+Physical Sciences/P1  4                 DBE/November 2016
+CAPS – Grade 10
+Copyright reserved  Please turn over
+
+1.4 A wave in which the particles of the medium vibrate at right angles to the path
+along which the wave travels through the medium, is produced by …
+
+ A
+
+B
+
+C
+
+D
+a bat.
+
+a car's hooter.
+
+an ambulance.
+
+an X-ray machine.
+
+(2)
+
+1.5 The number of waves passing a point every second is defined as the … of the
+wave.
+
+ A
+
+B
+
+C
+
+D
+speed
+
+amplitude
+
+wavelength
+
+frequency
+
+(2)
+
+1.6 Which ONE of the graphs below best describes the relationship between
+loudness and the amplitude of a wave?
+
+                                 A                             B                          C                              D
+
+  (2)
+
+1.7 Which ONE of the vector diagrams below will result in the largest resultant
+vector?
+
+ (2)
+
+A
+ B
+ C
+ D
+Amplitude (m)
+Loudness (dB)
+Amplitude (m)
+Loudness (dB)
+Amplitude (m)
+Loudness (dB)
+Amplitude (m)
+Loudness (dB)
+
+=== page 5 ===
+Physical Sciences/P1  5                 DBE/November 2016
+CAPS – Grade 10
+Copyright reserved  Please turn over
+
+1.8 A sphere is released from point A , as shown in the diagram  below. It reaches
+point B, which is the lowest point of its swing. Ignore the effects of air friction.
+
+ Which ONE of the statements below regarding the energy of the system
+is CORRECT?
+
+ A
+
+B
+
+C
+
+D
+The kinetic energy at A is equal to the mechanical energy at A.
+
+The gravitational potential energy at A is equal to the kinetic energy
+at B.
+
+The sum of the kinetic energy and gravitational potential energy at A
+is equal to the sum of the kinetic energy and gravitational potential
+energy at B.
+
+The k inetic energy at A is equal to the gravitational potential energy
+at B.
+
+(2)
+
+1.9 A rubber balloon obtains a negative charge after it has been rubbed against
+human hair.
+
+Which ONE of the statements below best explains why this happens?
+
+ A
+
+B
+
+C
+
+D
+Negative charges are transferred from the rubber balloon to the human
+hair.
+
+Positive charges are transferred from the rubber balloon to the human
+hair.
+
+Positive charges are transferred from the human hair to the rubber
+balloon.
+
+Negative charges are transferred from the human hair to the rubber
+balloon.
+
+(2)
+
+Position A
+
+Position B
+
+=== page 6 ===
+Physical Sciences/P1  6                 DBE/November 2016
+CAPS – Grade 10
+Copyright reserved  Please turn over
+
+1.10 Consider the circuit diagram below.
+
+ How will the readings on ammeters A1, A2 and A3 compare with each other?
+
+ A
+
+B
+
+C
+
+D
+A1 = A2 = A3
+
+A1 = A2 + A3
+
+(A2 + A3) ˃ A1
+
+A2 ˂ A3˂ A1
+
+(2)
+[20]
+
+2 Ω
+4 Ω
+A1
+A2
+A3
+
+=== page 7 ===
+Physical Sciences/P1  7                 DBE/November 2016
+CAPS – Grade 10
+Copyright reserved  Please turn over
+
+QUESTION 2   (Start on a new page.)
+
+An impatient businessman paces up and down while making a business call on his
+cellphone.
+
+He starts at his desk and walks 5 m east (from A to B) and then walks 7 m west (from B
+to C). This process takes him 20 s.
+
+2.1 Use a vector scale diagram and represent the two displacements of the man
+(from A to B AND from B to C). Label ALL  the vectors clearly and write down
+the displacements next to the vectors.
+Use a scale of 1 cm representing 1 m for your diagram.
+
+(2)
+
+2.2
+
+2.3
+
+2.4
+
+2.5
+
+2.6
+What is the businessman's change in position at C relative to A?
+
+Calculate the total distance the man covers.
+
+Explain why the value calculated in QUESTION 2.2 differs from the one
+calculated in QUESTION 2.3.
+
+Define the term velocity.
+
+Calculate the man's average velocity.
+ (2)
+
+(2)
+
+(2)
+
+(2)
+
+(4)
+[14]
+
+N
+
+W  E
+
+S
+A
+ B
+C
+
+=== page 8 ===
+Physical Sciences/P1  8                 DBE/November 2016
+CAPS – Grade 10
+Copyright reserved  Please turn over
+40 m
+
+QUESTION 3   (Start on a new page.)
+
+A taxi is travelling at a speed of 25 m·s -1 when a traffic light , 40 m ahead , changes
+to red.
+
+3.1 Define the term acceleration.  (2)
+
+The driver takes 1 s to react (reaction time) before he slams on the brakes. The taxi
+then stops within 2 s.
+
+3.2
+
+3.3
+
+3.4
+
+3.5
+
+3.6
+Is the velocity and acceleration of the braking taxi in the SAME DIRECTION
+as it moves towards the traffic light?
+
+Give a reason for the answer to QUESTION 3.2.
+
+Calculate the distance the taxi travels during the reaction time.
+
+Will the taxi stop at the traffic light? Show ALL calculations.
+
+Draw a position versus time graph for the motion of the taxi.
+
+(1)
+
+(1)
+
+(4)
+
+(5)
+
+(4)
+[17]
+
+traffic light
+25 m·s-1
+
+=== page 9 ===
+Physical Sciences/P1  9                 DBE/November 2016
+CAPS – Grade 10
+Copyright reserved  Please turn over
+
+QUESTION 4   (Start on a new page.)
+
+The velocity -time graph below represents the motion of a girl riding her bicycle in
+a northerly direction.
+
+4.1 Write down the girl's initial velocity.  (2)
+
+4.2 Write down the magnitude of the girl's velocity at 300 s.  (2)
+
+4.3 Use the information on the graph to describe the motion of the girl:
+
+ 4.3.1 From B to C  (2)
+
+ 4.3.2 From C to D  (2)
+
+4.4 WITHOUT USING EQUATIONS OF MOTION, calculate each of the
+following:
+
+ 4.4.1 Distance covered by the girl from A to C  (4)
+
+ 4.4.2 Acceleration of the girl from D to E  (4)
+
+4.5 During which stages of the journey is the change in speed the greatest?  (2)
+
+4.6 Explain the answer to QUESTION 4.5.  (2)
+   [20]
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+0         100        200        300       400        500        600       700
+velocity (m·s-1)
+A
+ B
+C
+ D
+E
+time (s)
+
+=== page 10 ===
+Physical Sciences/P1  10                 DBE/November 2016
+CAPS – Grade 10
+Copyright reserved  Please turn over
+    10 m
+Ground floor
+
+v = 14 m·s-1
+cell phone
+Top floor
+
+QUESTION 5   (Start on a new page.)
+
+A woman is at the shopping ma ll 10 m above the ground. Her cellphone , with a  mass
+of 0,01 kg, falls and hits the ground at a speed of 14 m·s-1. Ignore the effects of air
+resistance.
+
+5.1
+
+5.2
+
+5.3
+
+5.4
+
+5.5
+Convert 14 m·s-1 to km·h-1.
+
+Define the term kinetic energy.
+
+Calculate the gravitational potential energy of the cellphone at a height of 5 m
+above the ground.
+
+Calculate the velocity of the cellphone at a height of 5 m above the ground.
+
+Will the value of the cellphone's mechanical energy just before it hits the
+ground be GREATER THAN, LESS THAN or EQUAL  TO the mechanical
+energy at a height of 5 m? Explain the answer.
+ (2)
+
+(2)
+
+(3)
+
+(4)
+
+(3)
+[14]
+
+Cellphone
+
+=== page 11 ===
+Physical Sciences/P1  11                 DBE/November 2016
+CAPS – Grade 10
+Copyright reserved  Please turn over
+
+QUESTION 6   (Start on a new page.)
+
+The diagram below is a graphical representation of a transverse wave moving from
+left to right across the page. The wave is moving at a speed of 0,4 m·s -1 and has
+a frequency of 0,5 Hz.  A, B, C, D and E represent points on the wave.
+
+6.1
+
+6.2
+Write down the amplitude of the wave in metres.
+
+Label the points marked:
+ (2)
+
+ 6.2.1
+
+6.2.2
+D
+
+E
+ (1)
+
+(1)
+
+6.3
+
+6.4
+
+6.5
+
+6.6
+Write down TWO points on the graph above that are in phase.
+
+How many waves are represented in the diagram above?
+
+Calculate the wavelength of the wave.
+
+Determine distance d in the diagram. Show how you arrived at the answer.
+ (1)
+
+(2)
+
+(3)
+
+(2)
+[12]
+
+-50
+-40
+-30
+-20
+-10
+0
+10
+20
+30
+40
+50
+0 1 2 3 4 5 6
+Amplitude (cm) ●A
+ ● E
+●
+D
+d
+t (s)
+●C
+B●
+
+=== page 12 ===
+Physical Sciences/P1  12                 DBE/November 2016
+CAPS – Grade 10
+Copyright reserved  Please turn over
+
+QUESTION 7   (Start on a new page.)
+
+[Source: goyalkunal91.deviantart.com]
+
+7.1
+
+7.2
+
+7.3
+
+7.4
+
+7.5
+Write down the independent variable.
+
+Write down the dependent variable.
+
+Draw a graph of the data by plotting the frequency ( y-axis) versus the
+wavelength (x-axis) of each note played by the musician. Use the graph paper
+provided on the attached ANSWER sheet.
+
+Use the graph in QUESTION 7.3 to determine the mathematical relationship
+between the frequency and wavelength of the notes.
+
+Use the information for note X to calculate the speed of the sound.
+ (1)
+
+(1)
+
+(4)
+
+(1)
+
+(3)
+[10]
+
+A band decides to do a n experiment on sound during one of their practice sessions.
+The diagram below shows a  musician playing specific notes on the electric guitar . The
+guitar is plugged into a speaker to amplify the sound.
+
+A microphone is connected to an oscilloscope so that the frequency of the sound can
+be measured.
+
+The table below represents the data of the notes played by the musician.
+
+NOTE PLAYED BY
+THE MUSICIAN
+WAVELENGTH OF
+THE NOTE (m)
+FREQUENCY OF
+THE NOTE (Hz)
+W 3 110
+X 6 55
+Y 9 37
+Z 12 27
+
+=== page 13 ===
+Physical Sciences/P1  13                 DBE/November 2016
+CAPS – Grade 10
+Copyright reserved  Please turn over
+
+QUESTION 8   (Start on a new page.)
+
+Different types of electromagnetic radiation have different frequencies. This can
+influence their properties and what each could be used for in our daily lives.
+
+8.1 Choose the frequency from COLUMN B that matches the type of
+electromagnetic radiation in COLUMN A . Write only the letter (A –C)   next to
+the question number (8.1.1– 8.1.3) in the ANSWER BOOK, for example
+8.1.4 D.
+
+ COLUMN A
+TYPE OF RADIATION
+COLUMN B
+FREQUENCY IN Hz
+
+8.1.1
+
+8.1.2
+
+8.1.3
+
+Ultraviolet
+
+Gamma
+
+Radio
+
+A
+
+B
+
+C
+
+1023
+
+107
+
+1016
+
+ (3 x 1)  (3)
+
+8.2 Write down ONE use of each of the following types of radiation:
+
+ 8.2.1
+
+8.2.2
+Infrared
+
+Microwaves
+ (1)
+
+(1)
+
+8.3 When doctors need to establish the seriousness of a fracture , a picture is
+taken of the broken bone. The picture below shows a fracture.
+
+                                               [Source: learning radiography.com]
+
+ Write down the following:
+
+ 8.3.1
+
+8.3.2
+
+8.3.3
+Name of the type of radiation used for this procedure
+
+Property of this type of radiation  which enabl es it to perform this
+procedure
+
+Danger of overexposure to this type of radiation
+ (1)
+
+(1)
+
+(1)
+
+8.4 A radio programme is transmitted in the FM band on a wavelength of 3 m.
+
+Calculate the energy of a photon of the radio wave.
+
+(4)
+[12]
+
+=== page 14 ===
+Physical Sciences/P1  14                 DBE/November 2016
+CAPS – Grade 10
+Copyright reserved  Please turn over
+
+QUESTION 9   (Start on a new page.)
+
+The magnetic field lines between two magnetic poles of a magnet are shown in the
+diagram below.
+
+9.1 The magnetic force is a non-contact force.
+
+ 9.1.1
+
+9.1.2
+Define the term non-contact force.
+
+Give another example of a non-contact force.
+ (2)
+
+(1)
+
+9.2
+
+9.3
+What is the nature of the force between the two poles?
+
+What is the polarity of pole 2? Give a reason for the answer.
+ (1)
+
+(2)
+[6]
+
+Pole
+1
+Pole
+2
+
+=== page 15 ===
+Physical Sciences/P1  15                 DBE/November 2016
+CAPS – Grade 10
+Copyright reserved  Please turn over
+-2 x 10-6 C
++3 x 10-6 C
+
+QUESTION 10   (Start on a new page.)
+
+Two small identical spheres, A and B, are suspended on long silk threads , as shown
+in the sketch below. The spheres carry charges of +3 x 10 -6 C and - 2 x 10 -6 C
+respectively.
+
+10.1
+
+10.2
+
+10.3
+
+10.4
+Which sphere has an excess of electrons?
+
+The two spheres are allowed to touch. Will the electrons be transferred from
+A to B or B to A?
+
+The spheres are now separated.
+
+Calculate the new charge on sphere B.
+
+Calculate the number of electrons transferred during contact.
+ (1)
+
+(1)
+
+(3)
+
+(3)
+[8]
+
+
+
+      A                     B
+
+=== page 16 ===
+Physical Sciences/P1  16                 DBE/November 2016
+CAPS – Grade 10
+Copyright reserved Please turn over
+2 A
+12 V
+
+QUESTION 11   (Start on a new page.)
+
+In the circuit diagram below the reading on voltmeter V 1 is 12 V and the reading on
+ammeter A1 is 2 A.
+
+11.1 Calculate the:
+
+ 11.1.1
+
+11.1.2
+
+11.1.3
+
+11.1.4
+Total resistance of the circuit
+
+Reading on V2
+
+Reading on A2
+
+Amount of charge that flows through ammeter A1 in 120 s
+ (4)
+
+(3)
+
+(3)
+
+(3)
+
+11.2 How will the reading on ammeter A 1 be affected if the 6 Ω resistor is removed
+from the circuit?
+
+Write down only INCREASE, DECREASE or REMAIN THE SAME.
+
+(1)
+
+11.3 Explain the answer to QUESTION 11.2 WITHOUT any calculations.  (3)
+[17]
+
+ TOTAL:  150
+
+v1
+V1
+A1
+1
+ 4 Ω
+
+6 Ω
+3 Ω
+A2
+V2
+A3
+
+=== page 17 ===
+Physical Sciences/P1  1   DBE/November 2016
+CAPS – Grade 10
+Copyright reserved Please turn over
+
+DATA FOR PHYSICAL SCIENCES GRADE 10
+PAPER 1 (PHYSICS)
+
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 10
+VRAESTEL 1 (FISIKA)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Acceleration due to gravity
+Swaartekragversnelling g 9,8 m·s-2
+Speed of light in a vacuum
+Spoed van lig in 'n vakuum c 3,0 x 108 m·s-1
+Planck's constant
+Planck se konstante h 6,63 x 10-34 J·s
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Electron mass
+Elektronmassa me 9,11 x 10-31 kg
+
+TABLE 2:  FORMULAE/TABEL 2:  FORMULES
+
+MOTION/BEWEGING
+
+tavv if ∆+=  221i tatvx ∆+∆=∆
+xa2vv
+2
+i
+2
+f ∆+=   t2 vvx if ∆ +=∆
+
+WORK, ENERGY AND POWER/ARBEID, ENERGIE EN DRYWING
+
+mghU=  or/of   mghEP =  2mv21K=   or/of  2k mv21E =
+
+EM = Ek+ Ep.   OR   EM = K + U
+
+WAVES, SOUND AND LIGHT/GOLWE, KLANK EN LIG
+
+λ= fv
+f
+1T=
+hfE= or/of λ= chE
+
+=== page 18 ===
+Physical Sciences/P1  2   DBE/November 2016
+CAPS – Grade 10
+Copyright reserved
+
+ELECTROSTATICS/ELEKTROSTATIKA
+
+e
+Q = n  2Q +Q = Q 21
+
+ELECTRIC CIRCUITS/ELEKTRIESE STROOMBANE
+
+I=Q ∆ t ...R1R1R1 21p ++=
+...RRR 21s ++=  qWV=
+
+=== page 19 ===
+Physical Sciences/P1     DBE/November 2016
+CAPS – Grade 10
+Copyright reserved
+
+ANSWER SHEET FOR QUESTION 7.3
+
+NAME: _____________________________________  CLASS: _____
+
+Hand in this ANSWER SHEET together with the ANSWER BOOK.

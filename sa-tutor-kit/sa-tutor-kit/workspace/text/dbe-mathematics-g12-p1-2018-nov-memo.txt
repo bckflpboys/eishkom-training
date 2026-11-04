@@ -1,0 +1,686 @@
+# NATIONAL SENIOR CERTIFICATE / NASIONALE SENIOR SERTIFIKAAT
+
+## GRADE 12 / GRAAD 12
+
+### MATHEMATICS P1 / WISKUNDE V1
+
+#### NOVEMBER 2018
+
+---
+
+### NOTE / LET WEL:
+* If a candidate answers a question TWICE, only mark the FIRST attempt.
+* Consistent Accuracy applies in all aspects of the marking memorandum.
+* Indien ’n kandidaat ’n vraag TWEE keer beantwoord, merk slegs die EERSTE poging.
+* Volgehoue akkuraatheid is op ALLE aspekte van die nasienriglyne van toepassing.
+
+---
+
+### QUESTION / VRAAG 1
+
+**1.1.1**
+$$x^2 - 4x + 3 = 0$$
+$$(x - 3)(x - 1) = 0$$
+$$x = 3 \text{ or } x = 1$$
+* $\checkmark$ factors/correct subt in formula
+* $\checkmark$ $x = 3$
+* $\checkmark$ $x = 1$
+**(3)**
+
+**1.1.2**
+$$5x^2 - 5x + 1 = 0$$
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+$$= \frac{5 \pm \sqrt{(-5)^2 - 4(5)(1)}}{2(5)}$$
+$$= \frac{5 \pm \sqrt{5}}{10}$$
+$$x = 0,72 \text{ or } x = 0,28$$
+* $\checkmark$ substitution into the correct formula
+* $\checkmark$ $x = 0,72$
+* $\checkmark$ $x = 0,28$
+**(3)**
+
+**1.1.3**
+$$x^2 - 3x - 10 > 0$$
+$$(x - 5)(x + 2) > 0$$
+**OR/OF**
+$x < -2 \text{ or } x > 5$
+* $\checkmark$ factors / critical values
+* $\checkmark\checkmark$ $x < -2 \text{ or } x > 5$
+**(3)**
+
+**1.1.4**
+$$3\sqrt{x} = x - 4$$
+$$9x = x^2 - 8x + 16$$
+$$x^2 - 17x + 16 = 0$$
+$$(x - 16)(x - 1) = 0$$
+$$x = 16 \text{ or } x = 1 \text{ (NA)}$$
+* $\checkmark$ squaring both sides
+* $\checkmark$ $x^2 - 17x + 16 = 0$
+* $\checkmark$ factors
+* $\checkmark$ answer with selection
+**(4)**
+
+**OR/OF**
+$$3x^{\frac{1}{2}} = x - 4$$
+$$x - 3x^{\frac{1}{2}} - 4 = 0$$
+$$\left(x^{\frac{1}{2}} - 4\right)\left(x^{\frac{1}{2}} + 1\right) = 0$$
+$$x^{\frac{1}{2}} = 4 \text{ or } x^{\frac{1}{2}} = -1 \text{ (NA)}$$
+$$x = 16$$
+* $\checkmark$ standard form
+* $\checkmark$ recognize $x = \left(x^{\frac{1}{2}}\right)^2$
+* $\checkmark$ factors
+* $\checkmark$ answer with selection
+**(4)**
+
+---
+
+**1.2**
+$$2y + 9x^2 = -1 \dots \dots (1)$$
+$$3x - y = 2 \dots \dots (2)$$
+$$y = 3x - 2 \dots \dots (3)$$
+
+$$2(3x - 2) + 9x^2 = -1$$
+$$6x - 4 + 9x^2 = -1$$
+$$9x^2 + 6x - 3 = 0$$
+$$3x^2 + 2x - 1 = 0$$
+$$(3x - 1)(x + 1) = 0$$
+$$x = \frac{1}{3} \text{ or } x = -1$$
+$$y = -1 \text{ or } y = -5$$
+* $\checkmark$ $y = 3x - 2$
+* $\checkmark$ substitution
+* $\checkmark$ standard form
+* $\checkmark$ factors
+* $\checkmark$ both $x$ values
+* $\checkmark$ both $y$ values
+**(6)**
+
+**OR/OF**
+$$2y + 9x^2 = -1 \dots \dots (1)$$
+$$3x - y = 2 \dots \dots (2)$$
+$$x = \frac{y + 2}{3}$$
+$$2y + 9\left(\frac{y + 2}{3}\right)^2 = -1$$
+$$2y + 9\left(\frac{y^2 + 4y + 4}{9}\right) = -1$$
+$$2y + y^2 + 4y + 4 + 1 = 0$$
+$$y^2 + 6y + 5 = 0$$
+$$(y + 5)(y + 1) = 0$$
+$$y = -1 \text{ or } y = -5$$
+$$x = \frac{1}{3} \text{ or } x = -1$$
+* $\checkmark$ $x = \frac{y + 2}{3}$
+* $\checkmark$ substitution
+* $\checkmark$ standard form
+* $\checkmark$ factors
+* $\checkmark$ both $y$ values
+* $\checkmark$ both $x$ values
+**(6)**
+
+---
+
+**1.3**
+$$3^{9x} = 64$$
+$$\left(3^{3x}\right)^3 = (4)^3$$
+$$3^{3x} = 4$$
+
+$$5^{\sqrt{p}} = 64$$
+$$\sqrt{5^{\sqrt{p}}} = \sqrt{64}$$
+$$5^{\frac{\sqrt{p}}{2}} = 8$$
+
+$$\frac{[3^{x-1}]^3}{\sqrt{5}\sqrt{p}} = \frac{3^{3x-3}}{5^{\frac{\sqrt{p}}{2}}}$$
+$$= \frac{3^{3x} \cdot 3^{-3}}{\sqrt{5^{\sqrt{p}}}}$$
+$$= \frac{4}{27 \times 8} = \frac{1}{54}$$
+
+* $\checkmark$ $3^{3x} = 4$
+* $\checkmark$ $5^{\frac{\sqrt{p}}{2}} = 8$
+* $\checkmark$ $3^{3x-3} \text{ or } 3^{3x} \cdot 3^{-3}$
+* $\checkmark$ answer
+**(4)**
+
+**OR/OF**
+$$\frac{[3^{x-1}]^3}{\sqrt{5}\sqrt{p}} = \frac{3^{3x} \cdot 3^{-3}}{(5^{0.5})^{\sqrt{p}}}$$
+$$= \frac{4 \cdot 3^{-3}}{\sqrt{64}}$$
+$$= 4 \cdot \frac{1}{27} \cdot \frac{1}{8} = \frac{1}{54}$$
+
+* $\checkmark$ $3^{3x-3} \text{ or } 3^{3x} \cdot 3^{-3}$
+* $\checkmark$ $3^{3x} = 4$
+* $\checkmark$ $5^{\frac{\sqrt{p}}{2}} = 8$
+* $\checkmark$ answer
+**(4)**
+
+**[23]**
+
+---
+
+### QUESTION / VRAAG 2
+
+**2.1.1**
+$42$
+* $\checkmark$ answer
+**(1)**
+
+**2.1.2**
+$$\begin{array}{rll}
+2a &= 6 & 3a + b = 1 \\
+a &= 3 & 3(3) + b = 1 \\
+& & b = -8
+\end{array} \quad \begin{aligned}
+a + b + c &= 2 \\
+(3) + (-8) + c &= 2 \\
+c &= 7
+\end{aligned}$$
+$$T_n = 3n^2 - 8n + 7$$
+* $\checkmark$ $a = 3$
+* $\checkmark$ $b = -8$
+* $\checkmark$ $c = 7$
+* $\checkmark$ $T_n = an^2 + bn + c$
+**(4)**
+
+**OR/OF**
+$$\begin{array}{rlr}
+2a &= 6 \\
+a &= 3 \\
+T_1: 3 + b + c &= 2 & b + c = -1 \dots (1) \\
+T_2: 12 + 2b + c &= 3 & 2b + c = -9 \dots (2) \\
+T_2 - T_1: b &= -8
+\end{array}$$
+$$\text{Subst. in (1): } -8 + c = -1 \implies c = 7$$
+$$T_n = 3n^2 - 8n + 7$$
+* $\checkmark$ $a = 3$
+* $\checkmark$ $b = -8$
+* $\checkmark$ $c = 7$
+* $\checkmark$ $T_n = an^2 + bn + c$
+**(4)**
+
+**2.1.3**
+$$T_{20} = 3(20)^2 - 8(20) + 7$$
+$$= 1047$$
+* $\checkmark$ substitution
+* $\checkmark$ answer
+**(2)**
+
+---
+
+**2.2**
+$$T_n = -7n + 42$$
+$$-7n + 42 = -140$$
+$$-7n = -182$$
+$$n = 26$$
+* $\checkmark$ $T_n = -7n + 42$
+* $\checkmark$ $-7n + 42 = -140$
+* $\checkmark$ $n = 26$
+**(3)**
+
+**2.3**
+$$S_n = \frac{n}{2}(a + l)$$
+$$S_n = \frac{n}{2}(35 - 7n + 42)$$
+$$S_n = \frac{n}{2}(-7n + 77)$$
+$$S_n = -\frac{7}{2}n^2 + \frac{77}{2}n$$
+$$-\frac{7}{2}n^2 + \frac{77}{2}n = 3n^2 - 8n + 7$$
+$$13n^2 - 93n + 14 = 0$$
+$$(n - 7)(13n - 2) = 0$$
+$$n = 7 \text{ or } n = \frac{2}{13} \text{ (NA)}$$
+$$\therefore n = 7$$
+
+**OR/OF**
+$$S_n = \frac{n}{2}[2a + (n - 1)d]$$
+$$S_n = \frac{n}{2}(70 - 7n + 7)$$
+
+* $\checkmark$ $S_n = \frac{n}{2}(35 - 7n + 42) \text{ or } S_n = \frac{n}{2}(70 - 7n + 7)$
+* $\checkmark$ simplification of $S_n$
+* $\checkmark$ equating
+* $\checkmark$ standard form
+* $\checkmark$ factors
+* $\checkmark$ answer with selection
+**(6)**
+
+**[16]**
+
+---
+
+### QUESTION / VRAAG 3
+
+**3.1**
+$$r = \frac{1}{2} \text{ and } S_\infty = 6$$
+$$S_\infty = \frac{a}{1 - r}$$
+$$6 = \frac{a}{1 - \frac{1}{2}}$$
+$$a = 3$$
+* $\checkmark$ substitution
+* $\checkmark$ answer
+**(2)**
+
+**3.2**
+$$T_n = ar^{n-1}$$
+$$T_8 = 3\left(\frac{1}{2}\right)^{7}$$
+$$T_8 = \frac{3}{128}$$
+* $\checkmark\checkmark$ $T_8 = 3\left(\frac{1}{2}\right)^{7}$
+**(2)**
+
+**3.3**
+$$\sum_{k=1}^{n} 3(2)^{1-k} = 5,8125$$
+$$3 + \frac{3}{2} + \frac{3}{4} + \dots = 5,8125$$
+$$S_n = \frac{a(1 - r^n)}{1 - r} = 5,8125$$
+$$\frac{3\left(1 - \left(\frac{1}{2}\right)^n\right)}{1 - \frac{1}{2}} = 5,8125$$
+$$6\left(1 - \left(\frac{1}{2}\right)^n\right) = 5,8125$$
+$$\left(\frac{1}{2}\right)^n = \frac{1}{32} = 0,03125$$
+$$2^{-n} = 2^{-5} \text{ or } n \log \frac{1}{2} = \log \frac{1}{32}$$
+$$n = 5$$
+* $\checkmark$ $r = \frac{1}{2}$
+* $\checkmark$ substitution
+* $\checkmark$ simplification
+* $\checkmark$ answer
+**(4)**
+
+---
+
+**3.4**
+$$\sum_{k=1}^{20} 3(2)^{1-k} = p$$
+$$3 + \frac{3}{2} + \frac{3}{4} + \dots + 3 \cdot 2^{-19} = p$$
+$$\sum_{k=1}^{20} 24(2)^{-k}$$
+$$= 12 + 6 + 3 + \dots + 24 \cdot 2^{-20}$$
+$$= 4\left(3 + \frac{3}{2} + \frac{3}{4} + \dots + 3 \cdot 2^{-19}\right)$$
+$$= 4p$$
+* $\checkmark$ expansion
+* $\checkmark$ expansion
+* $\checkmark$ answer
+**(3)**
+
+**OR/OF**
+$$\sum_{k=1}^{20} 3(2)^{1-k} = p$$
+$$\sum_{k=1}^{20} 6(2)^{-k} = p$$
+$$\therefore \sum_{k=1}^{20} 24(2)^{-k} = 4p$$
+* $\checkmark$ $\sum_{k=1}^{20} 6(2)^{-k} = p$
+* $\checkmark$ $\sum_{k=1}^{20} 4 \times 6(2)^{-k}$
+* $\checkmark$ $4p$
+**(3)**
+
+**OR/OF**
+$$\sum_{k=1}^{20} 24(2)^{-k} = \sum_{k=1}^{20} 4 \times 3 \times 2(2)^{-k}$$
+$$= 4 \sum_{k=1}^{20} 3 \times 2(2)^{-k}$$
+$$= 4 \sum_{k=1}^{20} 3(2)^{1-k} = 4p$$
+* $\checkmark$ $\sum_{k=1}^{20} 4 \times 3 \times 2(2)^{-k}$
+* $\checkmark$ $4 \sum_{k=1}^{20} 3 \times 2(2)^{-k}$
+* $\checkmark$ $4p$
+**(3)**
+
+**OR/OF**
+$$S_{20} = \frac{3\left(\left(\frac{1}{2}\right)^{20} - 1\right)}{\frac{1}{2} - 1} = 6 = p$$
+$$S_{20} = \frac{12\left(\left(\frac{1}{2}\right)^{20} - 1\right)}{\frac{1}{2} - 1} = 24$$
+$$24 = 4 \times 6 = 4p$$
+* $\checkmark$ substitution and answer
+* $\checkmark$ substitution and answer
+* $\checkmark$ $4p$
+**(3)**
+
+**[11]**
+
+---
+
+### QUESTION / VRAAG 4
+
+**4.1**
+Yes
+For every $x$-value there is only one corresponding $y$-value
+**OR/OF**
+One to one mapping (vertical line test)
+* $\checkmark$ answer
+* $\checkmark$ reason
+**(2)**
+
+**4.2**
+$$R(-12 ; -6)$$
+* $\checkmark$ answer
+**(1)**
+
+**4.3**
+$$f(x) = ax^2 \text{ substitute } (-6 ; -12)$$
+$$-12 = a(-6)^2$$
+$$a = \frac{-1}{3}$$
+* $\checkmark$ substitution
+* $\checkmark$ answer
+**(2)**
+
+**4.4**
+$$f: y = -\left(\frac{1}{3}\right)x^2$$
+$$f^{-1}: x = -\left(\frac{1}{3}\right)y^2$$
+$$y^2 = -3x$$
+$$y = \pm\sqrt{-3x}$$
+$$\text{Only } y = -\sqrt{-3x} \text{ and } x \le 0$$
+* $\checkmark$ swapping $x$ and $y$
+* $\checkmark$ $y^2 = -3x$
+* $\checkmark$ $y = -\sqrt{-3x}$
+**(3)**
+
+**[8]**
+
+---
+
+### QUESTION / VRAAG 5
+
+**5.1**
+Domain: $x \in \mathbb{R} ; x \neq 1$
+**OR/OF**
+$x \in (-\infty ; 1) \cup (1 ; \infty)$
+* $\checkmark$ answer
+**(1)**
+
+**5.2**
+$$x = 1$$
+$$y = 0$$
+* $\checkmark$ $x = 1$
+* $\checkmark$ $y = 0$
+**(2)**
+
+**5.3**
+* $\checkmark$ $y$-intercept
+* $\checkmark$ vertical asymptote
+* $\checkmark$ shape
+**(3)**
+
+**5.4**
+$$x \ge 0 ; x \neq 1$$
+**OR/OF**
+$$0 \le x < 1 \text{ or } x > 1$$
+**OR/OF**
+$$x \in [0 ; 1) \cup (1 ; \infty)$$
+* $\checkmark$ $x \ge 0$
+* $\checkmark$ $x \neq 1$
+**(2)**
+*(Note: OR/OF criteria: $\checkmark 0 \le x < 1$, $\checkmark x > 1$)*
+
+**[8]**
+
+---
+
+### QUESTION / VRAAG 6
+
+**6.1**
+$$y = mx + c$$
+$$m = \frac{5 - 1}{4 - 0}$$
+$$m = 1$$
+$$c = 1$$
+$$g(x) = x + 1$$
+**OR/OF**
+$$y = mx + c$$
+$$5 = m(4) + 1$$
+$$m = 1$$
+$$c = 1$$
+$$g(x) = x + 1$$
+* $\checkmark$ substitution into gradient formula
+* $\checkmark$ $y$-intercept $(0 ; 1)$
+**(2)**
+
+**6.2**
+$$x^2 - 2x - 3 = 0$$
+$$(x + 1)(x - 3) = 0$$
+$$x = -1 \text{ or } x = 3$$
+$$A(-1 ; 0) \quad B(3 ; 0)$$
+* $\checkmark$ $y = 0$
+* $\checkmark$ factors
+* $\checkmark$ $x$-values
+**(3)**
+
+**6.3**
+$$x = \frac{-1 + 3}{2} \text{ or } x = \frac{-(-2)}{2(1)} = 1 \text{ or } f'(x) = 2x - 2 = 0$$
+$$x = 1$$
+$$f(x) = x^2 - 2x - 3$$
+$$y = (1)^2 - 2(1) - 3 \quad \text{or} \quad y = (x^2 - 2x + (-1)^2) - 3 - 1 = (x - 1)^2 - 4$$
+$$y = -4$$
+$$y \ge -4 \text{ or } [-4 ; \infty)$$
+* $\checkmark$ $x$-value
+* $\checkmark$ substitution / completing the square
+* $\checkmark$ answer
+**(3)**
+
+**6.4.1**
+$$\text{MN: } y = (x^2 - 2x - 3) - (x + 1)$$
+$$= x^2 - 3x - 4$$
+$$6 = x^2 - 3x - 4$$
+$$0 = x^2 - 3x - 10$$
+$$0 = (x - 5)(x + 2)$$
+$$x = 5 \text{ or } x = -2$$
+$$\text{OT} = 2 \text{ or } \text{OT} = 5 \text{ (NA)}$$
+* $\checkmark$ $x^2 - 3x - 4$
+* $\checkmark$ substituting $y = 6$
+* $\checkmark$ values of $x$
+* $\checkmark$ $\text{OT} = 2$
+**(4)**
+
+**6.4.2**
+$$y = x + 1 \text{ substitute } x = -2$$
+$$= (-2) + 1$$
+$$= -1$$
+$$N(-2 ; -1)$$
+* $\checkmark$ substituting $x = -2$
+* $\checkmark$ answer
+**(2)**
+
+---
+
+**6.5**
+$$f'(x) = 2x - 2$$
+$$2x - 2 = 1$$
+$$x = \frac{3}{2}$$
+$$f\left(\frac{3}{2}\right) = \frac{-15}{4}$$
+$$y + \frac{15}{4} = 1\left(x - \frac{3}{2}\right) \quad \text{or} \quad -\frac{15}{4} = \frac{1}{2} + c$$
+$$y = x - \frac{21}{4}$$
+* $\checkmark$ $f'(x) = 2x - 2$
+* $\checkmark$ $2x - 2 = 1$
+* $\checkmark$ $x = \frac{3}{2}$
+* $\checkmark$ $f\left(\frac{3}{2}\right) = \frac{-15}{4}$
+* $\checkmark$ answer
+**(5)**
+
+**OR/OF**
+$$x^2 - 2x - 3 = x + p$$
+$$x^2 - 2x - 3 - x - p = 0$$
+$$x^2 - 3x - 3 - p = 0$$
+$$\text{This equation will have equal roots, therefore:}$$
+$$b^2 - 4ac = 0$$
+$$(-3)^2 - 4(1)(-3 - p) = 0$$
+$$9 + 12 + 4p = 0$$
+$$p = \frac{-21}{4}$$
+$$y = x - \frac{21}{4}$$
+* $\checkmark$ equating
+* $\checkmark$ equal roots
+* $\checkmark$ substitution
+* $\checkmark$ simplification
+* $\checkmark$ answer
+**(5)**
+
+**6.6**
+$$k < \frac{-21}{4}$$
+* $\checkmark$ answer
+**(1)**
+
+**[20]**
+
+---
+
+### QUESTION / VRAAG 7
+
+**7.1.1**
+$$F = \frac{x[(1 + i)^n - 1]}{i}$$
+$$F = \frac{15~000\left[\left(1 + \frac{0,088}{4}\right)^{16} - 1\right]}{\frac{0,088}{4}}$$
+$$F = \text{R283 }972,28$$
+* $\checkmark$ $\frac{0,088}{4} \text{ and } n = 16$
+* $\checkmark$ substitution into correct formula
+* $\checkmark$ answer
+**(3)**
+
+**7.1.2**
+$$A = \text{R283 }972,28 - 100~000\left(1 + \frac{0,088}{4}\right)^4$$
+$$= \text{R }174~877,60$$
+* $\checkmark$ future value – amount including interest
+* $\checkmark$ $100~000\left(1 + \frac{0,088}{4}\right)^4$
+* $\checkmark$ answer
+**(3)**
+
+**OR/OF**
+$$\text{Amount at end of 3 years:}$$
+$$F = \frac{15~000\left[\left(1 + \frac{0,088}{4}\right)^{12} - 1\right]}{\frac{0,088}{4}} - 100~000$$
+$$= \text{R103 }459,12$$
+$$\text{Amount at end of 4 years:}$$
+$$P(1 + i)^n + \frac{x[(1 + i)^n - 1]}{i}$$
+$$= 103~459,12\left(1 + \frac{0,088}{4}\right)^4 + \frac{15~000\left[\left(1 + \frac{0,088}{4}\right)^4 - 1\right]}{\frac{0,088}{4}}$$
+$$= \text{R }174~877,60$$
+* $\checkmark$ R15 000 including interest – R100 000
+* $\checkmark$ $\left(1 + \frac{0,088}{4}\right)^4$ on $P$ and $x$ in $F_v$
+* $\checkmark$ method
+**(3)**
+
+---
+
+**7.2.1**
+$$P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+$$1~500~000 = \frac{x\left[1 - \left(1 + \frac{0,105}{12}\right)^{-12 \times 20}\right]}{\frac{0,105}{12}}$$
+$$x = \text{R14 }975,70$$
+* $\checkmark$ $i = \frac{0,105}{12}$
+* $\checkmark$ $n = 240$
+* $\checkmark$ substitution into correct formula
+* $\checkmark$ answer
+**(4)**
+
+**7.2.2**
+$$P = \frac{14~975,70\left[1 - \left(1 + \frac{0,105}{12}\right)^{-12 \times 8}\right]}{\frac{0,105}{12}}$$
+$$P = \text{R969 }927,74$$
+* $\checkmark$ $\text{R14 }975,70 \text{ in } P_v\text{-formula}$
+* $\checkmark\checkmark$ $n = 96$
+* $\checkmark$ substitution into correct formula
+* $\checkmark$ answer
+**(5)**
+
+**OR/OF**
+$$\text{Balance outstanding} = A - F$$
+$$= 1~500~000\left(1 + \frac{0,105}{12}\right)^{144} - \frac{14~975,70\left[\left(1 + \frac{0,105}{12}\right)^{144} - 1\right]}{\frac{0,105}{12}}$$
+$$= \text{R5 }259~229,61 - \text{R4 }289~302,47$$
+$$= \text{R969 }927,14$$
+* $\checkmark$ $n = 144 \text{ in } A\text{-formula}$
+* $\checkmark$ $n = 144 \text{ in } F_v\text{-formula}$
+* $\checkmark$ $\text{R14 }975,70$
+* $\checkmark$ $A - F$
+* $\checkmark$ answer
+**(5)**
+
+**[15]**
+
+---
+
+### QUESTION / VRAAG 8
+
+**8.1**
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+$$= \lim_{h \to 0} \frac{x^2 + 2xh + h^2 - 5 - x^2 + 5}{h}$$
+$$= \lim_{h \to 0} \frac{h(2x + h)}{h}$$
+$$= \lim_{h \to 0} (2x + h)$$
+$$= 2x$$
+* $\checkmark$ $x^2 + 2xh + h^2 - 5$
+* $\checkmark$ simplification
+* $\checkmark$ factorisation
+* $\checkmark$ $\lim_{h \to 0} (2x + h)$
+* $\checkmark$ $2x$
+**(5)**
+
+**OR/OF**
+$$f(x + h) = (x + h)^2 - 5$$
+$$= x^2 + 2xh + h^2 - 5$$
+$$f(x + h) - f(x) = x^2 + 2xh + h^2 - 5 - (x^2 - 5)$$
+$$= 2xh + h^2$$
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+$$= \lim_{h \to 0} \frac{2xh + h^2}{h}$$
+$$= \lim_{h \to 0} \frac{h(2x + h)}{h}$$
+$$= \lim_{h \to 0} (2x + h)$$
+$$= 2x$$
+* $\checkmark$ $x^2 + 2xh + h^2 - 5$
+* $\checkmark$ simplification
+* $\checkmark$ factorisation
+* $\checkmark$ $\lim_{h \to 0} (2x + h)$
+* $\checkmark$ $2x$
+**(5)**
+
+---
+
+**8.2.1**
+$$y = 3x^3 + 6x^2 + x - 4$$
+$$\frac{dy}{dx} = 9x^2 + 12x + 1$$
+* $\checkmark$ $9x^2$
+* $\checkmark$ $12x$
+* $\checkmark$ $1$
+**(3)**
+
+**8.2.2**
+$$y(x - 1) = 2x(x - 1)$$
+$$y = \frac{2x(x - 1)}{x - 1} \text{ if } x \neq 1$$
+$$y = 2x$$
+$$\frac{dy}{dx} = 2$$
+* $\checkmark$ $y(x - 1)$
+* $\checkmark$ $2x(x - 1)$
+* $\checkmark$ $y = 2x$
+* $\checkmark$ answer
+**(4)**
+
+**[12]**
+
+---
+
+### QUESTION / VRAAG 9
+
+**9.1.1**
+$$g(x) = (x + 5)(x - x_1)^2$$
+$$20 = 5(x_1)^2$$
+$$x_1^2 = 4$$
+$$x_1 = 2$$
+$$g(x) = (x + 5)(x - 2)^2$$
+$$g(x) = (x + 5)(x^2 - 4x + 4)$$
+$$g(x) = x^3 + x^2 - 16x + 20$$
+* $\checkmark$ $(x + 5)$
+* $\checkmark$ repeated root
+* $\checkmark$ $x_1 = 2$
+* $\checkmark$ $g(x) = (x + 5)(x^2 - 4x + 4)$
+**(4)**
+
+**9.1.2**
+$$g(x) = x^3 + x^2 - 16x + 20$$
+$$g'(x) = 3x^2 + 2x - 16$$
+$$3x^2 + 2x - 16 = 0$$
+$$(3x + 8)(x - 2) = 0$$
+$$x = \frac{-8}{3} \text{ or } x = 2$$
+$$R\left(\frac{-8}{3} ; \frac{1372}{27}\right) \text{ or } R(-2,67 ; 50,81)$$
+$$P(2 ; 0)$$
+* $\checkmark$ derivative
+* $\checkmark$ equating to zero
+* $\checkmark$ factors
+* $\checkmark$ co-ordinates of $R$
+* $\checkmark$ co-ordinates of $P$
+**(5)**
+
+**9.1.3**
+$$g''(x) = 6x + 2$$
+$$g''(0) = 2$$
+$$\therefore \text{concave up}$$
+**OR/OF**
+$$g''(x) = 6x + 2$$
+$$6x + 2 = 0$$
+$$x = -\frac{1}{3} \text{ is the point of inflection}$$
+$$\therefore \text{concave up}$$
+* $\checkmark$ $g''(x) = 6x + 2$
+* $\checkmark$ $g''(0) = 2$
+* $\checkmark$ conclusion
+**(3)**
+
+*(Note: OR/OF criteria: $\checkmark g''(x) = 6x + 2$, $\checkmark x = -\frac{1}{3}$, $\checkmark$ conclusion)*
+
+---
+
+**9.2**
+* $\checkmark$ $y$-intercept of a cubic graph
+* $\checkmark$ point of inflection and stationary point, $x = 3$
+* $\checkmark$ concave up for $x < 3$ and concave down for $x > 3$
+**(3)**
+
+**[15]**
+
+---
+
+### QUESTION / VRAAG 10
+
+**10.1**
+$$\frac{\text{AH}}{\text{HG}} = \frac{3}{2}$$
+* $\checkmark$ answer
+**(1)**

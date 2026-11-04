@@ -1,0 +1,801 @@
+=== page 1 ===
+Copyright reserved  Please turn over
+
+MARKS:  150
+
+TIME:  3 hours
+
+This question paper consists of 15 pages and 2 data sheets.
+GRADE 11
+NATIONAL
+SENIOR CERTIFICATE
+PHYSICAL SCIENCES:  PHYSICS (P1)
+
+NOVEMBER 2018
+
+=== page 2 ===
+Physical Sciences/P1 2 DBE/November 2018
+ CAPS – Grade 11
+Copyright reserved  Please turn over
+
+INSTRUCTIONS AND INFORMATION
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+Write your name and class  (e.g. 11A) in the appropriate spaces on the
+ANSWER BOOK.
+
+This question paper consists of 12 questions. Answer ALL t he questions in
+the ANSWER BOOK.
+
+Start EACH question on a NEW page in the ANSWER BOOK.
+
+Number the answers correctly according to the numbering system used in this
+question paper.
+
+Leave ONE line between two subquestions, e.g. between QUESTION 2.1 and
+QUESTION 2.2.
+
+You may use a non-programmable calculator.
+
+You may use appropriate mathematical instruments.
+
+You are advised to use the attached DATA SHEETS.
+
+Show ALL formulae and substitutions in ALL calculations.
+
+Round off your FINAL  numerical answers to a minimum of TWO decimal
+places.
+
+Give brief motivations, discussions, etc. where required.
+
+Write neatly and legibly.
+
+=== page 3 ===
+Physical Sciences/P1 3 DBE/November 2018
+ CAPS – Grade 11
+Copyright reserved  Please turn over
+
+QUESTION 1:  MULTIPLE-CHOICE QUESTIONS
+
+Various options are provided as possible answers to the following questions. Choose
+the answer and write only the letter (A–D) next to the question numbers (1.1 to 1.10) in
+the ANSWER BOOK, e.g. 1.11 D.
+
+1.1 Two forces, F1 and F2, act on a point . If F 1 and F2 act in the same directio n
+the maximum resultant has a magnitude of 13 N . If forces F 1 and F 2 act in
+opposite directions the magnitude of the minimum resultant is  3 N. The
+magnitude of the two forces, in newton, is …
+
+A
+
+B
+
+C
+
+D
+8 and 5.
+
+16 and 10.
+
+3 and 10.
+
+10 and 7.
+
+(2)
+
+1.2 A free -moving block sl ides down an inclined plane at  a CONSTANT
+VELOCITY. This means that the …
+
+ A
+
+B
+
+C
+
+D
+frictional force acting on the block is zero.
+
+net force acting on the block is in the direction down the slope of the
+plane.
+
+net force acting on the block is zero.
+
+component of weight parallel to the plane is greater than the frictional
+force.
+
+(2)
+
+1.3 A trolley is pushed along a horizontal surface with a force of 150 N  at an
+angle of 45º to the horizontal . The trolley experiences a constant frictional
+force of 60 N.
+
+ The NET FORCE acting on the trolley:
+
+(i)       Causes the trolley to accelerate horizontally
+(ii)      Is equal to the applied force
+      (iii)     Is horizontally forward
+
+Which of the statements above are CORRECT?
+
+ A
+
+B
+
+C
+
+D
+(i) and (ii)
+
+(ii) and (iii)
+
+(i) and (iii)
+
+(i), (ii) and (iii)
+
+150 N
+60 N
+45º
+
+=== page 4 ===
+Physical Sciences/P1 4 DBE/November 2018
+ CAPS – Grade 11
+Copyright reserved  Please turn over
+
+1.4 A man in a lift is moving upwards at a CONSTANT SPEED. The weight of the
+man is W. According to Newt on's T hird Law, the reaction force of the
+weight W is the force of …
+
+ A
+
+B
+
+C
+
+D
+the floor on the man.
+
+Earth on the man.
+
+the man on the floor.
+
+the man on Earth.
+
+(2)
+
+1.5 The optical density of a medium …
+
+ A
+
+B
+
+C
+
+D
+will be high if the refraction of light is less.
+
+is a measure of the refracting power of the medium.
+
+is less when light bends towards the normal when entering the medium.
+
+will be high if light moves faster through the medium.
+
+(2)
+
+1.6 In which ONE of the graphs below will the gradient represent the refractive
+index of a material when light passes from the air through the material?
+
+ A
+
+B
+
+ C
+
+D
+(2)
+θr
+θi
+sin θi
+sin θr
+sin θr
+sin θi θr
+θi
+
+=== page 5 ===
+Physical Sciences/P1 5 DBE/November 2018
+ CAPS – Grade 11
+Copyright reserved  Please turn over
+
+1.7 Every point on a wave front acts  as a point source of spherical, secondary
+waves that move f orward at the same speed as the wave. This statement
+represents …
+
+ A
+
+B
+
+C
+
+D
+Snell's law.
+
+Huygens' principle.
+
+refraction.
+
+the law of reflection.
+
+(2)
+
+1.8 Three charg es of magnitude s +2q, +2q and -2q are shown in the sketch
+below.
+
+ Which arrow CORRECTLY indicates the direction of the  NET FORCE acting
+on the -2q charge?
+
+ A
+
+B
+
+ C
+
+D
+(2)
+
+1.9 Which ONE of the sketches below represents the CORRECT magnetic field
+pattern around a straight current-carrying conductor?
+
+ A
+
+B
+
+ C
+
+D
+(2)
+d
+d
++2q
++2q -2q
+
+=== page 6 ===
+Physical Sciences/P1 6 DBE/November 2018
+ CAPS – Grade 11
+Copyright reserved  Please turn over
+
+1.10 Which ONE of the graphs below CORRECTLY represents the relationship
+between potential difference and current in a non-ohmic resistor?
+
+ A
+
+B
+
+ C
+
+D
+(2)
+    [20]
+
+I (A)
+V
+(V)
+I (A)
+V
+(V)
+I (A)
+V
+(V)
+I (A)
+V
+(V)
+
+=== page 7 ===
+Physical Sciences/P1 7 DBE/November 2018
+ CAPS – Grade 11
+Copyright reserved  Please turn over
+
+QUESTION 2 (Start on a new page.)
+
+Two forces, of magnitudes 50 N and 80 N, act at  a point on a Cartesian plane  in the
+directions shown in the sketch below.
+
+2.1 Give the correct term for the following description:
+
+A single vector having the same effect as two or more vectors together
+
+(1)
+
+2.2 Calculate the:
+
+ 2.2.1 Magnitude of the vertical component of the 50 N  (2)
+
+ 2.2.2 Magnitude of the resultant (net) force  (5)
+
+ 2.2.3 Direction of the resultant (net) force  (2)
+   [10]
+
+30º
+50 N
+80 N
+
+=== page 8 ===
+Physical Sciences/P1 8 DBE/November 2018
+ CAPS – Grade 11
+Copyright reserved  Please turn over
+
+QUESTION 3 (Start on a new page.)
+
+A box, with a mass of 45 kg, is pulled with a force of 90 N at an angle of 50º to the
+horizontal. The box moves at a CONSTANT VELOCITY.
+
+3.1 Define the term kinetic frictional force.  (2)
+
+3.2 State Newton's First Law of Motion in words.  (2)
+
+3.3 Calculate the magnitude of the horizontal component of the applied force.  (2)
+
+3.4 Calculate the magnitude of the normal force.  (4)
+
+3.5 Calculate the coefficient of kinetic friction.  (4)
+
+3.6 Will the coefficient of kinetic friction change if the angle of the applied  force is
+decreased? Write only YES or NO and give a reason.
+
+(2)
+   [16]
+
+50º
+90 N
+
+45 kg
+
+=== page 9 ===
+Physical Sciences/P1 9 DBE/November 2018
+ CAPS – Grade 11
+Copyright reserved  Please turn over
+
+QUESTION 4 (Start on a new page.)
+
+Learners investig ate the relationship between the mass of an object and the
+acceleration it experiences when a constant net force is applied on the object. They
+use their results to draw the graph below.
+
+4.1 State Newton's Second Law of Motion in words.  (2)
+
+4.2 Calculate the gradient of the graph.  (3)
+
+4.3 Hence, determine the net force applied on the object during the experiment.  (2)
+
+4.4 Write down a conclusion for this experiment.  (2)
+   [9]
+
+Graph of the inverse of acceleration versus mass
+3
+
+2,5
+
+2
+
+1,5
+
+1
+
+0,5
+
+0
+0           0,25         0,5           0,75          1          1,25          1,5          m (kg)
+ (m·s-2)-1 1 a
+
+=== page 10 ===
+Physical Sciences/P1 10 DBE/November 2018
+ CAPS – Grade 11
+Copyright reserved  Please turn over
+
+QUESTION 5 (Start on a new page.)
+
+A crate , with a mass of 25 kg , slides do wn a plane which is inclined at  15º to  the
+horizontal. During the first part of the motion , from A to B, there is no friction between
+the crate and the plane, but part BC has a rough surface.
+
+5.1 Draw a free-body diagram of ALL the forces acting on the crate while it moves
+from B to C.
+
+(3)
+
+5.2 Calculate the magnitude of the acceleration of the crate while it moves from A
+to B.
+
+(4)
+
+5.3 Write down the direction of the acceleration of the  crate while it slows down
+from B to C. Write only UP THE SLOPE or DOWN THE SLOPE.
+
+(1)
+
+5.4 The magnitude of the net acceleration from B to C is 1,2  m·s-2. Calculate the
+magnitude of the frictional force acting on the crate.
+
+(4)
+   [12]
+
+QUESTION 6 (Start on a new page.)
+
+The gravitational force on a probe , called Curiosity, on the surface of Mars  is 3 338 N.
+The radius of Mars is 3 390 km and the mass of the planet is 6,39 x 1023 kg.
+
+6.1 State Newton's Law of Universal Gravitation in words.  (2)
+
+6.2 Calculate the mass of the probe.  (4)
+
+6.3 Calculate the weight of the probe on Earth.  (2)
+   [8]
+15º
+A
+B
+C
+25 kg
+15º
+
+=== page 11 ===
+Physical Sciences/P1 11 DBE/November 2018
+ CAPS – Grade 11
+Copyright reserved  Please turn over
+
+QUESTION 7 (Start on a new page.)
+
+A glass prism is placed at the bottom of a container filled with water. A light ray passes
+from the air through the water into the glass prism. The light ray changes direction
+every time it passes into a new medium.
+
+7.1 Name the phenomenon described by the underlined words above.  (1)
+
+7.2 If the refractive index of water and air is 1,33 and 1 respectively, calculate the
+angle θ between the light ray and the SURFACE OF THE WATER if the angle
+of refraction in the water is 40º.
+
+(4)
+
+7.3 The angle of refraction in the glass is 35 º. Calculate the refractive index of
+glass.
+
+(3)
+
+7.4 Draw the sketch below  and complete the diagram of the  path of the light ray
+from the air to the water to the glass. Show ALL the values of the angles of
+incidence, angles of refraction and normal in EACH medium.
+
+   (5)
+
+7.5 Calculate the speed of  light through the glass prism if the refractive index of
+glass is 1,5.
+
+(3)
+
+7.6 Is it possible that total internal reflection of the light ray can occur in the above
+situation? Write only YES or NO.
+
+(1)
+   [17]
+
+θ
+air
+water
+glass
+θ air
+water
+glass
+
+=== page 12 ===
+Physical Sciences/P1 12 DBE/November 2018
+ CAPS – Grade 11
+Copyright reserved  Please turn over
+
+QUESTION 8 (Start on a new page.)
+
+An experiment is performed to investigate the effect of wavelength on the degree of
+diffraction. Monochromatic light shines through a slit with a width  of 0,002 mm and the
+pattern produced is shown on a screen.
+
+8.1 Define the term diffraction.  (2)
+
+8.2  Write an investigative question for this experiment.  (2)
+
+The degree of diffraction is recorded for  different colours of monochromatic light and
+the results are shown on the graph below.
+
+8.3 Write the mathematical  relationship between wave length and the degree of
+diffraction.
+
+(2)
+
+8.4  Which colour of light, RED or GREEN, has the largest degree of diffraction?  (1)
+
+The experiment is repeated with only green light with a wavelength of 560 nm, but the
+slit width is changed and the degree of diffraction is recorded.
+
+8.5 Copy the set of ax es below into your ANSWER BOOK and draw a graph
+showing the relationship between slit width and degree of diffraction.
+
+(2)
+[9]
+Wavelength (nm)
+Degree of
+diffraction
+Slit width (mm)
+Degree of
+diffraction
+Slit
+Monochromatic
+light ray
+Screen
+
+=== page 13 ===
+Physical Sciences/P1 13 DBE/November 2018
+ CAPS – Grade 11
+Copyright reserved  Please turn over
+
+QUESTION 9 (Start on a new page.)
+
+A small isolated sphere A , with a mass of 0,2 g, carrying a charge of +7 x 10 -9 C,
+is suspended from a hor izontal surface by a string of  negligible mass. A  second
+sphere B, carrying a charge of -8 x 10 -9 C, on an isolated stand,  attracts sphere A  so
+that the string forms an angle of 20º  to the vertical.  The horizontal distance between
+the centres of the two spheres is 3 cm. Refer to the diagram below.
+
+9.1 State Coulomb's law in words.  (2)
+
+9.2 Draw a VECTOR DIAGRAM of the forces acting on sphere A. Indicate at least
+ONE angle.
+
+(4)
+
+9.3 Calculate the magnitude of the electrostatic force that sphere B exerts on
+sphere A.
+
+(4)
+
+9.4 Calculate the magnitude of the tension force in the string.  (3)
+   [13]
+
+QUESTION 10 (Start on a new page.)
+
+Two points, P and T, are situated 3 mm apart in the electric field of positive charge  Q,
+as shown below.
+
+10.1 Draw the electric field pattern around charge Q.  (2)
+
+The magnitude of the electric field at point P is 4 x 10 6 N·C-1 and a t point T the
+magnitude is 2,5 x 105 N·C-1.
+
+10.2 Calculate:
+
+ 10.2.1 The ratio of the electric field at point P to the electric field at point T.
+Write the answer as EP : ET.
+
+(1)
+
+ 10.2.2 The distance between charge Q and point P  (4)
+
+ 10.2.3 The magnitude of charge Q  (2)
+   [9]
+
+20º
+A B
+3 cm
+-8 x 10-9 C
++7 x 10-9 C
+Q              P                         T
++
+3 mm
+
+=== page 14 ===
+Physical Sciences/P1 14 DBE/November 2018
+ CAPS – Grade 11
+Copyright reserved  Please turn over
+
+QUESTION 11 (Start on a new page.)
+
+A SQUARE induction coil  with a side length 3 cm and  400 windings , is placed
+perpendicularly in a uniform magnetic field and then rotated through an angle of 45º
+in 0,08 s.
+
+An emf of 7 V is induced in the coil.
+
+11.1 State Faraday's law of electromagnetic induction in words.  (2)
+
+11.2 Calculate the change in the magnetic flux.  (3)
+
+11.3 Calculate the magnitude of the magnetic field.  (4)
+
+The coil is now rotated through an angle of 45º in 0,05 s.
+
+11.4 How will the induced emf be affected? Write only INCREASE, DECREASE or
+STAY THE SAME.
+
+(1)
+
+11.5 Explain the answer to QUESTION 11.4.  (1)
+
+The north pole of a  bar magnet is pushed into a solenoid , as shown in the sketch
+below.
+
+11.6 Which pole will be induced at point X? Write only NORTH or SOUTH.  (1)
+
+11.7 In which direction will the induced current flow? Write only FROM A TO B  or
+FROM B TO A.
+
+(1)
+   [13]
+
+N
+
+S
+A B
+X N
+
+=== page 15 ===
+Physical Sciences/P1 15 DBE/November 2018
+ CAPS – Grade 11
+Copyright reserved
+
+QUESTION 12 (Start on a new page.)
+
+Consider the circuit diagram  below. The internal resistance of the battery and any
+resistance in the wires can be ignored.
+
+12.1 Calculate the value of resistor R if the total resistance of the circuit is 4,8 Ω.  (3)
+
+12.2 Calculate the reading on the voltmeter if the curre nt through the 4R resistor
+is 1,8 A.
+
+(5)
+
+12.3 Calculate the energy converted in resistor 4R in 2 minutes.   (3)
+
+The 4R resistor is replaced with an ammeter.
+
+12.4 How will the reading on the voltmeter be influenced? Write only INCREASE,
+DECREASE or STAY THE SAME.
+
+(1)
+
+12.5 Explain the answer to QUESTION 12.4.  (2)
+   [14]
+
+ TOTAL:  150
+
+R
+3R
+2R
+4R
+V
+
+=== page 16 ===
+Physical Sciences/P1 1 DBE/November 2018
+ CAPS – Grade 11
+Copyright reserved  Please turn over
+
+DATA FOR PHYSICAL SCIENCES GRADE 11
+PAPER 1 (PHYSICS)
+
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 11
+VRAESTEL 1 (FISIKA)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Acceleration due to gravity
+Swaartekragversnelling g 9,8 m·s-2
+Gravitational constant
+Swaartekragkonstante G 6,67 x 10-11 N⋅m2⋅kg-2
+Radius of Earth
+Radius van die Aarde RE 6,38 x 106 m
+Coulomb's constant
+Coulomb se konstante k 9,0 x 109 N⋅m2·C-2
+Speed of light in a vacuum
+Spoed van lig in 'n vakuum c 3,0 x 108 m·s-1
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Electron mass
+Elektronmassa me 9,11 x 10-31 kg
+Mass of Earth
+Massa van die Aarde  M 5,98 x 1024 kg
+
+TABLE 2:  FORMULAE/TABEL 2:  FORMULES
+
+MOTION/BEWEGING
+
+ 221i tatvx ∆+∆=∆
+xa2vv
+2
+i
+2
+f ∆+=   t2 vvx if ∆ +=∆
+
+FORCE/KRAG
+
+ma=Fnet  w = mg
+2
+21
+r
+mGmF=
+N
+f
+=μ
+)maks(max/s
+s
+N
+fk
+k =µ
+
+tavv if ∆+=
+
+=== page 17 ===
+Physical Sciences/P1 2 DBE/November 2018
+CAPS – Grade 11
+Copyright reserved
+
+WAVES, SOUND AND LIGHT/GOLWE, KLANK EN LIG
+
+λ= fv
+f
+1T=
+rrii sinnsinn θ=θ   vcn=
+
+ELECTROSTATICS/ELEKTROSTATIKA
+
+2
+21
+r
+QkQF=         (k = 9,0 x 109 N⋅m2·C-2) qFE =
+2r
+kQE =             (k = 9,0 x 109 N⋅m2·C-2)
+e
+Q=n
+
+ELECTROMAGNETISM/ELEKTROMAGNETISME
+
+tN ∆∆Φ−=ε  θ=Φ cosBA
+
+ELECTRIC CIRCUITS/ELEKTRIESE STROOMBANE
+
+t
+QI ∆=  IVR=
+...r1r1r1R1 321 +++=  ...rrrR 321 +++=
+W = Vq
+
+W = VI∆ t
+
+W = I2R∆ t
+
+W = RΔtV2
+Δt
+WP=
+
+P = VI
+
+P = I2R
+
+R
+VP 2=

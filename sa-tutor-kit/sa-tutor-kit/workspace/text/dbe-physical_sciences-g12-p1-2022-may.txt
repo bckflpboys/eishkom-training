@@ -1,0 +1,1065 @@
+=== page 1 ===
+Copyright reserved  Please turn over
+
+SENIOR CERTIFICATE EXAMINATIONS/
+NATIONAL SENIOR CERTIFICATE EXAMINATIONS
+
+PHYSICAL SCIENCES:  PHYSICS (P1)
+
+2022
+
+MARKS:  150
+
+TIME:  3 hours
+
+This question paper consists of 16 pages and 3 data sheets.
+
+=== page 2 ===
+Physical Sciences/P1 2 DBE/2022
+ SC/NSC
+Copyright reserved  Please turn over
+
+INSTRUCTIONS AND INFORMATION
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+Write your centre number and examination number in the appro priate spaces
+in the ANSWER BOOK.
+
+This question paper consists of TEN questions. Answer ALL the questions in
+the ANSWER BOOK.
+
+Start EACH question on a NEW page in the ANSWER BOOK.
+
+Number the answers correctly according to the numbering system used in this
+question paper.
+
+Leave ONE line between two subquestions, e.g. between QUESTION 2.1 and
+QUESTION 2.2.
+
+You may use a non-programmable calculator.
+
+You may use appropriate mathematical instruments.
+
+Show ALL formulae and substitutions in ALL calculations.
+
+Round off your FINAL numerical answers to a minimum of TWO decimal
+places.
+
+Give brief motivations, discussions, etc. where required.
+
+You are advised to use the attached DATA SHEETS.
+
+Write neatly and legibly.
+
+=== page 3 ===
+Physical Sciences/P1 3 DBE/2022
+ SC/NSC
+Copyright reserved  Please turn over
+
+QUESTION 1:  MULTIPLE-CHOICE QUESTIONS
+
+Various options are provided as possible answers to the following questions. Each
+question has only ONE corr ect answer. Choose the answer and write only the letter
+(A–D) next to the question numbers (1.1 to 1.10) in the ANSWER BOOK, e.g. 1.11 E.
+
+1.1 A bucket is at rest on a table.
+
+Which ONE of the following is the reaction force  to the weight of the buck et,
+as described by Newton's Third Law?
+
+ A
+
+B
+
+C
+
+D
+Force of the table on Earth
+
+Force of the bucket on Earth
+
+Force of the bucket on the table
+
+Force of the table on the bucket
+
+(2)
+
+1.2 A ball is dropped from a small height above the ground.
+
+Ignore air resistance.
+
+The following pairs show physical quantities associated with the ball while it is
+falling to the ground.
+
+In w hich ONE of the se pairs will BOTH quantities change while the ball is
+falling?
+
+ A
+
+B
+
+C
+
+D
+Mechanical energy and weight
+
+Kinetic energy and momentum
+
+Gravitational acceleration and kinetic energy
+
+Gravitational potential energy and gravitational force
+
+(2)
+
+=== page 4 ===
+Physical Sciences/P1 4 DBE/2022
+ SC/NSC
+Copyright reserved  Please turn over
+
+1.3 A ball is dropped from height h and strikes the floor with momentum p.
+
+Ignore air resistance.
+
+The ball is NOW dropped from height 2h.
+
+ Which ONE of the following represents the momentum with which the ball
+NOW strikes the floor?
+
+ A
+
+B
+
+C
+
+D
+p
+
+2
+p
+
+2
+p
+
+2p
+
+(2)
+
+1.4 Object X exerts a gravitational force F on object Y when the distance between
+the centres of the objects is r.
+
+The distance r is now DOUBLED.
+
+Which ONE of the following represents the gravitational force that X now exerts
+on Y?
+
+A
+
+B
+
+C
+
+D
+4
+1
+F
+
+2
+1
+F
+
+2F
+
+4F
+
+(2)
+
+h
+2h
+
+=== page 5 ===
+Physical Sciences/P1 5 DBE/2022
+ SC/NSC
+Copyright reserved  Please turn over
+
+1.5 A force F moves an object P from point X to point Y along two different paths,
+1 and 2, as shown below.
+
+ The work done by F in moving the object is the same for both paths . Which
+ONE of the following can be used to describe force F?
+
+ A
+
+B
+
+C
+
+D
+Normal force
+
+Tension force
+
+Frictional force
+
+Gravitational force
+
+(2)
+
+1.6 Which ONE of the following can be explained by the Doppler effect?
+
+ A
+
+B
+
+C
+
+D
+A stethoscope is used to listen to a person's heartbeat.
+
+An echo is heard when sound waves are reflected off a cliff.
+
+The spectrum of light from an approaching star is shifted towards
+shorter wavelengths.
+
+Sound intensity decreases when the sound source moves away from
+a stationary listener.
+
+(2)
+
+1.7 Two oppositely charged point charges move towards each other.
+
+Which ONE of the following is CORRECT?
+
+The point charges move at …
+
+ A
+
+B
+
+C
+
+D
+constant velocity.
+
+decreasing velocity.
+
+constant acceleration.
+
+increasing acceleration.
+
+(2)
+P
+X
+Y
+2
+1
+
+
+
+
+=== page 6 ===
+Physical Sciences/P1 6 DBE/2022
+ SC/NSC
+Copyright reserved  Please turn over
+
+1.8 Which ONE of the following phrases describes the emf of a battery?
+
+ A
+
+B
+
+C
+
+D
+Energy supplied per unit time
+
+Charge transferred per unit time
+
+Current supplied per unit charge
+
+Maximum energy supplied per unit charge
+
+(2)
+
+1.9 The graph below repr esents the output voltage versus time for an AC
+generator.
+
+ The speed of rotation of the generator's coil is now DOUBLED.
+
+Which ONE of the combinations below shows the  CORRECT new peak
+output voltage and the time for ONE rotation?
+
+  PEAK OUTPUT VOLTAGE (V) TIME FOR ONE ROTATION (S)
+ A 400 0,02
+ B 200 0,02
+ C 200 0,04
+ D 100 0,04   (2)
+
+1.10
+
+A photon of light of energy 2X joules is shone onto a metal surface with work
+function X joules.
+
+Which ONE of the following represents the maximum kinetic energy (in joules)
+of the electron ejected from the metal by this photon?
+
+ A
+
+B
+
+C
+
+D
+
+Zero
+
+2
+1
+X
+
+X
+
+2X
+
+(2)
+[20]
+    Output voltage (V)
+200
+Time (s)
+-200
+0,02 0,04 0,06 0,08
+
+=== page 7 ===
+Physical Sciences/P1 7 DBE/2022
+ SC/NSC
+Copyright reserved  Please turn over
+
+QUESTION 2 (Start on a new page.)
+
+A man faces difficulty whil e swimming in a dam. During the rescue operation,
+an inflated tube attached to a helicopter by a rope is dropped from the helicopter.
+
+The man, of mass 70 kg, holds onto the inflated tube of mass 4 kg, while the helicopter
+is flying horizontally at a CONSTANT sp eed. An average frictional force of 300  N is
+exerted on the man -tube combination while they are dragged  horizontally along the
+surface of the water by the helicopter. The rope makes an angle of 50° with the surface
+of the water, as shown in the diagram below.
+
+Assume that the rope is inextensible and massless, and the water of the dam does not
+flow.
+
+2.1 State Newton's First Law of Motion in words.  (2)
+
+2.2 Draw a free -body diagram of the man-tube combination while they are being
+dragged.
+
+(4)
+
+2.3 Calculate the tension in the rope.  (4)
+
+2.4 How will the answer to QUESTION  2.3 change if the helicopter
+ACCELERATES while dragging the man? The frictional force and the angle
+between the rope and the surface of the water remain the same.
+
+Choose from INCREASES, DECREASES or NO CHANGE. Give a reason for
+the answer.
+
+(2)
+
+In another rescue operation , the inflated tube of mass 4  kg is dropped  from the
+stationary helicopter and it strikes the water at a speed of 16  m∙s-1. The tube sinks
+vertically downwards into the water to a depth of 0,8 m and then rises to the surface.
+The rope hangs loosely.
+
+2.5 Calculate the magnitude of the average upward force exerted on the inflated
+tube while it is sinking.  Assume that the average upward force is constant for
+the motion.
+
+(5)
+   [17]
+50°
+rope
+
+man-tube combination
+inflated tube
+rope
+man
+
+=== page 8 ===
+Physical Sciences/P1 8 DBE/2022
+ SC/NSC
+Copyright reserved  Please turn over
+
+QUESTION 3 (Start on a new page.)
+
+A small disc, C, is thrown vertically upwards at a speed of 15 m∙s -1 from the edge of
+the roof of a building of height 30  m. AFTER 0,5 s, a small ball B is shot vertically
+upwards from the foot of the building at a speed of 40 m∙s-1 in order to hit disc C.
+
+Ignore the effects of air resistance.
+
+3.1 Explain the term projectile.  (2)
+
+3.2 Calculate the:
+
+ 3.2.1  Time taken by disc C to reach its maximum height  (3)
+
+ 3.2.2 Maximum height above the ground reached by disc C  (4)
+
+3.3 Calculate the time from the moment that disc C was thrown upwards until
+the time ball B hits the disc.
+
+(6)
+
+3.4 On the same set of ax es, sketch graphs of velocity versus time for disk C
+and ball B from the moment that disc C was thrown upwards until
+ball B hits disc C.
+
+Label the graph for ball B as B and the graph for disc C as C.
+
+Clearly indicate the following on the graphs:
+
+ The initial velocities of ball B and disc C
+ The time at which ball B was shot upward
+ The time at which disc C reaches its maximum height
+ The time at which ball B hits disc C
+
+(5)
+[20]
+C
+15 m∙s-1
+30 m
+B
+40 m∙s-1
+
+=== page 9 ===
+Physical Sciences/P1 9 DBE/2022
+ SC/NSC
+Copyright reserved  Please turn over
+
+QUESTION 4 (Start on a new page.)
+
+4.1 What is meant by an isolated system in physics?  (2)
+
+During an experiment, a rocket of unknown mass is mounted on a toy cart  of mass
+20 kg. The cart-rocket combination moves at a constant speed of 2,5 m∙s -1 along a
+horizontal floor.
+
+At a certain instant, t he rocket is fired horizontally in the direction of motion at a speed
+of 30 m∙s -1. As a result , the cart slows down to a speed of 0,6 m∙s -1, as shown in the
+diagram below.
+
+Ignore frictional effects.
+
+4.2 Use relevant physics principles to explain why the firing of the rocket will slow
+down the cart.
+
+(2)
+
+4.3 Calculate the mass of the rocket  at the instant the rocket was fired from the
+toy cart.
+
+(5)
+   [9]
+
+Before rocket is fired After rocket is fired
+0,6 m∙s-1
+2,5 m∙s-1 30 m∙s-1
+
+=== page 10 ===
+Physical Sciences/P1 10 DBE/2022
+ SC/NSC
+Copyright reserved  Please turn over
+
+QUESTION 5 (Start on a new page.)
+
+Arrestor beds are used to help moving trucks to come to a stop when their brakes fail.
+
+The driver of a 30 000 kg truck driving down a steep road drives onto an ASCENDING
+arrestor bed inclined at 28° to the horizontal, as shown in the diagram below.
+
+5.1 State the work-energy theorem in words.  (2)
+
+The truck with failed brakes passes point A at the beginning of the arrest or bed at a
+speed of 33 m∙s -1. The average frictional force on the truck is 31 000 N  while the truck
+moves up the arrestor bed.
+
+Ignore the rotational effects of the wheels.
+
+5.2 Give a reason why t he net work done on the truck , while moving on the
+arrestor bed, is negative.
+
+(1)
+
+5.3 Use ENERGY PRINCIPLES to calculate the minimum length of t he arrestor
+bed needed to bring the truck to a stop.
+
+(5)
+
+The diagram below shows  the same truck entering a DESCENDING arrestor bed
+inclined at 28° to the horizontal. The initial speed of the truck and the average frictional
+force on the truck are 33 m∙s-1 and 31 000 N respectively.
+
+5.4 Which arrestor bed, ASCENDING or DESCENDING,  will be able to stop the
+truck in a shorter distance?
+
+Explain the answer in terms of the forces acting on the truck.
+
+(3)
+   [11]
+
+ A
+ascending arrestor bed
+28° road
+road
+descending arrestor bed
+28°
+
+=== page 11 ===
+Physical Sciences/P1 11 DBE/2022
+ SC/NSC
+Copyright reserved  Please turn over
+
+A car moves at a constant speed of 10 ms-1 TOWARDS a stationary sound sourc e.
+The sound source emits sound waves of frequency 880 Hz.
+
+A sound detector A is attached to t he car and another sound detector B is attached to
+the sound source. Detector B detects the sound waves reflected from the car.
+
+The speed of sound in air is 340 m∙s-1.
+
+6.1 State the Doppler effect in words.  (2)
+
+6.2 Calculate the wavelength of the sound waves emitted by the source.  (3)
+
+6.3 Calculate the frequency of the sound waves detected by detector A.   (4)
+
+The sketch graph below shows the frequency recorded by detector A.
+
+6.4 Redraw the graph  above for detector A in your ANSWER BOOK . On  the
+same set of axes , sketch the graph of the frequency recorded by detector B.
+Label this graph as B.
+
+(2)
+   [11]
+
+QUESTION 6 (Start on a new page.)
+A
+sound source
+10 m∙s-1 B
+
+A
+
+Time (s)
+Frequency (Hz)
+
+=== page 12 ===
+Physical Sciences/P1 12 DBE/2022
+ SC/NSC
+Copyright reserved  Please turn over
+
+QUESTION 7 (Start on a new page.)
+
+7.1 Two small, identical spheres, P and T, are placed a distance of 0,1  m apart,
+as shown in the diagram below. P carries a charge of +3 x 10 -6 C and T
+carries a charge of -3 x 10-6 C.
+
+ 7.1.1 State Coulomb's law in words.  (2)
+
+ 7.1.2 Draw the resultant electric field pattern due to the charges on P
+and T.
+
+(3)
+
+ A third charged sphere S of unknown charge Qs is placed a distance of
+0,15 m from sphere T such that the three charge d spheres are at the vertices
+of a right-angled triangle.
+
+The net electrostatic force on sphere T due to the other two charge d spheres
+has a magnitude of 10 N, as shown in the diagram below.
+
+ 7.1.3 Is charge Qs POSITIVE or NEGATIVE?  (1)
+
+ 7.1.4 Calculate the number of  electrons added to or removed from
+sphere S to give it a charge of Qs.
+
+(6)
+
+0,1 m
+-3 x 10-6 C
+P +3 x 10-6 C
+T
+0,1 m
+-3 x 10-6 C
+P +3 x 10-6 C
+0,15 m
+10 N
+S T
+Qs
+
+=== page 13 ===
+Physical Sciences/P1 13 DBE/2022
+ SC/NSC
+Copyright reserved  Please turn over
+
+7.2 P is a variable point in the electric field of charged sphere A and r is the
+distance between point P and the centre of sphere A. See the diagram below.
+
+ A lear ner determines the magnitude of the electric field ( E) at point P for
+different values of r.
+
+Sphere A is then replaced by another sphere , B, of a different charge.
+Another set of results are obtained.
+
+The graphs below are obtained from the results for sphere A and sphere B.
+EA is the magnitude of the electric field at a distance of 0,04 m from the centre
+of charged sphere A.
+
+ Use the graphs to answer the following questions.
+
+ 7.2.1 State the proportionality between the magnitude of electric field E
+at a point and
+2
+1
+r .
+
+(1)
+
+ 7.2.2 Calculate EA if the numerical value of the gradient of the graph for
+sphere A is 680.
+
+(4)
+
+ 7.2.3 How does the magnitude of the charge on sphere B compare to
+the magnitude of the charge on sphere A?
+
+Choose from GREATER THAN, SMALLER THAN or EQUAL TO.
+Give a reason for the answer.
+
+(3)
+    [20]
+)(12 2mr
+
+                            E (N·C-1) sphere B
+EA
+204,0
+1
+
+  sphere A
+0
+P
+
+r
+sphere A
+
+=== page 14 ===
+Physical Sciences/P1 14 DBE/2022
+ SC/NSC
+Copyright reserved  Please turn over
+
+QUESTION 8 (Start on a new page.)
+
+In t he circuit below  a battery of UNKNOWN emf and an internal resistance of
+0,5 Ω is connected to two resistors of 4 Ω  and 8 Ω each, and a resistor R of unknown
+resistance.
+
+Ignore the resistance of the connecting wires.
+
+8.1 The three external resistors are ohmic conductors.
+
+Explain the meaning of the term ohmic conductor.
+
+(2)
+
+8.2 When switch S is OPEN, voltmeter V1 reads 3,2 V.
+
+Calculate the:
+
+ 8.2.1 Current through the battery  (3)
+
+ 8.2.2 Emf of the battery  (4)
+
+8.3 When switch S is CLOSED, voltmeter V2 reads 8,8 V.
+
+ 8.3.1 Calculate the resistance of resistor R.  (5)
+
+ 8.3.2 The battery becomes heated when voltmeter V 2 is replaced by a
+connecting wire. Explain this observation.
+
+(3)
+[17]
+
+ ε
+4 Ω
+0,5 Ω
+  S
+
+V2
+V1
+
+
+8 Ω
+R
+
+=== page 15 ===
+Physical Sciences/P1 15 DBE/2022
+ SC/NSC
+Copyright reserved  Please turn over
+
+QUESTION 9 (Start on a new page.)
+
+9.1 The simplified sketch of an electric motor is shown below.
+
+ 9.1.1 Write down the energy conversion that takes place in this motor.  (1)
+
+ 9.1.2 Is the motor above an AC motor or a DC motor?   (1)
+
+ 9.1.3 What is the function of the commutator in this motor?  (1)
+
+9.2 A resistor Y is rated 220 V, 100 W and is connected to a 220 V AC source, as
+shown in the circuit below.
+
+ 9.2.1 Calculate the resistance of resistor Y.  (3)
+
+  Another resistor Z with a rating 220 V , X W, is now connected in series to
+resistor Y and to the same AC source. See the diagram below.
+
+ The power dissipated by resistor Y changes to 80  W, while its resistance
+remains constant.
+
+ 9.2.2 Calculate the power rating X of resistor Z, assuming that resistor Z
+has constant resistance.
+
+(6)
+[12]
+
+Y
+220 V
+Y Z
+220 V
+N S
+carbon brushes
+commutator
+pivot
+magnet
+coil
+
+=== page 16 ===
+Physical Sciences/P1 16 DBE/2022
+ SC/NSC
+Copyright reserved
+
+QUESTION 10 (Start on a new page.)
+
+10.1 The apparatus illustrated in the simplified diagram below is used to
+demonstrate the photoelectric effect.
+
+ 10.1.1 Define the term photoelectric effect.  (2)
+
+ Incident lig ht of frequency 1,2 x  1015 Hz is shone onto the metal plate and
+electrons are emitted.
+
+Calculate the:
+
+ 10.1.2 Number of photoelectrons emitted in one second  if the total
+energy transferred by the light to the metal  plate per second is
+1,75 x 10-9 J
+
+(4)
+
+ 10.1.3 Maximum speed of a photo electron if the threshold frequency of
+the metal plate is 9,09 x 1014 Hz  (5)
+
+10.2 Briefly e xplain how an emission  spectrum is formed  in terms of energy
+transitions.
+
+(2)
+[13]
+
+ TOTAL:  150
+metal
+plate
+A
+incident light
+e-
+
+=== page 17 ===
+Physical Sciences/P1 1 DBE/2022
+ SC/NSC
+Copyright reserved  Please turn over
+
+DATA FOR PHYSICAL SCIENCES GRADE 12
+PAPER 1 (PHYSICS)
+
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 12
+VRAESTEL 1 (FISIKA)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Acceleration due to gravity
+Swaartekragversnelling g 9,8 m·s-2
+Universal gravitational constant
+Universele gravitasiekonstant G 6,67 x 10-11 N·m2·kg-2
+Radius of the Earth
+Radius van die Aarde RE 6,38 x 106 m
+Mass of the Earth
+Massa van die Aarde ME 5,98 x 1024 kg
+Speed of light in a vacuum
+Spoed van lig in 'n vakuum c 3,0 x 108 m·s-1
+Planck's constant
+Planck se konstante h 6,63 x 10-34 J·s
+Coulomb's constant
+Coulomb se konstante k 9,0 x 109 N·m2·C-2
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Electron mass
+Elektronmassa me 9,11 x 10-31 kg
+
+=== page 18 ===
+Physical Sciences/P1 2 DBE/2022
+ SC/NSC
+Copyright reserved  Please turn over
+
+TABLE 2:  FORMULAE/TABEL 2:  FORMULES
+
+MOTION/BEWEGING
+tavv if 
+
+2
+2
+1
+i taΔtvΔx   or/of
+2
+2
+1
+i taΔtvΔy 
+xa2vv
+2
+i
+2
+f 
+ or/of
+ya2vv
+2
+i
+2
+f 
+Δt2 vvΔx fi    or/of
+Δt2 vvΔy fi  
+
+FORCE/KRAG
+
+maFnet
+
+mvp
+Nμ=f s
+max
+s
+
+Nμ =f kk
+if
+net
+mv- mv=pΔ
+pΔ=tΔF
+
+mgw
+
+2
+21
+d
+mmG=F
+       or/of
+2
+21
+r
+mmG=F
+
+2d
+MG  g 
+2r
+MG g 
+WORK, ENERGY AND POWER/ARBEID, ENERGIE EN DRYWING
+
+xΔF=W
+cos
+
+mghU           or/of
+mghEP
+2mv21K 
+       or/of
+2
+k mv21E 
+KWnet 
+        or/of
+knet EW 
+
+if KKK 
+     or/of
+kikfk EEE 
+UKWnc 
+ or/of
+pknc EEW 
+
+t
+WP 
+Pave = Fvave    /    Pgemid = Fvgemid
+
+WAVES, SOUND AND LIGHT/GOLWE, KLANK EN LIG
+
+ fv
+
+f
+1T
+s
+s
+L
+L fvv vvf 
+
+b
+b
+L
+L fvv vvf 
+hfE     or /of
+ hcE
+
+k(max)0 E+ W=E
+  or
+max0 K+ W=E  where
+hf  E
+ and
+00 hfW     and
+2
+max(max)k mv21E    /
+2
+maxmax mv21K 
+k (mak s)E WE  0
+  of
+mak s0 K WE   waar
+hf  E
+ en
+00 hfW     en
+2
+mak s)mak s(k mv21E    /
+2
+maksmv21K m aks
+
+or/of
+or/of
+
+=== page 19 ===
+Physical Sciences/P1 3 DBE/2022
+ SC/NSC
+Copyright reserved
+
+ELECTROSTATICS/ELEKTROSTATIKA
+
+2
+21
+r
+QkQF
+
+2r
+kQE 
+q
+WV
+
+q
+FE
+
+e
+Q=n
+eq
+Q=n
+
+ELECTRIC CIRCUITS/ELEKTRIESE STROOMBANE
+
+I
+VR 
+
+emf (
+ε ) = I(R + r)
+
+emk (
+ε ) = I(R + r)
+...RRR 21s 
+
+...R1R1R1 21p 
+
+tq  I
+W = Vq
+
+W = VI
+ t
+
+W = I2R
+ t
+
+W =
+R
+ΔtV2
+Δt
+WP 
+
+P = VI
+
+RP 2I
+
+R
+VP 2
+
+ALTERNATING CURRENT/WISSELSTROOM
+
+2
+max
+rms
+II 
+             /
+2
+maks
+wgk
+II 
+
+2
+VV maxrms 
+           /
+2
+VV makswgk 
+rmsrmsave VP I
+     /
+wgkwgkgemiddeld VP I
+
+RP 2rmsave I
+       /
+RP 2wgkgemiddeld I
+
+R
+VP 2rmsave
+        /
+R
+VP 2wgkgemiddeld
+
+output
+N S
+or/of

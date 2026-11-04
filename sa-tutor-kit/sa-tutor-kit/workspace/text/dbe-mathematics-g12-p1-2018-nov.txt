@@ -1,0 +1,291 @@
+NATIONAL SENIOR CERTIFICATE
+
+GRADE 12
+
+MATHEMATICS P1
+
+NOVEMBER 2018
+
+MARKS: 150  
+TIME: 3 hours
+
+This question paper consists of 9 pages and 1 information sheet.
+
+---
+
+### INSTRUCTIONS AND INFORMATION
+
+Read the following instructions carefully before answering the questions.
+
+1. This question paper consists of 12 questions.
+2. Answer ALL the questions.
+3. Number the answers correctly according to the numbering system used in this question paper.
+4. Clearly show ALL calculations, diagrams, graphs, etc. that you have used in determining your answers.
+5. Answers only will NOT necessarily be awarded full marks.
+6. You may use an approved scientific calculator (non-programmable and non-graphical), unless stated otherwise.
+7. If necessary, round off answers to TWO decimal places, unless stated otherwise.
+8. Diagrams are NOT necessarily drawn to scale.
+9. An information sheet with formulae is included at the end of the question paper.
+10. Write neatly and legibly.
+
+---
+
+### QUESTION 1
+
+1.1 Solve for $x$:
+
+1.1.1 $x^2 - 4x + 3 = 0$ (3)
+
+1.1.2 $5x^2 - 5x + 1 = 0$ (correct to TWO decimal places) (3)
+
+1.1.3 $x^2 - 3x - 10 > 0$ (3)
+
+1.1.4 $3\sqrt{x} = x - 4$ (4)
+
+1.2 Solve simultaneously for $x$ and $y$:
+
+$3x - y = 2 \quad \text{and} \quad 2y + 9x^2 = -1$ (6)
+
+1.3 If $3^{x} = 64$ and $5^{\sqrt{p}} = 64$, calculate, WITHOUT the use of a calculator, the value of: $\frac{[3^{x-1}]^3}{\sqrt{5}\cdot 5^{\sqrt{p}}}$ (4)  
+[23]
+
+---
+
+### QUESTION 2
+
+2.1 Given the quadratic sequence: $2 ; 3 ; 10 ; 23 ; \dots$
+
+2.1.1 Write down the next term of the sequence. (1)
+
+2.1.2 Determine the $n^{\text{th}}$ term of the sequence. (4)
+
+2.1.3 Calculate the $20^{\text{th}}$ term of the sequence. (2)
+
+2.2 Given the arithmetic sequence: $35 ; 28 ; 21 ; \dots$
+
+Calculate which term of the sequence will have a value of $-140$. (3)
+
+2.3 For which value of $n$ will the sum of the first $n$ terms of the arithmetic sequence in QUESTION 2.2 be equal to the $n^{\text{th}}$ term of the quadratic sequence in QUESTION 2.1? (6)  
+[16]
+
+---
+
+### QUESTION 3
+
+A geometric series has a constant ratio of $\frac{1}{2}$ and a sum to infinity of $6$.
+
+3.1 Calculate the first term of the series. (2)
+
+3.2 Calculate the $8^{\text{th}}$ term of the series. (2)
+
+3.3 Given: $\sum_{k=1}^{n} 3(2)^{1-k} = 5,125$. Calculate the value of $n$. (4)
+
+3.4 If $\sum_{k=1}^{20} 3(2)^{1-k} = p$, write down $\sum_{k=1}^{20} 24(2)^{-k}$ in terms of $p$. (3)  
+[11]
+
+---
+
+### QUESTION 4
+
+In the diagram below, the graph of $f(x) = ax^2$ is drawn in the interval $x \le 0$.  
+The graph of $f^{-1}$ is also drawn. $\text{P}(-6 ; -12)$ is a point on $f$ and $\text{R}$ is a point on $f^{-1}$.
+
+[DIAGRAM: Cartesian plane showing two curves meeting at the origin $O(0,0)$. $f$ is a parabola branch opening left/downwards for $x \le 0$, passing through $\text{P}(-6; -12)$. $f^{-1}$ is the reflection across $y = x$, passing through $\text{R}$ and the origin, extending into quadrant III.]
+
+4.1 Is $f^{-1}$ a function? Motivate your answer. (2)
+
+4.2 If $\text{R}$ is the reflection of $\text{P}$ in the line $y = x$, write down the coordinates of $\text{R}$. (1)
+
+4.3 Calculate the value of $a$. (2)
+
+4.4 Write down the equation of $f^{-1}$ in the form $y = \dots$ (3)  
+[8]
+
+---
+
+### QUESTION 5
+
+Given: $f(x) = \frac{-1}{x - 1}$
+
+5.1 Write down the domain of $f$. (1)
+
+5.2 Write down the asymptotes of $f$. (2)
+
+5.3 Sketch the graph of $f$, clearly showing all intercepts with the axes and any asymptotes. (3)
+
+5.4 For which values of $x$ will $x \cdot f'(x) \ge 0$? (2)  
+[8]
+
+---
+
+### QUESTION 6
+
+In the diagram below, $\text{A}$ and $\text{B}$ are the $x$-intercepts of the graph of $f(x) = x^2 - 2x - 3$.  
+A straight line, $g$, through $\text{A}$ cuts $f$ at $\text{C}(4 ; 5)$ and the $y$-axis at $(0 ; 1)$.  
+$\text{M}$ is a point on $f$ and $\text{N}$ is a point on $g$ such that $\text{MN}$ is parallel to the $y$-axis.  
+$\text{MN}$ cuts the $x$-axis at $\text{T}$.
+
+[DIAGRAM: Cartesian plane showing the parabola $f(x) = x^2 - 2x - 3$ intersecting the $x$-axis at $\text{A}$ and $\text{B}$, and a straight line $g$ passing through $\text{A}$, $(0,1)$, and $\text{C}(4,5)$. Vertical line segment $\text{MN}$ goes from point $\text{M}$ on $f$ down to point $\text{N}$ on $g$, intersecting the $x$-axis at $\text{T}$.]
+
+6.1 Show that $g(x) = x + 1$. (2)
+
+6.2 Calculate the coordinates of $\text{A}$ and $\text{B}$. (3)
+
+6.3 Determine the range of $f$. (3)
+
+6.4 If $\text{MN} = 6$:
+
+6.4.1 Determine the length of $\text{OT}$ if $\text{T}$ lies on the negative $x$-axis. Show ALL your working. (4)
+
+6.4.2 Hence, write down the coordinates of $\text{N}$. (2)
+
+6.5 Determine the equation of the tangent to $f$ drawn parallel to $g$. (5)
+
+6.6 For which value(s) of $k$ will $f(x) = x^2 - 2x - 3$ and $h(x) = x + k$ NOT intersect? (1)  
+[20]
+
+---
+
+### QUESTION 7
+
+7.1 Selby decided today that he will save $\text{R}15\ 000$ per quarter over the next four years. He will make the first deposit into a savings account in three months' time and he will make his last deposit at the end of four years from now.
+
+7.1.1 How much will Selby have at the end of four years if interest is earned at $8,8\%$ per annum, compounded quarterly? (3)
+
+7.1.2 If Selby decides to withdraw $\text{R}100\ 000$ from the account at the end of three years from now, how much will he have in the account at the end of four years from now? (3)
+
+7.2 Tshepo takes out a home loan over 20 years to buy a house that costs $\text{R}1\ 500\ 000$.
+
+7.2.1 Calculate the monthly instalment if interest is charged at $10,5\%$ p.a., compounded monthly. (4)
+
+7.2.2 Calculate the outstanding balance immediately after the $144^{\text{th}}$ payment was made. (5)  
+[15]
+
+---
+
+### QUESTION 8
+
+8.1 Determine $f'(x)$ from first principles if it is given $f(x) = x^2 - 5$. (5)
+
+8.2 Determine $\frac{dy}{dx}$ if:
+
+8.2.1 $y = 3x^3 + 6x^2 + x - 4$ (3)
+
+8.2.2 $yx - y = 2x^2 - 2x \quad ; \quad x \neq 1$ (4)  
+[12]
+
+---
+
+### QUESTION 9
+
+9.1 The graph of $g(x) = x^3 + bx^2 + cx + d$ is sketched below.  
+The graph of $g$ intersects the $x$-axis at $(-5 ; 0)$ and at $\text{P}$, and the $y$-axis at $(0 ; 20)$.  
+$\text{P}$ and $\text{R}$ are turning points of $g$.
+
+[DIAGRAM: Cubic graph with a local maximum at $\text{R}$ (to the left of the $y$-axis), passing through $(0,20)$ on the $y$-axis, a local minimum at $\text{P}$ on the positive $x$-axis, and crossing the negative $x$-axis at $(-5,0)$.]
+
+9.1.1 Show that $b = 1$, $c = -16$ and $d = 20$. (4)
+
+9.1.2 Calculate the coordinates of $\text{P}$ and $\text{R}$. (5)
+
+9.1.3 Is the graph concave up or concave down at $(0 ; 20)$? Show ALL your calculations. (3)
+
+9.2 If $g$ is a cubic function with:
+- $g(3) = g'(3) = 0$
+- $g(0) = 27$
+- $g''(x) > 0$ when $x < 3$ and $g''(x) < 0$ when $x > 3$,
+
+draw a sketch graph of $g$ indicating ALL relevant points. (3)  
+[15]
+
+---
+
+### QUESTION 10
+
+In $\Delta \text{ABC}$:
+- $\text{D}$ is a point on $\text{AB}$, $\text{E}$ is a point on $\text{AC}$ and $\text{F}$ is a point on $\text{BC}$ such that $\text{DECF}$ is a parallelogram.
+- $\text{BF} : \text{FC} = 2 : 3$.
+- The perpendicular height $\text{AG}$ is drawn intersecting $\text{DE}$ at $\text{H}$.
+- $\text{AG} = t$ units.
+- $\text{BC} = (5 - t)$ units.
+
+[DIAGRAM: Triangle $\text{ABC}$ with altitude $\text{AG}$ perpendicular to $\text{BC}$ at $\text{G}$. A line segment $\text{DE}$ is drawn parallel to $\text{BC}$, with $\text{D}$ on $\text{AB}$ and $\text{E}$ on $\text{AC}$. $\text{AG}$ intersects $\text{DE}$ at $\text{H}$. $\text{F}$ is on $\text{BC}$ such that $\text{DECF}$ is a parallelogram.]
+
+10.1 Write down $\text{AH} : \text{HG}$. (1)
+
+10.2 Calculate $t$ if the area of the parallelogram is a maximum.  
+(NOTE: $\text{Area of a parallelogram} = \text{base} \times \perp \text{height}$) (5)  
+[6]
+
+---
+
+### QUESTION 11
+
+Given the digits: $3 ; 4 ; 5 ; 6 ; 7 ; 8$ and $9$
+
+11.1 Calculate how many unique $5$-digit codes can be formed using the digits above, if:
+
+11.1.1 The digits may be repeated (2)
+
+11.1.2 The digits may not be repeated (2)
+
+11.2 How many unique $3$-digit codes can be formed using the above digits, if:
+- Digits may be repeated
+- The code is greater than $400$ but less than $600$
+- The code is divisible by $5$ (3)  
+[7]
+
+---
+
+### QUESTION 12
+
+12.1 Given: $\text{P}(\text{A}) = 0,45$; $\text{P}(\text{B}) = y$ and $\text{P}(\text{A or B}) = 0,74$
+
+Determine the value(s) of $y$ if $\text{A}$ and $\text{B}$ are mutually exclusive. (3)
+
+12.2 An organisation decided to distribute gift bags of sweets to a Grade R class at a certain school. There is a mystery gift in exactly $\frac{1}{4}$ of the total number of bags.
+
+Each learner in the class may randomly select two gift bags of sweets, one after the other. The probability that a learner selects two bags of sweets with a mystery gift is $\frac{7}{118}$. Calculate the number of gift bags of sweets with a mystery gift inside. (6)  
+[9]
+
+**TOTAL: 150**
+
+---
+
+### INFORMATION SHEET: MATHEMATICS
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni) \quad A = P(1 - ni) \quad A = P(1 - i)^n \quad A = P(1 + i)^n$$
+
+$$T_n = a + (n - 1)d \quad S_n = \frac{n}{2}[2a + (n - 1)d]$$
+
+$$T_n = ar^{n-1} \quad S_n = \frac{a(r^n - 1)}{r - 1} \quad (r \neq 1) \quad S_\infty = \frac{a}{1 - r} \quad (-1 < r < 1)$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i} \quad P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} \quad M\left(\frac{x_1 + x_2}{2} ; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c \quad y - y_1 = m(x - x_1) \quad m = \frac{y_2 - y_1}{x_2 - x_1} \quad m = \tan \theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+$$\text{In } \Delta ABC: \frac{\sin A}{a} = \frac{\sin B}{b} = \frac{\sin C}{c}$$
+
+$$a^2 = b^2 + c^2 - 2bc \cos A$$
+
+$$\text{area } \Delta ABC = \frac{1}{2}ab \sin C$$
+
+$$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta \quad \sin(\alpha - \beta) = \sin \alpha \cos \beta - \cos \alpha \sin \beta$$
+
+$$\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta \quad \cos(\alpha - \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2 \alpha - \sin^2 \alpha \\ 1 - 2\sin^2 \alpha \\ 2\cos^2 \alpha - 1 \end{cases} \quad \sin 2\alpha = 2\sin \alpha \cos \alpha$$
+
+$$\bar{x} = \frac{\sum x}{n} \quad \sigma^2 = \frac{\sum_{i=1}^{n}(x_i - \bar{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)} \quad P(A \text{ or } B) = P(A) + P(B) - P(A \text{ and } B)$$
+
+$$\hat{y} = a + bx \quad b = \frac{\sum (x - \bar{x})(y - \bar{y})}{\sum (x - \bar{x})^2}$$

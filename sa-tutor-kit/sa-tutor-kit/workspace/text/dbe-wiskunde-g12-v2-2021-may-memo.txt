@@ -1,0 +1,47 @@
+# MATHEMATICS P2 / WISKUNDE V2
+## MARKING GUIDELINES / NASIENRIGLYNE
+### SENIOR CERTIFICATE EXAMINATIONS / NATIONAL SENIOR CERTIFICATE EXAMINATIONS – 2021
+
+---
+
+## QUESTION/VRAAG 1
+
+1.1 
+$$26 \quad 13 \quad 3 \quad 18 \quad 12 \quad 34 \quad 24 \quad 58 \quad 16 \quad 10 \quad 15 \quad 69 \quad 20 \quad 17 \quad 40$$
+
+| 1.1.1(a) | $\bar{x} = \frac{375}{15}$ <br> $\bar{x} = 25\text{ MB}$ | \begin{align*} &\checkmark 375 \\ &\checkmark \text{answer} \end{align*} <br> (2) | Answer only: Full marks |
+|---|---|---|---|
+| 1.1.1(b) | $\sigma = 17,65\text{ MB}$ | $\checkmark \text{answer}$ | (1) |
+| 1.1.2 | $25 + 17,65 = 42,65$ <br> $\therefore 2\text{ days}$ | \begin{align*} &\checkmark 42,65 \\ &\checkmark 2 \end{align*} | (2) |
+| 1.1.3 | Overall $\bar{x} = \frac{80}{100} \times 25 = 20\text{ MB}$ <br> $\frac{375 + x}{30} = 20$ <br> $x = 600 - 375$ <br> $ = 225$ <br> maximum total amount of data that Sam must use for the remainder of the month: $\mathbf{225\text{ MB}}$ | \begin{align*} &\checkmark \text{Overall } \bar{x} = 20 \\ &\checkmark \frac{375 + x}{30} = 20 \\ &\checkmark \text{answer} \end{align*} | (3) |
+
+1.2
+
+| Wind speed in $\text{km/h } (x)$ | 2 | 6 | 15 | 20 | 25 | 17 | 11 | 24 | 13 | 22 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Temperature in $\text{^\circ C } (y)$ | 28 | 26 | 22 | 22 | 16 | 20 | 24 | 19 | 26 | 19 |
+
+| 1.2.1 | $a = 29,35$ <br> $b = -0,46$ <br> $\hat{y} = 29,35 - 0,46x$ | \begin{align*} &\checkmark a \\ &\checkmark b \\ &\checkmark \text{equation} \end{align*} | (3) |
+| :--- | :--- | :--- | :---: |
+| 1.2.2 | $y = 25,20\text{ ^\circ C}$ (calculator) <br> **OR** <br> $\hat{y} = 29,35 - 0,46(9)$ <br> $y = 25,21\text{ ^\circ C}$ | $\checkmark \checkmark \text{answer}$ <br> \begin{align*} &\checkmark \text{substitution} \\ &\checkmark \text{answer} \end{align*} | (2) <br> (2) |
+| 1.2.3 | $b < 0$, indicating that as the wind speed increases the temperature decreases. | $\checkmark \text{interpretation}$ | (1) |
+| | | | **[14]** |
+
+---
+
+## QUESTION/VRAAG 2
+
+| Number of days absent | Number of learners | Cumulative frequency |
+| :---: | :---: | :---: |
+| $0 \le x < 5$ | 34 | 34 |
+| $5 \le x < 10$ | 45 | 79 |
+| $10 \le x < 15$ | 98 | 177 |
+| $15 \le x < 20$ | 43 | 220 |
+| $20 \le x < 25$ | 7 | 227 |
+| $25 \le x < 30$ | 3 | 230 |
+
+| 2.1 | Modal class: $10 \le x < 15$ | $\checkmark \text{answer}$ | (1) |
+| :--- | :--- | :--- | :---: |
+| 2.2 | $177\text{ learners}$ | $\checkmark \text{answer}$ | (1) |
+| 2.3 | $230\text{ learners}$ | $\checkmark \text{answer}$ | (1) |
+| 2.4 | 

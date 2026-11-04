@@ -1,0 +1,338 @@
+# NATIONAL SENIOR CERTIFICATE / NASIONALE SENIOR SERTIFIKAAT
+
+**GRADE / GRAAD 12**
+
+**PHYSICAL SCIENCES: PHYSICS (P1) / FISIESE WETENSKAPPE: FISIKA (V1)**
+**NOVEMBER 2025**
+**MARKING GUIDELINES / NASIENRIGLYNE**
+
+**MARKS / PUNTE: 150**
+
+---
+
+### QUESTION 1 / VRAAG 1
+
+1.1 B $\checkmark\checkmark$ (2)
+
+1.2 B $\checkmark\checkmark$ (2)
+
+1.3 C $\checkmark\checkmark$ (2)
+
+1.4 C $\checkmark\checkmark$ (2)
+
+1.5 A $\checkmark\checkmark$ (2)
+
+1.6 D $\checkmark\checkmark$ (2)
+
+1.7 D $\checkmark\checkmark$ (2)
+
+1.8 B $\checkmark\checkmark$ (2)
+
+1.9 C $\checkmark\checkmark$ (2)
+
+1.10 C $\checkmark\checkmark$ (2)
+
+**[20]**
+
+---
+
+### QUESTION 2 / VRAAG 2
+
+2.1 **Marking criteria / Nasienkriteria**
+If any of the underlined key words/phrases in the correct context is omitted deduct 1 mark. / *Indien enige van die onderstreepte sleutelwoorde/frases in die korrekte konteks uitgelaat is, trek 1 punt af.*
+
+When the **net/resultant force** acts on an object, the object will **accelerate** in the direction of the force and the **acceleration** is **directly proportional to the force** and **inversely proportional to the mass** of the object. $\checkmark\checkmark$
+*Wanneer 'n resulterende/netto krag op 'n voorwerp inwerk, versnel die voorwerp in die rigting van die krag teen 'n versnelling direk eweredig aan die krag en omgekeerd eweredig aan die massa van die voorwerp*
+
+**OR / OF**
+
+The **net/resultant force** acting on an object is **equal to the rate of change of momentum** of the object (in the direction of the net force). **(2 or 0)**
+*Die netto/resulterende krag wat op 'n voorwerp inwerk, is gelyk aan die tempo van verandering van momentum van die voorwerp (in die rigting van die netto krag).* **(2)** (2)
+
+2.2 
+
+```text
+       N      F
+       |    /
+       |   /
+       |  /
+       | / 
+fs max +----->
+       | \
+       |  \
+       |   w
+```
+*(Accept force diagram / Aanvaar kragtediagram)*
+
+**Accepted labels / Aanvaarde byskrifte**
+| | |
+| :---: | :--- |
+| $w$ | $F_g / F_w / F_{\text{earth on } P} / \text{weight} / mg / 49\text{ N} / \text{gravitational force}$<br>$F_g / F_w / F_{\text{aarde op } P} / \text{gewig} / mg / 49\text{ N} / \text{gravitasiekrag}$ |
+| $F$ | $F_A / 18\text{ N} / \text{Applied force} / \text{Toegepaste krag}$ |
+| $f_{s\text{ max}}$ | $F_f / f_s / f / \text{Friction (force)} / (\text{static})\text{ friction} / (\text{statiese})\text{ wrywingskrag}$ |
+| $N$ | $F_N / \text{Normal (force)} / F_{\text{normal}} / F_{\text{normaal}} / \text{Normaal(krag)}$ |
+
+**Notes / Aantekeninge**
+* Mark awarded for label and arrow. / *Punt toegeken vir byskrif en pyltjie.*
+* $f_k$ not accepted as label / *$f_k$ word nie aanvaar nie*
+* Do not penalise for length of arrows since drawing is not to scale. / *Moenie vir die lengte van die pyltjies penaliseer nie aangesien die tekening nie volgens skaal is nie.*
+* Any other additional force(s) / *Enige ander addisionele krag(te):* Max / Maks: $\frac{3}{4}$
+* If everything correct, but no arrows / *Indien alles korrek, maar geen pyltjies:* Max / Maks: $\frac{3}{4}$
+* If force(s) do not make contact with the dot / *Indien krag(te) nie met die kolletjie kontak maak nie:* Max / Maks: $\frac{3}{4}$ (4)
+
+2.3.1 
+$$F_x = F\cos\theta$$
+$$15 = 18\cos\theta \checkmark$$
+$$\theta = 33,56^\circ \checkmark$$
+
+**OR / OF**
+$$9,95 = 15\tan\theta \checkmark$$
+$$\theta = 33,56^\circ \checkmark$$
+
+**OR / OF**
+$$9,95 = 18\sin\theta \checkmark$$
+$$\theta = 33,56^\circ \checkmark$$
+
+*(NOTE/NOTA: If answer only / Indien slegs antwoord $1/2$)* (2)
+
+2.3.2 **POSITIVE MARKING FROM QUESTION 2.3.1 / POSITIEWE NASIEN VANAF VRAAG 2.3.1**
+
+**Marking criteria / Nasienkriteria**
+* Formula / *Formule* $f_{s\text{ max}} = \mu_s N$ $\checkmark$
+* Correct substitution of $f_{s\text{ max}}$ / *Korrekte vervanging van $f_{s\text{ max}}$* $\checkmark$
+* Correct calculation of $F_y$ / *Korrekte berekening van $F_y$* $\checkmark$
+* Subtraction for the calculation of $N$ from $F_g$ thus: $(5)(9,8) - (18\sin 33,56^\circ)$ / *Aftrek vir die berekening van $N$ van $F_g$*
+* Correct final answer / *Korrekte finale antwoord:* $0,38$ $\checkmark$
+
+| **OPTION 1 / OPSIE 1** | **OPTION 2 / OPSIE 2** | **OPTION 3 / OPSIE 3** |
+| :--- | :--- | :--- |
+| $f_{s\text{ max}} = \mu_s N$ | $F_{\text{net}} = 0$ | $F_y = \sqrt{(18)^2 - (15)^2} \checkmark$ |
+| $f_{s\text{ max}} = \mu_s(mg - F\sin\theta) \checkmark$ | $N + F_y - F_g = 0$ | $= 9,95\text{ N}$ |
+| $15 \checkmark = \mu_s[(5)(9,8) - 18\sin 33,56^\circ] \checkmark$ | $N + F_y = F_g$ | $F_{\text{net}} = 0$ |
+| $\mu_s = 0,38 \checkmark$ | $N = (5)(9,8) - \underline{(18\sin 33,56^\circ)} \checkmark$ | $\left. \begin{array}{l} N + F_y - F_g = 0 \\ N = F_g - F_y \end{array} \right\}$ |
+| | $N = 39,05\text{ N}$ | $N = (5)(9,8) - \underline{(9,95)} \checkmark$ |
+| | $f_{s\text{ max}} = \mu_s N \checkmark$ | $N = 39,05\text{ N}$ |
+| | $15 \checkmark = \mu_s(39,05)$ | $f_{s\text{ max}} = \mu_s N \checkmark$ |
+| | $\mu_s = 0,38 \checkmark$ | $15 \checkmark = \mu_s(39,05)$ |
+| | | $\mu_s = 0,38 \checkmark$ |
+
+*(NOTE: If $N$ calculation NOT shown $(\frac{3}{5})$ / NOTA: Indien berekening van $N$ nie getoon $(\frac{3}{5})$)* (5)
+
+2.4 **Increases / Neem toe** $\checkmark$
+* Vertical component of $F$ decreases / *Vertikale komponent van $F$ neem af* $\checkmark$
+* Normal force increases / *Normaalkrag neem toe* $\checkmark$
+* $\mu_s$ remains constant, $f_{s\text{ max}}$ is directly proportional to $N$ / *$\mu_s$ bly konstant, $f_{s\text{ max}}$ direk eweredig aan $N$* $\checkmark$
+
+**OR / OF**
+
+**Decreases / Neem af** $\checkmark$
+* Horizontal component of $F$ increases / *Horisontale komponent van $F$ neem toe* $\checkmark$
+* The block will move ($F_{\text{net}}$ will increase) / *Die blok sal beweeg ($F_{\text{net}}$ sal toeneem)* $\checkmark$
+* $f_k < f_{s\text{ max}}$ / *$f_k < f_{s\text{ maks}}$* $\checkmark$
+
+**OR / OF**
+
+**Remains the same / Bly dieselfde** $\checkmark$
+* Explain using relevant calculation / *Verduidelik deur van 'n gepaste berekening gebruik te maak*
+* *NB: In the calculation, candidates must choose a $\mu_k < \mu_s$ value and $\theta$ that together with the $\mu_k$ value will give an answer of $15\text{ N}$ for $f_k$* / *NB: In die berekening moet die kandidaat 'n waarde $\mu_k < \mu_s$ en $\theta$ wat saam met $\mu_k$ waarde 'n antwoord van $15\text{ N}$ gee vir $f_k$* (4)
+
+**[17]**
+
+---
+
+### QUESTION 3 / VRAAG 3
+
+3.1 Motion under the influence of weight/gravitational force only. $\checkmark\checkmark$
+*Beweging slegs onder die invloed van gewig/gravitasiekrag.* 
+**(2 or / of 0)**
+
+*(NOTE: If projectile defined $0/2$ / NOTA: Indien projektiel gedefinieer $0/2$)* (2)
+
+3.2 **Marking criteria / Nasienkriteria**
+* Formula with $\Delta t$ / *Formule met $\Delta t$* $\checkmark$
+* Correct substitution into formula / *Korrekte vervanging in formule* $\checkmark$
+* Correct final answer / *Korrekte finale antwoord:* $1,53\text{ s}$ $\checkmark$
+
+*(NOTE for 3.2 and 3.3: If energy principles used $(\frac{1}{3})$ for the final answer / NOTA vir 3.2 en 3.3: Indien energiebeginsels gebruik $(\frac{1}{3})$ vir finale antwoord)*
+
+| **OPTION 1 / OPSIE 1**<br>**(A-B)** | **OPTION 2 / OPSIE 2**<br>**(B-C)** |
+| :--- | :--- |
+| **UPWARDS AS POSITIVE / OPWAARTS AS POSITIEF**<br>$v_f = v_i + a\Delta t \checkmark$<br>$0 = 15 + (-9,8)\Delta t \checkmark$<br>$\Delta t = 1,53\text{ (s)} \checkmark$ | **UPWARDS AS POSITIVE / OPWAARTS AS POSITIEF**<br>$v_f = v_i + a\Delta t \checkmark$<br>$-15 = 0 + (-9,8)\Delta t \checkmark$<br>$\Delta t = 1,53\text{ (s)} \checkmark$ |
+| **DOWNWARDS AS POSITIVE / AFWAARTS AS POSITIEF**<br>$v_f = v_i + a\Delta t \checkmark$<br>$0 = -15 + (9,8)\Delta t \checkmark$<br>$\Delta t = 1,53\text{ (s)} \checkmark$ | **DOWNWARDS AS POSITIVE / AFWAARTS AS POSITIEF**<br>$v_f = v_i + a\Delta t \checkmark$<br>$15 = 0 + (9,8)\Delta t \checkmark$<br>$\Delta t = 1,53\text{ (s)} \checkmark$ |
+
+**OPTION 3 / OPSIE 3 (A-C):**
+**UPWARDS AS POSITIVE / OPWAARTS AS POSITIEF**
+$v_f = v_i + a\Delta t \checkmark$
+$-15 = 15 + (-9,8)\Delta t \checkmark$
+$\Delta t = 3,06$
+$p = 3,06 \div 2$
+$p = 1,53\text{ (s)} \checkmark$
+
+**DOWNWARDS AS POSITIVE / AFWAARTS AS POSITIEF**
+$v_f = v_i + a\Delta t \checkmark$
+$15 = -15 + (9,8)\Delta t \checkmark$
+$\Delta t = 3,06$
+$p = 3,06 \div 2$
+$p = 1,53\text{ (s)} \checkmark$ (3)
+
+3.3 **POSITIVE MARKING FROM QUESTION 3.2 / POSITIEWE NASIEN VANAF VRAAG 3.2**
+
+**Marking criteria / Nasienkriteria**
+* Formula with $v_f$ / *Formule met $v_f$* $\checkmark$
+* Correct substitution into formula / *Korrekte vervanging in formule* $\checkmark$
+* Correct final answer / *Korrekte finale antwoord:* $17,97\text{ m}\cdot\text{s}^{-1}$ $\checkmark$
+* **[RANGE: 17,93 – 18,33]**
+
+| **OPTION 1 / OPSIE 1 (A-G)** | **OPTION 2 / OPSIE 2 (A-G)** |
+| :--- | :--- |
+| **UPWARDS AS POSITIVE / OPWAARTS AS POSITIEF:**<br>$v_f^2 = v_i^2 + 2a\Delta y \checkmark$<br>$v_f^2 = (15)^2 + 2(-9,8)(-5) \checkmark$<br>$v_f = -17,97$<br>$v_f = 17,97\text{ (m}\cdot\text{s}^{-1}\text{)} \checkmark$ | **UPWARDS AS POSITIVE / OPWAARTS AS POSITIEF:**<br>$v_f = v_i + a\Delta t \checkmark$<br>$= (15) + (-9,8)(3,36) \checkmark$<br>$= -17,93$<br>$= 17,93\text{ (m}\cdot\text{s}^{-1}\text{)} \checkmark$ |
+| **DOWNWARDS AS POSITIVE / AFWAARTS AS POSITIEF:**<br>$v_f^2 = v_i^2 + 2a\Delta y \checkmark$<br>$v_f^2 = (-15)^2 + 2(9,8)(5) \checkmark$<br>$v_f = 17,97\text{ (m}\cdot\text{s}^{-1}\text{)} \checkmark$ | **DOWNWARDS AS POSITIVE / AFWAARTS AS POSITIEF:**<br>$v_f = v_i + a\Delta t \checkmark$<br>$= (-15) + (9,8)(3,36) \checkmark$<br>$= 17,93\text{ (m}\cdot\text{s}^{-1}\text{)} \checkmark$ |
+
+| **OPTION 3 / OPSIE 3 (C-G)** | **C-G:** |
+| :--- | :--- |
+| **UPWARDS AS POSITIVE / OPWAARTS AS POSITIEF**<br>$v_f^2 = v_i^2 + 2a\Delta y \checkmark$<br>$v_f^2 = (-15)^2 + 2(-9,8)(-5) \checkmark$<br>$v_f = -17,97$<br>$v_f = 17,97\text{ (m}\cdot\text{s}^{-1}\text{)} \checkmark$ | **DOWNWARDS AS POSITIVE / AFWAARTS AS POSITIEF**<br>$v_f^2 = v_i^2 + 2a\Delta y \checkmark$<br>$v_f^2 = (15)^2 + 2(9,8)(5) \checkmark$<br>$v_f = 17,97\text{ (m}\cdot\text{s}^{-1}\text{)} \checkmark$ |
+
+| **OPTION 4 / OPSIE 4 (B-G)** | **B-G** |
+| :--- | :--- |
+| **UPWARDS AS POSITIVE / OPWAARTS AS POSITIEF**<br>$v_f^2 = v_i^2 + 2a\Delta y$<br>$0^2 = (-15)^2 + 2(-9,8)\Delta y$<br>$\Delta y = -11,48\text{ m}$<br>From B to C = $-11,48 + (-5) = -16,48\text{ m}$<br>$v_f^2 = v_i^2 + 2a\Delta y \checkmark$<br>$v_f^2 = (0)^2 + 2(-9,8)(-16,48) \checkmark$<br>$v_f = -17,97$<br>$v_f = 17,97\text{ (m}\cdot\text{s}^{-1}\text{)} \checkmark$ | **DOWNWARDS AS POSITIVE / AFWAARTS AS POSITIEF**<br>$v_f^2 = v_i^2 + 2a\Delta y$<br>$0^2 = (15)^2 + 2(9,8)\Delta y$<br>$\Delta y = 11,48\text{ m}$<br>From B to C = $11,48 + 5 = 16,48\text{ m}$<br>$v_f^2 = v_i^2 + 2a\Delta y \checkmark$<br>$v_f^2 = (0)^2 + 2(9,8)(16,48) \checkmark$<br>$v_f = 17,97\text{ (m}\cdot\text{s}^{-1}\text{)} \checkmark$ |
+
+| **OPTION 5 / OPSIE 5 (C-G)** | **C-G:** |
+| :--- | :--- |
+| **UPWARDS AS POSITIVE / OPWAARTS AS POSITIEF:**<br>$\Delta y = v_i\Delta t + \frac{1}{2}a\Delta t^2$<br>$-5 = -15\Delta t + \frac{1}{2}(-9,8)\Delta t^2$<br>$\Delta t = 0,3\text{ s}$<br>$\Delta y = \left(\frac{v_i + v_f}{2}\right)\Delta t \checkmark$<br>$-5 = \left(\frac{-15 + v_f}{2}\right)(0,3) \checkmark$<br>$v_f = -18,33$<br>$v_f = 18,33\text{ (m}\cdot\text{s}^{-1}\text{)} \checkmark$ | **DOWNWARDS AS POSITIVE / AFWAARTS AS POSITIEF:**<br>$\Delta y = v_i\Delta t + \frac{1}{2}a\Delta t^2$<br>$5 = 15\Delta t + \frac{1}{2}(9,8)\Delta t^2$<br>$\Delta t = 0,3\text{ s}$<br>$\Delta y = \left(\frac{v_i + v_f}{2}\right)\Delta t \checkmark$<br>$5 = \left(\frac{15 + v_f}{2}\right)(0,3) \checkmark$<br>$v_f = 18,33\text{ (m}\cdot\text{s}^{-1}\text{)} \checkmark$ |
+
+| **OPTION 6 / OPSIE 6** | |
+| :--- | :--- |
+| **UPWARDS AS POSITIVE / OPWAARTS AS POSITIEF: (A-G)**<br>$\Delta y = \left(\frac{v_i + v_f}{2}\right)\Delta t \checkmark$<br>$-5 = \left(\frac{15 + v_f}{2}\right)(3,36) \checkmark$<br>$v_f = -17,98$<br>$v_f = 17,98\text{ (m}\cdot\text{s}^{-1}\text{)} \checkmark$ | **DOWNWARDS AS POSITIVE / AFWAARTS AS POSITIEF: (A-G)**<br>$\Delta y = \left(\frac{v_i + v_f}{2}\right)\Delta t \checkmark$<br>$5 = \left(\frac{-15 + v_f}{2}\right)(3,36) \checkmark$<br>$v_f = 17,98\text{ (m}\cdot\text{s}^{-1}\text{)} \checkmark$ |
+| **OR / OF (B-G)**<br>$v_f = v_i + a\Delta t \checkmark$<br>$v_f = 0 + (-9,8)(3,36 - 1,53) \checkmark$<br>$v_f = -17,93$<br>$v_f = 17,93\text{ (m}\cdot\text{s}^{-1}\text{)} \checkmark$ | **OR / OF (B-G)**<br>$v_f = v_i + a\Delta t \checkmark$<br>$= 0 + (9,8)(3,36 - 1,53) \checkmark$<br>$v_f = 17,93\text{ (m}\cdot\text{s}^{-1}\text{)} \checkmark$ |
+| **OR / OF (C-G)**<br>$v_f = v_i + a\Delta t \checkmark$<br>$v_f = -15 + (-9,8)(0,3) \checkmark$<br>$v_f = -17,94$<br>$v_f = 17,94\text{ (m}\cdot\text{s}^{-1}\text{)} \checkmark$ | **OR / OF (C-G)**<br>$v_f = v_i + a\Delta t \checkmark$<br>$v_f = 15 + (9,8)(3,36 - 2(1,53)) \checkmark$<br>$v_f = 17,94\text{ (m}\cdot\text{s}^{-1}\text{)} \checkmark$ | (3)
+
+3.4 Inelastic. $\checkmark$
+The height decreased/smaller. $\checkmark$
+The velocity with which the ball strikes the ground is not the same as the velocity with which it left the ground. / Kinetic energy is converted to heat and sound energy / Kinetic energy is NOT conserved. / The kinetic energy is not the same before and after the ball strikes the ground $\checkmark$
+**ACCEPT:** Kinetic energy is lost.
+*NOTE: DO NOT ACCEPT ANY CALCULATION AS AN EXPLANATION.*
+*Onelasties.*
+*Die hoogte neem af/kleiner.*
+*Die snelheid waarmee die bal die grond tref is nie dieselfde as die snelheid waarmee dit die grond verlaat nie. / Kinetiese energie is omgeskakel na hitte en klank / Kinetiese energie is nie behoue nie./ Die kinetiese energie is nie dieselfde voor en na die bal die grond tref nie.*
+*AANVAAR: Kinetiese energie is verloor*
+*LET WEL: GEEN BEREKENINGE WORD AANVAAR AS VERDUIDELIKING NIE.* (3)
+
+3.5 **POSITIVE MARKING FROM QUESTION 3.2 AND 3.3 / POSITIEWE NASIEN VANAF VRAAG 3.2 EN 3.3**
+
+| **Criteria for graph / Kriteria vir grafiek** | |
+| :--- | :--- |
+| • Straight line starting at $v = 15\text{ m}\cdot\text{s}^{-1}$ with negative final velocity or straight line starting at $v = -15\text{ m}\cdot\text{s}^{-1}$ with positive final velocity.<br>*Reguitlyn wat begin by $v = 15\text{ m}\cdot\text{s}^{-1}$ met negatiewe finale snelheid of reguitlyn wat begin $v = -15\text{ m}\cdot\text{s}^{-1}$ met positiewe finale snelheid.* | $\checkmark$ |
+| • Straight line cuts time axis at time calculated in Question 3.2 / *Reguitlyn sny tydas by die tyd bereken in Vraag 3.2.* | $\checkmark$ |
+| • Correct velocity as calculated in Q 3.3 and the ball is on the ground / *Korrekte snelheid bereken in Vr 3.3 en die bal is op die grond* | $\checkmark$ |
+| • Velocity of the second line is less than calculated in question Q 3.3, lines are drawn parallel and ends at $v = 0$ /<br>*Snelheid van tweede lyn is minder as die waarde bereken in Vr 3.3, lyne is parallel geteken en eindig by $v = 0$* | $\checkmark$ |
+
+*NOTE: Accept if no contact time is shown on the graph.*
+*NOTA: Aanvaar indien geen kontaktyd op die grafiek getoon word*
+
+**UPWARDS AS POSITIVE / OPWAARTS AS POSITIEF:**
+```text
+Velocity / Snelheid (m·s⁻¹)
+  ^
+15+             /
+  |           / 
+  |         /   
+--+-------/------------------> Time / Tyd (s)
+  |     /     1,53
+  |   /       
+  | /         
+  +---------------------------\
+-17,97                         \
+```
+
+**DOWNWARDS AS POSITIVE / AFWAARTS AS POSITIEF:**
+```text
+Velocity / Snelheid (m·s⁻¹)
+  ^
+17,97+-------------------------/
+  |                         / 
+--+-----------------------/--> Time / Tyd (s)
+  |                     /   1,53
+  |                   /     
+  |                 /       
+ -15+             /         
+  |             /           
+```
+(4)
+
+**[15]**
+
+---
+
+### QUESTION 4 / VRAAG 4
+
+4.1 **Marking criteria / Nasienkriteria**
+If any of the underlined key words/phrases in the correct context is omitted deduct 1 mark. / *Indien enige van die onderstreepte sleutelwoorde/frases in die korrekte konteks uitgelaat is, trek 1 punt af.*
+
+The product of the **resultant/net force** acting on an object and the **time** the (net) **force acts on the object**. $\checkmark\checkmark$
+*Die produk van die resulterende/netto krag wat op 'n voorwerp inwerk en die tyd wat die (netto) krag op die voorwerp inwerk.*
+
+**OR / OF**
+
+The product of the **resultant/net force and the contact time**.
+*Die produk van die resulterende/netto krag en die kontak tyd* (2)
+
+4.2.1 
+| **OPTION 1 / OPSIE 1** | **OPTION 2 / OPSIE 2** |
+| :--- | :--- |
+| $\text{Gradient} / F_{\text{net}} = \frac{\Delta p_f}{\Delta(\Delta t)}$<br>$= \frac{4,5 - 0}{0,03 - 0,01} \checkmark$<br>$= 225\text{ N}$<br>$F_{\text{net}} = 225\text{ N}$ to the right / opposite to the original direction of the ball $\checkmark$<br>*Regs / teenoorgestelde rigting as die oorspronklike rigting van die bal* | $F_{\text{net}}\Delta t = \Delta p$<br>$F_{\text{net}}(0,01) = 0 - p_i \checkmark \dots\dots\dots \text{eq (1)}$<br>$F_{\text{net}}(0,03) = 4,5 - p_i \checkmark \dots\dots\dots \text{eq (2)}$<br>$4,5 - F_{\text{net}}(0,03) = 0 - (0,01)F_{\text{net}}$<br>$F_{\text{net}} = 225\text{ N}$ to the right / opposite to the original direction of the ball $\checkmark$<br>*Regs / teenoorgestelde rigting as die oorspronklike rigting van die bal* |
+
+**OPTION 3 / OPSIE 3**
+$F_{\text{net}}\Delta t = \Delta p$
+$F_{\text{net}}(0,01) = 0 - 0,15v_i \checkmark \dots\dots\dots \text{eq (1)}$
+$F_{\text{net}}(0,03) = 4,5 - 0,15v_i \checkmark \dots\dots\dots \text{eq (2)}$
+$4,5 - F_{\text{net}}(0,03) = 0 - (0,01)F_{\text{net}}$
+$F_{\text{net}} = 225\text{ N}$ to the right / opposite to the original direction of the ball $\checkmark$
+*Regs / teenoorgestelde rigting as die oorspronklike rigting van die bal* (3)
+
+4.2.2 **POSITIVE MARKING FROM 4.2.1 / POSITIEWE NASIEN VANAF VRAAG 4.2.1**
+
+| **OPTION 1 / OPSIE 1** | **OPTION 2 / OPSIE 2** |
+| :--- | :--- |
+| $F_{\text{net}}\Delta t = \Delta p$<br>$F_{\text{net}}\Delta t = p_f - p_i$<br>$F_{\text{net}}\Delta t = mv_f - mv_i$<br>$(225)(0,03) \checkmark = 4,5 - (0,15)v_i \checkmark$<br>$v_i = -15\text{ m}\cdot\text{s}^{-1}$<br>$v_i = 15\text{ m}\cdot\text{s}^{-1} \checkmark$ | $\left. \begin{array}{l} F_{\text{net}}\Delta t = \Delta p \\ F_{\text{net}}\Delta t = p_f - p_i \\ F_{\text{net}}\Delta t = mv_f - mv_i \end{array} \right\} \checkmark \text{Any one / enige een}$<br>$(225)(0,01) \checkmark = 0 - (0,15)v_i \checkmark$<br>$v_i = -15\text{ m}\cdot\text{s}^{-1}$<br>$v_i = 15\text{ m}\cdot\text{s}^{-1} \checkmark$ |
+
+| **OPTION 3 / OPSIE 3** | **OPTION 4 / OPSIE 4** |
+| :--- | :--- |
+| $p_f = F_{\text{net}}\Delta t + p_i$<br>$4,5 = 225(0,03) + p_i \checkmark$<br>$p_i = -2,25$<br>$p_i = mv_i \checkmark$<br>$-2,25 = 0,15v_i \checkmark$<br>$v_i = -15\text{ m}\cdot\text{s}^{-1}$<br>$v_i = 15\text{ m}\cdot\text{s}^{-1} \checkmark$ | $F_{\text{net}} = ma$<br>$225 = 0,15a \checkmark$<br>$a = 1500\text{ m}\cdot\text{s}^{-2}$<br>$p_f = mv_f$<br>$4,5 = 0,15v_f$<br>$v_f = 30\text{ m}\cdot\text{s}^{-1}$<br>$a = \frac{\Delta v}{\Delta t} \checkmark$<br>$1500 = \frac{30 - v_i}{0,03 - 0} \checkmark$<br>$v_i = 15\text{ m}\cdot\text{s}^{-1} \checkmark$ | (4)
+
+4.3
+```text
+  p_f (kg·m·s⁻¹)
+    ^
+    |          / A
+    |        /  
+    |      / B
+    |    /     
+    +-------------------> Δt (s)
+```
+$\checkmark\checkmark$ **(2 or 0)**
+*(NOTE: If labels A and B not indicated $(\frac{0}{2})$)*
+*Award full marks for solid lines with labels.*
+*(NOTA: Indien lyne nie benoem A en B $(\frac{0}{2})$)*
+*Volpunte toegeken vir soliede benoemde lyne* (2)
+
+**[11]**
+
+---
+
+### QUESTION 5 / VRAAG 5
+
+5.1 **Marking criteria / Nasienkriteria**
+If any of the underlined key words/phrases in the correct context is omitted deduct 1 mark. / *Indien enige van die onderstreepte sleutelwoorde/frases in die korrekte konteks uitgelaat is, trek 1 punt af.*
+
+The **net/total work done** (on an object) is **equal to the change in** the object's **kinetic energy**. $\checkmark\checkmark$
+*Die netto/totale arbeid wat (op 'n voorwerp) verrig is, is gelyk aan die verandering in die voorwerp se kinetiese energie.*
+
+**OR / OF**
+
+The **work done** (on an object) **by a resultant/net force** is **equal to the change in** the object's **kinetic energy**.
+*Die arbeid verrig (op 'n voorwerp) deur die resultante/netto krag is gelyk aan die verandering in die voorwerp se kinetiese energie.* (2)
+
+5.2 
+$$W_{\text{net}} = \Delta E_k$$
+$$W_{F_A} = \Delta E_k$$
+$$F_A\

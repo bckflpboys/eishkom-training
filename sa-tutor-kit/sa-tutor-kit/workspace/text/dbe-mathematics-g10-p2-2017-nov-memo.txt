@@ -1,0 +1,430 @@
+**NATIONAL SENIOR CERTIFICATE / NASIONALE SENIOR SERTIFIKAAT**
+
+**GRADE / GRAAD 10**
+
+**MATHEMATICS P2 / WISKUNDE V2**
+
+**NOVEMBER 2017**
+
+**MARKING GUIDELINES / NASIENRIGLYNE**
+
+---
+
+### NOTE:
+* If a candidate answered a question TWICE, mark only the FIRST attempt.
+* If a candidate crossed out an answer and did not redo it, mark the crossed-out answer.
+* Consistent accuracy applies to ALL aspects of the marking guidelines.
+* Assuming values/answers in order to solve a problem is unacceptable.
+
+### LET WEL:
+* As 'n kandidaat 'n vraag TWEE keer beantwoord het, sien slegs die EERSTE poging na.
+* As 'n kandidaat 'n antwoord deurgehaal en nie oorgedoen het nie, sien die deurgehaalde antwoord na.
+* Volgehoue akkuraatheid is op ALLE aspekte van die nasienriglyne van toepassing.
+* Dit is onaanvaarbaar dat waardes/antwoorde veronderstel word om 'n probleem op te los.
+
+---
+
+### QUESTION / VRAAG 1
+
+1.1 $\text{Median/Mediaan} = 54$  
+$\checkmark\checkmark \text{ans./antw.}$ (2)
+
+1.2 $\text{Range/Variasiewydte} = 90 - 34 = 56$  
+$\checkmark\checkmark \text{ans./antw.}$ (2)
+
+1.3 
+$$\begin{aligned}
+\text{IQR (IKV)} &= Q_3 - Q_1 \\
+&= 73 - 46 \\
+&= 27
+\end{aligned}$$
+$\checkmark Q_1 = 46$  
+$\checkmark Q_3 = 73$  
+$\checkmark \text{ans./antw.}$ (3)
+
+1.4 
+$\checkmark \text{min. \& max./maks.}$  
+$\checkmark \text{median/mediaan } (Q_2)$  
+$\checkmark Q_1 \text{ and/en } Q_3$ (3)  
+**[10]**
+
+---
+
+### QUESTION / VRAAG 2
+
+2.1 $30 \text{ days/dae}$  
+$\checkmark \text{ans./antw.}$ (1)
+
+2.2 $28 \le T < 32$  
+$\checkmark \text{ans./antw.}$ (1)
+
+2.3 
+$$\begin{aligned}
+\text{The mean/Gemiddeld } (\bar{x}) &= \frac{44 + 104 + 270 + 170 + 266 + 126}{30} \\
+&= \frac{980}{30} \\
+&= 32,666\ldots \\
+&= 32,67^\circ\text{C}
+\end{aligned}$$
+$\checkmark \text{addition/optel}$  
+$\checkmark 30$  
+$\checkmark \text{ans./antw.}$ (3)
+
+2.4 
+$$\begin{aligned}
+9 + 5 + 7 + 3 &= 24 \text{ days/dae} \\
+\text{\% of number of days/getal dae} &= \frac{24}{30} \times 100 \\
+&= 80\%
+\end{aligned}$$
+$\checkmark \text{addition/optel}$  
+$\checkmark \text{ans./antw.}$ (2)  
+**[7]**
+
+---
+
+### QUESTION / VRAAG 3
+
+3.1 
+$$\begin{aligned}
+PQ &= \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} \\
+&= \sqrt{(7 - 6)^2 + (4 - 6)^2} \\
+&= \sqrt{(1)^2 + (-2)^2} \\
+&= \sqrt{5}
+\end{aligned}$$
+$\checkmark \text{subst./verv.}$  
+$\checkmark \text{ans./antw.}$ (2)
+
+3.2 
+$$\begin{aligned}
+M_{QS} &= T(x; y) \\
+\left(\frac{6 + x}{2}; \frac{6 + y}{2}\right) &= \left(\frac{7}{2}; \frac{7}{2}\right)
+\end{aligned}$$
+
+$$\begin{array}{r l r l}
+\frac{6 + x}{2} &= \frac{7}{2} & \quad \frac{6 + y}{2} &= \frac{7}{2} \\
+x &= 1 & y &= 1
+\end{array}$$
+
+$S(1; 1)$  
+$\checkmark \frac{6 + x}{2} = \frac{7}{2}$  
+$\checkmark \frac{6 + y}{2} = \frac{7}{2}$  
+$\checkmark \text{ans./antw.}$ (3)
+
+3.3 
+$$\begin{aligned}
+PR &= \sqrt{(x_p - x_r)^2 + (y_p - y_r)^2} \\
+&= \sqrt{(7 - 0)^2 + (4 - 3)^2} \\
+&= \sqrt{50} \\
+&= 5\sqrt{2} \\
+&= 7,07
+\end{aligned}$$
+$\checkmark \text{ans./antw.}$
+
+**OR / OF**
+$$\begin{aligned}
+QS &= \sqrt{(x_s - x_q)^2 + (y_s - y_q)^2} \\
+&= \sqrt{(1 - 6)^2 + (1 - 6)^2} \\
+&= \sqrt{50} \\
+&= 5\sqrt{2} \\
+&= 7,07 \\
+\therefore PR &= QS
+\end{aligned}$$
+$\checkmark \text{ans./antw.}$ (2)
+
+3.4 
+$$\begin{aligned}
+m_{QR} &= \frac{6 - 3}{6 - 0} = \frac{1}{2} \\
+m_{RS} &= \frac{3 - 1}{0 - 1} = -2 \\
+m_{QR} \times m_{RS} &= \frac{1}{2} \times -2 \\
+&= -1 \\
+m_{QR} \times m_{RS} &= -1 \\
+\therefore QR &\perp RS
+\end{aligned}$$
+$\checkmark m_{QR} = \frac{1}{2}$  
+$\checkmark m_{RS} = -2$  
+$\checkmark \frac{1}{2} \times -2$  
+$\checkmark m_{QR} \times m_{RS} = -1$ (4)
+
+3.5 $\text{Rectangle / Reghoek}$  
+$\text{The diagonals are equal and one of the interior angles is equal to } 90^\circ$.  
+$\text{Die hoeklyne is gelyk en een van die binnehoeke is gelyk aan } 90^\circ$.  
+$\checkmark \text{Rectangle / Reghoek}$  
+$\checkmark \text{reason / rede}$ (2)
+
+3.6 
+$$\begin{aligned}
+\cos R\hat{S}Q &= \frac{\sqrt{5}}{5\sqrt{2}} \\
+R\hat{S}Q &= 71,57^\circ
+\end{aligned}$$
+$\checkmark\checkmark \cos R\hat{S}Q = \frac{\sqrt{5}}{5\sqrt{2}}$  
+$\checkmark \text{ans./antw.}$ (3)  
+**[16]**
+
+---
+
+### QUESTION / VRAAG 4
+
+4.1.1 (a)
+$$\begin{aligned}
+4\cot\theta + 3 &= 0 \\
+\cot\theta &= -\frac{3}{4}
+\end{aligned}$$
+
+$$\begin{aligned}
+\cos\theta &= -\frac{3}{5}
+\end{aligned}$$
+$\checkmark \cot\theta = -\frac{3}{4}$  
+$\checkmark \text{diagram}$  
+$\checkmark r = 5$  
+$\checkmark \cos\theta = -\frac{3}{5}$ (4)
+
+4.1.1 (b)
+$$\begin{aligned}
+&\frac{3\sin\theta\sec\theta}{\tan\theta} \\
+&= 3\left(\frac{4}{5}\right)\left(-\frac{5}{3}\right) \div \left(-\frac{4}{3}\right) \\
+&= 3
+\end{aligned}$$
+$\checkmark \frac{4}{5}$  
+$\checkmark -\frac{5}{3}$  
+$\checkmark \text{simpl. / vereenv.}$  
+$\checkmark \text{ans./antw.}$ (4)
+
+4.1.2 
+$$\begin{aligned}
+LHS &= \sin^2\theta - 1 \\
+&= \left(\frac{4}{5}\right)^2 - 1 \\
+&= -\frac{9}{25} \\
+RHS &= -\cos^2\theta \\
+&= -\left(\frac{3}{5}\right)^2 \\
+&= -\frac{9}{25} \\
+\therefore \sin^2\theta - 1 &= -\cos^2\theta
+\end{aligned}$$
+$\checkmark \text{subst./verv.}$  
+$\checkmark \text{ans./antw.}$  
+$\checkmark \text{ans./antw.}$ (3)
+
+4.2 
+$$\begin{aligned}
+&\cos 30^\circ \tan 60^\circ + \text{cosec}^2 45^\circ \sin^2 60^\circ \\
+&= \left(\frac{\sqrt{3}}{2}\right)(\sqrt{3}) + \left(\frac{2}{\sqrt{2}}\right)^2 \left(\frac{\sqrt{3}}{2}\right)^2 \\
+&= \frac{3}{2} + \frac{4}{2} \times \frac{3}{4} \\
+&= \frac{3}{2} + \frac{3}{2} \\
+&= 3
+\end{aligned}$$
+$\checkmark \frac{\sqrt{3}}{2} \text{ and/en } \sqrt{3}$  
+$\checkmark \frac{2}{\sqrt{2}} \text{ and/en } \frac{\sqrt{3}}{2}$  
+$\checkmark \text{ans./antw.}$ (3)
+
+4.3 
+$$\begin{aligned}
+\frac{4}{3}\sin\theta &= \cos 37^\circ \\
+\sin\theta &= \frac{3(0,79863551)}{4} \\
+\theta &= 36,80^\circ
+\end{aligned}$$
+$\checkmark \text{multiplying by / vermenigvuldig met } \frac{3}{4}$  
+$\checkmark \text{ans./antw.}$ (2)  
+**[16]**
+
+---
+
+### QUESTION / VRAAG 5
+
+5.1 
+* $f$: $\checkmark \text{shape/vorm}, \checkmark x\text{-intercept/afsnit}, \checkmark y\text{-intercept/afsnit}$
+* $g$: $\checkmark \text{shape/vorm}, \checkmark x\text{-intercepts/afsnitte}, \checkmark y\text{-intercept/afsnit}$ (6)
+
+5.2.1 $\text{Amplitude of/van } g = 2$  
+$\checkmark \text{ans./antw.}$ (1)
+
+5.2.2 $\text{Range of/Waardeversameling van } f: -2 \le y \le 0$  
+**OR / OF**  
+$y \in [-2; 0]$  
+$\checkmark \text{critical values / kritieke waardes}$  
+$\checkmark \text{notation / notasie}$ (2)
+
+5.3.1 $2 \text{ solutions/oplossings}$  
+$\checkmark \text{ans./antw.}$ (1)
+
+5.3.2 $x = 180^\circ$  
+$\checkmark\checkmark\checkmark x = 180^\circ$ (3)  
+**[13]**
+
+---
+
+### QUESTION / VRAAG 6
+
+6.1 $\theta = 47^\circ$  
+$\checkmark \text{ans./antw.}$ (1)
+
+6.2 
+$$\begin{aligned}
+\sin P &= \frac{RQ}{RP} \\
+\sin 47^\circ &= \frac{RQ}{21} \\
+RQ &= 21\sin 47^\circ \\
+RQ &= 15,36\text{m}
+\end{aligned}$$
+$\checkmark \text{trig. ratio / trig. verhoud.}$  
+$\checkmark \text{subst./verv.}$  
+$\checkmark \text{ans./antw.}$ (3)
+
+6.3 
+$$\begin{aligned}
+\tan S &= \frac{RQ}{QS} \\
+\tan S &= \frac{15,36}{17} \\
+\hat{S} &= \tan^{-1}\left(\frac{15,36}{17}\right) \\
+\hat{S} &= 42,10^\circ
+\end{aligned}$$
+$\checkmark \text{subst./verv.}$  
+$\checkmark \text{ans./antw.}$ (2)
+
+6.4 
+$$\begin{aligned}
+\cos 47^\circ &= \frac{PQ}{21} \\
+PQ &= 21 \times \cos 47^\circ \\
+PQ &= 14,32\text{m} \\
+PS &= 14,32 + 17 \\
+&= 31,32\text{m}
+\end{aligned}$$
+$\checkmark \text{trig. ratio / trig. verhoud.}$  
+$\checkmark PQ = 14,32\text{ m}$  
+$\checkmark \text{addition / optel}$  
+$\checkmark \text{ans./antw.}$ (4)  
+**[10]**
+
+---
+
+### QUESTION / VRAAG 7
+
+7.1 
+$$\begin{aligned}
+V &= \frac{1}{3}\pi r^2 h \\
+83,38 &= \frac{1}{3} \times 6,5\pi r^2 \\
+r^2 &= \frac{3 \times 83,38}{6,5\pi} \\
+r &= 3,5\text{cm}
+\end{aligned}$$
+$\checkmark \text{subst./verv.}$  
+$\checkmark \text{ans./antw.}$ (2)
+
+7.2 
+$$\begin{aligned}
+s^2 &= h^2 + r^2 \\
+s^2 &= 6,5^2 + 3,5^2 \\
+s &= 7,38\text{cm}
+\end{aligned}$$
+$\checkmark \text{subst./verv.}$  
+$\checkmark \text{ans./antw.}$ (2)
+
+7.3 $\text{Surface area of the solid / Buite-oppervlakte (Oppervlakarea) van die vaste liggaam}$
+$$\begin{aligned}
+&= 2\pi r^2 + \pi rs \\
+&= 2\pi(3,5)^2 + \pi(3,5)(7,38) \\
+&= 158,12\text{cm}^2
+\end{aligned}$$
+$\checkmark \text{subst./verv.}$  
+$\checkmark \text{ans./antw.}$ (2)  
+**[6]**
+
+---
+
+### QUESTION / VRAAG 8
+
+8.1.1 $\hat{O}_1 = 90^\circ$ ($\text{Diagonal bisect at / Hoeklyne sny by } 90^\circ$)  
+$\checkmark \text{S/R}$ (1)
+
+8.1.2 
+$$\begin{aligned}
+\hat{L}_1 &= 180^\circ - (34^\circ + 90^\circ) \quad (\text{Sum of angles of / Som van hoeke }\Delta) \\
+&= 56^\circ
+\end{aligned}$$
+$\checkmark \text{S/R}$  
+$\checkmark \text{ans./antw.}$ (2)
+
+8.1.3 
+$$\begin{aligned}
+\hat{L}_1 &= \hat{L}_2 = 56^\circ \quad (\text{diagonals bisect the / hoeklyne sny die }\angle\text{s}) \\
+\hat{L}_1 + \hat{L}_2 &= \hat{N}_1 + \hat{N}_2 \quad (\text{opp. }\angle\text{s of rhombus / teenoorst. }\angle\text{s van die ruit}) \\
+\therefore K\hat{N}M &= 112^\circ
+\end{aligned}$$
+$\checkmark \text{S/R}$  
+$\checkmark \text{ans./antw.}$ (2)
+
+8.2 $\text{Given/Gegee: } //^m PQRS \text{ with diagonals / met hoeklyne } PR \text{ and/en } QS$  
+$\text{R.P.T}: PM = MR$  
+$\text{Proof/Bewys: In } \Delta PMS \text{ and/en } \Delta RMQ$
+1. $\hat{P}_1 = \hat{R}_1 \quad (\text{alt./verw. }\angle\text{s, } PS // QR)$
+2. $\hat{S}_1 = \hat{Q}_1 \quad (\text{alt./verw. }\angle\text{s, } PS // QR)$
+3. $PS = QR \quad (\text{opp. sides parm are / teenoorst. sye van parm. } =)$  
+$\therefore \Delta PMS \equiv \Delta RMQ \quad (\text{AAS})$  
+$\implies PM = MR \text{ and } MS = MQ$
+
+**OR / OF**  
+$\text{Given/Gegee: } //^m PQRS \text{ with diagonals / met hoeklyne } PR \text{ and/en } QS$  
+$\text{R.P.T}: QM = MS$  
+$\text{Proof/Bewys: In } \Delta PQM \text{ and/en } \Delta RSM$
+1. $\hat{P}_2 = \hat{R}_2 \quad (\text{alt./verw. }\angle\text{s, } QP // SR)$
+2. $\hat{S}_2 = \hat{Q}_2 \quad (\text{alt./verw. }\angle\text{s, } SR // PQ)$
+3. $PQ = SR \quad (\text{opp. sides parm are / teenoorst. sye van parm. } =)$  
+$\therefore \Delta PQM \equiv \Delta RSM \quad (\text{AAS})$  
+$\implies QM = MS \text{ and } PM = MR$  
+$\checkmark \text{1. S/R}$  
+$\checkmark \text{2. S/R}$  
+$\checkmark \text{3. S/R}$  
+$\checkmark \text{congruency / kongruensie (AAS)}$ (4)
+
+8.3 
+$$\begin{aligned}
+DE &= FC \quad (\text{opp. side of / teenoorst. sy van } //\text{gram.}) \\
+\text{but / maar } FC &= 2KC \quad (FK = KC) \\
+DE &= 2KC \quad (DE = FC) \\
+DB &= 2(2KC) \quad (DB = 2DE) \\
+DB &= 4KC
+\end{aligned}$$
+$\checkmark \text{S/R}$  
+$\checkmark \text{S/R}$  
+$\checkmark \text{S/R}$  
+$\checkmark \text{S/R}$ (4)  
+**[13]**
+
+---
+
+### QUESTION / VRAAG 9
+
+9.1 $\text{In } \Delta ACG, F \text{ and/en } H \text{ are midpoints / is middelpunte (given / gegee)}$  
+$\therefore FH // CG \quad (\text{midpoint theorem / middelpuntstelling})$  
+$FE // BC \quad (\text{same straight lines / dieselfde reguitlyne})$  
+$\text{In } \Delta AGB, H \text{ is the midpoint / is die middelpunt}$  
+$HE // BG \quad (\text{proved / bewys})$  
+$\therefore E \text{ is the midpoint / is die middelpunt}$  
+$(\text{Line drawn from midpt of side / Lyn getrek vanaf midpt van sy, } // \text{ to 2nd side / na 2de sy})$  
+$\checkmark FH // CG$  
+$\checkmark \text{midpoint theorem / middelpuntstelling}$  
+$\checkmark \text{reason / rede}$ (3)
+
+9.2 
+$$\begin{aligned}
+A\hat{E}H &= A\hat{B}C = 90^\circ \quad (\text{Corresponding angle / Ooreenstd. hoek}) \\
+\text{Area / Oppervl.} &= \frac{1}{2} EH \times AE \\
+9,5 &= \frac{1}{2} \times 3,5 \times AE \\
+AE &= \frac{38}{7} = 5,43\text{cm} \\
+AB &= 2AE \\
+AB &= 2\left(\frac{38}{7}\right) \\
+&= \frac{76}{7} \\
+&= 10,86\text{cm}
+\end{aligned}$$
+$\checkmark \text{subst./verv.}$  
+$\checkmark AE$  
+$\checkmark AB$ (3)
+
+9.3 
+$$\begin{aligned}
+BG &= 7\text{ cm} \quad (\text{midpoint theorem / middelpuntstelling}) \\
+BC &= 14\text{ cm} \\
+\text{Area / Oppervl.} &= \frac{1}{2} BC \times AB \\
+&= \frac{1}{2} \times 14 \times \frac{76}{7} \\
+&= 76\text{cm}^2
+\end{aligned}$$
+$\checkmark BG = 7 \text{ (midpt thm) / (middelpuntstelling)}$  
+$\checkmark BC = 2BG = 14$  
+$\checkmark \text{ans./antw.}$ (3)  
+**[9]**
+
+**TOTAL / TOTAAL: 100**

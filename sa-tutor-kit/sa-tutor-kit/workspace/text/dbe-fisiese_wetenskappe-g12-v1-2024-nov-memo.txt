@@ -1,0 +1,459 @@
+**NATIONAL SENIOR CERTIFICATE**
+**NASIONALE SENIOR SERTIFIKAAT**
+
+**GRADE/GRAAD 12**
+
+**PHYSICAL SCIENCES: PHYSICS (P1)**
+**FISIESE WETENSKAPPE: FISIKA (V1)**
+
+**NOVEMBER 2024**
+
+**MARKING GUIDELINES / NASIENRIGLYNE**
+
+**MARKS/PUNTE: 150**
+
+---
+
+### **QUESTION 1 / VRAAG 1**
+
+1.1 B $\checkmark\checkmark$ (2)
+
+1.2 D $\checkmark\checkmark$ (2)
+
+1.3 A $\checkmark\checkmark$ (2)
+
+1.4 C $\checkmark\checkmark$ (2)
+
+1.5 C $\checkmark\checkmark$ (2)
+
+1.6 A $\checkmark\checkmark$ (2)
+
+1.7 A $\checkmark\checkmark$ (2)
+
+1.8 C $\checkmark\checkmark$ (2)
+
+1.9 D $\checkmark\checkmark$ (2)
+
+1.10 D $\checkmark\checkmark$ (2)
+
+**[20]**
+
+---
+
+### **QUESTION 2 / VRAAG 2**
+
+2.1 Marking criteria / Nasienkriteria:
+If any of the underlined key words/phrases in the correct context is omitted deduct 1 mark. / Indien enige van die onderstreepte sleutelwoorde/frases in die korrekte konteks uitgelaat is, trek 1 punt af.
+
+The force that opposes the tendency of motion of a stationary object relative/parallel to a surface $\checkmark\checkmark$ / Die krag wat die geneigdheid vir beweging van 'n stilstaande voorwerp relatief/parallel tot die oppervlak teenstaan. (2)
+
+2.2 
+```
+     fs       T
+   <---o--->
+```
+*(Accept / Aanvaar)*
+```
+     fs       T
+   ------o------>
+```
+
+**Accepted labels / Aanvaarde benoemings:**
+* $f_s$: static friction / statiese wrywing / $f$ / $F_f$ / $F_w$ (only Afrikaans)
+* $T$: $F_T$ / $F_{\text{string}}$ / tension / spanning / $F_{\text{tou}}$
+
+**Notes / Aantekeninge:**
+* Do not penalize if vertical forces ($w, N$) are shown / *Moenie penaliseer indien vertikale kragte ($w, N$) getoon nie.*
+* Mark is awarded for label and arrow / *Punt word toegeken vir byskrif en pyltjie.*
+* Do not penalize for length of arrows / *Moenie vir die lengte van die pyltjies penaliseer nie.*
+* If arrows do not touch the dot / *Indien pyle nie die kolletjie raak nie:* Max/Maks $\frac{1}{2}$
+* Any other additional force(s) except $w$ and $N$ / *Enige ander addisionele krag(te) behalwe $w$ en $N$:* Max/Maks $\frac{1}{2}$
+* If everything correct, but no arrows / *Indien alles korrek, maar geen pyltjies:* Max/Maks $\frac{1}{2}$ (2)
+
+2.3.1 
+
+| OPTION 1 / OPSIE 1 | OPTION 2 / OPSIE 2 |
+| :--- | :--- |
+| **For hanging $m$ / Vir hangende $m$:**<br>$F_{\text{net}} = ma$<br>$mg – T = 0$ or $T – mg = 0$<br>$T = mg$<br>$T = 4,2(9,8) \checkmark$<br>$= 41,16\text{ N}$<br><br>**For crate / Vir krat:**<br>$F_{\text{net}} = ma$<br>$T – f_s^{\text{max}} = ma$<br>$T – \mu_s mg = ma$<br>$T – f_s^{\text{max}} = 0$<br>$f_s^{\text{max}} = T$<br>$\mu_s N = T$<br>$f_s^{\text{max}} = \mu_s N$<br>$\mu_s(8,5)(9,8) \checkmark = 41,16$<br>$\mu_s = 0,49 \checkmark$ | $f_s^{\text{max}} = T = w_{\text{hanging}}$<br>$f_s^{\text{max}} = m_{\text{hanging}}g$<br>$\mu_s N = m_{\text{hanging}}g$<br>$\mu_s m_{\text{crate}} \cdot g = m_{\text{hanging}}g$<br>$f_s^{\text{max}} = \mu_s N$<br>$\mu_s(8,5)(9,8) \checkmark = 4,2(9,8) \checkmark$<br>**OR / OF**<br>$\mu_s(8,5) = 4,2$<br>$\mu_s = 0,49 \checkmark$ |
+
+*(4)*
+
+2.3.2 **For crate / Vir krat:**
+$$F_{\text{net}} = ma$$
+$$T – f_k = ma \quad \checkmark \text{Any one / Enige een}$$
+**OR** $f_k – T = ma$
+$$T – \mu_k mg = ma$$
+$$T – 0,4(8,5)(9,8) \checkmark = 8,5a \dots\dots\dots\dots \text{Eqn (1)}$$
+
+**For hanging mass / Vir hangende massa:**
+$$F_{\text{net}} = ma$$
+$$mg – T = ma \quad \checkmark \text{Any one / Enige een}$$
+$$7,4(9,8) – T \checkmark = 7,4a \dots\dots\dots\dots \text{Eqn (2)}$$
+
+$$a = 2,47\text{ m}\cdot\text{s}^{-2} \checkmark$$
+
+*(NOTE: $T$ can be calculated first ($54,32\text{ N}$) / NOTA: $T$ kan eerste bereken word ($54,32\text{ N}$))* (5)
+
+2.4 INCREASES $\checkmark$ 
+$f_s^{\text{max}} \propto N$ OR $f_s^{\text{max}} \propto m$ OR $f_s^{\text{max}} = \mu_s N$ OR the normal force acting on the crate increases OR increase in mass/weight of crate (increases the normal force) $\checkmark$
+
+NEEM TOE $\checkmark$ 
+$f_s^{\text{maks}} \propto N$ OF $f_s^{\text{maks}} \propto m$ OF $f_s^{\text{maks}} = \mu_s N$ OF die normaalkrag wat op die krat inwerk, neem toe OF toename in massa/gewig van krat veroorsaak (toename in normaalkrag) $\checkmark$ (2)
+
+**[15]**
+
+---
+
+### **QUESTION 3 / VRAAG 3**
+
+3.1.1 **Marking criteria / Nasienkriteria:**
+* Formula with $\Delta y = v_i\Delta t + \frac{1}{2}a\Delta t^2$ / *Formule met $\Delta y = v_i\Delta t + \frac{1}{2}a\Delta t^2$* $\checkmark$
+* Correct substitution into formula for ball A / *Korrekte vervanging in formule vir bal A* $\checkmark$
+* Correct substitution into formula for ball B / *Korrekte vervanging in formule vir bal B* $\checkmark$
+* $\Delta y_A = \Delta y_B$ $\checkmark$
+* Final answer / *Finale antwoord:* $4\text{ (s)}$ $\checkmark$
+
+**OPTION 1 / OPSIE 1**
+**UPWARDS AS POSITIVE / OPWAARTS AS POSITIEF**
+**Ball A / Bal A**
+$$\Delta y = v_i\Delta t + \frac{1}{2}a\Delta t^2 \checkmark$$
+$$= 12t + \frac{1}{2}(-9,8)t^2 \checkmark \dots\dots\dots\dots \text{Eqn (1)}$$
+
+**Ball B / Bal B**
+$$\Delta y = v_i\Delta t + \frac{1}{2}a\Delta t^2$$
+$$= -5,4(t - 2) + \frac{1}{2}(-9,8)(t - 2)^2 \checkmark \dots\dots\dots\dots \text{Eqn (2)}$$
+
+$$12t + \frac{1}{2}(-9,8)t^2 = -5,4(t - 2) + \frac{1}{2}(-9,8)(t - 2)^2 \checkmark$$
+$$t = 4\text{ (s)} \checkmark$$
+
+**DOWNWARDS AS POSITIVE / AFWAARTS AS POSITIEF**
+**Ball A / Bal A**
+$$\Delta y = v_i\Delta t + \frac{1}{2}a\Delta t^2 \checkmark$$
+$$= -12t + \frac{1}{2}(9,8)t^2 \checkmark \dots\dots\dots\dots \text{Eqn (1)}$$
+
+**Ball B / Bal B**
+$$\Delta y = v_i\Delta t + \frac{1}{2}a\Delta t^2$$
+$$= 5,4(t - 2) + \frac{1}{2}(9,8)(t - 2)^2 \checkmark \dots\dots\dots\dots \text{Eqn (2)}$$
+
+$$-12t + \frac{1}{2}(9,8)t^2 = 5,4(t - 2) + \frac{1}{2}(9,8)(t - 2)^2 \checkmark$$
+$$t = 4\text{ (s)} \checkmark$$
+
+**OPTION 2 / OPSIE 2**
+**UPWARDS AS POSITIVE / OPWAARTS AS POSITIEF**
+*(Take time for ball B as $x$ / Neem tyd vir bal B as $x$)*
+**Ball A / Bal A**
+$$\Delta y = v_i\Delta t + \frac{1}{2}a\Delta t^2 \checkmark$$
+$$= 12(x + 2) + \frac{1}{2}(-9,8)(x + 2)^2 \checkmark$$
+$$= (-4,9)x^2 - (7,6)x + (4,4) \dots\dots\dots\dots \text{Eqn (1)}$$
+
+**Ball B / Bal B**
+$$\Delta y = v_i\Delta t + \frac{1}{2}a\Delta t^2$$
+$$= (-5,4)x + \frac{1}{2}(-9,8)x^2 \checkmark$$
+$$= (-5,4)x + (-4,9)x^2 \dots\dots\dots\dots \text{Eqn (2)}$$
+
+$$(-4,9)x^2 - (7,6)x + (4,4) = (-5,4)x + (-4,9)x^2 \checkmark$$
+$$x = 2$$
+$$t = 4\text{ (s)} \checkmark$$
+
+**DOWNWARDS AS POSITIVE / AFWAARTS AS POSITIEF**
+**Ball A / Bal A**
+$$\Delta y = v_i\Delta t + \frac{1}{2}a\Delta t^2 \checkmark$$
+$$= (-12)(x + 2) + \frac{1}{2}(9,8)(x + 2)^2 \checkmark$$
+$$= (4,9)x^2 + (7,6)x + (-4,4) \dots\dots\dots\dots \text{Eqn (1)}$$
+
+**Ball B / Bal B**
+$$\Delta y = v_i\Delta t + \frac{1}{2}a\Delta t^2$$
+$$= (5,4)x + \frac{1}{2}(9,8)x^2 \checkmark \dots\dots\dots\dots \text{Eqn (2)}$$
+
+$$(4,9)x^2 + (7,6)x + (-4,4) = (5,4)x + (4,9)x^2 \checkmark$$
+$$x = 2$$
+$$t = 4\text{ (s)} \checkmark$$
+
+**OPTION 3 / OPSIE 3**
+**UPWARDS AS POSITIVE / OPWAARTS AS POSITIEF**
+$$v_f = v_i + a\Delta t$$
+$$-12 = 12 + (-9,8)t$$
+$$\Delta t = 2,45\text{ s}$$
+
+$$\Delta y = v_i\Delta t + \frac{1}{2}a\Delta t^2 \checkmark$$
+**Ball A:** $\Delta y = (-12)(t - 2,45) + \frac{1}{2}(-9,8)(t - 2,45)^2 \dots\dots \text{Eq 1} \checkmark$
+**Ball B:** $\Delta y = (-5,4)(t - 2) + \frac{1}{2}(-9,8)(t - 2)^2 \dots\dots \text{Eq 2} \checkmark$
+**Equating:**
+$$(-12)(t - 2,45) + \frac{1}{2}(-9,8)(t - 2,45)^2 = (-5,4)(t - 2) + \frac{1}{2}(-9,8)(t - 2)^2 \checkmark$$
+$$t = 4\text{ (s)} \checkmark$$
+
+**DOWNWARDS AS POSITIVE / AFWAARTS AS POSITIEF**
+$$v_f = v_i + a\Delta t$$
+$$12 = -12 + (9,8)\Delta t$$
+$$\Delta t = 2,45\text{ s}$$
+
+$$\Delta y = v_i\Delta t + \frac{1}{2}a\Delta t^2 \checkmark$$
+**Ball A:** $\Delta y = (12)(t - 2,45) + \frac{1}{2}(9,8)(t - 2,45)^2 \dots\dots \text{Eq 1} \checkmark$
+**Ball B:** $\Delta y = (5,4)(t - 2) + \frac{1}{2}(9,8)(t - 2)^2 \dots\dots \text{Eq 2} \checkmark$
+**Equating:**
+$$(12)(t - 2,45) + \frac{1}{2}(9,8)(t - 2,45)^2 = (5,4)(t - 2) + \frac{1}{2}(9,8)(t - 2)^2 \checkmark$$
+$$t = 4\text{ (s)} \checkmark$$
+
+*(5)*
+
+3.1.2 **Marking criteria / Nasienkriteria:**
+* Correct formula to calculate $\Delta y$ / *Korrekte formule om $\Delta y$ te bereken.* $\checkmark$
+* Correct substitution to calculate $\Delta y$ / *Korrekte vervanging om $\Delta y$ te bereken.* $\checkmark$
+* Correct final answer / *Korrekte finale antwoord:* $30,4\text{ m}$ $\checkmark$
+
+**UPWARDS AS POSITIVE / OPWAARTS AS POSITIEF**
+
+| OPTION 1 / OPSIE 1<br>**Ball A / Bal A** | OPTION 2 / OPSIE 2<br>**Ball B / Bal B** |
+| :--- | :--- |
+| $\Delta y = v_i\Delta t + \frac{1}{2}a\Delta t^2 \checkmark$<br>$= (12)(4) + \frac{1}{2}(-9,8)(4)^2 \checkmark$<br>$\Delta y = -30,4\text{ m}$<br>$Z = 30,4\text{ (m)} \checkmark$ | $\Delta y = v_i\Delta t + \frac{1}{2}a\Delta t^2 \checkmark$<br>$= (-5,4)(4 - 2) + \frac{1}{2}(-9,8)(4 - 2)^2 \checkmark$<br>$\Delta y = -30,4\text{ m}$<br>$Z = 30,4\text{ (m)} \checkmark$ |
+
+**Ball A / Bal A**
+$$v_f = v_i + a\Delta t$$
+$$v_f = 12 + (-9,8)(4)$$
+$$v_f = -27,2\text{ m}\cdot\text{s}^{-1}$$
+
+**OPTION 3 / OPSIE 3**
+$$v_f^2 = v_i^2 + 2a\Delta y \checkmark$$
+$$(-27,2)^2 = (12)^2 + 2(-9,8)\Delta y \checkmark$$
+$$\Delta y = -30,4\text{ m}$$
+$$Z = 30,4\text{ (m)} \checkmark$$
+
+**OPTION 4 / OPSIE 4**
+$$\Delta y = \left(\frac{v_i + v_f}{2}\right)\Delta t \checkmark$$
+$$= \left(\frac{12 + (-27,2)}{2}\right)4 \checkmark$$
+$$\Delta y = -30,4\text{ m}$$
+$$Z = 30,4\text{ (m)} \checkmark$$
+
+**Ball B / Bal B**
+$$v_f = v_i + a\Delta t$$
+$$v_f = -5,4 + (-9,8)(4 - 2)$$
+$$v_f = -25\text{ m}\cdot\text{s}^{-1}$$
+
+**OPTION 5 / OPSIE 5**
+$$v_f^2 = v_i^2 + 2a\Delta y \checkmark$$
+$$(-25)^2 = (-5,4)^2 + 2(-9,8)\Delta y \checkmark$$
+$$\Delta y = -30,4\text{ m}$$
+$$Z = 30,4\text{ (m)} \checkmark$$
+
+**OPTION 6 / OPSIE 6**
+$$\Delta y = \left(\frac{v_i + v_f}{2}\right)\Delta t \checkmark$$
+$$= \left(\frac{-5,4 + (-25)}{2}\right)(4 - 2) \checkmark$$
+$$\Delta y = -30,4\text{ m}$$
+$$Z = 30,4\text{ (m)} \checkmark$$
+
+**DOWNWARDS AS POSITIVE / AFWAARTS AS POSITIEF**
+
+| OPTION 1 / OPSIE 1<br>**Ball A / Bal A** | OPTION 2 / OPSIE 2<br>**Ball B / Bal B** |
+| :--- | :--- |
+| $\Delta y = v_i\Delta t + \frac{1}{2}a\Delta t^2 \checkmark$<br>$= (-12)(4) + \frac{1}{2}(9,8)(4)^2 \checkmark$<br>$\Delta y = 30,4\text{ m}$<br>$Z = 30,4\text{ (m)} \checkmark$ | $\Delta y = v_i\Delta t + \frac{1}{2}a\Delta t^2 \checkmark$<br>$= (5,4)(4 - 2) + \frac{1}{2}(9,8)(4 - 2)^2 \checkmark$<br>$\Delta y = 30,4\text{ m}$<br>$Z = 30,4\text{ (m)} \checkmark$ |
+
+**Ball A / Bal A**
+$$v_f = v_i + a\Delta t$$
+$$v_f = -12 + (9,8)(4)$$
+$$v_f = 27,2\text{ m}\cdot\text{s}^{-1}$$
+
+**OPTION 3 / OPSIE 3**
+$$v_f^2 = v_i^2 + 2a\Delta y \checkmark$$
+$$(27,2)^2 = (12)^2 + 2(9,8)\Delta y \checkmark$$
+$$\Delta y = -30,4\text{ m}$$
+$$Z = 30,4\text{ (m)} \checkmark$$
+
+**OPTION 4 / OPSIE 4**
+$$\Delta y = \left(\frac{v_i + v_f}{2}\right)\Delta t \checkmark$$
+$$= \left(\frac{-12 + 27,2}{2}\right)4 \checkmark$$
+$$\Delta y = 30,4\text{ m}$$
+$$Z = 30,4\text{ (m)} \checkmark$$
+
+**Ball B / Bal B**
+$$v_f = v_i + a\Delta t$$
+$$v_f = 5,4 + (9,8)(4 - 2)$$
+$$v_f = 25\text{ m}\cdot\text{s}^{-1}$$
+
+**OPTION 5 / OPSIE 5**
+$$v_f^2 = v_i^2 + 2a\Delta y \checkmark$$
+$$(25)^2 = (5,4)^2 + 2(9,8)\Delta y \checkmark$$
+$$\Delta y = 30,4\text{ m}$$
+$$Z = 30,4\text{ (m)} \checkmark$$
+
+**OPTION 6 / OPSIE 6**
+$$\Delta y = \left(\frac{v_i + v_f}{2}\right)\Delta t \checkmark$$
+$$= \left(\frac{5,4 + 25}{2}\right)(4 - 2) \checkmark$$
+$$\Delta y = 30,4\text{ m}$$
+$$Z = 30,4\text{ (m)} \checkmark$$
+
+*(3)*
+
+3.1.3 **Marking criteria / Nasienkriteria:**
+* Correct equation to calculate $\Delta y$ / *Korrekte vergelyking om $\Delta y$ te bereken.* $\checkmark$
+* Correct substitution to calculate $\Delta y$ / *Korrekte vervanging om $\Delta y$ te bereken.* $\checkmark$
+* Adding $30,4$ to $\Delta y$ / *Bytel van $30,4$ by $\Delta y$* $\checkmark$
+* Correct final answer / *Korrekte finale antwoord:* $37,75\text{ m}$ $\checkmark$
+* Range / *Gebied:* $37,72 - 37,75\text{ m}$
+
+**UPWARDS AS POSITIVE / OPWAARTS AS POSITIEF**
+
+**OPTION 1 / OPSIE 1**
+**Ball A / Bal A**
+$$v_f^2 = v_i^2 + 2a\Delta y \checkmark$$
+$$0 = (12)^2 + 2(-9,8)\Delta y \checkmark$$
+$$\Delta y = 7,35\text{ m}$$
+$$Y = 7,35 + 30,4 \checkmark$$
+$$= 37,75\text{ (m)} \checkmark$$
+
+**Ball A / Bal A**
+$$v_f = v_i + a\Delta t$$
+$$0 = 12 + (-9,8)\Delta t$$
+$$\Delta t = 1,22\text{ s}$$
+
+**OPTION 2 / OPSIE 2**
+$$\Delta y = \left(\frac{v_i + v_f}{2}\right)\Delta t \checkmark$$
+$$= \left(\frac{12 + 0}{2}\right)1,22 \checkmark$$
+$$\Delta y = 7,32\text{ m}$$
+
+**OPTION 3 / OPSIE 3**
+$$\Delta y = v_i\Delta t + \frac{1}{2}a\Delta t^2 \checkmark$$
+$$= (12)(1,22) + \frac{1}{2}(-9,8)(1,22)^2 \checkmark$$
+$$\Delta y = 7,35\text{ m}$$
+
+**DOWNWARDS AS POSITIVE / AFWAARTS AS POSITIEF**
+
+**OPTION 1 / OPSIE 1**
+**Ball A / Bal A**
+$$v_f^2 = v_i^2 + 2a\Delta y \checkmark$$
+$$0 = (-12)^2 + 2(9,8)\Delta y \checkmark$$
+$$\Delta y = 7,35\text{ m}$$
+
+**Ball A / Bal A**
+$$v_f = v_i + a\Delta t$$
+$$0 = -12 + (9,8)\Delta t$$
+$$\Delta t = 1,22\text{ s}$$
+
+**OPTION 2 / OPSIE 2**
+$$\Delta y = \left(\frac{v_i + v_f}{2}\right)\Delta t \checkmark$$
+$$= \left(\frac{-12 + 0}{2}\right)1,22 \checkmark$$
+$$\Delta y = -7,32\text{ m}$$
+
+**OPTION 3 / OPSIE 3**
+$$\Delta y = v_i\Delta t + \frac{1}{2}a\Delta t^2 \checkmark$$
+$$= (-12)(1,22) + \frac{1}{2}(9,8)(1,22)^2 \checkmark$$
+$$\Delta y = -7,35\text{ m}$$
+
+*(4)*
+
+3.2 **Marking criteria:**
+* Correct initial velocities of both balls A and B with correct shape (straight lines with both positive / both negative slopes) $\checkmark$
+* Correct initial times for balls A and B with B starts after the intercept of A $\checkmark$
+* Both graphs end at $4\text{ s}$ (accept $t$) $\checkmark$
+* Graphs parallel to each other and B to the right of A $\checkmark$
+
+*NB: No labels A and B, deduct 1 mark*
+
+**Nasienkriteria:**
+* Korrekte aanvanklike snelhede van beide bal A en B met korrekte vorm (reguit lyne met beide positiewe / beide negatiewe helling) $\checkmark$
+* Korrekte aanvanklike tye van beide bal A en B met B wat begin na die afsnit van A $\checkmark$
+* Beide grafieke eindig by $4\text{ s}$ (aanvaar $t$) $\checkmark$
+* Grafieke parallel tot mekaar en B is regs van A $\checkmark$
+
+*NB: Geen byskrifte A and B, trek 1 punt af*
+
+```
+UPWARDS AS POSITIVE / OPWAARTS AS POSITIEF
+velocity (m·s⁻¹)
+12   |         Ball A
+     |       /
+ 0   |------/---- 2 ------ 4 --- time (s)
+     |     /
+-5,4 |----/
+     |  Ball B
+```
+
+```
+DOWNWARDS AS POSITIVE / AFWAARTS AS POSITIEF
+velocity (m·s⁻¹)
+5,4  |                 Ball B
+     |               /
+ 0   |----- 2 ------/----- 4 --- time (s)
+     |     /
+-12  |    /
+     |  Ball A
+```
+
+*(4)*
+
+**[16]**
+
+---
+
+### **QUESTION 4 / VRAAG 4**
+
+4.1 Marking criteria / Nasienkriteria:
+If any of the underlined key words/phrases in the correct context is omitted deduct 1 mark. / *Indien enige van die onderstreepte sleutelwoorde/frases in die korrekte konteks uitgelaat is, trek 1 punt af.*
+
+The total mechanical energy / sum of gravitational potential energy and kinetic energy, in an isolated system remains constant / is conserved. $\checkmark\checkmark$
+
+Die totale meganiese energie / som van gravitasie potensiële energie en kinetiese energie in 'n geïsoleerde sisteem bly konstant / behoue. (2)
+
+4.2 
+**OPTION 1 / OPSIE 1**
+$\text{Total } E_{\text{mech(top/bo)}} = \text{Total } E_{\text{mech(bottom/onder)}}$
+$(E_p + E_k)_{\text{top/bo}} = (E_p + E_k)_{\text{bottom/onder}}$
+$(mgh + \frac{1}{2}mv^2)_{\text{top/bo}} = (mgh + \frac{1}{2}mv^2)_{\text{bottom/onder}}$
+$(2)(9,8)(1,5) + 0 \checkmark = 0 + \frac{1}{2}(2)v^2 \checkmark \quad \textbf{OR / OF} \quad (9,8)(1,5) + 0 = 0 + \frac{1}{2}v^2$
+$v = 5,42\text{ m}\cdot\text{s}^{-1} \checkmark$
+
+**OPTION 2 / OPSIE 2**
+$W_{\text{nc}} = \Delta E_k + \Delta E_p \quad \checkmark \text{Any one / Enige een}$
+$W_{\text{nc}} = \frac{1}{2}m(v_f^2 - v_i^2) + mg(h_f - h_i)$
+$0 = [0 - \frac{1}{2}v_i^2] + [(9,8)(1,5 - 0)]$
+$v_i = 5,42\text{ m}\cdot\text{s}^{-1} \checkmark$
+
+**OPTION 3 / OPSIE 3**
+$W_{\text{net}} = \Delta E_k \quad \checkmark \text{Any one / Enige een}$
+$F_g\Delta y\cos\theta = \frac{1}{2}mv_f^2 - \frac{1}{2}mv_i^2$
+$mg\Delta y\cos\theta = \frac{1}{2}mv_f^2 - \frac{1}{2}mv_i^2$
+$(9,8)(1,5)\cos180^\circ \checkmark = 0 - \frac{1}{2}v_i^2 \checkmark$
+$v_i = 5,42\text{ m}\cdot\text{s}^{-1} \checkmark$
+
+**OPTION 4 / OPSIE 4**
+$\Delta E_k = -\Delta E_p \checkmark \quad \textbf{OR / OF} \quad -\Delta E_k = \Delta E_p \checkmark$
+$[0 - \frac{1}{2}v_i^2] \checkmark = -[(9,8)(1,5 - 0)] \checkmark$
+$-[0 - \frac{1}{2}v_i^2] \checkmark = [(9,8)(1,5 - 0)] \checkmark$
+$v_i = 5,42\text{ m}\cdot\text{s}^{-1} \checkmark$
+$v_i = 5,42\text{ m}\cdot\text{s}^{-1} \checkmark$
+
+**OPTION 5 / OPSIE 5**
+$v_f^2 = v_i^2 + 2a\Delta x \checkmark \quad \textbf{OR / OF} \quad v_f^2 = v_i^2 + 2a\Delta x \checkmark$
+$0 \checkmark = v_i^2 + 2(9,8)(-1,5) \checkmark \quad \textbf{OR / OF} \quad 0 \checkmark = v_i^2 + 2(-9,8)(1,5) \checkmark$
+$v_i = -5,42\text{ m}\cdot\text{s}^{-1}$
+$\text{speed} = v_i = 5,42\text{ m}\cdot\text{s}^{-1} \checkmark$
+$\text{speed} = v_i = 5,42\text{ m}\cdot\text{s}^{-1} \checkmark$
+
+*(NOTE: $v_i$ and $v_f$ can be interchanged but then $9,8$ and $1,5$ must have the same signs / NOTA: $v_i$ en $v_f$ kan omgeruil word maar dan moet $9,8$ en $1,5$ dieselfde tekens hê.)* (4)
+
+4.3.1 $\Delta p = mv_f - mvi$
+$F_{\text{net}}\Delta t = \Delta p \quad \checkmark \text{any one / enige een}$
+$= 2(5,42 - 0) \checkmark \quad \textbf{OR / OF} \quad 2(-5,42 - 0) = -10,84\text{ kg}\cdot\text{m}\cdot\text{s}^{-1}$
+$= 10,84\text{ kg}\cdot\text{m}\cdot\text{s}^{-1}\text{ right/regs} \checkmark$ (3)
+
+4.3.2 $10,84\text{ kg}\cdot\text{m}\cdot\text{s}^{-1}\text{ left/links/opposite direction/teenoorgestelde rigting} \checkmark$ (1)
+
+4.4 $\Delta p_A = mv_f - mv_i \quad \Sigma p_i = \Sigma p_f$
+$-10,84 = 1,5(v_f - 0) \checkmark \quad \textbf{OR / OF} \quad 0 = 1,5v_f + (2)(5,42) \checkmark$
+$v_f = -7,23\text{ m}\cdot\text{s}^{-1} \quad v_f = -7,23\text{ m}\cdot\text{s}^{-1}$
+$v = 7,23\text{ m}\cdot\text{s}^{-1} \checkmark \quad v = 7,23\text{ m}\cdot\text{s}^{-1} \checkmark$
+
+$10,84 = 1,5(v_f - 0) \checkmark \quad \textbf{OR / OF} \quad 0 = 1,5v_f + (2)(-5,42)$
+$v = 7,23\text{ m}\cdot\text{s}^{-1} \checkmark \quad v = 7,23\text{ m}\cdot\text{s}^{-1} \checkmark$ (2)
+
+**[12]**
+
+---
+
+### **QUESTION 5 / VRAAG 5**
+
+5.1 Marking criteria / Nasienkriteria:
+If any of the underlined key words/phrases in the correct context is omitted deduct 1 mark. / *Indien enige van die onderstreepte sleutelwoorde/frases in die korrekte konteks uitgelaat is, trek 1 punt af.*
+
+The work done on an object by a constant force $F$ is $F\Delta x\cos\theta$, where $F$ is the magnitude of the force, $\Delta x$ the magnitude of the displacement and $\theta$ the angle between the force and the displacement. $\checkmark\checkmark$
+
+Die arbeid verrig op 'n voorwerp deur 'n konstante krag $F$ is

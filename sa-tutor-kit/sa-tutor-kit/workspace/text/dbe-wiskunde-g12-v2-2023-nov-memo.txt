@@ -1,0 +1,799 @@
+# NATIONAL SENIOR CERTIFICATE / NASIONALE SENIOR SERTIFIKAAT
+
+**GRADE 12 / GRAAD 12**
+
+## MATHEMATICS P2 / WISKUNDE V2
+**NOVEMBER 2023**
+
+**MARKING GUIDELINES / NASIENRIGLYNE**
+
+---
+
+### QUESTION/VRAAG 1
+
+1.1 
+$$a = -23,846\dots$$
+$$b = 0,227\dots$$
+$$\hat{y} = -23,85 + 0,23x$$
+
+* ✓ $a = -23,846\dots$
+* ✓ $b = 0,227\dots$
+* ✓ equation
+
+**(3)**
+
+1.2 
+$$\hat{y} = -23,85 + 0,23(550)$$
+$$y = 102,65$$
+
+**OR**
+
+$$y = 101,02$$
+
+* ✓ substitution of $550$
+* ✓ answer
+
+**(2)**
+
+*(OR)*
+* ✓✓ $y = 101,02$ (calculator)
+
+**(2)**
+
+1.3 
+$$r = 0,98$$
+
+* ✓ $r = 0,98$
+
+**(1)**
+
+1.4 
+Very strong positive correlation
+
+* ✓ strong positive
+
+**(1)**
+
+Data: $50 \quad 100 \quad 130 \quad 150 \quad 180 \quad 190 \quad 200 \quad 200$
+
+1.5.1 
+$$\bar{x} = \frac{1200}{8}$$
+$$\bar{x} = 150$$
+
+**OR**
+
+$$\bar{x} = 150$$
+
+* ✓ $1200$
+* ✓ answer
+
+**(2)**
+
+*(OR)*
+* ✓✓ $\bar{x} = 150$
+
+**(2)**
+
+1.5.2 
+$$\sigma = 50,50$$
+
+* ✓ $\sigma = 50,50$
+
+**(1)**
+
+1.5.3 
+$$\bar{x} - \sigma$$
+$$= 150 - 50,50$$
+$$= 99,50$$
+$$\therefore 1 \text{ stop}$$
+
+* ✓ calculation of $\bar{x} - \sigma$
+* ✓ answer
+
+**(2)**
+
+**[12]**
+
+---
+
+### QUESTION/VRAAG 2
+
+2.1 
+
+| Number of glasses of water per day | Number of staff members | Cumulative frequency |
+| :---: | :---: | :---: |
+| $0 \le x < 2$ | $5$ | $5$ |
+| $2 \le x < 4$ | $15$ | $20$ |
+| $4 \le x < 6$ | $13$ | $33$ |
+| $6 \le x < 8$ | $5$ | $38$ |
+| $8 \le x < 10$ | $2$ | $40$ |
+
+* ✓ $5; 20$
+* ✓ $40$
+
+**(2)**
+
+2.2 
+$40$ staff members
+
+* ✓ answer
+
+**(1)**
+
+2.3 
+$33$ staff members
+
+* ✓ answer
+
+**(1)**
+
+2.4 
+$$\bar{x} = \frac{\left(1 \times 5\right) + \left(3 \times 15\right) + \left(5 \times \left(13 + \frac{k}{2}\right)\right) + \left(7 \times 5\right) + \left(9 \times 2\right)}{40 + k} = 4$$
+
+$$5 + \frac{k}{2} + 45 + 65 + \frac{5k}{2} + 35 + 18 = 160 + 4k$$
+
+$$3k + 168 = 160 + 4k$$
+$$k = 8$$
+
+**OR**
+
+$$\bar{x} = \frac{\left(1 \times 5\right) + \left(15 \times 3\right) + \left(13 \times 5\right) + \left(5 \times 7\right) + \left(2 \times 9\right)}{40}$$
+$$= 4,2$$
+
+$$\bar{x}_{\text{old}} - \bar{x}_{\text{current}} = 4,2 - 4 = 0,2$$
+
+$$\therefore 0,2 \times 40 = 8 \text{ teachers}$$
+
+* ✓ answer from Q2.2 + $k$
+* ✓ $1 \times \left(5 + \frac{k}{2}\right)$
+* ✓ $5 \times \left(13 + \frac{k}{2}\right)$
+* ✓ answer
+
+**(4)**
+
+*(OR)*
+* ✓ $4,2$
+* ✓ $\bar{x}_{\text{old}} - 4$
+* ✓ difference
+* ✓ answer
+
+**(4)**
+
+**[8]**
+
+---
+
+### QUESTION/VRAAG 3
+
+3.1 
+$$SL = \sqrt{(x_s - x_L)^2 + (y_s - y_L)^2}$$
+$$SL = \sqrt{(4 - (-4))^2 + (5 - 1)^2}$$
+$$SL = \sqrt{80} = 4\sqrt{5} = 8,94 \text{ units}$$
+
+* ✓ substitution of $S$ and $L$ into correct formula
+* ✓ answer
+
+**(2)**
+
+3.2 
+$$m_{SN} = \frac{5 - (-3)}{4 - (-2)}$$
+$$m_{SN} = \frac{4}{3}$$
+
+* ✓ substitution of $S$ and $N$ into correct formula
+* ✓ answer
+
+**(2)**
+
+3.3 
+$$m = \tan \theta = \frac{4}{3}$$
+$$\theta = 53,13^\circ$$
+
+* ✓ $\tan \theta = m_{SN}$
+* ✓ answer
+
+**(2)**
+
+3.4 
+$$m_{LN} = \frac{1 - (-3)}{-4 - (-2)}$$
+$$m_{LN} = -2$$
+$$\text{L\hat{K}O} = 116,565\dots^\circ$$
+$$\text{L\hat{N}S} = 116,565\dots^\circ - 53,13^\circ$$
+$$\text{L\hat{N}S} = 63,44^\circ$$
+
+* ✓ $m_{LN} = -2$
+* ✓ size of $\text{L\hat{K}O}$
+* ✓ answer
+
+**(3)**
+
+**OR**
+
+$SN = 10 \text{ units}$
+$$\sin \text{L\hat{N}S} = \frac{4\sqrt{5}}{10}$$
+$$\text{L\hat{N}S} = 63,44^\circ$$
+
+* ✓ $SN = 10 \text{ units}$
+* ✓ correct trig ratio
+* ✓ answer
+
+**(3)**
+
+**OR**
+
+$LN = 2\sqrt{5} \text{ units}$
+$$\tan \text{L\hat{N}S} = \frac{4\sqrt{5}}{2\sqrt{5}}$$
+$$\text{L\hat{N}S} = 63,44^\circ$$
+
+* ✓ $LN = 2\sqrt{5} \text{ units}$
+* ✓ correct trig ratio
+* ✓ answer
+
+**(3)**
+
+**OR**
+
+$SN = 10 \text{ units}$
+$LN = 2\sqrt{5} \text{ units}$
+$$\cos \text{L\hat{N}S} = \frac{2\sqrt{5}}{10}$$
+$$\text{L\hat{N}S} = 63,44^\circ$$
+
+* ✓ $SN = 10 \text{ units}$ and $LN = 2\sqrt{5} \text{ units}$
+* ✓ correct trig ratio
+* ✓ answer
+
+**(3)**
+
+3.5 
+$$m = \frac{4}{3}$$
+$$1 = \frac{4}{3}(-4) + c \quad \text{OR} \quad y - 1 = \frac{4}{3}(x - (-4))$$
+$$c = \frac{19}{3} \quad \text{OR} \quad y - 1 = \frac{4}{3}x + \frac{16}{3}$$
+$$y = \frac{4}{3}x + \frac{19}{3} \quad \text{OR} \quad y = \frac{4}{3}x + \frac{19}{3}$$
+
+* ✓ $m_{SN}$
+* ✓ substitution of $m_{SN} \text{ \& } L$
+* ✓ equation
+
+**(3)**
+
+3.6 
+$$SL = 4\sqrt{5}$$
+$$LN = \sqrt{(-4 - (-2))^2 + (1 - (-3))^2}$$
+$$LN = \sqrt{20} = 2\sqrt{5}$$
+$$\text{Area } \Delta LSN = \frac{1}{2}(4\sqrt{5})(2\sqrt{5}) = 20 \text{ units}^2$$
+
+* ✓ $LN = \sqrt{20} = 2\sqrt{5}$
+* ✓ substitution into formula
+* ✓ answer
+
+**(3)**
+
+**OR**
+
+$$SN = 10 \text{ units}$$
+$$LN = \sqrt{20} = 2\sqrt{5}$$
+$$\text{Area } \Delta LSN = \frac{1}{2}(10)(2\sqrt{5}) \sin 63,44^\circ = 20 \text{ units}^2$$
+
+* ✓ $LN = \sqrt{20} = 2\sqrt{5}$
+* ✓ substitution into formula
+* ✓ answer
+
+**(3)**
+
+3.7 
+$\hat{L} = 90^\circ$
+$SN$ is a diameter of circle $S, L, N$ [chord subtends $90^\circ$ OR converse $\angle$ in semi-circle]
+
+$$\text{Centre of circle} = P\left(\frac{4 + (-2)}{2} ; \frac{5 + (-3)}{2}\right) = P(1 ; 1)$$
+
+* ✓ $SN$ is a diameter of circle $S, L, N$
+* ✓ $x$-value
+* ✓ $y$-value
+
+**(3)**
+
+**OR**
+
+Let the coordinates of $P$ be $(a ; b)$.
+Then, $PL = PN$: $(-4 - a)^2 + (1 - b)^2 = (-2 - a)^2 + (-3 - b)^2$
+$a - 2b = -1 \dots\dots \text{equation } 1$
+If $PS = PN$, then: $4a + 2b = 6 \dots\dots\dots\dots \text{equation } 2$
+Solving simultaneously yields: $a = 1$ and $b = 1$ and $P(1 ; 1)$
+
+* ✓ 2 correct linear equations
+* ✓ $x$-value
+* ✓ $y$-value
+
+**(3)**
+
+**OR**
+
+If $PL = PN$, then: $a - 2b = -1 \dots\dots \text{equation } 1$
+If $PS = PL$, then: $2a + b = 3 \dots\dots \text{equation } 2$
+Solving simultaneously yields: $a = 1$ and $b = 1$ and $P(1 ; 1)$
+
+* ✓ 2 correct linear equations
+* ✓ $x$-value
+* ✓ $y$-value
+
+**(3)**
+
+3.8 
+$$\text{L\hat{P}N} = \theta = 53,13^\circ \quad [\text{alt } \angle\text{s}; LP \parallel x\text{-axis}]$$
+$$\therefore \text{L\hat{P}S} = 126,87^\circ$$
+
+* ✓ $\text{L\hat{P}N}$
+* ✓ answer
+
+**(2)**
+
+**OR**
+
+$$\text{L\hat{N}S} = 63,44^\circ$$
+$$\therefore \text{L\hat{P}S} = 126,88^\circ \quad [\angle \text{ at centre} = 2 \times \angle \text{ at circumference}]$$
+
+* ✓ $\text{L\hat{N}S}$
+* ✓ answer
+
+**(2)**
+
+**OR**
+
+$$\text{L\hat{S}N} = 26,56^\circ \quad [\text{sum of } \angle\text{s in } \Delta]$$
+$$\text{SL\hat{P}} = 26,56^\circ \quad [\angle\text{s opp equal radii}]$$
+$$\therefore \text{L\hat{P}S} = 126,88^\circ \quad [\text{sum of } \angle\text{s in } \Delta]$$
+
+* ✓ $\text{L\hat{S}N}$
+* ✓ answer
+
+**(2)**
+
+**OR**
+
+$$(4\sqrt{5})^2 = 5^2 + 5^2 - 2(5)(5) \cos \text{L\hat{P}S}$$
+$$\cos \text{L\hat{P}S} = -\frac{3}{5}$$
+$$\therefore \text{L\hat{P}S} = 126,87^\circ$$
+
+* ✓ correct substitution into cosine formula
+* ✓ answer
+
+**(2)**
+
+**[20]**
+
+---
+
+### QUESTION/VRAAG 4
+
+4.1 
+$$D(p ; -2)$$
+$$x^2 + y^2 = 20$$
+$$p^2 + (-2)^2 = 20$$
+$$p^2 = 16$$
+$$p = \pm 4$$
+$$p = 4$$
+
+* ✓ substitution of point $D(p ; -2)$
+* ✓ $p^2 = 16$
+
+**(2)**
+
+4.2 
+$$\frac{4 + x_F}{2} = 6 \quad \text{and} \quad \frac{-2 + y_F}{2} = 2$$
+$$x_F = 8 \quad \text{and} \quad y_F = 6$$
+$$F(8 ; 6)$$
+
+**OR**
+
+$$x_E - x_D = 6 - 4 = 2 \quad \text{and} \quad y_E - y_D = 2 - (-2) = 4$$
+$$x_F = 6 + 2 = 8 \quad \text{and} \quad y_F = 2 + 4 = 6$$
+$$F(8 ; 6)$$
+
+* ✓ method
+* ✓ $x$-value ✓ $y$-value
+
+**(3)**
+
+*(OR)*
+* ✓ method
+* ✓ $x$-value ✓ $y$-value
+
+**(3)**
+
+4.3 
+$$m_{DE} = \frac{-2 - 2}{4 - 6}$$
+$$m_{DE} = 2$$
+$$-2 = 2(4) + c \quad \text{OR} \quad y - (-2) = 2(x - 4)$$
+$$c = -10 \quad \text{OR} \quad y + 2 = 2x - 8$$
+$$y = 2x - 10 \quad \text{OR} \quad y = 2x - 10$$
+
+* ✓ correct substitution
+* ✓ gradient of $DE, DF \text{ or } EF$
+* ✓ substitution of point $D(4 ; -2)$ or $E(6 ; 2)$ or $F(8 ; 6)$
+* ✓ answer
+
+**(4)**
+
+**OR**
+
+$$m_{OD} = \frac{-2}{4} = -\frac{1}{2}$$
+$$\therefore m_{DE} = 2 \quad [\tan \perp \text{ radius}]$$
+$$-2 = 2(4) + c \quad \text{OR} \quad y - (-2) = 2(x - 4)$$
+$$c = -10 \quad \text{OR} \quad y + 2 = 2x - 8$$
+$$y = 2x - 10 \quad \text{OR} \quad y = 2x - 10$$
+
+* ✓ correct gradient of $OD$
+* ✓ gradient of $DE$
+* ✓ substitution of point $D(4 ; -2)$ or $E(6 ; 2)$ or $F(8 ; 6)$
+* ✓ answer
+
+**(4)**
+
+4.4 
+$$m_{DE} = 2$$
+$$\therefore m_{GF} = -\frac{1}{2} \quad [\tan \perp \text{ radius}]$$
+$$\frac{0 - 6}{t - 8} = -\frac{1}{2}$$
+$$-(t - 8) = 2(-6)$$
+$$t = 20$$
+
+* ✓ correct gradient of $GF$
+* ✓ substitution of $F$
+* ✓ answer
+
+**(3)**
+
+**OR**
+
+$$y = 2x - 10$$
+$$0 = 2x - 10$$
+$$x = 5$$
+$$A(5 ; 0)$$
+
+$\text{In } \Delta AGF: FA \perp FG$
+$$FA^2 = (6 - 0)^2 + (8 - 5)^2 = 45$$
+$$FG^2 = (t - 8)^2 + (0 - 6)^2 = t^2 - 16t + 100$$
+$$GA^2 = (t - 5)^2 = t^2 - 10t + 25$$
+$$\therefore GA^2 = GF^2 + FA^2$$
+$$t^2 - 10t + 25 = t^2 - 16t + 100 + 45$$
+$$6t = 120$$
+$$t = 20$$
+
+* ✓ $x$-intercept of $DF$
+* ✓ substitution into Pythagoras
+* ✓ answer
+
+**(3)**
+
+4.5 
+$$F(8 ; 6)$$
+$$G(20 ; 0)$$
+$$(8 - 20)^2 + (6 - 0)^2 = r^2$$
+$$r^2 = 180$$
+$$(x - 20)^2 + y^2 = 180$$
+$$x^2 + y^2 - 40x + 220 = 0$$
+
+* ✓ substitution of $F$ and $G$
+* ✓ value of $r^2$
+* ✓ equation of circle
+* ✓ answer
+
+**(4)**
+
+4.6 
+$$\text{Smaller circle } r = 2\sqrt{5}$$
+$$\text{Larger circle } r = 6\sqrt{5}$$
+$$G(20 ; 0)$$
+$$k = 20 - (6\sqrt{5} - 2\sqrt{5}) \quad \text{or} \quad k = 20 + (6\sqrt{5} - 2\sqrt{5})$$
+$$= 20 - 4\sqrt{5} \quad = 20 + 4\sqrt{5}$$
+$$= 11,06 \text{ units} \quad = 28,94 \text{ units}$$
+
+**OR**
+
+$$\text{Smaller circle } r = 2\sqrt{5}$$
+$$k = 2(2\sqrt{5}) + 20 - 8\sqrt{5} \quad \text{or} \quad k = 2(6\sqrt{5}) + 20 - 8\sqrt{5}$$
+$$= 20 - 4\sqrt{5} \quad = 20 + 4\sqrt{5}$$
+$$= 11,06 \text{ units} \quad = 28,94 \text{ units}$$
+
+**OR**
+
+$$x^2 + y^2 - 40x + 220 = 0$$
+$$y = 0$$
+$$\therefore x^2 - 40x + 220 = 0$$
+$$\therefore x = 20 + 6\sqrt{5} \quad \text{or} \quad x = 20 - 6\sqrt{5}$$
+$$\therefore k = 20 + 6\sqrt{5} - \sqrt{20} \quad \text{or} \quad k = 20 - 6\sqrt{5} + \sqrt{20}$$
+$$\therefore k = 20 + 4\sqrt{5} \quad \therefore k = 20 - 4\sqrt{5}$$
+$$= 11,06 \text{ units} \quad = 28,94 \text{ units}$$
+
+* ✓ $r = 2\sqrt{5}$
+* ✓ method
+* ✓ answer ✓ answer
+
+**(4)**
+
+*(OR)*
+* ✓ $r = 2\sqrt{5}$
+* ✓ method
+* ✓ answer ✓ answer
+
+**(4)**
+
+*(OR)*
+* ✓ $x$-intercepts
+* ✓ method
+* ✓ answer ✓ answer
+
+**(4)**
+
+**[20]**
+
+---
+
+### QUESTION/VRAAG 5
+
+5.1.1 
+$$\sin \beta = \frac{1}{3} \quad \beta \in (90^\circ ; 270^\circ)$$
+$$x = -\sqrt{3^2 - 1^2} = -\sqrt{8} = -2\sqrt{2}$$
+$$\cos \beta = \frac{-2\sqrt{2}}{3}$$
+
+**OR**
+
+$$\sin \beta = \frac{1}{3} \quad \beta \in (90^\circ ; 270^\circ)$$
+$$\cos^2 \beta = 1 - \sin^2 \beta$$
+$$\cos^2 \beta = 1 - \left(\frac{1}{3}\right)^2$$
+$$\cos^2 \beta = \frac{8}{9}$$
+$$\cos \beta = \frac{-\sqrt{8}}{3} = \frac{-2\sqrt{2}}{3}$$
+
+* ✓ $x^2 + y^2 = r^2$
+* ✓ $x = -2\sqrt{2}$
+* ✓ answer
+
+**(3)**
+
+*(OR)*
+* ✓ square identity
+* ✓ $\cos^2 \beta$
+* ✓ answer
+
+**(3)**
+
+5.1.2 
+$$\sin 2\beta = 2 \sin \beta \cos \beta$$
+$$= 2\left(\frac{1}{3}\right)\left(\frac{-2\sqrt{2}}{3}\right)$$
+$$= \frac{-4\sqrt{2}}{9}$$
+
+* ✓ double angle
+* ✓ substitution
+* ✓ answer
+
+**(3)**
+
+5.1.3 
+$$\cos(450^\circ - \beta) = \cos(90^\circ - \beta) = \sin \beta = \frac{1}{3}$$
+
+**OR**
+
+$$\cos(450^\circ - \beta) = \cos 450^\circ \cos \beta + \sin 450^\circ \sin \beta$$
+$$= \cos 90^\circ \cos \beta + \sin 90^\circ \sin \beta = \sin \beta = \frac{1}{3}$$
+
+* ✓ $\cos(90^\circ - \beta)$
+* ✓ co-ratio
+* ✓ answer
+
+**(3)**
+
+*(OR)*
+* ✓ expansion
+* ✓ reduction
+* ✓ answer
+
+**(3)**
+
+5.2.1 
+$$\text{LHS} = \frac{\cos^4 x + \sin^2 x \cos^2 x}{1 + \sin x}$$
+$$= \frac{\cos^2 x(\cos^2 x + \sin^2 x)}{1 + \sin x}$$
+$$= \frac{\cos^2 x(1)}{1 + \sin x}$$
+$$= \frac{1 - \sin^2 x}{1 + \sin x}$$
+$$= \frac{(1 - \sin x)(1 + \sin x)}{1 + \sin x} = 1 - \sin x = \text{RHS}$$
+
+**OR**
+
+$$\text{LHS} = \frac{\cos^4 x + \sin^2 x \cos^2 x}{1 + \sin x}$$
+$$= \frac{\cos^4 x + (1 - \cos^2 x)\cos^2 x}{1 + \sin x}$$
+$$= \frac{\cos^4 x + \cos^2 x - \cos^4 x}{1 + \sin x}$$
+$$= \frac{1 - \sin^2 x}{1 + \sin x}$$
+$$= \frac{(1 - \sin x)(1 + \sin x)}{1 + \sin x} = 1 - \sin x = \text{RHS}$$
+
+**OR**
+
+$$\text{RHS} = 1 - \sin x = (1 - \sin x) \times \frac{1 + \sin x}{1 + \sin x}$$
+$$= \frac{1 - \sin^2 x}{1 + \sin x}$$
+$$= \frac{\cos^2 x}{1 + \sin x}$$
+$$= \frac{\cos^2 x(\sin^2 x + \cos^2 x)}{1 + \sin x}$$
+$$= \frac{\cos^4 x + \cos^2 x \sin^2 x}{1 + \sin x} = \text{LHS}$$
+
+* ✓ factors
+* ✓ $\sin^2 x + \cos^2 x = 1$
+* ✓ $\cos^2 x = 1 - \sin^2 x$
+* ✓ factors
+
+**(4)**
+
+*(OR)*
+* ✓ $\sin^2 x = 1 - \cos^2 x$
+* ✓ expansion
+* ✓ $\cos^2 x = 1 - \sin^2 x$
+* ✓ factors
+
+**(4)**
+
+*(OR)*
+* ✓ $\frac{1 + \sin x}{1 + \sin x}$
+* ✓ product
+* ✓ $1 - \sin^2 x = \cos^2 x$
+* ✓ $1 = \cos^2 x + \sin^2 x$
+
+**(4)**
+
+5.2.2 
+$$\sin x + 1 = 0 \implies \sin x = -1$$
+$$\text{ref. } \angle = 90^\circ$$
+$$x = 270^\circ$$
+
+* ✓ $\sin x + 1 = 0$
+* ✓ $x = 270^\circ$
+
+**(2)**
+
+5.2.3 
+$$y = \frac{\cos^4 x + \sin^2 x \cos^2 x}{1 + \sin x} = 1 - \sin x$$
+$$\therefore \text{Minimum} = 0$$
+
+* ✓✓ Minimum = 0
+
+**(2)**
+
+5.3.1 
+$$\sin(A - B) = \cos[90^\circ - (A - B)] = \cos[(90^\circ - A) - (-B)]$$
+$$= \cos(90^\circ - A)\cos(-B) + \sin(90^\circ - A)\sin(-B)$$
+$$= \sin A \cos B + \cos A(-\sin B) = \sin A \cos B - \cos A \sin B$$
+
+**OR**
+
+$$\sin(A - B) = \cos[90^\circ - (A - B)] = \cos[(90^\circ - B) - A]$$
+$$= \cos(90^\circ - B)\cos A + \sin(90^\circ - B)\sin A$$
+$$= \sin B \cos A + \cos B \sin A = \sin A \cos B - \cos A \sin B$$
+
+* ✓ co-ratio
+* ✓ compound angle
+* ✓ reduction
+
+**(3)**
+
+*(OR)*
+* ✓ co-ratio
+* ✓ compound angle
+* ✓ reduction
+
+**(3)**
+
+5.3.2 
+$$\sin 48^\circ \cos x - \cos 48^\circ \sin x = \cos 2x$$
+$$\sin(48^\circ - x) = \cos 2x$$
+$$\sin(48^\circ - x) = \sin(90^\circ - 2x)$$
+$$48^\circ - x = 90^\circ - 2x + k \cdot 360^\circ \quad \text{or} \quad 48^\circ - x = 180^\circ - (90^\circ - 2x) + k \cdot 360^\circ$$
+$$x = 42^\circ + k \cdot 360^\circ \quad \text{and} \quad -3x = 42^\circ + k \cdot 360^\circ \implies x = -14^\circ - k \cdot 120^\circ \; ; k \in \mathbb{Z}$$
+
+**OR**
+
+$$\sin 48^\circ \cos x - \cos 48^\circ \sin x = \cos 2x$$
+$$\sin(48^\circ - x) = \cos 2x$$
+$$\cos(90^\circ - 48^\circ + x) = \cos 2x \implies \cos(42^\circ + x) = \cos 2x$$
+$$42^\circ + x = 2x + k \cdot 360^\circ \quad \text{or} \quad 42^\circ + x = 360^\circ - 2x + k \cdot 360^\circ$$
+$$-x = -42^\circ + k \cdot 360^\circ \implies x = 42^\circ - k \cdot 360^\circ \quad \text{and} \quad 3x = 318^\circ + k \cdot 360^\circ \implies x = 106^\circ + k \cdot 120^\circ \; ; k \in \mathbb{Z}$$
+
+* ✓ compound angle
+* ✓ co-ratio
+* ✓ both equations
+* ✓ general solution
+* ✓ general solution; $k \in \mathbb{Z}$
+
+**(5)**
+
+*(OR)*
+* ✓ compound angle
+* ✓ co-ratio
+* ✓ both equations
+* ✓ general solution
+* ✓ general solution; $k \in \mathbb{Z}$
+
+**(5)**
+
+5.4 
+$$\frac{\sin 3x + \sin x}{\cos 2x + 1} = \frac{\sin(2x + x) + \sin(2x - x)}{\cos 2x + 1}$$
+$$= \frac{\sin 2x \cos x + \cos 2x \sin x + \sin 2x \cos x - \cos 2x \sin x}{2\cos^2 x - 1 + 1}$$
+$$= \frac{2\sin 2x \cos x}{2\cos^2 x} = \frac{2(2\sin x \cos x)\cos x}{2\cos^2 x} = \frac{4\sin x \cos^2 x}{2\cos^2 x} = 2\sin x$$
+
+**OR**
+
+$$\frac{\sin 3x + \sin x}{\cos 2x + 1} = \frac{\sin(2x + x) + \sin x}{2\cos^2 x - 1 + 1}$$
+$$= \frac{\sin 2x \cos x + \cos 2x \sin x + \sin x}{2\cos^2 x}$$
+$$= \frac{2\sin x \cos x \cos x + \cos 2x \sin x + \sin x}{2\cos^2 x}$$
+$$= \frac{\sin x(2\cos^2 x + \cos 2x + 1)}{2\cos^2 x} = \frac{\sin x(2\cos^2 x + 2\cos^2 x - 1 + 1)}{2\cos^2 x} = 2\sin x$$
+
+* ✓ $3x = (2x + x)$
+* ✓ expansion
+* ✓ double angle of $\cos 2x$
+* ✓ simplification
+* ✓ $\sin 2x = 2\sin x \cos x$
+* ✓ answer
+
+**(6)**
+
+*(OR)*
+* ✓ $3x = (2x + x)$
+* ✓ double angle of $\cos 2x$
+* ✓ expansion
+* ✓ $\sin 2x = 2\sin x \cos x$
+* ✓ common factor
+* ✓ answer
+
+**(6)**
+
+**[31]**
+
+---
+
+### QUESTION/VRAAG 6
+
+6.1 $\text{Period} = 180^\circ$
+
+* ✓ $180^\circ$
+
+**(1)**
+
+6.2 $y \in \left[-\frac{\sqrt{2}}{2} ; 1\right] \quad \text{OR} \quad y \in [-0,71 ; 1] \quad \text{OR} \quad -\frac{\sqrt{2}}{2} \le y \le 1$
+
+* ✓ $-\frac{\sqrt{2}}{2}$
+* ✓ $\left[-\frac{\sqrt{2}}{2} ; 1\right]$
+
+**(2)**
+
+6.3.1 $x \in (45^\circ ; 90^\circ) \quad \text{OR} \quad 45^\circ < x < 90^\circ$
+
+* ✓✓ $x \in (45^\circ ; 90^\circ)$
+
+**(2)**
+
+6.3.2 $f(x) + 1 \le 0 \implies f(x) \le -1$
+$x \in [105^\circ ; 165^\circ] \quad \text{OR} \quad 105^\circ \le x \le 165^\circ$
+
+* ✓✓ $x \in [105^\circ ; 165^\circ]$
+
+**(2)**
+
+6.4 $p(x) = -2\sin 2x$
+$-2\sin 2x = -1 \quad \text{OR} \quad 2\sin 2x = 1$
+$k = 15^\circ \text{ or } k = 75^\circ$
+
+* ✓ reading off $f(x) = 1$ or $-f(x) = -1$
+* ✓ $15^\circ$
+* ✓ $75^\circ$
+
+**(3)**
+
+6.5 $g(x) = -\cos(x + 45^\circ)$
+$h(x) = -\cos(x + 90^\circ)$
+$h(x) = \sin x$
+
+* ✓ $-\cos(x + 90^\circ)$
+* ✓ answer
+
+**(2)**
+
+**[12]**
+
+---
+
+### QUESTION/VRAAG 7
+
+7.1 
+$$\text{Area } \Delta STK = \frac{1}{2}p(SK

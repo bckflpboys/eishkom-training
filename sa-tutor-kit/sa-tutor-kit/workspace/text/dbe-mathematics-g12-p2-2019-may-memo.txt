@@ -1,0 +1,612 @@
+# SENIOR CERTIFICATE EXAMINATIONS / NATIONAL SENIOR CERTIFICATE EXAMINATIONS
+
+**MATHEMATICS P2 / WISKUNDE V2**  
+**MARKING GUIDELINES / NASIENRIGLYNE**  
+**2019**  
+**MARKS / PUNTE: 150**
+
+---
+
+## QUESTION / VRAAG 1
+
+1.1 $45 \text{ children}$  
+$\checkmark \text{ answer}$ (1)
+
+1.2  
+$\bar{x} = \frac{\sum fx}{n}$  
+$\bar{x} = \frac{(4 \times 2) + (8 \times 10) + (12 \times 9) + (16 \times 7) + (20 \times 8) + (24 \times 7) + (28 \times 2)}{45}$  
+$\bar{x} = \frac{692}{45} \quad \text{OR} \quad \bar{x} = 15,38 \text{ minutes}$  
+$\begin{cases} \checkmark 692 \\ \checkmark \text{ answer} \end{cases}$ (2)  
+*(Answer only: full marks)*
+
+1.3  
+| Time taken ($t$) (in minutes) | Number of children | Cumulative frequency | |
+| :---: | :---: | :---: | :--- |
+| $2 < t \le 6$ | $2$ | $2$ | |
+| $6 < t \le 10$ | $10$ | $12$ | |
+| $10 < t \le 14$ | $9$ | $21$ | |
+| $14 < t \le 18$ | $7$ | $28$ | $\checkmark \text{ first 4 cum freq correct}$ |
+| $18 < t \le 22$ | $8$ | $36$ | |
+| $22 < t \le 26$ | $7$ | $43$ | $\checkmark \text{ last 3 cum freq correct}$ |
+| $26 < t \le 30$ | $2$ | $45$ | |
+(2)
+
+1.4  
+```
+           CUMULATIVE FREQUENCY GRAPH 
+                     (OGIVE)
+  50 +-+-----+-----+-----+-----+-----+-----+--+
+     |     /                                 |
+  40 +-+--/--------------------------------+-+
+     |   /                                   |
+  30 +--/----------------------------------+-+
+     | /                                     |
+  20 +/--------------------------------------+-+
+     |/                                      |
+  10 +---------------------------------------+-+
+     |                                       |
+   0 +-+-----+-----+-----+-----+-----+-----+--+
+     0     5    10    15    20    25    30
+                  Time in minutes
+```
+$\checkmark \text{ plotting cum freq at upper limits correctly (all points)}$  
+$\checkmark \text{ shape (smooth)}$  
+$\checkmark \text{ grounding } (2;0)$  
+(3)
+
+1.5  
+On graph at the $y$-value of $22,5$ or $23$  
+$\text{Median} = \pm 15 \text{ minutes}$.  
+$\checkmark \text{ graph}$  
+$\checkmark \text{ answer}$  
+(2)  
+*(Answer only: full marks)*
+
+**[10]**
+
+---
+
+## QUESTION / VRAAG 2
+
+2.1  
+$a = 12,44$  
+$b = 0,98$  
+$\hat{y} = 12,44 + 0,98x$  
+$\checkmark \text{ value of } a$  
+$\checkmark \text{ value of } b$  
+$\checkmark \text{ equation}$  
+(3)  
+*(Answer only: full marks)*
+
+2.2.1  
+$\text{Percentage} = \frac{15}{50} \times 100$  
+$= 30\%$  
+$\checkmark \text{ answer}$  
+(1)
+
+2.2.2  
+$\hat{y} = 12,44 + 0,98x$  
+$\hat{y} = 12,44 + 0,98(30)$  
+$\hat{y} = 41,84$  
+$= 42$  
+$\checkmark \text{ substitution of } 30$  
+$\checkmark \text{ answer as integer}$  
+(2)
+
+**OR**  
+$\hat{y} = 41,87 \quad \text{(if using calculator)}$  
+$\hat{y} = 42$  
+$\checkmark \text{ value of } y$  
+$\checkmark \text{ answer as integer}$  
+(2)
+
+**OR**  
+$\hat{y} = \frac{21}{50}$  
+$\checkmark \checkmark \text{ answer}$  
+(2)
+
+2.3.1  
+$\text{standard deviation} = 13,88$  
+$\checkmark \checkmark \text{ answer}$  
+(2)
+
+2.3.2  
+$x = 50,67 - 45,67$  
+$= 5\%$  
+$\checkmark 50,67 - 45,67$  
+$\checkmark \text{ answer}$  
+(2)  
+*(Answer only: full marks)*
+
+**[10]**
+
+---
+
+## QUESTION / VRAAG 3
+
+3.1.1  
+$\text{Midpoint of EC:} = \left(\frac{-2 + 2}{2}; \frac{0 + (-3)}{2}\right) = \left(0; -\frac{3}{2}\right)$  
+$\checkmark x \text{ value} \quad \checkmark y \text{ value}$  
+(2)
+
+3.1.2  
+$m_{DC} = \frac{-3 - (-5)}{2 - (-2)} \quad \text{OR} \quad \frac{-5 - (-3)}{-2 - 2}$  
+$= \frac{2}{4} = \frac{1}{2}$  
+$\checkmark \text{ substitution}$  
+$\checkmark \text{ answer}$  
+(2)  
+*(Answer only: full marks)*
+
+3.1.3  
+$m_{AB} = \frac{1}{2} \quad [\text{AB} \parallel \text{DC}]$  
+$y = \frac{1}{2}x + c$  
+$0 = \frac{1}{2}(-2) + c$  
+$c = 1$  
+$\therefore y = \frac{1}{2}x + 1$  
+$\checkmark m_{AB} = \frac{1}{2}$  
+$\checkmark \text{ substitution of } (-2;0)$  
+$\checkmark \text{ equation}$  
+(3)
+
+**OR**  
+$y - y_1 = m(x - x_1)$  
+$y - 0 = \frac{1}{2}(x - (-2))$  
+$\checkmark m_{AB} = \frac{1}{2}$  
+$\checkmark \text{ substitution of } (-2;0)$  
+$\checkmark \text{ equation}$  
+(3)
+
+3.1.4  
+$\tan \alpha = m_{AB} = \frac{1}{2}$  
+$\alpha = 26,57^\circ$  
+$\theta = 90^\circ + 26,57^\circ \quad [\text{ext }\angle \text{ of }\Delta]$  
+$= 116,57^\circ$  
+$\checkmark \tan \alpha = \frac{1}{2}$  
+$\checkmark \text{ value of }\alpha$  
+$\checkmark \text{ value of }\theta$  
+(3)
+
+3.2  
+$B(0; 1)$  
+$m_{BC} = \frac{1 - (-3)}{0 - 2} \quad \text{OR} \quad \frac{(-3) - 1}{2 - 0}$  
+$= -2$  
+$m_{AB} \times m_{BC} = \frac{1}{2} \times -2 = -1$  
+$\therefore \text{AB} \perp \text{BC}$  
+$\checkmark \text{ coordinates of B}$  
+$\checkmark m_{BC} = -2$  
+$\checkmark \text{ product of gradients} = -1$  
+(3)
+
+3.3.1  
+$\hat{A} = 90^\circ \quad [BC \text{ is diameter [converse: }\angle \text{ in semi circle]}]$  
+$\therefore \text{centre of circle} = \left(0; -\frac{3}{2}\right)$  
+$\checkmark \text{ answer}$  
+(1)
+
+3.3.2  
+$(x - 0)^2 + \left(y + \frac{3}{2}\right)^2 = r^2$  
+$\left(-2 - 0\right)^2 + \left(0 + \frac{3}{2}\right)^2 = r^2 \quad \text{OR} \quad \left(2 - 0\right)^2 + \left(-3 - \left(-\frac{3}{2}\right)\right)^2 = r^2$  
+$\text{OR} \quad (0 - 0)^2 + \left(1 - \left(-\frac{3}{2}\right)\right)^2 = r^2$  
+$\text{OR} \quad r = \frac{EC}{2} = \frac{\sqrt{(-2 - 2)^2 + (0 - (-3))^2}}{2}$  
+$\text{OR} \quad r = 1 - \left(-\frac{3}{2}\right)$  
+$\therefore r^2 = \frac{25}{4} \quad \text{or} \quad r = \frac{5}{2}$  
+$x^2 + \left(y + \frac{3}{2}\right)^2 = \frac{25}{4}$  
+$\checkmark \text{ substitution of centre}$  
+$\checkmark \text{ correct substitution of } E(-1;0), B(0;1) \text{ or } C(2;-3) \text{ to calculate } r^2 \text{ or } r$  
+$\checkmark \text{ value of } r^2 \text{ or } r$  
+$\checkmark \text{ equation}$  
+(4)
+
+**[18]**
+
+---
+
+## QUESTION / VRAAG 4
+
+4.1  
+$(x - 2)^2 + (y - 1)^2 = 25$  
+$(-2 - 2)^2 + (b - 1)^2 = 25$  
+$(b - 1)^2 = 9$  
+$b - 1 = \pm 3$  
+$\therefore b = 4 \text{ or } b \neq -2$  
+$\checkmark \text{ equation of the circle}$  
+$\checkmark \text{ substitution of point T}$  
+$\checkmark \text{ simplification}$  
+$\checkmark \text{ answer}$  
+(4)
+
+4.2.1  
+$K(2; 1 - 5)$  
+$\therefore K(2; -4)$  
+$\checkmark x \text{ value} \quad \checkmark y \text{ value}$  
+(2)  
+*(Answer only: full marks)*
+
+4.2.2  
+$m_{MT} = \frac{4 - 1}{-2 - 2} = -\frac{3}{4}$  
+$m_{PL} = \frac{4}{3} \quad [\text{radius} \perp \text{tangent}]$  
+$y = \frac{4}{3}x + c$  
+$4 = \frac{4}{3}(-2) + c$  
+$c = \frac{20}{3}$  
+$y = \frac{4}{3}x + \frac{20}{3}$  
+$\checkmark m_{MT}$  
+$\checkmark m_{PL} = \frac{4}{3}$  
+$\checkmark \text{ substitution of } m_{PL} \text{ and the point T}$  
+$\checkmark \text{ equation}$  
+(4)
+
+**OR**  
+$y - y_1 = m(x - x_1)$  
+$y - 4 = \frac{4}{3}(x + 2)$  
+$y = \frac{4}{3}x + \frac{20}{3}$  
+$\checkmark m_{MT}$  
+$\checkmark m_{PL} = \frac{4}{3}$  
+$\checkmark \text{ substitution of } m_{PL} \text{ and the point T}$  
+$\checkmark \text{ equation}$  
+(4)
+
+**OR**  
+$P(-11; -8)$  
+$m_{PL} = \frac{4 - (-8)}{-2 - (-11)} = \frac{4}{3}$  
+$y = \frac{4}{3}x + c$  
+$-8 = \frac{4}{3}(-11) + c \implies c = \frac{20}{3}$  
+$y = \frac{4}{3}x + \frac{20}{3}$  
+$\checkmark \text{ coordinates of P}$  
+$\checkmark m_{PL} = \frac{4}{3}$  
+$\checkmark \text{ substitution of } m_{PL} \text{ and the point P or T}$  
+$\checkmark \text{ equation}$  
+(4)
+
+4.2.3  
+$y_L = \frac{4}{3}(2) + \frac{20}{3} = \frac{28}{3}$  
+$L\left(2; \frac{28}{3}\right) \text{ and } K(2; -4): \quad LK = \frac{28}{3} - (-4) = \frac{40}{3}$  
+Coordinates of $P$:  
+$\frac{x + 2}{2} = -4\frac{1}{2} \quad \text{and} \quad \frac{y - 4}{2} = -6$  
+$\therefore x = -11, \quad y = -8$  
+$\therefore P(-11; -8)$  
+$\perp \text{height } (PH) = 2 - (-11) = 13$  
+$\text{Area }\Delta PKL = \frac{1}{2}(LK)(PH)$  
+$= \frac{1}{2}\left(\frac{40}{3}\right)(13)$  
+$= \frac{260}{3} \quad \text{OR} \quad 86,67 \text{ square units}$  
+$\checkmark y_L = \frac{28}{3}$  
+$\checkmark \text{ length of } LK$  
+$\checkmark x_P \quad \checkmark y_P$  
+$\checkmark \text{ length of }\perp \text{ height}$  
+$\checkmark \text{ substitution into the area formula}$  
+$\checkmark \text{ answer}$  
+(7)
+
+**OR**  
+$y_L = \frac{28}{3}$  
+$LK = \frac{40}{3}$  
+Coordinates of $P(-11; -8)$  
+$PK^2 = (-11 - 2)^2 + (-8 - (-4))^2 \implies PK = \sqrt{185} \text{ units}$  
+$m_{PK} = \frac{-8 - (-4)}{-11 - 2} = \frac{4}{13}$  
+$\tan \theta = \frac{4}{13} \implies \theta = 17,1027\dots^\circ$  
+$\hat{PKL} = 90^\circ + 17,1027\dots^\circ = 107,1^\circ$  
+$\text{Area }\Delta PKL = \frac{1}{2}(PK)(LK)\sin \hat{PKL}$  
+$= \frac{1}{2}(\sqrt{185})\left(\frac{40}{3}\right)\sin 107,10^\circ$  
+$= 86,67 \text{ square units}$  
+$\checkmark y_L = \frac{28}{3}$  
+$\checkmark \text{ length of } LK$  
+$\checkmark x_P \quad \checkmark y_P$  
+$\checkmark \hat{PKL}$  
+$\checkmark \text{ substitution into the area rule}$  
+$\checkmark \text{ answer}$  
+(7)
+
+4.3  
+The centres of the two circles lie on the same vertical line $x = 2$ and the sum of the radii $= 10$  
+$n - 1 = 10 \implies n = 11$  
+$\text{or } 1 - n = 10 \implies n = -9$  
+$\checkmark \text{ correct method}$  
+$\checkmark \text{ sum of radii} = 10$  
+$\checkmark n = 11 \quad \checkmark n = -9$  
+(4)  
+*(Answer only: full marks)*
+
+**[21]**
+
+---
+
+## QUESTION / VRAAG 5
+
+5.1.1  
+$\sin 191^\circ = -\sin 11^\circ$  
+$\checkmark -\sin 11^\circ$  
+(1)
+
+5.1.2  
+$\cos 22^\circ = \cos(2 \times 11^\circ) = 1 - 2\sin^2 11^\circ$  
+$\checkmark \text{ answer}$  
+(1)
+
+5.2  
+$\cos(x - 180^\circ) + \sqrt{2}\sin(x + 45^\circ)$  
+$= -\cos x + \sqrt{2}(\sin x \cos 45^\circ + \cos x \sin 45^\circ)$  
+$= -\cos x + \sqrt{2}\left(\sin x\left(\frac{1}{\sqrt{2}}\right) + \cos x\left(\frac{1}{\sqrt{2}}\right)\right)$  
+$= -\cos x + \sin x + \cos x$  
+$= \sin x$  
+$\checkmark -\cos x \quad \checkmark \text{ expansion}$  
+$\checkmark \text{ special angle ratios}$  
+$\checkmark \text{ simplification of last 2 terms}$  
+$\checkmark \text{ answer}$  
+(5)
+
+**OR**  
+$= -\cos x + \sqrt{2}\left(\sin x\left(\frac{\sqrt{2}}{2}\right) + \cos x\left(\frac{\sqrt{2}}{2}\right)\right)$  
+$= -\cos x + \sin x + \cos x$  
+$= \sin x$  
+$\checkmark -\cos x \quad \checkmark \text{ expansion}$  
+$\checkmark \text{ special angle ratios}$  
+$\checkmark \text{ simplification of last 2 terms}$  
+$\checkmark \text{ answer}$  
+(5)
+
+5.3  
+$\sin P + \sin Q = \sin P + \cos P \implies \sin Q = \cos P$  
+$(\sin P + \cos P)^2 = \left(\frac{7}{5}\right)^2$  
+$\sin^2 P + 2\sin P \cos P + \cos^2 P = \frac{49}{25}$  
+$2\sin P \cos P = \frac{49}{25} - 1$  
+$\sin 2P = \left(\frac{49}{25} - \frac{25}{25}\right) = \frac{24}{25}$  
+$\checkmark \sin Q = \cos P$  
+$\checkmark \text{ squaring}$  
+$\checkmark \text{ expansion}$  
+$\checkmark \sin^2 P + \cos^2 P = 1$  
+$\checkmark \text{ answer}$  
+(5)
+
+**[12]**
+
+---
+
+## QUESTION / VRAAG 6
+
+6.1  
+$\cos(x - 30^\circ) = 2\sin x$  
+$\cos x \cos 30^\circ + \sin x \sin 30^\circ = 2\sin x$  
+$\frac{\sqrt{3}}{2}\cos x + \frac{1}{2}\sin x = 2\sin x$  
+$\frac{\sqrt{3}}{2}\cos x = \frac{3}{2}\sin x$  
+$\tan x = \frac{\sqrt{3}}{3}$  
+$x = 30^\circ + k.180^\circ; \quad k \in \mathbb{Z}$  
+$\checkmark \text{ expansion}$  
+$\checkmark \text{ special }\angle\text{s}$  
+$\checkmark \text{ simplification}$  
+$\checkmark \text{ equation in tan}$  
+$\checkmark 30^\circ \quad \checkmark k.180^\circ; k \in \mathbb{Z}$  
+(6)
+
+**OR**  
+$x = 30^\circ + k.360^\circ \quad \text{or} \quad x = 210^\circ + k.360^\circ; \quad k \in \mathbb{Z}$  
+$\checkmark 30^\circ \text{ and } 210^\circ \quad \checkmark k.360^\circ; k \in \mathbb{Z}$  
+(6)
+
+6.2.1(a) $A(120^\circ; 0)$  
+$\checkmark \text{ answer}$  
+(1)
+
+6.2.1(b) $C(-150^\circ; -1)$  
+$\checkmark x \text{ value} \quad \checkmark y \text{ value}$  
+(2)
+
+6.2.2(a) $x \in (-90^\circ; 30^\circ) \quad \text{OR} \quad -90^\circ < x < 30^\circ$  
+$\checkmark \text{ endpoints} \quad \checkmark \text{ correct interval}$  
+(2)
+
+6.2.2(b) $x \in (-160^\circ; 20^\circ) \quad \text{OR} \quad -160^\circ < x < 20^\circ$  
+$\checkmark \text{ endpoints} \quad \checkmark \text{ correct interval}$  
+(2)
+
+6.2.3  
+$y = 2^{2\sin x + 3}$  
+Range of $y = 2\sin x : y \in [-2; 2] \text{ OR } -2 \le y \le 2$  
+Range of $y = 2\sin x + 3 : y \in [1; 5] \text{ OR } 1 \le y \le 5$  
+Range of $y = 2^{2\sin x + 3} : y \in [2; 32] \text{ OR } 2 \le y \le 32$  
+$\checkmark 1 \quad \checkmark 5$  
+$\checkmark 2 \quad \checkmark 32$  
+$\checkmark \text{ correct interval}$  
+(5)  
+*(Answer only: full marks)*
+
+**[18]**
+
+---
+
+## QUESTION / VRAAG 7
+
+7.1.1  
+$\sin \theta = \frac{x}{AC} \implies AC = \frac{x}{\sin \theta}$  
+$\checkmark \text{ trig ratio} \quad \checkmark \text{ simplification}$  
+(2)
+
+7.1.2  
+$\cos 60^\circ = \frac{x + 2}{CE} \implies CE = \frac{x + 2}{\cos 60^\circ} = \frac{x + 2}{\frac{1}{2}} = 2(x + 2)$  
+$\checkmark \text{ trig ratio} \quad \checkmark \text{ making } CE \text{ the subject}$  
+(2)
+
+**OR**  
+$\frac{\sin 30}{x + 2} = \frac{\sin 90^\circ}{CE} \implies CE = \frac{x + 2}{\sin 30^\circ} = 2(x + 2)$  
+$\checkmark \text{ trig ratio} \quad \checkmark \text{ making } CE \text{ the subject}$  
+(2)
+
+7.2  
+$\text{Area }\Delta ACE = \frac{1}{2}AC.EC\sin A\hat{C}E$  
+$= \frac{1}{2}\left(\frac{x}{\sin \theta}\right)(2(x + 2))\sin 2\theta$  
+$= \frac{x(x + 2) \times 2\sin \theta \cos \theta}{\sin \theta}$  
+$= 2x(x + 2)\cos \theta$  
+$\checkmark \text{ use area rule correctly}$  
+$\checkmark \text{ substitution of } \frac{x}{\sin \theta}(2(x + 2))$  
+$\checkmark \text{ substitution of } \sin 2\theta$  
+(3)
+
+7.3  
+$EC = 2(12 + 2) = 28$  
+$AE^2 = AC^2 + EC^2 - 2(AC)(EC)\cos A\hat{C}E$  
+$= \left(\frac{12}{\sin 55^\circ}\right)^2 + 28^2 - 2\left(\frac{12}{\sin 55^\circ}\right)(28)\cos 110^\circ$  
+$AE = 35,77\text{m}$  
+$\checkmark EC$  
+$\checkmark \text{ use cosine rule correctly}$  
+$\checkmark \text{ substitution}$  
+$\checkmark \text{ answer}$  
+(4)
+
+**[11]**
+
+---
+
+## QUESTION / VRAAG 8
+
+8.1.1(a)  
+$M\hat{O}S = 62^\circ \quad [\angle \text{ at centre} = 2 \times \angle \text{ at circumf}]$  
+$\checkmark S \quad \checkmark R$  
+(2)
+
+8.1.1(b)  
+$\hat{L} = 31^\circ \quad [\text{equal chords} = \text{equal }\angle\text{s}]$  
+$\checkmark S \quad \checkmark R$  
+(2)
+
+8.1.2  
+$LN = NP \text{ and } LO = OM$  
+$\therefore ON = \frac{1}{2}PM \quad [\text{midpoint theorem}]$  
+$\therefore ON = \frac{1}{2}MS \quad [PM = MS]$  
+$\checkmark LO = OM$  
+$\checkmark S \quad \checkmark R$  
+$\checkmark S$  
+(4)
+
+**OR**  
+$\hat{N}_1 = 90^\circ \quad [\text{line from centre to midpt chord}]$  
+$\hat{P} = 90^\circ \quad [\angle \text{ in semi-circle}]$  
+$\hat{L} \text{ is common}$  
+$\therefore \Delta NLO ||| \Delta PLM \quad (\angle\angle\angle)$  
+$\frac{NL}{PL} = \frac{NO}{PM} = \frac{1}{2}$  
+$\therefore ON = \frac{1}{2}PM$  
+$\therefore ON = \frac{1}{2}MS \quad [PM = MS]$  
+$\checkmark S \quad R$  
+$\checkmark S/R$  
+$\checkmark S$  
+$\checkmark S$  
+(4)
+
+8.2.1  
+$\frac{AN}{AM} = \frac{AK}{AB} \quad [\text{line} \parallel \text{one side of }\Delta \text{ (prop theorem)}; KN \parallel BM]$  
+$\frac{AN}{AM} = \frac{3y}{5y} = \frac{3}{5}$  
+$\checkmark R$  
+$\checkmark S$  
+(2)
+
+8.2.2  
+$\frac{AM}{MC} = \frac{10x}{23x} \quad [\text{given}]$  
+$AM = 5y = 10x \implies y = 2x$  
+$\frac{LC}{KL} = \frac{MC}{NM} \quad [\text{line} \parallel \text{one side of }\Delta \text{ (prop theorem)}; KN \parallel LM]$  
+$= \frac{23x}{2y} = \frac{23x}{2(2x)} = \frac{23x}{4x} = \frac{23}{4}$  
+$\checkmark S$  
+$\checkmark R$  
+$\checkmark S$  
+(3)
+
+**OR**  
+$\frac{AM}{MC} = \frac{10x}{23x} \quad [\text{given}]$  
+$\frac{AN}{MN} = \frac{3y}{2y} = \frac{6}{4}$  
+$\frac{LC}{KL} = \frac{MC}{NM} \quad [\text{line} \parallel \text{one side of }\Delta \text{ (prop theorem)}; KN \parallel LM]$  
+$= \frac{23x}{2y} = \frac{23x}{4x} = \frac{23}{4}$  
+$\checkmark S$  
+$\checkmark R$  
+$\checkmark S$  
+(3)
+
+**[13]**
+
+---
+
+## QUESTION / VRAAG 9
+
+9.1  
+$\hat{B}_1 = x \quad [\angle\text{s opp } = \text{sides}]$  
+$\hat{M}_2 = 2x \quad [\text{ext }\angle \text{ of }\Delta]$  
+$BM = MN \quad [\text{2 tans from common point}]$  
+$\hat{N}_1 = \frac{180^\circ - 2x}{2} = 90^\circ - x \quad [\angle\text{s opp } = \text{sides}]$  
+$\checkmark S$  
+$\checkmark S \quad \checkmark R$  
+$\checkmark S \quad \checkmark R$  
+$\checkmark \text{ answer}$  
+(6)
+
+**OR**  
+$NM = BM \quad [\text{2 tans from common point}]$  
+$\hat{B}_2 = \hat{N}_1 \quad [\angle\text{s opp } = \text{sides}]$  
+$\hat{B}_1 = x \quad [\angle\text{s opp } = \text{sides}]$  
+In $\Delta KBN$:  
+$x + x + \hat{B}_2 + \hat{N}_1 = 180^\circ \quad [\text{sum of }\angle\text{s of }\Delta]$  
+$2x + 2\hat{N}_1 = 180^\circ$  
+$x + \hat{N}_1 = 90^\circ$  
+$\hat{N}_1 = 90^\circ - x$  
+$\checkmark S \quad \checkmark R$  
+$\checkmark S \quad \checkmark R$  
+$\checkmark S$  
+$\checkmark \text{ answer}$  
+(6)
+
+9.2  
+$MB\hat{A} = \hat{B}_2 + \hat{B}_3 = 90^\circ \quad [\text{tangent} \perp \text{diameter}]$  
+$\hat{B}_3 = 90^\circ - \hat{B}_2$  
+$= 90^\circ - (90^\circ - x) = x$  
+$\hat{B}_3 = \hat{K} = x$  
+$\therefore AB \text{ is a tangent} \quad [\text{converse tan-chord theorem}]$  
+$\checkmark S \quad \checkmark R$  
+$\checkmark S$  
+$\checkmark S$  
+$\checkmark R$  
+(5)
+
+**OR**  
+$\hat{B}_2 = \hat{N}_1$  
+$\hat{B}_1 + \hat{B}_2 = x + (90^\circ - x) = 90^\circ$  
+$\therefore KN \text{ is diameter} \quad [\text{converse }\angle \text{ in semi-circle}]$  
+$MB\hat{A} = \hat{B}_2 + \hat{B}_3 = 90^\circ \quad [\text{tangent} \perp \text{diameter}]$  
+$\therefore AB \text{ is a tangent} \quad [\text{converse tan-chord theorem}]$  
+$\checkmark S$  
+$\checkmark R$  
+$\checkmark S \quad \checkmark R$  
+$\checkmark R$  
+(5)
+
+**[11]**
+
+---
+
+## QUESTION / VRAAG 10
+
+10.1  
+Constr: Let $M$ and $N$ lie on $AB$ and $AC$ respectively such that $AM = DE$ and $AN = DF$. Draw $MN$.  
+Proof:  
+In $\Delta AMN \text{ and } \Delta DEF$  
+$AM = DE \quad [\text{Constr}]$  
+$AN = DF \quad [\text{Constr}]$  
+$\hat{A} = \hat{D} \quad [\text{Given}]$  
+$\therefore \Delta AMN \equiv \Delta DEF \quad (\text{SAS})$  
+$\therefore A\hat{M}N = \hat{E} = \hat{B}$  
+$MN \parallel BC \quad [\text{corresp }\angle\text{s are equal}]$  
+$\frac{AB}{AM} = \frac{AC}{AN} \quad [\text{line} \parallel \text{one side of }\Delta \text{ (prop theorem)}; MN \parallel BC]$  
+$\frac{AB}{DE} = \frac{AC}{DF} \quad [AM = DE \text{ and } AN = DF]$  
+$\checkmark \text{Constr}$  
+$\checkmark \Delta AMN \equiv \Delta DEF$  
+$\checkmark \text{SAS}$  
+$\checkmark MN \parallel BC \text{ and } R$  
+$\checkmark \frac{AB}{AM} = \frac{AC}{AN}$  
+$\checkmark R$  
+(6)
+
+10.2.1(a)  
+$D\hat{O}B = 90^\circ$  
+$D\hat{G}F = \hat{G}_3 + \hat{G}_4 = 90^\circ \quad [\angle \text{ in semi-circle}]$  
+$D\hat{O}B + D\hat{G}F = 180^\circ$  
+$\therefore DGFO \text{ is a cyclic quad} \quad [\text{converse: opp }\angle\text{s of cyclic quad}]$  
+$\checkmark S \quad \checkmark R$  
+$\checkmark R$  
+(3)
+
+**OR**  
+$E\hat{O}B = 90^\circ$  
+$D\hat{G}F = \

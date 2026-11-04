@@ -1,0 +1,669 @@
+# NATIONAL SENIOR CERTIFICATE / NASIONALE SENIOR SERTIFIKAAT
+
+# GRADE/GRAAD 11
+
+## MATHEMATICS P2 / WISKUNDE V2
+
+### NOVEMBER 2016
+
+#### MEMORANDUM
+
+---
+
+**NOTE:**
+* If a candidate answered a question TWICE, mark only the FIRST attempt.
+* If a candidate crossed out an answer and did not redo it, mark the crossed-out answer.
+* Consistent accuracy applies to ALL aspects of the marking memorandum.
+* Assuming values/answers in order to solve a problem is unacceptable.
+
+**LET WEL:**
+* As 'n kandidaat 'n vraag TWEE keer beantwoord het, sien slegs die EERSTE poging na.
+* As 'n kandidaat 'n antwoord deurgehaal en nie oorgedoen het nie, sien die deurgehaalde antwoord na.
+* Volgehoue akkuraatheid is op ALLE aspekte van die memorandum van toepassing.
+* Dit is onaanvaarbaar om waardes/antwoorde te veronderstel om 'n probleem op te los.
+
+---
+
+### QUESTION/VRAAG 1
+
+Data: $5 \quad 8 \quad 15 \quad 20 \quad 25 \quad 27 \quad 31 \quad 36 \quad 75$
+
+1.1 $\text{Range/Omvang} = 75 - 5 = 70$  
+$\checkmark$ answer/antw (1)
+
+1.2 $\text{Std dev/Std afwyking} = 19,56$  
+$\checkmark \checkmark$ answer/antw (2)
+
+1.3 $\text{Median/Mediaan} = 25$  
+$\checkmark$ answer/antw (1)
+
+1.4 
+* $Q_1 = \frac{8 + 15}{2} = 11,5$
+* $Q_3 = \frac{31 + 36}{2} = 33,5$
+* $\text{IQR} = Q_3 - Q_1 = 33,5 - 11,5 = 22$
+
+$\checkmark Q_1 = 11,5$  
+$\checkmark Q_3 = 33,5$  
+$\checkmark$ answer/antw (3)
+
+1.5 
+
+```
+   --|--[---|---]--|--
+-----+---+---+---+---+---+---+---+---+---+---+---+---+---+---
+     5  10  15  20  25  30  35  40  45  50  55  60  65  70  75
+```
+$\checkmark$ box/mond  
+$\checkmark$ whiskers/snor  
+$\checkmark$ min and max (maks) (3)
+
+1.6 Skewed to the right / skeef na regs  
+Positively skewed / positief skeef  
+$\checkmark$ answer/antw (1)
+
+1.7 $\text{Outlier/uitskieter} = 75$  
+
+**OR/OF**  
+$33,5 + 1,5(22) = 66,5$  
+$\text{Outlier/uitskieter} = 75$
+
+$\checkmark$ answer/antw  
+$\checkmark$ answer/antw (1)  
+**[12]**
+
+---
+
+### QUESTION/VRAAG 2
+
+2.1
+
+| TIME SPENT / TYD SPANDEER (IN MINUTES / MINUTE) | FREQUENCY / FREKWENSIE $f$ | CUMULATIVE FREQUENCY / KUMULATIEWE FREKWENSIE $f$ |
+| :---: | :---: | :---: |
+| $95 < x \le 105$ | 15 | 15 |
+| $105 < x \le 115$ | 27 | 42 |
+| $115 < x \le 125$ | 43 | 85 |
+| $125 < x \le 135$ | 52 | 137 |
+| $135 < x \le 145$ | 28 | 165 |
+| $145 < x \le 155$ | 21 | 186 |
+| $155 < x \le 165$ | 10 | 196 |
+| $165 < x \le 175$ | 4 | 200 |
+
+$\checkmark\checkmark$ correct CF values / korrekte KF-waardes (2)
+
+2.2 
+
+**OGIVE/OGIEF**  
+*(Graph showing cumulative frequency plotted against time spent on cellphone)*
+
+$\checkmark\checkmark\checkmark$ 8 points correct  
+**OR/OF**  
+$\checkmark\checkmark$ 4–7 points correct  
+**OR/OF**  
+$\checkmark$ 1–3 points correct (3)
+
+2.3 $Q_1 = 118$  
+Accept any answer between ($115$ and $120$)  
+$\checkmark\checkmark$ answer/antw (2)
+
+2.4 $\text{Number of learners / Getal leerders} = 200 - 150 = 50$  
+Accept $150$ or any other reading between ($145$ and $155$)  
+$\checkmark 150$  
+$\checkmark 50$ (2)  
+**[9]**
+
+---
+
+### QUESTION/VRAAG 3
+
+3.1 
+$M = \left( \frac{x_1 + x_2}{2} ; \frac{y_1 + y_2}{2} \right)$  
+$= \left( \frac{-4 + 6}{2} ; \frac{3 + (-2)}{2} \right)$  
+$= \left( 1 ; \frac{1}{2} \right)$  
+$\checkmark$ subst into/in midpt form / mdpnt vorm.  
+$\checkmark$ answer/antw (2)
+
+3.2 
+$m_{BC} = \frac{y_2 - y_1}{x_2 - x_1}$  
+$= \frac{15 - 3}{2 - (-4)}$  
+$= 2$  
+
+$m_{MN} = m_{BC} = 2 \quad [BC \parallel MN]$  
+$\checkmark$ subst into gradient form. / subst in gradiëntvorm  
+$\checkmark$ answer/antw  
+$\checkmark$ gradients equal / gradiënte gelyk (3)
+
+3.3 
+$y - y_1 = m(x - x_1)$  
+$y - \frac{13}{2} = 2(x - 4)$  
+$y = 2x - \frac{3}{2}$  
+
+**OR/OF**  
+$y = mx + c$  
+$\frac{13}{2} = 2(4) + c$  
+$-\frac{3}{2} = c$  
+$y = 2x - \frac{3}{2}$  
+
+$\checkmark$ subst $\left( 4 ; \frac{13}{2} \right)$ and $m = 2$ into str line eq.  
+$\checkmark$ answer/antw (2)
+
+3.4 
+$N$ is a midpoint of $AC$ [Line through midpoint of one side parallel to second side]  
+$N \left( \frac{-4 + 6}{2} ; \frac{3 + (-2)}{2} \right)$  
+$= N \left( 1 ; \frac{1}{2} \right)$  
+
+**OR/OF**  
+$m_{AC} = \frac{3 - (-2)}{(-4) - 6} = -\frac{1}{2}$  
+
+Equation of $AC$:  
+$y - y_1 = m(x - x_1)$  
+$y - 3 = -\frac{1}{2}(x - (-4))$  
+$y = -\frac{1}{2}x + 1$  
+
+$-\frac{1}{2}x + 1 = 2x - \frac{3}{2}$  
+$-x + 2 = 4x - 3$  
+$x = 1$  
+
+$y = 2(1) - \frac{3}{2} = \frac{1}{2}$  
+$N \left( 1 ; \frac{1}{2} \right)$  
+
+$\checkmark S$  
+$\checkmark R$  
+$\checkmark x$-value/waarde  
+$\checkmark y$-value/waarde (4)  
+
+**OR/OF**  
+$\checkmark$ gradient of $AC$  
+$\checkmark$ equation of $AC$  
+$\checkmark$ equating / gelykstelling  
+$\checkmark N \left( 1 ; \frac{1}{2} \right)$ (4)
+
+3.5 $N$ is the midpoint of $BD$ and the midpoint of $AC$ [diagonals of parm bisect]  
+$N$ is die midpt $v$ $BD$ en midpt $v$ $AC$ [hoeklyne van parm halveer]  
+
+$\left( \frac{2 + x}{2} ; \frac{y + 15}{2} \right) = \left( 1 ; \frac{1}{2} \right)$  
+
+$\frac{2 + x}{2} = 1 \quad \text{and} \quad \frac{y + 15}{2} = \frac{1}{2}$  
+$x = 0 \quad \text{and} \quad y = -14$  
+
+$D(0 ; -14)$  
+
+$\checkmark \frac{2 + x}{2} = 1$  
+$\checkmark \frac{y + 15}{2} = \frac{1}{2}$  
+$\checkmark x = 0$  
+$\checkmark y = -14$ (4)  
+
+**OR/OF**  
+From $B$ to $A$:  
+$(x ; y) \to (x + 4 ; y - 17)$  
+$D(-4 + 4 ; 3 - 17)$  
+$D(0 ; -14)$  
+
+$\checkmark x + 4$  
+$\checkmark y - 17$  
+$\checkmark$ subst  
+$\checkmark D(0 ; -14)$ (4)  
+**[15]**
+
+---
+
+### QUESTION/VRAAG 4
+
+4.1 
+$m_{MP} = m_{PN}$  
+$\frac{2 - 0}{0 - k} = \frac{4 - 2}{3 - 0}$  
+$\frac{2}{-k} = \frac{2}{3}$  
+$k = -3$  
+
+$\checkmark m_{MP} = m_{PN}$  
+$\checkmark$ subst. into gradient form.  
+$\checkmark$ answer/antw (3)
+
+4.2 
+$\tan \alpha = m_{PN}$  
+$\tan \alpha = \frac{2}{3}$  
+$\alpha = 33,69^\circ$  
+
+$\tan \beta = m_{AB}$  
+$\tan \beta = -\frac{1}{2}$  
+$\beta = -26,57^\circ + 180^\circ = 153,43^\circ$  
+
+$\theta = 153,43^\circ - 33,69^\circ = 119,74^\circ$  
+
+$\checkmark \alpha = 33,69^\circ$  
+$\checkmark \tan \beta = -\frac{1}{2}$  
+$\checkmark 153,43^\circ$  
+$\checkmark 119,74^\circ$ (4)
+
+4.3 
+$-\frac{1}{2}x + 4 = 0$  
+$x = 8$  
+$R(8 ; 0)$  
+
+$MR = 8 - (-3) = 11 \text{ units}$  
+$\checkmark y = 0$  
+$\checkmark R(8 ; 0)$  
+$\checkmark$ answer/antw (3)
+
+4.4 
+$\text{Area of } \Delta MNR = \frac{1}{2}(MR) \cdot \perp \text{height}$  
+$= \frac{1}{2}(11)(y \text{-value of } N)$  
+$= \frac{1}{2}(11)(4)$  
+$= 22 \text{ sq units / vk eenh}$  
+
+$\checkmark$ area formula  
+$\checkmark$ subst $y$-value of $N$  
+$\checkmark$ answer/antw (3)  
+
+**OR/OF**  
+$MN = \sqrt{(3 - (-3))^2 + (4 - 0)^2}$  
+$= \sqrt{36 + 16}$  
+$= \sqrt{52} \text{ units / eenh}$  
+
+$\text{Area of / Opp van } \Delta MNR = \frac{1}{2} \times \sqrt{52} \times 11 \times \sin 33,69^\circ$  
+$= 21,999$  
+$\approx 22 \text{ sq units / vk eenh}$  
+
+$\checkmark \sqrt{52}$  
+$\checkmark$ subst in area form  
+$\checkmark$ answer/antw (3)  
+**[13]**
+
+---
+
+### QUESTION/VRAAG 5
+
+5.1.1 
+$x^2 + y^2 = r^2$  
+$(-8)^2 + (t)^2 = 17^2$  
+$t^2 = 225$  
+$t = -15$  
+$\checkmark$ subst in pyth  
+$\checkmark$ answer/antw (2)
+
+5.1.2(a) 
+$\cos(-\theta) = \cos \theta$  
+$= -\frac{8}{17}$  
+$\checkmark \cos \theta$  
+$\checkmark$ answer/antw (2)
+
+5.1.2(b) 
+$1 - \sin \theta = 1 - \left(\frac{-15}{17}\right)$  
+$= 1 + \frac{15}{17}$  
+$= \frac{32}{17}$  
+$\checkmark$ subst  
+$\checkmark$ answer/antw (2)
+
+5.2.1 
+$\tan 17^\circ = \frac{a}{\sqrt{1 - a^2}}$  
+$\checkmark$ sketch  
+$\checkmark \sqrt{1 - a^2}$  
+$\checkmark$ answer/antw (3)
+
+5.2.2 
+$\sin 107^\circ = \sin(90^\circ + 17^\circ)$  
+$= \cos 17^\circ$  
+$= \sqrt{1 - a^2}$  
+
+**OR/OF**  
+$\sin 107^\circ = \sin(180^\circ - 73^\circ)$  
+$= \sin 73^\circ$  
+$= \sqrt{1 - a^2}$  
+
+$\checkmark \cos 17^\circ$  
+$\checkmark \sqrt{1 - a^2}$ (2)  
+*(or for alternative)*  
+$\checkmark \sin 73^\circ$  
+$\checkmark \sqrt{1 - a^2}$ (2)
+
+5.2.3 
+$\cos^2 253^\circ + \sin^2 557^\circ$  
+$= (-\cos 73^\circ)^2 + (-\sin 17^\circ)^2$  
+$= (-a)^2 + (-a)^2$  
+$= 2a^2$  
+$\checkmark \cos^2 73^\circ$  
+$\checkmark \sin^2 17^\circ$  
+$\checkmark$ subst of ratios  
+$\checkmark$ answer/antw (4)
+
+5.3 
+$\frac{\cos(180^\circ + 45^\circ)\sin(180^\circ - 45^\circ) + \sin(360^\circ - 30^\circ)}{\tan(180^\circ + 45^\circ)}$  
+$= \frac{(-\cos 45^\circ)(\sin 45^\circ) - \sin 30^\circ}{\tan 45^\circ}$  
+$= \frac{\left(-\frac{\sqrt{2}}{2}\right)\left(\frac{\sqrt{2}}{2}\right) - \frac{1}{2}}{1}$  
+$= -1$  
+$\checkmark -\cos 45^\circ$  
+$\checkmark \sin 45^\circ$  
+$\checkmark -\sin 30^\circ$  
+$\checkmark \tan 45^\circ$  
+$\checkmark$ numerator / teller  
+$\checkmark$ answer/antw (Answer only: 1 mark out of 6) (6)
+
+5.4 
+$\text{RHS} = \frac{-1}{\tan^2 x \cdot \cos^2 x}$  
+$= \frac{-1}{\frac{\sin^2 x}{\cos^2 x} \cdot \cos^2 x}$  
+$= \frac{-1}{\sin^2 x}$  
+$= \frac{-1}{1 - \cos^2 x}$  
+$= \frac{1}{\cos^2 x - 1}$  
+$= \frac{1}{(\cos x + 1)(\cos x - 1)}$  
+$= \text{LHS}$  
+
+$\checkmark \tan x = \frac{\sin x}{\cos x}$  
+$\checkmark$ simplification / vereenv.  
+$\checkmark$ identity  
+$\checkmark$ factors (4)
+
+**OR/OF**  
+$\text{LHS} = \frac{1}{(\cos x + 1)(\cos x - 1)}$  
+$= \frac{1}{\cos^2 x - 1}$  
+$= \frac{1}{-\sin^2 x}$  
+$= \frac{-1}{\sin^2 x}$  
+$= \frac{-1}{\frac{\sin^2 x}{\cos^2 x} \cdot \cos^2 x}$  
+$= \frac{-1}{\tan^2 x \cdot \cos^2 x}$  
+
+$\checkmark \cos^2 x - 1$  
+$\checkmark -\sin^2 x$  
+$\checkmark \frac{-1}{\sin^2 x}$  
+$\checkmark \frac{\sin^2 x}{\cos^2 x} \cdot \cos^2 x$ (4)
+
+5.5 
+$2\sin x \cos x - \cos x = 0$  
+$\cos x(2\sin x - 1) = 0$  
+
+$\cos x = 0 \quad \text{or} \quad \sin x = \frac{1}{2}$  
+$x = 90^\circ + 360^\circ \cdot k, \quad k \in \mathbb{Z} \quad \text{or} \quad x = 30^\circ + 360^\circ \cdot k, \quad k \in \mathbb{Z}$  
+$\text{or} \quad \text{or}$  
+$x = 270^\circ + 360^\circ \cdot k, \quad k \in \mathbb{Z} \quad x = 150^\circ + 360^\circ \cdot k, \quad k \in \mathbb{Z}$  
+
+$\checkmark$ factors  
+$\checkmark$ both equations / beide verg.  
+$\checkmark$ both general solutions for $\cos x = 0$  
+$\checkmark\checkmark$ general solutions for $\sin x = \frac{1}{2}$  
+$\checkmark k \in \mathbb{Z}$ (6)  
+**[31]**
+
+---
+
+### QUESTION/VRAAG 6
+
+6.1 $b = 30^\circ$  
+$\checkmark$ answer/antw (1)
+
+6.2 $360^\circ$  
+$\checkmark$ answer/antw (1)
+
+6.3 
+$f(x) = g(x)$  
+$x = -150^\circ$  
+$x = 30^\circ$  
+$\checkmark x = -150^\circ$  
+$\checkmark x = 30^\circ$ (2)
+
+6.4 
+$\sin(90^\circ - x) > g(x)$  
+$\cos x > g(x)$  
+$f(x) > g(x)$  
+$x \in (-150^\circ ; 30^\circ) \quad \text{or} \quad -150^\circ < x < 30^\circ$  
+$\checkmark \cos x$  
+$\checkmark$ end points / eindpnte  
+$\checkmark$ notation / notasie (3)
+
+6.5 $\text{Range/Waardeversameling: } y \in [2 ; 4] \quad \text{or} \quad 2 \le y \le 4$  
+$\checkmark$ end points / eindpnte  
+$\checkmark$ notation / notasie (2)  
+**[9]**
+
+---
+
+### QUESTION/VRAAG 7
+
+7.1 
+$AB^2 = AD^2 + BD^2 \quad [\text{Pythagoras}]$  
+$c^2 = (b - a\cos \hat{C})^2 + (a\sin \hat{C})^2$  
+$c^2 = b^2 - 2ab\cos \hat{C} + a^2\cos^2 \hat{C} + a^2\sin^2 \hat{C}$  
+$c^2 = b^2 - 2ab\cos \hat{C} + a^2(\cos^2 \hat{C} + \sin^2 \hat{C})$  
+$c^2 = a^2 + b^2 - 2ab\cos \hat{C}$  
+
+$\checkmark B(a\cos C ; a\sin C)$  
+$\checkmark A(b ; 0)$  
+$\checkmark$ distance formula / afstbdfor.  
+$\checkmark$ expansion / ontwikk.  
+$\checkmark$ common factor  
+$\checkmark$ square identity (6)
+
+7.1.2 
+$c^2 = a^2 + b^2 - 2ab\cos \hat{C}$  
+$\therefore \cos \hat{C} = \frac{a^2 + b^2 - c^2}{2ab}$  
+
+$\text{RHS} = \frac{(a + b)^2 - c^2}{2ab}$  
+$= \frac{a^2 + 2ab + b^2 - c^2}{2ab}$  
+$= \frac{a^2 + b^2 - c^2}{2ab} + \frac{2ab}{2ab}$  
+$= \cos \hat{C} + 1$  
+$= \text{LHS}$  
+
+$\checkmark$ making $\cos C$ subject of form  
+$\checkmark$ simplifying  
+$\checkmark$ expansion / ontwikk.  
+$\checkmark$ subst $\cos C$ (4)  
+
+**OR/OF**  
+$c^2 = a^2 + b^2 - 2ab\cos C$  
+$2ab\cos C = a^2 + b^2 - c^2$  
+$2ab + 2ab\cos C = a^2 + 2ab + b^2 - c^2$  
+$2ab(1 + \cos C) = (a + b)^2 - c^2$  
+$1 + \cos C = \frac{(a + b)^2 - c^2}{2ab}$  
+
+$\checkmark$ making $2ab\cos C$ the subject of the formula  
+$\checkmark$ adding $2ab$ on both sides of equation  
+$\checkmark$ common factor  
+$\checkmark$ factorise the trinomial / drieterm (4)
+
+7.2.1 
+In $\Delta ABD$:  
+$\frac{BD}{\sin 109,6^\circ} = \frac{90,52}{\sin 31,23^\circ}$  
+$BD = \frac{90,52 \times \sin 109,16^\circ}{\sin 31,23^\circ}$  
+$= 164,92 \text{ m}$  
+
+$\checkmark$ sine rule / sinusreël  
+$\checkmark$ subst  
+$\checkmark$ answer/antw (3)
+
+7.2.2 
+$CD^2 = 164,92^2 + 235^2 - 2(164,92)(235)\cos 48,88^\circ$  
+$CD^2 = 31448,4874$  
+$CD = 177,34 \text{ m}$  
+
+$\checkmark$ cos rule / cosinusreël  
+$\checkmark$ subst  
+$\checkmark$ answer/antw (3)  
+**[16]**
+
+---
+
+### QUESTION/VRAAG 8
+
+8.1 
+$\tan 35,5^\circ = \frac{0,5}{AB}$  
+$AB = \frac{0,5}{\tan 35,5^\circ}$  
+$= 0,7 \text{ m}$  
+
+$\checkmark$ subst  
+$\checkmark$ answer/antw (2)
+
+8.2 
+$\text{Volume of cone / keël} = \frac{1}{3} \times \pi \times (0,5)^2 \times 0,7 = 0,18 \text{ m}^3$  
+$\text{Volume of a cylinder} = \pi \times (0,5)^2 \times 1,1 = 0,86 \text{ m}^3$  
+
+$\frac{3}{4} \text{ of volume} = \frac{3}{4} \times (0,18 + 0,86)$  
+$= \frac{3}{4} \times (1,04) \text{ m}^3$  
+$= 0,78 \text{ m}^3$  
+
+$\text{Time taken by pump} = \frac{0,78 \text{ m}^3}{0,52 \text{ m}^3/\text{h}}$  
+$= 1,5 \text{ hours}$  
+
+$\checkmark V$ of cone / keël  
+$\checkmark V$ of cylinder  
+$\checkmark \frac{3}{4}$ of $0,78 \text{ m}^3$  
+$\checkmark$ answer/antw (4)  
+**[6]**
+
+---
+
+### QUESTION/VRAAG 9
+
+9.1 Equal to twice the angle subtended by the arc at the circumference  
+$\checkmark\checkmark$ answer/antw (2)
+
+9.2.1 $\hat{R} = 30^\circ \quad [\angle \text{ at centre} = 2 \times \angle \text{ at circumference}]$  
+$\checkmark S \checkmark R$ (2)
+
+9.2.2 $N\hat{S}T = 30^\circ \quad [\text{equal chords subtends equal angles}]$  
+$\checkmark S \checkmark R$ (2)  
+**[6]**
+
+---
+
+### QUESTION/VRAAG 10
+
+10.1 $D\hat{E}G = x + 20^\circ \quad [\text{alt } \angle\text{'s, } ED \parallel FG]$  
+
+**OR/OF**  
+$D\hat{E}G = 170^\circ - 2x \quad [\text{opp angles of cyclic quad}]$  
+
+$\checkmark S \checkmark R$ (2)  
+*(or for alternative)*  
+$\checkmark S \checkmark R$ (2)
+
+10.2 
+$(x + 20^\circ) + 2x + 10^\circ = 180^\circ \quad [\text{opp } \angle \text{ of cyclic quad}]$  
+$3x = 150^\circ$  
+$x = 50^\circ$  
+$D\hat{H}G = 2(50^\circ) + 10^\circ$  
+$= 110^\circ$  
+
+**OR/OF**  
+$x + 20^\circ = 170^\circ - 2x \quad [\text{alt 's, } ED \parallel FG]$  
+$3x = 150^\circ$  
+$x = 50$  
+$D\hat{H}G = 2(50^\circ) + 10^\circ$  
+$= 110^\circ$  
+
+$\checkmark S \checkmark R$  
+$\checkmark$ answer/antw  
+$\checkmark 110^\circ$ (4)  
+
+*(or for alternative)*  
+$\checkmark S \checkmark R$  
+$\checkmark$ answer/antw  
+$\checkmark 110^\circ$ (4)  
+**[6]**
+
+---
+
+### QUESTION/VRAAG 11
+
+11.1 
+$SP = SR \quad [\text{tangents from the same point}]$  
+$P\hat{R}S = 42,83^\circ \quad [<\text{'s between equal sides}]$  
+$O\hat{R}S = 90^\circ \quad [\text{tan} \perp \text{rad}]$  
+$O\hat{R}N = 90^\circ - 42,83^\circ = 47,17^\circ$  
+$N\hat{O}R = 90^\circ - 47,17^\circ \quad [\text{sum } <\text{'s of } \Delta]$  
+$= 42,83^\circ$  
+
+$\checkmark S$  
+$\checkmark S$  
+$\checkmark R$  
+$\checkmark O\hat{R}N$  
+$\checkmark$ answer/antw (5)
+
+11.2 
+Let $OR = x$  
+$OS = x + 9$  
+$O\hat{R}S = 90^\circ \quad [\text{tan} \perp \text{rad}]$  
+$x^2 + 15^2 = (x + 9)^2 \quad [\text{Pythagoras}]$  
+$x^2 + 225 = x^2 + 18x + 81$  
+$18x = 144$  
+$x = 8 \text{ units}$  
+$\text{radius} = 8 \text{ units}$  
+
+$\checkmark S$  
+$\checkmark S$  
+$\checkmark \text{Using Pythagoras}$  
+$\checkmark$ answer/antw (4)  
+**[9]**
+
+---
+
+### QUESTION/VRAAG 12
+
+12.1 Construction: Draw diameter $AOF$. Join $A$ to $D$.  
+$\hat{F}_1 + \hat{F}_2 = 90^\circ \quad [\text{tan} \perp \text{diameter}]$  
+$\hat{D}_1 = \hat{F}_1 \quad [<\text{'s in the same segment}]$  
+$\hat{D}_1 + \hat{D}_2 = 90^\circ \quad [<\text{ in a semi circle}]$  
+$\therefore \hat{F}_2 = \hat{D}_2$  
+$EFG = FDE$  
+
+$\checkmark \text{Constr}$  
+$\checkmark S$  
+$\checkmark R$  
+$\checkmark S \checkmark R$ (5)
+
+12.2.1 
+$B\hat{A}C = 90^\circ \quad [<\text{ in a semi circle}]$  
+$\hat{E}_2 = 90^\circ \quad [\text{line drawn from centre to midpoint of chord}]$  
+$\therefore B\hat{A}C = \hat{E}_2$  
+$BA \parallel OD \quad [\text{corresp. } <\text{'s are equal}]$  
+
+**OR/OF**  
+$B\hat{A}C = 90^\circ \quad [<\text{ in a semi circle}]$  
+$\hat{E}_4 = 90^\circ \quad [\text{Line from centre to midpoint of chord}]$  
+$B\hat{A}C = \hat{E}_4$  
+$\Rightarrow BA \parallel OD \quad [\text{Alt } <\text{'s are equal}]$  
+
+$\checkmark S / R$  
+$\checkmark S \checkmark R$  
+$\checkmark R$ (4)  
+
+*(or for alternative)*  
+$\checkmark S / R$  
+$\checkmark S \checkmark R$  
+$\checkmark R$ (4)
+
+12.2.2 
+$\hat{A}_1 = x$  
+$\hat{B} = x \quad [\text{tan-chord theorem}]$  
+$\hat{O}_1 = x \quad [\text{corresp } <\text{'s equal, } AB \parallel OD]$  
+$\hat{A}_1 = \hat{O}_1$  
+$\therefore AOCD \text{ is a cyclic quadrilateral } [\text{conv. } <\text{'s in the same segment}]$  
+
+**OR/OF**  
+Let $\hat{O}_1 = a$  
+$\hat{C}_1 = 90^\circ - a \quad [\text{int. } <\text{'s of } \Delta]$  
+$\therefore \hat{A}_2 = 90^\circ - a \quad [<\text{'s opp} = \text{sides}]$  
+$\therefore \hat{A}_1 = a \quad [\text{tan} \perp \text{rad}]$  
+$\therefore \hat{O}_1 = \hat{A}_1$  
+$\therefore AOCD \text{ is a cyclic quadrilateral. } [\text{Converse } <\text{'s in the same segment}]$  
+
+$\checkmark S \checkmark R$  
+$\checkmark S \checkmark R$  
+$\checkmark R$ (5)  
+
+*(or for alternative)*  
+$\checkmark S$  
+$\checkmark S$  
+$\checkmark S \checkmark R$  
+$\checkmark R$ (5)
+
+12.2.3 
+$A\hat{O}C = 2x \quad [<\text{ at centre} = 2 \times < \text{ at circumf.}]$  
+$\hat{O}_1 = x$  
+$\therefore \hat{O}_2 = x$  
+$\hat{C}_2 = \hat{O}_2 = x \quad [<\text{'s in the same segment}]$  
+$\therefore \hat{C}_2 = \hat{B} = x$  
+$\therefore DC \text{ is a tan gent to circle } [\text{conv. tan} - \text{chord}]$  
+
+**OR/OF**  
+$O\hat{C}D = 90^\circ \quad [\text{opp } <\text{'s of cyclic quadrilateral}]$  
+$\therefore CD \text{ is a tan gent.} [\text{Converse tan} \perp \text{rad}]$  
+
+**OR/OF**  
+$\hat{B} = \hat{A}_3 \quad [<\text{'s opp} = \text{sides}]$  
+$\hat{A

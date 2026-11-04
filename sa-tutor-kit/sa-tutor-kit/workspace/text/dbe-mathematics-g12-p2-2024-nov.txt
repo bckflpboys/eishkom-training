@@ -1,0 +1,405 @@
+Confidential
+
+**basic education**  
+Department:  
+Basic Education  
+REPUBLIC OF SOUTH AFRICA  
+
+NATIONAL  
+SENIOR CERTIFICATE  
+
+GRADE 12  
+
+**MATHEMATICS P2**  
+
+**NOVEMBER 2024**  
+
+**MARKS: 150**  
+**TIME: 3 hours**  
+
+This question paper consists of 13 pages, 1 information sheet and an answer book of 23 pages.  
+
+Copyright reserved  
+Please turn over  
+
+---
+
+Mathematics/P2  
+2  
+DBE/November 2024  
+NSC Confidential  
+
+### INSTRUCTIONS AND INFORMATION  
+
+Read the following instructions carefully before answering the questions.  
+
+1. This question paper consists of 11 questions.  
+2. Answer ALL the questions in the SPECIAL ANSWER BOOK provided.  
+3. Clearly show ALL calculations, diagrams, graphs, etc. which you have used in determining your answers.  
+4. Answers only will NOT necessarily be awarded full marks.  
+5. You may use an approved scientific calculator (non-programmable and non-graphical), unless stated otherwise.  
+6. If necessary, round off answers to TWO decimal places, unless stated otherwise.  
+7. Diagrams are NOT necessarily drawn to scale.  
+8. An information sheet with formulae is included at the end of the question paper.  
+9. Write neatly and legibly.  
+
+Copyright reserved  
+Please turn over  
+
+---
+
+Mathematics/P2  
+3  
+DBE/November 2024  
+NSC Confidential  
+
+### QUESTION 1  
+
+At the beginning of a season, the coach of a junior boys' rugby team recorded the weight (in kg) of the 15 players in his team and the number of push-ups that each player was able to do in one minute. The data is represented in the table and scatter plot below. The least squares regression line for the data is drawn.  
+
+| Weight (in kg) ($x$) | 34 | 32 | 40 | 27 | 33 | 28 | 27 | 55 | 39 | 44 | 30 | 57 | 28 | 32 | 31 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Number of push-ups per minute ($y$) | 26 | 21 | 6 | 20 | 16 | 26 | 23 | 7 | 18 | 14 | 17 | 8 | 28 | 25 | 20 |
+
+[DIAGRAM: Scatter plot showing Push-ups per minute ($y$) from $0$ to $30$ on the vertical axis against Weight (in kg) ($x$) from $0$ to $60$ on the horizontal axis, with 15 plotted data points and a downward-sloping least squares regression line.]  
+
+1.1 Determine the equation of the least squares regression line for the data. (3)  
+
+1.2 Write down the correlation coefficient. (1)  
+
+1.3 The coach uses the least squares regression line to set the target for the minimum number of push-ups by each team member according to their weight. Predict the number of push-ups that a member of the team, who weighs $29\text{ kg}$, should do to meet the target. (2)  
+
+1.4 Write down the mean number of push-ups for the given data. (1)  
+
+1.5 The players trained hard during the season. At the end of the season, the coach reported that each player was able to do $5$ more push-ups per minute than they did at the beginning of the season. How does the increase in the number of push-ups influence the standard deviation of the data? (1)  
+
+1.6 At the beginning of the season, the coach used the least squares regression line as the minimum target for a player to aim for. Determine the maximum possible increase in the number of push-ups that a team member must obtain to reach the minimum target. (2)  
+**[10]**  
+
+Copyright reserved  
+Please turn over  
+
+---
+
+Mathematics/P2  
+4  
+DBE/November 2024  
+NSC Confidential  
+
+### QUESTION 2  
+
+The cumulative frequency graph (ogive) shows the time taken (in minutes) for 60 employees to travel to work each morning.  
+
+[DIAGRAM: Cumulative frequency graph (Ogive) with Cumulative frequency on the vertical axis from $0$ to $65$ and Time (in minutes) on the horizontal axis from $0$ to $140$. The curve starts at $(0,2)$ and rises smoothly to $(120,60)$ and $(140,60)$.]  
+
+2.1 Estimate the median travel time. (1)  
+
+2.2 Estimate the lower quartile. (1)  
+
+2.3 Estimate the interquartile range. (2)  
+
+2.4 The minimum and maximum times taken for an employee to travel to work are $5$ and $120\text{ minutes}$ respectively. On the scaled line in the ANSWER BOOK, draw a box and whisker diagram to indicate the distribution of the data as represented in the ogive above. (2)  
+
+2.5 The company manager decided that all employees who travel for an hour or more will be allowed to work from home for part of the day. What percentage of the employees will be allowed to work from home for part of the day? (2)  
+
+2.6 Employees work $8$ hours in a normal working day. The manager decided on the following rule for time to work from home:  
+* An employee is allowed to work half an hour from home for each time interval of $20\text{ minutes}$, or part thereof, above an hour taken to travel to work.  
+
+On a certain day, an employee takes $110\text{ minutes}$ to travel to work. Calculate the number of minutes that this employee will be allowed to work from home on this day. (2)  
+**[10]**  
+
+Copyright reserved  
+Please turn over  
+
+---
+
+Mathematics/P2  
+5  
+DBE/November 2024  
+NSC Confidential  
+
+### QUESTION 3  
+
+In the diagram below, $\Delta ACD$ has vertices $A$, $D(3;-9)$ and $C(-9;0)$, where $A$ is a point in the second quadrant. $B(-1;k)$ lies on side $DC$.  
+
+[DIAGRAM: Cartesian plane showing $\Delta ACD$ with vertices $C(-9;0)$, $D(3;-9)$ and $A$ in the second quadrant. Point $B(-1;k)$ lies on line segment $DC$.]  
+
+3.1 Calculate the gradient of $DC$. (2)  
+
+3.2 Determine the equation of $DC$ in the form $y = mx + c$. (2)  
+
+3.3 Show that $k = -6$. (1)  
+
+3.4 Calculate the length of $DC$. (2)  
+
+3.5 Calculate the ratio of $\frac{DB}{DC}$. (2)  
+
+3.6 If $M$ is a point on $AD$ such that $AC \parallel MB$, calculate the ratio of $\frac{\text{Area } \Delta MBD}{\text{Area } \Delta ACD}$. (4)  
+
+3.7 If it is further given that the gradient of $AD$ is $-4$ and the length of $AD$ is $\sqrt{612}\text{ units}$, calculate the coordinates of $A$. (6)  
+**[19]**  
+
+Copyright reserved  
+Please turn over  
+
+---
+
+Mathematics/P2  
+6  
+DBE/November 2024  
+NSC Confidential  
+
+### QUESTION 4  
+
+In the diagram, $M(1;3)$ is the centre of the circle. The circle cuts the $x$-axis at $N$. $ST$ is a tangent to the circle at $P(3;9)$. $R(d;1)$, with $d > 0$, and $L$ lie on the circle. $O$ and $V$ are the $x$-intercepts of $PL$ and $RL$ respectively.  
+
+[DIAGRAM: Circle with centre $M(1;3)$, tangent $ST$ touching at $P(3;9)$, $N$ on the $x$-axis, $R(d;1)$, $L$ on the circle, and line $PL$ passing through origin $O$ and line $RL$ with $x$-intercept $V$.]  
+
+4.1 Write down the coordinates of $L$. (2)  
+
+4.2 Determine the equation of tangent $ST$ to the circle at $P$. (4)  
+
+4.3 Show that the equation of the circle with centre $M$ is $x^2 + y^2 - 2x - 6y - 30 = 0$. (4)  
+
+4.4 Show that $d = 7$. (2)  
+
+4.5 Calculate the size of $\widehat{L}$ (5)  
+
+4.6 $TR$ is a tangent to the circle at $R$. Prove that $PT \perp RT$. (3)  
+**[20]**  
+
+Copyright reserved  
+Please turn over  
+
+---
+
+Mathematics/P2  
+7  
+DBE/November 2024  
+NSC Confidential  
+
+### QUESTION 5  
+
+5.1 In the diagram, line $OP$ is given with $P(-3;-4)$. $\hat{K}\text{OP} = A$.  
+
+[DIAGRAM: Cartesian plane showing line $OP$ in the third quadrant passing through $P(-3;-4)$ from the origin $O$, making an angle $A$ with the positive $x$-axis (point $K$).]  
+
+Determine, without using a calculator, the value of:  
+
+5.1.1 $\cos A$ (2)  
+
+5.1.2 $\cos 2A$ (2)  
+
+5.1.3 $\sin(A - B)$, if it is further given that $\sin B = \frac{4}{5}$ and $90^\circ < B < 360^\circ$ (4)  
+
+5.2 If $\cos \alpha = p$, express the following expression in terms of $p$:  
+$$\frac{\cos\left(\frac{\alpha}{2} - 45^\circ\right)\sin\left(\frac{\alpha}{2} - 45^\circ\right)}{2}$$ (4)  
+**[12]**  
+
+Copyright reserved  
+Please turn over  
+
+---
+
+Mathematics/P2  
+8  
+DBE/November 2024  
+NSC Confidential  
+
+### QUESTION 6  
+
+6.1 Given the identity: $\cos(x - y) = \cos x \cos y + \sin x \sin y$  
+
+6.1.1 Use the compound angle identity given above to derive a formula for $\cos(x + y)$. (2)  
+
+6.1.2 Hence, or otherwise, show that:  
+$$\frac{\cos(90^\circ - x)\cos y + \sin(-y)\cos(180^\circ + x)}{\cos x \cos(360^\circ + y) + \sin(360^\circ - x)\sin y} = \tan(x + y)$$ (6)  
+
+6.2 Given: $f(x) = \sqrt{6}\sin^2 x - 11\cos(90^\circ + x) + 7$  
+
+Solve for $x$ in the interval $x \in (0^\circ; 360^\circ)$ if $f(x) = 2$. (6)  
+
+6.3 Consider the function: $g(x) = \frac{4 - 8\sin^2 x}{3}$  
+
+6.3.1 Calculate the maximum value of $g$. (3)  
+
+6.3.2 Write down the smallest possible value of $x$ for which $g$ will have a maximum value in the interval $x \in [0^\circ; 360^\circ]$. (1)  
+**[18]**  
+
+Copyright reserved  
+Please turn over  
+
+---
+
+Mathematics/P2  
+9  
+DBE/November 2024  
+NSC Confidential  
+
+### QUESTION 7  
+
+In the diagram below, the graph of $f(x) = \tan x$ is drawn for the interval $x \in [-180^\circ; 180^\circ]$.  
+
+[DIAGRAM: Graph of $f(x) = \tan x$ for $x \in [-180^\circ; 180^\circ]$ showing asymptotes at $x = -90^\circ$ and $x = 90^\circ$.]  
+
+7.1 Write down the equation of the asymptote of $f$ in the interval $x \in [0^\circ; 180^\circ]$. (1)  
+
+7.2 Write down the values of $x$ in the interval $x \in [-180^\circ; 0^\circ]$ for which $f(x) \leq 0$. (2)  
+
+7.3 Given: $g(x) = \cos 2x + 1$  
+
+7.3.1 Write down the period of $g$. (1)  
+
+7.3.2 On the grid given in the ANSWER BOOK, draw the graph of $g(x) = \cos 2x + 1$ for the interval $x \in [-180^\circ; 180^\circ]$. Clearly show the intercepts with the axes as well as the coordinates of the turning points. (3)  
+
+7.4 Use the graphs to determine the general solution of $2\cos^3 x - \sin x = 0$. (4)  
+**[11]**  
+
+Copyright reserved  
+Please turn over  
+
+---
+
+Mathematics/P2  
+10  
+DBE/November 2024  
+NSC Confidential  
+
+### QUESTION 8  
+
+In the diagram, $C$ is the foot of a vertical building and $D$ is the top of the same building. The height of the building, $CD$, is $16\text{ m}$. Two observers are standing $19\text{ m}$ apart at points $A$ and $B$, where $A$, $B$ and $C$ lie in the same horizontal plane. A painter is working at point $E$ on the building. The angle of elevation of $D$ from $A$ is $46{,}85^\circ$, $\hat{D}\text{E}B = 122^\circ$ and $\text{B}\hat{C}\text{A} = 105{,}61^\circ$.  
+
+[DIAGRAM: 3D perspective drawing showing a building with vertical height $CD = 16\text{ m}$. Points $A, B, C$ are on the horizontal ground with $AB = 19\text{ m}$, $\text{B}\hat{C}\text{A} = 105{,}61^\circ$, $\text{D}\hat{A}\text{C} = 46{,}85^\circ$. Point $E$ is on $CD$ with $\text{D}\hat{E}\text{B} = 122^\circ$.]  
+
+8.1 Calculate the length of $AC$, the distance between the observer at $A$ and the foot of the building. (2)  
+
+8.2 Calculate how far the painter at $E$ is from the top of the building. (7)  
+**[9]**  
+
+Copyright reserved  
+Please turn over  
+
+---
+
+Mathematics/P2  
+11  
+DBE/November 2024  
+NSC Confidential  
+
+**Provide reasons for your statements in QUESTIONS 9, 10 and 11.**  
+
+### QUESTION 9  
+
+In the diagram, $ABCD$ is a cyclic quadrilateral. $BC$ is produced to $E$. $AC$ is drawn.  
+$\hat{A}_1 = \frac{1}{2}\hat{B}$, $\hat{A}_2 = 46^\circ$ and $\hat{C}_1 = 86^\circ$.  
+
+[DIAGRAM: Cyclic quadrilateral $ABCD$ inscribed in a circle. $BC$ is produced to $E$. Diagonal $AC$ is drawn. Angles marked: $\hat{A}_1$, $\hat{A}_2 = 46^\circ$, $\hat{C}_1 = 86^\circ$, and exterior angle at $C$ with $E$.]  
+
+9.1 Calculate, with a reason, the value of $\hat{A}_1$. (2)  
+
+9.2 Hence, prove that $AD = DC$. (4)  
+**[6]**  
+
+Copyright reserved  
+Please turn over  
+
+---
+
+Mathematics/P2  
+12  
+DBE/November 2024  
+NSC Confidential  
+
+### QUESTION 10  
+
+10.1 In the diagram, $\Delta RST$ is drawn. Line $AB$ intersects $RS$ and $RT$ at $A$ and $B$ respectively such that $AB \parallel ST$.  
+
+[DIAGRAM: Triangle $\Delta RST$ with line $AB$ parallel to $ST$, intersecting sides $RS$ and $RT$ at $A$ and $B$.]  
+
+Prove the theorem which states that a line drawn parallel to one side of a triangle divides the other two sides proportionally, i.e. $\frac{RA}{AS} = \frac{RB}{BT}$. (6)  
+
+10.2 In the diagram, $O$ is the centre of the circle. $\Delta PWS$ is drawn with $P$, $W$ and $S$ on the circle. $OR \perp PS$. $PRS$ is produced to $T$. $SW$ and $OT$ intersect at $V$.  
+$\text{OV} : \text{OT} = 1 : 4$  
+
+[DIAGRAM: Circle with centre $O$, points $P, W, S$ on the circle, $OR \perp PS$ at $R$, $PRS$ produced to $T$, chords $SW$ and $OT$ intersecting at $V$ with $\text{OV} : \text{OT} = 1 : 4$.]  
+
+10.2.1 Prove, with reasons, that $OR : WS = 1 : 2$ (5)  
+
+10.2.2 Calculate the length of $PT$ if $ST = 15\text{ units}$. (4)  
+**[15]**  
+
+Copyright reserved  
+Please turn over  
+
+---
+
+Mathematics/P2  
+13  
+DBE/November 2024  
+NSC Confidential  
+
+### QUESTION 11  
+
+In the diagram, $A$, $B$, $G$ and $F$ lie on the larger circle. A smaller circle is drawn to touch the larger circle internally at $A$. $EA$ is a common tangent to both circles. $EBCF$ is a tangent to the smaller circle at $C$. $AC$ is produced to $G$. $AF$ cuts the smaller circle at $D$. $AB$, $CD$ and $GF$ are drawn.  
+
+[DIAGRAM: Intersecting circles with a common tangent at $A$, tangent $EBCF$ at $C$, points $A, B, G, F$ on the larger circle, $A, D, C$ on the smaller circle. Secants and chords $AB, CD, GF, AF, AC$ are drawn.]  
+
+11.1 If $\text{E}\hat{\text{A}}\text{G} = x$, determine with reasons, FOUR other angles that are equal to $x$. (6)  
+
+11.2 Prove that $\text{AG} \cdot \text{AD} = \text{AC} \cdot \text{AF}$ (4)  
+
+11.3 Prove that $\Delta \text{AGF} \mid\mid\mid \Delta \text{ABC}$ (4)  
+
+11.4 Prove that $\text{GF}^2 = \frac{\text{BC} \cdot \text{FC} \cdot \text{AF}}{\text{AD}}$ (6)  
+**[20]**  
+
+**TOTAL: 150**  
+
+Copyright reserved  
+
+---
+
+Mathematics/P2  
+14  
+DBE/November 2024  
+NSC Confidential  
+
+### INFORMATION SHEET  
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$  
+
+$$A = P(1 + ni) \quad A = P(1 - ni) \quad A = P(1 - i)^n \quad A = P(1 + i)^n$$  
+
+$$T_n = a + (n - 1)d \quad S_n = \frac{n}{2}[2a + (n - 1)d]$$  
+
+$$T_n = ar^{n-1} \quad S_n = \frac{a(r^n - 1)}{r - 1} \quad (r \neq 1) \quad S_\infty = \frac{a}{1 - r} \quad (-1 < r < 1)$$  
+
+$$F = \frac{x[(1 + i)^n - 1]}{i} \quad p = \frac{x[1 - (1 + i)^{-n}]}{i}$$  
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$  
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} \quad M\left(\frac{x_1 + x_2}{2}; \frac{y_1 + y_2}{2}\right)$$  
+
+$$y = mx + c \quad y - y_1 = m(x - x_1) \quad m = \frac{y_2 - y_1}{x_2 - x_1} \quad m = \tan \theta$$  
+
+$$(x - a)^2 + (y - b)^2 = r^2$$  
+
+$$\text{In } \Delta ABC: \frac{\sin A}{a} = \frac{\sin B}{b} = \frac{\sin C}{c}$$  
+
+$$a^2 = b^2 + c^2 - 2bc \cos A$$  
+
+$$\text{area } \Delta ABC = \frac{1}{2}ab \sin C$$  
+
+$$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta \quad \sin(\alpha - \beta) = \sin \alpha \cos \beta - \cos \alpha \sin \beta$$  
+
+$$\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta \quad \cos(\alpha - \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta$$  
+
+$$\cos 2\alpha = \begin{cases} \cos^2 \alpha - \sin^2 \alpha \\ 1 - 2\sin^2 \alpha \\ 2\cos^2 \alpha - 1 \end{cases} \quad \sin 2\alpha = 2\sin \alpha \cos \alpha$$  
+
+$$\bar{x} = \frac{\sum_{i=1}^{n} x_i}{n} \quad \sigma^2 = \frac{\sum_{i=1}^{n}(x_i - \bar{x})^2}{n}$$  
+
+$$P(A) = \frac{n(A)}{n(S)} \quad P(A \text{ or } B) = P(A) + P(B) - P(A \text{ and } B)$$  
+
+$$\hat{y} = a + bx \quad b = \frac{\sum (x - \bar{x})(y - \bar{y})}{\sum (x - \bar{x})^2}$$  
+
+Copyright reserved

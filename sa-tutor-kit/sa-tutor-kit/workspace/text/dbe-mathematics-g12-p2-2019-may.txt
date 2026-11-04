@@ -1,0 +1,683 @@
+=== page 1 ===
+6858007874000
+
+SENIOR CERTIFICATE EXAMINATIONS/
+NATIONAL SENIOR CERTIFICATE EXAMINATIONS
+
+MATHEMATICS P2
+
+2019
+
+MARKS:  150
+
+TIME: 3 hours
+
+This question paper consists of 14 pages, 1 information sheet
+and an answer book of 25 pages.
+
+INSTRUCTIONS AND INFORMATION
+
+Read the following instructions carefully before answering the questions.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+This question paper consists of 10 questions.
+
+Answer ALL the questions in the SPECIAL ANSWER BOOK provided.
+
+Clearly show ALL calculations, diagrams, graphs, etc. which you have used in determining your answers.
+
+Answers only will NOT necessarily be awarded full marks.
+
+You may use an approved scientific calculator (non-programmable and non-graphical), unless stated otherwise.
+
+6.
+
+7.
+
+8.
+
+9.
+If necessary, round off answers correct to TWO decimal places, unless stated otherwise.
+
+Diagrams are NOT necessarily drawn to scale.
+
+An information sheet with formulae is included at the end of the question paper.
+
+Write neatly and legibly.
+
+QUESTION 1
+
+Each child in a group of four-year-old children was given the same puzzle to complete.                        The time taken (in minutes) by each child to complete the puzzle is shown in the table below.
+
+TIME TAKEN (t)                  (IN MINUTES)
+NUMBER OF CHILDREN
+
+2
+
+10
+
+9
+
+7
+
+8
+
+7
+
+2
+
+1.1
+How many children completed the puzzle?
+
+(1)
+
+1.2
+Calculate the estimated mean time taken to complete the puzzle.
+
+(2)
+
+1.3
+Complete the cumulative frequency column in the table given in the ANSWER BOOK.
+
+(2)
+
+1.4
+Draw a cumulative frequency graph (ogive) to represent the data on the grid provided in the ANSWER BOOK.
+
+(3)
+
+1.5
+Use the graph to determine the median time taken to complete the puzzle.
+
+(2)
+
+[10]
+
+QUESTION 2
+
+Learners who scored a mark below 50% in a Mathematics test were selected to use a computer-based programme as part of an intervention strategy. On completing the programme, these learners wrote a second test to determine the effectiveness of the intervention strategy. The mark (as a percentage) scored by 15 of these learners in both tests is given in the table below.
+LEARNER
+L1
+L2
+L3
+L4
+L5
+L6
+L7
+L8
+L9
+L10
+L11
+L12
+L13
+L14
+L15
+TEST 1
+(%)
+10
+18
+23
+24
+27
+34
+34
+36
+37
+39
+40
+44
+45
+48
+49
+TEST 2
+(%)
+33
+21
+32
+20
+58
+43
+49
+48
+41
+55
+50
+45
+62
+68
+60
+
+2.1
+Determine the equation of the least squares regression line.
+
+(3)
+
+2.2
+A learner's mark in the first test was 15 out of a maximum of 50 marks.
+
+2.2.1
+Write down the learner’s mark for this test as a percentage.
+
+(1)
+
+2.2.2
+Predict the learner's mark for the second test. Give your answer to the nearest integer.
+
+(2)
+
+2.3
+For the 15 learners above, the mean mark of the second test is 45,67% and the standard deviation is 13,88%.  The teacher discovered that he forgot to add the marks of the last question to the total mark of each of these learners. All the learners scored full marks in the last question.  When the marks of the last question are added, the new mean mark is 50,67%.
+
+2.3.1
+What is the standard deviation after the marks for the last question are added to each learner's total?
+
+(2)
+
+2.3.2
+What is the total mark of the last question?
+
+(2)
+
+[10]
+
+QUESTION 3
+
+In the diagram,  A, B, C(2 ; –3)  and  D(–2 ; –5)  are vertices of a trapezium with  AB || DC.                    E(–2 ; 0)  is the  x-intercept of  AB. The inclination of  AB  is  .  K  lies on the y-axis                            and  .
+
+291274571755y
+0y
+
+186436011887200030092651911350030924503810K
+K
+293798410102850
+0
+20637503634266D(–2 ; –5)
+0D(–2 ; –5)
+-242911936750A
+A
+41270262522855C(2 ; –3)
+0C(2 ; –3)
+2417606860425002345055830419
+
+20872451023146E(–2 ; 0)
+0E(–2 ; 0)
+6066790889474x
+x
+3094516318135B
+B
+2932904324274
+00
+3485515295258900
+3.1
+Determine:
+
+3.1.1
+The midpoint of  EC
+
+(2)
+
+3.1.2
+The gradient of  DC
+
+(2)
+
+3.1.3
+The equation of  AB  in the form
+
+(3)
+
+3.1.4
+The size of
+
+(3)
+
+3.2
+Prove that  AB  BC.
+
+(3)
+
+3.3
+The points  E,  B  and  C  lie on the circumference of a circle. Determine:
+
+3.3.1
+The centre of the circle
+
+(1)
+
+3.3.2
+The equation of the circle in the form
+
+(4)
+[18]
+
+QUESTION 4
+
+In the diagram, the circle is centred at  M(2 ; 1).  Radius  KM  is produced to  L, a point outside the circle, such that  KML || y-axis.  LTP  is a tangent to the circle at  T(–2 ; b).                  is the midpoint of  PK.
+78105081915y
+x
+P
+K
+L
+M(2 ; 1)
+T(–2 ; b)
+
+y
+x
+P
+K
+L
+M(2 ; 1)
+T(–2 ; b)
+
+32321501068070
+
+4.1
+Given that the radius of the circle is  5  units, show that  b = 4.
+
+(4)
+
+4.2
+Determine:
+
+4.2.1
+The coordinates of  K
+
+(2)
+
+4.2.2
+The equation of the tangent  LTP  in the form  y = mx + c
+
+(4)
+
+4.2.3
+The area of  LPK
+
+(7)
+
+4.3
+Another circle with equation    is drawn. Determine, with an explanation, the value(s) of  n  for which the two circles will touch each other externally.
+
+(4)
+
+[21]
+
+QUESTION  5
+
+5.1
+Without using a calculator, write the following expressions in terms of :
+
+5.1.1
+
+(1)
+
+5.1.2
+
+(1)
+
+5.2
+Simplify    to a single trigonometric ratio.
+
+(5)
+
+5.3
+Given:    and
+Without using a calculator, determine the value of .
+
+(5)
+[12]
+
+QUESTION 6
+
+6.1
+Determine the general solution of  .
+
+(6)
+
+6.2
+In the diagram, the graphs of    and    are drawn for the interval  .  A  and  B  are the  x–intercepts of  f.  The two graphs intersect at  C  and  D, the minimum and maximum turning points respectively of  f.
+
+280416052375y
+020000y
+
+130041449705–180°
+020000–180°
+49628551717040f
+020000f
+6807201950390C
+020000C
+3336595947420D
+020000D
+20494761445997B
+020000B
+45570901446530A
+020000A
+5200955894080g
+020000g
+59375551385570x
+020000x
+54127401442720180°
+020000180°
+294195514468350°
+0200000°
+
+6.2.1
+Write down the coordinates of:
+
+(a)
+A
+
+(1)
+
+(b)
+C
+
+(2)
+
+6.2.2
+Determine the values of  x  in the interval  , for which:
+
+(a)
+Both graphs are increasing
+
+(2)
+
+(b)
+
+(2)
+
+6.2.3
+Determine the range of  y = 22sin x + 3
+
+(5)
+
+[18]
+
+QUESTION 7
+
+In the diagram below, CGFB  and  CGHD are fixed walls that are rectangular in shape and vertical to the horizontal plane  FGH.  Steel poles erected along  FB  and  HD  extend to  A    and  E  respectively. ∆ACE  forms the roof of an entertainment centre.
+BC = x,  CD = x + 2,  ,   and
+
+3220085209486560°
+060°
+9083671154430A
+020000A
+274828020078702
+02
+B
+C
+D
+E
+x
+x + 2
+
+F
+G
+H
+
+B
+C
+D
+E
+x
+x + 2
+
+F
+G
+H
+
+7.1
+Calculate the length of:
+
+7.1.1
+AC in terms of  x  and
+
+(2)
+
+7.1.2
+CE  in terms of  x
+
+(2)
+
+7.2
+Show that the area of the roof   is given by  .
+
+(3)
+
+7.3
+If  and  BC = 12 metres, calculate the length of  AE.
+
+(4)
+
+[11]
+
+QUESTION 8
+
+8.1
+In the diagram, O is the centre of the circle and LOM is a diameter of the circle.            ON  bisects chord  LP  at  N.  T  and  S  are points on the circle on the other side of  LM  with respect to  P.  Chords  PM,  MS,  MT  and  ST  are drawn.  PM = MS  and
+
+46056552268855S
+S
+273494514382751
+1
+26676351172845N
+N
+L
+P
+T
+M
+O
+2
+31°
+L
+P
+T
+M
+O
+2
+31°
+
+8.1.1
+Determine, with reasons, the size of each of the following angles:
+
+(a)
+
+(2)
+
+(b)
+
+(2)
+
+8.1.2
+Prove that  ON = MS.
+
+(4)
+
+8.2
+In ABC in the diagram,  K  is a point on  AB  such that  AK : KB = 3 : 2.                   N  and  M  are points on  AC  such that  KN || BM.  BM  intersects  KC  at  L.                   AM : MC = 10 : 23.
+
+                           B
+A
+N
+M
+C
+L
+K
+B
+A
+N
+M
+C
+L
+K
+
+Determine, with reasons, the ratio of:
+
+8.2.1
+
+(2)
+
+8.2.2
+
+(3)
+
+[13]
+
+QUESTION 9
+
+In the diagram, tangents are drawn from point  M  outside the circle, to touch the circle at  B and  N. The straight line from  B  passing through the centre of the circle meets  MN  produced in  A.  NM  is produced to  K  such that  BM = MK.  BK  and  BN  are drawn.
+Let .
+
+52587651731645A
+020000A
+B
+K
+M
+N
+1
+2
+1
+2
+3
+x
+1
+2
+B
+K
+M
+N
+1
+2
+1
+2
+3
+x
+1
+2
+
+9.1
+Determine, with reasons, the size of    in terms of  x.
+
+(6)
+
+9.2
+Prove that  BA  is a tangent to the circle passing through  K, B  and  N.
+
+(5)
+
+[11]
+
+QUESTION 10
+
+10.1
+In the diagram,  ∆ABC  and  ∆DEF  are drawn such that  ,  and  .
+
+10598151360705
+020000
+48149001001395F
+00F
+D
+E
+A
+B
+C
+
+D
+E
+A
+B
+C
+
+Use the diagram in the ANSWER BOOK to prove the theorem which states that                if two triangles are equiangular, then the corresponding sides are in proportion,            that is  .
+
+(6)
+
+10.2
+In the diagram,  O  is the centre of the circle and  CG  is a tangent to the circle at  G.        The straight line from  C  passing through  O  cuts the circle at  A  and  B.            Diameter  DOE  is perpendicular to  CA.  GE  and  CA  intersect at  F.  Chords      DG, BG  and  AG  are drawn.
+
+2986735372110D
+020000D
+A
+B
+C
+E
+F
+O
+1
+1
+1
+2
+3
+4
+2
+G
+2
+A
+B
+C
+E
+F
+O
+1
+1
+1
+2
+3
+4
+2
+G
+2
+
+10.2.1
+Prove that:
+
+(a)
+DGFO  is a cyclic quadrilateral
+
+(3)
+
+(b)
+GC = CF
+
+(5)
+
+10.2.2
+If it is further given that  CO = 11  units and  DE = 14  units, calculate:
+
+(a)
+The length of  BC
+
+(3)
+
+(b)
+The length of  CG
+
+(5)
+
+(c)
+The size of
+
+(4)
+
+[26]
+
+TOTAL:
+
+150
+
+INFORMATION SHEET:  MATHEMATICS
+
+   ; ;
+
+M
+
+In ABC:
+
+P(A or B) = P(A) + P(B) – P(A and B)

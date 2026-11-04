@@ -1,0 +1,490 @@
+**NATIONAL SENIOR CERTIFICATE / NASIONALE SENER SERTIFIKAAT**
+
+**GRADE/GRAAD 11**
+
+**MATHEMATICS P2 / WISKUNDE V2**
+**NOVEMBER 2018**
+**MARKING GUIDELINES / NASIENRIGLYNE**
+
+**MARKS / PUNTE: 150**
+
+---
+
+### NOTE / LET WEL:
+* If a candidate answered a question TWICE, mark only the FIRST attempt.
+* If a candidate crossed out an answer and did not redo it, mark the crossed-out answer.
+* Consistent accuracy applies to ALL aspects of the marking memorandum.
+* Assuming values/answers in order to solve a problem is unacceptable.
+
+---
+
+### QUESTION / VRAAG 1
+
+$$\begin{array}{|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+4 & 12 & 13 & 16 & 17 & 18 & 20 & 22 & 22 & 25 \\
+\hline
+\end{array}$$
+
+$$\begin{array}{|l|l|l|}
+\hline
+1.1 & 4 \text{ minutes / minute} & \checkmark \text{ answer / antwoord} \\
+& & (1) \\
+\hline
+1.2 & \text{Mean / gemiddeld } = \frac{169}{10} = 16,9 & \checkmark 169 \\
+& & \checkmark \text{ answer / antwoord} \\
+& & (2) \\
+\hline
+1.3 & \text{Standard deviation / Standaardafwyking} = 5,79 & \checkmark \text{ answer / antwoord} \\
+& & (1) \\
+\hline
+1.4 & (16,9 - 2 \times 5,79 ; 16,9 + 2 \times 5,79) & \checkmark \bar{x} - 2\sigma \\
+& (5,32 ; 28,48) & \checkmark \bar{x} + 2\sigma \\
+& & \\
+& \therefore 1 \text{ member of the team completed the obstacle race outside of 2} & \checkmark \text{ answer / antwoord} \\
+& \text{standard deviations of the mean.} & \\
+& 1 \text{ lid van die span het die hindernisbaan buite twee standaardafwykings} & \\
+& \text{van die gemiddeld voltooi.} & (3) \\
+\hline
+1.5 & \frac{169 + x + 5}{20} = 18 & \checkmark 169 + x + 5 \\
+& x = 18 \times 20 - 174 & \checkmark \text{ dividing by } 20 / \text{ deel deur } 20 \\
+& x = 186 & \checkmark \text{ answer / antwoord} \\
+& & (3) \\
+\hline
+& & \mathbf{[10]} \\
+\hline
+\end{array}$$
+
+---
+
+### QUESTION / VRAAG 2
+
+**Cumulative frequency graph of the ages of soccer players / Kumulatiewe frekwensie-grafiek van sokkerspelers se ouderdomme**
+
+$$\begin{array}{|l|l|l|}
+\hline
+2.1.1 & 50 \text{ players / spelers} & \checkmark \text{ answer / antwoord} \\
+& & (1) \\
+\hline
+2.1.2 & 40 - 10 = 30 \text{ players / spelers} & \checkmark 40 \text{ and / en } 10 \\
+& & \checkmark \text{ answer / antwoord} \\
+& & (2) \\
+\hline
+\end{array}$$
+
+$$\begin{array}{|c|c|c|}
+\hline
+\text{Class interval /} & \text{Frequency /} & \text{Cumulative frequency /} \\
+\text{Klas interval} & \text{Frekwensie} & \text{Kumulatiewe frekwensie} \\
+\hline
+15 \le x < 20 & 4 & 4 \\
+\hline
+20 \le x < 25 & 9 & 13 \\
+\hline
+25 \le x < 30 & 24 & 37 \\
+\hline
+30 \le x < 35 & 10 & 47 \\
+\hline
+35 \le x < 40 & 3 & 50 \\
+\hline
+\end{array}$$
+
+$$\begin{array}{l}
+\checkmark \text{ two correct values / twee korrekte waardes} \\
+\checkmark \text{ three correct values / drie korrekte waardes} \\
+\checkmark \text{ all correct values / al die waardes korrek} \\
+(3)
+\end{array}$$
+
+---
+
+$$\begin{array}{|l|l|l|}
+\hline
+2.1.4 & \begin{array}{|c|c|c|}
+\hline
+\text{Class interval / Klas-interval} & \text{Class midpoint / Klas-middelpunt} & \text{Frequency / Frekwensie} \\
+\hline
+15 \le x < 20 & 17,5 & 4 \\
+\hline
+20 \le x < 25 & 22,5 & 9 \\
+\hline
+25 \le x < 30 & 27,5 & 24 \\
+\hline
+30 \le x < 35 & 32,5 & 10 \\
+\hline
+35 \le x < 40 & 37,5 & 3 \\
+\hline
+\end{array} & \\
+& \textbf{Frequency polygon of the ages of soccer players / Frekwensie-veelhoek van sokkerspelers se ouderdomme} & \checkmark \text{ using midpoints / gebruik middelpunte} \\
+& (\text{Graph showing polygon anchored at } (12,5 ; 0) \text{ and } (42,5 ; 0)) & \checkmark \text{ plotting the points correctly / korrekte punte geplot} \\
+& & \checkmark \text{ points joined by straight line / punte verbind met 'n reguitlyn} \\
+& & \checkmark \text{ grounding at / geanker by }(12,5 ; 0) \text{ and / en } (42,5 ; 0) \\
+& & (4) \\
+\hline
+2.2 & \text{The claim is not valid. / Die bewering is nie geldig nie} & \checkmark \text{ claim not valid / bewering nie geldig nie} \\
+& \text{Range of class / Omvang van klas } A = 60 & \\
+& \text{Range of class / Omvang van klas } B = 40 & \checkmark \text{ comment on the overall spread / kommentaar oor die algehele verspreiding} \\
+& \text{The range of class } A \text{ is bigger than the range of class } B \text{. Therefore the} & \\
+& \text{marks of class } A \text{ are more spread out than the class } B \text{./} & \checkmark \text{ comparison of the lower marks / vergelyk laer punte} \\
+& \text{Die omvang van klas } A \text{ is groter as die omvang van klas } B \text{. Dus is die punte} & (3) \\
+& \text{in klas } A \text{ meer verspreid as klas } B & \\
+& \text{At least } 25\% \text{ of class } A \text{ have lower marks than any learner in class } B \text{./} & \\
+& \text{ten minste } 25\% \text{ van klas } A \text{ het laer punte as enige leerder in klas } B \text{.} & \\
+& \text{Class } A \text{ performed worse at the bottom end. /} & \\
+& \text{Klas } A \text{ het slegter gevorder aan die onderste groep} & \\
+\hline
+& & \mathbf{[13]} \\
+\hline
+\end{array}$$
+
+---
+
+### QUESTION / VRAAG 3
+
+$$\begin{array}{|l|l|l|}
+\hline
+3.1 & B(6; 5) \quad C(0; -3) & \text{OR / OF} \quad m_{BC} = \frac{y_2 - y_1}{x_2 - x_1} & \\
+& m_{BC} = \frac{y_2 - y_1}{x_2 - x_1} & \quad\quad\quad\;\; = \frac{5 - (-3)}{6 - 0} & \checkmark \text{ subst into correct grad.form / verv in grad form.} \\
+& = \frac{-3 - 5}{0 - 6} & \quad\quad\quad\;\; = \frac{8}{6} & \\
+& = \frac{-8}{-6} & \quad\quad\quad\;\; = \frac{4}{3} & \checkmark \text{ answer / antwoord} \\
+& = \frac{4}{3} & & (2) \\
+\hline
+\end{array}$$
+
+---
+
+$$\begin{array}{|l|l|l|}
+\hline
+3.2 & m_{AD} = m_{BC} = \frac{4}{3} \quad (AD \parallel BC) & \checkmark m_{AD} = \frac{4}{3} \\
+& y = \frac{4}{3}x + c & \\
+& 2 = \frac{4}{3}(-2) + c & \checkmark \text{ subst of } m \text{ and point } (-2; 2) / \text{ verv. } m \text{ en punt } (-2; 2) \\
+& \frac{14}{3} = c & \\
+& \therefore y = \frac{4}{3}x + \frac{14}{3} & \checkmark \text{ answer / antwoord} \\
+& \textbf{OR / OF} & (3) \\
+& m_{AD} = \frac{4}{3} \quad (AD \parallel BC) & \checkmark m_{AD} = \frac{4}{3} \\
+& y - 2 = \frac{4}{3}(x - (-2)) & \checkmark \text{ subst of } m \text{ and point } (-2; 2) / \text{ verv. } m \text{ en punt } (-2; 2) \\
+& y = \frac{4}{3}x + \frac{14}{3} & \checkmark \text{ answer / antwoord} \\
+& \therefore y = \frac{4}{3}x + \frac{14}{3} & (3) \\
+\hline
+3.3 & y = \frac{4}{3}x + \frac{14}{3} & \\
+& 0 = \frac{4}{3}t + \frac{14}{3} & \checkmark \text{ subst / verv. } y = 0 \\
+& \frac{-14}{3} = \frac{4}{3}t & \\
+& t = \frac{-14}{4} = \frac{-7}{2} & \checkmark \text{ answer / antwoord} \\
+& & (2) \\
+\hline
+3.4 & AN = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} & \checkmark \text{ subst. in distance formula / verv. in afstand formule} \\
+& = \sqrt{\left((-2) - \left(-\frac{7}{2}\right)\right)^2 + (2 - 0)^2} & \\
+& = \sqrt{\frac{25}{4}} & \\
+& = \frac{5}{2} & \checkmark \text{ answer / antwoord} \\
+& & (2) \\
+\hline
+\end{array}$$
+
+---
+
+$$\begin{array}{|l|l|l|}
+\hline
+3.5 & \frac{3}{8}x - 3 = \frac{4}{3}x + \frac{14}{3} & \checkmark \text{ equating / vergelyk} \\
+& \frac{23}{24}x = -\frac{23}{3} & \checkmark \text{ simplification / vereenv.} \\
+& x = -8 & \checkmark x\text{-value / waarde} \\
+& y = \frac{4}{3}(-8) + \frac{14}{3} & \\
+& = -6 & \checkmark y\text{-value / waarde} \\
+& D(-8; -6) & (4) \\
+\hline
+3.6 & m_{AB} = \frac{5 - 2}{6 - (-2)} = \frac{3}{8} & \checkmark m_{AB} = \frac{3}{8} \\
+& m_{AB} = m_{DC} \therefore AB \parallel DC & \checkmark AB \parallel DC \\
+& \text{but / maar } AD \parallel BC & \\
+& \therefore ABCD \text{ is a parallelogram } [\text{opp sides are} \parallel / \text{teenoorst sye is} \parallel] & \checkmark \text{ reason / rede} \\
+& \textbf{OR / OF} & (3) \\
+& AD = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} & \\
+& = \sqrt{((-2) - (-8))^2 + (2 - 6)^2} & \checkmark \text{ length of } AD / \text{ lengte van } AD \\
+& = \sqrt{100} = 10 & \\
+& BC = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} & \checkmark \text{ length of } BC / \text{ lengte van } BC \\
+& = \sqrt{(6 - 0)^2 + (5 - (-3))^2} & \\
+& = \sqrt{100} = 10 \quad \therefore AD = BC & \\
+& \text{but / maar } AD \parallel BC & \checkmark \text{ reason / rede} \\
+& \therefore ABCD \text{ is a parallelogram } \left[\text{2 opp sides are} = \text{ and } \parallel \atop \text{teenoorst sye is} = \text{ en } \parallel\right] & (3) \\
+\hline
+\end{array}$$
+
+---
+
+$$\begin{array}{|l|l|l|}
+\hline
+& M \text{ is the midpoint of } AC & \\
+& M \text{ is die middelpunt van } AC & \\
+& M\left(\frac{(-2) + 0}{2} ; \frac{2 + (-3)}{2}\right) & \\
+& M\left(-1 ; -\frac{1}{2}\right) & \\
+& M \text{ is the midpoint of } BD & \\
+& M \text{ is die middelpunt van } BD & \checkmark \text{ midpoint of } AC / \text{ middelpunt van } AC \\
+& M\left(\frac{(-8) + 6}{2} ; \frac{(-6) + 5}{2}\right) & \\
+& M\left(-1 ; -\frac{1}{2}\right) & \checkmark \text{ midpoint of } BD / \text{ middelpunt van } AC \\
+& \therefore ABCD \text{ is a parallelogram } \left[\text{diagonals bisect each other} \atop \text{hoeklyne halveer mekaar}\right] & \checkmark \text{ reason / rede} \\
+& & (3) \\
+\hline
+3.7 & M \text{ is the midpoint of } AC \text{ [diagonals bisect]} & \checkmark \text{ Substitution into the correct formula / Verv. in korrekte form.} \\
+& M \text{ is die middelpunt van } AC \text{ [hoeklyne halveer]} & \\
+& M\left(\frac{(-2) + 0}{2} ; \frac{2 + (-3)}{2}\right) & \checkmark x\text{-value / waarde} \\
+& M\left(-1 ; -\frac{1}{2}\right) & \checkmark y\text{-value / waarde} \\
+& & (3) \\
+\hline
+& & \mathbf{[19]} \\
+\hline
+\end{array}$$
+
+---
+
+### QUESTION / VRAAG 4
+
+$$\begin{array}{|l|l|l|}
+\hline
+4.1 & m_{FG} = \frac{2 - (-2)}{5 - 2} & \checkmark \text{ subst. into correct gradient form. / verv in gradiënt formule} \\
+& = \frac{4}{3} & \checkmark \text{ answer / antwoord} \\
+& & (2) \\
+\hline
+4.2 & m_{FC} = -\frac{3}{4} \quad (FC \perp FG) & \checkmark m_{FC} = -\frac{3}{4} \\
+& \frac{y + 2}{6 - 2} = -\frac{3}{4} & \checkmark \text{ equating gradients / stel gradiënte gelyk} \\
+& y = -5 & \checkmark \text{ answer / antwoord} \\
+& & (3) \\
+& \textbf{OR / OF} & \\
+& m_{FC} \times m_{FG} = -1 \quad (FC \perp FG) & \\
+& \frac{y + 2}{6 - 2} \times \frac{4}{3} = -1 & \checkmark m_{FC} \times m_{FG} = -1 \\
+& 4(y + 2) = -12 & \checkmark \text{ substitution / verv.} \\
+& y + 2 = -3 & \\
+& y = -5 & \checkmark \text{ answer / antwoord} \\
+& & (3) \\
+\hline
+4.3 & \tan \beta = \frac{4}{3} & \checkmark \tan \beta = \frac{4}{3} \\
+& \beta = 53,13^\circ & \checkmark \beta = 53,13^\circ \\
+& \theta = 104,04^\circ - 53,13^\circ \text{ [ext } \angle \text{ of } \Delta / \text{ buite } \angle \text{ van } \Delta] & \\
+& \theta = 50,91^\circ & \checkmark \text{ answer / antwoord} \\
+& & (3) \\
+\hline
+\end{array}$$
+
+---
+
+$$\begin{array}{|l|l|l|}
+\hline
+4.4 & FC = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} & \checkmark \text{ subst. into distance formula / verv. in afst. form.} \\
+& = \sqrt{(6 - 2)^2 + (-5 - (-2))^2} & \\
+& = \sqrt{16 + 9} & \checkmark \text{ length of } FC / \text{ lengte van } FC \\
+& = 5 & \\
+& \sin \theta = \frac{FC}{NC} & \\
+& \sin 50,91^\circ = \frac{5}{NC} & \checkmark \sin 50,91^\circ = \frac{5}{NC} \\
+& NC = \frac{5}{\sin 50,91^\circ} & \\
+& = 6,44 \text{ unit} & \checkmark \text{ answer / antwoord} \\
+& & (4) \\
+\hline
+& & \mathbf{[12]} \\
+\hline
+\end{array}$$
+
+---
+
+### QUESTION / VRAAG 5
+
+$$\begin{array}{|l|l|l|}
+\hline
+5.1.1 & x^2 + y^2 = r^2 \quad [\text{Pythagoras}] & \checkmark \text{ subst in pyth / verv in pyth} \\
+& (x)^2 + (15)^2 = 17^2 & \\
+& x^2 = 64 & \\
+& x = -8 \quad (P \text{ is in quadrant } 2 / \text{ is in kwadrant } 2) & \checkmark \text{ answer / antwoord} \\
+& & (2) \\
+\hline
+5.1.2 & \tan \theta = \frac{15}{-8} & \checkmark \text{ answer / antwoord} \\
+& & (1) \\
+\hline
+5.1.3 & \cos(180^\circ - \theta) & \checkmark -\cos \theta \\
+& = -\cos \theta & \\
+& = -\left(\frac{-8}{17}\right) & \\
+& = \frac{8}{17} & \checkmark \text{ answer / antwoord} \\
+& & (2) \\
+\hline
+5.1.4 & \sin^2 \theta & \checkmark \text{ substitution / vervanging} \\
+& = \left(\frac{15}{17}\right)^2 & \\
+& = \frac{225}{289} & \checkmark \text{ answer / antwoord} \\
+& & (2) \\
+\hline
+\end{array}$$
+
+---
+
+$$\begin{array}{|l|l|l|}
+\hline
+5.1.5 & \tan \theta = \frac{a}{-2} = \frac{15}{-8} & \checkmark \tan \theta = \frac{a}{-2} \\
+& \frac{a}{-2} = \frac{15}{-8} & \checkmark \text{ equating / stel gelyk} \\
+& a = \frac{15}{4} & \checkmark \text{ answer / antwoord} \\
+& & (3) \\
+& \textbf{OR / OF} & \\
+& m = \frac{15}{-8} & \checkmark y = -\frac{15}{8}x \\
+& y = -\frac{15}{8}x & \\
+& a = -\frac{15}{8}(-2) & \checkmark \text{ substitution of } P(-2; a) / \text{ vervanging van } P(-2; a) \\
+& a = \frac{15}{4} & \checkmark \text{ answer / antwoord} \\
+& & (3) \\
+\hline
+5.2 & \text{LHS} = \frac{\sin 120^\circ . \cos 210^\circ . \tan 315^\circ . \cos 27^\circ}{\cos 540^\circ . \sin 63^\circ} & \checkmark \sin 60^\circ / \cos 30^\circ \\
+& = \frac{\sin 60^\circ . (-\cos 30^\circ)(-\tan 45^\circ) . \sin 63^\circ}{\cos 180^\circ . \sin 63^\circ} & \checkmark -\cos 30^\circ \\
+& & \checkmark -\tan 45^\circ \\
+& = \frac{\frac{\sqrt{3}}{2} . \left(-\frac{\sqrt{3}}{2}\right)(-1)}{(-1)} & \checkmark \sin 63^\circ / \cos 27^\circ \\
+& & \checkmark \cos 180^\circ \\
+& = -\frac{3}{4} & \checkmark \text{ special angle ratios / spesiale hoeke verhoudings} \\
+& & \checkmark \text{ answer / antwoord} \\
+& & (7) \\
+\hline
+\end{array}$$
+
+---
+
+$$\begin{array}{|l|l|l|}
+\hline
+5.3 & \text{LHS} = \frac{1}{\cos \theta} - \frac{\cos \theta}{1 + \sin \theta} & \\
+& = \frac{1 + \sin \theta - \cos^2 \theta}{\cos \theta(1 + \sin \theta)} & \checkmark \text{ common denominator / gemene noemer} \\
+& = \frac{1 + \sin \theta - (1 - \sin^2 \theta)}{\cos \theta(1 + \sin \theta)} & \checkmark 1 - \sin^2 \theta \\
+& = \frac{\sin \theta(1 + \sin \theta)}{\cos \theta(1 + \sin \theta)} & \checkmark \text{ simplification / vereenv.} \\
+& = \frac{\sin \theta}{\cos \theta} & \checkmark \text{ factors / faktore} \\
+& = \tan \theta & \checkmark \frac{\sin \theta}{\cos \theta} \\
+& = \text{RHS} & (5) \\
+& \textbf{OR / OF} & \\
+& \text{LHS} = \frac{1}{\cos \theta} - \frac{\cos \theta}{1 + \sin \theta} & \\
+& = \frac{1 + \sin \theta - \cos^2 \theta}{\cos \theta(1 + \sin \theta)} & \checkmark \text{ common denominator / gemene noemer} \\
+& = \frac{(1 - \cos^2 \theta) + \sin \theta}{\cos \theta(1 + \sin \theta)} & \checkmark 1 - \cos^2 \theta \\
+& = \frac{\sin^2 \theta + \sin \theta}{\cos \theta(1 + \sin \theta)} & \checkmark \text{ simplification / vereenv.} \\
+& = \frac{\sin \theta(1 + \sin \theta)}{\cos \theta(1 + \sin \theta)} & \checkmark \text{ factors / faktore} \\
+& = \frac{\sin \theta}{\cos \theta} = \tan \theta = \text{RHS} & \checkmark \frac{\sin \theta}{\cos \theta} \\
+& & (5) \\
+\hline
+\end{array}$$
+
+---
+
+$$\begin{array}{|l|l|l|}
+\hline
+5.4 & 3 \sin x = 2 \tan x & \\
+& 3 \sin x = 2 \times \frac{\sin x}{\cos x} & \checkmark \frac{\sin x}{\cos x} \\
+& 3 \sin x \cos x = 2 \sin x & \\
+& 3 \sin x \cos x - 2 \sin x = 0 & \checkmark \text{ factors / faktore} \\
+& \sin x(3 \cos x - 2) = 0 & \\
+& \sin x = 0 & \checkmark \text{ both equations / beide vergelykings} \\
+& x = 360^\circ k, \; k \in \mathbb{Z} & \\
+& \text{or} & \\
+& x = 180^\circ + 360^\circ k, \; k \in \mathbb{Z} & \checkmark \text{ both general solutions / beide algemene oplossings} \\
+\hline
+\end{array}$$
+
+---
+
+$$\begin{array}{|l|l|l|}
+\hline
+& \cos x = \frac{2}{3} & \\
+& x = 48,19^\circ + 360^\circ k, \; k \in \mathbb{Z} & \checkmark \text{ both general solutions / beide algemene oplossings} \\
+& \text{or} & \checkmark k \in \mathbb{Z} \\
+& x = 311,81^\circ + 360^\circ k, \; k \in \mathbb{Z} & (6) \\
+& \textbf{OR / OF} & \\
+& 3 \sin x = 2 \tan x & \\
+& 3 \sin x = 2 \times \frac{\sin x}{\cos x} & \checkmark \frac{\sin x}{\cos x} \\
+& 3 \sin x \cos x = 2 \sin x & \\
+& 3 \sin x \cos x - 2 \sin x = 0 & \checkmark \text{ factors / faktore} \\
+& \sin x(3 \cos x - 2) = 0 & \\
+& \sin x = 0 & \checkmark \text{ both equations / beide vergelykings} \\
+& x = 180^\circ k, \; k \in \mathbb{Z} & \checkmark \text{ general solution / algemene oplossing} \\
+& \cos x = \frac{2}{3} & \checkmark \text{ both general solutions / beide algemene oplossings} \\
+& x = \pm 48,19^\circ + 360^\circ k, \; k \in \mathbb{Z} & \checkmark k \in \mathbb{Z} \\
+& & (6) \\
+\hline
+& & \mathbf{[28]} \\
+\hline
+\end{array}$$
+
+---
+
+### QUESTION / VRAAG 6
+
+$$\begin{array}{|l|l|l|}
+\hline
+6.1 & -3 \le y \le 3 \quad \text{or / of} & \checkmark \text{ end points / eindpunte} \\
+& y \in [-3 ; 3] & \checkmark \text{ notation / notasie} \\
+& & (2) \\
+\hline
+6.2 & c = 1 & \checkmark \text{ answer / antwoord} \\
+& & (1) \\
+\hline
+6.3 & a = 3, \; b = 1 & \checkmark a = 3 \\
+& & \checkmark b = 1 \\
+& & (2) \\
+\hline
+6.4 & Q(122^\circ ; -1,6) & \checkmark x\text{-value / waarde} \\
+& & \checkmark y\text{-value / waarde} \\
+& & (2) \\
+\hline
+6.5 & K\left(-45^\circ ; \frac{3\sqrt{2}}{2}\right) & \checkmark \text{ coordinates of / koördinate van } K \\
+& M\left(-45^\circ ; -1\right) & \\
+& KM = \frac{3\sqrt{2}}{2} + 1 & \\
+& = \frac{3\sqrt{2} + 2}{2} & \checkmark \text{ length of / lengte van } KM \\
+& = 3,12 & (2) \\
+\hline
+6.6 & f(x) = 3 \cos(\theta - 45^\circ) & \checkmark 3 \\
+& & \checkmark -45^\circ \\
+& & (2) \\
+\hline
+& & \mathbf{[11]} \\
+\hline
+\end{array}$$
+
+---
+
+### QUESTION / VRAAG 7
+
+$$\begin{array}{|l|l|l|}
+\hline
+7.1 & QR^2 = PR^2 + PQ^2 - 2PR.PQ \cos\hat{P} & \checkmark \text{ using cos rule / gebruik cos reël} \\
+& QR^2 = (3)^2 + (9,2)^2 - 2(3)(9,2)\cos 67^\circ & \checkmark \text{ substitution / vervanging} \\
+& QR = \sqrt{(3)^2 + (9,2)^2 - 2(3)(9,2)\cos 67^\circ} & \\
+& QR = 8,49\text{cm} & \checkmark \text{ answer / antwoord} \\
+& & (3) \\
+\hline
+\end{array}$$
+
+---
+
+$$\begin{array}{|l|l|l|}
+\hline
+7.2.1 & A\hat{C}D = \theta - \alpha & \checkmark \text{ answer / antw.} \\
+& & (1) \\
+\hline
+7.2.2 & \hat{D}_1 = 90^\circ + \alpha & \checkmark \hat{D}_1 = 90^\circ + \alpha \\
+& \frac{\sin(90^\circ + \alpha)}{h} = \frac{\sin(\theta - \alpha)}{AD} & \checkmark \frac{\sin(90^\circ + \alpha)}{h} \\
+& \frac{\cos \alpha}{h} = \frac{\sin(\theta - \alpha)}{AD} & \checkmark \frac{\sin(\theta - \alpha)}{AD} \\
+& AD = \frac{h \sin(\theta - \alpha)}{\cos \alpha} & \checkmark \sin(90^\circ + \alpha) = \cos \alpha \\
+& & (4) \\
+\hline
+7.2.3 & AD = \frac{17 \sin(58^\circ - 23^\circ)}{\cos 23^\circ} & \checkmark \text{ subst / verv.} \\
+& AD = 10,59 \text{ units} & \checkmark \text{ answer / antw.} \\
+& & (2) \\
+\hline
+7.2.4 & \text{Area of / van } \Delta ADC = \frac{1}{2} \times AD \times AC \times \sin\hat{A} & \checkmark \text{ correct area rule / korrekte area reël} \\
+& = \frac{1}{2} \times 10,59 \times 17 \times \sin 32^\circ & \checkmark 32^\circ \\
+& = 47,70 \text{ unit}^2 & \checkmark \text{ answer / antw.} \\
+& & (3) \\
+& \textbf{OR / OF} & \\
+& \sin 58^\circ = \frac{AB}{17} & \\
+& AB = 17 \sin 58^\circ = 14,41682\dots & \\
+& BD = 14,41682\dots - 10,59289\dots = 3,82393\dots & \\
+& \sin 23^\circ = \frac{3,82393\dots}{CD} & \checkmark \text{ length of } BD / \text{ lengte van } BD \\
+& CD = \frac{3,82393\dots}{\sin 23^\circ} = 9,78660\dots & \checkmark \text{ length of } CD / \text{ lengte van } CD \\
+& \text{Area of / van } \Delta ADC = \frac{1}{2} \times CD \times AC \times \sin 35^\circ & \\
+& = \frac{1}{2} \times 9,78660\dots \times 17 \times \sin 35^\circ & \\
+& = 47,71 \text{ unit}^2 & \checkmark \text{ answer / antw.} \\
+& & (3) \\
+\hline
+& & \mathbf{[28]} \\
+\hline
+\end{array}$$
+
+---
+
+### QUESTION / VRAAG 8
+
+$$\begin{array}{|l|l|l|}
+\hline
+8.1 & r^2 = 13^2 - h^2 \quad (\text{Pythagoras}) & \checkmark \text{ using theorem of pythagoras / gebruik stelling van pythagoras}

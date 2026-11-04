@@ -1,0 +1,422 @@
+**NATIONAL SENIOR CERTIFICATE**
+**GRADE 12**
+
+**PHYSICAL SCIENCES: PHYSICS (P1)**
+**NOVEMBER 2025**
+
+**MARKS: 150**  
+**TIME: 3 hours**
+
+---
+
+### INSTRUCTIONS AND INFORMATION
+
+1. Write your centre number and examination number in the appropriate spaces on the ANSWER BOOK.
+2. This question paper consists of TEN questions. Answer ALL the questions in the ANSWER BOOK.
+3. Start EACH question on a NEW page in the ANSWER BOOK.
+4. Number the answers correctly according to the numbering system used in this question paper.
+5. Leave ONE line between two subquestions, e.g. between QUESTION 2.1 and QUESTION 2.2.
+6. You may use a non-programmable calculator.
+7. Show ALL formulae and substitutions in ALL calculations.
+8. Round off your FINAL numerical answers to a minimum of TWO decimal places.
+9. Give brief motivations, discussions, etc. where required.
+10. You are advised to use the attached DATA SHEETS.
+11. Write neatly and legibly.
+
+---
+
+### QUESTION 1: MULTIPLE-CHOICE QUESTIONS
+
+Various options are provided as possible answers to the following questions. Each question has only ONE correct answer. Choose the answer and write only the letter (A–D) next to the question numbers (1.1 to 1.10) in the ANSWER BOOK, e.g. 1.11 E.
+
+1.1 The net force acting on an object on a horizontal surface is always …
+
+A in the direction of motion of the object.  
+B in the direction of acceleration of the object.  
+C zero when the object moves at constant acceleration.  
+D increasing when the object moves at constant acceleration.  
+(2)
+
+1.2 A hot-air balloon is moving upwards at a constant velocity. A small stone is dropped from THE BALLOON. Which ONE of the following graphs represents the motions of the balloon and the stone?
+
+Ignore the effects of friction on the stone.
+
+A  
+[DIAGRAM: Velocity-time graph showing a horizontal line for the balloon and a line with positive gradient starting above zero for the stone.]  
+B  
+[DIAGRAM: Velocity-time graph showing a horizontal line for the balloon and a line with negative gradient crossing the time axis for the stone.]  
+C  
+[DIAGRAM: Velocity-time graph showing a horizontal line for the balloon and a line starting below zero with a positive gradient for the stone.]  
+D  
+[DIAGRAM: Velocity-time graph showing a horizontal line for the balloon and a line starting at zero with a positive gradient for the stone.]  
+(2)
+
+1.3 A motor fixed to the ground is used to lift a box vertically upwards at a CONSTANT VELOCITY.
+
+[DIAGRAM: A motor on the ground connected by a string over a pulley to a box moving upwards.]
+
+Consider the statements below for the upward motion of the box.
+
+(i) The rate at which work is done by the motor on the box increases.  
+(ii) The rate at which work is done by the motor on the box is constant.  
+(iii) The mechanical energy of the box increases.  
+(iv) The mechanical energy of the box is constant.
+
+Which of the statements above are CORRECT?
+
+A (i) and (iii) only  
+B (ii) and (iv) only  
+C (ii) and (iii) only  
+D (i) and (iv) only  
+(2)
+
+1.4 Objects $P$ and $Q$, with masses $m$ and $2m$ respectively, have the same momentum.
+
+[DIAGRAM: Two blocks $P$ of mass $m$ and $Q$ of mass $2m$ on a horizontal surface.]
+
+The velocity of $P$ is …
+
+A equal to the velocity of $Q$.  
+B half the velocity of $Q$.  
+C twice the velocity of $Q$.  
+D four times the velocity of $Q$.  
+(2)
+
+1.5 A block moves along a rough horizontal surface while a horizontal force $F$ of magnitude $18\text{ N}$ and a constant kinetic frictional force of magnitude $6\text{ N}$ act on it.
+
+[DIAGRAM: A block on a surface with a leftward force $f_k = 6\text{ N}$ and a rightward force $F = 18\text{ N}$.]
+
+Which ONE of the following combinations of ACCELERATION and NET WORK DONE ON THE BLOCK is CORRECT?
+
+| | ACCELERATION | NET WORK DONE ON THE BLOCK |
+|---|---|---|
+| A | Constant | Increases |
+| B | Increases | Constant |
+| C | Increases | Increases |
+| D | Constant | Constant |
+
+(2)
+
+1.6 A star's spectrum, observed from Earth, is red shifted. Which ONE of the following statements is CORRECT?
+
+A The speed of light is increasing.  
+B The star is moving towards Earth.  
+C The frequency of each spectral line has increased.  
+D The wavelength of each spectral line has increased.  
+(2)
+
+1.7 Three point charges, $Q_1$, $Q_2$ and $Q_3$, are fixed in a straight line. $Q_1$ is $r\text{ metres}$ from $Q_2$, while $Q_3$ is $2r\text{ metres}$ from $Q_2$, as shown in the diagram below.
+
+[DIAGRAM: Three charges in a line: $Q_1$ separated by distance $r$ from $Q_2$, and $Q_3$ separated by distance $2r$ from $Q_2$.]
+
+The magnitude of the charge on $Q_2$ is $q$. The net electrostatic force on charge $Q_1$ is zero.
+
+What is the magnitude of charge $Q_3$ in terms of $q$?
+
+A $\frac{1}{9}q$  
+B $\frac{1}{3}q$  
+C $3q$  
+D $9q$  
+(2)
+
+1.8 Three identical light bulbs, $X$, $Y$ and $Z$, are connected in a circuit, as shown in the diagram below. Switch $S$ is initially closed.
+
+Ignore the internal resistance of the battery.
+
+[DIAGRAM: Circuit diagram with a DC source, bulbs $X$ in the main branch, switch $S$ in series with $Z$, and $Y$ in parallel with the branch containing $S$ and $Z$.]
+
+Switch $S$ is now opened.
+
+How will the brightness of bulbs $X$ and $Y$ be affected?
+
+| | BRIGHTNESS OF BULB $X$ | BRIGHTNESS OF BULB $Y$ |
+|---|---|---|
+| A | Increases | Decreases |
+| B | Decreases | Increases |
+| C | Increases | Increases |
+| D | Decreases | Decreases |
+
+(2)
+
+1.9 How does the commutator in a DC motor ensure that the coil rotates continuously in ONE direction?
+
+A By reducing friction  
+B By converting AC to DC  
+C By reversing the direction of the current in the coil  
+D By maintaining electrical contact between the external and the internal circuits  
+(2)
+
+1.10 Light of different wavelengths is incident on a metal surface.
+
+Which ONE of the following graphs shows the CORRECT relationship between the maximum kinetic energy of the photoelectrons, $E_{k(\max)}$, and the inverse of the wavelength of the incident light, $\frac{1}{\lambda}$?
+
+A  
+[DIAGRAM: $E_{k(\max)}$ vs $\frac{1}{\lambda}$ graph with a line starting from the origin and having a positive gradient.]  
+B  
+[DIAGRAM: $E_{k(\max)}$ vs $\frac{1}{\lambda}$ graph with a line going downwards from the origin.]  
+C  
+[DIAGRAM: $E_{k(\max)}$ vs $\frac{1}{\lambda}$ graph with a line starting on the $\frac{1}{\lambda}$ axis above zero and having a positive gradient.]  
+D  
+[DIAGRAM: $E_{k(\max)}$ vs $\frac{1}{\lambda}$ graph with a line starting on the $\frac{1}{\lambda}$ axis and having a negative gradient.]  
+(2)
+
+**[20]**
+
+---
+
+### QUESTION 2 (Start on a new page.)
+
+A block of mass $5\text{ kg}$ is at rest on a rough horizontal surface. When a constant force $F$ of magnitude $18\text{ N}$ acts on the block at an angle $\theta$ to the horizontal, the block experiences maximum static friction. See the diagram below.
+
+[DIAGRAM: A block of mass $5\text{ kg}$ on a horizontal surface being pulled by a force $F = 18\text{ N}$ at an angle $\theta$ above the horizontal.]
+
+2.1 State Newton's Second Law of Motion in words. (2)
+
+2.2 Draw a labelled free-body diagram showing ALL the forces acting on the block. (4)
+
+2.3 The horizontal component of force $F$ is $15\text{ N}$.
+
+Calculate:
+
+2.3.1 $\theta$ (2)
+
+2.3.2 The coefficient of static friction (5)
+
+2.4 Angle $\theta$ is decreased while the magnitude of force $F$ remains constant.
+
+How will the friction acting on the block be affected? Choose from INCREASES, DECREASES or REMAINS THE SAME. Explain the answer. (4)
+
+**[17]**
+
+---
+
+### QUESTION 3 (Start on a new page.)
+
+A ball is projected vertically upwards from the top of a building that is $5\text{ m}$ high. Ignore the effects of friction.
+
+[DIAGRAM: A building of height $5\text{ m}$ with a ball being projected upwards from the top.]
+
+The table below shows the magnitude of the velocity of the ball at THREE different times during its motion.
+
+| TIME ($\text{s}$) | MAGNITUDE OF VELOCITY ($\text{m}\cdot\text{s}^{-1}$) |
+|---|---|
+| $0$ | $15$ |
+| $p$ | $0$ |
+| $3,36$ | $q$ |
+
+3.1 Define the term free fall. (2)
+
+3.2 Using EQUATIONS OF MOTION ONLY, calculate the value of $p$. (3)
+
+The ball strikes the ground $3,36\text{ seconds}$ after it was thrown upwards.
+
+3.3 Calculate $q$. (3)
+
+The ball bounces to a maximum height of $3\text{ m}$ after it struck the ground.
+
+3.4 Is the collision with the ground ELASTIC or INELASTIC?
+
+Explain the answer WITHOUT the use of calculations. (3)
+
+3.5 Sketch a velocity versus time graph for the motion of the ball from the time it was projected until it reached the maximum height after it bounced.
+
+Show the following NUMERICAL VALUES on the graph:
+- The initial velocity
+- Time $p$
+- Velocity $q$ 
+(4)
+
+**[15]**
+
+---
+
+### QUESTION 4 (Start on a new page.)
+
+Cricketers at an academy conduct an experiment to determine the relationship between the contact time and the final momentum of a ball for a constant average net force.
+
+A cricket ball of mass $150\text{ g}$ is thrown horizontally with a certain initial velocity and is struck by a bat so that the ball moves in the opposite direction, as shown in the diagram below. The average net force acting on the ball is horizontal.
+
+[DIAGRAM: A bat striking a ball travelling with initial velocity $v_i$, sending it in the opposite direction with final velocity $v_f$.]
+
+The experiment is repeated using the same ball. The average net force and the initial velocity of the ball are kept constant. The contact time between the bat and the ball is changed EACH time. The results obtained are shown in the sketch graph below.
+
+[DIAGRAM: A graph of Final momentum $p_f$ versus Contact time $\Delta t$ passing through a negative intercept on the $p_f$ axis at $\Delta t = 0$, crossing the time axis at $0,01\text{ s}$, and reaching $4,5\text{ kg}\cdot\text{m}\cdot\text{s}^{-1}$ at $\Delta t = 0,03\text{ s}$.]
+
+4.1 Define the term impulse. (2)
+
+4.2 Calculate the:
+
+4.2.1 Average net force acting on the ball (3)
+
+4.2.2 Magnitude of the initial velocity of the ball (4)
+
+4.3 Redraw the graph in the ANSWER BOOK and label it as A.
+
+On the same set of axes, draw the graph that will be obtained when a ball with a bigger mass is used, without changing the initial velocity and average net force. Label this as B. (2)
+
+**[11]**
+
+---
+
+### QUESTION 5 (Start on a new page.)
+
+A crate of mass $3\text{ kg}$ is at rest at point A on a frictionless horizontal surface. A constant horizontal force $F$ of $12\text{ N}$ acts on the crate and moves it from point A to point B. The crate then moves down a rough plane, inclined at $20^\circ$ to the horizontal. The distance from point A to point B is $7\text{ m}$ and from point B to point C is $6,8\text{ m}$, as shown in the diagram below.
+
+[DIAGRAM: A crate moving from point A to B over a horizontal distance of $7\text{ m}$ under a force $F = 12\text{ N}$, then moving down an inclined plane at $20^\circ$ of length $6,8\text{ m}$ from B to C.]
+
+5.1 State the work-energy theorem in words. (2)
+
+5.2 Using ENERGY PRINCIPLES ONLY, calculate the kinetic energy of the crate at point B. (3)
+
+Force $F$ is removed when the crate reaches point B. The crate then experiences a constant frictional force of $21\text{ N}$ as it moves down the incline.
+
+5.3 Draw a free-body diagram showing ALL the forces acting on the crate as it moves down the incline. (3)
+
+5.4 Using ENERGY PRINCIPLES ONLY, determine whether the crate will pass point C. (5)
+
+**[13]**
+
+---
+
+### QUESTION 6 (Start on a new page.)
+
+An investigation is performed to determine the relationship between the velocity of a moving sound source and the frequency of the sound detected.
+
+The siren of an ambulance produces sound with a constant frequency. The ambulance, with its siren on, moves towards a stationary sound detector (Part A) and away from the stationary sound detector (Part B) at constant velocities. The experiment is repeated for different velocities of the ambulance. The detected frequency is measured for EACH velocity. The results obtained are shown in the graph below.
+
+[DIAGRAM: Part A: Ambulance moving towards sound detector. Part B: Ambulance moving away from sound detector. Below is a graph of Detected frequency (Hz) vs Velocity of the ambulance ($\text{m}\cdot\text{s}^{-1}$), showing two linear lines starting at the same intercept ($1115\text{ Hz}$ or similar): one increasing to $1298\text{ Hz}$ at $25\text{ m}\cdot\text{s}^{-1}$ (towards) and one decreasing.]
+
+6.1 STATE the Doppler effect. (2)
+
+6.2 For this experiment, write down:
+
+6.2.1 The independent variable (1)
+
+6.2.2 A controlled variable (1)
+
+6.3 What conclusion can be made for Part B of this experiment? (2)
+
+6.4 Calculate the speed of sound in air. (6)
+
+**[12]**
+
+---
+
+### QUESTION 7 (Start on a new page.)
+
+A sphere X is placed at point A on a horizontal surface. X carries a charge of $+3 \times 10^{-7}\text{ C}$. Point P is $r\text{ metres}$ to the left of point A.
+
+[DIAGRAM: Point P at distance $r$ to the left of sphere X located at point A.]
+
+The magnitude of the electric field at point P is $1,08 \times 10^6\text{ N}\cdot\text{C}^{-1}$.
+
+7.1 Describe an electric field. (2)
+
+7.2 Draw the electric field pattern due to the charge on sphere X. (2)
+
+7.3 Show, by means of a calculation, that $r = 0,05\text{ m}$. (3)
+
+Sphere Y, carrying a charge of $-5 \times 10^{-7}\text{ C}$, is now fixed at point P and sphere Z, carrying a charge of $-4 \times 10^{-7}\text{ C}$, is fixed $0,04\text{ m}$ to the right of sphere X.
+
+[DIAGRAM: Three charges: Sphere Y ($-5 \times 10^{-7}\text{ C}$) at distance $r$, Sphere X ($+3 \times 10^{-7}\text{ C}$) at A, and Sphere Z ($-4 \times 10^{-7}\text{ C}$) at distance $0,04\text{ m}$ to the right of X.]
+
+7.4 The NET FORCE acting on sphere X is $0,0427\text{ N}$ at point A.
+
+Is the surface frictionless? Choose from YES or NO. Explain the answer by means of a calculation. (6)
+
+7.5 Sphere Y is brought into contact with sphere X, and is placed back in its original position.
+
+How will the magnitude of the force that sphere X now exerts on sphere Y be affected? Choose from INCREASES, DECREASES or REMAINS THE SAME. (2)
+
+**[15]**
+
+---
+
+### QUESTION 8 (Start on a new page.)
+
+Two identical headlights, $L_1$ and $L_2$, and a starter motor, $M$, of a car are connected to a battery, as shown in the circuit diagram below. The resistance of each headlight is $12\ \Omega$, while the resistance of the starter motor is $0,1\ \Omega$. The emf ($\mathcal{E}$) and internal resistance ($r$) of the battery are unknown.
+
+The ammeters and the connecting wires have negligible resistance, while the voltmeter has a high resistance. Switches $S_1$ and $S_2$ are initially open.
+
+[DIAGRAM: Circuit diagram showing a battery with internal resistance $r$ and emf $\mathcal{E}$, ammeters $A_1$ and $A_2$, voltmeter $V$, headlights $L_1$ ($12\ \Omega$) and $L_2$ ($12\ \Omega$) in a parallel-like configuration controlled by switch $S_1$, and a starter motor ($0,1\ \Omega$) controlled by switch $S_2$.]
+
+8.1 Define the term emf. (2)
+
+8.2 Switch $S_1$ remains open while switch $S_2$ is closed. The reading on ammeter $A_2$ is $120\text{ A}$.
+
+Calculate the reading on the voltmeter. (3)
+
+8.3 Switch $S_1$ is now closed and switch $S_2$ is opened. The power dissipated by each headlight is $15\text{ W}$.
+
+8.3.1 Calculate the current passing through $L_1$. (3)
+
+8.3.2 Write down the reading on ammeter $A_1$. (1)
+
+8.4 Calculate the emf of the battery. (6)
+
+8.5 Both switches are now closed.
+
+How will the reading on ammeter $A_1$ be affected? Choose from INCREASES, DECREASES or REMAINS THE SAME.
+
+Explain the answer WITHOUT the use of a calculation. (5)
+
+**[20]**
+
+---
+
+### QUESTION 9 (Start on a new page.)
+
+An AC generator operates a fan. The directions of the rotation of the coil and the induced current are shown in the simplified diagram below.
+
+[DIAGRAM: Simplified AC generator showing magnetic poles, a rotating coil, slip rings, brushes, a voltmeter $V$, and a fan.]
+
+9.1 Define the term rms potential difference. (2)
+
+9.2 What is the polarity of the magnet at Z? (2)
+
+9.3 The resistance of the fan is $60\ \Omega$ and the maximum potential difference produced by the generator is $311,11\text{ V}$. Calculate the cost of operating the fan for $1,5\text{ hours}$ if the cost of electricity is R3,33 per kWh. (5)
+
+The voltage versus time graph for this generator is given below.
+
+[DIAGRAM: Voltage versus time sinusoidal graph completing one full cycle at $t = 4\text{ s}$ with a peak.]
+
+9.4 Redraw this graph in the ANSWER BOOK and label it as A. On the same set of axes, draw the graph for ONE rotation of the coil when the speed of rotation is doubled. Label this as graph B. (3)
+
+9.5 State ONE way in which this generator can be changed to a DC generator. (1)
+
+**[13]**
+
+---
+
+### QUESTION 10 (Start on a new page.)
+
+10.1 Learners conduct an experiment to determine whether electrons will be emitted from the surface of different metals when light with a single frequency is incident on the metal. The maximum kinetic energy of emitted electrons are measured when light of frequency $1,045 \times 10^{15}\text{ Hz}$ is used.
+
+The results obtained are shown in the table below.
+
+| METALS | ELECTRONS EMITTED | MAXIMUM KINETIC ENERGY ($\text{J}$) |
+|---|---|---|
+| Zinc | Yes | $0$ |
+| Sodium | Yes | $2,53 \times 10^{-19}$ |
+| Caesium | Yes | $3,50 \times 10^{-19}$ |
+| Metal M | No | – |
+
+10.1.1 Define the term work function. (2)
+
+10.1.2 Write down the threshold frequency of zinc. (1)
+
+10.1.3 How does the work function of sodium compare to that of caesium? Choose from SMALLER THAN, GREATER THAN or EQUAL TO. Explain the answer. (3)
+
+10.1.4 Light of the same frequency, but with a higher intensity, is now incident on metal M. Will electrons now be ejected? Choose from YES or NO. Give a reason for the answer. (2)
+
+10.2 The energy diagram below (NOT drawn to scale) shows the electron energies in different energy levels, $E_1$, $E_2$ and $E_3$, of a certain atom.
+
+[DIAGRAM: Energy level diagram showing $E_3 = 5,7 \times 10^{-19}\text{ J}$, $E_2 = 5,1 \times 10^{-19}\text{ J}$, and $E_1 = 1,3 \times 10^{-19}\text{ J}$ with upward pointing increasing energy arrow.]
+
+10.2.1 An electron of this atom moves from $E_3$ to $E_1$. Photon X is emitted. Calculate the frequency of photon X. (4)
+
+10.2.2 Is it possible for a photon with an energy of $2,5 \times 10^{-19}\text{ J}$ to be emitted from this atom? Choose from YES or NO. Give a reason for the answer. (2)
+
+**[14]**
+
+**TOTAL: 150**

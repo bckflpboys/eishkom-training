@@ -1,0 +1,321 @@
+**NASIONALE SENIOR SERTIFIKAAT**
+
+**GRAAD 12**
+
+---
+
+**WISKUNDE V2**
+**NOVEMBER 2023**
+
+**PUNTE: 150**
+**TYD: 3 uur**
+
+---
+
+### INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies aandagtig deur voordat jy die vrae beantwoord.
+
+1. Hierdie vraestel bestaan uit 10 vrae.
+2. Beantwoord AL die vrae in die SPESIALE ANTWOORDEBOEK wat verskaf word.
+3. Dui ALLE berekeninge, diagramme, grafieke, ens. wat jy in die beantwoording van die vrae gebruik, duidelik aan.
+4. Slegs antwoorde sal NIE noodwendig volpunte verdien NIE.
+5. Jy mag 'n goedgekeurde wetenskaplike sakrekenaar gebruik (nieprogrammeerbaar en niegrafies), tensy anders vermeld.
+6. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders vermeld.
+7. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+8. 'n Inligtingsblad met formules is aan die einde van die vraestel ingesluit.
+9. Skryf netjies en leesbaar.
+
+---
+
+## VRAAG 1
+
+Vragmotorbestuurders ry 'n sekere afstand en neem 'n kort ruskans voordat hulle verder reis. 'n Bestuurder het rekord gehou van die afstand (in km) wat hy oor 8 ritte afgelê het en die hoeveelheid rustyd (in minute) voordat hy sy reis voortgesit het. Die inligting word in die tabel hieronder gegee.
+
+| Afstand gery (in km) ($x$) | 180 | 200 | 400 | 600 | 170 | 350 | 270 | 300 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Hoeveelheid rustyd (in minutes) ($y$) | 20 | 25 | 55 | 120 | 15 | 50 | 40 | 45 |
+
+1.1 Bepaal die vergelyking van die kleinstekwadrate-regressielyn vir die data. (3)
+
+1.2 Indien 'n vragmotorbestuurder $550\text{ km}$ gereis het, voorspel die hoeveelheid tyd (in minute) wat hy moet rus voordat hy sy reis voortgaan. (2)
+
+1.3 Skryf die korrelasiekoëffisiënt vir die data neer. (1)
+
+1.4 Interpreteer jou antwoord op VRAAG 1.3. (1)
+
+1.5 By elke stopplek het die vragmotorbestuurder geld aan kos en ander verversings gespandeer. Die bedrag gespandeer (in rand) word in die tabel hieronder gegee.
+
+| 100 | 150 | 130 | 200 | 50 | 180 | 200 | 190 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+
+1.5.1 Bereken die gemiddelde bedrag geld wat hy by elke stopplek gespandeer het. (2)
+
+1.5.2 Bereken die standaardafwyking van die data. (1)
+
+1.5.3 By hoeveel stopplekke het die vragmotorbestuurder 'n bedrag gespandeer wat minder as een standaardafwyking onder die gemiddelde was? (2)
+
+**[12]**
+
+---
+
+## VRAAG 2
+
+By 'n sekere skool wou die personeelkomitee bepaal hoeveel glase water die personeel gedurende 'n skooldag drink. Alle personeel teenwoordig op 'n spesifieke dag is ondervra. Die inligting word in die tabel hieronder getoon.
+
+| AANTAL GLASE WATER PER DAG GEDRINK | GETAL PERSONEELLEDE |
+| :---: | :---: |
+| $0 \le x < 2$ | 5 |
+| $2 \le x < 4$ | 15 |
+| $4 \le x < 6$ | 13 |
+| $6 \le x < 8$ | 5 |
+| $8 \le x < 10$ | 2 |
+
+2.1 Voltooi die kumulatiewefrekwensie-kolom wat in die tabel in die ANTWOORDEBOEK verskaf word. (2)
+
+2.2 Met hoeveel personeellede is onderhoude gevoer? (1)
+
+2.3 Hoeveel personeellede het minder as $6\text{ glase}$ water gedurende 'n skooldag gedrink? (1)
+
+2.4 Die personeelkomitee het waargeneem dat $k$ personeellede op die dag van die onderhoude afwesig was. Daar is gevind dat die helfte van hierdie $k$ personeellede van $0$ tot minder as $2$ (dit wil sê $0 \le x < 2$) glase water per dag gedrink het, terwyl die res van hulle van $4$ tot minder as $6$ (dit wil sê $4 \le x < 6$) glase water per dag gedrink het. Wanneer hierdie $k$ onderwysers by die data ingereken word, is die benaderde gemiddelde $4\text{ glase}$ per personeellid per dag.
+
+Hoeveel personeellede was op die dag van die onderhoude afwesig? (4)
+
+**[8]**
+
+---
+
+## VRAAG 3
+
+[DIAGRAM: Cartesian plane showing triangle $LSN$ with $S(4; 5)$, $L(-4; 1)$, and $N(-2; -3)$. $SL \perp LN$. $LN$ intersects the $x$-axis at point $K$. Angle of inclination $\theta$ of line $SN$ is shown.]
+
+In die figuur is $L(-4; 1)$, $S(4; 5)$ en $N(-2; -3)$ die hoekpunte van 'n driehoek met $S\hat{L}N = 90^\circ$. $LN$ sny die $x$-as by $K$.
+
+3.1 Bereken die lengte van $SL$. Laat jou antwoord in wortelvorm. (2)
+
+3.2 Bereken die gradiënt van $SN$. (2)
+
+3.3 Bereken die grootte van $\theta$, die inklinasiehoek van $SN$. (2)
+
+3.4 Bereken die grootte van $L\hat{N}S$. (3)
+
+3.5 Bepaal die vergelyking van die lyn wat deur $L$ gaan en parallel aan $SN$ is. Skryf jou antwoord in die vorm $y = mx + c$. (3)
+
+3.6 Bereken die oppervlak van $\Delta LSN$. (3)
+
+3.7 Bereken die koördinate van punt $P$, wat ewe ver van $L$, $S$ en $N$ is. (3)
+
+3.8 Bereken die grootte van $L\hat{P}S$. (2)
+
+**[20]**
+
+---
+
+## VRAAG 4
+
+[DIAGRAM: Two circles. Smaller circle centered at origin $O$, and a larger circle centered at $G(t; 0)$. A common tangent passes through $D$ on the smaller circle and $F$ on the larger circle, with $E$ as the midpoint of $DF$. $D(p; -2)$ lies in the 4th quadrant.]
+
+In die diagram is $O$ die middelpunt van die sirkel met vergelyking $x^2 + y^2 = 20$. $G(t; 0)$ is die middelpunt van die groter sirkel. 'n Gemeenskaplike raaklyn raak die sirkels by $D$ en $F$ onderskeidelik, sodanig dat $D(p; -2)$ in die $4^{\text{de}}$ kwadrant lê.
+
+4.1 Dit word gegee dat $D(p; -2)$ op die kleiner sirkel lê. Toon dat $p = 4$. (2)
+
+4.2 $E(6; 2)$ is die middelpunt van $DF$. Bepaal die koördinate van $F$. (3)
+
+4.3 Bepaal die vergelyking van die gemeenskaplike raaklyn, $DF$, in die vorm $y = mx + c$. (4)
+
+4.4 Bereken die waarde van $t$. Toon ALLE berekeninge. (3)
+
+4.5 Bepaal die vergelyking van die groter sirkel in die vorm $ax^2 + by^2 + cx + dy + e = 0$. (4)
+
+4.6 Die kleiner sirkel moet $k\text{ eenhede}$ langs die $x$-as getransleer word sodat dit die groter sirkel inwendig raak. Bereken die moontlike waardes van $k$. (4)
+
+**[20]**
+
+---
+
+## VRAAG 5
+
+5.1 Gegee: $\sin \beta = -\frac{1}{3}$, waar $\beta \in (90^\circ; 270^\circ)$
+
+Sonder die gebruik van 'n sakrekenaar, bepaal elk van die volgende:
+
+5.1.1 $\cos \beta$ (3)
+
+5.1.2 $\sin 2\beta$ (3)
+
+5.1.3 $\cos(450^\circ - \beta)$ (3)
+
+5.2 Gegee: $\frac{\cos^4 x + \sin^2 x \cdot \cos^2 x}{1 + \sin x}$
+
+5.2.1 Bewys dat $\frac{\cos^4 x + \sin^2 x \cdot \cos^2 x}{1 + \sin x} = 1 - \sin x$ (4)
+
+5.2.2 Vir watter waarde(s) van $x$ in die interval $x \in [0^\circ; 360^\circ]$ is $\frac{\cos^4 x + \sin^2 x \cdot \cos^2 x}{1 + \sin x}$ ongedefinieerd? (2)
+
+5.2.3 Skryf die minimum waarde neer van die funksie gedefinieer deur $y = \frac{\cos^4 x + \sin^2 x \cdot \cos^2 x}{1 + \sin x}$ (2)
+
+5.3 Gegee: $\cos(A - B) = \cos A \cos B + \sin A \sin B$
+
+5.3.1 Gebruik die identiteit hierbo om af te lei dat $\sin(A - B) = \sin A \cos B - \cos A \sin B$ (3)
+
+5.3.2 Bepaal vervolgens of andersins die algemene oplossing van die vergelyking $\sin 48^\circ \cos x - \cos 48^\circ \sin x = \cos 2x$ (5)
+
+5.4 Vereenvoudig $\frac{\sin 3x + \sin x}{\cos 2x + 1}$ tot 'n enkele trigonometriese verhouding. (6)
+
+**[31]**
+
+---
+
+## VRAAG 6
+
+In die diagram is die grafieke van $f(x) = 2 \sin 2x$ en $g(x) = -\cos(x + 45^\circ)$ vir die interval $x \in [0^\circ; 180^\circ]$ geskets. $A(105^\circ; -1)$ is 'n punt op $f$.
+
+[DIAGRAM: Graphs of $f(x) = 2 \sin 2x$ and $g(x) = -\cos(x + 45^\circ)$ for $x \in [0^\circ; 180^\circ]$ plotted on a Cartesian plane. $f$ has a peak and trough, passing through the origin. $g$ starts at $-1/\sqrt{2}$ approximately and rises to $1$. Point $A(105^\circ; -1)$ is on $f$.]
+
+6.1 Skryf die periode van $f$ neer. (1)
+
+6.2 Bepaal die waardeversameling van $g$ in die interval $x \in [0^\circ; 180^\circ]$. (2)
+
+6.3 Bepaal die waardes van $x$, in die interval $x \in [0^\circ; 180^\circ]$, waarvoor:
+
+6.3.1 $f(x) \cdot g(x) > 0$ (2)
+
+6.3.2 $\frac{f(x)}{+1} \le 0$ (Note: text says $f(x) + 1 \le 0$) (2)
+
+6.4 'n Ander grafiek $p$ word as $p(x) = -f(x)$ gedefinieer. $D(k; -1)$ lê op $p$. Bepaal die waarde(s) van $k$ in die interval $x \in [0^\circ; 180^\circ]$. (3)
+
+6.5 Grafiek $h$ word verkry wanneer $g$ $45^\circ$ na links getransleer word. Bepaal die vergelyking van $h$. Skryf jou antwoord in sy eenvoudigste vorm. (2)
+
+**[12]**
+
+---
+
+## VRAAG 7
+
+[DIAGRAM: 3D pyramid with vertical tower $RS$ on a horizontal plane $STK$. Angle of elevation of $R$ from $K$ is $\beta$. $T\hat{S}K = \alpha$, $TS = p$ metres, and the area of $\Delta STK$ is $q\text{ m}^2$.]
+
+In die diagram lê $S$, $T$ en $K$ in dieselfde horisontale vlak. $RS$ is 'n vertikale toring. Die dieptehoek van $R$ na $K$ is $\beta$. $T\hat{S}K = \alpha$, $TS = p$ meter en die oppervlak van $\Delta STK$ is $q\text{ m}^2$.
+
+7.1 Bepaal die lengte van $SK$ in terme van $p$, $q$ en $\alpha$. (2)
+
+7.2 Toon dat $RS = \frac{2q \tan \beta}{p \sin \alpha}$ (2)
+
+7.3 Bereken die grootte van $\alpha$ as $\alpha < 90^\circ$ en $RS = 70\text{ m}$, $p = 80\text{ m}$, $q = 2500\text{ m}^2$ en $\beta = 42^\circ$. (3)
+
+**[7]**
+
+---
+
+## VRAAG 8
+
+8.1 In die diagram is $O$ die middelpunt van die sirkel.
+
+[DIAGRAM: Circle with center $O$. Chord $PT$ subtends angle $P\hat{O}T$ at the center and angle $P\hat{K}T$ at the circumference.]
+
+Gebruik die diagram hierbo om die stelling te bewys wat sê dat die hoek wat onderspan word deur 'n koord by die middelpunt van die sirkel, gelyk is aan twee keer die hoek wat deur dieselfde koord op die omtrek van die sirkel onderspan word, met ander woorde, bewys dat $T\hat{O}P = 2T\hat{K}P$. (5)
+
+8.2 In die diagram is $O$ die middelpunt van die sirkel en $ABCD$ is 'n koordevierhoek. $OB$ en $OD$ word getrek.
+
+[DIAGRAM: Cyclic quadrilateral $ABCD$ inscribed in a circle with center $O$. $OB$ and $OD$ are joined. Angles $\hat{O}_1, \hat{O}_2, \hat{D}_1, \hat{D}_2, \hat{B}_1, \hat{B}_2, \hat{C}$ are indicated.]
+
+Indien $\hat{O}_1 = 4x + 100^\circ$ en $\hat{C} = x + 34^\circ$, bereken, met redes, die grootte van $x$. (5)
+
+8.3 In die diagram is $O$ die middelpunt van die groter sirkel. $OB$ is 'n middellyn van die kleiner sirkel. Koord $AB$ van die groter sirkel sny die kleiner sirkel by $M$ en $B$.
+
+[DIAGRAM: Two intersecting circles. Larger circle has center $O$. Smaller circle has diameter $OB$. Chord $AB$ of the larger circle intersects the smaller circle at $M$ and $B$. Radius $OM$ is drawn.]
+
+8.3.1 Skryf die grootte van $O\hat{M}B$ neer. Verskaf 'n rede. (2)
+
+8.3.2 Indien $AB = \sqrt{300}$ eenhede en $OM = 5$ eenhede, bereken, met redes, die lengte van $OB$. (4)
+
+**[16]**
+
+---
+
+## VRAAG 9
+
+[DIAGRAM: Parallelogram $ABCD$ with $AB = 14$ units. $AD$ is extended to $E$ such that $AD : DE = 4 : 3$. $EB$ intersects $DC$ at $F$. $EB = 21$ units.]
+
+In die diagram is $ABCD$ 'n parallelogram met $AB = 14\text{ eenhede}$. $AD$ word na $E$ verleng sodat $AD : DE = 4 : 3$. $EB$ sny $DC$ by $F$. $EB = 21\text{ eenhede}$.
+
+9.1 Bereken, met redes, die lengte van $FB$. (3)
+
+9.2 Bewys, met redes, dat $\Delta EDF \parallel\parallel\parallel \Delta EAB$. (3)
+
+9.3 Bereken, met redes, die lengte van $FC$. (3)
+
+**[9]**
+
+---
+
+## VRAAG 10
+
+[DIAGRAM: Cyclic quadrilateral $PQRS$ with $PQ = PR$. Tangents at $P$ and $R$ intersect at $A$. $RS$ extended meets tangent $AP$ at $B$. $PS$ extended meets tangent $AR$ at $C$. $PR$ and $QS$ intersect at $M$. Various angles numbered 1 to 6.]
+
+In die diagram is $PQRS$ 'n koordevierhoek sodat $PQ = PR$. Die raaklyne aan die sirkel deur $P$ en $R$ sny $QS$ verleng by $A$. $RS$ is verleng om raaklyn $AP$ by $B$ te sny. $PS$ is verleng om raaklyn $AR$ by $C$ te sny. $PR$ en $QS$ sny by $M$.
+
+Bewys, met redes, dat:
+
+10.1 $\hat{S}_3 = \hat{S}_4$ (5)
+
+10.2 $SMRC$ 'n koordevierhoek is (4)
+
+10.3 $RP$ 'n raaklyn van die sirkel is wat deur $P$, $S$ en $A$ by $P$ gaan (6)
+
+**[15]**
+
+**TOTAAL: 150**
+
+---
+
+### INLIGTINGSBLAD
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni)$$
+$$A = P(1 - ni)$$
+$$A = P(1 - i)^n$$
+$$A = P(1 + i)^n$$
+
+$$T_n = a + (n - 1)d$$
+$$S_n = \frac{n}{2}[2a + (n - 1)d]$$
+
+$$T_n = ar^{n-1}$$
+$$S_n = \frac{a(r^n - 1)}{r - 1} \quad (r \neq 1)$$
+$$S_\infty = \frac{a}{1 - r} \quad (-1 < r < 1)$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i}$$
+$$P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$
+$$M\left(\frac{x_1 + x_2}{2}; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c$$
+$$y - y_1 = m(x - x_1)$$
+$$m = \frac{y_2 - y_1}{x_2 - x_1}$$
+$$m = \tan \theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+In $\Delta ABC$: 
+$$\frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}$$
+$$a^2 = b^2 + c^2 - 2bc \cos A$$
+$$\text{area } \Delta ABC = \frac{1}{2}ab \sin C$$
+
+$$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta$$
+$$\sin(\alpha - \beta) = \sin \alpha \cos \beta - \cos \alpha \sin \beta$$
+$$\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta$$
+$$\cos(\alpha - \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2 \alpha - \sin^2 \alpha \\ 1 - 2\sin^2 \alpha \\ 2\cos^2 \alpha - 1 \end{cases}$$
+$$\sin 2\alpha = 2\sin \alpha \cos \alpha$$
+
+$$\bar{x} = \frac{\sum_{i=1}^n x_i}{n}$$
+$$\sigma^2 = \frac{\sum_{i=1}^n (x_i - \bar{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)}$$
+$$P(A \text{ of } B) = P(A) + P(B) - P(A \text{ en } B)$$
+
+$$\hat{y} = a + bx$$
+$$b = \frac{\sum(x - \bar{x})(y - \bar{y})}{\sum(x - \bar{x})^2}$$

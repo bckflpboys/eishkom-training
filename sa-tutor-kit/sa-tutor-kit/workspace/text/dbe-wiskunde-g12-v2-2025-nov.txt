@@ -1,0 +1,161 @@
+**Vertroulik**
+
+### basic education
+Department: Basic Education  
+**REPUBLIC OF SOUTH AFRICA**
+
+---
+
+#### NASIONALE SENIOR SERTIFIKAAT
+
+#### GRAAD 12
+
+---
+
+```
+=====================================================
+                    WISKUNDE V2
+
+                   NOVEMBER 2025
+=====================================================
+```
+
+**PUNTE: 150**
+
+**TYD: 3 uur**
+
+**Hierdie vraestel bestaan uit 14 bladsye, 1 inligtingsblad en 'n antwoordeboek van 27 bladsye.**
+
+---
+
+### INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies aandagtig deur voordat die vrae beantwoord word.
+
+1. Hierdie vraestel bestaan uit 11 vrae.
+2. Beantwoord AL die vrae in die SPESIALE ANTWOORDEBOEK wat verskaf word.
+3. Dui ALLE berekeninge, diagramme, grafieke, ens. wat jy in die beantwoording van die vrae gebruik, duidelik aan.
+4. Slegs antwoorde sal NIE noodwendig volpunte verdien NIE.
+5. Jy mag 'n goedgekeurde wetenskaplike sakrekenaar gebruik (nieprogrameerbaar en niegrafies), tensy anders vermeld.
+6. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders vermeld.
+7. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+8. 'n Inligtingsblad met formules is aan die einde van die vraestel ingesluit.
+9. Skryf netjies en leesbaar.
+
+---
+
+### VRAAG 1
+
+Daar was 11 motors van dieselfde model by 'n motorhandelaar te koop. Die ouderdom (in jaar) van elke motor en die ooreenstemmende verkoopprys (in rand) word in die tabel hieronder gegee.
+
+| OUDERDOM VAN MOTOR (IN JAAR) | VERKOOPPRYS VAN MOTOR (IN RAND) |
+| :---: | :---: |
+| 2 | 293 000 |
+| 3 | 265 000 |
+| 3 | 256 000 |
+| 4 | 219 000 |
+| 4 | 241 000 |
+| 4 | 246 000 |
+| 6 | 226 000 |
+| 6 | 176 000 |
+| 7 | 154 000 |
+| 7 | 180 000 |
+| 8 | 148 000 |
+
+1.1 Bepaal die vergelyking van die kleinstekwadrate-regressielyn. (3)
+
+1.2 Voorspel die verkoopprys van 'n soortgelyke motor by hierdie motorhandelaar wat 5 jaar oud is. (2)
+
+1.3 Gebruik die korrelasiekoëffisiënt om te toon of die voorspelling wat in VRAAG 1.2 gemaak is, geldig is of nie. (2)
+
+1.4 Gebruik die antwoord op VRAAG 1.1 om die beraamde gemiddelde jaarlikse verlaging in die verkoopprys van hierdie 11 motors neer te skryf. (1)
+**[8]**
+
+---
+
+### VRAAG 2
+
+2.1 Die kumulatiewefrekwensie-tabel hieronder toon die hoeveelheid tyd wat mense op 'n sekere dag op 'n sekere webtuiste bestee het.
+
+| TYD, $t$ (IN MINUTE) | KUMULATIEWE FREKWENSIE |
+| :---: | :---: |
+| $0 < t \le 20$ | 16 |
+| $0 < t \le 40$ | 40 |
+| $0 < t \le 60$ | 59 |
+| $0 < t \le 80$ | 67 |
+| $0 < t \le 100$ | 70 |
+
+2.1.1 Hoeveel mense het hierdie webtuiste op daardie dag besoek? (1)
+
+2.1.2 Hoeveel mense het meer as 40 en tot en met 80 minute op die webtuiste bestee? (2)
+
+2.1.3 Teken 'n histogram om die inligting wat in die kumulatiewefrekwensie-tabel verskaf word, voor te stel. (3)
+
+2.1.4 Lewer kommentaar op die skeeqheid van die data. (1)
+
+2.2 Daar is 9 spelers in 'n basketbalspan. Die afrigter het bereken dat elke speler gemiddeld 12 punte gedurende 'n wedstryd aangeteken het. Die punte wat deur 8 van die 9 spelers in die span aangeteken is, word hieronder gegee:
+
+$$11 \quad 14 \quad 19 \quad 20 \quad 8 \quad 10 \quad 2 \quad 14$$
+
+Hoeveel spelers se punte aangeteken, was buite EEN standaardafwyking van die gemiddelde punte aangeteken? (5)
+**[12]**
+
+---
+
+### VRAAG 3
+
+In die diagram is $P(-1 ; 8)$, $Q(-4 ; -6)$ en $R(12 ; 2)$ die hoekpunte van $\triangle PQR$. Die inklinasiehoek van $QR$ is $\theta$.
+
+[DIAGRAM: Triangle PQR in the Cartesian plane. Point P is in the second quadrant at (-1, 8). Point Q is in the third quadrant at (-4, -6). Point R is in the first quadrant at (12, 2). Line QR crosses the positive x-axis forming an inclination angle theta ($\theta$) with the positive x-axis.]
+
+3.1 Bereken die lengte van $QR$. Laat jou antwoord in vereenvoudigde wortelvorm. (2)
+
+3.2 Bereken die gradiënt van $QR$. (2)
+
+3.3 Bereken die grootte van $\theta$. (2)
+
+3.4 Bepaal die vergelyking van $QR$. (2)
+
+3.5 $PQRS$, in daardie volgorde, is 'n parallelogram. Skryf die koördinate van $S$ neer. (2)
+
+3.6 $T$ is 'n punt op $QR$ sodanig dat $PT \perp QR$. Bereken die koördinate van $T$. (5)
+
+3.7 Bereken die oppervlakte van parallelogram $PQRS$. (3)
+**[18]**
+
+---
+
+### VRAAG 4
+
+In die diagram is $M(p ; q)$ die middelpunt van die sirkel wat die $x$-as by $A$ en $B$ sny. $C$ is 'n punt sodanig dat die lyn vanaf $M$ na $C$ ewewydig aan die $y$-as is en die $x$-as by $D$ sny. $MC$ sny die sirkel by $E(-6 ; -1)$. Raaklyne getrek vanaf $C$ raak die sirkel by $A$ en $B$. $AD = (q - 1)$ eenhede.
+
+[DIAGRAM: Circle with center M(p, q) in the Cartesian plane, located to the left of the y-axis and above the x-axis. The circle intersects the x-axis at points A and B. Line segment MC is vertical (parallel to the y-axis), passing through center M, intersecting the x-axis at D, the circle at E(-6, -1), and ending at point C below the x-axis. Lines CA and CB are tangents to the circle at A and B respectively.]
+
+4.1 Skryf die waarde van $p$ neer. (1)
+
+4.2 Toon dat $q = 4$. (4)
+
+4.3 Bepaal die vergelyking van die sirkel in die vorm $(x - a)^2 + (y - b)^2 = r^2$. (2)
+
+4.4 Indien die sirkel 2 eenhede na links getransleer word, bepaal die minimum afstand tussen die sirkel en die $y$-as. (1)
+
+4.5 Bereken die koördinate van $A$ en $B$. (3)
+
+4.6 Bepaal die vergelyking van raaklyn $BC$. (4)
+
+4.7 Skryf die koördinate van $C$ neer. (2)
+
+4.8 Bereken die grootte van $A\hat{C}B$. (4)
+**[21]**
+
+---
+
+### VRAAG 5
+
+5.1 Daar word gegee dat $\tan 50^\circ = k$. Druk ELK van die volgende in terme van $k$ uit:
+
+5.1.1 $\cos 40^\circ$ (2)
+
+5.1.2 $\frac{2\sin 25^\circ \cdot \cos 25^\circ}{-2 + 4\sin^2 25^\circ}$ (5)
+
+5.1.3 $\sin 10

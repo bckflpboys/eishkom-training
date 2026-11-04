@@ -1,0 +1,811 @@
+# NATIONAL SENIOR CERTIFICATE EXAMINATION / NASIONALE SENIORSERTIFIKAAT-EKSAMEN
+
+## MATHEMATICS P1 / WISKUNDE V1
+### MARKING GUIDELINES / NASIENRIGLYNE – 2019
+
+---
+
+**NOTE:**
+* If a candidate answers a question TWICE, only mark the FIRST attempt.
+* Consistent Accuracy applies in all aspects of the marking memorandum.
+
+**LET WEL:**
+* Indien ’n kandidaat ’n vraag TWEE keer beantwoord, merk slegs die EERSTE poging.
+* Volgehoue akkuraatheid is DEURGAANS op ALLE aspekte van die memorandum van toepassing.
+
+---
+
+## QUESTION / VRAAG 1
+
+### 1.1.1
+$$x^2 - 5x - 6 = 0$$
+$$(x - 6)(x + 1) = 0$$
+$$x = 6 \text{ or } x = -1$$
+
+* $\checkmark$ factors
+* $\checkmark$ both answers
+**(2)**
+
+**OR/OF**
+
+$$x^2 - 5x - 6 = 0$$
+$$x = \frac{-(-5) \pm \sqrt{(-5)^2 - 4(1)(-6)}}{2(1)}$$
+$$x = \frac{5 \pm \sqrt{49}}{2}$$
+$$x = 6 \text{ or } x = -1$$
+
+* $\checkmark$ correct subst into correct formula
+* $\checkmark$ both answers
+**(2)**
+
+---
+
+### 1.1.2
+$$(3x - 1)(x - 4) = 16$$
+$$3x^2 - 13x - 12 = 0$$
+$$x = \frac{-(-13) \pm \sqrt{(-13)^2 - 4(3)(-12)}}{2(3)}$$
+$$x = \frac{13 \pm \sqrt{313}}{6}$$
+$$x = 5,12 \text{ or } x = -0,78$$
+
+* $\checkmark$ standard form
+* $\checkmark$ correct subst into correct formula
+* $\checkmark \checkmark$ answers
+**(4)**
+
+**OR/OF**
+
+$$3x^2 - 13x - 12 = 0$$
+$$x^2 - \frac{13}{3}x = 4$$
+$$x^2 - \frac{13}{3}x + \left(-\frac{13}{6}\right)^2 = 4 + \left(-\frac{13}{6}\right)^2$$
+$$\left(x - \frac{13}{6}\right)^2 = \frac{313}{36}$$
+$$x = \frac{13 \pm \sqrt{313}}{6}$$
+$$x = 5,12 \text{ or } x = -0,78$$
+
+* $\checkmark$ standard form
+* $\checkmark$ adding $\left(-\frac{13}{6}\right)^2$ both sides
+* $\checkmark \checkmark$ answers
+**(4)**
+
+---
+
+### 1.1.3
+$$x(4 - x) \ge 0$$
+$$-x(x - 4) \ge 0 \quad \text{or} \quad -x(x - 4) \ge 0$$
+$$x(x - 4) \le 0$$
+
+* $\checkmark$ factorisation
+* $\checkmark \checkmark$ $0 \le x \le 4$
+**(3)**
+
+---
+
+### 1.1.4
+$$\frac{5^{2x}-1}{5^x+1} = 4$$
+$$\frac{(5^x+1)(5^x-1)}{5^x+1} = 4$$
+$$5^x - 1 = 4$$
+$$5^x = 5$$
+$$x = 1$$
+
+* $\checkmark$ factors in numerator
+* $\checkmark$ $5^x - 1 = 4$
+* $\checkmark$ answer
+**(3)**
+
+**OR/OF**
+
+$$\frac{5^{2x}-1}{5^x+1} = 4$$
+$$5^{2x} - 1 = 4 \cdot 5^x + 4$$
+$$5^{2x} - 4 \cdot 5^x - 5 = 0$$
+$$(5^x - 5)(5^x + 1) = 0$$
+$$5^x = 5 \quad \text{or} \quad 5^x \neq -1$$
+$$x = 1$$
+
+* $\checkmark$ standard form
+* $\checkmark$ factors
+* $\checkmark$ answer
+**(3)**
+
+---
+
+### 1.2
+$$x = 2 - 3y \dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots (1)$$
+$$x^2 + 4xy - 5 = 0 \dots\dots\dots\dots\dots\dots\dots\dots\dots\dots (2)$$
+
+Substitute (1) in (2):
+$$(2 - 3y)^2 + 4y(2 - 3y) - 5 = 0$$
+$$4 - 12y + 9y^2 + 8y - 12y^2 - 5 = 0$$
+$$-3y^2 - 4y - 1 = 0$$
+$$3y^2 + 4y + 1 = 0$$
+$$(3y + 1)(y + 1) = 0$$
+$$y = -\frac{1}{3} \quad \text{or} \quad y = -1$$
+$$x = 3 \quad \text{or} \quad x = 5$$
+
+* $\checkmark$ $x = 2 - 3y$
+* $\checkmark$ correct subst into correct formula
+* $\checkmark$ either standard form
+* $\checkmark$ $y$-values
+* $\checkmark$ $x$-values
+**(5)**
+
+**OR/OF**
+
+$$y = \frac{2}{3} - \frac{x}{3} \dots\dots\dots\dots\dots\dots\dots\dots\dots\dots (1)$$
+$$x^2 + 4xy - 5 = 0 \dots\dots\dots\dots\dots\dots\dots\dots\dots\dots (2)$$
+
+Substitute (1) in (2):
+$$x^2 + 4x\left(\frac{2}{3} - \frac{x}{3}\right) - 5 = 0$$
+$$3x^2 + 8x - 4x^2 - 15 = 0$$
+$$-x^2 + 8x - 15 = 0$$
+$$x^2 - 8x + 15 = 0$$
+$$(x - 5)(x - 3) = 0$$
+$$x = 3 \quad \text{or} \quad x = 5$$
+$$y = -\frac{1}{3} \quad \text{or} \quad y = -1$$
+
+* $\checkmark$ $y = \frac{2}{3} - \frac{x}{3}$
+* $\checkmark$ correct subst into correct formula
+* $\checkmark$ either standard form
+* $\checkmark$ $x$-values
+* $\checkmark$ $y$-values
+**(5)**
+
+---
+
+### 1.3
+$$ab = 2\sqrt{10}$$
+$$bc = 3\sqrt{2}$$
+$$ac = 6\sqrt{5}$$
+
+$$ab \cdot bc \cdot ac = 2\sqrt{10} \cdot 6\sqrt{5} \cdot 3\sqrt{2}$$
+$$(abc)^2 = 36\sqrt{100}$$
+$$abc = \sqrt{360} = 6\sqrt{10}$$
+
+* $\checkmark$ volume = $abc$
+* $\checkmark$ $ab \cdot bc \cdot ac = 2\sqrt{10} \cdot 6\sqrt{5} \cdot 3\sqrt{2}$
+* $\checkmark$ $(abc)^2 = 36\sqrt{100}$
+* $\checkmark$ answer
+**(5)**
+
+**OR/OF**
+
+$$ac = 6\sqrt{5} \quad \therefore a = \frac{6\sqrt{5}}{c}$$
+$$bc = 3\sqrt{2} \quad \therefore b = \frac{3\sqrt{2}}{c}$$
+$$ab = 2\sqrt{10}$$
+
+$$\left(\frac{6\sqrt{5}}{c}\right)\left(\frac{3\sqrt{2}}{c}\right) = 2\sqrt{10}$$
+
+$$\frac{18\sqrt{10}}{c^2} = 2\sqrt{10}$$
+$$c^2 = 9$$
+$$c = 3$$
+$$\text{Volume} = abc = 2\sqrt{10} \cdot 3 = \sqrt{360} = 6\sqrt{10}$$
+
+* $\checkmark$ $a = \frac{6\sqrt{5}}{c}$
+* $\checkmark$ $b = \frac{3\sqrt{2}}{c}$
+* $\checkmark$ value of $c$
+* $\checkmark$ Volume = $abc$
+* $\checkmark$ answer
+**(5)**
+
+**[22]**
+
+---
+
+## QUESTION / VRAAG 2
+
+### 2.1.1
+$$59$$
+
+* $\checkmark$ answer
+**(1)**
+
+---
+
+### 2.1.2
+```text
+  15    29    41    51
+    14    12    10
+      -2    -2
+```
+
+$$2a = -2 \implies a = -1$$
+$$3(-1) + b = 14 \implies b = 17$$
+$$(-1) + (17) + c = 15 \implies c = -1$$
+$$T_n = -n^2 + 17n - 1$$
+
+* $\checkmark$ second difference of $-2$
+* $\checkmark$ $a$
+* $\checkmark$ $b$
+* $\checkmark$ $c$
+**(4)**
+
+---
+
+### 2.1.3
+$$T_{27} = -(27)^2 + 17(27) - 1$$
+$$= -271$$
+
+* $\checkmark$ substitution
+* $\checkmark$ answer
+**(2)**
+
+---
+
+### 2.2.1
+$$r = \frac{-18}{36} = -\frac{1}{2}$$
+
+* $\checkmark$ answer
+**(1)**
+
+---
+
+### 2.2.2
+$$T_n = 36\left(-\frac{1}{2}\right)^{n-1}$$
+
+$$\frac{9}{4096} = 36\left(-\frac{1}{2}\right)^{n-1}$$
+
+$$\frac{1}{16384} = \left(-\frac{1}{2}\right)^{n-1}$$
+
+$$\left(-\frac{1}{2}\right)^{14} = \left(-\frac{1}{2}\right)^{n-1}$$
+
+$$14 = n - 1$$
+$$n = 15$$
+
+* $\checkmark$ $T_n = 36\left(-\frac{1}{2}\right)^{n-1}$
+* $\checkmark$ $\frac{1}{16384} = \left(-\frac{1}{2}\right)^{n-1}$
+* $\checkmark$ answer
+**(3)**
+
+**OR/OF**
+
+$$36; -18; 9; -\frac{9}{2}; \frac{9}{4}; -\frac{9}{8}; \dots; \frac{9}{4096}$$
+
+If you look only at the denominator: $2; 4; 8; \dots; 4096$
+$$2^k = 4096$$
+$$2^k = 2^{12}$$
+$$k = 12$$
+$$\therefore n = 15 \text{ terms}$$
+
+* $\checkmark$ $2^k = 4096$
+* $\checkmark$ $k = 12$
+* $\checkmark$ answer
+**(3)**
+
+---
+
+### 2.2.3
+$$S_\infty = \frac{a}{1 - r}$$
+$$= \frac{36}{1 - \left(-\frac{1}{2}\right)}$$
+$$= 24$$
+
+* $\checkmark$ correct subst into correct formula with $-1 < r < 1$
+* $\checkmark$ answer if $-1 < r < 1$
+**(2)**
+
+---
+
+### 2.2.4
+$$S_{250\text{ even}} = \frac{-18\left(\left(\frac{1}{4}\right)^{250} - 1\right)}{\frac{1}{4} - 1} = -24$$
+
+$$S_{250\text{ odd}} = \frac{36\left(\left(\frac{1}{4}\right)^{250} - 1\right)}{\frac{1}{4} - 1} = 48$$
+
+$$\frac{S_{\text{odd}}}{S_{\text{even}}} = \frac{48}{-24} = -2$$
+
+* $\checkmark$ $r = \frac{1}{4}$ and $n = 250$
+* $\checkmark$ $S_{250\text{ even}} = -24$
+* $\checkmark$ $S_{250\text{ odd}} = 48$
+* $\checkmark$ answer
+**(4)**
+
+**OR/OF**
+
+$$T_1 + T_3 + T_5 + T_7 + \dots + T_{499}$$
+$$T_2 + T_4 + T_6 + T_8 + \dots + T_{500}$$
+$$= \frac{a + ar^2 + ar^4 + \dots + ar^{498}}{ar + ar^3 + ar^5 + \dots + ar^{499}}$$
+$$= \frac{a + ar^2 + ar^4 + \dots + ar^{498}}{r(a + ar^2 + ar^4 + \dots + ar^{498})}$$
+$$= \frac{1}{r}$$
+$$= -2$$
+
+* $\checkmark$ $a + ar^2 + ar^4 + \dots + ar^{498}$
+* $\checkmark$ $ar + ar^3 + ar^5 + \dots + ar^{499}$
+* $\checkmark$ $r(a + ar^2 + ar^4 + \dots + ar^{498})$
+* $\checkmark$ answer
+**(4)**
+
+**[17]**
+
+---
+
+## QUESTION / VRAAG 3
+
+### 3.1.1
+$$p + 6 - (2p + 3) = p - 2 - (p + 6)$$
+$$-p + 3 = -8$$
+$$p = 11$$
+
+* $\checkmark$ equating i.t.o $p$
+* $\checkmark$ simplifying
+**(2)**
+
+---
+
+### 3.1.2
+$$T_n = 25 + (n - 1)(-8) = 33 - 8n$$
+
+$$33 - 8n < -55$$
+$$-8n < -88$$
+$$n > 11$$
+
+$\therefore$ Term 12 will be the first term smaller than $-55$
+
+* $\checkmark$ subst into $T_n$ formula
+* $\checkmark$ $n > 11$
+* $\checkmark$ $n = 12$
+**(3)**
+
+---
+
+### 3.2
+$$S_6 = \frac{6}{2}[a + l] = \frac{6}{2}[(x - 3) + (x - 18)] = 6x - 63$$
+$$S_9 = \frac{9}{2}[a + l] = \frac{9}{2}[(x - 3) + (x - 27)] = 9x - 135$$
+
+$$6x - 63 = 9x - 135$$
+$$3x = 72$$
+$$x = 24$$
+
+$$\therefore S_{15} = \frac{15}{2}[a + l] = \frac{15}{2}[(x - 3) + (x - 45)]$$
+$$= \frac{15}{2}[2x - 48]$$
+$$= \frac{15}{2}[2(24) - 48] = 0 = \text{RHS}$$
+
+* $\checkmark$ $6x - 63$
+* $\checkmark$ $9x - 135$
+* $\checkmark$ $24$
+* $\checkmark$ $\frac{15}{2}[(x - 3) + (x - 45)]$
+* $\checkmark$ substitution of $x$
+**(5)**
+
+**OR/OF**
+
+$$\sum_{k=7}^{9}(x - 3k) = 0$$
+$$(x - 21) + (x - 24) + (x - 27) = 0$$
+$$\therefore 3x - 72 = 0$$
+$$3x = 72 \implies x = 24$$
+
+$$\sum_{k=1}^{15}(24 - 3k) = 21 + 18 + 15 + \dots + -21$$
+
+$$S_n = \frac{n}{2}[a + l]$$
+$$= \frac{15}{2}[21 - 21]$$
+$$= 0 = \text{RHS}$$
+
+* $\checkmark$ expansion
+* $\checkmark$ $3x - 72 = 0$
+* $\checkmark$ $24$
+* $\checkmark$ substitution of $x$
+* $\checkmark$ sum of 15 terms
+**(5)**
+
+**[10]**
+
+---
+
+## QUESTION / VRAAG 4
+
+### 4.1
+$$y > 0 \quad \text{OR/OF} \quad y \in (0; \infty)$$
+
+* $\checkmark$ answer
+**(1)**
+
+---
+
+### 4.2
+$$g: y = \left(\frac{1}{2}\right)^x$$
+$$g^{-1}: x = \left(\frac{1}{2}\right)^y$$
+$$y = \log_{\frac{1}{2}} x \quad \text{or} \quad y = -\log_2 x \quad \text{or} \quad y = \log_2 \frac{1}{x}$$
+
+* $\checkmark$ $x = \left(\frac{1}{2}\right)^y$
+* $\checkmark$ equation
+**(2)**
+
+---
+
+### 4.3
+Yes. The vertical line test cuts $g^{-1}$ once.
+*(Accept any valid reason)*
+
+* $\checkmark$ yes
+* $\checkmark$ valid reason
+**(2)**
+
+---
+
+### 4.4.1
+$$y = -\log_2 x$$
+$$2 = -\log_2 a$$
+$$a = 2^{-2} = \frac{1}{4} \quad \text{or} \quad a = \left(\frac{1}{2}\right)^2 = \frac{1}{4}$$
+
+* $\checkmark$ correct subst into correct formula $(a; 2)$
+* $\checkmark$ answer
+**(2)**
+
+---
+
+### 4.4.2
+$$M\left(2; \frac{1}{4}\right) \quad \text{or} \quad M'(2; a)$$
+
+* $\checkmark$ answer
+**(1)**
+
+---
+
+### 4.5
+$$M'\left(-1; \frac{9}{4}\right)$$
+
+* $\checkmark$ $-1$
+* $\checkmark \checkmark$ $\frac{9}{4}$
+**(3)**
+
+**[11]**
+
+---
+
+## QUESTION / VRAAG 5
+
+### 5.1.1
+$$x = -2$$
+$$y = 3$$
+
+* $\checkmark$ answer
+* $\checkmark$ answer
+**(2)**
+
+---
+
+### 5.1.2
+$$\left(0; \frac{7}{2}\right)$$
+
+* $\checkmark$ answer
+**(1)**
+
+---
+
+### 5.1.3
+$$\frac{1}{x + 2} + 3 = 0$$
+$$1 + 3(x + 2) = 0$$
+$$3x = -7$$
+$$x = -\frac{7}{3}$$
+$x$-intercept: $\left(-\frac{7}{3}; 0\right)$
+
+* $\checkmark$ $y = 0$
+* $\checkmark$ answer
+**(2)**
+
+---
+
+### 5.1.4
+
+```text
+       y
+       ^
+       |          /
+       |        /
+       |      /
+ 3,5 --+----(0; 3,5)
+   3 --+-----------------------+-----
+       |                     |
+       |                     |
+       |                 ( -7/3; 0 )
+-------+---------------------o----> x
+  -2,3 |-2                  0
+       |      \
+       |        \
+       |          \
+```
+
+* $\checkmark$ asymptotes at $y = 3$ and $x = -2$
+* $\checkmark$ intercepts at $y = 3,5$ and $x = -2,3$
+* $\checkmark$ shape (reasonable representation in correct quadrants)
+**(3)**
+
+---
+
+### 5.2.1
+$$-2x + 4 = 0$$
+$$2x = 4$$
+$$x = 2$$
+$$\therefore S(2; 0)$$
+
+* $\checkmark$ $y = 0$
+* $\checkmark$ $x = 2$
+**(2)**
+
+---
+
+### 5.2.2
+$$\text{Equation of } k:$$
+$$y = a(x + 1)^2 + 18$$
+$$0 = a(2 + 1)^2 + 18 \quad \text{or} \quad 0 = a(-4 + 1)^2 + 18$$
+$$9a = -18$$
+$$a = -2$$
+$$y = -2(x + 1)^2 + 18$$
+
+* $\checkmark$ $y = a(x + 1)^2 + 18$
+* $\checkmark$ substitute $(2; 0)$ or $(-4; 0)$
+* $\checkmark$ $a$
+**(3)**
+
+---
+
+### 5.2.3
+$$-2x^2 - 4x + 16 = -2x + 4$$
+$$-2x^2 - 2x + 12 = 0$$
+$$x^2 + x - 6 = 0$$
+$$(x + 3)(x - 2) = 0$$
+$$x = -3 \quad \text{or} \quad x = 2$$
+$$y = -2(-3) + 4 = 10$$
+$$T(-3; 10)$$
+
+* $\checkmark$ equating
+* $\checkmark$ standard form
+* $\checkmark$ factors
+* $\checkmark$ choosing $x = -3$
+* $\checkmark$ answer
+**(5)**
+
+---
+
+### 5.2.4
+$$x < -3 \quad \text{or} \quad x > 2 \quad \text{OR/OF} \quad (-\infty; -3) \cup (2; \infty)$$
+
+* $\checkmark \checkmark$ answer
+**(2)**
+
+---
+
+### 5.2.5(a)
+$$x < -1 \quad \text{OR/OF} \quad (-\infty; -1)$$
+
+* $\checkmark \checkmark$ answer
+**(2)**
+
+---
+
+### 5.2.5(b)
+
+```text
+       y
+       ^
+       |            / \
+       |          /     \
+       |        /         \
+  -4   |      /             \  2
+---o---+----(-1)--------o----> x
+       |    0           |
+       |  /
+       |/
+```
+
+* $\checkmark$ shape of cubic with local min tp moving to local max tp
+* $\checkmark$ turning points at $x = 2$ and $x = -4$
+* $\checkmark$ point of inflection at $x = -1$
+**(3)**
+
+**[25]**
+
+---
+
+## QUESTION / VRAAG 6
+
+### 6.1.1
+$$A = P(1 - i)^n$$
+$$79866,96 = 180\,000(1 - 0,15)^n$$
+$$(1 - 0,15)^n = \frac{79866,96}{180\,000}$$
+$$n = \frac{\log\left(\frac{79866,96}{180\,000}\right)}{\log(1 - 0,15)}$$
+$$n = 4,999\dots \text{ years}$$
+$$n \approx 5 \text{ years}$$
+
+* $\checkmark$ substitution
+* $\checkmark$ use of logs
+* $\checkmark$ answer
+**(3)**
+
+---
+
+### 6.1.2
+$$A = P(1 + i)^n$$
+$$A = 49\,000\left(1 + \frac{0,1}{4}\right)^{20} = \text{R80 } 292,21$$
+The money will be enough to buy the car.
+
+* $\checkmark$ values of $i$ and $n$
+* $\checkmark$ substitution
+* $\checkmark$ conclusion (consistent with answer)
+**(3)**
+
+---
+
+### 6.2.1
+$$P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+$$P = \frac{7853,15\left[1 - \left(1 + \frac{0,1025}{12}\right)^{-234}\right]}{\frac{0,1025}{12}}$$
+$$P = \text{R793 } 749,25$$
+
+* $\checkmark$ $n = 234$
+* $\checkmark$ $i = \frac{0,1025}{12}$
+* $\checkmark$ substitution in present value formula
+* $\checkmark$ answer
+**(4)**
+
+**OR/OF**
+
+$$\text{Balance Outstanding} = 800\,000\left(1 + \frac{0,1025}{12}\right)^6 - \frac{7853,15\left[\left(1 + \frac{0,1025}{12}\right)^6 - 1\right]}{\frac{0,1025}{12}}$$
+$$= 841\,885,56 - 48\,136,62$$
+$$= \text{R793 } 748,94$$
+
+* $\checkmark$ $n = 6$ in both
+* $\checkmark$ $i = \frac{0,1025}{12}$
+* $\checkmark$ $A - F$
+* $\checkmark$ $\text{R793 } 748,94$
+**(4)**
+
+---
+
+### 6.2.2
+$$A = P(1 + i)^n$$
+$$A = 793749,25\left(1 + \frac{0,1025}{12}\right)^3 = \text{R814 } 263,3052$$
+
+New instalment:
+$$814263,3052 = \frac{x\left[1 - \left(1 + \frac{0,1025}{12}\right)^{-231}\right]}{\frac{0,1025}{12}}$$
+$$x = \text{R8 } 089,20$$
+
+* $\checkmark$ $793749,25\left(1 + \frac{0,1025}{12}\right)^3$
+* $\checkmark$ $n = 231$
+* $\checkmark$ substitution of new $P$
+* $\checkmark$ substitution of $n$ and $i$ into formula
+* $\checkmark$ answer
+**(5)**
+
+**[15]**
+
+---
+
+## QUESTION / VRAAG 7
+
+### 7.1
+$$f(x) = x^2 + 2$$
+$$f(x + h) = (x + h)^2 + 2 = x^2 + 2xh + h^2 + 2$$
+$$f(x + h) - f(x) = x^2 + 2xh + h^2 + 2 - (x^2 + 2)$$
+$$= 2xh + h^2$$
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+$$= \lim_{h \to 0} \frac{2xh + h^2}{h}$$
+$$= \lim_{h \to 0} \frac{h(2x + h)}{h}$$
+$$= \lim_{h \to 0}(2x + h)$$
+$$= 2x$$
+
+* $\checkmark$ $x^2 + 2xh + h^2 + 2$
+* $\checkmark$ $\lim_{h \to 0} \frac{2xh + h^2}{h}$
+* $\checkmark$ $\lim_{h \to 0} \frac{h(2x + h)}{h}$
+* $\checkmark$ answer
+**(4)**
+
+---
+
+### 7.2.1
+$$y = 4x^3 + 2x^{-1}$$
+$$\frac{dy}{dx} = 12x^2 - 2x^{-2}$$
+
+* $\checkmark$ $+ 2x^{-1}$
+* $\checkmark$ $12x^2$
+* $\checkmark$ $-2x^{-2}$
+**(3)**
+
+---
+
+### 7.2.2
+$$y = 4\sqrt{x} + (3x^3)^2 = 4x^{\frac{1}{2}} + 9x^6$$
+$$\frac{dy}{dx} = 4 \cdot \frac{1}{2}x^{-\frac{1}{2}} + 54x^5 = 2x^{-\frac{1}{2}} + 54x^5 \quad \text{or} \quad \frac{4}{3}x^{-\frac{1}{3}} + 54x^5$$
+*(Note: transcript reflects $y = 4\sqrt[3]{x} + (3x^3)^2 = 4x^{\frac{1}{3}} + 9x^6 \implies \frac{4}{3}x^{-\frac{2}{3}} + 54x^5$)*
+
+* $\checkmark$ $4x^{\frac{1}{3}}$
+* $\checkmark$ $9x^6$
+* $\checkmark$ $\frac{4}{3}x^{-\frac{2}{3}}$
+* $\checkmark$ $54x^5$
+**(4)**
+
+---
+
+### 7.3
+Point of contact: $(1; 5)$
+$$m = 2$$
+$$y - y_1 = m(x - x_1)$$
+$$y - 5 = 2(x - 1)$$
+$$y = 2x + 3$$
+
+* $\checkmark$ $m = 2$
+* $\checkmark$ substitution of $(1; 5)$
+* $\checkmark$ answer
+**(3)**
+
+**[14]**
+
+---
+
+## QUESTION / VRAAG 8
+
+### 8.1
+$$h(x) = -2\left(x + \frac{3}{2}\right)(x - 1)(x + 3)$$
+$$h(x) = -(2x + 3)(x^2 + 2x - 3)$$
+$$h(x) = -2x^3 - 7x^2 + 9$$
+
+* $\checkmark \checkmark$ $-2\left(x + \frac{3}{2}\right)(x - 1)(x + 3)$
+* $\checkmark$ correct simplification
+**(3)**
+
+---
+
+### 8.2
+$$h'(x) = -6x^2 - 14x$$
+$$-6x^2 - 14x = 0$$
+$$-2x(3x + 7) = 0$$
+$$x = 0 \quad \text{or} \quad x = -\frac{7}{3}$$
+
+* $\checkmark$ first derivative
+* $\checkmark$ $= 0$
+* $\checkmark$ both answers
+**(3)**
+
+---
+
+### 8.3
+$$x < -\frac{7}{3} \quad \text{or} \quad x > 0 \quad \text{OR/OF} \quad \left(-\infty; -\frac{7}{3}\right) \cup (0; \infty)$$
+
+* $\checkmark \checkmark$ answer
+**(2)**
+
+---
+
+### 8.4
+$$y = 4x+ 7$$
+$$-6x^2 - 14x = 4$$
+$$0 = 6x^2 + 14x + 4$$
+$$0 = 3x^2 + 7x + 2$$
+$$0 = (3x + 1)(x + 2)$$
+$$x = -\frac{1}{3} \quad \text{or} \quad x = -2$$
+
+* $\checkmark$ $y = 4x + 7$
+* $\checkmark$ $h'(x) = 4$
+* $\checkmark$ standard form
+* $\checkmark$ both answers
+**(4)**
+
+**[12]**
+
+---
+
+## QUESTION / VRAAG 9
+
+### 9.1
+$$\text{Volume of Sphere} = \frac{4}{3}\pi(8)^3 = \frac{2048\pi}{3} = 2144,66$$
+
+* $\checkmark$ answer
+**(1)**
+
+---
+
+### 9.2
+$$r^2 + x^2 = 8^2 \quad (\text{Pythagoras})$$
+$$r^2 = 64 - x^2$$
+
+* $\checkmark$ substitution or reason Pythagoras
+**(1)**
+
+---
+
+### 9.3
+$$V_{\text{cone}} = \frac{1}{3}\pi r^2 h$$
+$$h = 8 + x$$
+$$= \frac{1}{3}\pi(64 - x^2)(8 + x)$$
+$$= \frac{\pi}{3}(512 + 64x - 8x^2 - x^3)$$
+
+$$\frac{dV}{dx} = \frac{64\pi}{3} - \frac{16\pi}{3}x - \frac{3\pi}{3}x^2$$
+
+$$0 = 64 - 16x - 3x^2$$
+$$0 = (8 - 3x)(x + 8)$$
+$$x = \frac{8}{3} \quad (x \neq -8)$$
+
+$$\frac{V_{\text{cone}}}{V_{\text{sphere}}} = \frac{\frac{1}{3}\pi\left(512 - \frac{512}{27}\right)}{\frac{2048\pi}{

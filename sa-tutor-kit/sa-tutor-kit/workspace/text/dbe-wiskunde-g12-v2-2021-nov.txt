@@ -1,0 +1,336 @@
+NASIONALE SENIOR SERTIFIKAAT
+
+**GRAAD 12**
+
+**WISKUNDE V2**
+
+**NOVEMBER 2021**
+
+**PUNTE:** 150  
+**TYD:** 3 uur
+
+---
+
+### INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies aandagtig deur voordat die vraestel beantwoord word.
+
+1. Hierdie vraestel bestaan uit 11 vrae.
+2. Beantwoord AL die vrae in die SPESIALE ANTWOORDEBOEK wat verskaf word.
+3. Dui ALLE berekeninge, diagramme, grafieke, ens. wat jy in die beantwoording van die vrae gebruik, duidelik aan.
+4. Slegs antwoorde sal NIE noodwendig volpunte verdien NIE.
+5. Jy kan 'n goedgekeurde wetenskaplike sakrekenaar gebruik (nieprogrammeerbaar en niegrafies), tensy anders vermeld.
+6. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders vermeld.
+7. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+8. 'n Inligtingsblad met formules is aan die einde van die vraestel ingesluit.
+9. Skryf netjies en leesbaar.
+
+---
+
+### VRAAG 1
+
+'n Bakkery teken die aantal brode aan wat 'n snoepwinkel daagliks oor die laaste 18 dae bestel het. Die inligting word in die tabel hieronder aangetoon.
+
+| 10 | 11 | 13 | 14 | 14 | 15 | 16 | 18 | 18 |
+|---|---|---|---|---|---|---|---|---|
+| 19 | 19 | 20 | 21 | 35 | 35 | 37 | 40 | 41 |
+
+1.1 Bereken die:
+
+1.1.1 Gemiddelde aantal brode wat per dag bestel is (2)
+
+1.1.2 Standaardafwyking van die data (1)
+
+1.1.3 Aantal dae waarop die aantal brode wat bestel is een standaardafwyking bokant die gemiddelde was (2)
+
+1.2 Die eienaar van die snoepwinkel kon nie al die brode verkoop wat daagliks afgelewer is nie. Hy het bereken dat die gemiddelde aantal brode wat oor die 18 dae verkoop is, 20 is. Bereken die aantal brode wat NIE oor die 18 dae verkoop is NIE. (2)
+
+1.3 Een van die twee mond-en-snordiagramme hieronder geteken, verteenwoordig die data gegee in die tabel hierbo.
+
+Grafiek A:
+[DIAGRAM: Box and whisker plot labeled Grafiek A showing minimum at 10, Q1 at 14, median at 19, Q3 at 37, maximum at 41, with scale from 8 to 42]
+
+Grafiek B:
+[DIAGRAM: Box and whisker plot labeled Grafiek B showing minimum at 10, Q1 at 14, median at 18, Q3 at 35, maximum at 41, with scale from 8 to 42]
+
+1.3.1 Watter EEN van die twee mond-en-snordiagramme hierbo geteken, is die korrekte verteenwoordiging van die data? Skryf 'n rede vir jou antwoord neer. (2)
+
+1.3.2 Beskryf die skeefheid van die data. (1)
+
+[10]
+
+---
+
+### VRAAG 2
+
+'n Padstal verkoop melk in 5 liter-houers aan die plaaslike gemeenskap. Die prys wissel volgens die beskikbaarheid van melk by die padstal. Die prys van melk, in rand per 5 liter-houer, en die aantal 5 liter-houers melk verkoop, word in die tabel hieronder aangetoon.
+
+| Prys van melk in rand per 5 liter-houer ($x$) | 26 | 32 | 36 | 28 | 40 | 33 | 29 | 34 | 27 | 30 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Aantal 5 liter-houers melk verkoop ($y$) | 48 | 30 | 26 | 44 | 23 | 32 | 39 | 29 | 42 | 33 |
+
+2.1 Op die rooster wat in die ANTWOORDEBOEK verskaf word, teken die spreidiagram om die data te verteenwoordig. (3)
+
+2.2 Bepaal die vergelyking van die kleinstekwadrate-regressielyn vir die data. (3)
+
+2.3 Indien die boer 'n 5 liter-houer melk vir R38 verkoop, voorspel die aantal 5 liter-houers melk wat hy sal verkoop. (2)
+
+2.4 Verwys na die korrelasie tussen die prys van 5 liter-houers melk en die aantal 5 liter-houers melk verkoop, en lewer kommentaar op die akkuraatheid van jou antwoord op VRAAG 2.3. (2)
+
+[10]
+
+---
+
+### VRAAG 3
+
+[DIAGRAM: Cartesian plane showing $\triangle ABC$ with $A(-2; 10)$, $B(k; k)$, $C(4; -2)$. Line BC extended to H meets the x-axis at $E(12; 0)$. AB and AC intersect the x-axis at F and G respectively. Angle of inclination of line AB is $81,87^\circ$.]
+
+In die diagram is $A(-2; 10)$, $B(k; k)$ en $C(4; -2)$ die hoekpunte van $\triangle ABC$. Lyn BC word verleng na H en sny die $x$-as by $E(12; 0)$. AB en AC sny die $x$-as by F en G onderskeidelik. Die inklinasiehoek van lyn AB is $81,87^\circ$.
+
+3.1 Bereken die gradiënt van:
+
+3.1.1 BE (2)
+
+3.1.2 AB (2)
+
+3.2 Bepaal die vergelyking van BE in die vorm $y = mx + c$ (2)
+
+3.3 Bereken die:
+
+3.3.1 Koördinate van B, waar $k < 0$ (2)
+
+3.3.2 Grootte van $\hat{A}$ (4)
+
+3.3.3 Koördinate van die snypunt van die hoeklyne van parallelogram ACES, waar S 'n punt in die eerste kwadrant is (2)
+
+3.4 Nog 'n punt $T(p; p)$, waar $p > 0$, word gestip sodat $ET = BE = 4\sqrt{17}$ eenhede.
+
+3.4.1 Bereken die koördinate van T. (5)
+
+3.4.2 Bepaal die vergelyking van die:
+
+(a) Sirkel met middelpunt E wat deur punte B en T gaan in die vorm $(x - a)^2 + (y - b)^2 = r^2$ (2)
+
+(b) Raaklyn aan die sirkel by punt $B(k; k)$ (3)
+
+[24]
+
+---
+
+### VRAAG 4
+
+[DIAGRAM: Circle with center $N(-1; 3)$ passing through $A(-1; -1)$ and C. $B(-4; 2)$, C, D and E form a parallelogram such that BE is parallel to the x-axis. CD is a tangent to the circle at C and $CD = 6$ units.]
+
+In die diagram gaan die sirkel, met middelpunt $N(-1; 3)$, deur $A(-1; -1)$ en C. $B(-4; 2)$, C, D en E word verbind om 'n parallelogram te vorm sodat BE ewewydig aan die $x$-as is. CD is 'n raaklyn aan die sirkel by C en $CD = 6$ eenhede.
+
+4.1 Skryf die lengte van die radius van die sirkel neer. (1)
+
+4.2 Bereken die:
+
+4.2.1 Koördinate van C (2)
+
+4.2.2 Koördinate van D (2)
+
+4.2.3 Oppervlakte van $\triangle BCD$ (3)
+
+4.3 Die sirkel, met middelpunt N, word om die lyn $y = x$ gereflekteer. M is die middelpunt van die nuwe sirkel wat gevorm word. Die twee sirkels sny mekaar by A en F.
+
+Bereken die:
+
+4.3.1 Lengte van NM (3)
+
+4.3.2 Middelpunt van AF (4)
+
+[15]
+
+---
+
+### VRAAG 5
+
+5.1 Vereenvoudig, sonder om 'n sakrekenaar te gebruik, die volgende uitdrukking tot 'n ENKELE trigonometriese verhouding:
+
+$$\frac{\sin 140^\circ \cdot \sin(360^\circ - x)}{\cos 50^\circ \cdot \tan(-x)}$$ (6)
+
+5.2 Bewys die identiteit: 
+
+$$\frac{-2\sin^2 x + \cos x + 1}{1 - \cos(540^\circ - x)} = 2\cos x - 1$$ (4)
+
+5.3 Gegee: $\sin 36^\circ = \sqrt{1 - p^2}$
+
+Bepaal, sonder om 'n sakrekenaar te gebruik, ELK van die volgende in terme van $p$:
+
+5.3.1 $\tan 36^\circ$ (3)
+
+5.3.2 $\cos 108^\circ$ (4)
+
+[17]
+
+---
+
+### VRAAG 6
+
+6.1 Gegee: $\cos(\alpha - \beta) = \cos\alpha\cos\beta + \sin\alpha\sin\beta$
+
+6.1.1 Gebruik die identiteit gegee om 'n formule vir $\cos(\alpha + \beta)$ af te lei. (3)
+
+6.1.2 Vereenvoudig volledig: $2\cos 6x\cos 4x - \cos 10x + 2\sin^2 x$ (5)
+
+6.2 Bepaal die algemene oplossing van $\tan x = 2\sin 2x$, waar $\cos x < 0$. (7)
+
+[15]
+
+---
+
+### VRAAG 7
+
+[DIAGRAM: Graph of $f(x) = -2\sin x$ for $x \in [-180^\circ; 180^\circ]$ showing a sine wave starting at $(-180^\circ, 0)$, peaking at $(-90^\circ, 2)$, crossing $(0, 0)$, dropping to a trough at $(90^\circ, -2)$, and ending at $(180^\circ, 0)$.]
+
+In die diagram hieronder is die grafiek van $f(x) = -2\sin x$ vir die interval $x \in [-180^\circ; 180^\circ]$ geskets.
+
+7.1 Op die rooster wat in die ANTWOORDEBOEK verskaf word, skets die grafiek van $g(x) = \cos(x - 60^\circ)$ vir $x \in [-180^\circ; 180^\circ]$. Toon duidelik ALLE afsnitte met die asse en die draaipunte van die grafiek aan. (3)
+
+7.2 Skryf die periode van $f(3x)$ neer. (2)
+
+7.3 Gebruik die grafieke om die waarde van $x$ in die interval $x \in [-180^\circ; 180^\circ]$ te bepaal waarvoor $f(x) - g(x) = 1$. (1)
+
+7.4 Skryf die waardeversameling van $k$ neer, indien $k(x) = \frac{1}{2}g(x) + 1$. (2)
+
+[8]
+
+---
+
+### VRAAG 8
+
+[DIAGRAM: T is a hook in the ceiling. Q, S, and R are points on the same horizontal plane. $\hat{QSR} = 90^\circ + x$, $\hat{QRS} = x$, $QR = 5$ units, $TS = SQ$.]
+
+In die diagram hieronder is T 'n haak in die plafon van 'n kunsgalery. Q, S en R is punte op dieselfde horisontale vlak waarvandaan drie persone na die haak T kyk. Die hoogtehoek van Q na T is $x$.  
+$\hat{QSR} = 90^\circ + x$, $\hat{QRS} = x$, $QR = 5$ eenhede en $TS = SQ$.
+
+8.1 Bewys dat $QS = 5\tan x$ (3)
+
+8.2 Bewys dat die lengte van $QT = 10\sin x$ (5)
+
+8.3 Bereken die oppervlakte van $\triangle ATQR$ as $\hat{TQR} = 70^\circ$ en $x = 25^\circ$. (2)
+
+[10]
+
+---
+
+### VRAAG 9
+
+[DIAGRAM: Cyclic quadrilateral PQRS inscribed in a circle. PS produced to W. TR and TS are tangents to the circle at R and S respectively. $\hat{T} = 78^\circ$ and $\hat{Q} = 93^\circ$.]
+
+In die diagram is PQRS 'n koordevierhoek. PS word verleng na W. TR en TS is raaklyne aan die sirkel by R en S onderskeidelik. $\hat{T} = 78^\circ$ en $\hat{Q} = 93^\circ$.
+
+9.1 Gee 'n rede waarom $ST = TR$. (1)
+
+9.2 Bereken, met redes, die grootte van:
+
+9.2.1 $\hat{S}_2$ (2)
+
+9.2.2 $\hat{S}_3$ (2)
+
+[5]
+
+---
+
+### VRAAG 10
+
+[DIAGRAM: BE and CD are diameters of a circle with center M. Chord AE is drawn to intersect CD at F. $AE \perp CD$. Let $\hat{C} = x$.]
+
+In die diagram is BE en CD middellyne van 'n sirkel met middelpunt M. Koord AE word getrek om CD by F te sny. $AE \perp CD$. Laat $\hat{C} = x$.
+
+10.1 Gee 'n rede waarom $AF = FE$. (1)
+
+10.2 Bepaal, met redes, die grootte van $\hat{M}_1$ in terme van $x$. (3)
+
+10.3 Bewys, met redes, dat AD 'n raaklyn aan die sirkel is wat deur A, C en F gaan. (4)
+
+10.4 Indien dit gegee word dat $CF = 6$ eenhede en $AB = 24$ eenhede, bereken, met redes, die lengte van AE. (5)
+
+[13]
+
+---
+
+### VRAAG 11
+
+11.1 In die diagram is DE, EF en DF koorde in die sirkel met middelpunt O. KFC is 'n raaklyn aan die sirkel by F.
+
+[DIAGRAM: Circle with center O, chords DE, EF, DF. KFC is a tangent at F.]
+
+Bewys die stelling wat beweer dat $\hat{DFK} = \hat{E}$. (5)
+
+11.2 In die diagram is PK 'n raaklyn aan die sirkel by K. Koord LS is verleng na P. N en M is punte op KP en SP onderskeidelik sodat $MN \parallel SK$. Koord KS en LN sny mekaar by T.
+
+[DIAGRAM: PK is a tangent at K. LS produced to P. M and N on SP and KP such that $MN \parallel SK$. KS and LN intersect at T.]
+
+11.2.1 Bewys, met redes, dat:
+
+(a) $\hat{K}_4 = \hat{NML}$ (4)
+
+(b) KLMN 'n koordevierhoek is (1)
+
+11.2.2 Bewys, met redes, dat $\triangle LKN \parallel\parallel\parallel \triangle KSM$. (5)
+
+11.2.3 As $LK = 12$ eenhede en $3KN = 4SM$, bepaal die lengte van KS. (4)
+
+11.2.4 As verder gegee word dat $NL = 16$ eenhede, $LS = 13$ eenhede en $KN = 8$ eenhede, bepaal, met redes, die lengte van LT. (4)
+
+[23]
+
+**TOTAAL: 150**
+
+---
+
+### INLIGTINGSBLAD: WISKUNDE
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni)$$  
+$$A = P(1 - ni)$$  
+$$A = P(1 - i)^n$$  
+$$A = P(1 + i)^n$$
+
+$$T_n = a + (n - 1)d$$  
+$$S_n = \frac{n}{2}[2a + (n - 1)d]$$
+
+$$T_n = ar^{n-1}$$  
+$$S_n = \frac{a(r^n - 1)}{r - 1} \quad (r \neq 1)$$  
+$$S_\infty = \frac{a}{1 - r} \quad (-1 < r < 1)$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i}$$  
+$$P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$  
+$$M\left(\frac{x_1 + x_2}{2}; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c$$  
+$$y - y_1 = m(x - x_1)$$  
+$$m = \frac{y_2 - y_1}{x_2 - x_1}$$  
+$$m = \tan \theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+In $\triangle ABC$:  
+$$\frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}$$  
+$$a^2 = b^2 + c^2 - 2bc\cos A$$  
+$$\text{area } \triangle ABC = \frac{1}{2}ab\sin C$$
+
+$$\sin(\alpha + \beta) = \sin\alpha\cos\beta + \cos\alpha\sin\beta$$  
+$$\sin(\alpha - \beta) = \sin\alpha\cos\beta - \cos\alpha\sin\beta$$  
+$$\cos(\alpha + \beta) = \cos\alpha\cos\beta - \sin\alpha\sin\beta$$  
+$$\cos(\alpha - \beta) = \cos\alpha\cos\beta + \sin\alpha\sin\beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2\alpha - \sin^2\alpha \\ 1 - 2\sin^2\alpha \\ 2\cos^2\alpha - 1 \end{cases}$$  
+$$\sin 2\alpha = 2\sin\alpha\cos\alpha$$
+
+$$\bar{x} = \frac{\sum x}{n}$$  
+$$\sigma^2 = \frac{\sum_{i=1}^n (x_i - \bar{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)}$$  
+$$P(A \text{ of } B) = P(A) + P(B) - P(A \text{ en } B)$$
+
+$$\hat{y} = a + bx$$  
+$$b = \frac{\sum(x - \bar{x})(y - \bar{y})}{\sum(x - \bar{x})^2}$$

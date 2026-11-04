@@ -1,0 +1,819 @@
+=== page 1 ===
+Kopiereg voorbehou Blaai om asseblief
+
+PUNTE:  150
+
+TYD:  2 uur
+
+Hierdie vraestel bestaan uit 17 bladsye, 2 gegewensblaaie en 1 antwoordblad.
+
+GRAAD 10
+FISIESE WETENSKAPPE:  FISIKA (V1)
+
+NOVEMBER 2018
+NASIONALE
+SENIOR SERTIFIKAAT
+
+=== page 2 ===
+Fisiese Wetenskappe/V1  2 DBE/November 2018
+KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+INSTRUKSIES EN INLIGTING
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+Skryf jou naam en klas (byvoorbeeld 1 0A) in die toepaslike ruimtes op die
+ANTWOORDEBOEK neer.
+
+Hierdie vraestel bestaan uit 11 vrae. Beantwoord A L die vrae in die
+ANTWOORDEBOEK.
+
+Lewer die ANTWOORDBLAD saam met die ANTWOORDEBOEK in.
+
+Begin ELKE vraag op 'n NUWE bladsy in die ANTWOORDEBOEK.
+
+Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie
+vraestel gebruik is.
+
+Laat EEN reël tussen subvrae oop, bv. tussen VRAAG 2.1 en VRAAG 2.2.
+
+Jy mag 'n nieprogrammeerbare sakrekenaar gebruik.
+
+Jy mag toepaslike wiskundige instrumente gebruik.
+
+Jy word aangeraai om die aangehegte GEGEWENSBLAAIE te gebruik.
+
+Toon ALLE formules en substitusies in ALLE berekeninge.
+
+Rond jou finale numeriese antwoorde tot 'n minimum van TWEE desimale
+plekke af.
+
+Gee kort (bondige) motiverings, besprekings, ens. waar nodig.
+
+Skryf netjies en leesbaar.
+
+=== page 3 ===
+Fisiese Wetenskappe/V1  3 DBE/November 2018
+KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+VRAAG 1:  MEERVOUDIGEKEUSE-VRAE
+
+Verskeie opsies word as moontlike antwoorde op die volgende vrae gegee. Elke
+vraag het slegs EEN korrekte antwoord. Kies die antwoord en skryf slegs die
+letter (A –D) langs die vraagnommer s (1.1 tot 1.10) in die ANTWOORD EBOEK neer,
+bv. 1.11 D.
+
+1.1 'n Voorwerp is positief gelaai indien dit meer … het.
+
+A elektrone as protone
+
+B elektrone as neutrone
+
+C protone as elektrone
+
+D protone as neutrone     (2)
+
+1.2 'n Motor ry op 'n reguit pad teen 'n spoed van 30 m·s-1. Wat sal die spoed van
+die motor in km∙h-1 wees?
+
+A
+
+8,33 km∙h-1
+
+B
+
+30 km∙h-1
+
+C
+
+108 km∙h-1
+
+D
+
+130 km∙h-1     (2)
+
+1.3 Die EENHEID waarin die vloeitempo van lading gemeet word, word ...
+genoem.
+
+ A ampère
+
+ B coulomb
+
+ C volt
+
+ D watt      (2)
+
+1.4 Die gradiënt van 'n snelheid-teenoor-tydgrafiek is gelyk aan die …
+
+ A versnelling.
+
+ B verplasing.
+
+ C posisie.
+
+ D totale afstand gedek.     (2)
+
+=== page 4 ===
+Fisiese Wetenskappe/V1  4 DBE/November 2018
+KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+1.5 'n Voorwerp word vanaf die bokant van 'n wrywinglose skuinsvlak, AB, los
+gelaat, soos hieronder getoon.
+
+ Watter EEN van die volgende stellings oor die totale meganiese energie van
+die voorwerp is KORREK?
+
+A
+
+(Ep + Ek)A > (Ep + Ek)B
+
+B
+
+(Ep + Ek)A < (Ep + Ek)B
+
+C
+
+(Ep + Ek)A = (Ep + Ek)B
+
+D
+
+(Ep + Ek)A = - (Ep + Ek)B
+
+    (2)
+
+1.6 Twee identiese gloeilampies word in parallel verbind, soos in die kringdiagram
+hieronder getoon. Voltmeter V1 en V2 word oor elke gloeilamp verbind.
+
+ Watter EEN van die volgende voltmeterlesings is KORREK?
+
+ A V1 = V2
+
+B
+
+V1 = 2V2
+
+C
+
+V1 = ½V2
+
+D
+
+V1 = ¼V2
+
+    (2)
+
+A
+B
+V1
+V2
+
+=== page 5 ===
+Fisiese Wetenskappe/V1  5 DBE/November 2018
+KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+1.7 Vier identiese ballonne, wat elk 'n lading dra, word van 'n plafon laat hang,
+soos in die diagram hieronder getoon.
+
+Ballon B is negatief gelaai.
+
+ Watter kombinasie is KORREK ten opsigte van die ladings op die ballonne?
+
+ TEKEN VAN LADING
+OP A
+TEKEN VAN LADING
+OP C
+TEKEN VAN LADING
+OP D
+
+A
+B
+C
+D          (2)
+
+1.8 Twee fietsryers ry fiets in teenoorgestelde rigtings langs die kantlyn van 'n
+reghoekige veld. Daar word waargeneem dat hulle dieselfde afstand oor 'n
+tydinterval van 3 s afgelê het . Watter EEN van die volgende fisiese
+hoeveelhede is DIESELFDE ten opsigte van die fietsryers oor die interval
+van 3 s?
+
+A Versnelling
+
+B
+
+Gemiddelde spoed
+
+C
+
+Gemiddelde snelheid
+
+D
+
+Verplasing     (2)
+
+1.9 Rooi lig met frekwensie 𝑓 en golflengte 𝜆 skyn op 'n voorwerp . Die rooi lig
+word dan met lig met 'n hoër energie vervang. Hoe vergelyk die frekwensie en
+die golflengte van lig wat nou op die voorwerp skyn, met dié van rooi lig?
+
+  FREKWENSIE GOLFLENGTE
+ A Groter as   Bly dieselfde (𝜆)
+ B Minder as 𝑓 Groter as 𝜆
+ C Groter as 𝑓 Minder as 𝜆
+ D Bly dieselfde (𝑓) Minder as 𝜆      (2)
+
+A
+ B
+ C
+ D
+-
+-
+ -
+-
+-
+-
++
++
+ +
++
++
++
+
+=== page 6 ===
+Fisiese Wetenskappe/V1  6 DBE/November 2018
+KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+1.10 Bestudeer die volgende golfpatrone:
+
+ Watter KOMBINASIE is die KORREKTE  voorstelling van die golfpatrone met
+dieselfde toonhoogte?
+
+ A 1 en 2
+
+ B 1 en 3
+
+ C 1 en 4
+
+ D 2 en 4       (2)
+         [20]
+
+1
+ 2
+3
+ 4
+
+=== page 7 ===
+Fisiese Wetenskappe/V1  7 DBE/November 2018
+KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+VRAAG 2 (Begin op 'n nuwe bladsy.)
+
+'n Baba los 'n bakkie kos op die vloer en kruip weswaarts om 'n speelding te gaan haal
+wat 5 m weg geplaas is. 'n Hond loop terselfdertyd ooswaarts na die baba toe. Dit neem
+die baba 30 s om die speelding te bereik. Die hond loop verby die speelding om die baba
+se kos in die bakkie te eet.
+
+2.1 Definieer die term verplasing in woorde.     (2)
+
+2.2 Bepaal die posisie van die hond met betrekking tot  die baba voordat hulle al
+twee beweeg het.
+
+    (2)
+
+2.3 Bereken die gemiddelde snelheid van die baba.      (4)
+
+2.4 Indien die gemiddelde  spoed van die hond TWEE KEER di e spoed van die
+baba is, bereken hoe lank dit die hond s al neem om die kosbakkie te bereik
+vanaf die oomblik dat die hond begin beweeg het.
+
+    (4)
+      [12]
+
+                 N
+
+    W                       E
+
+                 S
+
+Hond
+ Speelding
+7 m
+ 5 m
+Kosbakkie
+
+=== page 8 ===
+Fisiese Wetenskappe/V1  8 DBE/November 2018
+KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+VRAAG 3 (Begin op 'n nuwe bladsy.)
+
+Die diagram hieronder toon die posisies van 'n atleet gedurende 'n wedloop teen
+verskillende tydintervalle.
+
+t = 0 s 1,5 s 3,0 s  4,5 s  6,0 s 7,5 s
+
+3.1 Onderskei tussen beweging met uniforme snelheid en uniforme versnelde
+beweging.
+
+    (4)
+
+3.2 Watter soort beweging  (beweging met uniforme snelheid of uniforme
+versnelde beweging) word deur die volgende intervalle verteenwoordig?
+
+3.2.1 A na B     (1)
+
+3.2.2 B na C     (1)
+
+3.3 Gebruik die inligting in die diagram hierbo om 'n akkurate posisie -teenoor-
+tydgrafiek op die grafiekpapier op die aangehegte ANTWOORDBLAD te trek.
+
+    (5)
+
+3.4 Definieer die term oombliklike snelheid in woorde.     (2)
+
+3.5 Op die grafiek wat vir VRAAG 3.3 geteken is , toon hoe jy die oombliklike
+snelheid sou bepaal.
+
+    (2)
+
+3.6 Bereken die snelheid van die atleet op 3 s.     (4)
+      [19]
+
+C
+3 m
+ 6 m
+ 12 m
+ 21 m
+0
+ 33 m
+A
+ B
+
+=== page 9 ===
+Fisiese Wetenskappe/V1  9 DBE/November 2018
+KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+VRAAG 4 (Begin op 'n nuwe bladsy.)
+
+Twee motors , A en B, beweeg teen snelhede van 15 m·s -1 en 30 m·s -1 in dieselfde
+rigting. Hulle is langs mekaar wanneer beide bestuurders 'n obstruksie voor hulle
+waarneem, soos in die diagram hieronder getoon.
+
+Beide bestuurders rem en versnel teen  –4,5 m·s -2 totdat beide motors tot rus kom .
+Ignoreer die bestuurders se reaksietyd.
+
+4.1 Definieer die term versnelling in woorde.     (2)
+
+4.2 Bereken die:
+
+ 4.2.1 Tyd wat dit vir motor A neem om tot rus te kom      (4)
+
+ 4.2.2 Stopafstand van motor A     (4)
+
+4.3 Watter motor  (A of B) het die langste stopafstand ? Staaf die antwoord met
+'n berekening.
+
+    (6)
+
+4.4 Watter gevolgtrekking kan oor die verwantskap tussen spoed en stopafstand
+gemaak word?
+
+    (2)
+       [18]
+
+Obstruksie
+ B
+ A
+15 m·s-1
+30 m·s-1
+
+=== page 10 ===
+Fisiese Wetenskappe/V1  10 DBE/November 2018
+KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+4,5 m
+
+VRAAG 5 (Begin op 'n nuwe bladsy.)
+
+'n Skaatsplankryer, wat aan die bopunt van 'n helling 4,5 m bo die grond begin, skaats
+by die helling af, soos in die diagram hieronder getoon. Die massa van die
+skaatsplankryer en sy plank is 65 kg. Ignoreer die effekte van wrywing.
+
+5.1 Definieer die term gravitasie- potensiële energie in woorde.     (2)
+
+5.2 Bereken die gravitasie- potensiële energie  van die skaatsplankryer  net
+voordat hy by die helling af skaats.
+
+    (3)
+
+5.3 Skryf die beginsel van behoud van meganiese energie in woorde neer.      (2)
+
+5.4 Gebruik die beginsel wat in VRAAG 5.3 genoem is om die grootte van die
+snelheid van die skaatsplankryer te bereken wanneer hy die grond by punt X
+bereik.
+
+    (4)
+
+5.5 Sal die skaatsplankryer punt Y kan bereik as hy op sy skaatsplank sou bly?
+Skryf JA of NEE en staaf die antwoord met 'n relevante berekening.
+
+    (5)
+      [16]
+
+6 m
+X
+Y
+
+=== page 11 ===
+Fisiese Wetenskappe/V1  11 DBE/November 2018
+KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+VRAAG 6 (Begin op 'n nuwe bladsy.)
+
+Bestudeer die twee transversale golwe, P en Q, soos hieronder getoon.
+
+6.1 Skryf EEN verskil en EEN ooreenkoms tussen golf P en golf Q neer.      (2)
+
+6.2 Vir golfpatroon P, skryf neer:
+
+6.2.1 Twee punte wat uit fase is      (1)
+
+6.2.2 Die amplitude van die golf     (1)
+
+6.3 Definieer die term frekwensie van die golf in woorde.     (2)
+
+6.4 Vir golfpatroon Q, bereken die:
+
+6.4.1 Frekwensie van die golf     (3)
+
+6.4.2 Spoed van die golf     (3)
+      [12]
+
+100 mm
+B
+A
+ C
+D
+Posisie (mm)
+15
+
+10
+
+5
+
+0
+
+-5
+
+-10
+
+-15
+
+Golf P
+Golf Q
+tyd (s)
+1,5
+ 3,0
+
+=== page 12 ===
+Fisiese Wetenskappe/V1  12 DBE/November 2018
+KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+VRAAG 7 (Begin op 'n nuwe bladsy.)
+
+Hulle het die eksperiment teen verskillende temperature op ver skillende tye van die
+dag uitgevoer. Hulle het hulle bevindings in die tabel hieronder aangeteken.
+
+TEMPERATUUR (°C) TYD (s)
+0 0,151
+5 0,150
+10 0,148
+15 0,147
+20 0,146
+25 0,145
+
+7.1 Vir die ondersoek, skryf neer die:
+
+ 7.1.1 Ondersoekende vraag     (2)
+
+ 7.1.2 Onafhanklike veranderlike     (1)
+
+ 7.1.3 Afhanklike veranderlike     (1)
+
+7.2 Bereken die spoed van klank by 20 °C.     (3)
+
+7.3 Skryf 'n gevolgtrekking vir die ondersoek neer.      (2)
+
+Die persoon wat die trom geslaan het, het agtergekom  dat die klank na 'n rukkie
+weerkaats het.
+
+7.4 Noem die term wat die weerkaatsing van klankgolwe beskryf.      (1)
+       [10]
+
+Eksperimente is gedoen om die effek van temperatuur op die spoed van klank te
+ondersoek. Een persoon het  'n trom geslaan, terwyl 'n ander persoon, wat 50 m weg
+van die klankbron gestaan het, die tyd wat die klank beweeg het, aangeteken het.
+50 m
+
+=== page 13 ===
+Fisiese Wetenskappe/V1  13 DBE/November 2018
+KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+VRAAG 8 (Begin op 'n nuwe bladsy.)
+
+Die tipes elektromagnetiese straling is in die tabel hieronder volgens frekwensie
+gerangskik.
+
+TIPE STRALING  FREKWENSIE (Hz)
+Radiogolwe  105–1010
+Mikrogolwe  1010–1011
+Infrarooi 1011–1014
+Sigbare lig 1014–1015
+Ultraviolet 1015–1016
+X-strale 1016–1018
+Gammastrale  1018–1021
+
+8.1 Hoe word elektromagnetiese golwe opgewek?     (1)
+
+8.2 Watter soort elektromagnetiese straling het die hoogste energie?     (1)
+
+8.3 Verduidelik die antwoord op VRAAG 8.2.     (2)
+
+8.4 'n Sekere tipe elektromagnetiese straling het 'n golflengte van 600 x 10-10 m.
+
+8.4.1 Identifiseer die tipe elektromagnetiese straling deur 'n berekening te
+doen.
+
+    (4)
+
+8.4.2 Noem EEN toepassing van die tipe straling wat VRAAG  8.4.1
+geïdentifiseer is.
+
+    (1)
+      [9]
+
+=== page 14 ===
+Fisiese Wetenskappe/V1  14 DBE/November 2018
+KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+VRAAG 9 (Begin op 'n nuwe bladsy.)
+
+Vier metaalstawe, wat vry van af 'n plafon hang, is met mekaar in wisselwerking, soos
+in die diagram hieronder getoon. Die hegtingspunte van X  en Y op die plafon is 4 cm
+uitmekaar.
+
+Die twee stawe in die middel is staafmagnete (X en Y) en die afstand tussen hulle  is
+5 cm. Een van die stawe (A of B) is van yster gemaak en die ander een van goud.
+
+9.1 Skryf die term neer wat 'n materiaal beskryf wat maklik gemagnetiseer word.      (1)
+
+9.2 Watter EEN van die stawe (A of B) is van yster gemaak?     (1)
+
+9.3 Bepaal die polariteit van staaf B wat die naaste aan magneet Y is. Skryf slegs
+NOORD of SUID neer.
+
+    (1)
+
+9.4  Verduidelik die antwoord op VRAAG 9.3.     (2)
+
+9.5 Skets die magnetieseveldpatroon om staafmagneet X.     (3)
+
+9.6 Staaf A en B word nou verwyder  en die hegtingspunte  is nou 2 cm, soos in
+die diagram hieronder getoon.
+
+9.6.1 Hoe sal die verandering in die hegtingsposisie die finale
+skeidingsafstand tussen die stawe beïnvloed? Skryf slegs GROTER
+AS 5 cm, KLEINER AS 5 cm of BLY OP 5 cm.
+
+    (1)
+
+9.6.2 Verduidelik die antwoord op VRAAG 9.6.1.     (2)
+      [11]
+
+ 4 cm
+5 cm
+B
+A
+N
+X
+ Y
+  X
+ Y
+ 2 cm
+
+=== page 15 ===
+Fisiese Wetenskappe/V1  15 DBE/November 2018
+KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+VRAAG 10 (Begin op 'n nuwe bladsy.)
+
+Twee identiese geïsoleerde sfere, X en Y, wat met dun draadjies van af 'n plafon hang,
+word op 'n klein afstand uitmekaar gehou, soos in die diagram hieronder getoon.
+
+Sfeer X dra 'n lading van + 4 x 10-18 C, terwyl sfeer Y 'n oormaat van 30 elektrone het.
+
+10.1 Bereken die grootte van die lading op sfeer Y.     (3)
+
+Die sfere word nou vrygelaat en hulle beweeg na mekaar toe.
+
+10.2 Gee 'n rede hoekom sfeer X en Y na mekaar toe beweeg.     (2)
+
+Die sfere word toegelaat om aan mekaar te raak. Nadat hulle geraak het, beweeg hulle
+weg van mekaar af.
+
+10.3 Skryf die beginsel van behoud van lading in woorde neer.     (2)
+
+10.4 Bereken die lading op elke sfeer nadat hulle geskei het.     (4)
+      [11]
+
+_
+Y
+
+X
++4 x 10-18 C
+ +
+
+=== page 16 ===
+Fisiese Wetenskappe/V1  16 DBE/November 2018
+KABV – Graad 10
+Kopiereg voorbehou  Blaai om asseblief
+8 Ω
+8 Ω
+
+V2
+A2
+A3
+V1
+S
+8 Ω
+
+VRAAG 11 (Begin op 'n nuwe bladsy.)
+
+11.1 Beskou die kringdiagram hieronder.
+
+Skakelaar S is OOP.
+
+11.1.1 Skryf die lesing op die volgende neer:
+
+(a) Voltmeter (V1)     (1)
+
+(b) Ammeter (A1)     (1)
+
+Skakelaar S is nou GESLUIT.
+
+11.1.2 Bereken die ekwivalente weerstand van die kring.      (4)
+
+11.1.3 Bereken die lesing op voltmeter V2.     (3)
+
+11.1.4 Hoe vergelyk die lesings op ammeter A2 en A3 met mekaar?     (1)
+
+24 V
+A1
+
+=== page 17 ===
+Fisiese Wetenskappe/V1  17 DBE/November 2018
+KABV – Graad 10
+Kopiereg voorbehou
+
+11.2 Die grafiek hieronder toon die verwantskap tussen die weerstand en die
+lengte van die geleidingsdraad.
+
+11.2.1
+
+Skryf die verwantskap tussen die weerstand en die lengte van die
+geleidingsdraad neer.
+
+    (1)
+
+11.2.2 Bepaal die weerstand van 'n stuk draad met 'n lengte van 30 mm.     (1)
+      [12]
+
+ TOTAAL:     150
+Weerstand (Ω)
+0          10          20         30          40         50          60         70
+3,5
+
+3,0
+
+2,5
+
+2,0
+
+1,5
+
+1,0
+
+0,5
+Lengte van draad (mm)
+
+=== page 18 ===
+Fisiese Wetenskappe/V1  DBE/November 2018
+ KABV – Graad 10
+Kopiereg voorbehou
+
+DATA FOR PHYSICAL SCIENCES GRADE 10
+PAPER 1 (PHYSICS)
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 10
+VRAESTEL 1 (FISIKA)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Acceleration due to gravity
+Swaartekragversnelling g 9,8 m·s-2
+Speed of light in a vacuum
+Spoed van lig in 'n vakuum c 3,0 x 108 m·s-1
+Planck's constant
+Planck se konstante h 6,63 x 10-34 J·s
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Electron mass
+Elektronmassa me 9,11 x 10-31 kg
+
+TABLE 2:  FORMULAE/TABEL 2:  FORMULES
+
+MOTION/BEWEGING
+
+tavv if ∆+=  221i tatvx ∆+∆=∆
+xa2vv
+2
+i
+2
+f ∆+=   t2 vvx if ∆ +=∆
+
+WORK, ENERGY AND POWER/ARBEID, ENERGIE EN DRYWING
+
+mghU=  or/of   mghEP =  2mv21K=   or/of  2k mv21E =
+
+EM = Ek+ Ep.   or/of   EM = K + U
+
+WAVES, SOUND AND LIGHT/GOLWE, KLANK EN LIG
+
+λ= fv
+f
+1T=
+hfE= or/of λ= chE
+
+ELECTROSTATICS/ELEKTROSTATIKA
+
+e
+Q = n  2Q +Q = Q 21
+
+=== page 19 ===
+Fisiese Wetenskappe/V1  DBE/November 2018
+ KABV – Graad 10
+Kopiereg voorbehou
+
+ELECTRIC CIRCUITS/ELEKTRIESE STROOMBANE
+
+I=Q ∆  t ...R1R1R1 21p ++=
+...RRR 21s ++=  qWV=
+
+=== page 20 ===
+Fisiese Wetenskappe/V1  DBE/November 2018
+ KABV – Graad 10
+Kopiereg voorbehou
+
+ANTWOORDBLAD
+
+Lewer hierdie ANTWOORDBLAD saam met die ANTWOORDEBOEK in.
+
+NAME: ______________________________________________________________
+
+KLAS: __________
+
+VRAAG 3.3

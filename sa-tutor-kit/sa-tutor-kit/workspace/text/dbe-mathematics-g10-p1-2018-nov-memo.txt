@@ -1,0 +1,422 @@
+**NATIONAL SENIOR CERTIFICATE / NASIONALE SENIOR SERTIFIKAAT**
+
+**GRADE / GRAAD 10**
+
+**MATHEMATICS P1 / WISKUNDE V1**
+
+**NOVEMBER 2018**
+
+**MARKING GUIDELINES / NASIENRIGLYNE**
+
+---
+
+### **NOTE:**
+* If a candidate answered a question TWICE, mark only the FIRST attempt.
+* If a candidate crossed out an answer and did not redo it, mark the crossed-out answer.
+* Consistent accuracy applies to ALL aspects of the marking guidelines.
+* Assuming values/answers in order to solve a problem is unacceptable.
+
+---
+
+### **QUESTION/VRAAG 1**
+
+1.1.1 
+$$4x - x^3$$
+$$= x(4 - x^2)$$
+$$= x(2 - x)(2 + x)$$
+* $\checkmark$ common factor/gemeenskaplike faktor
+* $\checkmark$ difference of two squares/verskil van twee kwadrate (2)
+
+1.1.2 
+$$x^2 + 15x - 54$$
+$$= (x + 18)(x - 3)$$
+* $\checkmark\checkmark$ factors/faktore (2)
+
+1.1.3 
+$$y - xy + x - 1$$
+$$= y(1 - x) - 1(1 - x)$$
+$$= (y - 1)(1 - x)$$
+* $\checkmark$ grouping/groepering
+* $\checkmark$ change of sign/verandering van teken
+* $\checkmark$ factors/faktore (3)
+
+1.2.1 
+$$(x + 2)(x^2 - x + 3)$$
+$$= x^3 - x^2 + 3x + 2x^2 - 2x + 6$$
+$$= x^3 + x^2 + x + 6$$
+* $\checkmark$ simplification/vereenvoudiging
+* $\checkmark$ answer/antwoord (2)
+
+1.2.2 
+$$\frac{5}{x + 3} - \frac{3}{2 - x}$$
+$$= \frac{5}{x + 3} + \frac{3}{x - 2}$$
+$$= \frac{5(x - 2) + 3(x + 3)}{(x + 3)(x - 2)}$$
+$$= \frac{5x - 10 + 3x + 9}{(x + 3)(x - 2)}$$
+$$= \frac{8x - 1}{(x + 3)(x - 2)}$$
+
+**OR/OF**
+
+$$\frac{5}{x + 3} - \frac{3}{2 - x}$$
+$$= \frac{5(2 - x) - 3(x + 3)}{(x + 3)(2 - x)}$$
+$$= \frac{10 - 5x - 3x - 9}{(x + 3)(2 - x)}$$
+$$= \frac{1 - 8x}{(x + 3)(2 - x)}$$
+* $\checkmark$ LCD/KGN
+* $\checkmark$ numerator/teller
+* $\checkmark$ answer/antwoord (3)
+
+1.2.3 
+$$\frac{25^{-x} \cdot 15^{x+1}}{3^x \cdot 5^{-x}}$$
+$$= \frac{5^{-2x} \cdot 3^{x+1} \cdot 5^{x+1}}{3^x \cdot 5^{-x}}$$
+$$= 5^{-2x + x + 1 + x} \cdot 3^{x + 1 - x}$$
+$$= 5^1 \cdot 3^1$$
+$$= 15$$
+* $\checkmark$ exponential law/eksponensiaalwet
+* $\checkmark$ simplification/vereenvoudiging
+* $\checkmark$ answer/antwoord (3)
+
+1.3 
+$$(3p + q)^2$$
+$$= 9p^2 + 6pq + q^2$$
+$$= 9p^2 + q^2 + 6pq$$
+$$= 12 + 6(-3)$$
+$$= -6$$
+* $\checkmark$ expansion/ontwikkeling
+* $\checkmark$ subst./verv.
+* $\checkmark$ answer/antwoord (3)
+
+**[18]**
+
+---
+
+### **QUESTION/VRAAG 2**
+
+2.1.1 
+$$px + qx = a$$
+$$x(p + q) = a$$
+$$x = \frac{a}{p + q} ; p \neq -q$$
+* $\checkmark$ common factor/gemeenskaplike faktor
+* $\checkmark$ answer/antwoord No restriction, FULL marks/Geen beperking nie/VOLPUNTE (2)
+
+2.1.2 
+$$2x^2 - 5x + 2 = 0$$
+$$(2x - 1)(x - 2) = 0$$
+$$x = \frac{1}{2} \text{ or } x = 2$$
+* $\checkmark$ factors/faktore
+* $\checkmark\checkmark$ answer/antwoord (3)
+
+2.1.3 
+$$\left(\frac{1}{2}\right)^{3x+1} = 32$$
+$$2^{-3x-1} = 2^5$$
+$$-3x - 1 = 5$$
+$$3x = -6$$
+$$x = -2$$
+* $\checkmark$ base 2/grondtal 2
+* $\checkmark$ equating exponents/gelykstelling van eksponente
+* $\checkmark$ answer/antwoord (3)
+
+2.2.1 
+$$-11 \le 3m - 8 < 4$$
+$$-3 \le 3m < 12$$
+$$-1 \le m < 4$$
+* $\checkmark$ simplification/vereenvoudiging
+* $\checkmark$ answer/antwoord (2)
+
+2.2.2 
+$$5 \text{ integers/heelgetalle}$$
+* $\checkmark$ answer/antwoord (1)
+
+2.3 
+$$5x + 4y = 21 \dots\dots\dots (1)$$
+$$2x = 3 - y \dots\dots\dots (2)$$
+$$y = 3 - 2x \dots\dots\dots (3)$$
+
+$\text{sub (3) into } (1)$:
+$$5x + 4(3 - 2x) = 21$$
+$$5x - 8x = 21 - 12$$
+$$-3x = 9$$
+$$x = -3$$
+$$y = 3 - 2(-3)$$
+$$y = 9$$
+
+**OR/OF**
+$$5x + 4y = 21 \dots\dots\dots (1) \times 1$$
+$$2x + y = 3 \dots\dots\dots (2) \times 4$$
+$$5x + 4y = 21 \dots\dots\dots (1)$$
+$$8x + 4y = 12 \dots\dots\dots (3)$$
+$(3) - (1): 3x = -9$
+$$x = -3$$
+$$\text{Sub from } (2):$$
+$$y = 3 - 2(-3)$$
+$$y = 9$$
+* $\checkmark$ third equation/derde vergelyking
+* $\checkmark$ subst./verv.
+* $\checkmark$ $x$ value/$x$-waarde
+* $\checkmark$ $y$ value/$y$-waarde (4)
+
+**[15]**
+
+---
+
+### **QUESTION/VRAAG 3**
+
+3.1 
+$$T_4 = 11$$
+* $\checkmark$ answer/antwoord (1)
+
+3.2 
+$$T_n = pn + q$$
+$$= -3n + q$$
+$$14 = -3(3) + q$$
+$$q = 23$$
+$$T_n = -3n + 23$$
+* $\checkmark$ subst./verv.
+* $\checkmark$ $q$ value/$q$-waarde (2)
+
+3.3 
+$$T_n = -3n + 23$$
+$$-3n + 23 = -103$$
+$$3n = 126$$
+$$n = 42$$
+* $\checkmark$ equating to -103/gelykstelling aan -103
+* $\checkmark$ answer/antwoord (2)
+
+3.4 
+$$T_n < 0$$
+$$-3n + 23 < 0$$
+$$-3n < -23$$
+$$n > \frac{23}{3}$$
+$$\therefore n = 8$$
+* $\checkmark$ $T_n < 0$
+* $\checkmark$ simplification/vereenvoudiging
+* $\checkmark$ correct conclusion, i.e $n = 8$/korrekte afleiding, m.a.w. $n = 8$ (3)
+
+3.5 
+$$T_n = -3n + 23$$
+$$T_{39} = -3(37) + 23 \quad [\text{Note: standard formula uses } 39]$$
+$$T_{39} = -3(39) + 23 = -88$$
+* $\checkmark$ $T_{39}$
+* $\checkmark$ answer/antwoord (2)
+
+**[10]**
+
+---
+
+### **QUESTION/VRAAG 4**
+
+4.1.1 
+$$4^2 = 16$$
+* $\checkmark$ answer/antwoord (1)
+
+4.1.2 
+$$13^2 = 169$$
+* $\checkmark$ answer/antwoord (1)
+
+4.1.3 
+$$T_n = n^2$$
+* $\checkmark$ answer/antwoord (1)
+
+4.2 
+$$T_n = 2n - 1$$
+$$43 = 2n - 1$$
+$$44 = 2n$$
+$$n = 22$$
+$$\text{Total dots} = n^2 = 22^2 = 484$$
+* $\checkmark$ $T_n = 2n - 1$
+* $\checkmark$ $n = 22$
+* $\checkmark$ answer/antwoord (3)
+
+**[6]**
+
+---
+
+### **QUESTION/VRAAG 5**
+
+5.1.1 
+$$\text{D}(0 ; -3)$$
+* $\checkmark$ $x$ value/$x$-waarde
+* $\checkmark$ $y$ value/$y$-waarde (2)
+
+5.1.2 
+$$\text{Range} : y > -4$$
+* $\checkmark$ answer/antwoord (1)
+
+5.2.1 
+$$0 = \left(\frac{1}{2}\right)^x - 4$$
+$$2^{-x} = 4$$
+$$2^{-x} = 2^2$$
+$$x = -2$$
+$$\text{A}(-2; 0)$$
+* $\checkmark$ equating to $0$/gelykstelling aan $0$
+* $\checkmark$ answer/antwoord (2)
+
+5.2.2 
+$$f(x) = ax^2 + q$$
+$$3 = a(1)^2 + q \quad \text{at E}(1; 3)$$
+$$3 = a + q \dots\dots\dots (1)$$
+$$0 = a(-2)^2 + q \quad \text{at A}(-2; 0)$$
+$$0 = 4a + q$$
+$$q = -4a \dots\dots\dots (2)$$
+$$a = -1$$
+$$q = 4$$
+* $\checkmark$ subst./verv.
+* $\checkmark$ subst./verv.
+* $\checkmark$ $a$ value/$a$-waarde
+* $\checkmark$ $q$ value/$q$-waarde (4)
+
+5.3.1 
+$$\text{CD} = y_C - y_D$$
+$$= 4 - (-3)$$
+$$= 7 \text{ units/eenhede}$$
+* $\checkmark$ subst./verv.
+* $\checkmark$ answer/antwoord (2)
+
+5.3.2 
+$$y = mx + c$$
+$$y = -\frac{3}{2}x + c$$
+$$0 = -\frac{3}{2}(-2) + c$$
+$$c = -3$$
+$$y = -\frac{3}{2}x - 3$$
+* $\checkmark$ $m$ value/$m$-waarde
+* $\checkmark$ subst./verv.
+* $\checkmark$ equation/vergelyking (3)
+
+5.4.1 
+$$-2 < x < 2 \quad \text{OR} \quad x \in (-2; 2)$$
+* $\checkmark$ critical values/kritieke waardes
+* $\checkmark$ notation/notasie (2)
+
+5.4.2 
+$$x > 0 \quad \text{OR} \quad x \in (0; \infty)$$
+* $\checkmark$ answer/antwoord (1)
+
+**[17]**
+
+---
+
+### **QUESTION/VRAAG 6**
+
+6.1.1 
+$$g(x) = \frac{a}{x} + q$$
+$$q = 1$$
+$$2 = \frac{a}{3} + 1$$
+$$a = 3$$
+$$\therefore g(x) = \frac{3}{x} + 1$$
+* $\checkmark$ $q = 1$
+* $\checkmark$ subst./verv.
+* $\checkmark$ answer/antwoord (3)
+
+6.1.2 
+$$h(x) = x + 1$$
+* $\checkmark$ positive gradient/positiewe gradiënt
+* $\checkmark$ answer/antwoord (2)
+
+6.2 
+*(Graph sketch)*
+* $\checkmark$ shape of $g$/vorm van $g$
+* $\checkmark$ asymptotes/asimptote
+* $\checkmark$ positive gradient of $h$/positiewe gradiënt van $h$
+* $\checkmark$ $x$ intercepts of $g$ and $h$/$x$-afsnitte van $g$ en $h$ (4)
+
+6.4 
+$$g(x) = -\left(\frac{3}{x} + 1\right) + 5$$
+$$g(x) = -\frac{3}{x} - 1 + 5$$
+$$g(x) = -\frac{3}{x} + 4$$
+$$x = 0$$
+$$y = 4$$
+* $\checkmark$ equation of $g$/vergelyking van $g$
+* $\checkmark$ $x = 0$
+* $\checkmark$ $y = 4$ (3)
+
+**[12]**
+
+---
+
+### **QUESTION/VRAAG 7**
+
+7.1 
+$$\text{Total amount paid / Totale bedrag betaal}$$
+$$= \text{R}229 \times 24$$
+$$= \text{R}5\ 496$$
+* $\checkmark$ answer/antwoord (1)
+
+7.2 
+$$A = P(1 + i \cdot n)$$
+$$\text{R}5\ 496 = P(1 + 0,075 \times 2)$$
+$$P = \text{R}4\ 779,13$$
+* $\checkmark$ formula/formule
+* $\checkmark$ subst./verv. (2)
+
+7.3 
+$$\text{Interest / Rente}$$
+$$= \text{R}5\ 496 - \text{R}4\ 779,13$$
+$$= \text{R}716,87$$
+* $\checkmark$ answer/antwoord (1)
+
+7.4 
+$$\text{Insurance / Versekering}$$
+$$= \frac{\text{R}4\ 779,13 \times 0,115}{12}$$
+$$= \text{R}45,80$$
+$$\text{New monthly payments / Nuwe maandelikse paaiement}$$
+$$= \text{R}45,80 + \text{R}229$$
+$$= \text{R}274,80$$
+* $\checkmark$ insurance per month/versekering per maand
+* $\checkmark$ dividing by $12$/deling deur $12$
+* $\checkmark$ answer/antwoord (3)
+
+7.5 
+$$A = P(1 + i)^n$$
+$$5100 = 4779,13(1 + i)^2$$
+$$i = \sqrt{1,067139835} - 1$$
+$$i = 0,03302460526$$
+$$\text{Inflation rate / Inflasiekoers} = 3,30\%$$
+* $\checkmark$ formula/formule
+* $\checkmark$ subst./verv.
+* $\checkmark$ simplification/vereenvoudiging
+* $\checkmark$ answer/antwoord (4)
+
+**[11]**
+
+---
+
+### **QUESTION/VRAAG 8**
+
+8.1.1 (a) 
+$$P(B) = 1 - P(B')$$
+$$= 1 - \frac{3}{8}$$
+$$= \frac{5}{8}$$
+* $\checkmark$ formula
+* $\checkmark$ answer/antwoord (2)
+
+8.1.1 (b) 
+$$P(A \text{ or } B) = P(A) + P(B) - P(A \text{ and } B)$$
+$$\frac{5}{7} = \frac{2}{5} + \frac{5}{8} - P(A \text{ and } B)$$
+$$P(A \text{ and } B) = \frac{87}{280}$$
+$$= 0,31$$
+* $\checkmark$ identity
+* $\checkmark$ subst./verv.
+* $\checkmark$ answer/antwoord (3)
+
+8.1.2 
+$$\text{Not mutually exclusive events. } P(A \text{ and } B) \neq 0$$
+* $\checkmark$ NOT/NIE
+* $\checkmark$ reason/rede (2)
+
+8.2.1 
+$$P(A \cap B) \quad \text{OR} \quad P(A \text{ and } B)$$
+* $\checkmark$ answer/antwoord (1)
+
+8.2.2 
+$$P(A \cup B)' \quad \text{OR} \quad P(A \text{ or } B)'$$
+* $\checkmark$ answer/antwoord (1)
+
+8.2.3 
+$$P(A \cap B)' \quad \text{OR} \quad P(A \text{ and } B)'$$
+* $\checkmark$ answer/antwoord (1)
+
+8.3 
+$$8.2.3$$
+* $\checkmark$ answer/antwoord (1)
+
+**[11]**
+
+**TOTAL / TOTAAL: [100]**

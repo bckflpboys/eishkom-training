@@ -1,0 +1,263 @@
+# Physical Sciences P2/Fisiese Wetenskappe V2
+## DBE/May/June/Mei/Junie 2024
+## SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+
+---
+
+### QUESTION 1/VRAAG 1
+
+1.1 A ✓✓ (2)
+1.2 C ✓✓ (2)
+1.3 A ✓✓ (2)
+1.4 D ✓✓ (2)
+1.5 D ✓✓ (2)
+1.6 C ✓✓ (2)
+1.7 B ✓✓ (2)
+1.8 A ✓✓ (2)
+1.9 B ✓✓ (2)
+1.10 B ✓✓ (2)
+**[20]**
+
+---
+
+### QUESTION 2/VRAAG 2
+
+2.1 Organic compounds that consist of hydrogen and carbon only. ✓✓ (2 or 0)
+Organiese verbindings wat slegs uit waterstof en koolstof bestaan. (2 of 0) (2)
+
+2.2.1 C and/en E ✓ (1)
+2.2.2 D and/en H ✓✓ (2 or/of 0) (2)
+2.2.3 A ✓ (1)
+
+2.3.1 
+**Marking criteria/Nasienkriteria:**
+* Functional group. ✓
+* Whole structure correct. ✓
+
+**IF/INDIEN:**
+* More than one functional group/wrong functional group: $0/2$
+* If condensed structural formulae used: Max/Maks. $1/2$
+
+(Structure: $CH_3-C(=O)-CH_2-CH_2-CH_3$ or similar) (2)
+
+2.3.2 $C_nH_{2n+2}$ ✓ (1)
+
+2.3.3 
+**Marking criteria/Nasienkriteria:**
+* Functional group $-C \equiv C-$. ✓
+* Whole structure correct. ✓
+
+**IF/INDIEN:**
+* More than one functional group/wrong functional group: $0/2$
+* If condensed structural formulae used: Max/Maks. $1/2$ (2)
+
+2.4.1 3-ethylhex-3-ene ✓✓✓ / 3-ethyl-3-hexene / 3-etielheks-3-een / 3-etiel-3-hekseen
+**Marking criteria:**
+* Correct stem i.e. hexene. ✓
+* Substituent (ethyl) correctly identified. ✓
+* IUPAC name completely correct including numbering, sequence, hyphens and commas. ✓ (3)
+
+2.4.2 2,5-dichloro-2,4-dimethylhexane ✓✓✓ / 2,5-dichloro-2,4-dimetielheksaan
+**Marking criteria:**
+* Correct stem i.e. hexane. ✓
+* All substituents (dichloro and dimethyl) correctly identified. ✓
+* IUPAC name completely correct including numbering, sequence, hyphens and commas. ✓ (3)
+
+2.4.3 2,2-dimethyl✓propanal✓ / dimethylpropanal
+2,2-dimetielpropanaal / dimetielpropanaal (2)
+**NOTE/NOTA:** 2,2-dimethyl✓propan-1-al (Max/Maks: $1/2$)
+
+2.5 
+**Marking criteria/Nasienkriteria:**
+* Correct molecular formula: $C_7H_{16}$ ✓
+* Correct molecular formula of inorganic reactant and products. ✓
+* Balancing/Balansering ✓
+$C_7H_{16} + 11O_2 \rightarrow 7CO_2 + 8H_2O$ ✓ Bal ✓
+
+**Notes/Aantekeninge:**
+* Ignore double arrows and phases.
+* Marking rule 6.3.10.
+* If condensed structural formulae used: Max/Maks. $2/3$ (3)
+**[22]**
+
+---
+
+### QUESTION 3/VRAAG 3
+
+3.1 **Marking criteria/Nasienkriteria:**
+If any one of the underlined key phrases in the correct context is omitted, deduct 1 mark.
+The temperature at which the vapour pressure (of a substance) equals atmospheric pressure. ✓✓
+Die temperatuur waarby die dampdruk (van die stof) gelyk is aan atmosferiese druk. (2)
+
+3.2 C ✓ (1)
+
+3.3 **Marking criteria:**
+* Compare structures. ✓
+* Compare the strength of intermolecular forces. ✓
+* Compare the energy required to overcome intermolecular forces. ✓
+
+**A/CH$_3$CH$_2$CH$_2$CH$_2$Cl / 1-chlorobutane**
+* Structure: Longer chain length/larger surface area (over which intermolecular forces act). ✓
+* Intermolecular forces: Stronger/more intermolecular forces/Van der Waals forces/London forces/dipole-dipole forces. ✓
+* Energy: More energy needed to overcome or break intermolecular forces. ✓ (3)
+
+3.4.1 75 (°C) ✓ (1)
+
+3.4.2 **Marking criteria:**
+* Compare the strength of intermolecular forces. ✓
+* Compare the energy required to overcome intermolecular forces. ✓
+
+* Intermolecular forces: C (CH$_3$CH$_2$CH$_2$CH$_2$OH/butanol) has stronger intermolecular forces than D (CH$_3$CH$_2$CH$_2$CHO/butanal). ✓
+* Energy: More energy needed to overcome or break intermolecular forces. ✓ (2)
+
+3.5 Decreases/Neem af ✓ (1)
+**[10]**
+
+---
+
+### QUESTION 4/VRAAG 4
+
+4.1.1 (Concentrated) sulphuric acid/H$_2$SO$_4$(aq) ✓ (1)
+4.1.2 Esterification / Condensation ✓ / Verestering / Esterifikasie / Kondensasie (1)
+4.1.3 ANY TWO/ENIGE TWEE:
+* Alcohol/methanol/reactant is flammable/catches fire easily. ✓
+* To heat evenly/A steady/controlled/gradual increase in temperature. ✓
+* Alcohol/methanol will evaporate too quickly/is volatile. (2)
+
+4.1.4 **Marking criteria:**
+* Whole structural formula correct for propanoic acid. ✓
+* Whole structural formula correct for methanol. ✓
+* Functional group of ester correct. ✓
+* Whole structural formula of ester correct. ✓
+* H$_2$O ✓ (5)
+
+4.1.5 Methyl ✓ propanoate ✓ / Metielpropanoaat (2)
+4.2.1 Hydrogen/H$_2$ ✓ / Waterstof(gas) (1)
+4.2.2 3,3-dimethyl ✓ but-1-ene ✓ / 3,3-dimethyl-1-butene (2)
+4.2.3 elimination OR dehydrohalogenation ✓ (1)
+4.2.4 H$_2$SO$_4$/H$_3$PO$_4$ OR/OF Sulphuric acid/Phosphoric acid ✓ (1)
+4.2.5 3,3-dimethyl ✓ butan-2-ol ✓ / 3,3-dimethyl-2-butanol (2)
+4.2.6 Addition/hydration ✓ (1)
+4.2.7 Secondary ✓ / Sekondêr (1)
+**[20]**
+
+---
+
+### QUESTION 5/VRAAG 5
+
+5.1.1 Exothermic/Eksotermies ✓
+Lower (potential) energy of the products than reactants. / $\Delta H < 0$ / $\Delta H$ negative / $\Delta H = -121,7\text{ kJ}$ / More energy is released than absorbed. ✓ (2)
+
+5.1.2 (The number of) particles with sufficient/enough (kinetic) energy (with a catalyst) OR $E_K \geq E_A$ (which can undergo effective collisions.) ✓ (1)
+
+5.1.3 $240,8 - 208,2$ ✓ $= 32,6\text{ (kJ)}$ ✓ (2)
+
+5.2.1 Decreases/Afneem ✓ (1)
+5.2.2 Remains the same/Bly dieselfde ✓ (1)
+5.2.3 Remains the same/Bly dieselfde ✓ (1)
+
+5.3.1 Concentration (of sulphuric acid/H$_2$SO$_4$(aq)) ✓ (1)
+
+5.3.2 
+* More (H$_2$SO$_4$) particles per unit volume. ✓
+* More effective collisions per unit time./Higher frequency of effective collisions. ✓
+* Higher reaction rate. ✓ (3)
+
+5.3.3 **Marking criteria:**
+(a) Substitute $(2,6)(60)(40)\text{ cm}^3$ OR $(156)(40)$ in rate formula ✓
+(b) Substitute $27\,000\text{ cm}^3 / 27\text{ dm}^3$ and volume in $n(H_2) = \frac{V}{V_m}$ ✓
+(c) USE mole ratio $n(Al) = \frac{2}{3}n(H_2)$ ✓
+(d) Substitution 27 and reacting mole in $n(Al) = \frac{m}{M}$ ✓
+(e) Substitution of $\frac{4,05}{5}(100)$ ✓
+(f) Final answer: $83,2\%$ ✓ (Range: $81 - 83,3\%$) (6)
+**[18]**
+
+---
+
+### QUESTION 6/VRAAG 6
+
+6.1 When the equilibrium in a closed system is disturbed, the system will re-instate a new equilibrium by favouring the reaction that will cancel/oppose the disturbance. ✓✓ (2)
+
+6.2 (Chemical) equilibrium/Concentrations of reactants and products remain constant./Rate of the forward and reverse reactions are equal. ✓ (1)
+
+6.3 Exothermic/Eksotermies ✓ (1)
+
+6.4 
+* With an increase in temperature the endothermic reaction is favoured. ✓
+* The reverse reaction is favoured./ Equilibrium shifts to the left. / Reactants / $[P_2Q]$ increases OR Products / $[PQ_2]$ decreases ✓ (2)
+
+6.5 Less than/Kleiner as ✓ (1)
+
+6.6 **CALCULATIONS USING CONCENTRATION**
+* (a) Correct $K_c$ expression (formulae in square brackets). ✓✓
+* (b) Substitute $0,49$ into $K_c$ expression. ✓
+* (c) Substitute equilibrium concentration $(0,35)$ into correct $K_c$ expression. ✓
+* (d) Change in concentration/mole ✓
+* (e) USE ratio: $P_2Q : 2PQ_2 = 1 : 2$ ✓
+* (f) Substitute $2\text{ dm}^3$ in $n = cV$. ✓
+* (g) Final answer $= 0,85\text{ (mol)}$ OR $1,11\text{ (mol)}$ OR $3,09\text{ (mol)}$ ✓ (8)
+
+6.7 Pressure was decreased/volume of the container was increased. ✓ (1)
+
+6.8 
+* Favours the reaction that increases the number of moles (of gas) ✓
+* $[P_2Q]$ increased/neem toe ✓ (2)
+**[18]**
+
+---
+
+### QUESTION 7/VRAAG 7
+
+7.1.1 
+$c = \frac{m}{MV} = \frac{10}{(106)(0,7)} = 0,13\text{ mol}\cdot\text{dm}^{-3}$ ✓ (3)
+
+7.1.2 Greater than/Groter as ✓ (1)
+
+7.1.3 $CO_3^{2-}(aq) + H_2O(\ell) \rightleftharpoons HCO_3^-(aq) + OH^-(aq)$ ✓✓ (2)
+
+7.1.4 P ✓ (Titration of) weak base and a strong acid./The equivalence point is lower than pH 7. ✓ (2)
+
+7.2.1 Dilute acid contains small amount/number of moles of acid in proportion to the volume of water. ✓✓ (2)
+
+7.2.2 **Marking criteria:**
+(a) USE of ratio: $n(KOH)_{reacted} = 2n(H_2SO_4)_{reacted}$ ✓
+(b) Subtract: $n(KOH)_{initial} - n(KOH)_{reacted}$ ✓✓
+(c) Divide $n$ by $0,20\text{ dm}^3$ in $c = \frac{n}{V}$ ✓
+(d) Either formulae: $pH = -\log[H_3O^+] / pOH = -\log[OH^-]$ AND $[H_3O^+][OH^-] = 10^{-14} / pH + pOH = 14$ ✓
+(e) Substitute calculated $[OH^-]$ in $[H_3O^+][OH^-] / \text{in } pOH = -\log[OH^-]$ ✓
+(f) Substitute calculated $[H_3O^+]$ in $pH$ formula/ $pOH$ in $pH + pOH = 14$ ✓
+(g) Final answer: $12,3$ ✓ (8)
+**[18]**
+
+---
+
+### QUESTION 8/VRAAG 8
+
+8.1 Aluminium/Al ✓ (1)
+8.2 $0,325\text{ (mol}\cdot\text{dm}^{-3})$ ✓✓ (Range: $0,32 - 0,33$) (2)
+8.3 Decreases / Neem af ✓. $M^{2+}$ is reduced/ $M^{2+}$ used up/ $M^{2+}$ is the oxidising agent. ✓ (2)
+8.4 M ✓ (1)
+8.5 $E_{cell}^\theta = E_{reduction}^\theta - E_{oxidation}^\theta$ ✓
+$2 = E_{cathode}^\theta - (-1,66)$ ✓
+$E_{cathode}^\theta = 0,34\text{ (V)}$ ✓
+M is copper/Cu/koper ✓ (6)
+8.6.1 Magnesium/Mg ✓ (1)
+8.6.2 $Al^{3+}$ is a stronger oxidising agent than $Mg^{2+}$ ✓, therefore, Mg will be oxidised ✓ (to $Mg^{2+}$). (2)
+**[15]**
+
+---
+
+### QUESTION 9/VRAAG 9
+
+9.1 Electrical to chemical (energy)/Elektriese na chemiese (energie) ✓ (1)
+9.2 P ✓ (1)
+9.3 $Ag^+ + e^- \rightarrow Ag$ ✓✓ (2)
+
+9.4 **Marking criteria:**
+(a) Substitute $3,25$ and $108$ in the formula $n = \frac{m}{M}$ ✓
+(b) Substitute $6,02 \times 10^{23}$ in $n(e^-) = \frac{N}{N_A}$ ✓
+(c) Substitute $0,03\text{ mol}$ in $n(e^-) = \frac{N}{N_A}$ ✓
+(d) Substitute $30(60)$ OR $1\,800$ ✓
+(e) Final answer: $1,61\text{ A}$ ✓ (5)
+**[9]**
+**TOTAL/TOTAAL: 150**

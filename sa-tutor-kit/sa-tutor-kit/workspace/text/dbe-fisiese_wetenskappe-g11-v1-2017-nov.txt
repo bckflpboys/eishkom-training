@@ -1,0 +1,852 @@
+=== page 1 ===
+Kopiereg voorbehou  Blaai om asseblief
+
+PUNTE:  150
+
+TYD:  3 uur
+
+Hierdie vraestel bestaan uit 15 bladsye, 2 gegewensblaaie en 1 antwoordblad.
+
+GRAAD 11
+NASIONALE
+SENIOR SERTIFIKAAT
+FISIESE WETENSKAPPE:  FISIKA (V1)
+
+NOVEMBER 2017
+
+=== page 2 ===
+Fisiese Wetenskappe/V1 2 DBE/November 2017
+ KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+INSTRUKSIES EN INLIGTING
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+Skryf jou naam en kl as (byvoorbeeld 11A) in die betrokke ruimte op die
+ANTWOORDEBOEK.
+
+Hierdie vraestel bestaan uit TIEN vrae. Beantwoord AL die vrae in die
+ANTWOORDEBOEK, behalwe VRAAG  3.3 wat op die aangehegte
+ANTWOORDBLAD beantwoord moet word.
+
+Lewer die ANTWOORDBLAD saam met die ANTWOORDEBOEK in.
+
+Begin ELKE vraag op 'n NUWE bladsy in die ANTWOORDEBOEK.
+
+Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie
+vraestel gebruik is.
+
+Laat EEN reël tussen subvrae oop, byvoorbeeld tussen VRAAG 2.1 en
+VRAAG 2.2.
+
+Jy mag 'n nie-programmeerbare sakrekenaar gebruik.
+
+Jy mag toepaslike wiskundige instrumente gebruik.
+
+Jy word aangeraai om die aangehegte GEGEWENSBLAAIE te gebruik.
+
+Toon ALLE formules en substitusies in ALLE berekeninge.
+
+Rond jou finale numeri ese antwoorde tot 'n  minimum van TWEE desimale
+plekke af.
+
+Gee kort (bondige) motiverings, besprekings ensovoorts, waar nodig.
+
+Skryf netjies en leesbaar.
+
+=== page 3 ===
+Fisiese Wetenskappe/V1 3 DBE/November 2017
+ KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 1:  MEERVOUDIGEKEUSE-VRAE
+
+Verskeie opsies word as moontlike antwoorde vir die volg ende vrae gegee. Elke vraag
+het slegs EEN korrekte antwoord. Kies die antwoord en skryf slegs die letter (A –D)
+langs die vraagnommer (1.1– 1.10) in die ANTWOORDEBOEK neer , byvoorbeeld
+1.11 E.
+
+1.1 Watter EEN van die volgende pare fisiese hoeveelhede is
+vektorhoeveelhede?
+
+A
+
+B
+
+C
+
+D
+Krag en afstand
+
+Snelheid en spoed
+
+Lading en elektriese veld
+
+Elektriese veld en krag
+
+(2)
+
+1.2 Watter EEN van die volgende vektordiagramme stel drie kragte voor wat
+tegelyk op 'n  voorwerp inwerk terwyl die voorwerp teen KONSTANTE
+SNELHEID beweeg?
+
+ A
+
+B
+ C
+
+D
+(2)
+
+=== page 4 ===
+Fisiese Wetenskappe/V1 4 DBE/November 2017
+ KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+θ
+
+1.3 'n Blok met 'n massa van 4 kg word al langs 'n wrywinglose helling , teen
+'n hoek van θ, met 'n krag F , opwaarts getrek, soos in die skets hieronder
+getoon.
+
+ Watter EEN van die volgende vergelykings kan gebruik word om die grootte
+van die normaalkrag (N) te bereken?
+
+ A
+
+B
+
+C
+
+D
+N = (4)(9,8)sinθ
+
+N = F - (4)(9,8)cosθ
+
+N = F + (4)(9,8)cosθ
+
+N = (4)(9,8)cosθ
+
+(2)
+
+1.4 'n Satelliet wentel om die Aarde op 'n hoogte waar die gravitasiekrag 'n kwart
+(¼) van die krag is wat dit op die oppervlak van die Aarde ondervind. Indien
+die radius van die Aarde R  is, is die hoogte van die satelliet BO DIE
+OPPERVLAK van die Aarde …
+
+ A
+
+B
+
+C
+
+D
+4R
+
+2R
+
+R
+
+½R
+
+(2)
+
+1.5 'n Ligstraal beweeg vanaf glas na lug. Die invalshoek is 35°. Die grenshoek
+van glas is 38°.
+
+Die ligstraal sal …
+
+ A
+
+B
+
+C
+
+D
+diffraksie ondergaan.
+
+refraksie ondergaan en weg van die normaal buig.
+
+totale interne weerkaatsing ondergaan.
+
+refraksie ondergaan en na die normaal buig.
+
+(2)
+4 kg F
+
+=== page 5 ===
+Fisiese Wetenskappe/V1 5 DBE/November 2017
+ KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+1.6 Die pad van 'n ligstraal wat vanaf lug deur 'n reghoekige Perspex -blok
+beweeg, word hieronder getoon.
+
+ Die grootte van hoek θ sal … wees.
+
+ A
+
+B
+
+C
+
+D
+kleiner as 39°
+
+gelyk aan 39°
+
+gelyk aan 51°
+
+gelyk aan 90°
+
+(2)
+
+1.7 'n Monochromatiese rooi ligstraal beweeg deur 'n enkelspleet met wydte d.
+Die diffraksiepatroon word op 'n  skerm ge projekteer. Die rooi lig wor d dan
+deur monochromatiese blou lig vervang en deur dieselfde enkelspleet
+beweeg.
+
+Die mate van diffraksie sal …
+
+ A
+
+B
+
+C
+
+D
+toeneem omdat die mate van diffraksie direk eweredig aan golflengte
+is.
+
+afneem omdat blou lig 'n korter golflengte as rooi lig het.
+
+toeneem omdat blou lig 'n langer golflengte as rooi lig het.
+
+afneem omdat die mate van diffraksie omgekeerd eweredig aan
+golflengte is.
+
+(2)
+
+39°
+θ
+Perspex
+
+=== page 6 ===
+Fisiese Wetenskappe/V1 6 DBE/November 2017
+ KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+1.8 'n Negatiewe lading van 1 µC, wat vry is om te beweeg, word op 'n afstand
+van 2r vanaf 'n positiewe lading van 4 µC geplaas.
+
+Watter EEN van die volgende stellings oor die -1 µC-lading, wanneer dit op
+afstand r is, is KORREK?
+
+Die elektrostatiese krag deur die -1 µC-lading ervaar, sal …
+
+ A
+
+B
+
+C
+
+D
+dieselfde bly.
+
+halveer word.
+
+verdubbel word.
+
+vier keer groter word.
+
+(2)
+
+1.9 'n Sirkelvormige spoel word binne 'n magneetveld geplaas en kloksgewys
+geroteer om 'n  emk te induseer. Watter EEN van die volgende veranderinge
+sal die geïnduseerde emk verhoog?
+
+ A
+
+B
+
+C
+
+D
+Stadiger rotasie van die spoel
+
+Vermindering van die aantal windings van die spoel
+
+Verhoging van die rotasiespoed van die spoel
+
+Omruil van die polariteit van die magnete
+
+(2)
+
+l l
++ -
++4 µC -1 µC
+r 2r
+l
+
+=== page 7 ===
+Fisiese Wetenskappe/V1 7 DBE/November 2017
+ KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+1.10 In die  stroombaandiagram hieronder het die battery 'n weglaatbare interne
+weerstand. Die weerstand van die ammeter en drade kan ook geïgnoreer
+word.
+
+ Die lesing op voltmeter V3 sal aan … gelyk wees.
+
+ A
+
+B
+
+C
+
+D
+V1
+
+½ V1
+
+V1 + V2
+
+V2 - V1
+
+(2)
+    [20]
+
+A
+V3
+8 Ω
+4 Ω
+V1
+V2
+8 Ω
+
+=== page 8 ===
+Fisiese Wetenskappe/V1 8 DBE/November 2017
+ KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 2   (Begin op 'n nuwe bladsy.)
+
+Blok A, wat op 'n horisontale ruwe oppervlak in rus is, word as 'n anker gebruik om
+blok B, met 'n massa van 56 kg, op 'n  sekere hoogte bo die grond in die lug  te hou.
+Die twee blokke is verbind met tou R , wat 'n  hoek van 35° met die vertikaal maak.
+Blok B hang vanaf die plafon aan kabel C. Verwys na die diagram hieronder.
+
+Blok A ondervind 'n wrywingskrag van grootte 200 N. Die stelsel is in rus.
+
+2.1 Definieer die term resulterende vektor.  (2)
+
+2.2 Wat is die grootte van die resulterende krag wat op blok B inwerk?  (1)
+
+2.3 Teken 'n benoemde vrye kragte diagram wat al die kragte aandui wat op
+blok B inwerk.
+
+(3)
+
+2.4 Bepaal die horisontale komponent van die krag in tou R.  (1)
+
+2.5 Bereken die vertikale komponent van die krag in kabel C.  (4)
+
+2.6 Bereken die hoek θ tussen die kabel en die plafon.  (2)
+   [13]
+
+56 kg B
+A
+θ
+C
+R 35°
+
+=== page 9 ===
+Fisiese Wetenskappe/V1 9 DBE/November 2017
+ KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 3   (Begin op 'n nuwe bladsy.)
+
+Leerders ondersoek die verwantskap tussen netto krag en versnelling deur 'n trollie
+oor 'n oppervlak te trek wat 'n effense helling het om vir wrywing  te kompenseer. Die
+trollie is aan verskillende massas met 'n  toutjie van weglaatbare massa verbind. Die
+toutjie beweeg oor 'n wrywinglose katrol. Verwys na die diagram hieronder.
+
+Tydtikkerlint wat aan die trollie verbind is, beweeg deur die tydtikk er. Die versnelling
+van die trollie word bepaal deur die tydtikkerlint te analiseer. Die resultate van die netto
+krag wat deur die verskillende massastukke geproduseer word en die versnelling van
+die trollie, is in die tabel hieronder aangeteken.
+
+NETTO KRAG (N) a (m∙s-2)
+0,3 0,36
+0,6 0,73
+0,9 1,09
+1,2 1,45
+
+3.1 Skryf 'n hipotese vir hierdie eksperiment neer.   (2)
+
+ 3.2.1
+
+3.2.2
+Identifiseer die onafhanklike veranderlike.
+
+Identifiseer die gekontroleerde veranderlike.
+ (1)
+
+(1)
+
+3.3 Gebruik die g rafiekpapier op die ANTWOORDBLAD en teken  'n grafiek van
+die versnelling teenoor netto krag.
+
+(4)
+
+3.4 Bereken die helling van die grafiek.  (3)
+
+3.5 Gebruik die helling van die grafiek wat in VRAAG 3.4 bereken is om die
+massa van die trollie te bepaal.
+
+(2)
+   [13]
+
+massa
+tydtikker
+lint
+trollie
+
+=== page 10 ===
+Fisiese Wetenskappe/V1 10 DBE/November 2017
+ KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 4   (Begin op 'n nuwe bladsy.)
+
+'n Insleepvoertuig sleep 'n kar op 'n grondpad.
+
+Die krag wat die enjin van die insleepvoertuig uitoefen, is 9 000 N. Die massa van die
+insleepvoertuig is 1 300 kg en die massa van die kar is  950 kg. Die voertuie word aan
+mekaar verbind met 'n onelastiese sleepstang van weglaatbare massa. Sien die
+diagram hieronder.
+
+Die insleepvoertuig en kar beweeg teen 'n KONSTANTE SNELHEID.
+
+4.1 Definieer die term wrywingskrag.  (2)
+
+4.2 NOEM en STEL  die wet wat verduidelik waarom die krag wat deur die
+insleepvoertuig op die kar uitgeoefen word,  dieselfde is as die krag wat deur
+die kar op die insleepvoertuig uitgeoefen word.
+
+(3)
+
+4.3 Teken 'n benoemde vrye kragtediagram wat al die kragte wat op die
+insleepvoertuig inwerk, aandui.
+
+(5)
+
+4.4 Indien die kinetiese wrywingskoëffisiënt tussen die insleepvoertuigbande en
+die padoppervlak 0,45 is, bereken die:
+
+ 4.4.1 Grootte van die spanning in die sleepstang  (5)
+
+ 4.4.2 Kinetiese wrywingskoëffisiënt tussen die KAR se bande  en die
+padoppervlak
+
+(5)
+
+Die sleepstang tussen die kar en die insleepvoertuig ontkoppel skielik en die kar
+kom los.
+
+4.5 Gebruik 'n relevante bewegingswet en verduidelik waarom die kar vir 'n kort
+afstand aanhou vorentoe beweeg.
+
+(3)
+
+4.6 Bereken die versnelling van die kar soos dit na 'n kort afstand  tot stilstand
+kom.
+
+(3)
+   [26]
+
+T
+9 000 N
+Insleepvoertuig
+1 300 kg Kar
+950 kg
+
+=== page 11 ===
+Fisiese Wetenskappe/V1 11 DBE/November 2017
+ KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 5   (Begin op 'n nuwe bladsy.)
+
+Die versnelling as gevolg van gravitasie op planeet X is 2,7 m ∙s-2. Die radius van
+hierdie planeet is 'n derde (⅓) van die radius van die Aarde.
+
+5.1 Verduidelik die verskil tussen gewig en massa.  (2)
+
+5.2 Bereken die massa van planeet X.  (4)
+
+5.3 Bepaal die faktor waarmee die gewig van 'n voorwerp op planeet X van di e
+gewig van dieselfde voorwerp op die Aarde sal verskil.
+
+(2)
+   [8]
+
+VRAAG 6   (Begin op 'n nuwe bladsy.)
+
+Eksperimente word gedoen om die brekings indekse van verskillende material e
+te vergelyk.
+
+In een eksperiment skyn 'n  ligstraal vanaf lug deur materiaal A en die invalshoeke en
+brekingshoeke word gemeet. Die brekingsindeks vir lug is 1.
+
+Die grafiek hieronder is geteken deur die resultate van materiaal A te gebruik.
+
+6.1 Definieer die term invalshoek.  (2)
+
+6.2 Bereken die brekingsindeks van  materiaal A deur die inligting in die grafiek
+te gebruik.
+
+(3)
+
+6.3 Bereken die spoed van lig deur materiaal A.  (3)
+
+6.4 Indien materiaal A met materiaal B vervang word, is die brekings hoek 31°
+wanneer die invalshoek 40° is.
+
+ 6.4.1 Bereken die brekingsindeks van materiaal B.  (4)
+
+ 6.4.2 Teken die grafiek van materiaal A oor, en teken op dieselfde
+assestelsel die grafiek wat jy vir materiaal B  verwag. Benoem die
+grafieke van materiaal A en materiaal B duidelik.
+
+(2)
+0,56
+0,37
+sin θi
+sin θr A
+0
+
+=== page 12 ===
+Fisiese Wetenskappe/V1 12 DBE/November 2017
+ KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+6.5 Totale interne weerkaatsing vind plaas wanneer 'n ligstraal vanaf materiaal A
+na materiaal B beweeg. Die grenshoek van materiaal A is 49°.
+
+ 6.5.1 Watter reeks hoeke sal dit vir totale interne weerkaatsing moontlik
+maak om plaas te vind?
+
+(2)
+
+ 6.5.2 Watter ANDER toestand is nodig vir totale interne weerkaatsing om
+plaas te vind?
+
+(2)
+    [18]
+
+VRAAG 7   (Begin op 'n nuwe bladsy.)
+
+'n Eksperiment word opgestel, soos hieronder getoon, om die effek van spleetwydte op
+die mate van diffraksie te ondersoek. Afstand y op die diagram stel die afstand tussen
+die skerm en die enkelspleet voor. Afstand x  op die diagram stel die wydte van die
+sentrale helder band voor.
+
+7.1 Skryf 'n ondersoekende vraag vir hierdie eksperiment neer.  (2)
+
+7.2 Stel Huygens se beginsel in woorde.  (2)
+
+7.3 Hoe sal afstand x beïnvloed word indien die spleetwydte vergroot word ?
+Kies uit TOENEEM, AFNEEM of BLY DIESELFDE.
+
+(1)
+
+7.4 Verduidelik die antwoord op VRAAG 7.3.  (2)
+
+7.5 Hoe sal afstand  x beïnvloed word indien afstand  y vergroot word ? Kies uit
+TOENEEM, AFNEEM of BLY DIESELFDE.
+
+(1)
+   [8]
+skerm
+enkelspleet
+Lig-
+bron
+y
+x
+
+=== page 13 ===
+Fisiese Wetenskappe/V1 13 DBE/November 2017
+ KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 8   (Begin op 'n nuwe bladsy.)
+
+Twee IDENTIESE puntladings, X en Y, word 2 mm van mekaar af geplaas. Punt P is
+3 mm regs van lading Y. Die netto elek triese veld by punt P  is 5, 44 × 106 N∙C-1 na
+links.
+
+8.1 Definieer die term elektriese veld by 'n punt.  (2)
+
+8.2  Is die ladings NEGATIEF of POSITIEF?  (1)
+
+8.3 Teken die resulterende elektrieseveld-patroon vir ladings X en Y.  (3)
+
+8.4 Bereken die grootte van die lading X.  (5)
+
+8.5  Lading Y word nou met 'n identiese teen oorgesteld gelaaide puntlading
+vervang.
+
+Hoe sal die grootte van die netto elektriese veld by punt P  beïnvloed word?
+Kies uit TOENEEM, AFNEEM of BLY DIESELFDE.
+
+Gee 'n rede vir die antwoord.
+
+(2)
+   [13]
+X Y P 2 mm
+3 mm
+
+=== page 14 ===
+Fisiese Wetenskappe/V1 14 DBE/November 2017
+ KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 9   (Begin op 'n nuwe bladsy.)
+
+'n Induksiespoel met oppervlakte 48,6 cm 2 en 200 windings word kloksgewys in 'n
+konstante magneetveld met grootte 2,4 T geroteer. Verwys na die diagram hieronder.
+
+Die grafiek hi eronder toon hoe die geïnduseerde emk met die omgekeerde van tyd
+verander.
+
+9.1 Stel Faraday se wet in woorde.  (2)
+
+9.2 Gebruik die inligting in die grafiek om die verandering in magnetiese vloed
+te bereken.
+
+(5)
+
+9.3 Die spoel roteer deur 'n hoek θ na 'n posisie waar die magnetiese vloed nul
+word. Bereken hoek θ.
+
+(4)
+   [11]
+
+t
+1
+∆
+ε
+3
+
+2
+
+1
+
+0
+ 1             2            3
+(V)
+θ
+
+N
+
+S
+
+=== page 15 ===
+Fisiese Wetenskappe/V1 15 DBE/November 2017
+ KABV – Graad 11
+Kopiereg voorbehou
+
+VRAAG 10   (Begin op 'n nuwe bladsy.)
+
+10.1 Die stroombaan hieronder bestaan uit 'n 6 Ω- en 15 Ω-resistor wat in parallel
+verbind is en 'n onbekende resistor R, in serie. 'n Ammeter, 'n hoë-weerstand-
+voltmeter, 'n geslote skakelaar en battery word verbind,  soos getoon.  Die
+weerstand van die battery en drade kan geïgnoreer word.
+
+ Die totale drywing in die parallelle gedeelte van die stroombaan is 50 W.
+
+ 10.1.1 Definieer die term drywing.  (2)
+
+ 10.1.2 Bereken die effektiewe weerstand van die parallelle kombinasie.  (2)
+
+ 10.1.3 Bereken die potensiaalverskil oor die resistors in parallel.  (3)
+
+ 10.1.4 Bereken die stroom deur resistor R.  (3)
+
+ Die skakelaar in die stroombaan word nou OOPGEMAAK.
+
+ 10.1.5 Hoe sal die lesing op die voltmeter (V) beïnvloed word? Kies uit
+TOENEEM, AFNEEM of BLY DIESELFDE.
+
+(1)
+
+ 10.1.6 Verduidelik die antwoord op VRAAG 10.1.5.  (3)
+
+10.2 'n Warmwatertoestel, 2 000 W gemerk, word gemiddeld vir 5 u ur per dag
+gebruik. Die koste van elektrisiteit is 80 sent per kWh.
+
+ 10.2.1 Bereken die energie wat vir 5 u ur per dag deur die
+warmwatertoestel gebruik word.
+
+(4)
+
+ 10.2.2 Bereken die koste van elektrisiteit om die warmwatertoestel vir
+'n maand met 30 dae te gebruik.
+
+(2)
+   [20]
+
+ TOTAAL:  150
+
+R
+V
+6 Ω
+15 Ω
+A
+
+=== page 16 ===
+Fisiese Wetenskappe/V1 1 DBE/November 2017
+ KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+DATA FOR PHYSICAL SCIENCES GRADE 11
+PAPER 1 (PHYSICS)
+
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 11
+VRAESTEL 1 (FISIKA)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Acceleration due to gravity
+Swaartekragversnelling g 9,8 m·s-2
+Gravitational constant
+Swaartekragkonstante G 6,67 x 10-11 N⋅m2⋅kg-2
+Radius of Earth
+Straal van Aarde RE 6,38 x 106 m
+Coulomb's constant
+Coulomb se konstante k 9,0 x 109 N⋅m2·C-2
+Speed of light in a vacuum
+Spoed van lig in 'n vakuum c 3,0 x 108 m·s-1
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Electron mass
+Elektronmassa me 9,11 x 10-31 kg
+Mass of the earth
+Massa van die Aarde  M 5,98 x 1024 kg
+
+TABLE 2:  FORMULAE/TABEL 2:  FORMULES
+
+MOTION/BEWEGING
+
+tavv if ∆+=  221i tatvx ∆+∆=∆
+xa2vv
+2
+i
+2
+f ∆+=   t2 vvx if ∆ +=∆
+
+FORCE/KRAG
+
+ma=Fnet  w = mg
+2
+21
+r
+mGmF=
+N
+f (max)s
+s =µ
+N
+fk
+k =µ
+
+=== page 17 ===
+Fisiese Wetenskappe/V1 2 DBE/November 2017
+ KABV – Graad 11
+Kopiereg voorbehou
+
+WAVES, SOUND AND LIGHT/GOLWE, KLANK EN LIG
+
+λ= fv
+f
+1T=
+rrii sinnsinn θ=θ   vcn=
+
+ELECTROSTATICS/ELEKTROSTATIKA
+
+2
+21
+r
+QkQ=F          (k = 9,0 x 109 N⋅m2·C-2) qF=E
+2r
+kQE=              (k = 9,0 x 109 N⋅m2·C-2)
+e
+Q=n
+
+ELECTROMAGNETISM/ELEKTROMAGNETISME
+
+tN ∆∆Φ−=ε  θ=Φ cosBA
+
+ELECTRIC CIRCUITS/ELEKTRIESE STROOMBANE
+
+t
+QI ∆=  IVR=
+...r1r1r1R1 321 +++=  ...rrrR 321 +++=
+W = Vq
+
+W = VI∆ t
+
+W= I2R∆ t
+
+W= RΔtV2
+Δt
+WP=
+
+P = VI
+
+P = I2R
+
+R
+VP 2=
+
+=== page 18 ===
+Fisiese Wetenskappe/V1  DBE/November 2017
+ KABV – Graad 11
+Kopiereg voorbehou
+
+ANTWOORDBLAD
+LEWER HIERDIE ANTWOORDBLAD SAAM MET DIE ANTWOORDEBOEK IN.
+NAAM: ______________________________________________ KLAS: _____
+
+VRAAG 3.3
+
+Grafiek van versnelling teenoor netto krag
+a
+(m∙s-2)
+F (N)

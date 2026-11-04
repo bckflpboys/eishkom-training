@@ -1,0 +1,224 @@
+**SENIORSERTIFIKAAT-EKSAMEN / NASIONALE SENIORSERTIFIKAAT-EKSAMEN**
+
+**FISIESE WETENSKAPPE: FISIKA (V1)**
+**MEI/JUNIE 2024**
+
+**PUNTE: 150**
+**TYD: 3 uur**
+
+---
+
+### INSTRUKSIES EN INLIGTING
+
+1. Skryf jou sentrumnommer en eksamennommer in die toepaslike ruimtes op die ANTWOORDEBOEK neer.
+2. Hierdie vraestel bestaan uit TIEN vrae. Beantwoord AL die vrae in die ANTWOORDEBOEK.
+3. Begin ELKE vraag op 'n NUWE bladsy in die ANTWOORDEBOEK.
+4. Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie vraestel gebruik is.
+5. Laat EEN reël tussen twee subvrae oop, bv. tussen VRAAG 2.1 en VRAAG 2.2.
+6. Jy mag 'n nieprogrammeerbare sakrekenaar gebruik.
+7. Jy mag toepaslike wiskundige instrumente gebruik.
+8. Toon ALLE formules en substitusies in ALLE berekeninge.
+9. Rond jou finale numeriese antwoorde tot 'n minimum van TWEE desimale plekke af.
+10. Gee kort (bondige) motiverings, besprekings, ens. waar nodig.
+11. Jy word aangeraai om die aangehegte GEGEWENSBLAAIE te gebruik.
+12. Skryf netjies en leesbaar.
+
+---
+
+### VRAAG 1: MEERVOUDIGEKEUSE-VRAE
+
+Verskeie opsies word as moontlike antwoorde op die volgende vrae gegee. Elke vraag het slegs EEN korrekte antwoord. Kies die antwoord en skryf slegs die letter (A–D) langs die vraagnommers (1.1 tot 1.10) in die ANTWOORDEBOEK neer, bv. 1.11 E.
+
+1.1 'n Boek rus op 'n tafel. Watter EEN van die volgende kragte sal 'n aksie-reaksiepaar met die gewig van die boek vorm?
+A. Krag van die Aarde op die boek
+B. Krag van die boek op die Aarde
+C. Krag van die boek op die tafel
+D. Krag van die tafel op die boek (2)
+
+1.2 'n Persoon staan op 'n badkamerskaal in 'n bewegende hysbak. Watter EEN van die volgende bewegings van die hysbak sal die KLEINSTE lesing op die skaal tot gevolg hê?
+A. Die hysbak versnel opwaarts.
+B. Die hysbak versnel afwaarts.
+C. Die hysbak beweeg opwaarts teen 'n konstante snelheid.
+D. Die hysbak beweeg afwaarts teen 'n konstante snelheid. (2)
+
+1.3 Die snelheid-teenoor-tydsketsgrafiek hieronder verteenwoordig die beweging van 'n bal wat in vryval was. Die bal het die grond na $3t$ sekondes getref.
+[DIAGRAM: 'n Snelheid-tyd grafiek. Die lyn begin by $v_i$ (negatief), gaan deur die oorsprong by $t$, en eindig by $v_f$ (positief) op die tydstip $3t$.]
+Watter EEN van die volgende stellings is KORREK? Die bal is …
+A. vanaf 'n hoogte bokant die grond laat val.
+B. vanaf die grond vertikaal opwaarts gegooi.
+C. vanaf 'n hoogte bokant die grond vertikaal opwaarts gegooi.
+D. vanaf 'n hoogte bokant die grond vertikaal afwaarts gegooi. (2)
+
+1.4 Die vektordiagram hieronder toon die aanvanklike momentum ($p_1$), die finale momentum ($p_2$) en die verandering in momentum ($\Delta p$) vir 'n motor wat op 'n reguit horisontale pad beweeg het.
+[DIAGRAM: Vektordiagram toon $p_1$ na regs, $p_2$ na regs (korter as $p_1$), en $\Delta p$ na links.]
+Watter EEN van die volgende sketsgrafieke toon die momentum van die motor vir die tyd wat die motor op die pad beweeg het, KORREK? (2)
+
+1.5 'n Klip met 'n massa van $m$ word vanaf 'n hoogte $h$ bokant die grond laat val. Ignoreer die effekte van lugweerstand. Watter EEN van die volgende kombinasies in die tabel hieronder verteenwoordig die kinetiese energie en die totale meganiese energie van die klip op die oomblik wat die klip deur 'n afstand van $\frac{1}{4}h$ geval het KORREK? (2)
+
+| | KINETIESE ENERGIE | TOTALE MEGANIESE ENERGIE |
+|---|---|---|
+| A | $\frac{3}{4}mgh$ | $\frac{1}{4}mgh$ |
+| B | $\frac{1}{4}mgh$ | $\frac{3}{4}mgh$ |
+| C | $\frac{3}{4}mgh$ | $mgh$ |
+| D | $\frac{1}{4}mgh$ | $mgh$ |
+
+1.6 Die spektrum van helium vrygestel vanaf 'n ster wat weg van die Aarde beweeg, word met die spektrum van helium op die Aarde vergelyk. Watter EEN van die volgende stellings is KORREK? Die waargenome spektrale lyne vanaf die bewegende ster sal 'n ... hê.
+A. laer frekwensie en 'n langer golflengte
+B. laer frekwensie en 'n korter golflengte
+C. hoër frekwensie en 'n korter golflengte
+D. hoër frekwensie en 'n langer golflengte (2)
+
+1.7 Die groottes van elektriese velde, veroorsaak deur verskillende puntladings, word by 'n vaste punt gemeet. Vir elke meting is die afstand tussen hierdie vaste punt en die ladings dieselfde. Watter EEN van die volgende sketsgrafieke toon die verhouding tussen die grootte van die elektriese veld ($E$) en die grootte van die lading ($Q$) KORREK? (2)
+
+1.8 Die diagram hieronder verteenwoordig 'n stroombaan waarin alle eksterne resistors dieselfde weerstand het.
+[DIAGRAM: Stroombaan met 'n battery, interne weerstand $r$, en vier resistors $R$ in 'n kombinasie van serie en parallel. Ammeters $A_1$ (hoofstroom), $A_2, A_3, A_4$ is geplaas.]
+Watter EEN van die ammeters in die stroombaan sal die LAAGSTE lesing hê?
+A. $A_1$
+B. $A_2$
+C. $A_3$
+D. $A_4$ (2)
+
+1.9 'n Vereenvoudigde diagram van 'n elektriese masjien word hieronder getoon.
+[DIAGRAM: 'n Spoel tussen twee magnetiese pole (S en N), gekoppel aan 'n splitring-kommutator en 'n battery.]
+Watter soort masjien is dit?
+A. 'n GS-motor
+B. 'n WS-motor
+C. 'n GS-generator
+D. 'n WS-generator (2)
+
+1.10 Watter EEN van die volgende kombinasies is KORREK vir 'n lynabsorpsiespektrum in terme van die ENERGIEOORGANGE VAN DIE ATOME en die VOORKOMS VAN DIE SMAL LYNE IN DIE SPEKTRUM? (2)
+
+| | ENERGIEOORGANGE VAN DIE ATOME | VOORKOMS VAN DIE SMAL LYNE IN DIE SPEKTRUM |
+|---|---|---|
+| A | Hoër na laer energietoestand | Donker lyne |
+| B | Laer na hoër energietoestand | Gekleurde lyne |
+| C | Laer na hoër energietoestand | Donker lyne |
+| D | Hoër na laer energietoestand | Gekleurde lyne |
+
+**[20]**
+
+---
+
+### VRAAG 2
+
+Blok A met 'n massa van $4,1\text{ kg}$ is verbind met blok B met 'n massa van $2,3\text{ kg}$ deur 'n ligte onrekbare toutjie wat oor 'n wrywinglose katrol gaan. Blok A is in rus op 'n ruwe horisontale tafel en blok B hang vertikaal. 'n Krag $F$ met 'n grootte van $49\text{ N}$ word op blok A toegepas teen 'n hoek van $50^\circ$ met die horisontaal, wat veroorsaak dat blok A vanuit rus NA LINKS oor die tafel versnel. Die kinetiese wrywingskoëffisiënt tussen die oppervlak van die tafel en blok A is $0,35$.
+
+2.1 Stel Newton se Tweede Bewegingswet in woorde. (2)
+2.2 Teken 'n benoemde vrye kragtediagram wat al die kragte toon wat op blok A inwerk terwyl dit na links versnel. (5)
+2.3 Bereken die grootte van die:
+2.3.1 Kinetiese wrywingskrag wat op blok A uitgeoefen word (3)
+2.3.2 Versnelling van blok A, deur Newton se Tweede Bewegingswet op elke blok afsonderlik toe te pas (5)
+
+**[15]**
+
+---
+
+### VRAAG 3
+
+'n Warmlugballon beweeg vertikaal afwaarts teen 'n konstante snelheid van $3,4\text{ m}\cdot\text{s}^{-1}$. Wanneer die ballon $15\text{ m}$ bokant die grond is, word 'n klein balletjie vanaf die ballon laat val. Die bal tref die grond en bons vertikaal opwaarts. Ignoreer die effekte van lugweerstand.
+
+3.1 Definieer die term vryval. (2)
+3.2 Was die bal in vryval tussen $t_1$ en $t_2$ sekondes? Skryf slegs JA of NEE. (1)
+3.3 Gebruik slegs BEWEGINGSVERGELYKINGS en bereken die:
+3.3.1 Waarde van $t_1$ wat op die grafiek aangedui is (3)
+3.3.2 Hoogte van die warmlugballon bokant die grond op die oomblik toe die bal die grond getref het (4)
+3.4 Die bal was vir $0,2\text{ s}$ in kontak met die grond en het die grond met 'n vertikale opwaartse snelheid van $7,2\text{ m}\cdot\text{s}^{-1}$ verlaat. Gebruik slegs BEWEGINGSVERGELYKINGS om die waarde van $t_3$ wat op die grafiek aangedui is, te bereken. (4)
+
+**[14]**
+
+---
+
+### VRAAG 4
+
+Twee trollies A en B met 'n massa van $3,2\text{ kg}$ en $2,6\text{ kg}$ onderskeidelik, word op 'n reguit horisontale, wrywinglose baan in rus gehou met 'n saamgeperste veer tussen hulle. Nadat die trollies losgelaat is, rek die veer uit tot sy natuurlike lengte en val dan op die baan. Trollie A beweeg nou teen 'n konstante snelheid van $0,4\text{ m}\cdot\text{s}^{-1}$ na links, terwyl trollie B teen 'n konstante onbekende snelheid na regs beweeg. Trollie B bereik die einde van die baan na $1,3\text{ s}$.
+
+4.1 Stel die beginsel van behoud van lineêre momentum in woorde. (2)
+4.2 Bereken die afstand wat trollie B in $1,3\text{ s}$ beweeg het. (5)
+4.3 Bereken die tyd wat dit die veer geneem het om tot sy natuurlike lengte uit te rek, as die gemiddelde krag $4,2\text{ N}$ was. (3)
+4.4 Trollie B word nou met trollie C, wat 'n groter massa het, vervang. Hoe vergelyk die snelheid van trollie C met die grootte van die snelheid van trollie B nadat die veer op die baan geval het? Skryf slegs GROTER AS, KLEINER AS of GELYK AAN. Verduidelik die antwoord. (3)
+
+**[13]**
+
+---
+
+### VRAAG 5
+
+'n Krat met 'n massa van $18\text{ kg}$, aanvanklik in rus, gly teen 'n wrywinglose helling af van punt A na punt B. Die krat beweeg dan oor 'n ruwe horisontale oppervlak vanaf punt B na punt C. Punt A is $3\text{ m}$ bokant die horisontale oppervlak.
+
+5.1 Stel die beginsel van behoud van meganiese energie in woorde. (2)
+5.2 Deur slegs ENERGIEBEGINSELS te gebruik, bereken die spoed van die krat by punt B. (3)
+5.3 Stel die arbeid-energie-stelling in woorde. (2)
+5.4 Deur slegs ENERGIEBEGINSELS te gebruik, bereken die afstand wat die krat van punt B na punt C toe beweeg, as die wrywingskrag $40,6\text{ N}$ is. (4)
+5.5 Die hoogte van die baan word nou verlaag sodat punt A by 'n vertikale hoogte kleiner as $3\text{ m}$ is. Hoe sal die afstand wat die krat nou oor die horisontale oppervlak beweeg, vergelyk met die antwoord in VRAAG 5.4? Skryf slegs GROTER AS, KLEINER AS of GELYK AAN. Verduidelik die antwoord. (3)
+
+**[14]**
+
+---
+
+### VRAAG 6
+
+'n Stilstaande luisteraar teken die frekwensie van die klank vrygestel deur die sirene van 'n polisiemotor aan. Wanneer die motor wat teen 'n konstante snelheid van $26\text{ m}\cdot\text{s}^{-1}$ beweeg, die luisteraar nader, is die aangetekende frekwensie $615\text{ Hz}$. Die motor ry verby die luisteraar teen tyd $t_1$ en beweeg dan weg van die luisteraar af. Die aangetekende frekwensie is nou $526\text{ Hz}$. Ignoreer die effekte van wind.
+
+6.1 Stel die Doppler-effek in woorde. (2)
+6.2 Gebruik die gegewe inligting om die spoed van klank in lug te bereken. (5)
+6.3 Bereken die golflengte van die klank wat deur die polisiesirene vrygestel word. (4)
+6.4 Skets die grafiek van aangetekende frekwensie teenoor tyd vir die beweging van die motor. Benoem tyd $t_1$ op die grafiek. (3)
+
+**[14]**
+
+---
+
+### VRAAG 7
+
+7.1 X is 'n punt $0,025\text{ m}$ weg van 'n $+4\text{ nC}$-puntlading.
+7.1.1 Teken die elektrieseveldpatroon as gevolg van die $+4\text{ nC}$-lading. (2)
+7.1.2 Bereken die grootte van die elektriese veld by punt X. (3)
+7.2 Twee identiese neutrale polistireenballe A en B word vanaf 'n plafon gehang. Bal B word 'n aanvanklike negatiewe lading, $Q_B$, gegee. Die balle trek mekaar aan, raak en stoot mekaar dan af. Die balle kom tot stilstand met hulle middelpunte $10\text{ cm}$ weg van mekaar sodat elke toutjie 'n hoek van $9^\circ$ met die vertikaal maak.
+7.2.1 Stel Coulomb se Wet in woorde. (2)
+7.2.2 Bereken die grootte van die aanvanklike lading $Q_B$ wat aan bal B gegee is, indien die massa van elke bal $0,012\text{ kg}$ was. (6)
+
+**[13]**
+
+---
+
+### VRAAG 8
+
+'n Battery met 'n emk van $12\text{ V}$ en interne weerstand van $0,2\text{ }\Omega$ word verbind aan drie resistors ($R_x, R_y, R_z$), 'n hoëweerstand-voltmeter en twee skakelaars. Die weerstand van $R_y$ is TWEE KEER die weerstand van $R_x$. Wanneer beide skakelaars GESLUIT is, is die lesing op die ammeter $5,5\text{ A}$.
+
+8.1 Gee 'n rede waarom daar geen stroom deur resistor $R_z$ is nie. (1)
+8.2 Bereken die weerstand van resistor $R_y$. (5)
+8.3 Bereken die drywing wat deur resistor $R_x$ verbruik word. (4)
+8.4 Wanneer beide skakelaars nou OOPGEMAAK word, is die lesing op die ammeter $1,3\text{ A}$. Bereken die lesing op die voltmeter. (3)
+8.5 Skakelaar $S_1$ bly OOP terwyl skakelaar $S_2$ nou GESLUIT word. Bereken die lesing op die ammeter. (6)
+
+**[19]**
+
+---
+
+### VRAAG 9
+
+Die vereenvoudigde diagram toon 'n WS-generator met 'n spoel wat kloksgewys roteer. X en Y is twee punte in die eksterne stroombaan.
+
+9.1 Wat is die rigting van die stroom in die eksterne stroombaan? Skryf slegs X na Y of Y na X. (2)
+9.2 Noem die energie-omskakeling wat in hierdie generator plaasvind. (1)
+9.3 Definieer die term wortelgemiddeldekwadraat-spanning. (2)
+9.4 Bereken die wortelgemiddeldekwadraat-spanning van die generator as die maksimum spanning $125\text{ V}$ is. (3)
+9.5 Die totale weerstand van die eksterne stroombaan is $42,4\text{ }\Omega$. Bereken die maksimum geïnduseerde stroom. (3)
+9.6 Die generator het stroom teen 'n frekwensie van $20\text{ Hz}$ geïnduseer. Skets 'n grafiek van geïnduseerde stroom teenoor tyd vir twee volledige rotasies van die spoel. (4)
+
+**[15]**
+
+---
+
+### VRAAG 10
+
+10.1 Definieer die term foto-elektriese effek. (2)
+10.2 Lig met 'n golflengte van $4,7 \times 10^{-7}\text{ m}$ word op die oppervlak van 'n stuk sesiummetaal geskyn. Indien die drumpelfrekwensie van sesium $4,37 \times 10^{14}\text{ Hz}$ is, bereken die maksimum spoed van 'n elektron wat van die oppervlak van die metaal vrygestel word. (5)
+10.3 'n Eenvoudige elektroskoop bestaan uit 'n sinkskyf, 'n metaalstaaf en 'n dun strook goudfoelie. Wanneer ultraviolet lig op die skyf van die negatief gelaaide sinkelektroskoop geskyn word, val die foelie terug na die staaf.
+10.3.1 Hoe vergelyk die frekwensie van die ultraviolet lig met die drumpelfrekwensie van sink? Skryf slegs HOËR AS, LAER AS of GELYK AAN. (1)
+10.3.2 Verduidelik waarom die foelie van die elektroskoop terugval. (3)
+10.3.3 Sal die foelie terugval indien die intensiteit van die groen lig verhoog word? Skryf slegs JA of NEE. Gee 'n rede vir die antwoord. (2)
+
+**[13]**
+
+**TOTAAL: 150**

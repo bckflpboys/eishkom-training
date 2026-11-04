@@ -1,0 +1,28 @@
+**NOTE:**
+* If a candidate answered a question TWICE, mark only the FIRST attempt.
+* If a candidate crossed out an answer and did not redo it, mark the crossed-out answer.
+* Consistent accuracy applies to ALL aspects of the marking guidelines.
+* Assuming values/answers in order to solve a problem is unacceptable.
+
+---
+
+## **QUESTION/VRAAG 1**
+
+| | Marks/Punte | Frequency/Frekwensie | | |
+| :---: | :---: | :---: | :--- | :--- |
+| | 0 | 0 | | |
+| | 1 | 3 | | 2 marks: |
+| | 2 | 4 | | all 11 values correct |
+| | 3 | 5 | | |
+| | 4 | 3 | | 1 mark: |
+| | 5 | 6 | | $5-10$ values correct |
+| | 6 | 0 | | |
+| | 7 | 7 | | 0 marks: |
+| | 8 | 9 | | $0-4$ values correct |
+| | 9 | 5 | | |
+| | 10 | 0 | | (2) |
+| 1.2 | \multicolumn{2}{l|}{42 learners/leerders} | $\checkmark$ answer/antwoord | (1) |
+| 1.3.1 | $\text{Range/Variasiewydte}$<br>$=9-1$<br>$=8$ | $\text{Answer only: } 2/2 \text{ marks}$ | $\checkmark \max = 9 \text{ and } \min = 1$<br>$\checkmark$ answer/antwoord | (2) |
+| 1.3.2 | $\begin{aligned} \bar{x} &= \frac{(1 \times 3) + (2 \times 4) + (3 \times 5) + (4 \times 3) + (5 \times 6) + (7 \times 7) + (8 \times 9) + (9 \times 5)}{42} \\ &= \frac{234}{42} \\ &= 5,57 \end{aligned}$ | $\text{Answer only: } 3/3 \text{ marks}$ | $\checkmark$ sum of (frequencies $\times$ values)<br>$\checkmark \div n$<br>$\checkmark$ answer/antwoord | (3) |
+| 1.4 | $\begin{aligned} \text{Position of the median/Posisie van die mediaan} &= \frac{n+1}{2} \\ &= 21,5^{\text{th/de}} \text{ position/posisie} \\ Q_2 &= \frac{5+7}{2} \\ &= 6 \end{aligned}$ | $\text{Answer only: } 3/3 \text{ marks}$ | $\checkmark$ identification of $5 \text{ and } 7$<br>$\checkmark \frac{5+7}{2}$<br>$\checkmark$ answer/antwoord | (3) |
+| 1.5 | 

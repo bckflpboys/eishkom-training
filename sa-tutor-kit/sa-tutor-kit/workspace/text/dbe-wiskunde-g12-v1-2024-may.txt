@@ -1,0 +1,264 @@
+**VERTROULIK**
+
+**basic education**  
+Department:  
+Basic Education  
+REPUBLIC OF SOUTH AFRICA  
+
+**SENIORSERTIKAAT-EKSAMEN / NASIONALE SENIORSERTIKAAT-EKSAMEN**
+
+**WISKUNDE V1**  
+**MEI/JUNIE 2024**
+
+**PUNTE:** 150  
+**TYD:** 3 uur  
+
+Hierdie vraestel bestaan uit 11 bladsye en 1 inligtingsblad.
+
+Kopiereg voorbehou  
+Blaai om asseblief
+
+---
+
+**INSTRUKSIES EN INLIGTING**
+
+Lees die volgende instruksies noukeurig deur voordat jy die vrae beantwoord.
+
+1. Hierdie vraestel bestaan uit 11 vrae.
+2. Beantwoord AL die vrae.
+3. Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie vraestel gebruik is.
+4. Dui ALLE berekeninge, diagramme, grafieke, ens. wat jy gebruik het om jou antwoorde te bepaal, duidelik aan.
+5. Volpunte sal NIE noodwendig aan slegs antwoorde toegeken word NIE.
+6. Jy mag 'n goedgekeurde, wetenskaplike sakrekenaar (nieprogrammeerbaar en niegrafies) gebruik, tensy anders vermeld.
+7. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders vermeld.
+8. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+9. 'n Inligtingsblad met formules is aan die einde van die vraestel ingesluit.
+10. Skryf netjies en leesbaar.
+
+Kopiereg voorbehou  
+Blaai om asseblief
+
+---
+
+**VRAAG 1**
+
+1.1 Los op vir $x$:
+  1.1.1 $3x^2 + 5x = 0$ (2)
+  1.1.2 $4x^2 + 3x - 5 = 0$ (antwoorde korrek tot TWEE desimale plekke) (3)
+  1.1.3 $(x - 1)^2 - 9 \geq 0$ (4)
+  1.1.4 $5^{2x} - 5^x = 0$ (4)
+  1.1.5 $\dfrac{x}{\sqrt{20 - x}} = 1$ (5)
+
+1.2 Los gelyktydig vir $x$ en $y$ op:
+  $x + y = 9$ en $2x^2 - y^2 = 7$ (5)
+
+1.3 Gegee: $P = (1 - a)$ en $T = (1 + a)(1 + a^2)(1 + a^4) \dots (1 + a^{512})$  
+Bepaal die waarde van $P \times T$ in terme van $a$. (3)  
+**[26]**
+
+---
+
+**VRAAG 2**
+
+2.1 Beskou die meetkundige reeks: $4 + 2 + 1 + \dfrac{1}{2} + \dots$
+  2.1.1 Konveer die reeks? Motiveer jou antwoord. (2)
+  2.1.2 Bereken $S_\infty$. (2)
+
+2.2 Gegee: $\sum_{p=k}^{10} 3^{p-1} = 29\ 520$. Bereken die waarde van $k$. (5)  
+**[9]**
+
+---
+
+**VRAAG 3**
+
+3.1 Beskou die kwadratiese getalpatroon: $3\ ;\ 7\ ;\ 12\ ;\ \dots$
+  3.1.1 Dui aan dat die algemene term van hierdie getalpatroon gegee word deur $T_n = \dfrac{1}{2}n^2 + \dfrac{5}{2}n$. (3)
+  3.1.2 Watter getal moet by $T_{n-1}$ getel word sodat $T_n = 13\ 527$? (4)
+
+3.2 Gegee 'n rekenkundige reeks met $T_1 = 8$ en $T_2 = 11$.
+  3.2.1 Bereken die waarde van $n$ indien $T_n = 41$. (3)
+  3.2.2 'n Nuwe rekenkundige reeks $P$ gevorm deur die termposisie en die termwaarde van die gegewe rekenkundige reeks te gebruik.  
+  $P_8 = 1$, $P_{11} = 2$ vir die nuwe reeks, en so aan.
+    (a) Skryf die waarde van $P_{41}$ neer. (1)
+    (b) Bereken die waarde van die eerste term van die nuwe rekenkundige reeks. (4)  
+**[15]**
+
+---
+
+**VRAAG 4**
+
+Gegee: $g(x) = \dfrac{1}{x - 1} + 2$
+
+4.1 Skryf die veriglykings van die asimptote van $g$ neer. (2)
+4.2 Teken 'n grafiek van $g$ en dui enige afsnitte met die asse en asimptote aan. (4)
+4.3 Bepaal die waardes van $x$ waarvoor $g(x) > 0$. (2)
+4.4 Bepaal die verelyking van die simmetrie-as van $g$ wat 'n negatiewe gradiënt het. (2)  
+**[10]**
+
+---
+
+**VRAAG 5**
+
+In die diagram is die grafieke van $f(x) = \log_a x$ en $g$ geskets. Grafiek $g$ is die refleksie van $f$ in die lyn $y = x$. Grafiek $f$ gaan deur die punt $P(4\ ;\ 2)$. $Q$ is die $x$-afsnit van $f$ en $R$ is die $y$-afsnit van $g$.
+
+[DIAGRAM: Cartesian plane showing two curves $f$ and $g$ symmetrical about $y=x$. Curve $f$ passes through $P(4, 2)$ and cuts the x-axis at $Q$. Curve $g$ passes through $R$ on the y-axis and curves upwards.]
+
+5.1 Skryf die koördinate van $P'$, die beeld van $P$ op $g$, neer. (2)
+5.2 Toon dat $a = 2$. (2)
+5.3 Skryf die verelyking van $g$ in die vorm $y = \dots$ neer. (1)
+5.4 $T$ is 'n punt op $f$ in die eerste kwadrant, met $TR$ ewewydig aan die $x$-as. Bereken die oppervlakte van $\Delta RTP'$. (4)  
+**[9]**
+
+---
+
+**VRAAG 6**
+
+Die grafieke van $f(x) = x^2 - 2x - 3$ en $g(x) = mx + c$ is hieronder geskets. $D$ en $E$ is die $x$-afsnitte en $P$ is die $y$-afsnit van $f$. Die draaipunt van $f$ is $T(1\ ;\ -4)$. Die grafieke van $f$ en $g$ sny mekaar by $P$ en $E$.
+
+[DIAGRAM: Parabola $f$ opening upwards with vertex $T(1, -4)$, y-intercept $P$, and x-intercepts $D$ and $E$. A straight line $g$ passes through $P$ and $E$.]
+
+6.1 Skryf die waardeverzameling van $f$ neer. (1)
+6.2 Bereken die koördinate van $D$ en $E$. (3)
+6.3 Bepaal die verelyking van $g$. (2)
+6.4 Skryf die waardes van $x$ neer waarvoor $f(x) - g(x) > 0$. (2)
+6.5 Bepaal die maksimum vertikale afstand tussen $h$ en $g$ indien $h(x) = -f(x)$ vir $x \in [-2\ ;\ 3]$. (5)
+6.6 Gegee: $k(x) = g(x) - n$.  
+Bepaal $n$ indien $k$ 'n raaklyn aan $f$ is. (5)  
+**[18]**
+
+---
+
+**VRAAG 7**
+
+7.1 Thabo het ses jaar gelede 'n foon vir R13 000 gekoop. Die waarde van die foon het jaarliks volgens die verminderdesaldometode verminder. Die waarde van die foon is nou R8 337,75. Bereken die jaarlikse depresiasiekoers. (3)
+
+7.2 Eric en Thandi moet elkeen R80 000 spaar om aan die einde van Desember 2027 met vakansie te gaan.
+* Thandi besluit dat sy teen die einde van Januarie 2025 sal begin spaar. Sy sal 36 maandelikse deposito's in 'n spaarrekening maak, wat teen $8,6\%$ p.j. rente betaal, maandeliks samgestel. Die deposito sal aan die einde van elke maand gemaak word.
+* Eric bereken dat as hy aan die einde van Januarie 2024 begin en 48 deposito's van R1 402,31 maak, hy genoeg sal hê om met vakansie te gaan. Hy sal sy deposito's aan die einde van elke maand in 'n spaarrekening maak. Die spaarrekening betaal rente teen $8,6\%$ p.j., maandeliks samgestel.
+
+Bereken die verskil tussen die totale bedrag geld wat Eric en Thandi oor die gegewe tydperk in hulle onderskeie spaarrekeninge sal deponeer. (4)
+
+7.3 'n Lening van R225 000 is aan Lesibana toegestaan. Die rentekoers van die lening is $9\%$ p.j., maandeliks samgestel. Lesibana sal maandelikse betalings van R5 500 maak, met die eerste betaling presies vier maande nadat die lening toegestaan is. Hoeveel betalings sal Lesibana maak om die lening te vereffen? (6)  
+**[13]**
+
+---
+
+**VRAAG 8**
+
+8.1 Bepaal $f'(x)$ vanuit eerste beginsels indien $f(x) = \dfrac{1}{x}$. (5)
+
+8.2 Bepaal:  
+  8.2.1 $\dfrac{d}{dx}(\sqrt{4x^6} + \sqrt{2}.x^2)$ (3)  
+  8.2.2 $g'(x)$ indien $g(x) = \dfrac{3x^4 - 4x^2 + 6}{x^2}$ (3)
+
+8.3 Die verelyking van die raaklyn aan $f(x) = 3x^2 + bx + c$ by $x = 1$ word gegee deur $y = 9x - 9$. Bepaal die waardes van $b$ en $c$. (4)  
+**[15]**
+
+---
+
+**VRAAG 9**
+
+Die grafiek van $f(x) = ax^3 + bx^2 + cx - 5$ is hieronder geskets. $E(-1\ ;\ 0)$ en $G(5\ ;\ 0)$ is die $x$-afsnitte van $f$.
+
+[DIAGRAM: Cubic curve $f$ with y-intercept below the origin at $(0, -5)$, x-intercepts at $E(-1, 0)$ and $G(5, 0)$, showing a local maximum and a local minimum.]
+
+9.1 Toon dat $a = 1$, $b = -3$ en $c = -9$. (3)
+9.2 Bereken die waarde van $x$ waarvoor $f'$ 'n lokale minimum waarde het. (4)
+9.3 Gebruik die grafiek om die waardes van $x$ te bepaal waarvoor $f''(x).f(x) > 0$. (3)
+9.4 Vir watter waardes van $t$ sal die grafiek van $p(x) = f(x) + t$ twee verskillende positiewe wortels en een negatiewe wortel hê? (3)  
+**[13]**
+
+---
+
+**VRAAG 10**
+
+EHGF is 'n reghoek. HE word $x^2\text{ cm}$ verleng na N en EH word $x^2\text{ cm}$ verleng na P. NF verleng, sny PG verleng by M om 'n gelykbenige driehoek MNP met NM = MP te vorm. D is 'n punt op NP waar MD $\perp$ NP. $NP = 4\text{ cm}$ en $MD = 3\text{ cm}$.
+
+[DIAGRAM: An isosceles triangle MNP with base NP = 4 and height MD = 3. Inside, a rectangle EFGH is inscribed with base on NP and upper vertices F and G on sides MN and MP respectively. EN and HP are of length $x^2$. EF has height $b$.]
+
+10.1 Toon dat die area van EFGH deur $A(x) = 6x^2 - 3x^4$ gegee word. (4)
+10.2 Bereken die maksimum oppervlakte van reghoek EFGH. (4)  
+**[8]**
+
+---
+
+**VRAAG 11**
+
+11.1 Twee gebeurtenisse, A en B, is sodanig dat:
+* $P(A) = 0,4$
+* $P(\text{A of B}) = 0,52$
+* A en B is onderling uitsluitend
+
+Bepaal $P(B)$. (2)
+
+11.2 Die items wat 'n leerder oor 'n sekere tydperk by 'n snoepwinkel gekoop het, is aangeteken. Die waarskynlikheid dat die leerder 'n toebroodjie (S), 'n sjokolade (C) en 'n vrugtesap (J) koop, word in die Venn-diagram hieronder voorgestel.
+
+[DIAGRAM: Venn diagram showing three intersecting circles C, S, and J inside a rectangle representing the sample space, with regions labelled with probabilities: C only 0.04, S only 0.09, J only 0.20, C and S only 0.02, C and J only 0.03, S and J only 0.04, and intersection of all three 0.01.]
+
+  11.1.1 Wat is die waarskynlikheid dat die leerder 'n toebroodjie sal koop? (1)
+  11.1.2 Bereken die waarskynlikheid dat die leerder ten minste twee van die drie items sal koop. (2)
+  11.1.3 Bereken die waarskynlikheid dat die leerder NIE een van die drie items sal koop NIE. (2)
+
+11.3 Sewe kitaarspelers, elkeen met 'n ander naam, neem aan 'n konsert deel.
+  11.3.1 Op hoeveel verskillende maniere kan die name van die kitaarspelers onder mekaar in die program gelys word? (1)
+  11.3.2 Na die vertoning wag die kitaarspelers agter die verhoog. Daar is 'n bankie met plek vir slegs vier om op te sit.  
+  Wat sal die waarskynlikheid wees dat die vier kitaarspelers in alfabetiese volgorde, van links na regs, sal sit? (3)
+  11.3.3 Gedurende die vertoning sit die sewe kitaarspelers in 'n ry op die verhoog. Vier kitaarspelers is vroulik en drie is manlik.  
+  Op hoeveel verskillende maniere kan die spelers sit indien die mans nie langs mekaar mag sit nie? (3)  
+**[14]**
+
+**TOTAAL: 150**
+
+---
+
+**INLIGTINGSBLAD**
+
+$$x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni)$$  
+$$A = P(1 - ni)$$  
+$$A = P(1 - i)^n$$  
+$$A = P(1 + i)^n$$
+
+$$T_n = a + (n - 1)d$$  
+$$S_n = \dfrac{n}{2}[2a + (n - 1)d]$$
+
+$$T_n = ar^{n-1}$$  
+$$S_n = \dfrac{a(r^n - 1)}{r - 1} \quad (r \neq 1)$$  
+$$S_\infty = \dfrac{a}{1 - r} \quad (-1 < r < 1)$$
+
+$$F = \dfrac{x[(1 + i)^n - 1]}{i}$$  
+$$P = \dfrac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \dfrac{f(x + h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$  
+$$M\left(\dfrac{x_1 + x_2}{2}, \dfrac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c$$  
+$$y - y_1 = m(x - x_1)$$  
+$$m = \dfrac{y_2 - y_1}{x_2 - x_1}$$  
+$$m = \tan \theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+$$\text{In } \Delta ABC: \dfrac{a}{\sin A} = \dfrac{b}{\sin B} = \dfrac{c}{\sin C}$$  
+$$a^2 = b^2 + c^2 - 2bc \cos A$$  
+$$\text{area } \Delta ABC = \dfrac{1}{2}ab \sin C$$
+
+$$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta$$  
+$$\sin(\alpha - \beta) = \sin \alpha \cos \beta - \cos \alpha \sin \beta$$  
+$$\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta$$  
+$$\cos(\alpha - \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2 \alpha - \sin^2 \alpha \\ 1 - 2\sin^2 \alpha \\ 2\cos^2 \alpha - 1 \end{cases}$$  
+$$\sin 2\alpha = 2\sin \alpha \cos \alpha$$
+
+$$\bar{x} = \dfrac{\sum_{i=1}^n x_i}{n}$$  
+$$\sigma^2 = \dfrac{\sum_{i=1}^n (x_i - \bar{x})^2}{n}$$
+
+$$P(A) = \dfrac{n(A)}{n(S)}$$  
+$$P(\text{A of B}) = P(A) + P(B) - P(\text{A en B})$$
+
+$$\hat{y} = a + bx$$  
+$$b = \dfrac{\sum(x - \bar{x})(y - \bar{y})}{\sum(x - \bar{x})^2}$$

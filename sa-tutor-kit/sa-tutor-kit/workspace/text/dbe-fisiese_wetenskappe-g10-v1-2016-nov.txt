@@ -1,0 +1,978 @@
+=== page 1 ===
+Kopiereg voorbehou Blaai om asseblief
+
+PUNTE:  150
+
+TYD:  2 uur
+
+Hierdie vraestel bestaan uit 16 bladsye, 1 antwoordblad en 2 gegewensblaaie.
+
+GRAAD 10
+NASIONALE
+SENIOR SERTIFIKAAT
+FISIESE WETENSKAPPE:  FISIKA (V1)
+
+NOVEMBER 2016
+
+=== page 2 ===
+Fisiese Wetenskappe/V1 2    DBE/November 2016
+  KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+INSTRUKSIES EN INLIGTING
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+Skryf jou naam en klas (byvoorbeeld 10A) in die toepaslike ruimtes op die
+ANTWOORDEBOEK neer.
+
+Hierdie vraestel bestaan uit 11 vrae. Beantwoord A L die vrae in die
+ANTWOORDEBOEK, behalwe VRAAG 7.3 wat op die grafiek op die
+aangehegte ANTWOORDBLAD gedoen moet word. Maak seker dat die
+ANTWOORDBLAD saam met die ANTWOORDEBOEK ingelewer word.
+
+Begin ELKE vraag op 'n NUWE bladsy in die ANTWOORDEBOEK.
+
+Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie
+vraestel gebruik is.
+
+Laat EEN reël oop tussen twee subvrae, byvoorbeeld tussen VRAAG 2.1 en
+VRAAG 2.2.
+
+Jy mag 'n nieprogrammeerbare sakrekenaar gebruik.
+
+Jy mag toepaslike wiskundige instrumente gebruik.
+
+Jy word aangeraai om die aangehegte GEGEWENSBLAAIE te gebruik.
+
+Toon ALLE formules en substitusies in ALLE berekeninge.
+
+Rond jou finale numeriese antwoorde tot ' n minimum van TWEE desimale
+plekke af.
+
+Gee kort (bondige) motiverings, besprekings ensovoorts waar nodig.
+
+Skryf netjies en leesbaar.
+
+=== page 3 ===
+Fisiese Wetenskappe/V1 3    DBE/November 2016
+  KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+t
+
+VRAAG 1:  MEERVOUDIGEKEUSE-VRAE
+
+Vier opsies word as moontlike antwoorde op die volgende vrae gegee. Elke vraag
+het slegs EEN korrekte antwoord. Kies die antwoord en skryf slegs die letter (A –D)
+langs die vraagnommer (1.1– 1.10) in die ANTWOORDEBOEK neer, byvoorbeeld
+1.11 E.
+
+1.1 Watter EEN van die volgende fisiese hoeveelhede is 'n vektor?
+
+ A
+
+B
+
+C
+
+D
+Afstand
+
+Verplasing
+
+Massa
+
+Tyd
+
+(2)
+
+1.2 In die vergelyking vf = vi + a∆t, is die SI-eenheid vir a∆t …
+
+ A
+
+B
+
+C
+
+D
+m
+
+m∙s-2
+
+m∙s-1
+
+s-1
+
+(2)
+
+1.3 Beskou die versnelling-tyd-grafiek van 'n bewegende voorwerp hieronder.
+
+ Watter EEN van die grafieke hieronder verteenwoordig die snelheid -tyd-
+grafiek van die voorwerp?
+
+ (2)
+
+C
+v
+t
+B
+v
+t
+A
+v
+t
+D
+v
+t
+a
+
+=== page 4 ===
+Fisiese Wetenskappe/V1 4    DBE/November 2016
+  KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+1.4 'n Golf waar in die deeltjies van die medium reghoekig tot die pad/weg
+waarlangs die golf deur die medium beweeg, vibreer, word deur  'n …
+geproduseer.
+
+ A
+
+B
+
+C
+
+D
+vlermuis
+
+motortoeter
+
+ambulans
+
+X-straalmasjien
+
+(2)
+
+1.5 Die aantal golwe wat elke sekonde verby 'n punt beweeg, word as die … van
+die golf gedefinieer.
+
+ A
+
+B
+
+C
+
+D
+spoed
+
+amplitude
+
+golflengte
+
+frekwensie
+
+(2)
+
+1.6 Watter EEN van die grafieke hieronder beskryf  die verwantskap tussen
+hardheid en die amplitude van 'n golf  die beste?
+
+                                 A                             B                          C                              D
+
+  (2)
+
+1.7 Watter EEN van die vektordiagramme hieronder sal die grootste resulterende
+vektor lewer?
+
+ (2)
+
+Amplitude (m)
+Hardheid (dB)
+Amplitude (m)
+Hardheid (dB)
+Amplitude (m)
+Hardheid (dB)
+Amplitude (m)
+Hardheid (dB)
+A
+ B
+ C
+ D
+
+=== page 5 ===
+Fisiese Wetenskappe/V1 5    DBE/November 2016
+  KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+1.8 'n Sfeer word vanaf punt A  losgelaat, soos die diagram hieronder toon.
+Dit bereik punt B, wat die laagste punt van die swaaibeweging is. Ignoreer die
+effekte van lugwrywing.
+
+ Watter EEN van die stellings hieronder oor die energie van die s telsel
+is KORREK?
+
+ A
+
+B
+
+C
+
+D
+Die kinetiese energie by A is gelyk aan die meganiese energie by A.
+
+Die gravitasie-potensiële energie by A is gelyk aan die kinetiese energie
+by B.
+
+Die som van die kinetiese energie en gravitasi e-potensiële energie by A
+is gelyk aan die som van die kinetiese energie en gravitasi e-potensiële
+energie by B.
+
+Die kinetiese energie by A is gelyk aan die gravitasie-potensiële energie
+by B.
+
+(2)
+
+1.9 'n Rubberballon verkry 'n negatiewe lading nadat dit teen menslike hare
+gevryf is.
+
+Watter EEN van die stellings hieronder verduidelik die beste waarom dit
+gebeur?
+
+ A
+
+B
+
+C
+
+D
+Negatiewe lading s word van die rubberballon na die menslike hare
+oorgedra.
+
+Positiewe lading s word van die rubberballon na die menslike hare
+oorgedra.
+
+Positiewe lading s word van die menslike hare na die rubberballon
+oorgedra.
+
+Negatiewe lading s word van die menslike hare na die rubberballon
+oorgedra.
+
+(2)
+
+Posisie A
+
+Posisie B
+
+=== page 6 ===
+Fisiese Wetenskappe/V1 6    DBE/November 2016
+  KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+1.10 Beskou die stroombaandiagram hieronder.
+
+ Hoe sal die lesings op ammeter A1, A2 en A3 met mekaar vergelyk?
+
+ A
+
+B
+
+C
+
+D
+A1 = A2 = A3
+
+A1 = A2 + A3
+
+(A2 + A3) ˃ A1
+
+A2 ˂ A3˂ A1
+
+(2)
+[20]
+
+2 Ω
+4 Ω
+A1
+A2
+A3
+
+=== page 7 ===
+Fisiese Wetenskappe/V1 7    DBE/November 2016
+  KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+VRAAG 2   (Begin op 'n nuwe bladsy.)
+
+'n Ongeduldige sakeman loop op en af terwyl hy 'n besigheidsoproep op sy sel foon
+maak.
+
+Hy begin by sy lessenaar en loop 5 m oos ( van A na B) en loop dan 7 m wes (van B
+na C). Hierdie proses neem hom 20 s.
+
+2.1 Gebruik 'n vektorskaaldiagram en stel die twee verplasings van die man
+(van A na B EN van B na C) voor. Benoem AL die vektore duidelik en skryf
+die verplasings langs die vektore neer.
+Gebruik 'n skaal waar 1 m deur 1 cm verteenwoordig word.
+
+(2)
+
+2.2
+
+2.3
+
+2.4
+
+2.5
+
+2.6
+Wat is die man se verandering in posisie by C relatief tot A?
+
+Bereken die totale afstand wat die man loop.
+
+Verduidelik waarom die waarde wat in VRAAG 2.2 bereken is, van die waarde
+wat in VRAAG 2.3 bereken is, verskil.
+
+Definieer die term snelheid.
+
+Bereken die gemiddelde snelheid van die man.
+ (2)
+
+(2)
+
+(2)
+
+(2)
+
+(4)
+[14]
+
+N
+
+W  O
+
+S
+A
+ B
+C
+
+=== page 8 ===
+Fisiese Wetenskappe/V1 8    DBE/November 2016
+  KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+40 m
+
+VRAAG 3   (Begin op 'n nuwe bladsy.)
+
+'n Taxi beweeg teen 'n snelheid van 25 m·s -1 wanneer 'n verkeerslig, 40 m voor hom,
+na rooi oorslaan.
+
+3.1 Definieer die term versnelling.  (2)
+
+Die bestuurder neem 1 s om te reageer (reaksietyd) voordat hy rem. Die taxi kom
+binne 2 s tot stilstand.
+
+3.2
+
+3.3
+
+3.4
+
+3.5
+
+3.6
+Is die snelheid en versnelling van die remmende taxi in DIESELFDE
+RIGTING soos wat dit na die verkeerslig beweeg?
+
+Gee 'n rede vir die antwoord op VRAAG 3.2.
+
+Bereken die afstand wat die taxi tydens die reaksietyd beweeg.
+
+Sal die taxi by die verkeerslig stop? Toon ALLE berekeninge.
+
+Teken 'n posisie-teenoor-tyd-grafiek vir die beweging van die taxi.
+
+(1)
+
+(1)
+
+(4)
+
+(5)
+
+(4)
+[17]
+
+verkeerslig
+25 m·s-1
+
+=== page 9 ===
+Fisiese Wetenskappe/V1 9    DBE/November 2016
+  KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+VRAAG 4   (Begin op 'n nuwe bladsy.)
+
+Die snelheid-tyd-grafiek hieronder verteenwoordig die beweging van 'n meisie wat in
+'n noordelike rigting op haar fiets ry.
+
+4.1 Skryf die beginsnelheid van die meisie neer.  (2)
+
+4.2 Skryf die grootte van die meisie se snelheid by 300 s neer.  (2)
+
+4.3 Gebruik die inligting op die grafiek om die bew eging van die meisie te
+beskryf:
+
+ 4.3.1 Van B na C  (2)
+
+ 4.3.2 Van C na D  (2)
+
+4.4 SONDER OM BEWEGINGSVERGELYKINGS TE GEBRUIK, bereken elk
+van die volgende:
+
+ 4.4.1 Afstand deur die meisie van A na C afgelê  (4)
+
+ 4.4.2 Versnelling van die meisie van D na E  (4)
+
+4.5 Tydens watter stadiums  van die rit is die verandering in snelheid die
+grootste?
+
+(2)
+
+4.6 Verduidelik die antwoord op VRAAG 4.5.  (2)
+   [20]
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+0         100        200        300       400        500        600       700
+snelheid (m·s-1)
+A
+ B
+C
+ D
+E
+tyd (s)
+
+=== page 10 ===
+Fisiese Wetenskappe/V1 10    DBE/November 2016
+  KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+    10 m
+First floor
+Ground floor
+cell phone
+
+v = 14 m·s-1
+
+VRAAG 5   (Begin op 'n nuwe bladsy.)
+
+'n Vrou is by 'n winkelsentrum 10  m bo die grond. Haar selfoon , met 'n massa van
+0,01 kg, val en tref die grond teen ' n snelheid van 14 m·s-1. Ignoreer die effekte van
+lugweerstand.
+
+5.1
+
+5.2
+
+5.3
+
+5.4
+
+5.5
+Herlei 14 m·s-1 na km·h-1.
+
+Definieer die term kinetiese energie.
+
+Bereken die gravitasi e- potensiële energie van die selfoon op 'n hoogte van
+5 m bo die grond.
+
+Bereken die snelheid van die selfoon op 'n hoogte van 5 m bo die grond.
+
+Sal die waarde van die sel foon se meganiese energie net voordat dit die
+grond tref GROTER AS, KLEINER AS of DI ESELFDE AS die meganiese
+energie op 'n hoogte van 5 m wees? Verduidelik die antwoord.
+
+ (2)
+
+(2)
+
+(3)
+
+(4)
+
+(3)
+[14]
+
+Boonste verdieping
+Selfoon
+Grondverdieping
+
+=== page 11 ===
+Fisiese Wetenskappe/V1 11    DBE/November 2016
+  KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+VRAAG 6   (Begin op 'n nuwe bladsy.)
+
+Die diagram hieronder is 'n grafiese voorstelling van 'n transversale golf wat van links
+na regs oor die bladsy beweeg. Die golf beweeg teen ' n spoed van 0,4 m·s-1 en het
+'n frekwensie van 0,5 Hz.  A, B, C, D en E verteenwoordig punte op die golf.
+
+6.1
+
+6.2
+Skryf die amplitude van die golf in meter neer.
+
+Benoem die punte gemerk:
+ (2)
+
+ 6.2.1
+
+6.2.2
+D
+
+E
+ (1)
+
+(1)
+
+6.3
+
+6.4
+
+6.5
+
+6.6
+Skryf TWEE punte op die grafiek hierbo neer wat in fase is.
+
+Hoeveel golwe word in die diagram hierbo verteenwoordig?
+
+Bereken die golflengte van die golf.
+
+Bepaal afstand d  in die diagram.  Toon aan hoe jy by die antwoord uitgekom
+het.
+ (1)
+
+(2)
+
+(3)
+
+(2)
+[12]
+
+-50
+-40
+-30
+-20
+-10
+0
+10
+20
+30
+40
+50
+0 1 2 3 4 5 6
+Amplitude (cm) ●A
+ ● E
+●
+D
+d
+t (s)
+●C
+B●
+
+=== page 12 ===
+Fisiese Wetenskappe/V1 12    DBE/November 2016
+  KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+VRAAG 7   (Begin op 'n nuwe bladsy.)
+
+[Bron: goyalkunal91.deviantart.com]
+
+7.1
+
+7.2
+
+7.3
+
+7.4
+
+7.5
+Skryf die onafhanklike veranderlike neer.
+
+Skryf die afhanklike veranderlike neer.
+
+Teken 'n grafiek van die data deur die frekwensie (y-as) teenoor die golflengte
+(x-as) van elke noot wat deur die musikant gespeel word, te stip. Gebruik die
+grafiekpapier wat op die aangehegte ANTWOORDBLAD gegee word.
+
+Gebruik die grafiek in VRAAG 7.3 om die wiskundige verhouding tussen die
+frekwensie en die golflengte van die note te bepaal.
+
+Gebruik die inligting vir noot X om die spoed van die klank te bereken.
+ (1)
+
+(1)
+
+(4)
+
+(1)
+
+(3)
+[10]
+
+'n Musiekgroep besluit om gedurende een van hul oefensessies 'n klankeksperiment
+te doen. Die diagram hieronder toon ' n musikant wat spesifieke not e op die elektriese
+kitaar speel. Die kitaar is by 'n luidspreker ingeprop om die klank te versterk.
+
+'n Mikrofoon is aan 'n ossilloskoop gekoppel sodat die frekwensie van die klank
+gemeet kan word.
+
+Die tabel hieronder verteenwoordig die data van die note wat deur die musikant
+gespeel is.
+
+NOOT GESPEEL
+DEUR MUSIKANT
+GOLFLENGTE VAN
+DIE NOOT (m)
+FREKWENSIE VAN
+DIE NOOT (Hz)
+W 3 110
+X 6 55
+Y 9 37
+Z 12 27
+
+=== page 13 ===
+Fisiese Wetenskappe/V1 13    DBE/November 2016
+  KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+VRAAG 8   (Begin op 'n nuwe bladsy.)
+
+Verskillende tipes elektromagnetiese straling het verskillende frekwensies. Dit kan hul
+eienskappe beïnvloed, sowel as waarvoor elkeen in ons daaglikse lewens  gebruik kan
+word.
+
+8.1 Kies die frekwensie uit KOLOM B wat by die tipe elektromagnetiese straling
+in KOLOM A pas. Skryf slegs die letter (A–C) langs die vraagnommer
+(8.1.1–8.1.3) in die ANTWOORDEBOEK neer, byvoorbeeld 8.1.4 D.
+
+ KOLOM A
+TIPE STRALING
+KOLOM B
+FREKWENSIE IN Hz
+
+8.1.1
+
+8.1.2
+
+8.1.3
+
+Ultraviolet
+
+Gamma
+
+Radio
+
+A
+
+B
+
+C
+
+1023
+
+107
+
+1016
+
+ (3 x 1)  (3)
+
+8.2 Skryf EEN gebruik van elk van die volgende tipes straling neer:
+
+ 8.2.1
+
+8.2.2
+Infrarooi
+
+Mikrogolwe
+ (1)
+
+(1)
+
+8.3 Wanneer dokters die erns van 'n fraktuur moet bepaal, word 'n foto van die
+gebreekte been geneem. Die foto hieronder toon 'n fraktuur.
+
+                                                   [Bron: learning radiography.com]
+
+ Skryf die volgende neer:
+
+ 8.3.1
+
+8.3.2
+
+8.3.3
+Naam van die tipe straling vir hierdie prosedure gebruik
+
+Eienskap van hier die tipe straling wat dit moontli k maak om die
+prosedure uit te voer
+
+Gevaar van te veel blootstelling aan hierdie tipe straling
+ (1)
+
+(1)
+
+(1)
+
+8.4 'n Radioprogram word in die FM-bandwydte op 'n golflengte van 3 m
+uitgesaai.
+
+Bereken die energie van 'n foton van die radiogolf.
+
+(4)
+[12]
+
+=== page 14 ===
+Fisiese Wetenskappe/V1 14    DBE/November 2016
+  KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+VRAAG 9   (Begin op 'n nuwe bladsy.)
+
+Die magneetveldpatroon tussen twee magnetiese pole van 'n magneet  word in die
+diagram hieronder getoon.
+
+9.1 Die magnetiese krag is 'n nie-kontakkrag.
+
+ 9.1.1
+
+9.1.2
+Definieer die term nie-kontakkrag.
+
+Gee nog 'n voorbeeld van 'n nie-kontakkrag.
+ (2)
+
+(1)
+
+9.2
+
+9.3
+Wat is die aard van die krag tussen die twee pole?
+
+Wat is die polariteit van pool 2? Gee 'n rede vir die antwoord.
+ (1)
+
+(2)
+[6]
+
+Pool
+1
+Pool
+2
+
+=== page 15 ===
+Fisiese Wetenskappe/V1 15    DBE/November 2016
+  KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+-2 x 10-6 C
++3 x 10-6 C
+
+VRAAG 10   (Begin op 'n nuwe bladsy.)
+
+Twee klein identiese sfere, A en B, hang aan twee lang sydraadjies , soos in die skets
+hieronder getoon. Die sfere dra ladings van +3 x 10-6 C en -2 x 10-6 C onderskeidelik.
+
+10.1
+
+10.2
+
+10.3
+
+10.4
+Watter sfeer het 'n oormaat elektrone?
+
+Die twee sfere word toegelaat om  aan mekaar te raak. Sal die elektrone van
+A na B of van B na A oorgedra word?
+
+Die sfere word nou geskei.
+
+Bereken die nuwe lading op sfeer B.
+
+Bereken die aantal elektrone wat tydens kontak oorgedra word.
+ (1)
+
+(1)
+
+(3)
+
+(3)
+[8]
+
+
+
+      A                     B
+
+=== page 16 ===
+Fisiese Wetenskappe/V1 16    DBE/November 2016
+  KABV – Graad 10
+Kopiereg voorbehou
+2 A
+12 V
+
+VRAAG 11   (Begin op 'n nuwe bladsy.)
+
+In die stroombaandiagram hieronder is die lesing 12 V op voltmeter V1 en die lesing op
+ammeter A1 is 2 A.
+
+11.1 Bereken die:
+
+ 11.1.1
+
+11.1.2
+
+11.1.3
+
+11.1.4
+Totale weerstand van die stroombaan
+
+Lesing op V2
+
+Lesing op A2
+
+Hoeveelheid lading wat in 120 s deur ammeter A1 vloei
+ (4)
+
+(3)
+
+(3)
+
+(3)
+
+11.2 Hoe sal die lesing op ammeter A 1 beïnvloed word indien die 6 Ω -resistor uit
+die stroombaan verwyder word?
+
+Skryf slegs TOENEEM, AFNEEM of BLY DIESELFDE neer.
+
+(1)
+
+11.3 Verduidelik die antwoord op VRAAG 11.2 SONDER enige berekeninge.  (3)
+[17]
+
+TOTAAL:  150
+
+v1
+V1
+A1
+1
+ 4 Ω
+
+6 Ω
+3 Ω
+A2
+V2
+A3
+
+=== page 17 ===
+Fisiese Wetenskappe/V1 1    DBE/November 2016
+  KABV – Graad 10
+Kopiereg voorbehou
+
+DATA FOR PHYSICAL SCIENCES GRADE 10
+PAPER 1 (PHYSICS)
+
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 10
+VRAESTEL 1 (FISIKA)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Acceleration due to gravity
+Swaartekragversnelling g 9,8 m·s-2
+Speed of light in a vacuum
+Spoed van lig in 'n vakuum c 3,0 x 108 m·s-1
+Planck's constant
+Planck se konstante h 6,63 x 10-34 J·s
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Electron mass
+Elektronmassa me 9,11 x 10-31 kg
+
+TABLE 2:  FORMULAE/TABEL 2:  FORMULES
+
+MOTION/BEWEGING
+
+tavv if ∆+=  221i tatvx ∆+∆=∆
+xa2vv
+2
+i
+2
+f ∆+=   t2 vvx if ∆ +=∆
+
+WORK, ENERGY AND POWER/ARBEID, ENERGIE EN DRYWING
+
+mghU=  or/of   mghEP =  2mv21K=   or/of  2k mv21E =
+
+EM = Ek+ Ep.   OR   EM = K + U
+
+WAVES, SOUND AND LIGHT/GOLWE, KLANK EN LIG
+
+λ= fv
+f
+1T=
+hfE= or/of λ= chE
+
+=== page 18 ===
+Fisiese Wetenskappe/V1 2    DBE/November 2016
+  KABV – Graad 10
+Kopiereg voorbehou
+
+ELECTROSTATICS/ELEKTROSTATIKA
+
+e
+Q = n  2Q +Q = Q 21
+
+ELECTRIC CIRCUITS/ELEKTRIESE STROOMBANE
+
+I=Q ∆ t ...R1R1R1 21p ++=
+...RRR 21s ++=  qWV=
+
+=== page 19 ===
+Fisiese Wetenskappe/V1     DBE/November 2016
+  KABV – Graad 10
+Kopiereg voorbehou
+
+ANTWOORDBLAD VIR VRAAG 7.3
+
+NAAM: _____________________________________  KLAS: _____
+
+Lewer hierdie ANTWOORDBLAD saam met die ANTWOORDEBOEK in.

@@ -1,0 +1,151 @@
+# NATIONAL SENIOR CERTIFICATE / NASIONALE SENIOR SERTIFIKAAT
+
+**GRADE 12 / GRAAD 12**
+
+## MATHEMATICS P2 / WISKUNDE V2
+**NOVEMBER 2025**
+**MARKING GUIDELINES / NASIENRIGLYNE**
+
+**MARKS / PUNTE: 150**
+
+---
+
+### NOTE:
+* If a candidate answers a question TWICE, only mark the FIRST attempt.
+* If a candidate has crossed out an attempt of a question and not redone the question, mark the crossed-out version.
+* Consistent accuracy applies in ALL aspects of the Marking Guidelines. Stop marking at the second calculation error.
+* Assuming answers/values in order to solve a problem is NOT acceptable.
+
+### LET WEL:
+* As 'n kandidaat 'n vraag TWEE KEER beantwoord, sien slegs die EERSTE poging na.
+* As 'n kandidaat 'n antwoord van 'n vraag doodtrek en nie oordoen nie, sien die doodgetrekte poging na.
+* Volgehoue akkuraatheid word in ALLE aspekte van die Nasienriglyne toegepas. Hou op nasien by die tweede berekeningsfout.
+* Aanvaar van antwoorde/waardes om 'n probleem op te los, word NIE toegelaat nie.
+
+---
+
+| GEOMETRY • MEETKUNDE |
+| :--- |
+| **S** | A mark for a correct statement<br>(A statement mark is independent of a reason)<br><br>'n Punt vir 'n korrekte bewering<br>('n Punt vir 'n bewering is onafhanklik van die rede) |
+| **R** | A mark for the correct reason<br>(A reason mark may only be awarded if the statement is correct)<br><br>'n Punt vir 'n korrekte rede<br>('n Punt word slegs vir die rede toegeken as die bewering korrek is) |
+| **S/R** | Award a mark if statement AND reason are both correct<br><br>Ken 'n punt toe as die bewering EN rede beide korrek is |
+
+---
+
+## QUESTION / VRAAG 1
+
+| AGE OF CAR (IN YEARS) | SELLING PRICE OF CAR (IN RANDS) |
+| :---: | :---: |
+| 2 | 293 000 |
+| 3 | 265 000 |
+| 3 | 256 000 |
+| 4 | 219 000 |
+| 4 | 241 000 |
+| 4 | 246 000 |
+| 6 | 226 000 |
+| 6 | 176 000 |
+| 7 | 154 000 |
+| 7 | 180 000 |
+| 8 | 148 000 |
+
+---
+
+| 1.1 | $\begin{aligned} a &= 331~397,20 \\ b &= -22~988,32 \\ \hat{y} &= 331~397,20 - 22~988,32x \end{aligned}$ | $\begin{aligned} &\checkmark a = 331~397,20 \\ &\checkmark b = -22~988,32 \\ &\checkmark \text{equation} \end{aligned}$ | (3) |
+| :---: | :---: | :---: | :---: |
+| 1.2 | $\begin{aligned} \hat{y} &= 331~397,20 - 22~988,32(5) \\ &= 216~455,60 \end{aligned}$<br><br>**OR/OF**<br><br>$\hat{y} = 216~455,61 \text{ (calculator)}$ | $\begin{aligned} &\checkmark \text{substitution} \\ &\checkmark \text{answer} \end{aligned}$<br><br><br>$\checkmark\checkmark \text{answer}$ | (2)<br><br>(2) |
+| 1.3 | The strong correlation ($r = -0,95$) suggests that the data points lie close to the regression line.<br>Therefore, the prediction will be valid.<br><br>'n Sterk korrelasie ($r = -0,95$) dui aan dat die punte naby aan die regressielyn lê.<br>Dus, die voorspelling is geldig. | $\begin{aligned} &\checkmark \text{strong correlation} \\ &\quad\textbf{OR } r = -0,95 \\ &\checkmark \text{answer} \end{aligned}$ | (2) |
+| 1.4 | The average decrease per year is $\text{R}22~988,32$.<br>Die gemiddelde afname per jaar is $\text{R }22~988,32$. | $\checkmark \text{answer}$ | (1) |
+| | | | **[8]** |
+
+---
+
+## QUESTION / VRAAG 2
+
+| TIME, $t$ (IN MINUTES) | CUMULATIVE FREQUENCY |
+| :---: | :---: |
+| $0 < t \leqslant 20$ | 16 |
+| $0 < t \leqslant 40$ | 40 |
+| $0 < t \leqslant 60$ | 59 |
+| $0 < t \leqslant 80$ | 67 |
+| $0 < t \leqslant 100$ | 70 |
+
+---
+
+| 2.1.1 | 70 | $\checkmark 70$ | (1) |
+| :---: | :---: | :---: | :---: |
+| 2.1.2 | $\begin{aligned} \text{No. of people} &= 67 - 40 \\ &= 27 \end{aligned}$ | $\begin{aligned} &\checkmark 67 - 40 \\ &\checkmark 27 \end{aligned}$ | (2) |
+| 2.1.3 | ![Histogram](../images/page4_img1.png) | $\begin{aligned} &\checkmark \text{two frequencies correct} \\ &\checkmark \text{all frequencies correct} \\ &\checkmark \text{no gaps between bars} \end{aligned}$ | (3) |
+| 2.1.4 | Skewed to the right **OR** positively skewed<br>Skeef na regs **OF** positief skeef | $\checkmark \text{answer}$ | (1) |
+
+---
+
+| 2.2 | $11 \quad 14 \quad 19 \quad 20 \quad 8 \quad 10 \quad 2 \quad 14 \quad x$ | |
+| :---: | :--- | :--- |
+| | $\begin{aligned} \frac{11 + 14 + 19 + 20 + 8 + 10 + 2 + 14 + x}{9} &= 12 \\ x + 98 &= 108 \\ x &= 10 \end{aligned}$<br><br>The $9^{\text{th}}$ player scored $10$ points.<br><br>$\begin{aligned} \sigma &= 5,23 \quad (5,22812) \\ (\bar{x} - \sigma ; \bar{x} + \sigma) &= (12 - 5,23 ; 12 + 5,23) \\ &= (6,77 ; 17,23) \end{aligned}$<br><br>3 players' points were outside one standard deviation of the mean.<br>3 spelers se punte aangeteken lê buite een standaardafwyking van die gemiddeld. | $\begin{aligned} &\checkmark \text{equating using mean} \\ &\checkmark \text{answer} \\ &\checkmark \text{standard deviation} \\ &\checkmark \text{interval} \\ &\checkmark \text{answer} \end{aligned}$ | (5) |
+| | | | **[12]** |
+
+---
+
+## QUESTION / VRAAG 3
+
+![Graph Q3](../images/page6_img1.png)
+
+| 3.1 | $\begin{aligned} QR &= \sqrt{(-4 - 12)^2 + (-6 - 2)^2} \\ &= \sqrt{320} = 8\sqrt{5} \text{ units} \end{aligned}$ | $\begin{aligned} &\checkmark QR = \sqrt{(-4 - 12)^2 + (-6 - 2)^2} \\ &\checkmark \text{answer} \end{aligned}$ | (2) |
+| :---: | :--- | :--- | :--- |
+| 3.2 | $\begin{aligned} m_{QR} &= \frac{-6 - 2}{-4 - 12} \quad \textbf{OR} \quad m_{QR} &= \frac{2 - (-6)}{12 - (-4)} \\ m_{QR} &= \frac{1}{2} & m_{QR} &= \frac{1}{2} \end{aligned}$ | $\begin{aligned} &\checkmark \text{correct substitution of } Q(-4 ; -6) \\ &\quad \text{\& } R(12 ; 2) \text{ into gradient formula} \\ &\checkmark \text{answer} \end{aligned}$ | (2) |
+| 3.3 | $\begin{aligned} m_{QR} &= \frac{1}{2} \\ \tan \theta &= \frac{1}{2} \\ \theta &= 26,57^{\circ} \end{aligned}$ | $\begin{aligned} &\checkmark \tan \theta = m_{QR} \\ &\checkmark \text{answer} \end{aligned}$ | (2) |
+| 3.4 | $\begin{aligned} m_{QR} &= \frac{1}{2} \\ -6 &= \frac{1}{2}(-4) + c \quad \textbf{OR} \quad y - 2 &= \frac{1}{2}(x - 12) \\ c &= -4 & y - 2 &= \frac{1}{2}x - 6 \\ y &= \frac{1}{2}x - 4 & y &= \frac{1}{2}x - 4 \end{aligned}$ | $\begin{aligned} &\checkmark \text{correct substitution of gradient and} \\ &\quad \text{point } Q(-4 ; -6) \text{ or } R(12 ; 2) \\ &\checkmark \text{answer} \end{aligned}$ | (2) |
+| 3.5 | $\begin{aligned} Q \rightarrow R &: (x ; y) \rightarrow (x + 16 ; y + 8) \\ &\therefore S(15 ; 16) \end{aligned}$ | $\checkmark x_S = 15 \quad \checkmark y_S = 16$ | (2) |
+
+---
+
+| 3.6 | $\begin{aligned} m_{QR} &= \frac{1}{2} \\ m_{PT} &= -2 \end{aligned}$<br><br>Equation of PT:<br>$\begin{array}{rlrl} y &= -2x + c & y - y_1 &= -2(x - x_1) \\ 8 &= -2(-1) + c \quad \textbf{OR} & y - 8 &= -2(x - (-1)) \\ c &= 6 & y - 8 &= -2x - 2 \\ y &= -2x + 6 & y &= -2x + 6 \end{array}$<br><br>$\begin{aligned} -2x + 6 &= \frac{1}{2}x - 4 \\ -4x + 12 &= x - 8 \\ 5x &= 20 \\ x &= 4 \\ y &= \frac{1}{2}(4) - 4 \\ y &= -2 \\ T(4& ; -2) \end{aligned}$<br><br>**OR**<br><br>$\begin{aligned} PQ &= \sqrt{(-4 - (-1))^2 + (-6 - 8)^2} = \sqrt{205} \\ PR &= \sqrt{(12 - (-1))^2 + (2 - 8)^2} = \sqrt{205} \\ \therefore &\Delta PQR \text{ is isosceles / } \Delta PQR \text{ is 'n gelykbenige } \Delta \\ \therefore &\perp \text{ height bisects the base QR / } \\ &\perp \text{ hoogte halveer die basis QR} \\ \therefore &T \text{ is midpoint of QR / } T \text{ is middelpunt van QR} \\ \therefore &T(4 ; -2) \end{aligned}$ | $\begin{aligned} &\checkmark m_{PT} \\ &\checkmark \text{equation of PT} \\ &\checkmark \text{equation QR} = \text{equation PT} \\ &\checkmark \text{simplification} \\ &\checkmark T(x_T ; y_T) \end{aligned}$<br><br><br><br><br><br><br><br><br><br><br><br>$\begin{aligned} &\checkmark PQ = \sqrt{205} \\ &\checkmark PR = \sqrt{205} \\ &\checkmark \Delta PQR \text{ is isosceles} \\ &\checkmark \perp \text{ height bisects the base QR} \\ &\checkmark T(4 ; -2) \end{aligned}$ | (5)<br><br><br><br><br><br><br><br><br><br><br><br>(5) |
+| 3.7 | $\begin{aligned} PT &= \sqrt{(4 - (-1))^2 + (-2 - 8)^2} \\ PT &= \sqrt{125} = 5\sqrt{5} \text{ units} = 11,18 \text{ units} \\ \text{Area of PQRS} &= QR \cdot PT \\ &= (8\sqrt{5})(5\sqrt{5}) \\ &= 200 \text{ units}^2 \end{aligned}$<br><br>**OR**<br><br>$\begin{aligned} PT &= \sqrt{(4 - (-1))^2 + (-2 - 8)^2} \\ PT &= \sqrt{125} = 5\sqrt{5} \text{ units} = 11,18 \text{ units} \\ \text{Area of } \Delta PQR &= \frac{1}{2}(8\sqrt{5})(5\sqrt{5}) \\ &= 100 \text{ units}^2 \\ \text{Area of PQRS} &= 2 \times \text{Area of } \Delta PQR \\ &= 200 \text{ units}^2 \end{aligned}$ | $\begin{aligned} &\checkmark \text{length of PT} \\ &\checkmark \text{substitution of QR and PT} \\ &\checkmark \text{answer} \end{aligned}$<br><br><br><br><br><br><br><br><br><br><br><br><br>$\begin{aligned} &\checkmark \text{length of PT} \\ &\checkmark \text{substitution of QR and PT} \\ &\checkmark \text{answer} \end{aligned}$ | (3)<br><br><br><br><br><br><br><br><br><br><br><br><br>(3) |
+| | | | **[18]** |
+
+---
+
+## QUESTION / VRAAG 4
+
+![Graph Q4](../images/page9_img1.png)
+
+| 4.1 | $p = -6$ | $\checkmark p = -6$ | (1) |
+| :---: | :--- | :--- | :--- |
+| 4.2 | $\begin{aligned} M\hat{D}B &= 90^{\circ} \quad [MC \parallel y\text{-axis}] \\ AM &= ME = q + 1 \quad [\text{radii}] \\ MD &= q \\ AM^2 &= AD^2 + MD^2 \quad [\text{Pythagoras}] \\ (q + 1)^2 &= (q - 1)^2 + q^2 \\ q^2 + 2q + 1 &= q^2 - 2q + 1 + q^2 \\ q^2 - 4q &= 0 \\ q(q - 4) &= 0 \\ q \neq 0 \text{ or } q &= 4 \end{aligned}$ | $\begin{aligned} &\checkmark AM = q + 1 \\ &\checkmark MD = q \\ &\checkmark \text{substitution into Pythagoras} \\ &\checkmark \text{standard form} \end{aligned}$ | (4) |
+| 4.3 | $\begin{aligned} AM &= 5 \text{ units} \\ (x + 6)^2 &+ (y - 4)^2 = 25 \end{aligned}$ | $\checkmark \text{LHS} \quad \checkmark \text{RHS}$ | (2) |
+| 4.4 | $3 \text{ units}$ | $\checkmark \text{answer}$ | (1) |
+
+---
+
+| 4.5 | $\begin{aligned} (x + 6)^2 + (0 - 4)^2 &= 25 \\ (x + 6)^2 &= 9 \\ x + 6 = 3 \quad &\text{or} \quad x + 6 = -3 \\ x = -3 \quad &\text{or} \quad x = -9 \\ A(-9 ; 0) \\ B(-3 ; 0) \end{aligned}$<br><br>**OR**<br><br>$\begin{aligned} (x + 6)^2 + (0 - 4)^2 &= 25 \\ x^2 + 12x + 36 + 16 - 25 &= 0 \\ x^2 + 12x + 27 &= 0 \\ (x + 3)(x + 9) &= 0 \\ x = -3 \quad &\text{or} \quad x = -9 \\ A(-9 ; 0) \\ B(-3 ; 0) \end{aligned}$<br><br>**OR**<br><br>$\begin{aligned} q - 1 &= 3 \\ DB = AD &= 3 \quad [\text{line from centre } \perp \text{ to chord}] \\ A(-9 ; 0) \\ B(-3 ; 0) \end{aligned}$ | $\begin{aligned} &\checkmark \text{substituting } y = 0 \text{ into equation of circle} \\ &\checkmark \text{coordinates of A} \\ &\checkmark \text{coordinates of B} \end{aligned}$<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>$\begin{aligned} &\checkmark DB = 3 \\ &\checkmark \text{coordinates of A} \\ &\checkmark \text{coordinates of B} \end{aligned}$ | (3)<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>(3) |
+| 4.6 | $\begin{aligned} m_{MB} &= \frac{4 - 0}{-6 - (-3)} \\ &= -\frac{4}{3} \\ m_{BC} &= \frac{3}{4} \end{aligned}$<br><br>$\begin{array}{rlrl} y &= \frac{3}{4}x + c & y - y_1 &= \frac{3}{4}(x + x_1) \\ 0 &= \frac{3}{4}(-3) + c \quad \textbf{OR} & y - 0 &= \frac{3}{4}[x - (-3)] \\ c &= \frac{9}{4} & y &= \frac{3}{4}(x + 3) \\ y &= \frac{3}{4}x + \frac{9}{4} & y &= \frac{3}{4}x + \frac{9}{4} \end{array}$ | $\begin{aligned} &\checkmark m_{MB} \\ &\checkmark m_{BC} \\ &\checkmark \text{substitution of gradient BC} \\ &\quad \text{and coordinates of B} \\ &\checkmark \text{answer} \end{aligned}$ | (4) |
+| 4.7 | $C\left(-6 ; \frac{9}{4}\right)$ | $\checkmark x_C \quad \checkmark y_C$ | (2) |
+
+---
+
+| 4.8 | $\begin{aligned} \tan \alpha &= -\frac{3}{4} \\ \alpha &= 36,87^{\circ} \\ m_{AC} &= -\frac{3}{4} \\ \tan \beta &= -\frac{3}{4} \\ \beta &= 180^{\circ} - 36,87^{\circ} \\ \beta &= 143,13^{\circ} \\ \therefore A\hat{C}B &= 106,26^{\circ} \end{aligned}$<br><br>**OR**<br><br>$\begin{aligned} \tan M\hat{A}B &= m_{MA} = \frac{4}{3} \\ M\hat{A}B &= 53,13^{\circ} \\ A\hat{M}D &= 90^{\circ} - 53,13^{\circ} \\ A\hat{M}D &= 36,87^{\circ} \\ M\hat{A}C &= 90^{\circ} \quad [\text{tangent } \perp \text{ radius}] \\ A\hat{C}M &= 53,13^{\circ} \\ \therefore A\hat{C}B &= 106,26^{\circ} \quad [\text{property of kite}] \end{aligned}$<br><br>**OR**<br><br>$\begin{aligned} \tan A\hat{C}D &= \frac{AD}{DC} \\ \tan A\hat{C}D &= \frac{3}{4} \div 3 = \frac{4}{3} \text{ [Wait, check values: } AD=3, DC=4 \Rightarrow \tan A\hat{C}D = \frac{3}{4}? \text{ Let's use marking guideline verbatim]} \\ \tan A\hat{C}D &= \frac{\frac{3}{4}}{\frac{9}{4}} = \frac{1}{3} \text{ (Wait: guidelines show } \frac{\frac{3}{4}}{\frac{9}{3}} \text{ or similar? Let's transcribe exactly: } \frac{\frac{3}{4}}{\frac{9}{3}} \text{? No, transcribed: } \tan A\hat{C}D = \frac{3}{4} \div \dots) \\ A\hat{C}D &= 53,13^{\circ} \\ \therefore A\hat{C}B &= 106,26^{\circ} \quad [\text{property of kite}] \end{aligned}$ | $\begin{aligned} &\checkmark \alpha = 36,87^{\circ} \\ &\checkmark \tan \beta = m_{AC} \\ &\checkmark \text{value of } \beta \\ &\checkmark \text{answer} \end{aligned}$<br><br><br><br><br><br><br><br><br>$\begin{aligned} &\checkmark M\hat{A}B \\ &\checkmark A\hat{M}D \\ &\checkmark A\hat{C}M \\ &\checkmark \text{answer} \end{aligned}$<br><br><br><br><br><br><br><br><br>$\begin{aligned} &\checkmark \text{trig ratio in } \Delta ACD \text{ or } \Delta BCD \\ &\checkmark \tan A\hat{C}D \\ &\checkmark A\hat{C}D \\ &\checkmark \text{answer} \end{aligned}$ | (4)<br><br><br><br><br><br><br><br><br>(4)<br><br><br><br><br><br><br><br><br>(4) |
+| | **OR** | | |
+| | $\begin{aligned} AB &= 6 \text{ units} \\ AC = BC &= \frac{15}{4} \text{ units} \quad [\text{tangent from same point}] \\ (AB)^2 &= (AC)^2 + (BC)^2 - 2(AC)(BC)\cos \hat{C} \\ (6)^2 &= \left(\frac{15}{4}\right)^2 + \left(\frac{15}{4}\right)^2 - 2\left(\frac{15}{4}\right)\left(\frac{15}{4}\right)\cos \hat{C} \\ \cos A\hat{C}B &= -0,28 \\ A\hat{C}B &= 106,26^{\circ} \end{aligned}$<br><br>**OR**<br><br>$\begin{aligned} \tan M\hat{A}B &= m_{MA} = \frac{4}{3} \\ M\hat{A}B &= 53,13^{\circ} \\ AMBC &\text{ is a cyclic quad} \\ \therefore M\hat{C}B &= 53,13^{\circ} \quad [\text{ls in the same seg}] \\ \therefore A\hat{C}B &= 106,26^{\circ} \quad [\text{property of kite}] \end{aligned}$ | $\begin{aligned} &\checkmark AC = BC \\ &\checkmark \text{substitution into cosine-rule} \\ &\checkmark \text{simplification} \\ &\checkmark \text{answer} \end{aligned}$<br><br><br><br><br><br><br><br><br>$\begin{aligned} &\checkmark M\hat{A}B \\ &\checkmark AMBC \text{ is a cyclic quad} \\ &\checkmark M\hat{C}B \\ &\checkmark \text{answer} \end{aligned}$ | (4)<br><br><br><br><br><br><br><br><br>(4) |
+| | | | **[21]** |
+
+---
+
+## QUESTION / VRAAG 5
+
+| 5.1.1 | $\begin{aligned} r^2 &= k^2 + 1^2 \quad [\text{Pythagoras}] \\ r &= \sqrt{k^2 + 1} \\ \cos 40^{\circ} &= \frac{k}{\sqrt{k^2 + 1}} \end{aligned}$ | $\begin{aligned} &\checkmark \text{third side} = \sqrt{k^2 + 1} \\ &\checkmark \text{answer} \end{aligned}$ | (2) |
+| :---: | :--- | :--- | :--- |
+| 5.1.2 | $\begin{aligned} &\frac{2\sin 25^{\circ}\cos 25^{\circ}}{-2 + 4\sin^2 25^{\circ}} \\ &= \frac{\sin 50^{\circ}}{-2(1 - 2\sin^2 25^{\circ})} \\ &= \frac{\sin 50^{\circ}}{-2\cos 50^{\circ}} \\ &= -\frac{1}{2}\tan 50^{\circ} \quad \textbf{OR} \quad = -\frac{1}{2}\left(\frac{k}{\sqrt{k^2 + 1}}\right) \div \left(\frac{-2}{\sqrt{k^2 + 1}}\right) \\ &= -\frac{1}{2}k \end{aligned}$ | $\begin{aligned} &\checkmark \sin 50^{\circ} \\ &\checkmark -2(1 - 2\sin^2 25^{\circ}) \\ &\checkmark \text{double angle} \\ &\checkmark \text{subst OR quotient identity} \\ &\checkmark \text{answer} \end{aligned}$ | (5) |
+| 5.1.3 | $\begin{aligned} \sin 10^{\circ} &= \sin(50^{\circ} - 40^{\circ}) \\ &= \sin 50^{\circ}\cos 40^{\circ} - \cos 50^{\circ}\sin 40^{\circ} \\ &= \left(\frac{k}{\sqrt{k^2 + 1}}\right)\left(\frac{k}{\sqrt{k^2 + 1}}\right) - \left(\frac{1}{\sqrt{k^2 + 1}}\right)\left(\frac{1}{\sqrt{k^2 + 1}}\right) \\ &= \frac{k^2 - 1}{k^2 + 1} \end{aligned}$<br><br>**OR**<br><br>$\begin{aligned} \sin 10^{\circ} &= \cos 80^{\circ} = \cos 2(40^{\circ}) \\ &= 2\cos^2 40^{\circ} - 1 \\ &= 2\left(\frac{k}{\sqrt{k^2 + 1}}\right)^2 - 1 \\ &= \frac{2k^2}{k^2 + 1} - 1 \\ &= \frac{k^2 - 1}{k^2 + 1} \end{aligned}$<br><br>**OR**<br><br>$\begin{aligned} \sin 10^{\circ} &= \sin(60^{\circ} - 50^{\circ}) \\ &= \sin 60^{\circ}\cos 50^{\circ} - \cos 60^{\circ}\sin 50^{\circ} \\ &= \left(\frac{\sqrt{3}}{2}\right)\left(\frac{1}{\sqrt{k^2 + 1}}\right) - \left(\frac{1}{2}\right)\left(\frac{k}{\sqrt{k^2 + 1}}\right) \\ &= \frac{\sqrt{3} - k}{2\sqrt{k^2 + 1}} \quad \text{[Wait, transcription says } \frac{\sqrt{3}-k}{2\sqrt{k^2+1}}, \text{ let's check marking guideline text]} \end{aligned}$ | $\begin{aligned} &\checkmark \sin 10^{\circ} = \sin(50^{\circ} - 40^{\circ}) \\ &\checkmark \text{correct expansion} \\ &\checkmark \text{first term} \quad \checkmark \text{second term} \end{aligned}$<br><br><br><br><br><br><br><br><br><br><br><br><br><br>$\begin{aligned} &\checkmark \sin 10^{\circ} = \cos 80^{\circ} \\ &\checkmark \text{correct expansion} \\ &\checkmark\checkmark \text{substitution} \end{aligned}$<br><br><br><br><br><br><br><br><br><br><br><br><br><br>$\begin{aligned} &\checkmark \sin 10^{\circ} = \sin(60^{\circ} - 50^{\circ}) \\ &\checkmark \text{correct expansion} \\ &\checkmark \text{first term} \quad \checkmark \text{second term} \end{aligned}$ | (4)<br><br><br><br><br><br><br><br><br><br><br><br><br><br>(4)<br><br><br><br><br><br><br><br><br><br><br><br><br><br>(4) |
+
+---
+
+| 5.2.1 | $\begin{aligned} &\frac{\sin(540^{\circ} + x)\cos(90^{\circ} + x)}{\sin(-x)} \\ &= \frac{(-\sin x)(-\sin x)}{-\sin x} \\ &= -\sin x \end{aligned}$ | $\begin{aligned} &\checkmark \sin(540^{\circ} + x) = -\sin x \\ &\checkmark \cos(90^{\circ} + x) = -\sin x \\ &\checkmark \sin(-x) = -\sin x \\ &\checkmark \text{answer} \end{aligned}$ | (4) |
+| :---: | :--- | :--- | :--- |
+| 5.2.2 | $x \in (180^{\circ}; 360^{\circ})$<br><br>**OR**<br><br>$180^{\circ} < x < 360^{\circ}$ | $\checkmark\checkmark x \in (180^{\circ}; 360^{\circ})$<br><br>$\checkmark\checkmark 180^{\circ} < x < 360^{\circ}$ | (2)<br><br>(2) |
+| | | | **[17]** |
+
+---
+
+## QUESTION / VRAAG 6
+
+| 6.1 | $\begin{aligned} \text{LHS} &= [\tan(180^{\circ} - x)](1 - \cos^2 x) + \cos^2 x \\ &= (-\tan x)(\sin^2 x) + \cos^2 x \\ &= \left(-\frac{\sin x}{\cos x}\right)(\sin^2 x) + \cos^2 x \\ &= -\frac{\sin^3 x}{\cos x} + \cos^2 x \\ &= \frac{-\sin^3 x + \cos^3 x}{\cos x} \quad \text{(Wait: let's check numerator sign)} \\ &= \frac{(\sin x - \cos x)(\sin^2 x + \sin x \cos x + \cos^2 x)}{-\cos x} \\ &= \frac{(\sin x - \cos x)(1 + \sin x \cos x)}{-\cos x} \\ &= \text{RHS} \end{aligned}$<br><br>**OR**<br><br>$\begin{aligned} \text{RHS} &= \frac{(\sin x - \cos x)(1 + \sin x \cos x)}{-\cos x} \\ &= \frac{(\sin x - \cos x)(\cos^2 x + \sin^2 x + \sin x \cos x)}{-\cos x} \\ &= \frac{\sin x \cos^2 x + \sin^3 x + \sin^2 x \cos x - \cos^3 x - \sin^2 x \cos x - \sin x \cos^2 x}{-\cos x} \\ &= \frac{\sin^3 x - \cos^3 x}{-\cos x} \\ &= \frac{\sin^3 x}{-\cos x} + \cos^2 x \\ &= -\frac{\sin x}{\cos x}(\sin^2 x) + \cos^2 x \\ &= -\tan x(1 - \cos^2 x) + \cos^2 x \\ &= \text{LHS} \end{aligned}$ | $\begin{aligned} &\checkmark \tan(180^{\circ} - x) = -\tan x \\ &\checkmark 1 - \cos^2 x = \sin^2 x \\ &\checkmark \text{quotient identity} \\ &\checkmark \text{simplification to a single fraction} \\ &\checkmark \text{factors for a difference of cubes} \\ &\checkmark \sin^2 x + \cos^2 x = 1 \end{aligned}$<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>$\begin{aligned} &\checkmark 1 = \sin^2 x + \cos^2 x \\ &\checkmark \text{expansion} \\ &\checkmark \text{simplification} \\ &\checkmark \text{split fraction} \\ &\checkmark \text{

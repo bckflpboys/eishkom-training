@@ -1,0 +1,743 @@
+SENIOR CERTIFICATE EXAMINATIONS
+
+**ENGLISH HOME LANGUAGE P2**
+
+**2018**
+
+**MARKS: 80**  
+**TIME: $2\frac{1}{2}$ hours**
+
+This question paper consists of 36 pages.
+
+---
+
+### INSTRUCTIONS AND INFORMATION
+
+1. Read these instructions carefully before you begin to answer the questions.
+
+2. Do not attempt to read the entire question paper. Consult the table of contents on pages 4–5 and mark the numbers of the questions set on texts you have studied this year. Thereafter, read these questions and choose the ones you wish to answer.
+
+3. This question paper consists of THREE sections:
+   - SECTION A: Poetry (30)
+   - SECTION B: Novel (25)
+   - SECTION C: Drama (25)
+
+4. Answer FIVE questions in all: THREE in SECTION A, ONE in SECTION B and ONE in SECTION C as follows:
+   - **SECTION A: POETRY**
+     - PRESCRIBED POETRY – Answer TWO questions.
+     - UNSEEN POEM – COMPULSORY question
+   - **SECTION B: NOVEL**
+     - Answer ONE question.
+   - **SECTION C: DRAMA**
+     - Answer ONE question.
+
+5. CHOICE OF ANSWERS FOR SECTIONS B (NOVEL) AND C (DRAMA):
+   - Answer questions ONLY on the novel and the drama you have studied.
+   - Answer ONE ESSAY QUESTION and ONE CONTEXTUAL QUESTION. 
+     - If you answer the essay question in SECTION B, you must answer the contextual question in SECTION C. 
+     - If you answer the contextual question in SECTION B, you must answer the essay question in SECTION C. 
+     - Use the checklist to assist you. 
+
+6. LENGTH OF ANSWERS:
+   - The essay question on Poetry should be answered in about 250–300 words.
+   - Essay questions on the Novel and Drama sections should be answered in 400–450 words.
+   - The length of answers to contextual questions should be determined by the mark allocation. Candidates should aim for conciseness and relevance. 
+
+7. Follow the instructions at the beginning of each section carefully.
+
+8. Number your answers correctly according to the numbering system used in this question paper.
+
+9. Start EACH section on a NEW page.
+
+10. Suggested time management:
+    - SECTION A: approximately 40 minutes
+    - SECTION B: approximately 55 minutes
+    - SECTION C: approximately 55 minutes
+
+11. Write neatly and legibly.
+
+---
+
+### TABLE OF CONTENTS
+
+| SECTION A: POETRY | | | |
+| :--- | :--- | :---: | :---: |
+| **Prescribed Poetry: Answer ANY TWO questions.** | | | |
+| **QUESTION NO.** | **QUESTION** | **MARKS** | **PAGE NO.** |
+| 1. 'Futility' | Essay question | 10 | 7 |
+| 2. 'An Abandoned Bundle' | Contextual question | 10 | 8 |
+| 3. 'Lake Morning in Autumn' | Contextual question | 10 | 9 |
+| 4. 'When to the sessions of sweet silent thought' | Contextual question | 10 | 10 |
+| 5. 'A Hard Frost' | Essay question | 10 | 11 |
+| 6. 'An African Elegy' | Contextual question | 10 | 12 |
+| 7. 'Funeral Blues' | Contextual question | 10 | 13 |
+| 8. 'Motho ke Motho ka batho babang' | Contextual question | 10 | 14 |
+| **AND** | | | |
+| **Unseen Poem: COMPULSORY QUESTION** | | | |
+| 9. 'Seed' | Contextual question | 10 | 15 |
+
+| SECTION B: NOVEL | | | |
+| :--- | :--- | :---: | :---: |
+| **Answer ONE question.\*** | | | |
+| 10. *Animal Farm* | Essay question | 25 | 16 |
+| 11. *Animal Farm* | Contextual question | 25 | 16 |
+| 12. *Pride and Prejudice* | Essay question | 25 | 19 |
+| 13. *Pride and Prejudice* | Contextual question | 25 | 19 |
+| 14. *The Great Gatsby* | Essay question | 25 | 21 |
+| 15. *The Great Gatsby* | Contextual question | 25 | 21 |
+| 16. *The Picture of Dorian Gray* | Essay question | 25 | 24 |
+| 17. *The Picture of Dorian Gray* | Contextual question | 25 | 24 |
+| 18. *Life of Pi* | Essay question | 25 | 26 |
+| 19. *Life of Pi* | Contextual question | 25 | 26 |
+
+| SECTION C: DRAMA | | | |
+| :--- | :--- | :---: | :---: |
+| **Answer ONE question.\*** | | | |
+| 20. *Hamlet* | Essay question | 25 | 28 |
+| 21. *Hamlet* | Contextual question | 25 | 28 |
+| 22. *Othello* | Essay question | 25 | 31 |
+| 23. *Othello* | Contextual question | 25 | 31 |
+| 24. *The Crucible* | Essay question | 25 | 34 |
+| 25. *The Crucible* | Contextual question | 25 | 34 |
+
+*\*NOTE: In SECTIONS B and C, answer ONE ESSAY and ONE CONTEXTUAL question. You may NOT answer TWO essay questions or TWO contextual questions.*
+
+---
+
+### CHECKLIST
+
+Use this checklist to ensure that you have answered the correct number of questions.
+
+| SECTION | QUESTION NUMBERS | NO. OF QUESTIONS ANSWERED | TICK ($\checkmark$) |
+| :--- | :---: | :---: | :---: |
+| A: Poetry (Prescribed Poetry) | 1–8 | 2 | |
+| A: Poetry (Unseen Poem) | 9 | 1 | |
+| B: Novel (Essay OR Contextual) | 10–19 | 1 | |
+| C: Drama (Essay OR Contextual) | 20–25 | 1 | |
+
+*\*NOTE: In SECTIONS B and C, ensure that you have answered ONE ESSAY and ONE CONTEXTUAL question. You may NOT answer TWO essay questions or TWO contextual questions.*
+
+---
+
+## SECTION A: POETRY
+
+### PRESCRIBED POETRY
+
+Answer any **TWO** of the following questions.
+
+#### QUESTION 1: POETRY – ESSAY QUESTION
+
+Read the poem below and then answer the question that follows.
+
+**FUTILITY – Wilfred Owen**
+
+```text
+1   Move him into the sun –
+2   Gently its touch awoke him once,
+3   At home, whispering of fields unsown,
+4   Always it woke him, even in France,
+5   Until this morning and this snow.
+6   If anything might rouse him now
+7   The kind old sun will know.
+
+8   Think how it wakes the seeds –
+9   Woke, once, the clays of a cold star.
+10  Are limbs, so dear-achieved, are sides,
+11  Full-nerved – still warm – too hard to stir?
+12  Was it for this the clay grew tall?
+13  O what made fatuous sunbeams toil
+14  To break earth's sleep at all?
+```
+
+The poem, 'Futility', focuses on the tragedy of war.
+
+By close reference to **DICTION**, **IMAGERY** and **TONE**, critically discuss the validity of this statement.
+
+Your response should take the form of a well-constructed essay of 250–300 words (about ONE page). **[10]**
+
+---
+
+#### QUESTION 2: POETRY – CONTEXTUAL QUESTION
+
+Read the poem below and then answer the questions that follow.
+
+**AN ABANDONED BUNDLE – Mbuyiseni Oswald Mtshali**
+
+```text
+1   The morning mist
+2   and chimney smoke
+3   of White City Jabavu
+4   flowed thick yellow
+5   as pus oozing
+6   from a gigantic sore.
+
+7   It smothered our little houses
+8   like fish caught in a net.
+
+9   Scavenging dogs
+10  draped in red bandanas of blood
+11  fought fiercely
+12  for a squirming bundle.
+
+13  I threw a brick; 
+14  they bared fangs
+15  flicked velvet tongues of scarlet
+16  and scurried away,
+17  leaving a mutilated corpse –
+18  an infant dumped on a rubbish heap –
+19  'Oh! Baby in the Manger
+20  sleep well
+21  on human dung.'
+
+22  Its mother
+23  had melted into the rays of the rising sun,
+24  her face glittering with innocence 
+25  her heart as pure as untrampled dew.
+```
+
+2.1 Refer to lines 7–8: 'It smothered our … in a net.'
+
+Explain what the word, 'caught' conveys about life in White City Jabavu. **(2)**
+
+2.2 What is the effect of using 'Its' (line 22) in reference to the infant? **(2)**
+
+2.3 Refer to line 19: 'Baby in the Manger'.
+
+Discuss the significance of the comparison between the infant and the 'Baby in the Manger'. **(3)**
+
+2.4 Refer to lines 22–25: 'Its mother … as untrampled dew.'
+
+Critically discuss how these lines contribute to the central idea of the poem. **(3)**  
+**[10]**
+
+---
+
+#### QUESTION 3: POETRY – CONTEXTUAL QUESTION
+
+Read the poem below and then answer the questions that follow.
+
+**LAKE MORNING IN AUTUMN – Douglas Livingstone**
+
+```text
+1   Before sunrise the stork was there
+2   resting the pillow of his body
+3   on stick legs growing from the water.
+
+4   A flickering gust of pencil-slanted rain
+5   swept over the chill autumn morning:
+6   and he, too tired to arrange
+
+7   his wind-buffeted plumage,
+8   perched swaying a little
+9   neck flattened, ruminative,
+
+10  beak on chest, contemplative eye
+11  filmy with star vistas and hollow
+12  black migratory leagues, strangely,
+
+13  ponderously alone and some weeks
+14  early. The dawn struck and everything
+15  sky, water, bird, reeds
+
+16  was blood and gold. He sighed.
+17  Stretching his wings he clubbed
+18  the air; slowly, regally, so very tired,
+
+19  aiming his beak he carefully climbed
+20  inclining to his invisible tunnel of sky,
+21  his feet trailing a long, long time.
+```
+
+3.1 How do the words, 'Before sunrise' (line 1) influence the reader's feelings toward the stork? **(2)**
+
+3.2 What impression of the stork is created by the use of the word, 'regally' (line 18)? **(2)**
+
+3.3 Refer to lines 11–12: 'hollow/black migratory leagues'.
+
+Discuss the appropriateness of this image in the context of the poem. **(3)**
+
+3.4 Refer to lines 16–20: 'He sighed./Stretching … tunnel of sky'.
+
+These lines depict a strong creature that accepts its fate. Do you agree with this statement? Justify your response. **(3)**  
+**[10]**
+
+---
+
+#### QUESTION 4: POETRY – CONTEXTUAL QUESTION
+
+Read the poem below and then answer the questions that follow.
+
+**WHEN TO THE SESSIONS OF SWEET SILENT THOUGHT – William Shakespeare**
+
+```text
+1   When to the sessions of sweet silent thought
+2   I summon up remembrance of things past,
+3   I sigh the lack of many a thing I sought,
+4   And with old woes new wail my dear time's waste:
+5   Then can I drown an eye (unused to flow)
+6   For precious friends hid in death's dateless night,
+7   And weep afresh love's long since cancelled woe,
+8   And moan the expense of many a vanished sight:
+9   Then can I grieve at grievances foregone,
+10  And heavily from woe to woe tell o'er
+11  The sad account of fore-bemoanéd moan,
+12  Which I new pay as if not paid before.
+13  But if the while I think on thee, dear friend,
+14  All losses are restored and sorrows end.
+```
+
+4.1 Refer to line 3: 'I sigh the lack of many a thing I sought'.
+
+Explain what the word, 'sigh' suggests about the speaker's state of mind. **(2)**
+
+4.2 Refer to line 6: 'For precious friends hid in death's dateless night'.
+
+What impression of death is created by this description? **(2)**
+
+4.3 Refer to lines 9–12: 'Then can I … not paid before.'
+
+Discuss the effectiveness of the imagery in these lines. **(3)**
+
+4.4 Refer to lines 13–14: 'But if the … and sorrows end.'
+
+These lines depict a change in the speaker's attitude toward his circumstances. Do you agree with this statement? Justify your response. **(3)**  
+**[10]**
+
+---
+
+#### QUESTION 5: POETRY – ESSAY QUESTION
+
+Read the poem below and then answer the question that follows.
+
+**A HARD FROST – Cecil Day Lewis**
+
+```text
+1   A frost came in the night and stole my world
+2   And left this changeling for it – a precocious 
+3   Image of spring, too brilliant to be true: 
+4   White lilac on the windowpane, each grass-blade
+5   Furred like a catkin, maydrift loading the hedge.
+6   The elms behind the house are elms no longer
+7   But blossomers in crystal, stems of the mist
+8   That hangs yet in the valley below, amorphous
+9   As the blind tissue whence creation formed.
+
+10  The sun looks out, and the fields blaze with diamonds.
+11  Mockery spring, to lend this bridal gear
+12  For a few hours to a raw country maid,
+13  Then leave her all disconsolate with old fairings
+14  Of aconite and snowdrop! No, not here
+15  Amid this flounce and filigree of death
+16  Is the real transformation scene in progress
+17  But deep below where frost 
+18  Worrying the stiff clods unclenches their 
+19  Grip on the seed and lets our future breathe.
+```
+
+The poem describes how frost plays a role in the transformation of the landscape.
+
+By close reference to **DICTION**, **IMAGERY** and **TONE**, critically discuss the validity of this statement.
+
+Your response should take the form of a well-constructed essay of 250–300 words (about ONE page). **[10]**
+
+---
+
+#### QUESTION 6: POETRY – CONTEXTUAL QUESTION
+
+Read the poem below and then answer the questions that follow.
+
+**AN AFRICAN ELEGY – Ben Okri**
+
+```text
+1   We are the miracles that God made
+2   To taste the bitter fruit of Time.
+3   We are precious.
+4   And one day our suffering
+5   Will turn into the wonders of the earth.
+
+6   There are things that burn me now
+7   Which turn golden when I am happy.
+8   Do you see the mystery of our pain?
+9   That we bear poverty
+10  And are able to sing and dream sweet things
+11  And that we never curse the air when it is warm
+12  Or the fruit when it tastes so good
+13  Or the lights that bounce gently on the waters?
+14  We bless things even in our pain.
+15  We bless them in silence.
+
+16  That is why our music is so sweet.
+17  It makes the air remember.
+18  There are secret miracles at work
+19  That only Time will bring forth.
+20  I too have heard the dead singing.
+
+21  And they tell me that 
+22  This life is good
+23  They tell me to live it gently
+24  With fire, and always with hope.
+25  There is wonder here
+26  And there is surprise
+27  In everything the unseen moves.
+28  The ocean is full of songs.
+29  The sky is not an enemy.
+30  Destiny is our friend.
+```
+
+6.1 Refer to line 3: 'We are precious.'
+
+Account for the use of the word, 'precious' in the context of the first stanza. **(2)**
+
+6.2 Suggest a reason for the repetition of the word, 'And' throughout the poem. **(2)**
+
+6.3 Refer to line 13: 'Or the lights that bounce gently on the waters?'
+
+Discuss the effectiveness of this image in the context of the poem. **(3)**
+
+6.4 Refer to lines 22–24: 'This life is good … gently/With fire'.
+
+Critically comment on the contradictory advice given to the speaker by the ancestors. **(3)**  
+**[10]**
+
+---
+
+#### QUESTION 7: POETRY – CONTEXTUAL QUESTION
+
+Read the poem below and then answer the questions that follow.
+
+**FUNERAL BLUES – WH Auden**
+
+```text
+1   Stop all the clocks, cut off the telephone,
+2   Prevent the dog from barking with a juicy bone,
+3   Silence the pianos and with muffled drum
+4   Bring out the coffin, let the mourners come. 
+
+5   Let aeroplanes circle moaning overhead
+6   Scribbling on the sky the message He Is Dead,
+7   Put crêpe bows round the white necks of the public doves,
+8   Let the traffic policemen wear black cotton gloves. 
+
+9   He was my North, my South, my East and West,
+10  My working week and my Sunday rest,
+11  My noon, my midnight, my talk, my song;
+12  I thought that love would last forever: I was wrong.
+
+13  The stars are not wanted now; put out every one;
+14  Pack up the moon and dismantle the sun;
+15  Pour away the ocean and sweep up the wood;
+16  For nothing now can ever come to any good.
+```
+
+7.1 Account for the speaker's desire to 'Stop all the clocks' (line 1). **(2)**
+
+7.2 Suggest a reason for the use of capital letters in 'He Is Dead' (line 6). **(2)**
+
+7.3 Refer to line 9: 'He was my North, my South, my East and West'.
+
+Discuss the effectiveness of this image in the context of the poem. **(3)**
+
+7.4 Critically comment on how the images in the final stanza convey the speaker's attitude toward the death of his loved one. **(3)**  
+**[10]**
+
+---
+
+#### QUESTION 8: POETRY – CONTEXTUAL QUESTION
+
+Read the poem below and then answer the questions that follow.
+
+**MOTHO KE MOTHO KA BATHO BABANG – Jeremy Cronin**  
+*(A Person is a Person Because of Other People)*
+
+```text
+1   By holding my mirror out of the window I see
+2   Clear to the end of the passage. 
+3   There's a person down there.
+4   A prisoner polishing a doorhandle.
+5   In the mirror I see him see
+6   My face in the mirror,
+7   I see the fingertips of his free hand
+8   Bunch together, as if to make
+9   An object the size of a badge
+10  Which travels up to his forehead
+11  The place of an imaginary cap.
+12                              (This means: A warder.)
+13  Two fingers are extended in a vee
+14  And wiggle like two antennae.
+15                              (He's being watched.)
+16  A finger of his free hand makes a watch-hand's arc
+17  On the wrist of his polishing arm without 
+18  Disrupting the slow-slow rhythm of his work.
+19                              (Later. Maybe later we can speak.)
+20  Hey! Wat maak jy daar?
+21  – a voice from around the corner.
+22  No. Just polishing baas.
+23  He turns back to me, now watch
+24  His free hand, the talkative one, 
+25  Slips quietly behind
+26  – Strength brother, it says,
+27  In my mirror,
+28                           A black fist.
+```
+
+8.1 Explain the significance of the 'mirror' to the prisoners. **(2)**
+
+8.2 Suggest a reason for the reference to 'person' (line 3) and then 'prisoner' (line 4). **(2)**
+
+8.3 Refer to lines 13–14: 'Two fingers are … like two antennae.'
+
+Discuss the effectiveness of this image in the context of the poem. **(3)**
+
+8.4 Refer to line 28: 'A black fist.'
+
+In your view, is this line an appropriate conclusion to the poem? Justify your response. **(3)**  
+**[10]**
+
+---
+
+**AND**
+
+---
+
+### UNSEEN POETRY (COMPULSORY)
+
+#### QUESTION 9: CONTEXTUAL QUESTION
+
+Read the poem below and then answer the questions that follow.
+
+**SEED – Paula Meehan**
+
+```text
+1   The first warm day of spring 
+2   and I step out into the garden from the gloom
+3   of a house where hope had died
+4   to tally the storm damage, to seek what may
+5   have survived. And finding some forgotten
+6   lupins$^1$ I'd sown from seed last autumn 
+7   holding in their fingers a raindrop each
+8   like a peace offering, or a promise,
+9   I am suddenly grateful and would
+10  offer a prayer if I believed in God.
+11  But not believing, I bless the power of seed,
+12  its casual, useful persistence,
+13  and bless the power of sun,
+14  its conspiracy with the underground,
+15  and thank my stars the winter's ended.
+```
+
+*Glossary: $^1$lupins – flowering plants*
+
+9.1 Refer to lines 2–4: 'I step out … the storm damage'.
+
+Explain what these lines convey about the speaker's state of mind. **(2)**
+
+9.2 Refer to lines 13–14: 'and bless the … with the underground'.
+
+Suggest why the speaker uses the word 'conspiracy' to describe the relationship between the sun and the soil. **(2)**
+
+9.3 Refer to lines 5–8: 'And finding some … or a promise'.
+
+Discuss the effectiveness of the imagery in these lines. **(3)**
+
+9.4 The speaker identifies with the seed.
+
+With close reference to the poem, critically discuss the validity of this statement. **(3)**  
+**[10]**
+
+**TOTAL SECTION A: 30**
+
+---
+
+## SECTION B: NOVEL
+
+Answer **ONLY** on the novel you have studied.
+
+### ANIMAL FARM – George Orwell
+
+Answer **EITHER QUESTION 10** (essay question) **OR QUESTION 11** (contextual question).
+
+#### QUESTION 10: ANIMAL FARM – ESSAY QUESTION
+
+*Animal Farm* is a novel based on a society driven by vanity, pride and intolerance.
+
+Critically discuss the extent to which you agree with the above statement.
+
+Your response should take the form of a well-constructed essay of 400–450 words ($2\text{–}2\frac{1}{2}$ pages). **[25]**
+
+---
+
+#### QUESTION 11: ANIMAL FARM – CONTEXTUAL QUESTION
+
+Read the extracts below and then answer the questions that follow.
+
+**EXTRACT A**
+
+> [Boxer's] answer to every problem, every setback, was 'I will work harder!' – which he had adopted as his personal motto. 
+> 
+> But everyone worked according to his capacity. The hens and ducks, for instance, saved five bushels of corn at the harvest by gathering up the stray grains. Nobody stole, nobody grumbled over his rations, the quarrelling and biting and jealousy which had been normal features of life in the old days had almost disappeared. Nobody shirked – or almost nobody.
+> 
+> …
+> 
+> Old Benjamin, the donkey, seemed quite unchanged since the Rebellion. He did his work in the same slow obstinate way as he had done it in Jones's time, never shirking, and never volunteering for extra work either. About the Rebellion and its results he would express no opinion.
+> 
+> …
+> 
+> On Sundays there was no work. Breakfast was an hour later than usual, and after breakfast there was a ceremony which was observed every week without fail. First came the hoisting of the flag. Snowball had found in the harness-room an old green tablecloth of Mrs. Jones's, and had painted on it a hoof and a horn in white. This was run up the flagstaff in the farmhouse garden every Sunday morning. The flag was green, Snowball explained, to represent the green fields of England, while the hoof and horn signified the future Republic of the Animals which would arise when the human race had been finally overthrown.
+
+*[Chapter 3]*
+
+11.1 Refer to lines 4–6: 'Nobody stole, … life had almost disappeared.'
+
+Account for the change in the animals' behaviour at this point in the novel. **(3)**
+
+11.2 Refer to line 8: 'Old Benjamin, the donkey, seemed quite unchanged since the Rebellion.'
+
+Suggest how Benjamin might have contributed to the eventual failure of Animalism. **(3)**
+
+11.3 Refer to lines 16–19: 'The flag was … been finally overthrown.'
+
+In the light of later events in the novel, discuss the irony in the above lines. **(3)**
+
+11.4 Refer to line 1: 'I will work harder!'
+
+Comment on how Boxer's motto is typical of his character. **(3)**
+
+**AND**
+
+**EXTRACT B**
+
+> These scenes of terror and slaughter were not what they had looked forward to on that night when old Major first stirred them to rebellion. If she [Clover] herself had had any picture of the future, it had been of a society of animals set free from hunger and the whip, all equal, each working according to his capacity, the strong protecting the weak, as she had protected the lost brood of ducklings with her foreleg on the night of Major's speech. Instead – she did not know why – they had come to a time when no one dared speak his mind, when fierce, growling dogs roamed everywhere, and when you had to watch your comrades torn to pieces after confessing to shocking crimes. There was no thought of rebellion or disobedience in her mind. She knew that, even as things were, they were far better off than they had been in the days of Jones, and that before all else it was needful to prevent the return of the human beings. 
+> 
+> …
+> 
+> At last, feeling this to be in some way a substitute for the words she was unable to find, she began to sing 'Beasts of England'. The other animals sitting round her took it up, and they sang it three times over – very tunefully, but slowly and mournfully, in a way they had never sung it before. 
+> 
+> They had just finished singing it for the third time when Squealer, attended by two dogs, approached them with the air of having something important to say. He announced that, by a special decree of Comrade Napoleon 'Beasts of England' had been abolished. From now onwards it was forbidden to sing it. 
+> 
+> The animals were taken aback.
+
+*[Chapter 7]*
+
+11.5 Account for Clover's state of mind as reflected in the above extract. **(3)**
+
+11.6 Refer to lines 13–15: 'she began to sing … sung it before.'
+
+Using these lines as a starting point, explain the significance of abolishing the song, 'Beasts of England'. **(3)**
+
+11.7 Refer to lines 9–10: 'She knew that, … days of Jones'.
+
+Discuss how propaganda is used to make the animals believe that they are 'far better off than they had been in the days of Jones'. **(3)**
+
+11.8 In the novel, Orwell is critical of power-hungry leaders.
+
+Using this extract as a starting point and drawing on your knowledge of the novel as a whole, discuss the extent to which you agree with this statement. **(4)**  
+**[25]**
+
+---
+
+### PRIDE AND PREJUDICE – Jane Austen
+
+Answer **EITHER QUESTION 12** (essay question) **OR QUESTION 13** (contextual question).
+
+#### QUESTION 12: PRIDE AND PREJUDICE – ESSAY QUESTION
+
+*Pride and Prejudice* is a novel based on a society driven by vanity and intolerance.
+
+Critically discuss the extent to which you agree with the above statement.
+
+Your response should take the form of a well-constructed essay of 400–450 words ($2\text{–}2\frac{1}{2}$ pages). **[25]**
+
+---
+
+#### QUESTION 13: PRIDE AND PREJUDICE – CONTEXTUAL QUESTION
+
+Read the extracts below and then answer the questions that follow.
+
+**EXTRACT C**
+
+> [Elizabeth to Darcy] 'I heard you before, but I could not immediately determine what to say in reply. You wanted me, I know, to say "Yes," that you might have the pleasure of despising my taste; but I always delight in overthrowing those kind of schemes, and cheating a person of their premeditated contempt. I have, therefore, made up my mind to tell you, that I do not want to dance a reel at all – and now despise me if you dare.'
+> 
+> 'Indeed I do not dare.'
+> 
+> Elizabeth, having rather expected to affront him, was amazed at his gallantry; but there was a mixture of sweetness and archness in her manner which made it difficult for her to affront anybody; and Darcy had never been so bewitched by any woman as he was by her. He really believed, that were it not for the inferiority of her connections, he should be in some danger.
+> 
+> Miss Bingley saw, or suspected enough to be jealous; and her great anxiety for the recovery of her dear friend Jane received some assistance from her desire of getting rid of Elizabeth.
+> 
+> She often tried to provoke Darcy into disliking her guest, by talking of their supposed marriage, and planning his happiness in such an alliance.
+> 
+> 'I hope,' said she, as they were walking together in the shrubbery the next day, 'you will give your mother-in-law a few hints, when this desirable event takes place, as to the advantage of holding her tongue; and if you can compass it, do cure the younger girls of running after the officers. – And, if I may mention so delicate a subject, endeavour to check that little something, bordering on conceit and impertinence, which your lady possesses.'
+
+*[Chapter 10]*
+
+13.1 Refer to lines 12–13: 'her great anxiety for the recovery of her dear friend Jane'.
+
+Account for Jane's presence in the Bingley home. **(3)**
+
+13.2 Explain Miss Bingley's desire to 'provoke Darcy into disliking her guest' (line 15). **(3)**
+
+13.3 Discuss why Elizabeth is 'amazed by his [Darcy's] gallantry' (line 7). **(3)**
+
+13.4 Refer to lines 17–19: '"I hope," … holding her tongue'.
+
+Comment on how Miss Bingley's conversation with Darcy is typical of her character. **(3)**
+
+**AND**
+
+**EXTRACT D**
+
+> 'Let me be rightly understood. This match, to which you have the presumption to aspire, can never take place. No, never. Mr Darcy is engaged to my daughter. Now, what have you to say?'
+> 
+> 'Only this: that if he is so, you can have no reason to suppose he will make an offer to me.'
+> 
+> Lady Catherine hesitated for a moment and then replied –
+> 
+> 'The engagement between them is of a peculiar kind. From their infancy, they have been intended for each other, it was the favourite wish of his mother, as well as of hers. While in their cradles, we planned the union: and now, at the moment when the wishes of both sisters would be accomplished in their marriage, to be prevented by a young woman of inferior birth, of no importance in the world, and wholly unallied to the family! Do you pay no regard to the wishes of his friends – to his tacit engagement with Miss de Bourgh? Are you lost to every feeling of propriety and delicacy? Have you not heard me say that from his earliest hours he was destined for his cousin?'
+> 
+> 'Yes, and I had heard it before. 
+> 
+> …
+> 
+> If Mr Darcy is neither by honour nor inclination confined to his cousin, why is not he to make another choice? And if I am that choice, why may I not accept him?'
+
+*[Chapter 56]*
+
+13.5 Account for Lady Catherine's use of the words, 'presumption to aspire' in lines 1–2. **(3)**
+
+13.6 Refer to line 13: 'Are you lost to every feeling of propriety and delicacy?'
+
+Comment on the irony of Lady Catherine's question. **(3)**
+
+13.7 Discuss how marriage is satirised in this extract. **(3)**
+
+13.8 In Extract C, Elizabeth's character is described as 'bordering on conceit and impertinence' (line 21).
+
+By referring to both extracts and the novel as a whole, discuss the validity of this assessment of Elizabeth's character. **(4)**  
+**[25]**
+
+---
+
+### THE GREAT GATSBY – F Scott Fitzgerald
+
+Answer **EITHER QUESTION 14** (essay question) **OR QUESTION 15** (contextual question).
+
+#### QUESTION 14: THE GREAT GATSBY – ESSAY QUESTION
+
+*The Great Gatsby* is a novel about a society driven by vanity, pride and intolerance.
+
+Critically discuss the extent to which you agree with the above statement.
+
+Your response should take the form of a well-constructed essay of 400–450 words ($2\text{–}2\frac{1}{2}$ pages). **[25]**
+
+---
+
+#### QUESTION 15: THE GREAT GATSBY – CONTEXTUAL QUESTION
+
+Read the extracts below and then answer the questions that follow.
+
+**EXTRACT E**
+
+> After the house, we were to see the grounds and the swimming pool, and the hydroplane and the midsummer flowers – but outside Gatsby's window it began to rain again, so we stood in a row looking at the corrugated surface of the Sound.
+> 
+> 'If it wasn't for the mist we could see your home across the bay,' said Gatsby. 'You always have a green light that burns all night, at the end of your dock.'
+> 
+> Daisy put her arm through his abruptly, but he seemed absorbed in what he had just said. Possibly it had occurred

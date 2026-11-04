@@ -1,0 +1,901 @@
+=== page 1 ===
+Kopiereg voorbehou                                                                                                          Blaai om asseblief
+
+PUNTE:  150
+
+TYD:  3 uur
+
+Hierdie vraestel bestaan uit 17 bladsye, 2 gegewensblaaie en 1 antwoordblad.
+
+GRAAD 11
+NASIONALE
+SENIOR SERTIFIKAAT
+FISIESE WETENSKAPPE:  FISIKA (V1)
+
+NOVEMBER 2016
+
+=== page 2 ===
+Fisiese Wetenskappe/V1                                                    2                                         DBE/November 2016
+           KABV – Graad 11
+Kopiereg voorbehou                                                                                                          Blaai om asseblief
+
+INSTRUKSIES EN INLIGTING
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+Skryf jou naam en klas (byvoorbeeld 11A) in die toepaslike ruimte op die
+ANTWOORDEBOEK.
+
+Hierdie vraestel bestaan uit 10 vrae. Beantwoord AL die vrae in die
+ANTWOORDEBOEK behalwe VRAAG 10.2 , wat op die aangehegte
+ANTWOORDBLAD beantwoord moet word. Lewer die ANTWOORDBLAD
+saam met die ANTWOORDEBOEK in.
+
+Begin ELKE vraag op 'n NUWE bladsy in die ANTWOORDEBOEK.
+
+Nommer die antwoorde korrek volgens die nom meringstelsel wat in hierdie
+vraestel gebruik is.
+
+Los EEN reël  oop tussen subvrae, byvoorbeeld tussen VRAAG 2.1 en
+VRAAG 2.2.
+
+Jy mag 'n nie-programmeerbare sakrekenaar gebruik.
+
+Jy mag toepaslike wiskundige meetinstrumente gebruik.
+
+Jy word aangeraai om die aangehegte GEGEWENSBLADSYE te gebruik.
+
+Toon ALLE formules en substitusies in ALLE berekeninge.
+
+Rond jou finale numeriese antwoorde tot 'n minimum van TWEE desimale
+plekke af.
+
+Gee kort (bondige) motiverings, besprekings ensovoorts, waar nodig.
+
+Skryf netjies en leesbaar.
+
+=== page 3 ===
+Fisiese Wetenskappe/V1                                                    3                                         DBE/November 2016
+           KABV – Graad 11
+Kopiereg voorbehou                                                                                                          Blaai om asseblief
+
+VRAAG 1: MEERVOUDIGEKEUSE-VRAE
+
+Vier opsies word as moontlike antwoorde op die volgende vrae gegee. Elke vraag het
+slegs EEN korrekte antwoord. Kies die antwoord en skryf slegs die letter (A –D) langs
+die vraagnommer (1.1–1.10) in die ANTWOORDEBOEK neer, byvoorbeeld 1.11 E.
+
+1.1 Vier kragte werk op 'n punt in, soos in die diagram aangedui.
+
+Die groottes van die komponente van die resultante (netto) krag in die
+horisontale (FX) en vertikale (FY) rigtings is …
+
+ A
+
+B
+
+C
+
+D
+FX = 3 N en FY = 6 N.
+
+FX = 1 N en FY = 4 N.
+
+FX = 2 N en FY = 2 N.
+
+FX = 4 N en FY = 2 N.
+
+(2)
+
+1.2 'n Grassnyer word oor die grond gestoot met 'n krag F teen 'n hoek θ met die
+horisontaal. Die gewig van die grassnyer is w.
+
+ Die normaalkrag, in N, op die grassnyer is …
+
+ A
+
+B
+
+C
+
+D
+w
+
+w + FY
+
+w - FY
+
+w + FX
+
+(2)
+
+4 N
+2 N
+1 N
+3 N
+F
+w
+N
+θ
+
+=== page 4 ===
+Fisiese Wetenskappe/V1                                                    4                                         DBE/November 2016
+           KABV – Graad 11
+Kopiereg voorbehou                                                                                                          Blaai om asseblief
+
+1.3 'n Motor ry op 'n pad . Die  bestuurder het sy veiligheidsgordel aan .
+Die bestuurder sien 'n versperring voor in die pad en rem skielik.
+
+ 'n Aksie -reaksiepaar is die krag van die veiligheidsgordel op die bestuurder
+en die krag van die …
+
+ A
+
+B
+
+C
+
+D
+bestuurder op die sitplek.
+
+wiele op die pad.
+
+bestuurder op die veiligheidsgordel.
+
+veiligheidsgordel op die sitplek.
+
+(2)
+
+1.4 Planeet X het 'n massa twee keer die massa van die Aarde en 'n radius een
+en 'n half keer groter as die Aarde. I ndien die versnelling as gevolg van
+swaartekrag op die Aarde g  is, sal die gravitasieversnelling op planeet X …
+wees.
+
+A
+
+B
+
+C
+
+D
+9
+8 g
+
+8
+9 g
+
+3
+4 g
+
+4
+3 g
+
+(2)
+
+Versperring
+
+=== page 5 ===
+Fisiese Wetenskappe/V1                                                    5                                         DBE/November 2016
+           KABV – Graad 11
+Kopiereg voorbehou                                                                                                          Blaai om asseblief
+
+1.5 'n Ligstraal beweeg van medium A  na medium B . Medium B het  'n kleiner
+brekingsindeks as medium A.
+
+Die grenshoek vir medium A ten opsigte van medium B is 42°.
+
+Watter EEN  van die sketse hieronder verteenwoordig die KORREKTE pad
+van die ligstraal?
+
+ A
+
+B
+
+ C  D
+(2)
+
+1.6 Die vermoë van 'n golf om i n golffronte uit te sprei soos dit om 'n skerp rand
+beweeg, staan as … bekend.
+
+ A
+
+B
+
+C
+
+D
+Snell se wet
+
+totale interne weerkaatsing
+
+diffraksie
+
+Huygens se beginsel
+
+(2)
+
+40º
+Medium B
+Medium A
+40º
+Medium B
+Medium A
+40º
+Medium B
+Medium A
+ 40º
+Medium B
+Medium A
+
+=== page 6 ===
+Fisiese Wetenskappe/V1                                                    6                                         DBE/November 2016
+           KABV – Graad 11
+Kopiereg voorbehou                                                                                                          Blaai om asseblief
+
+1.7 Watter EEN van die grafieke hieronder stel die korrekte verhouding tussen
+krag F op 'n lading en die elektriese veld E voor?
+
+ A
+
+B
+
+C
+
+D
+
+(2)
+
+1.8 'n Negatiewe lading Q word op 'n afstand 5d vanaf 'n ander lading R geplaas.
+
+Indien die netto elektriese veld by punt P, op ' n afstand van 2d  vanaf R ,
+NUL is, watter EEN van die volgende kombinasies oor die verhouding van die
+ladings Q en R en die lading op R, is KORREK?
+
+  VERHOUDING VAN DIE
+LADINGS Q : R
+LADING OP R
+(2)
+A 4 : 9 Positief
+B 3 : 2 Negatief
+C 5 : 2 Positief
+D 9 : 4 Negatief
+
+E (N.C-1)
+F (N)
+E (N.C-1)
+F (N)
+E (N.C-1)
+F (N)
+E (N.C-1)
+F (N)
+Q
+ R
+P
+5d
+2d
+
+=== page 7 ===
+Fisiese Wetenskappe/V1                                                    7                                         DBE/November 2016
+           KABV – Graad 11
+Kopiereg voorbehou                                                                                                          Blaai om asseblief
+
+1.9 In w atter EEN van die sketse hieronder is die geïnduseerde polariteit van
+die spoel KORREK aangedui?
+
+ A
+
+B
+
+ C
+
+D
+
+(2)
+
+1.10 Die potensiaalverskil van die battery in die stroombaan hieronder is 12 V.
+Die interne weerstand van die battery is weglaatbaar. Tw ee voltmeters, V1
+en V2, word aan die stroombaan gekoppel, soos in die diagram aangedui.
+
+ Wanneer die skakelaar oop is, sal die korrekte lesings op V1 en V2 soos volg
+wees:
+
+  V1 V2
+ A 12 V 12 V
+ B 0 V 12 V
+ C 12 V 0 V
+ D 0 V 0 V  (2)
+   [20]
+
+N
+Magneet
+beweeg in die
+spoel in
+N
+ N
+Magneet
+beweeg in die
+spoel in
+S
+N
+Magneet
+beweeg uit die
+spoel uit
+S
+ N
+Magneet
+beweeg uit die
+spoel uit
+N
+
+=== page 8 ===
+Fisiese Wetenskappe/V1                                                    8                                         DBE/November 2016
+           KABV – Graad 11
+Kopiereg voorbehou                                                                                                          Blaai om asseblief
+FB = 1 440 N
+x
+FA = 730 N
+70°
+10°
+Voorwerp
+
+VRAAG 2   (Begin op 'n nuwe bladsy.)
+
+Twee toue en twee katrolle word gebruik om 'n swaar voorwerp op te lig, soos in die
+diagram hieronder getoon.  Die twee katrolle is op 'n afstand x uitmekaar geplaas .
+Die krag FA, in tou A, is 730 N en die krag FB, in tou B, is 1 440 N. Tou A vorm 'n hoek
+van 70° met die horisontaal en tou B vorm 'n hoek van 10° met die vertikaal.
+
+2.1 Definieer die term resultante vektor.  (2)
+
+2.2 Verduidelik waarom die vektordiagram van krag FA, krag FB en die gewig NIE
+'n geslote vektordiagram sal wees NIE.
+
+(2)
+
+2.3 Bereken die:
+
+ 2.3.1 Vertikale komponent van FA  (2)
+
+ 2.3.2 Horisontale komponent van FA  (2)
+
+2.4  Bereken die maksimum gewig wat krag  FA en krag F B van die grond af sal
+kan oplig. Toon ALLE berekeninge.
+
+(4)
+
+2.5 Verduidelik waarom die tou -en-katrolstelsel minder effektief sal wees indien
+die afstand x tussen die katrolle vergroot word.
+
+(2)
+   [14]
+
+=== page 9 ===
+Fisiese Wetenskappe/V1                                                    9                                         DBE/November 2016
+           KABV – Graad 11
+Kopiereg voorbehou                                                                                                          Blaai om asseblief
+
+VRAAG 3   (Begin op 'n nuwe bladsy.)
+
+'n Reddingshelikopter, wat in die lug stilhang, het 'n houer met voorraad met 'n gewig
+van 1 960 N, wat aan 'n kabel hang. Die spanning in die kabel is 2 100 N.
+
+3.1 Stel Newton se Eerste Bewegingswet in woorde.  (2)
+
+3.2 Teken 'n benoemde kragtediagram van AL die kragte wat op die houer
+inwerk.
+
+(3)
+
+3.3 Waarom sal die houer stilhang selfs al is die spanning in die kabel groter
+as die gewig van die houer?
+
+(2)
+
+Die wenas/hystoestel binne die helikop ter begin nou om die houer met 'n versnelling
+van 0,13 m.s-2 opwaarts te hys, terwyl die helikopter steeds in dieselfde posisie bly.
+
+3.4 Bereken die massa van die houer.  (2)
+
+3.5 Bereken die grootte van die spanning in die kabel terwyl die houer opwaarts
+gehys word.
+
+(4)
+
+Na 'n versnelling van 'n paar m eter word die houer teen 'n konstante snelheid van
+0,8 m.s-1 opgehys.
+
+3.6 Wat sal die grootte van die spanning in die kabel wees terwyl die houer teen
+'n konstante snelheid opwaarts beweeg?
+
+(1)
+   [14]
+
+  houer
+
+=== page 10 ===
+Fisiese Wetenskappe/V1                                                    10                                         DBE/November 2016
+           KABV – Graad 11
+Kopiereg voorbehou                                                                                                          Blaai om asseblief
+
+VRAAG 4   (Begin op 'n nuwe bladsy.)
+
+Twee blokke met massa s van 8 kg en  4 kg onderskeidelik, word met 'n onrekbare
+toutjie met weglaatbare massa v erbind. Die toutjie beweeg oor ' n wrywinglose katrol.
+Die 8 kg-blok is op 'n horisontale oppervlak terwyl die 4 kg -blok op 'n skuinsvlak van
+40° met die hori sontaal is. Die kinetiese wrywingskoëffisiënt vir albei blokke is 0,2.
+Die 4 kg-blok versnel teen die skuinsvlak af.
+
+4.1 Stel Newton se Tweede Bewegingswet in woorde.  (2)
+
+4.2 Teken 'n benoemde vry e kragtediagram van AL die kragte wat op die
+4 kg-blok inwerk.
+
+(4)
+
+4.3 Bereken die wrywingskrag tussen die oppervlak en die 4 kg-blok.  (4)
+
+4.4 Bereken die grootte van die versnelling van die stelsel.  (6)
+
+4.5 Hoe sal die versnelling vergelyk indien die posisies van die 8 kg-blok en die
+4 kg-blok omgeruil word? Kies uit GROTER AS, KLEINER AS of GELYK
+AAN. Verduidelik die antwoord.
+
+(4)
+   [20]
+
+40°
+8 kg
+
+=== page 11 ===
+Fisiese Wetenskappe/V1                                                    11                                         DBE/November 2016
+           KABV – Graad 11
+Kopiereg voorbehou                                                                                                          Blaai om asseblief
+
+VRAAG 5   (Begin op 'n nuwe bladsy.)
+
+Twee satelliete wat om die Aarde wentel , is aan weerskante van die Aarde geleë.
+Satelliet A h et 'n massa van 3 800 kg en Satelliet B h et 'n massa van 4 500 kg.
+Satelliet A is op 'n hoogte van 25 000 km bokant die oppervlak van die Aarde.
+
+5.1 Stel Newton se Universele Gravitasiewet in woorde.  (2)
+
+5.2 Verduidelik die term gewigloosheid.  (2)
+
+5.3 Bereken die krag tussen die Aarde en Satelliet A.  (4)
+
+5.4 Op watter afstand bokant die oppervlak van die Aarde moet Satelliet B wees
+om dieselfde krag na die Aarde as Satelliet A te ervaar?
+
+Kies uit: GROTER AS, KLEINER AS of GELYK AAN die afstand bokant die
+Aarde. Verduidelik hoe jy by die antwoord uitgekom het.
+
+(4)
+   [12]
+
+Aarde
+Satelliet A
+Satelliet B
+
+=== page 12 ===
+Fisiese Wetenskappe/V1                                                    12                                         DBE/November 2016
+           KABV – Graad 11
+Kopiereg voorbehou                                                                                                          Blaai om asseblief
+
+VRAAG 6   (Begin op 'n nuwe bladsy.)
+
+Olyfolie dryf op water omdat die digtheid daarvan minder as die digtheid van water is.
+Die brekingsindeks van olyfolie is egter 1,47 terwyl die brekingsindeks van water
+1,33 is.
+
+6.1 Definieer die term brekingsindeks.  (2)
+
+6.2 Bereken die spoed van lig deur olyfolie.  (3)
+
+6.3 Indien lig deur water beweeg en die water-olyfolie-grenslaag met 'n hoek van
+37° tref, bereken die brekingshoek van die lig in olyfolie.
+
+(4)
+
+6.4 Watter afleiding kan gemaak word oor die optiese digtheid van die olyf olie in
+vergelyking met die optiese digtheid van water  met inagneming van die
+brekingsindeks van olie?
+
+(2)
+
+6.5 6.5.1 Indien die ligstraal uit die olie in die lug inbeweeg, sal dit NA die
+normaal of WEG VAN die normaal breek?
+
+(1)
+
+6.5.2 Gee 'n rede vir die antwoord op VRAAG 6.5.1.  (2)
+
+6.6 6.6.1 By watter oppervlak sal totale interne weerkaatsing die
+waarskynlikste plaasvind? Kies uit olie en lug of water en olie.
+
+(1)
+
+6.6.2 Gee 'n rede vir die antwoord op VRAAG 6.6.1.  (2)
+
+6.7 Watter ander golfeienskap , GOLFLENGTE of FREKWENSIE , sal saam met
+die spoed van die golf verander indien die golf van een medium na
+'n volgende beweeg?
+
+(1)
+   [18]
+
+Water
+Olyfolie
+
+37°
+Lug
+ nlug = 1
+
+nolyfolie = 1,47
+
+nwater  = 1,33
+
+=== page 13 ===
+Fisiese Wetenskappe/V1                                                    13                                         DBE/November 2016
+           KABV – Graad 11
+Kopiereg voorbehou                                                                                                          Blaai om asseblief
+
+VRAAG 7   (Begin op 'n nuwe bladsy.)
+
+Twee leerders ondersoek die effek van spleetwydte op die mate van diffraksi e.
+Hulle gebruik groen lig met ' n golflengte van 520 nm. Hulle stel 'n eksperiment op,
+soos hieronder getoon, en meet die posisie van die eerste donker lyn vanaf die middel
+van die helder, sentrale band wanneer die spleetwydte verander word.
+
+Die volgende resultate word verkry:
+
+ SPLEETWYDTE
+(mm)
+POSISIE VAN EERSTE
+DONKER LYN VANAF
+DIE MIDDEL (mm)
+
+ 5,3 x 10-5 19,6
+ 4,9 x 10-5 21,2
+ 4,2 x 10-5 24,8
+
+7.1 Stel Huygens se beginsel in woorde.  (2)
+
+7.2 Vir hierdie eksperiment, skryf neer:
+
+ 7.2.1 Die onafhanklike veranderlike  (1)
+
+ 7.2.2 Die afhanklike veranderlike  (1)
+
+ 7.2.3 EEN gekontroleerde veranderlike  (1)
+
+7.3 Gee 'n gevolgtrekking vir die resultate wat in hierdie eksperiment verkry is.  (2)
+
+7.4 7.4.1 Hoe sal die patroon op die skerm verander indien rooi lig, met 'n
+golflengte van 660 nm, in plaas van groen lig gebruik word?
+
+(2)
+
+7.4.2 Verduidelik die antwoord op VRAAG 7.4.1.  (1)
+   [10]
+
+Ligbron
+Versperring
+Skerm
+Posisie van
+eerste donker lyn
+gemeet vanaf die
+middel van die
+helder, sentrale
+band
+
+=== page 14 ===
+Fisiese Wetenskappe/V1                                                    14                                         DBE/November 2016
+           KABV – Graad 11
+Kopiereg voorbehou                                                                                                          Blaai om asseblief
+
+VRAAG 8   (Begin op 'n nuwe bladsy.)
+
+Twee gelaaide sfere, X en Y, word in 'n vakuum op 'n afstand van 0,04 m uitmekaar
+geplaas.
+
+8.1 Teken die resulterende elektrieseveld-patroon tussen die twee ladings.  (3)
+
+8.2  Bereken di e elektrostatiese krag wat sfeer  X as gevolg van die lading op
+sfeer Y ervaar.
+
+(4)
+
+8.3 8.3.1 Indien sfeer Y in 'n vaste posisie is en sfeer X is vry om te beweeg,
+sal die versnelling wat sfeer X  na sfeer Y ervaar, konstant wees?
+Skryf JA of NEE neer.
+
+(1)
+
+8.3.2 Verduidelik die antwoord op VRAAG 8.3.1 deur na die elektriese
+veld en die krag te verwys.
+
+(2)
+
+'n Derde sfeer , Z, met 'n lading van -4 µC, word op 'n afstand van 0,03 m loodreg op
+sfeer X geplaas.
+
+8.4 Bereken die grootte van die netto krag op sfeer X as gevolg van sfeer Y en
+sfeer Z.
+
+(4)
+   [14]
+
+             X
+5 C
+Y   -5 µC
+0,04 m
+0,04 m
+-4 µC  Z
++5 µC  X
+ Y  -5 µC
+0,03 m
+
+=== page 15 ===
+Fisiese Wetenskappe/V1                                                    15                                         DBE/November 2016
+           KABV – Graad 11
+Kopiereg voorbehou                                                                                                          Blaai om asseblief
+
+VRAAG 9   (Begin op 'n nuwe bladsy.)
+
+'n Sirkelvormige spoel met 250 windings en 'n radius van 0,04 m, word kloksgewys
+binne 'n magneetveld met 'n veldsterkte van 3,2 T geroteer.
+
+9.1 Bereken die magnetiese vloed deur die spoel in die posisie soos op die
+diagram aangedui, waar die spoel loodreg met die veld is.
+
+(3)
+
+9.2 Indien die spoel kloksgewys deur 25° roteer, en 'n potensiaalverskil van 2,8 V
+geïnduseer word, bereken die tyd waarin hierdie rotasie plaasvind.
+
+(4)
+
+9.3 Watter wet kan gebruik word om die ver skynsel wat in VRAAG 9.2 beskryf is,
+te verduidelik?
+
+Gee die naam en bewoording van die wet.
+
+(2)
+
+9.4 9.4.1 Indien die sirkelvormige spoel met 'n vierkantige spoel met 'n
+sylengte van 0,04 m vervang word, en dieselfde beweging word in
+dieselfde hoeveelheid tyd gemaak, sal die geïnduseerde emk
+dieselfde as, groter as of kleiner as die sirkelvormige spoel wees?
+
+Skryf slegs DIESELFDE AS, GROTER AS of KLEINER AS neer.
+
+(1)
+
+ 9.4.2 Verduidelik die antwoord op VRAAG 9.4.1.  (2)
+[12]
+
+N
+
+S
+rotasie
+
+=== page 16 ===
+Fisiese Wetenskappe/V1                                                    16                                         DBE/November 2016
+           KABV – Graad 11
+Kopiereg voorbehou                                                                                                          Blaai om asseblief
+
+VRAAG 10   (Begin op 'n nuwe bladsy.)
+
+'n Eksperiment word gedoen om te bevestig dat die potensiaalverskil oor 'n geleier
+direk eweredig aan die stroom in die 'n geleier is indien die temperatuur konstant bly.
+
+Vier selle, elk met 'n emk van 1,5 V, word in serie verbind met 'n ammeter, skakelaar S
+en 'n kombinasie van ' n resistor R en resistors van 4 Ω en 6 Ω, soos in die diagram
+getoon.
+
+Voltmeters V 1 en V2 word oor die battery en die parallel resistors onderskeidelik
+verbind. Die interne weerstand van die battery en drade is weglaatbaar.
+
+10.1 Watter wet word deur die onderstreepte gedeelte hierbo verteenwoordig?  (1)
+
+4 Ω
+6 Ω
+
+R
+V
+
+A
+V
+
+S
+
+=== page 17 ===
+Fisiese Wetenskappe/V1                                                    17                                         DBE/November 2016
+           KABV – Graad 11
+Kopiereg voorbehou
+
+Die skakelaar word nou gesluit en ses resistors (R 1–R6), elk met 'n verskillende
+weerstand, word een op 'n slag in die plek  van R geplaas. Die voltmeter - en
+ammeterlesings word aangeteken. Die resultate is soos volg:
+
+RESISTORS
+BY R
+LESING OP
+VOLTMETER V2 (V)
+LESING OP
+AMMETER (A)
+
+R1 1,2 0,5
+R2 1,4 0,6
+R3 1,9 0,8
+R4 2,4 1
+R5 2,9 1,2
+R6 3,6 1,5
+
+10.2 Gebruik die aangehegte grafiekpapier en teken 'n grafiek van
+potensiaalverskil teenoor stroom deur die data in die tabel te gebruik.
+
+(4)
+
+10.3 Wat stel die helling van die grafiek voor?  (1)
+
+10.4 Indien voltmeter V 2 slegs oor die 4 Ω-resistor gekoppel word, ho e s al die
+helling van die grafiek verander ? Skryf slegs NEEM  TOE, NEEM AF of BLY
+DIESELFDE neer.
+
+(1)
+
+10.5 Indien die  4 Ω-resistor verwyder word, ho e s al die helling van die grafi ek
+verander? Skryf slegs NEEM TOE, NEEM AF of BLY DIESELFDE neer.
+
+(1)
+
+10.6 Bereken die weerstand van resistor R 3 deur die waardes in die tabel te
+gebruik.
+
+(5)
+
+10.7 Bereken die energie wat in 10 sekondes deur resistor R4 verbruik word.  (3)
+   [16]
+
+ TOTAAL:  150
+
+=== page 18 ===
+Fisiese Wetenskappe/V1 1 DBE/November 2016
+ KABV – Graad 11
+Kopiereg voorbehou
+
+DATA FOR PHYSICAL SCIENCES GRADE 11
+PAPER 1 (PHYSICS)
+
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 11
+VRAESTEL 1 (FISIKA)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Acceleration due to gravity
+Swaartekragversnelling g 9,8 m·s-2
+Gravitational constant
+Swaartekragkonstante G 6,67 x 10-11 N⋅m2⋅kg-2
+Radius of Earth
+Straal van Aarde RE 6,38 x 106 m
+Coulomb's constant
+Coulomb se konstante K 9,0 x 109 N⋅m2·C-2
+Speed of light in a vacuum
+Spoed van lig in 'n vakuum c 3,0 x 108 m·s-1
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Electron mass
+Elektronmassa me 9,11 x 10-31 kg
+Mass of the earth
+Massa van die Aarde  M 5,98 x 1024 kg
+
+TABLE 2:  FORMULAE/TABEL 2:  FORMULES
+
+MOTION/BEWEGING
+
+tavv if ∆+=  221i tatvx ∆+∆=∆
+xa2vv
+2
+i
+2
+f ∆+=   t2 vvx if ∆ +=∆
+
+FORCE/KRAG
+
+ma=Fnet  w = mg
+2
+21
+r
+mGmF=
+N
+f (max)s
+s =µ
+N
+fk
+k =µ
+
+=== page 19 ===
+Fisiese Wetenskappe/V1 2 DBE/November 2016
+ KABV – Graad 11
+Kopiereg voorbehou
+
+WAVES, SOUND AND LIGHT/GOLWE, KLANK EN LIG
+
+λ= fv
+f
+1T=
+rrii sinnsinn θ=θ   vcn=
+
+ELECTROSTATICS/ELEKTROSTATIKA
+
+2
+21
+r
+QkQ=F          (k = 9,0 x 109 N⋅m2·C-2) qF=E
+2r
+kQE=              (k = 9,0 x 109 N⋅m2·C-2)
+e
+Q=n
+
+ELECTROMAGNETISM/ELEKTROMAGNETISME
+
+tN ∆∆Φ−=ε  θ=Φ cosBA
+
+ELECTRIC CIRCUITS/ELEKTRIESE STROOMBANE
+
+t
+QI ∆=  IVR=
+...r1r1r1R1 321 +++=  ...rrrR 321 +++=
+W = Vq
+
+W = VI∆ t
+
+W= I2R∆ t
+
+W= RΔtV2
+Δt
+WP=
+
+P = VI
+
+P = I2R
+
+R
+VP 2=
+
+=== page 20 ===
+Fisiese Wetenskappe/V1                                                                                             DBE/November 201 6
+           KABV – Graad 11
+Kopiereg voorbehou
+
+NAAM ______________________________________________ KLAS _____
+
+ANTWOORDBLAD VIR VRAAG 10.2
+LEWER HIERDIE ANTWOORDBLAD SAAM MET DIE ANTWOORDEBOEK IN.
+
+I (A)
+V (V)
+Grafiek van potensiaalverskil teenoor stroom

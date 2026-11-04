@@ -1,0 +1,635 @@
+**NOTE:**
+* If a candidate answers a question TWICE, only mark the FIRST attempt.
+* Consistent Accuracy applies in all aspects of the marking guidelines.
+
+**LET WEL:**
+* Indien 'n kandidaat 'n vraag TWEE keer beantwoord, merk slegs die EERSTE poging.
+* Volgehoue akkuraatheid is DEURGAANS op ALLE aspekte van die nasienriglyne van toepassing.
+
+---
+
+### QUESTION 1/VRAAG 1
+
+1.1.1 
+$$x^2 - 7x + 12 = 0$$
+$$(x - 4)(x - 3) = 0$$
+$$x = 4 \text{ or } x = 3$$
+* $\checkmark$ factors
+* $\checkmark x = 4$
+* $\checkmark x = 3$ $(3)$
+
+*(Answer only: Full Marks)*
+
+---
+
+1.1.2 
+$$3x^2 + 5x - 1 = 0$$
+$$x = \frac{-5 \pm \sqrt{5^2 - 4(3)(-1)}}{2(3)} = \frac{-5 \pm \sqrt{37}}{6}$$
+$$\therefore x = 0,18 \text{ or } x = -1,85$$
+* $\checkmark$ standard form
+* $\checkmark$ substitution into the correct formula
+* $\checkmark x = 0,18$
+* $\checkmark x = -1,85$ $(4)$
+
+---
+
+1.1.3 
+$$x^2 + 2x - 15 < 0$$
+$$(x - 3)(x + 5) < 0$$
+$$x = 3 \text{ or } x = -5$$
+$$-5 < x < 3$$
+* $\checkmark$ standard form
+* $\checkmark$ critical values
+* $\checkmark\checkmark$ answer $(4)$
+
+*(Graph sketch: $-5$ to $3$ parabola below x-axis)*
+
+---
+
+1.1.4 
+$$\sqrt{2(1 - x)} = x - 1$$
+$$\left(\sqrt{2(1 - x)}\right)^2 = (x - 1)^2$$
+$$2 - 2x = x^2 - 2x + 1$$
+$$x^2 - 1 = 0$$
+$$\therefore x = 1 \text{ and } x \neq -1$$
+* $\checkmark$ squaring both sides
+* $\checkmark$ simplification
+* $\checkmark$ standard form
+* $\checkmark$ answer with selection $(4)$
+
+---
+
+1.2 
+$$3^{x+y} = 27$$
+$$x^2 + y^2 = 17$$
+$$3^{x+y} = 3^3$$
+$$x + y = 3 \dots (1)$$
+$$y = 3 - x$$
+$$x^2 + (3 - x)^2 = 17$$
+$$2x^2 - 6x - 8 = 0$$
+$$x^2 - 3x - 4 = 0$$
+$$(x - 4)(x + 1) = 0$$
+$$x = 4 \text{ or } x = -1$$
+$$y = -1 \text{ or } y = 4$$
+
+**OR/OF**
+
+$$3^{x+y} = 27$$
+$$x^2 + y^2 = 17$$
+$$3^{x+y} = 3^3$$
+$$x + y = 3 \dots (1)$$
+$$x = 3 - y$$
+$$(3 - y)^2 + y^2 = 17$$
+$$9 - 6y + y^2 + y^2 - 17 = 0$$
+$$2y^2 - 6y - 8 = 0$$
+$$y^2 - 3y - 4 = 0$$
+$$(y - 4)(y + 1) = 0$$
+$$y = -1 \text{ or } y = 4$$
+$$x = 4 \text{ or } x = -1$$
+
+* $\checkmark 3^{x+y} = 3^3$
+* $\checkmark x + y = 3$
+* $\checkmark$ substitution
+* $\checkmark$ standard form
+* $\checkmark x$-values
+* $\checkmark y$-values $(6)$
+
+---
+
+1.3 
+$$\frac{1}{\sqrt{1} + \sqrt{2}} + \frac{1}{\sqrt{2} + \sqrt{3}} + \frac{1}{\sqrt{3} + \sqrt{4}} + \dots + \frac{1}{\sqrt{99} + \sqrt{100}}$$
+$$= \frac{1}{\sqrt{1} + \sqrt{2}} \times \frac{\sqrt{1} - \sqrt{2}}{\sqrt{1} - \sqrt{2}} + \dots + \frac{1}{\sqrt{99} + \sqrt{100}} \times \frac{\sqrt{99} - \sqrt{100}}{\sqrt{99} - \sqrt{100}}$$
+$$= -1 + \sqrt{2} - \sqrt{2} + \sqrt{3} - \sqrt{3} + 2 \dots - \sqrt{99} + 10$$
+$$= -1 + 10$$
+$$= 9$$
+* $\checkmark$ rationalisation
+* $\checkmark$ simplification
+* $\checkmark$ answer $(3)$
+
+**[24]**
+
+---
+
+### QUESTION 2/VRAAG 2
+
+2.1.1 
+$$\frac{1}{5} + \frac{1}{15} + \frac{1}{45} + \dots$$
+$$r = \frac{\frac{1}{15}}{\frac{1}{5}} = \frac{1}{3}$$
+$$-1 < \frac{1}{3} < 1$$
+$\therefore$ the series is convergent.
+* $\checkmark r = \frac{1}{3}$
+* $\checkmark$ answer (any indicator of convergence) $(2)$
+
+---
+
+2.1.2 
+$$S_\infty = \frac{a}{1 - r}$$
+$$= \frac{\frac{1}{5}}{1 - \frac{1}{3}}$$
+$$= \frac{3}{10}$$
+* $\checkmark$ substitution
+* $\checkmark$ answer $(2)$
+
+---
+
+2.2.1 
+$$4x ; \frac{1}{81}$$
+* $\checkmark 4x \quad \checkmark \frac{1}{81}$ $(2)$
+
+*(Answer only: Full Marks)*
+
+---
+
+2.2.2 
+$$T_n = x + (n - 1)x$$
+$$= x + xn - x$$
+$$= xn$$
+* $\checkmark$ substitution
+* $\checkmark$ answer $(2)$
+
+---
+
+2.2.3 
+$$T_n = ar^{n-1}$$
+$$T_{13} = \left(\frac{1}{3}\right)\left(\frac{1}{3}\right)^{13-1}$$
+$$T_{13} = \left(\frac{1}{3}\right)^{13} \text{ or } \frac{1}{1594323} \text{ or } 6,27 \times 10^{-7} \text{ or } 3^{-13}$$
+* $\checkmark n = 13$
+* $\checkmark r = \frac{1}{3}$
+* $\checkmark$ answer $(3)$
+
+---
+
+2.2.4 
+$$\sum_{n=1}^{21} P_n = S_{11} + S_{10}$$
+$$= \left[\frac{11}{2}\left(2x + 10x\right)\right] + \left[\frac{\frac{1}{3}\left(1 - \left(\frac{1}{3}\right)^{10}\right)}{1 - \frac{1}{3}}\right]$$
+$$= 66x + 0,5$$
+$$33,5 = 66x + 0,5$$
+$$\therefore x = \frac{1}{2}$$
+* $\checkmark S_{11}$
+* $\checkmark S_{10}$
+* $\checkmark$ arithmetic sum
+* $\checkmark$ geometric sum
+* $\checkmark 66x + 0,5$ (A)
+* $\checkmark$ answer $(6)$
+
+**[17]**
+
+---
+
+### QUESTION 3/VRAAG 3
+
+3.1 
+$$\begin{array}{ccccccc} x & ; & x & ; & T_3 & ; & \dots \\ & 0 & & T_3 - x & & \\ & & 10 & & & \end{array}$$
+
+$$2a = 10 \quad \Rightarrow \quad a = 5$$
+$$3a + b = 0 \quad \Rightarrow \quad b = -15$$
+$$T_3 - x - 0 = 10 \quad \Rightarrow \quad T_3 = x + 10$$
+$$2x + T_3 = 28$$
+$$2x + x + 10 = 28$$
+$$3x = 18 \quad \Rightarrow \quad x = 6$$
+$$a + b + c = 6$$
+$$5 - 15 + c = 6 \quad \Rightarrow \quad c = 16$$
+$$\therefore T_n = 5n^2 - 15n + 16$$
+
+**OR/OF**
+
+$$2a = 10 \quad \therefore a = 5$$
+$$T_1 = a + b + c \quad T_2 = 4a + 2b + c \quad T_3 = 9a + 3b + c$$
+$$= 5 + b + c \quad = 20 + 2b + c \quad = 45 + 3b + c$$
+$$5 + b + c = 20 + 2b + c \quad \Rightarrow \quad b = -15$$
+$$T_1 = -10 + c \quad T_2 = -10 + c \quad T_3 = c$$
+$$T_1 + T_2 + T_3 = -10 + c - 10 + c + c$$
+$$28 = 3c - 20 \quad \Rightarrow \quad c = 16$$
+
+* $\checkmark 2a = 10$
+* $\checkmark 3a + b = 0$
+* $\checkmark T_3 = x + 10$
+* $\checkmark 2x + T_3 = 28$
+* $\checkmark x = 6$
+* $\checkmark 5 - 15 + c = 6$ $(6)$
+
+**OR/OF**
+* $\checkmark 2a = 10$
+* $\checkmark 5 + b + c = 20 + 2b + c$
+* $\checkmark T_1 = -10 + c$
+* $\checkmark T_2 = -10 + c$
+* $\checkmark 28 = 3c - 20$
+* $\checkmark c = 16$ $(6)$
+
+---
+
+3.2 
+$$T_n = 5n^2 - 15n + 16$$
+$$216 = 5n^2 - 15n + 16$$
+$$5n^2 - 15n - 200 = 0$$
+$$n^2 - 3n - 40 = 0$$
+$$(n - 8)(n + 5) = 0$$
+$$n = 8 \text{ or } n \neq -5$$
+$$\therefore T_8 = 216$$
+* $\checkmark$ equating
+* $\checkmark$ standard form
+* $\checkmark n = 8$ $(3)$
+
+**[9]**
+
+---
+
+### QUESTION 4/VRAAG 4
+
+4.1.1 decreasing $\quad \checkmark$ decreasing $(1)$
+
+---
+
+4.1.2 
+$$y = \left(\frac{1}{3}\right)^x$$
+$$x = \left(\frac{1}{3}\right)^y$$
+$$\therefore y = \log_{\frac{1}{3}} x$$
+
+**OR/OF**
+
+$$y = 3^{-x}$$
+$$x = 3^{-y}$$
+$$\therefore y = -\log_3 x$$
+
+* $\checkmark$ swop $x$ and $y$
+* $\checkmark$ answer $(2)$
+
+---
+
+4.1.3 $x > 0 ; x \in \mathbb{R} \quad \checkmark$ answer $(1)$
+
+---
+
+4.1.4 $y = -5 \quad \checkmark$ answer $(1)$
+
+---
+
+4.2.1 $x = 1$, $y = 2 \quad \checkmark x = 1 \quad \checkmark y = 2$ $(2)$
+
+---
+
+4.2.2 
+$$\frac{4}{x-1} + 2 = 0$$
+$$\frac{4}{x-1} = -2$$
+$$4 = -2(x - 1)$$
+$$2x = -2 \quad \Rightarrow \quad x = -1$$
+* $\checkmark$ let $y = 0$
+* $\checkmark x = -1$ $(2)$
+
+---
+
+4.2.3 *(Graph sketch)*
+* $\checkmark$ asymptotes
+* $\checkmark$ $x$-intercept
+* $\checkmark$ $y$-intercept
+* $\checkmark$ shape $(4)$
+
+---
+
+4.2.4 
+$$\frac{4}{x-1} \ge -2$$
+$$\frac{4}{x-1} + 2 \ge 0$$
+$$x \le -1 \text{ or } x > 1$$
+* $\checkmark x \le -1$
+* $\checkmark x > 1$ $(2)$
+
+---
+
+4.2.5 
+$$y = -x + c$$
+$$2 = -3 + c \quad \Rightarrow \quad c = 5$$
+$$y = -x + 5$$
+
+**OR/OF**
+$$y = -x + c$$
+$$2 = -1 + c \quad \Rightarrow \quad c = 3$$
+$$y = -x + 3$$
+$$y = -(x - 2) + 3$$
+$$y = -x + 5$$
+
+**OR/OF**
+$$y = -(x + p) + q$$
+$$y = -((x - 2) + (-1)) + 2$$
+$$y = -x + 5$$
+
+* $\checkmark$ intersection of axes at $(3 ; 2)$
+* $\checkmark$ subst $(3 ; 2)$ and $m = -1$
+* $\checkmark y = -x + 5$ $(3)$
+
+**[18]**
+
+---
+
+### QUESTION 5/VRAAG 5
+
+5.1 $\text{T.P}(-3 ; 4) \quad \checkmark -3 \quad \checkmark 4$ $(2)$
+
+---
+
+5.2 $y \le 4 \text{ or } y \in (-\infty ; 4] \quad \checkmark$ answer $(1)$
+
+---
+
+5.3 
+$$f(x) = g(x)$$
+$$-(x + 3)^2 + 4 = x + 5$$
+$$-(x^2 + 6x + 9) + 4 = x + 5$$
+$$-x^2 - 6x - 5 = x + 5$$
+$$-x^2 - 7x - 10 = 0$$
+$$x^2 + 7x + 10 = 0$$
+$$(x + 5)(x + 2) = 0$$
+$$x = -5 \text{ or } x = -2$$
+* $\checkmark$ equating
+* $\checkmark -x^2 - 6x - 9$
+* $\checkmark$ standard form
+* $\checkmark$ factors $(4)$
+
+---
+
+5.4 The graph must shift more than $2$ and less than $5$ units to the right
+$$\therefore -5 < c < -2$$
+* $\checkmark\checkmark$ answer $(2)$
+
+---
+
+5.5 
+$$D(x) = f(x) - g(x) = -x^2 - 7x - 10$$
+$$\text{Max: } -2x - 7 = 0 \quad \text{OR/OF} \quad x = \frac{-(-7)}{2(-1)}$$
+$$x = -\frac{7}{2}$$
+$$D\left(-\frac{7}{2}\right) = -\left(-\frac{7}{2}\right)^2 - 7\left(-\frac{7}{2}\right) - 10 = 2,25$$
+$$\therefore k = 2,25$$
+$$\therefore h(x) = x + 7,25$$
+* $\checkmark$ distance
+* $\checkmark -2x - 7 = 0$
+* $\checkmark x = -\frac{7}{2}$
+* $\checkmark k = 2,25$
+* $\checkmark h(x) = x + 7,25$ $(5)$
+
+**[14]**
+
+---
+
+### QUESTION 6/VRAAG 6
+
+6.1.1 
+$$A = P(1 + i)^n$$
+$$A = 150\ 000(1 + 0,065)^5$$
+$$A = \text{R}205\ 513$$
+* $\checkmark$ substitution into the correct formula
+* $\checkmark$ answer $(2)$
+
+---
+
+6.1.2 
+$$A = P(1 - in)$$
+$$A = 150\ 000(1 - 0,09 \times 5)$$
+$$A = 150\ 000 - 67\ 000$$
+$$A = \text{R}82\ 500$$
+* $\checkmark$ substitution into the correct formula
+* $\checkmark$ answer $(2)$
+
+---
+
+6.1.3 
+$$\text{SF} = A - T = 205\ 513 - 82\ 500 = \text{R}123\ 013$$
+$$x = \frac{F \times i}{(1 + i)^n - 1}$$
+$$x = \frac{123\ 013 \times \frac{0,0785}{12}}{\left[\left(1 + \frac{0,0785}{12}\right)^{59} - 1\right]\left(1 + \frac{0,0785}{12}\right)}$$
+$$= \text{R}1\ 704,01$$
+* $\checkmark$ answer
+* $\checkmark i = \frac{0,0785}{12}$
+* $\checkmark 59 \text{ and } \left(1 + \frac{0,0785}{12}\right)$ (A)
+* $\checkmark$ answer (A) $(4)$
+
+---
+
+6.2 
+$$P = \frac{x\left[1 - (1 + i)^{-n}\right]}{i}$$
+$$200\ 000 = \frac{6\ 000\left[1 - \left(1 + \frac{0,0525}{4}\right)^{-4n}\right]}{\frac{0,0525}{4}}$$
+$$\frac{7}{16} = 1 - \left(1 + \frac{0,0525}{4}\right)^{-4n}$$
+$$\left(\frac{1621}{1600}\right)^{-4n} = \frac{9}{16}$$
+$$-4n = \frac{\log \frac{9}{16}}{\log \left(\frac{1621}{1600}\right)}$$
+$$-4n = -44,1243\dots$$
+$$n = 11,03 \text{ years}$$
+* $\checkmark$ substitution into correct formula
+* $\checkmark$ simplification
+* $\checkmark$ use of logs
+* $\checkmark -4n = -44,1243\dots$
+* $\checkmark n = 11,03 \text{ years}$ $(5)$
+
+**[13]**
+
+---
+
+### QUESTION 7/VRAAG 7
+
+7.1 
+$$f(x) = -2x^2 - 1$$
+$$f'(x) = \lim_{h\to 0} \frac{f(x+h) - f(x)}{h}$$
+$$f'(x) = \lim_{h\to 0} \frac{-2(x+h)^2 - 1 - (-2x^2 - 1)}{h}$$
+$$f'(x) = \lim_{h\to 0} \frac{-2x^2 - 4xh - 2h^2 - 1 + 2x^2 + 1}{h}$$
+$$= \lim_{h\to 0} \frac{-4xh - 2h^2}{h}$$
+$$= \lim_{h\to 0} \frac{h(-4x - 2h)}{h}$$
+$$= -4x$$
+
+**OR/OF**
+$$f(x+h) = -2(x+h)^2 - 1$$
+$$f(x+h) = -2x^2 - 4xh - 2h^2 - 1$$
+$$f(x+h) - f(x) = -2x^2 - 4xh - 2h^2 - 1 + 2x^2 + 1$$
+$$f(x+h) - f(x) = -4xh - 2h^2$$
+$$f'(x) = \lim_{h\to 0} \frac{f(x+h) - f(x)}{h}$$
+$$= \lim_{h\to 0} \frac{-4xh - 2h^2}{h}$$
+$$= \lim_{h\to 0} \frac{h(-4x - 2h)}{h}$$
+$$= -4x$$
+
+* $\checkmark$ substitution into the correct formula
+* $\checkmark -2x^2 - 4xh - 2h^2 - 1$
+* $\checkmark -4xh - 2h^2$
+* $\checkmark$ common factor
+* $\checkmark$ answer $(5)$
+
+---
+
+7.2.1 
+$$f(x) = -2x^3 + 3x^2$$
+$$f'(x) = -6x^2 + 6x$$
+* $\checkmark -6x^2$
+* $\checkmark +6x$ $(2)$
+
+---
+
+7.2.2 
+$$y = 2x + \frac{1}{\sqrt[4]{x}}$$
+$$y = 2x + \frac{1}{4}x^{-\frac{1}{4}} \quad \text{[Note: OCR had typo } \frac{1}{2} \text{ initially in some steps, but standard derivation follows]} $$
+$$y = 2x + x^{-\frac{1}{4}}$$
+$$\frac{dy}{dx} = 2 - \frac{1}{4}x^{-\frac{5}{4}}$$
+* $\checkmark -\frac{1}{4}$
+* $\checkmark x^{-\frac{5}{4}}$ (or equivalent)
+* $\checkmark 2$
+* $\checkmark -\frac{1}{4}x^{-\frac{5}{4}}$ $(4)$
+
+---
+
+7.3 $x < 1 \quad \checkmark\checkmark$ answer $(2)$
+
+**[13]**
+
+---
+
+### QUESTION 8/VRAAG 8
+
+8.1 $y = -10 \quad \checkmark$ answer $(1)$
+
+---
+
+8.2 
+$$f(x) = x^3 + 4x^2 - 7x - 10$$
+$$f(2) = (2)^3 + 4(2)^2 - 7(2) - 10 = 0$$
+* $\checkmark$ substitution of $x = 2$
+* $\checkmark f(2) = 0$ $(2)$
+
+---
+
+8.3 
+$$f(x) = (x - 2)(x^2 + 6x + 5)$$
+$$f(x) = (x - 2)(x + 5)(x + 1)$$
+* $\checkmark (x - 2)$
+* $\checkmark (x + 5)$
+* $\checkmark (x + 1)$ $(3)$
+
+---
+
+8.4 *(Graph sketch with intercepts $(-5, 0), (-1, 0), (2, 0)$, $y$-intercept $(0, -10)$, T.P. $(-3.4, 20.8)$ and $(0.7, -12.6))$*
+* $\checkmark$ $x$-intercepts
+* $\checkmark$ $y$-intercept
+* $\checkmark$ sketching the graph with turning points in $2^{\text{nd}}$ and $4^{\text{th}}$ quadrant $(3)$
+
+---
+
+8.5.1 $x \in (-3,4 ; 0,7) \quad \text{OR/OF} \quad -3,4 < x < 0,7 \quad \checkmark\checkmark$ answer $(2)$
+
+---
+
+8.5.2 
+$$f'(x) = 3x^2 + 8x - 7$$
+$$f''(x) = 6x + 8 = 0$$
+$$\therefore x = -\frac{8}{6} = -\frac{4}{3} = -1,33$$
+
+**OR/OF**
+$$\frac{-3,4 + 0,7}{2} = -1,35$$
+
+* $\checkmark f''(x) = 6x + 8$
+* $\checkmark$ answer $(2)$
+
+---
+
+8.5.3 $x \le -3,4 \text{ or } -1,33 \le x \le 0,7 \quad \text{OR/OF} \quad x \in (-\infty ; -3,4] \cup [-1,33 ; 0,7]$
+* $\checkmark x \le -3,4$ (A)
+* $\checkmark\checkmark -1,33 \le x \le 0,7$ (A, 0,7) $(3)$
+
+**[16]**
+
+---
+
+### QUESTION 9/VRAAG 9
+
+9.1 Perimeter of the square = $12 - 6x$
+$$\text{Side length of square} = \frac{12 - 6x}{4} = \frac{6 - 3x}{2} = 3 - \frac{3}{2}x$$
+* $\checkmark 12 - 6x$
+* $\checkmark$ answer $(2)$
+
+---
+
+9.2 
+$$V = \left(\frac{6 - 3x}{2}\right)^2 (4x)$$
+$$= \left(\frac{36 - 36x + 9x^2}{4}\right)(4x)$$
+$$= 36x - 36x^2 + 9x^3$$
+$$V'(x) = 36 - 72x + 27x^2$$
+$$36 - 72x + 27x^2 = 0$$
+$$9x^2 - 24x + 12 = 0$$
+$$3x^2 - 8x + 4 = 0$$
+$$(3x - 2)(x - 2) = 0$$
+$$x = \frac{2}{3} \text{ or } x = 2$$
+$$V\left(\frac{2}{3}\right) = 36\left(\frac{2}{3}\right) - 36\left(\frac{2}{3}\right)^2 + 9\left(\frac{2}{3}\right)^3$$
+$$= \frac{32}{3}\text{ m}^3 = 10,67\text{ m}^3$$
+
+* $\checkmark \left(\frac{6 - 3x}{2}\right)^2(4x)$
+* $\checkmark \left(\frac{36 - 36x + 9x^2}{4}\right)$
+* $\checkmark 36x - 36x^2 + 9x^3$
+* $\checkmark V'$
+* $\checkmark V' = 0$
+* $\checkmark$ values
+* $\checkmark$ answer $(7)$
+
+**[9]**
+
+---
+
+### QUESTION 10/VRAAG 10
+
+10.1.1 
+* $\checkmark$ Event A ($\frac{1}{2}, \frac{1}{2}$)
+* $\checkmark$ Event B Medication: for $P(C) = \frac{3}{5}$
+* $\checkmark$ Event B sugar pill: for $P(NC) = \frac{7}{10}$ $(3)$
+
+---
+
+10.1.2 
+$$\text{P(Not Cured)} = P(H) \times P(NC) + P(S) \times P(NC)$$
+$$= \left(\frac{1}{2}\right)\left(\frac{2}{5}\right) + \left(\frac{1}{2}\right)\left(\frac{7}{10}\right)$$
+$$= \frac{11}{20} = 0,55$$
+* $\checkmark$ substitution
+* $\checkmark$ answer $(2)$
+
+---
+
+10.2.1 
+$$P(A \text{ or } B) = P(A) + P(B) - P(A \text{ and } B)$$
+$$P(A \text{ and } B) = \frac{2}{5} + \frac{1}{4} - \frac{13}{20} = 0$$
+Events are mutually exclusive
+
+**OR/OF**
+$$P(A) + P(B) = \frac{2}{5} + \frac{1}{4} = \frac{13}{20}$$
+$$P(A \text{ or } B) = P(A) + P(B)$$
+$$P(A \text{ and } B) = 0$$
+Events are mutually exclusive
+
+* $\checkmark$ substitution
+* $\checkmark$ answer $(P(A \text{ and } B) = 0)$ $(2)$
+
+---
+
+10.2.2 
+$$P(B \text{ and } C) = \frac{1}{5} = 0,2$$
+$$P(\text{only } C) = \frac{7}{10} - \frac{2}{5} - \frac{1}{5} = 0,1$$
+* $\checkmark P(B \text{ and } C) = \frac{1}{5}$ (A)
+* $\checkmark \frac{7}{10} - \frac{2}{5} - \frac{1}{5}$
+* $\checkmark \frac{1}{10}$ $(3)$
+
+---
+
+10.2.3 
+$$\text{P(no event)} = 1 - \left(\frac{2}{5} + \frac{1}{10} + \frac{1}{5} + \frac{1}{20}\right) = \frac{1}{4} = 0,25$$
+* $\checkmark 1 - (P(A) \text{ or } P(B) \text{ or } P(C))$
+* $\checkmark$ answer $(2)$
+
+---
+
+10.3.1 
+$$3! \times 5! = 720$$
+* $\checkmark 3!$
+* $\checkmark 3! \times 5!$ (A) $(2)$
+
+---
+
+10.3.2 
+$$\frac{7! - 6! \times 2}{7!} = \frac{5}{7} = 0,71$$
+
+**OR/OF**
+$$1 - \frac{6! \times 2}{7!} = 1 - \frac{2}{7} = \frac{5}{7} = 0,71$$
+
+* $\checkmark 7! - 6! \times 2$
+* $\checkmark$ denominator ($7!$)
+* $\checkmark$ answer $(3)$
+
+**[17]**
+
+**TOTAL/TOTAAL: 150**

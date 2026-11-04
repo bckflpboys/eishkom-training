@@ -1,0 +1,312 @@
+**WISKUNDE V2 / MATHEMATICS P2**
+**SENIORSERFIKAAT-EKSAMEN / NASIONALE SENIORSERFIKAAT-EKSAMEN**
+**REPUBLIEK VAN SUID-AFRIKA / REPUBLIC OF SOUTH AFRICA**
+
+**PUNTE: 150**
+**TYD: 3 uur**
+
+---
+
+### INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies aandagtig deur voordat die vraestel beantwoord word.
+
+1. Hierdie vraestel bestaan uit 10 vrae.
+2. Beantwoord AL die vrae in die SPESIALE ANTWOORDEBOEK wat verskaf word.
+3. Dui ALLE berekeninge, diagramme, grafieke, ens. wat jy gebruik het om jou antwoorde te bepaal, duidelik aan.
+4. Volpunte sal NIE noodwendig aan slegs antwoorde toegeken word NIE.
+5. Jy mag 'n goedgekeurde, wetenskaplike sakrekenaar (nieprogrammeerbaar en niegrafies) gebruik, tensy anders vermeld.
+6. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders vermeld.
+7. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+8. 'n Inligtingsblad met formules is aan die einde van die vraestel ingesluit.
+9. Skryf netjies en leesbaar.
+
+---
+
+### VRAAG 1
+
+1.1 Sam teken die hoeveelheid data (in MB) aan wat sy op elk van die eerste 15 dae in April gebruik het. Die inligting word in die tabel hieronder getoon.
+
+$$\begin{array}{|*{15}{c|}}
+\hline
+26 & 13 & 3 & 18 & 12 & 34 & 24 & 58 & 16 & 10 & 15 & 69 & 20 & 17 & 40 \\
+\hline
+\end{array}$$
+
+1.1.1 Bereken die:
+(a) Gemiddelde van die datastel (2)
+(b) Standaardafwyking van die datastel (1)
+
+1.1.2 Bepaal die getal dae waarop die hoeveelheid data wat gebruik is, meer as een standaardafwyking bokant die gemiddelde was. (2)
+
+1.1.3 Bereken die maksimum totale hoeveelheid data wat Sam gedurende die res van die maand moet gebruik as haar algehele gemiddelde verbruik vir April $80\%$ van die gemiddelde vir die eerste 15 dae moet wees. (3)
+
+1.2 Die windspoed (in $\text{km per uur}$) en temperatuur (in $^{\circ}\text{C}$) om 16:00 is vir 'n periode van 10 dae by 'n sekere dorp aangeteken. Die inligting word in die tabel hieronder getoon.
+
+$$\begin{array}{|l|c|c|c|c|c|c|c|c|c|c|}
+\hline
+\textbf{WINDSPOED IN km/h } (x) & 2 & 6 & 15 & 20 & 25 & 17 & 11 & 24 & 13 & 22 \\
+\hline
+\textbf{TEMPERATUUR IN }^{\circ}\text{C } (y) & 28 & 26 & 22 & 22 & 16 & 20 & 24 & 19 & 26 & 19 \\
+\hline
+\end{array}$$
+
+1.2.1 Bepaal die vergelyking van die kleinstekwadrate-regresielyn vir die data. (3)
+
+1.2.2 Voorspel die temperatuur om 16:00 indien die windspoed van hierdie dorp op 'n sekere dag $9\text{ km per uur}$ was. (2)
+
+1.2.3 Interpreteer die waarde van $b$ in die konteks van die data. (1)
+
+**[14]**
+
+---
+
+### VRAAG 2
+
+Die getal dae in 'n jaar waarop graad 8-leerders by 'n sekere hoërskool afwesig was, is aangeteken. Hierdie inligting word in die tabel hieronder voorgestel.
+
+$$\begin{array}{|c|c|}
+\hline
+\textbf{GETAL DAE AFWESIG} & \textbf{GETAL LEERDERS} \\
+\hline
+0 \le x < 5 & 34 \\
+\hline
+5 \le x < 10 & 45 \\
+\hline
+10 \le x < 15 & 98 \\
+\hline
+15 \le x < 20 & 43 \\
+\hline
+20 \le x < 25 & 7 \\
+\hline
+25 \le x < 30 & 3 \\
+\hline
+\end{array}$$
+
+2.1 Skryf die modale klas vir die data neer. (1)
+
+2.2 Hoeveel leerders was vir minder as 15 dae van die skool afwesig? (1)
+
+2.3 Hoeveel graad 8-leerders is daar by die skool? (1)
+
+2.4 Skets 'n kumulatiewefrekwensie-grafiek (ogief) om die data hiervoor te stel op die rooster wat in die ANTWOORDEBOEK verskaf word. (4)
+
+2.5 Gebruik die kumulatiewefrekwensie-grafiek om die mediaan getal dae wat die graad 8-leerders afwesig was, te bepaal. (2)
+
+**[9]**
+
+---
+
+### VRAAG 3
+
+[DIAGRAM: $\Delta SLQ$ with $S(0;-16)$, $L$, and $Q(4;-8)$. $LQ \perp SQ$. $SL$ and $SQ$ are extended to $R$ and $M$ respectively such that $RM \parallel LQ$. $SM$ extended cuts the $x$-axis at $N(8;0)$. $QM = MN$. $T$ and $P$ are $y$-intercepts of $RM$ and $LQ$.]
+
+In die diagram is $S(0;-16)$, $L$ en $Q(4;-8)$ die hoekpunte van $\Delta SLQ$ met $LQ$ loodreg op $SQ$. $SL$ en $SQ$ word onderskeidelik na $R$ en $M$ verleng sodat $RM \parallel LQ$. $SM$ verleng sny die $x$-as by $N(8;0)$. $QM = MN$. $T$ en $P$ is onderskeidelik die $y$-afsnitte van $RM$ en $LQ$.
+
+3.1 Bereken die koördinate van $M$. (2)
+
+3.2 Bereken die gradiënt van $NS$. (2)
+
+3.3 Toon dat $y = -\frac{1}{2}x - 6$ die vergelyking van lyn $LQ$ is. (3)
+
+3.4 Bepaal die vergelyking van 'n sirkel met die middelpunt by $O$, die oorsprong, en wat ook deur $S$ gaan. (2)
+
+3.5 Bereken die koördinate van $T$. (3)
+
+3.6 Bepaal $\frac{LS}{RS}$. (3)
+
+3.7 Bereken die oppervlakte van $PTMQ$. (4)
+
+**[19]**
+
+---
+
+### VRAAG 4
+
+[DIAGRAM: A circle with centre $P(-3;4)$ and diameter endpoints $W$ and $V(k;1)$. The circle cuts the $y$-axis at $B$ and $C$. $BCVW$ is a cyclic quadrilateral. $CV$ is extended to meet the $x$-axis at $T$. $\hat{OT}C = \alpha$.]
+
+In die diagram is $P(-3;4)$ die middelpunt van die sirkel. $V(k;1)$ en $W$ is die eindpunte van 'n middellyn. Die sirkel sny die $y$-as by $B$ en $C$. $BCVW$ is 'n koordevierhoek. $CV$ is verleng om die $x$-as by $T$ te sny. $\hat{OT}C = \alpha$.
+
+4.1 Die radius van die sirkel is $\sqrt{10}$. Bereken die waarde van $k$ as punt $V$ regs van punt $P$ geleë is. Toon ALLE berekeninge duidelik. (5)
+
+4.2 Die vergelyking van die sirkel word as $x^2 + 6x + y^2 - 8y + 15 = 0$ gegee. Bereken die lengte van $BC$. (4)
+
+4.3 As $k = -2$, bereken die grootte van:
+4.3.1 $\alpha$ (3)
+4.3.2 $V\hat{W}B$ (2)
+
+4.4 'n Nuwe sirkel word verkry wanneer die gegewe sirkel om die lyn $y = 1$ gereflekteer word. Bepaal die:
+4.4.1 Koördinate van $Q$, die middelpunt van die nuwe sirkel (2)
+4.4.2 Vergelyking van die nuwe sirkel in die vorm $(x - a)^2 + (y - b)^2 = r^2$ (2)
+4.4.3 Vergelykings van die lyne wat ewewydig aan die $y$-as getrek is en wat deur die snypunte van die twee sirkels gaan (2)
+
+**[20]**
+
+---
+
+### VRAAG 5
+
+5.1 Vereenvoudig die uitdrukking na 'n enkele trigonometriese term:
+$$\tan(-x)\cos x\sin(x - 180^{\circ}) - 1$$ (5)
+
+5.2 Gegee: $\cos 35^{\circ} = m$
+
+Sonder om 'n sakrekenaar te gebruik, bepaal die waarde van ELK van die volgende in terme van $m$:
+5.2.1 $\cos 215^{\circ}$ (2)
+5.2.2 $\sin 20^{\circ}$ (3)
+
+5.3 Bepaal die algemene oplossing van:
+$$\cos 4x\cos x + \sin 4x\sin x = -0,7$$ (4)
+
+5.4 Bewys die identiteit:
+$$\frac{\sin 4x\cos 2x - 2\cos 4x\sin x\cos x}{\tan 2x} = \cos^2 x - \sin^2 x$$ (4)
+
+**[18]**
+
+---
+
+### VRAAG 6
+
+[DIAGRAM: Graphs of $f(x) = \cos 2x$ and $g(x) = -\sin x$ for interval $x \in [-180^{\circ}; 180^{\circ}]$. Points of intersection $A$ and $B$.]
+
+In die diagram hieronder is die grafieke van $f(x) = \cos 2x$ en $g(x) = -\sin x$ geskets vir die interval $x \in [-180^{\circ}; 180^{\circ}]$. $A$ en $B$ is twee snypunte van $f$ en $g$.
+
+6.1 Sonder om 'n sakrekenaar te gebruik, bepaal die waardes van $x$ waarvoor $\cos 2x = -\sin x$ in die interval $x \in [-180^{\circ}; 180^{\circ}]$. (6)
+
+6.2 Gebruik die grafieke hierbo om die volgende vrae te beantwoord:
+6.2.1 Hoeveel grade is punte $A$ en $B$ van mekaar af weg? (2)
+6.2.2 Vir watter waardes van $x$ in die gegewe interval sal $f'(x).g'(x) > 0$? (2)
+6.2.3 Bepaal die waardes van $k$ waarvoor $\cos 2x + 3 = k$ geen oplossing sal hê nie. (3)
+
+**[13]**
+
+---
+
+### VRAAG 7
+
+[DIAGRAM: $B, C, E$ lie on a horizontal plane. $ABCD$ is a rectangular plank. $CDE$ is a triangular plank with right angle at $C$. Placed on horizontal plane and joined at $DC$. Elevation from $E$ to $D$ is $x$. $B\hat{E}C = 2x$ and $E\hat{B}C = 30^{\circ}$.]
+
+Punt $B$, $C$ en $E$ lê in dieselfde horisontale vlak. $ABCD$ is 'n reghoekige stuk plank. $CDE$ is 'n driehoekige stuk plank met 'n regte hoek by $C$. Elk van die stukke plank word reghoekig met die horisontale vlak geplaas en by $DC$ aan mekaar geheg, soos in die diagram getoon. Die hoogtehoek vanaf $E$ na $D$ is $x$. $B\hat{E}C = 2x$ en $E\hat{B}C = 30^{\circ}$.
+
+7.1 Toon dat $DC = \frac{BC}{4\cos^2 x}$ (6)
+
+7.2 As $x = 30^{\circ}$, toon dat die oppervlakte van $ABCD = 3\text{AB}^2$. (3)
+
+**[9]**
+
+---
+
+### VRAAG 8
+
+8.1 [DIAGRAM: Circle with centre $O$ and diameter $MP$. Chord $NR$ intersected by $MP$ at $T$. Radius $NO$ and chords $PR$, $MN$, and $MR$ drawn. $\hat{R}_1 = 69^{\circ}$.]
+
+In die diagram is $MP$ 'n middellyn van 'n sirkel met middelpunt $O$. $MP$ sny die koord $NR$ by $T$. Radius $NO$ en koord $PR$, $MN$ en $MR$ is getrek. $\hat{R}_1 = 69^{\circ}$.
+
+Bepaal, met redes, die grootte van:
+8.1.1 $\hat{R}_2$ (2)
+8.1.2 $\hat{O}_1$ (2)
+8.1.3 $\hat{M}_1$ (2)
+8.1.4 $\hat{M}_2$, as verder gegee word dat $NO \parallel PR$ (4)
+
+8.2 [DIAGRAM: Cyclic quadrilateral $ABCD$. $AB$ and $DC$ produced to meet at $E$. $AD$ and $BC$ produced to meet at $F$. $A\hat{F}B = 2x$, $D\hat{A}B = 3x$ and $A\hat{E}D = x$.]
+
+In die diagram hieronder is $ABCD$ 'n koordevierhoek. $AB$ en $DC$ word verleng om by $E$ te ontmoet. $AD$ en $BC$ word verleng om by $F$ te ontmoet. $A\hat{F}B = 2x$, $D\hat{A}B = 3x$ en $A\hat{E}D = x$.
+
+Bepaal, met redes, die waarde van $x$. (6)
+
+**[16]**
+
+---
+
+### VRAAG 9
+
+9.1 [DIAGRAM: $\Delta ABC$ with $D$ and $E$ points on sides $AB$ and $AC$ respectively such that $DE \parallel BC$.]
+
+In die diagram is $ABC$ 'n driehoek. $D$ en $E$ is punte op sy $AB$ en $AC$ onderskeidelik, sodat $DE \parallel BC$.
+
+Gebruik die diagram hierbo om die stelling te bewys wat beweer dat 'n lyn wat ewewydig aan een sy van 'n driehoek getrek word, die ander twee sye eweredig verdeel, dus bewys dat $\frac{AD}{DB} = \frac{AE}{EC}$. (6)
+
+9.2 [DIAGRAM: $M$ is centre of circle. $A, B, C$ are points on circle such that $AC = BC$. $PA$ is a tangent to circle at $A$. $PQ$ is parallel to $CA$ and meets $BA$ produced at $Q$. $BC$ produced meets $PQ$ by $R$ and $AR$ is drawn. Let $\hat{Q} = x$.]
+
+In die diagram is $M$ die middelpunt van die sirkel. $A$, $B$ en $C$ is punte op die sirkel sodat $AC = BC$. $PA$ is 'n raaklyn aan die sirkel by $A$. $PQ$ is ewewydig aan $CA$ getrek en ontmoet $BA$ verleng by $Q$. $BC$ verleng ontmoet $PQ$ by $R$ en $AR$ is getrek. Stel $\hat{Q} = x$.
+
+9.2.1 Bepaal, met redes, VIER ander hoeke wat ELK aan $x$ gelyk is. (6)
+
+9.2.2 Bewys dat $ABPR$ 'n koordevierhoek is. (2)
+
+9.2.3 Bewys dat $\frac{\text{BA}}{\text{BQ}} = \frac{\text{BC}}{\text{QR}}$. (3)
+
+**[17]**
+
+---
+
+### VRAAG 10
+
+10.1 [DIAGRAM: $TSR$ is diameter of larger circle with centre $S$. Chord $TQ$ of larger circle cuts smaller circle at $M$. $PQ$ is a common tangent to the two circles at $Q$. $SQ$ is drawn. $RP \perp PQ$ and $MS \parallel QR$.]
+
+In die diagram is $TSR$ 'n middellyn van die groter sirkel met middelpunt $S$. Koord $TQ$ van die groter sirkel sny die kleiner sirkel by $M$. $PQ$ is 'n gemeenskaplike raaklyn aan die twee sirkels by $Q$. $SQ$ is getrek. $RP \perp PQ$ en $MS \parallel QR$.
+
+Bewys, met redes, dat:
+10.1.1 $SQ$ die middellyn van die kleiner sirkel is (3)
+10.1.2 $RT = \frac{\text{RQ}^2}{\text{RP}}$ (6)
+
+10.2 As $MS = 14\text{ eenhede}$ en $PQ = \sqrt{640}\text{ eenhede}$, bereken, met redes, die lengte van die radius van die groter sirkel. (6)
+
+**[15]**
+
+**TOTAAL: 150**
+
+---
+
+### INLIGTINGSBLAD: WISKUNDE
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni)$$
+$$A = P(1 - ni)$$
+$$A = P(1 - i)^n$$
+$$A = P(1 + i)^n$$
+
+$$T_n = a + (n - 1)d$$
+$$S_n = \frac{n}{2}[2a + (n - 1)d]$$
+
+$$T_n = ar^{n-1}$$
+$$S_n = \frac{a(r^n - 1)}{r - 1} \quad (r \neq 1)$$
+$$S_{\infty} = \frac{a}{1 - r} \quad (-1 < r < 1)$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i}$$
+$$P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$
+$$M\left(\frac{x_1 + x_2}{2}; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c$$
+$$y - y_1 = m(x - x_1)$$
+$$m = \frac{y_2 - y_1}{x_2 - x_1}$$
+$$m = \tan \theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+In $\Delta ABC$:
+$$\frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}$$
+$$a^2 = b^2 + c^2 - 2bc\cos A$$
+$$\text{area } \Delta ABC = \frac{1}{2}ab\sin C$$
+
+$$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta$$
+$$\sin(\alpha - \beta) = \sin \alpha \cos \beta - \cos \alpha \sin \beta$$
+$$\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta$$
+$$\cos(\alpha - \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2 \alpha - \sin^2 \alpha \\ 1 - 2\sin^2 \alpha \\ 2\cos^2 \alpha - 1 \end{cases}$$
+$$\sin 2\alpha = 2\sin \alpha \cos \alpha$$
+
+$$\bar{x} = \frac{\sum x}{n}$$
+$$\sigma^2 = \frac{\sum_{i=1}^n (x_i - \bar{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)}$$
+$$P(A \text{ of } B) = P(A) + P(B) - P(A \text{ en } B)$$
+
+$$\hat{y} = a + bx$$
+$$b = \frac{\sum(x - \bar{x})(y - \bar{y})}{\sum(x - \bar{x})^2}$$

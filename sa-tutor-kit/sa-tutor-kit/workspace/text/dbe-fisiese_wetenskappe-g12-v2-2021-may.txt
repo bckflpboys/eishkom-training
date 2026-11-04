@@ -1,0 +1,1421 @@
+=== page 1 ===
+Kopiereg voorbehou  Blaai om asseblief
+
+SENIORSERTIFIKAAT-EKSAMEN/
+NASIONALE SENIORSERTIFIKAAT-EKSAMEN
+
+FISIESE WETENSKAPPE:  FISIKA (V2)
+
+2021
+
+PUNTE:  150
+
+TYD:  3 uur
+
+Hierdie vraestel bestaan uit 15 bladsye en 4 gegewensblaaie.
+
+=== page 2 ===
+Fisiese Wetenskappe/V2 2 DBE/2021
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+INSTRUKSIES EN INLIGTING
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+Skryf jou sentrumnommer en eksamennommer in die toepaslike ruimtes op
+die ANTWOORDEBOEK neer.
+
+Hierdie vraestel bestaan uit TIEN vrae. Beantwoord AL die vrae in die
+ANTWOORDEBOEK.
+
+Begin ELKE vraag op 'n NUWE bladsy in die ANTWOORDEBOEK.
+
+Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie
+vraestel gebruik is.
+
+Laat EEN reël tussen twee subvrae oop, bv. tussen VRAAG 2.1 en
+VRAAG 2.2.
+
+Jy mag 'n nieprogrammeerbare sakrekenaar gebruik.
+
+Jy mag toepaslike wiskundige instrumente gebruik.
+
+Toon ALLE formules en substitusies in ALLE berekeninge.
+
+Rond jou FINALE numeriese antwoorde tot 'n minimum van TWEE desimale
+plekke af.
+
+Gee kort (bondige) motiverings, besprekings, ens. waar nodig.
+
+Jy word aangeraai om die aangehegte GEGEWENSBLAAIE te gebruik.
+
+Skryf netjies en leesbaar.
+
+=== page 3 ===
+Fisiese Wetenskappe/V2 3 DBE/2021
+SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 1:  MEERVOUDIGEKEUSE-VRAE
+
+Verskeie opsies word as moontlike antwoorde op die volgende vrae gegee. Kies die
+antwoord en skryf slegs die letter (A–D) langs die vraagnommers (1.1 tot 1.10) in die
+ANTWOORDEBOEK neer, bv. 1.11 E.
+
+1.1 Watter EEN van die volgende verbindings het waterstofbinding s tussen
+molekule?
+
+ A
+
+B
+
+C
+
+D
+Pentanaal
+
+Pentan-2-oon
+
+Pentanoësuur
+
+Metielbutanoaat
+
+(2)
+
+1.2 Aan watter homoloë reeks behoort 'n verbinding met molekulêre formule
+C6H12O2?
+
+ A
+
+B
+
+C
+
+D
+Ketone
+
+Alkohole
+
+Aldehiede
+
+Karboksielsure
+
+(2)
+
+1.3 Watter funksionele groepe is betrokke by die vorming van esters?
+
+ A
+
+B
+
+C
+
+D
+Formiel en karboniel
+
+Hidroksiel en karboniel
+
+Hidroksiel en karboksiel
+
+Karboniel en karboksiel
+
+(2)
+
+1.4 Die vergelyking hieronder stel 'n reaksie by ewewig voor.
+
+2
+4CrO2
+(aq)  +  2H+(aq)  ⇌
+2
+72OCr (aq)  +  H2O(ℓ)
+                            geel                                    oranje
+
+Watter EEN van die volgende sal die kleur van die mengsel van geel na
+oranje verander?
+
+ A
+
+B
+
+C
+
+D
+Byvoeging van natriumhidroksiedkorrels
+
+Byvoeging van gekonsentreerde soutsuur
+
+Verhoging in druk by konstante temperatuur
+
+Verlaging in druk by konstante temperatuur
+
+(2)
+
+=== page 4 ===
+Fisiese Wetenskappe/V2 4 DBE/2021
+SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+1.5 Beskou die potensiële -energiegrafiek vir die reaksie wat hieronder getoon
+word.
+
+ Die aktiveringsenergie vir die VOORWAARTSE reaksie in terme van P, Q en
+R is:
+
+ A
+
+B
+
+C
+
+D
+Q
+
+R − P
+
+Q − R
+
+Q − P
+
+(2)
+
+1.6 'n Reaksie bereik ewewig in 'n geslote houer volgens die volgende
+gebalanseerde vergelyking:
+
+3H2(g)  +  N2(g)  ⇌  2NH3(g)       ∆H < 0
+
+Watter EEN van die volgende veranderinge sal die waarde van die
+ewewigskonstante laat TOENEEM?
+
+ A
+
+B
+
+C
+
+D
+Verwyder NH3(g)
+
+Verhit die houer
+
+Verkoel die houer
+
+Vergroot die volume van die houer
+
+(2)
+
+P
+Q
+Q
+R
+Potensiële energie (kJ∙mol-1)
+Reaksieverloop
+
+=== page 5 ===
+Fisiese Wetenskappe/V2 5 DBE/2021
+SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+1.7 Swawelsuur ioniseer in water volgens die volgende vergelykings:
+
+H2SO4(ℓ)  +  H2O(ℓ)  ⇌
+OH3 (aq)  +
+
+4HSO (aq)
+
+4HSO
+(aq)  +  H2O(ℓ)  ⇌
+OH3 (aq)  +
+2
+4SO (aq)
+
+Beskou die volgende stellings oor die ionisasie hierbo:
+
+I: H2O(ℓ) tree as 'n basis in beide reaksies op.
+II:
+
+4HSO (aq) tree as 'n amfoliet op.
+III:
+2
+4SO (aq) is die gekonjugeerde basis van H2SO4.
+
+Watter van die stellings hierbo is WAAR?
+
+ A
+
+B
+
+C
+
+D
+Slegs I
+
+I en II
+
+I en III
+
+I, II en III
+
+(2)
+
+1.8 Watter EEN van die volgende  reaksies sal 'n positiewe voltmeterlesing gee
+wanneer dit in 'n voltaïese sel gebruik word?
+
+ A
+
+B
+
+C
+
+D
+Mg2+(aq)  +  Zn(s)    Mg(s)  +  Zn2+(aq)
+
+Cu(s)  +  2Ag+(aq)  →  Cu2+(aq)  +  2Ag(s)
+
+Co2+(aq)  +  Sn2+(aq)    Co(s)  +  Sn4+(aq)
+
+3Ni2+(aq)  +  2Fe(s)    3Ni(s)  +  2Fe3+(aq)
+
+(2)
+
+1.9 Watter EEN van die volgende stellings is KORREK vir 'n ELEKTROLITIESE
+SEL?
+
+ A
+
+B
+
+C
+
+D
+Die anode is die positiewe elektrode.
+
+Die katode die positiewe elektrode.
+
+Oksidasie vind by die katode plaas.
+
+Reduksie vind by die anode plaas.
+
+(2)
+
+1.10 Watter EEN van die volge nde toon die nywerheidsprosesse waarin
+AMMONIAK onderskeidelik 'n reaktans en 'n produk is?
+
+  REAKTANS PRODUK
+(2)
+A Ostwald Kontak
+B Ostwald Haber
+C Kontak Haber
+D Kontak Kontak
+      [20]
+
+=== page 6 ===
+Fisiese Wetenskappe/V2 6 DBE/2021
+SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 2 (Begin op 'n nuwe bladsy.)
+
+Die letters A tot F in die tabel hieronder verteenwoordig ses organiese verbindings.
+
+A Metanoësuur B Pentanaal
+
+C C10H22 D
+
+E
+
+F
+
+2.1 Skryf die LETTER(S) neer wat die volgende verteenwoordig:
+
+ 2.1.1 'n Ketoon  (1)
+
+ 2.1.2 TWEE verbindings wat FUNKSIONELE ISOMERE is  (1)
+
+ 2.1.3 'n Koolwaterstof  (1)
+
+2.2 Vir verbinding D, skryf neer die:
+
+ 2.2.1 Homoloë reeks waaraan dit behoort  (1)
+
+ 2.2.2 IUPAC-naam  (3)
+
+2.3 Oorweeg verbinding F.
+
+Skryf die IUPAC-naam neer van sy:
+
+ 2.3.1 POSISIE-isomeer   (2)
+
+ 2.3.2 KETTING-isomeer  (2)
+
+2.4 Gedurende die reaksie van ve rbinding A met verbinding  E in die
+teenwoordigheid van 'n suurkatalisator word twee produkte gevorm.
+
+Vir die ORGANIESE produk gevorm, skryf neer die:
+
+ 2.4.1 IUPAC-naam  (2)
+
+ 2.4.2 STRUKTUURFORMULE van sy FUNKSIONELE GROEP  (1)
+CH3
+Br
+(CH2)2
+
+CH CH2
+CH CH2 CH3
+Br
+H C C C C C
+O
+H H
+H H
+H
+H
+H
+H
+H
+H C C
+C
+H
+H
+C C C
+H H
+H
+H H
+H
+H
+O
+H
+H
+H
+H
+
+=== page 7 ===
+Fisiese Wetenskappe/V2 7 DBE/2021
+SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+2.5 Verbinding C (C10H22) reageer by hoë temperature en drukke om 'n drie-
+koolstof-alkeen P en 'n alkaan Q te vorm, soos hieronder getoon.
+
+ Skryf neer die:
+
+ 2.5.1 Soort reaksie wat plaasvind  (1)
+
+ 2.5.2 Molekulêre formule van verbinding Q  (2)
+
+ 2.5.3 STRUKTUURFORMULE van verbinding P  (2)
+    [19]
+
+P  +  Q
+
+C10H22
+
+=== page 8 ===
+Fisiese Wetenskappe/V2 8 DBE/2021
+SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 3 (Begin op 'n nuwe bladsy.)
+
+Leerders gebruik verbindings A, B en C om een van die faktore wat die DAMPDRUK
+van organiese verbindings beïnvloed, te ondersoek.
+
+A Butan-1-ol
+B Butan-2-oon
+C Propanoësuur
+
+3.1 Definieer die term dampdruk.  (2)
+
+3.2 Skryf die onafhanklike veranderlike vir hierdie ondersoek neer.  (1)
+
+3.3 Watter verbinding, A of B, het die hoogste dampdruk?   (1)
+
+3.4 Verduidelik die antwoord op VRAAG 3.3 volledig.
+Sluit die TIPES INTERMOLEKULÊRE KRAGTE by jou verduideliking in.
+
+(4)
+
+3.5 Die grafiek hieronder verteenwoordig die verwantskap tussen dampdruk en
+temperatuur vir verbinding A by seevlak. X en Y verteenwoordig verskillende
+temperature.
+
+ 3.5.1 Skryf die term neer vir die temperatuur wat deur X verteenwoordig
+word.
+
+(1)
+
+ 3.5.2 Noem die fase van verbinding A by temperatuur Y. Kies uit GAS,
+VLOEISTOF of VASTE STOF.
+
+(1)
+
+ 3.5.3 Teken die grafiek hierbo in jou ANTWOORDEBOEK  oor. Op
+dieselfde assestelsel, skets die kurwe wat vir verbinding C verkry
+sal word. Benoem kurwe A en kurwe C duidelik.
+
+(2)
+    [12]
+
+A
+Dampdruk (kPa)
+101,3
+Temperatuur (°C)
+X  Y
+
+=== page 9 ===
+Fisiese Wetenskappe/V2 9 DBE/2021
+SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 4 (Begin op 'n nuwe bladsy.)
+
+4.1 Die vloeidiagram hieronder toon die omskakeling van propaan na propan-2-ol.
+
+ 4.1.1 Noem EEN reaksietoestand vir Stap 1.  (1)
+
+ 4.1.2 Skryf die NAAM of FORMULE neer van die ANORGANIESE
+produk wat in Stap 1 gevorm word.
+
+(1)
+
+ 4.1.3 Noem die TIPE substitusiereaksie voorgestel deur Stap 2.  (1)
+
+ 4.1.4 Skryf die NAAM of FORMULE neer van die ANORGANIESE
+reagens wat in Stap 2 benodig word.
+
+(1)
+
+ 4.1.5 Skryf die IUPAC-naam van verbinding X neer.  (2)
+
+4.2 Etaan kan uit 'n proses met TWEE STAPPE uit chlooretaan (CH3CH2Cℓ) berei
+word. Jy word van die volgende chemikalieë voorsien:
+
+H2 HCℓ Cℓ2 H2O Pt  Etanol gekonsentreerde H2SO4 gekonsentreerde NaOH
+
+Kies chemikalieë in die tabel hierbo wat vir hierdie bereiding  gebruik kan
+word.
+
+Gebruik GEKONDENSEERDE struktuurformules  om 'n gebalanseerde
+vergelyking vir ELKE reaksie neer te skryf. Dui die reaksietoestande vir ELKE
+reaksie aan.
+
+(8)
+    [14]
+
+Stap 1 Propan-2-ol
+
+X Stap 2
+Br2
+
+C C H
+H
+H
+H H
+H
+C
+H
+H
+
+=== page 10 ===
+Fisiese Wetenskappe/V2 10 DBE/2021
+SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 5 (Begin op 'n nuwe bladsy.)
+
+Twee eksperimente, I en II, word uitgevoer om een van die faktore te ondersoek wat
+die tempo van die reaksie van aluminiumkarbonaat, Aℓ 2(CO3)3, met OORMAAT
+soutsuur, HCℓ, beïnvloed. Die gebalanseerde vergelyking vir die reaksie is:
+
+Aℓ2(CO3)3(s)  +  6HCℓ(aq)  →  2AℓCℓ3(aq)  +  3H2O(ℓ)  +  3CO2(g)
+
+Die apparaat wat gebruik is, word hieronder getoon.
+
+Die reaksietoestande wat vir elke eksperiment gebruik is, is soos volg:
+
+Eksperiment I:
+100 cm3 van 1,5 mol∙dm-3 HCℓ(aq) reageer met 0,016 mol Aℓ2(CO3)3-korrels by 25 °C
+
+Eksperiment II:
+50 cm3 van 2 mol∙dm-3 HCℓ(aq) reageer met 0,016 mol Aℓ2(CO3)3-korrels by 25 °C
+
+5.1 Definieer die term reaksietempo.  (2)
+
+5.2 Gebruik die eksperimentele opstelling  hierbo e n noem die metings wat
+gemaak moet word om die tempo van hierdie reaksie te bepaal.
+
+(2)
+
+5.4 Die gemiddelde reaksietempo in Eksperiment II gedurende die eerste
+2,5 minute is 4,4 x 10-3 mol∙min-1.
+
+Bereken die aantal mol Aℓ2(CO3)3 wat na 2,5 minute in die fles oorbly.
+
+(3)
+
+5.5 Bereken die maksimum volume CO 2(g) wat in Eksperiment I by 25 °C berei
+kan word. Neem molêre gasvolume by 25 °C as 24 000 cm3∙mol-1.  (3)
+   [13]
+5.3 Gebruik die botsingsteorie om te verduidelik hoe die gemiddelde
+reaksietempo in Eksperiment I van die gemiddelde reaksietempo in
+Eksperiment II verskil.
+
+(3)
+            Soutsuur
+Aℓ2(CO3)3
+
+=== page 11 ===
+Fisiese Wetenskappe/V2 11 DBE/2021
+SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 6 (Begin op 'n nuwe bladsy.)
+
+Suiwer waterstofjodiedgas , H I (g), met 'n konsentrasie van 1 mol∙dm-3, word in 'n
+500 cm3-houer by temperatuur T verseël. Die reaksie bereik ewewig volgens die
+volgende gebalanseerde vergelyking:
+
+2HI (g)  ⇌  H2(g)  +  I2(g)
+
+6.1 Definieer die term chemiese ewewig.  (2)
+
+6.2 Die grafiek hieronder toon hoe die konsentrasies van die reaktans en
+produkte met tyd gedurende die reaksie verander.
+
+ 6.2.1 Watter EEN van die kurwes, X of Y, verteenwoordig die
+veranderinge in die konsentrasie van die produkte ? Gee 'n rede vir
+die antwoord.
+
+(2)
+
+ 6.2.2 Hoe vergelyk die tempo van die voorwaartse reaksie met di é van
+die terugwaartse reaksie by t = 4 minute? Kies uit HOËR AS, LAER
+AS of GELYK AAN.
+
+(1)
+
+6.3 Die ew ewigskonstante, K c, vir die reaksie is 0,04  by temperatuur  T.
+Bereken die aantal mol jodium, I2(g), wat by t = 6 minute teenwoordig is.
+
+(9)
+
+Konsentrasie (mol∙dm-3)
+4
+Tyd (minute)
+X
+Y
+6
+
+=== page 12 ===
+Fisiese Wetenskappe/V2 12 DBE/2021
+SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+6.4 Die grafiek hieronder toon hoe die tempo van die voorwaartse en
+terugwaartse reaksies met tyd verander.
+
+Die temperatuur van die houer word by t = 10 minute verhoog.
+
+ 6.4.1 Watter reaksie(s) toon by t = 10 minute 'n toename in tempo? Kies
+uit VOORWAARTS, TERUGWAARTS of BEIDE VOORWAARTS
+EN TERUGWAARTS.
+
+(1)
+
+ 6.4.2 Is die reaksiewarmte  (∆H) vir hierdie reaksie POSITIEF of
+NEGATIEF? Verduidelik die antwoord volledig.
+
+(4)
+    [19]
+
+VRAAG 7 (Begin op 'n nuwe bladsy.)
+
+Leerders berei  'n oplossing met bekende konsentrasie  deur 2 g suiwer natrium -
+hidroksiedkristalle, NaOH, in 'n 250 cm3 volumetriese fles in water op te los.
+
+7.1 Skryf die term vir die onderstreepte frase neer.  (1)
+
+7.2 Bereken die:
+
+ 7.2.1 Konsentrasie van die natriumhidroksiedoplossing  (4)
+
+ 7.2.2 pH van die oplossing  (4)
+
+Die leerders reageer  nou 1,5 g suiwer CaCO3 met 50 cm3 verdunde HCℓ met
+onbekende konsentrasie. Die OORMAAT HCℓ word geneutraliseer met 25 cm3 van die
+NaOH-oplossing wat hulle berei het.  Die gebalanseerde vergelykings vir die reaksies
+is:
+2HCℓ(aq)  +  CaCO3(s)  →  CaCℓ2(aq)  +  CO2(g)  +  H2O(ℓ)
+
+  HCℓ(aq)  +  NaOH(aq)  →  NaCℓ(aq)  +  H2O(ℓ)
+
+7.3 Bereken die aanvanklike konsentrasie van die verdunde HCℓ(aq).  (8)
+   [17]
+Reaksietempo (mol∙min-1)
+
+10        12        14 6
+Tyd (minute)
+Voorwaartse reaksie
+Terugwaartse reaksie
+
+=== page 13 ===
+Fisiese Wetenskappe/V2 13 DBE/2021
+SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 8 (Begin op 'n nuwe bladsy.)
+
+8.1 Wanneer 'n stukkie natriummetaal (Na) by water in 'n proefbuis gevoeg word,
+word waterstofgas vrygestel. Wanneer fenolftaleïen-indikator by die proefbuis
+gevoeg word, verkleur die oplossing pienk.
+
+ 8.1.1 Definieer die term reduksie in terme van elektronoordrag.  (2)
+
+ 8.1.2 Skryf die reduksiehalfreaksie neer.  (2)
+
+ 8.1.3 Skryf die g ebalanseerde v ergelyking neer vir die reaksie wat
+plaasvind.
+
+(3)
+
+ 8.1.4 Gee 'n rede hoekom die oplossing pienk verkleur.  (1)
+
+ Wanneer 'n stukkie koper by water in 'n proefbuis gevoeg word, word geen
+reaksie waargeneem nie.
+
+ 8.1.5 Verwys na die relatiewe sterkt es van REDUSEERMIDDELS om te
+verduidelik waarom geen reaksie waargeneem word nie.
+
+(3)
+
+8.2 Oorweeg die selnotasie hieronder.
+
+Pb(s) | Pb2+(aq) || Fe3+(aq), Fe2+(aq) | Pt(s)
+
+ 8.2.1 Wat word deur die enkellyn (|) in die selnotasie hierbo voorgestel?  (1)
+
+ 8.2.2 Skryf die energieomskakeling neer wat in hierdie sel plaasvind.  (1)
+
+ 8.2.3 Bereken die aanvanklike emk van die sel onder
+standaardtoestande.
+
+(4)
+    [17]
+
+=== page 14 ===
+Fisiese Wetenskappe/V2 14 DBE/2021
+SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 9 (Begin op 'n nuwe bladsy.)
+
+Die diagramme hieronder toon twee elektro chemiese selle waarin koolstofelektrodes
+gebruik word. In sel A word gekonsentreerde koper (II)chloriedoplossing gebruik en in
+sel B word vloeibare aluminiumoksied gebruik.
+
+9.1 Watter tipe elektrochemiese sel, ELEKTROLITIES of GALVANIES, word
+hierbo getoon? Gee 'n rede vir die antwoord.
+
+(2)
+
+9.2 Skryf neer die:
+
+ 9.2.1 Halfreaksie wat by die anode van sel A plaasvind  (2)
+
+ 9.2.2 Halfreaksie wat by die katode van sel B plaasvind   (2)
+
+ 9.2.3 NAAM of FORMULE van die produk wat by d ie katode van sel A
+vorm
+
+(2)
+
+9.3 Gee 'n rede waarom die massa van elektrode Y na 'n tyd afneem.  (1)
+    [8]
+
+Sel A Sel B
+Aℓ2O3(ℓ)
+               Y
+gekonsentreerde
+CuCℓ2(aq)
+
+=== page 15 ===
+Fisiese Wetenskappe/V2 15 DBE/2021
+ SS/NSS
+Kopiereg voorbehou
+
+VRAAG 10 (Begin op 'n nuwe bladsy.)
+
+10.1 Die onvolledige vergelykings hieronder toon die vier stappe betrokke by die
+nywerheidsbereiding van swawelsuur  (H2SO4). A en B verteenwoordig twee
+verbindings.
+
+  Stap I:     S(s)  +  O2(g)    A
+
+  Stap II:    A  +  O2(g)  ⇌  B
+
+  Stap III:   B  +  H2SO4    H2S2O7
+
+  Stap IV:   H2S2O7  +  H2O    H2SO4
+
+ Skryf neer die NAAM of FORMULE van:
+
+ 10.1.1 Verbinding A   (1)
+
+ 10.1.2 Verbinding B  (1)
+
+ 10.1.3 Die katalisator wat in Stap II gebruik word  (1)
+
+ Die sw awelsuur wat in Stap IV gevorm word , word gebruik om
+ammoniumsulfaat te berei.
+
+ 10.1.4 Skryf 'n gebalanseerde vergelyking vir hierdie reaksie neer.  (3)
+
+10.2 Die diagram hieronder toon 'n sak kunsmis.
+
+ 10.2.1 Skryf die betekenis van NPK neer.  (1)
+
+ 10.2.2 Die sak bevat 4  kg ammoniumnitraat,  NH4NO3, wat die enigste
+bron van stikstof is. Bereken die massa van die kunsmis in die sak.
+
+(4)
+    [11]
+
+ TOTAAL:  150
+
+1 – 3 – 2 (26)
+
+=== page 16 ===
+Fisiese Wetenskappe/V2 1 DBE/2021
+SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+DATA FOR PHYSICAL SCIENCES GRADE 12
+PAPER 2 (CHEMISTRY)
+
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 12
+VRAESTEL 2 (CHEMIE)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Standard pressure
+Standaarddruk
+p  1,013 x 105 Pa
+Molar gas volume at STP
+Molêre gasvolume by STD Vm 22,4 dm3∙mol-1
+Standard temperature
+Standaardtemperatuur
+T  273 K
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Avogadro's constant
+Avogadro-konstante NA 6,02 x 1023 mol-1
+
+TABLE 2:  FORMULAE/TABEL 2:  FORMULES
+
+M
+mn
+
+AN
+Nn
+V
+nc
+          or/of
+MV
+mc
+mV
+Vn
+b
+a
+bb
+aa
+n
+n
+vc
+vc 
+ pH = -log[H3O+]
+Kw = [H3O+][OH-] = 1 x 10-14 at/by 298 K
+θ
+anode
+θ
+cathode
+θ
+cell EEE 
+ /
+θ
+anode
+θ
+katode
+θ
+sel EEE 
+
+or/of
+
+θ
+oxidation
+θ
+reduction
+θ
+cell EEE 
+/
+θ
+oksidasie
+θ
+reduksie
+θ
+sel EEE 
+
+or/of
+
+θ
+agent reducing
+θ
+agent oxidising
+θ
+cell EEE 
+ /
+θ
+ddelreduseermi
+θ
+ddeloksideermi
+θ
+sel EEE 
+
+=== page 17 ===
+Fisiese Wetenskappe/V2 2 DBE/2021
+SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+TABLE 3: THE PERIODIC TABLE OF ELEMENTS
+TABEL 3: DIE PERIODIEKE TABEL VAN ELEMENTE
+1
+(I)
+2
+(II)
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12 13
+(III)
+14
+(IV)
+15
+(V)
+16
+(VI)
+17
+(VII)
+18
+(VIII)
+2,1 1
+H
+1
+
+  2
+He
+4
+1,0 3
+Li
+7
+1,5 4
+Be
+9
+
+2,0 5
+B
+11
+2,5 6
+C
+12
+3,0 7
+N
+14
+3,5 8
+O
+16
+4,0 9
+F
+19
+ 10
+Ne
+20
+0,9 11
+Na
+23
+1,2 12
+Mg
+24
+
+1,5 13
+Aℓ
+27
+1,8 14
+Si
+28
+2,1 15
+P
+31
+2,5 16
+S
+32
+3,0 17
+Cℓ
+35,5
+ 18
+Ar
+40
+0,8 19
+K
+39
+1,0 20
+Ca
+40
+1,3 21
+Sc
+45
+1,5 22
+Ti
+48
+1,6 23
+V
+51
+1,6 24
+Cr
+52
+1,5 25
+Mn
+55
+1,8 26
+Fe
+56
+1,8 27
+Co
+59
+1,8 28
+Ni
+59
+1,9 29
+Cu
+63,5
+1,6 30
+Zn
+65
+1,6 31
+Ga
+70
+1,8 32
+Ge
+73
+2,0 33
+As
+75
+2,4 34
+Se
+79
+2,8 35
+Br
+80
+ 36
+Kr
+84
+0,8 37
+Rb
+86
+1,0 38
+Sr
+88
+1,2 39
+Y
+89
+1,4 40
+Zr
+91
+
+41
+Nb
+92
+1,8 42
+Mo
+96
+1,9 43
+Tc
+
+2,2 44
+Ru
+101
+2,2 45
+Rh
+103
+2,2 46
+Pd
+106
+1,9 47
+Ag
+108
+1,7 48
+Cd
+112
+1,7 49
+In
+115
+1,8 50
+Sn
+119
+1,9 51
+Sb
+122
+2,1 52
+Te
+128
+2,5 53
+I
+127
+ 54
+Xe
+131
+0,7 55
+Cs
+133
+0,9 56
+Ba
+137
+
+57
+La
+139
+1,6 72
+Hf
+179
+
+73
+Ta
+181
+
+74
+W
+184
+
+75
+Re
+186
+
+76
+Os
+190
+
+77
+Ir
+192
+
+78
+Pt
+195
+
+79
+Au
+197
+
+80
+Hg
+201
+1,8 81
+Tℓ
+204
+1,8 82
+Pb
+207
+1,9 83
+Bi
+209
+2,0 84
+Po
+
+2,5 85
+At
+
+ 86
+Rn
+
+0,7 87
+Fr
+
+0,9 88
+Ra
+226
+
+89
+Ac
+
+58
+Ce
+140
+59
+Pr
+141
+60
+Nd
+144
+61
+Pm
+
+62
+Sm
+150
+63
+Eu
+152
+64
+Gd
+157
+65
+Tb
+159
+66
+Dy
+163
+67
+Ho
+165
+68
+Er
+167
+69
+Tm
+169
+70
+Yb
+173
+71
+Lu
+175
+
+90
+Th
+232
+91
+Pa
+
+92
+U
+238
+93
+Np
+
+94
+Pu
+
+95
+Am
+
+96
+Cm
+
+97
+Bk
+
+98
+Cf
+
+99
+Es
+
+100
+Fm
+
+101
+Md
+
+102
+No
+
+103
+Lr
+
+Electronegativity
+Elektronegatiwiteit
+Approximate relative atomic mass
+Benaderde relatiewe atoommassa
+Atomic number
+Atoomgetal
+
+    29
+   Cu
+    63,5
+1,9  Symbol
+ Simbool
+
+KEY/SLEUTEL
+
+=== page 18 ===
+Fisiese Wetenskappe/V2 3 DBE/2021
+SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+TABLE 4A: STANDARD REDUCTION POTENTIALS
+TABEL 4A: STANDAARD- REDUKSIEPOTENSIALE
+Half-reactions/Halfreaksies
+θE  (V)
+F2(g) + 2e ⇌ 2F + 2,87
+Co3+ + e ⇌ Co2+ + 1,81
+H2O2 + 2H+ +2e ⇌ 2H2O +1,77
+MnO
+
+4  + 8H+ + 5e ⇌ Mn2+ + 4H2O + 1,51
+Cℓ2(g) + 2e ⇌ 2Cℓ + 1,36
+Cr2O
+2
+7  + 14H+ + 6e ⇌ 2Cr3+ + 7H2O + 1,33
+O2(g) + 4H+ + 4e ⇌ 2H2O + 1,23
+MnO2 + 4H+ + 2e ⇌ Mn2+ + 2H2O + 1,23
+Pt2+ + 2e ⇌ Pt + 1,20
+Br2(ℓ) + 2e ⇌ 2Br + 1,07
+NO
+
+3  + 4H+ + 3e ⇌ NO(g) + 2H2O + 0,96
+Hg2+ + 2e ⇌ Hg(ℓ) + 0,85
+Ag+ + e ⇌ Ag + 0,80
+NO
+
+3  + 2H+ + e ⇌ NO2(g) + H2O + 0,80
+Fe3+ + e ⇌ Fe2+ + 0,77
+O2(g) + 2H+ + 2e ⇌ H2O2 + 0,68
+I2 + 2e ⇌ 2I + 0,54
+Cu+ + e ⇌ Cu + 0,52
+SO2 + 4H+ + 4e ⇌ S + 2H2O + 0,45
+2H2O + O2 + 4e ⇌ 4OH + 0,40
+Cu2+ + 2e ⇌ Cu + 0,34
+SO
+2
+4  + 4H+ + 2e ⇌ SO2(g) + 2H2O + 0,17
+Cu2+ + e ⇌ Cu+ + 0,16
+Sn4+ + 2e ⇌ Sn2+ + 0,15
+S + 2H+ + 2e  ⇌ H2S(g) + 0,14
+2H+ + 2e ⇌ H2(g) 0,00
+Fe3+ + 3e ⇌ Fe  0,06
+Pb2+ + 2e ⇌ Pb  0,13
+Sn2+ + 2e ⇌ Sn  0,14
+Ni2+ + 2e ⇌ Ni  0,27
+Co2+ + 2e ⇌ Co  0,28
+Cd2+ + 2e ⇌ Cd  0,40
+Cr3+ + e ⇌ Cr2+  0,41
+Fe2+ + 2e ⇌ Fe  0,44
+Cr3+ + 3e ⇌ Cr  0,74
+Zn2+ + 2e ⇌ Zn  0,76
+2H2O + 2e ⇌ H2(g) + 2OH  0,83
+Cr2+ + 2e ⇌ Cr  0,91
+Mn2+ + 2e ⇌ Mn  1,18
+Aℓ3+ + 3e ⇌ Aℓ  1,66
+Mg2+ + 2e ⇌ Mg  2,36
+Na+ + e ⇌ Na  2,71
+Ca2+ + 2e ⇌ Ca  2,87
+Sr2+ + 2e ⇌ Sr  2,89
+Ba2+ + 2e ⇌ Ba  2,90
+Cs+ + e- ⇌ Cs - 2,92
+K+ + e ⇌ K  2,93
+Li+ + e ⇌ Li  3,05
+Increasing oxidising ability/Toenemende oksiderende vermoë
+Increasing reducing ability/Toenemende reduserende vermoë
+
+=== page 19 ===
+Fisiese Wetenskappe/V2 4 DBE/2021
+SS/NSS
+Kopiereg voorbehou
+TABLE 4B: STANDARD REDUCTION POTENTIALS
+TABEL 4B: STANDAARD- REDUKSIEPOTENSIALE
+
+Half-reactions/Halfreaksies
+θE  (V)
+Li+ + e ⇌ Li  3,05
+K+ + e ⇌ K  2,93
+Cs+ +  e ⇌ Cs  2,92
+Ba2+ + 2e ⇌ Ba  2,90
+Sr2+ + 2e ⇌ Sr  2,89
+Ca2+ + 2e ⇌ Ca  2,87
+Na+ + e ⇌ Na  2,71
+Mg2+ + 2e ⇌ Mg  2,36
+Aℓ3+ + 3e ⇌ Aℓ  1,66
+Mn2+ + 2e ⇌ Mn  1,18
+Cr2+ + 2e ⇌ Cr  0,91
+2H2O + 2e ⇌ H2(g) + 2OH  0,83
+Zn2+ + 2e ⇌ Zn  0,76
+Cr3+ + 3e ⇌ Cr  0,74
+Fe2+ + 2e ⇌ Fe  0,44
+Cr3+ + e ⇌ Cr2+  0,41
+Cd2+ + 2e ⇌ Cd  0,40
+Co2+ + 2e ⇌ Co  0,28
+Ni2+ + 2e ⇌ Ni  0,27
+Sn2+ + 2e ⇌ Sn  0,14
+Pb2+ + 2e ⇌ Pb  0,13
+Fe3+ + 3e ⇌ Fe  0,06
+2H+ + 2e ⇌ H2(g) 0,00
+S + 2H+ + 2e  ⇌ H2S(g) + 0,14
+Sn4+ + 2e ⇌ Sn2+ + 0,15
+Cu2+ + e ⇌ Cu+ + 0,16
+SO
+2
+4  + 4H+ + 2e ⇌ SO2(g) + 2H2O + 0,17
+Cu2+ + 2e ⇌ Cu + 0,34
+2H2O + O2 + 4e ⇌ 4OH + 0,40
+SO2 + 4H+ + 4e ⇌ S + 2H2O + 0,45
+Cu+ + e ⇌ Cu + 0,52
+I2 + 2e ⇌ 2I + 0,54
+O2(g) + 2H+ + 2e ⇌ H2O2 + 0,68
+Fe3+ + e ⇌ Fe2+ + 0,77
+NO
+
+3  + 2H+ + e ⇌ NO2(g) + H2O + 0,80
+Ag+ + e ⇌ Ag + 0,80
+Hg2+ + 2e ⇌ Hg(ℓ) + 0,85
+NO
+
+3  + 4H+ + 3e ⇌ NO(g) + 2H2O + 0,96
+Br2(ℓ) + 2e ⇌ 2Br + 1,07
+Pt2+ + 2 e ⇌ Pt + 1,20
+MnO2 + 4H+ + 2e ⇌ Mn2+ + 2H2O + 1,23
+O2(g) + 4H+ + 4e ⇌ 2H2O + 1,23
+Cr2O
+2
+7  + 14H+ + 6e ⇌ 2Cr3+ + 7H2O + 1,33
+Cℓ2(g) + 2e ⇌ 2Cℓ + 1,36
+MnO
+
+4  + 8H+ + 5e ⇌ Mn2+ + 4H2O + 1,51
+H2O2 + 2H+ +2 e ⇌ 2H2O +1,77
+Co3+ + e ⇌ Co2+ + 1,81
+F2(g) + 2e ⇌ 2F + 2,87
+Increasing oxidising ability/Toenemende oksiderende vermoë
+Increasing reducing ability/Toenemende reduserende vermoë

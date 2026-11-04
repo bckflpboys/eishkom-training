@@ -1,0 +1,209 @@
+# NASIONALE SENIOR SERTIFIKAAT
+
+## GRAAD 11
+
+# WISKUNDE V1
+# NOVEMBER 2018
+
+**PUNTE:** 150  
+**TYD:** 3 uur  
+
+Hierdie vraestel bestaan uit 8 bladsye.
+
+---
+
+## INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies aandagtig deur voordat jy die vrae beantwoord.
+
+1. Hierdie vraestel bestaan uit **NEGE** vrae.
+2. Beantwoord **AL** die vrae.
+3. Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie vraestel gebruik is.
+4. Dui **ALLE** berekeninge, diagramme, grafieke, ens. wat jy gebruik het om die antwoorde te bepaal, duidelik aan.
+5. Volpunte sal nie noodwendig aan slegs antwoorde toegeken word.
+6. Jy mag 'n goedgekeurde wetenskaplike sakrekenaar (nieprogrammeerbaar en niegrafies) gebruik, tensy anders aangedui.
+7. Rond antwoorde tot **TWEE** desimale plekke af, tensy anders aangedui.
+8. Diagramme is **NIE** noodwendig volgens skaal geteken **NIE**.
+9. Skryf netjies en leesbaar.
+
+---
+
+## VRAAG 1
+
+1.1 Los op vir $x$ in elk van die volgende:
+
+1.1.1 $x(2x + 1) = 0$ (2)
+
+1.1.2 $5x^2 + 2x - 6 = 0$ (korrek tot **TWEE** desimale plekke) (3)
+
+1.1.3 $2x^2 - 2 \geq 3x$ (4)
+
+1.1.4 $\sqrt{2x + 5} - \frac{3}{\sqrt{2x + 5}} = -2$ (6)
+
+1.2 Los gelyktydig op vir $x$ en $y$:
+
+$y + x = 2$ en $x^2 + 3xy + 8 = 0$ (6)
+
+1.3 Die wortels van die vergelyking $f(x) = 0$ is $x = \frac{4 \pm \sqrt{16 - 4m(-m + 5)}}{2m}$
+
+Bepaal die waardes van $m$ waarvoor die wortels nie-reëel sal wees. (4)
+
+1.4 Toon dat die maksimum waarde van $-\sqrt{-x^2 + 4x + 12}$ $4$ is. (4)  
+**[29]**
+
+---
+
+## VRAAG 2
+
+2.1 Vereenvoudig volledig, SONDER om 'n sakrekenaar te gebruik: $\frac{2^{x-3} - 3 \cdot 2^{x+1}}{2^{x-2}}$ (4)
+
+2.2 Los op vir $x$:
+
+2.2.1 $2 - 16x^{-\frac{1}{3}} = 0$ (3)
+
+2.2.2 $4^x + 8 = 9 \cdot 2^x$ (4)
+
+2.2.3 $\sqrt[x]{9} = 243$ (3)
+
+2.3 Vereenvoudig volledig:
+
+$$\frac{\sqrt{p^2 - q^2} \times (p + q)^{\frac{5}{2}}}{(p - q)^{\frac{1}{2}}} \text{ as } p \neq q$$ (3)  
+**[17]**
+
+---
+
+## VRAAG 3
+
+3.1 Gegee die liniêre patroon: $7 ; 2 ; -3 ; \dots$
+
+3.1.1 Bepaal die algemene term, $T_n$, van die liniêre patroon. (2)
+
+3.1.2 Bereken die waarde van $T_{20}$. (2)
+
+3.1.3 Watter term in die patroon het 'n waarde van $-138$? (2)
+
+3.2 $6 ; 2x + 1$ en $3x - 3$ is die eerste drie terme van 'n liniêre patroon.
+
+Bereken die waarde van $x$. (3)  
+**[9]**
+
+---
+
+## VRAAG 4
+
+Die kwadratiese syferpatroon: $4 ; p ; 11 ; q ; 22 ; \dots$ het 'n konstante tweede verskil van $1$.
+
+4.1 Toon dat $p = 7$ en $q = 16$. (3)
+
+4.2 Bepaal die algemene term, $T_n$, van die kwadratiese patroon. (4)
+
+4.3 Bepaal die waarde van $n$ as $T_n = 232$. (4)
+
+4.4 Indien die som van twee opeenvolgende terme in die patroon $1227$ is, bereken die verskil tussen hierdie twee terme. (5)  
+**[16]**
+
+---
+
+## VRAAG 5
+
+Gegee: $f(x) = \frac{4}{x-3} + 2$ en $g(x) = x + 2$
+
+5.1 Skryf die vergelykings van die asimptote van $f$ neer. (2)
+
+5.2 Bepaal die $x$-afsnit van $f$. (3)
+
+5.3 Bepaal die $y$-afsnit van $f$. (2)
+
+5.4 Skets die grafieke van $f$ en $g$ op dieselfde assestelsel. Toon duidelik AL die afsnitte met die asse en enige asimptote. (5)
+
+5.5 Bereken die $x$-koördinate van die snypunte van $f$ en $g$. (4)
+
+5.6 Indien $x < 3$, bepaal die waardes van $x$ waarvoor $\frac{4}{x-3} + 2 < x + 2$. (2)
+
+5.7 Die lyn $y = x - 1$ sny $f$ by $P(1 ; 0)$ en $Q$. Skryf die koördinate van $Q$ neer. (3)  
+**[21]**
+
+---
+
+## VRAAG 6
+
+Die diagram hieronder toon die grafieke van $f(x) = -(x - 3)^2 + 25$ en $g(x) = 2\left(\frac{1}{2}\right)^{x+1} - 4$.
+
+Grafiek $f$ sny die $x$-as by $A$ en $C$, die $y$-as by $E$ en het 'n draaipunt by $D$.  
+Grafiek $g$ sny die $x$-as by $A$ en die $y$-as by $B$.
+
+[DIAGRAM: Cartesian plane showing two graphs. Graph $f$ is a parabola opening downwards with vertex $D$, $y$-intercept $E$, and $x$-intercepts $A$ and $C$. Graph $g$ is an exponential curve passing through $A$ on the $x$-axis and $B$ on the $y$-axis, decreasing as $x$ increases.]
+
+6.1 Skryf die vergelyking van die asimptoot van $g$ neer. (1)
+
+6.2 Skryf die koördinate van $D$ neer. (2)
+
+6.3 Skryf die waardeversameling van $f$ neer. (1)
+
+6.4 Bereken die lengte van $EB$. (4)
+
+6.5 Bepaal die waardes van $x$ waarvoor $f$ afneem. (2)
+
+6.6 Bereken die gemiddelde gradiënt tussen punt $A$ en $B$. (5)
+
+6.7 Grafiek $t$ word verkry deur $g$ om die $x$-as te reflekteer. Skryf die waardeversameling van $t$ neer. (2)
+
+6.8 Indien $p(x) = f(x) + 2$, skryf die koördinate van die draaipunt van $p$ neer. (2)
+
+6.9 Bepaal die waarde van $k$ waarvoor die reguitlyn $y = 2x + k$ 'n raaklyn aan $f$ sal wees. (4)  
+**[23]**
+
+---
+
+## VRAAG 7
+
+7.1 Bereken die effektiewe rentekoers per jaar indien 'n belegging rente verdien teen 'n koers van $11,5\%$ p.j., maandeliks saamgestel. (3)
+
+7.2 Karabo het 'n rekenaar vir $R4\ 700$ gekoop. Die waarde van die rekenaar het teen 'n koers van $18\%$ p.j. verminder. Gebruik die verminderdesaldo-metode en bereken die boekwaarde van die rekenaar $4$ jaar nadat dit gekoop is. (3)
+
+7.3 Nhanhla het 'n aanvanklike deposito van $R20\ 000$ in 'n beleggingsrekening gemaak wat rente betaal het teen 'n koers van $7,2\%$ p.j., kwartaalliks saamgestel. Die rentekoers het na 2 jaar verander na $7,8\%$ p.j., maandeliks saamgestel. Nhanhla het 4 jaar na sy aanvanklike deposito $R2\ 500$ uit sy belegging onttrek.
+
+7.3.1 Bereken hoeveel Nhanhla in hierdie beleggingsrekening gehad het 2 jaar nadat die aanvanklike deposito gemaak is. (3)
+
+7.3.2 Hoeveel sal die belegging wees wees 7 jaar nadat die aanvanklike deposito gemaak is? (4)  
+**[13]**
+
+---
+
+## VRAAG 8
+
+'n Sak bevat 6 rooi balle, 8 groen balle en 'n onbekende aantal geel balle. Die waarskynlikheid dat 'n groen bal willekeurig uit die sak gekies sal word, is $25\%$.
+
+8.1 Toon dat daar 32 balle in die sak is. (1)
+
+8.2 'n Bal word uit die sak gehaal, die kleur word aangeteken en dit word nie in die sak teruggesit nie. Daarna word nog 'n bal uit die sak gehaal, die kleur word aangeteken en dit word ook nie in die sak teruggesit nie.
+
+Teken 'n boomdiagram om AL die moontlike maniere waarop die twee balle uit die sak gehaal kon word, voor te stel. Toon die waarskynlikhede wat met ELKE tak, asook die uitkomste, geassosieer word. (4)
+
+8.3 Bereken die waarskynlikheid dat die twee balle wat uit die sak gehaal is, dieselfde kleur sal hê. (4)  
+**[9]**
+
+---
+
+## VRAAG 9
+
+9.1 Passasiers kon op 'n vlug tussen 'n vegetariese peuselhappie en 'n hoenderpeuselhappie kies. Die peuselhappies wat die passasiers gekies het, is aangeteken. Die resultate word in die tabel hieronder getoon.
+
+| PEUSELHAPPIE | MANLIK | VROULIK | TOTAAL |
+| :--- | :---: | :---: | :---: |
+| Vegetaries | 12 | 20 | 32 |
+| Hoender | 55 | 63 | 118 |
+| TOTAAL | 67 | 83 | 150 |
+
+Was die keuse van peuselhappie op hierdie vlug onafhanklik van geslag? Motiveer jou antwoord met die nodige berekeninge. (5)
+
+9.2 Vir enige twee gebeurtenisse, $A$ en $B$, word gegee dat $P(A \text{ en } B) = 0,12$, $P(A \text{ of } B) = 0,83$ en $P(B) = 4 P(A)$.
+
+9.2.1 Is gebeurtenisse $A$ en $B$ onderling uitsluitend? Regverdig jou antwoord. (2)
+
+9.2.2 Bereken $P(B)$. (4)
+
+9.2.3 Bereken $P(\text{nie } A)$. (2)  
+**[13]**
+
+**TOTAAL:** **150**

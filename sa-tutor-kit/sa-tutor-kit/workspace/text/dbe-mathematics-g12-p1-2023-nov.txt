@@ -1,0 +1,283 @@
+# NATIONAL SENIOR CERTIFICATE
+## GRADE 12
+### MATHEMATICS P1
+#### NOVEMBER 2023
+
+---
+
+**MARKS: 150**  
+**TIME: 3 hours**
+
+This question paper consists of 9 pages and 1 information sheet.
+
+---
+
+## INSTRUCTIONS AND INFORMATION
+
+Read the following instructions carefully before answering the questions.
+
+1. This question paper consists of 10 questions.
+2. Answer ALL the questions.
+3. Number the answers correctly according to the numbering system used in this question paper.
+4. Clearly show ALL calculations, diagrams, graphs, etc. that you have used in determining your answers.
+5. Answers only will NOT necessarily be awarded full marks.
+6. You may use an approved scientific calculator (non-programmable and non-graphical), unless stated otherwise.
+7. If necessary, round off answers to TWO decimal places, unless stated otherwise.
+8. Diagrams are NOT necessarily drawn to scale.
+9. An information sheet with formulae is included at the end of the question paper.
+10. Write neatly and legibly.
+
+---
+
+## QUESTION 1
+
+1.1 Solve for $x$:
+
+1.1.1 $x^2 + x - 12 = 0$ (3)
+
+1.1.2 $3x^2 - 2x = 6$ (answers correct to TWO decimal places) (4)
+
+1.1.3 $\sqrt{2x + 1} = x - 1$ (4)
+
+1.1.4 $x^2 - 3 > 2x$ (4)
+
+1.2 Solve for $x$ and $y$ simultaneously:
+$$x + 2 = 2y \quad \text{and} \quad \frac{1}{x} + \frac{1}{y} = 1$$ (5)
+
+1.3 Given: $2^{m+1} + 2^m = 3^{n+2} - 3^n$ where $m$ and $n$ are integers.
+
+Determine the value of $m + n$. (4)
+
+**[24]**
+
+---
+
+## QUESTION 2
+
+2.1 Given the arithmetic series: $7 + 12 + 17 + \dots$
+
+2.1.1 Determine the value of $T_{91}$ (3)
+
+2.1.2 Calculate $S_{91}$ (2)
+
+2.1.3 Calculate the value of $n$ for which $T_n = 517$ (3)
+
+2.2 The following information is given about a quadratic number pattern:
+
+$T_1 = 3, \; T_2 - T_1 = 9 \text{ and } T_3 - T_2 = 21$
+
+2.2.1 Show that $T_3 = 111$ (2)
+
+2.2.2 Show that the general term of the quadratic pattern is $T_n = 6n^2 - 9n + 6$ (3)
+
+2.2.3 Show that the pattern is increasing for all $n \in \mathbb{N}$. (3)
+
+**[16]**
+
+---
+
+## QUESTION 3
+
+3.1 Given the geometric series: $3 + 6 + 12 + \dots \text{ to } n \text{ terms.}$
+
+3.1.1 Write down the general term of this series. (1)
+
+3.1.2 Calculate the value of $k$ such that: $\sum_{p=1}^{k} \frac{3}{2}(2)^p = 98\;301$ (4)
+
+3.2 A geometric sequence and an arithmetic sequence have the same first term.
+* The common ratio of the geometric sequence is $\frac{1}{3}$
+* The common difference of the arithmetic sequence is $3$
+* The sum of $22$ terms of the arithmetic sequence is $734$ more than the sum to infinity of the geometric sequence.
+
+Calculate the value of the first term. (5)
+
+**[10]**
+
+---
+
+## QUESTION 4
+
+Sketched below is the graph of $f(x) = 2^x - 4$ for $x \in [-2; 4]$.  
+$A$ and $B$ are respectively the $y$- and $x$-intercepts of $f$.
+
+[DIAGRAM: Cartesian plane showing the exponential curve $f(x) = 2^x - 4$ increasing from left to right. It has a horizontal dashed asymptote below the $x$-axis. It crosses the $y$-axis at point $A$ below the origin, crosses the $x$-axis at point $B$, has a domain endpoint at $x = -2$ with a solid dot, and ends at $x = 4$ with an open circle.]
+
+4.1 Write down the equation of the asymptote of $f$. (1)
+
+4.2 Determine the coordinates of $B$. (2)
+
+4.3 Determine the equation of $k$, a straight line passing through $A$ and $B$ in the form $k(x) = \dots$ (3)
+
+4.4 Calculate the vertical distance between $k$ and $f$ at $x = 1$ (3)
+
+4.5 Write down the equation of $g$ if it is given that $g(x) = f(x) + 4$ (1)
+
+4.6 Write down the domain of $g^{-1}$. (2)
+
+4.7 Write down the equation of $g^{-1}$ in the form $y = \dots$ (2)
+
+**[14]**
+
+---
+
+## QUESTION 5
+
+The graphs of $f(x) = -\frac{1}{2}(x - 1)^2 + 8$ and $g(x) = \frac{d}{x}$ are drawn below. A point of intersection of $f$ and $g$ is $B$, the turning point of $f$. The graph $f$ has $x$-intercepts at $(-3; 0)$ and $(5; 0)$ and a $y$-intercept at $C$.
+
+[DIAGRAM: Cartesian plane showing a parabola $f$ opening downwards with turning point $B$ in the first quadrant, $y$-intercept $C$, and $x$-intercepts at $-3$ and $5$. A hyperbola $g$ passes through $B$ and has branches in the first and fourth quadrants.]
+
+5.1 Write down the coordinates of the turning point of $f$. (2)
+
+5.2 Calculate the coordinates of $C$. (2)
+
+5.3 Calculate the value of $d$. (1)
+
+5.4 Write down the range of $g$. (1)
+
+5.5 For which values of $x$ will $f(x) \cdot g(x) \le 0$? (3)
+
+5.6 Calculate the values of $k$ so that $h(x) = -2x + k$ will not intersect the graph of $g$. (5)
+
+5.7 $h$ is a tangent to $g$ at $R$, a point in the first quadrant. Calculate $t$ such that $y = f(x) + t$ intersects $g$ at $R$. (4)
+
+**[18]**
+
+---
+
+## QUESTION 6
+
+6.1 Patrick deposited an amount of $\text{R}18\;500$ into an account earning $r\%$ interest p.a., compounded monthly. After 6 months, his balance was $\text{R}19\;319,48$.
+
+6.1.1 Calculate the value of $r$. (3)
+
+6.1.2 Calculate the effective interest rate. (2)
+
+6.2 Kuda bought a laptop for $\text{R}10\;000$ on 31 January 2019. He will replace it with a new one in $5\text{ years'}$ time on 31 January 2024.
+
+6.2.1 The value of the old laptop depreciates annually at a rate of $20\%$ p.a. according to the straight-line method. After how many years will the laptop have a value of $\text{R}0$? (2)
+
+6.2.2 Kuda will buy a laptop that costs $\text{R}20\;000$. In order to cover the cost price, he made his first monthly deposit into a savings account on 28 February 2019. He will make his $60^{\text{th}}$ monthly deposit on 31 January 2024. The savings account pays interest at $8,7\%$ p.a., compounded monthly. Calculate Kuda's monthly deposit into this account. (4)
+
+6.3 Tino wins a jackpot of $\text{R}1\;600\;000$. He invests all of his winnings in a fund that earns interest of $11,2\%$ p.a., compounded monthly. He withdraws $\text{R}20\;000$ from the fund at the end of each month. His first withdrawal is exactly $1\text{ month}$ after his initial investment. How many withdrawals of $\text{R}20\;000$ will Tino be able to make from this fund? (5)
+
+**[16]**
+
+---
+
+## QUESTION 7
+
+7.1 Determine $f'(x)$ from first principles if $f(x) = -4x^2$ (5)
+
+7.2 Determine:
+
+7.2.1 $f'(x)$ if $f(x) = 2x^3 - 3x$ (2)
+
+7.2.2 $D_x \left( 7\sqrt[3]{x^2} + 2x^{-5} \right)$ (3)
+
+7.3 For which values of $x$ will the tangent to $f(x) = -2x^3 + 8x$ have a positive gradient? (3)
+
+**[13]**
+
+---
+
+## QUESTION 8
+
+Given: $f(x) = -x^3 + 6x^2 - 9x + 4 = (x - 1)^2(-x + 4)$
+
+8.1 Determine the coordinates of the turning points of $f$. (4)
+
+8.2 Draw a sketch graph of $f$. Clearly label all the intercepts with the axes and any turning points. (4)
+
+8.3 Use the graph to determine the value(s) of $k$ for which $-x^3 + 6x^2 - 9x + 4 = k$ will have three real and unequal roots. (2)
+
+8.4 The line $g(x) = ax + b$ is the tangent to $f$ at the point of inflection of $f$. Determine the equation of $g$. (6)
+
+8.5 Calculate the value of $\theta$, the acute angle formed between $g$ and the $x$-axis in the first quadrant. (2)
+
+**[18]**
+
+---
+
+## QUESTION 9
+
+The diagram below represents a printed poster. Rectangle $ABCD$ is the part on which the text is printed. This shaded area $ABCD$ is $432\text{ cm}^2$ and $AD = x\text{ cm}$. $ABCD$ is $4\text{ cm}$ from the left and right edges of the page and $3\text{ cm}$ from the top and bottom of the page.
+
+[DIAGRAM: Rectangular poster showing a smaller central rectangle $ABCD$ shaded. Dimensions labeled: width of $AD$ is $x\text{ cm}$, side margins are $4\text{ cm}$ each, top and bottom margins are $3\text{ cm}$ each.]
+
+9.1 Show that the total area of the page is given by:
+$$A(x) = \frac{3\;456}{x} + 6x + 480$$ (3)
+
+9.2 Determine the value of $x$ such that the total area of the page is a minimum. (3)
+
+**[6]**
+
+---
+
+## QUESTION 10
+
+10.1 A and B are independent events. $P(A) = \frac{1}{3}$ and $P(B) = \frac{3}{4}$
+
+Determine:
+
+10.1.1 $P(A \text{ and } B)$ (2)
+
+10.1.2 $P(\text{at least ONE event occurs})$ (2)
+
+10.2 The probability that it will snow on the Drakensberg Mountains in June is $5\%$.
+
+* When it snows on the mountains, the probability that the minimum temperature in Central South Africa will drop below $0\ ^\circ\text{C}$ is $72\%$.
+* If it does not snow on the mountains, the probability that the minimum temperature in Central South Africa will drop below $0\ ^\circ\text{C}$ is $35\%$.
+
+10.2.1 Represent the given information on a tree diagram. Clearly indicate the probabilities associated with EACH branch. (3)
+
+10.2.2 Calculate the probability that the temperature in Central South Africa will NOT drop below $0\ ^\circ\text{C}$ in June 2024. (3)
+
+10.3 Ten learners stand randomly in a line, one behind the other.
+
+10.3.1 In how many different ways can the ten learners stand in the line? (1)
+
+10.3.2 Calculate the probability that there will be $5$ learners between the $2$ youngest learners in the line. (4)
+
+**[15]**
+
+**TOTAL: 150**
+
+---
+
+## INFORMATION SHEET
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni) \quad A = P(1 - ni) \quad A = P(1 - i)^n \quad A = P(1 + i)^n$$
+
+$$T_n = a + (n - 1)d \quad S_n = \frac{n}{2}[2a + (n - 1)d]$$
+
+$$T_n = ar^{n-1} \quad S_n = \frac{a(r^n - 1)}{r - 1} \quad (r \neq 1) \quad S_\infty = \frac{a}{1 - r} \quad (-1 < r < 1)$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i} \quad P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} \quad M\left(\frac{x_1 + x_2}{2}; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c \quad y - y_1 = m(x - x_1) \quad m = \frac{y_2 - y_1}{x_2 - x_1} \quad m = \tan \theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+$$\text{In } \Delta ABC: \frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}$$
+
+$$a^2 = b^2 + c^2 - 2bc \cos A$$
+
+$$\text{area } \Delta ABC = \frac{1}{2}ab \sin C$$
+
+$$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta \quad \sin(\alpha - \beta) = \sin \alpha \cos \beta - \cos \alpha \sin \beta$$
+
+$$\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta \quad \cos(\alpha - \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2 \alpha - \sin^2 \alpha \\ 1 - 2\sin^2 \alpha \\ 2\cos^2 \alpha - 1 \end{cases} \quad \sin 2\alpha = 2\sin \alpha \cos \alpha$$
+
+$$\bar{x} = \frac{\sum_{i=1}^n x_i}{n} \quad \sigma^2 = \frac{\sum_{i=1}^n (x_i - \bar{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)} \quad P(\text{A or B}) = P(A) + P(B) - P(A \text{ and } B)$$
+
+$$\hat{y} = a + bx \quad b = \frac{\sum(x - \bar{x})(y - \bar{y})}{\sum(x - \bar{x})^2}$$

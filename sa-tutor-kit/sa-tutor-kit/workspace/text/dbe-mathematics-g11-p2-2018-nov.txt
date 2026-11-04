@@ -1,0 +1,281 @@
+NATIONAL SENIOR CERTIFICATE  
+GRADE 11  
+
+---
+
+# MATHEMATICS P2  
+NOVEMBER 2018  
+
+**MARKS:** 150  
+**TIME:** 3 hours  
+
+This question paper consists of 16 pages and a 24-page answer book.  
+
+---
+
+## INSTRUCTIONS AND INFORMATION
+
+Read the following instructions carefully before answering the questions.
+
+1. This question paper consists of 11 questions.
+2. Answer ALL the questions in the SPECIAL ANSWER BOOK provided.
+3. Clearly show ALL calculations, diagrams, graphs, etc. that you used to determine the answers.
+4. Answers only will NOT necessarily be awarded full marks.
+5. If necessary, round off answers to TWO decimal places, unless stated otherwise.
+6. Diagrams are NOT necessarily drawn to scale.
+7. You may use an approved scientific calculator (non-programmable and non-graphical), unless stated otherwise.
+8. Write neatly and legibly.
+
+---
+
+## QUESTION 1
+
+A school held a sports day. One of the items on the programme was an obstacle race. Teams of 10 parents and learners participated in this race. The table below shows the time taken, in minutes, by each member of a particular team to complete the race.
+
+| 4 | 12 | 13 | 16 | 17 | 18 | 20 | 22 | 22 | 25 |
+|---|---|---|---|---|---|---|---|---|---|
+
+1.1 How long, in minutes, did it take for the fastest member of this team to complete the race? (1)
+
+1.2 Determine the mean time taken by this team. (2)
+
+1.3 Calculate the standard deviation for the data. (1)
+
+1.4 How many members of the team completed the obstacle race outside of two standard deviations of the mean? (3)
+
+1.5 It took another team a total time of $x + 5$ minutes to complete the race. Calculate the value of $x$ if the overall mean of the two teams combined was $18$ minutes. (3)  
+**[10]**
+
+---
+
+## QUESTION 2
+
+2.1 A survey was conducted of the ages of players at a soccer tournament. The results are shown in the cumulative frequency graph (ogive) below.
+
+[DIAGRAM: Cumulative frequency graph of the ages of soccer players. The horizontal axis represents the ages of soccer players, ranging from 0 to 40, with grid lines every 5 units. The vertical axis represents cumulative frequency, ranging from 0 to 50, with grid lines every 10 units. The curve starts at $(15, 4)$ and rises smoothly to $(40, 50)$ passing through points around $(20, 5)$, $(25, 13)$, $(30, 37)$, $(35, 47)$.]
+
+2.1.1 How many players took part in the soccer tournament? (1)
+
+2.1.2 Determine the number of players between the ages of 24 and 31 years old. (2)
+
+2.1.3 Complete the frequency column of the table below in the ANSWER BOOK.
+
+| CLASS INTERVAL | FREQUENCY | CUMULATIVE FREQUENCY |
+| :---: | :---: | :---: |
+| $15 \le x < 20$ | | 4 |
+| $20 \le x < 25$ | | 13 |
+| $25 \le x < 30$ | | 37 |
+| $30 \le x < 35$ | | 47 |
+| $35 \le x < 40$ | | 50 |
+(3)
+
+2.1.4 Use the grid provided in the ANSWER BOOK to draw a frequency polygon for the data. (4)
+
+2.2 Two Grade 11 Mathematics classes have the same number of learners. The five-number summaries of the marks obtained by these classes for a test are shown below.
+
+$$\text{CLASS A} \quad (30\,;\,48\,;\,65\,;\,82\,;\,90)$$
+$$\text{CLASS B} \quad (50\,;\,58\,;\,65\,;\,75\,;\,90)$$
+
+The parents of learners in CLASS A and CLASS B observe that both classes have the same median and the same maximum mark and therefore claim that there is no difference in the performance between these classes.
+
+Do you agree with this claim? Use at least TWO different arguments to justify your answer. (3)  
+**[13]**
+
+---
+
+## QUESTION 3
+
+In the diagram, $A(-2\,;\,2)$, $B(6\,;\,5)$, $C(0\,;-3)$ and $D(x\,;\,y)$ are the vertices of a quadrilateral having $\text{AD} \parallel \text{BC}$. $\text{BA}$ produced has an $x$-intercept at $\text{E}$. $\text{BD}$ and $\text{AC}$ intersect at $\text{M}$. $\text{N}(t\,;\,0)$ is a point on $\text{AD}$.
+
+[DIAGRAM: Quadrilateral $ABCD$ in a Cartesian plane. $A(-2,2)$ and $B(6,5)$ are connected by a line extended to the left to an $x$-intercept $E$. $C(0,-3)$ is on the $y$-axis. $D(x,y)$ is in the third quadrant. $AD$ is parallel to $BC$. $N(t,0)$ lies on $AD$. Diagonals $AC$ and $BD$ intersect at $M$.]
+
+3.1 Calculate the gradient of $\text{BC}$. (2)
+
+3.2 Determine the equation of $\text{AD}$. (3)
+
+3.3 Determine the value of $t$. (2)
+
+3.4 Calculate the length of $\text{AN}$. (2)
+
+3.5 If $\text{DC}$ is defined by $y = \frac{3}{8}x - 3$, determine the coordinates of $\text{D}$. (4)
+
+3.6 Prove that $\text{ABCD}$ is a parallelogram. (3)
+
+3.7 Calculate the coordinates of $\text{M}$. (3)  
+**[19]**
+
+---
+
+## QUESTION 4
+
+In the diagram, $\text{F}(2\,;\,-2)$, $\text{G}(5\,;\,2)$ and $\text{C}(6\,;\,y)$ are the vertices of $\Delta \text{FGC}$. $\text{FG} \perp \text{FC}$.  
+$\text{N}$ is a point on $\text{FG}$ such that the inclination of $\text{NC}$ is $104,04^\circ$.  
+The angle of inclination of $\text{FG}$ is $\beta$ and $\text{F\hat{N}C} = \theta$.
+
+[DIAGRAM: Triangle $FGC$ with $F(2,-2)$, $G(5,2)$, and $C(6,y)$. $FG$ is perpendicular to $FC$ at $F$. Point $N$ is on $FG$. The line $NC$ has an angle of inclination of $104.04^\circ$. The angle $\theta$ is at $N$ inside triangle $FNC$. The angle of inclination of $FG$ is $\beta$.]
+
+4.1 Calculate the gradient of $\text{FG}$. (2)
+
+4.2 Calculate the value of $y$. (3)
+
+4.3 Calculate the size of $\theta$. (3)
+
+4.4 Calculate the length of $\text{NC}$. (4)  
+**[12]**
+
+---
+
+## QUESTION 5
+
+5.1 In the diagram below, $\text{T}(x\,;\,15)$ is a point in the Cartesian plane such that $\text{OT} = 17\text{ units}$. $\text{P}(-2\,;\,a)$ lies on $\text{OT}$. $\text{K}$ is a point on the positive $x$-axis and $\text{T\hat{O}K} = \theta$.
+
+[DIAGRAM: Cartesian plane showing point $T(x,15)$ in the second quadrant with origin distance $OT=17$. Point $P(-2,a)$ lies on the line segment $OT$. Angle $\theta$ is measured from the positive $x$-axis ($K$) counterclockwise to $OT$.]
+
+Determine, with the aid of the diagram, the following:
+
+5.1.1 The value of $x$ (2)
+
+5.1.2 $\tan \theta$ (1)
+
+5.1.3 $\cos(180^\circ - \theta)$ (2)
+
+5.1.4 $\sin^2 \theta$ (2)
+
+5.1.5 The value of $a$ (3)
+
+5.2 Simplify WITHOUT using a calculator:  
+$$\frac{\sin 120^\circ \cdot \cos 210^\circ \cdot \tan 315^\circ \cdot \cos 27^\circ}{\sin 63^\circ \cdot \cos 540^\circ}$$ (7)
+
+5.3 Prove the identity:  
+$$\frac{1}{\cos \theta} - \frac{\cos \theta}{1 + \sin \theta} = \tan \theta$$ (5)
+
+5.4 Determine the general solution of $3 \sin x = 2 \tan x$ (6)  
+**[28]**
+
+---
+
+## QUESTION 6
+
+The graphs of the functions $f(x) = a \cos b\theta$ and $g(x) = c \tan \theta$ for $x \in [-180^\circ\,;\,180^\circ]$ are sketched below. The graphs intersect at $\text{P}(58^\circ\,;\,1,6)$ and $\text{Q}$.
+
+[DIAGRAM: Graphs of $f(x) = a\cos b\theta$ and $g(x) = c\tan \theta$ on a Cartesian plane with domain $[-180^\circ, 180^\circ]$. $f$ is a cosine curve with maximum at $(0^\circ, 3)$ and $g$ is a tan curve with asymptotes at $-90^\circ$ and $90^\circ$. Intersection points are $P(58^\circ, 1.6)$ and $Q$. $M(-45^\circ, -1)$ lies on $g$. $K$ lies on $f$ such that $KM$ is parallel to the $y$-axis.]
+
+6.1 Write down the range of $f$. (2)
+
+6.2 If $\text{M}(-45^\circ\,;\,-1)$ lies on $g$, determine the value of $c$. (1)
+
+6.3 Write down the values of $a$ and $b$. (2)
+
+6.4 Determine the coordinates of $\text{Q}$. (2)
+
+6.5 $\text{K}$ lies on $f$ such that $\text{KM}$ is parallel to the $y$-axis.  
+Calculate the length of $\text{KM}$. (2)
+
+6.6 If the system of axes is shifted $45^\circ$ to the left and the graphs remain fixed, write down the equation that is now represented by graph $f$. (2)  
+**[11]**
+
+---
+
+## QUESTION 7
+
+7.1 In the diagram, $\hat{\text{P}} = 67^\circ$, $\text{PQ} = 3\text{ cm}$ and $\text{PR} = 9,2\text{ cm}$.  
+Determine the length of $\text{QR}$.
+
+[DIAGRAM: Triangle $PQR$ with $P = 67^\circ$, side $PQ = 3\text{ cm}$ and side $PR = 9.2\text{ cm}$.] (3)
+
+7.2 In the diagram below, $\text{D\hat{C}B} = \alpha$, $\text{AC} = h\text{ units}$ and $\text{A\hat{C}B} = \theta$.
+
+[DIAGRAM: Two right-angled triangles sharing side $BC$. Triangle $ABC$ is right-angled at $B$ with $AC = h$ and $\hat{C} = \theta$. Point $D$ lies on $AB$, dividing it into $AD$ and $DB$. Triangle $DCB$ has angle $\alpha$ at $C$.]
+
+7.2.1 Determine size of $\text{A\hat{C}D}$ in terms of $\theta$ and $\alpha$. (1)
+
+7.2.2 Prove that $\text{AD} = \frac{h\sin(\theta - \alpha)}{\cos \alpha}$ (4)
+
+7.2.3 Determine the length of $\text{AD}$ if $h = 17\text{ units}$, $\theta = 58^\circ$ and $\alpha = 23^\circ$. (2)
+
+7.2.4 Calculate the area of $\Delta \text{ADC}$. (3)  
+**[13]**
+
+---
+
+## QUESTION 8
+
+The diagram below shows a cone with a perpendicular height of $h\text{ cm}$, a radius of $r\text{ cm}$ and a slant height of $13\text{ cm}$.
+
+$$\text{Volume of cone} = \frac{1}{3}\pi r^2 h$$
+$$\text{Total surface area of the cone} = \pi r^2 + \pi r s$$
+
+[DIAGRAM: A 3D cone with perpendicular height $h$, radius $r$, and slant height $s = 13\text{ cm}$.]
+
+8.1 Show that the volume of the cone is given by $V = \frac{169\pi h - \pi h^3}{3}$ (4)
+
+8.2 If $h = 12\text{ cm}$, determine the total surface area of the cone. (3)  
+**[7]**
+
+---
+
+**Give reasons for your statements and calculations in QUESTIONS 9, 10 and 11.**
+
+## QUESTION 9
+
+9.1 In the figure, $\text{O}$ is the centre of the circle. $\text{A, B, C, D}$ and $\text{E}$ lie on the circle such that chord $\text{AB}$ and chord $\text{DC}$ are equal in length and $\text{A\hat{E}B} = 39^\circ$.
+
+[DIAGRAM: Circle with centre $O$. Points $A, B, C, D, E$ on the circumference. Chords $AB$ and $DC$ are equal. $AE$ and $EB$ form angle $AEB = 39^\circ$. $O_1$ and $O_2$ are angles formed at the centre by radii to $A, C$ and $D$.]
+
+9.1.1 Determine the size of $\hat{\text{O}}_1$. (2)
+
+9.1.2 Determine the size of $\hat{\text{O}}_2$. (2)
+
+9.2 In the diagram, $\text{S}$ is the centre of circle $\text{PQRT}$. $\text{PT}$ is a diameter.  
+$\text{R\hat{S}T} = x - 8^\circ$ and $\text{P\hat{Q}R} = 2x - 40^\circ$.
+
+[DIAGRAM: Circle with centre $S$ and diameter $PT$. Points $P, Q, R, T$ on circumference. $\hat{RST} = x - 8^\circ$ and $\hat{PQR} = 2x - 40^\circ$.]
+
+Determine the value of $x$. (4)
+
+9.3 In the diagram, $\text{O}$ is the centre of the circle. Chord $\text{AC}$ is perpendicular to radius $\text{OD}$ at $\text{B}$. $\text{OB} = 2x\text{ units}$ and $\text{AC} = 8x\text{ units}$.
+
+[DIAGRAM: Circle with centre $O$. Radius $OD$ is perpendicular to chord $AC$ at $B$. $OB = 2x$ and $AC = 8x$.]
+
+Show that the length of $\text{BD}$ is $2x(\sqrt{5} - 1)\text{ units}$. (5)  
+**[13]**
+
+---
+
+## QUESTION 10
+
+10.1 In the diagram below, $\text{O}$ is the centre of the circle and $\text{PTSR}$ is a cyclic quadrilateral.
+
+[DIAGRAM: Cyclic quadrilateral $PTSR$ inscribed in a circle with centre $O$.]
+
+Prove the theorem that states that $\hat{\text{P}} + \hat{\text{S}} = 180^\circ$. (5)
+
+10.2 In the figure, $\text{QS}$ and $\text{PR}$ are diameters of the circle with centre $\text{O}$ such that $\text{PQ} \parallel \text{SR}$. $\text{PS}$ is produced to $\text{T}$. $\text{N}$ is a point on the circle such that $\hat{\text{Q}}_1 = \hat{\text{Q}}_2$. $\text{SN}$ is drawn.  
+$\text{RS}$ intersects $\text{QN}$ at $\text{M}$. $\hat{\text{S}}_1 = 48^\circ$
+
+[DIAGRAM: Circle with diameters $QS$ and $PR$ intersecting at $O$. $PQ \parallel SR$. $PS$ is produced to $T$. $N$ is on the circle. $\hat{Q}_1 = \hat{Q}_2$. $SN$ is drawn. $RS$ and $QN$ intersect at $M$. $\hat{S}_1 = 48^\circ$.]
+
+10.2.1 Determine, with reasons, the size of:  
+(a) $\hat{\text{Q}}_1$ (3)  
+(b) $\hat{\text{R}}$ (2)  
+(c) $\hat{\text{M}}_1$ (2)  
+
+10.2.2 Prove that $\text{ST}$ is a tangent to the circle passing through $\text{M, N}$ and $\text{S}$. (2)  
+**[14]**
+
+---
+
+## QUESTION 11
+
+$\text{O}$ is the centre of the larger circle $\text{RTAP}$. $\text{OP}$ is the diameter of the smaller circle $\text{PSO}$.  
+$\text{NP}$ is a tangent to both circles at $\text{P}$. $\text{RN} \perp \text{NP}$.  
+Let $\hat{\text{P}}_1 = x$.
+
+[DIAGRAM: Two intersecting circles. Larger circle has centre $O$ and points $R, T, A, P$ on its circumference. Smaller circle has diameter $OP$ and points $P, S, O$ on its circumference. $NP$ is a tangent to both circles at $P$. $RN \perp NP$. Angle $\hat{P}_1 = x$.]
+
+11.1 Prove that $\text{PR}$ bisects $\text{O\hat{R}N}$. (5)
+
+11.2 Prove that $\text{R\hat{O}S} = \text{P\hat{A}T}$. (5)  
+**[10]**
+
+**TOTAL:** **150**

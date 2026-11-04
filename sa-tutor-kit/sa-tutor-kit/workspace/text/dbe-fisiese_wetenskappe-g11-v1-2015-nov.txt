@@ -1,0 +1,820 @@
+=== page 1 ===
+Kopiereg voorbehou  Blaai om asseblief
+
+PUNTE:  150
+
+TYD:  3 uur
+
+Hierdie vraestel bestaan uit 16 bladsye en 2 gegewensblaaie.
+
+GRAAD 11
+NASIONALE
+SENIOR SERTIFIKAAT
+FISIESE WETENSKAPPE:  FISIKA (V1)
+
+NOVEMBER 2015
+
+=== page 2 ===
+Fisiese Wetenskappe/V1 2 DBE/November 2015
+KABV – Graad 11
+Kopiereg voorbehou                                                                     Blaai om asseblief
+
+INSTRUKSIES EN INLIGTING
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+Skryf jou naam en klas  (byvoorbeeld 11A)  in die toepaslike ruimtes op die
+ANTWOORDEBOEK neer.
+
+Hierdie vraestel bestaan uit 11 vrae. Beantwoord AL die vrae in die
+ANTWOORDEBOEK.
+
+Begin ELKE vraag op 'n NUWE bladsy in die ANTWOORDEBOEK.
+
+Nommer die antwoorde korrek volgens die nommeringstelsel wat  in hierdie
+vraestel gebruik is.
+
+Laat EEN reël oop tussen twee subvrae, byvoorbeeld tussen VRAAG 2.1 en
+VRAAG 2.2.
+
+Jy mag 'n nieprogrammeerbare sakrekenaar gebruik.
+
+Jy mag toepaslike wiskundige instrumente gebruik.
+
+Jy word aangeraai om die aangehegte GEGEWENSBLAAIE te gebruik.
+
+Toon ALLE formules en substitusies in ALLE berekeninge.
+
+Rond jou finale numeriese antwoorde tot ' n minimum van TWEE desimale
+plekke af.
+
+Gee kort (bondige) motiverings, besprekings ensovoorts waar nodig.
+
+Skryf netjies en leesbaar.
+
+=== page 3 ===
+Fisiese Wetenskappe/V1 3 DBE/November 2015
+KABV – Graad 11
+Kopiereg voorbehou                                                                     Blaai om asseblief
+
+VRAAG 1:  MEERVOUDIGEKEUSE-VRAE
+
+Vier opsies word as moontlike antwoorde op die volgende vrae gegee. Elke vraag
+het slegs EEN korrekte antwoord. Kies die antwoord en skryf slegs die letter (A –D)
+langs die vraagnommer (1.1– 1.10) in die ANTWO ORDEBOEK neer, byvoorbeeld
+1.11 E.
+
+1.1 Vektor P en vektor –P werk op 'n gemeenskaplike punt O in. Die hoek tussen
+die twee vektore is ...
+
+ A
+
+B
+
+C
+
+D
+0o
+
+90o
+
+180o
+
+270o
+
+(2)
+
+1.2 Die stellings hieronder verwys na skalare en vektore:
+
+(i) Vektore kan bymekaar getel word, maar skalare nie.
+(ii) 'n Skalaarhoeveelheid kan met rigting geassosieer word.
+(iii) 'n Vektorhoeveelheid word altyd met rigting geassosieer.
+
+ Watter van die stellings hierbo is WAAR?
+
+ A
+
+B
+
+C
+
+D
+Slegs (i) en (ii)
+
+Slegs (ii) en (iii)
+
+Slegs (i)
+
+Slegs (iii)
+
+(2)
+
+1.3 'n Netto krag , F, word op 'n voorwerp met massa m kg toegepas en
+veroorsaak 'n versnelling van a m∙s-2. Wanneer die netto krag, F, op dieselfde
+voorwerp verdubbel word, sal die gevolglike versnelling, in m∙s-2, ... wees.
+
+ A
+
+B
+
+C
+
+D
+a
+
+2
+3 a
+
+2a
+
+3a
+
+(2)
+
+=== page 4 ===
+Fisiese Wetenskappe/V1 4 DBE/November 2015
+KABV – Graad 11
+Kopiereg voorbehou                                                                     Blaai om asseblief
+
+1.4 'n Persoon staan op 'n badkamerskaal in 'n stilstaande hysbak. Die lesing op
+die skaal is 490 N. Wanneer die hysbak beweeg , verander die lesing op die
+skaal na 470 N.
+
+Watter EEN van die volgende kombinasies beskryf die RIGTING VAN  DIE
+BEWEGING en die RIGTING VAN  DIE VERSNELLING van die hysbak
+gedurende die beweging die beste?
+
+  RIGTING VAN DIE
+BEWEGING
+RIGTING VAN DIE
+VERSNELLING
+
+ A Opwaarts Opwaarts
+ B Afwaarts Afwaarts
+ C Opwaarts Afwaarts en dan opwaarts
+ D Afwaarts Opwaarts en dan afwaarts   (2)
+
+1.5 'n Ligstraal word gebreek wanneer dit van lug  in water in beweeg.  Watter
+EEN van die volgende kombinasies met betrekking tot die RIGTING VAN DIE
+GEBREEKTE STRAAL en die SPOED VAN DIE LIGSTRAAL is KORREK?
+
+  RIGTING VAN DIE
+GEBREEKTE STRAAL  SPOED VAN DIE LIGSTRAAL
+ A Na die normaal toe Neem af
+ B Weg van die normaal af Neem af
+ C Na die normaal toe Neem toe
+ D Weg van die normaal af Neem toe   (2)
+
+1.6 'n Leerder wat agter 'n oop deur van 'n vertrek wegkruip, kan mense buite die
+vertrek hoor praat al kan hy hulle nie sien nie. Die rede hiervoor is dat ...
+
+ A
+
+B
+
+C
+
+D
+klank 'n korter golflengte as 'n liggolf het.
+
+klank 'n langer golflengte as 'n liggolf het.
+
+lig in 'n reguitlyn beweeg terwyl klankgolwe slegs om hoeke beweeg.
+
+die energie in 'n klankgolf minder as die energie in 'n liggolf is.
+
+(2)
+
+=== page 5 ===
+Fisiese Wetenskappe/V1 5 DBE/November 2015
+KABV – Graad 11
+Kopiereg voorbehou                                                                     Blaai om asseblief
+
+1.7 Die blaaie van die elektroskoop in die diagram hieronder is positief gelaai.
+
+ Wanneer 'n voorwerp naby die plaat gebring word, divergeer die blaaie meer .
+Ons kan dus aflei dat die voorwerp ...
+
+ A
+
+B
+
+C
+
+D
+positief gelaai is.
+
+negatief gelaai is.
+
+glad nie gelaai is nie.
+
+positiewe ladings vrystel.
+
+(2)
+
+1.8 Twee gelaaide voorwerpe stoot mekaar af met 'n krag F wanneer hulle 'n
+afstand d van mekaar is. Die afstand tussen die ladings word na 31 d verklein.
+Die nuwe krag, in terme van F, sal nou ... wees.
+
+ A
+
+B
+
+C
+
+D
+F
+
+3F
+
+6F
+
+9F
+
+(2)
+
+=== page 6 ===
+Fisiese Wetenskappe/V1 6 DBE/November 2015
+KABV – Graad 11
+Kopiereg voorbehou                                                                     Blaai om asseblief
+V
+I
+V
+I
+V
+I
+V
+I
+
+1.9 In die diagram hieronder nader die noordpool van 'n staafmagneet punt A van
+'n solenoïed.
+
+ Watter EEN van die volgen de stellings oor die polariteit van A en die rigting
+van die magneetveld BINNE die solenoï ed is KORREK as die NOORDPOOL
+nader aan A beweeg?
+
+  POLARITEIT VAN A RIGTING VAN VELD IN SOLENOÏED
+ A Suidpool A na B
+ B Noordpool B na A
+ C Noordpool A na B
+ D Suidpool B na A   (2)
+
+1.10 Watter EEN van die volgende grafieke stel die verwantskap tussen stroom en
+potensiaalverskil vir 'n geleier wat Ohm se wet gehoorsaam, die beste voor?
+
+A
+
+B
+
+C
+
+D
+
+   (2)
+   [20]
+N S
+
+=== page 7 ===
+Fisiese Wetenskappe/V1 7 DBE/November 2015
+KABV – Graad 11
+Kopiereg voorbehou                                                                     Blaai om asseblief
+
+VRAAG 2   (Begin op 'n nuwe bladsy.)
+
+Drie kragte, P, Q en R, met groottes 500 N, 200 N en 300 N onderskeidelik, werk in op
+'n punt O in die rigtings getoon in die diagram hieronder.
+
+Die kragte is NIE volgens skaal geteken NIE.
+
+2.1 Verwys na die inligting in die diagram hierbo en gee 'n rede waarom krag P,
+Q en R as vektore geklassifiseer word.
+
+(2)
+
+2.2 Bepaal die grootte en rigting van die resulterende krag deur óf BEREKENING
+óf AKKURATE KONSTRUKSIE EN METING.
+(Gebruik skaal 10 mm = 50 N.)
+
+(8)
+   [10]
+
+O
+P = 500 N
+Q = 200 N
+R = 300 N
+10ο
+30ο
+60ο x
+y
+
+=== page 8 ===
+Fisiese Wetenskappe/V1 8 DBE/November 2015
+KABV – Graad 11
+Kopiereg voorbehou                                                                     Blaai om asseblief
+
+VRAAG 3   (Begin op 'n nuwe bladsy.)
+
+'n Konstante krag, F, trek 'n 50 kg-blok teen 'n konstante spoed oor 'n ruwe horisontale
+oppervlak, AB, soos in die diagram hieronder getoon.  Die kinetiese
+wrywingskoëffisiënt (μk) tussen die blok en die oppervlak is 0,4.
+
+3.1 Teken 'n benoemde vrye kragtediagram wat AL die kragte wat op die blok
+inwerk, toon.
+
+(4)
+
+3.2 Stel Newton se eerste bewegingswet in woorde.  (2)
+
+Bereken die grootte van die:
+
+3.3 Krag F  (6)
+
+3.4 Normaalkrag  (2)
+
+3.5 Wrywingskrag  (2)
+
+Dieselfde konstante krag,  F, word nou op die blok o or dieselfde r uwe horisontale
+oppervlak as voorheen uitgeoefen, maar in die rigting wat hieronder getoon word.
+
+3.6 Gee 'n rede waarom die blok stadiger as voorheen sal beweeg,  (2)
+   [18]
+
+ 50 kg 20o
+A B
+F
+ 50 kg 20o
+A B
+F
+
+=== page 9 ===
+Fisiese Wetenskappe/V1 9 DBE/November 2015
+KABV – Graad 11
+Kopiereg voorbehou                                                                     Blaai om asseblief
+
+VRAAG 4   (Begin op 'n nuwe bladsy.)
+
+4.1 In die diagram hieronder word 'n 2 kg-blok met 'n ligte onelastiese toutjie met
+'n 1 kg-blok verbind. Die blokke w ord teen 'n skuinsvlak, wat 'n hoek van 28 o
+met die horisontaal maak, opgetrek. Die sye  van die blokke wat aan die
+skuinsvlak raak, het dieselfde oppervlakte.
+
+Die kinetie se wrywingskrag tussen die 1 kg -blok en die skuinsvlak is
+4 N terwyl die kinetie se wrywingskrag tussen die 2 kg -blok en die skuinsvlak
+8 N is.
+
+ 4.1.1 Teken 'n benoemde vrye kragtediagram wat AL die kragte toon wat
+op die 1 kg-blok inwerk.
+
+(5)
+
+ 4.1.2 Stel Newton se tweede wet van beweging in woorde.  (2)
+
+ 4.1.3 Bereken die grootte van die spanning in die toutjie wat die blokke
+verbind.
+
+(5)
+
+ Die twee blokke word omgeruil sodat DIESELFDE 30 N -krag nou op die
+2 kg-blok op die skuinsvlak inwerk, soos in die diagram hieronder getoon.
+
+ 4.1.4 Hoe sal die versnelling van die stelsel verander? Skryf slegs
+TOENEEM, AFNEEM of BLY DIESELFDE neer.
+
+(1)
+
+ 4.1.5 Hoe sal die spanning in die toutjie wat die twee blokke verbind ,
+verander? Skryf slegs TOENEEM, AFNEEM of BLY  DIESELFDE
+neer.
+
+(1)
+
+1 kg
+2 kg
+
+28o
+30 N
+
+1 kg
+
+2 kg
+
+28o
+30 N
+
+=== page 10 ===
+Fisiese Wetenskappe/V1 10 DBE/November 2015
+KABV – Graad 11
+Kopiereg voorbehou                                                                     Blaai om asseblief
+
+4.2 In die diagram  hieronder word 'n 1  kg-massa en 'n 2  kg-massa met 'n
+onelastiese tou van weglaatbare massa verbind. Die tou word oor ' n ligte ,
+wrywinglose katrol  gehang, sodat die massas hang soos getoon word. Die
+stelsel word aanvanklik in rus gehou.
+
+ 4.2.1 Teken 'n benoemde vrye kragtediagram wat AL die kragte toon wat op
+die 2 kg-massa inwerk.
+
+(2)
+
+ 4.2.2 Bereken die tyd wat dit die 1 kg -massa sal neem om 'n afstand van
+1 m te beweeg wanneer die stelsel laat los word.
+
+(7)
+    [23]
+
+VRAAG 5   (Begin op 'n nuwe bladsy.)
+
+Gravitasiekrag bestaan tussen die son en die Aarde.
+
+5.1 Stel Newton se Universele Gravitasiewet in woorde.  (2)
+
+5.2 Die massa van die son is 330  000 keer groter as d ie Aarde s'n. Die afstand
+tussen die middelpunte van die son en die Aarde is 1,38 x 109 m. Bereken die
+gravitasiekrag wat die son op die Aarde uitoefen.
+
+(4)
+
+5.3 Hoe sal die  gravitasiekrag wat die Aarde op  die Son uitoefen met die
+antwoord op VRAAG 5.2 vergelyk? Skryf slegs GROTER AS, KLEINER AS of
+GELYK AAN neer. Gee 'n rede vir die antwoord.
+
+(2)
+   [8]
+
+2 kg
+1 kg
+
+=== page 11 ===
+Fisiese Wetenskappe/V1 11 DBE/November 2015
+KABV – Graad 11
+Kopiereg voorbehou                                                                     Blaai om asseblief
+
+VRAAG 6   (Begin op 'n nuwe bladsy.)
+
+Die tabel hieronder toon akkurate waardes vir die brekingsindekse (relatief tot lug) van
+sommige optiese media wat tydens ligbrekingseksperimente verkry is . Die optiese
+digtheid van die media neem van water tot diamant toe.
+
+MEDIUM BREKINGSINDEKS
+Water 1,33
+Kroonglas 1,52
+Kubiese sirkonium 2,20
+Diamant 2,42
+
+6.1 Watter belangrike afleiding oor di e verhouding tussen 'n medium en sy
+brekingsindeks kan uit die inligting hierbo gemaak word?
+
+(2)
+
+6.2 Definieer die term ligbreking (refraksie).  (2)
+
+Die diagram hieronder toon 'n ligstraal wat vanaf medium A in water inbeweeg.
+
+6.3 Verskaf 'n geskikte berekening om medium A te identifiseer.  (5)
+
+Lig beweeg vanaf water in kroonglas in.
+
+6.4 Sal die brekingsindeks van die kroonglas relatief tot water GROTER AS,
+KLEINER AS of GELYK AAN die brekingsindeks van kroongla s in die tabel
+hierbo wees?
+
+(1)
+   [10]
+
+water
+medium A
+35°
+20,28°
+
+=== page 12 ===
+Fisiese Wetenskappe/V1 12 DBE/November 2015
+KABV – Graad 11
+Kopiereg voorbehou                                                                     Blaai om asseblief
+
+VRAAG 7   (Begin op 'n nuwe bladsy.)
+
+Die diagram hieronder toon 'n ligstraal wat deur 'n optiese vesel beweeg. Die vesel is
+van twee verskillende glasstowwe, bekend as  die kernglas en die buitenste
+bekledingglas gemaak. Hierdie twee tipes glas stowwe het verskillende
+brekingsindekse.
+
+7.1 Noem die TWEE voorwaardes wat nodig is sodat totale interne weerkaatsing
+kan plaasvind.
+
+(4)
+
+7.2 Watter deel van die optiese vesel sal 'n hoër brekingsindeks hê? Skryf slegs
+KERN of BEKLEDING neer.
+
+(1)
+
+Die brekingsindeks van die kernglas is 1,5.
+
+7.3 Bereken die kritieke hoek vir die grens tussen die twee glasstowwe.  (3)
+
+7.4 Noem TWEE voordele van optiesevesel-kabels bo koperkabels wanneer dit in
+telekommunikasie gebruik word.
+
+(2)
+   [10]
+
+Bekleding: n2
+i
+Kern: n1
+
+=== page 13 ===
+Fisiese Wetenskappe/V1 13 DBE/November 2015
+KABV – Graad 11
+Kopiereg voorbehou                                                                     Blaai om asseblief
+
+VRAAG 8   (Begin op 'n nuwe bladsy.)
+
+8.1 Alle tipes golwe ondergaan diffraksie.
+
+ 8.1.1 Definieer die term diffraksie.  (2)
+
+ 8.1.2 Noem die voorwaarde wat nodig is sodat diffraksie in 'n enkelspleet
+kan plaasvind.
+
+(2)
+
+8.2 Lig met 'n golflengte van 460 nm beweeg deur 'n enkelspleet met 'n wydte
+(breedte) van 7 x 10-6 m. 'n Diffraksiepatroon word op 'n skerm waargeneem,
+soos in die diagram hieronder getoon.
+
+ 8.2.1 Beskryf die patroon wat op die skerm waargeneem word.  (2)
+
+ 8.2.2 Beskryf hoe elk van die volgende veranderinge die wydte (breedte)
+van gedeelte X in die diagram hierbo sal beïnvloed:
+
+  (a)
+
+(b)
+Lig met 'n golflengte van 470 nm word  gebruik terwyl die
+spleetwydte konstant gehou word
+
+Die spleetwydte word na 7 x 10-7 m verander, terwyl die
+oorspronklike golflengte onveranderd bly
+
+(1)
+
+(1)
+[8]
+
+X
+skerm
+spleet
+
+=== page 14 ===
+Fisiese Wetenskappe/V1 14 DBE/November 2015
+KABV – Graad 11
+Kopiereg voorbehou                                                                     Blaai om asseblief
+
+VRAAG 9   (Begin op 'n nuwe bladsy.)
+
+9.1 Twee identiese metaalsfere , P en Q, wat 'n afstand d van mekaar is, word
+vanaf 'n geïsoleerde onbuigbare houtstaaf gehang, soos in die diagram
+hieronder getoon. Die lading op die sfere is –4 μC en +8 μC onderskeidelik.
+
+ 9.1.1 Sfeer Q ondervind 'n elektrostatiese krag.
+
+In watter rigting sal sfeer Q beweeg? Skryf slegs NA LINKS  of NA
+REGS neer.
+
+(1)
+
+ Die sfere word nou met mekaar in aanraking gebring en word dan geskei.
+
+ 9.1.2 Is elektrone VANAF P VERWYDER of NA P OORGEDRA? Gee 'n
+rede vir die antwoord.
+
+(2)
+
+ 9.1.3 Bereken die afstand d tussen die twee sfere indien die grootte van
+die krag wat deur P ondervind word, 0,8 N is.
+
+(3)
+
+9.2 Ladings van +4 μC en –3 μC word op 'n afstand van 0,2 m van mekaar
+op 'n reguitlyn geplaas, soos hieronder getoon. Punt P is 0,1 m regs  van die
+–3 μC-lading.
+
+ Bereken die:
+
+ 9.2.1 Netto elektriese veld by punt P  (5)
+
+ 9.2.2 Massa van 'n +6 μC-lading wat by punt P geplaas word en wat
+'n versnelling van grootte 5 x 102 m∙s-2 sal ondervind  (3)
+    [14]
+
+d
+–4 μC
+P
+ +8 μC
+Q
+x
+0,1 m
+P +4 μC –3 μC
+ 0,2 m
+
+=== page 15 ===
+Fisiese Wetenskappe/V1 15 DBE/November 2015
+KABV – Graad 11
+Kopiereg voorbehou                                                                     Blaai om asseblief
+
+VRAAG 10   (Begin op 'n nuwe bladsy.)
+
+10.1 Die rangskikking van  apparaat om Faraday se wet van elektromagnetiese
+induksie te demonstreer, word hieronder getoon.
+
+ 10.1.1 Stel Faraday se wet van elektromagnetiese induksie in woorde.  (2)
+
+ 10.1.2 Noem TWEE maniere waarop die uitwyking op die galvanometer
+vergroot kan word.
+
+(2)
+
+10.2 'n Spoel met oppervlakte 0,6 m2 word so gehou dat die as met die rigting van
+'n magneetveld met sterkte 0,4 T saamval.
+
+ 10.2.1 Bereken die magnetiesevloed-koppeling.  (3)
+
+ Ten einde 'n emk van 9 V te lewer, word die oppervlakte van die spoel , met
+die as w at met die rigting van die magneetveld saamval, in 2 minute van
+0,6 m2 tot 0,3 m2 gehalveer.
+
+ 10.2.2 Bereken die getal windings in die spoel.  (4)
+    [11]
+magneet
+
+=== page 16 ===
+Fisiese Wetenskappe/V1 16 DBE/November 2015
+KABV – Graad 11
+Kopiereg voorbehou
+
+VRAAG 11   (Begin op 'n nuwe bladsy.)
+
+11.1 Die stroombaan hieronder word gebruik om die  weerstand van resistor X te
+bepaal.
+
+ Die 12 V -battery het weglaatbare interne weerstand. Wanneer skakelaar S
+gesluit word, is die lesing op die ammeter 0,5 A.
+
+ 11.1.1 Stel Ohm se wet in woorde.  (2)
+
+ 11.1.2 Bereken die weerstand van resistor X.  (5)
+
+11.2 Bestudeer die stroombaan hieronder. Die battery het 'n emk van 12 V met
+weglaatbare interne weerstand.
+
+ Skakelaar S word gesluit.
+
+ 11.2.1 Skryf die potensiaalverskil oor die 4 Ω-resistor neer.  (1)
+
+ 11.2.2 Bereken die lesing op die ammeter.  (5)
+
+ 11.2.3 Bereken die energie wat in 2 minute in die 12 Ω -resistor verlore
+gaan.
+
+(5)
+   [18]
+
+ TOTAAL:  150
+●
+●
+A X 8 Ω
+S
+12 V
+A
+
+12 V
+8 Ω 12 Ω
+4 Ω
+16 Ω
+● ●
+S
+
+=== page 17 ===
+Fisiese Wetenskappe/V1  DBE/November 2015
+KABV – Graad 11
+Kopiereg voorbehou
+
+DATA FOR PHYSICAL SCIENCES GRADE 11
+PAPER 1 (PHYSICS)
+
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 11
+VRAESTEL 1 (FISIKA)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Acceleration due to gravity
+Swaartekragversnelling g 9,8 m·s-2
+Gravitational constant
+Swaartekragkonstante G 6,67 x 10-11 N⋅m2⋅kg-2
+Radius of Earth
+Straal van Aarde RE 6,38 x 106 m
+Coulomb's constant
+Coulomb se konstante K 9,0 x 109 N⋅m2·C-2
+Speed of light in a vacuum
+Spoed van lig in 'n vakuum c 3,0 x 108 m·s-1
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Electron mass
+Elektronmassa me 9,11 x 10-31 kg
+Mass of the earth
+Massa van die Aarde  M 5,98 x 1024 kg
+
+TABLE 2:  FORMULAE/TABEL 2:  FORMULES
+
+MOTION/BEWEGING
+
+tavv if ∆+=  221i tatvx ∆+∆=∆
+xa2vv
+2
+i
+2
+f ∆+=   t2 vvx if ∆ +=∆
+
+FORCE/KRAG
+
+ma=Fnet  w = mg
+2
+21
+r
+mGmF=
+N
+f (max)s
+s =µ
+N
+fk
+k =µ
+
+=== page 18 ===
+Fisiese Wetenskappe/V1  DBE/November 2015
+KABV – Graad 11
+Kopiereg voorbehou
+
+WAVES, SOUND AND LIGHT/GOLWE, KLANK EN LIG
+
+λ= fv
+f
+1T=
+rrii sinnsinn θ=θ   vcn=
+
+ELECTROSTATICS/ELEKTROSTATIKA
+
+2
+21
+r
+QkQ=F          (k = 9,0 x 109 N⋅m2·C-2) qF=E
+2r
+kQE=              (k = 9,0 x 109 N⋅m2·C-2)
+e
+Q=n
+
+ELECTROMAGNETISM/ELEKTROMAGNETISME
+
+tN ∆∆Φ−=ε  θ=Φ cosBA
+
+ELECTRIC CIRCUITS/ELEKTRIESE STROOMBANE
+
+t
+QI ∆=  IVR=
+...r1r1r1R1 321 +++=  ...rrrR 321 +++=
+W = Vq
+
+W = VI∆ t
+
+W= I2R∆ t
+
+W= RΔtV2
+Δt
+WP=
+
+P = VI
+
+P = I2R
+R
+VP 2=

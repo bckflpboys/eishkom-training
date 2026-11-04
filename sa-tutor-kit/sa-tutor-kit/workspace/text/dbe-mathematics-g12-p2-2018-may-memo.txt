@@ -1,0 +1,189 @@
+**SENIOR CERTIFICATE EXAMINATIONS / SENIORSERTIFIKAAT-EKSAMEN**
+
+**MATHEMATICS P2 / WISKUNDE V2**
+
+**2018**
+
+**MARKING GUIDELINES / NASIENRIGLYNE**
+
+---
+
+### **NOTE / LET WEL:**
+* If a candidate answers a question TWICE, only mark the FIRST attempt.
+* If a candidate has crossed out an attempt of a question and not redone the question, mark the crossed out version.
+* Consistent accuracy applies in ALL aspects of the marking memorandum. Stop marking at the second calculation error.
+* Assuming answers/values in order to solve a problem is NOT acceptable.
+
+* As 'n kandidaat 'n vraag TWEE KEER beantwoord, sien slegs die EERSTE poging na.
+* As 'n kandidaat 'n antwoord van 'n vraag doodtrek en nie oordoen nie, sien die doodgetrekte poging na.
+* Volgehoue akkuraatheid word in ALLE aspekte van die nasienriglyne toegepas. Hou op nasien by die tweede berekeningsfout.
+* Aanvaar van antwoorde/waardes om 'n probleem op te los, word NIE toegelaat nie.
+
+---
+
+### **GEOMETRY**
+
+| Symbol | Description |
+| :---: | :--- |
+| **S** | A mark for a correct statement<br>*(A statement mark is independent of a reason.)*<br>'n Punt vir 'n korrekte bewering<br>*('n Punt vir 'n bewering is onafhanklik van die rede.)* |
+| **R** | A mark for a correct reason<br>*(A reason mark may only be awarded if the statement is correct.)*<br>'n Punt vir 'n korrekte rede<br>*('n Punt word slegs vir die rede toegeken as die bewering korrek is.)* |
+| **S/R** | Award a mark if the statement AND reason are both correct.<br>Ken 'n punt toe as beide die bewering EN rede korrek is. |
+
+---
+
+### **QUESTION / VRAAG 1**
+
+| 1.1.1 | $\text{Mean / Gemiddelde} = \frac{2283}{12} = 190,25$ <br> $\text{Mean profit / Gemiddelde wins} = \text{R}190\ 250,00 \text{ or } 190,25 \text{ thousand rands}$ | $\checkmark \text{ sum}$<br>$\checkmark \text{ answer}$<br>$\checkmark \text{ answer in thousands of rands}$ | (3) |
+| :--- | :--- | :--- | :--- |
+| 1.1.2 | $\text{Median} = \frac{169 + 171}{2} = 170 \text{ thousand rands}$ <br> $= \text{R}170\ 000$ | $\checkmark \text{ answer}$ | (1) |
+| 1.2 | ![](https://cdn.mathpix.com/cropped/2024_06_04_0b73b22cf53c3066c0d6g-03.jpg?height=85&width=390&top_left_y=428&top_left_x=174)<br>$\begin{array}{ccccc}110 & 160 & 170 & 210 & 360\end{array}$ | $\checkmark \text{ whiskers}$<br>$\checkmark \text{ quartiles}$ | (2) |
+| 1.3 | $\text{IQR} = Q_3 - Q_1$ <br> $= 210 - 160 \text{ thousand rands}$ <br> $= \text{R}50\ 000$ | $\checkmark \text{ answer}$ | (1) |
+| 1.4 | Skewed to the right or positively skewed. | $\checkmark \text{ answer}$ | (1) |
+| 1.5.1 | $\sigma = 67,04118759 \text{ thousand rands}$ <br> $= \text{R}67\ 041,19$ | $\checkmark \text{ answer}$ | (1) |
+| 1.5.2 | $\bar{x} - \sigma = 123,21 \text{ thousand rands}$ <br> For **2 months** the profit was less than one standard deviation below the mean. | $\checkmark \text{ lower limit}$<br>$\checkmark \text{ answer}$ | (2) |
+| | | | **[11]** |
+
+---
+
+### **QUESTION / VRAAG 2**
+
+| 2.1 | ![](https://cdn.mathpix.com/cropped/2024_06_04_0b73b22cf53c3066c0d6g-04.jpg?height=188&width=336&top_left_y=452&top_left_x=175) | 3 marks: All points correct<br><br>2 marks: 6 – 9 points correct<br><br>1 mark: 3 – 5 points correct | (3) |
+| :--- | :--- | :--- | :--- |
+| 2.2 | The points lie almost in a straight line. This suggests a very strong positive relationship between the number of chirps per minute and the temperature of the air.<br>*(Die punte lê amper in 'n reguitlyn, wat beteken dat daar 'n baie sterk positiewe verband tussen die aantal tjirpgeluide per minuut en die lugtemperatuur is.)*<br><br>**OR/OF**<br><br>$r = 0,99$ so there is a very strong positive relationship between the number of chirps per minute and the temperature of the air.<br>*(r = 0,99, dus is daar 'n baie sterk positiewe verband tussen die aantal kriekgeluide per minuut en die lugtemperatuur.)* | $\checkmark \text{ justify with straight line}$ <br><br><br><br>$\checkmark \text{ link with } r = 0,99 \text{ om te motiveer}$ | (1)<br><br><br>(1) |
+| 2.3 | $a = 3,97$<br>$b = 0,15$<br>$\hat{y} = 3,97 + 0,15x$ | $\checkmark a = 3,97$<br>$\checkmark b = 0,15$<br>$\checkmark \text{ equation}$ | (3) |
+| 2.4 | Air temperature $\approx 15,67^\circ\text{C}$ (calculator)<br><br>**OR**<br><br>$\hat{y} \approx 3,97 + 0,15(80)$<br>$\approx 15,97^\circ\text{C}$<br><br>**OR**<br><br>Air temperature $\approx 16^\circ\text{C}$ (graph: Accept between $15^\circ\text{C}$ and $17^\circ\text{C}$) | $\checkmark\checkmark$ answer<br><br><br>$\checkmark \text{ substitution}$<br>$\checkmark \text{ answer}$<br><br><br>$\checkmark\checkmark$ answer | (2)<br><br>(2)<br><br>(2) |
+| | | | **[9]** |
+
+---
+
+### **QUESTION / VRAAG 3**
+
+```
+                  y
+         B(–2 ; 9)
+               / \
+              /   \
+             /     \
+            /   θ   \
+           /     M   \_______ A(7 ; 1)
+          /       \          \
+         /         \          \
+   C(– 3 ; – 4)     \          \
+                     \          \
+                      \          \
+                       \          \
+                        \          \
+                         \          \
+                          \          D(8 ; – 11)
+```
+
+| 3.1 | $m_{AC} = \frac{1 - (-4)}{7 - (-3)} \quad \text{OR} \quad \frac{-4 - 1}{-3 - 7}$<br>$= \frac{5}{10} = \frac{1}{2}$ | $\checkmark \text{ substitution}$<br>$\checkmark \text{ answer}$ | (2) |
+| :--- | :--- | :--- | :--- |
+| 3.2.1 | $y = \frac{1}{2}x + c$<br>$1 = \frac{1}{2}(7) + c$<br>$c = -\frac{5}{2}$<br>$y = \frac{1}{2}x - 2\frac{1}{2}$<br><br>**OR/OF**<br>$y - y_1 = m(x - x_1)$<br>$y - 1 = \frac{1}{2}(x - 7)$<br>$y - 1 = \frac{1}{2}x - \frac{7}{2}$<br>$y = \frac{1}{2}x - 2\frac{1}{2}$<br><br>**OR/OF**<br>$y = \frac{1}{2}x + c$<br>$-4 = \frac{1}{2}(-3) + c$<br>$c = -\frac{5}{2}$<br>$y = \frac{1}{2}x - 2\frac{1}{2}$<br><br>**OR/OF**<br>$y - y_1 = m(x - x_1)$<br>$y - (-4) = \frac{1}{2}(x - (-3))$<br>$y + 4 = \frac{1}{2}x + \frac{3}{2}$<br>$y = \frac{1}{2}x - 2\frac{1}{2}$ | $\checkmark \text{ substitution } M \text{ and } A(7 ; 1)$<br><br>$\checkmark \text{ equation}$<br><br><br><br><br><br><br>$\checkmark \text{ substitution } M \text{ and } C(-3 ; -4)$<br><br>$\checkmark \text{ equation}$ | (2)<br><br><br><br><br><br><br>(2) |
+
+---
+
+| 3.2.2 | $M\left(\frac{-2 + 8}{2} ; \frac{9 + (-11)}{2}\right)$<br>$\therefore M(3 ; -1)$<br><br>$\text{Equation of AC: } y = \frac{1}{2}x - 2\frac{1}{2} \quad \text{OR} \quad y = \frac{1}{2}x - 2\frac{1}{2}$<br>$y = \frac{1}{2}(3) - 2\frac{1}{2} \quad \quad -1 = \frac{1}{2}x - 2\frac{1}{2}$<br>$y = -1 \quad \quad \quad \quad \ \ \ \ x = 3$<br>$\therefore M \text{ lies on AC}$<br><br>**OR/OF**<br>$M\left(\frac{-2 + 8}{2} ; \frac{9 + (-11)}{2}\right)$<br>$\therefore M(3 ; -1)$<br>$m_{CM} = \frac{-4 + 1}{-3 - 3} = \frac{1}{2}$<br>$\therefore m_{CM} = m_{AC} \text{ and } C \text{ a common point}$<br>$\therefore M \text{ lies on AC}$ | $\checkmark x \text{ coordinate } \checkmark y \text{ coordinate}$<br><br><br>$\checkmark \text{ substitution of } x$<br>$\checkmark \text{ conclusion}$<br><br><br><br>$\checkmark x \text{ coordinate}$<br>$\checkmark y \text{ coordinate}$<br>$\checkmark \text{ gradient of } CM$<br>$\checkmark \text{ reasoning \& conclusion}$ | (4)<br><br><br><br><br>(4) |
+| :--- | :--- | :--- | :--- |
+| 3.3 | $m_{BD} = \frac{9 - (-11)}{-2 - 8} \quad \text{OR} \quad \frac{(-11) - 9}{8 - (-2)}$<br>$= -2$<br>$m_{BD} \times m_{AC} = \frac{1}{2} \times -2 = -1$<br>$\therefore BD \perp AC$ | $\checkmark \text{ correct substitution}$<br>$\checkmark m_{BD}$<br>$\checkmark \text{ product of gradients} = -1$ | (3) |
+| 3.4.1 | $\tan \theta = m_{BD} = -2$<br>$\therefore \theta = 116,57^\circ$ | $\checkmark \tan \theta = m_{BD}$<br>$\checkmark \text{ answer}$ | (2) |
+| 3.4.2 | $\tan \beta = m_{BC}$<br>$m_{BC} = \frac{9 - (-4)}{-2 - (-3)} \quad \text{OR} \quad \frac{-4 - 9}{-3 - (-2)}$<br>$= 13$<br>$\beta = 85,6^\circ$<br>$\therefore C\hat{B}D = 116,57^\circ - 85,60^\circ \quad [\text{ext } \angle \text{ of } \Delta]$<br>$= 30,97^\circ$<br><br>**OR/OF**<br>$BD = \sqrt{500} ; BC = \sqrt{170} \text{ \& } CD = \sqrt{170}$<br>$CD^2 = BD^2 + BC^2 - 2BD \cdot BC \cdot \cos C\hat{B}D$<br>$170 = 500 + 170 - 2\sqrt{500}\sqrt{170}\cos C\hat{B}D$<br>$\cos C\hat{B}D = \frac{\sqrt{500}}{2\sqrt{170}} = 0,85749...$<br>$C\hat{B}D = 30,96^\circ$ | $\checkmark m_{BC} = 13$<br>$\checkmark \text{ value of } \beta$<br>$\checkmark \text{ answer}$<br><br><br><br>$\checkmark \text{ subst into cos rule}$<br>$\checkmark \text{ value of } \cos C\hat{B}D$<br>$\checkmark \text{ answer}$ | (3)<br><br><br><br>(3) |
+| 3.4.3 | $AC = \sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2}$<br>$= \sqrt{(7 - (-3))^2 + (1 - (-4))^2} \quad \text{OR} \quad \sqrt{((-3) - 7)^2 + ((-4) - 1)^2}$<br>$= \sqrt{100 + 25}$<br>$= \sqrt{125} = 5\sqrt{5} = 11,58$ | $\checkmark \text{ correct substitution into distance formula}$<br>$\checkmark \text{ answer}$ | (2) |
+| 3.4.4 | $BM = \sqrt{((-2) - 3)^2 + (9 - (-1))^2} \quad \text{OR} \quad \sqrt{(3 - (-2))^2 + ((-1) - 9)^2}$<br>$= \sqrt{125} = 5\sqrt{5}$<br>$\text{Area of }\Delta ABC = \frac{1}{2} \times \text{base} \times \perp \text{height}$<br>$= \frac{1}{2}(\sqrt{125})(\sqrt{125})$<br>$= 62,5 \text{ square units}$<br>$\text{Area of } ABCD = 2 \times 62,5$<br>$= 125 \text{ square units}$ | $\checkmark \text{ correct substitution into distance formula}$<br>$\checkmark BM$<br>$\checkmark \text{ substitution into area formula}$<br>$\checkmark 62,5$<br>$\checkmark 2 \times \Delta ABC$ | (5) |
+| | | | **[23]** |
+
+---
+
+### **QUESTION / VRAAG 4**
+
+```
+              y
+              N
+              |  
+              O ----------- R
+             /|\
+            / | \
+           /  |  \
+          /   |   \
+         S    M    \
+                   P(4 ; –6)
+```
+
+| 4.1 | $M\left(\frac{0 + 4}{2} ; \frac{0 + (-6)}{2}\right)$<br>$\therefore M(2 ; -3)$ | $\checkmark 2 \quad \checkmark -3$ | (2) |
+| :--- | :--- | :--- | :--- |
+| 4.2.1 | $x^2 + y^2 = 4^2 + (-6)^2$<br>$= 52$<br>$\therefore x^2 + y^2 = 52$ | $\checkmark \text{ substitution}$<br>$\checkmark \text{ equation}$ | (2) |
+| 4.2.2 | $(x - 2)^2 + (y + 3)^2 = \left(\frac{\sqrt{52}}{2}\right)^2 = 13$<br>$x^2 - 4x + 4 + y^2 + 6y + 9 - 13 = 0$<br>$x^2 + y^2 - 4x + 6y = 0$ | $\checkmark \text{ substitution of } M$<br>$\checkmark \text{ substitution of radius} = \frac{\sqrt{52}}{2}$<br>$\checkmark \text{ answer}$ | (3) |
+| 4.2.3 | $m_{OP} = \frac{-6 - 0}{4 - 0} = -\frac{3}{2}$<br>$m_{RS} \times m_{OP} = -1 \quad [\text{radius} \perp \text{tangent} / \text{raaklyn}]$<br>$\therefore m_{RS} = \frac{2}{3}$<br>$\therefore y = \frac{2}{3}x$ | $\checkmark m_{OP}$<br>$\checkmark m_{RS}$<br>$\checkmark \text{ equation}$ | (3) |
+
+---
+
+| 4.3 | $x^2 + y^2 = 52 \text{ and } y = \frac{2}{3}x$<br>$x^2 + \left(\frac{2}{3}x\right)^2 = 52$<br>$x^2 + \frac{4}{9}x^2 = 52$<br>$1\frac{4}{9}x^2 = 52$<br>$x^2 = 36$<br>$x = 6$<br>$\therefore R(6 ; 4) \text{ and } N(-6 ; 4)$<br>$\therefore NR = 12 \text{ units}$ | $\checkmark \text{ substitution}$<br>$\checkmark \text{ simplification}$<br>$\checkmark \text{ value of } x$<br>$\checkmark \text{ length of } NR$ | (4) |
+| :--- | :--- | :--- | :--- |
+| 4.4 | Let $T(x ; 0)$ be the other $x$-intercept of the small circle.<br>Then $OT$ is the common chord.<br>$\therefore (x - 2)^2 + (0 + 3)^2 = 13$<br>$(x - 2)^2 = 13 - 9 = 4$<br>$x - 2 = \pm 2$<br>$x = 2 \pm 2$<br>$x = 4 \text{ or } 0$<br>$\quad \quad \quad \quad \mathbf{OR}<br>\quad \quad \quad \quad x^2 - 4x + 4 + 9 = 13<br>\quad \quad \quad \quad x^2 - 4x = 0<br>\quad \quad \quad \quad x(x - 4) = 0<br>\quad \quad \quad \quad x = 0 \text{ or } x = 4$<br>$\therefore \text{length of common chord} = OT = 4 \text{ units}$ | $\checkmark y = 0$<br>$\checkmark x\text{-values}$<br>$\checkmark \text{ answer}$ | (3)<br><br>**[17]** |
+
+---
+
+### **QUESTION / VRAAG 5**
+
+| 5.1.1 | $\text{Given: } \sin M = \frac{15}{17}$<br>$MN^2 = 17^2 - 15^2$<br>$= 64$<br>$MN = 8$<br>$\therefore \tan M = \frac{15}{8}$ | $\checkmark \text{ sketch or Pyth}$<br>$\checkmark MN = 8$<br>$\checkmark \text{ answer}$ | (3) |
+| :--- | :--- | :--- | :--- |
+| 5.1.2 | $\sin M = \frac{NP}{MP}$<br>$\frac{NP}{51} = \frac{15a}{17a}$<br>$\therefore NP = 45$ | $\checkmark \text{ equating trig ratios}$<br>$\checkmark \text{ answer}$ | (2) |
+| 5.2 | $\cos(x - 360^\circ).\sin(90^\circ + x) + \cos^2(-x) - 1$<br>$= \cos x \cdot \cos x + \cos^2 x - 1$<br>$= \cos^2 x + \cos^2 x - 1$<br>$= 2\cos^2 x - 1$<br>$= \cos 2x$ | $\checkmark \cos x \quad \checkmark \cos x$<br>$\checkmark \cos^2 x$<br>$\checkmark 2\cos^2 x - 1$<br>$\checkmark \text{ identity}$ | (4) |
+| 5.3.1 | $\sin(2x + 40^\circ)\cos(x + 30^\circ) - \cos(2x + 40^\circ)\sin(x + 30^\circ)$<br>$= \sin[(2x + 40^\circ) - (x + 30^\circ)]$<br>$= \sin(x + 10^\circ)$ | $\checkmark \text{ reduction}$<br>$\checkmark \text{ answer}$ | (2) |
+| 5.3.2 | $\sin(2x + 40^\circ)\cos(x + 30^\circ) - \cos(2x + 40^\circ)\sin(x + 30^\circ) = \cos(2x - 20^\circ)$<br>$\therefore \cos(2x - 20^\circ) = \sin(x + 10^\circ)$<br>$\cos(2x - 20^\circ) = \cos[90^\circ - (x + 10^\circ)]$<br>$2x - 20^\circ = 80^\circ - x + k \cdot 360^\circ \text{ or } 2x - 20^\circ = 360^\circ - (80^\circ - x) + k \cdot 360^\circ$<br>$3x = 100^\circ + k \cdot 360^\circ \text{ or } 2x - 20^\circ = 280^\circ + x + k \cdot 360^\circ$<br>$x = 33,33^\circ + k \cdot 120^\circ \text{ or } x = 300^\circ + k \cdot 360^\circ ; k \in \mathbb{Z}$<br><br>**OR/OF**<br>$\therefore \cos(2x - 20^\circ) = \sin(x + 10^\circ)$<br>$\sin[90^\circ - (2x - 20^\circ)] = \sin(x + 10^\circ)$<br>$110^\circ - 2x = x + 10^\circ + k \cdot 360^\circ \text{ or } 110^\circ - 2x = 180^\circ - (x + 10^\circ) + k \cdot 360^\circ$<br>$3x = 100^\circ - k \cdot 360^\circ \text{ or } 110^\circ - 2x = 170^\circ - x + k \cdot 360^\circ$<br>$x = 33,33^\circ - k \cdot 120^\circ \text{ or } x = -60^\circ - k \cdot 360^\circ ; k \in \mathbb{Z}$ | $\checkmark \text{ equating}$<br>$\checkmark \text{ co ratio}$<br>$\checkmark 80^\circ - x \quad \checkmark 280^\circ + x$<br>$\checkmark \text{ simplification}$<br>$\checkmark x = 33,33^\circ + k \cdot 120^\circ$<br>$\checkmark x = 300^\circ + k \cdot 360^\circ ; k \in \mathbb{Z}$<br><br><br><br><br><br> (7) |
+| | | | **[18]** |
+
+---
+
+### **QUESTION / VRAAG 6**
+
+```
+              y
+             /
+            /        g
+          f/       ---
+          /       /   \
+–180°    /       /     \    180°
+--------/-------0-------+-------- x
+       /       \       /
+      /         \_____/
+     /             T
+```
+
+| 6.1 | $\text{Period} = 720^\circ$ | $\checkmark \text{ answer}$ | (1) |
+| :--- | :--- | :--- | :--- |
+| 6.2 | $y \in [-2 ; 2]$<br><br>**OR/OF**<br>$-2 \le y \le 2$ | $\checkmark\checkmark$ answer<br><br><br>$\checkmark\checkmark$ answer | (2)<br><br>(2) |
+| 6.3 | $f(-120^\circ) - g(-120^\circ)$<br>$= -3\sin\left(-\frac{120^\circ}{2}\right) - 2\cos(-120^\circ - 60^\circ)$<br>$= \frac{4 + 3\sqrt{3}}{2} \text{ or } 4,60 \text{ (4,5980...)}$ | $\checkmark x = -120^\circ$<br>$\checkmark \text{ substitution}$<br>$\checkmark \text{ answer}$ | (3) |
+| 6.4.1 | $x\text{-intercepts of } g \text{ at } -90^\circ + 60^\circ = -30^\circ \text{ and } 90^\circ + 60^\circ = 150^\circ$<br>$\therefore x \in (-30^\circ ; 150^\circ)$<br><br>**OR/OF**<br>$x\text{-intercepts of } g \text{ at } -90^\circ + 60^\circ = -30^\circ \text{ and } 90^\circ + 60^\circ = 150^\circ$<br>$-30^\circ < x < 150^\circ$ | $\checkmark \text{ value}$<br>$\checkmark \text{ value}$<br>$\checkmark \text{ answer}$<br><br><br><br><br> (3) |
+| 6.4.2 | $x \in [-180^\circ ; -120^\circ) \cup (-30^\circ ; 60^\circ) \cup (150^\circ ; 180^\circ]$<br><br>**OR/OF**<br>$-180^\circ \le x < -120^\circ \text{ or } -30^\circ < x < 60^\circ \text{ or } 150^\circ < x \le 180^\circ$ | $\checkmark [-180^\circ ; -120^\circ)$<br>$\checkmark (-30^\circ ; 60^\circ)$<br>$\checkmark (150^\circ ; 180^\circ]$<br>$\checkmark \text{ notation for inclusive in the first/last interval}$<br><br>*(1 mark: each interval)* | (4)<br><br><br><br> (4) |
+| | | | **[13]** |
+
+---
+
+### **QUESTION / VRAAG 7**
+
+```
+                 P
+               / | \
+              /  |  \
+             /   | x \
+            /    |    \
+           /     M     \
+          / θ         θ \
+         Q----—------—---R
+               12x
+```
+
+| 7.1 | $\text{In } \Delta PMQ : \tan \theta = \frac{x}{QM}$<br>$\therefore QM = \frac{x}{\tan \theta}$<br><br>**OR/OF**<br>$\frac{x}{\sin \theta} = \frac{MQ}{\sin P}$<br>$MQ = \frac{x \sin P}{\sin \theta} = \frac{x \cos \theta}{\sin \theta} = \frac{x}{\tan \theta}$ | $\checkmark \text{ trig ratio}$<br>$\checkmark \text{ answer}$<br><br><br>$\checkmark \text{ sine rule}$<br>$\checkmark \text{ answer}$ | (2)<br><br>(2) |
+| :--- | :--- | :--- | :--- |
+| 7.2 | $\text{In } \Delta PMR : \tan \theta = \frac{x}{MR} \quad \text{OR} \quad \Delta PMQ \equiv \Delta PMR \text{ [AAS/HHS]}$<br>$\therefore MR = \frac{x}{\tan \theta} = QM$<br>$Q\hat{M}R = 180^\circ - 2\beta$<br>$\frac{MR}{\sin \beta} = \frac{12x}{\sin Q\hat{M}R}$<br>$\frac{x}{\tan \theta} \cdot \frac{1}{\sin \beta} = \frac{12x}{\sin(180^\circ - 2\beta)}$<br>$\tan \theta = \frac{\sin 2\beta}{12x} \cdot \frac{x}{\sin \beta}$<br>$\tan \theta = \frac{2\sin \beta \cos \beta}{12x} \cdot \frac{x}{\sin \beta}$<br>$\tan \theta = \frac{\cos \beta}{6}$<br><br>**OR/OF**<br>$MR^2 = QM^2 + QR^2 - 2QM \cdot QR \cos \beta$<br>$MR^2 = \left(\frac{x}{\tan \theta}\right)^2 + (12x)^2 - 2\left(\frac{x}{\tan \theta}\right)(12x)(\cos \beta)$<br>$\dots$<br>$\cos \beta = 6\tan \theta$<br>$\tan \theta = \frac{\cos \beta}{6}$ | $\checkmark MR = QM$<br>$\checkmark \text{ correct substitution into the sine rule in } \Delta QMR$<br>$\checkmark \text{ reduction}$<br>$\checkmark \text{ double angle}$<br><br><br><br><br><br>$\checkmark \text{ correct substitution into the cosine rule in } \Delta QMR$<br>$\checkmark \text{ substitution}$<br>$\checkmark MR = QM$<br>$\checkmark \text{ simplification}$ | (4)<br><br><br><br>(4) |
+| 7.3 | $\frac{x}{QM} = \frac{\cos \beta}{6} \quad [\text{both equal } \tan \theta]$<br>$\frac{x}{60} = \frac{\cos 40^\circ}{6}$<br>$x = 7,66$<br>$\text{The height of the lighthouse is } 8 \text{ metres}$ | $\checkmark \text{ equating}$<br>$\checkmark \text{ subst. } QM = 60 \text{ and } \beta = 40^\circ$<br>$\checkmark \text{ answer}$ | (3) |
+| | | | **[9]** |
+
+---
+
+### **QUESTION / VRAAG 8**
+
+| 8.1.1 | $\hat{G} = x \quad [\angle \text{ centre} = 2 \times \text{ circumference} / \text{midpts} \angle = 2 \times \text{omtreks} \angle]$<br>$\hat{H}_1 = x \quad [\text{alt } \angle s / \text{verwiss } \angle e ; KH \parallel GJ]$<br>$J\hat{H}G = x \quad [\text{tan chord theorem} / \text{raaklyn koordstelling}]$ | $\checkmark S \quad \checkmark R$<br>$\checkmark S$<br>$\checkmark S \quad \checkmark R$ | (5) |
+| :--- | :--- | :--- | :--- |
+| 8.1.2 | $\hat{J}_1 + \hat{H}_3 = 180^\circ - 2x \quad [\text{sum of } \angle s \text{ in } \Delta / \text{som van } \angle e \text{ in } \Delta]$<br>$\therefore \hat{J}_1 = \hat{H}_3 = 90^\circ - x \quad [\angle s \text{ opp equal sides} / \angle e \text{ teenoor gelyke sye}]$<br>$x + \hat{H}_2 = 90^\circ \quad \text{OR} \quad [\text{tan} \perp \text{radius} / \text{raaklyn} \perp \text{radius}]$<br>

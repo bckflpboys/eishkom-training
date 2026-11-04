@@ -1,0 +1,209 @@
+**NASIONALE SENIOR SERTIFIKAAT**
+**GRAAD 10**
+
+**WISKUNDE V1**
+**NOVEMBER 2015**
+
+**PUNTE:** 100  
+**TYD:** 2 uur  
+
+Hierdie vraestel bestaan uit 7 bladsye.
+
+---
+
+### INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies aandagtig deur voordat jy die vrae beantwoord.
+
+1. Hierdie vraestel bestaan uit 8 vrae.
+2. Beantwoord AL die vrae.
+3. Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie vraestel gebruik is.
+4. Dui ALLE berekeninge, diagramme, grafieke ensovoorts wat jy gebruik het om jou antwoorde te bepaal, duidelik aan.
+5. Volpunte sal nie noodwendig aan slegs antwoorde toegeken word.
+6. Jy mag 'n goedgekeurde wetenskaplike sakrekenaar (nieprogrammeerbaar en niegrafies) gebruik, tensy anders aangedui.
+7. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders aangedui.
+8. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+9. Skryf netjies en leesbaar.
+
+---
+
+### VRAAG 1
+
+1.1 Faktoriseer die volgende uitdrukkings volledig:
+
+$$\text{1.1.1} \quad x^4 - 81$$ \hfill (2)
+
+$$\text{1.1.2} \quad 6x^2y - 10xy + 15x - 25$$ \hfill (3)
+
+1.2 Vereenvoudig die volgende uitdrukkings volledig:
+
+$$\text{1.2.1} \quad \frac{3}{a - 4} + \frac{2}{a + 3} - \frac{21}{a^2 - a - 12}$$ \hfill (5)
+
+$$\text{1.2.2} \quad \frac{10^{2x+3} \cdot 4^{1-x}}{25^{2+x}}$$ \hfill (4)
+
+1.3 Beskou die volgende getalle: $\sqrt{27} ; \sqrt[3]{-27} ; \sqrt{-27}$.
+
+Watter EEN van hierdie getalle is:
+
+$$\text{1.3.1} \quad \text{Irrasionaal}$$ \hfill (1)
+
+$$\text{1.3.2} \quad \text{Nie-reëel}$$ \hfill (1)  
+$$\text{[16]}$$
+
+---
+
+### VRAAG 2
+
+2.1 Los op vir $x$:
+
+$$\text{2.1.1} \quad 15x^2 - 8 = 14x$$ \hfill (4)
+
+$$\text{2.1.2} \quad 5^x = \frac{1}{125}$$ \hfill (2)
+
+2.2 Die volgende ongelykheid word gegee: $3(x + 7) < \frac{x}{2} + 1$
+
+$$\text{2.2.1} \quad \text{Los } x \text{ in die ongelykheid op.}$$ \hfill (3)
+
+$$\text{2.2.2} \quad \text{Stel jou antwoord op VRAAG 2.2.1 op 'n getallelyn voor.}$$ \hfill (1)
+
+2.3 Mary gee een derde van haar geld aan Nazeem en een vyfde van haar geld aan Elwethu. Elwethu ontvang R28 minder as Nazeem. Hoeveel geld het Mary oorspronklik gehad? \hfill (4)  
+$$\text{[14]}$$
+
+---
+
+### VRAAG 3
+
+3.1 Die lineêre getalpatroon word gegee: $8 ; 3 ; -2 ; \dots$
+
+$$\text{3.1.1} \quad \text{Skryf die VOLGENDE TWEE terme van die patroon neer.}$$ \hfill (2)
+
+$$\text{3.1.2} \quad \text{Bepaal die } n^{\text{de}} \text{ term van die patroon.}$$ \hfill (2)
+
+$$\text{3.1.3} \quad \text{Bereken } T_{30} \text{, die dertigste term van die patroon.}$$ \hfill (2)
+
+$$\text{3.1.4} \quad \text{Watter term van die patroon is gelyk aan } -492\text{?}$$ \hfill (2)
+
+3.2 Die eerste vier terme van PATROON A en PATROON B word in die tabel hieronder getoon:
+
+| Posisie van term ($n$) | 1 | 2 | 3 | 4 |
+| :--- | :---: | :---: | :---: | :---: |
+| **PATROON A** | 1 | 3 | 5 | 7 |
+| **PATROON B** | 1 | 9 | 25 | 49 |
+
+$$\text{3.2.1} \quad \text{Bepaal 'n algemene formule vir die } n^{\text{de}} \text{ term van PATROON A.}$$ \hfill (2)
+
+$$\text{3.2.2} \quad \text{Vervolgens, of andersins, bepaal 'n algemene formule vir die } n^{\text{de}} \text{ term van PATROON B.}$$ \hfill (1)
+
+$$\text{3.2.3} \quad \text{Bepaal vervolgens 'n algemene formule vir die patroon } 0 ; -6 ; -20 ; -42 \dots \text{ Vereenvoudig jou antwoord sover as moontlik.}$$ \hfill (4)  
+$$\text{[15]}$$
+
+---
+
+### VRAAG 4
+
+$f(x) = -2x^2 + 2$ en $g(x) = 2^x + 1$ is die vergelykings wat die grafieke van $f$ en $g$ onderskeidelik definieer.
+
+4.1 Skryf 'n vergelyking vir die asimptoot van $g$ neer. \hfill (1)
+
+4.2 Skets die grafieke van $f$ en $g$ op dieselfde assestelsel en dui ALLE afsnitte met die asse, draaipunte en asimptote duidelik aan. \hfill (6)
+
+4.3 Skryf die waardeversameling van $f$ neer. \hfill (1)
+
+4.4 Bepaal die maksimum waarde van $h$ as $h(x) = 3^{f(x)}$. \hfill (2)
+
+4.5 Watter transformasie ondergaan die grafiek van $y = f(x)$ ten einde die grafiek van $y = 2x^2 - 2$ te verkry? \hfill (2)  
+$$\text{[12]}$$
+
+---
+
+### VRAAG 5
+
+Die skets hieronder dui $f$ en $g$, die grafieke van $f(x) = \frac{1}{x} - 1$ en $g(x) = ax + q$ onderskeidelik aan.  
+Punt $\text{A}(-1 ; -4)$ en $\text{B}(3 ; 4)$ lê op die grafiek van $g$.  
+Die twee grafieke sny by punt $C$ en $D$.  
+Lyn $BE$ is ewewydig aan die $y$-as, geskets, met $E$ op $f$.
+
+[DIAGRAM: A Cartesian plane with $x$ and $y$ axes. Hyperbola $f(x) = \frac{1}{x} - 1$ with asymptote $y = -1$ in quadrants 2 and 4. Straight line $g(x) = ax + q$ passing through $\text{A}(-1; -4)$ and $\text{B}(3; 4)$ with a positive gradient. The line cuts the hyperbola at points $C$ and $D$. A vertical dashed line $BE$ goes from $B(3,4)$ down to the horizontal asymptote $y = -1$ where $E$ lies on $f$.]
+
+5.1 Toon aan dat $a = 2$ en $q = -2$. \hfill (2)
+
+5.2 Bepaal die waardes van $x$ waarvoor $f(x) = g(x)$. \hfill (4)
+
+5.3 Vir watter waardes van $x$ is $g(x) \ge f(x)$? \hfill (3)
+
+5.4 Bereken die lengte van $BE$. \hfill (3)
+
+5.5 Skryf 'n vergelyking van $h$ neer as $h(x) = f(x) + 3$. \hfill (1)  
+$$\text{[13]}$$
+
+---
+
+### VRAAG 6
+
+Gegee: $\quad f(x) = ax^2 + c$  
+$f$ sny die $x$-as by $(d - 5)$ en $(d - 1)$, waar $d \in \mathbb{R}$.
+
+6.1 Bepaal die waarde van $d$. \hfill (2)
+
+6.2 Bepaal die waardes van $a$ en $c$ as dit ook gegee word dat $f(1) = -9$. \hfill (4)  
+$$\text{[6]}$$
+
+---
+
+### VRAAG 7
+
+Zach hou daarvan om te reis. Hy het $\text{R 5 } 000$ gespaar as sakgeld vir sy vakansie in Australië aan die einde van 2015.
+
+7.1 Zach soek die wisselkoers op die Internet op. Gebruik die inligting in die tabel hieronder en bereken hoeveel Australiese dollar Zach vir $\text{R } 5\ 000$ kan koop.
+
+**SUID-AFRIKAANSE RANDKOERSTABEL**
+
+| BUITELANDSE GELDEENHEID | EKWIVALENTE WAARDE VAN R1 | RAND-EKWIVALENT VAN 1 EENHEID VAN GELDEENHEID |
+| :--- | :---: | :---: |
+| VSA-dollar | 0,083130 | 12,029313 |
+| Euro | 0,074048 | 13,504730 |
+| Britse pond | 0,053877 | 18,560961 |
+| Australiese dollar | 0,105058 | 9,518569 |
+
+\hfill (2)
+
+7.2 Zach beplan om aan die einde van 2018 weer na Australië te reis.
+
+$$\text{7.2.1} \quad \text{Aanvaar dat die gemiddelde jaarlikse inflasiekoers in Suid-Afrika } 6,1\% \text{ in die volgende } 3 \text{ jaar sal wees. Watter bedrag geld sal in } 2018 \text{ ekwivalent aan die waarde van } \text{R } 5\ 000 \text{ tans wees?}$$ \hfill (3)
+
+$$\text{7.2.2} \quad \text{Zach beplan om op } 1 \text{ Desember } 2016 \text{ en op } 1 \text{ Desember } 2017 \text{ gelyke bedrae in 'n spaarrekening te belê om teen } 1 \text{ Desember } 2018 \text{ R } 5\ 980 \text{ bymekaar te hê. Indien hierdie rekening rente verdien teen 'n koers van } 9\% \text{ p.j. jaarliks saamgestel, hoeveel geld moet Zach elke keer in die rekening deponeer?}$$ \hfill (4)  
+$$\text{[9]}$$
+
+---
+
+### VRAAG 8
+
+8.1 By 'n sekere skool is daar $64$ seuns in graad 10. Hulle sportvoorkeure word hieronder aangedui:
+
+* $24$ seuns speel sokker
+* $28$ seuns speel rugby
+* $10$ seuns speel beide sokker en rugby
+* $22$ seuns speel nie sokker of rugby nie
+
+$$\text{8.1.1} \quad \text{Stel die inligting hierbo in 'n Venn-diagram voor.}$$ \hfill (5)
+
+$$\text{8.1.2} \quad \text{Bereken die waarskynlikheid dat 'n graad 10-seun by die skool, wat willekeurig gekies word:}$$
+
+$$\text{(a)} \quad \text{Sokker en rugby speel}$$ \hfill (1)
+
+$$\text{(b)} \quad \text{Sokker of rugby speel}$$ \hfill (1)
+
+$$\text{8.1.3} \quad \text{Is die gebeurtenisse 'n graad 10-seun speel sokker by die skool en 'n graad 10-seun speel rugby by die skool, onderling uitsluitend? Motiveer jou antwoord.}$$ \hfill (2)
+
+8.2 Samuel het een oggend 'n opname in sy woongebied gedoen om vas te stel hoeveel passasiers, die bestuurder uitgesluit, in 'n kar ry. Die resultate word in die tabel hieronder aangetoon:
+
+| Getal passasiers, bestuurder uitgesluit | 0 | 1 | 2 | 3 | 4 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| Getal karre | 7 | 11 | 6 | 5 | 1 |
+
+Bereken die waarskynlikheid dat daar meer as twee passasiers in 'n kar is, die bestuurder uitgesluit. \hfill (3)
+
+8.3 As jy twee dobbelstene tegelykertyd gooi, is die waarskynlikheid dat 'n ses op een van die dobbelstene sal verskyn $\frac{10}{36}$ en die waarskynlikheid dat 'n ses op beide die dobbelstene sal verskyn, is $\frac{1}{36}$. Wat is die waarskynlikheid dat 'n ses $\text{NIE}$ op een van die dobbelstene sal verskyn wanneer jy twee dobbelstene gelyktydig gooi NIE? \hfill (3)  
+$$\text{[15]}$$
+
+**TOTAAL: 100**

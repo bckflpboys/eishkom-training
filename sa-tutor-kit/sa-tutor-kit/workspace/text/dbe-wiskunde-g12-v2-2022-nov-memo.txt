@@ -1,0 +1,165 @@
+# NATIONAL SENIOR CERTIFICATE / NASIONALE SENIOR SERTIFIKAAT
+
+**GRADE/GRAAD 12**
+
+**MATHEMATICS P2 / WISKUNDE V2**
+
+**NOVEMBER 2022**
+
+**MARKING GUIDELINES / NASIENRIGLYNE**
+
+**MARKS/PUNTE: 150**
+
+---
+
+## NOTE:
+* If a candidate answers a question TWICE, only mark the FIRST attempt.
+* If a candidate has crossed out an attempt of a question and not redone the question, mark the crossed out version.
+* Consistent accuracy applies in ALL aspects of the marking memorandum. Stop marking at the second calculation error.
+* Assuming answers/values in order to solve a problem is NOT acceptable.
+
+## NOTA:
+* As 'n kandidaat 'n vraag TWEE KEER beantwoord, merk slegs die EERSTE poging.
+* As 'n kandidaat 'n antwoord van 'n vraag doodtrek en nie oordoen nie, merk die doodgetrekte poging.
+* Volgehoue akkuraatheid word in ALLE aspekte van die memorandum toegepas. Hou op nasien by die tweede berekeningsfout.
+* Aanvaar van antwoorde/waardes om 'n probleem op te los, word NIE toegelaat nie.
+
+---
+
+### GEOMETRY / MEETKUNDE
+
+| | |
+| :---: | :--- |
+| **S** | A mark for a correct statement<br>(A statement mark is independent of a reason)<br><br>'n Punt vir 'n korrekte bewering<br>('n Punt vir 'n bewering is onafhanklik van die rede) |
+| **R** | A mark for the correct reason<br>(A reason mark may only be awarded if the statement is correct)<br><br>'n Punt vir 'n korrekte rede<br>('n Punt word slegs vir die rede toegeken as die bewering korrek is) |
+| **S/R** | Award a mark if statement AND reason are both correct<br><br>Ken 'n punt toe as die bewering EN rede beide korrek is |
+
+---
+
+## QUESTION/VRAAG 1
+
+**SCATTER PLOT / SPREIDIAGRAM**
+
+| Popularity score ($x$) / Gewildheidspunt ($x$) | 32 | 89 | 35 | 82 | 50 | 59 | 81 | 40 | 79 | 65 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Number of votes ($y$) / Getal stemme ($y$) | 9 | 22 | 10 | 21 | 11 | 15 | 20 | 12 | 19 | 16 |
+
+| 1.1.1 | $\bar{y} = \frac{155}{10}$<br>$= 15,5$ | $\begin{array}{l} \checkmark 155 \\ \checkmark \text{answer} \end{array}$ (2) |
+| :---: | :--- | :--- |
+| 1.1.2 | $\text{SD} = 4,59$ | $\checkmark \text{answer}$ (1) |
+| 1.2 | $\bar{y} - \text{SD}$<br>$= 15,5 - 4,59$<br>$= 10,91$<br>$\therefore 10 - 2 = 8 \text{ learners}$ | $\begin{array}{l} \checkmark \text{value of } \bar{y} - \text{SD} \\ \checkmark \text{answer} \end{array}$ (2) |
+| 1.3 | $a = 1,7709\dots$<br>$b = 0,2243\dots$<br>$\hat{y} = 1,77 + 0,22x$ | $\begin{array}{l} \checkmark a \\ \checkmark b \\ \checkmark \text{equation} \end{array}$ (3) |
+| 1.4 | $\hat{y} = 1,77 + 0,22(72)$<br>$= 17,61$<br>$\approx 18 \text{ votes}$<br><br>**OR/OF**<br>$\hat{y} = 17,92 \approx 18 \text{ votes}$ | $\begin{array}{l} \checkmark \text{substitution} \\ \checkmark \text{answer} \end{array}$<br><br>$\checkmark\checkmark \text{answer}$ (2) |
+| 1.5.1 | Points are all scattered therefore low correlation and unrealistic prediction.<br>/ Punte is versprei daarom 'n lae korrelasie en onrealistiese voorspelling. | $\checkmark \text{R}$ (1) |
+| 1.5.2 | $r = 0,98$ / correlation very strong / korrelasie baie sterk<br>$\therefore$ a reliable prediction / 'n betroubare voorspelling | $\checkmark \text{S}$ (1) |
+
+**[12]**
+
+---
+
+## QUESTION/VRAAG 2
+
+**OGIVE / OGIEF**
+
+| 2.1 | $60 \text{ employees}$ | $\checkmark \text{answer (A)}$ (1) |
+| :---: | :--- | :--- |
+| 2.2 | $20 < x \le 25$ | $\checkmark \text{answer}$ (1) |
+| 2.3 | $60 - 34$<br>$= 26 \text{ employees}$ | $\begin{array}{l} \checkmark 34 \\ \checkmark \text{answer} \end{array}$ (2) |
+| 2.4 | $\text{Salary} = \frac{100}{7} \times 2400$<br>$\text{Salary} = \text{R}34\ 285,71$ | $\begin{array}{l} \checkmark \text{method} \\ \checkmark \text{answer} \end{array}$ (2) |
+| 2.5 | $\therefore$ Ogive/Cumulative frequency graph will shift to the right/will become steeper.<br>/ $\therefore$ Ogief/Kumulatiewe frekwensie grafiek sal na regs skuif/sal steiler wees. | $\checkmark\checkmark \text{answer}$ (2) |
+
+**[8]**
+
+---
+
+## QUESTION/VRAAG 3
+
+| 3.1.1 | $m_{AB} = \frac{2 - (-4)}{4 - 6} \quad \textbf{OR} \quad m_{AB} = \frac{-4 - 2}{6 - 4}$<br>$m_{AB} = -3$ | $\begin{array}{l} \checkmark \text{substitution} \\ \checkmark \text{answer} \end{array}$ (2) |
+| :---: | :--- | :--- |
+| 3.1.2 | $\tan\alpha = m_{AB} = -3$<br>$\alpha = 108,43^\circ$ | $\begin{array}{l} \checkmark \tan\alpha = m_{AB} = -3 \\ \checkmark \text{answer} \end{array}$ (2) |
+| 3.1.3 | $T\left(\frac{x_1 + x_2}{2} ; \frac{y_1 + y_2}{2}\right)$<br>$T\left(\frac{-2 + 6}{2} ; \frac{-3 - 4}{2}\right)$<br>$T\left(2 ; \frac{-7}{2}\right)$ | $\checkmark x_T = 2 \quad \checkmark y_T = \frac{-7}{2}$ (2) |
+| 3.1.4 | $5(0) - 6y = 8$<br>$y = -\frac{4}{3}$<br>$S\left(0 ; -\frac{4}{3}\right)$ | $\begin{array}{l} \checkmark x_S = 0 \\ \checkmark y_S = -\frac{4}{3} \end{array}$ (2) |
+| 3.2 | $m_{CD} = m_{AB} = -3$<br>$-3 = -3(-2) + c \quad \textbf{OR} \quad y - (-3) = -3(x - (-2))$<br>$c = -9$<br>$y = -3x - 9$ | $\begin{array}{l} \checkmark \text{gradient} \\ \checkmark \text{substitution of } C(-2 ; -3) \\ \checkmark \text{equation} \end{array}$ (3) |
+
+---
+
+| 3.3.1 | $5x - 6y = 8$<br>$y = \frac{5}{6}x - \frac{8}{6}$<br>$\tan\theta = m_{AC} = \frac{5}{6}$<br>$\theta = 39,81^\circ$<br>$\hat{A} = 108,43^\circ - 39,81^\circ$<br>$\phantom{\hat{A}} = 68,62^\circ$<br>$D\hat{C}A = 68,62^\circ \quad [\text{alt } \angle\text{s} ; DC \parallel AB]$ | $\begin{array}{l} \checkmark \tan\theta = m_{AC} = \frac{5}{6} \\ \checkmark \theta = 39,81^\circ \\ \checkmark \hat{A} = 68,62^\circ \\ \checkmark \text{answer} \end{array}$ (4) |
+| :---: | :--- | :--- |
+| 3.3.2 | $P(-3 ; 0) \text{ and } F(1,6 ; 0)$<br>$\text{Area } POSC = \text{Area } \Delta FPC - \text{Area } \Delta OFS$<br>$= \frac{1}{2}(4,6)(3) - \frac{1}{2}(1,6)\left(\frac{4}{3}\right)$<br>$= 6,9 - 1,07$<br>$= 5,83 \text{ units}^2$<br><br>**OR/OF**<br>$P(-3 ; 0)$<br>$FC = \sqrt{\left(-2 - \frac{8}{5}\right)^2 + (-3 - 0)^2} = \frac{3\sqrt{61}}{5}$<br>$\text{Area } \Delta PFC = \frac{1}{2}(PF)(FC)\sin O\hat{F}S$<br>$= \frac{1}{2}\left(\frac{23}{5}\right)\left(\frac{3\sqrt{61}}{5}\right)\sin 39,81^\circ$<br>$= 6,90$<br>$\text{Area } \Delta OFS = \frac{1}{2}\left(\frac{8}{5}\right)\left(\frac{4}{3}\right)$<br>$= 1,07$<br>$\text{Area } POSC = 6,90 - 1,07$<br>$= 5,83 \text{ units}^2$ | $\begin{array}{l} \checkmark P(-3 ; 0) \\ \checkmark \text{method} \\ \checkmark \frac{1}{2}(4,6)(3) \\ \checkmark \frac{1}{2}(1,6)\left(\frac{4}{3}\right) \\ \checkmark \text{answer} \end{array}$<br><br><br><br><br><br><br><br><br><br><br>$\begin{array}{l} \checkmark P(-3 ; 0) \\ \checkmark \frac{1}{2}\left(\frac{23}{5}\right)\left(\frac{3\sqrt{61}}{5}\right)\sin 39,81^\circ \\ \checkmark \frac{1}{2}\left(\frac{8}{5}\right)\left(\frac{4}{3}\right) \\ \checkmark \text{method} \\ \checkmark \text{answer} \end{array}$ (5) |
+
+**[20]**
+
+---
+
+## QUESTION/VRAAG 4
+
+| 4.1 | $P(x ; y) ; N(7 ; -2) ; M(3 ; -5)$<br>$\frac{x + 7}{2} = 3 \quad ; \quad \frac{y - 2}{2} = -5$<br>$x = -1 \quad ; \quad y = -8$<br>$P(-1 ; -8)$ | $\begin{array}{l} \checkmark x_P = -1 \quad \checkmark y_P = -8 \end{array}$ (2) |
+| :---: | :--- | :--- |
+| 4.2.1 | $r^2 = (7 - 3)^2 + (-2 - (-5))^2 \quad \textbf{OR/OF} \quad r^2 = (-1 - 3)^2 + (-8 - (-5))^2$<br>$r^2 = 25$<br>$(x - 3)^2 + (y + 5)^2 = 25$ | $\begin{array}{l} \checkmark \text{substitution into distance formula} \\ \checkmark (x - 3)^2 + (y + 5)^2 \\ \checkmark r^2 = 25 \end{array}$ (3) |
+| 4.2.2 | $m_{\text{radius}} = \frac{-5 - (-2)}{3 - 7} = \frac{3}{4}$<br>$m_{\text{tangent}} = -\frac{4}{3} \quad [\text{radius} \perp \text{tangent} / \text{raaklyn} \perp \text{radius}]$<br>$-2 = -\frac{4}{3}(7) + c \quad \textbf{OR} \quad y - (-2) = -\frac{4}{3}(x - 7)$<br>$c = \frac{22}{3}$<br>$y = -\frac{4}{3}x + \frac{22}{3}$ | $\begin{array}{l} \checkmark \text{substitution} \\ \checkmark m_{\text{radius}} = \frac{-5 - (-2)}{3 - 7} = \frac{3}{4} \\ \checkmark m_{\text{tangent}} = -\frac{4}{3} \\ \checkmark \text{substitution of } m \text{ and } N(7 ; -2) \\ \checkmark \text{equation} \end{array}$ (5) |
+| 4.3 | $-8 = -\frac{4}{3}(-1) + c$<br>$\therefore c = -\frac{28}{3}$<br>$-\frac{28}{3} < k < \frac{22}{3}$ | $\begin{array}{l} \checkmark \text{subst } m \text{ and } P \\ \checkmark \text{value of } c \\ \checkmark\checkmark \text{answer} \end{array}$ (4) |
+| 4.4.1 | $AB^2 = AM^2 - MB^2$<br>$AB^2 = \left[(t - 3)^2 + (t + 5)^2\right] - 5^2$<br>$= t^2 - 6t + 9 + t^2 + 10t + 25 - 25$<br>$AB = \sqrt{2t^2 + 4t + 9}$ | $\begin{array}{l} \checkmark \text{substitution into Pythagoras} \\ \checkmark \text{simplification (A)} \end{array}$ (2) |
+| 4.4.2 | $t = \frac{-4}{2(2)} = -1$<br>$\text{Minimum at } t = -1$<br>$AB = \sqrt{2(-1)^2 + 4(-1) + 9}$<br>$AB = \sqrt{7}$<br><br>**OR/OF**<br>$4t + 4 = 0$<br>$t = -1$<br>$\text{Minimum at } t = -1$<br>$AB = \sqrt{2(-1)^2 + 4(-1) + 9}$<br>$AB = \sqrt{7}$<br><br>**OR/OF**<br>$\text{Length of } AB = \sqrt{2t^2 + 4t + 9}$<br>$= \sqrt{2\left(t^2 + 2t + \frac{9}{2}\right)}$<br>$= \sqrt{2\left((t + 1)^2 + \frac{7}{2}\right)}$<br>$= \sqrt{2(t + 1)^2 + 7}$<br>$\text{Minimum at } t = -1$<br>$AB = \sqrt{2(-1)^2 + 4(-1) + 9}$<br>$AB = \sqrt{7}$ | $\begin{array}{l} \checkmark \text{substitution into correct formula} \\ \checkmark t = -1 \\ \checkmark \text{substitution} \\ \checkmark \text{answer} \end{array}$<br><br><br>$\begin{array}{l} \checkmark \text{derivative} = 0 \\ \checkmark t = -1 \\ \checkmark \text{substitution} \\ \checkmark \text{answer} \end{array}$<br><br><br>$\begin{array}{l} \checkmark \text{completing of the square} \\ \checkmark t = -1 \\ \checkmark \text{substitution} \\ \checkmark \text{answer} \end{array}$ (4) |
+
+**[20]**
+
+---
+
+## QUESTION/VRAAG 5
+
+| 5.1.1 | $\sin(360^\circ + x)$<br>$= \sin x$ | $\checkmark + \checkmark \sin x$ (2) |
+| :---: | :--- | :--- |
+| 5.1.2 | $x-\text{coordinate} = \sqrt{(\sqrt{13})^2 - (-3)^2}$<br>$= -2$<br>$\tan x = \frac{-3}{-2} = \frac{3}{2}$<br><br>**OR/OF**<br>$x-\text{coordinate} = \sqrt{(\sqrt{13})^2 - (-3)^2}$<br>$= 2$<br>$\tan x = \frac{3}{2}$ | $\begin{array}{l} \checkmark\checkmark \text{substitution} \\ \checkmark \text{method} \end{array}$<br><br><br><br>$\begin{array}{l} \checkmark\checkmark \text{substitution} \\ \checkmark \text{method} \end{array}$ (3) |
+| 5.1.3 | $\cos(180^\circ + x)$<br>$= -\cos x$ | $\checkmark - \checkmark \cos x$ (2) |
+| 5.2 | $\frac{\cos(90^\circ + \theta)}{\sin(\theta - 180^\circ) + 3\sin(-\theta)}$<br>$= \frac{-\sin\theta}{\sin(- (180^\circ - \theta)) - 3\sin\theta}$<br>$= \frac{-\sin\theta}{-\sin\theta - 3\sin\theta}$<br>$= \frac{-\sin\theta}{-4\sin\theta}$<br>$= \frac{1}{4}$ | $\begin{array}{l} \checkmark -\sin\theta \\ \checkmark -3\sin\theta \\ \checkmark -\sin\theta \\ \checkmark \text{simplification} \\ \checkmark \text{answer} \end{array}$ (5) |
+
+---
+
+| 5.3 | $(\cos x + 2\sin x)(3\sin 2x - 1) = 0$<br>$\cos x + 2\sin x = 0 \quad \textbf{or} \quad 3\sin 2x - 1 = 0$<br>$\tan x = -\frac{1}{2} \quad \sin 2x = \frac{1}{3}$<br>$\text{ref } \angle = 26,565\dots^\circ \quad \text{ref } \angle = 19,471\dots^\circ$<br>$x = 153,43^\circ + k \cdot 180^\circ ; k \in \mathbb{Z} \quad x = 9,74^\circ + k \cdot 180^\circ ; k \in \mathbb{Z}$<br>**OR/OF**<br>$x = 153,43^\circ + k \cdot 360^\circ ; k \in \mathbb{Z} \quad x = 80,26^\circ + k \cdot 180^\circ ; k \in \mathbb{Z}$<br>**or**<br>$x = 333,43^\circ + k \cdot 360^\circ ; k \in \mathbb{Z}$ | $\begin{array}{l} \checkmark \text{both equations} \\ \checkmark \tan x = -\frac{1}{2} \\ \checkmark \sin 2x = \frac{1}{3} \\ \checkmark x = 153,43^\circ \text{ OR } x = 153,43^\circ \ \& \ 333,43^\circ \\ \checkmark x = 9,74^\circ \ \& \ 80,26^\circ \\ \checkmark + k \cdot 180^\circ ; k \in \mathbb{Z} \end{array}$ (6) |
+| :---: | :--- | :--- |
+| 5.4.1 | $\text{LHS} = \cos(x + y)\cos(x - y)$<br>$= [\cos x\cos y - \sin x\sin y][\cos x\cos y + \sin x\sin y]$<br>$= \cos^2 x\cos^2 y - \sin^2 x\sin^2 y$<br>$= (1 - \sin^2 x)(1 - \sin^2 y) - \sin^2 x\sin^2 y$<br>$= 1 - \sin^2 x - \sin^2 y + \sin^2 x\sin^2 y - \sin^2 x\sin^2 y$<br>$= 1 - \sin^2 x - \sin^2 y = \text{RHS}$ | $\begin{array}{l} \checkmark \text{expansion} \\ \checkmark \text{simplification} \\ \checkmark \text{square identity} \\ \checkmark \text{product} \end{array}$ (4) |
+| 5.4.2 | $1 - \sin^2 45^\circ - \sin^2 15^\circ$<br>$= \cos(45^\circ + 15^\circ)\cos(45^\circ - 15^\circ)$<br>$= \cos 60^\circ \cdot \cos 30^\circ$<br>$= \left(\frac{1}{2}\right)\left(\frac{\sqrt{3}}{2}\right)$<br>$= \frac{\sqrt{3}}{4}$<br><br>**OR/OF**<br>$1 - \sin^2 45^\circ - \sin^2 15^\circ$<br>$= \sin^2 15^\circ + \cos^2 15^\circ - \sin^2 45^\circ - \sin^2 15^\circ$<br>$= \cos^2 15^\circ - \left(\frac{\sqrt{2}}{2}\right)^2$<br>$= \cos^2 15^\circ - \frac{1}{2}$<br>$= \frac{2\cos^2 15^\circ - 1}{2}$<br>$= \frac{\cos 30^\circ}{2}$<br>$= \frac{\frac{\sqrt{3}}{2}}{2}$<br>$= \frac{\sqrt{3}}{4}$<br><br>**OR**<br>$1 - \sin^2 45^\circ - \sin^2 15^\circ$<br>$= \cos^2 45^\circ - \sin^2(45^\circ - 30^\circ)$<br>$= \left(\frac{1}{\sqrt{2}}\right)^2 - (\sin 45^\circ\cos 30^\circ - \cos 45^\circ\sin 30^\circ)^2$<br>$= \frac{1}{2} - \left(\frac{1}{\sqrt{2}} \times \frac{\sqrt{3}}{2} - \frac{1}{\sqrt{2}} \times \frac{1}{2}\right)^2$<br>$= \frac{1}{2} - \left(\frac{\sqrt{3}}{2\sqrt{2}} - \frac{1}{2\sqrt{2}}\right)^2$<br>$= \frac{1}{2} - \left(\frac{3}{8} - \frac{\sqrt{3}}{4} + \frac{1}{8}\right)$<br>$= \frac{\sqrt{3}}{4}$ | $\begin{array}{l} \checkmark \text{identifying } x \text{ and } y \\ \checkmark \text{substitution} \\ \checkmark \text{answer} \end{array}$<br><br><br><br><br><br><br><br><br><br><br>$\begin{array}{l} \checkmark \text{identity} \\ \checkmark \text{substitution} \\ \checkmark \text{answer} \end{array}$<br><br><br><br><br><br><br><br><br><br>$\begin{array}{l} \checkmark \text{expansion} \\ \checkmark \text{substitution} \\ \checkmark \text{answer} \end{array}$ (3) |
+
+---
+
+| 5.5.1 | $16\sin x\cos^3 x - 8\sin x\cos x$<br>$= 8\sin x\cos x(2\cos^2 x - 1)$<br>$= 4\sin 2x(\cos 2x)$<br>$= 2\sin 4x$<br><br>**OR/OF**<br>$16\sin x\cos^3 x - 8\sin x\cos x$<br>$= 16\cos^2 x\left(\frac{1}{2}\sin 2x\right) - 8\left(\frac{1}{2}\sin 2x\right)$<br>$= 8(2\cos^2 x - 1)\left(\frac{1}{2}\sin 2x\right)$<br>$= 4\sin 2x\cos 2x$<br>$= 2\sin 4x$ | $\begin{array}{l} \checkmark \text{factorisation} \\ \checkmark 4\sin 2x \quad \checkmark \cos 2x \\ \checkmark \text{double angle} \end{array}$<br><br><br><br><br><br>$\begin{array}{l} \checkmark \text{factorisation} \\ \checkmark 4\sin 2x \quad \checkmark \cos 2x \\ \checkmark \text{double angle} \end{array}$ (4) |
+| :---: | :--- | :--- |
+| 5.5.2 | $16\sin x\cos^3 x - 8\sin x\cos x = 2\sin 4x$<br>$\text{Minimum at } x = 67,5^\circ$ | $\checkmark \text{answer}$ (1) |
+
+**[30]**
+
+---
+
+## QUESTION/VRAAG 6
+
+| 6.1 | $180^\circ$ | $\checkmark \text{answer}$ (1) |
+| :---: | :--- | :--- |
+| 6.2.1 | $k = \sqrt{3} = 1,73$ | $\checkmark \text{answer}$ (1) |
+| 6.2.2 | $B(-120^\circ ; \sqrt{3})$ | $\checkmark x = -120^\circ$ (1) |
+| 6.3 | $\text{Range of } g: \quad y \in [-2 ; 2]$<br>$\text{Range of } 2g(x): \quad y \in [-4 ; 4]$<br><br>**OR/OF**<br>$\text{Range of } g: \quad -2 \le y \le 2$<br>$\text{Range of } 2g(x): \quad -4 \le y \le 4$ | $\begin{array}{l} \checkmark y \in [-2 ; 2] \\ \checkmark \text{answer} \end{array}$<br><br>$\begin{array}{l} \checkmark -2 \le y \le 2 \\ \checkmark \text{answer} \end{array}$ (2) |
+| 6.4 | $x \in [-65^\circ ; -5^\circ]$<br><br>**OR/OF**<br>$-65^\circ \le x \le -5^\circ$ | $\checkmark\checkmark x \in [-65^\circ ; -5^\circ]$<br><br>$\checkmark\checkmark -65^\circ \le x \le -5^\circ$ (2) |
+| 6.5 | $\sin x\cos x = p$<br>$4\sin x\cos x = 4p$<br>$2\sin 2x = 4p$<br>$4p = \pm 2$<br>$\therefore p = -\frac{1}{2} \text{ or } \frac{1}{2}$ | $\begin{array}{l} \checkmark 2\sin 2x = 4p \\ \checkmark 4p = \pm 2 \\ \checkmark \text{answers} \end{array}$ (3) |
+
+**[10]**
+
+---
+
+## QUESTION/VRAAG 7
+
+| 7.1 | $AD^2 = AB^2 + BD^2$<br>$AD^2 = (\sqrt{5}p)^2 + (2p)^2$<br>$AD^2 = 9p^2$<br>$AD = 3p$ | $\begin{array}{l} \checkmark \text{substitution in Pythagoras} \\ \checkmark \text{answer} \end{array}$ (2) |
+| :---: | :--- | :--- |
+| 7.2 | $\frac{CD}{\sin(135^\circ - x)} = \frac{3p}{\sin x}$<br>$CD = \frac{3p\sin(135^\circ - x)}{\sin x}$<br>$CD = \frac{3p(\sin 135^\circ\cos x - \cos 135^\circ\sin x)}{\sin x}$<br>$CD = \frac{3p(\sin 45^\circ\cos x + \cos 45^\circ\sin x)}{\sin x}$<br>$CD = \frac{3p\left(\frac{\sqrt{2}}{2}\cos x + \frac{\sqrt{2}}{2}\sin x\right)}{\sin x}$<br>$CD = \frac{3p\frac{\sqrt{2}}{2}(\cos x + \sin x)}{\sin x}$<br>$CD = \frac{3p(\sin x + \cos x)}{\sqrt{2}\sin x}$ | $\begin{array}{l} \checkmark \text{correct use of sine rule} \\ \checkmark 135^\circ - x \\ \checkmark \text{compound angle} \\ \checkmark \text{special values} \\ \checkmark \text{factorisation} \end{array}$ (5) |
+| 7.3 | $\text{Area } \Delta ADC = \frac{1}{2}(AD)(CD)\sin A\hat{D}C$<br>$= \frac{1}{2}(3p)\left(\frac{3p(\sin x + \cos x)}{\sqrt{2}\sin x}\right)(\sin 45^\circ)$<br>$= \frac{1}{2}(30)\left(\frac{30(\sin 110^\circ + \cos 110^\circ)}{\sqrt{2}\sin 110^\circ}\right)\sin 45^\circ$<br>$= 143,11\text{m}^2$ | $\begin{array}{l} \checkmark \text{correct use of area rule} \\ \checkmark \text{substitution in area rule} \\ \checkmark \text{answer} \end{array}$ (3) |
+
+**[10]**
+
+---
+
+## QUESTION/VRAAG 8
+
+| 8.1.1 | $\hat{P} = 116^\circ \quad [\text{opp } \angle\text{s of cyclic quad} / \text{teenoorst. } \angle\text{e van kvh}]$ | $\checkmark \text{S} \quad \checkmark \text{R}$ (2) |
+| :---: | :--- | :--- |
+| 8.1.2 | $\hat{M}_1 + 64^\circ = 90^\circ \quad [\angle\text{ in semi-circle} / \angle\text{ in halwe sirkel}]$<br>$\hat{M}_1 = 26^\circ$ | $\begin{array}{l} \checkmark \text{R} \\ \checkmark \text{S} \end{array}$ (2) |
+| 8.1.3 | $\hat{O}_1 = 52^\circ \quad [\angle\text{ at centre} = 2 \times \angle\text{ at circumference} / \text{midpts. } \angle = 2 \times \text{omtreks. } \angle]$ | $\checkmark \text{S} \quad \checkmark \text{R}$ (2) |
+| 8.2.1 | $\text{Midpt theorem} / \text{Midpt. stelling}$<br><br>**OR/OF**<br>$\text{Converse prop intercept theorem}$ | $\checkmark \text{R}$<br><br>$\checkmark \text{R}$ (1) |
+| 8.2.2 | $BG = 2DE \text{ or } 6x - 2 \quad [\text{Midpt theorem} / \text{Midpt. stelling}]$<br>$BG = 6x - 2$<br>$\frac{GH}{BG} = \frac{FC}{BF} \quad [\text{line } \parallel \text{ one side of } \Delta \textbf{ OR } \text{ prop theorem; } FG \parallel CH / \text{ lyn } \parallel \text{ een sy v. } \Delta]$<br>$\frac{x + 1}{6x - 2} = \frac{1}{4}$<br>$4x + 4 = 6x - 2$<br>$2x = 6$<br

@@ -1,0 +1,357 @@
+**basic education**  
+Department:  
+Basic Education  
+REPUBLIC OF SOUTH AFRICA  
+
+**NASIONALE  
+SENIOR SERTIFIKAAT**  
+
+**GRAAD 12**  
+
+**WISKUNDE V1**  
+**NOVEMBER 2023**  
+
+**PUNTE:** 150  
+**TYD:** 3 uur  
+
+Hierdie vraestel bestaan uit 9 bladsye en 1 inligtingsblad.  
+
+Kopiereg voorbehou  
+Blaai om asseblief  
+
+---
+
+**WISKUNDE V1**  
+**2**  
+**NSS**  
+**DBE/November 2023**  
+
+### INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies noukeurig deur voordat jy die vrae beantwoord.
+
+1. Hierdie vraestel bestaan uit 10 vrae.
+2. Beantwoord AL die vrae.
+3. Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie vraestel gebruik is.
+4. Dui ALLE berekeninge, diagramme, grafieke, ens. wat jy gebruik het om jou antwoorde te bepaal, duidelik aan.
+5. Volpunte sal NIE noodwendig aan slegs antwoorde toegeken word NIE.
+6. Jy mag 'n goedgekeurde, wetenskaplike sakrekenaar (nieprogrammeerbaar en niegrafiek) gebruik, tensy anders vermeld.
+7. Indien nodig, rond antwoorde tot TWER desimale plekke af, tensy anders vermeld.
+8. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+9. 'n Inligtingsblad met formules is aan die einde van die vraestel ingesluit.
+10. Skryf netjies en leesbaar.
+
+Kopiereg voorbehou  
+Blaai om asseblief
+
+---
+
+**WISKUNDE V1**  
+**3**  
+**NSS**  
+**DBE/November 2023**  
+
+### VRAAG 1
+
+1.1 Los op vir $x$:
+
+$$1.1.1 \quad x^2 + x - 12 = 0$$ (3)
+
+$$1.1.2 \quad 3x^2 - 2x = 6 \quad (\text{antwoorde korrek tot TWEE desimale plekke})$$ (4)
+
+$$1.1.3 \quad \sqrt{2x + 1} = x - 1$$ (4)
+
+$$1.1.4 \quad x^2 - 3 > 2x$$ (4)
+
+1.2 Los gelyktydig vir $x$ en $y$ op:
+$$x + 2 = 2y \quad \text{en} \quad \frac{1}{x} + \frac{1}{y} = 1$$ (5)
+
+1.3 Gegee: $2^{m+1} + 2^m = 3^{n+2} - 3^n$ waar $m$ en $n$ heelgetalle is.
+
+Bepaal die waarde van $m + n$. (4)  
+**[24]**
+
+Kopiereg voorbehou  
+Blaai om asseblief
+
+---
+
+**WISKUNDE V1**  
+**4**  
+**NSS**  
+**DBE/November 2023**  
+
+### VRAAG 2
+
+2.1 Gegee die rekenkundige reeks: $7 + 12 + 17 + \dots$
+
+$$2.1.1 \quad \text{Bepaal die waarde van } T_{91}$$ (3)
+
+$$2.1.2 \quad \text{Bereken } S_{91}$$ (2)
+
+$$2.1.3 \quad \text{Bereken die waarde van } n \text{ waarvoor } T_n = 517$$ (3)
+
+2.2 Die volgende inligting oor 'n kwadratiese getalpatroon word gegee:
+
+$T_1 = 3, T_2 - T_1 = 9 \text{ en } T_3 - T_2 = 21$
+
+$$2.2.1 \quad \text{Toon dat } T_3 = 111$$ (2)
+
+$$2.2.2 \quad \text{Toon dat die algemene term van die kwadratiese patroon } T_n = 6n^2 - 9n + 6 \text{ is.}$$ (3)
+
+$$2.2.3 \quad \text{Toon dat die patroon stygend is vir alle } n \in \mathbb{N}.$$ (3)  
+**[16]**
+
+---
+
+### VRAAG 3
+
+3.1 Gegee die meetkundige reeks: $3 + 6 + 12 + \dots \text{ tot } n \text{ terme}$.
+
+$$3.1.1 \quad \text{Skryf die algemene term van hierdie reeks neer.}$$ (1)
+
+$$3.1.2 \quad \text{Bereken die waarde van } k \text{ sodanig dat: } \sum_{p=1}^{k} \frac{3}{2}(2)^p = 98\ 301$$ (4)
+
+3.2 'n Meetkundige ry en 'n rekenkundige ry het dieselfde eerste term.
+- Die konstante verhouding van die meetkundige ry is $\frac{1}{3}$.
+- Die konstante verskil van die rekenkundige ry is $3$.
+- Die som van $22$ terme van die rekenkundige ry is $734$ meer as die som tot oneindigheid van die meetkundige ry.
+
+Bereken die waarde van die eerste term. (5)  
+**[10]**
+
+Kopiereg voorbehou  
+Blaai om asseblief
+
+---
+
+**WISKUNDE V1**  
+**5**  
+**NSS**  
+**DBE/November 2023**  
+
+### VRAAG 4
+
+Die grafiek van $f(x) = 2^x - 4 \text{ vir } x \in [-2; 4]$ is hieronder geskets.  
+A en B is onderskeidelik die $y$- en $x$-afsnitte van $f$.
+
+[DIAGRAM: Cartesian plane showing the exponential curve $f(x) = 2^x - 4$ passing through $A(0,-3)$ on the $y$-axis and $B(2,0)$ on the $x$-axis. The domain is restricted from $x = -2$ (with a closed point at the bottom left) to $x = 4$ (with an open circle at the top right). There is a horizontal dashed asymptote below the $x$-axis.]
+
+$$4.1 \quad \text{Skryf die vergelyking van die asimptoot van } f \text{ neer.}$$ (1)
+
+$$4.2 \quad \text{Bepaal die koördinate van B.}$$ (2)
+
+$$4.3 \quad \text{Bepaal die vergelyking van } k \text{, 'n reguitlyn wat deur A en B gaan in die vorm } k(x) = \dots$$ (3)
+
+$$4.4 \quad \text{Bereken die vertikale afstand tussen } k \text{ en } f \text{ by } x = 1$$ (3)
+
+$$4.5 \quad \text{Skryf die vergelyking van } g \text{ neer indien dit gegee word dat } g(x) = f(x) + 4$$ (1)
+
+$$4.6 \quad \text{Skryf die definisieversameling van } g^{-1} \text{ neer.}$$ (2)
+
+$$4.7 \quad \text{Skryf die vergelyking van } g^{-1} \text{ in die vorm } y = \dots \text{ neer.}$$ (2)  
+**[14]**
+
+Kopiereg voorbehou  
+Blaai om asseblief
+
+---
+
+**WISKUNDE V1**  
+**6**  
+**NSS**  
+**DBE/November 2023**  
+
+### VRAAG 5
+
+Die grafieke van $f(x) = -\frac{1}{2}(x - 1)^2 + 8 \text{ en } g(x) = \frac{d}{x}$ is hieronder geskets. 'n Snypunt van $f$ en $g$ is B, die draaipunt van $f$. Die grafiek $f$ het $x$-afsnitte by $(-3; 0) \text{ en } (5; 0)$ en 'n $y$-afsnit by C.
+
+[DIAGRAM: Cartesian plane showing a parabola $f$ opening downwards with vertex B on the $y$-axis or slightly to the right, and a hyperbola $g$ in the first and third quadrants. Parabola $f$ has $x$-intercepts at $(-3,0)$ and $(5,0)$, and $y$-intercept C. The vertex B is a point of intersection of $f$ and $g$.]
+
+$$5.1 \quad \text{Skryf die koördinate van die draaipunt van } f \text{ neer.}$$ (2)
+
+$$5.2 \quad \text{Bereken die koördinate van C.}$$ (2)
+
+$$5.3 \quad \text{Bereken die waarde van } d.$$ (1)
+
+$$5.4 \quad \text{Skryf die waardeversameling van } g \text{ neer.}$$ (1)
+
+$$5.5 \quad \text{Vir watter waardes van } x \text{ sal } f(x).g(x) \le 0?$$ (3)
+
+$$5.6 \quad \text{Bereken die waardes van } k \text{ sodanig dat } h(x) = -2x + k \text{ nie die grafiek van } g \text{ sal sny nie.}$$ (5)
+
+$$5.7 \quad h \text{ is 'n raaklyn aan } g \text{ by R, 'n punt in die eerste kwadrant. Bereken } t \text{ sodanig dat } y = f(x) + t \text{ vir } g \text{ by R sny.}$$ (4)  
+**[18]**
+
+Kopiereg voorbehou  
+Blaai om asseblief
+
+---
+
+**WISKUNDE V1**  
+**7**  
+**NSS**  
+**DBE/November 2023**  
+
+### VRAAG 6
+
+6.1 Patrick het 'n bedrag van R18 500 gedeponeer in 'n rekening wat $r\%$ rente p.j. verdien, maandeliks saamgestel. Na 6 maande was sy balans R19 319,48.
+
+$$6.1.1 \quad \text{Bereken die waarde van } r.$$ (3)
+
+$$6.1.2 \quad \text{Bereken die effektiewe rentekoers.}$$ (2)
+
+6.2 Kuda het op 31 Januarie 2019 'n skootrekenaar ('laptop') vir R10 000 gekoop. Hy gaan dit oor 5 jaar, op 31 Januarie 2024, met 'n nuwe vervang.
+
+$$6.2.1 \quad \text{Die waarde van die ou skootrekenaar verminder jaarliks in waarde teen 'n koers van } 20\% \text{ p.j. volgens die reguitlyntemode. Na hoeveel jaar sal die waarde van die skootrekenaar R0 wees?}$$ (2)
+
+$$6.2.2 \quad \text{Kuda gaan 'n skootrekenaar, wat R20 000 kos, koop. Om die koopprys te kan betaal, het hy sy eerste maandelikse deposito op 28 Februarie 2019 in 'n spaarrekening gemaak. Hy sal op 31 Januarie 2024 sy } 60^{\text{ste}} \text{ maandelikse deposito maak. Die spaarrekening betaal rente teen } 8,7\% \text{ p.j., maandeliks saamgestel. Bereken Kuda se maandelikse deposito in hierdie rekening.}$$ (4)
+
+6.3 Tino wen 'n boerpot van R1 600 000. Hy belê al sy wengeld in 'n fonds wat rente verdien van $11,2\%$ p.j., maandeliks saamgestel. Hy onttrek aan die einde van elke maand R20 000 uit die fonds. Sy eerste onttrekking is presies 1 maand na sy oorspronklike belegging. Hoeveel onttrekkings van R20 000 sal Tino uit hierdie fonds kan maak? (5)  
+**[16]**
+
+---
+
+### VRAAG 7
+
+7.1 Bepaal $f'(x)$ vanuit eerste beginsels indien $f(x) = -4x^2$ (5)
+
+7.2 Bepaal:
+
+$$7.2.1 \quad f'(x) \text{ indien } f(x) = 2x^3 - 3x$$ (2)
+
+$$7.2.2 \quad D_x \left(7\sqrt[3]{x^2} + 2x^{-5}\right)$$ (3)
+
+7.3 Vir watter waardes van $x$ sal die raaklyn aan $f(x) = -2x^3 + 8x$ 'n positiewe helling hê? (3)  
+**[13]**
+
+Kopiereg voorbehou  
+Blaai om asseblief
+
+---
+
+**WISKUNDE V1**  
+**8**  
+**NSS**  
+**DBE/November 2023**  
+
+### VRAAG 8
+
+Gegee: $f(x) = -x^3 + 6x^2 - 9x + 4 = (x - 1)^2(-x + 4)$
+
+$$8.1 \quad \text{Bepaal die koördinate van die draaipunte van } f.$$ (4)
+
+$$8.2 \quad \text{Teken 'n sketsgrafiek van } f. \text{ Dui duidelik alle snypunte met die asse en enige draaipunte aan.}$$ (4)
+
+$$8.3 \quad \text{Gebruik die grafiek om die waarde(s) van } k \text{ te bepaal waarvoor } -x^3 + 6x^2 - 9x + 4 = k \text{ drie reële en ongelyke wortels sal hê.}$$ (2)
+
+$$8.4 \quad \text{Die lyn } g(x) = ax + b \text{ is die raaklyn aan } f \text{ by } f \text{ se inflexiepunt. Bepaal die vergelyking van } g.$$ (6)
+
+$$8.5 \quad \text{Bereken die waarde van } \theta \text{, die skerphoek gevorm tussen } g \text{ en die } x\text{-as in die eerste kwadrant.}$$ (2)  
+**[18]**
+
+---
+
+### VRAAG 9
+
+Die diagram hieronder stel 'n gedrukte plakkaat voor. Reghoek ABCD is die deel waarop die teks gedruk word. Hierdie ingekleurde oppervlakte ABCD is $432\text{ cm}^2$ en $\text{AD} = x\text{ cm}$. ABCD is $4\text{ cm}$ vanaf die linkerkant en regterkant van die bladsy en $3\text{ cm}$ vanaf die bokant en onderkant van die bladsy.
+
+[DIAGRAM: A large rectangular page containing a smaller shaded central rectangle ABCD. Arrows indicate margins: $3\text{ cm}$ at the top and bottom, and $4\text{ cm}$ on the left and right. The height of ABCD is labeled as $x\text{ cm}$.]
+
+$$9.1 \quad \text{Toon dat die totale oppervlakte van die bladsy gegee word deur: } A(x) = \frac{3\ 456}{x} + 6x + 480$$ (3)
+
+$$9.2 \quad \text{Bepaal die waarde van } x \text{ sodanig dat die totale oppervlakte van die bladsy 'n minimum is.}$$ (3)  
+**[16]**
+
+Kopiereg voorbehou  
+Blaai om asseblief
+
+---
+
+**WISKUNDE V1**  
+**9**  
+**NSS**  
+**DBE/November 2023**  
+
+### VRAAG 10
+
+10.1 A en B is onafhanklike gebeurtenisse. $P(A) = \frac{1}{3} \text{ en } P(B) = \frac{3}{4}$
+
+Bepaal:
+
+$$10.1.1 \quad P(\text{A en B})$$ (2)
+
+$$10.1.2 \quad P(\text{ten minste EEN gebeurtenis plaasvind})$$ (2)
+
+10.2 Die waarskynlikheid dat dit in Junie op die Drakensberge sal sneeu, is $5\%$.
+
+- Wanneer dit op die berge sneeu, is die waarskynlikheid dat die minimum temperatuur in Sentraal-Suid-Afrika tot onder $0^\circ\text{C}$ sal daal, $72\%$.
+- As dit nie op die berge sneeu nie, is die waarskynlikheid dat die minimum temperatuur in Sentraal-Suid-Afrika tot onder $0^\circ\text{C}$ sal daal, $35\%$.
+
+$$10.2.1 \quad \text{Stel die gegewe inligting op 'n boomdiagram voor. Dui die waarskynlikhede wat met ELKE tak geassosieer word, duidelik aan.}$$ (3)
+
+$$10.2.2 \quad \text{Bereken die waarskynlikheid dat die temperatuur in Sentraal-Suid-Afrika in Junie } 2024 \text{ NIE tot onder } 0^\circ\text{C} \text{ sal daal NIE.}$$ (3)
+
+10.3 Tien leerders staan willekeurig agter mekaar in 'n ry.
+
+$$10.3.1 \quad \text{Op hoeveel verskillende maniere kan die tien leerders in die ry staan?}$$ (1)
+
+$$10.3.2 \quad \text{Bereken die waarskynlikheid dat daar } 5 \text{ leerders tussen die } 2 \text{ jongste leerders in die ry sal staan.}$$ (4)  
+**[15]**
+
+**TOTAAL: 150**
+
+Kopiereg voorbehou
+
+---
+
+**WISKUNDE V1**  
+**10**  
+**NSS**  
+**DBE/November 2023**  
+
+### INLIGTINGSBLAD
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni) \quad A = P(1 - ni) \quad A = P(1 - i)^n \quad A = P(1 + i)^n$$
+
+$$T_n = a + (n - 1)d \quad S_n = \frac{n}{2}[2a + (n - 1)d]$$
+
+$$T_n = ar^{n-1} \quad S_n = \frac{a(r^n - 1)}{r - 1} ; r \neq 1 \quad S_\infty = \frac{a}{1 - r} ; -1 < r < 1$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i} \quad P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} \quad M\left(\frac{x_1 + x_2}{2}; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c \quad y - y_1 = m(x - x_1) \quad m = \frac{y_2 - y_1}{x_2 - x_1} \quad m = \tan \theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+$$\text{In } \triangle ABC: \frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}$$
+
+$$a^2 = b^2 + c^2 - 2bc \cos A$$
+
+$$\text{area } \triangle ABC = \frac{1}{2}ab \sin C$$
+
+$$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta \quad \sin(\alpha - \beta) = \sin \alpha \cos \beta - \cos \alpha \sin \beta$$
+
+$$\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta \quad \cos(\alpha - \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2 \alpha - \sin^2 \alpha \\ 1 - 2\sin^2 \alpha \\ 2\cos^2 \alpha - 1 \end{cases} \quad \sin 2\alpha = 2\sin \alpha \cos \alpha$$
+
+$$\bar{x} = \frac{\sum_{i=1}^n x_i}{n}$$
+
+$$\sigma^2 = \frac{\sum_{i=1}^n (x_i - \bar{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)}$$
+
+$$P(\text{A of B}) = P(A) + P(B) - P(\text{A en B})$$
+
+$$\hat{y} = a + bx$$
+
+$$b = \frac{\sum (x - \bar{x})(y - \bar{y})}{\sum (x - \bar{x})^2}$$
+
+Kopiereg voorbehou

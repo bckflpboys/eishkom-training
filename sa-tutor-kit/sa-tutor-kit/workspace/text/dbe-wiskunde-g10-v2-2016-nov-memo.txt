@@ -1,0 +1,351 @@
+# NATIONAL SENIOR CERTIFICATE / NASIONALE SENIOR SERTIFIKAAT
+## GRADE / GRAAD 10
+### MATHEMATICS P2 / WISKUNDE V2 — NOVEMBER 2016
+#### MEMORANDUM
+
+---
+
+**NOTE / LET WEL:**
+* If a candidate answered a question TWICE, mark only the FIRST attempt.
+* If a candidate crossed out an answer and did not redo it, mark the crossed-out answer.
+* Consistent accuracy applies to ALL aspects of the marking memorandum.
+* Assuming values/answers in order to solve a problem is unacceptable.
+
+---
+
+### QUESTION 1 / VRAAG 1
+
+1.1 
+$$\text{Median/Mediaan} = \frac{136+137}{2} = 136,5$$
+$\checkmark$ answer/antwoord *(1)*
+
+1.2.1 
+$$\text{Mean/Gemiddelde} = \frac{2728}{20} = 136,4\text{ cm}$$
+$\checkmark$ $\frac{2728}{20}$  
+$\checkmark$ answer/antwoord *(2)*
+
+1.2.2 
+$$\text{Range/Variasiewydte} = 145 – 127 = 18\text{ cm}$$
+$\checkmark$ answer/antwoord *(1)*
+
+1.2.3 
+$$\text{Lower quartile/Onderste kwartiel} = 132$$
+$$\text{Upper quartile/Boonste kwartiel} = 141\frac{1}{2}$$
+$$\text{Interquartile range/IKO} = 141\frac{1}{2} - 132 = 9,5\text{ cm}$$
+$\checkmark$ Lower quartile/Onderste kwartiel  
+$\checkmark$ Upper quartile/Boonste kwartiel  
+$\checkmark$ answer/antwoord *(3)*
+
+1.3 
+$\checkmark$ median/min/max/mediaan/min/mak  
+$\checkmark$ $Q_1$ and/en $Q_3$ *(2)*  
+**[9]**
+
+---
+
+### QUESTION 2 / VRAAG 2
+
+2.1 
+$$\text{Modal class/Module klas: } 100 \le x < 110$$
+$\checkmark$ answer/antwoord *(1)*
+
+2.2 
+$$110 \le x < 120$$
+$\checkmark\checkmark$ answer/antwoord *(2)*
+
+2.3 
+$$\text{Estimate Mean IQ of students / Geskatte gemiddelde IK} = \frac{3480}{30} = 116$$
+$\checkmark$ $3480$  
+$\checkmark$ $30$  
+$\checkmark$ answer/antwoord *(3)*  
+**[6]**
+
+---
+
+### QUESTION 3 / VRAAG 3
+
+3.1 
+$$\text{AB} = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$
+$$= \sqrt{(3 - 1)^2 + (6 - 1)^2}$$
+$$= \sqrt{29}$$
+
+$$\text{AC} = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$
+$$= \sqrt{(6 - 1)^2 + (3 - 1)^2}$$
+$$= \sqrt{29}$$
+
+$$\text{AB} = \text{AC}$$
+$$\therefore \Delta\text{ABC is isosceles/gelykbenig}$$
+$\checkmark$ subst. in corr. formula/vervang in korrekte formule  
+$\checkmark$ distance/afstand $\text{AB}$  
+$\checkmark$ subst. in corr. formula/vervang in korrekte formule  
+$\checkmark$ $\text{AB} = \text{AC}$ *(4)*
+
+3.2.1 
+$\text{AD}$ is parallel to the $x$-axis / $\text{AD}$ parallel aan $x$-as  
+$\therefore \text{A}$ and $\text{D}$ have the same $y$-coordinates / $\text{A}$ en $\text{D}$ het dieselfde $y$-koördinate  
+but $\text{AD} = 5$ units/eenhede  
+$\therefore \text{D}(8 ; 5)$  
+
+$\text{CD}$ is perpendicular to the $x$-axis / $\text{CD}$ is loodreg met $x$-as  
+$\therefore \text{C}$ and $\text{D}$ have the same $x$-coordinate / $\text{C}$ en $\text{D}$ het dieselfde $x$-koördinate  
+But $\text{C}$ lies on the $x$-axis / $\text{C}$ lê op $x$-as  
+$\therefore \text{C}(8 ; 0)$  
+$\checkmark$ coordinates D / koördinate D  
+$\checkmark$ coordinates C / koördinate C *(2)*
+
+3.2.2 
+$\text{P}$ is midpoint of $\text{AC}$, the diagonals of the kite / $\text{P}$ is middelpunt van $\text{AC}$, die hoeklyne van die ruit  
+$$\therefore \text{P}\left(\frac{3+8}{2} ; \frac{5+0}{2}\right)$$
+$$\text{P}\left(\frac{11}{2} ; \frac{5}{2}\right)$$
+$\checkmark$ $x$-value/waarde  
+$\checkmark$ $y$-value/waarde *(2)*
+
+3.2.3 
+$\text{B}(-1 ; -4)\quad \text{D}(8 ; 5)$  
+$$m_{bd} = \frac{5+4}{8+1} = 1$$
+$\checkmark$ substitution/vervang  
+$\checkmark$ answer/antwoord *(2)*
+
+3.2.4 
+$\text{A}(3 ; 5)\quad \text{C}(8 ; 0)$  
+$$\text{AC} = \sqrt{(0 - 5)^2 + (8 - 3)^2}$$
+$$= \sqrt{50}$$
+$\checkmark$ substitution / vervang  
+$\checkmark$ answer/antwoord *(2)*
+
+3.2.5 
+$\text{B}(-1 ; -4)\quad \text{D}(8 ; 5)$  
+$$\text{BD} = \sqrt{(5 + 4)^2 + (8 + 1)^2}$$
+$$= \sqrt{162}$$
+$$\text{Area} = \frac{1}{2}(\text{BD}\cdot\text{AC})$$
+$$= \frac{1}{2}(\sqrt{162}\cdot\sqrt{50})$$
+$$= 45$$
+$\checkmark$ length/lengte $\text{BD}$  
+$\checkmark$ substitution/vervang  
+$\checkmark$ answer/antwoord *(3)*  
+**[15]**
+
+---
+
+### QUESTION 4 / VRAAG 4
+
+4.1.1(a) $\frac{b}{c}$ $\quad\checkmark$ answer/antwoord *(1)*
+
+4.1.1(b) $\frac{a}{b}$ $\quad\checkmark$ answer/antwoord *(1)*
+
+4.1.1(c) $\frac{b}{c}$ $\quad\checkmark\checkmark$ answer/antwoord *(2)*
+
+4.1.2 
+$$\tan\theta = \frac{a}{b}$$
+$$\tan 50^\circ = \frac{5}{b}$$
+$$\therefore b = \frac{5}{\tan 50^\circ}$$
+$$b = 4,20$$
+$\checkmark$ correct ratio/korrekte verhouding  
+$\checkmark$ $b$ value/waarde *(2)*
+
+4.2 
+$$2\text{cosec } 38,2^\circ + \cos^3(146,4^\circ)$$
+$$= 2\left(\frac{1}{\sin 38,2^\circ}\right) + \cos^3(146,4^\circ)$$
+$$= 3,42$$
+$\checkmark$ $\left(\frac{1}{\sin 38,2^\circ}\right)$  
+$\checkmark\checkmark$ answer accurate / antwoord akkuraat  
+*[Answer only – full marks / Slegs antwoord – volpunte]* *(3)*
+
+4.3 
+$$\frac{\sin 45^\circ \cdot \tan^2 60^\circ}{\cos 45^\circ}$$
+$$= \frac{\left(\frac{1}{\sqrt{2}}\right)\left(\frac{\sqrt{3}}{1}\right)\left(\frac{\sqrt{3}}{1}\right)}{\frac{1}{\sqrt{2}}}$$
+$$= \frac{\frac{3}{\sqrt{2}}}{\frac{1}{\sqrt{2}}}$$
+$$= \frac{3}{\sqrt{2}} \cdot \frac{\sqrt{2}}{1}$$
+$$= 3$$
+$\checkmark$ $\frac{1}{\sqrt{2}}$  
+$\checkmark$ $\frac{\sqrt{3}}{1}$  
+$\checkmark$ $\frac{1}{\sqrt{2}}$  
+$\checkmark$ answer/antwoord *(4)*
+
+4.4 
+$$\cos\beta = \frac{3}{5}$$
+$$y^2 = 5^2 - 3^2$$
+$$y = 4$$
+$$\therefore \cot\alpha = \frac{4}{3}$$
+$\checkmark$ $\cos\beta = \frac{3}{5}$  
+$\checkmark$ application Pyth. Th. / toepassing van Pyth. St.  
+$\checkmark$ $y = 4$  
+$\checkmark$ answer/antwoord *(4)*  
+**[17]**
+
+---
+
+### QUESTION 5 / VRAAG 5
+
+5.1.1 
+In $\Delta\text{AMN}$:  
+$$\tan\hat{\text{M}} = \frac{\text{AN}}{\text{MN}}$$
+$$\tan 21^\circ = \frac{\text{AN}}{15}$$
+$$\text{AN} = 15\cdot\tan 21^\circ$$
+$$\text{AN} = 5,76\text{ units/eenhede}$$
+$\checkmark$ $\tan\hat{\text{M}} = \frac{\text{AN}}{\text{MN}}$  
+$\checkmark$ substitute/vervang  
+$\checkmark$ answer/antwoord *(3)*
+
+5.1.2 
+$$\text{PN} = 2(5,76) = 11,52$$
+$$\tan\hat{\text{M}} = \frac{\text{PN}}{\text{MN}} = \frac{11,52}{15}$$
+$$\hat{\text{M}} = 37,52^\circ$$
+$$\therefore \text{P\hat{M}N} = 37,52^\circ$$
+$\checkmark$ $\text{PN} = 11,52$  
+$\checkmark$ $\tan\hat{\text{M}} = \frac{11,52}{15}$  
+$\checkmark$ answer/antwoord *(3)*
+
+5.1.3 
+$$\sin 37,52^\circ = \frac{11,52}{\text{MP}}$$
+$$\text{MP} = \frac{11,52}{\sin 37,52^\circ}$$
+$$\text{MP} = 18,92$$
+**ANY OTHER VALID METHOD / ENIGE ANDER GELDIGE METODE**  
+$\checkmark$ $\sin 37,52^\circ = \frac{11,52}{\text{MP}}$  
+$\checkmark$ $\text{MP}$ subject/onderwerp  
+$\checkmark$ answer/antwoord *(3)*
+
+5.2 
+$$2\sin(\theta + 15^\circ) = 1,462$$
+$$\sin(\theta + 15^\circ) = 0,731$$
+$$\therefore \theta + 15^\circ = 46,97^\circ$$
+$$\theta = 46,97^\circ - 15^\circ$$
+$$\theta = 31,97^\circ$$
+$\checkmark$ $0,731$  
+$\checkmark$ $46,97^\circ$  
+$\checkmark$ answer/antwoord *(3)*  
+**[12]**
+
+---
+
+### QUESTION 6 / VRAAG 6
+
+6.1 
+$$a = 2$$
+$\checkmark$ answer/antwoord *(1)*
+
+6.2 
+$$\text{Period/tydperk } f = 360^\circ$$
+$\checkmark$ answer/antwoord *(1)*
+
+6.3 
+$$y \in [0 ; 2]$$
+$\checkmark$ $0$  
+$\checkmark$ $2$ *(2)*
+
+6.4 
+$$0^\circ < x < 180^\circ$$
+$\checkmark$ critical values / kritiese waardes  
+$\checkmark$ correct inequalities / korrekte ongelykhede *(2)*
+
+6.5 
+$$y = -\cos x + 1$$
+$\checkmark\checkmark$ answer/antwoord *(2)*  
+**[8]**
+
+---
+
+### QUESTION 7 / VRAAG 7
+
+7.1 
+$$\tan\beta = \frac{\text{LM}}{\text{MN}} = 0,21 \quad \text{and} \quad \tan\theta = \frac{\text{TN}}{\text{MN}} = 0,35$$
+$$\frac{\text{LM}}{\text{MN}} \div \frac{\text{TN}}{\text{MN}} = \frac{0,21}{0,35}$$
+$$\frac{\text{LM}}{\text{TN}} = \frac{0,21}{0,35} = \frac{3}{5}$$
+$$\therefore \text{LM} : \text{TN} = 3 : 5$$
+$\checkmark$ $\tan\beta = \frac{\text{LM}}{\text{MN}}$ and $\tan\theta = \frac{\text{TN}}{\text{MN}}$  
+$\checkmark$ $\frac{\text{LM}}{\text{MN}} \div \frac{\text{TN}}{\text{MN}} = \frac{0,21}{0,35}$  
+$\checkmark$ answer/antwoord $\text{LM}$ (3)  
+$\checkmark$ answer/antwoord $\text{TN}$ (5) *(4)*
+
+7.2.1 
+$$\tan\theta = 0,35$$
+$$\theta = 19,29^\circ$$
+$$\therefore \text{MTN} = 70,71^\circ$$
+$\checkmark$ $\theta = 19,29^\circ$  
+$\checkmark$ answer/antwoord *(2)*
+
+7.2.2 
+$$\cos 19,29^\circ = \frac{3100}{\text{TM}}$$
+$$\text{TM} = 3284,39$$
+$$\text{CM} = 2884,39$$
+$$\therefore \sin 19,29^\circ = \frac{\text{CP}}{2884,39}$$
+$$\therefore \text{CP} = 2884,39(\sin 19,29^\circ)$$
+$$\text{CP} = 952,86\text{ m}$$
+$\checkmark$ $\cos 19,29^\circ = \frac{3100}{\text{TM}}$  
+$\checkmark$ $\text{TM} = 3284,39$  
+$\checkmark$ $\text{CM} = 2884,39$  
+$\checkmark$ $\sin 19,29^\circ = \frac{\text{CP}}{2884,39}$  
+$\checkmark$ answer/antwoord *(5)*  
+**[11]**
+
+---
+
+### QUESTION 8 / VRAAG 8
+
+8.1 is a parallelogram / is 'n parallelogram $\quad\checkmark$ answer/antwoord *(1)*
+
+8.2 In $\Delta\text{ABD}$ and/en $\Delta\text{CDB}$:  
+$$\hat{\text{D}}_1 = \hat{\text{B}}_2 \quad [\text{alt. angles/verv. hoek, AD}\parallel\text{BC}]$$  
+$$\hat{\text{B}}_1 = \hat{\text{D}}_2 \quad [\text{alt. angles/verv. hoek, AB}\parallel\text{DC}]$$  
+$$\text{BD} = \text{BD} \quad [\text{common side/dieselfde sy}]$$  
+$$\therefore \Delta\text{ABD} \equiv \Delta\text{CDB} \quad [\text{A, A, S}]$$  
+$$\therefore \text{AB} = \text{DC}, \text{AD} = \text{BC}$$
+$\checkmark\text{S} \quad \checkmark\text{R}$  
+$\checkmark\text{S/R}$  
+$\checkmark\text{S/R}$  
+$\checkmark\text{S/R}$  
+$\checkmark\text{S}$ *(6)*
+
+8.3.1 
+Let $\hat{\text{N}}_1 = \hat{\text{N}}_2 = x \quad [\text{ON bisects/halveer K\hat{N}M}]$  
+Let $\hat{\text{M}}_1 = \hat{\text{M}}_2 = y \quad [\text{OM bisects/halveer N\hat{M}P}]$  
+$$\therefore 2x + 2y = 180^\circ \quad [\text{co-int./bin. hoek KN}\parallel\text{PM}]$$  
+$$\therefore x + y = 90^\circ$$
+$$\hat{\text{O}}_2 + x + y = 180^\circ \quad [\text{int. angles of / binnehoeke van } \Delta]$$  
+$$\therefore \hat{\text{O}}_2 + 90^\circ = 180^\circ$$
+$$\therefore \hat{\text{O}}_2 = 90^\circ$$
+$\checkmark\text{S/R}$  
+$\checkmark\text{S/R}$  
+$\checkmark\text{substitution/vervang } (x + y = 90^\circ)$ *(3)*
+
+8.3.2 
+$$\hat{\text{N}}_2 = \hat{\text{O}}_1 \quad [\text{alt. angle/verw. hoek KP}\parallel\text{NM}]$$  
+$$\hat{\text{O}}_1 = \hat{\text{N}}_1 \quad [\text{AB} = \text{DE}]$$  
+$$\text{KO} = \text{KN} \quad [\text{opp. sides} = / \text{oorst. sye} =]$$  
+$$\hat{\text{O}}_3 = \hat{\text{M}}_1 \quad [\text{alt angle/verw. KP}\parallel\text{MN}]$$  
+$$\hat{\text{O}}_3 = \hat{\text{M}}_2$$
+$$\therefore \text{OP} = \text{PM} \quad [\text{sides opp.} = \text{angles} / \text{sye oor.} = \text{hoeke}]$$  
+$$\text{but } \text{KN} = \text{PM} \quad [\text{opp. sides} = / \text{oor sye} =]$$  
+$$\therefore \text{KO} = \text{OP}$$
+$$\therefore \text{O is the midpoint/middelpunt}$$
+$\checkmark\text{S/R } (\hat{\text{N}}_2 = \hat{\text{O}}_1 \text{ and/en } \hat{\text{O}}_1 = \hat{\text{N}}_1)$  
+$\checkmark\text{S/R}$  
+$\checkmark\text{S/R } (\hat{\text{O}}_3 = \hat{\text{M}}_1 \text{ and } \hat{\text{O}}_3 = \hat{\text{M}}_2)$  
+$\checkmark\text{S/R}$  
+$\checkmark\text{S/R}$  
+$\checkmark\text{S}$ *(6)*  
+**[16]**
+
+---
+
+### QUESTION 9 / VRAAG 9
+
+9.1 half the length of / die helfte van die lengte van $\quad\checkmark$ answer/antwoord *(1)*
+
+9.2 
+$$\text{AB}\parallel\text{QR} \quad [\text{line joining midpoint} / \text{lyn deur middelpunte}]$$
+$$\text{AB} = \frac{1}{2}\text{QR} \quad [\text{line joining midpoint} / \text{lyn deur middelpunte}]$$
+
+$$\text{DE}\parallel\text{QR} \quad [\text{line joining midpoint} / \text{lyn deur middelpunte}]$$
+$$\text{DE} = \frac{1}{2}\text{QR}$$
+
+$$\therefore \text{AB}\parallel\text{DE} \text{ and/en } \text{AB} = \text{DE}$$
+$$\therefore \text{ADEB is a parm.} \quad [\text{one pair of opp. sides} = \text{and}\parallel / \text{een paar teenoorstande sye} = \text{en}\parallel]$$
+$\checkmark\text{R}$  
+$\checkmark\text{S/R}$  
+$\checkmark\text{S}$  
+$\checkmark\text{S (both/albei)}$  
+$\checkmark\text{R}$ *(5)*  
+**[6]**
+
+**TOTAL / TOTAAL: 100**

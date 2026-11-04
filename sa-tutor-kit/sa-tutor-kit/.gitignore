@@ -1,5 +1,43 @@
+# ==============================================================================
+# Eishkom AI sa-tutor-kit — Git Ignore Rules
+# ==============================================================================
+
+# 1. CRITICAL: Secret Environment Credentials (NEVER COMMIT)
 .env
-workspace/
-__pycache__/
-*.pyc
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+
+# 2. Large Model Weights & Training Checkpoints (Host on Hugging Face instead)
 *.gguf
+*.bin
+*.pt
+*.pth
+*.safetensors
+*.onnx
+workspace/runs/
+workspace/build/
+runs/
+build/
+
+# 3. Python Cache, Bytecode & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+env/
+venv/
+ENV/
+
+# 4. Logs and Temporary Execution Artifacts
+*.log
+workspace/logs/
+logs/
+.system_generated/
+
+# 5. OS Metadata
+.DS_Store
+Thumbs.db

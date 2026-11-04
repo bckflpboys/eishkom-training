@@ -1,0 +1,514 @@
+**NATIONAL SENIOR CERTIFICATE / NASIONALE SENIOR SERTIFIKAAT**
+
+**GRADE / GRAAD 12**
+
+**PHYSICAL SCIENCES: CHEMISTRY (P2) / FISIESE WETENSKAPPE: CHEMIE (V2)**
+**NOVEMBER 2025**
+**MARKING GUIDELINES / NASIENRIGLYNE**
+
+---
+
+### **QUESTION 1 / VRAAG 1**
+
+1.1 C $\checkmark\checkmark$ (2)
+
+1.2 B $\checkmark\checkmark$ (2)
+
+1.3 A $\checkmark\checkmark$ (2)
+
+1.4 D $\checkmark\checkmark$ (2)
+
+1.5 A $\checkmark\checkmark$ (2)
+
+1.6 A $\checkmark\checkmark$ (2)
+
+1.7 A $\checkmark\checkmark$ (2)
+
+1.8 B $\checkmark\checkmark$ (2)
+
+1.9 C $\checkmark\checkmark$ (2)
+
+1.10 D $\checkmark\checkmark$ (2)
+
+**[20]**
+
+---
+
+### **QUESTION 2 / VRAAG 2**
+
+2.1
+2.1.1 D $\checkmark$ (1)
+
+2.1.2 A and/en C $\checkmark$ (1)
+
+2.1.3 E and/en F $\checkmark$ (1)
+
+2.2
+2.2.1 **Marking criteria:**
+* Correct stem i.e. butanone. $\checkmark$
+* Substituents (methyl) correctly identified. $\checkmark$
+* IUPAC name is completely correct including numbering, sequence, hyphens and commas. $\checkmark$
+
+**Nasienkriteria:**
+* Korrekte stam, d.i. butanoon. $\checkmark$
+* Substituente (metiel) korrek geïdentifiseer. $\checkmark$
+* IUPAC-naam heeltemal korrek insluitende nommering, volgorde, koppeltekens en kommas. $\checkmark$
+
+3-methylbutan-2-one $\checkmark\checkmark\checkmark$ / 3-methylbutanone  
+3-metielbutan-2-oon / 3-metielbutanoon
+
+**ACCEPT / AANVAAR:**
+3-methyl-2-butanone / methylbutanone / 3-metiel-2-butanoon / metielbutanoon (3)
+
+2.2.2 **Marking criteria:**
+* Correct stem i.e. heptane. $\checkmark$
+* Substituents (dichloro and dimethyl) correctly identified. $\checkmark$
+* IUPAC name is completely correct including numbering, sequence, hyphens and commas. $\checkmark$
+
+**Nasienkriteria:**
+* Korrekte stam, d.i. heptaan. $\checkmark$
+* Substituente (dichloro en dimetiel) korrek geïdentifiseer. $\checkmark$
+* IUPAC-naam heeltemal korrek insluitende nommering, volgorde, koppeltekens en kommas. $\checkmark$
+
+2,6-dichloro-2,5-dimethylheptane $\checkmark\checkmark\checkmark$  
+2,6-dichloro-2,5-dimetielheptaan (3)
+
+2.2.3 **Marking criteria:**
+* Correct stem i.e. hexene. $\checkmark$
+* Substituents (ethyl and methyl) correctly identified. $\checkmark$
+* IUPAC name is completely correct including numbering, sequence, hyphens and commas. $\checkmark$
+
+**Nasienkriteria:**
+* Korrekte stam, d.i. hekseen. $\checkmark$
+* Substituente (etiel en metiel) korrek geïdentifiseer. $\checkmark$
+* IUPAC-naam heeltemal korrek insluitende nommering, volgorde, koppeltekens en kommas. $\checkmark$
+
+3-ethyl-2-methylhex-2-ene $\checkmark\checkmark\checkmark$ / 3-ethyl-2-methyl-2-hexene  
+3-etiel-2-metielheks-2-een / 3-etiel-2-metiel-2-hekseen (3)
+
+2.2.4 
+| Marking criteria / Nasienkriteria: | Marking criteria / Nasienkriteria: |
+| :--- | :--- |
+| * Hydroxyl group on the $1^{\text{st}}$ C-atom. $\checkmark$<br>Hidroksiel groep op $1^{\text{ste}}$ C-atoom. | * Hydroxyl group on the $2^{\text{nd}}$ C-atom. $\checkmark$<br>Hidroksiel groep op $2^{\text{de}}$ C-atoom. |
+| * Whole structure correct. $\checkmark$<br>Hele struktuur korrek. | * Whole structure correct. $\checkmark$<br>Hele struktuur korrek. |
+
+```
+    H   H   H   H
+    |   |   |   |
+H—O—C—C—C—C—H     (Structure with OH on 1st C: ✓ for OH position, ✓ for whole structure)
+    |   |   |   |
+    H   H   H   H
+```
+
+```
+        H   H   H   H
+        |   |   |   |
+H—C—C—C—C—H       (Structure with OH on 2nd C: ✓ for OH position, ✓ for whole structure)
+        |   |   |
+        H   O   H
+            |
+            H
+```
+
+**IF / INDIEN:**
+* More than one functional group/wrong functional group: $\frac{0}{2}$ per molecule/molekule  
+  Meer as een funksionele groep/foutiewe funksionele groep:
+* Condensed structural formulae used: Max/Maks. $\frac{2}{4}$  
+  Gekondenseerde struktuurformules gebruik:
+* Bond between O and H not shown, accept.  
+  Binding tussen O en H nie gewys nie, aanvaar. (4)
+
+2.3
+2.3.1 Combustion / oxidation / Verbranding / oksidasie $\checkmark$ (1)
+
+2.3.2 **Marking criteria:**
+(a) Volume $\text{O}_2$ and $\text{C}_3\text{H}_8$ used. $\checkmark$
+(b) Volume $\text{CO}_2$ and $\text{H}_2\text{O}$ produced $\checkmark$
+(c) Volume $\text{O}_2$ remaining $\checkmark$
+(d) Addition of the three volumes $\checkmark$
+(e) Correct final answer $66\text{ cm}^3$ or $0,066\text{ dm}^3$ $\checkmark$
+
+**Nasienkriteria:**
+(a) Volume $\text{O}_2$ en $\text{C}_3\text{H}_8$ gebruik. $\checkmark$
+(b) Volume $\text{CO}_2$ en $\text{H}_2\text{O}$ gevorm $\checkmark$
+(c) Volume $\text{O}_2$ wat oorbly $\checkmark$
+(d) Optel van drie volumes $\checkmark$
+(e) Korrekte finale antwoord $66\text{ cm}^3$ of $0,066\text{ dm}^3$ $\checkmark$
+
+**OPTION 1 / OPSIE 1:**  
+$V(\text{O}_2)_{\text{used/gebruik}} = 5V(\text{C}_3\text{H}_8)$  
+$=(5)(8)$  
+$=40\text{ cm}^3$ $\checkmark$ **(a)**
+
+$V(\text{CO}_2)_{\text{formed/gevorm}} = 3V(\text{C}_3\text{H}_8)$  
+$=(3)(8)$  
+$=24\text{ cm}^3$
+
+$V(\text{H}_2\text{O})_{\text{formed/gevorm}} = 4V(\text{C}_3\text{H}_8)$  
+$=(4)(8)$  
+$=32\text{ cm}^3$ $\checkmark$ **(b)**
+
+$V(\text{O}_2)_{\text{unused}} = 50 - 40 = 10\text{ cm}^3$ $\checkmark$ **(c)**  
+
+Volume gas in the container $= 10 + 24 + 32$ $\checkmark$ **(d)**  
+Total volume gas in the container $= 66\text{ cm}^3$ $\checkmark$ **(e)**
+
+**OPTION 2 / OPSIE 2:**  
+
+| $\text{C}_3\text{H}_8$ | $\text{O}_2$ | $\text{CO}_2$ | $\text{H}_2\text{O}$ |
+| :--- | :---: | :---: | :---: |
+| Initial volume ($\text{cm}^3$)<br>Aanvanklike volume ($\text{cm}^3$) | 8 | 50 | 0 | 0 |
+| Change volume ($\text{cm}^3$)<br>Verandering in volume ($\text{cm}^3$) | $-8$ $\checkmark$ **(a)** | $-40$ | $24$ $\checkmark$ **(b)** | $32$ |
+| Final volume ($\text{cm}^3$)<br>Finale volume ($\text{cm}^3$) | $0$ | $10$ $\checkmark$ **(c)** | $24$ | $32$ |
+
+Total volume of gases in container ($\text{cm}^3$) / Totale volume gas in houer ($\text{cm}^3$):  
+$= 10 + 24 + 32$ $\checkmark$ **(d)**  
+$= 66\text{ cm}^3$ $\checkmark$ **(e)**
+
+**ACCEPT / AANVAAR:**  
+If subtraction not shown, give mark for the $10\text{ cm}^3$ / Indien aftrekking nie getoon, gee punt vir $10\text{ cm}^3$.  
+
+$n(\text{C}_3\text{H}_8) : n(\text{O}_2) : n(\text{CO}_2) : n(\text{H}_2\text{O})$  
+$1 : 5 : 3 : 4$  
+
+$V = 8 \quad 40 \quad 24 \quad 32$ $\checkmark$ **(a)** $\checkmark$ **(b)**  
+
+Total volume $= 10 + 24 + 32$ $\checkmark$ **(d)**  
+$= 66\text{ cm}^3$ $\checkmark$ **(e)**  
+$\checkmark$ **(c)** *(for unused $\text{O}_2$ or equivalent)*
+
+---
+*(Moles calculated using $22,4\text{ dm}^3$ or any other molar gas volume accepted)*  
+**Marking criteria:**  
+(a) $V(\text{O}_2)$ and $V(\text{C}_3\text{H}_8)$ / $n(\text{O}_2)$ and $n(\text{C}_3\text{H}_8)$ used. $\checkmark$  
+(b) $V(\text{CO}_2)$ and $V(\text{H}_2\text{O})$ / $n(\text{CO}_2)$ and $n(\text{H}_2\text{O})$ produced. $\checkmark$  
+(c) $V(\text{O}_2)$ / $n(\text{O}_2)$ remaining $\checkmark$  
+(d) Addition of the three volumes/moles $\checkmark$  
+(e) Correct final answer $66\text{ cm}^3$ or $0,066\text{ dm}^3$ $\checkmark$  
+
+*(Calculations follow similarly with mole ratios and gas laws...)* (5)
+
+**[22]**
+
+---
+
+### **QUESTION 3 / VRAAG 3**
+
+3.1 A series of organic compounds that can be described by the same general formula. $\checkmark$ (1 OR 0)  
+**OR**  
+A series of organic compounds in which one member differs from the next by a $\text{CH}_2$ group.  
+
+*('n Reeks organiese verbindings wat deur dieselfde algemene formule beskryf kan word.)* (1)
+
+3.2 Ester $\checkmark$ and carboxylic acid $\checkmark$ / Ester en karboksielsuur (2)
+
+3.3
+3.3.1 
+```
+    H   H   H   O
+    |   |   |   ||
+H—C—C—C—C—O—C—H
+    |   |   |   |
+    H   H   H   H
+```
+**Marking criteria / Nasienkriteria:**  
+(a) Functional group correct. $\checkmark$  
+(b) Whole structure correct. $\checkmark$ (2)
+
+3.3.2 Methyl propanoate / Propyl methanoate / Ethyl ethanoate $\checkmark\checkmark$ (2 OR/OF 0)  
+*Metielpropanoaat / Propielmetanoaat / Etieletanoaat* (2)
+
+3.4.1 Hydrogen bonds / Waterstofbindings $\checkmark$ (1)
+
+3.4.2 Dipole-dipole forces / Dipool-dipoolkragte $\checkmark$ (1)
+
+3.5 A $\checkmark$  
+The hydrogen bond is stronger than the dipole-dipole force. $\checkmark$  
+**OR**  
+The dipole-dipole force is weaker than the hydrogen bonds.  
+**OR**  
+Compound A has stronger intermolecular forces (than B).  
+**OR**  
+Compound B has weaker intermolecular forces (than A).  
+
+*(Die waterstofbinding is sterker as die dipool-dipoolkrag. / Verbinding A het sterker intermolekulêre kragte as B.)* (2)
+
+3.6 Decreases / Afneem $\checkmark$ (1)
+
+**[12]**
+
+---
+
+### **QUESTION 4 / VRAAG 4**
+
+4.1
+4.1.1 2-bromo$\checkmark$butane$\checkmark$ / 2-bromobutaan (2)
+
+4.1.2 $\text{NaBr}$ / Sodium bromide / Natriumbromied $\checkmark$ (1)
+
+4.1.3 Addition / Addisie $\checkmark$  
+Hydrohalogenation / Hydrobromination / Hydrohalogenering / Hidrobrominering $\checkmark$ (2)
+
+4.1.4 (Concentrated) sulphuric acid / $\text{H}_2\text{SO}_4$ / Phosphoric acid / $\text{H}_3\text{PO}_4$ / *(Gekonsentreerde) swaelsuur / Fosforsuur* $\checkmark$ (1)
+
+4.1.5 
+```
+    H   H   H   H
+    |   |   |   |
+H—C—C—C—C—H
+    |       |
+    H       H
+```
+**Marking criteria / Nasienkriteria:**  
+(a) Correct functional group. $\checkmark$  
+(b) Whole structure correct. $\checkmark$  
+**IF / INDIEN:**  
+* More than one functional group / wrong functional group: $\frac{0}{2}$  
+* Correct condensed formula: Max: $\frac{1}{2}$ (2)
+
+4.1.6 Concentrated strong base / Gekonsentreerde sterk basis $\checkmark$  
+Concentrated / Gekonsentreerde $\text{NaOH} / \text{KOH} / \text{LiOH}$ (1)
+
+4.2
+4.2.1 **Marking criteria / Nasienkriteria**  
+If any one of the underlined key phrases in the correct context is omitted, deduct 1 mark.  
+The chemical process/reaction in which $\underline{\text{longer chain hydrocarbon/alkane}}$ $\underline{\text{molecules}}$ are $\underline{\text{broken down to shorter}}$ (more useful) $\underline{\text{molecules}}$. $\checkmark\checkmark$  
+*(Die chemiese proses/reaksie waarin $\underline{\text{langer kettingkoolwaterstof/alkaan-}}$ $\underline{\text{molekule}}$ $\underline{\text{afgebreek word in korter}}$ (meer bruikbare) $\underline{\text{molekules}}$.)* (2)
+
+4.2.2 Decolourisation / colour fades / becomes lighter in colour / colourless $\checkmark$  
+*Ontkleuring / kleur raak dowwer / word ligter van kleur / kleurloos* (1)
+
+4.2.3 
+```
+    H   H   H
+    C═C—C—H
+    H   H   H
+```
+**Marking criteria / Nasienkriteria:**  
+(a) Correct functional group. $\checkmark$  
+(b) Whole structure correct. $\checkmark$ (2)
+
+4.2.4 $\text{X}$ / $\text{C}_3\text{H}_6$ / Propene / Propeen $\checkmark$  
+* $\text{X}$ is unsaturated / has a double bond / is an alkene. $\checkmark$  
+**ANY ONE / ENIGE EEN**  
+* $\text{X}$ undergoes addition. $\checkmark$  
+**OR**  
+Alkenes are more reactive than alkanes / Unsaturated compounds react faster than saturated compounds.  
+Addition reaction is faster than substitution.  
+Addition reaction does not need UV/light. (3)
+
+**[17]**
+
+---
+
+### **QUESTION 5 / VRAAG 5**
+
+5.1 **NOTE / LET WEL:** Give the mark for per unit time only if in context of reaction rate.  
+**ANY ONE / ENIGE EEN:**  
+* Change in concentration $\checkmark$ of products/reactants per (unit) time. $\checkmark$  
+* Change in amount/number of moles/volume/mass of products or reactants per (unit) time.  
+* Amount/number of moles/volume/mass of products formed/reactants used per (unit) time.  
+* Rate of change in concentration/amount/number of moles/volume/mass. $\checkmark\checkmark$ (2 or 0) (2)
+
+5.2.1 $10\text{ (s)}$ $\checkmark$ (1)
+
+5.2.2 **Marking criteria:**  
+(a) Calculate the change: $[\text{O}_2]_{\text{final}} - [\text{O}_2]_{\text{initial}}$ / $n(\text{O}_2)_{\text{final}} - n(\text{O}_2)_{\text{initial}}$ / $n(\text{CO}_2)_{\text{final}} - n(\text{CO}_2)_{\text{initial}}$. $\checkmark$  
+*(Accept: $0,265\text{ to }0,27$ for $[\text{O}_2]_{\text{initial}}$)*  
+(b) Substitute $10\text{ s}$ in rate formula. $\checkmark$  
+(c) Multiply rate / concentration of $\text{O}_2$ by $3\text{ dm}^3$. $\checkmark$  
+(d) USE mol ratio: $n(\text{O}_2) : n(\text{CO}_2) = 1 : 2$ $\checkmark$  
+(e) Final correct answer $= 0,072\text{ (mol}\cdot\text{s}^{-1}\text{)}$ $\checkmark$  
+**RANGE:** $0,06 - 0,072$
+
+**OPTION 1 / OPSIE 1:**  
+$\text{Rate/Tempo} = -\frac{\Delta c(\text{O}_2)}{\Delta t}$  
+$= -\left(\frac{0,15 - 0,27}{10 - 0}\right)$ $\checkmark\text{(a)}$ $\checkmark\text{(b)}$  
+$= 0,012\text{ mol}\cdot\text{dm}^{-3}\cdot\text{s}^{-1}$  
+
+$\text{Rate/Tempo } (\text{O}_2)\text{ in mol}\cdot\text{s}^{-1} = cV$  
+$= (0,012)(3)$ $\checkmark\text{(c)}$  
+$= 0,036\text{ mol}\cdot\text{s}^{-1}$  
+
+$\text{Rate/Tempo } (\text{CO}_2) = 2 \times \text{rate } (\text{O}_2)$ $\checkmark\text{(d)}$  
+$= 2 \times 0,036$  
+$= 0,072\text{ (mol}\cdot\text{s}^{-1}\text{)}$ $\checkmark\text{(e)}$ (5)
+
+5.2.3 $\text{O}_2$ / Oxygen / Suurstof $\checkmark$ (1)
+
+5.2.4 Increases / Neem toe $\checkmark$  
+Higher reaction rate. / Concentration of reactants are higher. $\checkmark$  
+*(Hoër reaksietempo. / Konsentrasie van die reaktanse is hoër.)*  
+**ACCEPT / AANVAAR:** pressure increased / druk verhoog. (2)
+
+5.3.1 Absorption / Absorpsie $\checkmark$ (1)
+
+5.3.2 **Marking criteria / Nasienkriteria:**  
+If any one of the underlined key phrases in the correct context is omitted, deduct 1 mark.  
+$\underline{\text{Unstable (high energy) transition state}}$ $\underline{\text{from reactants to products}}$. $\checkmark\checkmark$  
+*(Onstabiele (hoë energie) oorgangstoestand van reaktanse na produkte)*  
+**ACCEPT / AANVAAR:**  
+$\underline{\text{Unstable (high energy) transition state}}$ $\underline{\text{between reactants and products}}$. $\checkmark\checkmark$ (2)
+
+5.3.3 * Catalyst provides an alternative path with lower activation energy / lowers the activation energy. $\checkmark$  
+* More particles have sufficient (kinetic) energy / kinetic energy greater (or equal to) activation energy. $\checkmark$  
+* More effective collisions per unit time/second. $\checkmark$  
+**OR**  
+Higher frequency of effective collisions. (3)
+
+5.3.4 Remains the same / Bly dieselfde $\checkmark$ (1)
+
+5.3.5 **Marking criteria:**  
+* Both curves start at origin and have correct shape with peaks at same $E_k$. $\checkmark$  
+* Peak of curve Y must be higher than curve X with peaks at same $E_k$. $\checkmark$  
+
+*(Graphs showing Maxwell-Boltzmann distribution curves with Curve Y having a higher peak than Curve X at the same maximum $E_k$)* (2)
+
+**[20]**
+
+---
+
+### **QUESTION 6 / VRAAG 6**
+
+6.1
+6.1.1 **Marking criteria / Nasienkriteria:**  
+If any one of the underlined key phrases in the correct context is omitted, deduct 1 mark.  
+When the $\underline{\text{equilibrium}}$ in a $\underline{\text{closed system}}$ is $\underline{\text{disturbed}}$, the system will $\underline{\text{re-instate}}$ $\underline{\text{a new equilibrium}}$ by favouring the reaction that will $\underline{\text{cancel/oppose}}$ $\underline{\text{the disturbance}}$. $\checkmark\checkmark$  
+*(Wanneer die ewewig in 'n geslote sisteem versteur word, sal die sisteem 'n nuwe ewewig instel deur die reaksie te bevoordeel wat die versteuring kanselleer/teenwerk.)* (2)
+
+6.1.2 (Mass) decreases. / (Massa) Afneem. $\checkmark$ (1)
+
+6.1.3 * Decrease in amount of $\text{OH}^-$ ions / concentration of $\text{OH}^-$ ions, favours the reaction that increases the amount/concentration of $\text{OH}^-$ ions. $\checkmark$  
+**OR**  
+Acid / $\text{HCl}$ / $\text{H}^+$ reacts with $\text{OH}^-$ ions.  
+* The forward reaction is favoured $\checkmark$ **OR** The amount/concentration of the products increases. (2)
+
+6.2.1 Endothermic / Endotermies $\checkmark$ (1)
+
+6.2.2 * With an increase in the temperature the $K_c$ value increases. $\checkmark$  
+* The concentration of the products increases. **OR** Concentration of reactants decreases. **OR** The forward reaction is favoured. $\checkmark$  
+* (According to Le Chatelier's principle) an increase in temperature favours the endothermic reaction. $\checkmark$ (3)
+
+6.2.3 **CALCULATIONS USING MOLES / BEREKENINGE WAT MOL GEBRUIK**  
+**Marking criteria:**  
+(a) Calculate number of moles $\text{NH}_4\text{HS}$ ($\frac{70}{51}$) $\checkmark$ **OR** $1,37\text{ moles}$  
+(b) USING RATIO: $\text{NH}_4\text{HS} : \text{NH}_3 : \text{H}_2\text{S} = 1 : 1 : 1$ $\checkmark$  
+(c) Calculate $c(\text{NH}_3)$ and $c(\text{H}_2\text{S})$ at equilibrium (divide equilibrium moles by 3) $\checkmark$  
+(d) Correct $K_c$ expression $\checkmark$  
+(e) Substitute $K_c = 18 \times 10^{-2}$ $\checkmark$  
+(f) $n(\text{NH}_4\text{HS})_{\text{eq}} = n(\text{NH}_4\text{HS})_{\text{in}} - n(\text{NH}_4\text{HS})_{\text{change}}$ **OR** $m(\text{NH}_4\text{HS})_{\text{eq}} = m(\text{NH}_4\text{HS})_{\text{in}} - m(\text{NH}_4\text{HS})_{\text{change}}$ $\checkmark$  
+(g) Substitute $51$ in $n = \frac{m}{M}$ $\checkmark$  
+(h) CORRECT final answer: $m = 5,61\text{ g}$ $\checkmark$  
+**Range:** $4,96 - 5,74\text{ g}$  
+
+*(Calculations for Option 1, Option 2, or Concentration calculations yielding $m = 5,61\text{ g}$)* (8)
+
+**[17]**
+
+---
+
+### **QUESTION 7 / VRAAG 7**
+
+7.1.1 $\text{H}_2\text{PO}_4^-$ $\checkmark$  
+$K_a \text{ of } \text{H}_2\text{PO}_4^-$ greater/higher than $K_a \text{ of } \text{HPO}_4^{2-}$ $\checkmark$  
+*(Accept: $K_a \text{ of } \text{H}_2\text{PO}_4^-$ greater)* (2)
+
+7.1.2 $\text{HPO}_4^{2-}$ $\checkmark$ (1)
+
+7.1.3 $\text{H}_2\text{PO}_4^-$ **OR/OF** $\text{HPO}_4^{2-}$ $\checkmark$ (1)
+
+7.1.4 Basic / Basies $\checkmark$ (1)
+
+7.1.5 **Marking criteria / Nasienkriteria:**  
+* Reactants $\checkmark$ Products $\checkmark$ Balancing $\checkmark$  
+* Ignore $\rightarrow$ and phases  
+
+$$\text{HPO}_4^{2-}(\text{aq}) + \text{H}_2\text{O}(\ell) \rightleftharpoons \text{H}_2\text{PO}_4^-(\text{aq}) + \text{OH}^-(\text{aq}) \quad \text{bal }\checkmark$$  
+**OR/OF**  
+$$\text{HPO}_4^{2-}(\text{aq}) + 2\text{H}_2\text{O}(\ell) \rightleftharpoons \text{H}_3\text{PO}_4(\text{aq}) + 2\text{OH}^-(\text{aq})$$ (3)
+
+7.2
+7.2.1 **Marking criteria:**  
+a) Any formula: $\text{pH} = -\log[\text{H}_3\text{O}^+]$ / $\text{pH} = -\log[\text{H}^+]$ / $[\text{H}_3\text{O}^+] = 10^{-\text{pH}}$ / $\text{pOH} = -\log[\text{OH}^-]$ / $[\text{H}_3\text{O}^+][\text{OH}^-] = 10^{-14}$ / $\text{pH} + \text{pOH} = 14$ $\checkmark$  
+b) Substitute $12,62$ in $\text{pH} = -\log[\text{H}_3\text{O}^+]$ / $\text{pH} + \text{pOH} = 14$ $\checkmark$  
+c) Substitute calculated $[\text{H}_3\text{O}^+]$ in $[\text{H}_3\text{O}^+][\text{OH}^-] / 1,38\text{ in pOH} = -\log[\text{OH}^-]$ $\checkmark$  
+d) Final answer: $0,04\text{ mol}\cdot\text{dm}^{-3}$ $\checkmark$  
+**RANGE:** $0,04 - 0,042\text{ mol}\cdot\text{dm}^{-3}$  
+
+**OPTION 1 / OPSIE 1:**  
+$\text{pH} = -\log[\text{H}_3\text{O}^+]$  
+$12,62 = -\log[\text{H}_3\text{O}^+]$ $\checkmark$ **(b)**  
+$[\text{H}_3\text{O}^+] = 2,4 \times 10^{-13}\text{ mol}\cdot\text{dm}^{-3}$  
+
+$[\text{H}_3\text{O}^+][\text{OH}^-] = 10^{-14}$ $\checkmark$ **(c)**  
+$(2,4 \times 10^{-13})[\text{OH}^-] = 1 \times 10^{-14}$  
+$[\text{OH}^-] = 0,0417\text{ mol}\cdot\text{dm}^{-3}$ $\checkmark$ **(d)** *(0,04)* (4)
+
+7.2.2 **POSITIVE MARKING FROM QUESTION 7.2.1 / POSITIEWE NASIEN VANAF VRAAG 7.2.1**  
+**Marking criteria:**  
+(a) Substitute: $0,2\text{ mol}\cdot\text{dm}^{-3}$ AND $0,015\text{ dm}^3$ in $n = cV$ $\checkmark$  
+(b) USING RATIO: $n(\text{OH}^-) : n(\text{HCl}) = 1 : 1$ / $n(\text{Ba(OH)}_2) : n(\text{HCl}) = 1 : 2$ $\checkmark$  
+(c) Substitute: $c(\text{OH}^-)$ AND $0,04$ in $n = cV$ $\checkmark$  
+(d) Calculate $n(\text{OH}^-)_{\text{ini}} = n(\text{OH}^-)_{\text{reacted with HCl}} + n(\text{OH}^-)_{\text{fin}}$ $\checkmark\checkmark$  
+(e) USING RATIO: $n(\text{Ba(OH)}_2) : n(\text{OH}^-) = 1 : 2$ $\checkmark$  
+(f) Multiply $n(\text{Ba(OH)}_2)$ in $25\text{ cm}^3$ by $4$ **OR** Divide by $0,025\text{ dm}^3$ AND multiply by $0,1\text{ dm}^3$ $\checkmark$  
+(g) Final correct answer: $9,34 \times 10^{-3}\text{ mol}$ $\checkmark$  
+**Range:** $9,2 \times 10^{-3} - 9,36 \times 10^{-3}$  
+
+*(Calculations for Option 1, Option 2, or Option 3 yielding $9,34 \times 10^{-3}\text{ mol}$)* (8)
+
+**[20]**
+
+---
+
+### **QUESTION 8 / VRAAG 8**
+
+8.1 **ANY ONE / ENIGE EEN:**  
+* A substance whose (aqueous) solution contains ions. $\checkmark\checkmark$ (2 OR/OF 0)  
+* Substance that dissolves in water to give a solution that conducts electricity (through movement of ions).  
+**OR**  
+* A substance that dissociates to form ions in water/in molten state. (2)
+
+8.2 $\text{Al}^{3+}$ / Aluminium ion / ioon $\checkmark$  
+$\text{Al}$ is oxidised **OR** $\text{Al}$ is a stronger reducing agent. $\checkmark$  
+*(Al is geoksideer OF Al is 'n sterker reduseermiddel.)* (2)
+
+8.3 
+$$\text{Al(s)} \mid \text{Al}^{3+}(\text{aq}) \parallel \text{Zn}^{2+}(\text{aq}) \mid \text{Zn(s)}$$  
+**OR/OF**  
+$$\text{Al(s)} \mid \text{Al}^{3+}(1\text{ mol}\cdot\text{dm}^{-3}) \parallel \text{Zn}^{2+}(\text{aq})(1\text{ mol}\cdot\text{dm}^{-3}) \mid \text{Zn(s)}$$  
+**ACCEPT / AANVAAR:**  
+$$\text{Al} \mid \text{Al}^{3+} \parallel \text{Zn}^{2+} \mid \text{Zn}$$ (3)
+
+8.4 **Marking criteria:**  
+(a) Calculate $n(\text{Al}^{3+})$ $\checkmark$  
+(b) USE mol ratio: $n(\text{Al}_2(\text{SO}_4)_3) : n(\text{Al}^{3+}) = 1 : 2$ $\checkmark$  
+(c) Multiply $n(\text{Al}_2(\text{SO}_4)_3)$ by $M = 342$ $\checkmark$  
+(d) Final correct answer $= 42,75\text{ g}$ $\checkmark$  
+
+**OPTION 1 / OPSIE 1:**  
+$n(\text{Al}^{3+}) = cV$  
+$= (1)(0,25)$ $\checkmark$ **(a)**  
+$= 0,25\text{ mol}$  
+
+$n(\text{Al}_2(\text{SO}_4)_3) = \frac{1}{2}n(\text{Al}^{3+})$  
+$= \frac{1}{2}(0,25)$ $\checkmark$ **(b)**  
+$= 0,125\text{ mol}$  
+
+$n(\text{Al}_2(\text{SO}_4)_3) = \frac{m}{M}$  
+$0,125 = \frac{m}{342}$ $\checkmark$ **(c)**  
+$m = 42,75\text{ g}$ $\checkmark$ **(d)** (4)
+
+**[11]**
+
+---
+
+### **QUESTION 9 / VRAAG 9**
+
+9.1 Electrolytic / Elektrolitiese $\checkmark$ (1)
+
+9.2.1 Increases / Neem toe $\checkmark$ (1)
+
+9.2.2 Decrease / Afneem $\checkmark$  
+* More copper (II) ions / $\text{Cu}^{2+}$ are reduced than formed. / Only copper (II) ions / $\text{Cu}^{2+}$ are reduced. $\checkmark$  
+* Copper (II

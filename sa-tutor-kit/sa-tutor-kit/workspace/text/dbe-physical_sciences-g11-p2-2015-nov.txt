@@ -1,0 +1,1310 @@
+=== page 1 ===
+Copyright reserved  Please turn over
+
+MARKS:  150
+
+TIME:  3 hours
+
+This question paper consists of 13 pages, 4 data sheets
+and 1 answer sheet.
+
+PHYSICAL SCIENCES:  CHEMISTRY (P2)
+
+NOVEMBER 2015
+NATIONAL
+SENIOR CERTIFICATE
+GRADE 11
+
+=== page 2 ===
+Physical Sciences/P2 2    DBE/November 2015
+CAPS – Grade 11
+Copyright reserved  Please turn over
+
+INSTRUCTIONS AND INFORMATION
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+Write your name  and class (for example 11A)  in the appropriate spaces on
+the ANSWER BOOK.
+
+This question paper consists of TEN  questions. Answer QUESTION 4.2 and
+QUESTION 4.3 on the attached ANSWER SHEET . Answer ALL the other
+questions in the ANSWER BOOK.
+
+Start EACH question on a NEW page in the ANSWER BOOK.
+
+Number the answers correctly according to the numbering system used in this
+question paper.
+
+Leave ONE line between two subquestions, for example between
+QUESTION 2.1 and QUESTION 2.2.
+
+You may use a non-programmable calculator.
+
+You may use appropriate mathematical instruments.
+
+You are advised to use the attached DATA SHEETS.
+
+Show ALL formulae and substitutions in ALL calculations.
+
+Round off your final numerical answers to a minimum of TWO decimal places.
+
+Give brief motivations, discussions et cetera where required.
+
+Write neatly and legibly.
+
+=== page 3 ===
+Physical Sciences/P2 3    DBE/November 2015
+NSC – Grade 11
+Copyright reserved   Please turn over
+
+QUESTION 1:  MULTIPLE-CHOICE QUESTIONS
+
+Four options are provided as possible answers to the following questions. Each
+question has only ONE correct answer. Choose the ans wer and write only the
+letter (A –D) next to the question number (1.1– 1.10) in the ANSWER BOOK, for
+example 1.11 E.
+
+1.1 According to the Arrhenius theory, all bases …
+
+ A
+
+B
+
+C
+
+D
+are proton donors.
+
+are proton acceptors.
+
+form H3O+ ions in solution.
+
+form OH‾ ions in solution.
+
+(2)
+
+1.2 The number of neutrons in an atom of N157  is ...
+
+ A
+
+B
+
+C
+
+D
+5
+
+7
+
+8
+
+15
+
+(2)
+
+1.3 Which ONE of the following has the strongest forces between its molecules?
+
+ A
+
+B
+
+C
+
+D
+F2
+
+Cℓ2
+
+Br2
+
+I2
+
+(2)
+
+1.4 Which ONE of the following has a tetrahedral shape?
+
+ A
+
+B
+
+C
+
+D
++OH3
+
++
+4NH
+
+CO2
+
+AℓCℓ3
+
+(2)
+
+=== page 4 ===
+Physical Sciences/P2 4    DBE/November 2015
+NSC – Grade 11
+Copyright reserved   Please turn over
+
+1.5 Two moles of H2 gas at STP occupy a volume of ...
+
+ A
+
+B
+
+C
+
+D
+2 dm3
+
+11,2 dm3
+
+22,4 dm3
+
+44,8 dm3
+
+(2)
+
+1.6 Which ONE of the following statements CORRECTLY describes the
+characteristics of an endothermic reaction?
+
+ A
+
+B
+
+C
+
+D
+ΔH is positive and the products have less potential energy than the
+reactants.
+
+ΔH is positive and the products have more potential energy than the
+reactants.
+
+ΔH is negative and the products have less  potential energy than the
+reactants.
+
+ΔH is negative and the products have more  potential energy than the
+reactants.
+
+(2)
+
+1.7 Which ONE of the following balanced equations represents a redox reaction?
+
+ A
+
+B
+
+C
+
+D
+H+(aq) + OH-(aq) → H2O(ℓ)
+
+Mg(s) + CuSO4(aq) → Cu(s) + MgSO4(aq)
+
+2NaCℓ(aq) + Pb(NO3)2(aq) → 2NaNO3(aq) + PbCℓ2(s)
+
+H2SO4(aq) + Ba(NO3)2(aq) → BaSO4(s) + 2HNO3(aq)
+
+(2)
+
+1.8 During the extraction of gold, zinc powder is added to a solution of gold
+cyanide to produce gold according to the following balanced equation:
+
+Zn(s) + 2NaAu(CN)2(aq) → 2Au(s) + Zn(CN)2(aq) + 2NaCN(aq)
+
+The oxidising agent in this reaction is ...
+
+ A
+
+B
+
+C
+
+D
+Au+
+
+Zn
+
+Na+
+
+−CN
+
+(2)
+
+=== page 5 ===
+Physical Sciences/P2 5    DBE/November 2015
+NSC – Grade 11
+Copyright reserved   Please turn over
+
+1.9 The volume of a gas at a certain temperature and pressure is V.
+
+If the temperature is doubled and the pressure is halved, the volume of t he
+gas will be …
+
+ A
+
+B
+
+C
+
+D
+4V
+
+2V
+
+V
+
+½V
+
+(2)
+
+1.10 Two identical containers, M and N, are shown below. Container M contains
+H2(g) and container N  contains CO 2(g). Both gases are at a temperature of
+25 °C and a pressure of 101,3 kPa.
+
+ Consider the following statements:
+
+(i) The average kinetic energy of the molecules is the same in both
+containers.
+(ii) Container M contains more gas molecules than container N.
+(iii) The mass of the gas in container N  is greater than the mass of the gas
+in container M.
+
+Which of the above statements is/are CORRECT?
+
+ A
+
+B
+
+C
+
+D
+(i) only
+
+(iii) only
+
+(i) and (ii) only
+
+(i) and (iii) only
+
+(2)
+    [20]
+
+M
+H2(g)
+
+25 °C
+101,3 kPa
+N
+CO2(g)
+
+25 °C
+101,3 kPa
+
+=== page 6 ===
+Physical Sciences/P2 6    DBE/November 2015
+NSC – Grade 11
+Copyright reserved   Please turn over
+
+QUESTION 2   (Start on a new page.)
+
+Molecules such as CO2 and H2O are formed through covalent bonding.
+
+2.1 Define the term covalent bonding.  (2)
+
+2.2 ONE of the above molecules has lone pairs of electrons on the central atom.
+Draw the Lewis diagram for this molecule.
+
+(2)
+
+2.3 H3O+ is formed when H2O forms a dative covalent bond with an H+ ion.
+
+ 2.3.1 Draw the Lewis diagram for H3O+.  (1)
+
+ 2.3.2 State TWO conditions for the formation of such a bond.  (2)
+
+2.4 The polarity of molecules depends on the DIFFERENCE IN
+ELECTRONEGATIVITY and the MOLECULAR SHAPE.
+
+ 2.4.1 Define the term electronegativity.  (2)
+
+ 2.4.2 Calculate the difference in electronegativity between:
+
+  (a) C and O in CO2  (1)
+
+  (b) H and O in H2O  (1)
+
+ 2.4.3 Explain the difference in polarity between CO2 and H 2O by
+referring to the polari ty of the bonds and the shape of the
+molecules.
+
+(6)
+   [17]
+
+=== page 7 ===
+Physical Sciences/P2 7    DBE/November 2015
+NSC – Grade 11
+Copyright reserved   Please turn over
+
+QUESTION 3   (Start on a new page.)
+
+3.1 The boiling point of compounds A to E are given in the table below.
+
+COMPOUND FORMULA BOILING POINT (°C)
+A CH4 –164
+B C2H6 –89
+C C5H12 36
+D C6H14 69
+E C20H42 343
+
+ 3.1.1 Define the term boiling point.  (2)
+
+ 3.1.2 Calculate the molecular mass of compound D.  (1)
+
+ 3.1.3 In what phase is compound B at 25 °C?  (1)
+
+ 3.1.4 Name the type of intermolecular force present in compound A.  (1)
+
+ 3.1.5 Explain why the boiling point increases from compound A to E.  (3)
+
+ 3.1.6 How does the vapour pressure of compound B compare to the
+vapour pressure of compound C? Write down only HIGHER THAN,
+LOWER THAN or EQUAL TO.
+
+(1)
+
+3.2 Consider the boiling points of the compounds in the table below.
+
+SUBSTANCE BOILING POINT (°C)
+H2S –60
+NH3 –33
+H2O 100
+
+ 3.2.1 Which ONE of the substances  in the table above  has the weakest
+forces between its molecules?
+
+(1)
+
+ 3.2.2 Name the type of intermolecular fo rce found between NH 3
+molecules.
+
+(1)
+
+ 3.2.3 Explain the following statement:
+
+Although the shape of the molecules of H 2S and H 2O is similar ,
+there is a remarkable difference in their boiling points.
+
+(4)
+    [15]
+
+=== page 8 ===
+Physical Sciences/P2 8    DBE/November 2015
+NSC – Grade 11
+Copyright reserved   Please turn over
+
+QUESTION 4   (Start on a new page.)
+
+A learner investigates the relationship between the pressure and volume of a n
+enclosed DIATOMIC gas at 25 °C. He records the volume of the gas for different
+pressures in the table below.
+
+PRESSURE
+(kPa)
+VOLUME
+(cm3) V1  (cm-3)
+40 43 0,02
+80 27 0,04
+100 22 (a)
+120 18 (b)
+
+4.1 Write down the name of the gas law being investigated.  (1)
+
+Answer QUESTION 4.2 and QUESTION 4.3 on the attached ANSWER SHEET.
+
+4.2 Two V1  values in the table, (a) and (b),  have not been calculated.
+Calculate these values.
+
+(1)
+
+4.3 Draw a graph of pressure versus V1  on the attached ANSWER SHEET.   (4)
+
+4.4 Use the graph to determine the volume of the gas at 68 kPa.  (2)
+
+4.5 The mass of the enclosed DIATOMIC gas is 2,49 x 10-2 g.
+
+ 4.5.1 Use the conditions at a pressure of 100 kPa and c alculate the molar
+mass of the enclosed gas.
+
+(6)
+
+ 4.5.2 Write down the molecular formula of the enclosed gas.  (1)
+
+4.6 The sketch graph below shows the relations hip between volume and
+temperature for an ideal gas.
+
+ 4.6.1 Redraw the above graph in the  ANSWER BOOK. On the same set
+of axes, use a BROKEN LINE to sketch the graph that will be
+obtained for the diatomic gas above.
+
+(1)
+
+ 4.6.2 Fully explain why this diatomic gas deviates from ideal behaviour.  (3)
+    [19]
+
+Temperature (K)
+Volume (cm3)
+
+=== page 9 ===
+Physical Sciences/P2 9    DBE/November 2015
+NSC – Grade 11
+Copyright reserved   Please turn over
+
+QUESTION 5   (Start on a new page.)
+
+The fizz produced when an antacid dissolves in water is caused by the reaction
+between sodium hydrogen carbonate (NaHCO 3) and citric acid ( H3C6H5O7). The
+balanced equation for the reaction is:
+
+3NaHCO3(aq) + H3C6H5O7(aq) → Na3C6H5O7(aq) + 3CO2(g) + 3H2O(ℓ)
+
+5.1 Write down the FORMULA of the substance that causes the fizz when the
+antacid dissolves in water.
+
+(1)
+
+A certain antacid contains 1,8 g of H3C6H5O7 and 3,36 g of NaHCO3. The antacid is
+dissolved in 100 cm3 distilled water in a beaker.
+
+5.2 Define 1 mole of a substance.  (2)
+
+5.3 Calculate the number of moles of NaHCO3 in the antacid.  (3)
+
+5.4 Determine, using calculations, which substance is the limiting reagent.  (4)
+
+5.5 Calculate the mass of the reactant in excess.  (3)
+
+5.6 Calculate the mass decrease of the beaker contents on  completion of
+the reaction.
+
+(3)
+   [16]
+
+QUESTION 6   (Start on a new page.)
+
+6.1 Sodium thiosulphate, Na2S2O3(s), reacts with 200 cm 3 of a hydrochloric acid
+solution, H Cℓ(aq), of concentration 0,2 mol·dm-3 according to the following
+balanced equation:
+
+Na2S2O3(s) + 2HCℓ(aq) → 2NaCℓ(aq) + S(s) + SO2(g) + H2O(ℓ)
+
+ 6.1.1 Define the term concentration of a solution.  (2)
+
+ 6.1.2 Calculate the number of moles of HCℓ(aq) added to the sodium
+thiosulphate.
+
+(3)
+
+ 6.1.3 Calculate the volume of SO 2(g) that will be formed if the reaction
+takes place at STP.
+
+(3)
+
+=== page 10 ===
+Physical Sciences/P2 10    DBE/November 2015
+NSC – Grade 11
+Copyright reserved   Please turn over
+
+6.2 Menthol, the substance we can smell in mentholated cough drops, is
+composed of carbon (C), hydrogen (H) and oxygen (O).
+
+During combustion of a 9,984  g sample of menthol, it is found that
+28,160 g of CO2(g) and 11,520 g of H2O(g) is produced.
+
+ 6.2.1 Calculate the mass of carbon (C) in the CO2.  (4)
+
+ 6.2.2 Use relevant calculations  to determine the empirical formula of
+menthol.
+
+(7)
+
+ 6.2.3 The molar mass of menthol is 156 g·mol -1. Determine the molecular
+formula of menthol.
+
+(2)
+   [21]
+
+QUESTION 7   (Start on a new page.)
+
+A barium hydroxide solution, Ba(OH)2(aq), reacts with a nitric acid solution, HNO3(aq),
+according to the following balanced equation:
+
+Ba(OH)2(aq) + 2HNO3(aq) → Ba(NO3)2(aq) + 2H2O(ℓ)
+
+The potential energy graph below shows the change in potential energy for th is
+reaction.
+
+7.1 Is this reaction ENDOTHERMIC or EXOTHERMIC? Give a reason for the
+answer.
+
+(2)
+
+7.2 Use energy values A, B and C indicated on the graph and write down an
+expression for each of the following:
+
+ 7.2.1 The energy of the activated complex  (1)
+
+ 7.2.2 The activation energy for the forward reaction  (1)
+
+ 7.2.3 ∆H for the reverse reaction  (1)
+
+7.3 Calculate the amount of energy released during the reaction if 0,18 moles of
+Ba(OH)2(aq) reacts completely with the acid.
+
+(3)
+   [8]
+B
+C
+A
+Course of reaction
+Potential energy
+(kJ⋅mol-1)
+116 kJ⋅mol-1
+
+=== page 11 ===
+Physical Sciences/P2 11    DBE/November 2015
+NSC – Grade 11
+Copyright reserved   Please turn over
+
+QUESTION 8   (Start on a new page.)
+
+When s ulphuric acid reacts with water , it ionises in two steps , as shown in the two
+balanced equations below.
+
+  I: H2SO4(aq) + H2O(ℓ) → H3O+(aq) + −4HSO (aq)
+
+  II: −4HSO (aq) + H2O(ℓ) → H3O+(aq) + −24SO (aq)
+
+8.1 Define an acid in terms of the Lowry-Brønsted theory.  (2)
+
+8.2 Write down the FORMULA of:
+
+ 8.2.1 The conjugate base of −4HSO (aq)  (1)
+
+ 8.2.2 The conjugate acid of −4HSO (aq)  (1)
+
+ 8.2.3 A substance that acts as ampholyte in these reactions  (1)
+
+8.3 A few drops of bromothymol blue indicator are added to a potassium
+hydroxide solution in a beaker. A dilute sulphuric acid solution is now
+gradually added to this solution until the colour of the indicator changes.
+
+ Write down the:
+
+ 8.3.1 Type of reaction that takes place
+(Write down only REDOX, PRECIPITATION or NEUTRALISATION.)
+
+(1)
+
+ 8.3.2 Balanced equation for the reaction that takes place  (3)
+
+ 8.3.3 Colour change of the indicator  (2)
+
+ 8.3.4 NAME of the salt formed in this reaction  (1)
+    [12]
+
+=== page 12 ===
+Physical Sciences/P2 12    DBE/November 2015
+NSC – Grade 11
+Copyright reserved   Please turn over
+
+QUESTION 9   (Start on a new page.)
+
+9.1 Oxidation numbers make it easier to determine whether an element or a
+substance is oxidised or reduced during a chemical reaction.
+
+ 9.1.1 Define the term oxidation with reference to oxidation numbers.  (2)
+
+ 9.1.2 Calculate the oxidation number of chromium in −272OCr .  (1)
+
+ 9.1.3 Calculate the oxidation number of oxygen in H2O2.  (1)
+
+9.2 Consider the UNBALANCED equation below:
+
+Fe2+(aq) + Cℓ2(g) → Fe3+(aq) + Cℓ-
+
+ 9.2.1 Define the term reducing agent with reference to electron transfer.  (2)
+
+ From the above equation, write down the:
+
+ 9.2.2 FORMULA of the reducing agent  (1)
+
+ 9.2.3 FORMULA of the oxidising agent  (1)
+
+ 9.2.4 Reduction half-reaction  (2)
+
+ 9.2.5 Oxidation half-reaction  (2)
+
+ 9.2.6 Balanced net redox reaction  (2)
+    [14]
+
+=== page 13 ===
+Physical Sciences/P2 13    DBE/November 2015
+CAPS – Grade 11
+Copyright reserved
+
+QUESTION 10   (Start on a new page.)
+
+The simplified diagram below shows a blast furnace used for the extraction of iron from
+iron ore.  P represents a reactant added to the blast furnace. Q and R represent
+products that leave the blast furnace.
+
+ Limestone and coke are added to the blast furnace , as shown in the diagram
+above. Write down the function of:
+
+ 10.1.1 Limestone  (1)
+
+ 10.1.2 Coke  (1)
+
+10.2 Write down the NAME of the substance represented by:
+
+ 10.2.1 P  (1)
+
+ 10.2.2 Q  (1)
+
+ 10.2.3 R  (1)
+
+10.3 Write down  the NAME or FORMULA of ONE waste gas  formed during  the
+extraction of iron from iron ore.
+
+(1)
+
+10.4 The balanced equation for the extraction of iron from iron ore is:
+
+Fe2O3(s) + 3CO(g) 2Fe(s) + 3CO2(g)
+
+Write down the:
+
+ 10.4.1 Function of carbon monoxide in this reaction  (1)
+
+ 10.4.2 FORMULA of the substance that is reduced  (1)
+   [8]
+
+TOTAL:  150
+
+Waste
+gases out
+R
+P
+Q
+Waste gases
+out
+Raw materials
+Iron ore
+Limestone
+Coke
+
+=== page 14 ===
+Physical Sciences/P2 DBE/November 2015
+CAPS – Grade 11
+Copyright reserved
+
+DATA FOR PHYSICAL SCIENCES GRADE 11
+PAPER 2 (CHEMISTRY)
+
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 11
+VRAESTEL 2 (CHEMIE)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Avogadro's constant
+Avogadro-konstante NA 6,02 x 1023 mol-1
+Molar gas constant
+Molêre gaskonstante R 8,31 J∙K-1∙mol-1
+Standard pressure
+Standaarddruk
+θp  1,013 x 105 Pa
+Molar gas volume at STP
+Molêre gasvolume by STD Vm 22,4 dm3∙mol-1
+Standard temperature
+Standaardtemperatuur
+θT  273 K
+
+TABLE 2:  FORMULAE/TABEL 2: FORMULES
+
+2
+22
+1
+11
+T
+Vp
+T
+Vp =  nRTpV=
+M
+mn=
+AN
+Nn=
+mV
+Vn=  Vnc=          OR/OF        MVmc=
+
+=== page 15 ===
+Physical Sciences/P2       DBE/November 2015
+CAPS – Grade 11
+Copyright reserved
+
+TABLE 3: THE PERIODIC TABLE OF ELEMENTS/TABEL 3: DIE PERIODIEKE TABEL VAN ELEMENTE
+1
+(I)
+2
+(II)
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+(III)
+14
+(IV)
+15
+(V)
+16
+(VI)
+17
+(VII)
+18
+(VIII)
+2,1 1
+H
+1
+
+  2
+He
+4
+1,0 3
+Li
+7
+1,5 4
+Be
+9
+
+2,0 5
+B
+11
+2,5 6
+C
+12
+3,0 7
+N
+14
+3,5 8
+O
+16
+4,0 9
+F
+19
+ 10
+Ne
+20
+0,9 11
+Na
+23
+1,2 12
+Mg
+24
+
+1,5 13
+Aℓ
+27
+1,8 14
+Si
+28
+2,1 15
+P
+31
+2,5 16
+S
+32
+3,0 17
+Cℓ
+35,5
+ 18
+Ar
+40
+0,8 19
+K
+39
+1,0 20
+Ca
+40
+1,3 21
+Sc
+45
+1,5 22
+Ti
+48
+1,6 23
+V
+51
+1,6 24
+Cr
+52
+1,5 25
+Mn
+55
+1,8 26
+Fe
+56
+1,8 27
+Co
+59
+1,8 28
+Ni
+59
+1,9 29
+Cu
+63,5
+1,6 30
+Zn
+65
+1,6 31
+Ga
+70
+1,8 32
+Ge
+73
+2,0 33
+As
+75
+2,4 34
+Se
+79
+2,8 35
+Br
+80
+ 36
+Kr
+84
+0,8 37
+Rb
+86
+1,0 38
+Sr
+88
+1,2 39
+Y
+89
+1,4 40
+Zr
+91
+
+41
+Nb
+92
+1,8 42
+Mo
+96
+1,9 43
+Tc
+
+2,2 44
+Ru
+101
+2,2 45
+Rh
+103
+2,2 46
+Pd
+106
+1,9 47
+Ag
+108
+1,7 48
+Cd
+112
+1,7 49
+In
+115
+1,8 50
+Sn
+119
+1,9 51
+Sb
+122
+2,1 52
+Te
+128
+2,5 53
+I
+127
+ 54
+Xe
+131
+0,7 55
+Cs
+133
+0,9 56
+Ba
+137
+
+57
+La
+139
+1,6 72
+Hf
+179
+
+73
+Ta
+181
+
+74
+W
+184
+
+75
+Re
+186
+
+76
+Os
+190
+
+77
+Ir
+192
+
+78
+Pt
+195
+
+79
+Au
+197
+
+80
+Hg
+201
+1,8 81
+Tℓ
+204
+1,8 82
+Pb
+207
+1,9 83
+Bi
+209
+2,0 84
+Po
+
+2,5 85
+At
+
+ 86
+Rn
+
+0,7 87
+Fr
+
+0,9 88
+Ra
+226
+
+89
+Ac
+
+58
+Ce
+140
+59
+Pr
+141
+60
+Nd
+144
+61
+Pm
+
+62
+Sm
+150
+63
+Eu
+152
+64
+Gd
+157
+65
+Tb
+159
+66
+Dy
+163
+67
+Ho
+165
+68
+Er
+167
+69
+Tm
+169
+70
+Yb
+173
+71
+Lu
+175
+
+90
+Th
+232
+91
+Pa
+
+92
+U
+238
+93
+Np
+
+94
+Pu
+
+95
+Am
+
+96
+Cm
+
+97
+Bk
+
+98
+Cf
+
+99
+Es
+
+100
+Fm
+
+101
+Md
+
+102
+No
+
+103
+Lr
+
+Approximate relative atomic mass
+Benaderde relatiewe atoommassa
+Atomic number
+Atoomgetal
+
+    29
+   Cu
+    63,5 1,9 Symbol
+ Simbool
+
+Electronegativity
+Elektronegatiwiteit
+KEY/SLEUTEL
+
+=== page 16 ===
+Physical Sciences/P2  DBE/November 2015
+CAPS – Grade 11
+Copyright reserved
+
+TABLE 4A: STANDARD REDUCTION POTENTIALS
+TABEL 4A: STANDAARD-REDUKSIEPOTENSIALE
+Half-reactions/Halfreaksies
+θ
+E  (V)
+F2(g) + 2e− ⇌ 2F− + 2,87
+Co3+ + e− ⇌ Co2+ + 1,81
+H2O2 + 2H+ +2e− ⇌ 2H2O +1,77
+MnO−4  + 8H+ + 5e− ⇌ Mn2+ + 4H2O + 1,51
+Cℓ2(g) + 2e− ⇌ 2Cℓ− + 1,36
+Cr2O −27  + 14H+ + 6e− ⇌ 2Cr3+ + 7H2O + 1,33
+O2(g) + 4H+ + 4e− ⇌ 2H2O + 1,23
+MnO2 + 4H+ + 2e− ⇌ Mn2+ + 2H2O + 1,23
+Pt2+ + 2e− ⇌ Pt + 1,20
+Br2(ℓ) + 2e− ⇌ 2Br− + 1,07
+NO−3  + 4H+ + 3e− ⇌ NO(g) + 2H2O + 0,96
+Hg2+ + 2e− ⇌ Hg(ℓ) + 0,85
+Ag+ + e− ⇌ Ag + 0,80
+NO−3  + 2H+ + e− ⇌ NO2(g) + H2O + 0,80
+Fe3+ + e− ⇌ Fe2+ + 0,77
+O2(g) + 2H+ + 2e− ⇌ H2O2 + 0,68
+I2 + 2e− ⇌ 2I− + 0,54
+Cu+ + e− ⇌ Cu + 0,52
+SO2 + 4H+ + 4e− ⇌ S + 2H2O + 0,45
+2H2O + O2 + 4e− ⇌ 4OH− + 0,40
+Cu2+ + 2e− ⇌ Cu + 0,34
+SO −24  + 4H+ + 2e− ⇌ SO2(g) + 2H2O + 0,17
+Cu2+ + e− ⇌ Cu+ + 0,16
+Sn4+ + 2e− ⇌ Sn2+ + 0,15
+S + 2H+ + 2e−  ⇌ H2S(g) + 0,14
+2H+ + 2e− ⇌ H2(g) 0,00
+Fe3+ + 3e− ⇌ Fe − 0,06
+Pb2+ + 2e− ⇌ Pb − 0,13
+Sn2+ + 2e− ⇌ Sn − 0,14
+Ni2+ + 2e− ⇌ Ni − 0,27
+Co2+ + 2e− ⇌ Co − 0,28
+Cd2+ + 2e− ⇌ Cd − 0,40
+Cr3+ + e− ⇌ Cr2+ − 0,41
+Fe2+ + 2e− ⇌ Fe − 0,44
+Cr3+ + 3e− ⇌ Cr − 0,74
+Zn2+ + 2e− ⇌ Zn − 0,76
+2H2O + 2e− ⇌ H2(g) + 2OH− − 0,83
+Cr2+ + 2e− ⇌ Cr − 0,91
+Mn2+ + 2e− ⇌ Mn − 1,18
+Aℓ3+ + 3e− ⇌ Aℓ − 1,66
+Mg2+ + 2e− ⇌ Mg − 2,36
+Na+ + e− ⇌ Na − 2,71
+Ca2+ + 2e− ⇌ Ca − 2,87
+Sr2+ + 2e− ⇌ Sr − 2,89
+Ba2+ + 2e− ⇌ Ba − 2,90
+Cs+ + e- ⇌ Cs - 2,92
+K+ + e− ⇌ K − 2,93
+Li+ + e− ⇌ Li − 3,05
+
+Increasing oxidising ability/Toenemende oksiderende vermoë
+Increasing reducing ability/Toenemende reduserende vermoë
+
+=== page 17 ===
+Physical Sciences/P2 DBE/November 2015
+CAPS – Grade 11
+Copyright reserved
+
+TABLE 4B: STANDARD REDUCTION POTENTIALS
+TABEL 4B: STANDAARD-REDUKSIEPOTENSIALE
+
+Half-reactions/Halfreaksies
+θ
+E  (V)
+Li+ + e− ⇌ Li − 3,05
+K+ + e− ⇌ K − 2,93
+Cs+ +  e− ⇌ Cs − 2,92
+Ba2+ + 2e− ⇌ Ba − 2,90
+Sr2+ + 2e− ⇌ Sr − 2,89
+Ca2+ + 2e− ⇌ Ca − 2,87
+Na+ + e− ⇌ Na − 2,71
+Mg2+ + 2e− ⇌ Mg − 2,36
+Aℓ3+ + 3e− ⇌ Aℓ − 1,66
+Mn2+ + 2e− ⇌ Mn − 1,18
+Cr2+ + 2e− ⇌ Cr − 0,91
+2H2O + 2e− ⇌ H2(g) + 2OH− − 0,83
+Zn2+ + 2e− ⇌ Zn − 0,76
+Cr3+ + 3e− ⇌ Cr − 0,74
+Fe2+ + 2e− ⇌ Fe − 0,44
+Cr3+ + e− ⇌ Cr2+ − 0,41
+Cd2+ + 2e− ⇌ Cd − 0,40
+Co2+ + 2e− ⇌ Co − 0,28
+Ni2+ + 2e− ⇌ Ni − 0,27
+Sn2+ + 2e− ⇌ Sn − 0,14
+Pb2+ + 2e− ⇌ Pb − 0,13
+Fe3+ + 3e− ⇌ Fe − 0,06
+2H+ + 2e− ⇌ H2(g) 0,00
+S + 2H+ + 2e−  ⇌ H2S(g) + 0,14
+Sn4+ + 2e− ⇌ Sn2+ + 0,15
+Cu2+ + e− ⇌ Cu+ + 0,16
+SO −24  + 4H+ + 2e− ⇌ SO2(g) + 2H2O + 0,17
+Cu2+ + 2e− ⇌ Cu + 0,34
+2H2O + O2 + 4e− ⇌ 4OH− + 0,40
+SO2 + 4H+ + 4e− ⇌ S + 2H2O + 0,45
+Cu+ + e− ⇌ Cu + 0,52
+I2 + 2e− ⇌ 2I− + 0,54
+O2(g) + 2H+ + 2e− ⇌ H2O2 + 0,68
+Fe3+ + e− ⇌ Fe2+ + 0,77
+NO−3  + 2H+ + e− ⇌ NO2(g) + H2O + 0,80
+Ag+ + e− ⇌ Ag + 0,80
+Hg2+ + 2e− ⇌ Hg(ℓ) + 0,85
+NO−3  + 4H+ + 3e− ⇌ NO(g) + 2H2O + 0,96
+Br2(ℓ) + 2e− ⇌ 2Br− + 1,07
+Pt2+ + 2 e− ⇌ Pt + 1,20
+MnO2 + 4H+ + 2e− ⇌ Mn2+ + 2H2O + 1,23
+O2(g) + 4H+ + 4e− ⇌ 2H2O + 1,23
+Cr2O −27  + 14H+ + 6e− ⇌ 2Cr3+ + 7H2O + 1,33
+Cℓ2(g) + 2e− ⇌ 2Cℓ− + 1,36
+MnO−4  + 8H+ + 5e− ⇌ Mn2+ + 4H2O + 1,51
+H2O2 + 2H+ +2 e− ⇌ 2H2O +1,77
+Co3+ + e− ⇌ Co2+ + 1,81
+F2(g) + 2e− ⇌ 2F− + 2,87
+Increasing oxidising ability/Toenemende oksiderende vermoë
+Increasing reducing ability/Toenemende reduserende vermoë
+
+=== page 18 ===
+Physical Sciences/P2 DBE/November 2015
+CAPS – Grade 11
+Copyright reserved
+
+NAME:
+CLASS:
+
+QUESTION 4.2 and 4.3
+
+PRESSURE
+(kPa)
+VOLUME
+(cm3) V1  (cm-3)
+50 43 0,02
+80 27 0,04
+100 22
+120 18
+
+Graph of pressure versus V1
+
+V
+1  (cm-3)
+Pressure (kPa)
+20
+40
+60
+0 0,02 0,04 0,06 0,08
+80
+0,1
+100
+120
+Submit this ANSWER SHEET with the ANSWER BOOK.

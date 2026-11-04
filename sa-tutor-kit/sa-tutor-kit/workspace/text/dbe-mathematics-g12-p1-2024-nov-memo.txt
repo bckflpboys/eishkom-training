@@ -1,0 +1,736 @@
+**NATIONAL SENIOR CERTIFICATE / NASIONALE SENIOR SERTIFIKAAT**
+
+**GRADE 12 / GRAAD 12**
+
+**MATHEMATICS P1 / WISKUNDE V1**
+
+**NOVEMBER 2024**
+
+**MARKING GUIDELINES / NASIENRIGLYNE**
+
+---
+
+### NOTE:
+* If a candidate answers a question TWICE, only mark the FIRST attempt.
+* Consistent Accuracy applies in all aspects of the marking guidelines.
+
+### LET WEL:
+* Indien ’n kandidaat ’n vraag TWEE keer beantwoord, sien slegs die EERSTE poging na.
+* Volgehoue akkuraatheid is DEURGAANS op ALLE aspekte van die nasienriglyne van toepassing.
+
+---
+
+### QUESTION / VRAAG 1
+
+1.1.1 
+$$x(x - 3) = 0$$
+$$x = 0 \text{ or } x = 3$$
+* $\checkmark x = 0$
+* $\checkmark x = 3$
+**(2)**
+
+1.1.2 
+$$2x^2 - 4x + 1 = 0$$
+$$x = \frac{-(-4) \pm \sqrt{(-4)^2 - 4(2)(1)}}{2(2)}$$
+$$x = 1,71 \text{ or } x = 0,29$$
+* $\checkmark$ standard form
+* $\checkmark$ correct substitution in correct formula
+* $\checkmark$ answer
+* $\checkmark$ answer
+**(4)**
+*(Answer only: $\frac{4 \pm \sqrt{8}}{4}$)*
+
+1.1.3 
+$$x^2 - 2x - 3 > 0$$
+$$(x - 3)(x + 1) > 0$$
+CV: $x = 3 \text{ or } x = -1$
+
+$x < -1 \text{ or } x > 3 \quad \text{OR/OF} \quad x \in (-\infty ; -1) \cup (3 ; \infty)$
+* $\checkmark$ factors
+* $\checkmark$ critical values
+* $\checkmark\checkmark$ answer
+**(4)**
+*(Answer only: $\frac{3}{4}$ / $\frac{4}{3}$)*
+
+1.1.4 
+$$2^{2x} - 2^{x+2} - 32 = 0$$
+$$2^{2x} - 2^2 \cdot 2^x - 32 = 0$$
+$$(2^x - 8)(2^x + 4) = 0$$
+$$2^x = 8 \quad \text{or} \quad 2^x \neq -4$$
+$$2^x = 2^3 \quad \text{no solution}$$
+$$x = 3$$
+* $\checkmark$ use of exponential law
+* $\checkmark$ factors
+* $\checkmark$ $2^x = 8$
+* $\checkmark$ $2^x \neq -4$
+* $\checkmark$ answer
+**(5)**
+*(Answer only: $\frac{1}{5}$)*
+
+1.1.5 
+$$\sqrt{-2x + 4} - x = 2$$
+$$\sqrt{-2x + 4} = 2 + x$$
+$$(\sqrt{-2x + 4})^2 = (2 + x)^2$$
+$$-2x + 4 = 4 + 4x + x^2$$
+$$x^2 + 6x = 0$$
+$$x(x + 6) = 0$$
+$$x = 0 \text{ or } x \neq -6$$
+* $\checkmark$ isolating the root
+* $\checkmark$ squaring both sides
+* $\checkmark$ standard form
+* $\checkmark$ answers with selection
+**(4)**
+
+1.2 
+$$y = 3 - 2x \quad \dots (1)$$
+$$y^2 + xy = 2 \quad \dots (2)$$
+Subs (1) into (2):
+$$(3 - 2x)^2 + (3 - 2x)x = 2$$
+$$4x^2 - 12x + 9 - 2x^2 + 3x - 2 = 0$$
+$$2x^2 - 9x + 7 = 0$$
+$$(2x - 7)(x - 1) = 0$$
+$$x = \frac{7}{2} \text{ or } x = 1$$
+$$y = -4 \quad y = 1$$
+
+**OR/OF**
+
+$$x = \frac{3 - y}{2} \quad \dots (1)$$
+$$y^2 + xy = 2 \quad \dots (2)$$
+Subs (1) into (2):
+$$y^2 + \left(\frac{3 - y}{2}\right)y = 2$$
+$$2y^2 + 3y - y^2 - 4 = 0$$
+$$y^2 + 3y - 4 = 0$$
+$$(y + 4)(y - 1) = 0$$
+$$y = -4 \text{ or } y = 1$$
+$$x = \frac{7}{2} \text{ or } x = 1$$
+* $\checkmark$ eq 1
+* $\checkmark$ substitution
+* $\checkmark$ standard form
+* $\checkmark$ both $x$-values
+* $\checkmark$ both $y$-values
+**(5)**
+
+1.3 
+$$\text{Product} = \frac{3}{2} \times \frac{4}{3} \times \frac{5}{4} \times \dots \times \frac{n}{n-1} \times \frac{n+1}{2} = \frac{n+1}{2}$$
+The product will be an integer value when $n + 1$ is divisible by 2 i.e. $n \in \{3; 5; 7; \dots\}$
+Therefore, $n$ must be an odd number, greater than 2.
+
+**OR/OF**
+
+For $n = 2$ the product is $\frac{3}{2}$
+
+For $n = 3$ the product is $\left(\frac{3}{2}\right)\left(\frac{4}{3}\right) = 2$
+
+For $n = 4$ the product is $\left(\frac{3}{2}\right)\left(\frac{4}{3}\right)\left(\frac{5}{4}\right) = \frac{5}{2}$
+
+For $n = 5$ the product is $\left(\frac{3}{2}\right)\left(\frac{4}{3}\right)\left(\frac{5}{4}\right)\left(\frac{6}{5}\right) = 3$
+
+$n \in \{3; 5; 7; \dots\}$
+
+Therefore, $n$ must be an odd number, greater than 2.
+* $\checkmark \frac{3}{2} \times \frac{4}{3} \times \frac{5}{4} \times \dots \times \frac{n}{n-1} \times \frac{n+1}{2}$
+* $\checkmark$ statement $\left(\frac{n+1}{2}\right)$
+* $\checkmark n$ is odd for $n > 2$
+**(3)**
+
+**OR/OF**
+* $\checkmark$ generation of the four products
+* $\checkmark$ identifying the pattern when $n$ is odd
+* $\checkmark n$ is odd for $n > 2$
+**(3)**
+
+---
+**[27]**
+
+---
+
+### QUESTION / VRAAG 2
+
+2.1.1 
+$$S_n = \frac{n}{2}[2a + (n-1)d]$$
+$$S_{20} = \frac{20}{2}[2(7) + (20-1)(5)]$$
+$$S_{20} = 1\,090$$
+* $\checkmark$ substitution
+* $\checkmark$ answer
+**(2)**
+
+2.1.2 
+$$T_n = 7 + (n-1)(5)$$
+$$T_n = 5n + 2$$
+$$S_{75} - S_{20} = 14\,400 - 1\,090 = 13\,310$$
+$$\sum_{n=1}^{75}(5n + 2) - \sum_{n=1}^{20}(5n + 2) = 13\,310$$
+$$\therefore \sum_{n=21}^{75}(5n + 2) = 13\,310$$
+
+**OR/OF**
+
+$$T_{21} + T_{22} + T_{23} + \dots + T_{75} = 14\,400 - 1\,090$$
+$$107 + 112 + 117 + \dots = 13\,310$$
+$$T_n = 102 + 5n$$
+$$\therefore \sum_{n=1}^{55}(5n + 102) = 13\,310$$
+* $\checkmark$ general term
+* $\checkmark S_{75} - S_{20}$
+* $\checkmark \sum_{n=21}^{75}$
+* $\checkmark = 13\,310$
+**(4)**
+
+**OR/OF**
+* $\checkmark S_{75} - S_{20}$
+* $\checkmark$ general term
+* $\checkmark \sum_{n=1}^{55}$
+* $\checkmark = 13\,310$
+**(4)**
+
+2.2.1 
+$$T_n = 2n - 1$$
+$98^{\text{th}}$ first difference $= 2(98) - 1 = 195$
+
+Quadratic: $T_{98} = 9\,632 - 195 = 9\,437$
+* $\checkmark$ answer
+* $\checkmark$ method
+* $\checkmark$ answer
+**(3)**
+
+2.2.2 
+$$28 \quad ; \quad 29 \quad ; \quad 32$$
+$$1 \quad 3 \quad 5 \quad 7$$
+$$2 \quad 2 \quad 2$$
+
+$$\begin{aligned}
+2a &= 2 & 3a + b &= 1 & 9a + 3b + c &= 32 \\
+a &= 1 & 3(1) + b &= 1 & T_3 = 1(3)^2 - 2(3) + c &= 32 \\
+& & b &= -2 & c &= 29
+\end{aligned}$$
+
+**OR/OF**
+$$1 - 2 + c = 28$$
+$$c = 29$$
+
+$$\therefore T_n = n^2 - 2n + 29$$
+* $\checkmark$ second difference
+* $\checkmark a = 1$
+* $\checkmark b = -2$
+* $\checkmark$ method to calculate $c$
+* $\checkmark c = 29$
+**(5)**
+
+---
+**[14]**
+
+---
+
+### QUESTION / VRAAG 3
+
+3.1 
+$2^{\text{nd}}$ circle: $\frac{6}{2} = 3\text{ cm}$
+
+$3^{\text{rd}}$ circle: $\frac{3}{2} = 1,5\text{ cm}$
+
+**OR/OF**
+$3^{\text{rd}}$ circle $= 6\left(\frac{1}{2}\right)^2 = 1,5$
+* $\checkmark\checkmark$ radius $3^{\text{rd}}$ circle
+**(2)**
+
+3.2 
+$$36\pi ; 9\pi ; \frac{9}{4}\pi ; \dots$$
+$$r = \frac{1}{4} ; a = 36\pi$$
+
+$$S_{10} = \frac{36\pi\left(\left(\frac{1}{4}\right)^{10} - 1\right)}{\frac{1}{4} - 1}$$
+$$S_{10} = 150,80$$
+* $\checkmark a$
+* $\checkmark r$
+* $\checkmark$ substitution
+* $\checkmark$ answer
+**(4)**
+
+3.3 
+$$6 ; 3 ; \frac{3}{2} ; \dots$$
+$$\text{radius} = \frac{1}{2}\left(\frac{3}{128}\right) = \frac{3}{256}$$
+
+$$\frac{3}{256} = 6\left(\frac{1}{2}\right)^{n-1}$$
+$$\frac{1}{512} = \left(\frac{1}{2}\right)^{n-1}$$
+$$\left(\frac{1}{2}\right)^9 = \left(\frac{1}{2}\right)^{n-1}$$
+
+**or/of** 
+$$n - 1 = \log_{\left(\frac{1}{2}\right)}\left(\frac{1}{512}\right)$$
+
+$$\therefore n - 1 = 9$$
+$$\therefore n = 10$$
+
+**OR/OF**
+$$12 ; 6 ; 3 ; \dots$$
+$$\text{diameter} = \frac{3}{128}$$
+$$\frac{3}{128} = 12\left(\frac{1}{2}\right)^{n-1}$$
+$$\frac{1}{512} = \left(\frac{1}{2}\right)^{n-1}$$
+$$\left(\frac{1}{2}\right)^9 = \left(\frac{1}{2}\right)^{n-1}$$
+
+**or/of** 
+$$n - 1 = \log_{\left(\frac{1}{2}\right)}\left(\frac{1}{512}\right)$$
+
+$$\therefore n - 1 = 9$$
+$$\therefore n = 10$$
+* $\checkmark \frac{3}{256}$
+* $\checkmark$ equating to radius / general term
+* $\checkmark$ simplification
+* $\checkmark$ answer
+**(4)**
+
+**OR/OF**
+* $\checkmark 12\left(\frac{1}{2}\right)^{n-1}$
+* $\checkmark$ equating general term of diameter to $\frac{3}{128}$
+* $\checkmark$ simplification
+* $\checkmark$ answer
+**(4)**
+
+---
+**[10]**
+
+---
+
+### QUESTION / VRAAG 4
+
+4.1 
+$$f(x) = a^x - 1$$
+$$-\frac{5}{9} = a^2 - 1$$
+$$a^2 = \frac{4}{9}$$
+$$a = \frac{2}{3}$$
+* $\checkmark$ substitution
+* $\checkmark$ answer
+**(2)**
+
+4.2 
+$$y > -1 \quad \text{OR/OF} \quad y \in (-1 ; \infty)$$
+* $\checkmark$ answer
+**(1)**
+
+4.3 
+* $\checkmark (0 ; 0)$
+* $\checkmark$ asymptote
+* $\checkmark$ decreasing shape
+**(3)**
+
+4.4 
+$$\frac{19}{8} = \left(\frac{2}{3}\right)^x - 1$$
+$$\frac{27}{8} = \left(\frac{2}{3}\right)^x$$
+$$\left(\frac{3}{2}\right)^3 = \left(\frac{2}{3}\right)^{-x}$$
+$$\therefore x = -3$$
+$$C\left(-3 ; \frac{19}{8}\right)$$
+$$\left(\frac{19}{8} ; -3\right)$$
+* $\checkmark$ substitution
+* $\checkmark$ answer
+* $\checkmark$ answer
+**(3)**
+
+---
+**[9]**
+
+---
+
+### QUESTION / VRAAG 5
+
+5.1 
+$$p = -1$$
+* $\checkmark p = -1$
+**(1)**
+
+5.2 
+$$y = x - 3$$
+$$y = 1 - 3$$
+$$y = -2$$
+* $\checkmark$ substitution
+* $\checkmark$ answer
+**(2)**
+*(Answer only: $-\frac{2}{2}$)*
+
+5.3 
+$$1 = \frac{a}{0 - 1} - 2$$
+$$3 = \frac{a}{-1}$$
+$$a = -3$$
+* $\checkmark$ substitute $(0 ; 1)$
+* $\checkmark$ answer
+**(2)**
+
+5.4 
+$$\frac{-3}{x - 1} - 2 = 0$$
+$$-3 = 2x - 2$$
+$$2x = -1$$
+$$\therefore x = -\frac{1}{2}$$
+$$x \in \left[-\frac{1}{2} ; 1\right) \quad \text{OR/OF} \quad -\frac{1}{2} \le x < 1$$
+* $\checkmark$ $x$-intercept
+* $\checkmark\checkmark$ answer
+**(3)**
+
+5.5 $f$ is reflected in the $y$-axis, then translated 2 units to the right
+
+**OR/OF**
+
+$f$ is reflected in the $x$-axis, then translated 4 units down
+
+**OR/OF**
+
+$f$ is reflected about the line $x = 1$
+
+**OR/OF**
+
+$f$ is reflected about the line $y = -2$
+* $\checkmark$ reflection in $y$-axis
+* $\checkmark$ translation 2 units right
+**(2)**
+
+**OR/OF**
+* $\checkmark$ reflection in $x$-axis
+* $\checkmark$ translation 4 units down
+**(2)**
+
+**OR/OF**
+* $\checkmark\checkmark$ reflection about line $x = 1$
+**(2)**
+
+**OR/OF**
+* $\checkmark\checkmark$ reflection about line $y = -2$
+**(2)**
+
+---
+**[10]**
+
+---
+
+### QUESTION / VRAAG 6
+
+6.1 
+$$x = \frac{-(-4)}{2(-1)} = 2 \quad \text{OR/OF} \quad f'(x) = -2x + 4 = 0 \Rightarrow x = 2$$
+$$y = -(2)^2 + 4(2) + 5 = 9$$
+$$\therefore B(2 ; 9)$$
+* $\checkmark$ method for $x$
+* $\checkmark$ value of $x$
+* $\checkmark$ value for $y$
+**(3)**
+
+6.2 
+$$x^2 - 4x - 5 = 0$$
+$$(x - 5)(x + 1) = 0$$
+$$x = 5 \text{ or } x = -1$$
+$$\therefore A(-1 ; 0)$$
+
+Equation of AC:
+$$\frac{8 - 0}{3 + 1} = \frac{y - 0}{x + 1} \quad \text{OR/OF} \quad m = \frac{8 - 0}{3 + 1} = 2$$
+$$8x + 8 = 4y$$
+$$2x + 2 = y$$
+$$y - 0 = 2(x + 1)$$
+$$y = 2x + 2$$
+* $\checkmark A(-1 ; 0)$
+* $\checkmark$ method for gradient
+* $\checkmark$ substitute point A or C into equation of a straight line
+**(3)**
+
+6.3 
+$$EH = -x^2 + 4x + 5 - (2x + 2)$$
+$$EH = -x^2 + 2x + 3$$
+
+Max EH at:
+$$-2x + 2 = 0 \quad \text{OR/OF} \quad x = \frac{-b}{2a} = \frac{-(2)}{2(-1)} = 1$$
+$$x = 1$$
+
+Max length of $EH = -(1)^2 + 2(1) + 3 = 4$
+* $\checkmark$ difference
+* $\checkmark EH = -x^2 + 2x + 3$
+* $\checkmark x$-value
+* $\checkmark$ length
+**(4)**
+*(Answer only: $\frac{1}{4}$)*
+
+6.4 
+$$k(x) = f(x + m)$$
+$$= -(x + m)^2 + 4(x + m) + 5$$
+$$= -x^2 - 2mx - m^2 + x + 4m + 5$$
+$$k'(x) = -2x - 2m + 4$$
+$$k'(x) = 2$$
+$$-2x - 2m + 4 = 2$$
+$$-2x = 2m - 2$$
+$$x = 1 - m$$
+
+$$k(1 - m) = g(1 - m)$$
+$$-\left(1 - m\right)^2 - 2m(1 - m) - m^2 + 4(1 - m) + 4m + 5 = 2(1 - m) + 2$$
+$$-1 + 2m - m^2 - 2m + 2m^2 - m^2 + 4 - 4m + 4m + 5 = 2 - 2m + 2$$
+$$-2m - 4 = 0$$
+$$\therefore m = -2$$
+
+**OR/OF**
+$$k(x) = f(x + m) = g(x)$$
+$$-x^2 - 2mx - m^2 + 4x + 4m + 5 = 2x + 2$$
+$$0 = x^2 + (2m - 2)x + m^2 - 4m - 3$$
+$$\Delta = (2m - 2)^2 - 4(1)(m^2 - 4m - 3)$$
+$$\Delta = 4m^2 - 8m + 4 - 4m^2 + 16m + 12$$
+$$\Delta = 8m + 16 = 0$$
+$$\therefore m = -2$$
+
+**OR/OF**
+$$f(x) = -x^2 + 4x + 5$$
+$$f'(x) = -2x + 4 = 2$$
+$$-2x = -2$$
+$$x = 1$$
+
+$$f(1) = -(1)^2 + 4(1) + 5$$
+$$\therefore y = 8$$
+$\therefore \text{translate } 2 \text{ units to the right}$
+$$\therefore m = -2$$
+* $\checkmark k'(x)$
+* $\checkmark k'(x) = 2$
+* $\checkmark x = 1 - m$
+* $\checkmark$ substitution
+* $\checkmark$ answer
+**(5)**
+*(Answer only: $-\frac{0}{5}$)*
+
+**OR/OF**
+* $\checkmark$ equating
+* $\checkmark$ simplification
+* $\checkmark$ substitution into $\Delta$
+* $\checkmark \Delta = 0$
+* $\checkmark$ answer
+**(5)**
+
+**OR/OF**
+* $\checkmark f'(x) = 2$
+* $\checkmark x$-value
+* $\checkmark y$-value
+* $\checkmark 2$ units to the right
+* $\checkmark$ answer
+**(5)**
+
+---
+**[15]**
+
+---
+
+### QUESTION / VRAAG 7
+
+7.1 
+$$A = P(1 + i)^n$$
+$$A = 5\,000\left(1 + \frac{6,8}{400}\right)^{64}$$
+$$= \text{R}14\,706,56$$
+* $\checkmark i, n$
+* $\checkmark$ substitution into correct formula
+* $\checkmark$ answer
+**(3)**
+
+7.2 
+$$A = P(1 - i)^n$$
+$$\frac{1}{2}P = P(1 - 4i)$$
+$$\frac{1}{2} = 1 - 4i$$
+$$i = \frac{1}{8}$$
+$$\therefore r = 12,5\%$$
+
+**OR/OF**
+$$r = \frac{50\%}{4}$$
+$$r = 12,5\%$$
+* $\checkmark$ substitution into correct formula
+* $\checkmark$ answer
+**(2)**
+
+**OR/OF**
+* $\checkmark$ method
+* $\checkmark$ answer
+**(2)**
+
+7.3.1 Already paid:
+$$2\,300,98 \times 60 = \text{R}138\,058,80$$
+
+Interest:
+$$138\,058,80 - 100\,000 = \text{R}38\,058,80$$
+* $\checkmark$ amount already paid
+* $\checkmark$ interest
+**(2)**
+
+7.3.2 Balance after 2 years:
+$$P = \frac{x\left[1 - (1 + i)^{-n}\right]}{i}$$
+$$P = \frac{2\,300,98\left[1 - \left(1 + \frac{13,5}{1200}\right)^{-36}\right]}{\frac{13,5}{1200}}$$
+$$= \text{R}67\,804,94$$
+
+$$\text{R}67\,804,94 - \text{R}20\,000 = \text{R}47\,804,94$$
+
+$$47\,804,94 = \frac{2\,300,98\left[1 - \left(1 + \frac{13,5}{1200}\right)^{-n}\right]}{\frac{13,5}{1200}}$$
+
+$$0,766\dots = (1,01125)^{-n}$$
+$$\log_{1,01125} 0,766 = -n$$
+$$n = 23,83$$
+$$\therefore 12 \text{ months earlier}$$
+
+**OR/OF**
+$$A = 100\,000\left(1 + \frac{13,5}{1200}\right)^{12 \times 2} = \text{R}130\,799,12$$
+$$F = \frac{2\,300,98\left[\left(1 + \frac{13,5}{1200}\right)^{12 \times 2} - 1\right]}{\frac{13,5}{1200}} = \text{R}62\,993,92$$
+$$\text{Balance outstanding} = A - F = 130\,799,12 - 62\,993,92 = \text{R}67\,805,20$$
+$$\text{R}67\,805,20 - \text{R}20\,000 = \text{R}47\,805,20$$
+
+$$47\,805,20 = \frac{2\,300,98\left[1 - \left(1 + \frac{13,5}{1200}\right)^{-n}\right]}{\frac{13,5}{1200}}$$
+
+$$0,766\dots = (1,01125)^{-n}$$
+$$\log_{1,01125} 0,766\dots = -n$$
+$$n = 23,80$$
+$$\therefore 12 \text{ months' earlier}$$
+
+**OR/OF**
+$$100\,000 = \frac{2\,300,98\left[1 - \left(1 + \frac{13,5}{1200}\right)^{-n}\right]}{\frac{13,5}{1200}} + 20\,000\left(1 + \frac{13,5}{1200}\right)^{-24}$$
+
+$$84\,709,38 = \frac{2\,300,98\left[1 - \left(\frac{809}{800}\right)^{-n}\right]}{\frac{0,135}{12}}$$
+
+$$0,4142 = 1 - \left(\frac{809}{800}\right)^{-n}$$
+$$\left(\frac{809}{800}\right)^{-n} = 0,5858$$
+$$-n = \log_{\left(\frac{809}{800}\right)} 0,5858$$
+$$n = 47,80 \text{ months after starting payments}$$
+$$\therefore 12 \text{ months earlier}$$
+* $\checkmark n = 36$
+* $\checkmark i$
+* $\checkmark$ substitution into correct formula
+* $\checkmark$ answer
+* $\checkmark$ answer
+* $\checkmark$ substitution into correct formula
+* $\checkmark$ answer in months
+**(7)**
+
+**OR/OF**
+* $\checkmark n = 24$
+* $\checkmark i$
+* $\checkmark$ substitution into both correct formulae
+* $\checkmark$ answer
+* $\checkmark$ answer
+* $\checkmark$ substitution into correct formula
+* $\checkmark$ answer in months
+**(7)**
+
+**OR/OF**
+* $\checkmark i$
+* $\checkmark n = 24$
+* $\checkmark = 100\,000$
+* $\checkmark$ substitution into correct $P$ formula
+* $\checkmark$ substitution into correct $A$ formula
+* $\checkmark$ simplification
+* $\checkmark$ answer in months
+**(7)**
+
+---
+**[14]**
+
+---
+
+### QUESTION / VRAAG 8
+
+8.1.1 
+$$\frac{d}{dx}[3x - 5x^2] = 3 - 10x$$
+* $\checkmark 3$
+* $\checkmark -10x$
+**(2)**
+
+8.1.2 
+$$g(x) = \frac{2}{x^2} - 3\sqrt[7]{x^3}$$
+$$g(x) = 2x^{-2} - 3x^{\frac{3}{7}}$$
+$$g'(x) = -4x^{-3} - \frac{9}{7}x^{-\frac{4}{7}}$$
+* $\checkmark 2x^{-2}$
+* $\checkmark 3x^{\frac{3}{7}}$
+* $\checkmark -4x^{-3}$
+* $\checkmark -\frac{9}{7}x^{-\frac{4}{7}}$
+**(4)**
+
+8.2 
+$$f(x) = x^3 - 4x^2 + 2x + 3$$
+$$f'(x) = 3x^2 - 8x + 2$$
+$$m = f'(2) = 3(2)^2 - 8(2) + 2$$
+$$m = -2$$
+$$y = f(2) = (2)^3 - 4(2)^2 + 2(2) + 3$$
+$$y = -1$$
+$$y + 1 = -2(x - 2)$$
+$$y = -2x + 3$$
+* $\checkmark m = -2$
+* $\checkmark y = -1$
+* $\checkmark$ answer
+**(3)**
+
+8.3.1 
+$$f(x) = -6x^2$$
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+$$= \lim_{h \to 0} \frac{-6(x + h)^2 + 6x^2}{h}$$
+$$= \lim_{h \to 0} \frac{-6x^2 - 12xh - 6h^2 + 6x^2}{h}$$
+$$= \lim_{h \to 0} \frac{-12xh - 6h^2}{h}$$
+$$= \lim_{h \to 0} \frac{h(-12x - 6h)}{h}$$
+$$= \lim_{h \to 0} (-12x - 6h) = -12x$$
+
+**OR/OF**
+$$f(x) = -6x^2$$
+$$f(x + h) = -6x^2 - 12xh - 6h^2$$
+$$f(x + h) - f(x) = -6x^2 - 12xh - 6h^2 + 6x^2 = -12xh - 6h^2$$
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+$$= \lim_{h \to 0} \frac{-12xh - 6h^2}{h}$$
+$$= \lim_{h \to 0} \frac{h(-12x - 6h)}{h}$$
+$$= \lim_{h \to 0} (-12x - 6h) = -12x$$
+* $\checkmark$ substitution
+* $\checkmark f(x + h) = -6x^2 - 12xh - 6h^2$
+* $\checkmark$ simplification
+* $\checkmark$ common factor
+* $\checkmark$ answer
+**(5)**
+
+**OR/OF**
+* $\checkmark f(x + h) = -6x^2 - 12xh - 6h^2$
+* $\checkmark$ simplification
+* $\checkmark$ substitution
+* $\checkmark$ common factor
+* $\checkmark$ answer
+**(5)**
+
+8.3.2 
+$$x \ge 0 \quad \text{OR/OF} \quad x \le 0$$
+* $\checkmark$ answer
+**(1)**
+
+8.3.3 
+$$y = -6x^2$$
+$$x = -6y^2$$
+$$y^2 = -\frac{1}{6}x$$
+$$y = \pm\sqrt{-\frac{1}{6}x}$$
+$$\therefore y = -\sqrt{-\frac{1}{6}x} \quad ; \quad x \le 0$$
+* $\checkmark$ swopping $x$ and $y$
+* $\checkmark y = \pm\sqrt{-\frac{1}{6}x}$
+* $\checkmark$ answer
+**(3)**
+
+---
+**[18]**
+
+---
+
+### QUESTION / VRAAG 9
+
+9.1 
+$$1 < x < \frac{5}{2}$$
+* $\checkmark\checkmark$ answer
+**(2)**
+
+9.2 
+$$(1 ; 0) \text{ and } \left(\frac{5}{2} ; 0\right)$$
+* $\checkmark x = 1$
+* $\checkmark x = \frac{5}{2}$
+**(2)**
+
+9.3 
+$$\frac{\frac{5}{2} + 1}{2} = \frac{7}{4}$$
+Concave up for $x > \frac{7}{4}$
+* $\checkmark$ method
+* $\checkmark$ answer
+**(2)**
+
+9.4 
+$$-9 < k < -8$$
+* $\checkmark\checkmark$ answer
+**(2)**
+
+---
+**[8]**
+
+---
+
+### QUESTION / VRAAG 10
+
+10.1 
+$$-6t + 18 = 0$$
+$$18 = 6t$$
+$$3 = t$$
+$$s'(3) = -3(

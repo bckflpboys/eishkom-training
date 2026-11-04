@@ -1,0 +1,250 @@
+**basic education**  
+Department:  
+Basic Education  
+**REPUBLIC OF SOUTH AFRICA**
+
+---
+
+**SENIOR CERTIFICATE EXAMINATIONS/**  
+**NATIONAL SENIOR CERTIFICATE EXAMINATIONS**
+
+### MATHEMATICS P1
+
+**2021**
+
+**MARKS: 150**  
+**TIME: 3 hours**
+
+**This question paper consists of 10 pages and 1 information sheet.**
+
+---
+
+### INSTRUCTIONS AND INFORMATION
+
+Read the following instructions carefully before answering the questions.
+
+1. This question paper consists of 11 questions.
+2. Answer ALL the questions.
+3. Number the answers correctly according to the numbering system used in this question paper.
+4. Clearly show ALL calculations, diagrams, graphs, etc. that you have used in determining your answers.
+5. Answers only will NOT necessarily be awarded full marks.
+6. You may use an approved scientific calculator (non-programmable and non-graphical), unless stated otherwise.
+7. If necessary, round off answers to TWO decimal places, unless stated otherwise.
+8. Diagrams are NOT necessarily drawn to scale.
+9. An information sheet with formulae is included at the end of the question paper.
+10. Write neatly and legibly.
+
+---
+
+### QUESTION 1
+
+1.1 Solve for $x$:
+
+$$1.1.1 \quad x^2 - x - 20 = 0 \tag{3}$$
+
+$$1.1.2 \quad 3x^2 - 2x - 6 = 0 \quad \text{(correct to TWO decimal places)} \tag{4}$$
+
+$$1.1.3 \quad (x - 1)^2 > 9 \tag{4}$$
+
+$$1.1.4 \quad 2\sqrt{x + 6} + 2 = x \tag{4}$$
+
+1.2 Solve simultaneously for $x$ and $y$:
+
+$$4x + y = 2 \quad \text{and} \quad 4x + y^2 = 8 \tag{5}$$
+
+1.3 If it is given that $2^x \times 3^y = 24^6$, determine the numerical value of $x - y$. \tag{4}
+
+**[24]**
+
+---
+
+### QUESTION 2
+
+2.1 Consider the quadratic sequence: $72\ ;\ 100\ ;\ 120\ ;\ 132\ ;\ \dots$
+
+$$2.1.1 \quad \text{Determine } T_n\text{, the } n^{\text{th}} \text{ term of the quadratic sequence.} \tag{4}$$
+
+$$2.1.2 \quad \text{A term in the quadratic sequence } 72\ ;\ 100\ ;\ 120\ ;\ 132\ ;\ \dots \text{ is equal to the twelfth term of the sequence of first-differences. Determine the position of this term in the quadratic sequence.} \tag{5}$$
+
+$$2.1.3 \quad \text{Determine the maximum value of the quadratic sequence.} \tag{3}$$
+
+$$2.1.4 \quad \text{Determine the maximum value of the sequence: } -23\ ;\ 5\ ;\ 25\ ;\ 37\ ;\ \dots \tag{1}$$
+
+2.2 Consider the sequence: $-11\ ;\ 2\sin 3x\ ;\ 15\ ;\ \dots$  
+Determine the values of $x$ in the interval $[0^\circ\ ;\ 90^\circ]$ for which the sequence will be arithmetic. \tag{4}
+
+**[17]**
+
+---
+
+### QUESTION 3
+
+3.1 If $r = \frac{1}{5}$ and $a = 2\ 000$, determine:
+
+$$3.1.1 \quad T_n\text{, the general term of the series} \tag{1}$$
+
+$$3.1.2 \quad T_7 \tag{1}$$
+
+$$3.1.3 \quad \text{Which term of the series will have a value of } \frac{16}{15\ 625} \tag{3}$$
+
+3.2 Consider the geometric series where $\sum_{n=1}^{\infty} T_n = 27$ and $S_3 = 26$.  
+Calculate the value of the constant ratio ($r$) of the series. \tag{4}
+
+**[9]**
+
+---
+
+### QUESTION 4
+
+The lines $y = x + 1$ and $y = -x - 7$ are the axes of symmetry of the function $f(x) = \frac{-2}{x + p} + q$.
+
+4.1 Show that $p = 4$ and $q = -3$. \tag{4}
+
+4.2 Calculate the $x$-intercept of $f$. \tag{2}
+
+4.3 Sketch the graph of $f$. Clearly label ALL intercepts with the axes and the asymptotes. \tag{4}
+
+**[10]**
+
+---
+
+### QUESTION 5
+
+Sketched below are the graphs of $f(x) = -2x^2 + 4x + 16$ and $g(x) = 2x + 4$.  
+A and B are the $x$-intercepts of $f$. C is the turning point of $f$.
+
+[DIAGRAM: Graph of a concave-down parabola $f(x)$ with turning point C in the first quadrant, $x$-intercepts at A (negative $x$-axis) and B (positive $x$-axis). A straight line $g(x)$ with positive gradient passes through point A and intersects $f$ in the first quadrant.]
+
+5.1 Calculate the coordinates of A and B. \tag{3}
+
+5.2 Determine the coordinates of C, the turning point of $f$. \tag{2}
+
+5.3 Write down the range of $f$. \tag{1}
+
+5.4 The graph of $h(x) = f(x + p) + q$ has a maximum value of 15 at $x = 2$.  
+Determine the values of $p$ and $q$. \tag{3}
+
+5.5 Determine the equation of $g^{-1}$, the inverse of $g$, in the form $y = \dots$ \tag{2}
+
+5.6 For which value(s) of $x$ will $g^{-1}(x) \cdot g(x) = 0$? \tag{2}
+
+5.7 If $p(x) = f(x) + k$, determine the value(s) of $k$ for which $p$ and $g$ will NOT intersect. \tag{5}
+
+**[18]**
+
+---
+
+### QUESTION 6
+
+6.1 Given: $g(x) = 3^x$
+
+$$6.1.1 \quad \text{Write down the equation of } g^{-1} \text{ in the form } y = \dots \tag{2}$$
+
+$$6.1.2 \quad \text{Point } \text{P}(6\ ;\ 11) \text{ lies on } h(x) = 3^{x-4} + 2\text{. The graph of } h \text{ is translated to form } g\text{. Write down the coordinates of the image of P on } g\text{.} \tag{2}$$
+
+6.2 Sketched is the graph of $f(x) = 2^{x+p} + q$. $\text{T}(3\ ;\ 16)$ is a point on $f$ and the asymptote of $f$ is $y = -16$.
+
+[DIAGRAM: An exponential curve $f$ increasing from left to right in the Cartesian plane with a horizontal asymptote at $y = -16$. The curve passes through point $\text{T}(3\ ;\ 16)$.]
+
+Determine the values of $p$ and $q$. \tag{4}
+
+**[8]**
+
+---
+
+### QUESTION 7
+
+7.1 An amount of R10 000 was invested for 4 years, earning interest at $r\%$ p.a., compounded quarterly. At the end of the 4 years, the total amount in the account was R13 080. Determine the value of $r$. \tag{4}
+
+7.2 A businesswoman deposited R9 000 into an account at the end of January 2014. She continued to make monthly deposits of R9 000 at the end of each month up to the end of December 2018. The account earned interest at a rate of 7,5% p.a., compounded monthly.
+
+$$7.2.1 \quad \text{Calculate how much money was in the account immediately after 60 deposits had been made.} \tag{3}$$
+
+$$7.2.2 \quad \text{The businesswoman left the amount calculated in QUESTION 7.2.1 for a further } n \text{ months in the account. The interest rate remained unchanged and no further payments were made. The total interest earned over the entire investment period was R190 214,14. Determine the value of } n\text{.} \tag{6}$$
+
+**[13]**
+
+---
+
+### QUESTION 8
+
+8.1 Determine $f'(x)$ from first principles if it is given that $f(x) = 3x^2$. \tag{5}
+
+8.2 Determine:
+
+$$8.2.1 \quad f'(x) \quad \text{if } f(x) = x^2 - 3 + \frac{9}{x^2} \tag{3}$$
+
+$$8.2.2 \quad g'(x) \quad \text{if } g(x) = (\sqrt{x} + 3)(\sqrt{x} - 1) \tag{4}$$
+
+**[12]**
+
+---
+
+### QUESTION 9
+
+The graph of $f(x) = 2x^3 + 3x^2 - 12x$ is sketched below.  
+A and B are the turning points of $f$. $\text{C}(2\ ;\ 4)$ is a point on $f$.
+
+[DIAGRAM: Cubic function $f(x)$ with local maximum at A in the second quadrant, local minimum at B in the fourth quadrant, passing through the origin $\text{O}(0,0)$, and point $\text{C}(2\ ;\ 4)$ on the graph in the first quadrant.]
+
+9.1 Determine the coordinates of A and B. \tag{5}
+
+9.2 For which values of $x$ will $f$ be concave up? \tag{3}
+
+9.3 Determine the equation of the tangent to $f$ at $\text{C}(2\ ;\ 4)$. \tag{3}
+
+**[11]**
+
+---
+
+### QUESTION 10
+
+10.1 The graph of $f(x) = ax^3 + bx^2 + cx + d$ has two turning points.
+
+The following information about $f$ is also given:
+* $f(2) = 0$
+* The $x$-axis is a tangent to the graph of $f$ at $x = -1$
+* $f'(1) = 0$
+* $f\left(\frac{1}{2}\right) > 0$
+
+Without calculating the equation of $f$, use this information to draw a sketch graph of $f$, only indicating the $x$-coordinates of the $x$-intercepts and turning points. \tag{4}
+
+10.2 O is the centre of a semicircle passing through A, B, C and D. The radius of the semicircle is $(x - x^2)$ units for $0 < x < 1$. $\Delta\text{AOB}$ is right-angled at O.
+
+[DIAGRAM: Semicircle with horizontal diameter DC and centre O. Points A and B lie on the arc of the semicircle such that $\angle\text{AOB} = 90^\circ$. The region bounded by chord AB and the circular arc AB is shaded.]
+
+10.2.1 Show that the area of the shaded part is given by:
+
+$$\text{Area} = \left(\frac{\pi - 2}{4}\right)(x^4 - 2x^3 + x^2) \tag{5}$$
+
+10.2.2 Determine the value of $x$ for which the shaded area will be a maximum. \tag{4}
+
+**[13]**
+
+---
+
+### QUESTION 11
+
+11.1 Two events, A and B, are such that:
+* Events A and B are independent
+* $\text{P(not A)} = 0{,}4$
+* $\text{P(B)} = 0{,}3$
+
+Calculate $\text{P(A and B)}$. \tag{3}
+
+11.2 A survey was conducted among 150 learners at a school.
+
+The following observations were made:
+* The probability that a learner, selected at random, will take part in:
+  * Only hockey (H) is $0{,}24$
+  * Hockey and debating (D), but not chess (C) is $0{,}14$
+  * Debating and chess, but not hockey is $0{,}12$
+  * Hockey and chess, but not debating is $0{,}02$
+* The probability that a learner, selected at random, participates in at least one activity is $0{,}7$.
+* 15 learners participated in all three activities.
+* The number of learners that participate only in debating is the same as the number of learners who participate only in chess.
+
+The Venn diagram below shows some of the above information.
+
+[DIAGRAM: Venn diagram showing sample space S and three intersecting circles for events H (Hockey), D (Debating), and C (Chess).
+- Region H only =

@@ -1,0 +1,767 @@
+# SENIOR CERTIFICATE EXAMINATIONS / NATIONAL SENIOR CERTIFICATE EXAMINATIONS
+
+**MATHEMATICS P2 / WISKUNDE V2**  
+**MARKING GUIDELINES / NASIENRIGLYNE**  
+**MAY / JUNE / MEI / JUNIE 2024**
+
+**MARKS / PUNTE: 150**
+
+---
+
+**NOTE:**
+* If a candidate answers a question TWICE, only mark the FIRST attempt.
+* If a candidate has crossed out an attempt of a question and did not redo the question, mark the crossed out version.
+* Consistent accuracy applies in ALL aspects of the Marking Guidelines. Stop marking at the second calculation error.
+* Assuming answers/values in order to solve a problem is NOT acceptable.
+
+**LET WEL:**
+* As 'n kandidaat 'n vraag TWEE KEER beantwoord, sien slegs die EERSTE poging na.
+* As 'n kandidaat 'n antwoord op 'n vraag doodtrek en nie oordoen nie, sien die doodgetrekte poging na.
+* Volgehoue akkuraatheid word in ALLE aspekte van die Nasienriglyne toegepas. Hou op nasien by die tweede berekeningsfout.
+* Aanvaar van antwoorde/waardes om 'n probleem op te los, word NIE toegelaat nie.
+
+---
+
+### GEOMETRY
+
+* **S:** A mark for a correct statement (A statement mark is independent of a reason) / 'n Punt vir 'n korrekte bewering ('n Punt vir 'n bewering is onafhanklik van die rede)
+* **R:** A mark for the correct reason (A reason mark may only be awarded if the statement is correct) / 'n Punt vir 'n korrekte rede ('n Punt word slegs vir die rede toegeken as die bewering korrek is)
+* **S/R:** Award a mark if statement AND reason are both correct / Ken 'n punt toe as die bewering EN rede beide korrek is
+
+---
+
+## QUESTION / VRAAG 1
+
+1.1 
+$$a = -43,72$$
+$$b = 2,36$$
+$$y = -43,72 + 2,36x$$
+
+* ✓ $a = -43,72$
+* ✓ $b = 2,36$
+* ✓ equation
+
+(3)
+
+1.2 
+
+*(Scatter plot graph)*
+
+* ✓ any correct two points
+* ✓ straight line joining the points for $x \in [85; 160]$
+
+(2)
+
+1.3 
+$$y = -43,72 + 2,36(110)$$
+$$y = 215,88$$
+
+**OR**
+
+$$y = 215,90 \text{ (calculator)}$$
+
+* ✓ substitution
+* ✓ answer
+
+(2)
+
+* ✓✓ answer
+
+(2)
+
+1.4 
+$$y = -43,72 + 2,36(130)$$
+$$y = 263,08$$
+
+$$\text{Percentage increase in weight} = \frac{263,08 - 215,88}{215,88} \times 100$$
+$$= 21,86\%$$
+
+**OR**
+
+$$y = 263,08$$
+$$\text{Percentage} = \frac{263,08}{215,88} \times 100$$
+$$= 121,86\%$$
+
+$$\text{Percentage increase in weight} = 121,86 - 100 = 21,86\%$$
+
+* ✓ $y$-value
+* ✓ difference between $y$-values
+* ✓ +ve answer
+
+(3)
+
+* ✓ $y$-value
+* ✓ difference between $\%$
+* ✓ +ve answer
+
+(3)
+
+**[10]**
+
+---
+
+## QUESTION / VRAAG 2
+
+2.1
+
+| Distance ($x$ km) | Frequency | Cumulative frequency |
+| :---: | :---: | :---: |
+| $0 \le x < 5$ | 3 | 3 |
+| $5 \le x < 10$ | 7 | **10** |
+| $10 \le x < 15$ | 20 | 30 |
+| $15 \le x < 20$ | 12 | 42 |
+| $20 \le x < 25$ | 5 | 47 |
+| $25 \le x < 30$ | 3 | 50 |
+
+* ✓ 10
+* ✓ all values correct
+
+(2)
+
+2.2 
+
+*(Ogive graph)*
+
+* ✓ grounding
+* ✓ plotting a min of 3 points (cf at upper limits)
+* ✓ smooth, increasing curve
+
+(3)
+
+2.3 
+$$Q_3 = 17,8$$
+$$Q_1 = 11$$
+
+$$\text{IQR} = 6,8$$
+
+* ✓ $Q_3$ (accept between 17–19) and $Q_1$ (accept between 10–12,5)
+* ✓ answer (accept 5–9)
+
+(2)
+
+2.4 
+$$5 \le x < 10$$
+
+* ✓ $5 \le x < 10$
+
+(1)
+
+2.5 
+$$\text{Estimated mean} = \frac{2,5(3) + 7,5(11) + 12,5(20) + 17,5(8) + 22,5(5) + 27,5(3)}{50}$$
+$$= \frac{675}{50}$$
+$$= 13,5 \text{ km}$$
+
+* ✓ new frequencies
+* ✓ $\sum fx$
+* ✓ answer
+
+(3)
+
+**[11]**
+
+---
+
+## QUESTION / VRAAG 3
+
+3.1 
+$$y = kx + 3$$
+$$4 = k(3) + 3$$
+$$3k = 1$$
+$$\therefore k = \frac{1}{3}$$
+
+**OR**
+
+$$\text{y-intercept of AB: } (0; 3)$$
+$$m_{AB} = \frac{4 - 3}{3 - 0} = \frac{1}{3}$$
+$$\therefore k = \frac{1}{3}$$
+
+* ✓ substitution $(3; 4)$
+
+(1)
+
+* ✓ substitution $(0; 3)$
+
+(1)
+
+3.2 
+$$0 = \frac{1}{3}x + 3$$
+$$-3 = \frac{1}{3}x$$
+$$x = -9$$
+$$B(-9; 0)$$
+
+* ✓ $y = 0$
+* ✓ answer
+
+(2)
+
+3.3 
+$$F(0; -2)$$
+$$F\left(\frac{x + 3}{2}; \frac{y + 4}{2}\right)$$
+$$\frac{x + 3}{2} = 0 \quad ; \quad \frac{y + 4}{2} = -2$$
+$$x = -3 \quad ; \quad y = -8$$
+$$C(-3; -8)$$
+
+**OR by translation**
+$$F(0; -2)$$
+$$A \to F(x; y) \to (x - 3; y - 6)$$
+$$F \to C(0; -2) \to (0 - 3; -2 - 6) = (-3; -8)$$
+
+* ✓ $F(0; -2)$
+* ✓ $\frac{x + 3}{2} = 0 \quad ; \quad \frac{y + 4}{2} = -2$
+* ✓ $x$-value
+* ✓ $y$-value
+
+(4)
+
+* ✓ $F(0; -2)$
+* ✓ $(x - 3; y - 6)$
+* ✓ $x$-value
+* ✓ $y$-value
+
+(4)
+
+3.4 
+$$m_{BC} = \frac{0 - (-8)}{-9 - (-3)} \quad \text{OR} \quad m_{BC} = \frac{-8 - 0}{-3 - (-9)}$$
+$$m_{BC} = -\frac{4}{3}$$
+$$y = -\frac{4}{3}x + c$$
+$$(-2) = -\frac{4}{3}(-15) + c$$
+$$c = -22$$
+$$y = -\frac{4}{3}x - 22$$
+
+**OR**
+
+$$m_{BC} = -\frac{4}{3}$$
+$$y - y_1 = m(x - x_1)$$
+$$y - (-2) = -\frac{4}{3}(x - (-15))$$
+$$y + 2 = -\frac{4}{3}x - 20$$
+$$y = -\frac{4}{3}x - 22$$
+
+* ✓ substitution of B and C into the gradient formula
+* ✓ $m_{BC}$
+* ✓ $m_{\text{line}} = m_{BC}$
+* ✓ substitution of $S(-15; -2)$
+* ✓ equation
+
+(5)
+
+* ✓ substitution into the gradient formula
+* ✓ $m_{BC}$
+* ✓ $m_{\text{line}} = m_{BC}$
+* ✓ substitution of $S(-15; -2)$
+* ✓ equation
+
+(5)
+
+3.5 
+$$\tan \alpha = m_{AC} = 2$$
+$$\alpha = 63,43^\circ$$
+$$\tan A\widehat{B}D = m_{AS} = \frac{1}{3}$$
+$$A\widehat{B}D = 18,43^\circ$$
+$$B\widehat{A}C = \alpha - A\widehat{B}D$$
+$$B\widehat{A}C = 63,43^\circ - 18,43^\circ$$
+$$B\widehat{A}C = 45^\circ$$
+
+**OR**
+
+$$AB = \sqrt{(-9 - 3)^2 + (0 - 4)^2} = 4\sqrt{10}$$
+$$BD = 10$$
+$$AD = \sqrt{(3 - 1)^2 + (4 - 0)^2} = 2\sqrt{5}$$
+
+$$BD^2 = AB^2 + AD^2 - 2AB \cdot AD \cos B\widehat{A}C$$
+$$(10)^2 = (4\sqrt{10})^2 + (2\sqrt{5})^2 - 2(4\sqrt{10})(2\sqrt{5})\cos B\widehat{A}C$$
+$$\cos B\widehat{A}C = \frac{\sqrt{2}}{2}$$
+$$B\widehat{A}C = 45^\circ$$
+
+* ✓ $\tan \alpha = m_{AC} = 2$
+* ✓ $\alpha = 63,43^\circ$
+* ✓ $\tan A\widehat{B}D = m_{AS} = \frac{1}{3}$
+* ✓ $A\widehat{B}D = 18,43^\circ$
+* ✓ answer
+
+(5)
+
+* ✓ length of AB
+* ✓ calculation of remaining 2 lengths
+* ✓ substitution into cosine-rule
+* ✓ rewriting in terms of $\cos B\widehat{A}C$
+* ✓ answer
+
+(5)
+
+3.6 
+$$A(3; 4) \text{ and } S(-15; -2)$$
+$$AS = \sqrt{(x_A - x_S)^2 + (y_A - y_S)^2}$$
+$$AS = \sqrt{(3 - (-15))^2 + (4 - (-2))^2}$$
+$$AS = \sqrt{360} = 6\sqrt{10} = 18,97$$
+
+$$\frac{\text{Area of }\Delta ABD}{\text{Area of }\Delta ASC} = \frac{\frac{1}{2}(BD)(\perp h)}{\frac{1}{2}(AS)(AC)\sin B\widehat{A}C}$$
+$$= \frac{\frac{1}{2}(10)(4)}{\frac{1}{2}(6\sqrt{10})(6\sqrt{5})\sin 45^\circ}$$
+$$= \frac{2}{9}$$
+
+**OR**
+
+$$AS = \sqrt{(3 - (-15))^2 + (4 - (-2))^2} = \sqrt{360} = 6\sqrt{10} = 18,97$$
+$$AB = \sqrt{(-9 - 3)^2 + (0 - 4)^2} = 4\sqrt{10}$$
+$$AD = \sqrt{(3 - 1)^2 + (4 - 0)^2} = 2\sqrt{5}$$
+
+$$\frac{\text{Area of }\Delta ABD}{\text{Area of }\Delta ASC} = \frac{\frac{1}{2}(AB)(AD)\sin \hat{A}}{\frac{1}{2}(AS)(AC)\sin \hat{A}}$$
+$$= \frac{\frac{1}{2}(4\sqrt{10})(2\sqrt{5})\sin \hat{A}}{\frac{1}{2}(6\sqrt{10})(6\sqrt{5})\sin \hat{A}}$$
+$$= \frac{2}{9}$$
+
+* ✓ $AS = \sqrt{(3 - (-15))^2 + (4 - (-2))^2}$
+* ✓ length of AS
+* ✓ Area $\Delta ABD$
+* ✓ Area $\Delta ASC$
+* ✓ answer
+
+(5)
+
+* ✓ $AS = \sqrt{(3 - (-15))^2 + (4 - (-2))^2}$
+* ✓ length of AS
+* ✓ Area $\Delta ABD$
+* ✓ Area $\Delta ASC$
+* ✓ answer
+
+(5)
+
+**[22]**
+
+---
+
+## QUESTION / VRAAG 4
+
+4.1 
+$$E\left(\frac{5 + (-3)}{2}; \frac{1 + (-3)}{2}\right)$$
+$$\therefore E(1; -1)$$
+
+* ✓ $x = 1$
+* ✓ $y = -1$
+
+(2)
+
+4.2 
+$$AB = \sqrt{(5 - (-3))^2 + (1 - (-3))^2}$$
+$$AB = \sqrt{80} = 4\sqrt{5} = 8,94 \text{ units}$$
+
+* ✓ $AB = \sqrt{80} = 4\sqrt{5} = 8,94$
+
+(1)
+
+4.3 
+$$m_{AB} = \frac{1 - (-3)}{5 - (-3)}$$
+$$m_{AB} = \frac{1}{2}$$
+$$\therefore m_{CE} = -2 \quad [CE \perp AB]$$
+$$E(1; -1)$$
+
+$$y = -2x + c$$
+$$(-1) = -2(1) + c$$
+$$c = 1$$
+$$y = -2x + 1$$
+
+**OR**
+
+$$y - y_1 = -2(x - x_1)$$
+$$y - (-1) = -2(x - 1)$$
+$$y = -2x + 1$$
+
+* ✓ $m_{AB} = \frac{1}{2}$
+* ✓ $m_{CE}$
+* ✓ substitution of E
+* ✓ equation
+
+(4)
+
+4.4 
+$$y = -2x + 1$$
+$$p = -2(2) + 1$$
+$$p = -3$$
+
+**OR**
+
+$$m_{CE} = -2$$
+$$\frac{p - (-1)}{2 - 1} = -2$$
+$$p + 1 = -2$$
+$$p = -3$$
+
+* ✓ substitution of $C(2; p)$ into $\perp$ bisector of AB
+
+(1)
+
+* ✓ substitution of C and E into the gradient formula
+
+(1)
+
+4.5 
+$$BC = r = 5 \text{ units}$$
+$$\therefore (x - 2)^2 + (y + 3)^2 = 5^2$$
+$$x^2 - 4x + 4 + y^2 + 6y + 9 = 25$$
+$$x^2 + y^2 - 4x + 6y - 12 = 0$$
+
+* ✓ $BC = r = 5 \text{ units}$
+* ✓ $(x - 2)^2 + (y + 3)^2$
+* ✓ $r^2$
+* ✓ $x^2 - 4x + 4 + y^2 + 6y + 9 = 25$
+
+(4)
+
+4.6 
+$$(x - 2)^2 + (y + 3)^2 = 25 \quad \text{OR} \quad x^2 + y^2 - 4x + 6y - 12 = 0$$
+$$y = tx + 8$$
+$$(x - 2)^2 + (tx + 8 + 3)^2 = 25 \quad \text{OR} \quad x^2 + (tx + 8)^2 - 4x + 6(tx + 8) - 12 = 0$$
+$$x^2 - 4x + 4 + t^2x^2 + 22tx + 121 = 25 \quad \text{OR} \quad x^2 + t^2x^2 + 16tx + 64 - 4x + 6tx + 48 - 12 = 0$$
+$$x^2(t^2 + 1) + x(22t - 4) + 100 = 0$$
+
+$$\Delta < 0$$
+$$(22t - 4)^2 - 4(t^2 + 1)(100) < 0$$
+$$484t^2 - 176t + 16 - 400t^2 - 400 < 0$$
+$$84t^2 - 176t - 384 < 0$$
+$$21t^2 - 44t - 96 < 0$$
+$$(7t - 24)(3t + 4) < 0$$
+
+$$\text{CV: } -\frac{4}{3} ; \frac{24}{7}$$
+$$\therefore t \in \left(-\frac{4}{3}; \frac{24}{7}\right) \quad \text{OR} \quad -\frac{4}{3} < t < \frac{24}{7}$$
+
+* ✓ substitution of $y = tx + 8$
+* ✓ standard form
+* ✓ $\Delta < 0$
+* ✓ standard form of $\Delta$
+* ✓ critical values
+* ✓ answer
+
+(6)
+
+**[18]**
+
+---
+
+## QUESTION / VRAAG 5
+
+5.1.1 
+$$\sin 220^\circ = -\sin 40^\circ = -p$$
+
+* ✓ $-\sin 40^\circ$
+* ✓ answer
+
+(2)
+
+5.1.2 
+$$\cos^2 50^\circ = \sin^2 40^\circ = p^2$$
+
+* ✓ $\sin^2 40$
+* ✓ answer
+
+(2)
+
+5.1.3 
+$$\cos(-80^\circ) = \cos 80^\circ = 1 - 2\sin^2 40^\circ = 1 - 2p^2$$
+
+**OR**
+
+$$\cos(-80^\circ) = \cos 80^\circ = \cos(30^\circ + 50^\circ)$$
+$$= \cos 30^\circ \cos 50^\circ - \sin 30^\circ \sin 50^\circ$$
+$$= \frac{\sqrt{3}}{2}p - \frac{\sqrt{1 - p^2}}{2}$$
+
+* ✓ $\cos 80^\circ$
+* ✓ double angle
+* ✓ answer
+
+(3)
+
+* ✓ $\cos 80^\circ$
+* ✓ expansion
+* ✓ answer
+
+(3)
+
+5.2.1 
+$$\text{LHS} = \tan x(1 - \cos^2 x) + \cos^2 x$$
+$$= \frac{\sin x}{\cos x}(\sin^2 x) + \cos^2 x$$
+$$= \frac{\sin^3 x + \cos^3 x}{\cos x}$$
+$$= \frac{(\sin x + \cos x)(\sin^2 x - \sin x \cos x + \cos^2 x)}{\cos x}$$
+$$= \frac{(\sin x + \cos x)(1 - \sin x \cos x)}{\cos x} = \text{RHS}$$
+
+**OR**
+
+$$\text{RHS} = \frac{(\sin x + \cos x)(1 - \sin x \cos x)}{\cos x}$$
+$$= \frac{\sin x - \sin^2 x \cos x + \cos x - \sin x \cos^2 x}{\cos x}$$
+$$= \tan x - \sin^2 x + 1 - \sin x \cos x$$
+$$= \tan x + \cos^2 x - \sin x \cos x$$
+$$= \tan x \left(1 - \frac{\sin x \cos x}{\tan x}\right) + \cos^2 x$$
+$$= \tan x \left(1 - \frac{\sin x \cos x}{\frac{\sin x}{\cos x}}\right) + \cos^2 x$$
+$$= \tan x(1 - \cos^2 x) + \cos^2 x = \text{LHS}$$
+
+* ✓ $\frac{\sin x}{\cos x}$
+* ✓ $\sin^2 x$
+* ✓ simplification
+* ✓ factorisation of cubes
+* ✓ $\sin^2 x + \cos^2 x = 1$
+
+(5)
+
+* ✓ multiplication
+* ✓ $\div$ by $\cos x$
+* ✓ $-\sin^2 x + 1 = \cos^2 x$
+* ✓ factorisation
+* ✓ $\tan x = \frac{\sin x}{\cos x}$
+
+(5)
+
+5.2.2 
+$$\cos x = 0 \text{ or where } \tan x \text{ is undefined}$$
+$$x = 90^\circ + k.360^\circ \quad \text{or} \quad x = 270^\circ + k.360^\circ$$
+$$x = 90^\circ \quad \text{or} \quad x = -90^\circ$$
+
+* ✓ $\cos x = 0 \text{ or } \tan x \text{ undefined}$
+* ✓ $x = 90^\circ$
+* ✓ $x = -90^\circ$
+
+(3)
+
+5.3.1 
+$$\frac{\sin 150^\circ + \cos^2 x - 1}{2}$$
+$$= \frac{\sin 30^\circ + \cos^2 x - 1}{2}$$
+$$= \frac{\frac{1}{2} - (1 - \cos^2 x)}{2}$$
+$$= \left(\frac{1}{2} - \sin^2 x\right) \times \frac{1}{2}$$
+$$= \frac{1 - 2\sin^2 x}{4}$$
+$$= \frac{\cos 2x}{4}$$
+
+* ✓ $\sin 30^\circ$
+* ✓ $\sin 30^\circ = \frac{1}{2}$
+* ✓ factor
+* ✓ $1 - \cos^2 x = \sin^2 x$
+* ✓ simplification
+* ✓ answer in terms of $\cos 2x$
+
+(6)
+
+5.3.2 
+$$\frac{\sin 150^\circ + \cos^2 x - 1}{2} = \frac{1}{25}$$
+$$\frac{\cos 2x}{4} = \frac{1}{25}$$
+$$\cos 2x = \frac{4}{25}$$
+$$\text{ref}\angle = 80,79\dots^\circ$$
+$$2x = 80,79\dots^\circ + k.360^\circ \quad \text{or} \quad 2x = 279,20\dots^\circ + k.360^\circ$$
+$$x = 40,40^\circ + k.180^\circ \quad \text{or} \quad x = 139,60^\circ + k.180^\circ ; k \in \mathbb{Z}$$
+
+**OR**
+
+$$\frac{\sin 150^\circ + \cos^2 x - 1}{2} = \frac{1}{25}$$
+$$\cos^2 x = \frac{29}{50}$$
+$$\cos x = \pm \sqrt{\frac{29}{50}}$$
+$$x = 40,40^\circ + k.360^\circ \quad \text{or} \quad x = 319,60^\circ + k.360^\circ ; k \in \mathbb{Z}$$
+$$\text{or } x = 139,60^\circ + k.360^\circ \quad \text{or} \quad x = 220,40^\circ + k.360^\circ ; k \in \mathbb{Z}$$
+
+* ✓ answer $5.3.1 = \frac{1}{25}$
+* ✓ $2x = 80,79^\circ$
+* ✓ $2x = 279,20\dots^\circ$
+* ✓ $x = 40,40^\circ \text{ and } x = 139,60^\circ$
+* ✓ $+ k.180^\circ ; k \in \mathbb{Z}$
+
+(5)
+
+* ✓ $\cos^2 x = \frac{29}{50}$
+* ✓ $x = 40,40^\circ$
+* ✓ $x = 139,60^\circ$
+* ✓ $x = 220,40^\circ \text{ and } x = 319,60^\circ$
+* ✓ $+ k.360^\circ ; k \in \mathbb{Z}$
+
+(5)
+
+**[26]**
+
+---
+
+## QUESTION / VRAAG 6
+
+6.1 $\text{Period} = 360^\circ$
+
+* ✓ $360^\circ$
+
+(1)
+
+6.2 $\text{Amplitude} = 1$
+
+* ✓ $1$
+
+(1)
+
+6.3 $a = -45^\circ$
+
+* ✓ $a = -45^\circ$
+
+(1)
+
+6.4 $\sin 2x = k$
+$$k = \sin(2 \times 165^\circ) \quad \text{OR} \quad k = \sin(2 \times (-75^\circ))$$
+$$k = \sin 330^\circ \quad \text{or} \quad k = \sin(-150^\circ)$$
+$$k = -\sin 30^\circ$$
+$$k = -\frac{1}{2}$$
+
+**OR**
+$$k = \cos(165^\circ - 45^\circ) \quad \text{OR} \quad k = \cos(-75^\circ - 45^\circ)$$
+$$k = \cos 120^\circ \quad \text{or} \quad k = \cos(-120^\circ)$$
+$$k = -\cos 60^\circ$$
+$$k = -\frac{1}{2}$$
+
+* ✓ $-\sin 30^\circ$
+* ✓ $-\frac{1}{2}$
+
+(2)
+
+* ✓ $-\cos 60^\circ$
+* ✓ $-\frac{1}{2}$
+
+(2)
+
+6.5 Points of intersection are translated $60^\circ$ to the left  
+$x = -15^\circ$
+
+* ✓ $x = -15^\circ$
+
+(1)
+
+6.6 
+$$\sqrt{2}\sin 2x = \sin x + \cos x$$
+$$\sin 2x = \frac{1}{\sqrt{2}}\sin x + \frac{1}{\sqrt{2}}\cos x$$
+$$\sin 2x = \sin 45^\circ \sin x + \cos 45^\circ \cos x$$
+$$\sin 2x = \cos(45^\circ - x) \quad \text{OR} \quad \sin 2x = \cos(x - 45^\circ)$$
+$$\therefore 2 \text{ roots in the interval } x \in [-90^\circ; 90^\circ]$$
+
+* ✓ division by $\sqrt{2}$
+* ✓ special angles
+* ✓ $\cos(45^\circ - x) \text{ or } \cos(x - 45^\circ)$
+* ✓ answer
+
+(4)
+
+**[10]**
+
+---
+
+## QUESTION / VRAAG 7
+
+7.1.1 
+$$\sin \hat{B} = \frac{AD}{AB}$$
+$$AD = AB \sin \hat{B}$$
+
+* ✓ $\sin \hat{B} = \frac{AD}{AB}$
+* ✓ answer
+
+(2)
+
+7.1.2 $\text{Area of }\Delta ABC = \frac{1}{2}(BC)(AD)$  
+$\therefore \text{Area of }\Delta ABC = \frac{1}{2}(BC)(AB)\sin \hat{B}$
+
+* ✓ $\frac{1}{2}(BC)(AD)$
+
+(1)
+
+7.2.1 
+$$\text{In }\Delta ADB: \quad \sin \alpha = \frac{AB}{AD} \implies AD = \frac{AB}{\sin \alpha}$$
+$$\text{In }\Delta ABC: \quad \sin \alpha = \frac{AB}{AC} \implies AC = \frac{AB}{\sin \alpha}$$
+$$\therefore AD = AC$$
+
+**OR**  
+$$\text{In }\Delta ADB \text{ and }\Delta ACB$$
+* $AB = AB \quad [\text{common side}]$
+* $A\widehat{D}B = A\widehat{C}B = 90^\circ \quad [\text{given}]$
+* $BD = BC \quad [\text{given}]$
+* $\Delta ADB \equiv \Delta ACB \quad [S\angle S]$
+* $\therefore AD = AC$
+
+**OR**  
+* $AD^2 = AB^2 + DB^2 \quad [\text{Pythagoras}]$
+* $AC^2 = AB^2 + BC^2 \quad [\text{Pythagoras}]$
+* $\text{But } DB = BC \quad [\text{given}]$
+* $\therefore AD^2 = AC^2$
+* $\therefore AD = AC$
+
+* ✓ $\sin \alpha = \frac{AB}{AD}$
+* ✓ $\sin \alpha = \frac{AB}{AC}$
+
+(2)
+
+* ✓ $\Delta ADB \equiv \Delta ACB$
+* ✓ R
+
+(2)
+
+* ✓ both Pythagoras statements
+* ✓ $DB = BC$
+
+(2)
+
+7.2.2 
+$$\frac{BD}{\sin \theta} = \frac{k}{\sin(180^\circ - 2\theta)}$$
+$$BD = \frac{k \sin \theta}{\sin 2\theta}$$
+$$BD = \frac{k \sin \theta}{2 \sin \theta \cos \theta}$$
+$$BD = \frac{k}{2 \cos \theta}$$
+
+**OR**  
+$$BC^2 = k^2 + BD^2 - 2k(BD)\cos \theta$$
+$$BD^2 = k^2 + BD^2 - 2k(BD)\cos \theta$$
+$$k^2 - 2k(BD)\cos \theta = 0$$
+$$2k(BD)\cos \theta = k^2$$
+$$\therefore BD = \frac{k}{2 \cos \theta}$$
+
+* ✓ substitution of $(180^\circ - 2\theta)$ into sine rule
+* ✓ reduction
+* ✓ double angle
+
+(3)
+
+* ✓ substitution into cosine-rule
+* ✓ substitution BC with BD into cosine-rule
+* ✓ simplification in terms of $BD$
+
+(3)
+
+7.2.3 
+$$\text{Area of }\Delta BCD = \frac{1}{2}(DC)(BD)(\sin C\widehat{D}B)$$
+$$= \frac{1}{2}k\left(\frac{k}{2 \cos \theta}\right)\sin \theta$$
+$$= \frac{1}{4}k^2 \tan \theta$$
+
+**OR**  
+$$\text{Area of }\Delta BCD = \frac{1}{2}(BD)(BC)(\sin(180^\circ - 2\theta))$$
+$$= \frac{1}{2}\left(\frac{k}{2 \cos \theta}\right)\left(\frac{k}{2 \cos \theta}\right)(\sin 2\theta)$$
+$$= \frac{2k^2 \sin \theta \cos \theta}{8 \cos \theta \cos \theta}$$
+$$= \frac{1}{4}k^2 \tan \theta$$
+
+* ✓ substitution into area rule
+* ✓ $\frac{\sin \theta}{\cos \theta} = \tan \theta$
+* ✓ $\frac{1}{4}k^2 \tan \theta$
+
+(3)
+
+* ✓ substitution into area rule
+* ✓ $\frac{\sin \theta}{\cos \theta} = \tan \theta$
+* ✓ $\frac{1}{4}k^2 \tan \theta$
+
+(3)
+
+**[11]**
+
+---
+
+## QUESTION / VRAAG 8
+
+8.1 
+$$\text{Construction: Draw diameter } CF \text{ and draw } AF$$
+
+* $F\widehat{C}E = 90^\circ \quad [\text{tan} \perp \text{radius}]$
+* $F\widehat{A}C = 90^\circ \quad [\angle \text{ in semi circle}]$
+* $F\widehat{A}B = F\widehat{C}B \quad [\angle \text{s same segment}]$
+* $\therefore B\widehat{A}C = B\widehat{C}E$
+* $\therefore B\widehat{C}E = \hat{A}$
+
+**OR**  
+$$\text{Construction: Draw diameter } CF \text{ and draw } FB$$
+* $F\widehat{B}C = 90^\circ \quad [\angle \text{ in semi circle}]$
+* $B\widehat{F}C + F\widehat{C}B = 90^\circ \quad [\text{sum of }\angle\text{s in }\Delta]$
+* $O\widehat{C}E = 90^\circ \quad [\text{tan} \perp \text{radius}]$
+* $\therefore B\widehat{C}E = \hat{F}$
+* $\text{but } \hat{A} = \hat{F} \quad [\angle\text{s in same seg}]$
+* $\therefore B\widehat{C}E = \hat{A}$
+
+**OR**  
+$$\text{Construction: Draw radii } BO \text{ and } OC$$
+* $O\widehat{C

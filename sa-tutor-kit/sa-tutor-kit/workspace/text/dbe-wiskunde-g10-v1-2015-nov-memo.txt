@@ -1,0 +1,423 @@
+**NATIONAL SENIOR CERTIFICATE / NASIONALE SENIOR SERTIFIKAAT**
+
+**GRADE / GRAAD 10**
+
+**MATHEMATICS P1 / WISKUNDE V1**
+
+**NOVEMBER 2015**
+
+**MEMORANDUM**
+
+**MARKS/PUNTE: 100**
+
+---
+
+### **QUESTION/VRAAG 1**
+
+1.1.1
+$$x^4 - 81$$
+$$= (x^2 - 9)(x^2 + 9)$$
+$$= (x - 3)(x + 3)(x^2 + 9)$$
+$$\begin{array}{l} \checkmark (x^2 - 9)(x^2 + 9) \\ \checkmark (x - 3)(x + 3)(x^2 + 9) \end{array}$$ (2)
+
+1.1.2
+$$6x^2y - 10xy + 15x - 25$$
+$$= 2xy(3x - 5) + 5(3x - 5)$$
+$$= (2xy + 5)(3x - 5)$$
+
+**OR/OF**
+
+$$6x^2y - 10xy + 15x - 25$$
+$$= 3x(2xy + 5) - 5(2xy + 5)$$
+$$= (2xy + 5)(3x - 5)$$
+
+$$\begin{array}{l} \checkmark 2xy(3x - 5) \\ \checkmark 5(3x - 5) \\ \checkmark (2xy + 5)(3x - 5) \end{array}$$ (3)
+
+$$\begin{array}{l} \checkmark 3x(2xy + 5) \\ \checkmark -5(2xy + 5) \\ \checkmark (2xy + 5)(3x - 5) \end{array}$$ (3)
+
+1.2.1
+$$\frac{3}{a - 4} + \frac{2}{a + 3} - \frac{21}{a^2 - a - 12}$$
+$$= \frac{3}{a - 4} + \frac{2}{a + 3} - \frac{21}{(a - 4)(a + 3)}$$
+$$= \frac{3(a + 3) + 2(a - 4) - 21}{(a - 4)(a + 3)}$$
+$$= \frac{3a + 9 + 2a - 8 - 21}{(a - 4)(a + 3)}$$
+$$= \frac{5a - 20}{(a - 4)(a + 3)}$$
+$$= \frac{5(a - 4)}{(a - 4)(a + 3)}$$
+$$= \frac{5}{a + 3}$$
+
+$$\begin{array}{l} \checkmark (a - 4)(a + 3) \\ \checkmark\checkmark \frac{3(a + 3) + 2(a - 4) - 21}{(a - 4)(a + 3)} \\ \\ \checkmark \text{simplification, i.e./vereenvoudiging, d.i. } \frac{5a - 20}{(a - 4)(a + 3)} \\ \checkmark \text{answer/antwoord} \end{array}$$ (5)
+
+1.2.2
+$$\frac{10^{2x+3} \cdot 4^{1-x}}{25^{2+x}}$$
+$$= \frac{(2 \cdot 5)^{2x+3} \cdot (2^2)^{1-x}}{(5^2)^{2+x}}$$
+$$= \frac{2^{2x+3} \cdot 5^{2x+3} \cdot 2^{2-2x}}{5^{4+2x}}$$
+$$= 2^{2x+3+2-2x} \cdot 5^{2x+3-4-2x}$$
+$$= 2^5 \cdot 5^{-1}$$
+$$= \frac{32}{5}$$
+$$= 6\frac{2}{5}$$
+
+$$\begin{array}{l} \checkmark \text{writing bases in terms of prime factors/} \\ \quad \text{skryf basisse in terme van priemfaktore} \\ \checkmark \text{simplification/vereenvoudiging} \\ \checkmark \text{adding and subtracting indices/} \\ \quad \text{optel en aftrek van eksponente} \\ \checkmark 2^5 \cdot 5^{-1} \text{ or/of } \frac{32}{5} \text{ or/of } 6\frac{2}{5} \end{array}$$ (4)
+
+1.3.1
+$$\sqrt[3]{27} = 3$$
+$$\checkmark \text{answer/antwoord}$$ (1)
+
+1.3.2
+$$\sqrt[3]{-27} = -3$$
+$$\checkmark \text{answer/antwoord}$$ (1)
+
+**[16]**
+
+---
+
+### **QUESTION/VRAAG 2**
+
+2.1.1
+$$15x^2 - 14x - 8 = 0$$
+$$(5x + 2)(3x - 4) = 0$$
+$$5x + 2 = 0 \quad \text{or} \quad 3x - 4 = 0$$
+$$x = -\frac{2}{5} \quad \text{or} \quad x = \frac{4}{3}$$
+
+$$\begin{array}{l} \checkmark \text{standard form/standaardvorm} \\ \checkmark \text{factorisation/faktorisering} \\ \checkmark\checkmark \text{answers/antwoorde} \end{array}$$ (4)
+
+2.1.2
+$$5^x = \frac{1}{125}$$
+$$5^x = \frac{1}{5^3}$$
+$$5^x = 5^{-3}$$
+$$x = -3$$
+
+$$\begin{array}{l} \checkmark 5^{-3} \\ \checkmark \text{answer/antwoord} \end{array}$$ (2)
+
+2.2.1
+$$3(x + 7) < \frac{x}{2} + 1$$
+$$3x + 21 < \frac{x}{2} + 1$$
+$$6x + 42 < x + 2$$
+$$5x < -40$$
+$$x < -8$$
+
+$$\begin{array}{l} \checkmark 3x + 21 \\ \checkmark 6x + 42 < x + 2 \\ \checkmark \text{answer/antwoord} \end{array}$$ (3)
+
+2.2.2
+$$\begin{tikzpicture}
+\draw[<->, thick] (-4,0) -- (4,0);
+\draw[fill=white] (0,0) circle (3pt);
+\node[below] at (0,0) {$-8$};
+\draw[->, very thick] (0,0) -- (-3.8,0);
+\node[above] at (2,0) {$x$};
+\end{tikzpicture}$$
+$$\checkmark \text{indicating numbers to the left of } -8 \text{ and } -8 \text{ not included/}$$
+$$\text{dui getalle links van } -8 \text{ aan met } -8 \text{ nie ingesluit}$$ (1)
+
+2.3
+Let the amount of money Mary had be $Rx$ / Laat die bedrag geld wat Mary gehad het $x$ wees.
+$$\frac{1}{5}x = \frac{1}{3}x - 28$$
+$$3x + 420 = 5x$$
+$$2x = 420$$
+$$x = 210$$
+Mary had R210 / Mary het R210 gehad.
+
+$$\begin{array}{l} \checkmark \frac{1}{3}x - 28 \\ \checkmark \frac{1}{5}x \\ \checkmark \text{equation/vergelyking} \\ \checkmark 210 \end{array}$$ (4)
+
+**[14]**
+
+---
+
+### **QUESTION/VRAAG 3**
+
+3.1.1 $-7 ; -12$
+$$\begin{array}{l} \checkmark -7 \\ \checkmark -12 \end{array}$$ (2)
+
+3.1.2 $T_n = -5n + 13$
+$$\begin{array}{l} \checkmark -5n \\ \checkmark 13 \end{array}$$ (2)
+
+3.1.3
+$$T_n = -5n + 13$$
+$$T_{30} = -5(30) + 13$$
+$$= -137$$
+$$\begin{array}{l} \checkmark \text{substitution of/substitusie van } n = 30 \\ \checkmark \text{answer/antwoord} \end{array}$$ (2)
+
+3.1.4
+$$-5n + 13 = -492$$
+$$-5n = -505$$
+$$n = 101$$
+$$\begin{array}{l} \checkmark -5n + 13 = -492 \\ \checkmark \text{answer/antwoord} \end{array}$$ (2)
+
+3.2.1 $T_n = 2n - 1$
+$$\begin{array}{l} \checkmark 2n \\ \checkmark -1 \end{array}$$ (2)
+
+3.2.2 $T_n = (2n - 1)^2 = 4n^2 - 4n + 1$
+$$\checkmark (2n - 1)^2$$ (1)
+
+3.2.3
+$$T_n = (2n - 1) - (2n - 1)^2$$
+$$= 2n - 1 - (4n^2 - 4n + 1)$$
+$$= 2n - 1 - 4n^2 + 4n - 1$$
+$$= -4n^2 + 6n - 2$$
+$$\begin{array}{l} \checkmark (2n - 1) - (2n - 1)^2 \\ \checkmark 2n - 1 - (4n^2 - 4n + 1) \\ \checkmark 2n - 1 - 4n^2 + 4n - 1 \\ \checkmark \text{answer/antwoord} \end{array}$$ (4)
+
+**[15]**
+
+---
+
+### **QUESTION/VRAAG 4**
+
+4.1 $y = 1$
+$$\checkmark \text{answer/antwoord}$$ (1)
+
+4.2
+$$\begin{tikzpicture}[scale=0.8]
+\draw[->] (-3,0) -- (3,0) node[right] {$x$};
+\draw[->] (0,-3) -- (0,4) node[above] {$y$};
+\draw[thick, domain=-1.5:1.5] plot (\x, {2 - \x*\x});
+\node at (0.5, 0.3) {$f$};
+\node at (-1, 0) [above left] {$(-1;0)$};
+\fill (-1,0) circle (2pt);
+\node at (1, 0) [above right] {$(1;0)$};
+\fill (1,0) circle (2pt);
+\node at (0, 2) [above right] {$(0;2)$};
+\fill (0,2) circle (2pt);
+\draw[thick, domain=-2.5:2.5] plot (\x, {1 + 0.3^\x});
+\node at (2.5, 1.5) {$g$};
+\draw[dashed] (-3,1) -- (3,1);
+\node at (2.5, 1) [above] {$y = 1$};
+\node at (0,0) [below left] {$O$};
+\end{tikzpicture}$$
+$$\begin{array}{l} f\text{:} \\ \checkmark \text{shape of } f\text{/vorm van } f \\ \checkmark x\text{-intercepts of } f\text{/}x\text{-afsnitte van } f \\ \checkmark y\text{-intercept (TP) of } f\text{/}y\text{-afsnit (DP) van } f \\ g\text{:} \\ \checkmark \text{shape of } g\text{/vorm van } g \\ \checkmark \text{asymptote of } g\text{/asimptoot van } g \\ \checkmark y\text{-intercept of } g\text{/}y\text{-afsnit van } g \end{array}$$ (6)
+
+4.3 Range of $f$ / Waardeversameling van $f$: $(-\infty ; 2]$
+
+**OR/OF**
+
+Range of $f$ / Waardeversameling van $f$: $y \le 2$
+$$\checkmark (-\infty ; 2]$$ (1)
+$$\checkmark y \le 2$$ (1)
+
+4.4 Maximum of $3^{f(x)}$ will be obtained when $f(x)$ is at maximum.
+Max of $f(x)$ is $2$
+Max of $h$ will be $3^2 = 9$
+
+Maksimum van $3^{f(x)}$ sal verkry word wanneer $f(x)$ by maksimum is.
+Maks van $f(x)$ is $2$
+Maks van $h$ sal $3^2 = 9$ wees.
+
+$$\begin{array}{l} \checkmark \text{Max of } f(x) \text{ is } 2\text{/Maks van } f(x) \text{ is } 2 \\ \checkmark \text{Max of } h = 9\text{/Maks van } h = 9 \end{array}$$ (2)
+
+4.5 $f$ would have been reflected in the $x$-axis
+$f$ sou in die $x$-as gereflekteer gewees het
+$$\begin{array}{l} \checkmark \text{reflected/gereflekteer} \\ \checkmark \text{in the } x\text{-axis/in die } x\text{-as} \end{array}$$ (2)
+
+**[12]**
+
+---
+
+### **QUESTION/VRAAG 5**
+
+5.1
+$a = \text{gradient of } g$
+$$a = \frac{-4 - 2}{-1 - 3}$$
+$$= 2$$
+$$4 = 2(3) + q$$
+$$q = -2$$
+$$g(x) = 2x - 2$$
+
+**OR/OF**
+
+$$a = \text{gradient of } g$$
+$$a = \frac{4 - (-4)}{3 - (-1)}$$
+$$= 2$$
+$$-4 = 2(-1) + q$$
+$$q = -2$$
+$$g(x) = 2x - 2$$
+
+**OR/OF**
+
+$$g(x) = ax + q$$
+$$4 = 3a + q \quad \text{......... } 1$$
+$$-4 = -a + q \quad \text{......... } 2$$
+$1 - 2$:
+$$8 = 4a$$
+$$a = 2$$
+Substitute in 1 / Substitusie in 1:
+$$4 = 3(2) + q$$
+$$q = -2$$
+$$g(x) = 2x - 2$$
+
+$$\begin{array}{l} \checkmark a = \frac{-4 - 2}{-1 - 3} \\ \checkmark \text{substituting/substitusie } B(3 ; 4) \end{array}$$ (2)
+
+$$\begin{array}{l} \checkmark a = \frac{4 - (-4)}{3 - (-1)} \\ \checkmark \text{substituting/substitusie } A(-1 ; -4) \end{array}$$ (2)
+
+$$\begin{array}{l} \checkmark \text{substituting both points/} \\ \quad \text{substitusie van beide punte} \\ \checkmark \text{solving simultaneously/} \\ \quad \text{los gelyktydig op} \end{array}$$ (2)
+
+5.2
+$$\frac{1}{x} - 1 = 2x - 2$$
+$$\frac{1}{x} = 2x - 1$$
+$$1 = 2x^2 - x$$
+$$2x^2 - x - 1 = 0$$
+$$(2x + 1)(x - 1) = 0$$
+$$x = -\frac{1}{2} \quad \text{or} \quad x = 1$$
+$$\begin{array}{l} \checkmark \text{equating/gelykstelling} \\ \checkmark \text{standard form/standaardvorm} \\ \checkmark \text{factors/faktore} \\ \checkmark x\text{-values/-waardes} \end{array}$$ (4)
+
+5.3
+$$-\frac{1}{2} \le x < 0 \quad \text{or/of} \quad x \ge 1$$
+
+**OR/OF**
+
+$$\left[-\frac{1}{2} ; 0\right) \cup [1 ; \infty)$$
+
+$$\begin{array}{l} \checkmark x \ge -\frac{1}{2} \\ \checkmark x < 0 \\ \checkmark x \ge 1 \end{array}$$ (3)
+
+$$\begin{array}{l} \checkmark \left[-\frac{1}{2}\right. \\ \checkmark 0) \\ \checkmark [1 ; \infty) \end{array}$$ (3)
+
+5.4
+$$f(3) = \frac{1}{3} - 1$$
+$$= -\frac{2}{3}$$
+$$\text{Length of BE} = 4 - f(3)$$
+$$= 4 - \left(-\frac{2}{3}\right)$$
+$$= 4 + \frac{2}{3}$$
+$$= 4\frac{2}{3}$$
+
+**OR/OF**
+
+$$\text{BE} = 2x - 2 - \frac{1}{x} + 1$$
+$$= \frac{2x^2 - x - 1}{x}$$
+$$(x = 3) \quad \text{BE} = \frac{2(3)^2 - (3) - 1}{3}$$
+$$= \frac{18 - 4}{3}$$
+$$= 4\frac{2}{3}$$
+
+$$\begin{array}{l} \checkmark f(3) = -\frac{1}{3} \text{ or/of } -\frac{2}{3} \\ \checkmark 4 - f(3) \\ \checkmark \text{answer/antwoord} \end{array}$$ (3)
+
+$$\begin{array}{l} \checkmark 2x - 2 - \frac{1}{x} + 1 \\ \checkmark \frac{2(3)^2 - (3) - 1}{3} \\ \checkmark \text{answer/antwoord} \end{array}$$ (3)
+
+5.5
+$$h(x) = f(x) + 3$$
+$$h(x) = \frac{1}{x} + 2$$
+$$\checkmark \text{answer/antwoord}$$ (1)
+
+**[13]**
+
+---
+
+### **QUESTION/VRAAG 6**
+
+6.1
+$$d - 5 + d - 1 = 0$$
+$$2d = 6$$
+$$d = 3$$
+$$\begin{array}{l} \checkmark d - 5 + d - 1 = 0 \\ \checkmark d = 3 \end{array}$$ (2)
+
+6.2
+$$y = a(x - 2)(x + 2)$$
+$$-9 = a(1 - 2)(1 + 2)$$
+$$-9 = a(-1)(3)$$
+$$-3a = -9$$
+$$a = 3$$
+$$f(x) = 3(x^2 - 4)$$
+$$= 3x^2 - 12$$
+$$c = -12$$
+$$\begin{array}{l} \checkmark y = a(x - 2)(x + 2) \\ \checkmark \text{subs } (1 ; -9) \\ \checkmark a = 3 \\ \checkmark c = -12 \end{array}$$ (4)
+
+**[6]**
+
+---
+
+### **QUESTION/VRAAG 7**
+
+7.1
+$$\frac{\text{R5000}}{9,518569 \text{ rands per dollar}} = \$525,29$$
+
+**OR/OF**
+
+$$\text{R5000} \times 0,105058 \text{ dollars per rand} = \$525,29$$
+
+$$\begin{array}{l} \checkmark \text{selects/kies } 9,515869 \\ \checkmark \text{answer/antwoord} \end{array}$$ (2)
+
+$$\begin{array}{l} \checkmark \text{selects/kies } 0,105058 \\ \checkmark \text{answer/antwoord} \end{array}$$ (2)
+
+7.2.1
+$$A = P(1 + i)^n$$
+$$= 5000(1 + 0,061)^3$$
+$$= \text{R5 } 971,95$$
+$$\begin{array}{l} \checkmark \text{formula/formule} \\ \checkmark 5000(1 + 0,061)^3 \\ \checkmark \text{R5 } 971,95 \end{array}$$ (3)
+
+7.2.2
+Let the amount that Zach invests each year be $x$ / Laat die bedrag wat Zach elke jaar belê, $x$ wees.
+$$x(1 + 0,09)^2 + x(1 + 0,09)^1 = 5980$$
+$$x[1,09^2 + 1,09] = 5980$$
+$$x = \frac{5980}{1,09^2 + 1,09}$$
+$$= \text{R2 } 624,99$$
+
+**OR/OF**
+
+Let the amount that Zach invests each year be $x$ / Laat die bedrag wat Zach elke jaar belê, $x$ wees.
+$$[x(1 + 0,09)^1 + x](1 + 0,09) = 5980$$
+$$x[(1 + 0,09)^1 + x] = 5980$$ (Note: OCR minor typo in memo line 2, transcribed as is conceptually)
+$$x = \frac{5980}{(2,09)(1,09)}$$
+$$= \text{R2 } 624,99$$
+
+$$\begin{array}{l} \checkmark x(1 + 0,09)^2 \\ \checkmark x(1 + 0,09)^1 \\ \checkmark x \text{ as common factor/as gemeenskaplike faktor} \\ \checkmark \text{answer/antwoord} \end{array}$$ (4)
+
+$$\begin{array}{l} \checkmark x(1 + 0,09)^1 \\ \checkmark [x(1 + 0,09)^1 + x] \\ \checkmark x \text{ as common factor/as gemeenskaplike faktor} \\ \checkmark \text{answer/antwoord} \end{array}$$ (4)
+
+**[9]**
+
+---
+
+### **QUESTION/VRAAG 8**
+
+8.1.1
+$$\begin{tikzpicture}
+\draw (0,0) rectangle (6,4);
+\node at (3, 3.6) {Sample space / Steekproefruimte (64)};
+\draw (2, 1.8) circle (1.2cm);
+\draw (4, 1.8) circle (1.2cm);
+\node at (1.5, 1.8) {14};
+\node at (3, 1.8) {10};
+\node at (4.5, 1.8) {18};
+\node at (5.2, 0.7) {22};
+\node at (1.5, 3.1) {Soccer / sokker (24)};
+\node at (4.5, 3.1) {Rugby (28)};
+\end{tikzpicture}$$
+$$\begin{array}{l} \checkmark \text{diagram shape/diagramvorm} \\ \checkmark 14 \text{ in correct position/in korrekte posisie} \\ \checkmark 10 \text{ in correct position/in korrekte posisie} \\ \checkmark 18 \text{ in correct position/in korrekte posisie} \\ \checkmark 22 \text{ in correct position/in korrekte posisie} \end{array}$$ (5)
+
+8.1.2 (a)
+$$\text{P}(\text{Soccer and Rugby}) = \frac{10}{64} = \frac{5}{32} = 0,15625 = 15,63\%$$
+$$\checkmark \text{answer (in any form)/antwoord (in enige vorm)}$$ (1)
+
+8.1.2 (b)
+$$\text{P}(\text{Soccer or Rugby}) = \frac{14 + 10 + 18}{64} = \frac{42}{64} = \frac{21}{32} = 0,65625 = 65,63\%$$
+
+**OR / OF**
+
+$$\text{P}(\text{Soccer or Rugby}) = 1 - \frac{22}{64} = \frac{21}{32}$$
+$$\checkmark \text{answer (in any form)/antwoord (in enige vorm)}$$ (1)
+
+8.1.3
+No / Nee.
+Some boys play both soccer and rugby / Party seuns speel sokker en rugby.
+
+**OR/OF**
+
+No / Nee
+$\text{P}(S \text{ and } R) \neq 0 \text{ / } \text{P}(S \text{ en } R) \neq 0$
+
+$$\begin{array}{l} \checkmark \text{No / Nee} \\ \checkmark \text{Reason / Rede} \end{array}$$ (2)
+
+$$\begin{array}{l} \checkmark \text{No / Nee} \\ \checkmark \text{Reason / Rede} \end{array}$$ (2)
+
+8.2
+$$\text{P}(\text{more than 2 passengers per car}) / \text{P}(\text{meer as } 2 \text{ passasiers per kar})$$
+$$= \frac{5 + 1}{7 + 11 + 6 + 5 + 1}$$
+$$= \frac{6}{30}$$
+$$= \frac{1}{5} = 0,2 = 20\%$$
+
+$$\begin{array}{l} \checkmark \text{numerator / teller } 6 \\ \checkmark \text{denominator / noemer } 30 \\ \checkmark \text{answer / antwoord (accept/aanvaar } \frac{1}{5} \text{ or/of } \frac{6}{30} \text{ or/of } 0,2 \text{ or/of } 20\%) \end{array}$$ (3)
+
+8.3
+$$\text{P}(\text{not getting a six}) / \text{P}(\text{nie 'n ses kry nie})$$
+$$= 1 - \left(\frac{10}{36} + \frac{1}{36}\right)$$
+$$= \frac{25}{36}$$
+
+$$\begin{array}{l} \checkmark \left(\frac{10}{36} + \frac{1}{36}\right) \\ \checkmark 1 - \left(\frac{10}{36} + \frac{1}{36}\right) \\ \checkmark \frac{25}{36} \end{array}$$ (3)
+
+**[15]**
+
+**TOTAL / TOTAAL: 100**

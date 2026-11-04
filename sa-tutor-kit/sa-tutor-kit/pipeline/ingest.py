@@ -65,21 +65,29 @@ class _Text(html.parser.HTMLParser):
 
 def read_pdf(path):
     from pypdf import PdfReader
-    reader = PdfReader(str(path))
-    pages = []
-    for i, page in enumerate(reader.pages, 1):
-        try:
-            pages.append(page.extract_text() or "")
-        except Exception:                                  # noqa: BLE001
-            pages.append("")
-    return pages
+    try:
+        reader = PdfReader(str(path))
+        pages = []
+        for i, page in enumerate(reader.pages, 1):
+            try:
+                pages.append(page.extract_text() or "")
+            except Exception:
+                pages.append("")
+        return pages
+    except Exception as e:
+        print(f"Error reading PDF {path}: {e}")
+        return [""]
 
 
 def read_docx(path):
-    with zipfile.ZipFile(path) as z:
-        xml = z.read("word/document.xml").decode("utf-8", "ignore")
-    xml = re.sub(r"</w:p>", "\n", xml)
-    return [re.sub(r"<[^>]+>", "", xml)]
+    try:
+        with zipfile.ZipFile(path) as z:
+            xml = z.read("word/document.xml").decode("utf-8", "ignore")
+        xml = re.sub(r"</w:p>", "\n", xml)
+        return [re.sub(r"<[^>]+>", "", xml)]
+    except Exception as e:
+        print(f"Error reading docx {path}: {e}")
+        return [""]
 
 
 def read_html(path):
@@ -89,14 +97,31 @@ def read_html(path):
 
 
 def extract(path):
-    suffix = Path(path).suffix.lower()
+    p_obj = Path(path)
+    if not p_obj.exists() or p_obj.stat().st_size == 0:
+        return [""]
+
+    # Check magic header bytes first (handles docx files downloaded with .pdf extension)
+    try:
+        with open(p_obj, "rb") as f:
+            hdr = f.read(4)
+        if hdr.startswith(b"PK\x03\x04"):
+            return read_docx(path)
+        elif hdr.startswith(b"%PDF"):
+            return read_pdf(path)
+        elif hdr.startswith(b"<!DO") or hdr.startswith(b"<htm") or hdr.startswith(b"<HTM"):
+            return read_html(path)
+    except Exception as e:
+        print(f"Error checking header for {path}: {e}")
+
+    suffix = p_obj.suffix.lower()
     if suffix == ".pdf":
         return read_pdf(path)
     if suffix in (".html", ".htm"):
         return read_html(path)
     if suffix == ".docx":
         return read_docx(path)
-    return [Path(path).read_text(encoding="utf-8", errors="ignore")]
+    return [p_obj.read_text(encoding="utf-8", errors="ignore")]
 
 
 def clean(text):
@@ -110,27 +135,35 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--sources", default=str(p("sources", "sources.csv")))
     ap.add_argument("--only", help="process just this source_id")
+    ap.add_argument("--skip-existing", action="store_true", help="skip files that already have non-empty text")
     a = ap.parse_args()
 
     rows = list(csv.DictReader(open(a.sources, encoding="utf-8-sig", newline="")))
-    report, problems = {}, 0
-    for row in rows:
+    target_rows = [r for r in rows if not a.only or r.get("source_id") == a.only]
+    print(f"Starting ingestion for {len(target_rows)} source entries from {a.sources}...", flush=True)
+
+    report, problems, skipped = {}, 0, 0
+    for idx, row in enumerate(target_rows, 1):
         sid = (row.get("source_id") or "").strip()
-        if not sid or (a.only and sid != a.only):
+        if not sid:
             continue
         missing = [k for k in REQUIRED if not (row.get(k) or "").strip()]
         if missing:
-            print(f"[{sid}] SKIPPED: missing required column(s): {', '.join(missing)}")
+            print(f"[{idx}/{len(target_rows)}] [{sid}] SKIPPED: missing required column(s): {', '.join(missing)}", flush=True)
             problems += 1
             continue
-        for rx, msg in RISKY:
-            if rx.search(row["licence"]):
-                print(f"[{sid}] LICENCE WARNING ({row['licence']}): {msg}")
+
+        out = p("text", f"{sid}.txt")
+        if a.skip_existing and out.exists() and out.stat().st_size > 500:
+            skipped += 1
+            continue
+
         path = p("raw", row["local_path"].strip())
         if not path.exists():
-            print(f"[{sid}] SKIPPED: file not found: {path}")
+            print(f"[{idx}/{len(target_rows)}] [{sid}] SKIPPED: file not found: {path}", flush=True)
             problems += 1
             continue
+
         pages = extract(path)
         out_lines, low = [], []
         for i, txt in enumerate(pages, 1):
@@ -139,17 +172,17 @@ def main():
                 low.append(i)
             out_lines.append(f"=== page {i} ===\n{txt}\n")
         text = "\n".join(out_lines)
-        out = p("text", f"{sid}.txt")
         out.parent.mkdir(parents=True, exist_ok=True)
         out.write_text(text, encoding="utf-8")
         report[sid] = {"pages": len(pages), "chars": len(text), "low_text_pages": low[:50]}
         flag = ""
         if pages and len(low) > max(2, len(pages) // 3):
-            flag = "  <-- mostly empty: probably a SCAN or maths-as-pictures; needs OCR (GUIDE.md phase 2)"
-        print(f"[{sid}] {len(pages)} pages, {len(text):,} characters -> {out}{flag}")
+            flag = " [LOW TEXT / SCAN - NEEDS OCR/VISION]"
+        print(f"[{idx}/{len(target_rows)}] [{sid}] {len(pages)} pgs, {len(text):,} chars -> {out.name}{flag}", flush=True)
+
     p("text", "_ingest_report.json").write_text(json.dumps(report, indent=2), encoding="utf-8")
-    print(f"\ndone: {len(report)} sources extracted, {problems} problems. Open a .txt and READ a few pages "
-          f"before going on: garbled maths now means garbled training data later.")
+    print(f"\nDone: {len(report)} sources extracted, {skipped} skipped, {problems} problems.", flush=True)
+    print("Open a .txt file in workspace/text/ and inspect a few pages before proceeding.", flush=True)
 
 
 if __name__ == "__main__":

@@ -1,0 +1,819 @@
+**NOTE:**
+* If a candidate answers a question TWICE, only mark the FIRST attempt.
+* Consistent accuracy applies in all aspects of the marking memorandum.
+
+**LET WEL:**
+* Indien 'n kandidaat 'n vraag TWEE keer beantwoord, sien slegs die EERSTE poging na.
+* Volgehoue akkuraatheid is op ALLE aspekte van die nasienriglyne van toepassing.
+
+**REMEMBER:** $(\text{A})$ next to the description of a tick implies accuracy mark  
+**ONTHOU:** $(\text{A})$ langs die beskrywing van `n regmerk impliseer akkuraatheids-punt
+
+---
+
+### QUESTION / VRAAG 1
+
+1.1.1 
+$$x^2 - 6x = 0$$
+$$x(x - 6) = 0$$
+$$x = 0 \text{ or } x = 6$$
+
+* $\checkmark$ common factor
+* $\checkmark$ both answers 
+**(2)**
+
+---
+
+1.1.2 
+$$x^2 + 10x + 8 = 0$$
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+$$x = \frac{-10 \pm \sqrt{10^2 - 4(1)(8)}}{2(1)}$$
+$$x = \frac{-10 \pm \sqrt{68}}{2}$$
+$$x = -0,88 \text{ or } x = -9,12$$
+
+* $\checkmark$ substitution into the correct formula
+* $\checkmark -0,88$ 
+* $\checkmark -9,12$ 
+**(3)**
+
+---
+
+1.1.3 
+$$(1 - x)(x + 2) < 0$$
+Critical values: $x = 1 \text{ or } x = -2$
+
+$$\text{or}$$
+
+$$x < -2 \text{ or } x > 1$$
+
+* $\checkmark$ critical values
+* $\checkmark$ correct method
+* $\checkmark$ answer
+**(3)**
+
+---
+
+1.1.4 
+$$\sqrt{x + 18} = x - 2$$
+$$x + 18 = x^2 - 4x + 4$$
+$$0 = x^2 - 5x - 14$$
+$$(x - 7)(x + 2) = 0$$
+$$x = 7 \text{ or } x \neq -2$$
+
+* $\checkmark$ squaring both sides (m)
+* $\checkmark$ standard form
+* $\checkmark$ factors
+* $\checkmark$ both answers
+* $\checkmark$ rejection of $x = -2$
+**(5)**
+
+---
+
+1.2 
+$$x + y = 3 \implies y = 3 - x \text{ } \dots\dots\text{ (1)}$$
+$$2x^2 + 4xy - y = 15 \text{ } \dots\dots\text{ (2)}$$
+
+Substitute (1) into (2):
+$$2x^2 + 4x(3 - x) - (3 - x) = 15$$
+$$2x^2 + 12x - 4x^2 - 3 + x - 15 = 0$$
+$$-2x^2 + 13x - 18 = 0$$
+$$2x^2 - 13x + 18 = 0$$
+$$(2x - 9)(x - 2) = 0$$
+$$x = \frac{9}{2} \text{ or } x = 2$$
+$$y = -\frac{3}{2} \text{ or } y = 1$$
+
+* $\checkmark$ $y$ subject of the formula
+* $\checkmark$ substitution
+* $\checkmark$ standard form
+* $\checkmark$ factors
+* $\checkmark$ $x$-values
+* $\checkmark$ $y$-values
+**(6)**
+
+$$\text{\bf{OR}}$$
+
+$$x + y = 3 \implies x = 3 - y \text{ } \dots\dots\text{ (1)}$$
+$$2x^2 + 4xy - y = 15 \text{ } \dots\dots\text{ (2)}$$
+
+Substitute (1) into (2):
+$$2(3 - y)^2 + 4(3 - y)y - y = 15$$
+$$2(9 - 6y + y^2) + 12y - 4y^2 - y - 15 = 0$$
+$$18 - 12y + 2y^2 + 12y - 4y^2 - y - 15 = 0$$
+$$-2y^2 - y + 3 = 0$$
+$$2y^2 + y - 3 = 0$$
+$$(2y + 3)(y - 1) = 0$$
+$$y = -\frac{3}{2} \text{ or } y = 1$$
+$$x = \frac{9}{2} \text{ or } x = 2$$
+
+* $\checkmark$ $x$ subject of the formula
+* $\checkmark$ substitution
+* $\checkmark$ standard form
+* $\checkmark$ factors
+* $\checkmark$ $y$-values
+* $\checkmark$ $x$-values
+**(6)**
+
+---
+
+1.3 
+$$n^{200} < 5^{300}$$
+$$(n^2)^{100} < (5^3)^{100}$$
+$$(n^2)^{100} < (125)^{100}$$
+$$n^2 < 125$$
+Maximum value of $n$ is $11$.
+
+$$\text{\bf{OR}}$$
+
+$$200 \log n < 300 \log 5$$
+$$\log n < \frac{3}{2} \log 5$$
+$$n < 10^{\frac{3}{2} \log 5}$$
+$$n < 11,18$$
+$$\therefore n = 11$$
+
+$$\text{\bf{OR}}$$
+
+$$n^{200} < 5^{300}$$
+$$(n^2)^{100} < (5^3)^{100}$$
+$$\sqrt{n^2} < \sqrt{5^3}$$
+$$n < 5^{\frac{3}{2}}$$
+$$n < 11,18$$
+$$\therefore n = 11$$
+
+$$\text{\bf{OR}}$$
+
+$$n^{200} < 5^{300}$$
+$$n < 5^{\frac{300}{200}}$$
+$$n < 5^{\frac{3}{2}}$$
+$$n < 11,18$$
+$$\therefore n = 11$$
+
+* $\checkmark$ $(n^2)^{100} < (5^3)^{100}$
+* $\checkmark$ $n^2 < 125$
+* $\checkmark$ $11$
+**(3)**
+
+$$\text{\bf{OR}}$$
+
+* $\checkmark$ use of logs
+* $\checkmark$ $n < 11,18$
+* $\checkmark$ $11$
+**(3)**
+
+$$\text{\bf{OR}}$$
+
+* $\checkmark$ $(n^2)^{100} < (5^3)^{100}$
+* $\checkmark$ $n < 11,18$
+* $\checkmark$ $11$
+**(3)**
+
+$$\text{\bf{OR}}$$
+
+* $\checkmark$ $n < 5^{\frac{300}{200}}$
+* $\checkmark$ $n < 11,18$
+* $\checkmark$ $n = 11$
+**(3)**
+
+[22]
+
+---
+
+### QUESTION / VRAAG 2
+
+2.1 
+$7 \text{ ; } x \text{ ; } y \text{ ; } -11 \text{ ; } \dots$
+$$a = 7$$
+$$a + 3d = -11$$
+$$7 + 3d = -11$$
+$$3d = -18$$
+$$d = -6$$
+$$x = a + d = 7 + (-6) = 1$$
+$$y = a + 2d = 7 + 2(-6) = -5$$
+
+$$\text{\bf{OR}}$$
+
+$$a + 3d = -11$$
+$$3d = -11 - 7$$
+$$3d = -18$$
+$$d = -6$$
+$$x = 1$$
+$$y = -5$$
+
+$$\text{\bf{OR}}$$
+
+$$x - 7 = y - x \text{ and } y - x = -11 - y$$
+$$2x - 7 = y \text{ } \dots\dots\text{ (1)}$$
+$$2y = -11 + x \text{ } \dots\dots\text{ (2)}$$
+
+Substitute (1) into (2):
+$$2(2x - 7) = -11 + x$$
+$$4x - 14 = -11 + x$$
+$$3x = 3$$
+$$x = 1$$
+$$y = 2(1) - 7 = -5$$
+
+* $\checkmark$ $7 + 3d = -11$
+* $\checkmark$ $d = -6$
+* $\checkmark$ value of $x$
+* $\checkmark$ value of $y$
+**(4)**
+
+$$\text{\bf{OR}}$$
+
+* $\checkmark$ $3d = -11 - 7$
+* $\checkmark$ $d = -6$
+* $\checkmark$ $x = 1$
+* $\checkmark$ $y = -5$
+**(4)**
+
+$$\text{\bf{OR}}$$
+
+* $\checkmark$ $2$ equations
+* $\checkmark$ substitution
+* $\checkmark$ value of $x$
+* $\checkmark$ value of $y$
+**(4)**
+
+---
+
+2.2.1 
+$-3 \text{ ; } 6 \text{ ; } 27 \text{ ; } 60 \text{ ; } \dots$
+$$\begin{array}{cccccccc}
+-3 & & 6 & & 27 & & 60 & \\
+& 9 & & 21 & & 33 & & \\
+& & 12 & & 12 & & &
+\end{array}$$
+
+$$2a = 12 \implies a = 6$$
+$$3a + b = 9 \implies 3(6) + b = 9 \implies b = -9$$
+$$a + b + c = -3 \implies 6 - 9 + c = -3 \implies c = 0$$
+$$T_n = 6n^2 - 9n$$
+
+* $\checkmark$ second difference
+* $\checkmark$ $a = 6$
+* $\checkmark$ $b = -9$
+* $\checkmark$ $c = 0$
+**(4)**
+
+---
+
+2.2.2 
+$$T_{50} = 6(50)^2 - 9(50)$$
+$$= 14\ 550$$
+
+**Answer Only: Full Marks**
+* $\checkmark$ substitute $50$
+* $\checkmark$ answer
+**(2)**
+
+---
+
+2.2.3 
+$9 \text{ ; } 21 \text{ ; } 33 \text{ ; } \dots$
+$$a = 9$$
+$$d = 12$$
+$$S_n = \frac{n}{2}[2a + (n - 1)d]$$
+$$S_n = \frac{n}{2}[2(9) + (n - 1)(12)]$$
+$$= \frac{n}{2}[18 + 12n - 12]$$
+$$= \frac{n}{2}[12n + 6]$$
+$$= 6n^2 + 3n$$
+
+* $\checkmark$ $a$ and $d$
+* $\checkmark$ substitution into the correct formula
+* $\checkmark$ $\frac{n}{2}[12n + 6]$
+**(3)**
+
+---
+
+2.2.4 
+$$-3 + S_n = 21\ 060$$
+$$S_n = 21\ 063$$
+$$6n^2 + 3n = 21\ 063$$
+$$6n^2 + 3n - 21\ 063 = 0$$
+$$2n^2 + n - 7021 = 0$$
+$$n = \frac{-1 \pm \sqrt{(1)^2 - 4(2)(-7021)}}{2(2)}$$
+$$n = \frac{-1 \pm \sqrt{56\ 169}}{4}$$
+$$n = 59 \text{ or } n = \frac{-119}{2}$$
+$$\therefore n = 59$$
+
+$$\text{\bf{OR}}$$
+
+$$T_n = 21\ 060$$
+$$6n^2 - 9n - 21\ 060 = 0$$
+$$2n^2 - 3n - 7020 = 0$$
+$$n = 60$$
+$$\therefore 59 \text{ first differences must be added.}$$
+
+* $\checkmark$ $-3 + S_n = 21\ 060$
+* $\checkmark$ equation
+* $\checkmark$ standard form
+* $\checkmark$ answer
+**(4)**
+
+$$\text{\bf{OR}}$$
+
+* $\checkmark$ equation
+* $\checkmark$ standard form
+* $\checkmark\checkmark$ answer
+**(4)**
+
+[17]
+
+---
+
+### QUESTION / VRAAG 3
+
+3.1 
+$$\sum_{k=1}^{\infty} 4 \cdot 3^{2-k} = 12 + 4 + \frac{4}{3} + \dots$$
+$$r = \frac{4}{12} = \frac{1}{3}$$
+$$-1 < \frac{1}{3} < 1$$
+$\therefore$ series is convergent $(-1 < r < 1)$
+
+* $\checkmark 12 + 4 + \frac{4}{3} + \dots \text{ or } 36\left(\frac{1}{3}\right)^k$
+* $\checkmark$ value of $r$
+* $\checkmark -1 < r < 1$
+**(3)**
+
+---
+
+3.2 
+$$\sum_{k=p}^{\infty} 4 \cdot 3^{2-k} = 4 \cdot 3^{2-p} + 4 \cdot 3^{1-p} + 4 \cdot 3^{-p} + \dots$$
+$$a = 4 \cdot 3^{2-p}$$
+$$r = \frac{1}{3}$$
+$$S_{\infty} = \frac{a}{1 - r}$$
+$$\frac{2}{9} = \frac{4 \cdot 3^{2-p}}{1 - \frac{1}{3}}$$
+$$4 \cdot 3^{2-p} = \frac{2}{9} \cdot \frac{2}{3}$$
+$$4 \cdot 3^{2-p} = \frac{4}{27}$$
+$$3^{2-p} = \frac{1}{27}$$
+$$3^{2-p} = 3^{-3}$$
+$$2 - p = -3$$
+$$p = 5$$
+
+* $\checkmark$ expression for $a$
+* $\checkmark$ substitution of $a$, $r$ and $S_{\infty}$
+* $\checkmark$ simplification $4 \cdot 3^{2-p} = \frac{4}{27}$
+* $\checkmark$ $3^{2-p} = 3^{-3}$
+* $\checkmark$ answer
+**(5)**
+
+[8]
+
+---
+
+### QUESTION / VRAAG 4
+
+4.1.1 
+$$x = 1$$
+$$y = 2$$
+
+* $\checkmark x = 1$
+* $\checkmark y = 2$
+**(2)**
+
+---
+
+4.1.2 
+$$y = mx + c$$
+$$2 = -1 + c$$
+$$c = 3$$
+$$y = -x + 3$$
+
+$$\text{\bf{OR}}$$
+
+$$y - y_1 = m(x - x_1)$$
+$$y - 2 = -1(x - 1)$$
+$$y - 2 = -x + 1$$
+$$y = -x + 3$$
+
+$$\text{\bf{OR}}$$
+
+$$y = -(x - p) + q$$
+$$y = -(x - 1) + 2$$
+$$y = -x + 3$$
+
+* $\checkmark$ substitution of $m = -1$ and $(1 ; 2)$
+* $\checkmark$ answer
+**(2)**
+
+---
+
+4.1.3 
+* $\checkmark$ vertical asymptote: $x = 1$ and horizontal asymptote: $y = 2$
+* $\checkmark$ $x$-intercept: $\frac{5}{2}$
+* $\checkmark$ $y$-intercept: $5$
+* $\checkmark$ shape (A)
+**(4)**
+
+---
+
+4.2.1 
+$$(-5 ; -8)$$
+
+* $\checkmark x = -5$ 
+* $\checkmark y = -8$
+**(2)**
+
+---
+
+4.2.2 
+$$y \geq -8 \text{ or } [-8 ; \infty)$$
+
+* $\checkmark$ answer
+**(1)**
+
+---
+
+4.2.3 
+$$m = -5$$
+$$n = g(-5)$$
+$$= \frac{1}{2}(-5) + \frac{9}{2}$$
+$$= 2$$
+
+* $\checkmark m = -5$
+* $\checkmark$ substitution
+* $\checkmark n = 2$
+**(3)**
+
+---
+
+4.2.4 
+$$\text{Area trapezium} = \frac{1}{2}(\text{DE} + \text{OC}) \times \text{OE}$$
+$$= \frac{1}{2}(2 + 4,5) \times 5$$
+$$= \frac{65}{4} \text{ or } 16,25$$
+
+$$\text{\bf{OR}}$$
+
+$$\text{Area } \Delta = \frac{1}{2}b \cdot h = \frac{1}{2}(5)\left(\frac{5}{2}\right) = \frac{25}{4}$$
+$$\text{Area rect} = b \cdot h = (5)(2) = 10$$
+$$\text{Area trapezium} = \frac{25}{4} + 10 = \frac{65}{4} \text{ or } 16,25$$
+
+$$\text{\bf{OR}}$$
+
+$$S(-9 ; 0)$$
+$$\text{Area } \Delta \text{ SOC} = \frac{1}{2}b \cdot h = \frac{1}{2}(9)\left(\frac{9}{2}\right) = \frac{81}{4}$$
+$$\text{Area } \Delta \text{ SED} = \frac{1}{2}b \cdot h = \frac{1}{2}(4)(2) = 4$$
+$$\text{Area trapezium} = \text{area } \Delta \text{ SOC} - \text{Area } \Delta \text{ SED}$$
+$$= \frac{81}{4} - 4 = \frac{65}{4} \text{ or } 16,25$$
+
+* $\checkmark$ method
+* $\checkmark$ correct substitution
+* $\checkmark$ answer
+**(3)**
+
+---
+
+4.2.5 
+$$g^{-1} \text{: } x = \frac{1}{2}y + \frac{9}{2}$$
+$$g^{-1} \text{: } y = 2x - 9$$
+
+* $\checkmark$ changing $x$ and $y$
+* $\checkmark$ answer
+**(2)**
+
+---
+
+4.2.6 
+$$f(x) = \frac{1}{2}(x + 5)^2 - 8$$
+$$f(x) = \frac{1}{2}(x^2 + 10x + 25) - 8$$
+$$f(x) = \frac{1}{2}x^2 + 5x + 4,5$$
+$$f'(x) = x + 5$$
+$$h(x) = 2x - 9 + k$$
+$$x + 5 = 2 \implies x = -3$$
+$$y = -6$$
+$$(-3 ; -6)$$
+
+$$\text{\bf{OR}}$$
+
+$$f(x) = h(x)$$
+$$\frac{1}{2}(x + 5)^2 - 8 = 2x - 9 + k$$
+$$\frac{1}{2}x^2 + 3x + \frac{27}{2} - k = 0$$
+$$x = \frac{-3}{2\left(\frac{1}{2}\right)} = -3 \quad \text{ or } \quad b^2 - 4ac = 0$$
+$$y = -6$$
+$$(-3 ; -6)$$
+
+* $\checkmark f'(x)$
+* $\checkmark x + 5 = 2$
+* $\checkmark x = -3$
+* $\checkmark y = -6$
+**(4)**
+
+$$\text{\bf{OR}}$$
+
+* $\checkmark$ equating
+* $\checkmark$ turning point / $\Delta = 0$
+* $\checkmark x = -3$
+* $\checkmark y = -6$
+**(4)**
+
+[23]
+
+---
+
+### QUESTION / VRAAG 5
+
+5.1 
+$$\text{A}(0 ; 1)$$
+
+* $\checkmark$ answer
+**(1)**
+
+---
+
+5.2 
+$$9 = 3^{-x}$$
+$$3^2 = 3^{-x}$$
+$$x = -2$$
+$$\text{B}(-2 ; 9)$$
+
+* $\checkmark$ equating
+* $\checkmark 3^2 = 3^{-x}$
+* $\checkmark x = -2$
+**(3)**
+
+---
+
+5.3 
+$$x \in (0 ; \infty) \text{ or } x > 0$$
+
+* $\checkmark\checkmark$ answer
+**(2)**
+
+---
+
+5.4 
+$$h(x) = 27 \cdot 3^{-x}$$
+$$h(x) = 3^{3-(x-3)} \text{ [Wait, actually } h(x) = 3^3 \cdot 3^{-x} = 3^{3-x} = 3^{-(x-3)} \text{]}$$
+$f$ shifted $3$ units to the right
+
+* $\checkmark h(x) = 3^{-(x-3)}$
+* $\checkmark 3$ units
+* $\checkmark$ right
+**(3)**
+
+---
+
+5.5 
+$$\frac{27}{3^x} < 1$$
+$$3^3 < 3^x \text{ or } 3^{-x+3} < 3^0$$
+$$x > 3 \text{ or } -x + 3 < 0$$
+$$x > 3$$
+
+$$\text{\bf{OR}}$$
+
+The graph shifts $3$ units to the right.  
+Thus the $y$-intercept shifts $3$ units to the right $(3 ; 1)$.  
+$\therefore x > 3$
+
+* $\checkmark 3^3 < 3^x \text{ or } 3^{-x+3} < 3^0$
+* $\checkmark 3^3 < 3^x \text{ or } -x + 3 < 0$
+* $\checkmark x > 3$
+**(3)**
+
+$$\text{\bf{OR}}$$
+
+* $\checkmark$ translation
+* $\checkmark$ $y$-intercept
+* $\checkmark$ answer
+**(3)**
+
+[12]
+
+---
+
+### QUESTION / VRAAG 6
+
+6.1.1 
+$$F = \frac{x[(1 + i)^n - 1]}{i}$$
+$$F = \frac{1\ 000 \left[\left(1 + \frac{0,075}{12}\right)^{145} - 1\right]}{\frac{0,075}{12}}$$
+$$= \text{R}234\ 888,53$$
+
+* $\checkmark n = 145$
+* $\checkmark i = \frac{0,075}{12}$
+* $\checkmark$ substitution into the correct formula
+* $\checkmark$ answer
+**(4)**
+
+---
+
+6.1.2 
+$$A = P(1 + i)^n$$
+$$A = 234\ 888,53 \left(1 + \frac{0,075}{12}\right)^{12}$$
+$$= \text{R}253\ 123,54$$
+
+* $\checkmark$ substitution into the correct formula
+* $\checkmark$ answer
+**(2)**
+
+---
+
+6.2 
+$$A = P(1 - i)^n$$
+$$92\ 537,64 = 250\ 000(1 - 0,22)^n$$
+$$0,37015056 = (0,78)^n$$
+$$n = \frac{\log 0,37015056}{\log 0,78}$$
+$$n = 4 \text{ years}$$
+
+* $\checkmark$ substitution into the correct formula
+* $\checkmark$ correct use of logs
+* $\checkmark$ answer
+**(3)**
+
+---
+
+6.3.1 
+$$\text{Loan amount: } = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+$$= \frac{1500 \left[1 - \left(1 + \frac{0,113}{12}\right)^{-72}\right]}{\frac{0,113}{12}}$$
+$$= \text{R}78\ 173,49323$$
+
+* $\checkmark 72$
+* $\checkmark$ substitution into the correct formula
+* $\checkmark$ answer
+**(3)**
+
+---
+
+6.3.2 
+$$\text{Balance after } 5 \text{ years: } P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+$$= \frac{1500 \left[1 - \left(1 + \frac{0,113}{12}\right)^{-12}\right]}{\frac{0,113}{12}}$$
+$$= \text{R}16\ 945,00629$$
+
+$$\text{Amount paid: } \text{R}1\ 500 \times 60 = \text{R}90\ 000$$
+
+$$\text{Interest} = \text{Amount paid} - [\text{Loan} - \text{Balance}]$$
+$$= \text{R}90\ 000 - [\text{R}78\ 173,49323 - \text{R}16\ 945,00629]$$
+$$= \text{R}28\ 771,51$$
+
+$$\text{\bf{OR}}$$
+
+$$\text{Balance} = 78\ 173,49\left(1 + \frac{0,133}{12}\right)^{60} - \frac{1500\left[\left(1 + \frac{0,113}{12}\right)^{60} - 1\right]}{\frac{0,113}{12}}$$
+$$\text{Balance} = \text{R}16\ 945,00$$
+$$\text{Amount paid: } \text{R}1\ 500 \times 60 = \text{R}90\ 000$$
+$$\text{Interest} = \text{R}28\ 771,51$$
+
+* $\checkmark$ substitution (A)
+* $\checkmark$ $\text{R}16\ 945,00629 \text{ (A)}$
+* $\checkmark \text{R}90\ 000 - [\text{Loan} - \text{Balance}]$
+* $\checkmark$ answer
+**(4)**
+
+$$\text{\bf{OR}}$$
+
+* $\checkmark$ substitution
+* $\checkmark \text{R}16\ 945,00629$
+* $\checkmark \text{R}90\ 000 - [\text{Loan} - \text{Balance}]$
+* $\checkmark$ answer
+**(4)**
+
+[16]
+
+---
+
+### QUESTION / VRAAG 7
+
+**Penalty of $-1$ for notation only in 7.1**
+
+7.1 
+$$f(x) = 2x^2 - 1$$
+$$f(x + h) = 2(x + h)^2 - 1$$
+$$= 2(x^2 + 2xh + h^2) - 1$$
+$$= 2x^2 + 4xh + 2h^2 - 1$$
+$$f(x + h) - f(x) = 2x^2 + 4xh + 2h^2 - 1 - (2x^2 - 1)$$
+$$= 2x^2 + 4xh + 2h^2 - 1 - 2x^2 + 1$$
+$$= 4xh + 2h^2$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+$$= \lim_{h \to 0} \frac{4xh + 2h^2}{h}$$
+$$= \lim_{h \to 0} \frac{h(4x + 2h)}{h}$$
+$$= \lim_{h \to 0} (4x + 2h)$$
+$$= 4x$$
+
+* $\checkmark 2x^2 + 4xh + 2h^2 - 1$
+* $\checkmark 4xh + 2h^2$
+* $\checkmark$ substitution
+* $\checkmark$ simplification
+* $\checkmark$ answer
+**(5)**
+
+---
+
+7.2.1 
+$$\frac{d}{dx}(\sqrt[5]{x^2} + x^3)$$
+$$= \frac{d}{dx}(x^{\frac{2}{5}} + x^3)$$
+$$= \frac{2}{5}x^{-\frac{3}{5}} + 3x^2$$
+
+* $\checkmark x^{\frac{2}{5}}$
+* $\checkmark \frac{2}{5}x^{-\frac{3}{5}}$
+* $\checkmark 3x^2$
+**(3)**
+
+---
+
+7.2.2 
+$$f(x) = \frac{4x^2 - 9}{4x + 6}$$
+$$= \frac{(2x - 3)(2x + 3)}{2(2x + 3)}$$
+$$= \frac{2x - 3}{2}$$
+$$= x - \frac{3}{2}$$
+$$f'(x) = 1$$
+
+* $\checkmark (2x - 3)(2x + 3)$
+* $\checkmark 2(2x + 3)$
+* $\checkmark$ simplification to two separate terms
+* $\checkmark$ answer
+**(4)**
+
+[12]
+
+---
+
+### QUESTION / VRAAG 8
+
+8.1 
+$$-1 < x < 2$$
+
+* $\checkmark\checkmark$ answer
+**(2)**
+
+---
+
+8.2 
+$$x = \frac{-1 + 2}{2}$$
+$$x = \frac{1}{2}$$
+
+**Answer Only: Full Marks**
+* $\checkmark$ method
+* $\checkmark$ answer
+**(2)**
+
+---
+
+8.3 
+From the graph $x > \frac{1}{2}$
+
+**Answer Only: Full Marks**
+* $\checkmark\checkmark$ answer
+**(2)**
+
+---
+
+8.4 
+$$g(x) = ax^3 + bx^2 + cx$$
+$$g'(x) = 3ax^2 + 2bx + c = -6x^2 + 6x + 12$$
+$$3a = -6, \quad 2b = 6, \quad c = 12$$
+$$a = -2, \quad b = 3$$
+$$g(x) = -2x^3 + 3x^2 + 12x$$
+
+* $\checkmark g'(x) = 3ax^2 + 2bx + c$
+* $\checkmark a = -2$
+* $\checkmark b = 3$
+* $\checkmark g(x) = -2x^3 + 3x^2 + 12x$
+**(4)**
+
+---
+
+8.5 
+$$g'\left(\frac{1}{2}\right) = -6\left(\frac{1}{2}\right)^2 + 6\left(\frac{1}{2}\right) + 12$$
+$$m = \frac{27}{2} \text{ or } 13,5$$
+
+$$y = -2\left(\frac{1}{2}\right)^3 + 3\left(\frac{1}{2}\right)^2 + 12\left(\frac{1}{2}\right)$$
+$$y = \frac{13}{2} \text{ or } 6,5$$
+
+$$y - y_1 = m(x - x_1)$$
+$$y - 6,5 = 13,5(x - 0,5)$$
+$$y = 13,5x - 0,25$$
+
+* $\checkmark$ max gradient at $x = \frac{1}{2}$
+* $\checkmark$ answer ($m$)
+* $\checkmark$ $y$ value
+* $\checkmark$ substitution
+* $\checkmark$ answer
+**(5)**
+
+[15]
+
+---
+
+### QUESTION / VRAAG 9
+
+9.1 
+$$\text{Total surface area} = 2\ell w + 2wh + 2\ell h$$
+$$\text{but: } \ell = 3w$$
+$$\text{Total surface area} = 6w^2 + 2wh + 6wh$$
+$$C = 15(6w^2) + 6(2wh + 6wh)$$
+$$= 15(6w^2) + 6(8wh)$$
+$$= 90w^2 + 48wh$$
+
+* $\checkmark 2\ell w + 2wh + 2\ell h$
+* $\checkmark \ell = 3w$
+* $\checkmark 15(6w^2)$
+* $\checkmark 6(2wh + 6wh)$
+**(4)**
+
+---
+
+9.2 
+$$5 = 3w^2 h$$
+$$h = \frac{5}{3w^2}$$
+$$C = 90w^2 + 48wh$$
+$$C(w) = 90w^2 + 48w\left(\frac{5}{3w^2}\right)$$
+$$= 90w^2 + 80w^{-1}$$
+$$C'(w) = 180w - 80w^{-2}$$
+$$18

@@ -1,0 +1,345 @@
+**CONFIDENTIAL**
+
+**NATIONAL CERTIFICATE**
+
+**GRADE 12**
+
+**ENGLISH FIRST ADDITIONAL LANGUAGE P1**
+**NOVEMBER 2024**
+
+**MARKS: 80**
+**TIME: 2 hours**
+
+This question paper consists of 14 pages.
+
+---
+
+### INSTRUCTIONS AND INFORMATION
+
+1. This question paper consists of THREE sections:
+   - SECTION A: Comprehension (30)
+   - SECTION B: Summary (10)
+   - SECTION C: Language (40)
+
+2. Answer ALL the questions.
+3. Read ALL the instructions carefully.
+4. Start EACH section on a NEW page.
+5. Leave a line after each answer.
+6. Number the answers correctly according to the numbering system used in this question paper.
+7. For multiple-choice questions, write only the letter (A–D) next to the question number in the ANSWER BOOK.
+8. Pay special attention to spelling and sentence construction.
+9. Use the following time frame as a guideline:
+   - SECTION A: 50 minutes
+   - SECTION B: 20 minutes
+   - SECTION C: 50 minutes
+10. Write neatly and legibly.
+
+---
+
+## SECTION A: COMPREHENSION
+
+### QUESTION 1
+
+Read BOTH TEXT A and TEXT B and answer the set questions.
+
+#### TEXT A
+
+**EMBRACING ARTIFICIAL INTELLIGENCE**
+
+1. The words artificial intelligence (AI) seem to be on the tip of everyone's tongue lately. Artificial intelligence is one of the most important technologies in the world today. It has become part of our lives and it affects everything we do. Apart from the science fiction fantasies and images of robots taking over the world, what could be the reason for all the excitement surrounding AI?
+
+2. AI is a field of computer science that allows machines to imitate human thought processes and decision-making abilities. There are different types of AI and the most common form is called 'machine learning'. Machine learning involves training a computer program on a large amount of data so it can learn to identify patterns and make predictions based on that data. AI is also used in industries to help automate$^1$ tasks and improve efficiency.
+
+3. Through the use of AI, individuals and groups enjoy a more personalised experience in various technological solutions. AI is used in a wide range of applications ranging from dating sites to online shopping. In Africa, it helps with solving important issues including access to healthcare, financial services and education. Overall, AI has the potential to revolutionise the way we live and work.
+
+4. The impact of AI on businesses is resulting in a shift in the type of skills needed to drive economic transformation. In the past four years, the use of AI across businesses has grown by 270 per cent. However, regardless of the widespread anxiety about automation and machines displacing workers, AI is far from causing large-scale unemployment. It helps to simplify boring tasks and make workers more efficient. Besides making the workday less monotonous by removing all the redundant tasks, AI has lowered the entry-level to some jobs, especially for people who had limited access to education.
+
+5. As the world becomes increasingly technology-driven, it is exciting to see how AI transforms the way we work and create websites. With user-friendly tools and platforms, like WIX, it is now easier than ever to design and create professional-looking websites, even for people who do not have a background in design. WIX, for example, offers a versatile platform that caters to users of all skill levels. Whether you are starting from scratch or working with templates, its artificial design intelligence (ADI) takes website design to the next level. You simply provide the ADI platform with basic information about your website needs and design preferences. ADI then creates a professional-looking website for you within minutes.
+
+6. A popular AI tool that is commonly used is ChatGPT. This is a natural language processing model that allows you to have human-like 'conversations' with a chatbot$^2$. ChatGPT can answer questions and assist with tasks like composing e-mails, writing essays and coding. It is popular among writers and people who work in advertising.
+
+7. AI is increasingly influencing our lives in many different ways, for example health, fashion and beauty. The TikTok$^3$ bold glamour filter is a video beauty filter that makes the user look more attractive. This filter is blurring the boundaries between what is real and what is not through the use of AI technology. Unlike past social media filters, bold glamour does not malfunction when the face moves in a video. It uses a database of other faces to create a new airbrushed-looking face. The filter has received over 400 million views since its initial release.
+
+8. While AI is a powerful tool that can help us work faster and more efficiently, it is important to remember that it cannot replace human touch and creativity. It is also worth noting that AI cannot be used to cheat the system and should not be used to cut corners. Instead, it should be used to improve existing systems, to make them more efficient and effective. Despite its limitations, AI is here to stay and it can help us keep up with the changes in technology. By embracing its potential and using it wisely, humans can reap the benefits and work in ways they never previously thought possible.
+
+*[Adapted from www.media24.com]*
+
+**GLOSSARY:**
+- automate$^1$: to use computers and machines to do a job
+- chatbot$^2$: a computer program that allows humans to communicate with a robot
+- TikTok$^3$: a social media application that allows users to create, watch and share short videos
+
+1.1 Refer to paragraph 1.
+   1.1.1 Why is artificial intelligence considered one of the most important technologies? (1)
+   1.1.2 What do the words 'science fiction fantasies' suggest about the common perception of artificial intelligence? (2)
+
+1.2 Refer to paragraph 2.
+   1.2.1 Using your OWN words, explain what artificial intelligence is. State TWO points. (2)
+   1.2.2 State TWO benefits of using artificial intelligence in industries. (2)
+
+1.3 Refer to paragraph 3.
+   Identify TWO challenging areas that artificial intelligence addresses in Africa. (2)
+
+1.4 Refer to paragraph 4.
+   1.4.1 Why is the following statement FALSE?
+   *Skills are no longer required to boost economic change due to the impact of artificial intelligence on businesses.* (1)
+   1.4.2 Why does the writer refer to '270 per cent'? Give TWO reasons. (2)
+
+1.5 Refer to paragraph 5.
+   1.5.1 What do the words 'exciting' and 'transforms' suggest about the use of AI? (2)
+   1.5.2 In your OWN words, explain how you can create a professional-looking website by using artificial intelligence. (2)
+
+1.6 Refer to paragraph 6.
+   What do the words 'allows you to have human-like "conversations"' suggest about ChatGPT? State TWO points. (2)
+
+1.7 Refer to paragraph 7.
+   How does the bold glamour filter differ from previous filters? (1)
+
+1.8 Refer to paragraph 8.
+   1.8.1 Quote ONE word which indicates that AI is not perfect. (1)
+   1.8.2 What advice does the writer give regarding the use of artificial intelligence? State TWO points. (2)
+
+1.9 Discuss the suitability of the title, 'EMBRACING ARTIFICIAL INTELLIGENCE'. (2)
+
+---
+
+#### TEXT B
+
+**THE BENEFITS OF READING**
+
+[DIAGRAM: Visual 1 shows a flexing human brain holding a barbell with weights on both ends, wearing trainers. Visual 2 shows a black circle with a white lowercase 'i' inside. Visual 3 shows a target board with an arrow piercing the bullseye. Visual 4 shows an emoticon smiling with a light bulb above its head and rays radiating from it.]
+
+- 1. [DIAGRAM: Brain lifting weights]
+- 2. A source of information
+- 3. Improves focus and concentration
+- 4. [DIAGRAM: Emoticon with a light bulb overhead]
+
+*[Adapted from www.google.co.za]*
+
+1.10 Identify the suggested benefit of reading shown in visual 1. Give a reason for your answer. (2)
+
+1.11 Refer to visual 4. What does the light bulb above the emoticon suggest about reading? Give a reason for your answer. (2)
+
+1.12 In your opinion, is it easier to understand the visuals used in TEXT B or the written text in TEXT B? Substantiate your answer. (2)
+
+**TOTAL SECTION A: 30**
+
+---
+
+## SECTION B: SUMMARY
+
+### QUESTION 2
+
+Many people do not have time to exercise due to a busy lifestyle. However, people can ensure they are physically active while doing everyday activities.
+
+Read the passage (TEXT C) below and list SEVEN points on **how to be more active while doing everyday activities**.
+
+#### INSTRUCTIONS
+1. Your summary must be written in point form.
+2. List your SEVEN points in full sentences, using no more than 70 words.
+3. Number your sentences from 1 to 7.
+4. Write only ONE point per sentence.
+5. Use your OWN words as far as possible.
+6. Indicate the total number of words you have used in brackets at the end of your summary.
+
+#### TEXT C
+
+**HOW TO GET ACTIVE**
+
+Being physically active is important for one's well-being. Keeping active does not have to be strenuous or time-consuming.
+
+Regular walking can make a big difference to your overall health. A twenty-minute walk with your dog will not only make your pet happy, but it will also get your heart pumping. Take every opportunity to move your feet and you will be surprised at how much more active you will be. It is as easy as pacing while you talk on your cellphone. If walking is not an option, consider cycling. When you cycle to work or school, it is not only good for your health, but also for the environment.
+
+Make it a rule to always take the stairs instead of the escalator or lift. You do not have to climb twenty floors – even one or two floors will have you feeling stronger than before.
+
+Jogging is another effective way of keeping physically active. You can choose to jog alone or in a group.
+
+Housework is good exercise as well. You can get a real workout by mopping floors, cleaning windows and handwashing clothes.
+
+Rethink the way you work. Instead of slumping in your office chair every day, remember to get up and stretch and take a few steps every half an hour.
+
+Have a dance party. You can set one up in your home. Just dim the lights, play your favourite music and have fun. Dancing is a fantastic workout as it gets you moving.
+
+Every bit counts!
+
+*[Adapted from https://magazines.dischem.co.za/]*
+
+**TOTAL SECTION B: 10**
+
+---
+
+## SECTION C: LANGUAGE
+
+### QUESTION 3: ANALYSING AN ADVERTISEMENT
+
+Study the advertisement (TEXT D) below and answer the set questions.
+
+#### TEXT D
+
+[DIAGRAM: An advertisement for "Sinutab Nasal spray". The headline reads: "Free yourself from a blocked nose". The visual shows a nasal spray bottle and its outer packaging box displaying a medical face cross-section graphic, alongside a large grey circle graphic containing the text "2 Minutes" with an arrow indicating "Starts to work in" and "Lasts for up to 10 hours"]
+
+*[Source: Clicks ClubCard Magazine, September 2023]*
+
+**The text on the bottle and/or box reads as follows:**
+[S1] Sinutab®
+Nasal spray
+Blocked Nose
+For a blocked nose caused by colds, hayfever and sinusitis
+
+3.1 Choose the correct answer to complete the following sentence:
+
+The ® next to the word Sinutab indicates that this is a … trademark.
+
+A recorded  
+B renewing  
+C registered  
+D recovering  (1)
+
+3.2 Refer to the headline.
+   3.2.1 To which need does the advertiser appeal? (1)
+   3.2.2 Explain the advertiser's intention in using the word, 'yourself'. (2)
+
+3.3 Why has the advertiser included the visual of the bottle and the box? Give TWO points. (2)
+
+3.4 Quote TWO consecutive words from the text that indicate that this is not an oral treatment. (1)
+
+3.5 Provide a synonym for the underlined word in the following sentence:
+
+For a blocked nose caused by colds, use Sinutab. (1)
+
+3.6 Does the visual of the curved arrow support the message of the advertisement? Substantiate your answer. (2)
+
+**[10]**
+
+---
+
+### QUESTION 4: ANALYSING A CARTOON
+
+Read the cartoon (TEXT E) below and answer the set questions.
+
+#### TEXT E
+
+**DENNIS THE MENACE** by Hank Ketcham
+
+[DIAGRAM: A 7-frame comic strip titled "DENNIS THE MENACE: MESSAGE SENT". 
+Frame 1: Mr. Wilson finally gave in and got a cellphone. Dennis says, "WOW! THAT'S GREAT!". 
+Frame 2: Dennis says to Mr. Wilson, "NOW YOU DON'T HAVE TO TALK TO ANYBODY ANYMORE!". 
+Frame 3: Dennis speaks to Mr. Wilson. 
+Frame 4: Silhouette view of Dennis talking: "YOU CAN JUST TEXT 'EM!". 
+Frame 5: Mr. Wilson looks annoyed, holding the phone, while Dennis looks thoughtful. Mr. Wilson thinks: "THAT SEEMS LIKE A LOT OF WORK.". 
+Frame 6: Mrs. Wilson and Mr. Wilson look at the phone. Mrs. Wilson says: "YOU CAN JUST ANSWER WITH A SMILE EMOJI!". 
+Frame 7: Mr. Wilson glares with a frown while Mrs. Wilson smiles beside him. Mrs. Wilson says: "DON'T WORRY, DEAR, THEY HAVE A GRUMPY EMOJI, TOO!".]
+
+*[Source: https://safr.kingfeatures.com]*
+
+*NOTE: In this cartoon, the boy's name is Dennis and the adults are Mr and Mrs Wilson.*
+
+4.1 
+   4.1.1 Refer to FRAME 2.
+   Choose the correct answer to complete the following sentence:
+   In the context of this cartoon, the words 'finally gave in' suggest that Mr Wilson is usually …
+   A obliging.  
+   B stubborn.  
+   C agreeable.  
+   D unfriendly.  (1)
+   
+   4.1.2 Identify the punctuation mark used in the following:
+   *Wow!*  (1)
+
+4.2 Refer to FRAME 4.
+   Explain why the visual is different in this frame. State TWO points. (2)
+
+4.3 Refer to FRAME 5.
+   Explain how the cartoonist conveys that Mr Wilson is unhappy. Refer to ONE verbal and ONE visual clue in your answer. (2)
+
+4.4 Refer to FRAME 6.
+   How does the cartoonist succeed in stereotyping Mr and Mrs Wilson as elderly? Make reference to BOTH Mr and Mrs Wilson. (2)
+
+4.5 Refer to FRAME 7.
+   Do you think Mrs Wilson's comment is humorous? Substantiate your answer. (2)
+
+**[10]**
+
+---
+
+### QUESTION 5: LANGUAGE AND EDITING SKILLS
+
+5.1 Read the passage (TEXT F) below, which has some deliberate errors, and answer the set questions.
+
+#### TEXT F
+
+**AN ODE TO SOUTH AFRICA'S VIBRANT BRAAI CULTURE**
+
+1. South Africans enjoy a braai. **Its** the perfect occasion to enjoy the South African sunshine.
+
+2. Simba teamed up with Chef Benny to create a brand-new flavour in chips. He wanted to capture the **essense** of the braai.
+
+3. Chef Benny **believe** Simba's Steakhouse Beef flavour is perfect for a braai. 'It is a perfect filler before a braai,' he said.
+
+4. He describes this taste **has** a smoky beef flavour with sweet barbecue notes. 'They roped me in as a chef who is synonymous with braai; I had to test it out,' he said.
+
+5. He often meets people that tell him they enjoy the new flavour. 'Simba has created a delicious braai companion,' Giulia Iorio-Ndlovu, marketing director said. She added that the brand presents a flavour that bridges the gap between starters and braai.
+
+6. The new Steakhouse Beef stands out as distinct. Unlike the traditional Smoked Beef flavour, it boasts premium spices.
+
+*[Adapted from www.iol.co.za]*
+
+5.1.1 Correct the SINGLE error in EACH of the following sentences. Write down ONLY the question numbers and the words you have corrected.
+   (a) Its the perfect occasion to enjoy the South African sunshine. (1)
+   (b) Simba teamed up with Chef Benny to create a brand-new flavour in chips. (1)
+   (c) He wanted to capture the essense of the braai. (1)
+   (d) Chef Benny believe Simba's Steakhouse Beef flavour is perfect for a braai. (1)
+
+5.1.2 Complete the following tag question. Write down only the missing words.
+   *It is a perfect filler before a braai, ...?* (1)
+
+5.1.3 Rewrite the following sentence correctly:
+   *He describes this taste has a smoky beef flavour with sweet barbecue notes.* (1)
+
+5.1.4 Rewrite the following sentence in reported speech:
+   *Chef Benny said, 'They roped me in as a chef who is synonymous with braai.'* (3)
+
+5.1.5 Study the following sentence:
+   *He often meets people that tell him they enjoy the new flavour.*
+   Use a homophone for the word **new** in a sentence of your own. (1)
+
+5.1.6 Rewrite the following sentence in the passive voice:
+   *Simba has created a delicious braai companion.* (1)
+
+5.1.7 Study the following sentence:
+   *State the part of speech of EACH of the underlined words as used in this sentence.*
+   She added that **the** brand presents **a** flavour that bridges the gap between starters and braai. *(Note: underlined words correspond to 'the' and 'a')* (2)
+
+5.1.8 Rewrite the following sentence in the negative form:
+   *The new Steakhouse Beef stands out as distinct.* (1)
+
+---
+
+5.2 Study the text (TEXT G) below and answer the questions.
+
+#### TEXT G
+
+[DIAGRAM: A graduation ceremony illustration where a graduate in cap and gown stands at a podium holding a diploma, while receiving a glowing smartphone displaying text that reads: "FIRST OFF, I'd LIKE TO THANK GOOGLE...". In the background audience, tiny figures sit in chairs.]
+
+*[Source: www.google.com]*
+
+5.2.1 Combine the following sentences into a single sentence by using the words **'as well as'**:
+   *Google is the most visited website.*
+   *Google is the most popular search engine.* (2)
+
+5.2.2 Give the correct form of the word in brackets in the sentence below.
+   *Google is the (create) of two university students called Larry Page and Sergey Brin.* (1)
+
+5.2.3 Provide the correct degree of comparison in the following sentence:
+   *Google offers (many) services and products than other search engines.* (1)
+
+5.2.4 The word Google comes from the term 'googol', which is the number one followed by a hundred 0s.
+   Write the number '0' as a word. (1)
+
+5.2.5 Rewrite the following sentence in the present continuous tense.
+   *I used Google for my research.* (1)
+
+**[20]**
+
+**TOTAL SECTION C: 40**  
+**GRAND TOTAL: 80**

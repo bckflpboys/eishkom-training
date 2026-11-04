@@ -1,0 +1,316 @@
+**BASIC EDUCATION**
+**REPUBLIC OF SOUTH AFRICA**
+
+**SENIOR SERTIFIKAAT-EKSAMEN / NASIONALE SENIOR SERTIFIKAAT-EKSAMEN**
+
+**WISKUNDE V2**
+**MEI/JUNIE 2023**
+
+**PUNTE:** 150
+**TYD:** 3 uur
+
+Hierdie vraestel bestaan uit 13 bladsye en 1 inligtingsblad.
+
+---
+
+### INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies noukeurig deur voordat die vraestel beantwoord word.
+
+1. Hierdie vraestel bestaan uit 10 vrae.
+2. Beantwoord AL die vrae in die SPESIALE ANTWOORDEBOEK wat verskaf word.
+3. Dui ALLE berekeninge, diagramme, grafieke, ens. wat jy in die beantwoording van die vrae gebruik, duidelik aan.
+4. Slegs antwoorde sal NIE noodwendig volpunte verdien NIE.
+5. Jy mag 'n goedgekeurde wetenskaplike sakrekenaar gebruik (nieprogrammeerbaar en niegrafies), tensy anders vermeld.
+6. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders vermeld.
+7. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+8. 'n Inligtingsblad met formules is aan die einde van die vraestel ingesluit.
+9. Skryf netjies en leesbaar.
+
+---
+
+### VRAAG 1
+
+1.1 Die eienaar van 'n klein maatskappy wil vasstel of advertensies in 'n streekkoerant effektief is. Die tabel hieronder toon die bedrag wat aan advertensies spandeer is en die ooreenstemmende verkoopsyfers vir die laaste 9 jaar.
+
+| Bedrag aan advertensies spandeer (in rand) ($x$) | 21 300 | 23 700 | 24 800 | 30 540 | 24 100 | 40 680 | 22 400 | 35 250 | 29 110 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Verkope (in rand) ($y$) | 311 500 | 326 700 | 349 200 | 470 000 | 316 100 | 564 200 | 314 000 | 487 300 | 392 900 |
+
+```
+1.1.1 Bepaal die vergelyking van die kleinstekwadrate-regressielyn vir die data. (3)
+1.1.2 Voorspel die verkope vir 'n jaar waarin die maatskappy R28 500 aan advertensies sal spandeer. (2)
+1.1.3 Skryf die korrelasiekoëffisiënt van die data neer. (1)
+1.1.4 Beskryf die verwantskap tussen die bedrag wat aan advertensies in die streekkoerant spandeer is en die verkope van hierdie maatskappy. (1)
+```
+
+1.2 Die wins wat die klein maatskappy gedurende dieselfde 9 jaar gemaak het, word in die tabel hieronder gegee.
+
+| Wins (in rand) | 110 750 | 107 376 | 152 338 | 244 480 | 144 021 | 275 994 | 121 900 | 207 636 | 187 700 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+
+```
+1.2.1 Bereken die gemiddelde wins wat gedurende die 9 jaar gemaak is. (2)
+1.2.2 Skryf die standaardafwyking vir die data neer. (1)
+1.2.3 Bepaal die aantal jaar waarin die maatskappy 'n wins wat meer as een standaardafwyking van die gemiddelde is, gemaak het. (2)
+```
+**[12]**
+
+---
+
+### VRAAG 2
+
+Die ouderdomme van die mense wat 'n musiekkonsert bygewoon het, is in die tabel hieronder opgesom.
+
+| OUDERDOM | GETAL MENSE |
+| :---: | :---: |
+| $5 < x \le 15$ | 20 |
+| $15 < x \le 25$ | 25 |
+| $25 < x \le 35$ | 60 |
+| $35 < x \le 45$ | 90 |
+| $45 < x \le 55$ | 55 |
+| $55 < x \le 65$ | 40 |
+| $65 < x \le 75$ | 30 |
+
+```
+2.1 Skryf die modale klas van die data neer. (1)
+2.2 Hoeveel mense het die musiekkonsert bygewoon? (1)
+2.3 Skets 'n kumulatiewefrekwensie-grafiek (ogief) op die rooster wat in die ANTWOORDEBOEK voorsien word, om die data hierbo te verteenwoord. (4)
+2.4 Gebruik die kumulatiewefrekwensie-grafiek om die mediaanouderdom van die mense wat die musiekkonsert bygewoon het, te bepaal. (2)
+```
+**[8]**
+
+---
+
+### VRAAG 3
+
+In die diagram is die vergelyking van lyn $\text{AF}$ $y = -x - 11$. $\text{B}$, 'n punt op die $x$-as, is die middelpunt van die reguitlyn wat $\text{A}(-1; t)$ en $\text{C}$ verbind. Die inklinasiehoeke van $\text{AF}$ en $\text{AC}$ is $\alpha$ en $63,43^\circ$ onderskeidelik. $\text{AF}$ sny die $x$-as by $\text{E}$. $\text{D}$ is 'n punt sodanig dat $\text{DE} \parallel \text{AC}$.
+
+[DIAGRAM: Cartesian plane showing line AF with equation $y = -x - 11$ making an angle $\alpha$ with the positive $x$-axis and intersecting the $x$-axis at point E. Line AC passes through point A $(-1; t)$ and $B$ (on the $x$-axis), making an angle of $63.43^\circ$ with the positive $x$-axis and terminating at C. Point D is connected to E by line DE parallel to AC.]
+
+```
+3.1 Bereken die:
+    3.1.1 Waarde van t (2)
+    3.1.2 Grootte van \alpha (2)
+    3.1.3 Gradiënt van AC, tot die naaste heelgetal (2)
+3.2 Bepaal die vergelyking van AC in die vorm y = mx + k. (2)
+3.3 Bereken die:
+    3.3.1 Koördinate van C (3)
+    3.3.2 Grootte van F\hat{E}D (3)
+3.4 G is 'n punt sodanig dat EAGC, in daardie volgorde, 'n parallelogram is.
+    Bepaal die vergelyking van 'n sirkel met middelpunt G en wat deur punt B gaan.
+    Skryf jou antwoord in die vorm (x - a)^2 + (y - b)^2 = r^2. (4)
+```
+**[18]**
+
+---
+
+### VRAAG 4
+
+In die diagram is die vergelyking van die sirkel met middelpunt $\text{N}(-12; 5)$, $x^2 + y^2 + 24x - 10y + 153 = 0$. Die vergelyking van die sirkel met middelpunt $\text{M}$ word as $(x + 6)^2 + (y + 3)^2 = 25$ gegee. $\text{PS}$ en $\text{PR}$ is raaklyne aan die sirkel met middelpunt $\text{M}$ by $\text{S}$ en $\text{R}$ onderskeidelik. $\text{PR}$ is parallel aan die $x$-as. $\text{K}(-17; -5)$ is 'n punt op $\text{PS}$. Die reguitlyn wat $\text{N}$ en $\text{M}$ verbind, sny die kleiner sirkel by $\text{T}$ en die groter sirkel by $\text{S}$.
+
+[DIAGRAM: Two circles. Circle N has centre $(-12; 5)$ and intersects the line NM at T and S. Circle M has centre with equation $(x+6)^2+(y+3)^2=25$ and touches circle N at S. Tangents PS and PR touch circle M at S and R respectively. Line PR is parallel to the x-axis. K $(-17; -5)$ lies on line PS.]
+
+```
+4.1 Skryf die koördinate van M neer. (2)
+4.2 Bereken die:
+    4.2.1 Lengte van die radius van die kleiner sirkel (2)
+    4.2.2 Lengte van TS (4)
+4.3 Bepaal die vergelyking van die raaklyn:
+    4.3.1 PR (2)
+    4.3.2 PS, in die vorm y = mx + c (5)
+4.4 Vierhoek PSMR is getrek. Bereken die:
+    4.4.1 Omtrek van PSMR (5)
+    4.4.2 Verhouding van \frac{\text{oppervlakte van }\Delta\text{NPS}}{\text{oppervlakte van vierhoek PSMR}} (2)
+```
+**[22]**
+
+---
+
+### VRAAG 5
+
+5.1 Sonder die gebruik van 'n sakrekenaar, vereenvoudig die volgende uitdrukking tot 'n enkele trigonometrieseverhouding:
+
+$$\frac{1 - \sin(-\theta)\cos(90^\circ + \theta)}{\cos(\theta - 360^\circ)}$$
+
+(5)
+
+5.2 Gegee dat $\cos 20^\circ = p$
+
+Sonder die gebruik van 'n sakrekenaar, skryf ELK van die volgende in terme van $p$:
+
+```
+5.2.1 \cos 200^\circ (2)
+5.2.2 \sin(-70^\circ) (2)
+5.2.3 \sin 10^\circ (3)
+```
+
+5.3 Bepaal, sonder die gebruik van 'n sakrekenaar, die waarde van:
+
+$$\cos(A + 55^\circ)\cos(A + 10^\circ) + \sin(A + 55^\circ)\sin(A + 10^\circ)$$
+
+(3)
+
+5.4 Beskou: $\frac{\cos 2x + \sin 2x - \cos^2 x}{\sin x - 2\cos x} = -\sin x$
+
+```
+5.4.1 Bewys die identiteit hierbo. (3)
+5.4.2 Bepaal die waarde van \frac{\cos 2x + \sin 2x - \cos^2 x}{-3\sin^2 x + 6\sin x \cos x} (3)
+```
+
+5.5 Gegee: $3\tan 4x = -2\cos 4x$
+
+```
+5.5.1 Sonder die gebruik van 'n sakrekenaar, toon dat \sin 4x = -0,5 die enigste oplossing vir die vergelyking hierbo is. (4)
+5.5.2 Bepaal vervolgens die algemene oplossing van x in die vergelyking 3\tan 4x = -2\cos 4x (3)
+```
+**[28]**
+
+---
+
+### VRAAG 6
+
+In die diagram hieronder is die grafiek van $f(x) = \tan(x - 45^\circ)$ geskets vir $x \in [-90^\circ; 180^\circ]$.
+
+[DIAGRAM: Graph of $f(x) = \tan(x - 45^\circ)$ showing asymptotes at $x = -45^\circ$ and $x = 135^\circ$, crossing the y-axis at $-1$ and the x-axis at $45^\circ$, for $x \in [-90^\circ; 180^\circ]$.]
+
+```
+6.1 Skryf die periode van f neer. (1)
+6.2 Op die rooster wat in die ANTWOORDEBOEK verskaf word, skets die grafiek van g(x) = -\cos 2x vir die interval x \in [-90^\circ; 180^\circ]. Toon ALLE afsnitte met die asse asook die minimum en maksimum punte van die grafiek. (3)
+6.3 Skryf die waardeversameling van g neer. (1)
+6.4 Die grafiek van g word 45^\circ na links geskuif om die grafiek van h te vorm. Bepaal die vergelyking van h in sy eenvoudigste vorm. (2)
+6.5 Gebruik die grafiek(e) om die waardes van x in die interval x \in [-90^\circ; 90^\circ], te bepaal waarvoor:
+    6.5.1 f(x) > 1 (2)
+    6.5.2 2\cos 2x - 1 > 0 (4)
+```
+**[13]**
+
+---
+
+### VRAAG 7
+
+In die diagram is $\text{A}$, $\text{B}$ en $\text{C}$ punte in dieselfde horisontale vlak. $\text{D}$ is 'n punt direk bo $\text{C}$, dit is $\text{DC} \perp \text{AC}$ en $\text{DC} \perp \text{BC}$. Daar word gegee dat $\text{A\hat{C}B} = 100^\circ$, $\text{C\hat{A}D} = 30^\circ$, $\text{AD} = 20$ eenhede en $\text{BC} = 8$ eenhede.
+
+[DIAGRAM: 3D-like pyramid with apex D and base triangle ABC. $\text{DC} \perp \text{AC}$ and $\text{DC} \perp \text{BC}$. $\text{A\hat{C}B} = 100^\circ$, $\text{C\hat{A}D} = 30^\circ$, $\text{AD} = 20$, $\text{BC} = 8$.]
+
+```
+7.1 Bereken die lengte van:
+    7.1.1 AC (2)
+    7.1.2 AB (3)
+7.2 Indien daar verder gegee word dat A\hat{D}B = 73,4^\circ, bereken die grootte van A\hat{D}B (sic). [Note: Question asks for A\hat{D}B or A\hat{B}D, let's keep exact text: bereken die grootte van A\hat{D}B.] (3)
+```
+**[8]**
+
+---
+
+### VRAAG 8
+
+8.1 In die diagram is $\text{O}$ die middelpunt van die sirkel. $\text{K}$, $\text{T}$ en $\text{L}$ is punte op die sirkel. $\text{KT}$, $\text{TL}$, $\text{KL}$, $\text{OK}$ en $\text{OT}$ is getrek. $\text{OT}$ sny $\text{KL}$ by $\text{M}$. $\text{ST}$ is 'n raaklyn aan die sirkel by $\text{T}$. $\text{S\hat{T}K} = 36^\circ$ en $\text{O\hat{K}L} = 18^\circ$.
+
+[DIAGRAM: Circle with centre O. Points K, T, L on circumference. ST is a tangent at T. OT intersects KL at M. $\text{S\hat{T}K} = 36^\circ$, $\text{O\hat{K}L} = 18^\circ$.]
+
+```
+    8.1.1 Bepaal, met redes, die grootte van:
+          (a) \hat{T}_2 (2)
+          (b) \hat{L} (2)
+          (c) K\hat{O}T (2)
+    8.1.2 Bewys, met redes, dat KM = ML. (3)
+```
+
+8.2 In die diagram is $\text{ARDS}$ geskets. $\text{A}$, $\text{B}$ en $\text{C}$ is punte op $\text{RD}$, $\text{RS}$ en $\text{DS}$ onderskeidelik sodanig dat $\text{AB} \parallel \text{DS}$ en $\text{RB} : \text{BS} = 5 : 3$. $\text{DC} = 20$ eenhede en $\text{CS} = 12$ eenhede.
+
+[DIAGRAM: Triangle RDS. Line AB is parallel to DS, with A on RD and B on RS. C is on DS. $\text{RB} : \text{BS} = 5 : 3$, $\text{DC} = 20$, $\text{CS} = 12$.]
+
+```
+    8.2.1 Bewys, met redes, dat BC \parallel AD. (3)
+    8.2.2 Indien daar verder gegee word dat RD = 48 eenhede, bereken, met redes, die waarde van die verhouding AD : AB. (3)
+```
+**[15]**
+
+---
+
+### VRAAG 9
+
+9.1 In die diagram is $\text{O}$ die middelpunt van die sirkel. $\text{ABCD}$ is 'n koordevierhoek.
+
+[DIAGRAM: Cyclic quadrilateral ABCD with centre O.]
+
+Gebruik die diagram in die ANTWOORDEBOEK om die stelling te bewys wat beweer dat die teenoorstaande hoeke van 'n koordevierhoek supplementêr is, met ander woorde bewys dat $\hat{\text{B}} + \hat{\text{D}} = 180^\circ$. (5)
+
+9.2 In die diagram is $\text{DEFG}$ 'n koordevierhoek sodanig dat $\text{EF} \parallel \text{DG}$. $\text{H}$ is nog 'n punt op die sirkel sodanig dat $\text{DH} \parallel \text{FG}$. Koord $\text{EH}$ is getrek. Laat $\hat{\text{D}}_1 = x$.
+
+[DIAGRAM: Cyclic quadrilateral DEFG with $\text{EF} \parallel \text{DG}$. H is on the circle with $\text{DH} \parallel \text{FG}$. Chord EH is drawn. $\hat{\text{D}}_1 = x$.]
+
+Bewys, met redes, dat $\hat{\text{D}}_1 = \hat{\text{D}}_2$. (4)
+**[9]**
+
+---
+
+### VRAAG 10
+
+In die diagram is $\text{TR}$ 'n middellyn van die sirkel. $\text{PRKT}$ is 'n koordevierhoek. Koorde $\text{TP}$ en $\text{KR}$ is verleng en sny by $\text{S}$. Koord $\text{PK}$ is getrek sodanig dat $\text{PK} = \text{TK}$.
+
+[DIAGRAM: Cyclic quadrilateral PRKT with TR as diameter. Chords TP and KR produced intersect at S. Chord PK drawn such that $\text{PK} = \text{TK}$.]
+
+```
+10.1 Bewys, met redes, dat:
+     10.1.1 SR 'n middellyn van 'n sirkel is wat deur punte S, P en R gaan (4)
+     10.1.2 \hat{S} = \hat{P}_2 (5)
+     10.1.3 \Delta SPK \parallel\parallel\parallel \Delta APRK (3)
+10.2 Indien daar verder gegee word dat SR = RK, bewys dat ST = \sqrt{6}RK. (5)
+```
+**[17]**
+
+**TOTAAL: 150**
+
+---
+
+### INLIGTINGSBLAD
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni) \quad A = P(1 - ni) \quad A = P(1 - i)^n \quad A = P(1 + i)^n$$
+
+$$T_n = a + (n - 1)d \quad S_n = \frac{n}{2}[2a + (n - 1)d]$$
+
+$$T_n = ar^{n-1} \quad S_n = \frac{a(r^n - 1)}{r - 1} \quad (r \neq 1) \quad S_\infty = \frac{a}{1 - r} \quad (-1 < r < 1)$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i} \quad p = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} \quad M\left(\frac{x_1 + x_2}{2}; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c \quad y - y_1 = m(x - x_1) \quad m = \frac{y_2 - y_1}{x_2 - x_1} \quad m = \tan \theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+$$\text{In } \Delta ABC: \quad \frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}$$
+
+$$a^2 = b^2 + c^2 - 2bc \cos A$$
+
+$$\text{area } \Delta ABC = \frac{1}{2}ab \sin C$$
+
+$$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta$$
+
+$$\sin(\alpha - \beta) = \sin \alpha \cos \beta - \cos \alpha \sin \beta$$
+
+$$\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta$$
+
+$$\cos(\alpha - \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2 \alpha - \sin^2 \alpha \\ 1 - 2\sin^2 \alpha \\ 2\cos^2 \alpha - 1 \end{cases}$$
+
+$$\sin 2\alpha = 2\sin \alpha \cos \alpha$$
+
+$$\bar{x} = \frac{\sum fx}{n}$$
+
+$$\sigma^2 = \frac{\sum_{i=1}^n (x_i - \bar{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)}$$
+
+$$P(A \text{ of } B) = P(A) + P(B) - P(A \text{ en } B)$$
+
+$$\hat{y} = a + bx$$
+
+$$b = \frac{\sum(x - \bar{x})(y - \bar{y})}{\sum(x - \bar{x})^2}$$

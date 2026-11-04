@@ -1,0 +1,683 @@
+=== page 1 ===
+Copyright reserved Please turn over
+
+MARKS:  150
+
+TIME:  2 hours
+
+This question paper consists of 14 pages, 1 data sheet and 1 answer sheet.
+
+GRADE 10
+PHYSICAL SCIENCES:  PHYSICS (P1)
+
+NOVEMBER 2017
+NATIONAL
+SENIOR CERTIFICATE
+
+=== page 2 ===
+Physical Sciences/P1 2 DBE/November 2017
+CAPS – Grade 10
+Copyright reserved Please turn over
+
+INSTRUCTIONS AND INFORMATION
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+Write your name and class (for example 1 0A) in the appropriate spaces on
+the ANSWER BOOK.
+
+This question paper consists of TEN questions. Answer ALL the questions in
+the ANSWER BOOK, except QUESTION 3.3 which has to be answered on
+the attached ANSWER SHEET.
+
+Hand in the ANSWER SHEET together with the ANSWER BOOK.
+
+Start EACH question on a NEW page in the ANSWER BOOK.
+
+Number the answers correctly according to the numbering system used in this
+question paper.
+
+Leave ONE line between two subquestions, for example between
+QUESTION 2.1 and QUESTION 2.2.
+
+You may use a non-programmable calculator.
+
+You may use appropriate mathematical instruments.
+
+You are advised to use the attached DATA SHEET.
+
+Show ALL formulae and substitutions in ALL calculations.
+
+Round off your final numerical answers to a minimum of TWO decimal places.
+
+Give brief motivations, discussions et cetera where required.
+
+Write neatly and legibly.
+
+=== page 3 ===
+Physical Sciences/P1 3 DBE/November 2017
+ CAPS – Grade 10
+Copyright reserved  Please turn over
+
+QUESTION 1:  MULTIPLE-CHOICE QUESTIONS
+
+Various options are provided as possible answers to the following questions. Each
+question has only ONE correct answer. Choose the answer and write only the
+letter (A –D) next to the question number (1.1– 1.10) in the ANSWER BOOK, for
+example 1.11 E.
+
+1.1 Which ONE of the following pairs of physical quantities consists of one scalar
+and one vector quantity?
+
+ A
+B
+C
+D
+Distance and speed
+Speed and acceleration
+Displacement and velocity
+Velocity and acceleration
+
+(2)
+
+1.2 A car is travelling at a constant velocity along a straight road. It then slows
+down uniformly. Which ONE of the velocity-time graphs below best represents
+the motion of the car?
+
+ A B C D    (2)
+
+1.3 Oil dripping from a truck at equal time intervals leaves the pattern below on
+the road.
+
+ If the truck is moving eastwards, which ONE of the combinations below best
+describes the speed of the truck during the intervals M to Q,
+Q to V and V to Z?
+
+ M TO Q Q TO V V TO Z
+A Decreases Remains constant Increases
+B Increases Remains constant Decreases
+C Remains constant Increases Increases
+D Increases Decreases Remains constant
+
+(2)
+
+v
+ v
+ v
+ v
+t
+ t
+t
+t
+
+=== page 4 ===
+Physical Sciences/P1 4 DBE/November 2017
+ CAPS – Grade 10
+Copyright reserved  Please turn over
+
+1.4 A motorbike moving at a speed v, has a kinetic energy E. If the speed of the
+motorbike increases to 3v, the kinetic energy will be …
+
+ A
+
+B
+
+C
+D
+3E
+⅓E
+6E
+9E
+
+(2)
+
+1.5 The SI unit for gravitational potential energy is …
+
+ A
+B
+C
+D
+kg∙m∙s-1
+kg∙m∙s-2
+kg∙m2∙s-2
+kg∙m-1∙s-1
+
+(2)
+
+1.6 The amplitude of a sound wave is increased without changing the frequency.
+How does this change affect the loudness and pitch of the sound?
+
+  LOUDNESS PITCH
+A Decreases Decreases
+B Decreases Increases
+C Increases Unchanged
+D Increases Increases
+
+(2)
+
+1.7 Which ONE of the combinations below is the CORRECT order  of
+electromagnetic waves in INCREASING WAVELENGTHS?
+
+ A
+
+B
+
+C
+
+D
+Gamma ray  → X-ray → ultraviolet → visible light → infrared →
+microwave
+Radio wave → microwave → infrared → visible light→ ultraviolet →
+X- ray
+X-ray → ultraviolet → infrared → visible light → radio wave →
+microwave
+Gamma ray  → X -ray → visible light → ultraviolet → infrared →
+microwave
+
+(2)
+
+1.8 The force between two magnets decreases when …
+
+ A
+B
+C
+D
+two like poles come closer together.
+two unlike poles come closer together.
+the distance between them increases.
+the distance between them decreases.
+
+(2)
+
+=== page 5 ===
+Physical Sciences/P1 5 DBE/November 2017
+ CAPS – Grade 10
+Copyright reserved  Please turn over
+
+1.9 Two identical spheres, X and  Y, on insulated stands, carry charges of 3 µC
+and -5 µC respectively. The spheres are brought into contact with each other
+and returned to their original positions. The charge on EACH sphere after
+contact is …
+
+ A
+B
+C
+D
+8 µC
+-4 µC
+-2 µC
+-1 µC
+
+(2)
+
+1.10 The energy transferred per unit electric charge in a circuit is …
+
+ A
+B
+C
+D
+current.
+charge.
+power.
+potential difference.
+
+(2)
+[20]
+
+=== page 6 ===
+Physical Sciences/P1 6 DBE/November 2017
+ CAPS – Grade 10
+Copyright reserved  Please turn over
+
+QUESTION 2  (Start on a new page.)
+
+A brother and sister walk home from school. After walking 500  m eastwards, the
+brother realises that he has left a book at school and he returns to school. His  sister
+continues walking another 800 m to their  home. She arrives home 30 minutes after
+leaving school.
+
+ 500 m
+
+800 m
+School
+
+   Home
+
+2.1 Define the term average speed.  (2)
+
+2.2 Calculate the average speed of the girl from the school to her home.  (4)
+
+2.3 Use a vector scale diagram and represent the displacement of the boy from
+the time he realised he left his book at school until he reached home. Include
+ALL relevant information in the diagram.
+
+Use scale 1 cm = 100 m for the diagram.
+
+(3)
+
+2.4 If the average speed of the boy is the same as that of the girl, calculate how
+long it would take the boy to reach home from the time they both left the
+school together.
+
+(4)
+[13]
+
+                 N
+
+    W                       E
+
+                 S
+
+=== page 7 ===
+Physical Sciences/P1 7 DBE/November 2017
+ CAPS – Grade 10
+Copyright reserved  Please turn over
+
+QUESTION 3  (Start on a new page.)
+
+The engineers at a car company conduct various tests on their cars. During one of the
+tests they measure the change in position during equal time intervals. The results
+obtained are recorded in the table below.
+
+TIME (s) POSITION (m)
+0 0
+1 5
+2 10
+3 15
+4 20
+
+3.1 Give the correct term for change of position per unit time.  (1)
+
+3.2 For this test, write down the:
+
+ 3.2.1 Independent variable  (1)
+
+ 3.2.2 Dependent variable  (1)
+
+3.3 Use the information in the table above and  draw an accurate position -time
+graph on the graph paper on the attached ANSWER SHEET.
+
+(5)
+
+3.4 Calculate the gradient of the graph.  (4)
+
+3.5 Draw (NOT to scale) a corresponding velocity-time graph for the motion of the
+car. Labels the axes.
+
+(2)
+
+3.6 Hence, deduce the magnitude of the acceleration of the car.  (2)
+[16]
+
+=== page 8 ===
+Physical Sciences/P1 8 DBE/November 2017
+ CAPS – Grade 10
+Copyright reserved  Please turn over
+
+QUESTION 4  (Start on a new page.)
+
+A car accelerates from rest at 15 m∙s-2 for 2 s on a horizontal road.
+
+4.1 Define the term acceleration.  (2)
+
+4.2 Calculate the:
+
+ 4.2.1 Distance covered by the car  (3)
+
+ 4.2.2 Velocity of the car  (3)
+
+While travelling at a constant velocity of 108 km∙h -1, the driver of a car notices a sign
+warning motorists to keep a safe 2-second following distance. At that instant the car is
+80 m behind a truck that is travelling at a constant velocity of 90 km∙h-1.
+
+4.3 Explain the meaning of a safe 2-second following distance.  (2)
+
+4.4 Calculate the safe 2-second following distance behind the truck.  (6)
+
+4.5 Calculate how long it will take the motorist to get to a safe 2-second following
+distance behind the truck.
+
+(5)
+[21]
+
+80 m
+90 km·h-1
+108 km·h-1
+
+=== page 9 ===
+Physical Sciences/P1 9 DBE/November 2017
+ CAPS – Grade 10
+Copyright reserved  Please turn over
+
+QUESTION 5  (Start on a new page.)
+
+A lift takes a man to a sky  bridge, which is 100 m above the ground, as shown below.
+He makes a bungee jump from the sky bridge. Ignore the effects of air resistance.
+
+             [Source: myjozi.co.za]
+
+5.1 Define the term kinetic energy.  (2)
+
+5.2 The man and his gear have a mass of 72 kg. Calculate the gravitational
+potential energy of the man just before he jumps from the sky bridge.
+
+(3)
+
+5.3 State the law of conservation of mechanical energy.  (2)
+
+5.4 Use the law in QUESTION 5.3 to calculate the velocity of the man at a height
+of 50 m above the ground.
+
+(5)
+
+5.5 Draw a graph of E p versus E k for the motion of the man from the instant he
+jumps until he reaches the ground.
+
+(3)
+[15]
+
+     Sky bridge
+100 m
+
+=== page 10 ===
+Physical Sciences/P1 10 DBE/November 2017
+ CAPS – Grade 10
+Copyright reserved  Please turn over
+
+QUESTION 6  (Start on a new page.)
+
+Two girls, standing at opposite ends of a rope, each makes a pulse of the same speed.
+Pulse A, with an amplitude of 4 cm, moves to the right and pulse B, with an amplitude
+of -6 cm, moves to the left. The pulses meet at point C.
+
+6.1 State the phenomenon observed when the two pulses meet at point C.  (3)
+
+6.2 Draw a labelled diagram to show the resultant pulse  when the two pulses
+meet at point C. Label the pulses clearly.
+
+(2)
+
+6.3 Name the type of interference that takes place when the pulses meet.  (1)
+
+6.4 Determine the resultant amplitude of the pulses at point C.  (2)
+
+6.5 How will the amplitude of pulse A be affected after passing point C? Write
+down only INCREASES, DECREASES or REMAINS THE SAME.
+
+(1)
+[9]
+
+QUESTION 7  (Start on a new page.)
+
+Dolphins communicate through the emission and reception of sounds. A young dolphin
+was separated from its mother and started whistling at a frequency of 130 kHz to call
+her. The speed of sound in seawater is 1 480 m∙s-1.
+
+7.1 Explain the term ultrasound.   (2)
+
+7.2 Calculate the wavelength of the young dolphin's whistle.  (4)
+
+7.3 Another dolphin hears the distress call of the young dolphin 2 s later. How far
+apart are the two dolphins from each other?
+
+(4)
+
+7.4 The speed of sound in air is 340 m∙s-1. Briefly explain why the speed of sound
+in air is different from the speed of sound in seawater.
+
+(2)
+
+7.5 Describe how dolphins use echolocation to hunt their prey.  (3)
+[15]
+
+A
+B
+C
+•
+
+=== page 11 ===
+Physical Sciences/P1 11 DBE/November 2017
+ CAPS – Grade 10
+Copyright reserved  Please turn over
+
+QUESTION 8  (Start on a new page.)
+
+Consider a laser pointer and cellphone, as shown below.
+
+Laser pointer Cellphone
+
+8.1 State the type of electromagnetic radiation that is emitted by the:
+
+ 8.1.1 Laser pointer  (1)
+
+ 8.1.2 Cellphone  (1)
+
+8.2 A laser pointer uses red light photons with a wavelength of 620 nm.
+
+ 8.2.1 Define the term photon.  (2)
+
+ 8.2.2 Calculate the energy of a red light photon.  (6)
+
+ 8.2.3 Refer to the answer to QUESTION 8.2.2 . Explain why it is very
+dangerous to shine a laser pointer into a person's eyes.
+
+(2)
+[12]
+
+=== page 12 ===
+Physical Sciences/P1 12 DBE/November 2017
+ CAPS – Grade 10
+Copyright reserved  Please turn over
+
+QUESTION 9  (Start on a new page.)
+
+Two magnets are placed so that their north poles face each other.
+
+9.1 Explain the term magnetic field.  (2)
+
+9.2 Draw the magnetic field pattern between the two north poles of the magnets.  (3)
+
+9.3 The graph below shows how the magnetic force varies with distance between
+the magnets.
+
+ 9.3.1 What is the mathematical relationship between magnetic force and
+distance between the two magnets?
+
+(1)
+
+ 9.3.2 What is the magnitude of the magnetic force between the two
+magnets when they are 4 cm apart?
+
+(1)
+
+ 9.3.3 How far apart must the magnets be to experience a force of
+0,05 N?
+
+(1)
+[8]
+
+Force (N)
+Distance (cm)
+0,1
+0,2
+0,3
+0,4
+0,5
+●
+    ●
+      ●
+●   ●
+0            2            4            6            8           10
+N
+ N
+
+=== page 13 ===
+Physical Sciences/P1 13 DBE/November 2017
+ CAPS – Grade 10
+Copyright reserved  Please turn over
+
+QUESTION 10  (Start on a new page.)
+
+A neutral plastic ruler becomes charged when it is  rubbed with a woollen cloth . After
+rubbing, the ruler has a charge of -3,5 x 10-15 C.
+
+10.1 Distinguish between a neutral object and a charged object.  (2)
+
+10.2 Does the ruler GAIN or LOSE electrons?  (1)
+
+10.3 Calculate the number of electrons transferred during the process of rubbing.  (3)
+
+10.4 The charged ruler is now brought closer to pieces of paper. The pieces of
+paper are attracted to the ruler, as shown below.
+
+ 10.4.1 Explain why the pieces of paper are attracted to the ruler.  (3)
+
+ 10.4.2 Name ONE application of electrostatics in our daily lives.  (1)
+[10]
+ruler
+paper
+
+=== page 14 ===
+Physical Sciences/P1 14 DBE/November 2017
+CAPS – Grade 10
+Copyright reserved
+●
+●
+4 Ω
+2 Ω
+V1
+S1
+9 V
+1,5 A
+                 Circuit B
+
+QUESTION 11  (Start on a new page.)
+
+Refer to Circuits A and B below and answer the questions that follow.
+
+11.1 Define the term emf.  (2)
+
+11.2 Calculate the total resistance of Circuit A.  (2)
+
+11.3 Consider Circuit B.
+
+ 11.3.1 Write down the reading on A2.  (1)
+
+ 11.3.2 Calculate the reading on V1.  (3)
+
+11.4 If a third resistor (1,5 Ω) is placed in parallel with the existing resistors in
+Circuit A, would the total current in the circuit INCREASE, DECREASE or
+REMAIN THE SAME? Explain the answer.
+
+(3)
+[11]
+
+TOTAL:  150
+●
+●
+1,5 Ω
+V2
+1,5 Ω
+V1
+S1
+9 V
+             Circuit A
+V2
+A2
+A1
+
+=== page 15 ===
+Physical Sciences/P1   DBE/November 2017
+ CAPS – Grade 10
+Copyright reserved
+
+DATA FOR PHYSICAL SCIENCES GRADE 10
+PAPER 1 (PHYSICS)
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 10
+VRAESTEL 1 (FISIKA)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Acceleration due to gravity
+Swaartekragversnelling g 9,8 m·s-2
+Speed of light in a vacuum
+Spoed van lig in 'n vakuum c 3,0 x 108 m·s-1
+Planck's constant
+Planck se konstante h 6,63 x 10-34 J·s
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Electron mass
+Elektronmassa me 9,11 x 10-31 kg
+
+TABLE 2:  FORMULAE/TABEL 2:  FORMULES
+
+MOTION/BEWEGING
+
+tavv if ∆+=  221i tatvx ∆+∆=∆
+xa2vv
+2
+i
+2
+f ∆+=   t2 vvx if ∆ +=∆
+
+WORK, ENERGY AND POWER/ARBEID, ENERGIE EN DRYWING
+
+mghU=  or/of   mghEP =  2mv21K=   or/of  2k mv21E =
+
+EM = Ek+ Ep.   or/of   EM = K + U
+
+WAVES, SOUND AND LIGHT/GOLWE, KLANK EN LIG
+
+λ= fv
+f
+1T=
+hfE= or/of λ= chE
+
+ELECTROSTATICS/ELEKTROSTATIKA
+
+e
+Q = n  2Q +Q = Q 21
+
+ELECTRIC CIRCUITS/ELEKTRIESE STROOMBANE
+
+I=Q ∆  t ...R1R1R1 21p ++=
+...RRR 21s ++=  qWV=
+
+=== page 16 ===
+Physical Sciences/P1   DBE/November 2017
+ CAPS – Grade 10
+Copyright reserved
+
+ANSWER SHEET
+
+Hand in this ANSWER SHEET together with the ANSWER BOOK.
+
+NAME:   _____________________________________
+
+CLASS:_____
+
+QUESTION 3.3

@@ -1,0 +1,387 @@
+NATIONAL SENIOR CERTIFICATE  
+GRADE 12  
+PHYSICAL SCIENCES: PHYSICS (P1)  
+NOVEMBER 2024  
+
+---
+
+**MARKS: 150**  
+**TIME: 3 hours**  
+
+*This question paper consists of 16 pages and 3 data sheets.*
+
+---
+
+### INSTRUCTIONS AND INFORMATION
+
+1. Write your centre number and examination number in the appropriate spaces on the ANSWER BOOK.
+2. This question paper consists of TEN questions. Answer ALL the questions in the ANSWER BOOK.
+3. Start EACH question on a NEW page in the ANSWER BOOK.
+4. Number the answers correctly according to the numbering system used in this question paper.
+5. Leave ONE line between two subquestions, e.g. between QUESTION 2.1 and QUESTION 2.2.
+6. You may use a non-programmable calculator.
+7. You may use appropriate mathematical instruments.
+8. Show ALL formulae and substitutions in ALL calculations.
+9. Round off your final numerical answers to a minimum of TWO decimal places.
+10. Give brief motivations, discussions etc. where required.
+11. You are advised to use the attached DATA SHEETS.
+12. Write neatly and legibly.
+
+---
+
+## QUESTION 1: MULTIPLE-CHOICE QUESTIONS
+
+Various options are provided as possible answers to the following questions. Each question has only ONE correct answer. Choose the answer and write only the letter (A–D) next to the question numbers (1.1 to 1.10) in the ANSWER BOOK, e.g. 1.11 E.
+
+1.1 Several forces are acting on a moving object.  
+Which ONE of the following statements is CORRECT when these forces are in equilibrium?  
+A The velocity of the object is increasing.  
+B The object is moving at a constant velocity.  
+C The kinetic energy of the object is decreasing.  
+D The object has a non-zero acceleration.  
+(2)
+
+1.2 A stone thrown vertically downwards from the top of a building takes $t$ seconds to strike the ground. Consider the acceleration-time graph below for the motion of the stone.  
+
+The effects of air friction are ignored.  
+
+[DIAGRAM: An acceleration-time graph with Acceleration ($\text{m}\cdot\text{s}^{-2}$) on the y-axis and Time ($s$) on the x-axis. A horizontal line at $9,8\text{ m}\cdot\text{s}^{-2}$ extends from $t = 0$ to $t$. The region under the line between $0$ and $t$ seconds is shaded.]
+
+What does the shaded area between 0 and $t$ seconds, shown in the graph, represent?  
+A The final velocity of the stone  
+B The change in position of the stone  
+C The constant velocity of the stone  
+D The change in velocity of the stone  
+(2)
+
+1.3 A ball moving horizontally has constant momentum $p$ and kinetic energy $K$. The ball collides with a wall and bounces back horizontally.  
+
+Immediately after the collision, the ball has momentum $\frac{1}{2}p$.  
+
+The mass of the ball remains constant.  
+
+[DIAGRAM: A ball moving right towards a vertical wall with momentum $p$, then bouncing left with momentum $\frac{1}{2}p$.]
+
+Which ONE of the following is the kinetic energy of the ball immediately after the collision?  
+A $\frac{1}{4}K$  
+B $\frac{1}{2}K$  
+C $2K$  
+D $4K$  
+(2)
+
+1.4 A force $F$ acts on a box as the box moves from rest down a rough incline at a constant acceleration. The force is parallel to the incline, as shown in the diagram below.  
+
+[DIAGRAM: A box on a rough inclined plane being pulled up or pushed by a force $F$ parallel to the incline.]
+
+Choose the option that CORRECTLY completes the following statement.  
+
+The work done by the gravitational force is … the work done by the frictional force and the work done by $F$.  
+A equal to the sum of  
+B less than the sum of  
+C greater than the sum of  
+D equal to the difference between  
+(2)
+
+1.5 A ball falling vertically downwards from point A strikes the ground with velocity $v$ and bounces, reaching a maximum height at point B, as shown in the diagram below.  
+
+[DIAGRAM: Point A at a height above ground with a downward arrow to ground, and point B at a lower height above ground with an upward arrow.]
+
+Which ONE of the combinations below is CORRECT for the direction of the impulse on the ball upon striking the ground and the magnitude of the velocity with which the ball leaves the ground?  
+
+| | DIRECTION OF THE IMPULSE ON THE BALL | MAGNITUDE OF THE VELOCITY WITH WHICH THE BALL LEAVES THE GROUND |
+|---|---|---|
+| A | Upward | Greater than $v$ |
+| B | Downward | Greater than $v$ |
+| C | Upward | Less than $v$ |
+| D | Downward | Less than $v$ |
+(2)
+
+1.6 The absorption spectrum of an element surrounding a moving star is observed on Earth and found to be red shifted.  
+
+Which ONE of the following combinations is CORRECT for the movement of the star and the frequency of the observed light on Earth?  
+
+| | MOVEMENT OF STAR | FREQUENCY OF OBSERVED LIGHT ON EARTH |
+|---|---|---|
+| A | Away from Earth | Decreased |
+| B | Towards Earth | Decreased |
+| C | Away from Earth | Increased |
+| D | Towards Earth | Increased |
+(2)
+
+1.7 Two small identical spheres, each with mass $m$ and charge $+Q$, are placed in a vertical cylinder. The spheres remain stationary when their centres are $r$ metres apart, as shown in the diagram below. Ignore ALL frictional effects.  
+
+[DIAGRAM: A vertical cylinder containing two spherical masses $m$ with charge $+Q$ separated by a vertical distance $r$.]
+
+Which ONE of the following expressions can be used to CORRECTLY calculate the distance $r$?  
+
+A $\sqrt{\frac{kQ^2}{mg}}$  
+B $\sqrt{\frac{kmg}{Q^2}}$  
+C $\sqrt{\frac{Q^2}{kmg}}$  
+D $\sqrt{\frac{mg}{kQ^2}}$  
+(2)
+
+1.8 The kilowatt-hour ($\text{kWh}$) is a unit of …  
+A power.  
+B electric current.  
+C electrical energy.  
+D potential difference.  
+(2)
+
+1.9 The diagram below shows a simplified electric motor. The rotation of the coil is observed from the battery.  
+
+[DIAGRAM: A simple DC motor showing permanent magnets N and S, a split-ring commutator, and a battery connected underneath.]
+
+Which ONE of the following statements is CORRECT while the motor is in operation?  
+
+The coil and the …  
+A slip rings rotate anti-clockwise.  
+B slip rings rotate clockwise.  
+C commutator rotate clockwise.  
+D commutator rotate anti-clockwise.  
+(2)
+
+1.10 Which of the following statements is/are TRUE for the photoelectric effect?  
+
+The photoelectric effect demonstrates that:  
+(i) Light has a wave nature  
+(ii) Light has a particle nature  
+(iii) Light energy is quantised  
+
+A (i) only  
+B (ii) only  
+C (i) and (iii) only  
+D (ii) and (iii) only  
+(2)  
+
+**[20]**
+
+---
+
+## QUESTION 2 (Start on a new page.)
+
+In an experiment, a crate of mass $8,5\text{ kg}$, lying stationary on a rough horizontal table, is connected to a mass hanger by means of a light inextensible string passing over a frictionless pulley, as shown in the diagram below. Mass pieces are added to the mass hanger and the acceleration of the crate is measured. The experiment is repeated several times by adding different masses to increase the hanging mass each time.  
+
+Ignore the effects of air friction.  
+
+[DIAGRAM: An $8,5\text{ kg}$ crate on a horizontal table connected via a string over a pulley to a mass hanger with mass pieces hanging vertically.]
+
+The results obtained were used to draw the sketch graph below.  
+
+[DIAGRAM: A graph of Acceleration of crate ($\text{m}\cdot\text{s}^{-2}$) vs Hanging mass ($\text{kg}$). The curve starts at a hanging mass of $4,2\text{ kg}$ on the horizontal axis with acceleration $0$, increases non-linearly, and passes through mass $7,4\text{ kg}$ corresponding to acceleration $Y$.]
+
+2.1 Define the term static friction. (2)
+
+2.2 Draw a labelled free-body diagram showing ALL the HORIZONTAL forces acting on the crate JUST BEFORE it starts moving. (2)
+
+2.3 Calculate the:  
+2.3.1 Coefficient of static friction ($\mu_s$) (4)  
+2.3.2 Magnitude of the acceleration represented by $Y$ on the graph if the coefficient of kinetic friction between the crate and the table is $0,40$ (5)  
+
+2.4 A $5\text{ kg}$ block is now placed inside the crate and the experiment is repeated.  
+
+How will this affect the maximum static frictional force now experienced by the crate? Choose from INCREASES, DECREASES or REMAINS THE SAME. Give a reason for the answer. (2)  
+
+**[15]**
+
+---
+
+## QUESTION 3 (Start on a new page.)
+
+Ball A is thrown vertically upwards at $12\text{ m}\cdot\text{s}^{-1}$ from the top of a building. Two seconds after ball A was thrown upwards, ball B is thrown vertically downwards at $5,4\text{ m}\cdot\text{s}^{-1}$ from the top of the same building. Both balls, A and B, strike the ground at time $t$ seconds.  
+
+Ignore the effects of air friction.  
+
+The position-time sketch graphs for both balls are shown below.  
+
+[DIAGRAM: Position-time graph showing two curves. Curve A starts at a vertical position $Y$, goes up to a maximum $Z$, then falls down to the time axis at $t$. Curve B starts at position $Y$ at $t = 2\text{ s}$ (implied or offset) and curves downwards to the time axis at $t$.]
+
+3.1 Using EQUATIONS OF MOTION ONLY, calculate the value of EACH of the following, as shown in the graphs:  
+3.1.1 $t$ (5)  
+3.1.2 $Z$ (3)  
+3.1.3 $Y$ (4)  
+
+3.2 On the same set of axes, sketch the velocity-time graphs for ball A and ball B while they are in free fall. Label the graphs **A** and **B** for ball A and ball B respectively.  
+
+Clearly indicate the following on the graphs:  
+* The initial velocity of each ball  
+* The time at which each ball is thrown  
+* The time at which the balls strike the ground  
+(4)  
+
+**[16]**
+
+---
+
+## QUESTION 4 (Start on a new page.)
+
+Two trolleys, **A** and **B**, of masses of $1,5\text{ kg}$ and $2\text{ kg}$ respectively, are held in a stationary position on a straight, horizontal, frictionless track, with a compressed spring between them. The trolleys are released and the spring takes $t$ seconds to return to its natural length. The spring then falls to the ground.  
+
+Trolley A moves to the left, while trolley B moves to the right and then up a frictionless inclined plane, rising to a maximum vertical height of $1,5\text{ m}$, as shown in the diagram below.  
+
+Ignore the rotational effects of the wheels.  
+
+[DIAGRAM: Before release: Trolley A ($1,5\text{ kg}$) and Trolley B ($2\text{ kg}$) with a compressed spring between them on a horizontal track. After release: Trolley A moves left, Trolley B moves right up an inclined plane to height $1,5\text{ m}$, with the spring at natural length on the ground.]
+
+4.1 Write down the principle of conservation of mechanical energy in words. (2)
+
+4.2 Calculate the speed of trolley B at the bottom of the inclined plane. (4)
+
+4.3 For the $t$ seconds that the spring takes to return to its natural length:  
+4.3.1 Calculate the change in momentum of trolley B (3)  
+4.3.2 Write down the change in momentum of trolley A (1)  
+
+4.4 Calculate the speed of trolley A after $t$ seconds. (2)  
+
+**[12]**
+
+---
+
+## QUESTION 5 (Start on a new page.)
+
+A constant force $F$ is applied at an angle of $30^\circ$ to the horizontal on a crate of mass $6\text{ kg}$ that is initially at rest, as shown in the diagram below.  
+
+A constant frictional force of $10\text{ N}$ acts on the crate as it moves from rest at point A along a horizontal surface to point B. The distance between point A and point B is $1,5\text{ m}$. The speed of the crate at point B is $2\text{ m}\cdot\text{s}^{-1}$.  
+
+[DIAGRAM: A $6\text{ kg}$ crate on a horizontal surface between points A and B (distance $1,5\text{ m}$). A force $F$ acts pulling the crate upwards and to the right at an angle of $30^\circ$ to the horizontal.]
+
+5.1 Define the term work done by a force. (2)
+
+5.2 Draw a labelled free-body diagram showing ALL the forces acting on the crate as it moves. (4)
+
+5.3 Using ENERGY PRINCIPLES ONLY, calculate the magnitude of force $F$. (4)
+
+5.4 A $2\text{ kg}$ object is placed in the crate. What effect will this have on the work done by the same force $F$ when the crate is again moved from point A to point B? Write only INCREASES, DECREASES or REMAINS THE SAME. (2)  
+
+**[12]**
+
+---
+
+## QUESTION 6 (Start on a new page.)
+
+A stationary listener, standing on the roadside, records the wavelength of the sound emitted by the siren of a police car travelling at a constant velocity.  
+
+In the wavelength-time graph below, NOT drawn to scale, $\lambda_L$ is the wavelength of the sound recorded by the listener and $\lambda_S$ is the wavelength of the sound emitted by the siren.  
+
+Take the speed of sound in air to be $343\text{ m}\cdot\text{s}^{-1}$.  
+
+[DIAGRAM: Wavelength ($\text{m}$) vs Time ($s$) graph. Horizontal lines at $\lambda_L = 0,40\text{ m}$ and $\lambda_S = 0,38\text{ m}$.]
+
+6.1 Name the phenomenon that explains why the wavelengths shown in the graph differ. (1)
+
+6.2 Is the car moving TOWARDS or AWAY FROM the listener? Give a reason for the answer. (2)
+
+6.3 Calculate the:  
+6.3.1 Frequency of the sound emitted by the siren (3)  
+6.3.2 Magnitude of the velocity of the car (6)  
+
+**[12]**
+
+---
+
+## QUESTION 7 (Start on a new page.)
+
+**P** is a $+2\text{ nC}$ point charge. X is a point $6\text{ cm}$ away from charge P, as shown in the diagram below.  
+
+[DIAGRAM: Point charge P ($+2\text{ nC}$) with point X at a distance of $6\text{ cm}$ to the right.]
+
+7.1 Calculate the magnitude of the electric field at X. (3)
+
+Point charge S, with a charge of $-2\text{ nC}$, is placed $4\text{ cm}$ to the right of charge P, as shown in the diagram below.  
+
+[DIAGRAM: Charge P ($+2\text{ nC}$) and charge S ($-2\text{ nC}$) separated by $4\text{ cm}$.]
+
+7.2 Draw the resultant electric field pattern due to charges P and S. (3)
+
+7.3 A third point charge T is placed $2\text{ cm}$ to the right of S, as shown in the diagram below. Point charge T experiences a net electrostatic force of $2,5 \times 10^{-4}\text{ N}$ to the left.  
+
+[DIAGRAM: Charges P ($+2\text{ nC}$), S ($-2\text{ nC}$), and T aligned horizontally. Distance between P and S is $4\text{ cm}$, distance between S and T is $2\text{ cm}$.]
+
+7.3.1 State Coulomb's law in words. (2)  
+7.3.2 What is the polarity of charge T? Choose from POSITIVE or NEGATIVE. (1)  
+7.3.3 Calculate the magnitude of charge T. (5)  
+
+**[14]**
+
+---
+
+## QUESTION 8 (Start on a new page.)
+
+$L_1$ and $L_2$ are two light bulbs that have the following ratings:  
+$L_1: 36\text{ W} ; 20\text{ V}$ and $L_2: 48\text{ W} ; 32\text{ V}$  
+
+The two bulbs are connected as shown in the circuit diagram below. The battery has an internal resistance of $0,6\ \Omega$ while the conducting wires and the ammeters have negligible resistance. $R_1$ and $R_2$ are resistors.  
+
+[DIAGRAM: A circuit with a battery ($\mathcal{E}, r = 0,6\ \Omega$), ammeter $A_1$ in the main line, a parallel combination containing resistor $R_2$ ($4\ \Omega$) in series with bulb $L_2$, and a branch with resistor $R_1$ in series with bulb $L_1$ and ammeter $A_2$ (or similarly positioned).]
+
+8.1 Define the term power. (2)
+
+8.2 If both light bulbs operate as RATED, calculate the:  
+8.2.1 Reading on ammeter $A_2$ (3)  
+8.2.2 Reading on ammeter $A_1$ (3)  
+8.2.3 Resistance of resistor $R_1$ (4)  
+8.2.4 Emf of the battery (4)  
+
+8.3 Bulb $L_1$ burns out after a while. Assume that the resistance of bulb $L_2$ remains constant.  
+
+Will bulb $L_2$ continue to glow after bulb $L_1$ burns out? Choose from YES or NO. Support your answer with a suitable calculation. (5)  
+
+**[21]**
+
+---
+
+## QUESTION 9 (Start on a new page.)
+
+The graph below shows how the induced current in a generator varies with time.  
+
+[DIAGRAM: A graph of Induced current (A) vs Time ($s$). The curve shows a rectified AC or pulsating DC output (all positive loops) with peak current $1,2\text{ A}$ at $0,01\text{ s}$, $0,03\text{ s}$, and zero points at $0,00, 0,02, 0,04\text{ s}$.]
+
+9.1 Name the type of generator. Choose from AC or DC. (1)
+
+9.2 State the energy conversion that takes place in this generator while it is in operation. (2)
+
+9.3 Give a reason why this generator is NOT suitable for the transmission of electricity over long distances. (1)
+
+9.4 Calculate the frequency at which the coil rotates in the generator. (2)
+
+9.5 Define the term root mean square (rms) current. (2)
+
+9.6 Calculate the root-mean-square current delivered by the generator. (3)
+
+9.7 The graph below shows how the induced current varies with time after a change was made to the operation of the generator.  
+
+[DIAGRAM: A graph of Induced current (A) vs Time ($s$) with maximum current reduced to $0,6\text{ A}$ and period remaining $0,02\text{ s}$.]
+
+Fully describe the change that was made. (2)  
+
+**[13]**
+
+---
+
+## QUESTION 10 (Start on a new page.)
+
+10.1 Define the term photoelectric effect. (2)
+
+10.2 Red light, blue light and green light are shone simultaneously on a sheet of potassium, as shown in the diagram below. Each colour of light consists of a single frequency.  
+
+Two maximum kinetic energies of the ejected electrons are possible, namely $6,96 \times 10^{-20}\text{ J}$ and $2,65 \times 10^{-20}\text{ J}$. Each ejected electron has only one of these maximum kinetic energies.  
+
+[DIAGRAM: Red, blue and green light beams shining onto a potassium sheet.]
+
+10.2.1 Which colour of light is responsible for ejecting electrons that have a maximum kinetic energy equal to $2,65 \times 10^{-20}\text{ J}$? (1)  
+10.2.2 Explain the answer to QUESTION 10.2.1. (2)  
+10.2.3 The electrons with a maximum kinetic energy of $2,65 \times 10^{-20}\text{ J}$ are ejected by light that has a frequency of $5,85 \times 10^{14}\text{ Hz}$.  
+
+Calculate the frequency of the light that ejected electrons with a maximum kinetic energy of $6,96 \times 10^{-20}\text{ J}$. (5)  
+
+10.2.4 The intensity of the red light is increased, while the intensities of the blue light and green light remain the same.  
+
+What effect will this change have on the rate at which electrons are ejected? Choose from INCREASES, DECREASES or REMAINS THE SAME. (2)  
+
+10.3 Some of the atoms of a hot gas, made up of a single element, are in an excited state. The spectrum formed by the hot gas is observed on a screen in a darkened room. The spectrum consists of specific coloured lines on a black background.  
+
+10.3.1 Name the type of spectrum formed. (1)  
+10.3.2 Explain the presence of the coloured lines in the spectrum. (2)  
+
+**[15]**  
+
+**TOTAL: 150**

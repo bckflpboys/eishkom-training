@@ -1,0 +1,805 @@
+=== page 1 ===
+Kopiereg voorbehou Blaai om asseblief
+
+PUNTE:  150
+
+TYD:  2 uur
+
+Hierdie vraestel bestaan uit 17 bladsye en 2 gegewensblaaie.
+
+GRAAD 10
+NASIONALE
+SENIOR SERTIFIKAAT
+FISIESE WETENSKAPPE:  FISIKA (V1)
+
+NOVEMBER 2015
+
+=== page 2 ===
+Fisiese Wetenskappe/V1  2   DBE/November 2015
+KABV – Graad 10
+Kopiereg voorbehou                                                                     Blaai om asseblief
+
+INSTRUKSIES EN INLIGTING
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+Skryf jou naam en klas  (byvoorbeeld 1 0A) in die toepaslike ruimtes op die
+ANTWOORDEBOEK neer.
+
+Hierdie vraestel bestaan uit 11 vrae. Beantwoord AL die vrae in die
+ANTWOORDEBOEK.
+
+Begin ELKE vraag op 'n NUWE bladsy in die ANTWOORDEBOEK.
+
+Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie
+vraestel gebruik is.
+
+Laat EEN reël oop tussen twee subvrae, byvoorbeeld tussen VRAAG 2.1 en
+VRAAG 2.2.
+
+Jy mag 'n nieprogrammeerbare sakrekenaar gebruik.
+
+Jy mag toepaslike wiskundige instrumente gebruik.
+
+Jy word aangeraai om die aangehegte GEGEWENSBLAAIE te gebruik.
+
+Toon ALLE formules en substitusies in ALLE berekeninge.
+
+Rond jou finale numeriese antwoorde tot ' n minimum van TWEE desimale
+plekke af.
+
+Gee kort (bondige) motiverings, besprekings ensovoorts waar nodig.
+
+Skryf netjies en leesbaar.
+
+=== page 3 ===
+Fisiese Wetenskappe/V1  3   DBE/November 2015
+KABV – Graad 10
+Kopiereg voorbehou                                                                     Blaai om asseblief
+
+VRAAG 1:  MEERVOUDIGEKEUSE-VRAE
+
+Vier opsies word as moontlike antwoorde op die volgende vrae gegee. Elke vraag
+het slegs EEN korrekte antwoord. Kies die antwoord en skryf slegs die letter (A –D)
+langs die vraagnommer (1.1– 1.10) in die ANTWOOR DEBOEK neer, byvoorbeeld
+1.11 E.
+
+1.1 Watter EEN van die volgende kombinasies sluit TWEE skalaarhoeveelhede
+en EEN vektorhoeveelheid in?
+
+ A
+
+B
+
+C
+
+D
+Verplasing, versnelling, spoed
+
+Spoed, snelheid, afstand
+
+Krag, massa, versnelling
+
+Verplasing, versnelling, snelheid
+
+(2)
+
+1.2 'n Motor vertrek uit  dorp X en reis 40 km met 'n reguit pad na  dorp Y. Die
+bestuurder draai onmiddellik om en ry terug na dorp X . Die hele reis neem
+2 uur.
+
+Die grootte van die gemiddelde snelheid vir die hele reis, in kil ometer per uur,
+sal ... wees.
+
+ A
+
+B
+
+C
+
+D
+0
+
+20
+
+40
+
+80
+
+(2)
+
+1.3 Die helling van 'n  raaklyn aan 'n posisie -teenoor-tyd-grafiek verteenwoordig
+die ...
+
+ A
+
+B
+
+C
+
+D
+gemiddelde versnelling.
+
+gemiddelde snelheid.
+
+oombliklike snelheid.
+
+oombliklike versnelling.
+
+(2)
+
+=== page 4 ===
+Fisiese Wetenskappe/V1  4   DBE/November 2015
+KABV – Graad 10
+Kopiereg voorbehou                                                                     Blaai om asseblief
+
+1.4 'n Voorwerp met massa m word vanaf 'n balkon laat val en tref die grond met
+kinetiese energie E.
+
+'n Voorwerp met massa 2m  word VANAF DIESELFDE HOOGTE laat val en
+tref die grond met kinetiese energie gelyk aan ...
+
+ A
+
+B
+
+C
+
+D
+¼E
+
+½E
+
+E
+
+2E
+
+(2)
+
+1.5 Twee pulse beweeg na mekaar toe in 'n tou, soos in die diagram hieronder
+getoon.
+
+ Wanneer die middelpunte van die twee pulse mekaar by Q ontmoet, sal die
+amplitude van die resulterende puls ... wees.
+
+ A
+
+B
+
+C
+
+D
+x + y
+
+2(x + y)
+
+y – x
+
+2(y – x).
+
+(2)
+
+ y
+x Q
+
+=== page 5 ===
+Fisiese Wetenskappe/V1  5   DBE/November 2015
+KABV – Graad 10
+Kopiereg voorbehou                                                                     Blaai om asseblief
+
+1.6 Watter EEN van die volgende kombinasies met betrekking tot die toonhoogte
+en luidheid van klank, is KORREK?
+
+Die toonhoogte en luidheid van klank hang af van:
+
+  TOONHOOGTE LUIDHEID
+ A Frekwensie Amplitude van vibrasie
+ B Frekwensie Spoed van vibrasie
+ C Amplitude van vibrasie Frekwensie
+ D Spoed van vibrasie Frekwensie   (2)
+
+1.7 Beskou die volgende stellings met betrekking tot ultraviolet straling:
+
+(i) Dit kan nie weerkaats word nie.
+(ii) Dit het 'n langer golflengte as gammastrale.
+(iii) Dit word vanaf die son uitgestraal en kan skadelik vir mense wees.
+
+Watter EEN van die volgende kombinasies is KORREK?
+
+ A
+
+B
+
+C
+
+D
+Slegs (i) en (ii)
+
+Slegs (ii) en (iii)
+
+Slegs (i) en (iii)
+
+(i), (ii) en (iii)
+
+(2)
+
+1.8 'n Staaf verkry 'n negatiewe lading nadat dit met wol gevryf is.
+
+Watter EEN van die volgende is die beste v erduideliking vir waarom dit
+gebeur?
+
+ A
+
+B
+
+C
+
+D
+Positiewe ladings word vanaf die staaf na die wol oorgedra.
+
+Negatiewe ladings word vanaf die staaf na die wol oorgedra.
+
+Positiewe ladings word vanaf die wol na die staaf oorgedra.
+
+Negatiewe ladings word vanaf die wol na die staaf oorgedra.
+
+(2)
+
+=== page 6 ===
+Fisiese Wetenskappe/V1  6   DBE/November 2015
+KABV – Graad 10
+Kopiereg voorbehou                                                                     Blaai om asseblief
+
+1.9 Die diagram hieronder verteenwoordig die magneetve ld rondom 'n
+staafmagneet.
+
+ By watter punt is die grootte van die magneetveld van die staafmagneet die
+grootste?
+
+ A
+
+B
+
+C
+
+D
+P
+
+Q
+
+R
+
+S
+
+(2)
+
+1.10 Vir watter EE N van die hoeveelhede hieronder  is die KORREKTE
+maateenheid gegee?
+
+  HOEVEELHEID EENHEID
+ A Stroom A∙s-1
+ B Energie kW
+ C Potensiaalverskil V
+ D Weerstand V∙s   (2)
+[20]
+
+S
+P
+Q
+R
+
+=== page 7 ===
+Fisiese Wetenskappe/V1  7   DBE/November 2015
+KABV – Graad 10
+Kopiereg voorbehou                                                                     Blaai om asseblief
+N
+O W
+S
+
+VRAAG 2   (Begin op 'n nuwe bladsy.)
+
+'n Motorfiets lewer 'n aandrywingskrag van 500 N terwyl die fiets en ryer weswaarts op
+'n plat, reguit pad beweeg.
+
+Wanneer die ryer rem, werk 'n wrywingskrag van 150 N op die wiele van die motorfiets
+in en die motorfiets en ryer beweeg stadiger.
+
+2.1 Definieer die term vektor.  (2)
+
+2.2 Bereken die resulterende krag w at op die motorfiets en ryer inwerk. ( Beskou
+die ryer en fiets as 'n enkele voorwerp).
+
+(3)
+
+Die ryer reis 160 km weswaarts teen die wind  in 'n tyd van 2 uur. Die ryer draai
+onmiddellik om en ry terug na die beginpunt in ' n tyd van 1,67 uur, dié keer saam  met
+die wind.
+
+2.3 Skryf die totale verplasing vir die hele rit neer.  (1)
+
+2.4 Bereken die gemiddelde spoed van die motorfiets vir die hele rit in km∙h-1.  (4)
+
+ Die wind waai teen 'n konstante spoed van 8 km∙h-1 OOSWAARTS.
+
+2.5 Bereken die groot te van die werklike snelheid van die motorfiets  in km∙h -1
+(met ander woorde, as daar geen wind is nie).
+
+(3)
+   [13]
+
+=== page 8 ===
+Fisiese Wetenskappe/V1  8   DBE/November 2015
+KABV – Graad 10
+Kopiereg voorbehou                                                                     Blaai om asseblief
+
+VRAAG 3   (Begin op 'n nuwe bladsy.)
+
+'n Paneelwa ry teen 'n konstante spoed van 54 km∙h-1 in 'n 40 km∙h-1-sone.
+
+'n Polisieman trek uit rus met sy motor weg presies toe die paneelwa by hom verby ry.
+
+Die polisiemotor versnel teen 2 m∙s-2 totdat dit ' n maksimum snelheid van 20 m.s-1
+bereik. Die polisieman ry dan verder teen hierdie konstante snelheid.
+
+3.1 Definieer die term versnelling.  (2)
+
+3.2 Herlei 54 km∙h-1 na meter per sekonde (m∙s-1).  (3)
+
+3.3 Bereken die tyd wat dit die polisiemotor neem om sy maksimum snelheid te
+bereik.
+
+(4)
+
+3.4 Bereken watter voertuig (die paneelwa of die polisiemotor) is voor op die
+tydstip wat in VRAAG 3.3 bereken is.
+
+(5)
+
+3.5 Bereken hoe ver die polisiemotor moet ry voordat dit die paneelwa inhaal.  (5)
+
+3.6 Skryf die totale tyd  neer wat die polisiemotor neem om die paneelwa in te
+haal.
+
+(1)
+   [20]
+
+=== page 9 ===
+Fisiese Wetenskappe/V1  9   DBE/November 2015
+KABV – Graad 10
+Kopiereg voorbehou                                                                     Blaai om asseblief
+snelheid (m∙s-1)
+5
+27,5
+20  tyd (s)
+-20
+30
+40
+A
+B C
+D
+E
+25
+N
+W
+S
+O
+
+VRAAG 4   (Begin op 'n nuwe bladsy.)
+
+Die snelheid -teenoor-tyd-grafiek vir 'n renmotor wat ooswaarts beweeg, word
+hieronder getoon.
+
+4.1 Skryf die aanvanklike snelheid van die motor neer.  (2)
+
+4.2 Bereken die spoed van die motor by tyd t = 10 s.  (2)
+
+4.3 Beskryf die beweging van die motor vir die gedeelte wat CD gemerk is.  (2)
+
+4.4 Ondersteun die antwoord op VRAAG 4.3 hierbo deur die versnelling vir
+gedeelte CD te bereken.
+
+(4)
+
+4.5 Sonder enige berekening e, vergelyk die grootte van die versnelling van die
+motor in gedeelte DE  met dié van gedeelte CD van die reis.  Skryf slegs
+GROTER AS, MINDER AS of GELYK AAN  neer. Gee 'n rede vir die
+antwoord.
+
+(2)
+
+4.6 Bepaal die totale verplasing vir die beweging van die motor.  (7)
+   [19]
+
+=== page 10 ===
+Fisiese Wetenskappe/V1  10   DBE/November 2015
+KABV – Graad 10
+Kopiereg voorbehou                                                                     Blaai om asseblief
+•
+
+•
+
+•
+ •
+
+A
+
+B
+
+C
+
+D
+
+5 m
+
+7 m
+
+VRAAG 5   (Begin op 'n nuwe bladsy.)
+
+'n S taalbal met 'n massa van 5 kg rol oor 'n wrywinglose oppervlak , soos hieronder
+getoon. Wanneer  die bal punt A bereik, het dit  meganiese energie van 250 J. (Die
+skets is NIE volgens skaal geteken NIE.)
+
+5.1 Stel die beginsel van behoud van meganiese energie in woorde.  (2)
+
+5.2 Gebruik jou kennis van die beginsel van behoud van meganiese energie om:
+
+ 5.2.1 Die kinetiese energie van die staalbal by punt B neer te skryf  (2)
+
+ 5.2.2 Die spoed van die staalbal op die oomblik wanneer dit punt C bereik,
+te bereken
+
+(5)
+
+5.3 Bepaal of die meganiese energie wat deur die bal  by punt A verkry word,
+genoeg sal wees om die bal oor punt D te dra. Toon AL die berekeninge.
+
+(4)
+   [13]
+
+=== page 11 ===
+Fisiese Wetenskappe/V1  11   DBE/November 2015
+KABV – Graad 10
+Kopiereg voorbehou                                                                     Blaai om asseblief
+
+VRAAG 6   (Begin op 'n nuwe bladsy.)
+
+Die diagram hieronder verteenwoordig 'n watergolf wat van links na regs beweeg.
+Die tyd tussen twee opeenvolgende kruine is 0,5 s.
+
+6.1 Watter soort golf is 'n watergolf?  (1)
+
+6.2 Skryf die amplitude van die golf neer.  (1)
+
+6.3 Definieer die term golflengte.  (2)
+
+6.4 Bepaal die golflengte van die golf.  (2)
+
+6.5 Noem TWEE punte op die golfvorm hierbo wat in fase is.  (1)
+
+Bereken:
+
+6.6 Die tyd wat VIER kruine neem om verby 'n sekere punt in die pad van die golf
+te beweeg
+
+(3)
+
+6.7 Die spoed van die golf  (4)
+   [14]
+
+B
+J
+C
+   A
+D
+
+E
+
+F
+
+6 m
+3 m
+Rigting van beweging
+
+=== page 12 ===
+Fisiese Wetenskappe/V1  12   DBE/November 2015
+KABV – Graad 10
+Kopiereg voorbehou                                                                     Blaai om asseblief
+
+VRAAG 7   (Begin op 'n nuwe bladsy.)
+
+7.1 Definieer die term longitudinale golf.  (2)
+
+7.2 'n Klankgolf beweeg na 'n hoë muur wat 225 m van die bron  af is, en word
+dan terug weerkaats.
+
+Indien die spoed van klank in lug 340 m∙s -1 is, bereken die tyd wat dit neem
+om die eggo te hoor.
+
+(4)
+
+Dieselfde klankbron wat in VRAAG 7.2 hierbo gebruik is , word gebruik om 'n eggo te
+produseer deur die klank deur water te stuur.
+
+7.3 Is die tyd wat d it neem om die eggo te hoor MINDER AS, GELYK AAN of
+DIESELFDE as dít wat in VRAAG 7.2 verkry is? Gee 'n rede vir die antwoord.
+
+(3)
+
+7.4 Ultraklank word in geneeskunde gebruik.
+
+Noem die eienskap van ultraklank golwe wat ultraklank in staat stel om in
+beelding gebruik te word.
+
+(2)
+   [11]
+
+VRAAG 8   (Begin op 'n nuwe bladsy.)
+
+Die tabel hieronder toon 'n  rangskikking van elektromagnetiese straling volgens hulle
+frekwensies.
+
+SOORT STRALING  TIPIESE FREKWENSIE (Hz)
+Radiogolwe 105–1010
+Mikrogolwe 1010–1011
+Infrarooi (IR) 1011–1014
+Sigbare lig 1014–1015
+Ultraviolet (UV) 1015–1016
+X-strale 1016–1018
+Gammastrale 1018–1021
+
+8.1 Skryf TWEE eienskappe van elektromagnetiese golwe neer.  (2)
+
+8.2 Watter straling het die hoogste energie?  (1)
+
+8.3 'n Sekere straling het energie van 1,99 x 10-20 J.
+
+Identifiseer die soort straling wat met hierdie energie geassosieer word.
+
+(4)
+
+=== page 13 ===
+Fisiese Wetenskappe/V1  13   DBE/November 2015
+KABV – Graad 10
+Kopiereg voorbehou                                                                     Blaai om asseblief
+
+8.3 Verwys na diagram A tot C hieronder.
+
+ Watter soort straling word gebruik in:
+
+ 8.4.1 A  (1)
+
+ 8.4.2 B  (1)
+
+ 8.4.3 C  (1)
+   [10]
+
+TV
+Afstandbeheer
+
+B
+
+A
+
+C
+Vliegtuig-
+kommunikasie
+Televisie-
+afstandbeheer
+
+=== page 14 ===
+Fisiese Wetenskappe/V1  14   DBE/November 2015
+KABV – Graad 10
+Kopiereg voorbehou                                                                     Blaai om asseblief
+
+VRAAG 9   (Begin op 'n nuwe bladsy.)
+
+9.1 Definieer die term magneetveld.   (2)
+
+9.2 Watter algemene term word gebruik om stowwe te beskryf wat maklik
+gemagnetiseer word?
+
+(1)
+
+9.3 Die diag ram hieronder toon die magneetveld patroon van twee identiese
+staafmagnete met ente AB en CD.
+
+ 9.3.1 Watter belangrike inligting oor die polariteite van B en C word uit die
+diagram verkry?
+
+(1)
+
+ 9.3.2 'n Klein stukkie magnetiese stof word by die punt X, presies in die
+middel van die rangskikking , geplaas. Sal die stof beweeg? Skryf
+slegs JA of NEE neer.
+
+(1)
+
+ 'n Klein kompas word by punt Y geplaas. Die noordpool van die kompas wys
+WEG van D af.
+
+ 9.3.3 Wys die veldlyne wat rondom staafmagneet CD getoon word van C
+na D, of van D na C? Gee 'n rede vir die antwoord.
+
+(2)
+
+9.4 Gee 'n rede waarom die Aarde se magneetveld vir ons bestaan belangrik is.  (1)
+   [8]
+
+C
+Rigting van kompasnaald
+
+=== page 15 ===
+Fisiese Wetenskappe/V1  15   DBE/November 2015
+KABV – Graad 10
+Kopiereg voorbehou                                                                     Blaai om asseblief
+
+VRAAG 10   (Begin op 'n nuwe bladsy.)
+
+'n Leerder in  'n Fisiese Wetenskappe -klas vryf sy hare met 'n plastiekstaaf. Die staaf
+word negatief gelaai. Die leerder maak nou 'n kraan oop sodat 'n dun straaltjie water
+uitloop. Wanneer die staaf naby  die water gebring word sonder om daaraan te raak,
+word opgemerk dat die water na die st aaf toe buig , soos in die diagram hieronder
+getoon.
+
+10.1 Skryf die beginsel van behoud van lading in woorde neer.  (2)
+
+10.2 Gee 'n rede waarom die stroom water na die staaf toe buig.  (2)
+
+Gedurende die vryfproses word 1014 elektrone na die staaf oorgedra.
+
+10.3 Bereken die netto lading wat die staaf nou dra.   (4)
+   [8]
+
+kraan
+water
+
+=== page 16 ===
+Fisiese Wetenskappe/V1  16   DBE/November 2015
+KABV – Graad 10
+Kopiereg voorbehou                                                                     Blaai om asseblief
+
+VRAAG 11   (Begin op 'n nuwe bladsy.)
+
+11.1 Twee IDENTIESE gloeilampe, A en B, sowel as 'n meettoestel Z, word aan 'n
+battery gekoppel, soos in die stroombaan hieronder getoon.
+
+Die skakelaar is aanvanklik oop.
+
+ 11.1.1 Watter fisiese hoeveelheid sal toestel Z meet as die skakelaar
+gesluit word?
+
+(1)
+
+ 11.1.2 Gee 'n rede waarom die he lderheid van die gloeilampe dieselfde
+sal wees wanneer die skakelaar gesluit word.
+
+(1)
+
+ 'n Derde identiese gloeilamp word nou in serie met gloeilamp A en B in die
+stroombaan geskakel.
+
+ 11.1.3 Sal die helderheid van die gloeilamp T OENEEM, AFNEEM of
+DIESELFDE BLY?
+
+(1)
+
+  Z
+
+S
+●
+A B
+
+=== page 17 ===
+Fisiese Wetenskappe/V1  17   DBE/November 2015
+KABV – Graad 10
+Kopiereg voorbehou
+2 Ω 4 Ω
+V2
+4 V
+  S ●
+6 Ω
+ V1
+
+11.2 In die stroomb aan hieronder is potensiaal verskil V1 oor die battery en
+potensiaalverskil V2 oor die 4 Ω-resistor onbekend.
+
+ Wanneer die skakelaar S vir 'n kort rukkie  gesluit word, is die
+potensiaalverskil oor die parallelle kombinasie 4 V.
+
+ 11.2.1 Definieer die term potensiaalverskil.  (2)
+
+ Bereken die:
+
+ 11.2.2 Effektiewe weerstand van die 2 Ω- en 6 Ω-resistor  (3)
+
+ 11.2.3 Lesing op voltmeter V1  (4)
+
+ 11.2.4 Lesing op voltmeter V2  (2)
+    [14]
+
+ TOTAAL:  150
+
+=== page 18 ===
+Fisiese Wetenskappe/V1     DBE/November 2015
+KABV – Graad 10
+Kopiereg voorbehou
+
+DATA FOR PHYSICAL SCIENCES GRADE 10
+PAPER 1 (PHYSICS)
+
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 10
+VRAESTEL 1 (FISIKA)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Acceleration due to gravity
+Swaartekragversnelling g 9,8 m·s-2
+Speed of light in a vacuum
+Spoed van lig in 'n vakuum c 3,0 x 108 m·s-1
+Planck's constant
+Planck se konstante h 6,63 x 10-34 J·s
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Electron mass
+Elektronmassa me 9,11 x 10-31 kg
+
+TABLE 2:  FORMULAE/TABEL 2:  FORMULES
+
+MOTION/BEWEGING
+
+tavv if ∆+=  221i tatvx ∆+∆=∆
+xa2vv
+2
+i
+2
+f ∆+=   t2 vvx if ∆ +=∆
+
+WORK, ENERGY AND POWER/ARBEID, ENERGIE EN DRYWING
+
+mghU=  or/of   mghEP =  2mv21K=   or/of  2k mv21E =
+
+EM = Ek+ Ep.   OR   EM = K + U
+
+WAVES, SOUND AND LIGHT/GOLWE, KLANK EN LIG
+
+λ= fv
+f
+1T=
+hfE= or/of λ= chE
+
+=== page 19 ===
+Fisiese Wetenskappe/V1     DBE/November 2015
+KABV – Graad 10
+Kopiereg voorbehou
+
+ELECTROSTATICS/ELEKTROSTATIKA
+
+e
+Q = n  2Q +Q = Q 21
+
+ELECTRIC CIRCUITS/ELEKTRIESE STROOMBANE
+
+I=Q ∆ t ...R1R1R1 21p ++=
+...RRR 21s ++=  qWV=

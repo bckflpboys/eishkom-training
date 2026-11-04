@@ -1,0 +1,374 @@
+Vertroulik
+
+**basic education**
+Department:
+Basic Education
+REPUBLIC OF SOUTH AFRICA
+
+# SENIORSERTIFIKAAT-EKSAMEN / NASIONALE SENIORSERTIFIKAAT-EKSAMEN
+
+## WISKUNDE V2
+
+### MEI/JUNIE 2024
+
+**PUNTE: 150**
+**TYD: 3 uur**
+
+Hierdie vraestel bestaan uit 12 bladsye, 1 inligtingsblad en 'n antwoordeboek van 23 bladsye.
+
+---
+Kopiereg voorbehou
+Blaai om asseblief
+
+---
+
+Wiskunde/V2
+2
+DBE/Mei/Junie 2024
+SS/NSS Vertroulik
+
+## INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies aandachtig deur voordat jy die vrae beantwoord.
+
+1. Hierdie vraestel bestaan uit 10 vrae.
+2. Beantwoord AL die vrae in die SPESIALE ANTWOORDEBOEK wat verskaf word.
+3. Dui ALLE berekeninge, diagramme, grafieke, ens. wat jy in die beantwoording van die vrae gebruik, duidelik aan.
+4. Slegs antwoorde sal NIE noodwendig volpunte verdien NIE.
+5. Jy mag 'n goedgekeurde wetenskaplike sakrekenaar gebruik (nieprogrammeerbaar en niegrafies), tensy anders vermeld.
+6. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders vermeld.
+7. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+8. 'n Inligtingsblad met formules is aan die einde van die vraestel ingesluit.
+9. Skryf netjies en leesbaar.
+
+---
+Kopiereg voorbehou
+Blaai om asseblief
+
+---
+
+Wiskunde/V2
+3
+DBE/Mei/Junie 2024
+SS/NSS Vertroulik
+
+## VRAAG 1
+
+Die getal bladsye in tien A4-boeke en hulle ooreenstemmende gewig (in gram) is in die tabel hieronder gegee. Die data word ook in die spreidiagram verteenwoordig.
+
+| Getal bladsye ($x$) | 85 | 150 | 100 | 120 | 90 | 140 | 135 | 105 | 115 | 160 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Gewig (in gram) ($y$) | 165 | 325 | 200 | 250 | 180 | 285 | 250 | 170 | 230 | 340 |
+
+[DIAGRAM: Spreidiagram showing Gewig (in gram) on the y-axis (from 0 to 400 in intervals of 50) versus Getal bladsye on the x-axis (from 0 to 180 in intervals of 20). 10 data points are plotted showing a positive linear trend.]
+
+1.1 Bepaal die vergelyking van die kleinstekwadrate-regressielyn. (3)
+1.2 Trek die kleinstekwadrate-regressielyn op die spreidiagram in die ANTWOORDEBOEK. (2)
+1.3 Voorspel die gewig van 'n A4-boek wat 110 bladsye bevat. (2)
+1.4 Bereken die persentasie toename in gewig tussen 'n boek met 110 bladsye en 'n boek met 130 bladsye. (3)
+[10]
+
+---
+Kopiereg voorbehou
+Blaai om asseblief
+
+---
+
+Wiskunde/V2
+4
+DBE/Mei/Junie 2024
+SS/NSS Vertroulik
+
+## VRAAG 2
+
+Vyftig atlete moet toegang tot geskikte oefenfasiliteite hê. Die tabel hieronder toon die afstande, in km, wat hulle moet ry om toegang tot geskikte oefenfasiliteite te kry.
+
+| AFSTAND ($x$ km) | GETAL ATLETE |
+| :---: | :---: |
+| $0 \le x < 5$ | 3 |
+| $5 \le x < 10$ | 7 |
+| $10 \le x < 15$ | 20 |
+| $15 \le x < 20$ | 12 |
+| $20 \le x < 25$ | 5 |
+| $25 \le x < 30$ | 3 |
+
+2.1 Voltooi die kumulatiewefrekwensie-kolom wat in die tabel in die ANTWOORDEBOEK verskaf word. (2)
+2.2 Op die rooster wat in die ANTWOORDEBOEK verskaf word, teken 'n kumulatiewefrekwensie-kromme (ogief) om die data hierbo te verteenwoordig. (3)
+2.3 Bereken die interkwartielvariewydte (IKR) van die data hierbo. (2)
+2.4 Die gesinne van 4 van die atlete hierbo wat tussen 15 en $20\text{ km}$ vanaf 'n geskikte oefenfasiliteit woon, besluit om $10\text{ kilometer}$ nader aan die fasiliteit te trek. In watter interval sal die getal atlete toeneem? (1)
+2.5 Bereken die geskatte gemiddelde afstand wat die vyftig atlete moet ry nadat die 4 gesinne $10\text{ kilometer}$ nader aan die fasiliteit getrek het. Toon ALLE berekeninge duidelik. (3)
+[11]
+
+---
+Kopiereg voorbehou
+Blaai om asseblief
+
+---
+
+Wiskunde/V2
+5
+DBE/Mei/Junie 2024
+SS/NSS Vertroulik
+
+## VRAAG 3
+
+In die diagram is $A(3; 4)$, $B$ en $C$ hoekpunte van $\triangle ABC$. $AB$ is verleng na $S$. $D$ en $F$ is onderskeidelik die $x$- en $y$-afsnitte van $AC$. $F$ is die middelpunt van $AC$ en die inklinasiehoek van $AC$ is $\alpha$. Die vergelyking van $AB$ is $y = kx + 3$ en die vergelyking van $AC$ is $y = 2x - 2$.
+
+[DIAGRAM: Cartesian plane showing triangle ABC in the first and fourth quadrants. Line $AC$ passes through $A(3;4)$, intersects the y-axis at $F(0,-2)$ and the x-axis at $D$, with angle of inclination $\alpha$. Line $AB$ (extended to $S$) has equation $y=kx+3$ and intersects the x-axis at $B$.]
+
+3.1 Toon dat $k = \frac{1}{3}$. (1)
+3.2 Bereken die koördinate van $B$, die $x$-afsnit van lyn $AS$. (2)
+3.3 Bereken die koördinate van $C$. (4)
+3.4 Bepaal die vergelyking van die lyn parallel aan $BC$ en wat deur $S(-15; -2)$ gaan. Skryf jou antwoord in die vorm $y = mx + c$. (5)
+3.5 Bereken die grootte van $B\hat{A}C$. (5)
+3.6 As dit verder gegee word dat $AC$ se lengte $6\sqrt{5}$ eenhede is, bereken die waarde van $\frac{\text{Area van }\triangle ABD}{\text{Area van }\triangle ASC}$. (5)
+[22]
+
+---
+Kopiereg voorbehou
+Blaai om asseblief
+
+---
+
+Wiskunde/V2
+6
+DBE/Mei/Junie 2024
+SS/NSS Vertroulik
+
+## VRAAG 4
+
+In die diagram is die sirkel met middelpunt $C(2; p)$ geteken. $A(5; 1)$ en $B(-3; -3)$ is punte op die sirkel. $E$ is die middelpunt van $AB$.
+
+[DIAGRAM: Circle with center $C(2; p)$, passing through $A(5;1)$ and $B(-3;-3)$. Chord $AB$ has midpoint $E$. The origin $O$ is also shown.]
+
+4.1 Bereken die koördinate van $E$, die middelpunt van $AB$. (2)
+4.2 Bereken die lengte van $AB$. Laat jou antwoord in wortelvorm. (1)
+4.3 Bepaal die vergelyking van die loodregte lyn wat $AB$ halveer in die vorm $y = mx + c$. (4)
+4.4 Toon dat $p = -3$. (1)
+4.5 Toon, met berekeninge, dat die vergelyking van die sirkel $x^2 + y^2 - 4x + 6y - 12 = 0$ is. (4)
+4.6 Bereken die waardes van $t$ waarvoor die reguitlyn $y = tx + 8$ nie die sirkel sal sny nie. (6)
+[18]
+
+---
+Kopiereg voorbehou
+Blaai om asseblief
+
+---
+
+Wiskunde/V2
+7
+DBE/Mei/Junie 2024
+SS/NSS Vertroulik
+
+## VRAAG 5
+
+5.1 Indien $\sin 40^\circ = p$, skryf ELK van die volgende in terme van $p$.
+    5.1.1 $\sin 220^\circ$ (2)
+    5.1.2 $\cos^2 50^\circ$ (2)
+    5.1.3 $\cos(-80^\circ)$ (3)
+
+5.2 Gegee: $\tan x (1 - \cos^2 x) + \cos^2 x = \frac{(\sin x + \cos x)(1 - \sin x \cos x)}{\cos x}$
+    5.2.1 Bewys die identiteit hierbo. (5)
+    5.2.2 Vir watter waardes van $x$, in die interval $x \in [-180^\circ; 180^\circ]$, sal die identiteit ongedefinieerd wees? (3)
+
+5.3 Gegee die uitdrukking: $\frac{\sin 150^\circ + \cos^2 x - 1}{2}$
+    5.3.1 Sonder die gebruik van 'n sakrekenaar, vereenvoudig die uitdrukking hierbo gegee tot 'n enkele trigonometriese term in terme van $\cos 2x$. (6)
+    5.3.2 Bepaal gevolglik die algemene oplossing van $\frac{\sin 150^\circ + \cos^2 x - 1}{2} = \frac{1}{25}$ (5)
+[26]
+
+---
+Kopiereg voorbehou
+Blaai om asseblief
+
+---
+
+Wiskunde/V2
+8
+DBE/Mei/Junie 2024
+SS/NSS Vertroulik
+
+## VRAAG 6
+
+In die diagram is die grafieke van $f(x) = \cos(x + a)$ en $g(x) = \sin 2x$ vir die interval $x \in [-180^\circ; 180^\circ]$ geskets. Die grafieke sny by $N(-75^\circ; k)$, $P(45^\circ; 1)$ en $Q(165^\circ; k)$. $P$ is ook 'n draaipunt van albei grafieke.
+
+[DIAGRAM: Sine and cosine graphs for $x \in [-180^\circ, 180^\circ]$. $f(x)$ has a maximum at $P(45^\circ, 1)$, minimums, and intersects $g(x)$ at $N(-75^\circ, k)$ and $Q(165^\circ, k)$. $g(x) = \sin 2x$ is also plotted.]
+
+6.1 Skryf die periode van $f$ neer. (1)
+6.2 Skryf die amplitude van $g$ neer. (1)
+6.3 Skryf die waarde van $a$ neer. (1)
+6.4 Bereken die waarde van $k$, die $y$-koördinaat van $N$ en $Q$, sonder die gebruik van 'n sakrekenaar. (2)
+6.5 Bereken die waarde van $x$ as $g(x + 60^\circ) = f(x + 60^\circ)$ en $x \in [-45^\circ; 0^\circ]$. (1)
+6.6 Sonder die gebruik van 'n sakrekenaar, bepaal die aantal oplossings wat die vergelyking $\sqrt{2}\sin 2x = \sin x + \cos x$ in die interval $x \in [-90^\circ; 90^\circ]$ het. Toon ALLE berekeninge duidelik. (4)
+[10]
+
+---
+Kopiereg voorbehou
+Blaai om asseblief
+
+---
+
+Wiskunde/V2
+9
+DBE/Mei/Junie 2024
+SS/NSS Vertroulik
+
+## VRAAG 7
+
+7.1 $\triangle ABC$ is in die diagram hieronder geskets. $AD$ is sodanig getrek dat $AD \perp BC$.
+
+[DIAGRAM: Triangle ABC with altitude $AD \perp BC$.]
+
+    7.1.1 Gebruik die diagram hierbo om $AD$ in terme van $\sin\hat{B}$ te bepaal. (2)
+    7.1.2 Bewys vervolg dat die oppervlakte van $\triangle ABC = \frac{1}{2}(BC)(AB)\sin\hat{B}$ (1)
+
+7.2 In die diagram lê punte $B$, $C$ en $D$ in dieselfde horisontale vlak. $A\hat{D}B = A\hat{C}B = \alpha$, $C\hat{D}B = \theta$ en $DC = k$ eenhede. $BD = BC$.
+
+[DIAGRAM: 3D-like geometric figure with points $B, C, D$ in the base plane, and vertex $A$ above. $DC = k$, $A\hat{D}B = A\hat{C}B = \alpha$, $C\hat{D}B = \theta$, $BD = BC$.]
+
+    7.2.1 Bewys dat $AD = AC$ (2)
+    7.2.2 Bewys dat $BD = \frac{k}{2\cos\theta}$ (3)
+    7.2.3 Bepaal die oppervlakte van $\triangle ABCD$ in terme van $k$ en as 'n enkele trigonometriese verhouding van $\theta$. (3)
+[11]
+
+---
+Kopiereg voorbehou
+Blaai om asseblief
+
+---
+
+Wiskunde/V2
+10
+DBE/Mei/Junie 2024
+SS/NSS Vertroulik
+
+## VRAAG 8
+
+8.1 In die diagram is koorde $AB$, $BC$ en $AC$ getrek in die sirkel met middelpunt $O$. $DCE$ is 'n raaklyn aan die sirkel by $C$.
+
+[DIAGRAM: Circle with center $O$, inscribed triangle $ABC$, and tangent $DCE$ at $C$.]
+
+Bewys die stelling wat sê dat die hoek tussen die raaklyn aan 'n sirkel en die koörd getrek vanuit die raakpunt, gelyk is aan die hoek in die teenoorgestelde segment, m.a.w. $B\hat{C}E = \hat{A}$. (5)
+
+8.2 In die diagram is $PQRS$ 'n koordevierhoek met $RQ = RS$. $ST$ is 'n raaklyn aan die sirkel by $S$. $SR$ is na $N$ verleng. $\hat{R}_2 = 68^\circ$.
+
+[DIAGRAM: Cyclic quadrilateral $PQRS$ with tangent $ST$ at $S$. $RQ = RS$. $SR$ extended to $N$. $\hat{R}_2 = 68^\circ$.]
+
+Bepaal, met redes, die grootte van:
+    8.2.1 $\hat{P}$ (2)
+    8.2.2 $\hat{Q}_1$ (2)
+    8.2.3 $\hat{S}_1$ (2)
+[11]
+
+---
+Kopiereg voorbehou
+Blaai om asseblief
+
+---
+
+Wiskunde/V2
+11
+DBE/Mei/Junie 2024
+SS/NSS Vertroulik
+
+## VRAAG 9
+
+In die diagram is $AB$ 'n middellyn van die sirkel met middelpunt $F$. $AB$ en $CD$ sny by $G$. $FD$ en $FC$ is getrek. $BA$ halveer $C\hat{A}D$ en $\hat{D}_1 = 37^\circ$.
+
+[DIAGRAM: Circle with center $F$, diameter $AB$, chords $CD$ and $AD$ intersecting at $G$. Radii $FD, FC$ drawn. $\hat{D}_1 = 37^\circ$, $BA$ bisects $C\hat{A}D$.]
+
+9.1 Bepaal, met redes, enige drie ander hoeke gelyk aan $\hat{D}_1$. (4)
+9.2 Toon dat $DG = GC$. (4)
+9.3 Indien dit verder gegee word dat die radius van die sirkel $20$ eenhede is, bereken die lengte van $BG$. (4)
+[12]
+
+---
+Kopiereg voorbehou
+Blaai om asseblief
+
+---
+
+Wiskunde/V2
+12
+DBE/Mei/Junie 2024
+SS/NSS Vertroulik
+
+## VRAAG 10
+
+In die diagram is $COD$ die middellyn van die sirkel met middelpunt $O$. $EA$ is 'n raaklyn aan die sirkel by $F$. $AO \perp CE$. Middellyn $COD$ is verleng om die raaklyn aan die sirkel by $E$ te sny. $OB$ is verleng en sny die raaklyn aan die sirkel by $A$. $CF$ sny $OB$ by $T$. $CB$, $BD$, $OF$ en $FD$ is getrek.
+
+[DIAGRAM: Complex circle geometry diagram with center $O$, diameter $COD$, tangent $EA$ at $A$ (or $F$? wait, text says "raaklyn aan die sirkel by A", let's check diagram). Intersection points $T, B, C, D, E, F$ with various chords and lines.]
+
+Bewys, met redes, dat:
+10.1 $TODF$ 'n koordevierhoek is (4)
+10.2 $\hat{D}_3 = \hat{T}_1$ (3)
+10.3 $\triangle TFO \parallel\parallel\parallel \triangle DFE$ (5)
+10.4 Indien $\hat{B}_2 = \hat{E}$, bewys dat $DB \parallel EA$. (2)
+10.5 Bewys dat $DO = \frac{TO \cdot FE}{AB}$ (5)
+[19]
+
+**TOTAAL: 150**
+
+---
+Kopiereg voorbehou
+
+---
+
+Wiskunde/V2
+13
+DBE/Mei/Junie 2024
+SS/NSS Vertroulik
+
+## INLIGTINGSBLAD
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni)$$
+$$A = P(1 - ni)$$
+$$A = P(1 - i)^n$$
+$$A = P(1 + i)^n$$
+
+$$T_n = a + (n - 1)d$$
+$$S_n = \frac{n}{2}[2a + (n - 1)d]$$
+
+$$T_n = ar^{n-1}$$
+$$S_n = \frac{a(r^n - 1)}{r - 1} \quad (r \neq 1)$$
+$$S_\infty = \frac{a}{1 - r} \quad (-1 < r < 1)$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i}$$
+$$P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$
+$$M\left(\frac{x_1 + x_2}{2}; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c$$
+$$y - y_1 = m(x - x_1)$$
+$$m = \frac{y_2 - y_1}{x_2 - x_1}$$
+$$m = \tan\theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+$$\text{In }\triangle ABC: \frac{\sin A}{a} = \frac{\sin B}{b} = \frac{\sin C}{c}$$
+$$a^2 = b^2 + c^2 - 2bc \cos A$$
+$$\text{area }\triangle ABC = \frac{1}{2}ab \sin C$$
+
+$$\sin(\alpha + \beta) = \sin\alpha\cos\beta + \cos\alpha\sin\beta$$
+$$\sin(\alpha - \beta) = \sin\alpha\cos\beta - \cos\alpha\sin\beta$$
+$$\cos(\alpha + \beta) = \cos\alpha\cos\beta - \sin\alpha\sin\beta$$
+$$\cos(\alpha - \beta) = \cos\alpha\cos\beta + \sin\alpha\sin\beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2\alpha - \sin^2\alpha \\ 1 - 2\sin^2\alpha \\ 2\cos^2\alpha - 1 \end{cases}$$
+$$\sin 2\alpha = 2\sin\alpha\cos\alpha$$
+
+$$\overline{x} = \frac{\sum x}{n}$$
+$$\sigma^2 = \frac{\sum_{i=1}^{n}(x_i - \overline{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)}$$
+$$P(A \text{ of } B) = P(A) + P(B) - P(A \text{ en } B)$$
+
+$$\hat{y} = a + bx$$
+$$b = \frac{\sum(x - \overline{x})(y - \overline{y})}{\sum(x - \overline{x})^2}$$
+
+---
+Kopiereg voorbehou

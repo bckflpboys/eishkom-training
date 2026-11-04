@@ -1,0 +1,781 @@
+=== page 1 ===
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+MARKS/PUNTE:  150
+
+This memorandum consists of 14 pages.
+Hierdie memorandum bestaan uit 14 bladsye.
+
+PHYSICAL SCIENCES:  PHYSICS (P1)
+FISIESE WETENSKAPPE: FISIKA (V1)
+
+NOVEMBER 2016
+
+MEMORANDUM
+NATIONAL
+SENIOR CERTIFICATE/
+NASIONALE
+SENIOR SERTIFIKAAT
+GRADE/GRAAD 11
+
+=== page 2 ===
+Physical Sciences P1/Fisiese Wetenskappe/V1 2 DBE/November 2016
+ CAPS/KABV – Grade/Graad 11 – Memorandum
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief
+
+QUESTION 1/VRAAG 1
+
+1.1 D   (2)
+
+1.2 B   (2)
+
+1.3 C   (2)
+
+1.4 A   (2)
+
+1.5 A   (2)
+
+1.6 C   (2)
+
+1.7 B   (2)
+
+1.8 D   (2)
+
+1.9 A   (2)
+
+1.10 C   (2)
+   [20]
+
+=== page 3 ===
+Physical Sciences P1/Fisiese Wetenskappe/V1 3 DBE/November 2016
+ CAPS/KABV – Grade/Graad 11 – Memorandum
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION 2/VRAAG 2
+
+2.1 The sum of two or more vectors 
+Die som van twee of meer vektore
+OR/OF
+The single vector having the same effect as two or more vectors together.
+Die enkele vektor wat dieselfde effek as twee of meer vektore saam het.
+
+(2)
+
+2.2 The object is lifted/moved upwards.
+There will be a resultant/net force not equal to zero.
+Die voorwerp word opgelig/beweeg opwaarts
+Dit sal 'n resultante/netto krag wees  wat nie nul is nie.
+
+(2)
+
+2.3.1 Fy = FA sin 70˚
+     = 730 sin 70˚ 
+     = 685,98 N
+
+(2)
+
+2.3.2 Fx = FAcos70˚
+     = (730)cos70˚ 
+     = 249,67 N 
+
+(2)
+
+2.4 Fy = FB cos10˚
+     = (1 440)cos10˚
+     = 1418,12 N 
+
+OR/OF
+Fy = FB sin 80˚
+    = (1 440)sin80˚
+    = 1 418,12 N
+
+Maximum/Maksimum w = FYA + FYB
+                                       = 685,98 + 1418,12 
+                                       = 2 104,1 N 
+
+(4)
+
+2.5  If the distance x increase s, the vertical components of the applied forces will
+decrease  and then the system will possibly not be able to pick up the
+weight.  
+Indien die afstand x vergroot, sal die vertikale komponente van die
+toegepaste krag verklein en dan sal die stelsel moontlik nie die gewig kan
+optel nie.
+
+(2)
+   [14]
+
+=== page 4 ===
+Physical Sciences P1/Fisiese Wetenskappe/V1 4 DBE/November 2016
+ CAPS/KABV – Grade/Graad 11 – Memorandum
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION 3/VRAAG 3
+
+3.1 A body will remain in its state of rest or motion at constant /uniform velocity 
+unless a non-zero resultant/net force acts on it. 
+'n Liggaam sal in sy toestand van rus of beweging teen konstante/uniforme
+snelheid bly tensy 'n nie-nul resulterende/netto krag daarop inwerk.
+
+(2)
+
+3.2
+
+   (3)
+Notes:  Accepted Labels/Aanvaarbare Byskrifte Mark/Punt
+w weight/FG/Fg
+gewig/gravitasiekrag/swaartekrag
+
+T Tension/FT/Fapplied/FA
+Spanning/Ftoegepas
+
+Fblades F of the blades/f/Air friction/Downward force of the blades
+F van die lemme/f/Lugweerstand/Afwaartse krag van lemme
+
+ Any additional force: deduct 1 mark (maximum ⅔) Enige addisionele krag: trek 1 punt af (maksimum ⅔)
+ Lines must touch object otherwise (maximum ⅔ ) Lyne moet voorwerp raak anders (maksimum ⅔)
+
+3.3 There is an extra downward force (on the container created b y the blades
+of the helicopter)
+Daar is ' n ekstra afwaartse krag (op die houer as gevolg van die lemme van
+die helikopter)
+
+(2)
+
+3.4 w = mg
+1 960 = m(9,8) 
+m = 200 kg 
+
+(2)
+
+3.5 POSITIVE MARKING FROM 3.4
+POSITIEWE NASIEN VAN 3.4
+Fnet = ma
+T – Fg – Fblades = ma                               OR/OF  T – 2 100 = ma
+T – 1 960 – 140  = (200)(0,13)                         T – 2 100 = (200)(0,13)
+T = 2 126 N                                                         T = 2 126 N
+
+(2)
+
+3.6 2 100 N      (1)
+   [14]
+Fblades
+w
+T
+
+=== page 5 ===
+Physical Sciences P1/Fisiese Wetenskappe/V1 5 DBE/November 2016
+ CAPS/KABV – Grade/Graad 11 – Memorandum
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION 4/VRAAG 4
+
+4.1 When a net force acts on an object, it will accelerate in the direction of the net
+force. The acceleration is directly proportional to the net force and inversely
+proportional to the mass of the object. 
+Wanneer 'n netto krag op ' n voorwerp inwerk, sal di t in die rigting van die
+netto krag versnel . Die versnelling is direk eweredig aan die netto krag en
+omgekeerd eweredig aan die massa van die voorwerp.
+
+OR/OF
+Fnet α a and a α m1
+ Fnet α a en a α m1
+
+(2)
+
+4.2
+
+Notes:  Accepted Labels/Aanvaarbare byskrifte MARK/PUNT
+N Normal force/ FN
+Normaalkrag
+
+w Weight/FG/Fg
+Gewig/Gravitasiekrag/Swaartekrag
+
+T Tension/FT
+Spanning
+
+f Friction/Ff
+Wrywingskrag
+
+ Any additional force: deduct 1 mark maximum (maximum ¾) Enige addisionele krag: trek 1 punt af (maksimum ¾)
+ Lines must touch dot otherwise (maximum ¾ ) Lyne moet kolletjie raak anders (maksimum ¾)
+ Do not penalise if angle is shown/not shown Moenie penaliseer as hoek getoon/nie getoon is nie.
+   (4)
+
+4.3 fk = µkN 
+fk = 0,2(4)(9,8)cos 40° 
+fk = 6,01 N  up the slope/teen die helling op
+
+(4)
+ w
+N
+f
+T
+
+=== page 6 ===
+Physical Sciences P1/Fisiese Wetenskappe/V1 6 DBE/November 2016
+ CAPS/KABV – Grade/Graad 11 – Memorandum
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+4.4 POSITIVE MARKING FROM 4.3
+POSITIEWE NASIEN VAN 4.3
+
+Fnet = ma
+
+For the 8 kg box:    For the 4 kg box:
+Vir die 8 kg-blok:                                   Vir die 4 kg-blok:
+T – f = ma     Fgll – T – f = ma
+T – 0,2(8)(9,8)   = 8a      4(9,8) sin 40˚ - T – 6,01 = 4a   
+T = 8a + 15,68  ….(1)   25,2 – 6,01 – T = 4a
+      19,19 – 4a = T   ….(2)
+
+Combining equations (1) and (2):
+Kombineer vergelykings (1) en (2)
+4(9,8)sin 40˚ – 6,01 - 4a = 0,2(8)(9,8) + 8a   
+       a = 0,29 m.s-2   
+
+OR/OF
+8a + 15,68 = 19,19 – 4a
+      a = 0,29 m.s-2
+
+(6)
+
+4.5 Greater than 
+Groter as
+
+Explanation:/Verduideliking:
+The component parallel to the slope increases 
+The tension in the rope stays the same 
+The net force increases 
+Die komponent parallel (ewewydig) aan die helling vergroot
+Die spanning in die tou bly dieselfde
+Die netto krag vergroot
+
+OR/OF
+
+For the 8 kg box:              For the 4 kg box:
+Vir die 8 kg-blok:                                                         Vir die 4 kg-blok:
+8(9,8) sin 40º – (0,2)(8)(9,8) cos 40º - T = 8a   T – 0,2(4)(9,8) = 4a  
+50,39 – 12,01 – T = 8a …(1)    T – 7,84 = 4a    …(2)
+50,39 – 12,01 – 8a = 4a + 7,84
+a = 2,545 m.s-2 
+
+(4)
+   [20]
+
+=== page 7 ===
+Physical Sciences P1/Fisiese Wetenskappe/V1 7 DBE/November 2016
+ CAPS/KABV – Grade/Graad 11 – Memorandum
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION 5/VRAAG 5
+
+5.1 Every body in the universe attracts every other body with a force that is
+directly p roportional to the product of their masses  and inversely
+proportional to the square of the distance between their centres. 
+Elke liggaam in die heelal trek elke ander liggaam aan met ' n krag wat direk
+eweredig is aan die produk van hul massas en omgekeer d eweredig is aan
+die kwadraat van die afstand tussen hul middelpunte.
+
+(2)
+
+5.2 Weightlessness is the sensation experienced when all contact forces are
+removed.   
+Gewigloosheid is di e sensasie wat ervaar word wanneer alle kontakkragte
+verwyder word.
+
+(2)
+
+5.3
+F = 2
+21
+r
+mmG   OR/OF F = 2
+E
+E
+R
+mMG 
+  = ( )( ) 266 2411- ]10  25  10 38.6[ 380010  ,985 10 67 ,6 ×+× ××    = 1 539,23 N
+
+(4)
+
+5.4 OPTION 1/OPSIE 1
+Greater than 
+the mass is greater 
+and for the same force  the distance must also be greater 
+(because the product of the masses is directly proportional to the square of the
+distance between the centres.)
+Groter as
+Die massa is groter
+en vir dieselfde krag moet die afstand ook groter wees
+(omdat die produk van die massas direk eweredig is aan die kwadraat van die
+afstand tussen die middelpunte)
+
+(4)
+OPTION 2/OPSIE 2
+POSITIVE MARKING FROM 5.3
+POSITIEWE NASIEN VAN 5.3
+Greater than 
+Groter as
+F = 2 21RmmG
+( )( )
+2
+24
+11-
+R
+450010  ,985 10 67 ,623,1539 ××=
+
+R = 3,41 x 107 m
+
+Distance above the surface of the Earth
+Afstand bo oppervlak van Aarde
+D = 3,41 x 107 – 6,38 x 106   
+D = 2,78 x 107 m   (or 27 768 214,93 m)
+
+OPTION 3/OPSIE 3
+Greater than  
+Groter as
+2
+1
+1
+R
+mmG  = 2
+2
+2
+R
+mmG
+2
+2
+2
+2
+1
+1
+R
+m
+R
+m =
+2
+2
+2
+1 R
+4500
+R
+3800 =   
+2
+1
+2
+2 R38004500R =
+)1038,61025...(0882,1R 6622 ×+×=
+R2 = 3,41 x 107
+D = 3,41 x 107 – 6,38 x 106  
+D = 2,78 x 107 m  
+
+OR/OF
+D = 1,0882...(25 x 106)
+D = 2,78 x 107 m
+   [12]
+
+
+ 
+
+=== page 8 ===
+Physical Sciences P1/Fisiese Wetenskappe/V1 8 DBE/November 2016
+ CAPS/KABV – Grade/Graad 11 – Memorandum
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION 6/VRAAG 6
+
+6.1 The refractive index is the ratio between the speed of light in a vacuum   and
+the speed of light in a medium. 
+Die brekingsindeks is die verhouding tussen die spoed van lig in 'n vakuum
+en die spoed van lig in 'n materiaal/medium.
+
+(2)
+
+6.2
+v
+c=n   
+v
+10347,1 8×=    
+v = 2.04 x 108  m.s-1   
+
+(3)
+
+6.3 rrii θsinn=θsinn    
+1,33 sin 37°   = 1,47 sin θ  
+θ = 32,99°   
+
+(4)
+
+6.4 Olive oil has a higher optical density than water 
+Olyfolie het 'n groter optiese digtheid as water
+
+(2)
+
+6.5.1 Away from the normal  
+Weg van die normale
+ (1)
+
+6.5.2 The speed of light in air is faster than the speed of light in oil   because the
+refractive index in  oil is higher than in air .  (When a light ray speeds up it
+refracts away from the normal.)
+Die spoed van lig in lug is vinniger as die spoed van lig in olie  omdat die
+brekingsindeks in olie groter is as in  lug. (Wanneer die ligstraal vinniger
+beweeg breek dit weg van die normale.)
+
+(2)
+
+6.6.1 Oil and air
+Olie en lug
+ (1)
+
+6.6.2 One of the conditions for total internal reflection is that the light has to travel
+from a medium with high optical density   to a medium of lower optical
+density. 
+Een van die voorwaardes vir totale interne weerkaatsing is dat die lig van
+'n medium m et 'n hoë optiese digtheid na ' n medium met 'n laer optiese
+digtheid moet beweeg.
+
+(2)
+
+6.7 Wavelength   
+Golflengte
+ (1)
+   [18]
+
+=== page 9 ===
+Physical Sciences P1/Fisiese Wetenskappe/V1 9 DBE/November 2016
+ CAPS/KABV – Grade/Graad 11 – Memorandum
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION 7/VRAAG 7
+
+7.1 Every point of a wave front serves as a point source of spherical, secondary
+waves.  The positions of the new  wave front will be that of the surface
+tangent to the secondary waves.
+Elke punt van ' n golffront dien as 'n puntbron van sferiese, sekondêre golwe.
+Die posisies van die nuwe golffront sal dié van die oppervlakraaklyn tot die
+sekondêre golwe wees..
+
+(2)
+
+7.2.1 Slit width  
+Spleetwydte
+
+(1)
+
+7.2.2 Degree of diffraction  
+Mate van diffraksie
+
+(1)
+
+7.2.3 Wavelength/Frequency/Colour of light  
+Golflengte/Frekwensie/Kleur van lig
+
+(1)
+
+7.3 The greater the width of the slit, the less the degree of diffraction 
+Hoe groter die wydte van die spleet, hoe kleiner die mate van diffraksie
+OR/OF
+The smaller the width of the slit, the greater the degree of diffraction  
+Hoe kleiner die spleetwydte, hoe groter die mate van diffraksie
+
+(2)
+
+7.4.1 The bright, central band will increase  
+The coloured bands will be red instead of green  
+Die helder, sentrale band sal vergroot/toeneem
+Die gekleurde bande sal rooi in plaas van groen wees
+
+(2)
+
+7.4.2 If the wavelength increases, the degree of diffraction will increase.  
+Indien die golflengte vergroot/toeneem, sal die mate van diffraksie
+vergroot/toeneem
+OR/OF
+Degree of diffraction is directly proportional to wavelength.  
+Die mate van diffraksie is direk eweredig aan die golflengte
+
+(1)
+   [10]
+
+=== page 10 ===
+Physical Sciences P1/Fisiese Wetenskappe/V1 10 DBE/November 2016
+ CAPS/KABV – Grade/Graad 11 – Memorandum
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION 8/VRAAG 8
+
+8.1
+
+ Shape/Vorm 
+ Direction/Rigting 
+ Touching the charge, no crossing lines, etc.
+Raak aan die lading/geen lyne wat kruis, ens.
+
+(3)
+
+8.2
+2
+21
+r
+QkQF=  
+( )( )
+( )
+2
+-6-69
+0,04
+10  5 10  5 10  9F ×××=
+FY on X = 140,63 N right/regs  
+
+(4)
+
+8.3.1 No  
+Nee
+
+(1)
+
+8.3.2 The electric field is stronger closer to the charges (not a uniform field) and
+therefore not constant  which means the force will not be constant  
+Die elektriese veld is sterker nader aan die ladings (nie 'n uniforme veld nie)
+en daarom nie konstant nie wat beteken die krag sal ook nie konstant wees
+nie
+
+(2)
+
+8.4 POSITIVE MARKING FROM 8.2
+POSITIEWE NASIEN VAN 8.2
+2
+21
+r
+QkQF=
+( )( )
+( )
+2
+-6-69
+0,03
+10  5 10  4 10  9F ×××=
+FZ on X = 200 N upwards 
+
+(Fnet)2 = (FY on X)2   + (FZ on Y)2
+(Fnet)2 = 140,632  +  2002    
+Fnet = 22 20063,140 +
+Fnet = 244,49 N    
+
+(4)
+   [14]
+
+
+
+
++ -
+
+=== page 11 ===
+Physical Sciences P1/Fisiese Wetenskappe/V1 11 DBE/November 2016
+ CAPS/KABV – Grade/Graad 11 – Memorandum
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION 9/VRAAG 9
+
+9.1 θ=Φ cosBA   
+Φ = (3,2)π(0,04)2cos 0˚  
+Φ = 0,016 Wb   (or 0,02 Wb)
+
+(3)
+
+9.2 POSITIVE MARKING FROM 9.1
+POSITIEWE NASIEN VAN 9.1
+tΔ
+ΔΦN=ε   
+( )
+t
+0cos016,025cos016,02508,2 ∆ −−= 
+∆t = 0,13 s   (0,17 s if 0,02 Wb was used/ gebruik was)
+
+(4)
+
+9.3 Faraday's law.  The magnitude of the induced e mf across the ends of a
+conductor is directly proportional to the rate of change in the magnetic flux
+linkage with the conductor.  
+Faraday se wet . Die grootte van die geïnduseerde emk oor die ente van ' n
+geleier is direk eweredig aan die tempo van verandering in die magnetiese
+vloedkoppeling met die geleier.
+
+(2)
+
+9.4.1 Smaller 
+Kleiner as
+
+(2)
+
+9.4.2 The area of a square is smaller than the area of a circle with the radius equal
+to the side length of the square  
+Die oppervlakte van 'n vierkant is kleiner as die oppervlakte van ' n sirkel met
+die radius gelyk aan die sylengte van die vierkant.
+OR/OF
+0,042  <  π x 0,042  area of square is smaller than area of circle.
+0,042 < π x 0,042 oppervlakte van vierkant is kleiner as oppervlakte van sirkel.
+OR/OF
+ε directly proportional to A √
+ε direk eweredig aan A
+
+(2)
+   [12]
+ 
+
+=== page 12 ===
+Physical Sciences P1/Fisiese Wetenskappe/V1 12 DBE/November 2016
+ CAPS/KABV – Grade/Graad 11 – Memorandum
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION 10/VRAAG 10
+
+10.1 Ohm's law
+Ohm se wet
+
+(1)
+
+10.2 Graph/Grafiek
+
+ Marking criteria for graph
+Nasienkriteria vir grafiek
+
+ Axes with correct/appropriate scale
+Asse met korrekte en toepaslike skaal
+
+
+ 5 or more of the 6 coordinates correctly plotted
+(3–4 one mark only)
+5 of meer van die 6 koördinate korrek gestip
+(3–4 slegs een punt)
+
+
+ Drawing a line of best fit
+Teken 'n lyn van beste passing
+
+(4)
+
+10.3 Resistance of the parallel connection  
+Weerstand van die parallel kombinasie
+
+(1)
+
+10.4 Stay the same  
+Bly dieselfde
+
+(1)
+
+10.5 Increase  
+Toeneem
+
+(1)
+
+-0.5
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+4
+0 0.2 0.4 0.6 0.8 1 1.2 1.4 1.6
+Potenti al  di fference (V)
+Current (A)
+Graph of Potential difference versus Current
+Grafiek van Potensiaalverskil teenoor Stroom
+
+=== page 13 ===
+Physical Sciences P1/Fisiese Wetenskappe/V1 13 DBE/November 2016
+ CAPS/KABV – Grade/Graad 11 – Memorandum
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief
+
+10.6 OPTION 1/OPSIE 1
+21
+111
+RRRp
++=
+    
+6
+1
+4
+11 +=
+pR
+      
+
+Rp = 2,4 Ω
+
+I
+VRtot =
+80
+6
+,Rtot =   
+
+Rtot = 7,5 Ω
+
+R = Rtot - Rpar
+    = 7,5 – 2,4 
+    = 5,1 Ω   
+
+(5)
+ OPTION 2/OPSIE 2
+Vtot = 6 V
+VR = Vtot – V2
+      = 6 – 1,9  
+      = 4,1 V   
+I
+VR =     
+80
+14
+,
+,R =   
+
+R = 5,1 Ω   
+
+(5)
+
+10.7 VR = 6 – 2,4 = 3,6 V
+   
+)10)(1)(6,3(W =
+   
+W = 36 J  
+
+(3)
+   [16]
+
+=== page 14 ===
+Physical Sciences P1/Fisiese Wetenskappe/V1 14 DBE/November 2016
+ CAPS/KABV – Grade/Graad 11 – Memorandum
+Copyright reserved/Kopiereg voorbehou
+
+ANSWER SHEET FOR QUESTION 10.2/ANTWOORDBLAD VIR VRAAG 10.2
+
+HAND IN THIS ANSWER SHEET TOGETHER WITH THE ANSWER BOOK./
+LEWER HIERDIE ANTWOORDBLAD SAAM MET DIE ANTWOORDEBOEK IN.
+
+TOTAL/TOTAAL:  150
+
+I (A)
+V (V)
+Graph of potential difference versus current
+Grafiek van potensiaalverskil teenoor stroom
+0         0,2          0,4           0,6          0,8          1,0         1,2          1,4         1,6
+4
+
+3,5
+
+3
+
+2,5
+
+2
+
+1,5
+
+1
+
+0,5
+
+0

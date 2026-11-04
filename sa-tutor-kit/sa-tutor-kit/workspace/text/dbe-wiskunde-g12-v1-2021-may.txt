@@ -1,0 +1,426 @@
+Wiskunde/V1
+
+1
+
+DBE/2021
+SS/NSS
+
+# BASIC EDUCATION
+# DEPARTMENT OF BASIC EDUCATION
+# REPUBLIC OF SOUTH AFRICA
+
+## SENIORSERTIKAAT-EKSAMEN / NASIONALE SENIORSERTIKAAT-EKSAMEN
+
+### WISKUNDE V1
+### 2021
+
+PUNTE: 150  
+TYD: 3 uur  
+
+Hierdie vraestel bestaan uit 10 bladsye en 1 inligtingsblad.
+
+Kopiereg voorbehou
+
+Blaai om asseblief
+
+---
+
+Wiskunde/V1
+
+2
+
+DBE/2021
+SS/NSS
+
+## INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies noukeurig deur voordat die vrae beantwoord word.
+
+1. Hierdie vraestel bestaan uit 11 vrae.
+2. Beantwoord AL die vrae.
+3. Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie vraestel gebruik is.
+4. Dui ALLE berekeninge, diagramme, grafieke, ens. wat jy gebruik het om jou antwoorde te bepaal, duidelik aan.
+5. Volpunte sal NIE noodwendig aan slegs antwoorde toegeken word NIE.
+6. Jy mag 'n goedgekeurde, wetenskaplike sakrekenaar (nieprogrammeerbaar en niegrafies) gebruik, tensy anders vermeld.
+7. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders vermeld.
+8. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+9. 'n Inligtingsblad met formules is aan die einde van die vraestel ingesluit.
+10. Skryf netjies en leesbaar.
+
+Kopiereg voorbehou
+
+Blaai om asseblief
+
+---
+
+Wiskunde/V1
+
+3
+
+DBE/2021
+SS/NSS
+
+## VRAAG 1
+
+1.1 Los op vir $x$:
+
+1.1.1 $x^2 - x - 20 = 0$ (3)
+
+1.1.2 $3x^2 - 2x - 6 = 0$ (korrek tot TWEE desimale syfers) (4)
+
+1.1.3 $(x - 1)^2 > 9$ (4)
+
+1.1.4 $2\sqrt{x + 6} + 2 = x$ (4)
+
+1.2 Los gelyktydig op vir $x$ en $y$:
+
+$4x + y = 2$ en $4x + y^2 = 8$ (5)
+
+1.3 Indien dit gegee word dat $2^x \times 3^y = 24^6$, bepaal die numeriese waarde van $x - y$. (4)
+
+**[24]**
+
+## VRAAG 2
+
+2.1 Beskou die kwadratiese ry: $72; 100; 120; 132; \dots$
+
+2.1.1 Bepaal $T_n$, die $n^{\text{de}}$ term van die kwadratiese ry. (4)
+
+2.1.2 'n Term in die kwadratiese ry $72; 100; 120; 132; \dots$ is gelyk aan die twaalfde term van die ry van eerste-verskille. Bepaal die posisie van hierdie term in die kwadratiese ry. (5)
+
+2.1.3 Bepaal die maksimum waarde van die kwadratiese ry. (3)
+
+2.1.4 Bepaal die maksimum waarde van die ry: 
+$-23; 5; 25; 37; \dots$ (1)
+
+2.2 Beskou die ry: $-11; 2\sin 3x; 15; \dots$  
+Bepaal die waardes van $x$ in die interval $[0^\circ; 90^\circ]$ waarvoor die ry rekenkundig sal wees. (4)
+
+**[17]**
+
+Kopiereg voorbehou
+
+Blaai om asseblief
+
+---
+
+Wiskunde/V1
+
+4
+
+DBE/2021
+SS/NSS
+
+## VRAAG 3
+
+3.1 Indien $r = \frac{1}{5}$ en $a = 2\ 000$, bepaal:
+
+3.1.1 $T_n$, die algemene term van die reeks (1)
+
+3.1.2 $T_7$ (1)
+
+3.1.3 Watter term van die reeks 'n waarde van $\frac{16}{15\ 625}$ sal hê (3)
+
+3.2 Beskou die meetkundige reeks waar $\sum_{n=1}^{\infty} T_n = 27$ en $S_3 = 26$.
+
+Bereken die waarde van die konstante verhouding ($r$) in die reeks. (4)
+
+**[9]**
+
+## VRAAG 4
+
+Die lyne $y = x + 1$ en $y = -x - 7$ is die simmetrie-asse van die funksie $f(x) = \frac{-2}{x + p} + q$.
+
+4.1 Dui aan dat $p = 4$ en $q = -3$. (4)
+
+4.2 Bereken die $x$-afsnit van $f$. (2)
+
+4.3 Skets die grafiek van $f$. Dui AL die afsnitte met die asse en die asimptote duidelik aan. (4)
+
+**[10]**
+
+Kopiereg voorbehou
+
+Blaai om asseblief
+
+---
+
+Wiskunde/V1
+
+5
+
+DBE/2021
+SS/NSS
+
+## VRAAG 5
+
+Hieronder is die grafieke van $f(x) = -2x^2 + 4x + 16$ en $g(x) = 2x + 4$ geskets.  
+A en B is die $x$-afsnitte van $f$. C is die draaipunt van $f$.
+
+[DIAGRAM: Cartesian plane showing parabola $f(x)$ opening downwards with vertex C at the top, $x$-intercepts A and B, and a straight line $g(x)$ passing through the origin region intersecting $f$ at two points. O is the origin.]
+
+5.1 Bepaal die koördinate van A en B. (3)
+
+5.2 Bepaal die koördinate van C, die draaipunt van $f$. (2)
+
+5.3 Skryf die waardeversameling van $f$ neer. (1)
+
+5.4 Die grafiek van $h(x) = f(x + p) + q$ het 'n maksimum waarde van $15$ by $x = 2$.  
+Bepaal die waardes van $p$ en $q$. (3)
+
+5.5 Bepaal die vergelyking van $g^{-1}$, die inverse van $g$, in die vorm $y = \dots$ (2)
+
+5.6 Vir watter waarde(s) van $x$ sal $g^{-1}(x) \cdot g(x) = 0$? (2)
+
+5.7 Indien $p(x) = f(x) + k$, bepaal die waarde(s) van $k$ waarvoor $p$ en $g$ NIE sal sny NIE. (5)
+
+**[18]**
+
+Kopiereg voorbehou
+
+Blaai om asseblief
+
+---
+
+Wiskunde/V1
+
+6
+
+DBE/2021
+SS/NSS
+
+## VRAAG 6
+
+6.1 Gegee: $g(x) = 3^x$
+
+6.1.1 Skryf die vergelyking van $g^{-1}$ in die vorm $y = \dots$ neer. (2)
+
+6.1.2 Punt $\text{P}(6; 11)$ lê op $h(x) = 3^{x - 4} + 2$. Die grafiek van $h$ word getransleer om $g$ te gee. Skryf die koördinate van die beeld van $\text{P}$ op $g$ neer. (2)
+
+6.2 Die grafiek van $f(x) = 2^{x + p} + q$ is geskets. $\text{T}(3; 16)$ is 'n punt op $f$ en die asimptoot van $f$ is $y = -16$.
+
+[DIAGRAM: Cartesian plane showing an exponential graph $f$ increasing from left to right, approaching a horizontal asymptote $y = -16$ at the bottom, passing through $\text{T}(3; 16)$.]
+
+Bepaal die waardes van $p$ en $q$. (4)
+
+**[8]**
+
+## VRAAG 7
+
+7.1 'n Bedrag van $\text{R}10\ 000$ is vir 4 jaar belê en verdien rente teen $r\%$ p.j. wat kwartaalliks saamgestel word. Aan die einde van die 4 jaar was die totale bedrag in die rekening $\text{R}13\ 080$. Bepaal die waarde van $r$. (4)
+
+7.2 'n Besigheidsvrou het aan die einde van Januarie 2014, $\text{R}9\ 000$ in 'n rekening gedeponeer. Sy het aangehou om aan die einde van elke maand tot aan die einde van Desember 2018 maandelikse deposito's van $\text{R}9\ 000$ te maak. Die rekening het rente teen 'n koers van $7,5\%$ p.j. verdien, maandeliks saamgestel.
+
+7.2.1 Bereken hoeveel geld in die rekening was onmiddellik nadat $60$ deposito's gemaak is. (3)
+
+7.2.2 Die besigheidsvrou het die bedrag in VRAAG 7.2.1 bereken, vir 'n verdere $n$ maande in die rekening gelos. Die rentekoers het onveranderd gebly en geen verdere deposito's is gemaak nie. Die totale rente verdien oor die hele beleggingstydperk was $\text{R}190\ 214,14$. Bepaal die waarde van $n$. (6)
+
+**[13]**
+
+Kopiereg voorbehou
+
+Blaai om asseblief
+
+---
+
+Wiskunde/V1
+
+7
+
+DBE/2021
+SS/NSS
+
+## VRAAG 8
+
+8.1 Bepaal $f'(x)$ vanuit eerste beginsels indien dit gegee word dat $f(x) = 3x^2$. (5)
+
+8.2 Bepaal:
+
+8.2.1 $f'(x)$ indien $f(x) = x^2 - 3 + \frac{9}{x^2}$ (3)
+
+8.2.2 $g'(x)$ indien $g(x) = (\sqrt{x} + 3)(\sqrt{x} - 1)$ (4)
+
+**[12]**
+
+## VRAAG 9
+
+Die grafiek van $f(x) = 2x^3 + 3x^2 - 12x$ is hieronder geskets.  
+A en B is die draaipunte van $f$. $\text{C}(2; 4)$ is 'n punt op $f$.
+
+[DIAGRAM: Cubic graph $f$ with local maximum at A and local minimum at B, passing through the origin O and point $\text{C}(2; 4)$.]
+
+9.1 Bepaal die koördinate van A en B. (5)
+
+9.2 Vir watter waardes van $x$ sal $f$ konkaaf op wees? (3)
+
+9.3 Bepaal die vergelyking van die raaklyn aan $f$ by $\text{C}(2; 4)$. (3)
+
+**[11]**
+
+Kopiereg voorbehou
+
+Blaai om asseblief
+
+---
+
+Wiskunde/V1
+
+8
+
+DBE/2021
+SS/NSS
+
+## VRAAG 10
+
+10.1 Die grafiek van $f(x) = ax^3 + bx^2 + cx + d$ het twee draaipunte.
+
+Die volgende inligting oor $f$ word ook gegee:
+* $f(2) = 0$
+* Die $x$-as is 'n raaklyn aan die grafiek van $f$ by $x = -1$
+* $f'(1) = 0$
+* $f'\left(\frac{1}{2}\right) > 0$
+
+Sonder om die vergelyking van $f$ te bereken, gebruik hierdie inligting om 'n sketsgrafiek van $f$ te teken en dui slegs die $x$-koördinate van die $x$-afsnitte en draaipunte aan. (4)
+
+10.2 O is die middelpunt van 'n halfsirkel wat deur A, B, C en D gaan. Die radius van die halfsirkel is $(x - x^2)$ eenhede vir $0 < x < 1$. $\Delta\text{AOB}$ is reghoekig by O.
+
+[DIAGRAM: Semicircle with center O, diameter DC at the bottom. A and B are points on the semicircle. A triangle AOB is formed with $\angle \text{AOB} = 90^\circ$. The segment AB is connected, and the region between chord AB and the arc AB is shaded with vertical lines.]
+
+10.2.1 Bewys dat die area van die geskakeerde deel gegee word deur:  
+$$\text{Oppervlakte} = \left(\frac{\pi - 2}{4}\right)(x^4 - 2x^3 + x^2)$$ (5)
+
+10.2.2 Bepaal die waarde van $x$ waarvoor die geskakeerde oppervlakte 'n maksimum sal wees. (4)
+
+**[13]**
+
+Kopiereg voorbehou
+
+Blaai om asseblief
+
+---
+
+Wiskunde/V1
+
+9
+
+DBE/2021
+SS/NSS
+
+## VRAAG 11
+
+11.1 Twee gebeurtenisse, A en B, is sodanig dat:
+* Gebeurtenisse A en B onafhanklik is
+* $P(\text{nie } \text{A}) = 0,4$
+* $P(\text{B}) = 0,3$
+
+Bereken $P(\text{A en B})$. (3)
+
+11.2 'n Opname is onder 150 leerders by 'n skool gedoen.
+
+Die volgende waarnemings is gedoen:
+* Die waarskynlikheid dat 'n leerder, willekeurig gekies, sal deelneem aan:
+  * Slegs hokkie (H) is $0,24$
+  * Hokkie en debat (D), maar nie skaak (C) nie, is $0,14$
+  * Debat en skaak, maar nie hokkie nie, is $0,12$
+  * Hokkie en skaak, maar nie debat nie, is $0,02$
+* Die waarskynlikheid dat 'n leerder, willekeurig gekies, aan ten minste een aktiwiteit sal deelneem, is $0,7$.
+* 15 leerders het aan al drie aktiwiteite deelgeneem.
+* Die aantal leerders wat aan slegs debat deelneem, is dieselfde as die aantal leerders wat aan slegs skaak deelneem.
+
+Die Venn-diagram hieronder toon van die inligting hierbo.
+
+[DIAGRAM: Venn diagram with universal set S containing three intersecting circles H, D, and C. Regions are labeled with values: H only is $0,24$; H and D only is $0,14$; H and C only is $0,02$; D and C only is $0,12$; intersection of all three is $a$; region for C only is $b$; region outside all circles in S is $m$.]
+
+11.2.1 Bepaal $a$, die waarskynlikheid dat 'n leerder, willekeurig gekies, aan al drie aktiwiteite deelneem. (1)
+
+11.2.2 Bepaal $m$, die waarskynlikheid dat 'n leerder, willekeurig gekies, NIE aan enige van die drie aktiwiteite deelneem NIE. (1)
+
+11.2.3 Hoeveel leerders speel slegs skaak? (4)
+
+Kopiereg voorbehou
+
+Blaai om asseblief
+
+---
+
+Wiskunde/V1
+
+10
+
+DBE/2021
+SS/NSS
+
+11.3 'n Driesyfergetal word gevorm deur drie getalle van $0$ tot $9$ willekeurig te kies. GEEN syfer mag herhaal word NIE.
+
+11.3.1 Bepaal die totale aantal moontlike driesyfergetalle, groter as 100, wat gevorm kan word. (2)
+
+11.3.2 Bepaal die totale aantal moontlike driesyfergetalle, wat beide ewe en groter as 600 is, wat gevorm kan word. (4)
+
+**[15]**
+
+**TOTAAL: 150**
+
+Kopiereg voorbehou
+
+---
+
+Wiskunde/V1
+
+11
+
+DBE/2021
+SS/NSS
+
+## INLIGTINGSBLAD
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni)$$  
+$$A = P(1 - ni)$$  
+$$A = P(1 - i)^n$$  
+$$A = P(1 + i)^n$$
+
+$$T_n = a + (n - 1)d$$  
+$$S_n = \frac{n}{2}[2a + (n - 1)d]$$
+
+$$T_n = ar^{n-1}$$  
+$$S_n = \frac{a(r^n - 1)}{r - 1} \quad ; \quad r \neq 1$$  
+$$S_\infty = \frac{a}{1 - r} \quad ; \quad -1 < r < 1$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i}$$  
+$$P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$  
+$$M\left(\frac{x_1 + x_2}{2}; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c$$  
+$$y - y_1 = m(x - x_1)$$  
+$$m = \frac{y_2 - y_1}{x_2 - x_1}$$  
+$$m = \tan \theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+$$\text{In } \Delta ABC: \frac{\sin A}{a} = \frac{\sin B}{b} = \frac{\sin C}{c}$$  
+$$a^2 = b^2 + c^2 - 2bc \cos A$$  
+$$\text{area } \Delta ABC = \frac{1}{2}ab \sin C$$
+
+$$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta$$  
+$$\sin(\alpha - \beta) = \sin \alpha \cos \beta - \cos \alpha \sin \beta$$  
+$$\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta$$  
+$$\cos(\alpha - \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2 \alpha - \sin^2 \alpha \\ 1 - 2\sin^2 \alpha \\ 2\cos^2 \alpha - 1 \end{cases}$$  
+$$\sin 2\alpha = 2\sin \alpha \cos \alpha$$
+
+$$\bar{x} = \frac{\sum x}{n}$$  
+$$\sigma^2 = \frac{\sum_{i=1}^{n}(x_i - \bar{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)}$$  
+$$P(\text{A of B}) = P(A) + P(B) - P(\text{A en B})$$
+
+$$\hat{y} = a + bx$$  
+$$b = \frac{\sum(x - \bar{x})(y - \bar{y})}{\sum(x - \bar{x})^2}$$
+
+Kopiereg voorbehou

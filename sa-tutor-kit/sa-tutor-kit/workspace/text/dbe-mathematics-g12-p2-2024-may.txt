@@ -1,0 +1,364 @@
+**Confidential**
+
+**basic education**  
+Department:  
+Basic Education  
+REPUBLIC OF SOUTH AFRICA  
+
+---
+
+**SENIOR CERTIFICATE EXAMINATIONS /**  
+**NATIONAL SENIOR CERTIFICATE EXAMINATIONS**  
+
+**MATHEMATICS P2**  
+
+**MAY/JUNE 2024**  
+
+**MARKS: 150**  
+**TIME: 3 hours**  
+
+This question paper consists of 12 pages, 1 information sheet and an answer book of 23 pages.
+
+---
+
+Copyright reserved  
+Please turn over
+
+---
+
+### INSTRUCTIONS AND INFORMATION
+
+Read the following instructions carefully before answering the questions.
+
+1. This question paper consists of 10 questions.
+2. Answer ALL the questions in the SPECIAL ANSWER BOOK provided.
+3. Clearly show ALL calculations, diagrams, graphs, etc. which you have used in determining your answers.
+4. Answers only will NOT necessarily be awarded full marks.
+5. You may use an approved scientific calculator (non-programmable and non-graphical), unless stated otherwise.
+6. If necessary, round off answers correct to TWO decimal places, unless stated otherwise.
+7. Diagrams are NOT necessarily drawn to scale.
+8. An information sheet with formulae is included at the end of the question paper.
+9. Write neatly and legibly.
+
+---
+
+Copyright reserved  
+Please turn over
+
+---
+
+### QUESTION 1
+
+The number of pages in ten A4 books and their corresponding weights (in grams) are given in the table below. The data is also represented in the scatter plot.
+
+| Number of pages ($x$) | 85 | 150 | 100 | 120 | 90 | 140 | 135 | 105 | 115 | 160 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Weight (in grams) ($y$) | 165 | 325 | 200 | 250 | 180 | 285 | 250 | 170 | 230 | 340 |
+
+[DIAGRAM: Scatter plot showing Weight (in grams) on the vertical axis (from 0 to 400) and Number of pages on the horizontal axis (from 0 to 180). Ten data points are plotted showing an upward linear trend.]
+
+1.1 Determine the equation of the least squares regression line. (3)
+
+1.2 Draw the least squares regression line on the scatter plot in the ANSWER BOOK. (2)
+
+1.3 Predict the weight of an A4 book that has $110$ pages. (2)
+
+1.4 Calculate the percentage weight increase between a book with $110$ pages and a book with $130$ pages. (3)
+
+**[10]**
+
+---
+
+Copyright reserved  
+Please turn over
+
+---
+
+### QUESTION 2
+
+Fifty athletes need to access suitable training facilities. The table below shows the distances, in km, that they need to travel to obtain access to suitable training facilities.
+
+| DISTANCE ($x$ km) | NUMBER OF ATHLETES |
+| :---: | :---: |
+| $0 \le x < 5$ | 3 |
+| $5 \le x < 10$ | 7 |
+| $10 \le x < 15$ | 20 |
+| $15 \le x < 20$ | 12 |
+| $20 \le x < 25$ | 5 |
+| $25 \le x < 30$ | 3 |
+
+2.1 Complete the cumulative frequency column provided in the table in the ANSWER BOOK. (2)
+
+2.2 On the grid provided in the ANSWER BOOK, draw a cumulative frequency graph (ogive) to represent the above data. (3)
+
+2.3 Calculate the interquartile range (IQR) of the above data. (2)
+
+2.4 The families of $4$ of the athletes above who stay between $15$ and $20\text{ km}$ from a suitable training facility, decide to move $10\text{ kilometres}$ closer to the facility. In which interval will the number of athletes increase? (1)
+
+2.5 Calculate the estimated mean distance that the fifty athletes need to travel after the $4$ families have moved $10\text{ kilometres}$ closer to the facility. Clearly show ALL working. (3)
+
+**[11]**
+
+---
+
+Copyright reserved  
+Please turn over
+
+---
+
+### QUESTION 3
+
+In the diagram, $A(3; 4)$, $B$ and $C$ are vertices of $\triangle ABC$. $AB$ is produced to $S$. $D$ and $F$ are the $x$- and $y$-intercepts of $AC$ respectively. $F$ is the midpoint of $AC$ and the angle of inclination of $AC$ is $\alpha$. The equation of $AB$ is $y = kx + 3$ and the equation of $AC$ is $y = 2x - 2$.
+
+[DIAGRAM: Cartesian plane showing triangle $ABC$ with vertices $A(3;4)$, $B$, and $C$. Line $AB$ is produced to $S$ with equation $y = kx + 3$. Line $AC$ has equation $y = 2x - 2$, angle of inclination $\alpha$, $x$-intercept $D$, and $y$-intercept $F$. $F$ is the midpoint of $AC$.]
+
+3.1 Show that $k = -\frac{1}{3}$. (1)
+
+3.2 Calculate the coordinates of $B$, the $x$-intercept of line $AS$. (2)
+
+3.3 Calculate the coordinates of $C$. (4)
+
+3.4 Determine the equation of the line parallel to $BC$ and passing through $S(-15; -2)$. Write your answer in the form $y = mx + c$. (5)
+
+3.5 Calculate the size of $\widehat{BAC}$. (5)
+
+3.6 If it is further given that the length of $AC$ is $6\sqrt{5}\text{ units}$, calculate the value of $\frac{\text{Area of }\triangle ABD}{\text{Area of }\triangle ASC}$. (5)
+
+**[22]**
+
+---
+
+Copyright reserved  
+Please turn over
+
+---
+
+### QUESTION 4
+
+In the diagram, the circle centred at $C(2; p)$ is drawn. $A(5; 1)$ and $B(-3; -3)$ are points on the circle. $E$ is the midpoint of $AB$.
+
+[DIAGRAM: A circle with centre $C(2; p)$ passes through points $A(5; 1)$ and $B(-3; -3)$. $E$ is the midpoint of chord $AB$. Coordinate axes are shown.]
+
+4.1 Calculate the coordinates of $E$, the midpoint of $AB$. (2)
+
+4.2 Calculate the length of $AB$. Leave your answer in surd form. (1)
+
+4.3 Determine the equation of the perpendicular bisector of $AB$ in the form $y = mx + c$. (4)
+
+4.4 Show that $p = -3$. (1)
+
+4.5 Show, by calculation, that the equation of the circle is $x^2 + y^2 - 4x + 6y - 12 = 0$. (4)
+
+4.6 Calculate the values of $t$ for which the straight line $y = tx + 8$ will not intersect the circle. (6)
+
+**[18]**
+
+---
+
+Copyright reserved  
+Please turn over
+
+---
+
+### QUESTION 5
+
+5.1 If $\sin 40^\circ = p$, write EACH of the following in terms of $p$.
+
+5.1.1 $\sin 220^\circ$ (2)
+
+5.1.2 $\cos^2 50^\circ$ (2)
+
+5.1.3 $\cos(-80^\circ)$ (3)
+
+5.2 Given: $\tan x (1 - \cos^2 x) + \cos^2 x = \frac{(\sin x + \cos x)(1 - \sin x \cos x)}{\cos x}$
+
+5.2.1 Prove the above identity. (5)
+
+5.2.2 For which values of $x$, in the interval $x \in [-180^\circ; 180^\circ]$, will the identity be undefined? (3)
+
+5.3 Given the expression: $\frac{\sin 150^\circ + \cos^2 x - 1}{2}$
+
+5.3.1 Without using a calculator, simplify the expression given above to a single trigonometric term in terms of $\cos 2x$. (6)
+
+5.3.2 Hence, determine the general solution of $\frac{\sin 150^\circ + \cos^2 x - 1}{2} = \frac{1}{25}$. (5)
+
+**[26]**
+
+---
+
+Copyright reserved  
+Please turn over
+
+---
+
+### QUESTION 6
+
+In the diagram, the graphs of $f(x) = \cos(x + a)$ and $g(x) = \sin 2x$ are drawn for the interval $x \in [-180^\circ; 180^\circ]$. The graphs intersect at $N(-75^\circ; k)$, $P(45^\circ; 1)$ and $Q(165^\circ; k)$. $P$ is also a turning point of both graphs.
+
+[DIAGRAM: Graphs of $f(x) = \cos(x + a)$ and $g(x) = \sin 2x$ on the interval $[-180^\circ, 180^\circ]$. $P(45^\circ; 1)$ is a maximum turning point for both. $N(-75^\circ; k)$ and $Q(165^\circ; k)$ are intersection points.]
+
+6.1 Write down the period of $f$. (1)
+
+6.2 Write down the amplitude of $g$. (1)
+
+6.3 Write down the value of $a$. (1)
+
+6.4 Calculate the value of $k$, the $y$-coordinate of $N$ and $Q$, without the use of a calculator. (2)
+
+6.5 Calculate the value of $x$ if $g(x + 60^\circ) = f(x + 60^\circ)$ and $x \in [-45^\circ; 0^\circ]$. (1)
+
+6.6 Without using a calculator, determine the number of solutions the equation $\sqrt{2}\sin 2x = \sin x + \cos x$ has in the interval $x \in [-90^\circ; 90^\circ]$. Clearly show ALL working. (4)
+
+**[10]**
+
+---
+
+Copyright reserved  
+Please turn over
+
+---
+
+### QUESTION 7
+
+7.1 In the diagram, $\triangle ABC$ is drawn. $AD$ is drawn such that $AD \perp BC$.
+
+[DIAGRAM: Triangle $ABC$ with altitude $AD \perp BC$.]
+
+7.1.1 Use the diagram above to determine $AD$ in terms of $\sin \widehat{B}$ (2)
+
+7.1.2 Hence, prove that the area of $\triangle ABC = \frac{1}{2}(BC)(AB)\sin \widehat{B}$ (1)
+
+7.2 In the diagram, points $B$, $C$ and $D$ lie in the same horizontal plane. $\widehat{ADB} = \widehat{ACB} = \alpha$, $\widehat{CDB} = \theta$ and $DC = k\text{ units}$. $BD = BC$.
+
+[DIAGRAM: Three-dimensional figure showing a triangle base $BDC$ where $DC = k$, $\widehat{CDB} = \theta$, and sides $AD$ and $AC$ such that $\widehat{ADB} = \widehat{ACB} = \alpha$. $BD = BC$.]
+
+7.2.1 Prove that $AD = AC$ (2)
+
+7.2.2 Prove that $BD = \frac{k}{2\cos \theta}$ (3)
+
+7.2.3 Determine the area of $ABCD$ in terms of $k$ and a single trigonometric ratio of $\theta$. (3)
+
+**[11]**
+
+---
+
+Copyright reserved  
+Please turn over
+
+---
+
+### QUESTION 8
+
+8.1 In the diagram, chords $AB$, $BC$ and $AC$ are drawn in the circle with centre $O$. $DCE$ is a tangent to the circle at $C$.
+
+[DIAGRAM: Circle with centre $O$, chords $AB$, $BC$, $AC$. $DCE$ is a tangent at $C$.]
+
+Prove the theorem which states that the angle between the tangent to a circle and the chord drawn from the point of contact is equal to the angle in the alternate segment, i.e. $\widehat{BCE} = \widehat{A}$. (5)
+
+8.2 In the diagram, $PQRS$ is a cyclic quadrilateral with $RQ = RS$. $ST$ is a tangent to the circle at $S$. $SR$ is produced to $N$. $\widehat{R}_2 = 68^\circ$.
+
+[DIAGRAM: Cyclic quadrilateral $PQRS$ with $RQ = RS$. $ST$ is tangent at $S$. $SR$ produced to $N$, with $\widehat{R}_2 = 68^\circ$. Marked angles include $\widehat{S}_1, \widehat{S}_2, \widehat{S}_3, \widehat{R}_1, \widehat{R}_2, \widehat{Q}_1, \widehat{Q}_2, \widehat{P}$.]
+
+Determine, with reasons, the size of:
+
+8.2.1 $\widehat{P}$ (2)
+
+8.2.2 $\widehat{Q}_1$ (2)
+
+8.2.3 $\widehat{S}_1$ (2)
+
+**[11]**
+
+---
+
+Copyright reserved  
+Please turn over
+
+---
+
+### QUESTION 9
+
+In the diagram, $AB$ is a diameter of the circle, with centre $F$. $AB$ and $CD$ intersect at $G$. $FD$ and $FC$ are drawn. $BA$ bisects $\widehat{CAD}$ and $\widehat{D}_1 = 37^\circ$.
+
+[DIAGRAM: Circle with diameter $AB$ and centre $F$. Chords $AB$ and $CD$ intersect at $G$. Radii/lines $FD$ and $FC$ are drawn. $BA$ bisects $\widehat{CAD}$. $\widehat{D}_1 = 37^\circ$. Angles labeled: $\widehat{D}_1, \widehat{D}_2, \widehat{D}_3, \widehat{G}_1, \widehat{G}_2, \widehat{C}_1, \widehat{C}_2, \widehat{F}_1, \widehat{F}_2, \widehat{F}_3, \widehat{F}_4, \widehat{A}_1, \widehat{A}_2$.]
+
+9.1 Determine, giving reasons, any three other angles equal to $\widehat{D}_1$. (4)
+
+9.2 Show that $DG = GC$. (4)
+
+9.3 If it is further given that the radius of the circle is $20\text{ units}$, calculate the length of $BG$. (4)
+
+**[12]**
+
+---
+
+Copyright reserved  
+Please turn over
+
+---
+
+### QUESTION 10
+
+In the diagram, $COD$ is the diameter of the circle with centre $O$. $EA$ is a tangent to the circle at $F$. $AO \perp CE$. Diameter $COD$ produced intersects the tangent to the circle at $E$. $OB$ produced intersects the tangent to the circle at $A$. $CF$ intersects $OB$ in $T$. $CB$, $BD$, $OF$ and $FD$ are drawn.
+
+[DIAGRAM: Circle with diameter $COD$ and centre $O$. Tangent $EA$ touches at $F$. $AO \perp CE$. $COD$ produced meets tangent at $E$. $OB$ produced meets tangent at $A$. $CF$ intersects $OB$ at $T$. Chords $CB$, $BD$, $OF$, and $FD$ are drawn.]
+
+Prove, with reasons, that:
+
+10.1 $TODF$ is a cyclic quadrilateral (4)
+
+10.2 $\widehat{D}_3 = \widehat{T}_1$ (3)
+
+10.3 $\triangle ATFO \parallel\parallel\parallel \triangle ADFE$ (5)
+
+10.4 If $\widehat{B}_2 = \widehat{E}$, prove that $DB \parallel EA$. (2)
+
+10.5 Prove that $DO = \frac{TO \cdot FE}{AB}$ (5)
+
+**[19]**
+
+**TOTAL: 150**
+
+---
+
+Copyright reserved
+
+---
+
+### INFORMATION SHEET
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni) \quad A = P(1 - ni) \quad A = P(1 - i)^n \quad A = P(1 + i)^n$$
+
+$$T_n = a + (n - 1)d \quad S_n = \frac{n}{2}[2a + (n - 1)d]$$
+
+$$T_n = ar^{n-1} \quad S_n = \frac{a(r^n - 1)}{r - 1} \quad (r \neq 1) \quad S_\infty = \frac{a}{1 - r} \quad (-1 < r < 1)$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i} \quad P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} \quad M\left(\frac{x_1 + x_2}{2}; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c \quad y - y_1 = m(x - x_1) \quad m = \frac{y_2 - y_1}{x_2 - x_1} \quad m = \tan \theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+$$\text{In }\triangle ABC: \quad \frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}$$
+
+$$a^2 = b^2 + c^2 - 2bc \cos A$$
+
+$$\text{area } \triangle ABC = \frac{1}{2}ab \sin C$$
+
+$$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta \quad \sin(\alpha - \beta) = \sin \alpha \cos \beta - \cos \alpha \sin \beta$$
+
+$$\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta \quad \cos(\alpha - \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2 \alpha - \sin^2 \alpha \\ 1 - 2\sin^2 \alpha \\ 2\cos^2 \alpha - 1 \end{cases} \quad \sin 2\alpha = 2\sin \alpha \cos \alpha$$
+
+$$\bar{x} = \frac{\sum x}{n} \quad \sigma^2 = \frac{\sum_{i=1}^n (x_i - \bar{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)} \quad P(A \text{ or } B) = P(A) + P(B) - P(A \text{ and } B)$$
+
+$$\hat{y} = a + bx \quad b = \frac{\sum(x - \bar{x})(y - \bar{y})}{\sum(x - \bar{x})^2}$$

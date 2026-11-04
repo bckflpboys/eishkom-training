@@ -1,0 +1,418 @@
+Wiskunde/V2
+2
+NSS
+DBE/November 2022
+
+# INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies noukeurig deur voordat die vraestel beantwoord word.
+
+1. Hierdie vraestel bestaan uit 10 vrae.
+2. Beantwoord AL die vrae in die SPESIALE ANTWOORDEBOEK wat verskaf word.
+3. Dui ALLE berekeninge, diagramme, grafieke, ens. wat jy in die beantwoording van die vrae gebruik, duidelik aan.
+4. Slegs antwoorde sal NIE noodwendig volpunte verdien NIE.
+5. Jy mag 'n goedgekeurde wetenskaplike sakrekenaar gebruik (nieprogrammeerbaar en niegrafies), tensy anders vermeld.
+6. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders vermeld.
+7. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+8. 'n Inligtingsblad met formules is aan die einde van die vraestel ingesluit.
+9. Skryf netjies en leesbaar.
+
+Kopiereg voorbehoud
+Blaai om asseblief
+
+---
+
+Wiskunde/V2
+3
+NSS
+DBE/November 2022
+
+# VRAAG 1
+
+Die matriekklas van 'n sekere hoërskool moes vir die voorsitter van die VRL (verteenwoordigende raad van leerders) stem. Die spreidiagram hieronder toon die IK (intelligensiekwosiënt) van die 10 leerders wat die meeste stemme gekry het en die getal stemme wat hulle gekry het.
+
+[DIAGRAM: SPREIDIAGRAM showing Getal stemme (y) from 5 to 25 vs Intelligensiekwosiënt (IK) from 98 to 123. Scatter points plotted representing 10 learners.]
+
+Voor die verkiesing is die gewildheid van elk van hierdie tien leerders bepaal en 'n gewildheidspunt (uit 100) is aan elkeen toegeken. Die gewildheidspunt en die getal stemme van dieselfde 10 leerders wat die meeste stemme gekry het, word in die tabel hieronder getoon.
+
+$$\begin{array}{|l|c|c|c|c|c|c|c|c|c|c|}
+\hline
+\text{Gewildheidspunt } (x) & 32 & 89 & 35 & 82 & 50 & 59 & 81 & 40 & 79 & 65 \\
+\hline
+\text{Getal stemme } (y) & 9 & 22 & 10 & 21 & 11 & 15 & 20 & 12 & 19 & 16 \\
+\hline
+\end{array}$$
+
+1.1 Bereken die:
+
+1.1.1 Gemiddelde getal stemme wat hierdie 10 leerders gekry het (2)
+
+1.1.2 Standaardafwyking van die getal stemme wat hierdie 10 leerders gekry het (1)
+
+1.2 Die leerders wat minder stemme as een standaardafwyking onder die gemiddelde gekry het, is nie vir 'n onderhoud genooi nie. Hoeveel leerders is genooi? (2)
+
+1.3 Bepaal die vergelyking van die kleinstekwadrate-regressielyn vir die data wat in die tabel gegee is. (3)
+
+1.4 Voorspel die aantal stemme wat 'n leerder met 'n gewildheidspunt van 72 sal ontvang. (2)
+
+1.5 Gebruik die spreidiagram en tabel hierbo om 'n rede te verskaf waarom:
+
+1.5.1 IK nie 'n goeie aanduider is van die aantal stemme wat 'n leerder kan ontvang nie (1)
+
+1.5.2 Die voorspelling in VRAAG 1.4 betroubaar is (1)
+[12]
+
+Kopiereg voorbehoud
+Blaai om asseblief
+
+---
+
+Wiskunde/V2
+4
+NSS
+DBE/November 2022
+
+# VRAAG 2
+
+'n Maatskappy het navorsing onder al hulle werknemers gedoen oor watter persentasie van hulle maandelikse salaris in 'n sekere maand aan brandstof spandeer is. Die data word in die ogief (kumulatiewe frekwensiegrafiek) hieronder voorgestel.
+
+[DIAGRAM: OGIEF showing Kumulatiewe frekwensie from 0 to 70 vs Persentasie van salaris op brandstof spandeer from 5 to 35. S-curve starting near (5,0) and leveling off at around (35,60).]
+
+2.1 Hoeveel mense werk by hierdie maatskappy? (1)
+
+2.2 Skryf die modale klas van die data neer. (1)
+
+2.3 Hoeveel werknemers het meer as $22,5\%$ van hulle maandelikse salaris aan brandstof spandeer? (2)
+
+2.4 'n Werknemer het $\text{R}2\,400$ van sy salaris aan brandstof in hierdie spesifieke maand spandeer. Bepaal die maandelikse salaris van hierdie werknemer indien hy $7\%$ van sy salaris aan brandstof spandeer. (2)
+
+2.5 Die maandelikse salarisse van hierdie werknemers bly konstant en die getal liter brandstof gebruik in elke maand bly ook konstant. Indien die brandstofprys aan die begin van die volgende maand van $\text{R}21,43$ per liter na $\text{R}22,79$ per liter styg, hoe sal die ogief hierbo verander? (2)
+[8]
+
+Kopiereg voorbehoud
+Blaai om asseblief
+
+---
+
+Wiskunde/V2
+5
+NSS
+DBE/November 2022
+
+# VRAAG 3
+
+In die diagram is $\text{A}(4; 2)$, $\text{B}(6; -4)$ en $\text{C}(-2; -3)$ hoekpunte van $\triangle\text{ABC}$. $\text{T}$ is die middelpunt van $\text{CB}$. Die vergelyking van lyn $\text{AC}$ is $5x - 6y = 8$. Die inklinasiehoek van $\text{AB}$ is $\alpha$. $\triangle\text{DCT}$ word getrek sodanig dat $\text{CD} \parallel \text{BA}$. Die lyne $\text{AC}$ en $\text{DT}$ sny mekaar by $\text{S}$, die $y$-afsnit van $\text{AC}$. $\text{P}$, $\text{F}$ en $\text{R}$ is onderskeidelik die $x$-afsnitte van $\text{DC}$, $\text{AC}$ en $\text{AB}$.
+
+[DIAGRAM: Cartesian plane showing $\triangle\text{ABC}$, line $\text{DC}$ parallel to $\text{AB}$, intersection point $\text{S}$ of $\text{AC}$ and $\text{DT}$, midpoint $\text{T}$ of $\text{CB}$. $\text{A}(4;2)$, $\text{B}(6;-4)$, $\text{C}(-2;-3)$. Angle $\alpha$ at $\text{R}$.]
+
+3.1 Bereken die:
+
+3.1.1 Gradiënt van $\text{AB}$ (2)
+
+3.1.2 Grootte van $\alpha$ (2)
+
+3.1.3 Koördinate van $\text{T}$ (2)
+
+3.1.4 Koördinate van $\text{S}$ (2)
+
+3.2 Bepaal die vergelyking van $\text{CD}$ in die vorm $y = mx + c$. (3)
+
+3.3 Bereken die:
+
+3.3.1 Grootte van $\text{D\hat{C}A}$ (4)
+
+3.3.2 Oppervlakte van $\text{POSC}$ (5)
+[20]
+
+Kopiereg voorbehoud
+Blaai om asseblief
+
+---
+
+Wiskunde/V2
+6
+NSS
+DBE/November 2022
+
+# VRAAG 4
+
+In die diagram is $\text{M}(3; -5)$ die middelpunt van die sirkel met middellyn $\text{PN}$. $\text{KL}$ is 'n raaklyn aan die sirkel by $\text{N}(7; -2)$.
+
+[DIAGRAM: Circle with center $\text{M}(3; -5)$, diameter $\text{PN}$, tangent $\text{KL}$ at $\text{N}(7; -2)$.]
+
+4.1 Bereken die koördinate van $\text{P}$. (2)
+
+4.2 Bepaal die vergelyking van:
+
+4.2.1 Die sirkel in die vorm $(x - a)^2 + (y - b)^2 = r^2$ (3)
+
+4.2.2 $\text{KL}$ in die vorm $y = mx + c$ (5)
+
+4.3 Vir watter waardes van $k$ sal $y = -\frac{4}{3}x + k$ 'n snilyn van die sirkel wees? (4)
+
+4.4 Punte $\text{A}(t; t)$ en $\text{B}$ word nie op die diagram getoon nie.
+
+Vanaf punt $\text{A}$ word 'n ander raaklyn aan die sirkel met middelpunt $\text{M}$ getrek om by $\text{B}$ te raak.
+
+4.4.1 Toon dat die lengte van raaklyn $\text{AB}$ gegee word deur $\sqrt{2t^2 + 4t + 9}$. (2)
+
+4.4.2 Bepaal die minimum lengte van $\text{AB}$. (4)
+[20]
+
+Kopiereg voorbehoud
+Blaai om asseblief
+
+---
+
+Wiskunde/V2
+7
+NSS
+DBE/November 2022
+
+# VRAAG 5
+
+5.1 Gegee dat $\sqrt{13}\sin x + 3 = 0$, waar $x \in (90^\circ; 270^\circ)$.
+
+Sonder die gebruik van 'n sakrekenaar, bepaal die waarde van:
+
+5.1.1 $\sin(360^\circ + x)$ (2)
+
+5.1.2 $\tan x$ (3)
+
+5.1.3 $\cos(180^\circ + x)$ (2)
+
+5.2 Bepaal die waarde van die volgende uitdrukking, sonder die gebruik van 'n sakrekenaar:
+$$\frac{\cos(90^\circ + \theta)}{\sin(\theta - 180^\circ) + 3\sin(-\theta)}$$ (5)
+
+5.3 Bepaal die algemene oplossing van die volgende vergelyking:
+$$(\cos x + 2\sin x)(3\sin 2x - 1) = 0$$ (6)
+
+5.4 Gegee die identiteit: $\cos(x + y)\cos(x - y) = 1 - \sin^2 x - \sin^2 y$
+
+5.4.1 Bewys die identiteit. (4)
+
+5.4.2 Bepaal vervolgens die waarde van $1 - \sin^2 45^\circ - \sin^2 15^\circ$, sonder die gebruik van 'n sakrekenaar. (3)
+
+5.5 Beskou die trigonometriese uitdrukking: $16\sin x\cos^3 x - 8\sin x\cos x$
+
+5.5.1 Herskryf die uitdrukking as 'n enkele trigonometriese verhouding. (4)
+
+5.5.2 Vir watter waarde van $x$ in die interval $x \in [0^\circ; 90^\circ]$ sal $16\sin x\cos^3 x - 8\sin x\cos x$ 'n minimum waarde hê? (1)
+[30]
+
+Kopiereg voorbehoud
+Blaai om asseblief
+
+---
+
+Wiskunde/V2
+8
+NSS
+DBE/November 2022
+
+# VRAAG 6
+
+In die diagram hieronder is die grafieke van $f(x) = \tan x$ en $g(x) = 2\sin 2x$ vir die interval $x \in [-180^\circ; 180^\circ]$ geskets. $\text{A}(60^\circ; k)$ en $\text{B}$ is twee snypunte van $f$ en $g$.
+
+[DIAGRAM: Graphs of $f(x) = \tan x$ (dashed asymptotes at $-90^\circ, 90^\circ$) and $g(x) = 2\sin 2x$ plotted for $x \in [-180^\circ, 180^\circ]$. Intersection points $\text{A}(60^\circ; k)$ and $\text{B}$ shown.]
+
+6.1 Skryf die periode van $g$ neer. (1)
+
+6.2 Bereken die:
+
+6.2.1 Waarde van $k$ (1)
+
+6.2.2 Koördinate van $\text{B}$ (1)
+
+6.3 Skryf die waardeversameling van $2g(x)$ neer. (2)
+
+6.4 Vir watter waardes van $x$ sal $g(x + 5^\circ) - f(x + 5^\circ) \le 0$ in die interval $x \in [-90^\circ; 0^\circ]$? (2)
+
+6.5 Bepaal die waardes van $p$ waarvoor $\sin x\cos x = p$ presies twee reële wortels in die interval $x \in [-180^\circ; 180^\circ]$ sal hê. (3)
+[10]
+
+Kopiereg voorbehoud
+Blaai om asseblief
+
+---
+
+Wiskunde/V2
+9
+NSS
+DBE/November 2022
+
+# VRAAG 7
+
+$\text{AB}$ is 'n vertikale vlagpaal wat $\sqrt{5}p$ meter lank is. $\text{AC}$ en $\text{AD}$ is twee kabels wat die vlagpaal anker. $\text{B}$, $\text{C}$ en $\text{D}$ is in dieselfde horisontale vlak.
+$\text{BD} = 2p$ meter, $\text{A\hat{C}D} = x$ en $\text{A\hat{D}C} = 45^\circ$.
+
+[DIAGRAM: 3D diagram showing vertical flagpole $\text{AB} = \sqrt{5}p$, base connected to $\text{C}$ and $\text{D}$ on a horizontal plane. $\text{BD} = 2p$, $\text{A\hat{C}D} = x$, $\text{A\hat{D}C} = 45^\circ$.]
+
+7.1 Bepaal die lengte van $\text{AD}$ in terme van $p$. (2)
+
+7.2 Toon dat die lengte van $\text{CD} = \frac{3p(\sin x + \cos x)}{\sqrt{2}\sin x}$. (5)
+
+7.3 Indien dit verder gegee word dat $p = 10$ en $x = 110^\circ$, bereken die oppervlakte van $\triangle\text{ADC}$. (3)
+[10]
+
+Kopiereg voorbehoud
+Blaai om asseblief
+
+---
+
+Wiskunde/V2
+10
+NSS
+DBE/November 2022
+
+# VRAAG 8
+
+8.1 In die diagram is $\text{O}$ die middelpunt van die sirkel. $\text{MNPR}$ is 'n koordevierhoek en $\text{SN}$ is 'n middellyn van die sirkel. Koord $\text{MS}$ en radius $\text{OR}$ is getrek. $\hat{\text{M}}_2 = 64^\circ$.
+
+[DIAGRAM: Circle with center $\text{O}$, diameter $\text{SN}$, cyclic quadrilateral $\text{MNPR}$, chord $\text{MS}$, radius $\text{OR}$. $\hat{\text{M}}_2 = 64^\circ$.]
+
+Bepaal, met redes, die grootte van die volgende hoeke:
+
+8.1.1 $\hat{\text{P}}$ (2)
+
+8.1.2 $\hat{\text{M}}_1$ (2)
+
+8.1.3 $\hat{\text{O}}_1$ (2)
+
+Kopiereg voorbehoud
+Blaai om asseblief
+
+---
+
+Wiskunde/V2
+11
+NSS
+DBE/November 2022
+
+8.2 In die diagram is $\triangle\text{ABG}$ geskets. $\text{D}$ en $\text{E}$ is middelpunte van $\text{AB}$ en $\text{AG}$ onderskeidelik. $\text{AG}$ en $\text{BG}$ word na $\text{C}$ en $\text{H}$ onderskeidelik verleng. $\text{F}$ is 'n punt op $\text{BC}$ sodanig dat $\text{FG} \parallel \text{CH}$.
+
+[DIAGRAM: Triangle $\text{ABG}$ with midpoints $\text{D}$ on $\text{AB}$ and $\text{E}$ on $\text{AG}$. $\text{AG}$ extended to $\text{C}$, $\text{BG}$ extended to $\text{H}$. $\text{FG} \parallel \text{CH}$ with $\text{F}$ on $\text{BC}$.]
+
+8.2.1 Gee 'n rede waarom $\text{DE} \parallel \text{BH}$. (1)
+
+8.2.2 Indien dit verder gegee word dat $\frac{\text{FC}}{\text{BF}} = \frac{1}{4}$, $\text{DE} = 3x - 1$ en $\text{GH} = x + 1$, bereken, met redes, die waarde van $x$. (6)
+[13]
+
+Kopiereg voorbehoud
+Blaai om asseblief
+
+---
+
+Wiskunde/V2
+12
+NSS
+DBE/November 2022
+
+# VRAAG 9
+
+9.1 In die diagram is $\text{O}$ die middelpunt van 'n sirkel. $\text{OD}$ halveer koord $\text{AB}$.
+
+[DIAGRAM: Circle with center $\text{O}$, chord $\text{AB}$, bisected by $\text{OD}$ such that $\text{OD} \perp \text{AB}$.]
+
+Bewys die stelling wat beweer dat die lyn wat vanaf die middelpunt van 'n sirkel getrek word en 'n koord halveer, loodreg op die koord is, met ander woorde $\text{OD} \perp \text{AB}$. (5)
+
+9.2 In die diagram is $\text{E}$, $\text{B}$, $\text{F}$, $\text{S}$ en $\text{P}$ punte op die sirkel met middelpunt $\text{O}$. $\text{GB}$ is 'n raaklyn aan die sirkel by $\text{B}$. $\text{FE}$ word verleng om die raaklyn by $\text{G}$ te ontmoet. $\text{OT}$ is getrek sodanig dat $\text{T}$ die middelpunt van $\text{EF}$ is. $\text{GO}$ en $\text{BO}$ is getrek. $\text{BS}$ is deur $\text{T}$ getrek. $\text{PS} \parallel \text{GF}$.
+
+[DIAGRAM: Circle with center $\text{O}$, points $\text{E, B, F, S, P}$ on circumference. Tangent $\text{GB}$ at $\text{B}$. $\text{FE}$ extended to $\text{G}$. $\text{OT} \perp \text{EF}$ at midpoint $\text{T}$. $\text{GO, BO}$ drawn. $\text{BS}$ passes through $\text{T}$. $\text{PS} \parallel \text{GF}$.]
+
+Bewys, met redes, dat:
+
+9.2.1 $\text{OTBG}$ 'n koordevierhoek is (5)
+
+9.2.2 $\text{G\hat{O}B} = \hat{\text{S}}$ (4)
+[14]
+
+Kopiereg voorbehoud
+Blaai om asseblief
+
+---
+
+Wiskunde/V2
+13
+NSS
+DBE/November 2022
+
+# VRAAG 10
+
+In die diagram is $\text{PQRS}$ 'n koordevierhoek. $\text{KP}$ is 'n raaklyn aan die sirkel by $\text{P}$. $\text{C}$ en $\text{D}$ is punte op koord $\text{PQ}$ en $\text{PS}$ onderskeidelik en $\text{CD}$ verleng, ontmoet $\text{RS}$ verleng by $\text{A}$. $\text{CA} \parallel \text{QS}$. $\text{RC}$ is getrek. $\hat{\text{P}}_1 = \hat{\text{R}}_2$.
+
+[DIAGRAM: Cyclic quad $\text{PQRS}$ with tangent $\text{KP}$ at $\text{P}$. $\text{C}$ on $\text{PQ}$, $\text{D}$ on $\text{PS}$. $\text{CD}$ and $\text{RS}$ extended intersect at $\text{A}$. $\text{CA} \parallel \text{QS}$. $\text{RC}$ drawn. $\hat{\text{P}}_1 = \hat{\text{R}}_2$.]
+
+Bewys, met redes, dat:
+
+10.1 $\hat{\text{S}}_1 = \hat{\text{T}}_2$ (4)
+
+10.2 $\frac{\text{AD}}{\text{AR}} = \frac{\text{AS}}{\text{AC}}$ (5)
+
+10.3 $\text{AC} \times \text{SD} = \text{AR} \times \text{TC}$ (4)
+[13]
+
+TOTAAL: 150
+
+Kopiereg voorbehoud
+
+---
+
+Wiskunde/V2
+14
+NSS
+DBE/November 2022
+
+# INLIGTINGSBLAD
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni)$$
+$$A = P(1 - ni)$$
+$$A = P(1 - i)^n$$
+$$A = P(1 + i)^n$$
+
+$$T_n = a + (n - 1)d$$
+$$S_n = \frac{n}{2}[2a + (n - 1)d]$$
+
+$$T_n = ar^{n-1}$$
+$$S_n = \frac{a(r^n - 1)}{r - 1} \quad (r \neq 1)$$
+$$S_\infty = \frac{a}{1 - r} \quad (-1 < r < 1)$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i}$$
+$$P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$
+$$M\left(\frac{x_1 + x_2}{2}; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c$$
+$$y - y_1 = m(x - x_1)$$
+$$m = \frac{y_2 - y_1}{x_2 - x_1}$$
+$$m = \tan \theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+$$\text{In } \triangle ABC: \frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}$$
+$$a^2 = b^2 + c^2 - 2bc \cos A$$
+$$\text{area } \triangle ABC = \frac{1}{2}ab \sin C$$
+
+$$\sin(\alpha + \beta) = \sin\alpha \cos\beta + \cos\alpha \sin\beta$$
+$$\sin(\alpha - \beta) = \sin\alpha \cos\beta - \cos\alpha \sin\beta$$
+$$\cos(\alpha + \beta) = \cos\alpha \cos\beta - \sin\alpha \sin\beta$$
+$$\cos(\alpha - \beta) = \cos\alpha \cos\beta + \sin\alpha \sin\beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2\alpha - \sin^2\alpha \\ 1 - 2\sin^2\alpha \\ 2\cos^2\alpha - 1 \end{cases}$$
+$$\sin 2\alpha = 2\sin\alpha \cos\alpha$$
+
+$$\bar{x} = \frac{\sum x}{n}$$
+$$\sigma^2 = \frac{\sum_{i=1}^n (x_i - \bar{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)}$$
+$$P(A \text{ of } B) = P(A) + P(B) - P(A \text{ en } B)$$
+
+$$\hat{y} = a + bx$$
+$$b = \frac{\sum(x - \bar{x})(y - \bar{y})}{\sum(x - \bar{x})^2}$$
+
+Kopiereg voorbehoud

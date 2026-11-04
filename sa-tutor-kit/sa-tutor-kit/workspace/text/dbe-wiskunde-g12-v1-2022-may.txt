@@ -1,0 +1,371 @@
+Wiskunde/V1
+
+2
+
+SS/NSS
+
+DBE/2022
+
+# INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies versigtig deur voordat die vrae beantwoord word.
+
+1. Hierdie vraestel bestaan uit 10 vrae.
+2. Beantwoord AL die vrae.
+3. Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie vraestel gebruik is.
+4. Dui ALLE berekeninge, diagramme, grafieke, ens. wat jy gebruik het om jou antwoorde te bepaal, duidelik aan.
+5. Volpunte sal NIE noodwendig aan slegs antwoorde toegeken word NIE.
+6. Jy mag 'n goedgekeurde, wetenskaplike sakrekenaar (nieprogrammeerbaar en niegrafies) gebruik, tensy anders vermeld.
+7. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders vermeld.
+8. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+9. 'n Inligtingsblad met formules is aan die einde van die vraestel ingesluit.
+10. Skryf netjies en leesbaar.
+
+Kopiereg voorbehou
+
+Blaai om asseblief
+
+---
+
+Wiskunde/V1
+
+3
+
+SS/NSS
+
+DBE/2022
+
+# VRAAG 1
+
+1.1 Los op vir $x$:
+
+1.1.1 $x^2 + 2x - 15 = 0$ $(3)$
+
+1.1.2 $5x^2 - x - 9 = 0$ (Los jou antwoord korrek tot TWEE desimale syfers.) $(3)$
+
+1.1.3 $x^2 \le 3x$ $(4)$
+
+1.2 Gegee: $a + \frac{64}{a} = 16$
+
+1.2.1 Los op vir $a$. $(3)$
+
+1.2.2 Los vervolgens op vir $x$: $2^x + 2^{6-x} = 16$ $(3)$
+
+1.3 Sonder die gebruik van 'n sakrekenaar, bereken die waarde van $\sqrt{\frac{2^{1002} + 2^{1006}}{17(2)^{998}}}$ $(4)$
+
+1.4 Los gelyktydig vir $x$ en $y$ op:
+$2x - y = 2 \quad \text{en} \quad \frac{1}{x} - 3y = 1$ $(6)$
+$[26]$
+
+# VRAAG 2
+
+2.1 Die eerste term van 'n rekenkundige ry is $-1$ en die $7^{\text{de}}$ term is $35$.
+
+Bepaal:
+
+2.1.1 Die gemeenskaplike verskil van die ry $(2)$
+
+2.1.2 Die aantal terme in die ry indien die laaste term van die ry $473$ is $(3)$
+
+2.1.3 Die som van die eerste $40$ terme in die ry $(2)$
+
+2.2 $75 ; 53 ; 35 ; 21 ; \dots$ is 'n kwadratiese getalpatroon.
+
+2.2.1 Skryf die VYFDE term van die getalpatroon neer. $(1)$
+
+2.2.2 Bepaal die $n^{\text{de}}$ term van die getalpatroon. $(4)$
+
+2.2.3 Bepaal die maksimum waarde van die volgende getalpatroon:
+$-15 ; -\frac{53}{5} ; -7 ; -\frac{21}{5} ; \dots$ $(4)$
+$[16]$
+
+Kopiereg voorbehou
+
+Blaai om asseblief
+
+---
+
+Wiskunde/V1
+
+4
+
+SS/NSS
+
+DBE/2022
+
+# VRAAG 3
+
+3.1 Beskou die volgende meetkundige ry: $1\;024 ; 256 ; 64 ; \dots$
+
+Bereken:
+
+3.1.1 Die $10^{\text{de}}$ term van die ry $(2)$
+
+3.1.2 $\sum_{p=0}^{8} 256(4^{1-p})$ $(4)$
+
+3.2 Die eerste twee terme van 'n meetkundige ry is:
+$-t^2 - 6t - 9 \quad \text{en} \quad \frac{t^3 + 9t^2 + 27t + 27}{2}$
+
+Bepaal die waardes van $t$ waarvoor die ry sal konvergeer. $(5)$
+$[11]$
+
+# VRAAG 4
+
+Die grafiek van $g(x) = a\left(\frac{1}{3}\right)^x + 7$ gaan deur punt $\text{E}(-2 ; 10)$.
+
+4.1 Bereken die waarde van $a$. $(3)$
+
+4.2 Bereken die koördinate van die $y$-afsnit van $g$. $(2)$
+
+4.3 Beskou: $h(x) = \left(\frac{1}{3}\right)^x$
+
+4.3.1 Beskryf die translasie van $g$ na $h$. $(2)$
+
+4.3.2 Bepaal die vergelyking van die inverse van $h$, in die vorm $y = \dots$ $(2)$
+$[9]$
+
+Kopiereg voorbehou
+
+Blaai om asseblief
+
+---
+
+Wiskunde/V1
+
+5
+
+SS/NSS
+
+DBE/2022
+
+# VRAAG 5
+
+Beskou: $g(x) = \frac{a}{x + p} + q$
+
+Die volgende inligting van $g$ word gegee:
+- Definisieversameling: $x \in \mathbb{R} ; x \neq -2$
+- $x$-afsnit by $\text{K}(1 ; 0)$
+- $y$-afsnit by $\text{N}\left(0 ; -\frac{1}{2}\right)$
+
+5.1 Toon dat die vergelyking van $g$ gegee word deur: $g(x) = \frac{-3}{x + 2} + 1$ $(6)$
+
+5.2 Skryf die waardeversameling van $g$ neer. $(1)$
+
+5.3 Bepaal die vergelyking van $h$, die simmetrie-as van $g$, in die vorm $y = mx + c$, waar $m > 0$. $(3)$
+
+5.4 Skryf die koördinate van $\text{K}'$, die beeld van $\text{K}$ gereflekteer oor $h$, neer. $(2)$
+$[12]$
+
+Kopiereg voorbehou
+
+Blaai om asseblief
+
+---
+
+Wiskunde/V1
+
+6
+
+SS/NSS
+
+DBE/2022
+
+# VRAAG 6
+
+Die skets hieronder toon die grafiek van $f(x) = -x^2 - 6x + 7$.
+$\text{C}$ is die $y$-afsnit van $f$.
+$\text{A}$ en $\text{B}$ is die $x$-afsnitte van $f$.
+$\text{D}(-5 ; k)$ is 'n punt op $f$.
+
+[DIAGRAM: A Cartesian plane shows a parabola $f$ opening downwards with vertex $\text{E}$ at the top, a $y$-intercept $\text{C}$, $x$-intercepts $\text{A}$ and $\text{B}$, and a point $\text{D}(-5; k)$ in the second quadrant.]
+
+6.1 Bereken die koördinate van $\text{E}$, die draaipunt van $f$. $(3)$
+
+6.2 Skryf die waarde van $k$ neer. $(1)$
+
+6.3 Bepaal die vergelyking van die reguitlyn wat deur $\text{C}$ en $\text{D}$ gaan. $(4)$
+
+6.4 'n Reguitlyn, ewewydig aan $\text{CD}$, raak $f$ by $\text{P}$. Bepaal die koördinate van $\text{P}$. $(4)$
+
+6.5 Vir watter waardes van $x$ sal $f(x) - 12 > 0$? $(2)$
+$[14]$
+
+Kopiereg voorbehou
+
+Blaai om asseblief
+
+---
+
+Wiskunde/V1
+
+7
+
+SS/NSS
+
+DBE/2022
+
+# VRAAG 7
+
+7.1 Hoeveel jaar sal dit 'n belegging neem om in waarde te verdubbel indien die belegging rente verdien teen 'n koers van $8,5\%$ p.j., kwartaalliks samestell? $(4)$
+
+7.2 'n Maatskappy het masjinerie vir $\text{R}500\ 000$ gekoop. Na $5$ jaar is die masjinerie vir $\text{R}180\ 000$ verkoop en nuwe masjinerie is gekoop.
+
+7.2.1 Bereken die waardeverminderingskoers van die ou masjinerie oor die $5$ jaar, deur die verminderdesaldo-metode te gebruik. $(4)$
+
+7.2.2 Die inflasiekoers vir die koste van die nuwe masjinerie is $6,3\%$ p.j. oor die $5$ jaar. Wat sal die nuwe masjinerie aan die einde van $5$ jaar kos? $(2)$
+
+7.2.3 Die maatskappy het 'n delgingsfonds begin en die eerste inbetaling in hierdie fonds gemaak op die dag toe die ou masjinerie gekoop is. Die laaste inbetaling is gemaak drie maande voordat die nuwe masjinerie aan die einde van die $5$ jaar aangekoop is. Die rente verdien op die delgingsfonds was $10,25\%$ p.j., maandeliks samestell. Die geld in die delgingsfonds en die $\text{R}180\ 000$ uit die verkoop van die ou masjinerie is gebruik om vir die nuwe masjinerie te betaal.
+
+Bereken die maandelikse inbetaling in die delgingsfonds. $(5)$
+$[15]$
+
+# VRAAG 8
+
+8.1 Bepaal $f'(x)$ vanuit eerste beginsels indien dit gegee word dat $f(x) = -x^2$. $(5)$
+
+8.2 Bepaal:
+
+8.2.1 $f'(x)$, indien dit gegee word dat $f(x) = 4x^3 - 5x^2$ $(2)$
+
+8.2.2 $D_x \left[ \frac{-6\sqrt{x} + 2}{x^4} \right]$ $(4)$
+$[11]$
+
+Kopiereg voorbehou
+
+Blaai om asseblief
+
+---
+
+Wiskunde/V1
+
+8
+
+SS/NSS
+
+DBE/2022
+
+# VRAAG 9
+
+Die grafiek van $f(x) = x^3 + ax^2 + bx + c$ is hieronder geskets.
+Die $x$-afsnitte van $f$ is by $(3 ; 0)$ en $\text{M}$, waar $\text{M}$ op die negatiewe $x$-as lê.
+$\text{K}(0 ; -3)$ is die $y$-afsnit van $f$.
+$\text{M}$ en $\text{N}$ is die draaipunte van $f$.
+
+[DIAGRAM: A cubic graph $f$ is shown with a local maximum at $\text{M}$ on the negative $x$-axis, a $y$-intercept at $\text{K}(0;-3)$, an $x$-intercept at $(3;0)$, and a local minimum at $\text{N}$ in the fourth quadrant.]
+
+9.1 Toon dat die vergelyking van $f$ gegee word deur $f(x) = x^3 - x^2 - 5x - 3$. $(5)$
+
+9.2 Bereken die koördinate van $\text{N}$. $(5)$
+
+9.3 Vir watter waardes van $x$ sal:
+
+9.3.1 $f(x) < 0$ $(2)$
+
+9.3.2 $f$ stygend wees $(2)$
+
+9.3.3 $f$ konkaaf op wees $(3)$
+
+9.4 Bepaal die maksimum vertikale afstand tussen die grafieke van $f$ en $f'$ in die interval $-1 < x < 0$. $(6)$
+$[23]$
+
+Kopiereg voorbehou
+
+Blaai om asseblief
+
+---
+
+Wiskunde/V1
+
+9
+
+SS/NSS
+
+DBE/2022
+
+# VRAAG 10
+
+10.1 Vlae van vier Afrika-lande en drie Europese lande is tydens die 2021 Olimpiese Spele in 'n ry vertoon.
+
+Bepaal:
+
+10.1.1 Die totale getal maniere waarop al $7$ vlae van hierdie lande vertoon kan word $(2)$
+
+10.1.2 Die waarskynlikheid dat die vlae van die Afrika-lande langs mekaar vertoon is $(3)$
+
+10.2 $\text{A}$ en $\text{B}$ is twee onafhanklike gebeurtenisse.
+$\text{P}(\text{A}) = 0,4$ en $\text{P}(\text{A of B}) = 0,88$
+
+Bereken $\text{P}(\text{B})$. $(3)$
+
+10.3 Daar is $120$ passasiers aan boord van 'n vliegtuig. Passasiers het 'n keuse tussen 'n vleistoebroodjie of 'n kaastoebroodjie, maar meer passasiers sal 'n vleistoebroodjie kies. Daar is slegs $120$ toebroodjies beskikbaar om uit te kies. Die waarskynlikheid dat die eerste passasier 'n vleistoebroodjie sal kies en die tweede passasier 'n kaastoebroodjie is, $\frac{18}{85}$. Bereken die waarskynlikheid dat die eerste passasier 'n kaastoebroodjie sal kies. $(5)$
+$[13]$
+
+**TOTAAL: 150**
+
+Kopiereg voorbehou
+
+---
+
+Wiskunde/V1
+
+10
+
+SS/NSS
+
+DBE/2022
+
+# INLIGTINGSBLAD
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni)$$
+$$A = P(1 - ni)$$
+$$A = P(1 - i)^n$$
+$$A = P(1 + i)^n$$
+
+$$T_n = a + (n-1)d$$
+$$S_n = \frac{n}{2}[2a + (n-1)d]$$
+
+$$T_n = ar^{n-1}$$
+$$S_n = \frac{a(r^n - 1)}{r - 1} ; r \neq 1$$
+$$S_\infty = \frac{a}{1 - r} ; -1 < r < 1$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i}$$
+$$P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$
+$$M\left(\frac{x_1 + x_2}{2} ; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c$$
+$$y - y_1 = m(x - x_1)$$
+$$m = \frac{y_2 - y_1}{x_2 - x_1}$$
+$$m = \tan \theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+In $\Delta ABC$: $\frac{\sin A}{a} = \frac{\sin B}{b} = \frac{\sin C}{c}$
+
+$$a^2 = b^2 + c^2 - 2bc \cos A$$
+
+$$\text{area } \Delta ABC = \frac{1}{2}ab \sin C$$
+
+$$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta$$
+$$\sin(\alpha - \beta) = \sin \alpha \cos \beta - \cos \alpha \sin \beta$$
+$$\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta$$
+$$\cos(\alpha - \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2 \alpha - \sin^2 \alpha \\ 1 - 2\sin^2 \alpha \\ 2\cos^2 \alpha - 1 \end{cases}$$
+$$\sin 2\alpha = 2\sin \alpha \cos \alpha$$
+
+$$\bar{x} = \frac{\sum x}{n}$$
+$$\sigma^2 = \frac{\sum_{i=1}^{n}(x_i - \bar{x})^2}{n}$$
+
+$$\mathrm{P}(\text{A}) = \frac{n(\text{A})}{n(\text{S})}$$
+$$\mathrm{P}(\text{A of B}) = \mathrm{P}(\text{A}) + \mathrm{P}(\text{B}) - \mathrm{P}(\text{A en B})$$
+
+$$\hat{y} = a + bx$$
+$$b = \frac{\sum(x - \bar{x})(y - \bar{y})}{\sum(x - \bar{x})^2}$$
+
+Kopiereg voorbehou

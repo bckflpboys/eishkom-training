@@ -1,0 +1,221 @@
+**BASIESE ONDERWYS / BASIC EDUCATION**  
+**REPUBLIEK VAN SUID-AFRIKA / REPUBLIC OF SOUTH AFRICA**
+
+**NASIONALE SENIOR SERTIFIKAAT**  
+**GRAAD 10**
+
+**WISKUNDE V2**  
+**NOVEMBER 2017**
+
+**PUNTE:** 100  
+**TYD:** 2 uur
+
+Hierdie vraestel bestaan uit 10 bladsye en 'n 15 bladsy-antwoordeboek.
+
+---
+
+**INSTRUKSIES EN INLIGTING**
+
+Lees die volgende instruksies aandagtig deur voordat jy die vrae beantwoord.
+
+1. Hierdie vraestel bestaan uit 9 vrae.
+2. Beantwoord AL die vrae in die SPESIALE ANTWOORDEBOEK wat verskaf word.
+3. Dui ALLE berekeninge, diagramme, grafieke, ensovoorts wat jy gebruik het om die antwoorde te bepal பகal, duidelik aan.
+4. Slegs antwoorde sal NIE noodwendig volpunte verdien NIE.
+5. Rond antwoorde tot TWEE desimale plekke af, tensy anders aangedui.
+6. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+7. Jy mag 'n goedgekeurde wetenskaplike sakrekenaar (nieprogrammeerbaar en niegrafies) gebruik, tensy anders aangedui.
+8. Skryf netjies en leesbaar.
+
+---
+
+**VRAAG 1**
+
+Die data hieronder toon die getal skootrekenaars wat in die laaste finansiële jaar deur 15 verkoopsagente verkoop is.
+
+$$43 \quad 48 \quad 62 \quad 52 \quad 46 \quad 90 \quad 58 \quad 37 \quad 48 \quad 73 \quad 84 \quad 68 \quad 54 \quad 34 \quad 78$$
+
+1.1 Bepaal die mediaan van die getal skootrekenaars wat verkoop is. (2)
+
+1.2 Bereken die variasiewydte van die data. (2)
+
+1.3 Bereken die interkwartielvariasiewydte (IKW). (3)
+
+1.4 Teken 'n mond-en-snordiagram vir die data hierbo. (3)
+**[10]**
+
+---
+
+**VRAAG 2**
+
+'n Leerder het 'n projek oor klimaatsverandering gedoen. Sy het om 14:00 elke dag die temperatuur (in $^\circ\text{C}$) vir 'n sekere dorp aangeteken. Die inligting word in die frekwensietabel hieronder gegee.
+
+| TEMPERATUUR (IN $^\circ\text{C}$) | FREKWENSIE |
+| :---: | :---: |
+| $20 \le T < 24$ | 2 |
+| $24 \le T < 28$ | 4 |
+| $28 \le T < 32$ | 9 |
+| $32 \le T < 36$ | 5 |
+| $36 \le T < 40$ | 7 |
+| $40 \le T < 44$ | 3 |
+
+2.1 Vir hoeveel dae het die leerder die data ingesamel? (1)
+
+2.2 Skryf die modale klas vir die data neer. (1)
+
+2.3 Skat die gemiddeld van die data. (3)
+
+2.4 Bereken die persentasie dae waarop die temperatuur ten minste $28^\circ\text{C}$ was. (2)
+**[7]**
+
+---
+
+**VRAAG 3**
+
+In die diagram hieronder is $P(7; 4)$, $Q(6; 6)$, $R(0; 3)$ en $S(t; k)$ die hoekpunte van vierhoek $PQRS$.
+
+[DIAGRAM: Cartesian plane showing quadrilateral $PQRS$ with vertices $R(0;3)$, $Q(6;6)$, $P(7;4)$, and $S(t;k)$ on the $x$-axis where $y = 0$.]
+
+3.1 Bereken die lengte van $PQ$. Laat jou antwoord in wortelvorm. (2)
+
+3.2 As $T\left(\frac{7}{2}; \frac{7}{2}\right)$ die middelpunt van $QS$ is, bepal die koördinate van $S$. (3)
+
+3.3 As $(1; 1)$ die koördinate van $S$ is, toon dat $PR = QS$. (2)
+
+3.4 Toon dat $QR \perp RS$. (4)
+
+3.5 Watter tipe spesiale vierhoek is $PQRS$ gevolglik? Motiveer jou antwoord. (2)
+
+3.6 Bereken die grootte van $R\hat{S}Q$. (3)
+**[16]**
+
+---
+
+**VRAAG 4**
+
+4.1 Gegee dat $4 \cot \theta + 3 = 0$ en $0^\circ < \theta < 180^\circ$.
+
+4.1.1 Gebruik 'n skets om die waarde van die volgende te bepaal. MOET NIE 'n sakrekenaar gebruik NIE.
+
+(a) $\cos \theta$ (4)
+
+(b) $\frac{3 \sin \theta \sec \theta}{\tan \theta}$ (4)
+
+4.1.2 Toon vervolgens dat $\sin^2 \theta - 1 = -\cos^2 \theta$. (3)
+
+4.2 Vereenvoudig die volgende uitdrukking SONDER om 'n sakrekenaar te gebruik:
+
+$$\cos 30^\circ \tan 60^\circ + \csc^2 45^\circ \sin^2 60^\circ$$ (3)
+
+4.3 Los op vir $\theta$ korrek tot TWEE desimale plekke, as:
+
+$$\frac{4}{3} \sin \theta = \cos 37^\circ \text{ en } 0^\circ \le \theta \le 90^\circ$$ (2)
+**[16]**
+
+---
+
+**VRAAG 5**
+
+Gegee dat $f(x) = \sin x - 1$ en $g(x) = 2 \cos x$ vir $0^\circ \le x \le 270^\circ$.
+
+5.1 Skets, op die rooster wat in die ANTWOORDEBOEK verskaf is, die grafiek van $f$ en $g$ vir $0^\circ \le x \le 270^\circ$. (6)
+
+5.2 Skryf die volgende neer:
+
+5.2.1 Amplitude van $g$ (1)
+
+5.2.2 Waardeversameling van $f$ (2)
+
+5.3 Gebruik jou grafiek om die volgende te bepaal:
+
+5.3.1 Getal oplossings vir $f(x) = g(x)$ in die interval $0^\circ \le x \le 270^\circ$ (1)
+
+5.3.2 Waarde(s) van $x$ in die interval $0^\circ \le x \le 180^\circ$ waarvoor $\sin x = 2 + 2\cos x$ (3)
+**[13]**
+
+---
+
+**VRAAG 6**
+
+$RQ$ is 'n vertikale paal. Die voet van die paal, $Q$, is op dieselfde horisontale vlak as $P$ en $S$. Die paal is met draadkables $RS$ en $RP$ geanker. Die dieptehoek vanaf die boonste punt van die paal tot by punt $P$ is $47^\circ$. $PR$ is $21\text{ m}$ en $QS$ is $17\text{ m}$. $R\hat{P}Q = \theta$.
+
+[DIAGRAM: Vertical pole $RQ$ with right angle at $Q$. Wire cables $RP = 21\text{ m}$ with angle of depression $47^\circ$ from horizontal at $R$, and angle $\theta$ at $P$. Wire cable $RS$ on the right with base $QS = 17\text{ m}$.]
+
+6.1 Skryf die grootte van $\theta$ neer. (1)
+
+6.2 Bereken die lengte van $RQ$. (3)
+
+6.3 Bereken vervolgens die grootte van $\hat{S}$. (2)
+
+6.4 As $P$, $Q$ en $S$ in 'n reguitlyn lê, hoe ver uitmekaar is die ankers van die draadkables? (4)
+**[10]**
+
+---
+
+**VRAAG 7**
+
+Die diagram hieronder toon die dwarsdeursnee van 'n vaste liggaam wat bestaan uit 'n hemisfeer wat bo-op 'n regte sirkelkeël met 'n radius $r$ en skuinshoogte $s$ geplaas is. Die loodregte hoogte van die keël, $h$, is $6,5\text{ cm}$ en die volume van die keël is $83,38\text{ cm}^3$.
+
+[DIAGRAM: Cross-section of a solid body consisting of a hemisphere on top of a right circular cone of radius $r$, slant height $s$, and vertical height $h$.]
+
+**Formules:**
+
+$$\text{Buite-oppervlakte (Oppervlakarea) van sfeer} = 4\pi r^2$$
+$$\text{Volume van sfeer} = \frac{4}{3}\pi r^3$$
+$$\text{Buite-oppervlakte (Oppervlakarea) van keël} = \pi r^2 + \pi r s$$
+$$\text{Volume van keël} = \frac{1}{3}\pi r^2 h$$
+
+Bereken, korrek tot TWEE desimale plekke:
+
+7.1 Die radius, $r$, van die keël (2)
+
+7.2 Die skuinshoogte, $s$, van die keël (2)
+
+7.3 Die buite-oppervlakte (oppervlakarea) van die vaste liggaam (2)
+**[6]**
+
+---
+
+Gee redes vir ALLE stellings in VRAAG 8 en 9.
+
+**VRAAG 8**
+
+8.1 $KLMN$ is 'n ruit met hoeklyne wat by $O$ sny. $L\hat{K}M = 34^\circ$.
+
+[DIAGRAM: Rhombus $KLMN$ with diagonals intersecting at $O$. Angle $L\hat{K}M = 34^\circ$. Angles around $O$ are labeled $\hat{O}_1, \hat{O}_2, \hat{O}_3, \hat{O}_4$.]
+
+8.1.1 Skryf die grootte van $\hat{O}_1$ neer. (1)
+
+8.1.2 Bereken die grootte van $\hat{L}_1$. (2)
+
+8.1.3 Bereken die grootte van $K\hat{N}M$. (2)
+
+8.2 Gegee parallelogram $PQRS$ met hoeklyne $PR$ en $QS$ wat by $M$ sny.
+
+[DIAGRAM: Parallelogram $PQRS$ with diagonals $PR$ and $QS$ intersecting at $M$. Angles at $M$ labeled $\hat{M}_1, \hat{M}_2, \hat{M}_3, \hat{M}_4$.]
+
+Bewys dat die hoeklyne mekaar halveer. (4)
+
+8.3 In die diagram is $ABCD$ 'n parallelogram met hoeklyne wat by $E$ sny. Die hoeklyne van parallelogram $DECF$ sny by $G$. Die hoeklyne van parallelogram $FGCH$ sny by $K$.
+
+[DIAGRAM: Nested parallelograms $ABCD$ (center $E$), $DECF$ (center $G$), and $FGCH$ (center $K$).]
+
+Bewys dat $DB = 4KC$. (4)
+**[13]**
+
+---
+
+**VRAAG 9**
+
+$\triangle ABC$ is reghoekig by $B$. $F$ en $G$ is die middelpunte van $AC$ en $BC$ onderskeidelik. $H$ is die middelpunt van $AG$. $E$ lê op $AB$ sodat $FHE$ 'n reguitlyn is.
+
+[DIAGRAM: Right-angled triangle $\triangle ABC$ at vertex $B$. $F$ is midpoint of $AC$, $G$ is midpoint of $BC$. $H$ is midpoint of $AG$. $E$ lies on $AB$ such that $FHE$ is a straight line.]
+
+9.1 Bewys dat $E$ die middelpunt van $AB$ is. (3)
+
+9.2 As $EH = 3,5\text{ cm}$ en die oppervlakte van $\triangle AEH = 9,5\text{ cm}^2$, bereken die lengte van $AB$. (3)
+
+9.3 Bereken vervolgens die oppervlakte van $\triangle ABC$. (3)
+**[9]**
+
+**TOTAAL:** **100**

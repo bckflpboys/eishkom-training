@@ -1,0 +1,1047 @@
+=== page 1 ===
+Copyright reserved   Please turn over
+
+SENIOR CERTIFICATE EXAMINATIONS/
+NATIONAL SENIOR CERTIFICATE EXAMINATIONS
+
+PHYSICAL SCIENCES:  PHYSICS (P1)
+
+2023
+
+MARKS:  150
+
+TIME:  3 hours
+
+This question paper consists of 16 pages and 3 data sheets.
+
+=== page 2 ===
+Physical Sciences/P1 2 DBE/2023
+SC/NSC
+Copyright reserved   Please turn over
+
+INSTRUCTIONS AND INFORMATION
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+Write your centre number and examination number in the appropriate spaces
+on the ANSWER BOOK.
+
+This question paper consists of 10 questions. Answer ALL the questions in
+the ANSWER BOOK.
+
+Start EACH question on a NEW page in the ANSWER BOOK.
+
+Number the answers correctly according to the numbering system used in this
+question paper.
+
+Leave ONE line between two subquestions, e.g. between QUESTION 2.1 and
+QUESTION 2.2.
+
+You may use a non-programmable calculator.
+
+You may use appropriate mathematical instruments.
+
+Show ALL formulae and substitutions in ALL calculations.
+
+Round off your FINAL numerical answers to a minimum of TWO de cimal
+places.
+
+Give brief motivations, discussions, etc. where required.
+
+You are advised to use the attached DATA SHEETS.
+
+Write neatly and legibly.
+
+=== page 3 ===
+Physical Sciences/P1 3 DBE/2023
+SC/NSC
+Copyright reserved   Please turn over
+
+QUESTION 1: MULTIPLE-CHOICE QUESTIONS
+
+Various options are provided as possible answers to the following questions. Each
+question has only ONE correct answer. Choose the answer and w rite only the letter
+(A–D) next to the question numbers (1.1 to 1.10) in the ANSWER BOOK, e.g. 1.11 E.
+
+1.1 Which ONE of the following quantities is the tendency of an object to resist a
+change to its state of motion?
+
+ A
+
+B
+
+C
+
+D
+Inertia
+
+Impulse
+
+Momentum
+
+Acceleration
+
+(2)
+
+1.2 A ball is dropped from rest at a height above a concrete  floor. The ball strikes
+the floor and bounces vertically up and down on the same spot on the floor.
+
+The velocity-time graph for the bouncing ball is shown below, with points P,
+Q, R and S representing different times during the motion.
+
+Ignore the effects of air resistance.
+
+ At which time does the ball reach its maximum height after the first upward
+bounce?
+
+ A
+
+B
+
+C
+
+D
+P
+
+Q
+
+R
+
+S
+
+(2)
+
+Velocity (m∙s-1)
+P
+0
+S
+R
+Q
+ Time (s)
+
+=== page 4 ===
+Physical Sciences/P1 4 DBE/2023
+SC/NSC
+Copyright reserved   Please turn over
+
+1.3 Two blocks, P and Q, of masses m1 and m2 respectively, are held at rest on a
+frictionless horizontal floor with a compressed spring between them, as shown
+below.
+
+ When the  blocks are released and the spring  drops to the floor, block Q
+moves to the right with velocity v.
+
+Which ONE  of the following represents the momentum of block P after the
+blocks are released?
+
+ A
+
+B
+
+C
+
+D
+m1v to the right
+
+m2v to the right
+
+m1v to the left
+
+m2v to the left
+
+(2)
+
+1.4 The magnitude of the  gravitational force that sphere s X and Y exert on each
+other is F.
+
+The mass of sphere  X is now doubled while the mass of sphere  Y and the
+distance between the centres of the spheres remain the same.
+
+Which ONE of the following combinations is CORRECT for the magnitude of
+the forces that the spheres now exert on each other?
+
+  FORCE THAT X EXERTS ON Y FORCE THAT Y EXERTS ON X
+ A F F
+ B F 2F
+ C 2F F
+ D 2F 2F   (2)
+
+m2
+m1
+P
+ Q
+
+=== page 5 ===
+Physical Sciences/P1 5 DBE/2023
+SC/NSC
+Copyright reserved   Please turn over
+
+1.5 A hot-air balloon is moving vertically  downwards at a CONSTANT SPEED.
+Assume that the mass of the hot-air balloon remains constant.
+
+Which ONE of the following physical quantities associated with the hot -air
+balloon changes during the motion?
+
+ A
+
+B
+
+C
+
+D
+Weight
+
+Momentum
+
+Kinetic energy
+
+Potential energy
+
+(2)
+
+1.6 A learner  standing at a roadside records the frequency of  sound waves
+produced by the siren of an ambulance. The ambulance is moving at constant
+velocity along a straight horizontal road.
+
+The frequency-time graph for the detected sound is shown below.
+
+ Which ONE of the following statements concerning the motion of the
+ambulance is CORRECT?
+
+The ambulance …
+
+ A
+
+B
+
+C
+
+D
+approaches the learner and then passes the learner.
+
+moves away from the learner, then turns and approaches the learner.
+
+approaches the learner, then turns and moves away from the learner.
+
+moves away from the learner and then stops.
+
+(2)
+
+Detected frequency
+(Hz)
+ 0
+ Time (s)
+
+=== page 6 ===
+Physical Sciences/P1 6 DBE/2023
+SC/NSC
+Copyright reserved   Please turn over
+
+1.7 Two identical ly charged spheres, X and Y, carry  charges of +2q and − 6q
+respectively.
+
+Sphere X experiences an electrostatic force F to the right when the distance
+between their centres is r.
+
+The spheres are brought into contact and are then returned to their original
+positions.
+
+Which ONE of the following represents the magnitude of the electrostatic
+force that sphere X experiences now?
+
+A
+
+B
+
+C
+
+D
+
+  F
+
+  F
+
+4 F
+
+12 F
+
+(2)
+
+1.8 In the circuit diagram below, R1, R2 and R3 are identical resistors. The battery
+has negligible internal resistance.
+
+ The power dissipated by R1 is P.
+
+Which ONE of the following is the power dissipated by R2?
+
+ A
+
+B
+
+C
+
+D
+
+  P
+
+2 P
+
+2 P
+
+4 P
+
+(2)
+
+r
+X
+ Y
++2q
+ −6q
+R1
+R2
+R3
+
+=== page 7 ===
+Physical Sciences/P1 7 DBE/2023
+SC/NSC
+Copyright reserved   Please turn over
+
+1.9 The simplified diagram below represents a DC motor.
+
+ The diagrams below indicate some changes made to the above motor.
+
+ Which of the changes to the motor  above will change the original direction of
+rotation of the coil?
+
+ A
+
+B
+
+C
+
+D
+(i) and (ii) only
+
+(i) and (iii) only
+
+(ii) and (iii) only
+
+(iii) only
+
+(2)
+
+1.10 An atom has a ground state  energy of x. When the atom  moves to a higher
+energy state y, a line spectrum is observed.
+
+Which ONE of the following combinations is CORRECT for the ENERGY
+CHANGE of the atom and the TYPE OF LINE SPECTRUM observed during
+the transition?
+
+  ENERGY CHANGE TYPE OF LINE SPECTRUM
+ A y – x Emission
+ B x – y Emission
+ C x – y Absorption
+ D y – x Absorption   (2)
+      [20]
+N
+ S
++
+ -
+(i)
+ (ii)
+(iii)
+S
+ N
++
+ -
+N
+ S
+-
+ +
+S
+ N
+-
+ +
+
+=== page 8 ===
+Physical Sciences/P1 8 DBE/2023
+SC/NSC
+Copyright reserved   Please turn over
+
+QUESTION 2 (Start on a new page.)
+
+Block A of mass m is connected to block B of mass 7,5 kg by a light inextensible rope
+passing over a frictionless pulley. Block B is initially held at a height of 1,5 m above the
+ground, while block A is initially stationary on the ground, as shown in the diagram
+below.
+
+When block B is released, it moves vertically downwards and strikes the ground with a
+velocity of 3,41 m·s-1.
+
+Ignore the effects of friction.
+
+2.1 Show, by means of a calculation , that the magnitude of the acceleration of
+block B was 3,88 m∙s-2 while the block was moving vertically downwards.  (3)
+
+2.2 Draw a labelled free-body diagram showing ALL the forces acting on block B
+immediately after it was released.
+
+(2)
+
+2.3 State Newton's Second Law of Motion in words.  (2)
+
+2.4 Calculate the value of m by applying Newton's Second Law to EACH BLOCK
+while they are in motion.
+
+(5)
+
+2.5 Calculate the maximum height above the ground reached by block A.  (5)
+   [17]
+
+1,5 m
+
+7,5 kg
+
+m
+ ground
+A
+B
+ceiling
+
+=== page 9 ===
+Physical Sciences/P1 9 DBE/2023
+SC/NSC
+Copyright reserved   Please turn over
+
+QUESTION 3 (Start on a new page.)
+
+Ball A is dropped from rest from the top of a building 15,2 m high.
+
+After ball A has fallen 3,2 m, a second ball B is projected vertically upwards from the
+ground. After a while, the two balls strike the ground at the SAME time.
+
+Ignore the effects of air resistance.
+
+3.1 Define the term free fall.  (2)
+
+3.2 Calculate the:
+
+ 3.2.1 Time taken for ball A to strike the ground  (3)
+
+ 3.2.2 Magnitude of the velocity with which ball B was projected from the
+ground
+
+(5)
+
+3.3 On the same system of axes, d raw position-time graphs to show the motions
+of both ball A and ball B from the instant b all A is dropped until the time it
+reaches the ground.
+
+Take the ground as the zero position.
+
+Label the graphs A and B.
+
+Clearly indicate the following on the graphs:
+
+ The starting time for each ball
+ The initial position of each ball
+ The time when the balls strike the ground
+
+(5)
+   [15]
+
+A
+15,2 m
+B
+3,2 m
+
+=== page 10 ===
+Physical Sciences/P1 10 DBE/2023
+SC/NSC
+Copyright reserved   Please turn over
+
+QUESTION 4 (Start on a new page.)
+
+Trolley A of mass 7,2 kg moves to the right at 0,4 m∙s-1 in a straight line on a horizontal
+floor. It collides with a stationary trolley B of mass 5,3 kg.
+
+After the collision , the trolleys lock together and move to the right , as shown in the
+diagram below.
+
+Ignore any frictional effects.
+
+4.1 State the principle of conservation of linear momentum in words.  (2)
+
+4.2 Calculate the magnitude of the:
+
+ 4.2.1 Velocity of the trolleys immediately after the collision  (3)
+
+ 4.2.2 Average net force exerted by trolley A on trolley B during the
+collision, if the collision time is 0,02 s
+
+(3)
+    [8]
+
+B
+A
+Before collision
+ After collision
+7,2 kg
+ 5,3 kg
+0,4 m∙s-1
+A
+ B
+
+=== page 11 ===
+Physical Sciences/P1 11 DBE/2023
+SC/NSC
+Copyright reserved   Please turn over
+18°
+B
+A
+C
+D
+
+QUESTION 5 (Start on a new page.)
+
+An electric motor pulls a 20 kg crate from rest at point A up an inclined plane by means
+of a light inextensible rope. The incline d plane  makes an angle of 18° with the
+horizontal. B, C and D are points on the inclined plane and the distance between
+points A and C is 15,6 m, as shown in the diagram below.
+
+The motor exerts a constant force of 96,8 N parallel to the inclined plane on the rope.
+
+A co nstant frictional force of 13,5  N acts on the crate  as it is moves on  the inclined
+plane.
+
+5.1 Define a non-conservative force.  (2)
+
+5.2 Use ENERGY PRINCIPLES to calculate t he speed of the crate  when it
+reaches point C.
+
+(5)
+
+5.3 Calculate the minimum average power dissipated by the electric motor to pull
+the crate from point A to point C.
+
+(3)
+
+When the crate  reaches point C, the rope breaks. The crate  continues moving up the
+inclined plane, comes to a stop at point D, and then slides down the plane past point B.
+
+5.4 Draw a labelled free-body diagram for the crate  as it slides down the plane
+past point B.
+
+(3)
+
+5.5 Draw a velocity -time graph for the  entire motion of the crate  starting from
+point A until it passes point B again on its motion down the inclined plane.
+
+(4)
+   [17]
+
+=== page 12 ===
+Physical Sciences/P1 12 DBE/2023
+SC/NSC
+Copyright reserved   Please turn over
+
+QUESTION 6 (Start on a new page.)
+
+6.1 A car moves at a constant velocity of 22 m∙s-1 on a straight horizontal road
+TOWARDS a stationary device, which can both emit and detect sound waves.
+
+The device emits sound waves with a frequency of 24  000 Hz. These sound
+waves are reflected off the car a nd the reflected sound waves are then
+detected by the device, as shown in the diagram below.
+
+ 6.1.1 State the Doppler effect in words.  (2)
+
+ 6.1.2 If the speed of sound in air is 340  m·s-1, calculate the frequency of
+the reflected sound waves detected by the device.
+
+(6)
+
+6.2 The spectral lines observed for a distant star show that the star  is moving
+away from Earth. Explain, by referring to frequency, how one can deduce that
+the star is moving away from Earth.
+
+(2)
+   [10]
+
+DEVICE
+Emitted waves
+Reflected waves
+22 m∙s-1
+
+=== page 13 ===
+Physical Sciences/P1 13 DBE/2023
+SC/NSC
+Copyright reserved   Please turn over
+
+QUESTION 7 (Start on a new page.)
+
+Two point charges, X and Y, are held 0,03 m apart, as shown in the diagram below .
+The charge of X is -7,2 x 10-9 C, while the charge of Y is +7,2 x 10-9 C.
+
+7.1 State Coulomb's law in words.  (2)
+
+7.2 Draw the net electric field pattern due to the two point charges.  (3)
+
+7.3 Calculate the magnitude of the electrostatic force that Y exerts on X.  (3)
+
+A third point charge , Z, of unknown positive charge , is positioned 0,01 m to the left of
+point charge X on the line joining point charges X and Y, as shown in the diagram
+below.
+
+7.4 Draw a labelled vector diagram to show the directions of the electric field s at
+the point where X is positioned.
+
+(2)
+
+7.5 The magnitude of the resultant electric field at  the point where X
+is positioned is 4,91 x 105 N∙C-1.
+
+Calculate the magnitude of charge Z.
+
+(5)
+   [15]
+
+X
+ Y
+0,03 m
+-7,2 x 10-9 C
+ +7,2 x 10-9 C
+
+0,03 m
+-7,2 x 10-9 C
+ +7,2 x 10-9 C
+0,01 m
+Z
+ X
+ Y
+
+=== page 14 ===
+Physical Sciences/P1 14 DBE/2023
+SC/NSC
+Copyright reserved   Please turn over
+
+QUESTION 8 (Start on a new page.)
+
+A battery with unknown emf  (ɛ) and unknown internal resistance  (r) is connected to
+three resistors,  a high -resistance voltmeter, two switches  and two  ammeters of
+negligible resistance, as shown below.
+
+8.1 State Ohm's law in words.  (2)
+
+Both switch S1 and switch S2 are CLOSED. The reading on ammeter A1 is 1,5 A.
+
+8.2 Calculate the:
+
+ 8.2.1 Reading on the voltmeter  (3)
+
+ 8.2.2 Reading on ammeter A2  (4)
+
+ 8.2.3 Power dissipated in the 3 Ω resistor  (3)
+
+Switch S1 is now OPENED, while switch S2 remains CLOSED. The reading on
+ammeter A2 is now 3,64 A.
+
+8.3 Calculate the emf of the battery.  (5)
+
+Switch S2 is now OPENED, while switch S1 is CLOSED.
+
+8.4 How does  the voltmeter read ing change ? Choose from  INCREASES,
+DECREASES or REMAINS THE SAME.
+
+Explain the answer.
+
+(4)
+   [21]
+
+ɛ
+A1
+1,5 A
+S1
+2 Ω
+r
+ A2
+V
+5 Ω
+  Ω
+S2
+
+=== page 15 ===
+Physical Sciences/P1 15 DBE/2023
+SC/NSC
+Copyright reserved   Please turn over
+A
+
+X
+Y
+
+QUESTION 9 (Start on a new page.)
+
+9.1 The simplified sketch below represents an AC generator  with the coil initially
+horizontal between the poles of a magnet . X and Y are two points on the coil ,
+while A is one of the poles of the magnet.
+
+ When the coil of the generator rotates clockwise between the two poles of the
+magnet, the direction of the induced current is from X to Y, as shown above.
+
+ 9.1.1 Is A the NORTH POLE or the SOUTH POLE of the magnet?  (1)
+
+ 9.1.2 The coil is now rotated through 180°.
+
+Will the direction of the current be from X to Y or from Y to X?
+
+(1)
+
+ 9.1.3 Sketch an emf -time graph for TWO complete rotations of the coil ,
+starting from the position of the coil  as shown in the diagram
+above.
+
+(3)
+
+9.2 An electrical device is connected to a n AC  generator. The rms potential
+difference across the device  is 200 V and t he maximum current passing
+through the device is 6 A.
+
+ Calculate the:
+
+ 9.2.1 Resistance of the device  (4)
+
+ 9.2.2 Energy consumed by the device in two hours  (4)
+    [13]
+
+=== page 16 ===
+Physical Sciences/P1 16 DBE/2023
+SC/NSC
+Copyright reserved
+
+QUESTION 10 (Start on a new page.)
+
+In a photoelectric investigation, light of different frequencies was radiated on each of
+two metals, A and B. The g raph of maximum kinetic energy  of the ejected electrons
+from metal A and the frequency of the incident photons is shown below.
+
+Point X on the graph represents an unknown maximum kinetic energy.
+
+10.1 Write down the numerical value of the gradient of the graph.  (1)
+
+10.2 Define the term work function.  (2)
+
+10.3 Calculate the:
+
+ 10.3.1 Work function of metal A  (3)
+
+ 10.3.2 Value of X shown on the graph  (4)
+
+10.4 How will EACH of the following be affected if light of frequency
+12,54 x 1014 Hz, but of higher intensity, is used?
+
+Choose from INCREASES, DECREASES or NO EFFECT.
+
+ 10.4.1 The value of X  (1)
+
+ 10.4.2 The number of photoelectrons emitted per unit time  (1)
+
+Metal B has a larger work function than metal A.
+
+10.5 Redraw the graph above in your ANSWER BOOK. (Do NOT include values
+on the axes.) Label this graph as A.
+
+On the SAME set of axes, sketch the graph for metal B. Label this graph
+as B.
+
+(2)
+   [14]
+
+ TOTAL:  150
+Maximum kinetic energy (J)
+X
+5
+Frequency (x 1014 Hz)
+12,54
+0
+Metal A
+
+=== page 17 ===
+Physical Sciences/P1 1 DBE/2023
+SC/NSC
+Copyright reserved   Please turn over
+
+DATA FOR PHYSICAL SCIENCES GRADE 12
+PAPER 1 (PHYSICS)
+
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 12
+VRAESTEL 1 (FISIKA)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Acceleration due to gravity
+Swaartekragversnelling g 9,8 m·s-2
+Universal gravitational constant
+Universele gravitasiekonstant G 6,67 x 10-11 N·m2·kg-2
+Radius of the Earth
+Radius van die Aarde RE 6,38 x 106 m
+Mass of the Earth
+Massa van die Aarde ME 5,98 x 1024 kg
+Speed of light in a vacuum
+Spoed van lig in 'n vakuum c 3,0 x 108 m·s-1
+Planck's constant
+Planck se konstante h 6,63 x 10-34 J·s
+Coulomb's constant
+Coulomb se konstante k 9,0 x 109 N·m2·C-2
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Electron mass
+Elektronmassa me 9,11 x 10-31 kg
+
+=== page 18 ===
+Physical Sciences/P1 2 DBE/2023
+SC/NSC
+Copyright reserved   Please turn over
+
+TABLE 2:  FORMULAE/TABEL 2:  FORMULES
+
+MOTION/BEWEGING
+
+tavv if 
+
+2
+2
+1
+i taΔtvΔx   or/of
+2
+2
+1
+i taΔtvΔy 
+xa2vv
+2
+i
+2
+f 
+ or/of
+ya2vv
+2
+i
+2
+f 
+Δt2 vvΔx fi    or/of
+Δt2 vvΔy fi  
+
+FORCE/KRAG
+
+maFnet
+
+mvp
+Nμ=f s
+max
+s
+
+Nμ =f kk
+if
+net
+mv- mv=pΔ
+pΔ=tΔF
+
+mgw
+
+2
+21
+d
+mmG=F
+       or/of
+2
+21
+r
+mmG=F
+
+2d
+MG  g 
+2r
+MG g 
+WORK, ENERGY AND POWER/ARBEID, ENERGIE EN DRYWING
+
+xΔF=W
+cos
+
+mghU           or/of
+mghEP
+2mv21K 
+       or/of
+2
+k mv21E 
+KWnet 
+        or/of
+knet EW 
+
+if KKK 
+     or/of
+kikfk EEE 
+UKWnc 
+ or/of
+pknc EEW 
+
+t
+WP 
+Pave = Fvave    / Pgemid = Fvgemid
+
+WAVES, SOUND AND LIGHT/GOLWE, KLANK EN LIG
+
+ fv
+
+f
+1T
+s
+s
+L
+L fvv vvf 
+
+b
+b
+L
+L fvv vvf 
+hfE   or/of
+ hcE
+
+k(max)0 E+ W=E
+  or/of
+max0 K+ W=E  where
+hf  E
+  and
+00 hfW    and
+2
+max(max)k mv21E    or
+2
+maxmax mv21K 
+k(maks)0 E+ W=E
+  of
+maks0 K+ W=E  waar
+hf  E
+ en
+00 hfW   en
+2
+maks)maks(k mv21=E   of
+2
+maksmaks mv21=K
+or/of
+or/of
+
+=== page 19 ===
+Physical Sciences/P1 3 DBE/2023
+SC/NSC
+Copyright reserved
+
+ELECTROSTATICS/ELEKTROSTATIKA
+
+2
+21
+r
+QkQF
+
+2r
+kQE 
+q
+WV
+
+q
+FE
+
+e
+Q=n
+eq
+Q=n
+
+ELECTRIC CIRCUITS/ELEKTRIESE STROOMBANE
+
+I
+VR
+
+emf (
+ε ) = I(R + r)
+
+emk (
+ε ) = I(R + r)
+...RRR 21s 
+
+...R1R1R1 21p 
+
+tq  I
+W = Vq
+
+W = VI
+ t
+
+W = I2R
+ t
+
+W =
+R
+ΔtV2
+Δt
+WP 
+
+P = VI
+
+P = I2R
+
+R
+VP 2
+
+ALTERNATING CURRENT/WISSELSTROOM
+
+2
+max
+rms
+II 
+             /
+2
+maks
+wgk
+II 
+
+2
+VV maxrms 
+           /
+2
+VV makswgk 
+rmsrmsave VP I
+     /
+wgkwgkgemiddeld VP I
+
+RP 2rmsave I
+       /
+RP 2wgkgemiddeld I
+
+R
+VP 2rmsave
+       /
+R
+VP 2wgkgemiddeld
+
+output
+N S
+or/of

@@ -1,0 +1,387 @@
+**Vertroulik**
+
+# basic education
+Department:  
+Basic Education  
+REPUBLIC OF SOUTH AFRICA  
+
+---
+
+## NASIONALE  
+## SENIOR SERTIFIKAAT  
+
+### GRAAD 12  
+
+---
+
+### WISKUNDE V2  
+### NOVEMBER 2024  
+
+---
+
+**PUNTE: 150**  
+**TYD: 3 uur**  
+
+Hierdie vraestel bestaan uit 13 bladsye, 1 inligtingsblad  
+en 'n antwoordeboek van 23 bladsye.  
+
+Kopiereg voorbehou  
+Blaai om asseblief  
+
+---
+
+Wiskunde/V2  
+2  
+DBE/November 2024  
+NSS Vertroulik  
+
+### INSTRUKSIES EN INLIGTING  
+
+Lees die volgende instruksies aandagtig deur voordat die vrae beantwoord word.  
+
+1. Hierdie vraestel bestaan uit 11 vrae.  
+2. Beantwoord AL die vrae in die SPESIALE ANTWOORDEBOEK wat verskaf word.  
+3. Dui ALLE berekeninge, diagramme, grafieke, ens. wat jy in die beantwoording van die vrae gebruik, duidelik aan.  
+4. Slegs antwoorde sal NIE noodwendig volpunte verdien NIE.  
+5. Jy mag 'n goedgekeurde wetenskaplike sakrekenaar gebruik (nieprogrammeerbaar en niegrafies), tensy anders vermeld.  
+6. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders vermeld.  
+7. Diagramme is NIE noodwendig volgens skaal geteken NIE.  
+8. 'n Inligtingsblad met formules is aan die einde van die vraestel ingesluit.  
+9. Skryf netjies en leesbaar.  
+
+Kopiereg voorbehou  
+Blaai om asseblief  
+
+---
+
+Wiskunde/V2  
+3  
+DBE/November 2024  
+NSS Vertroulik  
+
+### VRAAG 1  
+
+Die afrigter van 'n junior seunsrugbyspan het aan die begin van 'n seisoen die gewig (in kg) van die 15 spelers in sy span en die aantal opstote wat elke speler in 'n minuut kon doen, aangeteken.  
+Die data word in die tabel en spreidiagram hieronder verteenwoordig. Die kleinstekwadrateregressielyn vir die data is geteken.  
+
+| Gewig (in kg) ($x$) | 34 | 32 | 40 | 27 | 33 | 28 | 27 | 55 | 39 | 44 | 30 | 57 | 28 | 32 | 31 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Getal opstote per minuut ($y$) | 26 | 21 | 6 | 20 | 16 | 26 | 23 | 7 | 18 | 14 | 17 | 8 | 28 | 25 | 20 |
+
+[DIAGRAM: Scatter plot titled "Spreidiagram" with x-axis "Gewig (in kg)" from 0 to 60 and y-axis "Opstote per minuut" from 0 to 30, showing 15 data points and a downward sloping line of best fit.]
+
+1.1 Bepaal die vergelyking van die kleinstekwadrateregressielyn vir die data. (3)  
+1.2 Skryf die korrelasiekoëffisiënt neer. (1)  
+1.3 Die afrigter gebruik die kleinstekwadrateregressielyn om die teiken vir die minimum aantal opstote vir elke spanlid, volgens hulle gewig, te stel. Voorspel die getal opstote wat 'n spanlid wat $29\text{ kg}$ weeg, behoort te doen om die teiken te bereik. (2)  
+1.4 Skryf die gemiddelde getal opstote vir die gegewe data neer. (1)  
+1.5 Die spelers het gedurende die seisoen hard geoefen. Die afrigter het aan die einde van die seisoen gesê dat elke speler $5$ opstote per minuut meer as aan die begin van die seisoen kon doen. Hoe beïnvloed die toename in die getal opstote die standaardafwyking van die data? (1)  
+1.6 Die afrigter het aan die begin van die seisoen die kleinstekwadrateregressielyn gebruik as die minimum teiken waarna 'n speler moes streef. Bepaal die maksimum moontlike toename in die getal opstote wat 'n speler moet doen om die minimum teiken te bereik. (2)  
+[10]  
+
+Kopiereg voorbehou  
+Blaai om asseblief  
+
+---
+
+Wiskunde/V2  
+4  
+DBE/November 2024  
+NSS Vertroulik  
+
+### VRAAG 2  
+
+Die kumulatiewefrekwensie-grafiek (ogief) toon die tyd (in minute) wat dit 60 werknemers neem om elke oggend werk toe te reis.  
+
+[DIAGRAM: Cumulative frequency graph (ogief) titled "Ogief" showing "Kumulatiewefrekwensie" on y-axis from 0 to 65 and "Tyd (in minute)" on x-axis from 0 to 140, rising from (0,0) to a maximum near (120,60).]
+
+2.1 Skat die mediaan-reistyd. (1)  
+2.2 Skat die onderste kwartiel. (1)  
+2.3 Skat die interkwartielvariasiewydte. (2)  
+2.4 Die minimum en maksimum tye wat dit 'n werknemer neem om werk toe te reis, is onderskeidelik $5$ en $120\text{ minute}$. Op die getallelyn in die ANTWOORDEBOEK, teken 'n mond-en-snordiagram om die verspreiding van die data, soos in die ogief hierbo voorgestel, aan te dui. (2)  
+2.5 Die maatskappybestuurder het besluit dat alle werknemers wat langer as 'n uur werk toe reis, toegelaat sal word om vir 'n gedeelte van die dag van die huis af te werk. Watter persentasie van die werknemers sal toegelaat word om vir 'n gedeelte van die dag van die huis af te werk? (2)  
+2.6 Werknemers werk $8\text{ ure}$ in 'n normale werksdag. Die bestuurder besluit op die volgende reël vir tyd om van die huis af te werk:  
+* 'n Werknemer word toegelaat om 'n halfuur van die huis af te werk vir elke tydinterval van $20\text{ minute}$, of gedeelte daarvan, wat dit langer as 'n uur neem om werk toe te reis.  
+
+Op 'n sekere dag neem 'n werknemer $110\text{ minute}$ om werk toe te reis. Bereken die getal minute wat hierdie werknemer op hierdie dag toegelaat sal word om van die huis af te werk. (2)  
+[10]  
+
+Kopiereg voorbehou  
+Blaai om asseblief  
+
+---
+
+Wiskunde/V2  
+5  
+DBE/November 2024  
+NSS Vertroulik  
+
+### VRAAG 3  
+
+In die diagram hieronder het $\Delta ACD$ hoekpunte $A$, $D(3;-9)$ en $C(-9;0)$, waar $A$ 'n punt in die tweede kwadrant is. $B(-1;k)$ lê op sy $DC$.  
+
+[DIAGRAM: Cartesian plane showing triangle ACD with C(-9;0) on the negative x-axis, D(3;-9) in the fourth quadrant, A in the second quadrant, and B(-1;k) on line DC in the fourth quadrant. Origin O is marked.]
+
+3.1 Bereken die helling van $DC$. (2)  
+3.2 Bepaal die vergelyking van $DC$ in die vorm $y = mx + c$. (2)  
+3.3 Toon dat $k = -6$. (1)  
+3.4 Bereken die lengte van $DC$. (2)  
+3.5 Bereken die verhouding van $\frac{DB}{DC}$. (2)  
+3.6 Indien $M$ 'n punt op $AD$ is sodanig dat $AC \parallel MB$, bereken die verhouding van $\frac{\text{Area } \Delta MBD}{\text{Area } \Delta ACD}$. (4)  
+3.7 Indien daar verder gegewe word dat die helling van $AD$, $-4$ is en die lengte van $AD$ $\sqrt{612}$ eenhede is, bereken die koördinate van $A$. (6)  
+[19]  
+
+Kopiereg voorbehou  
+Blaai om asseblief  
+
+---
+
+Wiskunde/V2  
+6  
+DBE/November 2024  
+NSS Vertroulik  
+
+### VRAAG 4  
+
+In die diagram is $M(1;3)$ die middelpunt van die sirkel. Die sirkel sny die $x$-as by $N$. $ST$ is 'n raaklyn aan die sirkel by $P(3;9)$. $R(d;1)$, met $d > 0$, en $L$ is punte op die sirkel. $O$ en $V$ is die $x$-afsnitte van $PL$ en $RL$ onderskeidelik.  
+
+[DIAGRAM: Circle with center M(1;3), tangent ST at P(3;9), points R(d;1), N on x-axis, L at bottom, O and V as x-intercepts of PL and RL respectively.]
+
+4.1 Skryf die koördinate van $L$ neer. (2)  
+4.2 Bepaal die vergelyking van raaklyn $ST$ aan die sirkel by $P$. (4)  
+4.3 Toon dat die vergelyking van die sirkel met middelpunt $M$, $x^2 + y^2 - 2x - 6y - 30 = 0$ is. (4)  
+4.4 Toon dat $d = 7$. (2)  
+4.5 Bereken die grootte van $\hat{L}$ (5)  
+4.6 $TR$ is 'n raaklyn aan die sirkel by $R$. Bewys dat $PT \perp RT$. (3)  
+[20]  
+
+Kopiereg voorbehou  
+Blaai om asseblief  
+
+---
+
+Wiskunde/V2  
+7  
+DBE/November 2024  
+NSS Vertroulik  
+
+### VRAAG 5  
+
+5.1 In die diagram word lyn $OP$ met $P(-3;-4)$ gegee. $K\hat{O}P = A$.  
+
+[DIAGRAM: Cartesian plane showing angle A from positive x-axis (K) counterclockwise to ray OP in the third quadrant, passing through P(-3;-4).]
+
+Bepaal, sonder die gebruik van 'n sakrekenaar, die waarde van:  
+5.1.1 $\cos A$ (2)  
+5.1.2 $\cos 2A$ (2)  
+5.1.3 $\sin(A - B)$, indien daar verder gegewe word dat $\sin B = \frac{4}{5}$ en $90^\circ < B < 360^\circ$ (4)  
+
+5.2 Indien $\cos \alpha = p$, druk die volgende uitdrukking in terme van $p$ uit:  
+$$\frac{\cos\left(\frac{\alpha}{2} - 45^\circ\right)\sin\left(\frac{\alpha}{2} - 45^\circ\right)}{2}$$ (4)  
+[12]  
+
+Kopiereg voorbehou  
+Blaai om asseblief  
+
+---
+
+Wiskunde/V2  
+8  
+DBE/November 2024  
+NSS Vertroulik  
+
+### VRAAG 6  
+
+6.1 Gegee die identiteit: $\cos(x - y) = \cos x \cos y + \sin x \sin y$  
+6.1.1 Gebruik die saamgesteldehoek-identiteit wat hierbo gegee word om 'n formule vir $\cos(x + y)$ af te lei. (2)  
+6.1.2 Vervolgens, of andersins, toon dat:  
+$$\frac{\cos(90^\circ - x)\cos y + \sin(-y)\cos(180^\circ + x)}{\cos x \cos(360^\circ + y) + \sin(360^\circ - x)\sin y} = \tan(x + y)$$ (6)  
+
+6.2 Gegee: $f(x) = \sqrt{6}\sin^2 x - 11\cos(90^\circ + x) + 7$  
+Los op vir $x$ in die interval $x \in (0^\circ; 360^\circ)$ as $f(x) = 2$. (6)  
+
+6.3 Beskou die funksie: $g(x) = \frac{4 - 8\sin^2 x}{3}$  
+6.3.1 Bereken die maksimum waarde van $g$. (3)  
+6.3.2 Skryf die kleinste moontlike waarde van $x$ neer waarvoor $g$ 'n maksimum waarde in die interval $x \in (0^\circ; 360^\circ]$ sal hê. (1)  
+[18]  
+
+Kopiereg voorbehou  
+Blaai om asseblief  
+
+---
+
+Wiskunde/V2  
+9  
+DBE/November 2024  
+NSS Vertroulik  
+
+### VRAAG 7  
+
+In die diagram hieronder is die grafiek van $f(x) = \tan x$ geteken vir die interval $x \in [-180^\circ; 180^\circ]$.  
+
+[DIAGRAM: Graph of $f(x) = \tan x$ from $-180^\circ$ to $180^\circ$ with asymptotes at $-90^\circ$ and $90^\circ$.]
+
+7.1 Skryf die vergelyking van die asimptoot van $f$ in die interval $x \in [0^\circ; 180^\circ]$ neer. (1)  
+7.2 Skryf die waardes van $x$ in die interval $x \in [-180^\circ; 0^\circ]$ neer waarvoor $f(x) \le 0$. (2)  
+7.3 Gegee: $g(x) = \cos 2x + 1$  
+7.3.1 Skryf die periode van $g$ neer. (1)  
+7.3.2 Op die rooster wat in die ANTWOORDEBOEK verskaf word, teken die grafiek van $g(x) = \cos 2x + 1$ vir die interval $x \in [-180^\circ; 180^\circ]$. Toon duidelik die afsnitte met die asse asook die koördinate van die draaipunte. (3)  
+7.4 Gebruik die grafieke om die algemene oplossing van $2\cos^3 x - \sin x = 0$ te bepaal. (4)  
+[11]  
+
+Kopiereg voorbehou  
+Blaai om asseblief  
+
+---
+
+Wiskunde/V2  
+10  
+DBE/November 2024  
+NSS Vertroulik  
+
+### VRAAG 8  
+
+In die diagram is $C$ die voet van 'n vertikale gebou en $D$ die bopunt van dieselfde gebou. Die hoogte van die gebou, $CD$, is $16\text{ m}$. Twee waarnemers staan $19\text{ m}$ van mekaar af by punte $A$ en $B$, waar $A$, $B$ en $C$ in dieselfde horisontale vlak lê. 'n Verwer werk aan die gebou by punt $E$. Die hoogtehoek vanaf $A$ na $D$ is $46,85^\circ$, $D\hat{E}B = 122^\circ$ en $B\hat{C}A = 105,61^\circ$.  
+
+[DIAGRAM: 3D perspective drawing showing building CD of height 16m, observers at A and B on the horizontal ground, worker at E on the building, with lines connecting A, B, C, D, and E. Angles $46,85^\circ$, $122^\circ$, and $105,61^\circ$ are marked.]
+
+8.1 Bereken die lengte van $AC$, die afstand tussen die waarnemer by $A$ en die voet van die gebou. (2)  
+8.2 Bereken hoe ver die verwer by $E$ vanaf die bopunt van die gebou is. (7)  
+[9]  
+
+Kopiereg voorbehou  
+Blaai om asseblief  
+
+---
+
+Wiskunde/V2  
+11  
+DBE/November 2024  
+NSS Vertroulik  
+
+**Gee redes vir jou bewerings in VRAAG 9, 10 en 11.**  
+
+### VRAAG 9  
+
+In die diagram is $ABCD$ 'n koordevierhoek. $BC$ is verleng na $E$. $AC$ is getrek.  
+$\hat{A}_1 = \frac{1}{2}\hat{B}$, $\hat{A}_2 = 46^\circ$ en $\hat{C}_1 = 86^\circ$.  
+
+[DIAGRAM: Cyclic quadrilateral ABCD inscribed in a circle. AC is drawn. BC is extended to E. Angle $\hat{A}_1$, $\hat{A}_2 = 46^\circ$, and $\hat{C}_1 = 86^\circ$ are marked.]
+
+9.1 Bereken, met 'n rede, die waarde van $\hat{A}_1$. (2)  
+9.2 Bewys vervolgens dat $AD = DC$. (4)  
+[6]  
+
+Kopiereg voorbehou  
+Blaai om asseblief  
+
+---
+
+Wiskunde/V2  
+12  
+DBE/November 2024  
+NSS Vertroulik  
+
+### VRAAG 10  
+
+10.1 In die diagram is $\Delta RST$ getrek. Lyn $AB$ sny $RS$ en $RT$ by $A$ en $B$ onderskeidelik sodanig dat $AB \parallel ST$.  
+
+[DIAGRAM: Triangle RST with line AB parallel to ST intersecting RS at A and RT at B.]
+
+Bewys die stelling wat sê dat 'n lyn wat ewewydig aan een sy van 'n driehoek getrek word, die ander twee sye eweredig verdeel, m.a.w. $\frac{RA}{AS} = \frac{RB}{BT}$. (6)  
+
+10.2 In die diagram is $O$ die middelpunt van die sirkel. $\Delta PWS$ is getrek met $P$, $W$ en $S$ op die sirkel. $OR \perp PS$. $PRS$ is verleng na $T$. $SW$ en $OT$ sny by $V$.  
+$OV : OT = 1 : 4$  
+
+[DIAGRAM: Circle with center O. Triangle PWS inscribed. OR perpendicular to PS. PRS extended to T. SW and OT intersect at V. OV:OT = 1:4.]
+
+10.2.1 Bewys, met redes, dat $OR : WS = 1 : 2$ (5)  
+10.2.2 Bereken die lengte van $PT$ as $ST = 15$ eenhede. (4)  
+[15]  
+
+Kopiereg voorbehou  
+Blaai om asseblief  
+
+---
+
+Wiskunde/V2  
+13  
+DBE/November 2024  
+NSS Vertroulik  
+
+### VRAAG 11  
+
+In die diagram is $A$, $B$, $G$ en $F$ punte op die groter sirkel. 'n Kleiner sirkel is getrek om die groter sirkel inwendig by $A$ te sny. $EA$ is 'n gemeenskaplike raaklyn aan beide sirkels. $EBCF$ is 'n raaklyn aan die kleiner sirkel by $C$. $AC$ is verleng na $G$. $AF$ sny die kleiner sirkel by $D$.  
+$AB$, $CD$ en $GF$ is getrek.  
+
+[DIAGRAM: Two intersecting circles with a common tangent EA at A, tangent EBCF at C, chords AB, CD, GF, AC extended to G, and AF intersecting the smaller circle at D.]
+
+11.1 As $E\hat{A}G = x$, bepaal met redes, VIER ander hoeke wat aan $x$ gelyk is. (6)  
+11.2 Bewys dat $AG.AD = AC.AF$. (4)  
+11.3 Bewys dat $\Delta AGF \parallel\parallel\parallel \Delta ABC$. (4)  
+11.4 Bewys dat $GF^2 = \frac{BC.FC.AF}{AD}$. (6)  
+[20]  
+
+**TOTAAL: 150**  
+
+Kopiereg voorbehou  
+
+---
+
+Wiskunde/V2  
+14  
+DBE/November 2024  
+NSS Vertroulik  
+
+### INLIGTINGSBLAD  
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni)$$  
+$$A = P(1 - ni)$$  
+$$A = P(1 - i)^n$$  
+$$A = P(1 + i)^n$$  
+
+$$T_n = a + (n - 1)d$$  
+$$S_n = \frac{n}{2}[2a + (n - 1)d]$$  
+
+$$T_n = ar^{n-1}$$  
+$$S_n = \frac{a(r^n - 1)}{r - 1} \quad (r \neq 1)$$  
+$$S_\infty = \frac{a}{1 - r} \quad (-1 < r < 1)$$  
+
+$$F = \frac{x[(1 + i)^n - 1]}{i}$$  
+$$P = \frac{x[1 - (1 + i)^{-n}]}{i}$$  
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$  
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$  
+$$M\left(\frac{x_1 + x_2}{2}; \frac{y_1 + y_2}{2}\right)$$  
+
+$$y = mx + c$$  
+$$y - y_1 = m(x - x_1)$$  
+$$m = \frac{y_2 - y_1}{x_2 - x_1}$$  
+$$m = \tan \theta$$  
+
+$$(x - a)^2 + (y - b)^2 = r^2$$  
+
+$$\text{In } \Delta ABC: \frac{\sin A}{a} = \frac{\sin B}{b} = \frac{\sin C}{c}$$  
+$$a^2 = b^2 + c^2 - 2bc \cos A$$  
+$$\text{area } \Delta ABC = \frac{1}{2}ab \sin C$$  
+
+$$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta$$  
+$$\sin(\alpha - \beta) = \sin \alpha \cos \beta - \cos \alpha \sin \beta$$  
+$$\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta$$  
+$$\cos(\alpha - \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta$$  
+
+$$\cos 2\alpha = \begin{cases} \cos^2 \alpha - \sin^2 \alpha \\ 1 - 2\sin^2 \alpha \\ 2\cos^2 \alpha - 1 \end{cases}$$  
+$$\sin 2\alpha = 2 \sin \alpha \cos \alpha$$  
+
+$$\bar{x} = \frac{\sum_{i=1}^n x_i}{n}$$  
+$$\sigma^2 = \frac{\sum_{i=1}^n (x_i - \bar{x})^2}{n}$$  
+
+$$P(A) = \frac{n(A)}{n(S)}$$  
+$$P(A \text{ of } B) = P(A) + P(B) - P(A \text{ en } B)$$  
+
+$$\hat{y} = a + bx$$  
+$$b = \frac{\sum(x - \bar{x})(y - \bar{y})}{\sum(x - \bar{x})^2}$$  
+
+Kopiereg voorbehou

@@ -1,0 +1,139 @@
+Mathematics/P1/Wiskunde V1
+
+CAPS/KABV – Grade/Graad 11 – Marking Guidelines/Nasienriglyne
+
+---
+
+### **QUESTION/VRAAG 1**
+
+| | | |
+| :--- | :--- | :--- |
+| 1.1.1 | $\begin{aligned} x(2x+1) &= 0 \\ x &= 0 \quad \text{or/of} \quad x = -\frac{1}{2} \end{aligned}$ | $\checkmark x = 0$<br>$\checkmark x = -\frac{1}{2}$<br>(2) |
+| 1.1.2 | $\begin{aligned} 5x^2 + 2x - 6 &= 0 \\ x &= \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} \\ &= \frac{-(2) \pm \sqrt{(2)^2 - 4(5)(-6)}}{2(5)} \\ &= \frac{5 \pm \sqrt{124}}{10} \\ x = 0,91 &\quad \text{or/of} \quad x = -1,31 \end{aligned}$ | $\checkmark$ substitution into correct formula/<br>vervanging in korrekte formule<br><br><br>$\checkmark$ answer/antw.<br>$\checkmark$ answer/antw.<br>(3) |
+| 1.1.3 | $\begin{aligned} 2x^2 - 2 &\ge 3x \\ 2x^2 - 3x - 2 &\ge 0 \\ (2x+1)(x-2) &\ge 0 \end{aligned}$<br><br>$$\includegraphics[width=0.3\textwidth]{image_placeholder}$$<br>$x \le -\frac{1}{2} \quad \text{or/of} \quad x \ge 2$ | $\checkmark$ std form/stand. vorm<br>$\checkmark$ factors or using formula/<br>faktore of gebruik formule<br><br><br><br>$\checkmark\checkmark x \le -\frac{1}{2} \quad \text{or/of} \quad x \ge 2$<br>(4) |
+
+---
+
+Page 3
+
+| | | |
+| :--- | :--- | :--- |
+| 1.1.4 | $\begin{aligned} \sqrt{2x+5} - \frac{3}{\sqrt{2x+5}} &= -2 \\ \text{Let } \sqrt{2x+5} &= k \\ k - \frac{3}{k} &= -2 \\ k^2 - 3 &= -2k \\ k^2 + 2k - 3 &= 0 \\ (k+3)(k-1) &= 0 \\ k &= -3 \quad \text{or/of} \quad k = 1 \end{aligned}$<br><br>$\begin{array}{rcc} \sqrt{2x+5} &= -3 & \text{or/of} \\ \text{no solution} & & \end{array}$ $\begin{aligned} \sqrt{2x+5} &= 1 \\ 2x+5 &= 1 \\ 2x &= -4 \\ x &= -2 \end{aligned}$<br><br>**OR/OF**<br><br>$\begin{aligned} \sqrt{2x+5} - \frac{3}{\sqrt{2x+5}} &= -2 \\ (\sqrt{2x+5})^2 - 3 &= -2\sqrt{2x+5} \\ (\sqrt{2x+5})^2 + 2(\sqrt{2x+5}) - 3 &= 0 \\ (\sqrt{2x+5} + 3)(\sqrt{2x+5} - 1) &= 0 \end{aligned}$<br><br>$\sqrt{2x+5} = -3 \quad \text{or/of} \quad \sqrt{2x+5} = 1$<br><br>$\begin{array}{rcc} \sqrt{2x+5} &= -3 & \text{or/of} \\ \text{no solution} & & \end{array}$ $\begin{aligned} \sqrt{2x+5} &= 1 \\ 2x+5 &= 1 \\ 2x &= -4 \\ x &= -2 \end{aligned}$<br><br>**OR/OF** | $\checkmark$ changing to quadratic/<br>verander na kwadraties<br>$\checkmark$ factors or using formula/<br>faktore of gebruik formule<br><br>$\checkmark k = 3 \quad \text{or/of} \quad k = 1$<br><br>$\checkmark$ no solution/ geen oplossing<br><br>$\checkmark$ square both sides/<br>kwadreer beide kante<br>$\checkmark \quad x = -2$<br><br>(6)<br><br><br><br><br>$\checkmark$ changing to quadratic/<br>verander na kwadraties<br>$\checkmark$ factors/fakt.<br>$\checkmark \sqrt{2x+5} = -3 \text{ or/of } \sqrt{2x+5} = 1$<br><br>$\checkmark$ no solution/ geen oplossing<br>$\checkmark$ square both sides/<br>kwadreer beide kante<br>$\checkmark \quad x = -2$<br><br>(6) |
+
+---
+
+Page 4
+
+| | | |
+| :--- | :--- | :--- |
+| $\sqrt{2x+5} - \frac{3}{\sqrt{2x+5}} &= -2$<br><br>$\begin{aligned} 2x + 5 - 3 &= -2\sqrt{2x+5} \\ 2x + 2 &= -2\sqrt{2x+5} \\ (2x+2)^2 &= (-2\sqrt{2x+5})^2 \\ 4x^2 + 8x + 4 &= 4(2x+5) \\ 4x^2 + 8x + 4 &= 8x + 20 \\ 4x^2 - 16 &= 0 \\ x^2 - 4 &= 0 \\ (x+2)(x-2) &= 0 \\ x &= -2 \quad \text{or/of} \quad x \ne 2 \end{aligned}$ | $\checkmark$ Multiplying by/ Vermenigv. met<br>$\sqrt{2x+5}$/<br><br>$\checkmark$ square both sides/<br>kwadreer beide kante<br>$\checkmark$ std form/ vorm<br>$\checkmark$ factors/fakt.<br>$\checkmark \quad x \ne 2$<br>$\checkmark \quad x = -2$<br>(6) |
+| 1.2 | $\begin{aligned} y + x &= 2 \quad \text{and/en} \quad x^2 + 3xy + 8 &= 0 \\ \therefore y &= 2 - x \end{aligned}$<br>$\begin{aligned} x^2 + 3x(2-x) + 8 &= 0 \\ x^2 + 6x - 3x^2 + 8 &= 0 \\ -2x^2 + 6x + 8 &= 0 \\ x^2 - 3x - 4 &= 0 \\ (x-4)(x+1) &= 0 \end{aligned}$<br><br>$\begin{array}{rcc} x = 4 \quad \text{or} \quad x = -1 & & \\ y = 2 - 4 & \text{or/of} & y = 2 - (-1) \\ y = -2 & & y = 3 \end{array}$<br><br>**OR/OF**<br><br>$\begin{aligned} y + x &= 2 \quad \text{and} \quad x^2 + 3xy + 8 &= 0 \\ \therefore x &= 2 - y \end{aligned}$<br>$\begin{aligned} (2-y)^2 + 3(2-y)y + 8 &= 0 \\ 4 - 4y + y^2 + 6y - 3y^2 + 8 &= 0 \\ -2y^2 + 2y + 12 &= 0 \\ y^2 - y - 6 &= 0 \\ (y-3)(y+2) &= 0 \end{aligned}$<br><br>$\begin{array}{rcc} y = 3 \quad \text{or } y &= -2 & \\ x = 2 - 3 \quad \text{or} & & x = 2 - (-2) \\ x = -1 \quad \text{or} & & x = 4 \end{array}$ | $\checkmark y = 2 - x$<br>$\checkmark$ substitution/verv.<br><br>$\checkmark$ std form/stand. vorm<br><br>$\checkmark$ factors or using formula/<br>faktore of gebruik formule<br>$\checkmark$ both $x$-values/wrdes<br><br>$\checkmark$ both $y$-values/wrdes<br><br>(6)<br><br><br><br>$\checkmark x = 2 - y$<br>$\checkmark$ substitution/verv.<br><br>$\checkmark$ std form/stand. vorm<br><br>$\checkmark$ factors or using formula/<br>faktore of gebruik formule<br>$\checkmark$ both $y$-values/wrdes<br><br>$\checkmark$ both $x$-values/wrdes<br><br>(6) |
+
+---
+
+Page 5
+
+| | | |
+| :--- | :--- | :--- |
+| 1.3 | $x = \frac{4 \pm \sqrt{16 - 4m(-m+5)}}{2m}$<br><br>For non-real roots/Vir nie-reële wortels: $16 - 4m(-m+5) < 0$<br>$\begin{aligned} 16 + 4m^2 - 20m &< 0 \\ m^2 - 5m + 4 &< 0 \\ (m-4)(m-1) &< 0 \\ 1 &< m < 4 \end{aligned}$ | $\checkmark 16 - 4m(-m+5) < 0$<br><br>$\checkmark$ factors or using formula/<br>faktore of gebruik formule<br><br>$\checkmark\checkmark 1 < m < 4$<br>(4) |
+| 1.4 | $\begin{aligned} &-x^2 + 4x + 12 \\ &= -1(x^2 - 4x - 12) \\ &= -1(x^2 - 4x + 4 - 4 - 12) \\ &= -1(x-2)^2 + 16 \end{aligned}$<br>The maximum value of/Die maksimum waarde van<br>$-x^2 + 4x + 12$ is $16$<br>$\therefore \text{max value of } \sqrt{-x^2 + 4x + 12} \text{ is } 4$<br><br>**OR/OF**<br><br>$\sqrt{-x^2 + 4x + 12}$<br>$\text{max when } x = \frac{-b}{2a}$<br>$\quad\quad\quad\quad = \frac{-4}{2(-1)}$<br>$\quad\quad\quad\quad = 2$<br><br>$\text{max value } y = -(2)^2 + 4(2) + 12$<br>$\quad\quad\quad\quad\quad\quad = 16$<br><br>The maximum value of/Die maksimum waarde van<br>$-x^2 + 4x + 12$ is $16$<br>$\therefore \text{max value of } \sqrt{-x^2 + 4x + 12} \text{ is } 4$ | $\checkmark -1(x^2 - 4x - 12)$<br>$\checkmark -1(x^2 - 4x + 4 - 4 - 12)$<br>$\checkmark -1(x-2)^2 + 16$<br><br><br>$\checkmark \sqrt{16} = 4$<br>(4)<br><br>**OR/OF**<br><br><br>$\checkmark$ subst./verv.<br><br>$\checkmark x$-value/waarde<br><br>$\checkmark y$-value/waarde<br><br><br><br>$\checkmark \sqrt{16} = 4$<br>(4)<br>**[29]** |
+
+---
+
+### **QUESTION/VRAAG 2**
+
+| | | |
+| :--- | :--- | :--- |
+| 2.1 | $\begin{aligned} &\frac{2^{x-3} - 3.2^{x+1}}{2^{x-2}} \\ &= \frac{2^x \cdot 2^{-3} - 3.2^x \cdot 2^1}{2^x \cdot 2^{-2}} \\ &= \frac{2^x(2^{-3} - 3.2)}{2^x \cdot 2^{-2}} \\ &= \frac{\frac{1}{8} - 6}{\frac{1}{4}} \\ &= -\frac{47}{2} \end{aligned}$ | $\checkmark$ separate bases/aparte basisse<br><br>$\checkmark$ common factor/gemene fakt.<br>$\checkmark (2^{-3} - 3.2)$<br><br>$\checkmark$ answer/antw.<br>(4) |
+| 2.2.1 | $\begin{aligned} 16x^{-\frac{3}{2}} &= 2 \\ x^{-\frac{3}{2}} &= \frac{1}{8} \\ \left(x^{-\frac{3}{2}}\right)^{-\frac{2}{3}} &= \left(2^{-3}\right)^{-\frac{2}{3}} \\ x &= 4 \end{aligned}$<br><br>**OR/OF**<br><br>$\begin{aligned} 2 - 16x^{-\frac{3}{2}} &= 0 \\ 2 &= 2^4 \cdot x^{-\frac{3}{2}} \\ 2^{-3} &= x^{-\frac{3}{2}} \\ x &= 2^{-3 \cdot -\frac{2}{3}} \\ x &= 4 \end{aligned}$ | $\checkmark$ isolating/isoleer $x$<br><br>$\checkmark$ raising both sides by/verhef<br>albei kante met $-\frac{2}{3}$<br>$\checkmark$ answer/antw.<br>(3)<br><br><br>$\checkmark$ prime base/priembasis<br><br>$\checkmark$ exp law/eksp. wet<br><br>$\checkmark$ answer/antw.<br>(3) |
+
+---
+
+Page 7
+
+| | | |
+| :--- | :--- | :--- |
+| 2.2.2 | $\begin{aligned} 4^x + 8 &= 9.2^x \\ (2^2)^x - 9.2^x + 8 &= 0 \\ 2^{2x} - 9.2^x + 8 &= 0 \\ (2^x - 8)(2^x - 1) &= 0 \\ 2^x = 8 \quad &\text{or/of} \quad 2^x = 1 \\ 2^x = 2^3 \quad &\text{or/of} \quad 2^x = 2^0 \\ x = 3 \quad &\text{or/of} \quad x = 0 \end{aligned}$<br><br>**OR/OF**<br><br>$\begin{aligned} 4^x + 8 &= 9.2^x \\ (2^2)^x - 9.2^x + 8 &= 0 \\ 2^{2x} - 9.2^x + 8 &= 0 \\ \text{Let } 2^x &= k \\ k^2 - 9.k + 8 &= 0 \\ (k - 8)(k - 1) &= 0 \\ k = 8 \quad &\text{or} \quad k = 1 \\ 2^x = 8 \quad &\text{or/of} \quad 2^x = 1 \\ 2^x = 2^3 \quad &\text{or/of} \quad 2^x = 2^0 \\ x = 3 \quad &\text{or/of} \quad x = 0 \end{aligned}$ | $\checkmark$ standard form/stand. vorm<br><br>$\checkmark 2^x = 8 \quad \text{or } 2^x = 1$<br><br>$\checkmark x = 3$<br>$\checkmark x = 0$<br>(4)<br><br><br><br><br>$\checkmark$ standard form/stand. vorm<br><br>$\checkmark 2^x = 8 \quad \text{or } 2^x = 1$<br><br>$\checkmark x = 3$<br>$\checkmark x = 0$<br>(4) |
+| 2.2.3 | $\begin{aligned} \sqrt[3]{9} &= 243^x \\ 3^{\frac{2}{3}} &= 3^{5x} \\ \frac{2}{3} &= 5x \\ x &= \frac{2}{15} \end{aligned}$ **OR/OF** $\begin{aligned} (\sqrt[3]{3^2})^x &= (3^5)^x \\ 3^{\frac{2}{3}x} &= 3^{5x} \\ 2 = 5x \\ x &= \frac{2}{15} \end{aligned}$ | $\checkmark$ exp form/eksp. vorm<br><br>$\checkmark$ equating the exp/gelykst van eks<br><br>$\checkmark$ answer/antw.<br>(3) |
+| 2.3 | $\begin{aligned} &\frac{\sqrt{p^2 - q^2} \times (p+q)^{\frac{5}{2}}}{(p-q)^{\frac{1}{2}}} \\ &= \frac{\sqrt{(p-q)(p+q)} \times (p+q)^{\frac{5}{2}}}{(p-q)^{\frac{1}{2}}} \\ &= \frac{(p-q)^{\frac{1}{2}}(p+q)^{\frac{1}{2}} \times (p+q)^{\frac{5}{2}}}{(p-q)^{\frac{1}{2}}} \\ &= (p+q)^{\frac{1}{2} + \frac{5}{2}} \\ &= (p+q)^3 \end{aligned}$ | $\checkmark$ difference of 2 squares<br>verskil van 2 kwadrate<br><br>$\checkmark$ exponent law/eksponentwet<br><br>$\checkmark$ answer/antw.<br>(3) |
+
+---
+
+Page 8
+
+| | | |
+| :--- | :--- | :--- |
+| **OR/OF**<br><br>$\begin{aligned} &\frac{\sqrt{p^2 - q^2} \times (p+q)^{\frac{5}{2}}}{(p-q)^{\frac{1}{2}}} \\ &= \sqrt{\frac{(p-q)(p+q) \times (p+q)^5}{(p-q)}} \\ &= \sqrt{(p+q)^6} \\ &= (p+q)^3 \end{aligned}$ | $\checkmark$ difference of 2 squares<br>verskil van 2 kwadrate<br><br>$\checkmark$ exponent law/eksponentwet<br><br>$\checkmark$ answer/antw.<br>(3)<br>**[17]** |
+
+---
+
+### **QUESTION/VRAAG 3**
+
+| | | |
+| :--- | :--- | :--- |
+| 3.1.1 | $\begin{array}{rccccccc} 7 & & 2 & & -3 & & & \\ & -5 & & -5 & & & & \end{array}$<br><br>$\begin{aligned} T_n &= an + b \\ &= -5n + 12 \end{aligned}$ | $\checkmark -5n$<br>$\checkmark 12$<br>(2) |
+| 3.1.2 | $\begin{aligned} T_{20} &= -5(20) + 12 \\ &= -88 \end{aligned}$ | $\checkmark$ substitution/verv.<br>$\checkmark$ answer/antw.<br>(2) |
+| 3.1.3 | $\begin{aligned} -5n + 12 &= -138 \\ -5n &= -150 \\ n &= 30 \\ &\text{$30^{\text{th}}$ term }(T_{30}) \end{aligned}$ | $\checkmark$ substitution/verv.<br><br>$\checkmark$ answer/antw.<br>(2) |
+| 3.2 | $\begin{array}{rccccccc} 6 & & 2x+1 & & 3x-3 & & & \\ & 2x-5 & & x-4 & & & & \end{array}$<br><br>$\begin{aligned} 2x-5 &= x-4 \\ x &= 1 \end{aligned}$ | $\checkmark 2x-5 \text{ and/en } x-4$<br><br>$\checkmark$ equating/verg.<br>$\checkmark$ answer/antw.<br>(3)<br>**[9]** |
+
+---
+
+### **QUESTION/VRAAG 4**
+
+| | | |
+| :--- | :--- | :--- |
+| 4.1 | $\begin{aligned} &1^{\text{st}}\text{ difference/1}^{\text{ste}}\text{ verskil:} \\ &p-4;\ 11-p;\ q-11;\ 22-q \\ &2^{\text{nd}}\text{ difference/2}^{\text{de}}\text{ verskil:} \\ &-2p+15; q+p-22;\ 33-2q \\ &-2p+15 = 1 \\ &\quad -2p = -14 \\ &\quad\quad p = 7 \\ &33-2q = 1 \quad\quad\text{or/of} \quad q+p-22 = 1 \\ &\quad -2q = -32 \quad\quad\quad\quad\ \ q+7-22 = 1 \\ &\quad\quad q = 16 \quad\quad\quad\quad\quad\quad\quad q = 16 \end{aligned}$<br><br>**OR/OF**<br><br>$\begin{aligned} -2p+15 &= 1 \\ -2p &= -14 \\ p &= 7 \end{aligned}$<br><br>$\begin{array}{rccccccc} 4 & & 7 & & 11 & & 16 & \\ & 3 & & 4 & & 5 & & \\ & & 1 & & 1 & & & \end{array}$ | $\checkmark p-4; 11-p; q-11; 22-q$<br>$\checkmark -2p+15; q+p-22; 33-2q$<br><br>$\checkmark -2p+15=1$<br>and/en $33-2q=1$<br><br>(3)<br><br><br><br>$\checkmark p-4; 11-p$<br>$\checkmark -2p+15=1$<br><br>$\checkmark$ subst. of $p$ in pattern to<br>find $q$/ vervang $p$ in<br>patroon om $q$ te vind<br><br>(3) |
+
+---
+
+Page 10
+
+| | | |
+| :--- | :--- | :--- |
+| 4.2 | $\begin{aligned} 2a &= 1 \\ a &= \frac{1}{2} \\ 3a + b &= 3 \\ 3\left(\frac{1}{2}\right) + b &= 3 \\ b &= \frac{3}{2} \\ a + b + c &= 4 \\ \frac{1}{2} + \frac{3}{2} + c &= 4 \\ c &= 2 \\ T_n &= \frac{1}{2}n^2 + \frac{3}{2}n + 2 \end{aligned}$<br><br>**OR/OF**<br><br>$\begin{aligned} T_0 &= c = 2 \\ 2a &= 1 \\ a &= \frac{1}{2} \\ T_n &= an^2 + bn + c \\ 4 &= \frac{1}{2}n^2 + b(1) + 2 \\ b &= \frac{3}{2} \\ T_n &= \frac{1}{2}n^2 + \frac{3}{2}n + 2 \end{aligned}$ | $\checkmark a = \frac{1}{2}$<br><br><br>$\checkmark b = \frac{3}{2}$<br><br><br>$\checkmark c = 2$<br>$\checkmark T_n = \frac{1}{2}n^2 + \frac{3}{2}n + 2$<br><br>(4)<br><br><br>$\checkmark c = 2$<br><br>$\checkmark a = \frac{1}{2}$<br><br><br>$\checkmark b = \frac{3}{2}$<br><br><br>$\checkmark T_n = \frac{1}{2}n^2 + \frac{3}{2}n + 2$<br><br>(4) |
+
+---
+
+Page 11
+
+| | | |
+| :--- | :--- | :--- |
+| 4.3 | $\begin{aligned} T_n &= 232 \\ \frac{1}{2}n^2 + \frac{3}{2}n + 2 &= 232 \\ \frac{1}{2}n^2 + \frac{3}{2}n - 230 &= 0 \\ n^2 + 3n - 460 &= 0 \\ (n+23)(n-20) &= 0 \\ n \ne -23 &\text{ or } n = 20 \end{aligned}$ | $\checkmark \frac{1}{2}n^2 + \frac{3}{2}n + 2 = 232$<br><br>$\checkmark$ standard form/std. vorm<br><br>$\checkmark$ factors/subst quad. eq.<br>/faktore/ verv kwadr. verg<br><br>$\checkmark$ selecting/kies $n = 20$<br>(4) |
+| 4.4 | $\begin{aligned} &\frac{1}{2}n^2 + \frac{3}{2}n + 2 + \frac{1}{2}(n+1)^2 + \frac{3}{2}(n+1) + 2 = 1227 \\ &\frac{1}{2}n^2 + \frac{3}{2}n + 2 + \frac{1}{2}(n^2 + 2n + 1) + \frac{3}{2}n + \frac{3}{2} + 2 = 1227 \\ &\frac{1}{2}n^2 + \frac{3}{2}n + 2 + \frac{1}{2}n^2 + n + \frac{1}{2} + \frac{3}{2}n + \frac{3}{2} + 2 = 1227 \\ &n^2 + 4n + 6 = 1227 \\ &n^2 + 4n - 1221 = 0 \\ &(n+37)(n-33) = 0 \\ &n \ne -37 \quad n = 33 \end{aligned}$<br><br>$\begin{aligned} T_{34} - T_{33} &= \frac{1}{2}(34)^2 + \frac{3}{2}(34) + 2 - \left(\frac{1}{2}(33)^2 + \frac{3}{2}(33) + 2\right) \\ T_{34} - T_{33} &= 631 - 596 \\ T_{34} - T_{33} &= 35 \end{aligned}$ | $\checkmark$ subst into/verv. in<br>$T_n + T_{n+1} = 1227$<br><br>$\checkmark$ expansion/ontw.<br><br>$\checkmark$ standard form/std. vorm<br><br>$\checkmark$ value of/wrde van $n$<br><br><br><br><br><br>$\checkmark$ answer/antw.<br>(5)<br>**[16]** |
+
+---
+
+### **QUESTION/VRAAG 5**
+
+| | | |
+| :--- | :--- | :--- |
+| 5.1 | $x = 3$<br>$y = 2$ | $\checkmark x = 3$<br>$\checkmark y = 2$<br>(2) |
+| 5.2 | $\begin{aligned} 0 &= \frac{4}{x-3} + 2 \\ -2 &= \frac{4}{x-3} \\ -2(x-3) &= 4 \\ -2x + 6 &= 4 \\ x &= 1 \end{aligned}$<br><br>**OR/OF**<br><br>$(1;0)$ | $\checkmark$ subst./verv. $y = 0$<br><br>$\checkmark$ simplification/vereenv.<br><br>$\checkmark$ answer/antw.<br>(3)<br><br>$\checkmark\checkmark\checkmark$ answer/antw.<br>(3) |
+| 5.3 | $\begin{aligned} y &= \frac{4}{0-3} + 2 \\ &= -\frac{2}{3} \end{aligned}$<br><br>**OR/OF**<br><br>$\left(0; -\frac{2}{3}\right)$ | $\checkmark$ subst./verv. $x = 0$<br><br>$\checkmark$ answer/antw.<br>(2)<br><br>$\checkmark\checkmark$ answer/antw.<br>(2) |
+| 5.4 | $\includegraphics[width=0.4\textwidth]{image_placeholder}$ | For/Vir $f$<br>$\checkmark$ asymptotes/asimptote<br>$\checkmark$ shape/vorm<br>$\checkmark$ $x$- and $y$- int. /afsnit<br>For/Vir $g$<br>$\checkmark$ $x$-int./afsnit<br>$\checkmark$ $y$-int./afsnit<br>(5) |
+
+---
+
+Page 13
+
+| | | |
+| :--- | :--- | :--- |
+| 5.5 | $\begin{aligned} \frac{4}{x-3} + 2 &= x + 2 \\ \frac{4}{x-3} &= x + 2 - 2 \\ \frac{4}{x-3} &= x \\ x(x-3) &= 4 \\ x^2 - 3x - 4 &= 0 \\ (x-4)(x+1) &= 0 \\ x = 4 &\quad \text{or } x = -1 \end{aligned}$ | $\checkmark \frac{4}{x-3} + 2 = x + 2$<br><br><br><br>$\checkmark$ std vorm/stand. vorm<br>$\checkmark$ factors/faktore<br><br>$\checkmark$ answers/antw.<br>(4) |
+| 5.6 | $-1 < x < 3$ | $\checkmark\checkmark$ answer/antwoord<br>(2) |
+| 5.7 | $\begin{aligned} y &= x + c \\ 2 &= (3) + c \\ -1 &= c \\ \therefore y &= x - 1 \quad \text{Is an axis of symmetry of/ simmetrie-as van } f \end{aligned}$<br><br>$Q(\sqrt{4} + 3; \sqrt{4} + 2) = Q(5;4)$<br><br>**OR/OF**<br><br>$\begin{aligned} x - 1 &= \frac{4}{x-3} + 2 \\ x - 3 &= \frac{4}{x-3} \\ (x-3)^2 &= 4 \\ x^2 - 6x + 5 &= 0 \\ (x-5)(x-1) &= 0 \\ x = 5 &\quad \text{or } x = 1 \\ y &= 5 - 1 = 4 \\ Q(5;4) \end{aligned}$ | $\checkmark Q(\sqrt{4} + 3; \sqrt{4} + 2)$<br>$\checkmark 5$<br>$\checkmark 4$<br>(3)<br><br>$\checkmark$ equating / vergelyk<br><br><br><br><br><br>$\checkmark 5$<br>$\checkmark 4$<br>(3)<br>**[21]** |
+
+---
+
+### **QUESTION/VRAAG 6**
+
+| | | |
+| :--- | :--- | :--- |
+| 6.1 | $y = -4$ | $\checkmark$ answer/antwoord<br>(1) |
+| 6.2 | $D(3; 25)$ | $\checkmark 3$<br>$\checkmark 25$<br>(2) |
+| 6.3 | $\begin{aligned} &y \le 25 \\ &\text{or} \\ &y \in (-\infty; 25] \end{aligned}$ | $\checkmark$ answer/antwoord<br>(1) |
+| 6.4 | $\begin{aligned} f(0) &= -(0-3)^2 + 25 \\ &= -(0-3)^2 + 25 \\ &= 16 \quad\quad\quad E(0; 16) \end{aligned}$<br><br>$\begin{aligned} g(0) &= 2\left(\frac{1}{2}\right)^{0+1} - 4 \\ &= -3 \quad\quad\quad B(0;-3) \end{aligned}$<br><br>$EB = 16 - (-3) = 19 \text{ units/eenhede}$ | $\checkmark$ substitute/verv. $x=0$<br><br>$\checkmark f(0) = 16$<br><br>$\checkmark g(0) = -3$<br><br>$\checkmark$ answer/antwoord<br>(4) |
+| 6.5 | $\begin{aligned} x > 3 \quad &\text{or/of} \quad x \in (3;\infty) \\ \text{Accept/Aanvaar } x &\ge 3 \quad \text{or/of} \quad x \in [3;\infty) \end{aligned}$ | $\checkmark\checkmark$ answer/antwoord<br>(2) |
+
+---
+
+Page 1

@@ -1,0 +1,276 @@
+**BASIC EDUCATION**
+**DEPARTMENT: BASIC EDUCATION**
+**REPUBLIC OF SOUTH AFRICA**
+
+**NASIONALE SENIOR SERTIFIKAAT**
+
+**GRAAD 12**
+
+---
+
+**WISKUNDE V1**
+**NOVEMBER 2021**
+
+**PUNTE:** 150  
+**TYD:** 3 uur  
+
+Hierdie vraestel bestaan uit 9 bladsye en 'n inligtingsblad.
+
+---
+
+### INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies noukeurig deur voordat die vrae beantwoord word.
+
+1. Hierdie vraestel bestaan uit 12 vrae.
+2. Beantwoord AL die vrae.
+3. Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie vraestel gebruik is.
+4. Dui ALLE berekeninge, diagramme, grafieke, ens. wat jy gebruik het om jou antwoorde te bepaal, duidelik aan.
+5. Volpunte sal NIE noodwendig aan slegs antwoorde toegeken word NIE.
+6. Jy mag 'n goedgekeurde, wetenskaplike sakrekenaars (nieprogrammeerbaar en niegrafies) gebruik, tensy anders vermeld.
+7. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders vermeld.
+8. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+9. 'n Inligtingsblad met formules is aan die einde van die vraestel ingesluit.
+10. Skryf netjies en leesbaar.
+
+---
+
+## VRAAG 1
+
+1.1 Los op vir $x$:
+  1.1.1 $x^2 - 2x - 24 = 0$ (3)
+  1.1.2 $2x^2 - 3x - 3 = 0$ (korrek tot TWEE desimale syfers) (3)
+  1.1.3 $x^2 + 5x \le -4$ (4)
+  1.1.4 $\sqrt{x + 28} = 2 - x$ (4)
+
+1.2 Los gelyktydig vir $x$ en $y$ op in:
+  $$2y = 3 + x \quad \text{en} \quad 2xy + 7 = x^2 + 4y^2$$ (6)
+
+1.3 Die wortels van 'n vergelyking is $x = \frac{-n \pm \sqrt{n^2 - 4mp}}{2m}$, waar $m$, $n$ en $p$ positiewe reële getalle is. Die getalle $m$, $n$ en $p$, in hierdie volgorde, vorm 'n meetkundige ry.  
+Bewys dat $x$ 'n nie-reële getal is. (4)  
+**[24]**
+
+---
+
+## VRAAG 2
+
+Gegee die meetkundige reeks: $x + 90 + 81 + \dots$
+
+2.1 Bereken die waarde van $x$. (2)
+
+2.2 Toon dat die som van die eerste $n$ terme $S_n = 1\ 000(1 - (0,9)^n)$, is. (2)
+
+2.3 Bereken vervolgens of andersins, die som tot oneindigheid. (2)  
+**[6]**
+
+---
+
+## VRAAG 3
+
+Beskou die kwadratiese getalpatroon: $-145 ; -122 ; -101 ; \dots$
+
+3.1 Skryf die waarde van $T_4$ neer. (1)
+
+3.2 Toon dat die algemene term van hierdie getalpatroon $T_n = -n^2 + 26n - 170$ is. (3)
+
+3.3 Tussen watter TWEE terme van hierdie kwadratiese getalpatroon sal daar 'n verskil van $-121$ wees? (4)
+
+3.4 Watter waarde moet by elke term in die getalpatroon getel word sodat die waarde van die grootste term in die nuwe kwadratiese getalpatroon wat gevorm word, $1$ sal wees? (3)  
+**[11]**
+
+---
+
+## VRAAG 4
+
+Beskou die lineêre ry: $5 ; 7 ; 9 ; \dots$
+
+4.1 Bepaal $T_{51}$. (3)
+
+4.2 Bereken die som van die eerste 51 terme. (2)
+
+4.3 Skryf die uitbreiding van $\sum_{n=1}^{5000} (2n + 3)$ neer. Toon slegs die eerste 3 terme en die laaste term van die uitbreiding. (1)
+
+4.4 Bereken vervolgens of andersins, $\sum_{n=1}^{5000} (2n + 3) + \sum_{n=1}^{4999} (-2n - 1)$.  
+ALLE bewerkings moet getoon word. (4)  
+**[10]**
+
+---
+
+## VRAAG 5
+
+Gegee: $f(x) = \frac{-1}{x - 3} + 2$
+
+5.1 Skryf die vergelykings van die asimptote van $f$ neer. (2)
+
+5.2 Skryf die definisieversameling van $f$ neer. (1)
+
+5.3 Bepaal die koördinate van die $x$-afsnit van $f$. (2)
+
+5.4 Skryf die koördinate van die $y$-afsnit van $f$ neer. (2)
+
+5.5 Skets die grafiek van $f$. Toon ALLE asimptote en afsnitte met die asse duidelik. (3)  
+**[10]**
+
+---
+
+## VRAAG 6
+
+Die grafiek van $f(x) = \log_4 x$ is hieronder geskets.  
+$B(k ; 2)$ is 'n punt op $f$.
+
+[DIAGRAM: Cartesian plane showing the logarithmic graph $f$ passing through point $B(k; 2)$ in the first quadrant, curving downwards towards the y-axis with a vertical asymptote at the y-axis.]
+
+6.1 Bereken die waarde van $k$. (2)
+
+6.2 Bepaal die waardes van $x$ waarvoor $-1 \le f(x) \le 2$. (2)
+
+6.3 Skryf die vergelyking van $f^{-1}$, die inverse van $f$, in die vorm $y = \dots$ neer. (2)
+
+6.4 Vir watter waardes van $x$ sal $x \cdot f^{-1}(x) < 0$ wees? (2)  
+**[8]**
+
+---
+
+## VRAAG 7
+
+Die grafiek van $f(x) = (x + 4)(x - 6)$ is hieronder geskets.  
+Die parabool sny die $x$-as by $B$ en $D$ en die $y$-as by $G$.  
+$C$ is die draaipunt van $f$.  
+Lyn $AE$ het 'n inklinasiehoek van $\theta$ en sny die $x$-as en $y$-as by $A$ en $E$ onderskeidelik.  
+$T$ is 'n punt op $f$ tussen $B$ en $G$.
+
+[DIAGRAM: Cartesian plane with a parabola $f$ opening upwards/downwards? Here $f(x)=(x+4)(x-6)$ is a parabola opening upwards with roots at $B(-4,0)$ and $D(6,0)$, y-intercept at $G$, vertex at $C$. A straight line $AE$ has an inclination angle $\theta$ with the positive x-axis, crossing the y-axis at $E$ and intersecting the parabola. Point $T$ is on $f$ between $B$ and $G$.]
+
+7.1 Skryf die koördinate van $B$ en $D$ neer. (2)
+
+7.2 Bereken die koördinate van $C$. (2)
+
+7.3 Skryf die waardeversameling van $f$ neer. (1)
+
+7.4 Gegee dat $\theta = 14,04^\circ$ en die raaklyn aan $f$ by $T$ is loodreg op $AE$.
+  7.4.1 Bereken die gradiënt van $AE$, korrek tot TWEE desimale syfers. (1)
+  7.4.2 Bereken die koördinate van $T$. (5)
+
+7.5 'n Reguitlyn, $g$, ewewydig aan $AE$, sny $f$ by $K(-3 ; -9)$ en $R$.  
+Bereken die $x$-koördinaat van $R$. (6)  
+**[17]**
+
+---
+
+## VRAAG 8
+
+8.1 'n Boer het 'n trekker vir $\text{R980 }000$ gekoop. Die waarde van die trekker verminder jaarliks teen 'n koers van $9,2\%$ p.j. volgens die verminderendesaldo-metode. Bereken die boekwaarde van die trekker na 7 jaar. (3)
+
+8.2 Hoeveel jaar sal dit neem vir 'n bedrag van $\text{R75 }000$ om tot $\text{R116 }253,50$ te groei in 'n rekening wat rente verdien teen 'n koers van $8,35\%$ p.j., kwartaalliks samestel? (4)
+
+8.3 Thabo wou $\text{R450 }000$ spaar as 'n deposito om op 30 Junie 2018 'n huis te koop.
+  8.3.1 Hy het 'n vaste bedrag geld aan die einde van elke maand gedeponeer in 'n rekening wat rente verdien teen 'n koers van $8,35\%$ p.j., maandeliks samestel, verdien. Sy eerste deposito is op 31 Julie 2013 gemaak en sy 60ste deposito op 30 Junie 2018. Bereken die bedrag wat hy maandeliks gedeponeer het. (3)
+  8.3.2 Thabo het 'n huis van $\text{R1 }500\ 000$ gekoop en sy spaargeld as 'n deposito gebruik. Hy het, vir 'n tydperk van 25 jaar, 'n huislening bekom vir die balans van die aankooprys, teen 'n koers van $12\%$ p.j., maandeliks samestel. Hy het op 31 Julie 2018 sy eerste maandelikse paiement van $\text{R11 }058,85$ gemaak om die lening terug te betaal.
+    (a) Wat sal die uitstaande balans op 30 Junie 2039 wees, 21 jaar nadat die lening toegestaan is? (3)
+    (b) Bereken die rente wat Thabo oor die eerste 21 jaar van die lening sou betaal het. (3)  
+**[16]**
+
+---
+
+## VRAAG 9
+
+9.1 Bepaal $f'(x)$ vanuit eerste beginsels as gegee word dat $f(x) = 2x^2 - 3x$. (5)
+
+9.2 Bepaal:
+  9.2.1 $\frac{dy}{dx}$ as $y = 4x^5 - 6x^4 + 3x$ (3)
+  9.2.2 $D_x \left[ \frac{\sqrt[3]{x}}{2} + \left(\frac{1}{3x}\right)^2 \right]$ (4)  
+**[12]**
+
+---
+
+## VRAAG 10
+
+Die grafiek van $h(x) = ax^3 + bx^2$ is geskets.  
+Die grafiek het draaipunte by die oorsprong, $O(0 ; 0)$ en $B(4 ; 32)$.  
+$A$ is 'n $x$-afsnit van $h$.
+
+[DIAGRAM: Cubic graph $h(x) = ax^3 + bx^2$ passing through the origin $O(0,0)$ (which is a local minimum/turning point), rising to a local maximum at $B(4,32)$, and then decreasing to cross the x-axis at $A$.]
+
+10.1 Toon dat $a = -1$ en $b = 6$. (5)
+
+10.2 Bereken die koördinate van $A$. (3)
+
+10.3 Skryf die waardes van $x$ neer waarvoor $h$:
+  10.3.1 Stygend is (2)
+  10.3.2 Konkaaf af is (2)
+
+10.4 Vir watter waardes van $k$ sal $-(x - 1)^3 + 6(x - 1)^2 - k = 0$ een negatiewe en twee verskillende positiewe wortels hê? (3)  
+**[15]**
+
+---
+
+## VRAAG 11
+
+Nadat 'n persoon 'n afstand van $20\text{ km}$ weg van die huis af is, onthou hy skielik dat hy nie 'n kraan in sy tuin toegedraai het nie. Hy besluit om onmiddellik om te draai en terug huis toe te ry om die kraan te gaan toedraai.
+
+Die koste van die water, teen die koers waarteen die water uit die kraan vloei, is $\text{R1,60}$ per uur.  
+Die koste van petrol is $\left(1,2 + \frac{x}{4000}\right)$ rand per km, waar $x$ die gemiddelde spoed in $\text{km/h}$ is.
+
+Bereken die gemiddelde spoed waarteen die persoon huis toe moet ry om sy koste so laag as moontlik te hou. (7)  
+**[7]**
+
+---
+
+## VRAAG 12
+
+12.1 A en B is onafhanklike gebeurtenisse. Daar word verder gegee dat:
+  $$\text{P(A en B)} = 0,3 \quad \text{en} \quad \text{P(\text{slegs } B)} = 0,2$$
+
+  12.1.1 Is A en B onderling uitsluitend? Motiveer jou antwoord. (1)
+  12.1.2 Bepaal:
+    (a) $\text{P(\text{slegs } A)}$ (4)
+    (b) $\text{P(\text{nie } A \text{ of nie } B)}$ (2)
+
+12.2 'n Onderwyser het 5 verskillende digbundels, 4 verskillende dramas en 3 verskillende romans. Sy moet hierdie 12 boeke van links na regs op 'n rak plaas.
+
+  12.2.1 Skryf die waarskynlikheid neer dat 'n roman die eerste boek sal wees wat op die rak geplaas word. (1)
+  12.2.2 Bereken die aantal verskillende maniere waarop hierdie 12 boeke op die rak geplaas kan word indien enige boek in enige posisie geplaas kan word. (2)
+  12.2.3 Bereken die waarskynlikheid dat 'n digbundel in die eerste posisie geplaas word, die drie romans langs mekaar geplaas word en 'n drama in die laaste posisie geplaas word. (4)  
+**[14]**
+
+**TOTAAL:** **150**
+
+---
+
+### INLIGTINGSBLAD
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni) \quad A = P(1 - ni) \quad A = P(1 - i)^n \quad A = P(1 + i)^n$$
+
+$$T_n = a + (n - 1)d \quad S_n = \frac{n}{2}[2a + (n - 1)d]$$
+
+$$T_n = ar^{n-1} \quad S_n = \frac{a(r^n - 1)}{r - 1} \quad (r \neq 1) \quad S_\infty = \frac{a}{1 - r} \quad (-1 < r < 1)$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i} \quad P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} \quad M\left(\frac{x_1 + x_2}{2} ; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c \quad y - y_1 = m(x - x_1) \quad m = \frac{y_2 - y_1}{x_2 - x_1} \quad m = \tan \theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+$$\text{In } \triangle ABC: \frac{\sin A}{a} = \frac{\sin B}{b} = \frac{\sin C}{c}$$
+
+$$a^2 = b^2 + c^2 - 2bc \cos A$$
+
+$$\text{area } \triangle ABC = \frac{1}{2}ab \sin C$$
+
+$$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta \quad \sin(\alpha - \beta) = \sin \alpha \cos \beta - \cos \alpha \sin \beta$$
+
+$$\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta \quad \cos(\alpha - \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2 \alpha - \sin^2 \alpha \\ 1 - 2\sin^2 \alpha \\ 2\cos^2 \alpha - 1 \end{cases} \quad \sin 2\alpha = 2\sin \alpha \cos \alpha$$
+
+$$\bar{x} = \frac{\sum x}{n} \quad \sigma^2 = \frac{\sum_{i=1}^{n}(x_i - \bar{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)} \quad P(A \text{ of } B) = P(A) + P(B) - P(A \text{ en } B)$$
+
+$$\hat{y} = a + bx \quad b = \frac{\sum(x - \bar{x})(y - \bar{y})}{\sum(x - \bar{x})^2}$$

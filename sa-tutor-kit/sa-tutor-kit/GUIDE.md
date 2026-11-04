@@ -1,5 +1,8 @@
 # GUIDE: Building the Eishkom Stage 1 South African Tutor Family
 
+> [!NOTE]
+> **Stage 1 Hub & Progress Tracker:** Live progress, phase checklists, Phase 1 verified corpus statistics (600 PDFs / 378 MB), and model architectures are tracked in [`PROGRESS.md`](PROGRESS.md) and the dedicated [`stage-1/`](stage-1/) release directory.
+
 Follow this top to bottom. Every phase has the same structure:
 
 - **Goal** what you will have at the end
@@ -149,11 +152,42 @@ python tutor_data.py validate examples/examples.jsonl --images-root examples
 
 ## Phase 1: Collect Sources (a weekend)
 
-**Goal:** 10–30 genuine South African curriculum PDFs in `workspace/raw/`, recorded in `workspace/sources/sources.csv`.
+**Goal:** Genuine South African curriculum exam papers and marking guidelines downloaded into structured folders under `workspace/raw/dbe/<language>/<subject>/<year>/`, and recorded in `workspace/sources/sources.csv`.
 
-**Where to get legal material:**
+**Automated Downloader (`pipeline/download_dbe.py`):**
+Run the automated DBE crawler to collect all Grade 10–12 past papers and official memorandums:
+```bash
+# Preview what will be downloaded
+python pipeline/download_dbe.py --dry-run
+
+# Run full automated download for all sessions & subjects
+python pipeline/download_dbe.py
+```
+
+**Directory Organization:**
+Downloads are automatically sorted into clean, isolated language and subject hierarchies:
+- **English Papers & Memos:**
+  - `workspace/raw/dbe/english/mathematics/<year>/` (`mathematics_g12_<year>_<session>_p1.pdf`, `_p1_memo.pdf`, `_p2.pdf`, `_p2_memo.pdf`)
+  - `workspace/raw/dbe/english/physical_sciences/<year>/` (`physical_sciences_g12_<year>_<session>_p1.pdf`, `_p1_memo.pdf`, etc.)
+  - `workspace/raw/dbe/english/english_hl/<year>/` (`english_hl_g12_<year>_<session>_p1.pdf`, `_p1_memo.pdf`, etc.)
+  - `workspace/raw/dbe/english/english_fal/<year>/` (`english_fal_g12_<year>_<session>_p1.pdf`, `_p1_memo.pdf`, etc.)
+- **Afrikaans Papers & Memos:**
+  - `workspace/raw/dbe/afrikaans/wiskunde/<year>/` (`wiskunde_g12_<year>_<session>_v1.pdf`, `_v1_memo.pdf`, `_v2.pdf`, `_v2_memo.pdf`)
+  - `workspace/raw/dbe/afrikaans/fisiese_wetenskappe/<year>/` (`fisiese_wetenskappe_g12_<year>_<session>_v1.pdf`, `_v1_memo.pdf`, etc.)
+  - `workspace/raw/dbe/afrikaans/afrikaans_hl/<year>/` (`afrikaans_hl_g12_<year>_<session>_v1.pdf`, `_v1_memo.pdf`, etc.)
+  - `workspace/raw/dbe/afrikaans/afrikaans_fal/<year>/` (`afrikaans_fal_g12_<year>_<session>_v1.pdf`, `_v1_memo.pdf`, etc.)
+- **Grade 10 & 11 Common Papers:**
+  - Stored in the same subject trees with `_g10_` and `_g11_` markers (e.g. `workspace/raw/dbe/english/mathematics/2018/mathematics_g11_2018_nov_p1.pdf`).
+- **Sources Ledger:**
+  - `workspace/sources/sources.csv` is automatically appended with all metadata, linking each question paper to its memorandum via `pair_with`.
+  - November 2024 Grade 12 NSC papers are flagged as `held out for EVAL (do not train on it)`.
+
+> [!TIP]
+> **Phase 1 Verified Corpus:** 600 PDFs (300 pairs, 378.15 MB total) downloaded cleanly across English (304 files) and Afrikaans (296 files) covering Grades 10–12 (2015–2025). All 16 Grade 12 November 2024 past papers are locked as held-out evaluation benchmarks in `workspace/sources/sources.csv`.
+
+**Where to get additional legal material:**
 1. **Department of Basic Education (DBE):** `education.gov.za` — Free NSC (Matric) and GET/Senior Phase past exam papers with official marking memorandums for Mathematics, Physical Sciences, English, and Afrikaans.
-2. **Siyavula Open Textbooks:** `siyavula.com` — Creative Commons (CC-BY) textbooks for Mathematics (Grades 7–12), Physical Sciences (Grades 10–12), and Natural Sciences (Grades 4–9). You are legally permitted to train AI models on these!
+2. **Siyavula Open Textbooks:** `siyavula.com` — Creative Commons (CC-BY) textbooks for Mathematics (Grades 7–12), Physical Sciences (Grades 10–12), and Natural Sciences (Grades 4–9).
 3. **WCED ePortal:** `wcedeportal.co.za` — CAPS revision booklets, Afrikaans begripstoetse, and grammar guides.
 4. **African Storybook:** `africanstorybook.org` — Bilingual stories in English and Afrikaans for foundational reading.
 
@@ -162,23 +196,38 @@ python tutor_data.py validate examples/examples.jsonl --images-root examples
 
 ---
 
-## Phase 2: From Files to Questions (1–2 days, about $1–3)
+## Phase 2: From Files to Questions (Completed & Audited)
 
-**Goal:** structured questions and official marking guidelines in `workspace/items/`.
+**Goal:** Extract text from all downloaded documents and segment into structured questions and official marking guidelines in `workspace/items/`.
 
-**Do**
-1. Extract text from downloaded PDFs locally for \$0:
-   ```bash
-   python pipeline/ingest.py
-   ```
-2. Segment text into question-and-memo pairs:
-   ```bash
-   python pipeline/extract_items.py --source dbe-maths-g12-p1-2024-nov
-   ```
-3. Build the curriculum retrieval database:
-   ```bash
-   python retrieval.py build
-   ```
+**1. Document Ingestion (`workspace/text/`) — COMPLETED & VERIFIED:**
+All 600 downloaded exam papers and memorandums have been ingested into `workspace/text/`:
+```bash
+python pipeline/ingest.py --skip-existing
+```
+- **Audited Metrics:** 600 files, **14,959,351 total characters**, 0 failures.
+- **DOCX Auto-Routing:** Magic byte sniffing automatically handled 4 DOCX papers misnamed as `.pdf` (2019 May Mathematics P1/P2 and Wiskunde V1/V2).
+- **Text Quality:** 507 dense text files. The 87 Mathematics question papers with rasterized equation images are paired with rich marking memorandums containing **1,387,534 characters** of full questions, sub-questions, method marks, and worked solutions.
+
+**2. Mathematical Equations & Diagrams Handling Strategy:**
+- **Equations & Formulas:** Formatted in LaTeX syntax inside `$..$` (inline) and `$$..$$` (display block). Rendered seamlessly in client apps via KaTeX.
+- **Text-Describable Diagrams (~20%):** Euclidean geometry (circles, tangents, triangles), electric circuits, velocity-time graphs, and coordinate geometry figures have their geometric properties, labels, and relationships explicitly written into the `"passage"` field of the item schema. This allows pure text language models (`koeberg-stage-1`, `kendal-stage-1`, `gariep-stage-1`) to tutor geometry questions with complete context.
+- **Pure Visual Figures (~10%):** Questions requiring perceptual visual inspection (anatomical diagrams, unlabelled cartoons) are flagged `"needs_review": true`, excluded from pure text SFT, rendered to `workspace/images/` via `pipeline/render_pages.py`, and reserved for multimodal vision fine-tuning on `LiquidAI/LFM3-VL-2B` (`gariep-flash-stage-1`).
+- **Memo-First Question Recovery:** For Mathematics question papers with rasterized formulas, question wording and step criteria are extracted directly from the paired DBE memorandum.
+
+**3. Run Item Extraction:**
+```bash
+# Dry-run cost estimate (shows token count and estimated cost before spending):
+python pipeline/extract_items.py --source dbe-physical_sciences-g12-p1-2024-nov --dry-run
+
+# Run extraction on a source pair:
+python pipeline/extract_items.py --source dbe-physical_sciences-g12-p1-2024-nov
+```
+
+**4. Build the curriculum retrieval database:**
+```bash
+python retrieval.py build
+```
 
 ---
 

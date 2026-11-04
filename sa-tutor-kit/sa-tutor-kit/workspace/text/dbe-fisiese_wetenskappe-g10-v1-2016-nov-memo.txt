@@ -1,0 +1,719 @@
+=== page 1 ===
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+MARKS/PUNTE:  150
+
+This memorandum consists of 13 pages.
+Hierdie memorandum bestaan uit 13 bladsye.
+
+PHYSICAL SCIENCES:  PHYSICS (P1)
+FISIESE WETENSKAPPE: FISIKA (V1)
+
+NOVEMBER 2016
+
+MEMORANDUM
+NATIONAL
+SENIOR CERTIFICATE/
+NASIONALE
+SENIOR SERTIFIKAAT
+GRADE/GRAAD 10
+
+=== page 2 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1 2  DBE/November 2016
+ NSC/NSS – Grade/Graad 10 – Memorandum
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+5m
+B
+B
+
+QUESTION 1/VRAAG 1
+
+1.1 B   (2)
+
+1.2 C   (2)
+
+1.3 D   (2)
+
+1.4 D   (2)
+
+1.5 D   (2)
+
+1.6 A   (2)
+
+1.7 B   (2)
+
+1.8 C  (2)
+
+1.9 D   (2)
+
+1.10 B   (2)
+[20]
+
+QUESTION 2/VRAAG 2
+
+2.1
+                                                                 Mark allocation/Puntetoekenning:
+
+                                                               1 x line AB: length, arrow, label
+                                                             1 x lyn AB: lengte, rigting, benoem
+                                                1 x line BC: length, arrow, label
+                                                                  1 x lyn BC: lengte, rigting, benoem
+ (2)
+
+2.2 2 m  to the left
+2 m links (2)
+
+2.3 Total distance/Totale afstand
+= 5 + 7
+= 12 m (2)
+
+2.4 For the total distance, the whole path length travelled is considered. 
+For change in position, only the original position and final positionof the man
+are considered.
+Vir die totale afstand word die totale padlengte afgelê in berekening gebring,
+maar slegs die begin-  en eindposisie word in berekening gebring vir
+verandering in posisie.
+
+(2)
+
+2.5 Velocity is the rate of change of displacement. 
+Snelheid is die tempo waarteen verplasing (verandering in posisie) verander.
+
+(2)
+
+7m
+A
+C
+5m
+
+=== page 3 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1 3  DBE/November 2016
+ NSC/NSS – Grade/Graad 10 – Memorandum
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+2.6 v = ∆x∆t 
+
+   =
+2
+20
+
+   = 0,1 m·s-1  west/to the left
+    wes/na links  (4)
+  [14]
+
+QUESTION 3/VRAAG 3
+
+3.1 Acceleration is the rate of change of velocity. 
+Versnelling is die tempo van snelheidsverandering.
+
+OR/OF
+
+Acceleration is the change in velocity per unit time.
+Versnelling is die verandering in snelheid per tydseenheid. (2)
+
+3.2 No 
+Nee (1)
+
+3.3 Velocity to the right, acceleration to the left 
+Snelheid na regs, versnelling na links.
+
+OR/OF
+
+Taxi slowing down so acceleration is in opposite direction to movement.
+Die taxi beweeg stadiger, dus is versnelling in die teenoorgestelde rigting van
+beweging. (1)
+
+3.4
+
+OPTION 1/OPSIE 1 OPTION 2/OPSIE 2
+∆x = vi t + ½a∆t2 
+     = 25 x 1  + ½ x 0 x 12 
+     = 25 m 
+
+∆x =
+( vf  + vi )
+2  ∆t 
+     =
+25 + 25
+2  x 1 
+     = 25 m 
+OPTION 3/OPSIE 3
+∆x    =
+∆x
+∆t 
+25 =
+∆x
+1 
+ ∆x   = 25 m 
+
+(4)
+
+=== page 4 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1 4  DBE/November 2016
+ NSC/NSS – Grade/Graad 10 – Memorandum
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+3.5 POSITIVE MARKING FROM 3.4
+POSITIEWE NASIEN VANAF 3.4
+
+OPTION 1/OPSIE 1 OPTION 2/OPSIE 2
+∆x =�vf + vi2 � ∆t 
+
+     =
+(0+25)
+2  x 2
+
+     = 25 m
+
+∴ total distance/totale afstand
+    = 25 + 25
+    = 50 m
+
+∴taxi will not stop at the traffic light as
+distance > 40 m
+∴ die taxi sal nie by verkeerslig stop
+nie, want die afstand is > 40 m
+
+vf = vi + 𝑎∆t
+a =
+vf - vi
+∆t
+
+a =
+(0 - 25)
+2  
+
+   = -12,5 m·s-2
+
+vf2 = vi2 + 2a∆x
+  0 = 252 + 2 x -12,5 x ∆x
+∴∆x = 25m
+
+∴ total distance/totale afstand
+    = 25 + 25
+    = 50 m
+
+∴taxi will not stop at the traffic light as
+distance > 40 m
+∴ die taxi sal nie by verkeerslig stop
+nie, want die afstand is > 40 m
+
+OPTION 3/OPSIE 3
+a =
+vf - vi
+∆t 
+   =
+(0 - 25)
+2  
+   = -12,5 m·s-2
+
+∆x = vit + ½a∆t2
+     = 25 x 2  + ½ x -12,5 x 22 
+     = 25 m
+
+∴ total distance/totale afstand
+    = 25 + 25
+    = 50 m
+
+∴taxi will not stop at the traffic light, as distance > 40 m
+∴ die taxi sal nie betyds stop nie, want die afstand is > 40 m (5)
+
+Only one mark
+for either
+equation
+Slegs een punt
+vir die enige een
+van die
+vergelykings.
+Only one mark for either
+equation
+Slegs een punt vir enige een van
+die vergelykings.
+
+=== page 5 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1 5  DBE/November 2016
+ NSC/NSS – Grade/Graad 10 – Memorandum
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+0
+ 1
+   2
+ 3
+ 4
+ 5
+
+3.6
+
+ (4)
+  [17]
+
+50
+25
+x (m)
+t (s) 
+
+
+
+MARKING GUIDELINES/NASIENRIGLYNE
+ Both axes correctly labelled
+Beide asse korrek benoem
+ Straight line (t =0 s and t = 1 s)
+Reguitlyn (t =0 s en t = 1 s)
+Curve shape (t = 1 s and t = 3)
+Kurwe (t =1 s en t = 3)
+
+=== page 6 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1 6  DBE/November 2016
+ NSC/NSS – Grade/Graad 10 – Memorandum
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+QUESTION 4/VRAAG 4
+
+4.1 5 m·s-1 north  (accept range from 4,5 to 4,9)
+5 m·s-1 noord (aanvaar vanaf 4,5 tot 4,9) (2)
+
+4.2 8,4 m∙s-1      (accept range from 8,2 to 8,6)
+8,4 m∙s-1(aanvaar vanaf 8,2 tot 8.6) (2)
+
+4.3.1 • The velocity is uniformly increasing.
+• Velocity increases from 5 m·s-1 to 10 m·s-1 in 350 s.
+• Positive acceleration.
+• The girl is speeding up.
+
+• Snelheid neem uniform toe.
+• Snelheid neem van 5 m·s-1 tot 10 m·s-1 in 350 s toe.
+• Positiewe versnelling.
+• Die meisie se spoed neem toe. (2)
+
+4.3.2 • Uniform/constant velocity
+• No acceleration
+• Same speed
+
+• Uniforme/konstante snelheid
+• Geen versnelling
+• Dieselfde spoed (2)
+
+4.4.1 OPTION 1/OPSIE 1 OPTION 2/OPSIE 2
+Distance A to C
+Afstand A tot C
+= ℓ x b + ½ x b x h
+= 5 x 350 + ½ x 150 x 5
+= 2 125 m 
+Distance A to C
+Afstand A tot C
+= ℓ x b + ℓ x b + ½ x b x h
+= 200 x 5 + 150 x 5+½ x 150 x 5
+= 2 125 m 
+
+OPTION 3/OPSIE 3
+Distance A to C
+Afstand A tot C
+= ℓ x b + ½ ( sum of parallel sides )h
+= ℓ x b + ½ ( som van parallele sye )h
+= 5 x 200 + ½ ( 5 + 10)(150) 
+= 2 125 m 
+
+(4)
+
+4.4.2
+a =
+vf - vi
+∆t  
+   =
+(0  - 10) 
+50 
+   = - 0,2 m·s-2
+ ∴  a = 0,2 m·s-2  South
+                           Suid (4)
+
+Any ONE of the options 
+Enige EEN korrekte opsie
+Any ONE of the options 
+Enige EEN korrekte opsie
+
+=== page 7 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1 7  DBE/November 2016
+ NSC/NSS – Grade/Graad 10 – Memorandum
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+4.5 D to E. 
+D tot E (2)
+
+4.6 The change in speed from D to E is (-)10 m·s-1  and that occurs over (50 s) a
+shorter period. 
+OR
+From B to C, the change in speed is 5 m·s-1 over a period of 150 s.
+OR
+Gradient is the steepest
+Die verandering is spoed van D tot E is (-)10 m·s-1  en die beweging gebeur
+oor 'n korter tydperk.
+OF
+Vanaf B tot C is die verandering in spoed 5 m·s-1 oor 'n tydperk van 150 s.
+OF
+Gradient is die steilste (2)
+  [20]
+
+QUESTION 5/VRAAG 5
+
+5.1 14 (m·s-1)x 3 6001 000 
+
+= 50,4 km·h-1
+
+OR/OF
+
+14 (m·s-1) x 3,6 
+= 50,4 km·h-1  (2)
+
+5.2 The energy an object possesses as a result of its motion. 
+Die energie van 'n voorwerp as gevolg van die beweging daarvan. (2)
+
+5.3 Ep  = mgh
+      = 0,01 x 9,8 x 5
+      = 0,49 J (3)
+
+5.4           (Ep + Ek)top/bo = (Ep + Ek)bottom/onder
+                 mgh + 0 = mgh + ½mv2                      
+   (0,01)(9,8)(10)  = (0,01)(9,8)(5) + ½ x 0,01 x v2  
+                            v = 9,89 m∙s-1    (4)
+
+5.5 Equal to. Mechanical energy is conserved, it is a closed system.
+Gelyk aan. Meganiese energie word behou, dit is 'n geslote stelsel. (3)
+  [14]
+
+=== page 8 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1 8  DBE/November 2016
+ NSC/NSS – Grade/Graad 10 – Memorandum
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+QUESTION 6/VRAAG 6
+
+6.1 0,4 m  (2)
+
+6.2.1 Trough
+Trog/buik (1)
+
+6.2.2 Crest
+Kruin (1)
+
+6.3
+
+A and C
+A en C (1)
+
+6.4 2½ (2)
+
+6.5     v = f x λ
+ 0,4 = 0,5 x λ
+∴ λ = 0,8m (3)
+
+6.6 2½ x 0,8
+= 2 m
+
+OR/OF
+
+    v =
+d
+t
+ 0,4 =
+d
+5 
+     = 2 m  (2)
+  [12]
+
+=== page 9 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1 9  DBE/November 2016
+ NSC/NSS – Grade/Graad 10 – Memorandum
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+QUESTION 7/VRAAG 7
+
+7.1 The notes played. 
+Die note gespeel (1)
+
+7.2 The frequency OR wavelength of each note. 
+Die frekwensie OF golflengte van elke noot  (1)
+
+7.3
+
+ (4)
+
+7.4 Frequency and wavelength are inversely proportional to each other.
+Frekwensie en golflengte is omgekeerd eweredig aan mekaar. (1)
+
+7.5 v = f x λ 
+   = 55 x 6 
+   = 330 m·s-1 (3)
+  [10]
+
+0
+20
+40
+60
+80
+100
+120
+0 5 10 15
+Frequency (Hz)
+Frekwensie (Hz)
+Wavelength (m)
+Golflengte (m)
+MARK ALLOCATION:
+ 1 x correct y-axis label and unit
+ 1 x correct x-axis label and unit
+  1 x points plotted and joined
+  1 x shape of graph
+
+PUNTETOEKENNING:
+ 1 x korrekte benoeming en eenheid
+op y-as
+    1 x korrekte benoeming en eenheid
+op x-as
+  2 x punte korrek gestip en verbind
+  1 x vorm van grafiek
+
+=== page 10 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1 10  DBE/November 2016
+ NSC/NSS – Grade/Graad 10 – Memorandum
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+QUESTION 8/VRAAG 8
+
+8.1.1
+8.1.2
+8.1.3
+C 
+A 
+B  (3)
+
+8.2.1 • Keeping food warm
+• Remote controls
+• Optical fibres                                           
+• Animals like snakes which hunt
+• Infrared scanners for picking up heat
+
+• Hou voedsel warm
+• Afstandbeheerders
+• Optiese vesels
+• Sekere diere soos slange wat jag
+• Infrarooi skandeerders wat hitte optel (1)
+
+8.2.2 • Telephone OR satellite OR cellphone connections
+• RADAR systems                          
+• RADAR speed traps
+• Microwave ovens
+
+• Telefoon- OF satelliet- OF selfoonkonneksies
+• RADARstelsels
+• RADARspoedlokvalstelsels
+• Mikrogolfoonde (1)
+
+8.3.1 X-ray 
+X-strale (1)
+
+8.3.2 X-ray has a high frequency and can penetrate into soft tissues of humans, 
+but not bones.
+X-strale het 'n hoë frekwensie en kan in die sagte weefsel van mense indring,
+maar nie been nie. (1)
+
+8.3.3 X-rays can:
+• damage living tissue
+• cause cancer
+X-strale kan:
+• weefsel beskadig
+• kanker veroorsaak (1)
+
+8.4 E = hcλ 
+    = 6,63 x 10-34  x  3 x 108
+3  
+    = 6,63 x 10-26 J  (4)
+  [12]
+
+Any ONE /Enige een
+Any ONE /Enige een
+Any ONE /Enige een
+
+=== page 11 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1 11  DBE/November 2016
+ NSC/NSS – Grade/Graad 10 – Memorandum
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+QUESTION 9/VRAAG 9
+
+9.1.1 A force exerted on an object without touching the object. 
+OR
+A force exerted on an object that is at a distance. 
+
+'n Krag wat op 'n voorwerp uitgeoefen word sonder om aan die voorwerp te
+raak.
+OF
+'n Krag wat oor 'n afstand op 'n voorwerp uitgeoefen word. (2)
+
+9.1.2 • Gravity/Weight/Gravitational force
+• Electrostatic/Coulombic force
+
+• Gravitasiekrag/Gewig/Gravitasie
+• Elektrostatiese/Coulomb-kragte (1)
+
+9.2 Attractive 
+Aantrekkend (1)
+
+9.3 • North 
+• The direction of magnetic field lines is from north to south
+
+• Noord
+• Die rigting van magneetveldlyne is van noord na suid (3)
+  [7]
+
+
+Any ONE /Enige een
+
+=== page 12 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1 12  DBE/November 2016
+ NSC/NSS – Grade/Graad 10 – Memorandum
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+QUESTION 10/VRAAG 10
+
+10.1 B  (1)
+
+10.2 B to A
+B tot A (1)
+
+10.3 Qnew/nuut = Q1+ Q22  
+             =
+(+3 x 10-6 + (-2 x 10-6))
+2  
+             = 5 x 10-7C  (3)
+
+10.4
+
+OPTION 1/OPSIE 1
+n =
+Q
+e 
+=
+ 5 x 10-7-(-2 x 10-6 )
+-1,6 x 10-19 
+= 1, 56 x 1013 electrons
+                       elektrone
+OPTION 2/OPSIE 2
+n =
+Q
+e 
+=
+ 5 x 10-7−(+3 x 10-6 )
+-1,6 x 10-19 
+= 1, 56 x 1013 electrons
+                       elektrone (3)
+  [8]
+
+QUESTION 11/VRAAG 11
+
+11.1.1
+
+OPTION 1/OPSIE 1 OPTION 2/OPSIE 2
+
+1
+R//
+=
+1
+R1
++
+1
+R2
+ 
+         =
+1
+6 +
+1
+3 
+∴ R// = 2Ω
+
+∴Rtotal/totaal = 4 + 2
+                 = 6 Ω
+R// =
+R1  x R2
+R1  + R2
+
+     =
+6 x 3
+6+3 
+     = 2Ω
+
+ ∴ Rtotal/totaal = 4 + 2
+                  = 6 Ω
+
+(4)
+
+11.1.2   R4Ω = V2IT 
+      4 =
+V2
+2  
+  ∴V2 = 8 V  (3)
+
+=== page 13 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1 13  DBE/November 2016
+ NSC/NSS – Grade/Graad 10 – Memorandum
+Copyright reserved/Kopiereg voorbehou
+
+11.1.3 OPTION 1/OPSIE 1 OPTION 2/OPSIE 2
+I =
+V
+R 
+=
+12 - 8
+6  
+= 0,67 A 
+R α
+1
+I  or in words:
+resistance is inversely proportional to
+current and
+∴ratio of resistors is 6 : 3
+                                 2 : 1
+
+∴ratio of current is 1 : 2 
+                               A2 : A3
+∴IA2 =
+2
+3  x 1
+∴IA2 = 0,67 A     
+
+R α
+1
+I  in woorde:
+weerstand is omgekeer eweredig aan
+stroom
+∴verhouding van resistors is 6 : 3
+                                               2 : 1
+
+∴verhouding van stroom is 1 : 2 
+                                            A2 : A3
+∴IA2 =
+2
+3  x 1
+∴IA2 = 0,67 A     
+
+(3)
+
+11.1.4    A1= 2 A
+∴Q = I ∆t 
+       = 2 x 120 
+       = 240 C  (3)
+
+11.2 Decrease 
+Afneem (1)
+
+11.3 • If the 6 Ω resistor is removed, the resistance of the whole circuit increases 
+• Since R α
+1
+I ,  if R increases, and V is constant  and I of the circuit
+decreases
+
+• Indien die 6 Ω-resistor verwyder word, sal die totale weerstand van die
+stroombaan verhoog.
+• R α
+1
+I , so indien R verhoog en V bly konstant, sal die stroom (I) verlaag. (3)
+  [17]
+
+                                                                                               TOTAL/TOTAAL:   150

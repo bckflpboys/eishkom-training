@@ -1,0 +1,291 @@
+**BASIC EDUCATION**
+**DEPARTMENT OF BASIC EDUCATION**
+**REPUBLIC OF SOUTH AFRICA**
+
+**NASIONALE SENIOR SERTIFIKAAT**
+
+**GRAAD 11**
+
+**WISKUNDE V2**
+**NOVEMBER 2018**
+
+**PUNTE: 150**
+**TYD: 3 uur**
+
+Hierdie vraestel bestaan uit 16 bladsye en 'n 24 bladsy-antwoordeboek.
+
+---
+
+**INSTRUKSIES EN INLIGTING**
+
+Lees die volgende instruksies aandagtig deur voordat jy die vrae beantwoord.
+
+1. Hierdie vraestel bestaan uit 11 vrae.
+2. Beantwoord AL die vrae in die SPESIALE ANTWOORDEBOEK wat verskaf word.
+3. Dui ALLE berekeninge, diagramme, grafieke, ens. wat jy gebruik het om die antwoorde te bepaal, duidelik aan.
+4. Volpunte sal NIE noodwendig aan slegs antwoorde toegeken word NIE.
+5. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders aangedui.
+6. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+7. Jy mag 'n goedgekeurde wetenskaplike sakrekenaar (nieprogrammeerbaar en niegrafies) gebruik, tensy anders aangedui.
+8. Skryf netjies en leesbaar.
+
+---
+
+**VRAAG 1**
+
+'n Skool het 'n sportdag gehou. Een van die items op die program was 'n hinderniswedloop. Spanne van 10 ouers en leerders het aan hierdie wedloop deelgeneem. Die tabel hieronder toon die tyd, in minute, wat dit elke lid van 'n bepaalde span geneem het om die wedloop te voltooi.
+
+$$\begin{array}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+4 & 12 & 13 & 16 & 17 & 18 & 20 & 22 & 22 & 25 \\
+\hline
+\end{array}$$
+
+1.1 Hoe lank, in minute, het dit die vinnigste lid van die span geneem om die wedloop te voltooi? (1)
+
+1.2 Bepaal hierdie span se gemiddelde tyd. (2)
+
+1.3 Bereken die standaardafwyking van die data. (1)
+
+1.4 Hoeveel lede van die span het die hinderniswedloop buite twee standaardafwykings van die gemiddeld voltooi? (3)
+
+1.5 Dit het 'n ander span 'n totale tyd van $x + 5$ minute geneem om die wedloop te voltooi. Bereken die waarde van $x$ as die algehele gemiddeld van die twee spanne saam 18 minute was. (3)
+**[10]**
+
+---
+
+**VRAAG 2**
+
+2.1 'n Opname is van die ouderdomme van sokkerspelers by 'n sokkertoernooi gemaak. Die uitslae word op die kumulatiewefrekwensie-grafiek (ogief) hieronder getoon.
+
+[DIAGRAM: Kumulatiewefrekwensie-grafiek van sokkerspelers se ouderdomme, met kumulatiewe frekwensie op die y-as van 0 tot 50, en ouderdomme op die x-as van 0 tot 40. Die kurve styg van ongeveer (15, 0) deur (25, 10), (28, 30), (32, 45) tot (40, 50).]
+
+2.1.1 Hoeveel spelers het aan die sokkertoernooi deelgeneem? (1)
+
+2.1.2 Bepaal die getal spelers tussen die ouderdomme van 24 en 31 jaar. (2)
+
+2.1.3 Voltooi die frekwensiekolom van die tabel hieronder in die ANTWOORDEBOEK.
+
+$$\begin{array}{|c|c|c|}
+\hline
+\text{KLASINTERVAL} & \text{FREKWENSIE} & \text{KUMULATIEWE} \\
+& & \text{FREKWENSIE} \\
+\hline
+15 \le x < 20 & & 4 \\
+\hline
+20 \le x < 25 & & 13 \\
+\hline
+25 \le x < 30 & & 37 \\
+\hline
+30 \le x < 35 & & 47 \\
+\hline
+35 \le x < 40 & & 50 \\
+\hline
+\end{array}$$
+(3)
+
+2.1.4 Gebruik die rooster wat in die ANTWOORDEBOEK verskaf word om 'n frekwensieveelhoek vir die data te teken. (4)
+
+2.2 Twee graad 11-Wiskundeklasse het dieselfde getal leerders. Die vyf-getal-opsommings van die punte wat hierdie klasse vir 'n toets behaal het, word hieronder getoon.
+
+$$\text{KLAS A}\quad (30\,;\,48\,;\,65\,;\,82\,;\,90)$$
+
+$$\text{KLAS B}\quad (50\,;\,58\,;\,65\,;\,75\,;\,90)$$
+
+Die ouers van leerders in KLAS A en KLAS B neem waar dat abei klasse dieselfde mediaan en dieselfde maksimum punt het en beweer dus dat daar geen prestasieverskil tussen hierdie klasse is nie.
+
+Stem jy met hierdie bewering saam? Gebruik ten minste TWEE verskillende argumente om jou antwoord te regverdig. (3)
+**[13]**
+
+---
+
+**VRAAG 3**
+
+In die diagram is $\text{A}(-2\,;\,2)$, $\text{B}(6\,;\,5)$, $\text{C}(0\,;\,3)$ en $\text{D}(x\,;\,y)$ die hoekpunte van 'n vierhoek met $\text{AD} \parallel \text{BC}$. $\text{BA}$ verleng het 'n $x$-afsnit by $\text{E}$. $\text{BD}$ en $\text{AC}$ sny by $\text{M}$. $\text{N}(t\,;\,0)$ is 'n punt op $\text{AD}$.
+
+[DIAGRAM: A Cartesian plane showing a quadrilateral ABCD with vertices A(-2,2), B(6,5), C(0,-3), and D(x,y). Line BA is extended to meet the negative x-axis at E. AC and BD intersect at M. N(t,0) lies on AD. Arrows indicate parallel lines AD and BC.]
+
+3.1 Bereken die gradiënt van $\text{BC}$. (2)
+
+3.2 Bepaal die vergelyking van $\text{AD}$. (3)
+
+3.3 Bepaal die waarde van $t$. (2)
+
+3.4 Bereken die lengte van $\text{AN}$. (2)
+
+3.5 Indien $\text{DC}$ deur $y = \frac{3}{8}x - 3$ gedefinieer word, bepaal die koördinate van $\text{D}$. (4)
+
+3.6 Bewys dat $\text{ABCD}$ 'n parallelogram is. (3)
+
+3.7 Bereken die koördinate van $\text{M}$. (3)
+**[19]**
+
+---
+
+**VRAAG 4**
+
+In die diagram is $\text{F}(2\,;\,2)$, $\text{G}(5\,;\,2)$ en $\text{C}(6\,;\,y)$ die hoekpunte van $\Delta\text{FGC}$. $\text{FG} \perp \text{FC}$. $\text{N}$ is 'n punt op $\text{FG}$ sodanig dat die inklinasie van $\text{NC}$, $104,04^\circ$ is.
+Die inklinasiehoek van $\text{FG}$ is $\beta$ en $\text{F\hat{N}C} = \theta$.
+
+[DIAGRAM: Cartesian coordinate system with points F(2,-2), G(5,2), and C(6,y). Triangle FGC with FG perpendicular to FC at F. Line NC intersects FG at N, making an angle $\beta$ with the positive x-axis and angle $\theta$ at N with $\text{NC}$ inclined at $104{,}04^\circ$.]
+
+4.1 Bereken die gradiënt van $\text{FG}$. (2)
+
+4.2 Bereken die waarde van $y$. (3)
+
+4.3 Bereken die grootte van $\theta$. (3)
+
+4.4 Bereken die lengte van $\text{NC}$. (4)
+**[12]**
+
+---
+
+**VRAAG 5**
+
+5.1 In die diagram hieronder is $\text{T}(x\,;\,15)$ 'n punt op die Kartesiese vlak sodanig dat $\text{OT} = 17$ eenhede. $\text{P}(-2\,;\,a)$ lê op $\text{OT}$. $\text{K}$ is 'n punt op die positiewe $x$-as en $\text{T\hat{O}K} = \theta$.
+
+[DIAGRAM: A circle centered at the origin O with radius 17 units in the Cartesian plane. Point $\text{T}(x, 15)$ is in the second quadrant. Point $\text{P}(-2, a)$ lies on the line segment OT. K is on the positive x-axis. Angle $\text{T\hat{O}K} = \theta$.]
+
+Bepaal, met behulp van die diagram, die volgende:
+
+5.1.1 Die waarde van $x$ (2)
+
+5.1.2 $\tan\theta$ (1)
+
+5.1.3 $\cos(180^\circ - \theta)$ (2)
+
+5.1.4 $\sin^2\theta$ (2)
+
+5.1.5 Die waarde van $a$. (3)
+
+5.2 Vereenvoudig SONDER die gebruik van 'n sakrekenaar:
+
+$$\frac{\sin 120^\circ \cdot \cos 210^\circ \cdot \tan 315^\circ \cdot \cos 27^\circ}{\sin 63^\circ \cdot \cos 540^\circ}$$ (7)
+
+5.3 Bewys die identiteit:
+
+$$\frac{1}{\cos\theta} - \frac{\cos\theta}{1 + \sin\theta} = \tan\theta$$ (5)
+
+5.4 Bepaal die algemene oplossing van $3\sin x = 2\tan x$. (6)
+**[28]**
+
+---
+
+**VRAAG 6**
+
+Die grafieke van die funksies $f(x) = a\cos b\theta$ en $g(x) = c\tan\theta$ vir $x \in [-180^\circ\,;\,180^\circ]$ is hieronder getrek. Die grafieke sny by $\text{P}(58^\circ\,;\,1{,}6)$ en $\text{Q}$.
+
+[DIAGRAM: Graphs of $f(x)$ and $g(x)$ for $\theta \in [-180^\circ, 180^\circ]$. $f(\theta)$ is a cosine-like wave with maximum at $(0^\circ, 3)$ and points K, M. $g(\theta)$ has asymptotes at $\theta = -90^\circ$ and $\theta = 90^\circ$, passing through origin, and intersecting $f$ at $\text{P}(58^\circ, 1{,}6)$ and $\text{Q}$ in the fourth quadrant.]
+
+6.1 Skryf die waardeversameling van $f$ neer. (2)
+
+6.2 Indien $\text{M}(-45^\circ\,;\,-1)$ op $g$ lê, bepaal die waarde van $c$. (1)
+
+6.3 Skryf die waardes van $a$ en $b$ neer. (2)
+
+6.4 Bepaal die koördinate van $\text{Q}$. (2)
+
+6.5 $\text{K}$ lê op $f$ sodanig dat $\text{KM}$ parallel aan die $y$-as is. Bereken die lengte van $\text{KM}$. (2)
+
+6.6 Indien die assestelsel $45^\circ$ na links geskuif word en die grafieke bly vas, skryf die vergelyking neer van die grafiek wat nou deur grafiek $f$ verteenwoordig word. (2)
+**[11]**
+
+---
+
+**VRAAG 7**
+
+7.1 In die diagram is $\hat{\text{P}} = 67^\circ$, $\text{PQ} = 3\text{ cm}$ en $\text{PR} = 9{,}2\text{ cm}$. Bepaal die lengte van $\text{QR}$.
+
+[DIAGRAM: Triangle PQR with $\hat{\text{P}} = 67^\circ$, side $\text{PQ} = 3\text{ cm}$, and side $\text{PR} = 9{,}2\text{ cm}$.] (3)
+
+7.2 In die diagram hieronder is $\text{D\hat{C}B} = \alpha$, $\text{AC} = h$ eenhede en $\text{A\hat{C}B} = \theta$.
+
+[DIAGRAM: Triangle ABC with right angle at B. $\text{A\hat{C}B} = \theta$, $\text{D\hat{C}B} = \alpha$. Line AD connects point A to point D on BC (or rather, D is on AB). Here D is on AB, forming triangle ADC with side $\text{AC} = h$.]
+
+7.2.1 Bepaal die grootte van $\text{A\hat{C}D}$ in terme van $\theta$ en $\alpha$. (1)
+
+7.2.2 Bewys dat $\text{AD} = \frac{h\sin(\theta - \alpha)}{\cos\alpha}$ (4)
+
+7.2.3 Bepaal die lengte van $\text{AD}$ as $h = 17$ eenhede, $\theta = 58^\circ$ en $\alpha = 23^\circ$. (2)
+
+7.2.4 Bereken die oppervlakte van $\Delta\text{ADC}$. (3)
+**[13]**
+
+---
+
+**VRAAG 8**
+
+Die diagram hieronder toon 'n keël met 'n loodregte hoogte van $h\text{ cm}$, 'n radius van $r\text{ cm}$ en 'n skuinshoogte van $13\text{ cm}$.
+
+[DIAGRAM: A right circular cone with slant height $13\text{ cm}$, vertical height $h\text{ cm}$, and base radius $r\text{ cm}$. Formulas provided: $\text{Volume} = \frac{1}{3}\pi r^2 h$, $\text{Total surface area} = \pi r^2 + \pi r s$.]
+
+8.1 Bewys dat die volume van die keël $\text{V} = \frac{169\pi h - \pi h^3}{3}$ gegee word. (4)
+
+8.2 Indien $h = 12\text{ cm}$, bepaal die totale buiteoppervlakte van die keël. (3)
+**[7]**
+
+---
+
+**Gee redes vir jou beweringe en berekeninge in VRAAG 9, 10 en 11.**
+
+**VRAAG 9**
+
+9.1 In die figuur is $\text{O}$ die middelpunt van die sirkel. $\text{A}$, $\text{B}$, $\text{C}$, $\text{D}$ en $\text{E}$ lê op die sirkel sodanig dat koord $\text{AB}$ en koord $\text{DC}$ gelyk in lengte is en $\text{A\hat{E}B} = 39^\circ$.
+
+[DIAGRAM: Circle with center O. Points A, B, C, D, E on circumference. Chords AB and DC are equal in length (indicated by tick marks). $\text{A\hat{E}B} = 39^\circ$. Radii or chords meeting at center O forming $\hat{\text{O}}_1$ and $\hat{\text{O}}_2$.]
+
+9.1.1 Bepaal die grootte van $\hat{\text{O}}_1$. (2)
+
+9.1.2 Bepaal die grootte van $\hat{\text{O}}_2$. (2)
+
+9.2 In die diagram is $\text{S}$ die middelpunt van sirkel $\text{PQRT}$. $\text{PT}$ is 'n middellyn. $\text{R\hat{S}T} = x - 8^\circ$ en $\text{P\hat{Q}R} = 2x - 40^\circ$.
+
+[DIAGRAM: Circle with center S and diameter PT. Points P, Q, R, T on circumference. $\text{R\hat{S}T} = x - 8^\circ$ and $\text{P\hat{Q}R} = 2x - 40^\circ$.]
+
+Bepaal die waarde van $x$. (4)
+
+9.3 In die diagram is $\text{O}$ die middelpunt van die sirkel. Koord $\text{AC}$ is loodreg op radius $\text{OD}$ by $\text{B}$. $\text{OB} = 2x$ eenhede en $\text{AC} = 8x$ eenhede.
+
+[DIAGRAM: Circle with center O, chord AC perpendicular to radius OD at B. OB = 2x, AC = 8x. Points A, B, C, D on or near circle.]
+
+Toon dat die lengte van $\text{BD}$ $2x(\sqrt{5} - 1)$ eenhede is. (5)
+**[13]**
+
+---
+
+**VRAAG 10**
+
+10.1 In die diagram hieronder is $\text{O}$ die middelpunt van die sirkel en $\text{PTSR}$ is 'n koordevierhoek.
+
+[DIAGRAM: Cyclic quadrilateral PTSR inscribed in a circle with center O.]
+
+Bewys die stelling wat beweer dat $\hat{\text{P}} + \hat{\text{S}} = 180^\circ$. (5)
+
+10.2 In die figuur is $\text{QS}$ en $\text{PR}$ middellyne van die sirkel met middelpunt $\text{O}$ sodat $\text{PQ} \parallel \text{SR}$. $\text{PS}$ is verleng na $\text{T}$. $\text{N}$ is 'n punt op die sirkel sodanig dat $\hat{\text{Q}}_1 = \hat{\text{Q}}_2$. $\text{SN}$ is getrek.
+$\text{RS}$ sny $\text{QN}$ by $\text{M}$. $\hat{\text{S}}_1 = 48^\circ$.
+
+[DIAGRAM: Circle with diameters QS and PR, center O. PQ || SR. PS produced to T. N on circle with $\hat{\text{Q}}_1 = \hat{\text{Q}}_2$. SN drawn. RS and QN intersect at M. $\hat{\text{S}}_1 = 48^\circ$.]
+
+10.2.1 Bepaal, met redes, die grootte van:
+(a) $\hat{\text{Q}}_1$ (3)
+(b) $\hat{\text{R}}$ (2)
+(c) $\hat{\text{M}}_1$ (2)
+
+10.2.2 Bewys dat $\text{ST}$ 'n raaklyn aan die sirkel is wat deur $\text{M}$, $\text{N}$ en $\text{S}$ gaan. (2)
+**[14]**
+
+---
+
+**VRAAG 11**
+
+$\text{O}$ is die middelpunt van die groter sirkel $\text{RTAP}$. $\text{OP}$ is die middellyn van die kleiner sirkel $\text{PSO}$. $\text{NP}$ is 'n raaklyn aan beide sirkels by $\text{P}$. $\text{RN} \perp \text{NP}$.
+Laat $\hat{\text{P}}_1 = x$.
+
+[DIAGRAM: Two intersecting circles. Larger circle RTAP with center O, smaller circle PSO with diameter OP. NP is a tangent to both circles at P. RN perpendicular to NP at N. $\hat{\text{P}}_1 = x$.]
+
+11.1 Bewys dat $\text{PR}$ vir $\text{O\hat{R}N}$ halveer. (5)
+
+11.2 Bewys dat $\text{R\hat{O}S} = \text{P\hat{A}T}$. (5)
+**[10]**
+
+**TOTAAL: 150**

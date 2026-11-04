@@ -1,0 +1,261 @@
+## NASIONALE SENIOR SERTIFIKAAT
+### GRAAD 11
+
+---
+
+**WISKUNDE V2**  
+**NOVEMBER 2017**
+
+**PUNTE:** 150  
+**TYD:** 3 uur  
+
+Hierdie vraestel bestaan uit 13 bladsye en 'n antwoordeboek van 24 bladsye.
+
+---
+
+### INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies aandagtig deur voordat jy die vrae beantwoord.
+
+1. Hierdie vraestel bestaan uit 12 vrae.
+2. Beantwoord AL die vrae in die ANTWOORDEBOEK wat verskaf word.
+3. Dui ALLE berekeninge, diagramme, grafieke, ensovoorts wat jy gebruik het om die antwoorde te bepaal, duidelik aan.
+4. Volpunte sal NIE noodwendig aan slegs antwoorde toegeken word NIE.
+5. Rond antwoorde tot TWEE desimale plekke af, tensy anders aangedui.
+6. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+7. Jy mag 'n goedgekeurde wetenskaplike sakrekenaar (nie-programmeerbaar en nie-grafies) gebruik, tensy anders aangedui.
+8. Skryf netjies en leesbaar.
+
+---
+
+### VRAAG 1
+
+1.1 Mnr. Brown het 'n opname gedoen oor die hoeveelheid lugtyd (in rand) wat ELKE student op sy of haar selfoon het. Hy het die data in die mond-en-snordiam hieronder opgesom.
+
+[DIAGRAM: Box and whisker plot. Minimum at 14, Q1 at 17, Median at 30, Q3 at 38, Maximum at 65. Scale goes from 10 to 66 in increments of 2.]
+
+1.1.1 Skryf die vyfgetalopsomming van die data neer. (2)
+1.1.2 Bepaal die interkwartielomvang. (1)
+1.1.3 Lewer kommentaar op die skeefheid van die data. (1)
+
+1.2 'n Groep van 13 studente het aangedui hoe lank (in uur) dit geneem het voordat hulle selfoonbatterye herlaai moes word. Die inligting word in die tabel hieronder gegee.
+
+$$\begin{array}{|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+5 & 8 & 10 & 17 & 20 & 29 & 32 & 48 & 50 & 50 & 63 & y & 107 \\
+\hline
+\end{array}$$
+
+1.2.1 Bereken die waarde van $y$ as die gemiddeld vir die datastel 41 is. (2)
+1.2.2 As $y = 94$, bereken die standaardafwyking van die data. (1)
+1.2.3 Die gemiddelde tyd voordat 'n ander groep van 6 studente die batterye van hulle selfone moes herlaai, was 18 uur. Kombineer hierdie groep en bereken die algehele gemiddelde tyd nodig vir hierdie twee groepe om die batterye van hulle selfone te herlaai. (3)
+
+**[10]**
+
+---
+
+### VRAAG 2
+
+'n Student het 'n opname onder sy vriende en familie gedoen om die verhouding tussen die ouderdom van 'n persoon en die getal bemarkingsoproepe wat hy of sy in 'n maand ontvang het, te bepaal. Die inligting word in die tabel hieronder gegee.
+
+$$\begin{array}{|c|c|c|}
+\hline
+\textbf{OUDERDOM VAN PERSON IN OPNAME} & \textbf{FREKWENSIE} & \textbf{KUMULATIEWE FREKWENSIE} \\
+\hline
+20 < x \le 30 & 7 & 7 \\
+\hline
+30 < x \le 40 & & 27 \\
+\hline
+40 < x \le 50 & 25 & \\
+\hline
+50 < x \le 60 & & 64 \\
+\hline
+60 < x \le 70 & & 72 \\
+\hline
+70 < x \le 80 & 4 & \\
+\hline
+80 < x \le 90 & & 80 \\
+\hline
+\end{array}$$
+
+2.1 Voltooi die frekwensie- en kumulatiewefrekwensie-kolomme in die tabel wat in die ANTWOORDEBOEK gegee word. (4)
+2.2 Hoeveel mense het aan hierdie opname deelgeneem? (1)
+2.3 Skryf die modale klas neer. (1)
+2.4 Teken 'n ogief (kumulatiewefrekwensie-grafiek) om die data voor te stel op die rooster wat in die ANTWOORDEBOEK gegee word. (3)
+2.5 Bepaal die persentasie bemarkingsoproepe wat persone ouer as 54 jaar ontvang het. (3)
+
+**[12]**
+
+---
+
+### VRAAG 3
+
+$A(-2; -5)$, $B$, $C$ en $D$ is die hoekpunte van vierhoek $ABCD$ sodanig dat die hoeklyn $AC$ loodreg op hoeklyn $BD$ by $T$ is.  
+Die vergelyking van $BT$ word gegee deur $2y + x = 18$ en $AB = 15$ eenhede.
+
+[DIAGRAM: Quadrilateral $ABCD$ in a Cartesian plane. $A$ is at $(-2, -5)$. Line $BD$ has equation $2y + x = 18$. Line $AC$ is perpendicular to $BD$ at point $T$. $AB = 15$.]
+
+3.1 Bepaal die gradiënt van lyn $AC$. (2)
+3.2 Bepaal die gradiënt van $AC$ in die vorm $y = mx + c$. (2)
+3.3 Indien die vergelyking van $AC$ $y = 2x - 1$ is, bereken die koördinate van $T$. (3)
+3.4 As $ABCD$ 'n vlieër is met $AB = BC$:
+3.4.1 Bepaal die koördinate van $C$ (2)
+3.4.2 Bereken die lengte van $BT$ (4)
+3.4.3 Skryf die lengte van die radius van die sirkel wat deur punt $B$, $C$ en $T$ gaan, neer (2)
+
+**[15]**
+
+---
+
+### VRAAG 4
+
+$C$, 'n punt op die $x$-as, $A(-5; -3)$ en $B(4; 12)$ is die hoekpunte van 'n driehoek.  
+$AB$ sny die $x$-as by $E$.  
+$\hat{A B C} = \theta$ en $B \hat{E} C = \alpha$.
+
+[DIAGRAM: Triangle $ABC$ with $A(-5, -3)$, $B(4, 12)$ and $C$ on the $x$-axis. $AB$ cuts the $x$-axis at $E$. $\hat{ABC} = \theta$, $B\hat{E}C = \alpha$.]
+
+4.1 Bereken die gradiënt van $AB$. (2)
+4.2 Bepaal die koördinate van punt $E$. (3)
+4.3 Bepaal die grotte van $\alpha$. Rond tot die naaste heelgetal af. (2)
+4.4 As $\theta = 76^\circ$, beral die vergelyking van die lyn deur $A$ wat parallel aan $BC$ is. (5)
+
+**[12]**
+
+---
+
+### VRAAG 5
+
+5.1 Vereenvoudig volledig: $\sin(90^\circ - x)\cdot \cos(180^\circ + x) + \tan x \cdot \cos x \cdot \sin(x - 180^\circ)$ (6)
+
+5.2 Bewys, SONDER om 'n sakrekenaar te gebruik, dat:
+
+$$\frac{\sin 315^\circ \cdot \tan 210^\circ \cdot \sin 190^\circ}{\cos 100^\circ \cdot \sin 120^\circ} = \frac{-\sqrt{2}}{3}$$ (6)
+
+5.3 In die diagram hieronder is $R$ 'n punt in die eerste kwadrant sodanig dat $T \hat{O} R = \alpha$.  
+$RO$ word verleng na $P$ sodanig dat $OP = 2\ RO$ en $T \hat{O} P = \beta$.  
+Daar word gegee dat $\sin \alpha = \frac{3}{5}$.
+
+[DIAGRAM: Cartesian plane showing ray $OR$ at angle $\alpha$ with positive $x$-axis, and its extension to $P$ in the third quadrant forming angle $\beta$ with the negative $x$-axis / $T\hat{O}P = \beta$.]
+
+Bepaal, SONDER die gebruik van 'n sakrekenaar:
+5.3.1 Die waarde van $\tan \alpha$ (3)
+5.3.2 Die waarde van $\sin \beta$ (3)
+5.3.3 Die koördinate van $P$ (4)
+
+5.4 Bewys die identiteit: $\frac{\sin \theta - \tan \theta \cdot \cos^2 \theta}{\cos \theta - 1 + \sin^2 \theta} = \tan \theta$ (4)
+
+**[26]**
+
+---
+
+### VRAAG 6
+
+6.1 Bepaal die algemene oplossing vir $\sin(x - 30^\circ) = \cos 2x$ (5)
+
+6.2 Beskou die funksies $f(x) = \sin(x - 30^\circ)$ en $g(x) = \cos 2x$
+6.2.1 Skryf die periode van $g$ neer. (1)
+6.2.2 Gee die waardeverzameling van $f$. (2)
+6.2.3 Teken die grafiek $f$ en $g$ vir $x \in [-90^\circ; 180^\circ]$ op die rooster wat in die ANTWOORDEBOEK verskaf word. Dui duidelik ALLE afsnitte, draaipunte en eindpunte aan. (5)
+6.2.4 Skryf die $x$-koördinate van die snypunte van $f$ en $g$ in die interval $x \in [-90^\circ; 180^\circ]$ neer. (3)
+
+**[16]**
+
+---
+
+### VRAAG 7
+
+In $\Delta PQR$ is $QR = 3$ eenhede, $PR = x$ eenhede, $PQ = 2x$ eenhede en $P \hat{Q} R = \theta$.
+
+[DIAGRAM: Triangle $PQR$ with $PQ = 2x$, $PR = x$, $QR = 3$, and $\hat{Q} = \theta$.]
+
+7.1 Toon dat $\cos \theta = \frac{x^2 + 3}{4x}$ (3)
+
+7.2 As $x = 2,4$ eenhede:
+7.2.1 Bereken $\theta$ (3)
+7.2.2 Bereken die oppervlakte van $\Delta PQR$ (2)
+
+7.3 Bereken die waardes van $x$ waarvoor die driehoek bestaan. (4)
+
+**[12]**
+
+---
+
+### VRAAG 8
+
+'n Piramide met 'n vierkantige basis met 'n sy-lengte van $16\text{ cm}$ is hieronder geskets. $P$ lê op die vierkantige basis direk onder $A$.  
+Die volume van die piramide is $640\text{ cm}^3$.
+
+$$\text{Volume van piramide} = \frac{1}{3}Ah$$
+
+[DIAGRAM: Square-based pyramid with apex $A$ and vertical height $h$ ending at $P$ on the base. A slant height $AT$ is shown. Base side length is $16\text{ cm}$.]
+
+8.1 Toon dat die loodregte hoogte van die piramide, $AP$, $7,5\text{ cm}$ is. (2)
+8.2 Bepaal vervolgens die totale buite-oppervlakte van die piramide. (4)
+
+**[6]**
+
+---
+
+### VRAAG 9
+
+**Gee redes vir jou bewering en berekeninge in VRAAG 9, 10, 11 en 12.**
+
+9.1 In die diagram hieronder is $O$ die middelpunt van die sirkel en punt $T$ lê op koord $RS$. Bewys die stelling wat beweer dat as $OT \perp RTS$ dan is $RT = TS$.
+
+[DIAGRAM: Circle with center $O$ and chord $RS$. $OT \perp RS$ at $T$. Angles 1 and 2 at $T$ are right angles.]
+
+(5)
+
+9.2 In die diagram is $O$ die middelpunt van die sirkel $ABD$. $F$ is 'n punt op koord $AB$ sodanig dat $DOF \perp AB$. $AB = FD = 8\text{ cm}$ en $OF = x\text{ cm}$.
+
+[DIAGRAM: Circle with center $O$, chord $AB$, and diameter/line segment $DF$ perpendicular to $AB$ at $F$. $OF = x$, $AB = 8$, $FD = 8$.]
+
+Bepaal die lengte van die radius van die sirkel. (5)
+
+**[10]**
+
+---
+
+### VRAAG 10
+
+$M$ is die middelpunt van die sirkel $SVQR$ met gelyke koorde $SV$ en $QR$.  
+$RP$ en $QP$ is raaklyne aan die sirkel by $R$ en $Q$ onderskeidelik sodanig dat $R \hat{P} Q = 70^\circ$.
+
+[DIAGRAM: Circle with center $M$, chords $SV$ and $QR$. Tangents $RP$ and $QP$ meet at $P$ with $R\hat{P}Q = 70^\circ$. Lines $SV$ and $QR$ subtend angles at $M$.]
+
+10.1 Bereken die grootte van $\hat{R}_2$. (4)
+10.2 Bereken die grootte van $\hat{Q}_1$. (2)
+10.3 Bepaal die grootte van $\hat{M}_2$. (3)
+
+**[9]**
+
+---
+
+### VRAAG 11
+
+In die diagram hieronder is $O$ die middelpunt van die sirkel. $CDE$ is 'n raaklyn aan die sirkel by $D$. $DB$ halveer $A \hat{B} C$. Laat $\hat{B}_1 = x$.
+
+[DIAGRAM: Circle with center $O$. Tangent $CDE$ at $D$. $DB$ bisects $A\hat{B}C$. $\hat{B}_1 = x$. Points $A, B, D$ on circle. Line $OD$ shown.]
+
+11.1 Bewys dat $BC \parallel OD$ (4)
+11.2 Toon dat $\hat{C} = 90^\circ$ (3)
+
+**[7]**
+
+---
+
+### VRAAG 12
+
+In die diagram hieronder raak twee sirkels mekaar ekstern by punt $P$.  
+$QPR$ is 'n gemene raaklyn aan beide sirkels by $P$. $EDRC$ is 'n raaklyn aan die sirkel $PBFC$ by $C$. $R\hat{C}A = y$ en $D\hat{A}C = x$. $AD \parallel BC$.
+
+[DIAGRAM: Two circles touching externally at $P$. Common tangent $QPR$ at $P$. Tangent $EDRC$ at $C$. Angle $R\hat{C}A = y$, $D\hat{A}C = x$. $AD \parallel BC$. Multiple labelled angles and points.]
+
+12.1 Noem, met redes, VIER ander hoeke gelyk aan $x$. (7)
+12.2 Toon dat $E\hat{P}A = x + y$ (4)
+12.3 Bepaal die numeriese waarde van $x + y$, as dit gegee word dat $DCTP$ 'n koordevierhoek is. (4)
+
+**[15]**
+
+**TOTAAL: 150**

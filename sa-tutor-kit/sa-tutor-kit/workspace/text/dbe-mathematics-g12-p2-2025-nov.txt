@@ -1,0 +1,259 @@
+Confidential
+
+# basic education
+Department:  
+Basic Education  
+**REPUBLIC OF SOUTH AFRICA**
+
+---
+
+### NATIONAL SENIOR CERTIFICATE
+
+### GRADE 12
+
+**MATHEMATICS P2**
+
+**NOVEMBER 2025**
+
+**MARKS: 150**
+
+**TIME: 3 hours**
+
+This question paper consists of 14 pages, 1 information sheet and an answer book of 27 pages.
+
+---
+
+### INSTRUCTIONS AND INFORMATION
+
+Read the following instructions and information carefully before answering the questions.
+
+1. This question paper consists of 11 questions.
+2. Answer ALL the questions in the SPECIAL ANSWER BOOK provided.
+3. Clearly show ALL calculations, diagrams, graphs, etc. which you have used in determining your answers.
+4. Answers only will NOT necessarily be awarded full marks.
+5. You may use an approved scientific calculator (non-programmable and non-graphical), unless stated otherwise.
+6. If necessary, round off answers to TWO decimal places, unless stated otherwise.
+7. Diagrams are NOT necessarily drawn to scale.
+8. An information sheet with formulae is included at the end of the question paper.
+9. Write neatly and legibly.
+
+---
+
+### QUESTION 1
+
+There were 11 cars of the same model for sale at a car dealership. The age (in years) of each car and its corresponding selling price (in rands) is provided in the table below.
+
+| AGE OF CAR (IN YEARS) | SELLING PRICE OF CAR (IN RAND) |
+| :---: | :---: |
+| 2 | 293 000 |
+| 3 | 265 000 |
+| 3 | 256 000 |
+| 4 | 219 000 |
+| 4 | 241 000 |
+| 4 | 246 000 |
+| 6 | 226 000 |
+| 6 | 176 000 |
+| 7 | 154 000 |
+| 7 | 180 000 |
+| 8 | 148 000 |
+
+1.1 Determine the equation of the least squares regression line. (3)
+
+1.2 Predict the selling price of a similar car at this car dealership that is 5 years old. (2)
+
+1.3 Use the correlation coefficient to show whether the prediction made in QUESTION 1.2 is valid or not. (2)
+
+1.4 Use the answer to QUESTION 1.1 to write down the estimated average yearly decrease in the selling price of these 11 cars. (1)
+**[8]**
+
+---
+
+### QUESTION 2
+
+2.1 The cumulative frequency table below shows the amount of time that people spent on a particular website on a certain day.
+
+| TIME, $t$ (IN MINUTES) | CUMULATIVE FREQUENCY |
+| :---: | :---: |
+| $0 < t \le 20$ | 16 |
+| $0 < t \le 40$ | 40 |
+| $0 < t \le 60$ | 59 |
+| $0 < t \le 80$ | 67 |
+| $0 < t \le 100$ | 70 |
+
+2.1.1 How many people visited this website on that day? (1)
+
+2.1.2 How many people spent more than 40 and up to 80 minutes on the website? (2)
+
+2.1.3 Draw a histogram to represent the information provided in the cumulative frequency table. (3)
+
+2.1.4 Comment on the skewness of the data. (1)
+
+2.2 There are 9 players in a basketball team. The coach calculated that on average, each player scored 12 points during a game. The points scored by 8 of the 9 players from the team is given below:
+
+$$11 \quad 14 \quad 19 \quad 20 \quad 8 \quad 10 \quad 2 \quad 14$$
+
+How many players' points score was outside ONE standard deviation of the mean points score? (5)
+**[12]**
+
+---
+
+### QUESTION 3
+
+In the diagram, $\text{P}(-1 ; 8)$, $\text{Q}(-4 ; -6)$ and $\text{R}(12 ; 2)$ are the vertices of $\Delta\text{PQR}$. The angle of inclination of $\text{QR}$ is $\theta$.
+
+[DIAGRAM: Cartesian plane showing triangle $\text{PQR}$ with vertices $\text{P}(-1 ; 8)$, $\text{Q}(-4 ; -6)$, and $\text{R}(12 ; 2)$. Line $\text{QR}$ extends across the x-axis, forming an angle of inclination $\theta$ with the positive x-axis.]
+
+3.1 Calculate the length of $\text{QR}$. Leave your answer in simplified surd form. (2)
+
+3.2 Calculate the gradient of $\text{QR}$. (2)
+
+3.3 Calculate the size of $\theta$. (2)
+
+3.4 Determine the equation of $\text{QR}$. (2)
+
+3.5 $\text{PQRS}$, in that order, is a parallelogram. Write down the coordinates of $\text{S}$. (2)
+
+3.6 $\text{T}$ is a point on $\text{QR}$ such that $\text{PT} \perp \text{QR}$. Calculate the coordinates of $\text{T}$. (5)
+
+3.7 Calculate the area of parallelogram $\text{PQRS}$. (3)
+**[18]**
+
+---
+
+### QUESTION 4
+
+In the diagram, $\text{M}(p ; q)$ is the centre of the circle that intersects the x-axis at $\text{A}$ and $\text{B}$. $\text{C}$ is a point such that the line drawn from $\text{M}$ to $\text{C}$ is parallel to the y-axis and intersects the x-axis at $\text{D}$. $\text{MC}$ intersects the circle at $\text{E}(-6 ; -1)$. Tangents drawn from $\text{C}$ touch the circle at $\text{A}$ and $\text{B}$. $\text{AD} = (q - 1)$ units.
+
+[DIAGRAM: Circle with centre $\text{M}(p;q)$ intersecting the x-axis at points $\text{A}$ and $\text{B}$. A vertical line passes through $\text{M}$, intersecting the x-axis at $\text{D}$, the bottom of the circle at $\text{E}(-6;-1)$, and extending down to point $\text{C}$. Tangents $\text{CA}$ and $\text{CB}$ touch the circle at $\text{A}$ and $\text{B}$ respectively. Line segments $\text{MA}$ and $\text{MB}$ are also drawn.]
+
+4.1 Write down the value of $p$. (1)
+
+4.2 Show that $q = 4$. (4)
+
+4.3 Determine the equation of the circle in the form $(x - a)^2 + (y - b)^2 = r^2$. (2)
+
+4.4 If the circle is translated 2 units to the left, determine the minimum distance between the circle and the y-axis. (1)
+
+4.5 Calculate the coordinates of $\text{A}$ and $\text{B}$. (3)
+
+4.6 Determine the equation of tangent $\text{BC}$. (4)
+
+4.7 Write down the coordinates of $\text{C}$. (2)
+
+4.8 Calculate the size of $\text{A}\hat{\text{C}}\text{B}$. (4)
+**[21]**
+
+---
+
+### QUESTION 5
+
+5.1 It is given that $\tan 50^\circ = k$. Express EACH of the following in terms of $k$:
+
+5.1.1 $\cos 40^\circ$ (2)
+
+5.1.2 $\frac{2\sin 25^\circ \cdot \cos 25^\circ}{-2 + 4\sin^2 25^\circ}$ (5)
+
+5.1.3 $\sin 10^\circ$ (4)
+
+5.2 Given: $\frac{\sin(540^\circ + x) \cdot \cos(90^\circ + x)}{\sin(-x)}$
+
+5.2.1 Simplify the expression above fully to a single trigonometric ratio. (4)
+
+5.2.2 Hence, determine the values of $x$ in the interval $x \in [0^\circ ; 360^\circ]$ for which $\sqrt{\frac{\sin(540^\circ + x) \cdot \cos(90^\circ + x)}{\sin(-x)}}$ will be real. (2)
+**[17]**
+
+---
+
+### QUESTION 6
+
+6.1 Prove that: 
+
+$$[\tan(180^\circ - x)](1 - \cos^2 x) + \cos^2 x = \frac{(\sin x - \cos x)(1 + \sin x \cdot \cos x)}{-\cos x}$$ (6)
+
+6.2 It is given that $\sin^2 x$ ; $\cos^2 x$ and $\frac{1}{2}\sin 2x$ are the first three terms of an arithmetic sequence. The constant difference of the arithmetic sequence is NOT zero. Determine the general solution for $x$. (7)
+**[13]**
+
+---
+
+### QUESTION 7
+
+In the diagram, the graph of $f(x) = \cos 2x$ is drawn for $x \in [-135^\circ ; 135^\circ]$.
+
+[DIAGRAM: Cartesian graph of $f(x) = \cos 2x$ for $x \in [-135^\circ ; 135^\circ]$. The y-axis ranges from $-1$ to $1$. Key points indicated on the x-axis: $-135^\circ$, $-90^\circ$, $-45^\circ$, $0$, $45^\circ$, $90^\circ$, $135^\circ$. Maximum at $(0 ; 1)$, minimums at $(-90^\circ ; -1)$ and $(90^\circ ; -1)$.]
+
+7.1 Write down the period of $f$. (1)
+
+7.2 On the set of axes provided in the ANSWER BOOK, draw the graph of $g(x) = \tan 2x - 1$ for $x \in [-135^\circ ; 135^\circ]$. (3)
+
+7.3 Graph $f$ is translated $45^\circ$ to the left to form graph $h$. Determine the equation of $h$ in its simplest form. (1)
+
+7.4 Write down the range of $h$. (1)
+
+7.5 Determine the values of $x$ for which $(1 - \tan 2x)(\cos 2x) \ge 0$ in the interval $x \in [0^\circ ; 135^\circ]$. (4)
+**[10]**
+
+---
+
+### QUESTION 8
+
+As part of a school project, learners are required to design a portable stage for a puppet show, as shown in the diagram below. The design must fulfil the following requirements:
+
+- $\text{BKLC}$ is a horizontal base having $\text{K}\hat{\text{B}}\text{C} = 104^\circ$ and $\text{B}\hat{\text{K}}\text{C} = 52,6^\circ$.
+- The rectangular backdrop, $\text{ABCD}$, is vertical to the horizontal base and must have an area of $648\text{ cm}^2$.
+- The sides of $\text{ABCD}$ must be in the ratio $\text{AB} : \text{BC} = 1 : 2$.
+- The stage must be partly enclosed with triangular sides $\text{ABK}$ and $\text{DCL}$.
+
+[DIAGRAM: 3D view of puppet stage. Vertical rectangular back wall $\text{ABCD}$ with area $= 648\text{ cm}^2$. Horizontal base triangle/quadrilateral $\text{BKC}$ with $\text{K}\hat{\text{B}}\text{C} = 104^\circ$ and $\text{B}\hat{\text{K}}\text{C} = 52,6^\circ$. Triangular side flaps $\text{ABK}$ and $\text{DCL}$ extend from the vertical edges $\text{AB}$ and $\text{DC}$ to base vertices $\text{K}$ and $\text{L}$.]
+
+8.1 Show that $\text{AB} = 18\text{ cm}$. (2)
+
+8.2 Calculate the length of $\text{AC}$. (2)
+
+8.3 Calculate the length of diagonal $\text{KC}$. (2)
+
+8.4 If $\text{AB} = \text{BK}$, calculate the size of $\text{K}\hat{\text{A}}\text{C}$. (4)
+**[10]**
+
+---
+
+### QUESTION 9
+
+**Provide reasons for your statements in QUESTIONS 9, 10 and 11.**
+
+9.1 In the diagram, $\text{O}$ is the centre of the circle. $\text{K}$, $\text{T}$ and $\text{P}$ lie on the circle.
+
+[DIAGRAM: Circle with centre $\text{O}$. Points $\text{K}$, $\text{T}$, and $\text{P}$ are situated on the circumference. Radii $\text{OT}$ and $\text{OP}$ are drawn forming central angle $\text{T}\hat{\text{O}}\text{P}$. Chords $\text{KT}$ and $\text{KP}$ form angle $\text{T}\hat{\text{K}}\text{P}$ at the circumference.]
+
+Use the diagram above to prove the theorem which states that the angle subtended by a chord (or arc) at the centre of the circle is equal to twice the angle subtended by the same chord (or arc) at the circumference, that is prove that $\text{T}\hat{\text{O}}\text{P} = 2\text{T}\hat{\text{K}}\text{P}$. (5)
+
+9.2 In the diagram, $\text{O}$ is the centre of the circle. $\text{POF}$ is the diameter of the circle and $\text{MF}$ is a tangent to the circle at $\text{F}$. $\text{OM}$ cuts the circle at $\text{L}$. $\hat{\text{P}} = 32^\circ$.
+
+[DIAGRAM: Circle with centre $\text{O}$ and diameter $\text{POF}$. Tangent line $\text{MF}$ touches the circle at $\text{F}$. Line $\text{OM}$ cuts the circle at point $\text{L}$. Line segment $\text{PL}$ is drawn. Angle $\hat{\text{P}} = 32^\circ$. Angle at centre $\text{O}$ is divided into $\hat{\text{O}}_1$ and $\hat{\text{O}}_2$.]
+
+Calculate, with reasons, the size of:
+
+9.2.1 $\hat{\text{O}}_2$ (2)
+
+9.2.2 $\hat{\text{M}}$ (3)
+**[10]**
+
+---
+
+### QUESTION 10
+
+In the diagram, $\text{PQRS}$ is a cyclic quadrilateral. $\text{T}$ is a point on the circle such that $\text{QT}$ is perpendicular to $\text{SR}$ at $\text{V}$. $\text{PT}$ and $\text{ST}$ are drawn. $\hat{\text{Q}}_2 = 35^\circ$ and $\hat{\text{R}} = \hat{\text{S}}_1$.
+
+[DIAGRAM: Cyclic quadrilateral $\text{PQRS}$ inside a circle. Point $\text{T}$ lies on the circle. Chord $\text{QT}$ intersects chord $\text{SR}$ perpendicularly at $\text{V}$ forming right angles $\hat{\text{V}}_1, \hat{\text{V}}_2, \hat{\text{V}}_3, \hat{\text{V}}_4$. Chords $\text{PT}$ and $\text{ST}$ are drawn. Angles indicated: $\hat{\text{P}}_1, \hat{\text{P}}_2$, $\hat{\text{Q}}_1, \hat{\text{Q}}_2 = 35^\circ$, $\hat{\text{R}}$, $\hat{\text{S}}_1, \hat{\text{S}}_2$, $\hat{\text{T}}_1, \hat{\text{T}}_2$. $\hat{\text{R}} = \hat{\text{S}}_1$.]
+
+10.1 Calculate, with reasons, the size of $\text{Q}\hat{\text{T}}\text{S}$. (3)
+
+10.2 Prove that $\text{PQ} \parallel \text{SR}$. (3)
+
+10.3 Prove that $\text{PT}$ is a diameter of the circle. (2)
+**[8]**
+
+---
+
+### QUESTION 11
+
+11.1 In the diagram, $\Delta \text

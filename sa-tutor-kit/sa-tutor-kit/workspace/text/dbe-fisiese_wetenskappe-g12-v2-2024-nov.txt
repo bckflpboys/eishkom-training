@@ -1,0 +1,341 @@
+**NASIONALE SENIOR SERTIFIKAAT**
+**GRAAD 12**
+
+**FISIESE WETENSKAPPE: CHEMIE (V2)**
+**NOVEMBER 2024**
+
+**PUNTE: 150**
+**TYD: 3 uur**
+
+---
+
+### INSTRUKSIES EN INLIGTING
+
+1. Skryf jou sentrumnommer en eksamennommer in die toepaslike ruimtes op die ANTWOORDEBOEK neer.
+2. Hierdie vraestel bestaan uit NEGE vrae. Beantwoord AL die vrae in die ANTWOORDEBOEK.
+3. Begin ELKE vraag op 'n NUWE bladsy in die ANTWOORDEBOEK.
+4. Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie vraestel gebruik is.
+5. Laat EEN reël tussen twee subvrae oop, bv. tussen VRAAG 2.1 en VRAAG 2.2.
+6. Jy mag 'n nieprogrammeerbare sakrekenaar gebruik.
+7. Toon ALLE formules en substitusies in ALLE berekeninge.
+8. Rond jou FINALE numeriese antwoorde tot 'n minimum van TWEE desimale plekke af.
+9. Gee kort (bondige) motiverings, besprekings, ens. waar nodig.
+10. Jy word aangeraai om die aangehegte GEGEWENSBLAAIE te gebruik.
+11. Skryf netjies en leesbaar.
+
+---
+
+### VRAAG 1: MEERVOUDIGEKEUSE-VRAE
+
+Verskeie opsies word as moontlike antwoorde op die volgende vrae gegee. Elke vraag het slegs EEN korrekte antwoord. Kies die antwoord en skryf slegs die letter (A–D) langs die vraagnommers (1.1 tot 1.10) in die ANTWOORDEBOEK neer, bv. 1.11 E.
+
+1.1 Watter EEN van die volgende verbindings het waterstofbindings tussen die molekule?
+A $\text{CH}_3\text{CH}_2\text{CHO}$
+B $\text{CH}_3\text{COOCH}_3$
+C $\text{CH}_3\text{CH}_2\text{CH}_2\text{OH}$
+D $\text{CH}_3\text{COCH}_3$ (2)
+
+1.2 Watter EEN van die volgende is 'n KORREKTE ALGEMENE FORMULE vir die karboksielsure?
+A $\text{C}_n\text{H}_{2n+1}\text{O}_2$
+B $\text{C}_n\text{H}_{2n}\text{O}_{2n}$
+C $\text{C}_n\text{H}_{2n}\text{O}_2$
+D $\text{C}_n\text{H}_n\text{O}_2$ (2)
+
+1.3 Bestudeer die reaksies hieronder.
+Reaksie 1: $\text{CH}_3\text{CH}_2\text{CHOHCH}_3 \xrightarrow{\text{H}_2\text{SO}_4 \text{ gekons.}} \text{Verbinding P (hoofproduk)} + \text{H}_2\text{O}$
+Reaksie 2: $\text{Verbinding P} \xrightarrow{\text{hidrogenering}} \text{Verbinding Q}$
+
+Watter EEN van die volgende kombinasies is die KORREKTE IUPAC-name van verbindings P en Q?
+
+| | VERBINDING P | VERBINDING Q |
+|---|---|---|
+| A | But-1-een | Butaan |
+| B | But-2-een | Butaan |
+| C | But-1-een | Butan-2-ol |
+| D | But-2-een | Butan-2-ol | (2)
+
+1.4 Die potensiële-energiediagram hieronder is vir die volgende hipotetiese chemiese reaksie:
+$\text{X} + \text{Y} \rightleftharpoons \text{Z}$
+
+[DIAGRAM: 'n Potensiële-energiediagram wat 'n eksotermiese reaksie toon met 'n reaktant-energievlak hoër as die produk-energievlak.]
+
+Watter EEN van die volgende kombinasies van waardes vir die reaksiewarmte en die aktiveringsenergieë kan vir hierdie reaksie verkry word?
+
+| | $\Delta H_{\text{(voorwaarts)}}$ ($\text{kJ}\cdot\text{mol}^{-1}$) | $E_A\text{(voorwaarts)}$ ($\text{kJ}\cdot\text{mol}^{-1}$) | $E_A\text{(terugwaarts)}$ ($\text{kJ}\cdot\text{mol}^{-1}$) |
+|---|---|---|---|
+| A | -400 | 300 | 100 |
+| B | -200 | 300 | 100 |
+| C | +400 | 100 | 300 |
+| D | -200 | 100 | 300 | (2)
+
+1.5 Aanvanklik word 'n gelyke hoeveelheid mol waterstofgas, $\text{H}_2(\text{g})$, en jodiumgas, $\text{I}_2(\text{g})$, in 'n geslote houer gemeng. Die reaksie bereik ewewig by 'n konstante temperatuur volgens die gebalanseerde reaksie:
+$\text{H}_2(\text{g}) + \text{I}_2(\text{g}) \rightleftharpoons 2\text{HI}(\text{g})$
+
+Watter EEN van die volgende is ALTYD WAAR by ewewig?
+A $[\text{H}_2] = [\text{I}_2]$
+B $[\text{HI}] = [\text{I}_2]$
+C $[\text{HI}] = 2[\text{H}_2]$
+D $[\text{H}_2] = [\text{I}_2] = [\text{HI}]$ (2)
+
+1.6 Oorweeg die volgende reaksie by ewewig:
+$2\text{SO}_2(\text{g}) + \text{O}_2(\text{g}) \rightleftharpoons 2\text{SO}_3(\text{g}) \quad \Delta H = -188 \text{ kJ}\cdot\text{mol}^{-1}$
+
+Watter EEN van die veranderinge aan die reaksietoestande hieronder sal die opbrengs van $\text{SO}_3(\text{g})$ verhoog?
+A Die byvoeging van $\text{O}_2(\text{g})$
+B Die byvoeging van 'n katalisator
+C 'n Verhoging in temperatuur
+D 'n Toename in die volume van die houer by 'n konstante temperatuur (2)
+
+1.7 Die tabel hieronder toon die ionisasiekonstantes, $K_a$, vir twee sure by $25 ^\circ\text{C}$.
+
+| SUUR | $K_a$ |
+|---|---|
+| Butanoësuur | $1,5 \times 10^{-5}$ |
+| Etanoësuur | $1,8 \times 10^{-5}$ |
+
+Beskou die volgende stellings vir hierdie twee sure wanneer hulle gelyke konsentrasie by $25 ^\circ\text{C}$ het:
+(i) Beide is swak sure.
+(ii) Butanoësuur is 'n sterker suur as etanoësuur.
+(iii) Die butanoësuuroplossing het 'n laer konsentrasie van hidroniumioon, $\text{H}_3\text{O}^+(\text{aq})$, as die etanoësuuroplossing.
+
+Watter van die stellings hierbo is WAAR?
+A Slegs (i) en (ii)
+B Slegs (i) en (iii)
+C Slegs (ii) en (iii)
+D (i), (ii) en (iii) (2)
+
+1.8 Watter EEN van die volgende pare sure en basisse, wat almal dieselfde konsentrasie het, reageer om die hoogste pH by die ekwivalensiepunt in 'n titrasie by $25 ^\circ\text{C}$ te gee?
+A $\text{HCl}$ en $\text{NH}_3$
+B $\text{HCl}$ en $\text{NaOH}$
+C $\text{HNO}_3$ en $\text{KOH}$
+D $\text{CH}_3\text{COOH}$ en $\text{NaOH}$ (2)
+
+1.9 'n Standaard galvaniese sel word opgestel, soos hieronder getoon.
+[DIAGRAM: 'n Galvaniese sel met Cd-elektrode in $\text{Cd}^{2+}(\text{aq})$ en Ag-elektrode in $\text{Ag}^+(\text{aq})$, verbind deur 'n voltmeter en soutbrug.]
+
+Watter EEN van die volgende kombinasies van die metaal wat as katode gebruik word en die elektronvloeirigting is KORREK?
+
+| | METAAL AS KATODE GEBRUIK | ELEKTRONVLOEIRIGTING |
+|---|---|---|
+| A | Cd | Cd na Ag |
+| B | Ag | Cd na Ag |
+| C | Cd | Ag na Cd |
+| D | Ag | Ag na Cd | (2)
+
+1.10 'n Elektrolitiese sel word opgestel om 'n ysterstaaf met nikkel te elektroplateer, soos in die diagram hieronder getoon.
+[DIAGRAM: 'n Elektrolitiese sel met 'n ysterstaaf en 'n nikkelstaaf in 'n elektrolietoplossing.]
+
+Beskou die volgende stellings:
+(i) Die ysterstaaf is die negatiewe elektrode.
+(ii) Die metaalione in die oplossing ondergaan reduksie.
+(iii) Die anode is suiwer nikkel.
+
+Watter van die stellings hierbo is WAAR?
+A Slegs (i) en (ii)
+B Slegs (i) en (iii)
+C Slegs (ii) en (iii)
+D (i), (ii) en (iii) (2)
+[20]
+
+---
+
+### VRAAG 2 (Begin op 'n nuwe bladsy.)
+
+Die letters A tot H in die tabel hieronder verteenwoordig organiese verbindings.
+
+| | |
+|---|---|
+| **A** | [DIAGRAM: Struktuurformule van butan-2-oon] |
+| **B** | [DIAGRAM: Struktuurformule van 2,3-dibroom-2-metielbutaan] |
+| **C** | Butanoon | **D** | $\text{C}_4\text{H}_{10}\text{O}$ |
+| **E** | $\text{CH}_3\text{C}(\text{CH}_3)_2\text{CCCH}_3$ | **F** | $\text{CH}_3\text{COO}(\text{CH}_2)_2\text{CH}_3$ |
+| **G** | $\text{C}_4\text{H}_8\text{O}_2$ | **H** | $\text{CH}_3\text{C}(\text{CH}_3)_2\text{CH}_2\text{CH}_3$ |
+
+2.1 Skryf die LETTER neer wat ELK van die volgende verteenwoordig:
+2.1.1 'n Alkohol (1)
+2.1.2 'n Verbinding met 'n formielgroep (1)
+2.1.3 'n Onversadigde verbinding (1)
+
+2.2 Skryf die IUPAC-naam neer van verbinding:
+2.2.1 B (3)
+2.2.2 E (3)
+
+2.3 Twee verskillende verbindings in die tabel hierbo is funksionele isomere.
+2.3.1 Definieer die term funksionele isomeer. (2)
+2.3.2 Skryf die LETTERS neer wat hierdie funksionele isomere verteenwoordig. (1)
+
+2.4 Verbinding F word gevorm wanneer 'n karboksielsuur met 'n ander organiese verbinding, X, in die teenwoordigheid van 'n katalisator reageer.
+Skryf neer die:
+2.4.1 NAAM of FORMULE van die katalisator (1)
+2.4.2 Tipe reaksie (1)
+2.4.3 STRUKTUURFORMULE van verbinding F (2)
+2.4.4 IUPAC-naam van verbinding X (2)
+[18]
+
+---
+
+### VRAAG 3 (Begin op 'n nuwe bladsy.)
+
+Die dampdrukke van verskillende organiese verbindings word by $20 ^\circ\text{C}$ bepaal. Die dampdrukke van verbindings A, B en C word NIE in die tabel getoon NIE.
+
+| VERBINDING | IUPAC-NAAM | MOLÊRE MASSA ($\text{g}\cdot\text{mol}^{-1}$) | DAMPDRUK (kPa) BY $20 ^\circ\text{C}$ |
+|---|---|---|---|
+| A | Pentaan | 72 | |
+| B | 2-metielbutaan | 72 | |
+| C | 2,2-dimetielpropaan | 72 | |
+| D | Propanoësuur | 74 | 0,32 |
+| E | Butanaal | 72 | 12,2 |
+
+3.1 Definieer die term dampdruk. (2)
+
+3.2 Die dampdruk van verbindings A, B en C word in willekeurige volgorde hieronder gegee:
+79 kPa | 146 kPa | 58 kPa
+
+3.2.1 Skryf die dampdruk van verbinding C neer. (1)
+3.2.2 Verduidelik jou antwoord op VRAAG 3.2.1 volledig. (3)
+
+3.3 Verbindings D en E word vergelyk.
+3.3.1 Watter verbinding het die laagste kookpunt? (1)
+3.3.2 Verduidelik die verskil tussen die dampdrukke van verbindings D en E volledig. (4)
+[11]
+
+---
+
+### VRAAG 4 (Begin op 'n nuwe bladsy.)
+
+Bestudeer die vloeidiagram hieronder. Reaksie I is 'n KRAKINGSREAKSIE wat twee organiese verbindings, W en T, as die ENIGSTE produkte vorm.
+
+[DIAGRAM: Vloeidiagram:
+Organiese verbinding U $\xrightarrow{\text{Reaksie I}}$ Organiese verbinding W + Organiese verbinding T ($\text{C}_4\text{H}_8$)
+W $\xrightarrow{\text{Reaksie II}}$ $\text{CH}_3\text{CH}_2\text{CH}_2\text{CH}_2\text{Br}$
+$\text{CH}_3\text{CH}_2\text{CH}_2\text{CH}_2\text{Br}$ $\xrightarrow{\text{Reaksie III (Eliminasie)}}$ Organiese verbinding R
+Organiese verbinding R $\xrightarrow{\text{Reaksie IV}}$ Organiese verbinding S
+Organiese verbinding S $\xrightarrow{\text{Reaksie V}}$ Organiese verbinding T]
+
+4.1 Definieer die term krakingsreaksie. (2)
+4.2 Is die produk in reaksie II 'n PRIMÊRE, SEKONDÊRE of TERSIÊRE haloalkaan? Gee 'n rede vir die antwoord. (2)
+4.3 Skryf neer die:
+4.3.1 STRUKTUURFORMULE van verbinding W (3)
+4.3.2 MOLEKULÊRE formule van verbinding U (1)
+4.4 Vir reaksie II, skryf neer:
+4.4.1 Die NAAM of FORMULE van die anorganiese reaktans (1)
+4.4.2 Die tipe reaksie (Kies uit SUBSTITUSIE, ADDISIE of ELIMINASIE.) (1)
+4.4.3 EEN reaksietoestand (1)
+4.5 Skryf die TIPE eliminasie in reaksie III neer. (1)
+4.6 Verbindings R en T is posisie-isomere. Die anorganiese reagense wat hieronder getoon word, is beskikbaar vir reaksies IV en V:
+$\text{Br}_2$ | $\text{H}_2\text{SO}_4\text{(gekons.)}$ | $\text{NaOH(gekons.)}$ | $\text{HBr}$ | $\text{H}_2$
+
+4.6.1 Die gebalanseerde vergelyking vir reaksie IV, met gebruik van STRUKTUURFORMULES en die korrekte anorganiese reagens hierbo getoon (5)
+4.6.2 Die gebalanseerde vergelyking vir reaksie V, met gebruik van STRUKTUURFORMULES en die korrekte reagens hierbo getoon (3)
+4.6.3 Die IUPAC-naam van verbinding T (2)
+[22]
+
+---
+
+### VRAAG 5 (Begin op 'n nuwe bladsy.)
+
+5.1 Die reaksie tussen suiwer aluminium, $\text{Al(s)}$, en OORMAAT soutsuur, $\text{HCl(aq)}$, word gebruik om die faktore te ondersoek wat die reaksietempo beïnvloed. Die gebalanseerde vergelyking vir die reaksie is:
+$2\text{Al(s)} + 6\text{HCl(aq)} \rightarrow 2\text{AlCl}_3\text{(aq)} + 3\text{H}_2\text{(g)}$
+
+5.1.1 Definieer die term reaksietempo. (2)
+
+**EKSPERIMENT I**
+In hierdie eksperiment reageer $1 \text{ mol}\cdot\text{dm}^{-3} \text{ HCl}$-oplossing met 'n $0,5 \text{ g Al}$-strook van 'n aluminiumrol by kamertemperatuur. Die grafiek van volume $\text{H}_2\text{(g)}$ teenoor tyd vir hierdie eksperiment word hieronder getoon.
+
+[DIAGRAM: Grafiek van Volume $\text{H}_2$ (y-as) teenoor Tyd (x-as) met 'n kurwe wat styg en dan afplat.]
+
+5.1.2 Vir die tydinterval $t = 0$ tot $t = 5$ minute is die gemiddelde reaksietempo vir die vorming van $\text{H}_2\text{(g)}$, $0,033 \text{ dm}^3\cdot\text{min}^{-1}$. Bereken die massa $\text{Al}$ teenwoordig in die houer by $t = 5$ minute. Neem die molêre gasvolume as $24,5 \text{ dm}^3\cdot\text{mol}^{-1}$. (6)
+5.1.3 Gebruik die botsingsteorie om die verandering in die reaksietempo van $t = 0$ tot $t = 5$ minute te verduidelik. (4)
+
+**EKSPERIMENT II**
+Eksperiment I word herhaal deur 'n $2 \text{ mol}\cdot\text{dm}^{-3} \text{ HCl}$-oplossing te gebruik.
+5.1.4 Teken die grafiek hierbo in jou ANTWOORDEBOEK oor en benoem die kurwe A. Op dieselfde assestelsel, teken die kurwe wat verkry sal word vir Eksperiment II. Benoem dit as kurwe B. (2)
+
+**EKSPERIMENT III**
+Eksperiment I word herhaal deur $0,5 \text{ g}$ suiwer verpoeierde $\text{Al}$ te gebruik.
+5.1.5 Hoe sal die volume $\text{H}_2\text{(g)}$ wat geproduseer is in Eksperiment III vergelyk met dié in Eksperiment I? Kies uit GROTER AS, KLEINER AS of GELYK AAN. (1)
+
+5.2 Kurwe X is die Maxwell Boltzmann-verspreidingskuwe vir 'n reaksie onder 'n stel reaksietoestande. 'n Verandering is aan een van die reaksietoestande gemaak om kurwe Y te verkry.
+[DIAGRAM: Maxwell-Boltzmann grafiek met kurwe X (hoër piek, links) en kurwe Y (laer piek, regs).]
+5.2.1 Watter verandering is gemaak om kurwe Y te verkry? (1)
+5.2.2 Gee 'n rede vir die antwoord op VRAAG 5.2.1. (1)
+[17]
+
+---
+
+### VRAAG 6 (Begin op 'n nuwe bladsy.)
+
+6.1 Die reaksie van koolstofmonoksiedgas, $\text{CO(g)}$, met suurstofgas, $\text{O}_2\text{(g)}$, word ondersoek. Die reaksie bereik ewewig in 'n geslote houer by konstante temperatuur $T ^\circ\text{C}$, volgens die gebalanseerde vergelyking:
+$2\text{CO(g)} + \text{O}_2\text{(g)} \rightleftharpoons 2\text{CO}_2\text{(g)} \quad \Delta H < 0$
+
+[DIAGRAM: Konsentrasie-tyd grafiek toon veranderinge by $t_1, t_2, t_3$.]
+
+6.1.1 Definieer die term chemiese ewewig. (2)
+6.1.2 By $t_1$ word suurstof, $\text{O}_2\text{(g)}$, by die houer gevoeg. Skryf die letter neer wat $\text{O}_2\text{(g)}$ verteenwoordig. Kies uit X, Y of Z. (1)
+6.1.3 By $t_2$ word die druk aangepas deur die volume van die houer te verander. Is die druk VERHOOG of VERLAAG? (1)
+6.1.4 Gee 'n rede vir die antwoord op VRAAG 6.1.3. (1)
+6.1.5 Skryf die NAAM of FORMULE neer van die gas wat deur die letter Z verteenwoordig word. (1)
+6.1.6 Gee 'n rede vir die antwoord op VRAAG 6.1.5. (1)
+6.1.7 Watter verandering in temperatuur word by $t_3$ gemaak? Kies tussen VERHOOG of VERLAAG. (1)
+6.1.8 Gebruik Le Chatelier se beginsel om die antwoord op VRAAG 6.1.7 te verduidelik. (3)
+
+6.2 Koolstofmonoksiedgas, $\text{CO(g)}$, reageer met waterdamp, $\text{H}_2\text{O(g)}$, by $T ^\circ\text{C}$. Die reaksie bereik chemiese ewewig volgens die gebalanseerde vergelyking:
+$\text{CO(g)} + \text{H}_2\text{O(g)} \rightleftharpoons \text{CO}_2\text{(g)} + \text{H}_2\text{(g)}$
+Aanvanklik is $0,6 \text{ mol CO(g)}$, $0,6 \text{ mol H}_2\text{O(g)}$, $0,1 \text{ mol}$ koolstofdioksiedgas, $\text{CO}_2\text{(g)}$, en $0,1 \text{ mol}$ waterstofgas, $\text{H}_2\text{(g)}$, in 'n $2 \text{ dm}^3$-fles gemeng en verseël. Indien die ewewigskonstante, $K_c$, vir hierdie reaksie by $T ^\circ\text{C}$ 4 is, bereken die massa $\text{CO(g)}$ wat by ewewig in die fles teenwoordig is. (9)
+[20]
+
+---
+
+### VRAAG 7 (Begin op 'n nuwe bladsy.)
+
+Gehidrateerde kaliumkarbonaat, $\text{K}_2\text{CO}_3\cdot x\text{H}_2\text{O}$, is 'n SWAK BASIS.
+7.1 Definieer die term swak basis. (2)
+7.2 Skryf die formule van die gekonjugeerde suur van die karbonaatioon, $\text{CO}_3^{2-}(\text{aq})$, neer. (1)
+
+'n Soutsuuroplossing, $\text{HCl(aq)}$, met 'n konsentrasie van $0,1 \text{ mol}\cdot\text{dm}^{-3}$, word met die voorbereide kaliumkarbonaatoplossing, $\text{K}_2\text{CO}_3\text{(aq)}$, getitreer.
+$\text{K}_2\text{CO}_3\text{(aq)} + 2\text{HCl(aq)} \rightarrow 2\text{KCl(aq)} + \text{CO}_2\text{(g)} + \text{H}_2\text{O(l)}$
+
+| | VOLUME $\text{HCl(aq)}$ GEBRUIK ($\text{cm}^3$) | OORSPONKLIKE BURETLESING ($\text{cm}^3$) | FINALE BURETLESING ($\text{cm}^3$) | VOLUME $\text{K}_2\text{CO}_3\text{(aq)}$ GEBRUIK ($\text{cm}^3$) |
+|---|---|---|---|---|
+| Lopie 1 | 25 | 6,5 | p | 20,05 |
+| Lopie 2 | 25 | q | 48,3 | 20,15 |
+
+7.3 Bepaal die waarde van:
+7.3.1 p (1)
+7.3.2 q (1)
+7.4 METIELORANJE word as indikator gebruik. Verduidelik waarom metieloranje die geskikste indikator vir hierdie titrasie is deur na die pH by die ekwivalensiepunt te verwys. (2)
+7.5 Bereken die konsentrasie van die $\text{K}_2\text{CO}_3$-oplossing. (5)
+7.6 Bereken die waarde van x in die formule $\text{K}_2\text{CO}_3\cdot x\text{H}_2\text{O}$ indien $6,525 \text{ g}$ in $600 \text{ cm}^3$ water opgelos is. (5)
+[17]
+
+---
+
+### VRAAG 8 (Begin op 'n nuwe bladsy.)
+
+8.1 Verdunde soutsuur, $\text{HCl(aq)}$, reageer met magnesium, $\text{Mg(s)}$, by $25 ^\circ\text{C}$:
+$\text{Mg(s)} + 2\text{HCl(aq)} \rightarrow \text{MgCl}_2\text{(aq)} + \text{H}_2\text{(g)}$
+8.1.1 Gebruik oksidasiegetalle vir ELK van die reaktanse en verduidelik waarom hierdie reaksie 'n redoksreaksie is. (2)
+8.1.2 Skryf die FORMULE van die oksideermiddel in hierdie reaksie neer. (1)
+8.1.3 Verduidelik waarom verdunde soutsuur nie by $25 ^\circ\text{C}$ met koper, $\text{Cu(s)}$, reageer nie. (2)
+8.1.4 Sal verdunde salpetersuur, $\text{HNO}_3\text{(aq)}$, by $25 ^\circ\text{C}$ met koper, $\text{Cu(s)}$, reageer? Kies uit JA of NEE. Verduidelik in terme van relatiewe sterktes van oksideermiddels. (3)
+
+8.2 'n Galvaniese sel: $\text{Pb(s)} \mid \text{Pb}^{2+}(\text{aq}) \parallel \text{Fe}^{3+}(\text{aq}), \text{Fe}^{2+}(\text{aq}) \mid \text{Pt(s)}$
+8.2.1 Skryf die gebalanseerde netto ioniese vergelyking vir hierdie sel neer. (3)
+8.2.2 Hoe sal die gebruik van 'n sterker reduseermiddel die aanvanklike emk beïnvloed? (1)
+[12]
+
+---
+
+### VRAAG 9 (Begin op 'n nuwe bladsy.)
+
+9.1 'n Silwerstrook word by $25 ^\circ\text{C}$ by 'n $1 \text{ mol}\cdot\text{dm}^{-3}$-oplossing van $\text{Pb(NO}_3)_2$ gevoeg.
+$2\text{Ag(s)} + \text{Pb}^{2+}(\text{aq}) \rightarrow 2\text{Ag}^+(\text{aq}) + \text{Pb(s)}$
+Bepaal deur berekening of hierdie reaksie SPONTAAN is. (5)
+
+9.2 Elektrolitiese sel met koolstofelektrodes in gekonsentreerde $\text{NaCl(aq)}$.
+9.2.1 Definieer 'n elektroliet. (2)
+9.2.2 Skryf die OORHEERSENDE oksidasiehalfreaksie neer. (2)
+9.2.3 Skryf die NAME of FORMULES neer van die produkte by elektrode Q. (2)
+9.2.4 Verduidelik die antwoord op VRAAG 9.2.3 deur na relatiewe sterktes van oksideermiddels te verwys. (2)
+[13]
+TOTAAL: 150

@@ -1,0 +1,1075 @@
+=== page 1 ===
+Kopiereg voorbehou  Blaai om asseblief
+
+SENIORSERTIFIKAAT-EKSAMEN/
+NASIONALE SENIORSERTIFIKAAT-EKSAMEN
+
+FISIESE WETENSKAPPE:  FISIKA (V1)
+
+2022
+
+PUNTE:  150
+
+TYD:  3 uur
+
+Hierdie vraestel bestaan uit 16 bladsye en 3 gegewensblaaie.
+
+=== page 2 ===
+Fisiese Wetenskappe/V1 2 DBE/2022
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+INSTRUKSIES EN INLIGTING
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+Skryf jou sentrumnommer en eksamennommer in die toepaslike ruimtes op
+die ANTWOORDEBOEK neer.
+
+Hierdie vraestel bestaan uit TIEN vrae. Beantwoord AL die vrae in die
+ANTWOORDEBOEK.
+
+Begin ELKE vraag op 'n NUWE bladsy in die ANTWOORDEBOEK.
+
+Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie
+vraestel gebruik is.
+
+Laat EEN reël tussen twee subvrae oop, bv. tussen VRAAG 2.1 en
+VRAAG 2.2.
+
+Jy mag 'n nieprogrammeerbare sakrekenaar gebruik.
+
+Jy mag toepaslike wiskundige instrumente gebruik.
+
+Toon ALLE formules en vervangings in ALLE berekeninge.
+
+Rond jou FINALE numeriese antwoorde tot 'n minimum van TWEE desimale
+plekke af.
+
+Gee kort (bondige) motiverings, besprekings, ens. waar nodig.
+
+Jy word aangeraai om die aangehegte GEGEWENSBLAAIE te gebruik.
+
+Skryf netjies en leesbaar.
+
+=== page 3 ===
+Fisiese Wetenskappe/V1 3 DBE/2022
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 1: MEERVOUDIGEKEUSE-VRAE
+
+Verskeie opsies word as moontlike antwoorde op die volgende vrae gegee. Elke vraag
+het slegs EEN korrekte antwoord . Kies die antwoord en skryf slegs die letter (A –D)
+langs die vraagnommers (1.1 tot 1.10) in die ANTWOORDEBOEK neer, bv. 1.11 E.
+
+1.1 'n Emmer is in rus op 'n tafel.
+
+Watter EEN van die volgende is die reaksiekrag op die gewig van die emmer,
+soos deur Newton se Derde Wet beskryf?
+
+ A
+
+B
+
+C
+
+D
+Krag van die tafel op die Aarde
+
+Krag van die emmer op die Aarde
+
+Krag van die emmer op die tafel
+
+Krag van die tafel op die emmer
+
+(2)
+
+1.2 'n Bal word vanaf 'n klein hoogte bokant die grond laat val.
+
+Ignoreer lugweerstand.
+
+Die volgende pare toon fisiese hoeveelhede geassosieer met die bal terwy l
+die bal na die grond toe val.
+
+In watter EEN van hierdie pare sal BEIDE hoeveelhede verander terwyl die
+bal val?
+
+ A
+
+B
+
+C
+
+D
+Meganiese energie en gewig
+
+Kinetiese energie en momentum
+
+Gravitasieversnelling en kinetiese energie
+
+Gravitasie- potensiële energie en gravitasiekrag
+
+(2)
+
+=== page 4 ===
+Fisiese Wetenskappe/V1 4 DBE/2022
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+1.3 'n Bal word laat val vanaf hoogte h en tref die grond met momentum p.
+
+Ignoreer lugweerstand.
+
+Die bal word NOU vanaf hoogte 2h laat val.
+
+ Watter EEN van die volgende verteenwoordig die momentum waarmee die
+bal NOU die grond tref?
+
+ A
+
+B
+
+C
+
+D
+p
+
+2
+p
+
+2
+p
+
+2p
+
+(2)
+
+1.4 Voorwerp X oefen 'n gravitasiekrag F op voorwerp Y uit wanneer die afstand
+tussen die middelpunte van die voorwerpe r is.
+
+Die afstand r word nou VERDUBBEL.
+
+Watter EEN van die volgende verteenwoordig die gravitasiekrag wat X nou op
+Y uitoefen?
+
+A
+
+B
+
+C
+
+D
+4
+1
+F
+
+2
+1
+F
+
+2F
+
+4F
+
+(2)
+
+h
+2h
+
+=== page 5 ===
+Fisiese Wetenskappe/V1 5 DBE/2022
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+1.5 'n Krag F beweeg 'n voorwerp P vanaf punt X na punt Y op twee verskillende
+paaie, 1 en 2, soos hieronder getoon.
+
+ Die arbeid verrig deur F om die voorwerp te beweeg is dieselfde vir al  twee
+paaie. Watter EEN van die volgende kan gebruik word om krag F te beskryf?
+
+ A
+
+B
+
+C
+
+D
+Normaalkrag
+
+Spankrag
+
+Wrywingskrag
+
+Gravitasiekrag
+
+(2)
+
+1.6 Watter EEN van die volgende kan deur die Doppler-effek verduidelik word?
+
+ A
+
+B
+
+C
+
+D
+'n Stetoskoop word gebruik om na 'n persoon se hartklop te luister.
+
+'n Eggo word gehoor wanneer klankgolwe vanaf 'n krans weerkaats
+word.
+
+Die spektrum van lig vanaf 'n naderende ster skuif na korter golflengtes.
+
+Klankintensiteit verminder wanneer die klankbron van 'n stilstaande
+luisteraar wegbeweeg.
+
+(2)
+
+1.7 Twee teenoorgesteld gelaaide puntladings beweeg na mekaar toe.
+
+Watter EEN van die volgende is KORREK?
+
+Die puntladings beweeg teen ...
+
+ A
+
+B
+
+C
+
+D
+konstante snelheid.
+
+afnemende snelheid.
+
+konstante versnelling.
+
+toenemende versnelling.
+
+(2)
+P
+X
+Y
+2
+1
+
+
+
+
+=== page 6 ===
+Fisiese Wetenskappe/V1 6 DBE/2022
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+1.8 Watter EEN van die volgende frases beskryf die emk van 'n battery?
+
+ A
+
+B
+
+C
+
+D
+Energie verskaf per eenheidstyd
+
+Lading oorgedra per eenheidstyd
+
+Stroom verskaf per eenheidslading
+
+Maksimum energie verskaf per eenheidslading
+
+(2)
+
+1.9 Die grafiek hieronder verteenwoordig die uitsetspanning versus tyd vir
+'n WS-generator.
+
+ Die rotasiespoed van die generator se spoel word nou VERDUBBEL.
+
+Watter EEN van die kombinasies hieronder toon die nuwe piek-uitsetspanning
+en die tyd vir EEN rotasie KORREK?
+
+  PIEK-UITSETSPANNING (V) TYD VIR EEN ROTASIE (S)
+ A 400 0,02
+ B 200 0,02
+ C 200 0,04
+ D 100 0,04   (2)
+
+1.10
+
+'n Foton van lig met energie  2X joules word op 'n metaaloppervlak met
+werkfunksie X joules geskyn.
+
+Watter EEN van die volgende verteenwoordig die maksimum kinetiese
+energie (in joule) van die elektron wat deur hierdie foton uit die metaal
+vrygestel word?
+
+ A
+
+B
+
+C
+
+D
+
+Zero
+
+2
+1
+X
+
+X
+
+2X
+
+(2)
+[20]
+ Uitsetspanning (V)
+200
+Tyd (s)
+-200
+0,02 0,04 0,06 0,08
+
+=== page 7 ===
+Fisiese Wetenskappe/V1 7 DBE/2022
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 2 (Begin op 'n nuwe bladsy.)
+
+'n Man beland in die  moeilikheid terwyl hy in 'n dam swem.  Tydens die
+reddingsoperasie word 'n opgeblaaste binneband wat met 'n tou aan 'n helikopter
+vasgemaak is, uit die helikopter laat val.
+
+Die man, met 'n massa van 70 kg, hou aan die opgeblaaste binneband met 'n massa
+van 4 kg vas terwyl  die helikopter horisontaal teen 'n KONSTANTE spoed vlieg.
+'n Gemiddelde wrywingskrag van 300 N word op die man -binneband-kombinasie
+uitgeoefen terwyl hulle horisontaal deur die helikopter oor die oppervlak van die water
+gesleep word. Die tou maak 'n hoek van 50° met die water se oppervlak, soos in die
+diagram hieronder getoon.
+
+Aanvaar dat die tou onrekbaar en massaloos is en dat die water van di e dam nie vloei
+nie.
+
+2.1 Stel Newton se Eerste Bewegingswet in woorde.  (2)
+
+2.2 Teken 'n vrye kragtediagram (vrye liggaamdiagram) van die man-binneband-
+kombinasie terwyl hulle gesleep word.
+
+(4)
+
+2.3 Bereken die spanning in die tou.  (4)
+
+2.4 Hoe sal die antwoord  op VRAAG  2.3 verander indien die helikopter
+VERSNEL terwyl dit die man sleep? Die wrywingskrag en die hoek tussen die
+tou en die water se oppervlak bly dieselfde.
+
+Kies uit VERHOOG, VERLAAG of GEEN VERANDERING NIE. Gee 'n rede
+vir die antwoord.
+
+(2)
+
+In nog 'n reddingsoperasie word die opgeblaaste binneband met 'n massa van 4 kg uit
+die stilstaande helikopter laat val en  dit tref die water teen 'n spoed van 16 m∙s-1. Die
+binneband sink vertikaal afwaarts in die water in tot 'n diepte van 0,8 m en beweeg dan
+na die oppervlak. Die tou hang slap.
+
+2.5 Bereken die grootte van die gemiddelde opwaartse krag wat op die
+opgeblaaste binneband uitgeoefen word terwyl dit sink.  Aanvaar dat die
+gemiddelde opwaartse krag konstant vir die beweging is.
+
+(5)
+   [17]
+50°
+tou
+
+man-binneband-kombinasie
+opgeblaaste binneband
+tou
+man
+
+=== page 8 ===
+Fisiese Wetenskappe/V1 8 DBE/2022
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 3 (Begin op 'n nuwe bladsy.)
+
+'n Klein skyf, C, word vanaf die rand van die dak van 'n gebou, wat 30 m hoog is, teen
+'n spoed van 15 m∙s-1 vertikaal opwaarts gegooi. NA 0,5 s, word 'n klein bal B vanaf die
+voet van die gebou vertikaal opwaarts geskiet teen 'n spoed van 40 m∙s -1 sodat dit
+skyf C kan tref.
+
+Ignoreer die effekte van lugweerstand.
+
+3.1 Verduidelik die term projektiel.  (2)
+
+3.2 Bereken die:
+
+ 3.2.1  Tyd geneem vir skyf C om sy maksimum hoogte te bereik  (3)
+
+ 3.2.2 Maksimum hoogte wat skyf C bokant die grond bereik  (4)
+
+3.3 Bereken die tyd vanaf die oomblik wat skyf C opwaarts gegooi is tot  die tyd
+dat bal B die skyf tref.
+
+(6)
+
+3.4 Op dieselfde assestelsel, skets grafieke van snelheid teenoor tyd vir skyf C en
+bal B vanaf die oomblik wat skyf C opwaarts gegooi is totdat bal B skyf C tref.
+
+Benoem die grafiek vir bal B as B en die grafiek vir skyf C as C.
+
+Toon die volgende duidelik op die grafieke aan:
+
+ Die aanvanklike snelhede van bal B en skyf C
+ Die tyd waarteen bal B opwaarts geskiet is
+ Die tyd waarteen skyf C sy maksimum hoogte bereik
+ Die tyd waarteen bal B skyf C tref
+
+(5)
+[20]
+C
+15 m∙s-1
+30 m
+B
+40 m∙s-1
+
+=== page 9 ===
+Fisiese Wetenskappe/V1 9 DBE/2022
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 4 (Begin op 'n nuwe bladsy.)
+
+4.1 Wat word met 'n geïsoleerde stelsel in fisika bedoel?    (2)
+
+Tydens 'n eksperiment word 'n vuurpyl van onbekende massa bo-op 'n
+speelgoedwaentjie met 'n massa van 20 kg ge monteer. Die waentjie-vuurpyl-
+kombinasie beweeg teen 'n konstante spoed van 2,5 m∙s-1 op 'n horisontale vloer.
+
+Op 'n sekere tydstip word d ie vuurpyl horisontaal in die rigting van beweging teen 'n
+spoed van 30 m∙s-1 afgevuur. Gevolglik verminder die waentjie se spoed na 0,6 m∙s-1,
+soos in die diagram hieronder getoon.
+
+Ignoreer die effekte van wrywing.
+
+4.2 Gebruik relevante fisikabeginsels om te verduidelik hoekom die afvuur van
+die vuurpyl die waentjie stadiger sal laat beweeg.
+
+(2)
+
+4.3 Bereken die massa van die vu urpyl op die oomblik toe die vuurpyl vanaf die
+speelgoedwaentjie afgevuur is.
+
+(5)
+   [9]
+
+Voordat vuurpyl afgevuur is Nadat vuurpyl afgevuur is
+0,6 m∙s-1
+2,5 m∙s-1 30 m∙s-1
+
+=== page 10 ===
+Fisiese Wetenskappe/V1 10 DBE/2022
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 5 (Begin op 'n nuwe bladsy.)
+
+Stuitbeddings word gebruik om bewegende vragmotors te help om tot stilstand te kom
+wanneer hulle remme onklaar raak.
+
+Die bestuurder van 'n 30 000 kg-vragmotor wat teen 'n steil pad afry, ry teen 'n
+OPGAANDE stuitbedding op wat 'n hoek van 28° met die horisontaal maak, soos in die
+diagram hieronder getoon.
+
+5.1 Stel die arbeid-energie-stelling in woorde.  (2)
+
+Die vragmotor waarvan die  remme onklaar is , beweeg teen 'n spoed van 33 m∙s -1
+verby punt A aan die begin van die stuitbedding . Die gemiddelde wrywingskrag op die
+vragmotor is 31 000 N terwyl die vragmotor teen die stuitbedding op beweeg.
+
+Ignoreer die rotasie-effekte van die wiele.
+
+5.2 Gee 'n rede hoekom die netto arbeid wat op die vragmotor verrig word terwyl
+dit op die stuitbedding beweeg, negatief is.
+
+(1)
+
+5.3 Gebruik ENERGIE-BEGINSELS om die minimum lengte van die stuitbedding
+te bereken wat nodig is om die vragmotor tot stilstand te bring.
+
+(5)
+
+Die diagram hieronder toon dieselfde vragmotor wat 'n AFGAANDE stuitbedding
+binnegaan wat 'n hoek van 28° met die horisontaal maak . Die aanvanklike spoed van
+die vragmotor en die gemiddelde wrywingskrag op die vragmotor is onderskeidelik
+33 m∙s-1 en 31 000 N.
+
+5.4 Watter stuitbedding , OPGAANDE of AFGAANDE, sal die vragmotor op 'n
+korter afstand tot stilstand kan bring?
+
+Verduidelik die antwoord in terme van die kragte wat op die vragmotor inwerk.
+
+(3)
+   [11]
+pad
+afgaande stuitbedding
+28°
+ A
+opgaande stuitbedding
+28° pad
+
+=== page 11 ===
+Fisiese Wetenskappe/V1 11 DBE/2022
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+'n Motor beweeg teen 'n konstante spoed van 10 ms-1 NA 'n stilstaande klankbron. Die
+klankbron stel klankgolwe met 'n frekwensie van 880 Hz vry.
+
+'n Klank-opspoorder A is aan die motor vasgemaak en 'n ander klank-opspoorder B is
+aan die klankbron vasgemaak. Opspoorder B neem die klankgolwe wat vanaf die
+motor weerkaats word, waar.
+
+Die spoed van klank in lug is 340 m∙s-1.
+
+6.1 Stel die Doppler-effek in woorde.  (2)
+
+6.2 Bereken die golflengte van die klankgolwe wat deur die bron vrygestel word.  (3)
+
+6.3 Bereken die frekwensie van die klankgolwe wat deur opspoorder A
+waargeneem word.
+
+(4)
+
+Die sketsgrafiek hieronder toon die frekwensie wat deur opspoorder A waargeneem is.
+
+6.4 Teken die grafiek  hierbo vir opspoorder A in jou ANTWOORDEBOEK  oor.
+Op dieselfde assestelsel , skets die grafiek van die frekwensie wat deur
+opspoorder B aangeteken is. Benoem hierdie grafiek as B.
+
+(2)
+   [11]
+
+VRAAG 6 (Begin op 'n nuwe bladsy.)
+
+A
+
+Tyd (s)
+Frekwensie (Hz)
+A
+klankbron
+10 m∙s-1 B
+
+=== page 12 ===
+Fisiese Wetenskappe/V1 12 DBE/2022
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 7 (Begin op 'n nuwe bladsy.)
+
+7.1 Twee klein, identiese sfere,  P en T, word 'n afstand van 0,1 m van mekaar
+af geplaas, soos in die diagram hieronder  getoon. P dra 'n lading van
++3 x 10-6 C en T dra 'n lading van -3 x 10-6 C.
+
+ 7.1.1 Stel Coulomb se wet in woorde.  (2)
+
+ 7.1.2 Teken die resulterende  elektrieseveld-patroon as gevolg van die
+ladings op P en T.
+
+(3)
+
+ 'n Derde gelaaide sfeer S met 'n onbekende lading  van Qs word 'n afstand
+van 0,15 m vanaf sfeer  T geplaas sodat die drie gelaaide sfere  op die
+hoekpunte van 'n reghoekige driehoek is.
+
+Die netto elektrostatiese krag op sfeer T as gevolg van die ander twee
+gelaaide sfere het 'n grootte van 10 N, soos in die diagram hieronder getoon.
+
+ 7.1.3 Is lading Qs POSITIEF of NEGATIEF?  (1)
+
+ 7.1.4 Bereken die aantal elektrone wat by  sfeer S gevoeg of daarvan
+verwyder is om dit 'n lading van Qs te gee.
+
+(6)
+
+0,1 m
+-3 x 10-6 C
+P +3 x 10-6 C
+0,15 m
+10 N
+S T
+Qs
+0,1 m
+-3 x 10-6 C
+P +3 x 10-6 C
+T
+
+=== page 13 ===
+Fisiese Wetenskappe/V1 13 DBE/2022
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+7.2 P is 'n veranderlike punt in die elektriese veld van gelaaide sfeer A en r is die
+afstand tussen punt P en die middelpunt van sfeer A. Sien die diagram
+hieronder.
+
+ 'n Leerder bepaal  die grootte van die  elektriese veld ( E) by punt P vir
+verskillende waardes van r.
+
+Sfeer A word dan deur 'n ander sfeer , B, met 'n ander  lading vervang.
+'n Ander stel resultate word verkry.
+
+Die grafiek e hieronder is uit die resultate vir sfe er A en sfeer B verkry.
+EA is die grootte van die elektriese veld op  'n afstand van 0,04 m vanaf die
+middelpunt van gelaaide sfeer A.
+
+ Gebruik die grafieke om die volgende vrae te beantwoord.
+
+ 7.2.1 Stel die eweredigheid tussen die grootte van elektriese veld E by 'n
+punt en
+2
+1
+r .
+
+(1)
+
+ 7.2.2 Bereken EA indien die num eriese waarde van die gradiënt van die
+grafiek 680 vir sfeer A is.
+
+(4)
+
+ 7.2.3 Hoe vergelyk die grootte van die lading op sfeer B met die grootte
+van die lading op sfeer A?
+
+Kies uit GROTER AS, KLEINER AS of GELYK AAN. Gee 'n rede
+vir die antwoord.
+
+(3)
+    [20]
+                            E  (N·C-1)
+  sfeer B
+EA
+A
+204,0
+1
+
+  sfeer A
+0
+)(12 2mr
+P
+
+r
+sfeer A
+
+=== page 14 ===
+Fisiese Wetenskappe/V1 14 DBE/2022
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 8 (Begin op 'n nuwe bladsy.)
+
+In die  stroombaan hieronder is 'n battery met ONBEKENDE emk en 'n interne
+weerstand van 0,5 Ω  aan twee resistors van 4 Ω  en 8 Ω  elk en 'n resistor R met
+onbekende weerstand geskakel.
+
+Ignoreer die weerstand van die verbindingsdrade.
+
+8.1 Die drie eksterne resistors is ohmiese geleiers.
+
+Verduidelik die betekenis van die term ohmiese geleier.
+
+(2)
+
+8.2 Wanneer skakelaar S OOP is, is die lesing 3,2 V op voltmeter V1.
+
+Bereken die:
+
+ 8.2.1 Stroom deur die battery  (3)
+
+ 8.2.2 Emk van die battery  (4)
+
+8.3 Wanneer skakelaar S GESLUIT is, is die lesing 8,8 V op voltmeter V2.
+
+ 8.3.1 Bereken die weerstand van resistor R.  (5)
+
+ 8.3.2 Die battery word warm wanneer voltmeter  V2 met 'n
+verbindingsdraad vervang word. Verduidelik hierdie waarneming.
+
+(3)
+[17]
+
+ ε
+  4 Ω
+0,5 Ω
+  S
+
+V2
+V1
+
+
+8 Ω
+R
+
+=== page 15 ===
+Fisiese Wetenskappe/V1 15 DBE/2022
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 9 (Begin op 'n nuwe bladsy.)
+
+9.1 Die vereenvoudigde skets van 'n elektriese motor word hieronder getoon.
+
+ 9.1.1 Skryf die energie-omsetting neer wat in hierdie motor plaasvind.   (1)
+
+ 9.1.2 Is die motor hierbo 'n WS-motor of 'n GS-motor?  (1)
+
+ 9.1.3 Wat is die funksie van die kommutator in hierdie motor?   (1)
+
+9.2 'n Resistor Y word as 220 V, 100 W gegradeer en word aan 'n 220 V WS-bron
+gekoppel, soos in die stroombaan hieronder getoon.
+
+ 9.2.1 Bereken die weerstand van resistor Y.  (3)
+
+  'n Ander resistor Z met 'n gradering 220 V , X W, word nou in serie aan
+resistor Y en aan dieselfde WS-bron gekoppel. Sien die diagram hieronder.
+
+ Die drywing wat deur resistor Y verbruik word, verander na 80 W terwyl die
+weerstand daarvan konstant bly.
+
+ 9.2.2 Bereken die drywing-gradering X van resistor Z en neem aan dat
+resistor Z konstante weerstand het.
+
+(6)
+[12]
+
+Y
+220 V
+Y Z
+220 V
+N S
+koolstofborsels
+kommutator
+draaipunt
+magneet
+spoel
+
+=== page 16 ===
+Fisiese Wetenskappe/V1 16 DBE/2022
+ SS/NSS
+Kopiereg voorbehou
+
+VRAAG 10 (Begin op 'n nuwe bladsy.)
+
+10.1 Die apparaat in die vereenvoudigde diagram hieronder geïllustreer, word
+gebruik om die foto-elektriese effek te demonstreer.
+
+ 10.1.1 Definieer die term foto-elektriese effek.  (2)
+
+ Invallende l ig met 'n frekwensie van 1,2 x  1015 Hz word op die metaalplaat
+geskyn en elektrone word vrygestel.
+
+Bereken die:
+
+ 10.1.2 Aantal foto-elektrone wat in een sekonde vrygestel word indien die
+totale energie wat per sekonde  deur die lig  na die metaal plaat
+oorgedra word, 1,75 x 10-9 J is
+
+(4)
+
+ 10.1.3 Maksimum spoed van 'n foto-elektron indien die drumpelfrekwensie
+van die metaalplaat 9,09 x 1014 Hz is  (5)
+
+10.2 Verduidelik kortliks hoe 'n emissiespektrum in terme van energie -oorgange
+gevorm word.
+
+(2)
+[13]
+
+ TOTAAL:  150
+metaalplaat
+A
+invallende lig
+e-
+
+=== page 17 ===
+Fisiese Wetenskappe/V1 1 DBE/2022
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+DATA FOR PHYSICAL SCIENCES GRADE 12
+PAPER 1 (PHYSICS)
+
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 12
+VRAESTEL 1 (FISIKA)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Acceleration due to gravity
+Swaartekragversnelling g 9,8 m·s-2
+Universal gravitational constant
+Universele gravitasiekonstant G 6,67 x 10-11 N·m2·kg-2
+Radius of the Earth
+Radius van die Aarde RE 6,38 x 106 m
+Mass of the Earth
+Massa van die Aarde ME 5,98 x 1024 kg
+Speed of light in a vacuum
+Spoed van lig in 'n vakuum c 3,0 x 108 m·s-1
+Planck's constant
+Planck se konstante h 6,63 x 10-34 J·s
+Coulomb's constant
+Coulomb se konstante k 9,0 x 109 N·m2·C-2
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Electron mass
+Elektronmassa me 9,11 x 10-31 kg
+
+=== page 18 ===
+Fisiese Wetenskappe/V1 2 DBE/2022
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+TABLE 2:  FORMULAE/TABEL 2:  FORMULES
+
+MOTION/BEWEGING
+tavv if 
+
+2
+2
+1
+i taΔtvΔx   or/of
+2
+2
+1
+i taΔtvΔy 
+xa2vv
+2
+i
+2
+f 
+ or/of
+ya2vv
+2
+i
+2
+f 
+Δt2 vvΔx fi    or/of
+Δt2 vvΔy fi  
+
+FORCE/KRAG
+
+maFnet
+
+mvp
+Nf s
+maks
+s 
+
+Nμ =f kk
+if
+net
+mv- mv=pΔ
+pΔ=tΔF
+
+mgw
+
+2
+21
+d
+mmG=F
+       or/of
+2
+21
+r
+mmG=F
+
+2d
+MG  g 
+2r
+MG g 
+WORK, ENERGY AND POWER/ARBEID, ENERGIE EN DRYWING
+
+xΔF=W
+cos
+
+mghU           or/of
+mghEP
+2mv21K 
+       or/of
+2
+k mv21E 
+KWnet 
+        or/of
+knet EW 
+
+if KKK 
+     or/of
+kikfk EEE 
+UKWnc 
+ or/of
+pknc EEW 
+
+t
+WP 
+Pave = Fvave    /    Pgemid = Fvgemid
+
+WAVES, SOUND AND LIGHT/GOLWE, KLANK EN LIG
+
+ fv
+
+f
+1T
+s
+s
+L
+L fvv vvf 
+
+b
+b
+L
+L fvv vvf 
+hfE     or /of
+ hcE
+
+k(max)0 E+ W=E
+  or
+max0 K+ W=E  where
+hf  E
+ and
+00 hfW  and
+2
+max(max)k mv21E     or
+
+2
+maxmax mv21K 
+
+k (mak s)E WE  0
+  of
+mak s0 K WE   waar
+hf  E
+ en
+00 hfW     en
+2
+mak s)mak s(k mv21E    /
+2
+maksmv21K m aks
+
+or/of
+or/of
+
+=== page 19 ===
+Fisiese Wetenskappe/V1 3 DBE/2022
+ SS/NSS
+Kopiereg voorbehou
+
+ELECTROSTATICS/ELEKTROSTATIKA
+
+2
+21
+r
+QkQF
+
+2r
+kQE 
+q
+WV
+
+q
+FE
+
+e
+Q=n
+eq
+Q=n
+
+ELECTRIC CIRCUITS/ELEKTRIESE STROOMBANE
+
+I
+VR 
+
+emf (
+ε ) = I(R + r)
+
+emk (
+ε ) = I(R + r)
+...RRR 21s 
+
+...R1R1R1 21p 
+
+tq  I
+W = Vq
+
+W = VI
+ t
+
+W = I2R
+ t
+
+W =
+R
+ΔtV2
+Δt
+WP 
+
+P = VI
+
+RP 2I
+
+R
+VP 2
+
+ALTERNATING CURRENT/WISSELSTROOM
+
+2
+max
+rms
+II 
+             /
+2
+maks
+wgk
+II 
+
+2
+VV maxrms 
+           /
+2
+VV makswgk 
+rmsrmsave VP I
+     /
+wgkwgkgemiddeld VP I
+
+RP 2rmsave I
+       /
+RP 2wgkgemiddeld I
+
+R
+VP 2rmsave
+        /
+R
+VP 2wgkgemiddeld
+
+or/of

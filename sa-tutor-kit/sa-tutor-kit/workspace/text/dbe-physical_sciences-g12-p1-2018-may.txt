@@ -1,0 +1,873 @@
+=== page 1 ===
+Copyright reserved    Please turn over
+
+SENIOR CERTIFICATE EXAMINATIONS
+
+PHYSICAL SCIENCES:  PHYSICS (P1)
+
+2018
+
+MARKS:  150
+
+TIME:  3 hours
+
+This question paper consists of 16 pages and 3 data sheets.
+
+=== page 2 ===
+Physical Sciences/P1 2  DBE/2018
+ SCE
+Copyright reserved Please turn over
+
+INSTRUCTIONS AND INFORMATION
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+Write your examination number and centre number in the appropriate spaces
+on the ANSWER BOOK.
+
+This question paper consists of 11 questions. Answer ALL the questions in
+the ANSWER BOOK.
+
+Start EACH question on a NEW page in the ANSWER BOOK.
+
+Number the answers correctly according to the numbering system used in this
+question paper.
+
+Leave ONE line between two subquestions, for example between
+QUESTION 2.1 and QUESTION 2.2.
+
+You may use a non-programmable calculator.
+
+You may use appropriate mathematical instruments.
+
+You are advised to use the attached DATA SHEETS.
+
+Show ALL formulae and substitutions in ALL calculations.
+
+Round off your FINAL numerical answers to a minimum of TWO decimal
+places.
+
+Give brief motivations, discussions, et cetera where required.
+
+Write neatly and legibly.
+
+=== page 3 ===
+Physical Sciences/P1 3  DBE/2018
+ SCE
+Copyright reserved Please turn over
+
+QUESTION 1: MULTIPLE-CHOICE QUESTIONS
+
+Various options are provided as possible answers to the following questions.
+Choose the answer and write down only the letter (A –D) next to the question numbers
+(1.1 to 1.10) in the ANSWER BOOK, e.g. 1.11 D.
+
+1.1 The net (resultant) force acting on an object is equal to the ... of the object in
+the direction of the net force.
+
+ A
+
+B
+
+C
+
+D
+change in momentum
+
+change in kinetic energy
+
+rate of change of momentum
+
+rate of change of kinetic energy
+
+(2)
+
+1.2 A physical quantity that is described as a measure of the resistance of a body
+to a change in motion is called …
+
+ A
+
+B
+
+C
+
+D
+inertia.
+
+force.
+
+acceleration.
+
+weight.
+
+(2)
+
+=== page 4 ===
+Physical Sciences/P1 4  DBE/2018
+ SCE
+Copyright reserved Please turn over
+III
+I
+II
+IV
+•
+
+•
+•
+•
+
+1.3 The diagram below shows a section of the path of a stone projected vertically
+upwards.
+
+ At which ONE of the positions indicated on the diagram will the magnitude of
+the momentum of the stone be the GREATEST? Ignore air resistance.
+
+ A
+
+B
+
+C
+
+D
+I
+
+II
+
+III
+
+IV  (2)
+
+1.4 Two cars, P and Q, moving in a straight line , have the same momentum .
+The kinetic energy of Q is greater than the kinetic energy of P.
+
+Which ONE of the following statements regarding the cars is CORRECT?
+
+ A
+
+B
+
+C
+
+D
+Q has a smaller mass than P.
+
+Q has the same mass as P.
+
+Q is moving slower than P.
+
+Q is moving at the same speed as P.  (2)
+
+1.5 The net work done on an object to increase  its speed from rest to v is W.
+How much net work must be done on t he same object to increase its speed
+from v to 2v?
+
+ A
+
+B
+
+C
+
+D
+W
+
+2W
+
+3W
+
+4W
+
+(2)
+
+=== page 5 ===
+Physical Sciences/P1 5  DBE/2018
+ SCE
+Copyright reserved Please turn over
+
+1.6 Which ONE of the following is NOT an application of the Doppler effect?
+
+ A
+
+B
+
+C
+
+D
+A light meter
+
+A blood flow meter
+
+Detecting the heartbeat of a foetus using ultrasound
+
+Measuring the speed of an approaching car using radar
+
+(2)
+
+1.7 Two small identical metal spheres , on insulated stands, carry charges -q
+and +3q respectively.
+
+When the centres of the spheres are a distance d apart, the spheres exert an
+electrostatic force of magnitude F on each other.
+
+ The spheres are now made to touch  and are brought back to the same
+positions as before.
+
+The magnitude of the electrostatic force which the spheres now exert on each
+other, in terms of F, is:
+
+A
+
+B
+
+C
+
+D
+3
+4 F
+
+3
+1 F
+
+2
+1 F
+
+3F
+
+(2)
+
+-q +3q
+d
+
+=== page 6 ===
+Physical Sciences/P1 6  DBE/2018
+ SCE
+Copyright reserved Please turn over
+A
+V
+R
+R
+S
+r
+
+• •
+emf (ε)
+
+1.8 In the circuit below the battery has an emf (ε) and internal resistance r.
+With switch S open, readings are registered on the ammeter and voltmeter.
+
+ Switch S is now closed. How do the readings on the ammeter and voltmeter
+change?
+
+  AMMETER READING VOLTMETER READING
+A Increases Remains the same
+B Increases Decreases
+C Decreases Remains the same
+D Decreases Decreases
+
+(2)
+
+1.9 A learner lists the following as factors that affect the magnitude of the current
+induced in an AC generator:
+
+ (i)
+(ii)
+(iii)
+The number of turns (windings) of the coil
+The strength of the magnetic field
+The speed of rotation of the coil
+
+ Which ONE of the combinations below is CORRECT?
+
+ A
+
+B
+
+C
+
+D
+(i) and (ii) only
+
+(i) and (iii) only
+
+(ii) and (iii) only
+
+(i), (ii) and (iii)
+
+(2)
+
+=== page 7 ===
+Physical Sciences/P1 7  DBE/2018
+ SCE
+Copyright reserved Please turn over
+
+1.10 The graph below is obtained from an experiment on the photoelectric effect.
+
+ Which ONE of the following represents the gradient of the graph?
+
+ A
+
+B
+
+C
+
+D
+hc
+
+h
+
+λ
+E (max)k
+
+W0
+
+(2)
+    [20]
+
+λ
+1
+Ek(max)
+
+=== page 8 ===
+Physical Sciences/P1 8  DBE/2018
+ SCE
+Copyright reserved Please turn over
+•
+0,5 m
+P
+3 kg
+ground
+3 kg
+
+QUESTION 2 (Start on a new page.)
+
+Block P, of unknown mass, is placed on a rough horizontal surface. It is connected to
+a second block of mass  3 kg, by a light inext ensible string passing over a light ,
+frictionless pulley, as shown below.
+
+Initially the system of masses is held stationary with the  3 kg block, 0,5 m above the
+ground. When the system is released the 3 kg block moves vertically downwards and
+strikes the ground after 3 s. Ignore the effects of air resistance.
+
+2.1 Define the term acceleration in words.  (2)
+
+Calculate the magnitude of the:
+
+2.2 Acceleration of the 3 kg block using equations of motion  (3)
+
+2.3 Tension in the string  (3)
+
+The magnitude of the kinetic frictional force experienced by block P is 27 N.
+
+2.4 Draw a labelled free-body diagram for block P.  (4)
+
+2.5 Calculate the mass of block P.  (3)
+   [15]
+
+=== page 9 ===
+Physical Sciences/P1 9  DBE/2018
+ SCE
+Copyright reserved Please turn over
+A
+●
+●
+B
+ground
+
+QUESTION 3 (Start on a new page.)
+
+In the diagram below , point A is at the top of a building. Point B is exactly halfway
+between the point A and the ground. Ignore air resistance.
+
+3.1 Define the term free fall.   (2)
+
+A ball of mass 0,4 kg is dropped from point A. It passes point B after 1 s.
+
+3.2 Calculate the height of point A above the ground.  (3)
+
+When the ball s trikes the ground it is in contact with the ground for 0,2 s and then
+bounces vertically upwards, reaching a maximum height at point B.
+
+3.3 Calculate the magnitude of the velocity of the ball when it strikes the ground.  (3)
+
+3.4 Calculate the magnitude of the average net force exerted on the ball while it is
+in contact with the ground.
+
+(6)
+   [14]
+
+=== page 10 ===
+Physical Sciences/P1 10  DBE/2018
+ SCE
+Copyright reserved Please turn over
+2,0 m
+1,5 kg A
+B
+1,5 kg 2 kg
+P
+1,5 kg
+
+QUESTION 4 (Start on a new page.)
+
+A trolley of mass 1,5 kg is held stationary  at point A at the top of a frictionless track.
+When the 1,5 kg troll ey is released, it moves down the track . It passes point P at the
+bottom of the incline and collides with a stationary 2 kg trolley  at point B . Refer to the
+diagram below. Ignore air resistance and rotational effects.
+
+4.1 Use the principle of conservation of mechanical energy to calculate the speed
+of the 1,5 kg trolley at point P.
+
+(4)
+
+When the two trolleys collide, they stick together and continue moving with constant
+velocity.
+
+4.2 The principle of conservation of linear momentum  is given by the incomplete
+statement below.
+
+In a/an … system, the … linear momentum is conserved.
+
+Rewrite the complete statement and fill in the missing words or phrases.
+
+(2)
+
+4.3 Calculate the speed of the combined trolleys immediately after the collision.  (4)
+
+4.4 Calculate the distance travelled by the combined trolleys in 3  s after the
+collision.
+
+(3)
+   [13]
+
+=== page 11 ===
+Physical Sciences/P1 11  DBE/2018
+ SCE
+Copyright reserved Please turn over
+ 75 kg
+12 m
+ground
+0,65 m⋅s-2
+
+QUESTION 5 (Start on a new page.)
+
+A load of mass 75  kg is initially at rest on the ground. It is then pulled vertically
+upwards at a constant acceleration of 0,65 m⋅s-2 by means of a light inextensible rope.
+Refer to the diagram below. Ignore air resistance, rotational effects and the mass of
+the rope.
+
+5.1 Draw a labelled free-body diagram for the load while it moves upward.   (2)
+
+5.2 Name the non-conservative force acting on the load.  (1)
+
+5.3 Calculate the work done on the load by the gravitational force  when the load
+has reached a height of 12 m.
+
+(3)
+
+5.4 State the work-energy theorem in words.  (2)
+
+5.5 Use the work-energy theorem to calculate the speed of the load when it is at
+a height of 12 m.
+
+(5)
+   [13]
+
+=== page 12 ===
+Physical Sciences/P1 12  DBE/2018
+ SCE
+Copyright reserved Please turn over
+Q P
+1,0 m
+V
+• • •
++ 5 x 10-6 C + 7 x 10-6 C
+x
+
+QUESTION 6 (Start on a new page.)
+
+A sound source , moving at a constant speed of 240 m∙s-1 towards a detector, emits
+sound at a constant frequency. The detector records a frequency of 5 100 Hz.
+
+Take the speed of sound in air as 340 m∙s-1.
+
+6.1 State the Doppler effect.  (2)
+
+6.2 Calculate the wavelength of the sound emitted by the source.  (7)
+
+QUESTION 7 (Start on a new page.)
+
+A particle, P, with a charge of + 5 x 10-6 C, is located 1,0 m along a straight line from
+particle V, with a charge of +7 x 10-6 C. Refer to the diagram below.
+
+A third charged particle , Q, at a point x metres away from  P, as shown above,
+experiences a net electrostatic force of zero newton.
+
+7.1 How do the electrostatic forces experienced by Q due to the charges on P
+and V respectively, compare with each other?
+
+(2)
+
+7.2 State Coulomb's law in words.  (2)
+
+7.3 Calculate the distance x.  (5)
+   [9]
+
+QUESTION 8 (Start on a new page.)
+
+A small metal sphere Y carries a charge of + 6 x 10-6 C.
+
+8.1 Draw the electric field pattern associated with sphere Y.   (2)
+
+8.2 If 8 x 10 13 electrons are now transferred to sphere Y, calculate the electric
+field at a point 0,5 m from the sphere.
+
+(7)
+   [9]
+
+Some of the sound wav es are reflected from the detector towards the approaching
+source.
+
+6.3 Will the frequency of the reflected sound wave detected by the sound source
+be EQUAL TO, GREATER THAN or SMALLER THAN 5 100 Hz?
+
+(1)
+   [10]
+
+=== page 13 ===
+Physical Sciences/P1 13  DBE/2018
+ SCE
+Copyright reserved Please turn over
+S
+
+•
+•
+5,8 Ω
+ A2
+ V1
+4 Ω
+6 Ω
+ V2
+ A1
+r = 0,8 Ω
+            ε
+0,6 A
+
+QUESTION 9 (Start on a new page.)
+
+9.1 In the circuit diagram below the battery has an unknown emf ( ε) and an
+internal resistance (r) of 0,8 Ω.
+
+ 9.1.1 State Ohm's law in words.  (2)
+
+ The reading on ammeter A2 is 0,6 A when switch S is closed.
+
+Calculate the:
+
+ 9.1.2 Reading on voltmeter V1  (3)
+
+ 9.1.3 Current through the 6 Ω resistor  (2)
+
+ 9.1.4 Reading on voltmeter V2  (2)
+
+ 9.1.5 Emf (ε) of the battery  (3)
+
+ 9.1.6 Energy dissipated as heat inside the battery if the current flows in
+the circuit for 15 s
+
+(3)
+
+=== page 14 ===
+Physical Sciences/P1 14  DBE/2018
+ SCE
+Copyright reserved Please turn over
+
+9.2 A simplified circuit diagram for the windscreen wiper of a car consists of
+a variable resistor and a wiper motor connected to a 12 volt battery.
+
+ When switch S is closed, the potential difference across the variable resistor
+is 2,8 V and the current passing through it is 0,7 A.
+
+ 9.2.1 Calculate the resistance of the variable resistor.  (2)
+
+ The resistance of the variable resistor is now decreased.
+
+ 9.2.2 State whether the speed at which the wiper turns will INCREASE,
+DECREASE or REMAIN THE SAME.
+
+Give a reason for the answer.
+
+(3)
+    [20]
+
+S
+wiper motor
+● ●
+
+=== page 15 ===
+Physical Sciences/P1 15  DBE/2018
+ SCE
+Copyright reserved Please turn over
+
+QUESTION 10 (Start on a new page.)
+
+10.1 The diagram below is a simplified representation of a DC motor.  The current
+in the coil is in the direction XY.
+
+ 10.1.1 Name the component that ensures that the coil rotates
+continuously in ONE DIRECTION.
+
+(1)
+
+ 10.1.2 In which direction will the coil rotate? Write down only
+CLOCKWISE or ANTICLOCKWISE.
+
+(2)
+
+ 10.1.3 Write down the energy conversion which takes place while the
+motor is working.
+
+(2)
+
+10.2 An AC generator , producing a maximum voltage of 320 V , is connected to a
+heater of resistance 35 Ω.
+
+ 10.2.1 Write down the structural difference between an AC generator and
+a DC generator.
+
+(1)
+
+ Calculate the:
+
+ 10.2.2 Root mean square (rms) value of the voltage  (3)
+
+ 10.2.3 Root mean square (rms) value of the current in the heater  (4)
+    [13]
+
+=== page 16 ===
+Physical Sciences/P1 16 DBE/2018
+ SCE
+Copyright reserved
+
+QUESTION 11 (Start on a new page.)
+
+A group of students investigates the relationship between the work function of different
+metals and the maximum kinetic energy of the ejected elect rons when the metals are
+irradiated with light of suitable frequency.
+
+11.1 Define the term work function.  (2)
+
+During the investigation ultraviolet rays of wavelength 2 x 10-8 m are allowed to fall on
+different metal plates. The corresponding maximum kinetic energies of ejected
+electrons are measured.
+
+The data obtained is displayed in the table below.
+
+METAL PLATE USED MAXIMUM KINETIC ENERGY (Ek(max))
+(x 10-18 J)
+Lead
+
+Potassium
+
+Silver
+9,28
+
+9,58
+
+9,19
+
+11.2 Write down the dependent variable for this investigation.  (1)
+
+11.3 Write down ONE control variable for this investigation.  (1)
+
+11.4 Using the information in the table , and w ithout any calculation, identify the
+metal with the largest work function.
+
+Explain the answer.
+
+(3)
+
+11.5 Use information in the table to calculate the work function of potassium.  (4)
+
+11.6 State how an in crease in the intensity of the u ltraviolet light affect s the
+maximum kinetic energy of the photoelectrons . Choose from: INCREASE S,
+DECREASES, REMAINS THE SAME.
+
+Explain the answer.
+
+(3)
+   [14]
+
+TOTAL:  150
+
+=== page 17 ===
+Physical Sciences /P1  1 DBE/2018
+ SCE
+Copyright reserved    Please turn over
+
+DATA FOR PHYSICAL SCIENCES GRADE 12
+PAPER 1 (PHYSICS)
+
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 12
+VRAESTEL 1 (FISIKA)
+
+TABLE 1: PHYSICAL CONSTANTS/TABEL 1: FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Acceleration due to gravity
+Swaartekragversnelling g 9,8 m·s-2
+Universal gravitational constant
+Universele gravitasiekonstant G 6,67 x 10-11 N·m2·kg-2
+Speed of light in vacuum
+Spoed van lig in vakuum c 3,0 x 108 m·s-1
+Planck's constant
+Planck se konstante h 6,63 x 10-34 J·s
+Coulomb's constant
+Coulomb se konstante k 9,0 x 109 N·m2·C-2
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Electron mass
+Elektronmassa me 9,11 x 10-31 kg
+Mass of the Earth
+Massa van die Aarde M 5,98 x 1024 kg
+Radius of the Earth
+Radius van die Aarde RE 6,38 x 106 m
+
+=== page 18 ===
+Physical Sciences/P1 2 DBE/2018
+ SCE
+Copyright reserved  Please turn over
+
+TABLE 2: FORMULAE/TABEL 2: FORMULES
+
+MOTION/BEWEGING
+
+tavv if ∆+=  221i taΔtvΔx ∆+=  or/of 221i taΔtvΔy ∆+=
+xa2vv
+2
+i
+2
+f ∆+=  or/of ya2vv
+2
+i
+2
+f ∆+=  Δt2 vvΔx fi  +=  or/of Δt2 vvΔy fi  +=
+
+FORCE/KRAG
+
+maFnet =  mvp=
+Nμ=f s
+max
+s  Nμ=f kk
+if
+net
+mv- mv=pΔ
+pΔ=tΔF
+ mgw=
+
+2
+21
+d
+mmG=F        or/of       2 21rmmG=F      2dMG =g                        2rMG =g
+WORK, ENERGY AND POWER/ARBEID, ENERGIE EN DRYWING
+
+xΔF =W cosθ  mghU=           or/of      mgh =EP
+2mv21K=        or/of       2k mv21E =  KWnet ∆=         or/of       knet EW ∆=
+if KKK −=∆      or/of      kikfk EEE −=∆
+UKWnc ∆+∆=  or/of  pknc EEW ∆+∆=
+ t
+WP ∆=
+aveave FvP =
+
+WAVES, SOUND AND LIGHT/GOLWE, KLANK EN LIG
+
+λ= fv
+f
+1T=
+s
+s
+L
+L fvv vvf ±±=      or/of           bbLL fvv vvf ±±=  hfE=     or/of    λ= chE
+(max/maks) ko E WE +=     where/waar
+hf  E=  and/en 00 hfW = and/en 2 maksmax/)maks(max/k mv21E =
+
+or/of
+
+=== page 19 ===
+Physical Sciences/P1 3 DBE/2018
+ SCE
+Copyright reserved
+
+ELECTROSTATICS/ELEKTROSTATIKA
+
+2
+21
+r
+QkQF=  2rkQE =
+q
+FE=  qWV=
+e
+Qn=  or/of
+eq
+Qn=
+
+ELECTRIC CIRCUITS/ELEKTRIESE STROOMBANE
+
+I
+VR=  emf ( ε ) = I(R + r)
+emk ( ε ) = I(R + r)
+...RRR 21s ++=
+...R1R1R1 21p ++=  I=q ∆ t
+W = Vq
+
+W = VI∆ t
+
+W = I2R∆ t
+
+W = RΔtV2
+Δt
+WP=
+
+P = VI
+
+P = I2R
+R
+VP 2=
+
+ALTERNATING CURRENT/WISSELSTROOM
+
+2
+max
+rms
+II =              /
+2
+maks
+wgk
+II =
+
+2
+VV maxrms =            /           2VV makswgk =
+rmsrmsaverage VP I=      /     wgkwgkgemiddeld VP I=
+
+RP 2rmsaverage I=        /      RP 2wgkgemiddeld I=
+
+R
+VP 2rmsaverage =        /       RVP 2wgkgemiddeld =

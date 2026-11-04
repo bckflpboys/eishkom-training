@@ -1,0 +1,263 @@
+NATIONAL SENIOR CERTIFICATE
+
+GRADE 10
+
+MATHEMATICS P2
+
+NOVEMBER 2015
+
+MARKS: 100
+
+TIME: 2 hours
+
+This question paper consists of 11 pages and a 16-page answer book.
+
+---
+
+**INSTRUCTIONS AND INFORMATION**
+
+Read the following instructions carefully before answering the questions.
+
+1. This question paper consists of 9 questions.
+
+2. Answer ALL the questions in the SPECIAL ANSWER BOOK provided.
+
+3. Clearly show ALL calculations, diagrams, graphs et cetera that you used to determine the answers.
+
+4. Answers only will NOT necessarily be awarded full marks.
+
+5. If necessary, round off answers to TWO decimal places, unless stated otherwise.
+
+6. Diagrams are NOT necessarily drawn to scale.
+
+7. You may use an approved scientific calculator (non-programmable and non-graphical), unless stated otherwise.
+
+8. Write neatly and legibly.
+
+---
+
+**QUESTION 1**
+
+Nineteen girls were required to complete a puzzle as quickly as possible. Their times (in seconds) were recorded and are shown in the table below.
+
+$$14 \quad 15 \quad 16 \quad 16 \quad 17 \quad 17 \quad 18 \quad 18 \quad 19 \quad 19$$
+$$19 \quad 20 \quad 21 \quad 21 \quad 22 \quad 23 \quad 24 \quad 24 \quad 29$$
+
+1.1 Identify the median time taken by the girls to complete the puzzle. (1)
+
+1.2 Determine the lower and upper quartiles for the data. (2)
+
+1.3 Draw a box and whisker diagram to represent the data. (2)
+
+1.4 The five-number summary of the time (in seconds) taken by 19 boys to complete the same puzzle is $(15; 19; 23; 26; 30)$.
+
+1.4.1 Calculate the interquartile range for the time taken by the boys. (2)
+
+1.4.2 If only one boy took 19 seconds to complete the puzzle, what percentage of the boys took at least 19 seconds to complete the puzzle? (1)
+
+1.5 In which group, the girls or the boys, did a larger number of learners complete the puzzle in less than 23 seconds? Justify your answer. (2)
+
+[10]
+
+---
+
+**QUESTION 2**
+
+The table below shows information about the number of hours 120 learners spent on their cellphones in the last week.
+
+$$\begin{array}{|c|c|}
+\hline
+\textbf{NUMBER OF} & \textbf{FREQUENCY} \\
+\textbf{HOURS } (h) & \\
+\hline
+0 < h \le 2 & 10 \\
+\hline
+2 < h \le 4 & 15 \\
+\hline
+4 < h \le 6 & 30 \\
+\hline
+6 < h \le 8 & 35 \\
+\hline
+8 < h \le 10 & 25 \\
+\hline
+10 < h \le 12 & 5 \\
+\hline
+\end{array}$$
+
+2.1 Identify the modal class for the data. (1)
+
+2.2 Estimate the mean number of hours that these learners spent on their cellphones in the last week. (3)
+
+[4]
+
+---
+
+**QUESTION 3**
+
+In the diagram, $C$ is a point on the $y$-axis such that $A(0; 4)$, $B(4; -4)$, $C$ and $D(-4; 2)$ are vertices of parallelogram $ABCD$. $K$ is the point $\left(0; -2\frac{1}{4}\right)$ and $L$ is a point on $AB$ such that $KL \parallel CB$.
+
+[DIAGRAM: Parallelogram $ABCD$ in a Cartesian plane. $A(0;4)$ is on the positive $y$-axis. $D(-4;2)$ is in the second quadrant. $B(4;-4)$ is in the fourth quadrant. $C$ is on the negative $y$-axis. $K(0; -2\frac{1}{4})$ lies on the $y$-axis below the origin. $L$ is a point on line segment $AB$. A line segment is drawn from $K$ to $L$ parallel to $CB$.]
+
+3.1 Calculate the length of diagonal $DB$. (3)
+
+3.2 Calculate the coordinates of $M$, the midpoint of $DB$. (3)
+
+3.3 Calculate the gradient of $AD$. (3)
+
+3.4 Prove that $AD \perp AB$. (3)
+
+3.5 Give a reason why parallelogram $ABCD$ is a rectangle. (1)
+
+3.6 Determine the equation of $KL$ in the form $y = mx + c$. (2)
+
+3.7 Write down, with reasons, the coordinates of $C$. (3)
+
+[18]
+
+---
+
+**QUESTION 4**
+
+$\triangle PQR$ and $\triangle ASQR$ are right-angled triangles as shown in the diagram below. 
+$PR = 26$, $PQ = 24$, $QS = 8$, $SR = 6$, $QR = 10$ and $\widehat{PRQ} = \theta$.
+
+[DIAGRAM: Two right-angled triangles sharing side $QR = 10$. $\triangle PQR$ has right angle at $Q$, $PQ = 24$, $PR = 26$, and $\widehat{PRQ} = \theta$. Triangle $\triangle SQR$ has right angle at $S$ (wait, the diagram shows right angle at $S$ for $\triangle SQR$), $QS = 8$, $SR = 6$, and $QR = 10$.]
+
+4.1 Refer to the diagram above and, WITHOUT using a calculator, write down the value of:
+
+4.1.1 $\tan \hat{P}$ (1)
+
+4.1.2 $\sin S\hat{Q}R$ (1)
+
+4.1.3 $\cos \theta$ (1)
+
+4.1.4 $\sec S\hat{R}Q$ (1)
+
+4.2 WITHOUT using a calculator, determine the value of $\frac{\cot \theta}{\csc Q\hat{R}S}$. (3)
+
+[7]
+
+---
+
+**QUESTION 5**
+
+5.1 In the diagram below, $P(x; y)$ is a point in the third quadrant, $R\hat{O}P = \beta$ and $17\cos\beta + 15 = 0$.
+
+[DIAGRAM: Cartesian plane showing an angle $\beta$ in standard position in the third quadrant. Ray $OP$ terminates at point $P(x; y)$ with distance $r$ from the origin $O$. Ray $OR$ lies along the positive $x$-axis.]
+
+5.1.1 Write down the values of $x$, $y$ and $r$. (4)
+
+5.1.2 WITHOUT using a calculator, determine the value of:
+
+(a) $\sin \beta$ (1)
+
+(b) $\cos^2 30^\circ \cdot \tan \beta$ (3)
+
+5.1.3 Calculate the size of $R\hat{O}P$ correct to TWO decimal places. (2)
+
+5.2 In each of the following equations, solve for $x$ where $0^\circ \le x \le 90^\circ$. Give your answers correct to TWO decimal places.
+
+5.2.1 $\tan x = 2,22$ (2)
+
+5.2.2 $\sec(x + 10^\circ) = 5,759$ (3)
+
+5.2.3 $\frac{\sin x}{0,2} - 2 = 1,24$ (3)
+
+[18]
+
+---
+
+**QUESTION 6**
+
+In the diagram below, the graph of $f(x) = -2\cos x$ is drawn for the interval $0^\circ \le x \le 360^\circ$.
+
+[DIAGRAM: A Cartesian plane with a cosine-like wave $f(x) = -2\cos x$ starting at $(0^\circ, -2)$, rising to $(180^\circ, 2)$, and ending at $(360^\circ, -2)$ for the interval $0^\circ \le x \le 360^\circ$.]
+
+6.1 Write down the amplitude of $f$. (1)
+
+6.2 Write down the minimum value of $f(x) + 3$. (1)
+
+6.3 On the same system of axes, draw the graph of $g$, where $g(x) = \sin x + 1$ for the interval $0^\circ \le x \le 360^\circ$. (3)
+
+6.4 Use the graphs to determine the following:
+
+6.4.1 The value of $f(180^\circ) - g(180^\circ)$ (2)
+
+6.4.2 For which value(s) of $x$ will $f(x) \cdot g(x) > 0$ (2)
+
+6.5 The graph of $f$ is reflected about the $x$-axis and then moved 3 units downwards to form the graph of $h$. Determine:
+
+6.5.1 The equation of $h$ (2)
+
+6.5.2 The range of $h$ for the interval $0^\circ \le x \le 360^\circ$. (2)
+
+[13]
+
+---
+
+**QUESTION 7**
+
+A concrete gate post comprises a right rectangular prism having a square base and a pyramid at the top, as shown in the diagram below. The length of the sides of the base is $30\text{ cm}$ and the height of the rectangular section is $150\text{ cm}$. The perpendicular height of the pyramid section is $8\text{ cm}$.
+
+[DIAGRAM: A 3D gate post showing a rectangular prism of height $150\text{ cm}$ and square base of $30\text{ cm} \times 30\text{ cm}$, topped with a square-based pyramid of perpendicular height $8\text{ cm}$.]
+
+$$\text{Volume of a pyramid} = \frac{1}{3} \text{area of the base} \times \text{height}$$
+$$\text{Total surface area of a pyramid} = \text{area of the base} + \frac{1}{2}(\text{perimeter of the base} \times \text{slant height})$$
+
+7.1 Calculate the volume of concrete required to make ONE post. (3)
+
+7.2 Calculate the surface area of the pyramid section of the post. (3)
+
+7.3 If the length of the sides of the base is halved, how many posts, having the same design as the original, can be made with the same volume of concrete as the original post? (2)
+
+[8]
+
+---
+
+**Give reasons for your statements in QUESTIONS 8 and 9.**
+
+**QUESTION 8**
+
+In the diagram, $ABCD$ is a rhombus having diagonals $AC$ and $BD$ intersecting in $O$. $A\hat{D}O = 36,87^\circ$ and $DO = 8\text{ cm}$.
+
+[DIAGRAM: Rhombus $ABCD$ with diagonals $AC$ and $BD$ intersecting at $O$. $A\hat{D}O = 36,87^\circ$ and $DO = 8\text{ cm}$. Point $E$ is on $AB$ such that $OE \parallel DA$.]
+
+8.1 Write down the sizes of the following angles:
+
+8.1.1 $C\hat{D}O$ (1)
+
+8.1.2 $A\hat{O}D$ (1)
+
+8.2 Calculate the length of $AO$. (2)
+
+8.3 If $E$ is a point on $AB$ such that $OE \parallel DA$, calculate the length of $OE$. (4)
+
+[8]
+
+---
+
+**QUESTION 9**
+
+9.1 In the diagram below, $D$ is the midpoint of side $AB$ of $\triangle ABC$. $E$ is the midpoint of $AC$. $DE$ is produced to $F$ such that $DE = EF$. $CF \parallel BA$.
+
+[DIAGRAM: $\triangle ABC$ with $D$ on $AB$ ($AD=DB$) and $E$ on $AC$ ($AE=EC$). $DE$ is extended to $F$ such that $DE=EF$. $CF$ is parallel to $BA$, forming $\triangle CFE \equiv \triangle ADE$ and quadrilateral $DBCF$.]
+
+9.1.1 Write down a reason why $\triangle ADE \equiv \triangle CFE$. (1)
+
+9.1.2 Write down a reason why $DBCF$ is a parallelogram. (1)
+
+9.1.3 Hence, prove the theorem which states that $DE = \frac{1}{2}BC$. (2)
+
+9.2 In the diagram below, $PQRS$ is a parallelogram having diagonals $PR$ and $QS$ intersecting in $M$. $B$ is a point on $PQ$ such that $SBA$ and $RQA$ are straight lines and $SB = BA$. $SA$ cuts $PR$ in $C$ and $PA$ is drawn.
+
+[DIAGRAM: Parallelogram $PQRS$ with diagonals $PR$ and $QS$ intersecting at $M$. Line $SB$ extended through $A$, where $SB = BA$. Line $RQA$ is a straight line. $SA$ intersects $PR$ at $C$. $PA$ is joined.]
+
+9.2.1 Prove that $SP = QA$. (4)
+
+9.2.2 Prove that $SPAQ$ is a parallelogram. (2)
+
+9.2.3 Prove that $AR = 4MB$. (4)
+
+[14]
+
+**TOTAL: 100**

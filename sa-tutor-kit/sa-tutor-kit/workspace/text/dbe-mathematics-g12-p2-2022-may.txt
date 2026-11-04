@@ -1,0 +1,316 @@
+# basic education
+Department: Basic Education  
+REPUBLIC OF SOUTH AFRICA  
+
+# SENIOR CERTIFICATE EXAMINATIONS /  
+# NATIONAL SENIOR CERTIFICATE EXAMINATIONS  
+
+## MATHEMATICS P2  
+
+## 2022  
+
+**MARKS: 150**  
+**TIME: 3 hours**  
+
+This question paper consists of 14 pages and 1 information sheet.
+
+---
+
+## INSTRUCTIONS AND INFORMATION
+
+Read the following instructions carefully before answering the questions.
+
+1. This question paper consists of 10 questions.
+2. Answer ALL the questions in the SPECIAL ANSWER BOOK provided.
+3. Clearly show ALL calculations, diagrams, graphs, etc. that you have used in determining your answers.
+4. Answers only will NOT necessarily be awarded full marks.
+5. You may use an approved scientific calculator (non-programmable and non-graphical), unless stated otherwise.
+6. If necessary, round off answers correct to TWO decimal places, unless stated otherwise.
+7. Diagrams are NOT necessarily drawn to scale.
+8. An information sheet with formulae is included at the end of the question paper.
+9. Write neatly and legibly.
+
+---
+
+## QUESTION 1
+
+The table below shows the mass (in $\text{kg}$) of the school bags of $80$ learners.
+
+| MASS (in $\text{kg}$) | FREQUENCY |
+| :---: | :---: |
+| $5 < m \le 7$ | $6$ |
+| $7 < m \le 9$ | $18$ |
+| $9 < m \le 11$ | $21$ |
+| $11 < m \le 13$ | $19$ |
+| $13 < m \le 15$ | $11$ |
+| $15 < m \le 17$ | $4$ |
+| $17 < m \le 19$ | $1$ |
+
+1.1 Write down the modal class of the data. $(1)$
+
+1.2 Complete the cumulative frequency column in the table in the ANSWER BOOK. $(2)$
+
+1.3 Draw a cumulative frequency graph (ogive) for the given data on the grid provided in the ANSWER BOOK. $(3)$
+
+1.4 Use the graph to determine the median mass for this data. $(2)$
+
+1.5 The international guideline for the mass of a school bag is that it should not exceed $10\%$ of a learner's body mass.
+
+1.5.1 Calculate the estimated mean mass of the school bags. $(2)$
+
+1.5.2 The mean mass of this group of learners was found to be $80\text{ kg}$. On average, are these school bags satisfying the international guideline with regard to mass? Motivate your answer. $(2)$  
+**[12]**
+
+---
+
+## QUESTION 2
+
+The table below shows the size (in carats) and the price (in rands) of $10$ diamonds that were sold by a diamond trader. This information is also presented in the scatter plot below. The least squares regression line for the data is drawn.
+
+| Size, in carats, of diamond ($x$) | $0,1$ | $0,15$ | $0,2$ | $0,2$ | $0,3$ | $0,35$ | $0,4$ | $0,45$ | $0,45$ | $0,55$ |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Price, in rands, of diamond ($y$) | $4\ 000$ | $6\ 000$ | $6\ 500$ | $8\ 400$ | $9\ 000$ | $10\ 000$ | $13\ 440$ | $15\ 120$ | $16\ 800$ | $18\ 480$ |
+
+[DIAGRAM: A scatter plot titled SCATTER PLOT with Size, in carats, of diamond on the horizontal axis ($0$ to $0,6$) and Price, in rands, of diamond on the vertical axis ($0$ to $20\ 000$). Ten plotted points show an upward trend along with a straight regression line.]
+
+2.1 Determine the equation of the least squares regression line for the data. $(3)$
+
+2.2 If the trader sold a diamond that was $0,25$ carats in size, predict the selling price of this diamond in rands. $(2)$
+
+2.3 Calculate the average price increase per $0,05$ carat of the diamonds. $(2)$
+
+2.4 It was later found that the selling price of the $0,35$ carat diamond was recorded incorrectly. The correct price is $\text{R}11\ 500$. When this correction is made to the data set, the correlation between the size and price of these diamonds gets stronger. Explain the reason for this by referring to the given scatter plot. $(1)$  
+**[8]**
+
+---
+
+## QUESTION 3
+
+In the diagram, $A(5; 3)$, $B\left(0; \frac{1}{2}\right)$, $C$ and $E(6; -4)$ are the vertices of a trapezium having $BA \parallel CE$. $D$ is the $y$-intercept of $CE$ and $CD = DE$.
+
+[DIAGRAM: A Cartesian plane showing trapezium ABCE with vertices $A(5; 3)$, $B\left(0; \frac{1}{2}\right)$, $E(6; -4)$, $C$, and $D$ as the $y$-intercept of line $CE$. $BA \parallel CE$ and $CD = DE$.]
+
+3.1 Calculate the gradient of $AB$. $(2)$
+
+3.2 Determine the equation of $CE$ in the form $y = mx + c$. $(3)$
+
+3.3 Calculate the:
+
+3.3.1 Coordinates of $C$ $(3)$
+
+3.3.2 Area of quadrilateral $ABCD$ $(4)$
+
+3.4 If point $K$ is the reflection of $E$ in the $y$-axis:
+
+3.4.1 Write down the coordinates of $K$ $(2)$
+
+3.4.2 Calculate the:  
+(a) Perimeter of $\Delta KEC$ $(4)$  
+(b) Size of $K\hat{C}E$ $(3)$  
+**[21]**
+
+---
+
+## QUESTION 4
+
+In the diagram, the circle centred at $M(a; b)$ is drawn. $T$ and $R(6; 0)$ are the $x$-intercepts of the circle. A tangent is drawn to the circle at $K(5; 7)$.
+
+[DIAGRAM: A circle centred at $M(a; b)$ with $x$-intercepts $T$ and $R(6; 0)$, tangent at $K(5; 7)$, and line $M$ on the line $y = x + 1$.]
+
+4.1 $M$ is a point on the line $y = x + 1$.
+
+4.1.1 Write $b$ in terms of $a$. $(1)$
+
+4.1.2 Calculate the coordinates of $M$. $(5)$
+
+4.2 If the coordinates of $M$ are $(2; 3)$, calculate the length of:
+
+4.2.1 The radius of the circle $(2)$
+
+4.2.2 $TR$ $(2)$
+
+4.3 Determine the equation of the tangent to the circle at $K$. Write your answer in the form $y = mx + c$. $(5)$
+
+4.4 A horizontal line is drawn as a tangent to the circle $M$ at the point $N(c; d)$, where $d < 0$.
+
+4.4.1 Write down the coordinates of $N$. $(2)$
+
+4.4.2 Determine the equation of the circle centred at $N$ and passing through $T$. Write your answer in the form $(x - a)^2 + (y - b)^2 = r^2$. $(3)$  
+**[20]**
+
+---
+
+## QUESTION 5
+
+5.1 In the diagram below, $P(-7; 4)$ is a point in the Cartesian plane. $R$ is a point on the positive $x$-axis such that obtuse $P\hat{O}R = \theta$.
+
+[DIAGRAM: Cartesian plane showing point $P(-7; 4)$ in the second quadrant, angle $\theta = P\hat{O}R$, and $R$ on the positive $x$-axis.]
+
+Calculate, without using a calculator, the:
+
+5.1.1 Length $OP$ $(2)$
+
+5.1.2 Value of:  
+(a) $\tan\theta$ $(1)$  
+(b) $\cos(\theta - 180^\circ)$ $(2)$
+
+5.2 Determine the general solution of: $\sin x\cos x + \sin x = 3\cos^2 x + 3\cos x$ $(7)$
+
+5.3 Given the identity: $\frac{\sin 3x}{1 - \cos 3x} = \frac{1 + \cos 3x}{\sin 3x}$
+
+5.3.1 Prove the identity given above. $(3)$
+
+5.3.2 Determine the values of $x$, in the interval $x \in [0^\circ; 60^\circ]$, for which the identity will be undefined. $(3)$  
+**[18]**
+
+---
+
+## QUESTION 6
+
+6.1 Without using a calculator, simplify the following expression to a single trigonometric term:
+$$\frac{\sin 10^\circ}{\cos 440^\circ} + \tan(360^\circ - \theta) \cdot \sin 2\theta$$ $(6)$
+
+6.2 Given: $\sin(60^\circ + 2x) + \sin(60^\circ - 2x)$
+
+6.2.1 Calculate the value of $k$ if $\sin(60^\circ + 2x) + \sin(60^\circ - 2x) = k\cos 2x$. $(3)$
+
+6.2.2 If $\cos x = \sqrt{t}$, without using a calculator, determine the value of $\tan 60^\circ [\sin(60^\circ + 2x) + \sin(60^\circ - 2x)]$ in terms of $t$. $(3)$  
+**[12]**
+
+---
+
+## QUESTION 7
+
+In the diagram below, the graphs of $f(x) = \frac{1}{2}\cos x$ and $g(x) = \sin(x - 30^\circ)$ are drawn for the interval $x \in [-90^\circ; 240^\circ]$. $A$ and $B$ are the $y$-intercepts of $f$ and $g$ respectively.
+
+[DIAGRAM: Graphs of $f(x) = \frac{1}{2}\cos x$ and $g(x) = \sin(x - 30^\circ)$ for $x \in [-90^\circ; 240^\circ]$. $A$ is the $y$-intercept of $f$ and $B$ is the $y$-intercept of $g$.]
+
+7.1 Determine the length of $AB$. $(2)$
+
+7.2 Write down the range of $3f(x) + 2$. $(2)$
+
+7.3 Read off from the graphs a value of $x$ for which $g(x) - f(x) = \frac{\sqrt{3}}{2}$. $(2)$
+
+7.4 For which values of $x$, in the interval $x \in [-90^\circ; 240^\circ]$, will:
+
+7.4.1 $f(x) \cdot g(x) > 0$ $(2)$
+
+7.4.2 $g'(x - 5^\circ) > 0$ $(2)$  
+**[10]**
+
+---
+
+## QUESTION 8
+
+FIGURE I shows a ramp leading to the entrance of a building. $B$, $C$ and $D$ lie on the same horizontal plane. The perpendicular height ($AC$) of the ramp is $0,5\text{ m}$ and the angle of elevation from $B$ to $A$ is $15^\circ$. The entrance of the building ($AE$) is $0,915\text{ m}$ wide.
+
+[DIAGRAMS: FIGURE I shows a 3D view of the ramp with height $AC = 0,5\text{ m}$, angle of elevation $15^\circ$ at $B$, and entrance width $AE = 0,915\text{ m}$. FIGURE II shows the top view with $B\hat{A}E = 120^\circ$, $B\hat{F}D = 75^\circ$, and equal lengths marked.]
+
+8.1 Calculate the length of $AB$. $(2)$
+
+8.2 Figure II shows the top view of the ramp. The area of the top of the ramp is divided into three triangles, as shown in the diagram.
+
+If $B\hat{A}E = 120^\circ$, calculate the length of $BE$. $(3)$
+
+8.3 Calculate the area of $\Delta BFD$ if $B\hat{F}D = 75^\circ$, $BF = FD$ and $BF = \frac{5}{7}BE$. $(3)$  
+**[8]**
+
+---
+
+## QUESTION 9
+
+9.1 In the diagram, $DEFG$ is a cyclic quadrilateral with $DE \parallel GF$. $DE$ is produced to $R$. $T$ is another point on the circle. $EG$, $FT$ and $ET$ are drawn. $\hat{E}_4 = 72^\circ$ and $\hat{G}_1 = 16^\circ$.
+
+[DIAGRAM: Cyclic quadrilateral $DEFG$ with $DE \parallel GF$. $DE$ produced to $R$. $T$ is on the circle. $EG$, $FT$, $ET$ drawn. $\hat{E}_4 = 72^\circ$, $\hat{G}_1 = 16^\circ$.]
+
+Determine, with reasons, the size of the following angles:
+
+9.1.1 $D\hat{G}F$ $(2)$
+
+9.1.2 $\hat{T}$ $(2)$
+
+9.1.3 $G\hat{E}F$ $(2)$
+
+---
+
+9.2 In the diagram, the diagonals of parallelogram $KLMN$ intersect at $P$. $NM$ is produced to $S$. $R$ is a point on $KL$ and $RS$ cuts $PL$ at $T$. $NM : MS = 4 : 1$, $NL = 32$ units and $TL = 12$ units.
+
+[DIAGRAM: Parallelogram $KLMN$ with diagonals intersecting at $P$. $NM$ produced to $S$. $R$ on $KL$, $RS$ cuts $PL$ at $T$. $NM : MS = 4 : 1$, $NL = 32$, $TL = 12$.]
+
+9.2.1 Determine, with reasons, the value of the ratio $NP : PT$ in simplest form. $(4)$
+
+9.2.2 Prove, with reasons, that $KM \parallel RS$. $(2)$
+
+9.2.3 If $NM = 21$ units, determine, with reasons, the length of $RL$. $(4)$  
+**[16]**
+
+---
+
+## QUESTION 10
+
+10.1 In the diagram, $\Delta ABC$ and $\Delta DEF$ are drawn such that $\hat{A} = \hat{D}$, $\hat{B} = \hat{E}$ and $\hat{C} = \hat{F}$.
+
+[DIAGRAM: Two triangles $\Delta ABC$ and $\Delta DEF$ with corresponding angles marked equal.]
+
+Use the diagram in the ANSWER BOOK to prove the theorem which states that if two triangles are equiangular, then the corresponding sides are in proportion, i.e. $\frac{AB}{DE} = \frac{AC}{DF}$. $(6)$
+
+---
+
+10.2 In the diagram, $O$ is the centre of a circle passing through $A$, $B$, $C$ and $D$. $EC$ is a tangent to the circle at $C$. Diameter $DB$ produced meets tangent $EC$ at $E$. $F$ is a point on $EC$ such that $BF \perp EC$. Radius $CO$ produced bisects $AD$ at $G$. $BC$ and $CD$ are drawn.
+
+[DIAGRAM: Circle with centre $O$ passing through $A, B, C, D$. Tangent $EC$ at $C$. Diameter $DB$ produced to $E$. $BF \perp EC$ at $F$. Radius $CO$ produced bisects $AD$ at $G$. $BC$ and $CD$ drawn.]
+
+10.2.1 Prove, with reasons, that:
+
+(a) $FB \parallel CG$ $(3)$
+
+(b) $\Delta FCB \parallel\parallel\parallel \Delta CDB$ $(5)$
+
+10.2.2 Give a reason why $\hat{G}_1 = 90^\circ$. $(1)$
+
+10.2.3 Prove, with reasons, that $CD^2 = CG \cdot DB$. $(5)$
+
+10.2.4 Hence, prove that $DB = CG + FB$. $(5)$  
+**[25]**
+
+**TOTAL: 150**
+
+---
+
+## INFORMATION SHEET: MATHEMATICS
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni) \quad A = P(1 - ni) \quad A = P(1 - i)^n \quad A = P(1 + i)^n$$
+
+$$T_n = a + (n - 1)d \quad S_n = \frac{n}{2}[2a + (n - 1)d]$$
+
+$$T_n = ar^{n-1} \quad S_n = \frac{a(r^n - 1)}{r - 1} \quad (r \neq 1) \quad S_\infty = \frac{a}{1 - r} \quad (-1 < r < 1)$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i} \quad P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} \quad M\left(\frac{x_1 + x_2}{2}; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c \quad y - y_1 = m(x - x_1) \quad m = \frac{y_2 - y_1}{x_2 - x_1} \quad m = \tan\theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+$$\text{In }\Delta ABC: \frac{\sin A}{a} = \frac{\sin B}{b} = \frac{\sin C}{c}$$
+
+$$a^2 = b^2 + c^2 - 2bc\cos A$$
+
+$$\text{Area } \Delta ABC = \frac{1}{2}ab\sin C$$
+
+$$\sin(\alpha + \beta) = \sin\alpha\cos\beta + \cos\alpha\sin\beta \quad \sin(\alpha - \beta) = \sin\alpha\cos\beta - \cos\alpha\sin\beta$$
+
+$$\cos(\alpha + \beta) = \cos\alpha\cos\beta - \sin\alpha\sin\beta \quad \cos(\alpha - \beta) = \cos\alpha\cos\beta + \sin\alpha\sin\beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2\alpha - \sin^2\alpha \\ 1 - 2\sin^2\alpha \\ 2\cos^2\alpha - 1 \end{cases} \quad \sin 2\alpha = 2\sin\alpha\cos\alpha$$
+
+$$\bar{x} = \frac{\sum x}{n} \quad \sigma^2 = \frac{\sum_{i=1}^n(x_i - \bar{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)} \quad P(A \text{ or } B) = P(A) + P(B) - P(A \text{ and } B)$$
+
+$$\hat{y} = a + bx \quad b = \frac{\sum(x - \bar{x})(y - \bar{y})}{\sum(x - \bar{x})^2}$$

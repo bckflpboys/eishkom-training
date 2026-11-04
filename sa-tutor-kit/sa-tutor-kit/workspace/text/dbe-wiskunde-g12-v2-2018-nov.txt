@@ -1,0 +1,318 @@
+**NASIONALE SENIOR SERTIFIKAAT**
+**GRAAD 12**
+
+**WISKUNDE V2**
+**NOVEMBER 2018**
+
+**PUNTE: 150**
+**TYD: 3 uur**
+
+---
+
+### INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies aandagtig deur voordat die vraestel beantwoord word.
+
+1. Hierdie vraestel bestaan uit 10 vrae.
+2. Beantwoord AL die vrae in die SPESIALE ANTWOORDEBOEK wat verskaf word.
+3. Dui ALLE berekeninge, diagramme, grafieke, ens. wat jy gebruik in die beantwoording van die vray, duidelik aan.
+4. Slegs antwoorde sal NIE noodwendig volpunte verdien NIE.
+5. Jy kan 'n goedgekeurde wetenskaplike sakrekenaar gebruik (nieprogrammeerbaar en niegrafies), tensy anders vermeld.
+6. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders gemeld.
+7. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+8. 'n Inligtingsblad met formules is aan die einde van die vraestel ingesluit.
+9. Skryf netjies en leesbaar.
+
+---
+
+### VRAAG 1
+
+1.1 Die kumulatiewefrekwensie-grafiek (ogief) hieronder toon die totale aantal geregte wat oor 'n tydperk van 1 uur vanaf 'n spyskaart bestel is.
+
+[DIAGRAM: Cumulative frequency graph (ogive) showing total number of dishes ordered from a menu over 1 hour. The horizontal axis represents "Aantal minute" from 0 to 60 with intervals of 10. The vertical axis represents "Kumulatiewe frekwensie van geregte vanaf 'n spyskaart bestel" from 0 to 140 with intervals of 10. Plotted points include approximately (10, 12), (30, 78), (40, 115), (50, 136), (60, 140).]
+
+```
+KUMULATIEWEFREKWENSIE-GRAFIEK (OGIEF)
+```
+
+1.1.1 Skryf die totale aantal voedselitems neer wat gedurende hierdie uur vanaf die spyskaart bestel is. (1)
+
+1.1.2 Skryf die modale klas van die data neer. (1)
+
+1.1.3 Hoe lank het dit geneem om die eerste 30 voedselitems te bestel? (1)
+
+1.1.4 Hoeveel voedselitems is in die laaste 15 minute bestel? (2)
+
+1.1.5 Bepaal die $75^{\text{ste}}$ persentiel van die data. (2)
+
+1.1.6 Bereken die interkwartielvariasiewydte(-omvang) van die data. (2)
+
+1.2 Reggie werk deeltyds as 'n kelner by 'n plaaslike restaurant. Die bedrag geld (in rand) wat hy oor 'n tydperk van 15 dae met fooitjies ('tips') gemaak het, word hieronder gegee.
+
+$$\begin{array}{|c|c|c|c|c|}
+\hline
+35 & 70 & 75 & 80 & 80 \\ \hline
+90 & 100 & 100 & 105 & 105 \\ \hline
+110 & 110 & 115 & 120 & 125 \\ \hline
+\end{array}$$
+
+1.2.1 Bereken:
+(a) Die gemiddeld van die data (2)
+(b) Die standaardafwyking van die data (2)
+
+1.2.2 Marie werk ook deeltyds as 'n kelnerin by dieselfde restaurant. Oor dieselfde 15 dag-tydperk het Mary dieselfde gemiddelde bedrag met fooitjies ingesamel, maar haar standaardafwyking was R14.
+
+Gebruik die beskikbare inligting en lewer kommentaar op die:
+(a) Totale bedrag in fooitjies wat ELKEAN van hulle oor die 15 dag-tydperk ingesamel het (1)
+(b) Spreiding wat ELKEAN van hulle met daaglikse fooitjies oor hierdie tydperk ontvang het (1)
+[15]
+
+---
+
+### VRAAG 2
+
+'n Bekende vraag onder professionele tennisspelers is of die spoed van 'n tennisaflsaan (in $\text{km/h}$) van die lengte van 'n speler (in meter) afhang. Die lengtes van 21 tennisspelers en die gemiddelde spoed van hulle afslane is tydens 'n toernooi aangeteken. Die data word in die spreidiagram hieronder voorgestel. Die kleinstekwadrate-regressielyn is ook getrek.
+
+[DIAGRAM: Scatter plot titled SPREIDIAGRAM. Horizontal axis represents "Lengte van 'n speler (in meter)" from 1.8 to 2.1. Vertical axis represents "Gemiddelde afstaanpoed (in km/h)" from 205 to 255. A least-squares regression line has a positive slope.]
+
+2.1 Skryf die vinnigste gemiddelde afslaanspoed (in $\text{km/h}$) wat in hierdie toernooi bereik is, neer. (1)
+
+2.2 Beskou die volgende korrelasiekoëffisiënte:
+A. $r = 0,93$
+B. $r = -0,42$
+C. $r = 0,52$
+
+2.2.1 Watter EEN van die korrelasiekoëffisiënte gegee, pas die beste by die geplotte data? (1)
+
+2.2.2 Gebruik die spreidiagram en kleinstekwadrate-regressielyn om jou antwoord op VRAAG 2.2.1 te motiveer. (1)
+
+2.3 Waarop dui die data ten opsigte van die spoed van 'n tennisaflsaan (in $\text{km/h}$) en die lengte van 'n speler (in meter)? (1)
+
+2.4 Die vergelyking van die regressielyn word as $\hat{y} = 27,07 + bx$ gegee. Verduidelik waarom, in hierdie konteks, die kleinstekwadrate-regressielyn NIE die $y$-as by $(0; 27,07)$ kan sny NIE. (1)
+[5]
+
+---
+
+### VRAAG 3
+
+In die diagram is $K(-1; 2)$, $L$ en $N(1; -1)$ hoekpunte van $\Delta KLN$ sodat $L\hat{K}N = 78,69^{\circ}$. $KL$ sny die $x$-as by $P$. $KL$ word verleng. Die inklinasie van $KN$ is $\theta$. Die koördinate van $M$ is $(-3; -5)$.
+
+[DIAGRAM: Cartesian plane showing triangle KLN with vertices $K(-1; 2)$, $N(1; -1)$ and point $L$ in the third quadrant. $KL$ intersects the $x$-axis at $P$. Line $KN$ has inclination $\theta$ with the positive $x$-axis. $L\hat{K}N = 78,69^{\circ}$. Point $M(-3; -5)$ is given below.]
+
+3.1 Bereken:
+3.1.1 Die gradiënt van $KN$ (2)
+3.1.2 Die grootte van $\theta$, die inklinasie van $KN$ (2)
+
+3.2 Toon dat die gradiënt van $KL$ gelyk is aan $1$. (2)
+
+3.3 Bepaal die vergelyking van die reguitlyn $KL$ in die vorm $y = mx + c$. (2)
+
+3.4 Bereken die lengte van $KN$. (2)
+
+3.5 Daar word verder gegee dat $KN = LM$.
+3.5.1 Bereken die moontlike koördinate van $L$. (5)
+3.5.2 Bepaal die koördinate van $L$ as gegee word dat $KLMN$ 'n parallellogram is. (3)
+
+3.6 $T$ is 'n punt op $KL$ verleng. $TM$ word so getrek dat $TM = LM$. Bereken die oppervlakte van $\Delta KTN$. (4)
+[22]
+
+---
+
+### VRAAG 4
+
+In die diagram is $(x-3)^2 + (y-1)^2 = r^2$ die vergelyking van die sirkel met middelpunt $F$. $S(6; 5)$ is 'n punt op die sirkel met middelpunt $F$. 'n Ander sirkel met middelpunt $G(m; n)$ in die $4^{\text{de}}$ kwadrant raak die sirkel met middelpunt $F$, by $H$ sodat $FH : HG = 1 : 2$. Die punt $J$ lê in die eerste kwadrant sodat $HJ$ 'n gemeenskaplike raaklyn aan beide hierdie sirkels is. $JK$ is 'n raaklyn aan die groter sirkel by $K$.
+
+[DIAGRAM: Two circles touching externally at point $H$. Circle $F$ with center $F(3,1)$ passes through $S(6,5)$. Circle $G$ with center $G(m,n)$ in the fourth quadrant. Common tangent $HJ$. Tangent $JK$ to the larger circle at $K$. Origin $O$.]
+
+4.1 Skryf die koördinate van $F$ neer. (2)
+
+4.2 Bereken die lengte van $FS$. (2)
+
+4.3 Skryf die lengte van $HG$ neer. (1)
+
+4.4 Gee 'n rede waarom $JH = JK$. (1)
+
+4.5 Bepaal:
+4.5.1 Die afstand $FJ$, met redes, as gegee word dat $JK = 20$ (4)
+4.5.2 Die vergelyking van die sirkel met middelpunt $G$ in terme van $m$ en $n$ in die vorm $(x-a)^2 + (y-b)^2 = r^2$ (1)
+4.5.3 Die koördinate van $G$, indien verder gegee word dat die vergelyking van die raaklyn $JK$ aan $x = 22$ (7)
+[18]
+
+---
+
+### VRAAG 5
+
+5.1 In die diagram is $P(k; 1)$ 'n punt in die $2^{\text{de}}$ kwadrant en is $\sqrt{5}$ eenhede vanaf die oorsprong. $R$ is 'n punt op die positiewe $x$-as en stomphoek $R\hat{O}P = \theta$.
+
+[DIAGRAM: Cartesian plane showing point $P(k; 1)$ in the second quadrant. Distance from origin $O$ to $P$ is $\sqrt{5}$. $R$ is on the positive $x$-axis. Angle $R\hat{O}P = \theta$.]
+
+5.1.1 Bereken die waarde van $k$. (2)
+
+5.1.2 Sonder om 'n sakrekenaar te gebruik, bereken die waarde van:
+(a) $\tan \theta$ (1)
+(b) $\cos(180^{\circ} + \theta)$ (2)
+(c) $\sin(\theta + 60^{\circ})$ in die vorm $\frac{a + b}{\sqrt{20}}$ (5)
+
+5.1.3 Gebruik 'n sakrekenaar om die waarde van $\tan(2\theta - 40^{\circ})$ korrek tot EEN desimale plek te bereken. (3)
+
+5.2 Bewys die volgende identiteit:
+$$\frac{\cos x + \sin x}{\cos x - \sin x} - \frac{\cos x - \sin x}{\cos x + \sin x} = 2 \tan 2x$$ (5)
+
+5.3 Evalueer, sonder om 'n sakrekenaar te gebruik:
+$$\sum_{A=38^{\circ}}^{52^{\circ}} \cos^2 A$$ (5)
+[23]
+
+---
+
+### VRAAG 6
+
+Beskou: $f(x) = -2 \tan \frac{3}{2}x$
+
+6.1 Skryf die periode van $f$ neer. (1)
+
+6.2 Die punt $A(t; 2)$ lê op die grafiek. Bepaal die algemene oplossing van $t$. (3)
+
+6.3 Op die rooster wat in die ANTWOORDEBOEK verskaf is, skets die grafiek van $f$ vir die interval $x \in [-120^{\circ}; 180^{\circ}]$. Toon duidelik ALLE asimptote, afsnitte met die asse en eindpunt(e) van die grafiek aan. (4)
+
+6.4 Gebruik die grafiek om te bepaal vir watter waarde(s) van $x$ is $f(x) \geq 2$ vir $x \in [-120^{\circ}; 180^{\circ}]$. (3)
+
+6.5 Beskryf die transformasie van grafiek $f$ om die grafiek van $g(x) = -2 \tan \left(\frac{3}{2}x + 60^{\circ}\right)$ te vorm. (2)
+[13]
+
+---
+
+### VRAAG 7
+
+'n Loods vlieg in 'n helikopter. By punt $A$, wat $h$ meter direk bokant punt $D$ op die grond is, neem hy 'n vreemde voorwerp by punt $B$ waar. Die loods bepaal dat die dieptehoek vanaf $A$ na $B$, $30^{\circ}$ is. Hy bepaal ook dat die kontrolekamer by punt $C$, $3h$ meter vanaf $A$ is en dat $B\hat{A}C = 2x$. Punte $B$, $C$ en $D$ is in dieselfde horisontale vlak. Hierdie scenario word in die diagram hieronder getoon.
+
+[DIAGRAM: 3D diagram showing helicopter at point $A$ directly above point $D$ on the ground. Point $B$ on the left and control room at point $C$ on the right. Angle of depression from $A$ to $B$ is $30^{\circ}$ (or angle of elevation from $B$ to $A$ is $30^{\circ}$). $AD = h$, $AC = 3h$, $B\hat{A}C = 2x$.]
+
+7.1 Bepaal die afstand $AB$ in terme van $h$. (2)
+
+7.2 Toon dat die afstand tussen die vreemde voorwerp by punt $B$ en die kontrolekamer by punt $C$ deur $BC = h\sqrt{25 - 24\cos^2 x}$ gegee word. (4)
+[6]
+
+---
+
+### VRAAG 8
+
+8.1 $PON$ is 'n middellyn van die sirkel met middelpunt $O$. $TM$ is 'n raaklyn aan die sirkel by $M$, 'n punt op die sirkel. $R$ is 'n ander punt op die sirkel sodat $OR \parallel PM$. $NR$ en $MN$ is getrek. Laat $\hat{M}_1 = 66^{\circ}$.
+
+[DIAGRAM: Circle with diameter $PON$ and center $O$. Tangent $TM$ at point $M$. Point $R$ on the circle such that $OR \parallel PM$. Chords $NR$ and $MN$ are drawn. $\hat{M}_1 = 66^{\circ}$. Angles marked include $\hat{M}_1$, $\hat{M}_2$, $\hat{N}_1$, $\hat{N}_2$, $\hat{O}_1$, $\hat{O}_2$.]
+
+Bereken, met redes, die grootte van ELK van die volgende hoeke:
+
+8.1.1 $\hat{P}$ (2)
+
+8.1.2 $\hat{M}_2$ (2)
+
+8.1.3 $\hat{N}_1$ (1)
+
+8.1.4 $\hat{O}_2$ (2)
+
+8.1.5 $\hat{N}_2$ (3)
+
+8.2 In die diagram is $\Delta AGH$ geskets. $F$ en $C$ is punte op $AG$ en $AH$ onderskeidelik sodat $AF = 20$ eenhede, $FG = 15$ eenhede en $CH = 21$ eenhede. $D$ is 'n punt op $FC$ sodat $ABCD$ 'n reghoek is met $AB$, ook ewewydig aan $GH$. Die hoeklyne van $ABCD$ sny by $M$, 'n punt op $AH$.
+
+[DIAGRAM: Triangle $AGH$. Points $F$ on $AG$ and $C$ on $AH$. $AF = 20$, $FG = 15$, $CH = 21$. Rectangle $ABCD$ inside $\Delta AGH$ with $AB \parallel GH$. Diagonals of $ABCD$ intersect at $M$ on $AH$.]
+
+8.2.1 Verduidelik waarom $FC \parallel GH$. (1)
+
+8.2.2 Bereken, met redes, die lengte van $DM$. (5)
+[16]
+
+---
+
+### VRAAG 9
+
+9.1 In die diagram is $JKLM$ 'n koordevierhoek en die sirkel het middelpunt $O$. Bewys die stelling wat bewys dat $\hat{J} + \hat{L} = 180^{\circ}$.
+
+[DIAGRAM: Cyclic quadrilateral $JKLM$ inscribed in a circle with center $O$.]
+
+9.2 In die diagram word 'n kleiner sirkel $ABTS$ en 'n groter sirkel $BDRT$ gegee. $BT$ is 'n gemeenskaplike koord. Reguitlyne $STD$ en $ATR$ is getrek. Koorde $AS$ en $DR$ word verleng om mekaar in $C$, 'n punt buite die twee sirkels, te sny. $BS$ en $BD$ is getrek. $\hat{A} = x$ en $\hat{R}_1 = y$.
+
+[DIAGRAM: Two intersecting circles $ABTS$ and $BDRT$ sharing common chord $BT$. Secants $STD$ and $ATR$. Chords $AS$ and $DR$ extended to meet at $C$. Chords $BS$ and $BD$ drawn. $\hat{A} = x$, $\hat{R}_1 = y$.]
+
+9.2.1 Noem, met 'n rede, 'n ander hoek gelyk aan:
+(a) $x$ (2)
+(b) $y$ (2)
+
+9.2.2 Bewys dat $SCDB$ 'n koordevierhoek is. (3)
+
+9.2.3 Daar word verder gegee dat $\hat{D}_2 = 30^{\circ}$ en $A\hat{S}T = 100^{\circ}$. Bewys dat $SD$ nie 'n middellyn van sirkel $BDS$ is nie. (4)
+[16]
+
+---
+
+### VRAAG 10
+
+In die diagram is $ABCD$ 'n koordevierhoek met $AC \perp CB$ en $DC = CB$. $AD$ is verleng na $M$ sodat $AM \perp MC$. Laat $\hat{B} = x$.
+
+[DIAGRAM: Cyclic quadrilateral $ABCD$ with $AC \perp CB$ and $DC = CB$. $AD$ extended to $M$ such that $AM \perp MC$. $\hat{B} = x$.]
+
+10.1 Bewys dat:
+10.1.1 $MC$ 'n raaklyn aan die sirkel by $C$ is (5)
+10.1.2 $\Delta ACB \parallel\parallel\parallel \Delta CMD$ (3)
+
+10.2 Bewys vervolgens, of andersins, dat:
+10.2.1 $\frac{CM^2}{DC^2} = \frac{AM}{AB}$ (6)
+10.2.2 $\frac{AM}{AB} = \sin^2 x$ (2)
+[16]
+
+**TOTAAL: 150**
+
+---
+
+### INLIGTINGSBLAD: WISKUNDE
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni)$$
+$$A = P(1 - ni)$$
+$$A = P(1 - i)^n$$
+$$A = P(1 + i)^n$$
+
+$$T_n = a + (n-1)d$$
+$$S_n = \frac{n}{2}[2a + (n-1)d]$$
+
+$$T_n = ar^{n-1}$$
+$$S_n = \frac{a(r^n - 1)}{r - 1} \quad (r \neq 1)$$
+$$S_{\infty} = \frac{a}{1 - r} \quad (-1 < r < 1)$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i}$$
+$$P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$
+$$M\left(\frac{x_1 + x_2}{2}; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c$$
+$$y - y_1 = m(x - x_1)$$
+$$m = \frac{y_2 - y_1}{x_2 - x_1}$$
+$$m = \tan \theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+In $\Delta ABC$:
+$$\frac{\sin A}{a} = \frac{\sin B}{b} = \frac{\sin C}{c}$$
+$$a^2 = b^2 + c^2 - 2bc \cos A$$
+$$\text{area } \Delta ABC = \frac{1}{2}ab \sin C$$
+
+$$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta$$
+$$\sin(\alpha - \beta) = \sin \alpha \cos \beta - \cos \alpha \sin \beta$$
+$$\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta$$
+$$\cos(\alpha - \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2 \alpha - \sin^2 \alpha \\ 1 - 2\sin^2 \alpha \\ 2\cos^2 \alpha - 1 \end{cases}$$
+
+$$\sin 2\alpha = 2 \sin \alpha \cos \alpha$$
+
+$$\bar{x} = \frac{\sum x}{n}$$
+$$\sigma^2 = \frac{\sum_{i=1}^n (x_i - \bar{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)}$$
+$$P(A \text{ of } B) = P(A) + P(B) - P(A \text{ en } B)$$
+
+$$\hat{y} = a + bx$$
+$$b = \frac{\sum (x - \bar{x})(y - \bar{y})}{\sum (x - \bar{x})^2}$$

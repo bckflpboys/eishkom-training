@@ -1,0 +1,811 @@
+=== page 1 ===
+Copyright reserved  Please turn over
+
+MARKS:  150
+
+TIME:  2 hours
+
+This question paper consists of 17 pages, 2 data sheets and 1 answer sheet.
+
+GRADE 10
+PHYSICAL SCIENCES:  PHYSICS (P1)
+
+NOVEMBER 2018
+NATIONAL
+SENIOR CERTIFICATE
+
+=== page 2 ===
+Physical Sciences/P1 2 DBE/November 2018
+ CAPS – Grade 10
+Copyright reserved  Please turn over
+
+INSTRUCTIONS AND INFORMATION
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+Write your name and class ( e.g. 10A) in the appropriate spaces on the
+ANSWER BOOK.
+
+This question paper consists of 11 questions. Answer ALL t he questions in
+the ANSWER BOOK.
+
+Hand in the ANSWER SHEET with the ANSWER BOOK.
+
+Start EACH question on a NEW page in the ANSWER BOOK.
+
+Number the answers correctly according to the numbering system used in this
+question paper.
+
+Leave ONE line between two subquestions, e.g. between QUESTION 2.1 and
+QUESTION 2.2.
+
+You may use a non-programmable calculator.
+
+You may use appropriate mathematical instruments.
+
+You are advised to use the attached DATA SHEETS.
+
+Show ALL formulae and substitutions in ALL calculations.
+
+Round off your final numerical answers to a minimum of TWO decimal places.
+
+Give brief motivations, discussions, etc. where required.
+
+Write neatly and legibly.
+
+=== page 3 ===
+Physical Sciences/P1 3 DBE/November 2018
+ CAPS – Grade 10
+Copyright reserved  Please turn over
+
+QUESTION 1:  MULTIPLE-CHOICE QUESTIONS
+
+Various options are provided as possible answers to the following questions. Each
+question has only ONE correct answer. Choose the answer and write only the letter
+(A–D) next to the question numbers (1.1 to 1.10) in the ANSWER BOOK, e.g. 1.11 D.
+
+1.1 An object is positively charged if it has more …
+
+A electrons than protons.
+
+B electrons than neutrons.
+
+C protons than electrons.
+
+D protons than neutrons.     (2)
+
+1.2 A car is travelling at a speed of 30 m·s-1 on a straight road. What would be the
+speed of the car in km∙h-1?
+
+A
+
+8,33 km∙h-1
+
+B
+
+30 km∙h-1
+
+C
+
+108 km∙h-1
+
+D
+
+130 km∙h-1     (2)
+
+1.3 The UNIT in which the rate of flow of charge is measured, is called …
+
+ A ampere.
+
+ B coulomb.
+
+ C volt.
+
+ D watt.      (2)
+
+1.4 The gradient of a velocity versus time graph is equivalent to the …
+
+ A acceleration.
+
+ B displacement.
+
+ C position.
+
+ D total distance covered.     (2)
+
+=== page 4 ===
+Physical Sciences/P1 4 DBE/November 2018
+ CAPS – Grade 10
+Copyright reserved  Please turn over
+
+1.5 An object  is released from the top of a frictionless inclined plane , AB, as
+shown below.
+
+ Which ONE of the following statements regarding the total mechanical energy
+of the object is CORRECT?
+
+A
+
+(Ep + Ek)A > (Ep + Ek)B
+
+B
+
+(Ep + Ek)A < (Ep + Ek)B
+
+C
+
+(Ep + Ek)A = (Ep + Ek)B
+
+D
+
+(Ep + Ek)A = - (Ep + Ek)B
+
+    (2)
+
+1.6 Two identical light bulbs are connected in parallel, as shown i n the circuit
+diagram below. Voltmeters V1 and V2 are connected across each light bulb.
+
+ Which ONE of the following voltmeter readings is CORRECT?
+
+ A V1 = V2
+
+B
+
+V1 = 2V2
+
+C
+
+V1 = ½V2
+
+D
+
+V1 = ¼V2
+
+    (2)
+
+A
+B
+V1
+V2
+
+=== page 5 ===
+Physical Sciences/P1 5 DBE/November 2018
+ CAPS – Grade 10
+Copyright reserved  Please turn over
+
+1.7 Four identical balloons, each carrying a charge, are suspended from a ceiling,
+as shown in the diagram below.
+
+Balloon B is negatively charged.
+
+ Which combination is CORRECT regarding the charges on the balloons?
+
+ SIGN OF CHARGE
+ON A
+SIGN OF CHARGE
+ON C
+SIGN OF CHARGE
+ON D
+
+A
+B
+C
+D          (2)
+
+1.8 Two cyclists are cycling in opposite directions along the side line of a
+rectangular field. It is observed that they covered the same distance over a
+time interval of 3 s. Which ONE of the following physical quantities is the
+SAME regarding the cyclists over the interval of 3 s?
+
+A Acceleration
+
+B
+
+Average speed
+
+C
+
+Average velocity
+
+D
+
+Displacement     (2)
+
+1.9 Red light of frequency 𝑓 and wavelength 𝜆 shines on an object. The red light
+is then replaced by light of a higher energy. How do the frequency and the
+wavelength of light shining on the object now compare with that of red light?
+
+  FREQUENCY WAVELENGTH
+ A Greater than 𝑓  Remains the same (𝜆)
+ B Less than 𝑓 Greater than 𝜆
+ C Greater than 𝑓 Less than 𝜆
+ D Remains the same (𝑓) Less than 𝜆      (2)
+
+A
+ B
+ C
+ D
+-
+-
+ -
+-
+-
+-
++
++
+ +
++
++
++
+
+=== page 6 ===
+Physical Sciences/P1 6 DBE/November 2018
+ CAPS – Grade 10
+Copyright reserved  Please turn over
+
+1.10 Study the following wave patterns:
+
+ Which COMBINATION is the CORRECT representation of the wave patterns
+with the same pitch?
+
+ A 1 and 2
+
+ B 1 and 3
+
+ C 1 and 4
+
+ D 2 and 4       (2)
+         [20]
+
+1
+ 2
+3
+ 4
+
+=== page 7 ===
+Physical Sciences/P1 7 DBE/November 2018
+ CAPS – Grade 10
+Copyright reserved  Please turn over
+
+QUESTION 2 (Start on a new page.)
+
+A baby leaves a bowl of food on the floor and crawls westwards to fetch a toy placed 5 m
+away. At the same time a dog walks eastwards towards the baby. It takes the baby 30 s
+to reach the toy. The dog walks past the toy to eat the baby's food in the bowl.
+
+2.1 Define the term displacement in words.     (2)
+
+2.2 Determine the position of the dog relative to the baby before they both moved.     (2)
+
+2.3 Calculate the average velocity of the baby.      (4)
+
+2.4 If the average speed of the dog is TWICE that of the baby, calculate how long
+it would take the dog to reach the food bowl from the moment the dog started
+moving.
+
+    (4)
+      [12]
+
+                 N
+
+    W                       E
+
+                 S
+Dog
+ Toy
+7 m
+ 5 m
+Food bowl
+
+=== page 8 ===
+Physical Sciences/P1 8 DBE/November 2018
+ CAPS – Grade 10
+Copyright reserved  Please turn over
+
+QUESTION 3 (Start on a new page.)
+
+The diagram below shows the positions of an athlete at different time intervals  during a
+race.
+
+t = 0 s 1,5 s 3,0 s  4,5 s  6,0 s 7,5 s
+
+3.1 Distinguish between motion with  uniform velocity  and uniformly accelerated
+motion.
+
+    (4)
+
+3.2 What type of motion ( motion with uniform velocity or uniformly accelerated
+motion) is represented by the following intervals?
+
+3.2.1 A to B     (1)
+
+3.2.2 B to C     (1)
+
+3.3 Use the information in the diagram above to draw an accurate position versus
+time graph on the graph paper on the attached ANSWER SHEET.
+
+    (5)
+
+3.4 Define the term instantaneous velocity in words.     (2)
+
+3.5 On the graph drawn for QUESTION 3.3, show how you would determine the
+instantaneous velocity.
+
+    (2)
+
+3.6 Calculate the velocity of the athlete at 3 s.     (4)
+      [19]
+
+C
+3 m
+ 6 m
+ 12 m
+ 21 m
+0
+ 33 m
+A
+ B
+
+=== page 9 ===
+Physical Sciences/P1 9 DBE/November 2018
+ CAPS – Grade 10
+Copyright reserved  Please turn over
+
+QUESTION 4 (Start on a new page.)
+
+Two cars , A and B, are moving at speeds of 15 m·s -1 and 30 m·s -1 in the same
+direction. They  are side by side when both drivers observe an obstruction ahead of
+them, as shown in the diagram below.
+
+Both drivers apply their brakes and accelerate at –4,5 m·s -2 until both cars come to
+rest. Ignore the reaction time of the drivers.
+
+4.1 Define the term acceleration in words.     (2)
+
+4.2 Calculate the:
+
+ 4.2.1 Time it takes car A to come to rest     (4)
+
+ 4.2.2 Stopping distance of car A     (4)
+
+4.3 Which car (A or B) has the longer stopping distance? Support the answer with
+a calculation.
+
+    (6)
+
+4.4 What conclusion can be made about the relationship between speed and
+stopping distance?
+
+    (2)
+       [18]
+
+Obstruction
+ B
+ A
+15 m·s-1
+30 m·s-1
+
+=== page 10 ===
+Physical Sciences/P1 10 DBE/November 2018
+ CAPS – Grade 10
+Copyright reserved  Please turn over
+4,5 m
+
+A skateboarder, starting from the top of a ramp 4,5 m above the ground , skates down
+the ramp, as shown in the diagram below. The mass of the skateboarder and his board
+is 65 kg. Ignore the effects of friction.
+
+5.1 Define the term gravitational potential energy in words.     (2)
+
+5.2 Calculate the gravitational potential energy of the skater just before he skates
+down the ramp.
+
+    (3)
+
+5.3 State the principle of conservation of mechanical energy in words.      (2)
+
+5.4 Use the principle stated in QUESTION 5.3 to calculate the magnitude of the
+velocity of the skateboarder when he reaches the ground at point X.
+
+    (4)
+
+5.5 Will the skateboarder be able to reach point Y if he were to remain on his
+skateboard? Write YES or NO  and support the answer with  a relevant
+calculation.
+
+    (5)
+      [16]
+
+QUESTION 5 (Start on a new page.)
+6 m
+X
+Y
+
+=== page 11 ===
+Physical Sciences/P1 11 DBE/November 2018
+ CAPS – Grade 10
+Copyright reserved  Please turn over
+
+Study the two transverse waves, P and Q, as shown below.
+
+6.1 Write down ONE difference and ONE similarity between wave P and wave Q.     (2)
+
+6.2 For wave pattern P, write down:
+
+6.2.1 Two points that are out of phase     (1)
+
+6.2.2 The amplitude of the wave     (1)
+
+6.3 Define the term frequency of the wave in words.     (2)
+
+6.4 For wave pattern Q, calculate the:
+
+6.4.1 Frequency of the wave     (3)
+
+6.4.2 Speed of the wave     (3)
+      [12]
+
+QUESTION 6 (Start on a new page.)
+100 mm
+B
+A
+ C
+D
+Position (mm)
+15
+
+10
+
+5
+
+0
+
+-5
+
+-10
+
+-15
+
+Wave P
+Wave Q
+time (s)
+1,5
+ 3,0
+
+=== page 12 ===
+Physical Sciences/P1 12 DBE/November 2018
+ CAPS – Grade 10
+Copyright reserved  Please turn over
+
+They performed the experiment at different temperatures at different times of the day .
+They recorded their findings in the table below.
+
+TEMPERATURE (°C) TIME (s)
+0 0,151
+5 0,150
+10 0,148
+15 0,147
+20 0,146
+25 0,145
+
+7.1 For the investigation, write down the:
+
+ 7.1.1 Investigative question     (2)
+
+ 7.1.2 Independent variable     (1)
+
+ 7.1.3 Dependent variable     (1)
+
+7.2 Calculate the speed of sound at 20 °C.     (3)
+
+7.3 Write down a conclusion for the investigation.      (2)
+
+The person who beat the drum, noticed that the sound reflected back after a while.
+
+7.4 Name the term used to describe the reflection of sound waves.     (1)
+       [10]
+
+QUESTION 7 (Start on a new page.)
+Experiments were done to investigate the effect of temperature on the speed of sound.
+One person beat a drum while another person, who was standing 50 m away from the
+sound source, recorded the time travelled by the sound.
+50 m
+
+=== page 13 ===
+Physical Sciences/P1 13 DBE/November 2018
+ CAPS – Grade 10
+Copyright reserved  Please turn over
+
+The types of electromagnetic radiation are arranged according to frequency in the table
+below.
+
+TYPE OF RADIATION  FREQUENCY (Hz)
+Radio waves 105–1010
+Microwaves 1010–1011
+Infrared 1011–1014
+Visible light 1014–1015
+Ultraviolet 1015–1016
+X-rays 1016–1018
+Gamma rays 1018–1021
+
+8.1 How are electromagnetic waves generated?     (1)
+
+8.2 What type of electromagnetic radiation has the highest energy?     (1)
+
+8.3 Explain the answer to QUESTION 8.2.     (2)
+
+8.4 A certain type of electromagnetic radiation has a wavelength of 600 x 10-10 m.
+
+8.4.1 Identify the type of electromagnetic  radiation by performing a
+calculation.
+
+    (4)
+
+8.4.2 State ONE application of the type of  radiation identified in
+QUESTION 8.4.1.
+
+    (1)
+      [9]
+
+QUESTION 8 (Start on a new page.)
+
+=== page 14 ===
+Physical Sciences/P1 14 DBE/November 2018
+ CAPS – Grade 10
+Copyright reserved  Please turn over
+
+QUESTION 9 (Start on a new page.)
+
+Four metallic bars, suspended freely from a ceiling, interact, as shown in the diagram
+below. The points of attachment of X and Y on the ceiling are 4 cm apart.
+
+The two bars in the middle are bar magnets (X and Y) and the distance between them
+is 5 cm. One of the bars (A or B) is made of iron and the other is made of gold.
+
+9.1 Write down the term describing a material that is easily magnetised.     (1)
+
+9.2 Which ONE of the bars (A or B) is made of iron?     (1)
+
+9.3 Determine the polarity of bar B closest to bar magnet Y. Write only NORTH or
+SOUTH.
+
+    (1)
+
+9.4  Explain the answer to QUESTION 9.3.     (2)
+
+9.5 Sketch the magnetic field pattern around bar magnet X.     (3)
+
+9.6 Bars A and B are now removed and the points of attachment are now 2 cm ,
+as shown in the diagram below.
+
+9.6.1 How will the change in the position of the attachment affect the final
+distance of separation between the bars? Write only  GREATER
+THAN 5 cm, LESS THAN 5 cm or REMAINS at 5 cm.
+
+    (1)
+
+9.6.2 Explain the answer to QUESTION 9.6.1.     (2)
+      [11]
+
+ 4 cm
+5 cm
+B
+A
+N
+X
+ Y
+  X
+ Y
+ 2 cm
+
+=== page 15 ===
+Physical Sciences/P1 15 DBE/November 2018
+ CAPS – Grade 10
+Copyright reserved  Please turn over
+
+QUESTION 10 (Start on a new page.)
+
+Two identical insulated spheres , X and Y, suspended by threads from a ceiling, are
+held at a small distance apart, as shown in the diagram below.
+
+Sphere X carries a charge of + 4 x 10 -18 C, while sphere Y  has an excess of
+30 electrons.
+
+10.1 Calculate the magnitude of the charge on sphere Y.     (3)
+
+The spheres are now released and they move towards each other.
+
+10.2 Give a reason why spheres X and Y move towards each other.     (2)
+
+The spheres are allowed to touch each other. After touching, they move away from
+each other.
+
+10.3 State the principle of conservation of charge in words.     (2)
+
+10.4 Calculate the charge on each sphere after they have separated.     (4)
+      [11]
+
+_
+Y
+
+X
++4 x 10-18 C
+ +
+
+=== page 16 ===
+Physical Sciences/P1 16 DBE/November 2018
+ CAPS – Grade 10
+Copyright reserved  Please turn over
+8 Ω
+8 Ω
+
+V2
+A2
+A3
+V1
+S
+8 Ω
+
+QUESTION 11 (Start on a new page.)
+
+11.1 Consider the circuit diagram below.
+
+Switch S is OPEN.
+
+11.1.1 Write down the reading on the following:
+
+(a) Voltmeter (V1)     (1)
+
+(b) Ammeter (A1)     (1)
+
+Switch S is now CLOSED.
+
+11.1.2 Calculate the equivalent resistance of the circuit.     (4)
+
+11.1.3 Calculate the reading on voltmeter V2.     (3)
+
+11.1.4 How do the readings on ammeters A 2 and A 3 compare with each
+other?
+
+    (1)
+
+24 V
+A1
+
+=== page 17 ===
+Physical Sciences/P1 17 DBE/November 2018
+ CAPS – Grade 10
+Copyright reserved
+
+11.2 The graph below shows the relationship between the resistance and the
+length of the conducting wire.
+
+11.2.1
+
+Write down the relationship between the resistance and the length of
+the conducting wire.
+
+    (1)
+
+11.2.2 Determine the resistance of wire with a length of 30 mm.     (1)
+      [12]
+
+ TOTAL:     150
+
+Resistance (Ω)
+0          10          20         30          40         50          60         70
+3,5
+
+3,0
+
+2,5
+
+2,0
+
+1,5
+
+1,0
+
+0,5
+Length of wire (mm)
+
+=== page 18 ===
+Physical Sciences/P1  DBE/November 2018
+ CAPS – Grade 10
+Copyright reserved
+
+DATA FOR PHYSICAL SCIENCES GRADE 10
+PAPER 1 (PHYSICS)
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 10
+VRAESTEL 1 (FISIKA)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Acceleration due to gravity
+Swaartekragversnelling g 9,8 m·s-2
+Speed of light in a vacuum
+Spoed van lig in 'n vakuum c 3,0 x 108 m·s-1
+Planck's constant
+Planck se konstante h 6,63 x 10-34 J·s
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Electron mass
+Elektronmassa me 9,11 x 10-31 kg
+
+TABLE 2:  FORMULAE/TABEL 2:  FORMULES
+
+MOTION/BEWEGING
+
+tavv if ∆+=  221i tatvx ∆+∆=∆
+xa2vv
+2
+i
+2
+f ∆+=   t2 vvx if ∆ +=∆
+
+WORK, ENERGY AND POWER/ARBEID, ENERGIE EN DRYWING
+
+mghU=  or/of   mghEP =  2mv21K=   or/of  2k mv21E =
+
+EM = Ek+ Ep.   or/of   EM = K + U
+
+WAVES, SOUND AND LIGHT/GOLWE, KLANK EN LIG
+
+λ= fv
+f
+1T=
+hfE= or/of λ= chE
+
+ELECTROSTATICS/ELEKTROSTATIKA
+
+e
+Q = n  2Q +Q = Q 21
+
+=== page 19 ===
+Physical Sciences/P1  DBE/November 2018
+ CAPS – Grade 10
+Copyright reserved
+
+ELECTRIC CIRCUITS/ELEKTRIESE STROOMBANE
+
+I=Q ∆  t ...R1R1R1 21p ++=
+...RRR 21s ++=  qWV=
+
+=== page 20 ===
+Physical Sciences/P1  DBE/November 2018
+ CAPS – Grade 10
+Copyright reserved
+
+ANSWER SHEET
+
+Hand in this ANSWER SHEET with the ANSWER BOOK.
+
+NAME: _______________________________________________________________
+
+CLASS: __________
+
+QUESTION 3.3

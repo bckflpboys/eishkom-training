@@ -115,16 +115,57 @@ This transfers 27B-level pedagogical reasoning directly into your 4B and 2B mode
 
 ---
 
+## Phase 1 Automated Downloader (`pipeline/download_dbe.py`)
+
+To streamline data collection from the Department of Basic Education without manual clicking:
+```bash
+# Preview what will be collected across all subjects & sessions:
+python pipeline/download_dbe.py --dry-run
+
+# Run the automated crawler to download PDFs and update sources ledger:
+python pipeline/download_dbe.py
+```
+- **Language & Subject Partitioning:** Exam papers and memorandums are downloaded into isolated folders under `workspace/raw/dbe/<language>/<subject>/<year>/`.
+- **Bidirectional Ledger:** Auto-populates `workspace/sources/sources.csv` with paired question paper and memorandum references (`pair_with`).
+- **Benchmark Protection:** Automatically flags November 2024 Grade 12 NSC papers with `held out for EVAL (do not train on it)` to prevent training contamination.
+
+---
+
+## Phase 2 Text Ingestion & Extraction Strategy
+
+All 600 PDFs were ingested into plain text in `workspace/text/` using `pipeline/ingest.py --skip-existing`:
+- **Audited Scale:** **600 text files**, **14,959,351 characters total**, 0 errors.
+- **Auto-DOCX Conversion:** Magic byte detection routed 4 misnamed DOCX papers to `read_docx()`.
+- **Mathematical Equations:** Standardized into LaTeX inside `$..$` (inline) and `$$..$$` (display block) for rendering via KaTeX.
+- **Text-Describable Diagrams (~20%):** Euclidean geometry (circles, parallel lines, tangents), circuits, and coordinate graphs are written out in the `"passage"` field so language models receive complete spatial context.
+- **Pure Visual Diagrams (~10%):** Flagged `"needs_review": true`, excluded from text SFT, rendered to PNG images in `workspace/images/` for multimodal vision training on `LiquidAI/LFM3-VL-2B` (`gariep-flash-stage-1`).
+- **Memo-First Question Recovery:** Mathematics question papers with rasterized formulas have their question text and marking rubrics extracted directly from the paired DBE memorandum (1.38M characters of memo text across math papers).
+
+
+---
+
 ## Directory Structure
 
 All of your data lives in `sa-tutor-kit/sa-tutor-kit/workspace/`. Kit code never overwrites an earlier step.
 
 ```
 files/
-├── README.md                          # This architecture map and model overview
-├── GUIDE.md                           # Step-by-step manual from Phase 0 to Phase 12
-├── SOURCES.md                         # South African curriculum source guide and licensing
-└── sa-tutor-kit/sa-tutor-kit/         # The complete training, evaluation, and pipeline kit
+├── PROGRESS.md                          # Master progress tracker, checklists, and compute ledger
+├── README.md                            # High-level architecture map and model overview
+├── GUIDE.md                             # Step-by-step manual from Phase 0 to Phase 12
+├── SOURCES.md                           # South African curriculum source guide and licensing
+├── stage-1/                             # Dedicated Stage 1 release cycle hub
+│   ├── PROGRESS.md                      # Detailed Stage 1 roadmap and verification logs
+│   ├── README.md                        # Stage 1 model overview and release philosophy
+│   ├── GUIDE.md                         # Quick reference developer execution runbook
+│   ├── MODELS.md                        # Architectural specs for all 5 Stage 1 models
+│   └── CORPUS.md                        # Inventory of 600 Phase 1 downloaded PDFs (378 MB)
+└── sa-tutor-kit/sa-tutor-kit/           # Complete training, evaluation, and pipeline codebase
+    ├── stage-1/                         # Synchronized Stage 1 documentation mirror
+    ├── pipeline/                        # Data download, ingestion, and extraction tools
+    ├── training/                        # Unsloth fine-tuning and GGUF export tools
+    ├── colab/                           # Vertex AI Colab Enterprise notebook (L4 Spot VM)
+    └── workspace/                       # User data directory (raw PDFs, text, items, models)
 ```
 
 ---

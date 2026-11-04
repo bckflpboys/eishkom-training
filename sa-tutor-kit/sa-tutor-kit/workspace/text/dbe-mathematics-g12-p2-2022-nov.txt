@@ -1,0 +1,325 @@
+**NATIONAL SENIOR CERTIFICATE**
+**GRADE 12**
+
+**MATHEMATICS P2**
+**NOVEMBER 2022**
+
+**MARKS: 150**
+**TIME: 3 hours**
+
+---
+
+### INSTRUCTIONS AND INFORMATION
+
+Read the following instructions carefully before answering the questions.
+
+1. This question paper consists of 10 questions.
+2. Answer ALL the questions in the SPECIAL ANSWER BOOK provided.
+3. Clearly show ALL calculations, diagrams, graphs, etc. which you have used in determining your answers.
+4. Answers only will NOT necessarily be awarded full marks.
+5. You may use an approved scientific calculator (non-programmable and non-graphical), unless stated otherwise.
+6. If necessary, round off answers correct to TWO decimal places, unless stated otherwise.
+7. Diagrams are NOT necessarily drawn to scale.
+8. An information sheet with formulae is included at the end of the question paper.
+9. Write neatly and legibly.
+
+---
+
+### QUESTION 1
+
+The matric class of a certain high school had to vote for the chairperson of the RCL (representative council of learners). The scatter plot below shows the IQ (intelligence quotient) of the 10 learners who received the most votes and the number of votes that they received.
+
+[DIAGRAM: A scatter plot titled SCATTER PLOT with the horizontal axis representing Intelligence quotient (IQ) from 98 to 123 and the vertical axis representing Number of votes from 5 to 25. Ten data points are plotted showing a scatter of points with no clear strong linear trend.]
+
+Before the election, the popularity of each of these ten learners was established and a popularity score (out of a 100) was assigned to each. The popularity scores and the number of votes of the same 10 learners who received the most votes are shown in the table below.
+
+| Popularity score ($x$) | 32 | 89 | 35 | 82 | 50 | 59 | 81 | 40 | 79 | 65 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Number of votes ($y$) | 9 | 22 | 10 | 21 | 11 | 15 | 20 | 12 | 19 | 16 |
+
+1.1 Calculate the:
+
+1.1.1 Mean number of votes that these 10 learners received (2)
+
+1.1.2 Standard deviation of the number of votes that these 10 learners received (1)
+
+1.2 The learners who received fewer votes than one standard deviation below the mean were not invited for an interview. How many learners were invited? (2)
+
+1.3 Determine the equation of the least squares regression line for the data given in the table. (3)
+
+1.4 Predict the number of votes that a learner with a popularity score of 72 will receive. (2)
+
+1.5 Using the scatter plot and table above, provide a reason why:
+
+1.5.1 IQ is not a good indicator of the number of votes that a learner could receive (1)
+
+1.5.2 The prediction in QUESTION 1.4 is reliable (1)
+
+**[12]**
+
+---
+
+### QUESTION 2
+
+A company conducted research among all its employees on what percentage of their monthly salary was spent on fuel in a particular month. The data is represented in the ogive (cumulative frequency graph) below.
+
+[DIAGRAM: An ogive curve plotted on a grid. The horizontal axis represents Percentage of salary spent on fuel from 0 to 35 with grid lines every 2.5 units. The vertical axis represents Cumulative frequency from 0 to 70 with grid lines every 5 units. The curve starts near (5, 2), rises through points like (10, 5), (15, 12), (20, 25), (25, 48), (30, 58), and flattens out around (35, 60).]
+
+2.1 How many people are employed at this company? (1)
+
+2.2 Write down the modal class of the data. (1)
+
+2.3 How many employees spent more than $22,5\%$ of their monthly salary on fuel? (2)
+
+2.4 An employee spent $\text{R}2\ 400$ of his salary on fuel in that particular month. Determine the monthly salary of this employee if he spends $7\%$ of his salary on fuel. (2)
+
+2.5 The monthly salaries of these employees remains constant and the number of litres of fuel used in each month also remains constant. If the fuel price increases from $\text{R}21,43$ per litre to $\text{R}22,79$ per litre at the beginning of the next month, how will the above ogive change? (2)
+
+**[8]**
+
+---
+
+### QUESTION 3
+
+In the diagram, $A(4; 2)$, $B(6; -4)$ and $C(-2; -3)$ are vertices of $\triangle ABC$. $T$ is the midpoint of $CB$. The equation of line $AC$ is $5x - 6y = 8$. The angle of inclination of $AB$ is $\alpha$. $\triangle DCT$ is drawn such that $CD \parallel BA$. The lines $AC$ and $DT$ intersect at $S$, the $y$-intercept of $AC$. $P$, $F$ and $R$ are the $x$-intercepts of $DC$, $AC$ and $AB$ respectively.
+
+[DIAGRAM: Cartesian plane showing triangle ABC with vertices A(4; 2), B(6; -4), C(-2; -3). T is the midpoint of BC. Line AC has equation 5x - 6y = 8 and intersects the y-axis at S and the x-axis at F. Line AB has angle of inclination $\alpha$ and x-intercept R. Triangle DCT is drawn with CD parallel to BA and CD intersecting the x-axis at P. AC and DT intersect at S.]
+
+3.1 Calculate the:
+
+3.1.1 Gradient of $AB$ (2)
+
+3.1.2 Size of $\alpha$ (2)
+
+3.1.3 Coordinates of $T$ (2)
+
+3.1.4 Coordinates of $S$ (2)
+
+3.2 Determine the equation of $CD$ in the form $y = mx + c$. (3)
+
+3.3 Calculate the:
+
+3.3.1 Size of $D\hat{C}A$ (4)
+
+3.3.2 Area of $POSC$ (5)
+
+**[20]**
+
+---
+
+### QUESTION 4
+
+In the diagram, $M(3; -5)$ is the centre of the circle having $PN$ as its diameter. $KL$ is a tangent to the circle at $N(7; -2)$.
+
+[DIAGRAM: A circle with centre M(3; -5) and diameter PN. N has coordinates (7; -2). KL is a tangent line touching the circle at N.]
+
+4.1 Calculate the coordinates of $P$. (2)
+
+4.2 Determine the equation of:
+
+4.2.1 The circle in the form $(x - a)^2 + (y - b)^2 = r^2$ (3)
+
+4.2.2 $KL$ in the form $y = mx + c$ (5)
+
+4.3 For which values of $k$ will $y = -\frac{4}{3}x + k$ be a secant to the circle? (4)
+
+4.4 Points $A(t; t)$ and $B$ are not shown on the diagram.
+
+From point $A$, another tangent is drawn to touch the circle with centre $M$ at $B$.
+
+4.4.1 Show that the length of tangent $AB$ is given by $\sqrt{2t^2 + 4t + 9}$. (2)
+
+4.4.2 Determine the minimum length of $AB$. (4)
+
+**[20]**
+
+---
+
+### QUESTION 5
+
+5.1 Given that $\sqrt{13}\sin x + 3 = 0$, where $x \in (90^\circ ; 270^\circ)$.
+
+Without using a calculator, determine the value of:
+
+5.1.1 $\sin(360^\circ + x)$ (2)
+
+5.1.2 $\tan x$ (3)
+
+5.1.3 $\cos(180^\circ + x)$ (2)
+
+5.2 Determine the value of the following expression, without using a calculator:
+
+$$\frac{\cos(90^\circ + \theta)}{\sin(\theta - 180^\circ) + 3\sin(-\theta)}$$ (5)
+
+5.3 Determine the general solution of the following equation:
+
+$$(\cos x + 2\sin x)(3\sin 2x - 1) = 0$$ (6)
+
+5.4 Given the identity: $\cos(x + y).\cos(x - y) = 1 - \sin^2 x - \sin^2 y$
+
+5.4.1 Prove the identity. (4)
+
+5.4.2 Hence, determine the value of $1 - \sin^2 45^\circ - \sin^2 15^\circ$, without using a calculator. (3)
+
+5.5 Consider the trigonometric expression: $16\sin x.\cos^3 x - 8\sin x.\cos x$
+
+5.5.1 Rewrite the expression as a single trigonometric ratio. (4)
+
+5.5.2 For which value of $x$ in the interval $x \in [0^\circ ; 90^\circ]$ will $16\sin x.\cos^3 x - 8\sin x.\cos x$ have its minimum value? (1)
+
+**[30]**
+
+---
+
+### QUESTION 6
+
+In the diagram below, the graphs of $f(x) = \tan x$ and $g(x) = 2\sin 2x$ are drawn for the interval $x \in [-180^\circ ; 180^\circ]$. $A(60^\circ ; k)$ and $B$ are two points of intersection of $f$ and $g$.
+
+[DIAGRAM: Two graphs plotted on Cartesian axes from $-180^\circ$ to $180^\circ$. Graph $f(x) = \tan x$ shows the standard periodic tan curves with asymptotes at $-90^\circ$ and $90^\circ$. Graph $g(x) = 2\sin 2x$ is a sine wave oscillating between $-2$ and $2$. Point A is at $(60^\circ; k)$ where $f$ and $g$ intersect, and point B is another intersection point in the second quadrant.]
+
+6.1 Write down the period of $g$. (1)
+
+6.2 Calculate the:
+
+6.2.1 Value of $k$ (1)
+
+6.2.2 Coordinates of $B$ (1)
+
+6.3 Write down the range of $2g(x)$. (2)
+
+6.4 For which values of $x$ will $g(x + 5^\circ) - f(x + 5^\circ) \le 0$ in the interval $x \in [-90^\circ ; 0^\circ]$? (2)
+
+6.5 Determine the values of $p$ for which $\sin x.\cos x = p$ will have exactly two real roots in the interval $x \in [-180^\circ ; 180^\circ]$. (3)
+
+**[10]**
+
+---
+
+### QUESTION 7
+
+$AB$ is a vertical flagpole that is $\sqrt{5}p$ metres long. $AC$ and $AD$ are two cables anchoring the flagpole. $B$, $C$ and $D$ are in the same horizontal plane.
+$BD = 2p$ metres, $A\hat{C}D = x$ and $A\hat{D}C = 45^\circ$.
+
+[DIAGRAM: A 3D representation showing a vertical flagpole AB of length $\sqrt{5}p$. C and D are points on the horizontal ground. Line BD has length $2p$. Cables AC and AD connect the top of the flagpole A to points C and D respectively. Angle $A\hat{C}D = x$ and angle $A\hat{D}C = 45^\circ$.]
+
+7.1 Determine the length of $AD$ in terms of $p$. (2)
+
+7.2 Show that the length of $CD = \frac{3p(\sin x + \cos x)}{\sqrt{2}\sin x}$. (5)
+
+7.3 If it is further given that $p = 10$ and $x = 110^\circ$, calculate the area of $\triangle ADC$. (3)
+
+**[10]**
+
+---
+
+### QUESTION 8
+
+8.1 In the diagram, $O$ is the centre of the circle. $MNPR$ is a cyclic quadrilateral and $SN$ is a diameter of the circle. Chord $MS$ and radius $OR$ are drawn. $\hat{M}_2 = 64^\circ$.
+
+[DIAGRAM: A circle with centre O and diameter SN. MNPR is a cyclic quadrilateral. Chord MS and radius OR are drawn. Angle $\hat{M}_2 = 64^\circ$. Angles labeled at M ($\hat{M}_1, \hat{M}_2$), at N ($\hat{N}_1, \hat{N}_2$), at R ($\hat{R}_1, \hat{R}_2$), at O ($\hat{O}_1, \hat{O}_2$).]
+
+Determine, giving reasons, the size of the following angles:
+
+8.1.1 $\hat{P}$ (2)
+
+8.1.2 $\hat{M}_1$ (2)
+
+8.1.3 $\hat{O}_1$ (2)
+
+8.2 In the diagram, $\triangle ABG$ is drawn. $D$ and $E$ are midpoints of $AB$ and $AG$ respectively. $AG$ and $BG$ are produced to $C$ and $H$ respectively. $F$ is a point on $BC$ such that $FG \parallel CH$.
+
+[DIAGRAM: Triangle ABG with D as midpoint of AB and E as midpoint of AG. DE is connected. AG is produced to C, and BG is produced to H. CH is connected to BG to form triangle BGH and GPC like structures. Line FG is parallel to CH, where F lies on BC.]
+
+8.2.1 Give a reason why $DE \parallel BH$. (1)
+
+8.2.2 If it is further given that $\frac{FC}{BF} = \frac{1}{4}$, $DE = 3x - 1$ and $GH = x + 1$, calculate, giving reasons, the value of $x$. (6)
+
+**[13]**
+
+---
+
+### QUESTION 9
+
+9.1 In the diagram, $O$ is the centre of a circle. $OD$ bisects chord $AB$.
+
+[DIAGRAM: A circle with centre O and a chord AB. Radius OD bisects chord AB at point D with hash marks indicating equal segments AD and DB.]
+
+Prove the theorem that states that the line from the centre of a circle that bisects a chord is perpendicular to the chord, i.e. $OD \perp AB$. (5)
+
+9.2 In the diagram, $E$, $B$, $F$, $S$ and $P$ are points on the circle centred at $O$. $GB$ is a tangent to the circle at $B$. $FE$ is produced to meet the tangent at $G$. $OT$ is drawn such that $T$ is the midpoint of $EF$. $GO$ and $BO$ are drawn. $BS$ is drawn through $T$. $PS \parallel GF$.
+
+[DIAGRAM: A circle centred at O with points E, B, F, S, P on its circumference. GB is a tangent at B. Line GEF is a secant line intersecting the circle at E and F, with T as midpoint of EF. OT is perpendicular to EF. GO and BO are joined. BS passes through T. PS is parallel to GF.]
+
+Prove, giving reasons, that:
+
+9.2.1 $OTBG$ is a cyclic quadrilateral (5)
+
+9.2.2 $G\hat{O}B = \hat{S}$ (4)
+
+**[14]**
+
+---
+
+### QUESTION 10
+
+In the diagram, $PQRS$ is a cyclic quadrilateral. $KP$ is a tangent to the circle at $P$. $C$ and $D$ are points on chords $PQ$ and $PS$ respectively and $CD$ produced meets $RS$ produced at $A$. $CA \parallel QS$. $RC$ is drawn. $\hat{P}_1 = \hat{R}_2$.
+
+[DIAGRAM: A circle with cyclic quadrilateral PQRS. KP is a tangent at P. Points C and D lie on chords PQ and PS respectively. CD produced meets RS produced at A. CA is parallel to QS. RC is joined. Angles are labeled: $\hat{P}_1, \hat{P}_2, \hat{D}_1, \hat{D}_2, \hat{D}_3, \hat{C}_1, \hat{C}_2, \hat{C}_3, \hat{R}_1, \hat{R}_2, \hat{R}_3, \hat{S}_1, \hat{S}_2, \hat{S}_3, \hat{T}_1, \hat{T}_2, \hat{T}_3$ where T is the intersection of RC and QS.]
+
+Prove, giving reasons, that:
+
+10.1 $\hat{S}_1 = \hat{T}_2$ (4)
+
+10.2 $\frac{AD}{AR} = \frac{AS}{AC}$ (5)
+
+10.3 $AC \times SD = AR \times TC$ (4)
+
+**[13]**
+
+**TOTAL: 150**
+
+---
+
+### INFORMATION SHEET
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni) \quad A = P(1 - ni) \quad A = P(1 - i)^n \quad A = P(1 + i)^n$$
+
+$$T_n = a + (n - 1)d \quad S_n = \frac{n}{2}[2a + (n - 1)d]$$
+
+$$T_n = ar^{n-1} \quad S_n = \frac{a(r^n - 1)}{r - 1} \quad (r \neq 1) \quad S_\infty = \frac{a}{1 - r} \quad (-1 < r < 1)$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i} \quad P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} \quad M\left(\frac{x_1 + x_2}{2}; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c \quad y - y_1 = m(x - x_1) \quad m = \frac{y_2 - y_1}{x_2 - x_1} \quad m = \tan \theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+$$\text{In } \triangle ABC: \frac{\sin A}{a} = \frac{\sin B}{b} = \frac{\sin C}{c}$$
+
+$$a^2 = b^2 + c^2 - 2bc \cos A$$
+
+$$\text{Area } \triangle ABC = \frac{1}{2}ab \sin C$$
+
+$$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta$$
+
+$$\sin(\alpha - \beta) = \sin \alpha \cos \beta - \cos \alpha \sin \beta$$
+
+$$\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta$$
+
+$$\cos(\alpha - \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2 \alpha - \sin^2 \alpha \\ 1 - 2\sin^2 \alpha \\ 2\cos^2 \alpha - 1 \end{cases}$$
+
+$$\sin 2\alpha = 2\sin \alpha \cos \alpha$$
+
+$$\bar{x} = \frac{\sum x}{n} \quad \sigma^2 = \frac{\sum_{i=1}^{n}(x_i - \bar{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)} \quad P(A \text{ or } B) = P(A) + P(B) - P(A \text{ and } B)$$
+
+$$\hat{y} = a + bx \quad b = \frac{\sum(x - \bar{x})(y - \bar{y})}{\sum(x - \bar{x})^2}$$

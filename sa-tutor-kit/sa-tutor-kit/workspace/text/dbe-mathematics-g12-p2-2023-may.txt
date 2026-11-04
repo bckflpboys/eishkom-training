@@ -1,0 +1,308 @@
+**basic education**
+Department: Basic Education
+REPUBLIC OF SOUTH AFRICA
+
+**SENIOR CERTIFICATE EXAMINATIONS /**
+**NATIONAL SENIOR CERTIFICATE EXAMINATIONS**
+
+**MATHEMATICS P2**
+
+**MAY/JUNE 2023**
+
+**MARKS:** 150  
+**TIME:** 3 hours  
+
+This question paper consists of 13 pages and 1 information sheet.
+
+---
+
+### INSTRUCTIONS AND INFORMATION
+
+Read the following instructions carefully before answering the questions.
+
+1. This question paper consists of 10 questions.
+2. Answer ALL the questions in the SPECIAL ANSWER BOOK provided.
+3. Clearly show ALL calculations, diagrams, graphs, etc. which you have used in determining your answers.
+4. Answers only will NOT necessarily be awarded full marks.
+5. You may use an approved scientific calculator (non-programmable and non-graphical), unless stated otherwise.
+6. If necessary, round off answers correct to TWO decimal places, unless stated otherwise.
+7. Diagrams are NOT necessarily drawn to scale.
+8. An information sheet with formulae is included at the end of the question paper.
+9. Write neatly and legibly.
+
+---
+
+### QUESTION 1
+
+1.1 The owner of a small company wishes to establish whether advertising in a regional newspaper is effective. The table below shows the amount spent on advertising and the corresponding sales figures for the last 9 years.
+
+| Amount spent on advertising (in rands) ($x$) | 21 300 | 23 700 | 24 800 | 30 540 | 24 100 | 40 680 | 22 400 | 35 250 | 29 110 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Sales (in rands) ($y$) | 311 500 | 326 700 | 349 200 | 470 000 | 316 100 | 564 200 | 314 000 | 487 300 | 392 900 |
+
+```
+1.1.1 Determine the equation of the least squares regression line for the data. (3)
+1.1.2 Predict the sales for a year in which the company will spend R28 500 on advertising. (2)
+1.1.3 Write down the correlation coefficient of the data. (1)
+1.1.4 Describe the association between the amount spent on advertising in the regional newspaper and the sales of this company. (1)
+```
+
+1.2 The profit that the small company made over the same 9 years is given in the table below.
+
+| Profit (in rands) | 110 750 | 107 376 | 152 338 | 244 480 | 144 021 | 275 994 | 121 900 | 207 636 | 187 700 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+
+```
+1.2.1 Calculate the mean profit made over the 9 years. (2)
+1.2.2 Write down the standard deviation for the data. (1)
+1.2.3 Determine the number of years in which the company made a profit that was greater than one standard deviation above the mean. (2)
+```
+**[12]**
+
+---
+
+### QUESTION 2
+
+The ages of the people who attended a music concert was summarised in the table below.
+
+| AGE | NUMBER OF PEOPLE |
+| :---: | :---: |
+| $5 < x \le 15$ | 20 |
+| $15 < x \le 25$ | 25 |
+| $25 < x \le 35$ | 60 |
+| $35 < x \le 45$ | 90 |
+| $45 < x \le 55$ | 55 |
+| $55 < x \le 65$ | 40 |
+| $65 < x \le 75$ | 30 |
+
+```
+2.1 Write down the modal class of the data. (1)
+2.2 How many people attended the music concert? (1)
+2.3 On the grid provided in the ANSWER BOOK, draw a cumulative frequency graph (ogive) to represent the above data. (4)
+2.4 Use the cumulative frequency graph to determine the median age of the people who attended the music concert. (2)
+```
+**[8]**
+
+---
+
+### QUESTION 3
+
+In the diagram, the equation of line $\text{AF}$ is $y = -x - 11$. $\text{B}$, a point on the $x$-axis, is the midpoint of the straight line joining $\text{A}(-1; t)$ and $\text{C}$. The angles of inclination of $\text{AF}$ and $\text{AC}$ are $\alpha$ and $63,43^\circ$ respectively. $\text{AF}$ cuts the $x$-axis in $\text{E}$. $\text{D}$ is a point such that $\text{DE} \parallel \text{AC}$.
+
+[DIAGRAM: Cartesian plane showing line AF with angle of inclination $\alpha$ passing through $E$ on the negative x-axis and $F$ in the second quadrant, with equation $y = -x - 11$. Point $A(-1; t)$ is in the fourth quadrant. Line $AC$ goes from $A$ through the origin or near it to $C$ in the first quadrant, with angle of inclination $63.43^\circ$. $B$ is the midpoint of $AC$ on the positive x-axis. A parallel line segment $DE$ is drawn from a point $D$ in the third quadrant parallel to $AC$ meeting line $AF$ at $E$.]
+
+```
+3.1 Calculate the:
+    3.1.1 Value of $t$ (2)
+    3.1.2 Size of $\alpha$ (2)
+    3.1.3 Gradient of $\text{AC}$, to the nearest whole number (2)
+3.2 Determine the equation of $\text{AC}$ in the form $y = mx + k$. (2)
+3.3 Calculate the:
+    3.3.1 Coordinates of $\text{C}$ (3)
+    3.3.2 Size of $\text{F\hat{E}D}$ (3)
+3.4 $\text{G}$ is a point such that $\text{EAGC}$, in that order, is a parallelogram. 
+
+Determine the equation of a circle centred at $\text{G}$ and passing through the point $\text{B}$.
+Write your answer in the form $(x - a)^2 + (y - b)^2 = r^2$. (4)
+```
+**[18]**
+
+---
+
+### QUESTION 4
+
+In the diagram, the equation of the circle centred at $\text{N}(-12; 5)$ is $x^2 + y^2 + 24x - 10y + 153 = 0$. The equation of the circle centred at $\text{M}$ is $(x + 6)^2 + (y + 3)^2 = 25$. $\text{PS}$ and $\text{PR}$ are tangents to the circle centred at $\text{M}$ at $\text{S}$ and $\text{R}$ respectively. $\text{PR}$ is parallel to the $x$-axis. $\text{K}(-17; -5)$ is a point on $\text{PS}$. The straight line joining $\text{N}$ and $\text{M}$ cuts the smaller circle at $\text{T}$ and the larger circle at $\text{S}$. [Note: In the diagram, circle N is the larger circle and circle M is the smaller circle, with common tangent point S on the line NM].
+
+[DIAGRAM: Two intersecting/tangent circles. Larger circle centered at $N(-12; 5)$ and smaller circle centered at $M$. Line $NM$ passes through $T$ (on smaller circle) and $S$ (point of contact/tangency between circles, or on circle M). Tangents $PS$ and $PR$ meet at $P(-17; \dots)$ where $K(-17; -5)$ is on $PS$. $PR$ is horizontal.]
+
+```
+4.1 Write down the coordinates of $\text{M}$. (2)
+4.2 Calculate the:
+    4.2.1 Length of the radius of the smaller circle (2)
+    4.2.2 Length of $\text{TS}$ (4)
+4.3 Determine the equation of the tangent:
+    4.3.1 $\text{PR}$ (2)
+    4.3.2 $\text{PS}$, in the form $y = mx + c$ (5)
+4.4 Quadrilateral $\text{PSMR}$ is drawn. Calculate the:
+    4.4.1 Perimeter of $\text{PSMR}$ (5)
+    4.4.2 Ratio of $\frac{\text{area of }\Delta\text{NPS}}{\text{area of quadrilateral PSMR}}$ (2)
+```
+**[22]**
+
+---
+
+### QUESTION 5
+
+```
+5.1 Without using a calculator, simplify the following expression to a single trigonometry ratio:
+    $$\frac{1 - \sin(-\theta)\cos(90^\circ + \theta)}{\cos(\theta - 360^\circ)}$$ (5)
+
+5.2 Given that $\cos 20^\circ = p$
+
+Without using a calculator, write EACH of the following in terms of $p$:
+    5.2.1 $\cos 200^\circ$ (2)
+    5.2.2 $\sin(-70^\circ)$ (2)
+    5.2.3 $\sin 10^\circ$ (3)
+
+5.3 Determine, without using a calculator, the value of:
+    $$\cos(A + 55^\circ)\cos(A + 10^\circ) + \sin(A + 55^\circ)\sin(A + 10^\circ)$$ (3)
+
+5.4 Consider: $\frac{\cos 2x + \sin 2x - \cos^2 x}{\sin x - 2\cos x} = -\sin x$
+
+    5.4.1 Prove the above identity. (3)
+    5.4.2 Determine the value of $\frac{\cos 2x + \sin 2x - \cos^2 x}{-3\sin^2 x + 6\sin x \cos x}$ (3)
+
+5.5 Given: $3\tan 4x = -2\cos 4x$
+    5.5.1 Without using a calculator, show that $\sin 4x = -0,5$ is the only solution to the above equation. (4)
+    5.5.2 Hence, determine the general solution of $x$ in the equation $3\tan 4x = -2\cos 4x$. (3)
+```
+**[28]**
+
+---
+
+### QUESTION 6
+
+In the diagram below, the graph of $f(x) = \tan(x - 45^\circ)$ is drawn for $x \in [-90^\circ; 180^\circ]$.
+
+[DIAGRAM: Graph of $f(x) = \tan(x - 45^\circ)$ showing asymptotes at $x = -45^\circ$ and $x = 135^\circ$, crossing the y-axis at $-1$, and x-axis at $45^\circ$. Domain from $-90^\circ$ to $180^\circ$.]
+
+```
+6.1 Write down the period of $f$. (1)
+6.2 Draw the graph of $g(x) = -\cos 2x$ for the interval $x \in [-90^\circ; 180^\circ]$ on the grid given in the ANSWER BOOK. Show ALL intercepts with the axes, as well as the minimum and maximum points of the graph. (3)
+6.3 Write down the range of $g$. (1)
+6.4 The graph of $g$ is shifted $45^\circ$ to the left to form the graph of $h$. Determine the equation of $h$ in its simplest form. (2)
+6.5 Use the graph(s) to determine the values of $x$ in the interval $x \in [-90^\circ; 90^\circ]$ for which:
+    6.5.1 $f(x) > 1$ (2)
+    6.5.2 $2\cos 2x - 1 > 0$ (4)
+```
+**[13]**
+
+---
+
+### QUESTION 7
+
+In the diagram, $\text{A}$, $\text{B}$ and $\text{C}$ are points in the same horizontal plane. $\text{D}$ is a point directly above $\text{C}$, that is $\text{DC} \perp \text{AC}$ and $\text{DC} \perp \text{BC}$. It is given that $\text{A\hat{C}B} = 100^\circ$, $\text{C\hat{A}D} = 30^\circ$, $\text{AD} = 20\text{ units}$ and $\text{BC} = 8\text{ units}$.
+
+[DIAGRAM: 3D perspective drawing showing a horizontal triangle $ABC$ with angle $\hat{C} = 100^\circ$ and side $BC = 8$. A vertical pole $DC$ of height perpendicular to the base plane meets at $C$. $AD = 20$ is an inclined strut with $\hat{CAD} = 30^\circ$.]
+
+```
+7.1 Calculate the length of:
+    7.1.1 $\text{AC}$ (2)
+    7.1.2 $\text{AB}$ (3)
+7.2 If it is further given that $\text{A\hat{B}D} = 73,4^\circ$, calculate the size of $\text{A\hat{D}B}$. (3)
+```
+**[8]**
+
+---
+
+### QUESTION 8
+
+8.1 In the diagram, $\text{O}$ is the centre of the circle. $\text{K}$, $\text{T}$ and $\text{L}$ are points on the circle. $\text{KT}$, $\text{TL}$, $\text{KL}$, $\text{OK}$ and $\text{OT}$ are drawn. $\text{OT}$ intersects $\text{KL}$ at $\text{M}$. $\text{ST}$ is a tangent to the circle at $\text{T}$. $\text{S\hat{T}K} = 36^\circ$ and $\text{O\hat{K}L} = 18^\circ$.
+
+[DIAGRAM: Circle with center $O$. Points $K, T, L$ on circumference. Tangent $ST$ at $T$ makes $36^\circ$ with $KT$ ($\hat{T}_1 = 36^\circ$). $OK$ and $OT$ radii, $OK = OT$. $\hat{K}_2 = 18^\circ$ ($O\hat{K}L$). $OT$ intersects $KL$ at $M$. Angles labeled: $\hat{T}_1, \hat{T}_2, \hat{T}_3$, $\hat{K}_1, \hat{K}_2$.]
+
+```
+    8.1.1 Determine, giving reasons, the size of:
+          (a) $\hat{\text{T}}_2$ (2)
+          (b) $\hat{\text{L}}$ (2)
+          (c) $\text{K\hat{O}T}$ (2)
+    8.1.2 Prove, giving reasons, that $\text{KM} = \text{ML}$. (3)
+```
+
+8.2 In the diagram, $\Delta\text{RDS}$ is drawn. $\text{A}$, $\text{B}$ and $\text{C}$ are points on $\text{RD}$, $\text{RS}$ and $\text{DS}$ respectively such that $\text{AB} \parallel \text{DS}$ and $\text{RB} : \text{BS} = 5 : 3$. $\text{DC} = 20\text{ units}$ and $\text{CS} = 12\text{ units}$.
+
+[DIAGRAM: Triangle $RDS$. $A$ on $RD$, $B$ on $RS$, $C$ on $DS$. $AB \parallel DS$. $DC = 20$, $CS = 12$. Ratio $RB:BS = 5:3$.]
+
+```
+    8.2.1 Prove, giving reasons, that $\text{BC} \parallel \text{AD}$. (3)
+    8.2.2 If it is further given that $\text{RD} = 48\text{ units}$, calculate, giving reasons, the value of the ratio $\text{AD} : \text{AB}$. (3)
+```
+**[15]**
+
+---
+
+### QUESTION 9
+
+9.1 In the diagram, $\text{O}$ is the centre of the circle. $\text{ABCD}$ is a cyclic quadrilateral.
+
+[DIAGRAM: Cyclic quadrilateral $ABCD$ inscribed in circle with center $O$.]
+
+Use the diagram in the ANSWER BOOK to prove the theorem which states that the opposite angles of a cyclic quadrilateral are supplementary, that is prove that $\hat{\text{B}} + \hat{\text{D}} = 180^\circ$. (5)
+
+9.2 In the diagram, $\text{DEFG}$ is a cyclic quadrilateral such that $\text{EF} \parallel \text{DG}$. $\text{H}$ is another point on the circle such that $\text{DH} \parallel \text{FG}$. Chord $\text{EH}$ is drawn. Let $\hat{\text{D}}_1 = x$.
+
+[DIAGRAM: Cyclic quadrilateral $DEFG$. $EF \parallel DG$, $DH \parallel FG$. $H$ is on the circle. Chord $EH$ is drawn. $\hat{D}_1 = x$. Angles $\hat{D}_1, \hat{D}_2$ and $\hat{E}_1, \hat{E}_2$.]
+
+Prove, giving reasons, that $\hat{\text{D}}_1 = \hat{\text{D}}_2$. (4)
+**[9]**
+
+---
+
+### QUESTION 10
+
+In the diagram, $\text{TR}$ is a diameter of the circle. $\text{PRKT}$ is a cyclic quadrilateral. Chords $\text{TP}$ and $\text{KR}$ are produced to intersect at $\text{S}$. Chord $\text{PK}$ is drawn such that $\text{PK} = \text{TK}$.
+
+[DIAGRAM: Circle with diameter $TR$. Cyclic quad $PRKT$. Chords $TP$ and $KR$ extended to meet at $S$. Chord $PK$ equals $TK$. Angles labeled $\hat{P}_1, \hat{P}_2, \hat{P}_3$, $\hat{R}_1, \hat{R}_2, \hat{R}_3$, $\hat{T}_1, \hat{T}_2$, $\hat{K}_1, \hat{K}_2$.]
+
+```
+10.1 Prove, giving reasons, that:
+     10.1.1 $\text{SR}$ is a diameter of a circle passing through points $\text{S}$, $\text{P}$ and $\text{R}$ (4)
+     10.1.2 $\hat{\text{S}} = \hat{\text{P}}_2$ (5)
+     10.1.3 $\Delta\text{SPK} \parallel\parallel\parallel \Delta\text{PRK}$ (3)
+10.2 If it is further given that $\text{SR} = \text{RK}$, prove that $\text{ST} = \sqrt{6}\text{RK}$. (5)
+```
+**[17]**
+
+**TOTAL: 150**
+
+---
+
+### INFORMATION SHEET
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni) \quad A = P(1 - ni) \quad A = P(1 - i)^n \quad A = P(1 + i)^n$$
+
+$$T_n = a + (n - 1)d \quad S_n = \frac{n}{2}[2a + (n - 1)d]$$
+
+$$T_n = ar^{n-1} \quad S_n = \frac{a(r^n - 1)}{r - 1}; \quad r \neq 1 \quad S_\infty = \frac{a}{1 - r}; \quad -1 < r < 1$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i} \quad P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} \quad M\left(\frac{x_1 + x_2}{2}; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c \quad y - y_1 = m(x - x_1) \quad m = \frac{y_2 - y_1}{x_2 - x_1} \quad m = \tan \theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+$$\text{In } \Delta ABC: \quad \frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}$$
+
+$$a^2 = b^2 + c^2 - 2bc \cos A$$
+
+$$\text{area } \Delta ABC = \frac{1}{2}ab \sin C$$
+
+$$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta$$
+
+$$\sin(\alpha - \beta) = \sin \alpha \cos \beta - \cos \alpha \sin \beta$$
+
+$$\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta$$
+
+$$\cos(\alpha - \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2 \alpha - \sin^2 \alpha \\ 1 - 2\sin^2 \alpha \\ 2\cos^2 \alpha - 1 \end{cases}$$
+
+$$\sin 2\alpha = 2\sin \alpha \cos \alpha$$
+
+$$\bar{x} = \frac{\sum fx}{n}$$
+
+$$\sigma^2 = \frac{\sum(x - \bar{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)}$$
+
+$$P(A \text{ or } B) = P(A) + P(B) - P(A \text{ and } B)$$
+
+$$\hat{y} = a + bx$$
+
+$$b = \frac{\sum(x - \bar{x})(y - \bar{y})}{\sum(x - \bar{x})^2}$$

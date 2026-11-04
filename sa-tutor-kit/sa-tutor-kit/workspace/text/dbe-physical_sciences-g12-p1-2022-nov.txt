@@ -1,0 +1,1081 @@
+=== page 1 ===
+Copyright reserved                 Please turn over
+
+MARKS:  150
+
+TIME:  3 hours
+
+This question paper consists of 18 pages and 3 data sheets.
+
+GRADE 12
+NATIONAL
+SENIOR CERTIFICATE
+PHYSICAL SCIENCES:  PHYSICS (P1)
+
+NOVEMBER 2022
+
+=== page 2 ===
+Physical Sciences/P1 2                                                 DBE/November 2022
+ NSC
+Copyright reserved                 Please turn over
+
+INSTRUCTIONS AND INFORMATION
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+Write your centre number and examination number in the appro priate spaces
+on the ANSWER BOOK.
+
+This q uestion paper consists of 10 questions. Answer ALL the questions in
+the ANSWER BOOK.
+
+Start EACH question on a NEW page in the ANSWER BOOK.
+
+Number the answers correctly according to the numbering system used in this
+question paper.
+
+Leave ONE line between two subquestions, e.g. between QUESTION 2.1 and
+QUESTION 2.2.
+
+You may use a non-programmable calculator.
+
+You may use appropriate mathematical instruments.
+
+Show ALL formulae and substitutions in ALL calculations.
+
+Round off your  FINAL numerical answers to a minimum of TWO decimal
+places.
+
+Give brief motivations, discussions, etc. where required.
+
+You are advised to use the attached DATA SHEETS.
+
+Write neatly and legibly.
+
+=== page 3 ===
+Physical Sciences/P1 3  DBE/November 2022
+ NSC
+Copyright reserved                                     Please turn over
+
+QUESTION 1:  MULTIPLE-CHOICE QUESTIONS
+
+Various options are provided as possible answers to the following questions.
+Each question has only ONE correct answer. Choose the answer and write only the
+letter (A –D) next to the question numbers (1.1 to 1.10) in the ANSWER BOOK,
+e.g. 1.11 E.
+
+1.1 Which ONE of the following combinations consists of only  SCALAR
+quantities?
+
+ A
+
+B
+
+C
+
+D
+Velocity, speed and time
+
+Time, distance and speed
+
+Acceleration, speed and distance
+
+Displacement, velocity and acceleration
+
+(2)
+
+1.2 The acceleration due to gravity on Earth is g.
+
+Which ONE of the following represents  the acceleration due to gravity on a
+planet that has TWICE the mass and HALF the radius of the Earth?
+
+A
+
+B
+
+C
+
+D
+
+ g
+
+2g
+
+4g
+
+8g
+
+(2)
+
+1.3 A ball is projected vertically upwards from the ground  and reaches its
+maximum height after a while.
+
+Ignore the effects of air friction.
+
+How will the ACCELERATION and TOTAL MECHANICAL ENERGY of the
+ball at its maximum height compare to that immediately after it was projected?
+
+  ACCELERATION TOTAL MECHANICAL ENERGY
+
+(2)
+A Equal to Equal to
+B Greater than Smaller than
+C Equal to Greater than
+D Smaller than Equal to
+
+=== page 4 ===
+Physical Sciences/P1 4  DBE/November 2022
+ NSC
+Copyright reserved                                     Please turn over
+
+1.4
+
+A car travels at CONSTANT VELOCITY along a horizontal road. A constant
+frictional force acts on the car during its motion.
+
+Which ONE of the following statements  about the power dissipated by the
+engine of the car during the motion is CORRECT?
+
+The power …
+
+ A
+
+B
+
+C
+
+D
+is zero.
+
+increases.
+
+decreases.
+
+remains constant.
+
+(2)
+
+1.5 Block X is placed on a horizontal table  and is connected to block Y by a light
+inextensible string passing over a frictionless pulley, as shown below.
+
+A constant frictional force acts on block X while it moves to the right.
+
+P, Q and R are points on the table such that the distance from P to Q is equal
+to that from Q to R.
+
+ When block X reaches point Q, the string is cut  and block X continues to
+move towards point R. Ignore the effect of air friction.
+
+Consider the following statements:
+
+(i) The work done by the frictional force acting on block  X is greater when
+the block moves from point P to point Q than when the block moves from
+point Q to point R.
+
+(ii) Both the momentum and  kinetic energy of block X decrease  when the
+block moves from point Q to point R.
+
+(iii) The total mechanical energy of block X remains  constant when the block
+moves from point Q to point R.
+
+ Which of the statements above is/are CORRECT as block X  moves from
+point Q to point R?
+
+ A
+
+B
+
+C
+
+D
+(i) only
+
+(ii) only
+
+(i) and (ii) only
+
+(ii) and (iii) only
+
+(2)
+
+X
+Y
+Q
+ R
+P
+
+=== page 5 ===
+Physical Sciences/P1 5  DBE/November 2022
+ NSC
+Copyright reserved                                     Please turn over
+
+1.6 Light emitted from a distant star contains a spectral line  X of frequency f. The
+spectral lines of this star when observed on Earth are red shifted.
+
+Which ONE of the following combinations of the OBSERVED FREQUENCY
+of spectral line X and the MOTION OF THE STAR is CORRECT?
+
+  OBSERVED FREQUENCY MOTION OF THE STAR
+ A Greater than f Away from Earth
+ B Greater than f Towards Earth
+ C Smaller than f Away from Earth
+ D Smaller than f Towards Earth  (2)
+
+1.7 A proton and an electron are a distance  r  apart. The magnitude of the
+electrostatic force that they exert on each other is  F.
+
+Which ONE o f the following graphs shows the relationship between F and r2
+as the proton and the electron approach each other?
+
+ A
+
+B
+
+ C
+
+D
+(2)
+
+0
+F
+r2
+F
+r2
+0
+F
+0
+ r2
+F
+r2
+0
+
+=== page 6 ===
+Physical Sciences/P1 6  DBE/November 2022
+ NSC
+Copyright reserved                                     Please turn over
+
+1.8 The emf of a battery is  Ɛ and its  internal resistance is r. The battery is
+connected to three  resistors and f our voltmeters , as shown below. The
+resistance of the conducting wires is negligible , while the voltmeters have
+very high resistances.
+
+ Which ONE of the following  equations represents the reading on voltmeter V1
+in terms of the readings on the other voltmeters?
+
+ A
+
+B
+
+C
+
+D
+V1 = V2 + V3
+
+V1 = V2 +
+
+ V3
+
+V1 = V2 + V3 + V4
+
+V1 = V2 + 2V3
+
+(2)
+
+R1
+R2
+R3
+V1
+V2
+V3
+V4
+S
+ r
+Ɛ
+
+=== page 7 ===
+Physical Sciences/P1 7  DBE/November 2022
+ NSC
+Copyright reserved                                     Please turn over
+
+1.9 An AC generator consists of a  coil which is rotated in a magnetic field. The
+emf time graph for one complete rotation of the coil is shown below.
+
+ If the  speed of rotation of the coil is now DOUBLED , w hich ONE of the
+following graphs is CORRECT for one complete rotation of the coil?
+
+ A
+
+B
+
+ C
+
+D
+
+(2)
+
+150
+0,2
+emf (V)
+0
+ time (s)
+emf (V)
+300
+0,1
+time (s)
+0
+0,2
+0
+150
+time (s)
+emf (V)
+emf (V)
+0,1
+0
+150
+time (s)
+emf (V)
+300
+0,2
+time (s)
+0
+
+=== page 8 ===
+Physical Sciences/P1 8  DBE/November 2022
+ NSC
+Copyright reserved                                     Please turn over
+
+1.10 White light is passed through a cold gas and then through a prism, as shown
+below. A line spectrum is observed on the screen.
+
+ Which ONE of the following correctly describes the ENERGY TRANSITION of
+the atoms of the gas and the TYPE OF LINE SPECTRUM observed on the
+screen?
+
+  ENERGY TRANSITION TYPE OF LINE SPECTRUM
+ A Higher to lower energy level Emission
+ B Lower to higher energy level Emission
+ C Higher to lower energy level Absorption
+ D Lower to higher energy level Absorption  (2)
+     [20]
+
+White light
+ Cold gas
+ Prism
+ Screen
+
+=== page 9 ===
+Physical Sciences/P1 9  DBE/November 2022
+ NSC
+Copyright reserved                                     Please turn over
+
+QUESTION 2 (Start on a new page.)
+
+Crate P of mass 1,25 kg is connected to another crate , Q, of mass 2  kg by a light
+inextensible string. The two crates are placed on a rough horizontal surface. A
+constant force F of magnitude 7,5 N, acting at angle  to the horizontal, is applied on
+crate Q, as shown in the diagram below.
+
+The crates accelerate at 0,  m∙s-2 to the right.
+
+Crate P experiences a constant frictional force of 1,8  N and crate  Q experiences a
+constant frictional force of 2,2 N.
+
+2.1 State Newton's Second Law of Motion in words.  (2)
+
+2.2 Draw a labelled free-body diagram for crate P.   (4)
+
+2.3 Calculate the magnitude of:
+
+ 2.3.1 The tension in the string  (4)
+
+ 2.3.2 Angle θ  (3)
+    [13]
+
+F = 7,5 N
+θ
+Q
+2 kg
+P
+1,25 kg
+string
+
+=== page 10 ===
+Physical Sciences/P1 10  DBE/November 2022
+ NSC
+Copyright reserved                                     Please turn over
+
+QUESTION 3 (Start on a new page.)
+
+A ball is thrown vertically upwards from the top of a  building of height 25 m with a
+velocity of    m∙s -1. On its way down, the ball  passes a door which has a height of
+1,9 m and then strikes the ground, as shown in the diagram below.
+
+Ignore the effects of air friction.
+
+3.1 Define the term free fall.  (2)
+
+3.2 Calculate the:
+
+ 3.2.1  Time taken for the ball to reach its maximum height  (3)
+
+ 3.2.2 Velocity with which the ball strikes the ground  (4)
+
+ 3.2.3 Time it took the ball to move from the top of the door to the ground  (4)
+
+3.3 Draw a velocity versus time graph for the motion of the ball from the moment
+that the ball is thrown upward s until it strikes the ground. Use the ground as
+zero reference.
+
+Clearly indicate the following on your graph:
+
+ The velocity with which the ball was thrown upwards
+ Time taken by the ball to reach its maximum height
+ The velocity with which the ball strikes the ground
+
+(3)
+   [16]
+
+1,9 m
+ m
+   m∙s-1
+25 m
+door
+ground
+
+=== page 11 ===
+Physical Sciences/P1 11  DBE/November 2022
+ NSC
+Copyright reserved                                     Please turn over
+
+QUESTION 4 (Start on a new page.)
+
+Trolley X  of m ass 1,2 kg travels at 8 m∙ s-1 east and collides with trolley Y of mass
+0,5 kg which is initially at rest.
+
+Ignore all frictional effects.
+
+The velocity-time graph below shows the velocity of trolley X before, during and after
+the collision with trolley Y.
+
+4.1 State the principle of conservation of linear momentum.  (2)
+
+4.2 Calculate the magnitude of the:
+
+ 4.2.1  Velocity of trolley Y immediately after the collision  (4)
+
+ 4.2.2 Average net f orce that trolley X exerts on trolley Y  during the
+collision
+
+(3)
+
+4.3 Is the collision ELASTIC or INELASTIC?
+
+Explain the answer by means of suitable calculations.
+
+(5)
+   [14]
+
+20
+8
+Velocity (m∙s-1)
+VELOCITY-TIME GRAPH FOR TROLLEY X
+
+4
+Time (s)
+0
+20,1
+ 20,2
+
+=== page 12 ===
+Physical Sciences/P1 12  DBE/November 2022
+ NSC
+Copyright reserved                                     Please turn over
+
+QUESTION 5 (Start on a new page.)
+
+A 12 kg block  is initially at rest  at point A at the bottom of  a ROUGH inclined plane.
+The block is pulled up the incline by a constant force  F acting parallel to the incline .
+The block reaches point B, which is at a vertical height of 4,5  m above the horizontal,
+with a speed of 2,25 m·s-1. See the diagram below.
+
+5.1 Define the term non-conservative force.  (2)
+
+5.2 Draw a labelled free -body diagram for the block when it is pulled up the
+inclined plane.
+
+(4)
+
+5.3 Calculate the total work done on the block by  the NON-CONSERVATIVE
+forces when the block moved from point A to point B.
+
+(4)
+
+The same constant force F now moves the block at a CONSTANT VELOCITY across a
+rough horizontal surface from point B to point C, as shown below. Force F acts parallel
+to the horizontal surface.
+
+The magnitude of the constant frictional force acting on  the block while moving from
+point B to point C is 42 N LARGER than the magnitude of the constant frictional force
+acting on the block when it moves from point A to point B.
+
+5.4 Calculate the distance from point A to point B.  (5)
+   [15]
+
+4,5 m
+A
+B
+ F
+A
+B
+ C
+F
+  12 kg
+12 kg
+4,5 m
+
+=== page 13 ===
+Physical Sciences/P1 13  DBE/November 2022
+ NSC
+Copyright reserved                                     Please turn over
+
+QUESTION 6 (Start on a new page.)
+
+A learner investigates the relationship between the observed frequency and the
+frequency of sound waves emitted by a stationary source.
+
+The learner moves towards the source at a constant velocity and records the observed
+frequency (fL) for a given source frequency  (fS) . This process is repeated for different
+frequencies of the source, with the learner moving at the same constant velocity each
+time.
+
+The graph below sho ws how the observed frequency changes as the frequency of
+sound waves emitted by the source changes.
+
+6.1 Name the phenomenon illustrated by the graph.  (1)
+
+6.2 Name ONE application in the medical field of the phenomenon in
+QUESTION 6.1.
+
+(1)
+
+6.3 Write down the type of proportionality that exists between fL and fS, as
+illustrated by the graph.
+
+(1)
+
+6.4 The gradient of the graph obtained is found to be 1,06.
+
+If the speed of sound in air is 340 m·s -1, calculate the magnitude of the
+velocity at which the learner approaches the source.
+
+(5)
+
+The investigation i s now repeated with the learner  moving at a HIGHER constant
+velocity towards the sound source.
+
+6.5 Copy the graph above in your ANSWER BOOK and label it as A. On the
+same set of axes , sketch the graph that will be obtained when the learner is
+moving at the HIGHER velocity. Label this graph as B.
+
+(2)
+   [10]
+
+0
+fL (Hz)
+fS (Hz)
+
+=== page 14 ===
+Physical Sciences/P1 14  DBE/November 2022
+ NSC
+Copyright reserved                                     Please turn over
+
+QUESTION 7 (Start on a new page.)
+
+A charged sphere M is suspended from a ceiling by a light inextensible , insulated
+string.
+
+Another charged sphere N, of mass 2 ,04 x 10 -3 kg and carrying a charge of
++ 8,6 x 10 -8 C, hangs STATIONARY vertically below sphere M. The centre s of the
+spheres are 0,3 m apart, as shown in the diagram below.
+
+7.1 State Coulomb's law in words.  (2)
+
+7.2 State whether the charge on sphere M is POSITIVE or NEGATIVE.  (1)
+
+7.3 Draw a labelled free-body diagram for sphere N.   (2)
+
+7.4 Calculate the magnitude of the charge on sphere M.  (5)
+
+7.5 How does the electrostatic force that sphere M exerts on sphere N compare to
+that exerted by sphere N on sphere M with respect to:
+
+ 7.5.1 Magnitude  (1)
+
+ 7.5.2 Direction  (1)
+
+Point X is 0,1 m vertically below the centre of sphere N, as shown below.
+
+7.6 Calculate the net electric field at point X.  (5)
+   [17]
+
+0,3 m
+N
+ M
+ceiling
+
+0,3 m
+N
+ M
+X
+0,1 m
+ceiling
+
+=== page 15 ===
+Physical Sciences/P1 15  DBE/November 2022
+ NSC
+Copyright reserved                                     Please turn over
+
+QUESTION 8 (Start on a new page.)
+
+The circuit  diagram below shows f our resistors connected to a battery  of emf Ɛ and
+internal resistance r. The resistance s of the ammeter and the connecting wires  are
+negligible, while the voltmeters have very high resistances.
+
+8.1 State Ohm's law in words.  (2)
+
+Switch S is CLOSED.
+
+8.2 The reading on the ammeter is 3,5 A.
+
+ 8.2.1 Calculate the total external resistance of the circuit.  (4)
+
+ 8.2.2 Calculate the reading on voltmeter V1.  (3)
+
+ 8.2.3 How does the reading on voltmeter V2 compare to the reading on
+voltmeter V1? Choose from SMALLER THAN, EQUAL TO or
+GREATER THAN.
+
+(1)
+
+8.3 A learner conclude s that the emf of the battery is equal to the reading on
+voltmeter V1.
+
+ 8.3.1 Define the term emf.  (2)
+
+ 8.3.2 Is the learner's conclusion CORRECT? Choose from YES or NO.  (1)
+
+ 8.3.3 Give a reason for the answer to QUESTION 8.3.2.  (1)
+
+r
+3,5 A
+S
+V2
+ V1
+3 Ω
+
+1 Ω
+
+4 Ω
+2 Ω
+A
+Ɛ
+
+=== page 16 ===
+Physical Sciences/P1 16  DBE/November 2022
+ NSC
+Copyright reserved                                     Please turn over
+
+Switch S is now removed  and replaced by voltmeter V 2, as shown in the circuit
+diagram below.
+
+8.4 How will EACH of the following change?
+
+(Choose from INCREASES, DECREASES or REMAINS THE SAME.)
+
+ 8.4.1 The power dissipated by the 4 Ω resistor  (1)
+
+ 8.4.2 The reading on voltmeter V1  (1)
+
+8.5 Explain the answer to QUESTION 8.4.2.  (4)
+   [20]
+
+r
+V2
+V1
+3 Ω
+
+1 Ω
+
+4 Ω
+2 Ω
+A
+Ɛ
+
+=== page 17 ===
+Physical Sciences/P1 17  DBE/November 2022
+ NSC
+Copyright reserved                                     Please turn over
+
+QUESTION 9 (Start on a new page.)
+
+9.1 The diagram below shows the initial position of the coil in a  simple
+DC generator. The coil is rotated in an anticlockwise direction, as shown.
+
+ 9.1.1 Name the component in this generator that ensures that the
+induced current in the external circuit is in one direction only.
+
+(1)
+
+ 9.1.2 Is the direction of the induced current from X to Y or
+from Y to X?
+
+(1)
+
+ A maximum voltage of 90  V is generated when the coil  is rotating at a
+frequency of 20 Hz.
+
+ 9.1.3 Write down the time taken for the coil to complete ONE rotation.  (1)
+
+ 9.1.4 The coil starts rotating from the initial position , as shown in the
+diagram above.
+
+Sketch a graph  of output voltage versus time for one complete
+rotation of the coil. Indicate the maximum voltage and the relevant
+time values on the graph.
+
+(4)
+
+9.2 Wall sockets supply rms voltage and current.
+
+A 220 V AC voltage is supplied from a wall s ocket to an electric kettle having
+a resistance of 32 Ω.
+
+Calculate the average energy dissipated by the kettle in TWO minutes.
+
+(4)
+   [11]
+
+Direction of rotation
+X
+Y
+N
+ S
+
+=== page 18 ===
+Physical Sciences/P1 18      DBE/November 2022
+ NSC
+Copyright reserved
+
+QUESTION 10 (Start on a new page.)
+
+Light is incident on the  cathode of a  photoelectric cell connected to a battery and a
+sensitive ammeter, as shown below.
+
+10.1 What conclusive evidence about the nature of light is provided by the
+photoelectric effect?
+
+(1)
+
+The cathode has a work function of 3,42 x 10-19 J.
+
+10.2 Define the term work function.  (2)
+
+Light of frequency 5,96 x 1014 Hz is shone onto the cathode.
+
+10.3 Calculate the maximum kinetic energy of an electron  ejected from the
+cathode.
+ (4)
+
+10.4 The ammeter registers a constant current of 0,012 A.
+
+Calculate the minimum number of photons of light that strike the cathode in a
+10 s period.
+
+(4)
+
+10.5 The intensity of the incident  light is now INCREASED. How will this change
+affect the reading on the ammeter?
+
+Choose from INCREASES, DECREASES or REMAINS THE SAME.
+Explain the answer.
+
+(3)
+   [14]
+
+ TOTAL:  150
+
+Light incident on
+cathode
+A
+
+=== page 19 ===
+Physical Sciences/P1 1  DBE/November 2022
+ NSC
+Copyright reserved  Please turn over
+
+DATA FOR PHYSICAL SCIENCES GRADE 12
+PAPER 1 (PHYSICS)
+
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 12
+VRAESTEL 1 (FISIKA)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Acceleration due to gravity
+Swaartekragversnelling g 9,8 m·s-2
+Universal gravitational constant
+Universele gravitasiekonstant G 6,67 x 10-11 N·m2·kg-2
+Radius of the Earth
+Radius van die Aarde RE 6,38 x 106 m
+Mass of the Earth
+Massa van die Aarde ME 5,98 x 1024 kg
+Speed of light in a vacuum
+Spoed van lig in 'n vakuum c 3,0 x 108 m·s-1
+Planck's constant
+Planck se konstante h 6,63 x 10-34 J·s
+Coulomb's constant
+Coulomb se konstante k 9,0 x 109 N·m2·C-2
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Electron mass
+Elektronmassa me 9,11 x 10-31 kg
+
+=== page 20 ===
+Physical Sciences/P1 2  DBE/November 2022
+ NSC
+Copyright reserved      Please turn over
+
+TABLE 2:  FORMULAE/TABEL 2:  FORMULES
+
+MOTION/BEWEGING
+tavv if 
+
+2
+2
+1
+i taΔtvΔx   or/of
+2
+2
+1
+i taΔtvΔy 
+xa2vv
+2
+i
+2
+f 
+ or/of
+ya2vv
+2
+i
+2
+f 
+Δt2 vvΔx fi    or/of
+Δt2 vvΔy fi  
+
+FORCE/KRAG
+
+maFnet
+
+mvp
+Nμ=f s
+max
+s
+
+Nμ =f kk
+if
+net
+mv- mv=pΔ
+pΔ=tΔF
+
+mgw
+
+2
+21
+d
+mmG=F
+       or/of
+2
+21
+r
+mmG=F
+
+2d
+MG  g 
+2r
+MG g 
+WORK, ENERGY AND POWER/ARBEID, ENERGIE EN DRYWING
+
+xΔF=W
+cos
+
+mghU           or/of
+mghEP
+2mv21K 
+       or/of
+2
+k mv21E 
+KWnet 
+        or/of
+knet EW 
+
+if KKK 
+     or/of
+kikfk EEE 
+UKWnc 
+ or/of
+pknc EEW 
+
+t
+WP 
+Pave = Fvave    /    Pgemid = Fvgemid
+
+WAVES, SOUND AND LIGHT/GOLWE, KLANK EN LIG
+
+ fv
+
+f
+1T
+s
+s
+L
+L fvv vvf 
+
+b
+b
+L
+L fvv vvf 
+hfE     or/of
+ hcE
+
+k(max)o E WE 
+  or/of
+maxo K WE   where/waar
+hf  E
+ and/en
+00 hfW  and/en
+2
+max(max)k mv21E     or/of
+
+2
+maxmax mv21K 
+
+or/of
+/
+
+=== page 21 ===
+Physical Sciences/P1 3  DBE/November 2022
+ NSC
+Copyright reserved
+
+ELECTROSTATICS/ELEKTROSTATIKA
+
+2
+21
+r
+QkQF
+
+2r
+kQE 
+q
+WV
+
+q
+FE
+
+e
+Q=n
+eq
+Q=n
+
+ELECTRIC CIRCUITS/ELEKTRIESE STROOMBANE
+
+I
+VR 
+
+emf (
+ε ) = I(R + r)
+
+emk (
+ε ) = I(R + r)
+...RRR 21s 
+
+...R1R1R1 21p 
+
+tq  I
+W = Vq
+
+W = VI
+ t
+
+W = I2R
+ t
+
+W =
+R
+ΔtV2
+Δt
+WP 
+
+P = VI
+
+RP 2I
+
+R
+VP 2
+
+ALTERNATING CURRENT/WISSELSTROOM
+
+2
+max
+rms
+II 
+           /
+2
+maks
+wgk
+II 
+
+2
+VV maxrms 
+         /
+2
+VV makswgk 
+rmsrmsave VP I
+    /
+wgkwgkgemid VP I
+
+RP 2rmsave I
+      /
+RP 2wgkgemid I
+
+R
+VP 2rmsave
+       /
+R
+VP 2wgkgemid 
+
+output
+N S
+  or/of

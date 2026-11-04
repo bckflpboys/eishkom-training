@@ -1,0 +1,473 @@
+# PHYSICAL SCIENCES: CHEMISTRY (P2)
+## NASIENRIGLYNE / MARKING GUIDELINES
+### MAY/JUNE 2025
+**MARKS / PUNTE: 150**
+
+---
+
+### QUESTION 1 / VRAAG 1
+
+1.1 B $\checkmark\checkmark$ ACCEPT/AANVAAR 2 (2)
+
+1.2 D $\checkmark\checkmark$ (2)
+
+1.3 D $\checkmark\checkmark$ (2)
+
+1.4 A $\checkmark\checkmark$ (2)
+
+1.5 B $\checkmark\checkmark$ (2)
+
+1.6 C $\checkmark\checkmark$ (2)
+
+1.7 D $\checkmark\checkmark$ (2)
+
+1.8 B $\checkmark\checkmark$ (2)
+
+1.9 C $\checkmark\checkmark$ (2)
+
+1.10 C $\checkmark\checkmark$ (2)
+
+**[20]**
+
+---
+
+### QUESTION 2 / VRAAG 2
+
+2.1 Compounds with one or more multiple bonds between C atoms in the hydrocarbon chain. $\checkmark\checkmark$ (2 or 0)  
+*Verbindings met een of meer meervoudige bindings tussen C-atome in die koolwaterstofkettings. (2 of 0)*
+
+**OR/OF**  
+A hydrocarbon with two or more bonds between the C-atoms.  
+*'n Koolwaterstof met twee of meer bindings tussen die C-atome.*
+
+**OR/OF**  
+Hydrocarbons containing not only single bonds between C atoms.  
+*Koolwaterstowwe wat nie slegs enkelbindings tussen die C-atome bevat nie.*
+
+**ACCEPT/AANVAAR:**  
+Compounds with one or more double/triple bonds between C atoms in the hydrocarbon chain.  
+*Verbindings met een of meer dubbel/trippelbindings tussen C-atome in die koolwaterstofkettings.* (2)
+
+2.2 
+2.2.1 E $\checkmark$ (1)
+
+2.2.2 F $\checkmark$ (1)
+
+2.3 Ketones/Ketone $\checkmark$  
+Aldehydes/Aldehiede $\checkmark$ (2)
+
+2.4 Tertiary/Tersiêre $\checkmark$  
+
+The hydroxyl group/functional group ($\text{-OH}$) is bonded to a C atom that is bonded to three other C atoms. $\checkmark$  
+*Die hidroksiel/funksionele groep ($\text{-OH}$) is gebind aan 'n C-atoom wat aan drie ander C-atome gebind is.*
+
+**OR/OF**  
+The functional group $\left(\begin{array}{c}\text{l}\\-\text{C}-\\\text{l}\\\text{OH}\end{array}\right)$ is bonded to three other C atoms.  
+*Die funksionele groep $\left(\begin{array}{c}\text{l}\\-\text{C}-\\\text{l}\\\text{OH}\end{array}\right)$ is gebind aan drie ander C-atome.* (2)
+
+2.5 
+2.5.1 
+> **Marking criteria:**
+> * Correct stem, i.e. hexane. $\checkmark$
+> * Both substituent (ethyl and iodo) correctly identified. $\checkmark$
+> * IUPAC name completely correct including numbering, sequence, hyphens and commas. $\checkmark$
+> 
+> **Nasienkriteria:**
+> * Korrekte stam, d.i. heksaan. $\checkmark$
+> * Beide substituent (etiel en jodo) korrek geïdentifiseer. $\checkmark$
+> * IUPAC-naam heeltemal korrek insluitende nommering, volgorde, koppeltekens en kommas. $\checkmark$
+
+3-ethyl-4-iodohexane / 3-etiel-4-jodoheksaan $\checkmark\checkmark\checkmark$ (3)
+
+2.5.2 
+> **Marking criteria / Nasienkriteria:**
+> * Correct stem and substituents: methyl and propanol $\checkmark$  
+>   *Korrekte stam en substituente: metiel en propanol*
+> * IUPAC name completely correct including numbering, sequence, hyphens and commas. $\checkmark$  
+>   *IUPAC-naam heeltemal korrek insluitende nommering, volgorde, koppeltekens en kommas.*
+
+2-methylpropan-1-ol / 2-methyl-1-propanol / methylpropan-1-ol / methyl-1-propanol $\checkmark\checkmark$  
+*2-metielpropan-1-ol / 2-metiel-1-propanol / metielpropan-1-ol / metiel-1-propanol* (2)
+
+2.6 
+2.6.1 Esterification / Condensation / Verestering / Esterifikasie / Kondensasie $\checkmark$ (1)
+
+2.6.2 
+> **Marking criteria / Nasienkriteria:**
+> * Functional group correct. $\checkmark$  
+>   *Funksionele groep korrek.*
+> * Whole structure correct. $\checkmark$  
+>   *Hele struktuur korrek.*
+
+$$\text{H}-\text{C}-\text{C}-\text{C}-\text{C}-\text{O}-\text{C}-\text{C}-\text{H}$$
+*(Structure diagram)*
+
+**IF/INDIEN**
+* More than one functional group/wrong functional group:  
+  *Meer as een funksionele groep/foutiewe funksionele groep:* $\frac{0}{2}$
+* If condensed structural formulae used / *Indien gekondenseerde struktuurformules gebruik:* Max./Maks. $\frac{1}{2}$ (2)
+
+2.7 
+2.7.1 $\text{C}_2\text{H}_4\text{O}$ $\checkmark$ (1)
+
+2.7.2 
+> **Marking criteria / Nasienkriteria:**
+> * Correct functional group. $\checkmark$  
+>   *Korrekte funksionele groep.*
+> * Whole structure correct. $\checkmark$  
+>   *Hele struktuur korrek.*
+
+$$\text{H}-\text{C}-\text{C}=\text{C}-\text{H}$$
+*(Structure diagram)*
+
+**IF/INDIEN**
+* More than one functional group/wrong functional group:  
+  *Meer as een funksionele groep/foutiewe funksionele groep:* $\frac{0}{2}$
+* If condensed structural formulae used / *Indien gekondenseerde struktuurformules gebruik:* Max./Maks. $\frac{1}{2}$ (2)
+
+**[19]**
+
+---
+
+### QUESTION 3 / VRAAG 3
+
+3.1.1 (A series of organic) compounds that can be described by the same general formula. $\checkmark\checkmark$ (2 or 0)  
+
+**OR**  
+(A series of organic) compounds in which one member differs from the next by a $\text{CH}_2$ group.  
+
+*('n Reeks organiese) verbindings wat deur dieselfde algemene formule beskryf kan word. $\checkmark\checkmark$ (2 of 0)*  
+**OF**  
+*('n Reeks organiese) verbindings waarin die een lid van die volgende verskil met 'n $\text{CH}_2$-groep* (2)
+
+3.1.2 
+(a) Formyl (group) / Formiel(groep) $\checkmark$ (1)
+
+(b) 
+> **Marking criteria:**
+> * Correct chain length, i.e. Meth. $\checkmark$
+> * Everything else correct. $\checkmark$
+> 
+> **Nasienkriteria:**
+> * Korrekte kettinglengte d.i. Met. $\checkmark$
+> * Alles verder reg $\checkmark$
+
+Methanal / Metanaal $\checkmark\checkmark$ (2)
+
+3.1.3 
+(a) Homologous series / Functional group / Type of intermolecular forces / Straight chain / Atmospheric pressure $\checkmark$  
+*Homoloë reeks / Funksionele groep / Tipe intermolekulêre kragte / Reguitketting / Atmosferiese druk* (1)
+
+(b) The boiling points of the carboxylic acids increase with an increase in the chain length / the number of carbon atoms / surface area / molecular mass.  
+**OR**  
+The boiling points of the carboxylic acids decrease with a decrease in the chain length / number of carbon atoms / surface area / molecular mass. $\checkmark$  
+
+*Die kookpunte van die karboksielsure neem toe met 'n toename in die kettinglengte / aantal koolstofatome / reaksieoppervlak / molekulêre massa.*  
+**OF**  
+*Die kookpunte van die karboksielsure neem af met 'n afname in die kettinglengte / aantal koolstofatome / reaksieoppervlak / molekulêre massa.* (1)
+
+(c) 
+> **Marking criteria:**  
+> **For increasing or decreasing number of C atoms**
+> * Compare the strength of intermolecular forces. $\checkmark$
+> * Compare the energy required to overcome intermolecular forces. $\checkmark$
+> 
+> **Nasienkriteria:**  
+> **Vir toename of afname in aantal C-atome**
+> * Vergelyk die sterkte van intermolekulêre kragte. $\checkmark$
+> * Vergelyk die energie benodig om intermolekulêre kragte te oorkom. $\checkmark$
+
+As the number of C atoms / chain length / surface area / contact area / molecular mass increases  
+* The strength of intermolecular / London / dispersion forces increases. $\checkmark$
+* More energy is needed to overcome intermolecular forces / London / dispersion forces. $\checkmark$  
+
+**OR**  
+As the number of C atoms / chain length / surface area / contact area / molecular mass decreases  
+* The strength of intermolecular / London / dispersion forces decreases. $\checkmark$
+* Less energy is needed to overcome intermolecular forces / London / dispersion forces. $\checkmark$  
+
+*Met toename in aantal C-atome / kettinglengte / reaksieoppervlak / kontakarea / molekulêre massa.*  
+* Die sterkte van die intermolekulêre kragte / Londonkragte / dispersiekragte neem toe. $\checkmark$
+* Meer energie word benodig om die intermolekulêre kragte / Londonkragte / dispersiekragte te oorkom / breek. $\checkmark$  
+
+**OF**  
+*Met afname in aantal C-atome / kettinglengte / reaksieoppervlak / kontakarea / molekulêre massa.*  
+* Die sterkte van die intermolekulêre kragte / Londonkragte / dispersiekragte neem af. $\checkmark$
+* Minder energie word benodig om die intermolekulêre kragte / Londonkragte / dispersiekragte te oorkom / breek. $\checkmark$ (2)
+
+3.1.4 $75\text{ }^\circ\text{C}$ $\checkmark$ (1)
+
+3.2 
+> **Marking criteria:**
+> * Higher than $\checkmark$
+> * State that carboxylic acids have more than one (two) site for hydrogen bonding and alcohols have one site for hydrogen bonding. $\checkmark$
+> * Comparing the strength of IMFs. $\checkmark$
+> * Comparing the number of molecules in a vapour phase at a given temperature / energy needed to overcome IMFs. $\checkmark$
+> 
+> **Nasienkriteria:**
+> * Hoër as $\checkmark$
+> * Stel dat karboksielsure het meer as een (twee) plekke vir waterstofbindings en dat alkohole een plek het vir waterstofbinding. $\checkmark$
+> * Vergelyk die sterkte van die IMK's / energie benodig om IMK's te oorkom. $\checkmark$
+> * Vergelyk die hoeveelheid molekules in die dampfase by 'n gegewe temperatuur / energie nodig om die IMK te oorkom. $\checkmark$
+
+* Higher than $\checkmark$
+* Compound $\text{B}$ / $\text{CH}_3\text{CH}_2\text{CH}_2\text{COOH}$ / Carboxylic acid / Butanoic acid has (in addition to London forces and dipole-dipole forces), more than one site (two) for hydrogen bonding between molecules and compound $\text{A}$ / $\text{CH}_3\text{CH}_2\text{CH}_2\text{CH}_2\text{CH}_2\text{OH}$ / Alcohol / Pentan-1-ol has (in addition to London forces and dipole-dipole forces) one site for hydrogen bonding between molecules. $\checkmark$
+* Intermolecular forces in compound $\text{B}$ / $\text{CH}_3\text{CH}_2\text{CH}_2\text{COOH}$ / Carboxylic acids / Butanoic acid are stronger. $\checkmark$
+* More energy needed to overcome/break intermolecular forces in compound $\text{B}$ / $\text{CH}_3\text{CH}_2\text{CH}_2\text{COOH}$ / Carboxylic acid / Butanoic acid.  
+  **OR**  
+  At a given temperature there will be fewer molecules of compound $\text{B}$ / $\text{CH}_3\text{CH}_2\text{CH}_2\text{COOH}$ / Carboxylic acids / Butanoic acid in the vapour phase. $\checkmark$
+
+**OR / OF**
+
+* Higher than $\checkmark$
+* Compound $\text{A}$ / $\text{CH}_3\text{CH}_2\text{CH}_2\text{CH}_2\text{CH}_2\text{OH}$ / Alcohol / Pentan-1-ol has (in addition to London forces and dipole-dipole forces) one site for hydrogen bonding between molecules and compound $\text{B}$ / $\text{CH}_3\text{CH}_2\text{CH}_2\text{COOH}$ / Carboxylic acid / Butanoic acid has, (in addition to London forces and dipole-dipole forces), more than one site (two) for hydrogen bonding between molecules. $\checkmark$
+* Intermolecular forces in compound $\text{A}$ / $\text{CH}_3\text{CH}_2\text{CH}_2\text{CH}_2\text{CH}_2\text{OH}$ / Alcohol / Pentan-1-ol are weaker. $\checkmark$
+* Less energy needed to overcome/break intermolecular forces in compound $\text{A}$ / $\text{CH}_3\text{CH}_2\text{CH}_2\text{CH}_2\text{CH}_2\text{OH}$ / Pentan-1-ol / Alcohol.  
+  **OR**  
+  At a given temperature there will be more molecules of compound $\text{A}$ / $\text{CH}_3\text{CH}_2\text{CH}_2\text{CH}_2\text{CH}_2\text{OH}$ / Alcohol / Pentan-1-ol in the vapour phase. $\checkmark$
+
+*(Afrikaans translations included in original memo)* (4)
+
+**[14]**
+
+---
+
+### QUESTION 4 / VRAAG 4
+
+4.1 
+4.1.1 Hydrogenation / Hidrogenering / Hidrogenasie $\checkmark$ (1)
+
+4.1.2 Dehydration / Dehidrasie / Dehidratering $\checkmark$ (1)
+
+4.2 
+> **Marking criteria:**
+> * Correct chain length, i.e. But. $\checkmark$
+> * Everything else correct: IUPAC name completely correct including numbering. $\checkmark$
+> 
+> **Nasienkriteria:**
+> * Korrekte kettinglengte d.i. But. $\checkmark$
+> * Alles verder reg: IUPAC-naam heeltemal korrek insluitende nommering. $\checkmark$
+
+Butan-1-ol / 1-butanol $\checkmark\checkmark$ (2)
+
+4.3 
+4.3.1 
+> **Marking criteria / Nasienkriteria:**
+> * Whole condensed structural formula of alkene correct. $\checkmark$  
+>   *Hele gekondenseerde struktuurformule van die alkeen korrek.*
+> * $\text{H}_2\text{O}$. $\checkmark$
+> * Hydroxyl group / $\text{OH}$. $\checkmark$  
+>   *Hidroksielgroep/OH.*
+> * Whole condensed structural formula of alcohol correct ($\text{OH}$ on second C-atom). $\checkmark$  
+>   *Hele gekondenseerde struktuurformule van alkohol korrek ($\text{OH}$ op tweede C-atoom).*
+> 
+> **IF/INDIEN**
+> * Any additional reactants or products / *Enige addisionele reaktanse of produkte:* Deduct 1 mark / *Trek 1 punt af.*
+> * Structural formulae used / *Struktuurformule gebruik:* Max./Maks. $\frac{3}{4}$
+> * Molecular formulae used / *Molekulêre formule gebruik:* Max./Maks. $\frac{1}{4}$
+> * Only reactants without arrow / *Slegs reaktanse sonder pyl:* Max./Maks. $\frac{2}{4}$  
+>   *Marking rule 6.3.10 / Nasienreël 6.3.10*
+
+$$\text{CH}_2\text{CHCH}_2\text{CH}_3\checkmark + \text{H}_2\text{O}\checkmark \rightarrow \text{CH}_3\text{CHOHCH}_2\text{CH}_3\checkmark$$
+**OR/OF**  
+$$\text{CH}_2=\text{CHCH}_2\text{CH}_3\checkmark + \text{H}_2\text{O}\checkmark \rightarrow \text{CH}_3\text{CH(OH)CH}_2\text{CH}_3\checkmark$$ (4)
+
+4.3.2 Sulphuric acid / $\text{H}_2\text{SO}_4$ / Phosphoric acid / $\text{H}_3\text{PO}_4$ / Swawelsuur / Fosforsuur $\checkmark$ (1)
+
+4.4 
+> **Marking criteria / Nasienkriteria:**
+> * $\text{X}_2 = \text{Br}_2 / \text{Cl}_2$. $\checkmark$
+> * Whole structural formula of haloalkane correct. $\checkmark$  
+>   *Hele struktuurformule van haloalkaan korrek.*
+> * $\text{H}_2\text{O} / \text{NaOH} / \text{KOH} / \text{LiOH}$. $\checkmark$
+> * Whole structural formula of alcohol correct. $\checkmark$  
+>   *Hele struktuurformule van alkohol korrek.*
+> * $\text{HX} / \text{NaX} / \text{KX} / \text{LiX}$ where/waar $\text{X} = \text{Br/Cl}$. $\checkmark$
+> 
+> **IF/INDIEN**
+> * Any additional reactants or products / *Enige addisionele reaktanse of produkte:* Max./Maks. $\frac{4}{5}$
+> * Condensed structural formulae used / *Gekondenseerde struktuurformule gebruik:* deduct 1 mark / *trek 1 punt af.*
+> * If inorganic product does not correspond with inorganic reactant: no mark for inorganic product. / *Indien anorganiese produk nie met die anorganiese reaktans ooreenstem nie, geen punt vir anorganiese produk.*
+> * Molecular formulae used / *Molekulêre formule gebruik:* Max./Maks. $\frac{3}{5}$
+> * Marking rule 6.3.10 / *Nasienreël 6.3.10*
+
+*(Structural equations with haloalkane formation and substitution to form alcohol as shown in official document)* (5)
+
+4.5 
+$$2\text{C}_4\text{H}_{10}\checkmark + 13\text{O}_2 \rightarrow 8\text{CO}_2 + 10\text{H}_2\text{O}\checkmark \quad \text{Bal. }\checkmark$$
+Ignore phases. / *Ignoreer fases.*
+> **Marking criteria / Nasienkriteria:**
+> * $\text{C}_4\text{H}_{10}\checkmark \quad \text{O}_2\text{, CO}_2\text{ and/en H}_2\text{O}\checkmark \quad \text{Balancing/Balansering}\checkmark$
+> * Ignore double arrows. / *Ignoreer dubbelpyle.*
+> * Marking rule 6.3.10 / *Nasienreël 6.3.10.*
+> 
+> **IF/INDIEN:**
+> * Structural formulae $\text{C}_4\text{H}_{10}$ used / *Struktuurformule $\text{C}_4\text{H}_{10}$ gebruik:* Max./Maks. $\frac{2}{3}$
+> * Balancing mark only if everything else is correct / *Balanseringspunt slegs indien alles korrek.* (3)
+
+**[17]**
+
+---
+
+### QUESTION 5 / VRAAG 5
+
+5.1 **NOTE / NOTA:** Give the mark for per unit time only if in context of reaction rate.  
+*Gee die punt vir per eenheidtyd slegs indien in konteks van reaksietempo.*
+
+**ANY ONE / ENIGE EEN:**
+* Change in concentration $\checkmark$ of products/reactants per (unit) time. $\checkmark$  
+  *Verandering in konsentrasie van produkte/reaktanse per (eenheid)tyd.*
+* Change in amount/number of moles/volume/mass of products or reactants per (unit) time.  
+  *Verandering in hoeveelheid/getal mol/volume/massa van produkte of reaktanse per (eenheid)tyd.*
+* Amount/number of moles/volume/mass of products formed/reactants used per (unit) time.  
+  *Hoeveelheid/getal mol/volume/massa van produkte gevorm/reaktanse gebruik per (eenheid)tyd.*
+* Rate of change in concentration/amount/number of moles/volume/mass. $\checkmark\checkmark$ (2 or 0)  
+  *Tempo van verandering in konsentrasie / hoeveelheid / getal mol / volume / massa.* (2)
+
+5.2 **ANY ONE / ENIGE EEN:**  
+Temperature $\checkmark$ / (Initial) amount/Mass of magnesium carbonate / Surface area  
+*Temperatuur $\checkmark$ / (Aanvanklike) hoeveelheid/Massa van magnesiumkarbonaat / Reaksieoppervlak* (1)
+
+5.3 $\text{CO}_2$/gas escapes from the reaction flask. $\checkmark$  
+*$\text{CO}_2$/gas ontsnap uit die reaksiefles.* (1)
+
+5.4 
+> **Marking criteria:**
+> (a) Mass subtraction $\checkmark$
+> (b) Formula: $n = \frac{m}{M}$ or $V = nV_m$ $\checkmark$
+> (c) Substitute $M = 44\text{ g}\cdot\text{mol}^{-1}$ in $n(\text{CO}_2) = \frac{m}{M}$ with $m(\text{CO}_2)$ from (a) $\checkmark$
+> (d) Substitute $24,5\text{ dm}^3$ in $V = nV_m$ with $n(\text{CO}_2)$ $\checkmark$
+> (e) Substitute $V_{\text{CO}_2}$ and $120$ in rate formula $\checkmark$
+> (f) Final correct answer: $2,92 \times 10^{-3}\text{ (dm}^3\cdot\text{s}^{-1})$ $\checkmark$  
+> Range: $2,08 \times 10^{-3}$ to $3 \times 10^{-3}$
+> 
+> **Nasienkriteria:**
+> (a) Aftrek van massas. $\checkmark$
+> (b) Formula: $n = \frac{m}{M}$ or $V = nV_m$ $\checkmark$
+> (c) Vervang $M = 44\text{ g}\cdot\text{mol}^{-1}$ in $n(\text{CO}_2) = \frac{m}{M}$ met $m(\text{CO}_2)$ van (a) $\checkmark$
+> (d) Vervang $24,5\text{ dm}^3$ in $V = nV_m$ met $n(\text{CO}_2)$ $\checkmark$
+> (e) Vervang $V_{\text{CO}_2}$ en $120$ in tempoformule $\checkmark$
+> (f) Finale korrekte antwoord: $2,92 \times 10^{-3}\text{ (dm}^3\cdot\text{s}^{-1})$ $\checkmark$  
+> Gebied: $2,08 \times 10^{-3}$ tot $3 \times 10^{-3}$
+
+$$m(\text{CO}_2) = 144,5 - 143,87 = 0,63\text{ g} \quad \checkmark \text{ (a)}$$
+$$n(\text{CO}_2) = \frac{m}{M} = \frac{0,63}{44}\checkmark \text{ (c)} = 1,43 \times 10^{-2}\text{ mol} \quad \checkmark \text{ (b)}$$
+$$V(\text{CO}_2) = nV_m = (1,43 \times 10^{-2})(24,5)\checkmark \text{ (d)} = 0,35\text{ dm}^3$$
+$$\text{Ave rate / gem tempo} = \frac{\Delta V(\text{CO}_2)}{\Delta t} = \frac{0,35 - (0)}{120 - (0)}\checkmark \text{ (e)} = 2,92 \times 10^{-3}\text{ (dm}^3\cdot\text{s}^{-1})\quad \checkmark \text{ (f)}$$ (6)
+
+5.5 
+> **Marking criteria:**
+> * $\text{A}$ $\checkmark$
+> * Comparison of the curves of the graph $\checkmark$
+> * Comparison of concentration of $\text{HCl}$ (from table) $\checkmark$
+> * Explanation of collision theory for LOWER concentration $\checkmark\checkmark$
+> 
+> **Nasienkriteria:**
+> * $\text{A}$ $\checkmark$
+> * Vergelyk die kurwes van grafiek $\checkmark$
+> * Vergelyk die konsentrasie van $\text{HCl}$ (vanaf tabel) $\checkmark$
+> * Verduidelik botsingsteorie vir LAER konsentrasie $\checkmark\checkmark$
+
+$\text{A}$ $\checkmark$
+* Gradient is least steep / lowest reaction rate / least amount of gas produced in $120\text{ s}$. $\checkmark$
+* Lowest concentration of $\text{HCl(aq)}$. $\checkmark$
+* Least/Less particles per unit volume. $\checkmark$
+* Least/Less effective collisions per unit time/second. $\checkmark$ **OR** Lowest/Lower frequency of effective collisions.  
+
+*(Afrikaans translations provided in original memo)* (5)
+
+5.6 The same / *Dieselfde* $\checkmark$  
+The same amount $\text{MgCO}_3$ is used in each experiment. / *Dieselfde hoeveelheid $\text{MgCO}_3$ is gebruik in elke eksperiment.* (2)
+
+**[17]**
+
+---
+
+### QUESTION 6 / VRAAG 6
+
+6.1 
+6.1.1 Remains the same / Bly dieselfde $\checkmark$ (1)
+
+6.1.2 Decreases / Neem af $\checkmark$ (1)
+
+6.1.3 Remains the same / Bly dieselfde $\checkmark$ (1)
+
+6.2 * Decrease in pressure favours the reaction that produces a greater number of moles/amount of gas. $\checkmark$  
+  *'n Verlaging in druk bevoordeel die reaksie wat 'n groter aantal mol/hoeveelheid gas produseer.*
+* Forward reaction is favoured. $\checkmark$ / $[\text{CO}]$ increases AND $[\text{CO}_2]$ decreases  
+  *Voorwaartse reaksie word bevoordeel. / $[\text{CO}]$ neem toe EN $[\text{CO}_2]$ neem af* (2)
+
+6.3 
+> **Marking criteria:**
+> (a) Substitute 44 in $n = \frac{m}{M}$ $\checkmark$
+> (b) Change in mass of carbon: $m(C_i) - m(C_f) / n(C_i) - n(C_f)$ $\checkmark$
+> (c) Substitute 12 in $n = \frac{m}{M}$ $\checkmark$
+> (d) Use mole ratio 1:1 $\checkmark$
+> (e) $n(\text{CO}_2)_{\text{eq}} = n(\text{CO}_2)_{\text{initial}} - n(\text{CO}_2)_{\text{used}}$ OR $m(\text{CO}_2)_{\text{eq}} = m(\text{CO}_2)_{\text{initial}} - m(\text{CO}_2)_{\text{used}}$ $\checkmark$
+> (f) Final answer: $6,16\text{ g}$ $\checkmark$ (Range: 6 to $6,16\text{ g}$)
+> 
+> **NOTE:** If (b) $\Delta m(\text{C})$ or $\Delta n(\text{C})$ is not calculated max $\frac{2}{6}$
+
+*(Calculations shown via Options 1, 2, and 3 in original marking guideline leading to $X = 6,16\text{ g}$)* (6)
+
+6.4 **POSITIVE MARKING FROM QUESTION 6.3**  
+> **Marking criteria:**
+> (a) Use of ratio $n(\text{CO}_2) : n(\text{CO}) = 1 : 2$. $\checkmark$
+> (b) Divide by $3\text{ dm}^3$ $\checkmark$
+> (c) Correct $K_c$ expression (formulae in square brackets). $\checkmark$
+> (d) Substitute of concentration into $K_c$ expression. $\checkmark$
+> (e) Final answer: $5,98$ $\checkmark$ (Range: $5,98 - 7,29$)
+
+$$K_c = \frac{[\text{CO}]^2}{[\text{CO}_2]}\checkmark \text{ (c)}$$
+$$= \frac{(0,53)^2}{0,047}\checkmark \text{ (d)}$$
+$$= 5,98 \quad \checkmark \text{ (e)}$$ (5)
+
+6.5 $\text{Y}$ $\checkmark\checkmark$ (2)
+
+6.6 Remains the same / Bly dieselfde $\checkmark$ (1)
+
+**[19]**
+
+---
+
+### QUESTION 7 / VRAAG 7
+
+7.1 An acid produces hydrogen ions / $\text{H}^+$ / hydronium ions / $\text{H}_3\text{O}^+$ in aqueous solution/water. $\checkmark\checkmark$ (2 or 0)  
+*'n Suur is 'n stof wat waterstofione / $\text{H}^+$ / hidroniumione / $\text{H}_3\text{O}^+$ vorm in waterige oplossing/water. (2 of 0)* (2)
+
+7.2 
+7.2.1 $(\text{COOH})_2$ $\checkmark$ (1)
+
+7.2.2 $\text{NaCl}$ $\checkmark$ (1)
+
+7.2.3 $\text{HCO}_3^-$ $\checkmark$ **OR/OF** $\text{NH}_3$ (1)
+
+7.2.4 $\text{NaOH}$ $\checkmark\checkmark$ **OR/OF** $\text{Mg(OH)}_2$ (2)
+
+7.3 
+> **Marking criteria:**
+> (a) Calculate $n(\text{H}_x\text{Y})$ $\checkmark$
+> (b) Calculate $n(\text{NaOH})$ $\checkmark$
+> (c) Final answer: $x = 2$ $\checkmark$
+> (d) Reactants $\checkmark$ Products $\checkmark$ Balancing $\checkmark$  
+> NOTE: Ignore $\rightleftharpoons$ and phases. Marking rule 6.3.10
+
+$$n_{\text{acid}} = (0,11)(0,02364) = 2,6 \times 10^{-3}\text{ mol} \quad \checkmark \text{ (a)}$$
+$$n_{\text{base}} = (0,26)(0,02) = 5,2 \times 10^{-3}\text{ mol} \quad \checkmark \text{ (b)}$$
+$$\frac{n(\text{H}_x\text{Y})}{n(\text{NaOH})} = \frac{n_a}{n_b} \implies \frac{2,6 \times 10^{-3}}{5,2 \times 10^{-3}} = \frac{1}{n_b} \implies n_b = 2 \implies x = 2 \quad \checkmark \text{ (c)}$$
+$$\text{H}_2\text{Y(aq)} + 2\text{NaOH(aq)}\checkmark \rightarrow \text{Na}_2\text{Y(aq)} + 2\text{H}_2\text{O}(\ell)\checkmark \quad \text{Bal. }\checkmark \text{ (d)}$$ (6)
+
+7.4 
+> **Marking criteria:**
+> (a) Any formula: $\text{pH} = -\log[\text{H}_3\text{O}^+] / \text{pH} = -\log[\text{H}^+] / [\text{H}_3\text{O}^+] = 10^{-\text{pH}}$ $\checkmark$
+> (b) Substitute $1,61$ in $\text{pH} = -\log[\text{H}_3\text{O}^+]$ $\checkmark$
+> (c) Calculate $n(\text{HCl})_{\text{unused}}$ using $c = \frac{n}{V}$ $\checkmark$
+> (d) Calculate $n(\text{HCl})_{\text{initial}}$ using $c = \frac{n}{V}$ $\checkmark$
+> (e) Calculate $n(\text{HCl})_{\text{used}} = n(\text{HCl})_{\text{initial}} - n(\text{HCl})_{\text{unused}}$ $\checkmark$
+> (f) Using ratio 1:2 with USED $\text{HCl}$ from (e) to calculate $n(\text{CaCO}_3)$ $\checkmark$
+> (g) Substitute 100 AND $n(\text{CaCO}_3)$ from (f) in $n = \frac{m}{M}$ $\checkmark$
+> (h) Mass of impurity = $m_{\text{sample}} - m(\text{CaCO}_3)$ $\checkmark$
+> (i) Final answer: $0,25\text{ g}$ $\checkmark$ (Range: $0,2\text{ g}$ to $0,3\text{ g}$)
+
+$$\text{pH} = -\log[\text{H}_3\text{O}^+] \implies 1,61 = -\log[\text{H}_3\text{O}^+] \implies [\text{H}_3\text{O}^+] = 10^{-1,61} = 2,45 \times 10^{-2}\text{ mol}\cdot\text{dm}^{-3} \quad \checkmark \text{ (a, b)}$$
+$$n(\text{HCl})_{\text{unused}} =

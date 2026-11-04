@@ -1,0 +1,441 @@
+NATIONAL SENIOR CERTIFICATE  
+GRADE 12  
+PHYSICAL SCIENCES: CHEMISTRY (P2)  
+NOVEMBER 2024  
+
+---
+
+**MARKS:** 150  
+**TIME:** 3 hours  
+
+---
+
+### INSTRUCTIONS AND INFORMATION
+
+1. Write your centre number and examination number in the appropriate spaces on the ANSWER BOOK.
+2. This question paper consists of NINE questions. Answer ALL the questions in the ANSWER BOOK.
+3. Start EACH question on a NEW page in the ANSWER BOOK.
+4. Number the answers correctly according to the numbering system used in this question paper.
+5. Leave ONE line between two subquestions, e.g. between QUESTION 2.1 and QUESTION 2.2.
+6. You may use a non-programmable calculator.
+7. Show ALL formulae and substitutions in ALL calculations.
+8. Round off your FINAL numerical answers to a minimum of TWO decimal places.
+9. Give brief motivations, discussions, etc. where required.
+10. You are advised to use the attached DATA SHEETS.
+11. Write neatly and legibly.
+
+---
+
+### QUESTION 1: MULTIPLE-CHOICE QUESTIONS
+
+Various options are provided as possible answers to the following questions. Each question has only ONE correct answer. Choose the answer and write only the letter (A–D) next to the question numbers (1.1 to 1.10) in the ANSWER BOOK, e.g. 1.11 E.
+
+1.1 Which ONE of the following compounds has hydrogen bonds between its molecules?
+
+A $\text{CH}_3\text{CH}_2\text{CHO}$  
+B $\text{CH}_3\text{COOCH}_3$  
+C $\text{CH}_3\text{CH}_2\text{CH}_2\text{OH}$  
+D $\text{CH}_3\text{COCH}_3$  
+(2)
+
+1.2 Which ONE of the following is a CORRECT GENERAL FORMULA for the carboxylic acids?
+
+A $\text{C}_n\text{H}_{2n+1}\text{O}_2$  
+B $\text{C}_n\text{H}_{2n}\text{O}_{2n}$  
+C $\text{C}_n\text{H}_{2n}\text{O}_2$  
+D $\text{C}_n\text{H}_n\text{O}_2$  
+(2)
+
+1.3 Study the reactions below.
+
+$$\text{Reaction 1: } \text{CH}_3\text{CH}_2\text{CHOHCH}_3 \xrightarrow[\text{conc.}]{\text{H}_2\text{SO}_4} \text{Compound P (major product)} + \text{H}_2\text{O}$$
+
+$$\text{Reaction 2: } \text{Compound P} \xrightarrow{\text{hydrogenation}} \text{Compound Q}$$
+
+Which ONE of the following combinations is the CORRECT IUPAC names of compounds **P** and **Q**?
+
+| | COMPOUND P | COMPOUND Q |
+|---|---|---|
+| A | But-1-ene | Butane |
+| B | But-2-ene | Butane |
+| C | But-1-ene | Butan-2-ol |
+| D | But-2-ene | Butan-2-ol |
+(2)
+
+1.4 The potential energy diagram below is for the following hypothetical chemical reaction:
+$$\text{X} + \text{Y} \rightleftharpoons \text{Z}$$
+
+[DIAGRAM: A potential energy curve showing reactants $\text{X} + \text{Y}$ at a higher energy level, rising to an activation energy peak, and dropping to products $\text{Z}$ at a lower energy level, indicating an exothermic reaction along the reaction course.]
+
+Which ONE of the following combinations of values for the heat of the reaction and the activation energies can be obtained for this reaction?
+
+| | $\Delta\text{H(forward)}$ ($\text{kJ}\cdot\text{mol}^{-1}$) | $\text{E}_\text{A}\text{(forward)}$ ($\text{kJ}\cdot\text{mol}^{-1}$) | $\text{E}_\text{A}\text{(reverse)}$ ($\text{kJ}\cdot\text{mol}^{-1}$) |
+|---|---|---|---|
+| A | $-400$ | $300$ | $100$ |
+| B | $-200$ | $300$ | $100$ |
+| C | $+400$ | $100$ | $300$ |
+| D | $-200$ | $100$ | $300$ |
+(2)
+
+1.5 Initially, an equal number of moles of hydrogen gas, $\text{H}_2(\text{g})$, and iodine gas, $\text{I}_2(\text{g})$, are mixed in a closed container. The reaction reaches equilibrium at a constant temperature according to the balanced equation.
+
+$$\text{H}_2(\text{g}) + \text{I}_2(\text{g}) \rightleftharpoons 2\text{HI}(\text{g})$$
+
+Which ONE of the following is ALWAYS TRUE at equilibrium?
+
+A $[\text{H}_2] = [\text{I}_2]$  
+B $[\text{HI}] = [\text{I}_2]$  
+C $[\text{HI}] = 2[\text{H}_2]$  
+D $[\text{H}_2] = [\text{I}_2] = [\text{HI}]$  
+(2)
+
+1.6 Consider the following reaction at equilibrium:
+
+$$2\text{SO}_2(\text{g}) + \text{O}_2(\text{g}) \rightleftharpoons 2\text{SO}_3(\text{g}) \quad \Delta\text{H} = -188\text{ kJ}\cdot\text{mol}^{-1}$$
+
+Which ONE of the changes to the reaction conditions below will increase the yield of $\text{SO}_3(\text{g})$?
+
+A The addition of $\text{O}_2(\text{g})$  
+B The addition of a catalyst  
+C An increase in temperature  
+D An increase in the volume of the container at a constant temperature  
+(2)
+
+1.7 The table below shows the ionisation constants, $\text{K}_\text{a}$, for two acids at $25\text{ }^\circ\text{C}$.
+
+| ACID | $\text{K}_\text{a}$ |
+|---|---|
+| Butanoic acid | $1,5 \times 10^{-5}$ |
+| Ethanoic acid | $1,8 \times 10^{-5}$ |
+
+Consider the following statements for these two acids when they have equal concentration at $25\text{ }^\circ\text{C}$:
+
+(i) Both are weak acids.  
+(ii) Butanoic acid is a stronger acid than ethanoic acid.  
+(iii) The butanoic acid solution has a lower concentration of hydronium ion, $\text{H}_3\text{O}^+(\text{aq})$, than the ethanoic acid solution.  
+
+Which of the above statements are TRUE?
+
+A (i) and (ii) only  
+B (i) and (iii) only  
+C (ii) and (iii) only  
+D (i), (ii) and (iii)  
+(2)
+
+1.8 Which ONE of the following pairs of acids and bases, all of the same concentration, react to give the highest pH at the equivalence point in a titration at $25\text{ }^\circ\text{C}$?
+
+A $\text{HCl}$ and $\text{NH}_3$  
+B $\text{HCl}$ and $\text{NaOH}$  
+C $\text{HNO}_3$ and $\text{KOH}$  
+D $\text{CH}_3\text{COOH}$ and $\text{NaOH}$  
+(2)
+
+1.9 A standard galvanic cell is set up, as shown below.
+
+[DIAGRAM: A standard galvanic cell with a $\text{Cd}$ electrode in a $\text{Cd}^{2+}(\text{aq})$ half-cell connected via a salt bridge and voltmeter to an $\text{Ag}$ electrode in an $\text{Ag}^{+}(\text{aq})$ half-cell.]
+
+Which ONE of the following combinations of the metal used as cathode and the electron flow direction is CORRECT?
+
+| | METAL USED AS CATHODE | ELECTRON FLOW DIRECTION |
+|---|---|---|
+| A | $\text{Cd}$ | $\text{Cd}$ to $\text{Ag}$ |
+| B | $\text{Ag}$ | $\text{Cd}$ to $\text{Ag}$ |
+| C | $\text{Cd}$ | $\text{Ag}$ to $\text{Cd}$ |
+| D | $\text{Ag}$ | $\text{Ag}$ to $\text{Cd}$ |
+(2)
+
+1.10 An electrolytic cell is set up to electroplate an iron rod with nickel, as shown in the diagram below.
+
+[DIAGRAM: An electrolytic cell setup with a DC power source connected to two electrodes in an electrolyte solution containing nickel ions, for electroplating an iron rod with nickel.]
+
+Consider the following statements:
+
+(i) The iron rod is the negative electrode.  
+(ii) The metal ions in the solution undergo reduction.  
+(iii) The anode is pure nickel.  
+
+Which of the above statements are TRUE?
+
+A (i) and (ii) only  
+B (i) and (iii) only  
+C (ii) and (iii) only  
+D (i), (ii) and (iii)  
+(2)  
+**[20]**
+
+---
+
+### QUESTION 2 (Start on a new page.)
+
+The letters **A** to **H** in the table below represent organic compounds.
+
+| A | $\text{CH}_3-\text{CH}_2-\text{CH}_2-\text{CHO}$ | B | [DIAGRAM: Structural formula of 3,3-dibromo-2,2-dimethylbutane showing central carbon chain with two methyl groups and two bromine atoms attached] |
+|---|---|---|---|
+| C | Butanone | D | $\text{C}_4\text{H}_{10}\text{O}$ |
+| E | $\text{CH}_3\text{C}(\text{CH}_3)_2\text{CCCH}_3$ | F | $\text{CH}_3\text{COO}(\text{CH}_2)_2\text{CH}_3$ |
+| G | $\text{C}_4\text{H}_8\text{O}_2$ | H | $\text{CH}_3\text{C}(\text{CH}_3)_2\text{CH}_2\text{CH}_3$ |
+
+2.1 Write down the LETTER that represents EACH of the following:
+
+2.1.1 An alcohol (1)  
+2.1.2 A compound with a formyl group (1)  
+2.1.3 An unsaturated compound (1)  
+
+2.2 Write down the IUPAC name of compound:
+
+2.2.1 **B** (3)  
+2.2.2 **E** (3)  
+
+2.3 Two different compounds in the above table are functional isomers.
+
+2.3.1 Define the term functional isomer. (2)  
+2.3.2 Write down the LETTERS that represent these functional isomers. (1)  
+
+2.4 Compound **F** is formed when a carboxylic acid reacts with another organic compound, **X**, in the presence of a catalyst.
+
+Write down the:
+
+2.4.1 NAME or FORMULA of the catalyst (1)  
+2.4.2 Type of reaction (1)  
+2.4.3 STRUCTURAL FORMULA of compound **F** (2)  
+2.4.4 IUPAC name of compound **X** (2)  
+**[18]**
+
+---
+
+### QUESTION 3 (Start on a new page.)
+
+The vapour pressures of different organic compounds are determined at $20\text{ }^\circ\text{C}$. The vapour pressures of compounds **A**, **B** and **C** are NOT shown in the table.
+
+| COMPOUND | IUPAC NAME | MOLAR MASS ($\text{g}\cdot\text{mol}^{-1}$) | VAPOUR PRESSURE ($\text{kPa}$) AT $20\text{ }^\circ\text{C}$ |
+|:---:|:---:|:---:|:---:|
+| **A** | Pentane | $72$ | |
+| **B** | 2-methylbutane | $72$ | |
+| **C** | 2,2-dimethylpropane | $72$ | |
+| **D** | Propanoic acid | $74$ | $0,32$ |
+| **E** | Butanal | $72$ | $12,2$ |
+
+3.1 Define the term vapour pressure. (2)
+
+3.2 The vapour pressures of compounds **A**, **B** and **C** are given in random order below.  
+$$79\text{ kPa} \quad\quad\quad 146\text{ kPa} \quad\quad\quad 58\text{ kPa}$$
+
+3.2.1 Write down the vapour pressure of compound **C**. (1)  
+3.2.2 Fully explain your answer to QUESTION 3.2.1. (3)  
+
+3.3 Compounds **D** and **E** are compared.
+
+3.3.1 Which compound has the lower boiling point? (1)  
+3.3.2 Fully explain the difference in the vapour pressures between compounds **D** and **E**. (4)  
+**[11]**
+
+---
+
+### QUESTION 4 (Start on a new page.)
+
+Study the flow diagram below.
+
+Reaction I is a CRACKING REACTION forming two organic compounds, **W** and **T**, as the ONLY products.
+
+[DIAGRAM: Flow diagram showing:
+- Organic compound $\text{U} \xrightarrow{\text{Reaction I}} \text{Organic compound W} + \text{Organic compound T } (\text{C}_4\text{H}_8)$
+- $\text{Organic compound W} \xrightarrow{\text{Reaction II}} \text{CH}_3\text{CH}_2\text{CH}_2\text{CH}_2\text{Br}$
+- $\text{CH}_3\text{CH}_2\text{CH}_2\text{CH}_2\text{Br} \xrightarrow[\text{Elimination}]{\text{Reaction III}} \text{Organic compound R}$
+- $\text{Organic compound T } (\text{C}_4\text{H}_8) \xrightleftharpoons[\text{Reaction V}]{\text{Reaction IV}} \text{Organic compound S} \rightleftharpoons \text{Organic compound R}$]
+
+4.1 Define the term cracking reaction. (2)
+
+4.2 Is the product in reaction II a PRIMARY, SECONDARY or TERTIARY haloalkane? Give a reason for the answer. (2)
+
+4.3 Write down the:
+
+4.3.1 STRUCTURAL FORMULA of compound **W** (3)  
+4.3.2 MOLECULAR formula of compound **U** (1)  
+
+4.4 For reaction II, write down:
+
+4.4.1 The NAME or FORMULA of the inorganic reactant (1)  
+4.4.2 The type of reaction (Choose from SUBSTITUTION, ADDITION or ELIMINATION.) (1)  
+4.4.3 ONE reaction condition (1)  
+
+4.5 Write down the TYPE of elimination in reaction III. (1)
+
+4.6 Compounds **R** and **T** are positional isomers.
+
+The inorganic reagents shown below are available for reactions IV and V.  
+$$\text{Br}_2 \quad\quad \text{H}_2\text{SO}_4(\text{conc.}) \quad\quad \text{NaOH}(\text{conc.}) \quad\quad \text{HBr} \quad\quad \text{H}_2$$
+
+Write down:
+
+4.6.1 The balanced equation for reaction IV, using STRUCTURAL FORMULAE and the correct inorganic reagent shown above (5)  
+4.6.2 The balanced equation for reaction V, using STRUCTURAL formulae and the correct reagent shown above (3)  
+4.6.3 The IUPAC name of compound **T** (2)  
+**[22]**
+
+---
+
+### QUESTION 5 (Start on a new page.)
+
+5.1 The reaction between pure aluminium, $\text{Al}(\text{s})$, and EXCESS hydrochloric acid, $\text{HCl}(\text{aq})$, is used to investigate the factors that affect the rate of a reaction.
+
+The balanced equation for the reaction is:
+$$2\text{Al}(\text{s}) + 6\text{HCl}(\text{aq}) \rightarrow 2\text{AlCl}_3(\text{aq}) + 3\text{H}_2(\text{g})$$
+
+5.1.1 Define the term reaction rate. (2)
+
+**EXPERIMENT I**
+
+In this experiment, $1\text{ mol}\cdot\text{dm}^{-3}\text{ HCl}$ solution reacts with a $0,5\text{ g Al}$ strip from an aluminium roll at room temperature.
+
+The graph of volume $\text{H}_2(\text{g})$ versus time for this experiment, not drawn to scale, is shown below.
+
+[DIAGRAM: A graph of Volume $\text{H}_2$ ($\text{dm}^3$) versus Time (minutes) starting from origin $(0,0)$, curving upwards to reach a plateau at $t = 5$ minutes and onwards.]
+
+5.1.2 For the time interval $t = 0$ to $t = 5$ minutes, the average reaction rate for the formation of $\text{H}_2(\text{g})$ is $0,033\text{ dm}^3\cdot\text{min}^{-1}$.  
+Calculate the mass of $\text{Al}$ present in the container at $t = 5$ minutes. Take the molar gas volume as $24,5\text{ dm}^3\cdot\text{mol}^{-1}$. (6)
+
+Assume that the concentration of the $\text{HCl}(\text{aq})$ stays constant for the duration of the reaction.
+
+5.1.3 Use the collision theory to explain the change in the reaction rate from $t = 0$ to $t = 5$ minutes. (4)
+
+**EXPERIMENT II**
+
+Experiment I is repeated using a $2\text{ mol}\cdot\text{dm}^{-3}\text{ HCl}$ solution.
+
+5.1.4 Redraw the above graph (NO numerical values need to be shown) in your ANSWER BOOK and label the curve **A**. On the same set of axes, draw the curve that will be obtained for Experiment II. Label this as curve **B**. (2)
+
+**EXPERIMENT III**
+
+Experiment I is repeated using $0,5\text{ g}$ pure powdered $\text{Al}$.
+
+5.1.5 How will the volume of $\text{H}_2(\text{g})$ produced in Experiment III compare to that in Experiment I? Choose from GREATER THAN, LESS THAN or EQUAL TO. (1)
+
+5.2 Curve **X** is the Maxwell Boltzmann distribution curve for a reaction under a set of reaction conditions. A change was made to one of the reaction conditions to obtain curve **Y**.
+
+[DIAGRAM: Maxwell-Boltzmann distribution curves showing Curve **X** (higher peak, shifted left) and Curve **Y** (lower peak, shifted right) plotted as Number of particles versus Kinetic energy.]
+
+5.2.1 What change was made to obtain curve **Y**? (1)  
+5.2.2 Give a reason for the answer to QUESTION 5.2.1. (1)  
+**[17]**
+
+---
+
+### QUESTION 6 (Start on a new page.)
+
+6.1 The reaction of carbon monoxide gas, $\text{CO}(\text{g})$, with oxygen gas, $\text{O}_2(\text{g})$, is investigated. The reaction reaches equilibrium in a closed container at constant temperature $\text{T }^\circ\text{C}$, according to the balanced equation:
+
+$$2\text{CO}(\text{g}) + \text{O}_2(\text{g}) \rightleftharpoons 2\text{CO}_2(\text{g}) \quad \Delta\text{H} < 0$$
+
+Changes to the conditions of equilibrium are made at different times. The graph shows the results obtained. $\text{X}$, $\text{Y}$ and $\text{Z}$ represent the gases in the above reaction.
+
+[DIAGRAM: A concentration-time graph showing curves for $\text{X}$, $\text{Y}$, and $\text{Z}$ with disturbances at times $t_1$, $t_2$, and $t_3$.]
+
+6.1.1 Define the term chemical equilibrium. (2)
+
+Use the graph to answer the questions below.
+
+6.1.2 At $t_1$, oxygen, $\text{O}_2(\text{g})$, was added to the container. Write down the letter that represents $\text{O}_2(\text{g})$. Choose from $\text{X}$, $\text{Y}$ or $\text{Z}$. (1)  
+6.1.3 At $t_2$, the pressure is adjusted by changing the volume of the container. Was the pressure INCREASED or DECREASED? (1)  
+6.1.4 Give a reason for the answer to QUESTION 6.1.3. (1)  
+6.1.5 Write down the NAME or FORMULA of the gas that is represented by the letter $\text{Z}$. (1)  
+6.1.6 Give a reason for the answer to QUESTION 6.1.5. (1)  
+6.1.7 What change in temperature is made at $t_3$? Choose between INCREASED or DECREASED. (1)  
+6.1.8 Use Le Chatelier's principle to explain the answer to QUESTION 6.1.7. (3)  
+
+6.2 Carbon monoxide gas, $\text{CO}(\text{g})$, reacts with water vapour, $\text{H}_2\text{O}(\text{g})$, at $\text{T }^\circ\text{C}$. The reaction reaches chemical equilibrium according to the balanced equation:
+
+$$\text{CO}(\text{g}) + \text{H}_2\text{O}(\text{g}) \rightleftharpoons \text{CO}_2(\text{g}) + \text{H}_2(\text{g})$$
+
+Initially, $0,6\text{ moles}$ of $\text{CO}(\text{g})$, $0,6\text{ moles}$ of $\text{H}_2\text{O}(\text{g})$, $0,1\text{ moles}$ of carbon dioxide gas, $\text{CO}_2(\text{g})$, and $0,1\text{ moles}$ of hydrogen gas, $\text{H}_2(\text{g})$, were mixed and sealed in a $2\text{ dm}^3$ flask.
+
+If the equilibrium constant, $\text{K}_\text{c}$, for this reaction at $\text{T }^\circ\text{C}$ is $4$, calculate the mass of $\text{CO}(\text{g})$ present in the flask at equilibrium. (9)  
+**[20]**
+
+---
+
+### QUESTION 7 (Start on a new page.)
+
+Hydrated potassium carbonate, $\text{K}_2\text{CO}_3\cdot x\text{H}_2\text{O}$, is a WEAK BASE. A solution is prepared by dissolving some of this solid in water.
+
+7.1 Define the term weak base. (2)
+
+7.2 Write down the formula of the conjugate acid of the carbonate ion, $\text{CO}_3^{2-}(\text{aq})$. (1)
+
+A hydrochloric acid solution, $\text{HCl}(\text{aq})$, of concentration $0,1\text{ mol}\cdot\text{dm}^{-3}$ is titrated with the prepared potassium carbonate solution, $\text{K}_2\text{CO}_3(\text{aq})$, of unknown concentration.
+
+The balanced equation for the reaction is:
+$$\text{K}_2\text{CO}_3(\text{aq}) + 2\text{HCl}(\text{aq}) \rightarrow 2\text{KCl}(\text{aq}) + \text{CO}_2(\text{g}) + \text{H}_2\text{O}(\ell)$$
+
+The results of the titration are given below.
+
+| | VOLUME OF $\text{HCl}(\text{aq})$ USED ($\text{cm}^3$) | $\text{K}_2\text{CO}_3(\text{aq})$ IN BURETTE | | VOLUME OF $\text{K}_2\text{CO}_3(\text{aq})$ USED ($\text{cm}^3$) |
+|---|:---:|:---:|:---:|:---:|
+| | | INITIAL BURETTE READING ($\text{cm}^3$) | FINAL BURETTE READING ($\text{cm}^3$) | |
+| Run 1 | $25$ | $6,5$ | $p$ | $20,05$ |
+| Run 2 | $25$ | $q$ | $48,3$ | $20,15$ |
+
+7.3 Determine the value of:
+
+7.3.1 $p$ (1)  
+7.3.2 $q$ (1)  
+
+7.4 METHYL ORANGE is used as the indicator. Explain why methyl orange is the most suitable indicator for this titration by referring to the pH at the equivalence point. (2)
+
+7.5 Calculate the concentration of the $\text{K}_2\text{CO}_3$ solution. (5)
+
+The above $\text{K}_2\text{CO}_3$ solution used in the titration, was prepared by completely dissolving $6,525\text{ g}$ of the hydrated potassium carbonate, $\text{K}_2\text{CO}_3\cdot x\text{H}_2\text{O}$, in $600\text{ cm}^3$ water.
+
+7.6 Calculate the value of $x$ in the formula $\text{K}_2\text{CO}_3\cdot x\text{H}_2\text{O}$. (5)  
+**[17]**
+
+---
+
+### QUESTION 8 (Start on a new page.)
+
+8.1 Dilute hydrochloric acid, $\text{HCl}(\text{aq})$, reacts with magnesium, $\text{Mg}(\text{s})$, at $25\text{ }^\circ\text{C}$ according to the following balanced equation:
+
+$$\text{Mg}(\text{s}) + 2\text{HCl}(\text{aq}) \rightarrow \text{MgCl}_2(\text{aq}) + \text{H}_2(\text{g})$$
+
+8.1.1 Use oxidation numbers for EACH of the reactants and explain why this reaction is a redox reaction. (2)  
+8.1.2 Write down the FORMULA of the oxidising agent in this reaction. (1)  
+
+It is observed that dilute hydrochloric acid does not react with copper, $\text{Cu}(\text{s})$, at $25\text{ }^\circ\text{C}$.
+
+8.1.3 Explain this observation by referring to the relative strengths of the reducing agents. (2)  
+8.1.4 Will dilute nitric acid, $\text{HNO}_3(\text{aq})$, react with copper, $\text{Cu}(\text{s})$, at $25\text{ }^\circ\text{C}$? Choose from YES or NO.  
+Explain the answer in terms of the relative strengths of the oxidising agents. (3)  
+
+8.2 A galvanic cell is represented by the following cell notation:
+$$\text{Pb}(\text{s}) \mid \text{Pb}^{2+}(\text{aq}) \parallel \text{Fe}^{3+}(\text{aq}), \text{Fe}^{2+}(\text{aq}) \mid \text{Pt}(\text{s})$$
+
+8.2.1 Write down the balanced net ionic equation for this cell. (3)  
+
+A stronger reducing agent is now used with the same oxidising agent under the same conditions.
+
+8.2.2 How will this affect the initial emf of the cell? Choose from INCREASES, DECREASES or NO EFFECT. (1)  
+**[12]**
+
+---
+
+### QUESTION 9 (Start on a new page.)
+
+9.1 A strip of silver is added to a $1\text{ mol}\cdot\text{dm}^{-3}$ solution of $\text{Pb}(\text{NO}_3)_2$ at $25\text{ }^\circ\text{C}$.
+
+[DIAGRAM: A beaker containing $\text{Pb}(\text{NO}_3)_2(\text{aq})$ with a silver strip immersed in it.]
+
+Consider the reaction below.
+$$2\text{Ag}(\text{s}) + \text{Pb}^{2+}(\text{aq}) \rightarrow 2\text{Ag}^+(\text{s}) + \text{Pb}(\text{s})$$
+
+By means of a calculation, determine whether this reaction is SPONTANEOUS or NON-SPONTANEOUS. (5)
+
+9.2 The simplified diagram below represents an electrolytic cell. The electrodes are made of carbon.
+
+[DIAGRAM: An electrolytic cell setup with a DC power supply connected to two carbon electrodes dipping into concentrated $\text{NaCl}(\text{aq})$, with electrode labeled **Q**.]
+
+9.2.1 Define an electrolyte. (2)  
+9.2.2 Write down the PREDOMINANT oxidation half-reaction that takes place in this cell. (2)  
+9.2.3 Write down the NAMES or FORMULAE of the products formed at electrode **Q**. (2)  
+9.2.4 Explain the answer to QUESTION 9.2.3 by referring to the relative strengths of the oxidising agents involved. (2)  
+**[13]**
+
+**TOTAL: 150**

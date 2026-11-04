@@ -1,0 +1,249 @@
+**BASIC EDUCATION DEPARTMENT**  
+**REPUBLIC OF SOUTH AFRICA**
+
+**SENIOR CERTIFICATE EXAMINATIONS /**  
+**NATIONAL SENIOR CERTIFICATE EXAMINATIONS**
+
+**MATHEMATICS P1**  
+**2022**
+
+**MARKS: 150**  
+**TIME: 3 hours**
+
+This question paper consists of 9 pages and 1 information sheet.
+
+---
+
+### INSTRUCTIONS AND INFORMATION
+
+Read the following instructions carefully before answering the questions.
+
+1. This question paper consists of 10 questions.
+2. Answer ALL the questions.
+3. Number the answers correctly according to the numbering system used in this question paper.
+4. Clearly show ALL calculations, diagrams, graphs, etc. that you have used in determining your answers.
+5. Answers only will NOT necessarily be awarded full marks.
+6. You may use an approved scientific calculator (non-programmable and non-graphical), unless stated otherwise.
+7. If necessary, round off answers to TWO decimal places, unless stated otherwise.
+8. Diagrams are NOT necessarily drawn to scale.
+9. An information sheet with formulae is included at the end of the question paper.
+10. Write neatly and legibly.
+
+---
+
+### QUESTION 1
+
+1.1 Solve for $x$:
+  1.1.1 $x^2 + 2x - 15 = 0$ $(3)$
+  1.1.2 $5x^2 - x - 9 = 0$ (Leave your answer correct to TWO decimal places.) $(3)$
+  1.1.3 $x^2 \le 3x$ $(4)$
+
+1.2 Given: $a + \frac{64}{a} = 16$
+  1.2.1 Solve for $a$. $(3)$
+  1.2.2 Hence, solve for $x$: $2^x + 2^{6-x} = 16$ $(3)$
+
+1.3 Without using a calculator, calculate the value of $\sqrt{\frac{2^{1002} + 2^{1006}}{17(2)^{998}}}$ $(4)$
+
+1.4 Solve for $x$ and $y$ simultaneously:
+  $2x - y = 2 \quad \text{and} \quad \frac{1}{x} - 3y = 1$ $(6)$  
+**[26]**
+
+---
+
+### QUESTION 2
+
+2.1 The first term of an arithmetic sequence is $-1$ and the $7^{\text{th}}$ term is $35$.
+
+Determine:
+  2.1.1 The common difference of the sequence $(2)$
+  2.1.2 The number of terms in the sequence if the last term of the sequence is $473$ $(3)$
+  2.1.3 The sum of the first $40$ terms in this sequence $(2)$
+
+2.2 $75 ; 53 ; 35 ; 21 ; \dots$ is a quadratic number pattern.
+  2.2.1 Write down the FIFTH term of the number pattern. $(1)$
+  2.2.2 Determine the $n^{\text{th}}$ term of the number pattern. $(4)$
+  2.2.3 Determine the maximum value of the following number pattern:
+  $-15 ; -\frac{53}{5} ; -7 ; -\frac{21}{5} ; \dots$ $(4)$  
+**[16]**
+
+---
+
+### QUESTION 3
+
+3.1 Consider the following geometric sequence: $1\,024 ; 256 ; 64 ; \dots$
+
+Calculate:
+  3.1.1 The $10^{\text{th}}$ term of the sequence $(2)$
+  3.1.2 $\sum_{p=0}^{8} 256(4^{1-p})$ $(4)$
+
+3.2 The first two terms of a geometric sequence are:
+$-t^2 - 6t - 9 \quad \text{and} \quad \frac{t^3 + 9t^2 + 27t + 27}{2}$
+
+Determine the values of $t$ for which the sequence will converge. $(5)$  
+**[11]**
+
+---
+
+### QUESTION 4
+
+The graph of $g(x) = a\left(\frac{1}{3}\right)^x + 7$ passes through point $E(-2 ; 10)$.
+
+4.1 Calculate the value of $a$. $(3)$
+
+4.2 Calculate the coordinates of the $y$-intercept of $g$. $(2)$
+
+4.3 Consider: $h(x) = \left(\frac{1}{3}\right)^x$
+  4.3.1 Describe the translation from $g$ to $h$. $(2)$
+  4.3.2 Determine the equation of the inverse of $h$, in the form $y = \dots$ $(2)$  
+**[9]**
+
+---
+
+### QUESTION 5
+
+Consider: $g(x) = \frac{a}{x+p} + q$
+
+The following information of $g$ is given:
+* Domain: $x \in \mathbb{R}; x \neq -2$
+* $x$-intercept at $K(1 ; 0)$
+* $y$-intercept at $N\left(0 ; -\frac{1}{2}\right)$
+
+5.1 Show that the equation of $g$ is given by: $g(x) = \frac{-3}{x+2} + 1$ $(6)$
+
+5.2 Write down the range of $g$. $(1)$
+
+5.3 Determine the equation of $h$, the axis of symmetry of $g$, in the form $y = mx + c$, where $m > 0$. $(3)$
+
+5.4 Write down the coordinates of $K'$, the image of $K$ reflected over $h$. $(2)$  
+**[12]**
+
+---
+
+### QUESTION 6
+
+The sketch below shows the graph of $f(x) = -x^2 - 6x + 7$.  
+$C$ is the $y$-intercept of $f$.  
+$A$ and $B$ are the $x$-intercepts of $f$.  
+$D(-5 ; k)$ is a point on $f$.
+
+[DIAGRAM: A parabola $f$ opening downwards with vertex $E$ in the second quadrant. It passes through point $D(-5; k)$, the $y$-axis at $C$, and the $x$-axis at points $A$ (in the negative $x$-region) and $B$ (in the positive $x$-region). The origin is $O$.]
+
+6.1 Calculate the coordinates of $E$, the turning point of $f$. $(3)$
+
+6.2 Write down the value of $k$. $(1)$
+
+6.3 Determine the equation of the straight line passing through $C$ and $D$. $(4)$
+
+6.4 A tangent, parallel to $CD$, touches $f$ at $P$. Determine the coordinates of $P$. $(4)$
+
+6.5 For which values of $x$ will $f(x) - 12 > 0$? $(2)$  
+**[14]**
+
+---
+
+### QUESTION 7
+
+7.1 How many years will it take for an investment to double in value, if it earns interest at a rate of $8,5\%$ p.a., compounded quarterly? $(4)$
+
+7.2 A company purchased machinery for $\text{R}500\ 000$. After $5$ years, the machinery was sold for $\text{R}180\ 000$ and new machinery was bought.
+
+  7.2.1 Calculate the rate of depreciation of the old machinery over the $5$ years, using the reducing-balance method. $(4)$
+  7.2.2 The rate of inflation for the cost of the new machinery is $6,3\%$ p.a. over the $5$ years. What will the new machinery cost at the end of $5$ years? $(2)$
+  7.2.3 The company set up a sinking fund and made the first payment into this fund on the day the old machinery was bought. The last payment was made three months before the new machinery was purchased at the end of the $5$ years. The interest earned on the sinking fund was $10,25\%$ p.a., compounded monthly. The money from the sinking fund and the $\text{R}180\ 000$ from the sale of the old machinery was used to pay for the new machinery.
+
+  Calculate the monthly payment into the sinking fund. $(5)$  
+**[15]**
+
+---
+
+### QUESTION 8
+
+8.1 Determine $f'(x)$ from first principles if it is given that $f(x) = -x^2$. $(5)$
+
+8.2 Determine:
+  8.2.1 $f'(x)$, if it is given that $f(x) = 4x^3 - 5x^2$ $(2)$
+  8.2.2 $D_x\left[ \frac{-6\sqrt[3]{x} + 2}{x^4} \right]$ $(4)$  
+**[11]**
+
+---
+
+### QUESTION 9
+
+Sketched below is the graph of $f(x) = x^3 + ax^2 + bx + c$.  
+The $x$-intercepts of $f$ are at $(3 ; 0)$ and $M$, where $M$ lies on the negative $x$-axis.  
+
+$K(0 ; -3)$ is the $y$-intercept of $f$.  
+$M$ and $N$ are the turning points of $f$.
+
+[DIAGRAM: A cubic graph $f$ with local maximum $M$ on the negative $x$-axis, local minimum $N$ in the fourth quadrant, $y$-intercept $K(0; -3)$, and $x$-intercepts at $M$ and $(3; 0)$.]
+
+9.1 Show that the equation of $f$ is given by $f(x) = x^3 - x^2 - 5x - 3$. $(5)$
+
+9.2 Calculate the coordinates of $N$. $(5)$
+
+9.3 For which values of $x$ will:
+  9.3.1 $f(x) < 0$ $(2)$
+  9.3.2 $f$ be increasing $(2)$
+  9.3.3 $f$ be concave up $(3)$
+
+9.4 Determine the maximum vertical distance between the graphs of $f$ and $f'$ in the interval $-1 < x < 0$. $(6)$  
+**[23]**
+
+---
+
+### QUESTION 10
+
+10.1 Flags from four African countries and three European countries were displayed in a row during the 2021 Olympics.
+
+Determine:
+  10.1.1 The total number of possible ways in which all $7$ flags from these countries could be displayed $(2)$
+  10.1.2 The probability that the flags from the African countries were displayed next to each other $(3)$
+
+10.2 $A$ and $B$ are two independent events.  
+$P(A) = 0,4$ and $P(\text{A or B}) = 0,88$  
+Calculate $P(B)$. $(3)$
+
+10.3 There are $120$ passengers on board an aeroplane. Passengers have a choice between a meat sandwich or a cheese sandwich, but more passengers will choose a meat sandwich. There are only $120$ sandwiches available to choose from. The probability that the first passenger chooses a meat sandwich and the second passenger chooses a cheese sandwich is $\frac{18}{85}$. Calculate the probability that the first passenger will choose a cheese sandwich. $(5)$  
+**[13]**
+
+**TOTAL: 150**
+
+---
+
+### INFORMATION SHEET
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni) \quad A = P(1 - ni) \quad A = P(1 - i)^n \quad A = P(1 + i)^n$$
+
+$$T_n = a + (n - 1)d \quad S_n = \frac{n}{2}[2a + (n - 1)d]$$
+
+$$T_n = ar^{n-1} \quad S_n = \frac{a(r^n - 1)}{r - 1} \quad (r \neq 1) \quad S_\infty = \frac{a}{1 - r} \quad (-1 < r < 1)$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i} \quad P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} \quad M\left(\frac{x_1 + x_2}{2} ; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c \quad y - y_1 = m(x - x_1) \quad m = \frac{y_2 - y_1}{x_2 - x_1} \quad m = \tan \theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+$$\text{In } \triangle ABC: \frac{\sin A}{a} = \frac{\sin B}{b} = \frac{\sin C}{c}$$
+
+$$a^2 = b^2 + c^2 - 2bc \cos A$$
+
+$$\text{area } \triangle ABC = \frac{1}{2}ab \sin C$$
+
+$$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta \quad \sin(\alpha - \beta) = \sin \alpha \cos \beta - \cos \alpha \sin \beta$$
+
+$$\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta \quad \cos(\alpha - \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2 \alpha - \sin^2 \alpha \\ 1 - 2\sin^2 \alpha \\ 2\cos^2 \alpha - 1 \end{cases} \quad \sin 2\alpha = 2\sin \alpha \cos \alpha$$
+
+$$\bar{x} = \frac{\sum x}{n} \quad \sigma^2 = \frac{\sum_{i=1}^{n}(x_i - \bar{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)} \quad P(\text{A or B}) = P(A) + P(B) - P(A \text{ and } B)$$
+
+$$\hat{y} = a + bx \quad b = \frac{\sum(x - \bar{x})(y - \bar{y})}{\sum(x - \bar{x})^2}$$

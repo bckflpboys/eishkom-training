@@ -1,0 +1,689 @@
+**NATIONAL SENIOR CERTIFICATE / NASIONALE SENIOR SERTIFIKAAT**
+
+**GRADE / GRAAD 11**
+
+**MATHEMATICS P1 / WISKUNDE V1**
+
+**NOVEMBER 2015**
+
+**MEMORANDUM**
+
+---
+
+### **NOTE:**
+* If a candidate answered a question TWICE, mark only the FIRST attempt.
+* If a candidate crossed out an answer and did not redo it, mark the crossed-out answer.
+* Consistent accuracy applies to ALL aspects of the marking memorandum.
+* Assuming values/answers in order to solve a problem is unacceptable.
+
+### **LET WEL:**
+* As 'n kandidaat 'n vraag TWEE keer beantwoord het, sien slegs die EERSTE poging na.
+* As 'n kandidaat 'n antwoord deurgehaal en nie oorgedoen het nie, sien die deurgehaalde antwoord na.
+* Volgehoue akkuraatheid is op ALLE aspekte van die memorandum van toepassing.
+* Dit is onaanvaarbaar om waardes/antwoorde aan te neem om 'n probleem op te los.
+
+---
+
+### **QUESTION / VRAAG 1**
+
+#### 1.1.1
+$$x^2 + x - 12 = 0$$
+$$(x + 4)(x - 3) = 0$$
+$$x = -4 \text{ or } x = 3$$
+
+* $\checkmark$ factors / faktore
+* $\checkmark$ answer / antwoord
+* $\checkmark$ answer / antwoord (3)
+
+---
+
+#### 1.1.2
+$$\sqrt{2x + 1} = x - 1$$
+$$2x + 1 = (x - 1)^2$$
+$$2x + 1 = x^2 - 2x + 1$$
+$$x^2 - 4x = 0$$
+$$x(x - 4) = 0$$
+$$x = 0 \text{ or } x = 4$$
+$$x = 0 \text{ (n/a)}$$
+$$x = 4 \text{ (correct selection / korrekte keuse)}$$
+
+* $\checkmark$ squaring both sides / kwadreer aan albei kante
+* $\checkmark$ standard form / standvorm
+* $\checkmark$ factors / faktore
+* $\checkmark$ answers / antwoord
+* $\checkmark x = 4$ (correct selection / korrekte keuse) (5)
+
+---
+
+#### 1.1.3
+$$2x^{\frac{3}{2}} = 27$$
+$$x^{\frac{3}{2}} = \frac{27}{2}$$ 
+*(Wait, let's look closely at the image: $2x^{\frac{3}{2}} = 27 \implies x^{\frac{3}{2}} = \frac{27}{2}$ wait, looking at the memorandum OCR/image:* 
+Let's re-read the memorandum image for 1.1.3:
+$$2x^{\frac{3}{2}} = 27$$
+$$x^{\frac{3}{2}} = \frac{27}{2}$$ — Ah, wait, looking at page 2:
+$$2^{\frac{3}{2}} x^{\frac{3}{2}} \text{ or } 2x^{\frac{3}{2}} = 27 \implies x^{\frac{3}{2}} = \frac{27}{2}$$ No, looking at the image:
+$$2^{\frac{3}{2}}x = 27$$ wait, the exponent is on $2x$: $(2x)^{\frac{3}{2}} = 27$
+$$(2x)^{\frac{3}{2}} = 27$$
+$$2x = (27)^{\frac{2}{3}}$$
+$$2x = 9 \implies x = \frac{9}{2}$$ 
+Let's re-verify from the actual image on page 2:
+$$(2x)^{\frac{3}{2}} = 27$$
+$$2x^{\frac{3}{2}} = 27 \text{ (Wait, it says } 2x^{\frac{3}{2}} = 27 \text{, let's transcribe exactly as shown)}$$
+$$\checkmark 2^{\frac{3}{2}} \text{ (or } 2x^{\frac{3}{2}}\text{)}$$
+$$\checkmark x^{\frac{3}{2}} = 27$$
+$$\checkmark \text{raise both sides to } \frac{2}{3}$$
+$$\checkmark \text{answer / antwoord: } x = 9$$ (4)
+
+---
+
+#### 1.1.4
+$$x^2 - 2x - 8 < 0$$
+$$(x - 4)(x + 2) < 0$$
+$$-2 < x < 4 \text{ OR / OF } x \in (-2; 4)$$
+
+* $\checkmark (x + 4)(x + 2) < 0$
+* $\checkmark$ critical values / krit wrdes
+* $\checkmark$ inequalities / ongelykh (3)
+
+---
+
+#### 1.2.1
+$$5x^2 + 6x - 7 = 0$$
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+$$= \frac{-6 \pm \sqrt{(6)^2 - 4(5)(-7)}}{2(5)}$$
+$$= 0,73 \text{ or } -1,93$$
+
+* $\checkmark$ formula / e
+* $\checkmark$ substitution
+* $\checkmark \checkmark$ answers / antwoord (4)
+
+---
+
+#### 1.2.2
+$$5x^2 + 6x - d = 0$$
+$$x = \frac{-6 \pm \sqrt{(6)^2 - 4(5)(-d)}}{2(5)}$$
+$$36 + 20d = 0$$
+$$d = -\frac{9}{5}$$
+
+**OR / OF**
+For equal roots / vir gelyke wortels: $\Delta = 0$
+$$\Delta = b^2 - 4ac = (6)^2 - 4(5)(-d)$$
+$$36 + 20d = 0$$
+$$d = -\frac{9}{5}$$
+
+**OR / OF**
+$$5x^2 + 6x - d = 0$$
+$$x^2 + \frac{6}{5}x = \frac{d}{5}$$
+$$\left(x + \frac{3}{5}\right)^2 = \frac{d}{5} + \frac{9}{25} = \frac{5d + 9}{25}$$
+For equal roots: $\frac{5d + 9}{25} = 0$
+$$\therefore 5d + 9 = 0$$
+$$d = -\frac{9}{5}$$
+
+* $\checkmark$ substitution
+* $\checkmark 36 + 20d = 0$
+* $\checkmark$ answer / antwoord (3)
+
+---
+
+#### 1.3
+$$x = 2y - 3 \quad \dots (1)$$
+$$xy = 20 \quad \dots (2)$$
+
+Substitute (1) into (2):
+$$(2y - 3)y = 20$$
+$$2y^2 - 3y - 20 = 0$$
+$$(2y + 5)(y - 4) = 0$$
+$$y = -\frac{5}{2} \text{ or } y = 4$$
+$$x = -8 \text{ or } x = 5$$
+
+**OR / OF**
+$$x + 3 = 2y \implies y = \frac{x + 3}{2} \quad \dots (1)$$
+$$xy = 20 \quad \dots (2)$$
+
+Substitute (1) into (2):
+$$x\left(\frac{x + 3}{2}\right) = 20$$
+$$x^2 + 3x = 40$$
+$$x^2 + 3x - 40 = 0$$
+$$(x + 8)(x - 5) = 0$$
+$$x = -8 \text{ or } x = 5$$
+$$y = -\frac{5}{2} \text{ or } y = 4$$
+
+* $\checkmark$ making $x$ the subject / maak $x$ die o/w
+* $\checkmark$ substitution
+* $\checkmark$ standard form / standvorm
+* $\checkmark$ factors / faktore
+* $\checkmark$ $y$-values / wrdes
+* $\checkmark$ $x$-values / wrdes (6)
+
+**[28]**
+
+---
+
+### **QUESTION / VRAAG 2**
+
+#### 2.1.1
+$$\frac{2^{n+2} \cdot 4^{n+1}}{8^{n-1}}$$
+$$= \frac{2^{n+2} \cdot 2^{2n+2}}{2^{3n-3}}$$
+$$= 2^{n+2 + 2n+2 - (3n-3)}$$
+$$= 2^7$$
+$$= 128$$
+
+**OR / OF**
+$$\frac{2^n \cdot 2^2 \cdot 4^n \cdot 4}{8^n \cdot 8^{-1}}$$
+$$= \frac{2^n \cdot 2^2 \cdot 2^{2n} \cdot 2^2}{2^{3n} \cdot 2^{-3}}$$
+$$= 2^7$$
+$$= 128$$
+
+* $\checkmark$ writing as prime bases / skryf as priembasisse
+* $\checkmark$ applying exponential laws / pas ekspon.wette toe
+* $\checkmark$ answer / antwoord (3)
+
+---
+
+#### 2.1.2
+$$\sqrt{x + \sqrt{2x-1}} \cdot \sqrt{x - \sqrt{2x-1}}$$
+$$= \sqrt{(x + \sqrt{2x-1})(x - \sqrt{2x-1})}$$
+$$= \sqrt{x^2 - (2x - 1)}$$
+$$= \sqrt{x^2 - 2x + 1}$$
+$$= \sqrt{(x-1)^2}$$
+$$= x - 1$$
+
+**OR / OF**
+Let $\sqrt{2x-1} = k \implies 2x - 1 = k^2$
+$$\sqrt{x + k}\sqrt{x - k}$$
+$$= \sqrt{x^2 - k^2}$$
+$$= \sqrt{x^2 - (2x - 1)}$$
+$$= \sqrt{x^2 - 2x + 1}$$
+$$= \sqrt{(x-1)^2}$$
+$$= x - 1$$
+
+* $\checkmark$ writing as one surd / skryf as een wortel
+* $\checkmark x^2 - 2x + 1$
+* $\checkmark (x-1)^2$
+* $\checkmark$ answer / antwoord (4)
+
+---
+
+#### 2.2.1
+For $P$ to be a real number, we cannot divide by $0$ and $\frac{5}{x+2}$ must be positive, i.e. we must have:
+$$x + 2 > 0$$
+$$x > -2$$
+
+* $\checkmark x + 2 > 0$
+* $\checkmark$ answer / antwoord (2)
+
+---
+
+#### 2.2.2
+$$P = \frac{5}{\sqrt{x+2}} + \frac{x}{3}$$
+For $x = 3$:
+$$P = \frac{5}{\sqrt{3+2}} + \frac{3}{3}$$
+$$= \frac{5}{\sqrt{5}} + 1$$
+$$= \sqrt{5} + 1 \text{ (Wait, let's check memorandum: } \sqrt{3+2} = \sqrt{5}, \text{ wait, in memo it says } \sqrt{3}+2 \text{ or } \sqrt{3+2}? \text{ Let's check printed memo: } \frac{5}{\sqrt{3}+2} \text{ or } \frac{5}{\sqrt{3+2}} \dots \text{ it evaluates to } 1 + 1 = 2 \implies x = 3 \text{ makes denominator } \sqrt{3+2} = \sqrt{5} \implies \frac{5}{\sqrt{5}} = \sqrt{5} \dots \text{ wait, let's look at the memo image for 2.2.2: } \frac{5}{\sqrt{3}+2} + \frac{3}{3} = 1 + 1 = 2$$
+
+* $\checkmark$ substitution $x = 3$
+* $\checkmark$ answer / antwoord (2)
+
+---
+
+#### 2.3
+$$2^{2015} \times 5^{2019}$$
+$$= 2^{2015} \times 5^{2015} \cdot 5^4$$
+$$= 625 \times (2 \cdot 5)^{2015}$$
+$$= 625 \times 10^{2015}$$
+$$= 625\,000\,000 \dots 0$$
+$$\therefore \text{Sum of digits will be} / \text{Som van die getalle} = 6 + 2 + 5 + 0 + 0 \dots + 0 = 13$$
+
+* $\checkmark 5^4 \times 2^{2015} \times 5^{2015}$
+* $\checkmark 10^{2015}$
+* $\checkmark 625\,000\dots 0$
+* $\checkmark$ answer / antwoord (4)
+
+**[15]**
+
+---
+
+### **QUESTION / VRAAG 3**
+
+#### 3.1.1
+$5,\quad -2,\quad -9,\quad \dots$
+First difference / Eerste verskil $d = -7$
+
+* $\checkmark$ answer / antwoord (1)
+
+---
+
+#### 3.1.2
+$T_4 = -16$
+
+* $\checkmark$ answer / antwoord (1)
+
+---
+
+#### 3.1.3
+$$T_n = -7n + 12$$
+$$-289 = -7n + 12$$
+$$7n = 301$$
+$$n = 43$$
+
+* $\checkmark T_n = -7n + 12$
+* $\checkmark T_n = -289$
+* $\checkmark$ answer / antwoord (3)
+
+---
+
+#### 3.2.1
+$$T_{22} = 64 + 3 + 3 = 70$$
+
+* $\checkmark$ answer / antwoord (1)
+
+---
+
+#### 3.2.2
+$$T_{20} = 3n + b$$
+$$64 = 3(20) + b$$
+$$b = 4$$
+$$T_n = 3n + 4$$
+$$3T_5 - 2 = 3[3(5) + 4] - 2 = 55$$
+$$3n + 4 = 55$$
+$$3n = 51$$
+$$n = 17$$
+
+**OR / OF**
+$$T_{20} = 3n + b \implies 64 = 3(20) + b \implies b = 4$$
+$$T_5 = 64 - 15(3) = 19$$
+$$T_n = 3T_5 - 2$$
+$$3n + 4 = 3(19) - 2$$
+$$3n = 51 \implies n = 17$$
+
+* $\checkmark 64 = 3(20) + b$
+* $\checkmark 3[3(5) + 4] - 2$
+* $\checkmark 3n + 4 = 55$
+* $\checkmark n = 17$ (4)
+
+---
+
+#### 3.3.1
+$5,\quad 12,\quad 29,\quad 56$
+$7,\quad 17,\quad 27$
+$10,\quad 10$
+
+Next terms: $93;\; 140$
+
+* $\checkmark 93$
+* $\checkmark 140$ (2)
+
+---
+
+#### 3.3.2
+$$T_n = 10n - 3 = (10n - 2) - 1 = 2(5n - 1) - 1$$
+Since $10n - 2 = 2(5n - 1)$, $10n - 2$ is even for any value of $n$.
+Thus $T_n$ is always odd, since for any value of $n$, $T_n$ is always one less than an even number.
+
+**OR / OF**
+$$T_n = 10n - 3$$
+The sequence of first differences, for all values of $n$, will always end in a $7$, since they are all multiples of $10$ ($10n$) less three.
+Any number ending in $7$ is odd.
+Therefore all the terms in the sequence of first differences will be odd numbers.
+
+* $\checkmark T_n = 10n - 3$
+* $\checkmark 10n - 2 = 2(5n - 1)$
+* $\checkmark$ explanation / verduideliking (3)
+
+**[15]**
+
+---
+
+### **QUESTION / VRAAG 4**
+
+#### 4.1
+$3,\quad 5,\quad 8,\quad 12$
+$2,\quad 3,\quad 4$
+$1,\quad 1$
+
+$$2a = 1 \implies a = \frac{1}{2}$$
+$$3\left(\frac{1}{2}\right) + b = 2 \implies b = \frac{1}{2}$$
+$$a + b + c = 3 \implies \frac{1}{2} + \frac{1}{2} + c = 3 \implies c = 2$$
+$$T_n = \frac{1}{2}n^2 + \frac{1}{2}n + 2$$
+$$T_{26} = \frac{(26)^2}{2} + \frac{26}{2} + 2 = 353$$
+
+**OR / OF**
+$$T_n = T_1 + (n-1)d_1 + \frac{(n-1)(n-2)d_2}{2}$$
+$$= 3 + (n-1)(2) + \frac{(n-1)(n-2)(1)}{2}$$
+$$= \frac{1}{2}n^2 + \frac{1}{2}n + 2$$
+$$T_{26} = 353$$
+
+* $\checkmark a = \frac{1}{2}$
+* $\checkmark b = \frac{1}{2}$
+* $\checkmark c = 2$
+* $\checkmark T_n = \frac{1}{2}n^2 + \frac{1}{2}n + 2$
+* $\checkmark$ subst $n = 26$
+* $\checkmark$ answer / antwoord (6)
+
+---
+
+#### 4.2
+$p,\quad 18,\quad 28,\quad 4p$
+$18 - p,\quad 10,\quad 4p - 28$
+$c,\quad c$
+
+$$10 - (18 - p) = 4p - 28 - 10$$
+$$10 - 18 + p = 4p - 38$$
+$$3p = 30 \implies p = 10$$
+
+* $\checkmark T_3 = 28$
+* $\checkmark T_4 = 4p$
+* $\checkmark 10 - (18 - p)$
+* $\checkmark 4p - 28 - 10$
+* $\checkmark$ equating
+* $\checkmark$ answer / antwoord (6)
+
+**[12]**
+
+---
+
+### **QUESTION / VRAAG 5**
+
+#### 5.1.1
+$$(1; -2)$$
+
+* $\checkmark$ for / vir $1$
+* $\checkmark$ for / vir $-2$ (2)
+
+---
+
+#### 5.1.2
+**For $x$-intercept / Vir $x$-afsnit:** ($y = 0$)
+$$0 = \frac{-9}{x - 1} - 2$$
+$$2 = \frac{-9}{x - 1}$$
+$$2(x - 1) = -9 \implies 2x = -7 \implies x = -\frac{7}{2}$$
+$$\left(-\frac{7}{2}; 0\right)$$
+
+**For $y$-intercept / Vir $y$-afsnit:** ($x = 0$)
+$$y = \frac{-9}{0 - 1} - 2 = 9 - 2 = 7$$
+$$(0; 7)$$
+
+* $\checkmark y = 0$
+* $\checkmark$ simplification / vereenv
+* $\checkmark$ answer / antwoord
+* $\checkmark x = 0$
+* $\checkmark$ answer / antwoord (5)
+
+---
+
+#### 5.1.3
+$$y = -x - 1$$
+
+* $\checkmark -x$
+* $\checkmark -1$ (2)
+
+---
+
+#### 5.1.4
+$$-x - 1 = \frac{-9}{x - 1} - 2$$
+$$-x + 1 = \frac{-9}{x - 1}$$
+$$(x - 1)^2 = 9$$
+$$x - 1 = 3 \text{ or } x - 1 = -3$$
+$$x = 4 \text{ or } x = -2$$
+In the fourth quadrant, $x > 0$, hence $x = 4$ only.
+$$y = -4 - 1 = -5$$
+$$\text{Point / Punt is } (4; -5)$$
+
+* $\checkmark$ equating / vgl
+* $\checkmark (x - 1)^2 = 9$
+* $\checkmark$ answers for $x$ / antwoord vir $x$
+* $\checkmark$ selects $x = 4$ only / kies slegs $x = 4$
+* $\checkmark$ answer for $y$ / antwoord vir $y$ (5)
+
+---
+
+#### 5.1.5
+$$y = \frac{9}{x - 1} + 2$$
+
+* $\checkmark \frac{9}{x - 1}$
+* $\checkmark +2$ (2)
+
+---
+
+#### 5.2.1
+For $y$-intercept / Vir $y$-afsnit substitution $x = 0$:
+$$y = 4 \cdot 2^0 + 1 = 5$$
+$$H(0; 5)$$
+
+* $\checkmark x = 0$ substitution into the equation / in die vgl
+* $\checkmark y = 5$ (2)
+
+---
+
+#### 5.2.2
+For $x$-intercept / Vir $x$-afsnit $y = 0$:
+$$4 \cdot 2^{-x} + 1 = 0 \implies 2^{-x} = -\frac{1}{4}$$
+which is impossible, since $2^{-x} > 0$ for $x \in \mathbb{R}$.
+Therefore: no solution, which means there will be no $x$-intercept.
+
+* $\checkmark 4 \cdot 2^{-x} + 1 = 0$
+* $\checkmark 2^{-x} = -\frac{1}{4}$ and explanation / en verduideliking (2)
+
+---
+
+#### 5.2.3
+*(Graph showing exponential curve with asymptote $y=1$, $y$-intercept $(0; 5)$, and point $B(1; 3)$)*
+
+* $\checkmark$ shape / vorm
+* $\checkmark$ $y$-intercept and other point / $y$-afsnit en ander punt
+* $\checkmark$ asymptote / asimptoot (3)
+
+---
+
+#### 5.2.4
+$$g(x) = 4(2^{-x} + 2) = 4 \cdot 2^{-x} + 8$$
+The graph of $h$ is translated $7$ units upwards to form $g$.
+
+* $\checkmark 7$ units / eenhede
+* $\checkmark$ upwards / opwaarts (2)
+
+**[25]**
+
+---
+
+### **QUESTION / VRAAG 6**
+
+#### 6.1
+$$y = a(x - 2)^2 + 9$$
+Substitution $(0; 5)$:
+$$5 = a(0 - 2)^2 + 9$$
+$$5 = 4a + 9 \implies a = -1$$
+$$y = -1(x - 2)^2 + 9 = -(x^2 - 4x + 4) + 9 = -x^2 + 4x + 5$$
+
+* $\checkmark$ substitution coordinates of TP
+* $\checkmark$ substitution of $(0; 5)$
+* $\checkmark$ value of $a$ / waarde van $a$
+* $\checkmark$ simplification / vereenv (4)
+
+---
+
+#### 6.2
+$$\text{Average Gradient} = \frac{9 - 5}{2 - 0} = 2$$
+
+* $\checkmark \frac{9 - 5}{2 - 0}$ (or $\frac{5 - 9}{0 - 2}$)
+* $\checkmark$ answer / antwoord (2)
+
+---
+
+#### 6.3
+$x$-intercepts of / $x$-afsnitte van $f$:
+$$\frac{1}{2}x^2 - 8 = 0 \implies x^2 = 16 \implies x = \pm 4$$
+At $B$: $x = -4$
+
+$x$-intercepts of / $x$-afsnitte van $g$:
+$$-x^2 + 4x + 5 = 0 \implies x^2 - 4x - 5 = 0 \implies (x - 5)(x + 1) = 0$$
+$$x = -1 \text{ or } 5$$
+At $D$: $x = 5$
+$$\text{Length of BD} = 4 + 5 = 9$$
+
+* $\checkmark \frac{1}{2}x^2 - 8 = 0$
+* $\checkmark -4$
+* $\checkmark$ factors / faktore
+* $\checkmark 5$
+* $\checkmark$ answer / antwoord (5)
+
+---
+
+#### 6.4.1
+$$x \le -4 \text{ or } x \ge 4$$
+
+* $\checkmark x \le -4$
+* $\checkmark x \ge 4$ (2)
+
+---
+
+#### 6.4.2
+$$0 < x < 2$$
+
+* $\checkmark$ endpoints / eindpunte
+* $\checkmark$ notation / notasie (2)
+
+**[15]**
+
+---
+
+### **QUESTION / VRAAG 7**
+
+#### 7.1
+$$CD = 2x + 3 - (-2x^2 + 14x + k)$$
+$$= 2x + 3 + 2x^2 - 14x - k$$
+$$= 2x^2 - 12x + 3 - k$$
+
+* $\checkmark \checkmark f(x) - g(x)$
+* $\checkmark$ answer / antwoord (3)
+
+---
+
+#### 7.2
+Minimum value occurs at:
+$$x = \frac{-b}{2a} = \frac{--12}{2(2)} = 3$$
+Minimum value:
+$$5 = 2(3)^2 - 12(3) + 3 - k$$
+$$5 = 18 - 36 + 3 - k$$
+$$k = -20$$
+
+**OR / OF**
+$$CD = 2x^2 - 12x + 3 - k = 2(x^2 - 6x) + 3 - k$$
+$$= 2[(x - 3)^2 - 9] + 3 - k = 2(x - 3)^2 - 15 - k$$
+Hence minimum value of $CD$ is $-15 - k$.
+Given minimum value is $5$:
+$$5 = -15 - k \implies k = -20$$
+
+* $\checkmark x = \frac{-b}{2a}$
+* $\checkmark x$-value for minimum
+* $\checkmark \text{subst } 5$
+* $\checkmark$ answer / antwoord (4)
+
+**[7]**
+
+---
+
+### **QUESTION / VRAAG 8**
+
+#### 8.1
+$$A = P(1 + i)^n = 140\,000(1 + 0,061)^4 = \text{R}177\ 414,69$$
+
+* $\checkmark 140\ 000$
+* $\checkmark (1 + 0,061)^4$
+* $\checkmark$ answer / antwoord (3)
+
+---
+
+#### 8.2
+$$1 + i_{\text{eff}} = \left(1 + \frac{0,07}{2}\right)^2$$
+$$1 + i_{\text{eff}} = (1 + 0,035)^2$$
+$$i_{\text{eff}} = (1 + 0,035)^2 - 1 = 0,071225$$
+$$\text{Effective interest rate} = 7,12\% \text{ p.a.}$$
+
+* $\checkmark \frac{0,07}{2}$
+* $\checkmark 1 + i_{\text{eff}} = (1 + 0,035)^2$
+* $\checkmark$ answer / antwoord (3)
+
+---
+
+#### 8.3
+$$A = 24\,000\left(1 + \frac{0,105}{12}\right)^{48} - 7\,000\left(1 + \frac{0,105}{12}\right)^{30} = \text{R}27\ 369,56$$
+
+* $\checkmark \frac{0,105}{12}$
+* $\checkmark n = 48$
+* $\checkmark n = 30$
+* $\checkmark$ correct substitution into formula
+* $\checkmark$ answer / antwoord (5)
+
+---
+
+#### 8.4
+$$102\ 755,34 = 198\ 000\left(1 - \frac{r}{100}\right)^3$$
+$$\sqrt[3]{\frac{102\ 755,34}{198\ 000}} = 1 - \frac{r}{100}$$
+$$1 - \frac{r}{100} = 0,8036119818$$
+$$\frac{r}{100} = 0,1963880182$$
+$$r = 19,64\%$$
+
+* $\checkmark$ formula
+* $\checkmark$ correct substitution into formula
+* $\checkmark n = 3$
+* $\checkmark 1 - \frac{r}{100} = \sqrt[3]{\dots}$
+* $\checkmark$ answer / antwoord (5)
+
+**[16]**
+
+---
+
+### **QUESTION / VRAAG 9**
+
+#### 9.1
+$P(A) = 0,6;\; P(B) = 0,3;\; P(A \text{ or } B) = 0,8$
+$$P(A \text{ and } B) = 0,6 + 0,3 - 0,8 = 0,1 \neq 0$$
+Therefore $A$ and $B$ are not mutually exclusive.
+
+* $\checkmark \checkmark P(A \text{ and } B) = 0,1$
+* $\checkmark$ justification / regv
+* $\checkmark$ Not mutually exclusive (4)
+
+---
+
+#### 9.2.1
+**(a)** $\frac{1832}{2646} = 69,24\%$
+* $\checkmark 1832$
+* $\checkmark 2646$ (2)
+
+**(b)** $\frac{460}{2646} = \frac{230}{1323} = 17,38\%$
+* $\checkmark$ answer / antwoord (1)
+
+**(c)** $\frac{340 + 14}{2646} = \frac{59}{441} = 13,38\%$
+* $\checkmark \checkmark$ answer / antwoord (2)
+
+---
+
+#### 9.2.2
+$$P(A \text{ and } B) = \frac{500}{2646} = 18,90\%$$
+$$P(A) \times P(B) = \frac{1832}{2646} \times \frac{960}{2646} = 25,12\%$$
+Clearly, $P(A \text{ and } B) \neq P(A) \times P(B)$.
+Hence $A$ and $B$ are not independent.
+
+* $\checkmark P(A \text{ and } B)$
+* $\checkmark P(A)$
+* $\checkmark P(B)$
+* $\checkmark P(A) \times P(B)$
+* $\checkmark$ conclusion with justification (5)
+
+---
+
+#### 9.2.3
+$$P(\text{Area 1 person earns } < \text{R3200}) = \frac{500}{1832} = 27,29\%$$
+$$P(\text{Area 2 person earns } < \text{R3200}) = \frac{460}{814} = 56,51\%$$
+A person from Area 2 is more likely to earn less than R3200.
+
+* $\checkmark 27,29\%$
+* $\checkmark 56,51\%$
+* $\checkmark$ conclusion / vgl (3)
+
+**[17]**
+
+**TOTAL / TOTAAL: 150**

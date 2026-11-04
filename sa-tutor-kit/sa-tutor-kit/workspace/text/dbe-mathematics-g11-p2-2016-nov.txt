@@ -1,0 +1,308 @@
+**basic education**
+Department:
+Basic Education
+REPUBLIC OF SOUTH AFRICA
+
+**NATIONAL**
+**SENIOR CERTIFICATE**
+
+**GRADE 11**
+
+**MATHEMATICS P2**
+
+**NOVEMBER 2016**
+
+MARKS: 150  
+TIME: 3 hours  
+
+This question paper consists of 13 pages and a 22-page answer book.
+
+---
+
+## INSTRUCTIONS AND INFORMATION
+
+Read the following instructions carefully before answering the questions.
+
+1. This question paper consists of 12 questions.
+2. Answer ALL the questions in the SPECIAL ANSWER BOOK provided.
+3. Clearly show ALL calculations, diagrams, graphs et cetera that you used to determine the answers.
+4. Answers only will NOT necessarily be awarded full marks.
+5. If necessary, round off answers to TWO decimal places, unless stated otherwise.
+6. Diagrams are NOT necessarily drawn to scale.
+7. You may use an approved scientific calculator (non-programmable and non-graphical), unless stated otherwise.
+8. Write neatly and legibly.
+
+---
+
+## QUESTION 1
+
+The table below shows the number of cans of food collected by $9$ classes during a charity drive.
+
+$$
+\begin{array}{|l|l|l|l|l|l|l|l|l|}
+\hline
+5 & 8 & 15 & 20 & 25 & 27 & 31 & 36 & 75 \\
+\hline
+\end{array}
+$$
+
+1.1 Calculate the range of the data. (1)
+
+1.2 Calculate the standard deviation of the data. (2)
+
+1.3 Determine the median of the data. (1)
+
+1.4 Determine the interquartile range of the data. (3)
+
+1.5 Use the number line provided in the ANSWER BOOK to draw a box and whisker diagram for the data above. (3)
+
+1.6 Describe the skewness of the data. (1)
+
+1.7 Identify outliers, if any exist, for the above data. (1)
+
+[12]
+
+---
+
+## QUESTION 2
+
+The table below shows the time (in minutes) that $200$ learners spent on their cellphones during a school day.
+
+$$
+\begin{array}{|c|c|}
+\hline
+\textbf{TIME SPENT} & \textbf{FREQUENCY} \\
+\textbf{(IN MINUTES)} & \\
+\hline
+95 < x \le 105 & 15 \\
+\hline
+105 < x \le 115 & 27 \\
+\hline
+115 < x \le 125 & 43 \\
+\hline
+125 < x \le 135 & 52 \\
+\hline
+135 < x \le 145 & 28 \\
+\hline
+145 < x \le 155 & 21 \\
+\hline
+155 < x \le 165 & 10 \\
+\hline
+165 < x \le 175 & 4 \\
+\hline
+\end{array}
+$$
+
+2.1 Complete the cumulative frequency column in the table provided in the ANSWER BOOK. (2)
+
+2.2 Draw a cumulative frequency graph (ogive) of the data on the grid provided. (3)
+
+2.3 Use the cumulative frequency graph to determine the value of the lower quartile. (2)
+
+2.4 Determine, from the cumulative frequency graph, the number of learners who used their cellphones for more than $140$ minutes. (2)
+
+[9]
+
+---
+
+## QUESTION 3
+
+[DIAGRAM: In the Cartesian plane, vertices of $\Delta ABC$ are given as $A(6;-2)$, $B(2;15)$, and $C(-4;3)$. $M$ is the midpoint of $AB$, indicated by tick marks dividing $AB$ into two equal segments. $N$ is a point on $CA$ such that $MN \parallel BC$. A line segment connects $M$ and $N$.]
+
+In the diagram, $A(6;-2)$, $B(2;15)$ and $C(-4;3)$ are the vertices of $\Delta ABC$.  
+$M$ is the midpoint of $AB$. $N$ is a point on $CA$ such that $MN \parallel BC$.
+
+3.1 Determine the coordinates of $M$, the midpoint of $AB$. (2)
+
+3.2 Determine the gradient of line $MN$. (3)
+
+3.3 Hence, or otherwise, determine the equation of line $MN$, in the form $y = mx + c$. (2)
+
+3.4 Calculate, with reasons, the coordinates of point $N$. (4)
+
+3.5 If $ABCD$ (in that order) is a parallelogram, determine the coordinates of point $D$. (4)
+
+[15]
+
+---
+
+## QUESTION 4
+
+[DIAGRAM: Straight line $AR$ intersects the $y$-axis at $A$ and the $x$-axis at $R$. Line $AR$ has equation $y = -\frac{1}{2}x + 4$. Another straight line passes through $M(k;0)$, $P(0;2)$, and $N(3;4)$, which are collinear. $\alpha$ is the angle of inclination of line $MN$, and $\beta$ is the obtuse angle of inclination of line $AR$. $\theta$ is the obtuse angle between the two intersecting lines at $P$.]
+
+In the diagram, $R$ and $A$ are the $x$- and $y$-intercepts respectively of the straight line $AR$.  
+The equation of $AR$ is $y = -\frac{1}{2}x + 4$. Another straight line cuts the $y$-axis at $P(0;2)$ and passes through the points $M(k;0)$ and $N(3;4)$.  
+$\alpha$ and $\beta$ are the angles of inclination of the lines $MN$ and $AR$ respectively.
+
+4.1 Given that $M$, $P$ and $N$ are collinear points, calculate the value of $k$. (3)
+
+4.2 Determine the size of $\theta$, the obtuse angle between the two lines. (4)
+
+4.3 Calculate the length of $MR$. (3)
+
+4.4 Calculate the area of $\Delta MNR$. (3)
+
+[13]
+
+---
+
+## QUESTION 5
+
+5.1 In the diagram below, $P(-8; t)$ is a point in the Cartesian system such that $\text{OP} = 17$ units and reflex $\hat{\text{XOP}} = \theta$.
+
+[DIAGRAM: Cartesian plane showing point $P(-8; t)$ in the third quadrant. The origin is $O$, the positive $x$-axis points right, and ray $OP$ of length $17$ extends into quadrant III. Reflex angle $\theta$ is measured counterclockwise from the positive $x$-axis to ray $OP$.]
+
+5.1.1 Calculate the value of $t$. (2)
+
+5.1.2 Determine the value of each of the following WITHOUT using a calculator:
+(a) $\cos(-\theta)$ (2)
+(b) $1 - \sin\theta$ (2)
+
+5.2 If $\sin 17^\circ = a$, WITHOUT using a calculator, express the following in terms of $a$:
+5.2.1 $\tan 17^\circ$ (3)
+5.2.2 $\sin 107^\circ$ (2)
+5.2.3 $\cos^2 253^\circ + \sin^2 557^\circ$ (4)
+
+5.3 Simplify fully, WITHOUT the use of a calculator:
+$$\frac{\cos(-225^\circ) \cdot \sin 135^\circ + \sin 330^\circ}{\tan 225^\circ}$$ (6)
+
+5.4 Prove the identity:
+$$\frac{1}{(\cos x + 1)(\cos x - 1)} = \frac{-1}{\tan^2 x \cdot \cos^2 x}$$ (4)
+
+5.5 Determine the general solution for $2\sin x \cdot \cos x = \cos x$. (6)
+
+[31]
+
+---
+
+## QUESTION 6
+
+In the diagram the graphs of $f(x) = \cos x$ and $g(x) = \sin(x + b)$ are drawn for the interval $-180^\circ \le x \le 90^\circ$.
+
+[DIAGRAM: Cartesian graph showing two trigonometric curves between $x = -180^\circ$ and $x = 90^\circ$ on the $x$-axis, and $y$ from $-1.5$ to $1.5$. Curve $f(x) = \cos x$ starts at $(-180;-1)$, passes through $(-90;0)$, $(0;1)$, and $(90;0)$. Curve $g(x) = \sin(x+b)$ passes through $(-180;0)$, $(-90;-1)$, $(0;0.5)$, and has a peak near $30^\circ$ to $60^\circ$.]
+
+6.1 Write down the value of $b$. (1)
+
+6.2 Write down the period of $g$. (1)
+
+6.3 Write down the value(s) of $x$ in the interval $-180^\circ \le x \le 90^\circ$ for which $f(x) - g(x) = 0$. (2)
+
+6.4 For which values of $x$ in the interval $-180^\circ \le x \le 90^\circ$ is $\sin(90^\circ - x) > g(x)$? (3)
+
+6.5 The graph of $h$ is obtained by shifting $f$ $3$ units upwards. Determine the range of $h$. (2)
+
+[9]
+
+---
+
+## QUESTION 7
+
+7.1 In the figure below, acute-angled $\Delta ABC$ is drawn having $C$ at the origin.
+
+[DIAGRAM: Triangle $ABC$ with vertex $C$ at the origin of a Cartesian coordinate system. Vertex $A$ lies on the positive $x$-axis, and vertex $B$ is in the first quadrant.]
+
+7.1.1 Prove that $c^2 = a^2 + b^2 - 2ab\cos C$. (6)
+
+7.1.2 Hence, deduce that $1 + \cos C = \frac{(a + b + c)(a + b - c)}{2ab}$. (4)
+
+7.2 Quadrilateral $ABCD$ is drawn with $\text{BC} = 235\text{ m}$ and $\text{AB} = 90,52\text{ m}$. It is also given that $\hat{\text{ADB}} = 31,23^\circ$; $\text{D\hat{A}B} = 109,16^\circ$ and $\text{C\hat{B}D} = 48,88^\circ$.
+
+[DIAGRAM: Quadrilateral $ABCD$ composed of two triangles sharing side $BD$. In $\Delta ABD$, $\text{D\hat{A}B} = 109,16^\circ$, $\text{A\hat{D}B} = 31,23^\circ$, and $\text{AB} = 90,52\text{ m}$. In $\Delta BCD$, $\text{C\hat{B}D} = 48,88^\circ$ and $\text{BC} = 235\text{ m}$.]
+
+Determine the length of:
+7.2.1 $\text{BD}$ (3)
+7.2.2 $\text{CD}$ (3)
+
+[16]
+
+---
+
+## QUESTION 8
+
+The diagram below shows a water tank which is made up of a cylinder and cone having equal radii. The height of the tank is $1,8\text{ m}$ and the radius is $0,5\text{ m}$. The angle between the perpendicular height, $AB$, and the slant height, $AC$, of the conical section is $35,5^\circ$.
+
+$$\text{Volume of cone} = \frac{1}{3}\pi r^2 h$$
+$$\text{Total surface area of cone} = \pi r^2 + \pi r s$$
+$$\text{Volume of cylinder} = \pi r^2 h$$
+$$\text{Total surface area of cylinder} = 2\pi r^2 + 2\pi r h$$
+
+[DIAGRAM: A water tank combining a cylinder at the base and a cone on top. Total height is $1,8\text{ m}$. Radius of the circular cross-section is $0,5\text{ m}$, marked at radius line $BC$. The cone has vertical height $AB$, slant height $AC$, and the angle $\text{C\hat{A}B}$ is $35,5^\circ$.]
+
+8.1 Calculate the perpendicular height, $AB$, of the cone. (2)
+
+8.2 When the tank is full, an electric pump switches on and pumps the water from the tank into an irrigation system at a rate of $0,52\text{ m}^3\text{/h}$. The pump automatically switches off when the tank is $\frac{1}{4}$ full.
+
+Calculate how long, in hours, the pump feeds water into the irrigation system. (4)
+
+[6]
+
+---
+
+## Give reasons for your statements and calculations in QUESTIONS 9, 10, 11 and 12.
+
+## QUESTION 9
+
+9.1 Complete the statement so that it is TRUE:
+The angle subtended by an arc at the centre of a circle is ... (2)
+
+9.2 $O$ is the centre of circle $TNSPR$. $\text{P\hat{O}S} = 60^\circ$ and $\text{PS} = \text{NT}$.
+
+[DIAGRAM: Circle with centre $O$ and points $T, N, S, P, R$ on the circumference. $O$ connects to $R, P, S$. $\text{P\hat{O}S} = 60^\circ$. Chord $PS$ has a tick mark equal to chord $NT$. $PT$ and $PN$ are chords forming triangles.]
+
+Calculate the size of:
+9.2.1 $\text{P\hat{R}S}$ (2)
+9.2.2 $\text{N\hat{S}T}$ (2)
+
+[6]
+
+---
+
+## QUESTION 10
+
+$D, E, F, G$ and $H$ are points on the circumference of the circle.  
+$\hat{G}_1 = x + 20^\circ$ and $\hat{H} = 2x + 10^\circ$. $DE \parallel FG$.
+
+[DIAGRAM: Circle containing points $D, E, F, G, H$ on its circumference. $DE \parallel FG$ is indicated by arrows on chords $DE$ and $FG$. Chords $EG$ and $DF$ intersect inside or form angles. $\hat{G}_1 = x + 20^\circ$ is the angle formed at $G$. $\hat{H} = 2x + 10^\circ$ is at point $H$.]
+
+10.1 Determine the size of $\text{D\hat{E}G}$ in terms of $x$. (2)
+
+10.2 Calculate the size of $\text{D\hat{H}G}$. (4)
+
+[6]
+
+---
+
+## QUESTION 11
+
+$O$ is the centre of the circle $PTR$. $N$ is a point on chord $RP$ such that $\text{ON} \perp \text{PR}$.  
+$RS$ and $PS$ are tangents to the circle at $R$ and $P$ respectively.  
+$\text{RS} = 15$ units; $\text{TS} = 9$ units; $\text{R\hat{P}S} = 42,83^\circ$.
+
+[DIAGRAM: Circle with centre $O$ and points $P, T, R$ on circumference. $S$ is an external point from which tangents $SR$ and $SP$ are drawn to the circle at $R$ and $P$. $N$ is on chord $RP$ with $\text{ON} \perp \text{PR}$. $ST$ is a secant line passing through $T$ on the circle. $\text{R\hat{P}S} = 42,83^\circ$, $\text{RS} = 15$, $\text{TS} = 9$.]
+
+11.1 Calculate the size of $\text{N\hat{O}R}$. (5)
+
+11.2 Calculate the length of the radius of the circle. (4)
+
+[9]
+
+---
+
+## QUESTION 12
+
+12.1 Use the diagram below to prove the theorem which states that $\text{E\hat{F}G} = \text{E\hat{D}F}$.
+
+[DIAGRAM: Circle with points $D, E, F$ on circumference and tangent line $FG$ touching the circle at $F$.] (5)
+
+12.2 In the diagram below, $BOC$ is a diameter of the circle. $AP$ is a tangent to the circle at $A$ and $\text{AE} = \text{EC}$.
+
+[DIAGRAM: Circle with diameter $BO\mathcal{C}$ where $O$ is the centre. Tangent $AP$ touches at $A$. Chord $AC$ and $AB$ form $\Delta ABC$. $E$ is a point inside/on the circle with $\text{AE} = \text{EC}$. Numbered angles $\hat{A}_1, \hat{A}_2, \hat{A}_3$, $\hat{E}_1, \hat{E}_2, \hat{E}_3, \hat{E}_4$, $\hat{O}_1, \hat{O}_2, \hat{O}_3$, $\hat{C}_1, \hat{C}_2, \hat{C}_3$ are indicated.]
+
+Prove that:
+12.2.1 $BA \parallel OD$ (4)
+12.2.2 $AOCD$ is a cyclic quadrilateral (5)
+12.2.3 $DC$ is a tangent to the circle at $C$ (4)
+
+[18]
+
+**TOTAL: 150**

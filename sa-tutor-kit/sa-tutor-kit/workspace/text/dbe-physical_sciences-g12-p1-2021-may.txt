@@ -1,0 +1,1080 @@
+=== page 1 ===
+Copyright reserved  Please turn over
+
+SENIOR CERTIFICATE EXAMINATIONS/
+NATIONAL SENIOR CERTIFICATE EXAMINATIONS
+
+PHYSICAL SCIENCES:  PHYSICS (P1)
+
+2021
+
+MARKS:  150
+
+TIME:  3 hours
+
+This question paper consists of 17 pages and 3 data sheets.
+
+=== page 2 ===
+Physical Sciences/P1 2 DBE/2021
+ SC/NSC
+Copyright reserved  Please turn over
+
+INSTRUCTIONS AND INFORMATION
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+Write your centre number and examination number in the appropriate spaces
+on the ANSWER BOOK.
+
+This question paper consists of TEN questions. Answer ALL the questions in
+the ANSWER BOOK.
+
+Start EACH question on a NEW page in the ANSWER BOOK.
+
+Number the answers correctly according to the numbering system used in this
+question paper.
+
+Leave ONE line between two subquestions, e.g. between QUESTION 2.1 and
+QUESTION 2.2.
+
+You may use a non-programmable calculator.
+
+You may use appropriate mathematical instruments.
+
+Show ALL formulae and substitutions in ALL calculations.
+
+Round off your FINAL numerical answers to a minimum of TWO decimal
+places.
+
+Give brief motivations, discussions, etc. where required.
+
+You are advised to use the attached DATA SHEETS.
+
+Write neatly and legibly.
+
+=== page 3 ===
+Physical Sciences/P1 3 DBE/2021
+ SC/NSC
+Copyright reserved  Please turn over
+
+QUESTION 1: MULTIPLE-CHOICE QUESTIONS
+
+Various options are provided as possible answers to the following questions. Choose
+the answer and write only the letter (A–D) next to the question numbers (1.1 to 1.10) in
+the ANSWER BOOK, e.g. 1.11 E.
+
+1.1 A constant net force acts on an object moving in a straight line. Which ONE of
+the following quantities associated with the object will remain constant d uring
+the motion?
+
+ A
+
+B
+
+C
+
+D
+Velocity
+
+Momentum
+
+Acceleration
+
+Kinetic energy
+
+(2)
+
+1.2 The weight of an object  on the surface of the Earth is w. What will be t he
+weight of the object on the surface of a nother planet of the SAME mass as
+that of the Earth, but TWICE the radius of the Earth?
+
+A
+
+B
+
+C
+
+D
+4
+1
+w
+
+2
+1
+w
+
+2 w
+
+4 w
+
+(2)
+
+1.3 The diagram below shows a cricket player moving his hands downwards from
+position 1 to 2 to 3 while catching a ball.
+
+ Which ONE of the following statements CORRECTLY explains why the
+cricket player moves his hands downwards?
+
+ A
+
+B
+
+C
+
+D
+The impulse on the ball is decreased.
+
+The change in momentum of the ball is increased.
+
+The change in momentum of the ball is decreased.
+
+The time it takes to change the momentum of the ball is increased.
+
+(2)
+1
+2
+3
+
+=== page 4 ===
+Physical Sciences/P1 4 DBE/2021
+ SC/NSC
+Copyright reserved  Please turn over
+
+1.4 Consider the motion of a small stone thrown vertically upwards until it reaches
+its maximum height.
+
+Ignore the effects of friction.
+
+Which ONE of the following combinations of graphs CORRECTLY shows how
+the momentum p and the gravitational potential energy U of the stone change
+with time?
+
+ A
+
+ B
+
+ C
+
+ D
+
+(2)
+p
+p
+p
+t (s)
+t (s)
+U
+t (s)
+U
+U
+p
+t (s)
+t (s) t (s)
+t (s)
+ U
+t (s)
+
+=== page 5 ===
+Physical Sciences/P1 5 DBE/2021
+ SC/NSC
+Copyright reserved  Please turn over
+
+1.5 A boy and a girl, having DIFFERENT masses, are initially at rest  at point P.
+They slide down different paths of a water slide , as shown in the diagram
+below.
+
+Ignore the effects of friction.
+
+               Q
+
+  Consider the statements below regarding the boy and the girl:
+
+I     Only conservative forces act on both the boy and the girl while they are
+ sliding downwards.
+
+II   The boy and the girl each have the same gravitational potential energy
+ at point P.
+
+III     On reaching point Q, the speed of the girl is equal to that of the boy.
+
+ Which of the above statements is/are CORRECT?
+
+ A
+
+B
+
+C
+
+D
+I only
+
+I and III only
+
+II and III only
+
+I, II and III
+
+(2)
+
+P
+
+=== page 6 ===
+Physical Sciences/P1 6 DBE/2021
+ SC/NSC
+Copyright reserved  Please turn over
+
+1.6 An astronomer  observes that the light spectrum of a star has been blue
+shifted.
+
+How have the observed frequency of light from the star and the distance
+between the star and Earth changed?
+
+  OBSERVED FREQUENCY     OF LIGHT DISTANCE BETWEEN  THE STAR AND EARTH
+ A Increased Increased
+ B Increased Decreased
+ C Decreased Increased
+ D Decreased Decreased   (2)
+
+1.7 A small negative point charge  (q) is situated halfway between t wo identical
+spheres, P and Q, carrying IDENTICAL charges, as shown below.
+
+ Sphere P exerts an electrostatic force of magnitude F on sphere Q. What is
+the magnitude of the net electrostatic force experienced by the point charge?
+
+ A
+
+B
+
+C
+
+D
+Zero
+
+2
+1
+F
+
+F
+
+2 F
+
+(2)
+
+q
+Q P 
+
+=== page 7 ===
+Physical Sciences/P1 7 DBE/2021
+ SC/NSC
+Copyright reserved  Please turn over
+
+1.8 Consider the statements below regarding AC power and DC power:
+
+I   AC voltage can be changed during AC power transmission.
+
+II   DC power transmission requires transformers.
+
+III   AC power transmission is more energy efficient.
+
+Which of the above statement(s) is/are CORRECT?
+
+ A
+
+B
+
+C
+
+D
+I only
+
+II only
+
+I and III only
+
+II and III only
+
+(2)
+
+1.9 In the circuit diagram below , all resistors are IDENTICAL. Ignore the internal
+resistance of the cell and the resistance of the connecting wires.
+
+ When switch S is CLOSED, the reading on voltmeter V1 is 3 V.
+
+What will be the reading on voltmeter V2?
+
+ A
+
+B
+
+C
+
+D
+1 V
+
+1,5 V
+
+2 V
+
+3 V
+
+(2)
+ ε
+
+    R
+
+  S
+
+
+V
+1
+V2
+   R
+    R
+
+   R
+
+V
+1
+V1
+
+=== page 8 ===
+Physical Sciences/P1 8 DBE/2021
+ SC/NSC
+Copyright reserved  Please turn over
+
+1.10 Some of the energy levels of an atom are represented in the diagram below.
+
+ E0 represents the ground state energy.
+
+Which ONE of the energy transitions below represents the absorption of light
+of the lowest frequency by the atom?
+
+ A
+
+B
+
+C
+
+D
+E0 to E4
+
+E1 to E3
+
+E3 to E4
+
+E0 to E3
+
+(2)
+    [20]
+E4
+E3
+E2
+E1
+E0
+Energy
+
+=== page 9 ===
+Physical Sciences/P1 9 DBE/2021
+ SC/NSC
+Copyright reserved  Please turn over
+
+QUESTION 2 (Start on a new page.)
+
+An 8-kg block, on a r ough horizontal surface, is connected to a 2 -kg block by a light
+inextensible string passing over a frictionless pulley , as shown below. The 8-kg block
+moves at a constant speed  when pulled by a 29,6 N horizontal force to the right.
+The frictional force acting on the 8-kg block is 10 N.
+
+2.1 State Newton's Second Law of Motion in words.  (2)
+
+2.2 Draw a labelled free-body diagram for the 8-kg block.  (5)
+
+2.3 Calculate the tension in the string.  (3)
+
+The 29,6 N horizontal force is now increased to 50 N.
+
+2.4 Apply Newton's Second Law to EACH block and calculate the:
+
+ 2.4.1 Magnitude of the acceleration of the 8-kg block  (5)
+
+ 2.4.2 Tension in the string  (2)
+    [17]
+8 kg
+F = 29,6 N
+2 kg
+
+=== page 10 ===
+Physical Sciences/P1 10 DBE/2021
+ SC/NSC
+Copyright reserved  Please turn over
+
+QUESTION 3 (Start on a new page.)
+
+3.1 Name the force acting on the ball while it is in free fall.  (1)
+
+3.2 Write down the acceleration of the ball at time t = 1,02 s.  (2)
+
+3.3 Consider the areas A1 and A2 shown in the graph above. Write down the
+numerical value represented by the DIFFERENCE in areas A1 and A2.
+
+(1)
+
+3.4 Calculate the:
+
+ 3.4.1  Speed at which the ball is thrown upwards  (3)
+
+ 3.4.2 Height h  (4)
+
+After hitting the ground, t he ball bounces vertically upwards and reaches a new
+maximum height in 1,1 s.
+
+3.5 Calculate the work done by the ground on the ball while the ball is in contact
+with the ground.
+
+(6)
+[17]
+A ball, of mass 0,06 kg, is thrown vertically upwards from the balcony of a building, 3 m
+above the ground. The ball reaches a maximum height h above the ground, as shown
+in the diagram below.
+
+Ignore the effects of air resistance.
+
+The velocity-time graph below represents the motion of the ball from the instant it is
+thrown upwards until it hits the ground.
+
+A1
+A2
+Velocity (ms-1)
+0
+Time (s)
+1,02
+
+
+h
+1
+1
+3 m
+ground
+
+=== page 11 ===
+Physical Sciences/P1 11 DBE/2021
+ SC/NSC
+Copyright reserved  Please turn over
+
+QUESTION 4 (Start on a new page.)
+
+A simple rocket system consists of two parts, A of mass 3m , and B of mass 2m , as
+shown in the diagram below. B is stacked on top of A.
+
+4.1 State the principle of conservation of momentum in words.  (2)
+
+The rocket is travelling vertically upwards at a constant speed v when an internal
+explosion causes A to move DOWNWARDS at a speed
+3
+1 v.
+
+Ignore ALL external forces on the rocket.
+
+4.2 Calculate the velocity of B in terms  of v immediately after the internal
+explosion.
+
+(5)
+
+The graph below shows the average force exerted by A on B during the internal
+explosion as a function of time.
+
+4.3 Name the physical quantity represented by the area under the graph.  (1)
+
+4.4 Redraw the graph in you r ANSWER BOOK. On the same set of axes, sketch
+the graph of the average force that B exerts on A as a function of time.
+
+(2)
+   [10]
+Time (s)
+0
+Average force (N)
+v
+3
+1
+v
+B
+A
+3m
+2m
+A
+3m
+B
+2m
+BEFORE EXPLOSION                                 AFTER EXPLOSION
+
+=== page 12 ===
+Physical Sciences/P1 12 DBE/2021
+ SC/NSC
+Copyright reserved  Please turn over
+
+QUESTION 5 (Start on a new page.)
+
+A demolition ball is used by a crane to break the wall of a building.
+
+The demolition ball, of mass 1 250 kg , is lifted by the crane to a point R at a height of
+5,8 m above its lowest position in 60 s.
+
+Ignore air friction.
+
+5.1 Define the term power in words.  (2)
+
+5.2 Calculate the ave rage power dissipated by the crane in lifting the demolition
+ball to point R.
+
+(3)
+
+The demolition ball is released  from point R and strikes the wall at the lowest point of
+its swing. The ball then moves 0,25 m HORIZONTALLY into the wall before coming to
+rest.
+
+5.3 Define the term conservative force.  (2)
+
+5.4 Is the force which the wall exerts on the ball a CONSERVATIVE or a
+NON-CONSERVATIVE force?
+
+(1)
+
+5.5 State the energy conversion  that takes place during the downward swing of
+the demolition ball.
+
+(1)
+
+5.6 Using energy principles, calculate the magnitude of the average force exerted
+on the ball while it moves into the wall.
+
+(5)
+   [14]
+
+wall
+R
+5,8 m
+crane
+
+=== page 13 ===
+Physical Sciences/P1 13 DBE/2021
+ SC/NSC
+Copyright reserved  Please turn over
+
+QUESTION 6 (Start on a new page.)
+
+A learner in a car , moving at a constant speed of 10 ms-1 along a straight horizontal
+road, records the frequency of sound emitted by a distant stationary source.
+
+The learner  then repeats the recording of the frequency of the sound when the car
+travels at a new constant speed of 20 ms-1.
+
+The graph below, not drawn to scale, is obtained from the results.
+
+6.1 State the Doppler effect.  (2)
+
+6.2 Use the graph to answer the following questions.
+
+ 6.2.1 Write down  the frequency of the sound emitted by the stationary
+source.
+
+Give a reason for the answer.
+
+(2)
+
+ 6.2.2 In which direction is the car moving relative to the source?
+Choose from TOWARDS or AWAY.
+
+Give a reason for the answer.
+
+(2)
+
+ 6.2.3 Calculate the speed of sound in air.  (5)
+    [11]
+
+●
+
+●
+
+Speed of car (ms-1)    0                   10                 20
+Spee
+700,0
+
+679,1
+
+658,2
+
+ Recorded frequency (Hz)
+
+=== page 14 ===
+Physical Sciences/P1 14 DBE/2021
+ SC/NSC
+Copyright reserved  Please turn over
+
+QUESTION 7 (Start on a new page.)
+
+Two charged spheres, R and S, are both stationary on a smooth, insulated surface
+inclined at an angle of 25° to the horizontal. Sphere S, of mass 0,01 kg and carrying a
+charge of –6 x 10 -9 C, is connected to a 0,03 m long, light inextensible string attached
+to point P at the top of the incline.
+
+Sphere R, carrying a charge of +5 x 10 -9 C, is held such that the distance between the
+centres of the spheres is r, as shown in the diagram below.
+
+Ignore the effects of friction.
+
+Sphere R exerts an electrostatic force of magnitude 1,2 x 10-3 N on sphere S.
+
+7.1 State Coulomb's law in words.  (2)
+
+7.2 Calculate the distance r between the spheres.   (3)
+
+7.3 Draw a labelled free-body diagram for sphere S.  (4)
+
+7.4 Calculate the:
+
+ 7.4.1 Tension in the string   (4)
+
+ 7.4.2 Net electric field at point P   (5)
+   [18]
+
+25°
+S
+R
++5 x 10-9 C
+–6 x 10-9 C
+r
+P ●
+0,03 m
+
+=== page 15 ===
+Physical Sciences/P1 15 DBE/2021
+ SC/NSC
+Copyright reserved  Please turn over
+
+QUESTION 8 (Start on a new page.)
+
+Three resistors are connected to a battery with an unknown emf and unknown internal
+resistance r, as shown below.
+
+Ignore the resistance of the connecting wires.
+
+8.1 In t he definition of the emf of a battery given below, (a) and (b) represent
+missing words or phrases.
+
+The emf of the battery is the m aximum (a) … supplied by a battery per (b) ….
+passing through it.
+
+Write down (a) and (b) in your ANSWER BOOK and next to each the missing
+word or phrase.
+
+(2)
+
+With switch S CLOSED, the voltmeter reads 2,63 V.
+
+8.2 Calculate the equivalent external resistance of the circuit.  (4)
+
+Switch S is now OPENED and the voltmeter reads 2,8 V.
+
+8.3 Calculate:
+
+ 8.3.1 The internal resistance of the battery  (8)
+
+ 8.3.2 The emf of the battery  (2)
+[16]
+
+ ε
+  4 Ω
+  7 Ω
+ 3 Ω
+r
+  S
+V
+1
+ 
+
+=== page 16 ===
+Physical Sciences/P1 16 DBE/2021
+ SC/NSC
+Copyright reserved  Please turn over
+
+QUESTION 9 (Start on a new page.)
+
+The diagram below is a simplified representation of  an AC gener ator. The coil is
+rotated in a clockwise direction in the magnetic field.
+
+9.1 Write down the name of component X.    (1)
+
+9.2 Write down the function of component Y.   (1)
+
+9.3 Use the relevant principle to explain why an emf i s induced in the coil when
+the coil is rotated in the magnetic field.
+
+(2)
+
+9.4 The coil rotates CLOCKWISE from the position shown in the diagram.
+In which direction will current be induced in segment PQ of the coil?
+
+Choose from 'P to Q' or 'Q to P'.
+
+(2)
+
+The output voltage versus time graph below was obtained for the above generator.
+
+The output voltage is generated at a frequency of 50 Hz.
+
+9.5 Calculate the time t indicated in the above graph.   (3)
+
+9.6 The generator is now connected to an appliance with a resistance of 100 Ω.
+Calculate the energy dissipated when the appliance is in operation for
+ONE minute.
+
+(5)
+   [14]
+    Output voltage (V)
+311
+Time (s)
+-311
+t
+Y
+N
+Q
+S
+Coil
+P
+X
+
+=== page 17 ===
+Physical Sciences/P1 17 DBE/2021
+ SC/NSC
+Copyright reserved
+
+QUESTION 10 (Start on a new page.)
+
+When light of various frequencies is incident on the metal cathode of a photocell,
+photoelectrons are emitted from the surface of the cathode.
+
+The graph below shows the relationship between the maximum kinetic energy (Ek(max))
+of an emitted photoelectron and the wavelength of the incident light.
+
+10.1 Use the graph to determine the maximum kinetic energy of the emitted
+photoelectron when the wavelength of the incident light is 1,0 x 10-7 m.  (1)
+
+10.2 What relationship between the maximum kinetic energy of the emitted
+photoelectron and the waveleng th of the incident light can be deduced from
+the graph?
+
+(2)
+
+10.3 Define the term work function in words.  (2)
+
+10.4 Use the graph to calculate  the work function of the metal used as cathode of
+this photocell.
+
+(4)
+
+10.5 Calculate the maximum kinetic  energy of the emitted photoelectron when the
+wavelength of the incident light is 0,5 x 10-7 m.   (4)
+[13]
+
+ TOTAL:  150
+
+Wavelength (x 10-7 m)
+16,0
+12,0
+8,0
+4,0
+0,5 0
+Ek(max) of an emitted photoelectron
+                          (x 10-19J)
+●
+●
+1,0 1,5 2,0 2,5 3,0 3,5 4,0 4,5 5,0
+2,0
+6,0
+10,0
+14,0
+●
+●
+●
+
+=== page 18 ===
+Physical Sciences/P1 1 DBE/2021
+ SC/NSC
+Copyright reserved  Please turn over
+
+DATA FOR PHYSICAL SCIENCES GRADE 12
+PAPER 1 (PHYSICS)
+
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 12
+VRAESTEL 1 (FISIKA)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Acceleration due to gravity
+Swaartekragversnelling g 9,8 m·s-2
+Universal gravitational constant
+Universele gravitasiekonstant G 6,67 x 10-11 N·m2·kg-2
+Radius of the Earth
+Radius van die Aarde RE 6,38 x 106 m
+Mass of the Earth
+Massa van die Aarde ME 5,98 x 1024 kg
+Speed of light in a vacuum
+Spoed van lig in 'n vakuum c 3,0 x 108 m·s-1
+Planck's constant
+Planck se konstante h 6,63 x 10-34 J·s
+Coulomb's constant
+Coulomb se konstante k 9,0 x 109 N·m2·C-2
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Electron mass
+Elektronmassa me 9,11 x 10-31 kg
+
+=== page 19 ===
+Physical Sciences/P1 2 DBE/2021
+ SC/NSC
+Copyright reserved  Please turn over
+
+TABLE 2:  FORMULAE/TABEL 2:  FORMULES
+
+MOTION/BEWEGING
+tavv if 
+
+2
+2
+1
+i taΔtvΔx   or/of
+2
+2
+1
+i taΔtvΔy 
+xa2vv
+2
+i
+2
+f 
+ or/of
+ya2vv
+2
+i
+2
+f 
+Δt2 vvΔx fi    or/of
+Δt2 vvΔy fi  
+
+FORCE/KRAG
+
+maFnet
+
+mvp
+Nμ=f s
+max
+s
+
+Nμ =f kk
+if
+net
+mv- mv=pΔ
+pΔ=tΔF
+
+mgw
+
+2
+21
+d
+mmG=F
+       or/of
+2
+21
+r
+mmG=F
+
+2d
+MG  g 
+2r
+MG g 
+WORK, ENERGY AND POWER/ARBEID, ENERGIE EN DRYWING
+
+xΔF=W
+cos
+
+mghU           or/of
+mghEP
+2mv21K 
+       or/of
+2
+k mv21E 
+KWnet 
+        or/of
+knet EW 
+
+if KKK 
+     or/of
+kikfk EEE 
+UKWnc 
+ or/of
+pknc EEW 
+
+t
+WP 
+Pave = Fvave    / Pgemid = Fvgemid
+
+WAVES, SOUND AND LIGHT/GOLWE, KLANK EN LIG
+
+ fv
+
+f
+1T
+s
+s
+L
+L fvv vvf 
+
+b
+b
+L
+L fvv vvf 
+hfE
+  or /of
+ hcE
+k(max)0 E+ W=E
+  or
+max0 K+ W=E  where
+hf  E
+ and
+00 hfW  and
+2
+max(max)k mv21E     or
+
+2
+maxmax mv21K 
+
+k(maks)0 E+ W=E
+  of
+maks0 K+ W=E  waar
+hf  E
+ en
+00 hfW   en
+2
+maks)maks(k mv21=E    of
+2
+maksmaks mv21=K
+or/of
+or/of
+
+=== page 20 ===
+Physical Sciences/P1 3 DBE/2021
+ SC/NSC
+Copyright reserved
+
+ELECTROSTATICS/ELEKTROSTATIKA
+
+2
+21
+r
+QkQF
+
+2r
+kQE 
+q
+WV
+
+q
+FE
+
+e
+Q=n
+eq
+Q=n
+
+ELECTRIC CIRCUITS/ELEKTRIESE STROOMBANE
+
+I
+VR 
+
+emf (
+ε ) = I(R + r)
+
+emk (
+ε ) = I(R + r)
+...RRR 21s 
+
+...R1R1R1 21p 
+
+tq  I
+W = Vq
+
+W = VI
+ t
+
+W = I2R
+ t
+
+W =
+R
+ΔtV2
+Δt
+WP 
+
+P = VI
+
+RP 2I
+
+R
+VP 2
+
+ALTERNATING CURRENT/WISSELSTROOM
+
+2
+max
+rms
+II 
+             /
+2
+maks
+wgk
+II 
+
+2
+VV maxrms 
+           /
+2
+VV makswgk 
+rmsrmsave VP I
+     /
+wgkwgkgemiddeld VP I
+
+RP 2rmsave I
+       /
+RP 2wgkgemiddeld I
+
+R
+VP 2rmsave
+       /
+R
+VP 2wgkgemiddeld
+
+output
+N S
+or/of

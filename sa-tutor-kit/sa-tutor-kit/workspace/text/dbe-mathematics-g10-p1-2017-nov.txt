@@ -1,0 +1,226 @@
+**NATIONAL SENIOR CERTIFICATE**
+
+**GRADE 10**
+
+**MATHEMATICS P1**
+
+**NOVEMBER 2017**
+
+**MARKS:** 100  
+**TIME:** 2 hours
+
+This question paper consists of 7 pages.
+
+---
+
+### INSTRUCTIONS AND INFORMATION
+
+Read the following instructions carefully before answering the questions.
+
+1. This question paper consists of 7 questions.
+2. Answer **ALL** the questions.
+3. Clearly show **ALL** calculations, diagrams, graphs, et cetera that you have used to determine the answers.
+4. Answers only will **NOT** necessarily be awarded full marks.
+5. You must use an approved scientific calculator (non-programmable and non-graphical), unless stated otherwise.
+6. Round off answers to **TWO** decimal places, unless stated otherwise.
+7. Diagrams are **NOT** necessarily drawn to scale.
+8. Number the answers correctly according to the numbering system used in this question paper.
+9. Write neatly and legibly.
+
+---
+
+### QUESTION 1
+
+1.1 Given: $q = \sqrt{b^2 - 4ac}$
+
+$$\begin{array}{llll}
+1.1.1 & \text{Determine the value of } q \text{ if } a = 2, \, b = -1 \text{ and } c = -4. \\
+& \text{Leave your answer in simplest surd form.} & (2) \\
+1.1.2 & \text{State whether } q \text{ is rational or irrational.} & (1) \\
+1.1.3 & \text{Between which TWO consecutive integers does } q \text{ lie?} & (1)
+\end{array}$$
+
+1.2 Factorise the following expressions fully:
+
+$$\begin{array}{llll}
+1.2.1 & t^2(r - s) - r + s & (3) \\
+1.2.2 & \dfrac{x^3 + 1}{x^2 - x + 1} & (2)
+\end{array}$$
+
+1.3 Simplify the following completely:
+
+$$\begin{array}{llll}
+1.3.1 & (2y + 3)(7y^2 - 6y - 8) & (2) \\
+1.3.2 & \dfrac{3}{x^2 - 9} + \dfrac{2}{(x - 3)^2} & (3) \\
+1.3.3 & \dfrac{3^t - 3^{t - 2}}{2.3^t - 3^t} & (3)
+\end{array}$$
+
+**[17]**
+
+---
+
+### QUESTION 2
+
+2.1 Given: $4 - 2x < 16$ where $x \in \mathbb{R}$
+
+$$\begin{array}{llll}
+2.1.1 & \text{Solve the inequality.} & (2) \\
+2.1.2 & \text{Hence, represent your answer to QUESTION 2.1.1 on a number line.} & (1)
+\end{array}$$
+
+2.2 Solve simultaneously for $x$ and $y$:
+
+$$-2x - y = 10 \quad \text{and} \quad 3x - 4y = -4 \quad (4)$$
+
+2.3 Solve for $x$:
+
+$$\begin{array}{llll}
+2.3.1 & \dfrac{x(x - 5)}{6} - 1 = 0 & (3) \\
+2.3.2 & c = \sqrt{a + 2x} & (2)
+\end{array}$$
+
+2.4 Tabelo is currently four times as old as his daughter, Linda. Six years from now, Tabelo will be three times as old as Linda.
+
+Calculate Linda's age currently. $(4)$
+
+**[16]**
+
+---
+
+### QUESTION 3
+
+3.1 Consider the linear sequence: $5 \,; 8 \,; 11 \,; b \,; 17 \,; \dots$
+
+$$\begin{array}{llll}
+3.1.1 & \text{Write down the value of } b. & (2) \\
+3.1.2 & \text{Determine the } n^{\text{th}} \text{ term of the sequence.} & (2) \\
+3.1.3 & \text{Calculate the value of the } 15^{\text{th}} \text{ term of the sequence.} & (2) \\
+3.1.4 & \text{Which term in the sequence is equal to } 83? & (2)
+\end{array}$$
+
+3.2 Consider the number pattern below created by using the numbers of the sequence $2 \,; 6 \,; 10 \,; 14 \,; 18 \,; \dots$
+
+$$\begin{array}{ccccccccccc}
+&&&&& 2 &&&&& \\
+&&&& 6 && 10 &&&& \\
+&&& 14 && 18 && 22 &&& \\
+&& 26 && 30 && 34 && 38 && \\
+& 42 && \dots && \dots && \dots && \dots &
+\end{array}$$
+
+$$\begin{array}{llll}
+3.2.1 & \text{Calculate the sum of the numbers in the } 8^{\text{th}} \text{ row.} & (3) \\
+3.2.2 & \text{Determine the mean of the numbers in the } 20^{\text{th}} \text{ row.} & (2)
+\end{array}$$
+
+**[13]**
+
+---
+
+### QUESTION 4
+
+4.1 Seven years ago, Mrs Grey decided to invest $\text{R}18\ 000$ in a bank account that paid simple interest at $4,5\%$ p.a.
+
+$$\begin{array}{llll}
+4.1.1 & \text{Calculate how much interest Mrs Grey has earned over the 7 years.} & (2) \\
+4.1.2 & \text{Mrs Grey wants to buy a television set that costs } \text{R}27\ 660,00 \text{ now. If the} \\
+& \text{average rate of inflation over the last 5 years was } 6,7\% \text{ p.a., calculate the} \\
+& \text{cost of the television set 5 years ago.} & (3) \\
+4.1.3 & \text{At what rate of simple interest should Mrs Grey have invested her money} \\
+& 7 \text{ years ago if she intends buying the television set now using only her} \\
+& \text{original investment of } \text{R}18\ 000 \text{ and the interest earned over the last} \\
+& 7 \text{ years?} & (3)
+\end{array}$$
+
+4.2 On a certain day the exchange rate between the US dollar and South African rand is $\$1 = \text{R}12,91$. At the same time the exchange rate between the British pound and South African rand is $£1 = \text{R}16,52$.
+
+Calculate the exchange rate between the British pound and US dollar on that day. $(2)$
+
+**[10]**
+
+---
+
+### QUESTION 5
+
+[DIAGRAM: Cartesian plane showing two intersecting graphs: a parabola $g(x) = ax^2 + q$ facing downwards with vertex $T(0; 8)$ and $x$-intercepts at $R$ and $S(2; 0)$; and a straight line $f(x) = mx + c$ passing through $R$ and $T$.]
+
+The diagram shows the graphs of $g(x) = ax^2 + q$ and $f(x) = mx + c$.  
+$R$ and $S(2; 0)$ are the $x$-intercepts of $g$ and $T(0; 8)$ is the $y$-intercept of $g$.  
+Graph $f$ passes through $R$ and $T$.
+
+$$\begin{array}{llll}
+5.1 & \text{Write down the range of } g. & (1) \\
+5.2 & \text{Write down the } x\text{-coordinate of } R. & (1) \\
+5.3 & \text{Calculate the values of } a \text{ and } q. & (3) \\
+5.4 & \text{Determine the equation of } f. & (3) \\
+5.5 & \text{Use the graphs to determine the value(s) of } x \text{ for which:} \\
+& 5.5.1 \quad f(x) = g(x) & (2) \\
+& 5.5.2 \quad x \cdot g(x) \le 0 & (3) \\
+5.6 & \text{The graph } h \text{ is obtained when } g \text{ is reflected along the line } y = 0. \\
+& \text{Write down the equation of } h \text{ in the form } h(x) = px^2 + k. & (2)
+\end{array}$$
+
+**[15]**
+
+---
+
+### QUESTION 6
+
+6.1 The function $p(x) = k^x + q$ is described by the following properties:
+* $k > 0; k \neq 1$
+* $x$-intercept at $(2; 0)$
+* The horizontal asymptote is $y = -9$
+
+$$\begin{array}{llll}
+6.1.1 & \text{Write down the range of } p. & (1) \\
+6.1.2 & \text{Determine the equation of } p. & (3) \\
+6.1.3 & \text{Sketch the graph of } p. \text{ Show clearly the intercepts with the axes and} \\
+& \text{the asymptote.} & (3)
+\end{array}$$
+
+6.2 The sketch below shows the graphs of $f(x) = \dfrac{k}{x} + w$ and $g(x) = -x - 1$.
+
+[DIAGRAM: Cartesian plane showing hyperbola $f(x) = \frac{k}{x} + w$ and straight line $g(x) = -x - 1$ intersecting at $P$ and $Q$. The point $(-2; 7)$ lies on $f$.]
+
+The graph $g$ is an axis of symmetry of $f$. The graphs $f$ and $g$ intersect at $P$ and $Q$.
+
+$$\begin{array}{llll}
+6.2.1 & \text{Write down the value of } w. & (1) \\
+6.2.2 & \text{The point } (-2; 7) \text{ lies on } f. \text{ Calculate the value of } k. & (2) \\
+6.2.3 & \text{Calculate the } x\text{-coordinates of } P \text{ and } Q. & (4) \\
+6.2.4 & \text{Write down the values of } x \text{ for which } \dfrac{-16}{x} > -x. & (2)
+\end{array}$$
+
+**[16]**
+
+---
+
+### QUESTION 7
+
+7.1 Two events, $A$ and $B$, are complementary and make up the entire sample space. Also, $P(A') = 0,35$.
+
+$$\begin{array}{llll}
+7.1.1 & \text{Complete the statement: } P(A) + P(B) = \dots & (1) \\
+7.1.2 & \text{Write down the value of } P(A \text{ and } B). & (1) \\
+7.1.3 & \text{Write down the value of } P(B). & (1)
+\end{array}$$
+
+7.2 A survey was conducted among $150$ learners in Grade 10 at a certain school to establish how many of them owned the following devices: smartphone ($S$) or tablet ($T$).
+
+The results were as follows:
+* $8$ learners did not own either a smartphone or a tablet.
+* $20$ learners owned both a smartphone and a tablet.
+* $48$ learners owned a tablet.
+* $x$ learners owned a smartphone.
+
+$$\begin{array}{llll}
+7.2.1 & \text{Represent the information above in a Venn diagram.} & (4) \\
+7.2.2 & \text{How many learners owned only a smartphone?} & (3) \\
+7.2.3 & \text{Calculate the probability that a learner selected at random from this group:} \\
+& \text{(a) Owned only a smartphone} & (1) \\
+& \text{(b) Owned at most one type of device} & (2)
+\end{array}$$
+
+**[13]**
+
+**TOTAL: 100**

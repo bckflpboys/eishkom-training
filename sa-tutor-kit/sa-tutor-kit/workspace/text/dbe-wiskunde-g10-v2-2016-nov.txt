@@ -1,0 +1,202 @@
+**NASIONALE SENIOR SERTIFIKAAT**
+**GRAAD 10**
+
+**WISKUNDE V2**
+**NOVEMBER 2016**
+
+**PUNTE:** 100  
+**TYD:** 2 uur  
+
+---
+
+### INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies aandagtig deur voordat jy die vrae beantwoord.
+
+1. Hierdie vraestel bestaan uit 9 vrae.
+2. Beantwoord AL die vrae in die SPESIALE ANTWOORDEBOEK wat verskaf word.
+3. Dui ALLE berekeninge, diagramme, grafieke ensovoorts wat jy gebruik het om die antwoorde te bepal, duidelik aan.
+4. Vispunte sal NIE noodwendig aan slegs antwoorde toegeken word NIE.
+5. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders aangedui.
+6. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+7. Jy mag 'n goedgekeurde wetenskaplike sakrekenaar (nieprogrammeerbaar en niegrafies) gebruik, tensy anders aangedui.
+8. Skryf netjies en leesbaar.
+
+---
+
+### VRAAG 1
+
+Die lengtes van 20 kinders is gemeet (in sentimeter) en die resultate is aangeteken.  
+Die data ingesamel, word in die tabel hieronder getoon.
+
+| 127 | 128 | 129 | 130 | 131 | 133 | 134 | 134 | 135 | 136 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 137 | 138 | 139 | 140 | 141 | 142 | 142 | 143 | 144 | 145 |
+
+1.1 Skryf die mediaanlengte gemeet neer. (1)
+
+1.2 Bepaal:
+   1.2.1 Die gemiddelde lengte (2)
+   1.2.2 Die variasiewydte (1)
+   1.2.3 Die interkwartielvariasiewydte (3)
+
+1.3 Teken 'n mond-en-snordiagram om die data voor te stel. (2)  
+**[9]**
+
+---
+
+### VRAAG 2
+
+Die intelligensiewoksiënt (IK) van 'n graad 10-klas is in die tabel hieronder opgesom.
+
+| IK-INTERVAL | FREKWENSIE |
+| :---: | :---: |
+| $90 \le x < 100$ | 4 |
+| $100 \le x < 110$ | 8 |
+| $110 \le x < 120$ | 7 |
+| $120 \le x < 130$ | 5 |
+| $130 \le x < 140$ | 4 |
+| $140 \le x < 150$ | 2 |
+
+2.1 Skryf die modale klas van die data neer. (1)
+
+2.2 Bepaal die interval waarin die mediaan lê. (2)
+
+2.3 Beraam die gemiddelde IK-waarde van hierdie klas leerders. (3)  
+**[6]**
+
+---
+
+### VRAAG 3
+
+3.1 Toon dat 'n driehoek $ABC$, met hoekpunte $A(1; 1)$, $B(3; 6)$ en $C(6; 3)$, 'n gelykbenige driehoek is. (4)
+
+3.2 In die diagram hieronder is $ADCB$ 'n ruit met $A(3; 5)$ en $B(-1; -4)$. $AD = DC$ en $AB = BC$. $D$ is 'n punt sodat $AD$ parallel met die $x$-as is en $AD = 5$ eenhede. $CD$ is loodreg op die $x$-as. Die hoeklyne sny by punt $P$.
+
+[DIAGRAM: A rhombus $ADCB$ on a Cartesian plane. $A$ is at $(3; 5)$, $B$ is at $(-1; -4)$. $D$ is directly above $C$, with $AD$ parallel to the $x$-axis and length $5$. $CD$ is perpendicular to the $x$-axis at point $C$. Diagonals $AC$ and $BD$ intersect at point $P$.]
+
+   3.2.1 Toon dat die koördinate van $C$ $(8; 0)$ is. (2)
+   
+   3.2.2 Skryf die koördinate van punt $P$ neer. (2)
+   
+   3.2.3 Bereken die gradiënt van lyn $BD$. (2)
+   
+   3.2.4 Bereken die lengte van lyn $AC$. (2)
+   
+   3.2.5 Bereken die oppervlakte van die ruit $ADCB$. (3)  
+**[15]**
+
+---
+
+### VRAAG 4
+
+4.1 'n Reghoekige driehoek met sye $a$, $b$ en $c$ en die hoek $\theta$, word hieronder getoon.
+
+[DIAGRAM: A right-angled triangle with sides $a$, $b$, and $c$. The angle $\theta$ is at the bottom-left vertex. Side $b$ is the base, side $a$ is the vertical leg opposite to the right angle, and $c$ is the hypotenuse.]
+
+   4.1.1 Skryf die volgende in terme van $a$, $b$ en $c$ neer:
+       (a) $\cos\theta$ (1)
+       (b) $\tan\theta$ (1)
+       (c) $\sin(90^\circ - \theta)$ (2)
+   
+   4.1.2 Indien dit gegee word dat $a = 5$ en $\theta = 50^\circ$, bereken die numeriese waarde van $b$. (2)
+
+4.2 Gegee dat $\hat{A} = 38,2^\circ$ en $\hat{B} = 146,4^\circ$.  
+Bereken die waarde van $2\operatorname{cosec}A + \cos 3B$. (3)
+
+4.3 Vereenvoudig volledig, SONDER om 'n sakrekenaar te gebruik:  
+$$\frac{\sin 45^\circ \cdot \tan^2 60^\circ}{\cos 45^\circ}$$ (4)
+
+4.4 Gegee dat $5\cos\beta - 3 = 0$ en $0^\circ < \beta < 90^\circ$.  
+As $\alpha + \beta = 90^\circ$ en $0^\circ < \alpha < 90^\circ$, bereken die waarde van $\cot\alpha$. (4)  
+**[17]**
+
+---
+
+### VRAAG 5
+
+5.1 In die skets hieronder is $\triangle MNP$ geteken met 'n regthoek by $N$ en $MN = 15$ eenhede. $A$ is die middelpunt van $PN$ en $A\hat{M}N = 21^\circ$.
+
+[DIAGRAM: Right-angled triangle $\triangle MNP$ with $\hat{N} = 90^\circ$. $MN = 15$. $A$ is the midpoint of $PN$. Line $MA$ connects $M$ to $A$, with angle $A\hat{M}N = 21^\circ$.]
+
+Bereken:
+   5.1.1 $AN$ (3)
+   5.1.2 $P\hat{M}N$ (3)
+   5.1.3 $MP$ (3)
+
+5.2 Bereken $\theta$ as $2\sin(\theta + 15^\circ) = 1,462$ en $0^\circ \le \theta \le 90^\circ$. (3)  
+**[12]**
+
+---
+
+### VRAAG 6
+
+Die grafieke van $f(x) = a\sin x$ en $g(x) = \cos x + 1$ vir $x \in [0^\circ; 360^\circ]$ is hieronder geskets.
+
+[DIAGRAM: Cartesian graph showing two trigonometric curves for $x \in [0^\circ; 360^\circ]$: graph $f(x) = a\sin x$ (sine wave starting at origin) and graph $g(x) = \cos x + 1$ (cosine wave shifted up by $1$, starting at $(0, 2)$).]
+
+6.1 Skryf die waarde van $a$ neer. (1)
+
+6.2 Skryf die periode van $f$ neer. (1)
+
+6.3 Skryf die waardeversameling van $g$ neer. (2)
+
+6.4 Vir watter waardes van $x$ vir $x \in [0^\circ; 360^\circ]$ sal $f(x) \cdot g(x) > 0$? (2)
+
+6.5 Die grafiek $g$ word om die $x$-as gereflekteer en dan 2 eenhede opgeskuif om die grafiek $h$ te kry. Skryf die vergelyking van $h$ neer. (2)  
+**[8]**
+
+---
+
+### VRAAG 7
+
+Die diagram hieronder stel 'n deursnee van Tafelberg, $T$, en Leeukop, $L$, bo seevlak voor. Punt $M$ en $N$ is direk onder piek $L$ en $T$ onderskeidelik, sodat $MPN$ op dieselfde horisontale vlak op seevlak lê en $P$ direk onder $C$ is.  
+$MN = 3\ 100\text{ m}$.  
+Die hoogtehoek van $L$ vanaf $N$ is $\beta$ en die hoogtehoek van $T$ vanaf $M$ is $\theta$.  
+Daar word gegee dat $\tan\theta = 0,35$ en $\tan\beta = 0,21$.
+
+[DIAGRAM: Cross-section with peaks $L$ (Leeukop) and $T$ (Tafelberg). Points $M$, $P$, $N$ form a horizontal baseline of length $3100\text{ m}$ at sea level. $C$ is directly above $P$ on the cable between $L$ and $T$. $\theta$ is the angle of elevation from $M$ to $T$. $\beta$ is the angle of elevation from $N$ to $L$. Given: $\tan\theta = 0,35$, $\tan\beta = 0,21$.]
+
+7.1 Bepaal die verhouding van $LM : TN$. (4)
+
+7.2 'n Kabelkarretjie, $C$, wat vanaf die kruin van Tafelberg, $T$, ry, volg 'n pad langs $TCM$.
+   7.2.1 Bereken die hoek gevorm ($M\hat{T}N$) tussen die kabel en die vertikale hoogte $TN$. (2)
+   7.2.2 As die kabelkarretjie, $C$, met die kabel langs beweeg, sodat $TC = 400\text{ m}$, bereken die hoogte van die kabelkarretjie bo seevlak op daardie oomblik. (5)  
+**[11]**
+
+---
+
+**Gee redes vir jou bewerings in VRAAG 8 en 9.**
+
+### VRAAG 8
+
+8.1 Voltooi die volgende stelling:  
+As die teenoorstaande hoeke van 'n vierhoek gelyk is, is die vierhoek ... (1)
+
+8.2 Gebruik die skets hieronder om te bewys dat die teenoorstaande sye van 'n parallellogram gelyk is.
+
+[DIAGRAM: Parallelogram $ABCD$ with diagonal $BD$ drawn. Angles $\hat{D}_1$, $\hat{D}_2$ at vertex $D$ and $\hat{B}_1$, $\hat{B}_2$ at vertex $B$.] (6)
+
+8.3 In die skets hieronder is $KPMN$ 'n parallellogram. $ON$ halveer $K\hat{N}M$ en $OM$ halveer $N\hat{M}P$.
+
+[DIAGRAM: Parallelogram $KPMN$ with point $O$ on side $KP$. Line segments $NO$ and $MO$ divide the angles at $N$ and $M$ respectively: $\hat{N}_1 = \hat{N}_2$ and $\hat{M}_1 = \hat{M}_2$.]
+
+   8.3.1 Toon aan dat $N\hat{O}M = 90^\circ$. (3)
+   8.3.2 Bewys dat $O$ die middelpunt van $KP$ is. (6)  
+**[16]**
+
+---
+
+### VRAAG 9
+
+9.1 Voltooi die volgende stelling:  
+Die lyn deur die middelpunt van twee sye van 'n driehoek is parallel aan en ... die derde sy. (1)
+
+9.2 In $\triangle PQR$ is $A$ en $B$ die middelpunte van sye $PQ$ en $PR$ onderskeidelik. $AR$ en $BQ$ sny by $W$. $D$ en $E$ is punte op $WQ$ en $WR$ onderskeidelik sodat $WD = DQ$ en $WE = ER$.
+
+[DIAGRAM: Triangle $\triangle PQR$ with midpoints $A$ and $B$ of $PQ$ and $PR$. Segment $AB$ is drawn. Medians $AR$ and $BQ$ intersect at $W$. Points $D$ and $E$ are on $WQ$ and $WR$ such that $WD = DQ$ and $WE = ER$. Dashed lines connect $A$ to $D$ and $B$ to $E$, forming quadrilateral $ADEB$.]
+
+Bewys dat $ADEB$ 'n parallellogram is. (5)  
+**[6]**
+
+**TOTAAL: 100**

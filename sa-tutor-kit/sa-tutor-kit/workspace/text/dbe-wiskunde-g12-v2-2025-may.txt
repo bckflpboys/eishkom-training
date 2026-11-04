@@ -1,0 +1,313 @@
+**BASIC EDUCATION**
+**REPUBLIC OF SOUTH AFRICA**
+
+**SENIOR SERTIFIKAAT-EKSAMEN / NASIONALE SENIORSERTIFIKAAT-EKSAMEN**
+
+**WISKUNDE V2**
+
+**MEI/JUNIE 2025**
+
+**PUNTE:** 150  
+**TYD:** 3 uur  
+
+Hierdie vraestel bestaan uit 13 bladsye en 1 inligtingsblad.
+
+---
+
+### INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies aandagtig deur voordat die vrae beantwoord word.
+
+1. Hierdie vraestel bestaan uit 10 vrae.
+2. Beantwoord AL die vrae in die SPESIALE ANTWOORDEBOEK wat verskaf word.
+3. Dui ALLE berekeninge, diagramme, grafieke, ens. wat jy in die beantwoording van die vrae gebruik, duidelik aan.
+4. Slegs antwoorde sal NIE noodwendig volpunte verdien NIE.
+5. Jy mag 'n goedgekeurde wetenskaplike sakrekenaar gebruik (nieprogrammeerbaar en niegrafies), tensy anders vermeld.
+6. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders vermeld.
+7. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+8. 'n Inligtingsblad met formules is aan die einde van die vraestel ingesluit.
+9. Skryf netjies en leesbaar.
+
+---
+
+### VRAAG 1
+
+'n Versekeringsmakelaar het kontrakte met 15 mense onderteken. Die maandelikse premie (in rand) betaalbaar op elke kontrak word hieronder gegee.
+
+$$\begin{array}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+134 & 215 & 325 & 326 & 362 & 429 & 515 & 531 & 598 & 610 & 624 & 728 & 923 & 1\,034 & 1\,200 \\
+\hline
+\end{array}$$
+
+1.1 Bereken die gemiddeld van die data. (2)
+
+1.2 Skryf die standaardafwyking van die data neer. (1)
+
+1.3 Bereken hoeveel maandelikse premies binne EEN standaardafwyking van die gemiddeld lê. (2)
+
+1.4 Die versekeringsmaatskappy het besluit om die maandelikse premies te verhoog.
+* Maandelikse premies wat minder as R500 was, is met $18\%$ verhoog
+* Maandelikse premies wat gelyk aan of meer as R500 was, is met $k\,\%$ verhoog
+
+Ná hierdie verhogings op die data hierbo toegepas is, was die nuwe gemiddelde maandelikse premie $\text{R}686,44$. Bereken die waarde van $k$. (4)
+
+**[9]**
+
+---
+
+### VRAAG 2
+
+Die bestuurder van 'n supermark het besluit om 'n opname te doen van die getal items wat 'n klant aanlyn bestel het en die tyd (in minute) wat dit 'n pakker geneem het om die bestelling vir aflewering gereed te kry. Die supermark het op 'n sekere dag 10 aanlyn bestellings ontvang. Die inligting vir hierdie 10 bestellings word in die tabel hieronder getoon.
+
+$$\begin{array}{|l|c|c|c|c|c|c|c|c|c|c|}
+\hline
+\textbf{Getal items } (x) & 10 & 3 & 20 & 14 & 17 & 9 & 12 & 18 & 15 & 19 \\
+\hline
+\textbf{Tyd (in minute) } (y) & 5 & 5 & 9 & 7 & 6 & 6 & 8 & 11 & 10 & 12 \\
+\hline
+\end{array}$$
+
+2.1 Teken 'n spreidiagram op die rooster wat in die ANTWOORDEBOEK verskaf word. (3)
+
+2.2 Bepaal die vergelyking van die kleinstekwadrate-regressielyn. (3)
+
+2.3 Skryf die korrelasiekoëffisiënt van die data neer. (1)
+
+2.4 Die supermark het 'n aanlyn bestelling vir 13 items gekry. Voorspel hoe lank (in minute) dit 'n pakker sal neem om die bestelling te verpak en vir aflewering gereed te kry. (2)
+
+2.5 Verduidelik waarom die $y$-afsnit van die kleinstekwadrate-regressielyn in VRAAG 2.2 NIE in hierdie konteks sin maak NIE. (1)
+
+**[10]**
+
+---
+
+### VRAAG 3
+
+[DIAGRAM: $\Delta SRT$ with $R$ on the $x$-axis, $S$ to the left of $R$ with coordinates $(m; 1)$, $T$ on the $y$-axis. Equation of $RT$ is $2x - y + 10 = 0$. $V$ is a point on $ST$ such that $VR \perp ST$. $R'$ is the reflection of $R$ about the line $x = 0$.]
+
+In die diagram hieronder is $\Delta SRT$ geteken waar $R$ op die $x$-as lê en $S$ links van $R$ lê. $T$ lê op die $y$-as en die koördinate van $S$ is $(m; 1)$. Die vergelyking van $RT$ is $2x - y + 10 = 0$.
+
+3.1 Bereken die koördinate van $R$. (2)
+
+3.2 Bereken die lengte van $RT$. Laat jou antwoord in wortelvorm. (3)
+
+3.3 Indien dit ook gegee word dat $2RT^2 = 5SR^2$, bereken die waarde van $m$. (4)
+
+3.4 Daar word verder gegee dat $V$ op $ST$ lê sodat $VR$ loodreg op $ST$ is. Bepaal die vergelyking van $VR$ in die vorm $y = mx + c$. (5)
+
+3.5 Toon vervolgens dat die koördinate van $V$ $(-8; 4)$ is. (2)
+
+3.6 Indien $R'$ die refleksie van $R$ om die lyn $x = 0$ is, bereken die oppervlakte van $\text{RVTR}'$. (5)
+
+**[21]**
+
+---
+
+### VRAAG 4
+
+[DIAGRAM: Circle with center $M(3; 0)$ and equation $(x-3)^2 + y^2 = 25$. Point $E(-1; 3)$ on the circle. Tangent $EC$ at $E$ intersects $x$-axis at $D$. $ED = \frac{15}{4}$ units. $MT$ is extended to meet the tangent at $C(-7; p)$.]
+
+In die diagram is $M$ die middelpunt van die sirkel met vergelyking $(x-3)^2 + y^2 = 25$. $E(-1; 3)$ en $T$ is punte op die sirkel. $EC$ is 'n raaklyn aan die sirkel by $E$ en sny die $x$-as by $D$. $ED = \frac{15}{4}$ eenhede. $MT$ is verleng om die raaklyn by $C(-7; p)$ te ontmoet.
+
+4.1 Skryf die grootte van $C\hat{E}M$ neer. (1)
+
+4.2 Bepaal die vergelyking van die raaklyn $EC$ in die vorm $y = mx + c$. (4)
+
+4.3 Bereken die lengte van $DM$. (3)
+
+4.4 Toon dat $p = -5$. (1)
+
+4.5 Bereken die koördinate van $S$ indien $\text{SEMC}$ 'n parallelogram is en $x_s < 0$. (3)
+
+4.6 Indien die radius van die sirkel, met middelpunt $M$, met $7$ eenhede verleng word, bepaal of $S$ binne of buite die nuwe sirkel lê. Staaf jou antwoord met die nodige berekeninge. (3)
+
+4.7 Indien $ET$ geteken word, bereken die grootte van $E\hat{T}M$. (5)
+
+**[20]**
+
+---
+
+### VRAAG 5
+
+5.1 Indien $\cos\theta = -\frac{5}{13}$, waar $180^\circ < \theta < 360^\circ$, bepaal, sonder die gebruik van 'n sakrekenaar, die waarde van:
+
+5.1.1 $\sin^2\theta$ (3)
+
+5.1.2 $\tan(360^\circ - \theta)$ (2)
+
+5.1.3 $\cos(\theta - 135^\circ)$ (4)
+
+5.2 Vereenvoudig die uitdrukking tot 'n enkele trigonometriese term:
+
+$$\frac{2\cos(180^\circ - x)\sin(-x)}{1 - 2\cos^2(90^\circ - x)}$$ (6)
+
+5.3 Bereken die waarde van die volgende uitdrukking sonder die gebruik van 'n sakrekenaar: $(\tan 92^\circ)(\tan 94^\circ)(\tan 96^\circ) \dots (\tan 176^\circ)(\tan 178^\circ)$ (4)
+
+**[19]**
+
+---
+
+### VRAAG 6
+
+6.1 Bewys dat $2\cos^2(45^\circ + x) = 1 - \sin 2x$. (4)
+
+6.2 Beskou die uitdrukking: $\sin(A - B) - \sin(A + B)$
+
+6.2.1 Bewys dat $\sin(A - B) - \sin(A + B) = -2\cos A\sin B$. (2)
+
+6.2.2 Vereenvoudig die volgende uitdrukking tot 'n enkele term: $\sin 4x - \sin 10x$ (2)
+
+6.2.3 Bepaal vervolgens die oplossing vir $\sin 4x - \sin 10x = \sin 3x$ vir $x \in [0^\circ; 30^\circ]$. (5)
+
+**[13]**
+
+---
+
+### VRAAG 7
+
+[DIAGRAM: Graphs of $f(x) = 2\cos x + 1$ and $g(x) = \sin 2x$ for $x \in [-180^\circ; 180^\circ]$.]
+
+In die diagram is die grafieke van $f(x) = 2\cos x + 1$ en $g(x) = \sin 2x$ geteken vir die interval $x \in [-180^\circ; 180^\circ]$.
+
+7.1 Skryf die waardeversameling van $f$ neer. (1)
+
+7.2 Skryf die periode van $g$ neer. (1)
+
+7.3 Vir watter waardes van $x$, in die interval $x \in [-180^\circ; 180^\circ]$, is $f$ stygend? (1)
+
+7.4 Gebruik die grafiek om die waardes van $x$ in die interval $x \in [-180^\circ; 180^\circ]$ te bepaal, waarvoor:
+
+7.4.1 $g(x)\cdot f'(x) < 0$ (2)
+
+7.4.2 $\cos x \le -\frac{1}{2}$ (3)
+
+7.5 Grafiek $g$ word $45^\circ$ na regs geskuif om 'n nuwe grafiek $h$ te verkry. Bepaal die vergelyking van $h$ in sy eenvoudigste vorm. (2)
+
+**[10]**
+
+---
+
+### VRAAG 8
+
+[DIAGRAM: $A, B$ and $C$ on the same horizontal plane with $AB = AC$. $D$ is directly above $A$ such that $2AD = BC$. $AD = p$, $A\hat{B}C = x$ and $D\hat{B}A = y$.]
+
+In die diagram lê $A$, $B$ en $C$ in dieselfde horisontale vlak met $AB = AC$. $D$ is direk bo $A$ sodat $2AD = BC$. Net so $AD = p$, $A\hat{B}C = x$ en $D\hat{B}A = y$.
+
+8.1 Bepaal $AB$ in terme van $p$ en $y$. (2)
+
+8.2 Toon dat $\cos x = \tan y$. (4)
+
+8.3 Indien $x = 60^\circ$, bereken die grootte van $y$. (2)
+
+**[8]**
+
+---
+
+### VRAAG 9
+
+*Gee redes vir jou bewerings in VRAAG 9 en 10.*
+
+**VRAAG 9**
+
+9.1 [DIAGRAM: $\Delta DEF$ with line $GH$ intersecting $DF$ and $EF$ at $G$ and $H$ respectively, such that $GH \parallel DE$ and $\frac{GF}{DG} = \frac{2}{5}$.]
+
+In die diagram is $\Delta DEF$ geteken. Lyn $GH$ sny $DF$ en $EF$ by $G$ en $H$ onderskeidelik, sodat $GH \parallel DE$ en $\frac{GF}{DG} = \frac{2}{5}$.
+
+9.1.1 Skryf, met 'n rede, die waarde van $\frac{HF}{EH}$ neer. (2)
+
+9.1.2 Indien $EF = 21\text{ cm}$, bereken die lengte van $EH$. (2)
+
+9.1.3 Skryf 'n driehoek neer wat gelykvormig aan $\Delta FGH$ is. (1)
+
+9.1.4 Bereken vervolgens die waarde van $\frac{GH}{DE}$. (2)
+
+---
+
+9.2 [DIAGRAM: Two intersecting circles. $POL$ is a diameter of the larger circle with center $O$. $TMR$ is a diameter of the smaller circle with center $M$. The two circles intersect at $L$ and $R$. $PLK$ is a tangent to the smaller circle at $L$ and $TR$ is a tangent to the larger circle at $R$. $OM$ intersects the smaller circle at $N$. Straight lines $LT, LR, LN$ and $PR$ are drawn.]
+
+In die diagram is $POL$ 'n middellyn van die groter sirkel met middelpunt $O$. $TMR$ is 'n middellyn van die kleiner sirkel met middelpunt $M$. Die twee sirkels sny mekaar by $L$ en $R$. $PLK$ is 'n raaklyn aan die kleiner sirkel by $L$ en $TR$ is 'n raaklyn aan die groter sirkel by $R$. $OM$ sny die kleiner sirkel by $N$. Reguitlyne $LT$, $LR$, $LN$ en $PR$ is getrek.
+
+Bewys, met redes, dat:
+
+9.2.1 $LT \parallel PR$ (4)
+
+9.2.2 $LORM$ 'n koordevierhoek is, indien dit ook gegee word dat $LT \parallel OM$ (5)
+
+9.2.3 $LN$ halveer $O\hat{L}R$ (4)
+
+**[20]**
+
+---
+
+### VRAAG 10
+
+10.1 [DIAGRAM: $\Delta ABC$ and $\Delta PKL$ with $\hat{A} = \hat{P}$, $\hat{B} = \hat{K}$ and $\hat{C} = \hat{L}$.]
+
+In die diagram is $\Delta ABC$ en $\Delta PKL$ geteken sodat $\hat{A} = \hat{P}$, $\hat{B} = \hat{K}$ en $\hat{C} = \hat{L}$.
+
+Gebruik die diagram in die ANTWOORDEBOEK om die stelling te bewys wat beweer dat indien twee driehoeke gelykhoekig is, dan is die ooreenstemmende sye eweredig, d.i. dat $\frac{AB}{PK} = \frac{AC}{PL}$. (6)
+
+---
+
+10.2 [DIAGRAM: Circle with center $O$. Points $D$ and $B$ lie on the circle. $A$ and $C$ are points outside the circle such that $AC$ passes through $B$. $F$ is a point on $BC$ such that $FO \parallel BD$. $DR = RB$ and $RO$ is joined.]
+
+In die diagram is $O$ die middelpunt van die sirkel. Punte $D$ en $B$ lê op die sirkel. $A$ en $C$ is punte buite die sirkel sodat sy $AC$ van $\Delta ADC$ deur $B$ gaan. $F$ is 'n punt op $BC$ sodat $FO \parallel BD$. $DR = RB$ en $RO$ is getrek.
+
+10.2.1 Bewys, met redes, dat $\Delta CFO \parallel\parallel\parallel \Delta CBD$. (3)
+
+10.2.2 Indien dit gegee word dat $R\hat{D}O = F\hat{C}O$, toon, met redes, dat $OF \cdot CD = CO \cdot BC$. (2)
+
+10.2.3 Daar word verder gegee dat $DC = 19,2$ eenhede, $BD = 12$ eenhede en $\frac{RO}{RD} = \frac{3}{4}$.
+
+Bewys, met redes, dat $BF = \frac{75}{16}$. (6)
+
+10.2.4 Bereken die grootte van $A\hat{B}D$. (3)
+
+**[20]**
+
+**TOTAAL: 150**
+
+---
+
+### INLIGTINGSBLAD: WISKUNDE
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni) \quad A = P(1 - ni) \quad A = P(1 - i)^n \quad A = P(1 + i)^n$$
+
+$$T_n = a + (n - 1)d \quad S_n = \frac{n}{2}[2a + (n - 1)d]$$
+
+$$T_n = ar^{n-1} \quad S_n = \frac{a(r^n - 1)}{r - 1} \quad (r \neq 1) \quad S_\infty = \frac{a}{1 - r} \quad (-1 < r < 1)$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i} \quad P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} \quad M\left(\frac{x_1 + x_2}{2}; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c \quad y - y_1 = m(x - x_1) \quad m = \frac{y_2 - y_1}{x_2 - x_1} \quad m = \tan\theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+In $\Delta ABC$: 
+$$\frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}$$
+$$a^2 = b^2 + c^2 - 2bc\cos A$$
+$$\text{area } \Delta ABC = \frac{1}{2}ab\sin C$$
+
+$$\sin(\alpha + \beta) = \sin\alpha\cos\beta + \cos\alpha\sin\beta$$
+$$\sin(\alpha - \beta) = \sin\alpha\cos\beta - \cos\alpha\sin\beta$$
+$$\cos(\alpha + \beta) = \cos\alpha\cos\beta - \sin\alpha\sin\beta$$
+$$\cos(\alpha - \beta) = \cos\alpha\cos\beta + \sin\alpha\sin\beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2\alpha - \sin^2\alpha \\ 1 - 2\sin^2\alpha \\ 2\cos^2\alpha - 1 \end{cases}$$
+$$\sin 2\alpha = 2\sin\alpha\cos\alpha$$
+
+$$\bar{x} = \frac{\sum x_n}{n}$$
+$$\sigma^2 = \frac{\sum_{i=1}^{n}(x_i - \bar{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)}$$
+$$P(A \text{ of } B) = P(A) + P(B) - P(A \text{ en } B)$$
+
+$$\hat{y} = a + bx$$
+$$b = \frac{\sum(x - \bar{x})(y - \bar{y})}{\sum(x - \bar{x})^2}$$

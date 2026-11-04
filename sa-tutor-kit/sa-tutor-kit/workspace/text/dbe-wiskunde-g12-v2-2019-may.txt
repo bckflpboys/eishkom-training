@@ -1,0 +1,684 @@
+=== page 1 ===
+682404170953
+SENIORSERTIFIKAAT-EKSAMEN/
+NASIONALE SENIORSERTIFIKAAT-EKSAMEN
+
+WISKUNDE V2
+
+2019
+
+PUNTE:  150
+
+      TYD:  3 uur
+
+Hierdie vraestel bestaan uit 14 bladsye, 1 inligtingsblad
+en 'n antwoordeboek van 25 bladsye.
+
+INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies aandagtig deur voordat die vraestel beantwoord word.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+Hierdie vraestel bestaan uit 10 vrae.
+
+Beantwoord AL die vrae in die SPESIALE ANTWOORDEBOEK wat verskaf word.
+
+Dui ALLE berekeninge, diagramme, grafieke, ens. wat jy gebruik in die beantwoording van die vrae, duidelik aan.
+
+Slegs antwoorde sal NIE noodwendig volpunte verdien NIE.
+
+Jy kan 'n goedgekeurde wetenskaplike sakrekenaar gebruik (nieprogrammeerbaar en niegrafies), tensy anders vermeld.
+
+6.
+
+7.
+
+8.
+
+9.
+Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders gemeld.
+
+Diagramme is NIE noodwendig volgens skaal geteken NIE.
+
+'n Inligtingsblad met formules is aan die einde van die vraestel ingesluit.
+
+Skryf netjies en leesbaar.
+
+VRAAG 1
+
+Elke kind in 'n groep vierjarige kinders het dieselfde legkaart gekry om te voltooi.                    Die tyd (in minute) wat dit elke kind geneem het om die legkaart te voltooi, word in die tabel hieronder getoon.
+
+TYD GENEEM (t),
+(IN MINUTE)
+GETAL KINDERS
+
+2
+
+10
+
+9
+
+7
+
+8
+
+7
+
+2
+
+1.1
+Hoeveel kinders het die legkaart voltooi?
+
+(1)
+
+1.2
+Bereken die geskatte gemiddelde tyd wat dit geneem het om die legkaart te voltooi.
+
+(2)
+
+1.3
+Voltooi die kumulatiewefrekwensie-kolom in die tabel wat in die ANTWOORDEBOEK gegee word.
+
+(2)
+
+1.4
+Skets 'n kumulatiewefrekwensie-grafiek (ogief) om die data voor te stel op die rooster wat in die ANTWOORDEBOEK gegee word.
+
+(3)
+
+1.5
+Gebruik die grafiek om die mediaantyd wat dit geneem het om die legkaart te voltooi, te bepaal.
+
+(2)
+
+[10]
+
+VRAAG 2
+
+Leerders wat 'n punt van minder as 50% in 'n Wiskundetoets behaal het, is gekies om 'n rekenaargebaseerde program as deel van 'n ingrypingstrategie te gebruik. 'n Tweede toets is na afloop van die program geskryf om die doeltreffendheid van die ingrypingstrategie te bepaal. Die punt (as 'n persentasie) wat 15 van hierdie leerders in beide toetse behaal het, word in die tabel hieronder gegee.
+LEERDER
+L1
+L2
+L3
+L4
+L5
+L6
+L7
+L8
+L9
+L10
+L11
+L12
+L13
+L14
+L15
+TOETS 1
+(%)
+10
+18
+23
+24
+27
+34
+34
+36
+37
+39
+40
+44
+45
+48
+49
+TOETS 2
+(%)
+33
+21
+32
+20
+58
+43
+49
+48
+41
+55
+50
+45
+62
+68
+60
+
+2.1
+Bepaal die vergelyking van die kleinstekwadrate-regressielyn.
+
+(3)
+
+2.2
+'n Leerder het 15 uit 'n totaal van 50 punte vir die eerste toets behaal.
+
+2.2.1
+Skryf die leerder se punt vir hierdie toets as 'n persentasie neer.
+
+(1)
+
+2.2.2
+Voorspel die leerder se punt vir die tweede toets. Gee jou antwoord tot die naaste heelgetal.
+
+(2)
+
+2.3
+Vir die 15 leerders hierbo is die gemiddelde punt van die tweede toets 45,67% en die standaardafwyking is 13,88%. Die onderwyser besef dat hy vergeet het om die punte van die laaste vraag by die totale punt van elkeen van hierdie leerders te tel. Al die leerders het volpunte vir die laaste vraag behaal. Nadat die punte van die laaste vraag bygetel is, is die nuwe gemiddelde punt 50,67%.
+
+2.3.1
+Wat is die standaardafwyking nadat die punte vir die laaste vraag by elke leerder se totaal getel is?
+
+(2)
+
+2.3.2
+Wat is die totale punt van die laaste vraag?
+
+(2)
+
+[10]
+
+VRAAG 3
+
+In die diagram is  A, B, C(2 ; –3) en D(–2 ; –5)  die hoekpunte van 'n trapesium met  AB || DC.
+E(–2 ; 0) is die  x-afsnit van  AB.  Die inklinasie van  AB  is  α.  K  lê op die  y-as  en .
+
+291020552705y
+0y
+
+186436011980830030092651911350030924503810K
+K
+293798410102850
+0
+20637503634266D(–2 ; –5)
+0D(–2 ; –5)
+-242911936750A
+A
+41270262522855C(2 ; –3)
+0C(2 ; –3)
+2417606860425002345055830419
+
+20872451023146E(–2 ; 0)
+0E(–2 ; 0)
+6066790889474x
+x
+3094516318135B
+B
+2932904324274
+00
+3485515295258900
+3.1
+Bepaal:
+
+3.1.1
+Die middelpunt van  EC
+
+(2)
+
+3.1.2
+Die gradiënt van  DC
+
+(2)
+
+3.1.3
+Die vergelyking van  AB  in die vorm  y = mx + c
+
+(3)
+
+3.1.4
+Die grootte van
+
+(3)
+
+3.2
+Bewys dat  AB  BC.
+
+(3)
+
+3.3
+Die punte  E,  B  en  C  lê op die omtrek van 'n sirkel. Bepaal:
+
+3.3.1
+Die middelpunt van die sirkel
+
+(1)
+
+3.3.2
+Die vergelyking van die sirkel in die vorm
+
+(4)
+
+[18]
+
+VRAAG 4
+
+In die diagram is  M(2 ; 1)  die middelpunt van die sirkel.  Radius  KM  is verleng na  L,                'n punt buite die sirkel, sodanig dat  KML || y-as.  LTP  is 'n raaklyn aan die sirkel by  T(–2 ; b).    is die middelpunt van  PK.
+78105081915y
+x
+P
+K
+L
+M(2 ; 1)
+T(–2 ; b)
+
+y
+x
+P
+K
+L
+M(2 ; 1)
+T(–2 ; b)
+
+32319601068070
+
+4.1
+As gegee word dat die radius van die sirkel  5  eenhede is, toon dat  b = 4.
+
+(4)
+
+4.2
+Bepaal:
+
+4.2.1
+Die koördinate van K
+
+(2)
+
+4.2.2
+Die vergelyking van die raaklyn  LTP  in die vorm  y = mx + c
+
+(4)
+
+4.2.3
+Die oppervlakte van  LPK
+
+(7)
+
+4.3
+'n Ander sirkel met vergelyking    word geskets. Bepaal, met 'n verduideliking, vir watter waarde(s) van  n  die twee sirkels mekaar uitwendig sal raak.
+
+(4)
+
+[21]
+
+VRAAG  5
+
+5.1
+Skryf die volgende uitdrukkings in terme van  , sonder om 'n sakrekenaar te gebruik:
+
+5.1.1
+
+(1)
+
+5.1.2
+
+(1)
+
+5.2
+Vereenvoudig    na 'n enkele trigonometriese verhouding.
+
+(5)
+
+5.3
+Gegee:   en
+Bepaal die waarde van  , sonder om 'n sakrekenaar te gebruik.
+
+(5)
+[12]
+
+VRAAG 6
+
+6.1
+Bepaal die algemene oplossing van  .
+
+(6)
+
+6.2
+In die diagram is die grafieke van    en    geskets vir die interval  .  A en B  is die  x–afsnitte  van  f.  Die twee grafieke sny mekaar by  C  en  D, onderskeidelik die minimum en maksimum draaipunte     van  f.
+
+280416052375y
+020000y
+
+41151449705–180°
+020000–180°
+49628551717040f
+020000f
+6807201950390C
+020000C
+3336595947420D
+020000D
+20494761445997B
+020000B
+45570901446530A
+020000A
+5200955894080g
+020000g
+59375551385570x
+020000x
+54127401442720180°
+020000180°
+294195514468350°
+0200000°
+
+6.2.1
+Skryf die koördinate neer van:
+
+(a)
+A
+
+(1)
+
+(b)
+C
+
+(2)
+
+6.2.2
+Bepaal die waardes van  x  in die interval  ,  waarvoor:
+
+(a)
+Beide grafieke stygend is
+
+(2)
+
+(b)
+
+(2)
+
+6.2.3
+Bepaal die waardeversameling van  y = 22sin x + 3
+
+(5)
+
+[18]
+
+VRAAG 7
+
+In die diagram hieronder is  CGFB  en  CGHD  reghoekige permanente mure en vertikaal tot die horisontale vlak  FGH. Staalpale is by  FB  en  HD  opgerig en  is na  A  en  E  onderskeidelik verleng.  ACE  vorm die dak van 'n vermaaklikheidsentrum.
+BC = x,  CD = x + 2,  ,    en
+
+3220085209486560°
+060°
+9083671154430A
+020000A
+274828020078702
+02
+B
+C
+D
+E
+x
+x + 2
+
+F
+G
+H
+
+B
+C
+D
+E
+x
+x + 2
+
+F
+G
+H
+
+7.1
+Bereken die lengte van:
+
+7.1.1
+AC in terme van  x  en
+
+(2)
+
+7.1.2
+CE  in terme van x
+
+(2)
+
+7.2
+Toon aan dat die oppervlakte van die dak   as    gegee word.
+
+(3)
+7.3
+As   en  BC = 12 meter,  bereken die lengte van  AE.
+
+(4)
+
+[11]
+
+VRAAG 8
+
+8.1
+In die diagram is  O  die middelpunt van die sirkel en  LOM  is die middellyn van die sirkel. ON  halveer koord  LP  by  N.  T  en  S  is punte op die sirkel aan die teenoorgestelde kant van  LM  met betrekking tot  P.  Koorde  PM,  MS,  MT  en  ST  word getrek.  PM = MS  en
+
+46056552268855S
+S
+273494514382751
+1
+26676351172845N
+N
+L
+P
+T
+M
+O
+2
+31°
+L
+P
+T
+M
+O
+2
+31°
+
+8.1.1
+Bepaal, met redes, die grootte van elk van die volgende hoeke:
+
+(a)
+
+(2)
+
+(b)
+
+(2)
+
+8.1.2
+Bewys dat  ON = MS.
+
+(4)
+
+8.2
+In  ABC  in die diagram is  K  'n punt op  AB  sodat  AK : KB = 3 : 2.  N en M is punte op  AC  sodat  KN || BM.  BM  sny  KC  by  L.    AM : MC = 10 : 23.
+
+B
+A
+N
+M
+C
+L
+K
+B
+A
+N
+M
+C
+L
+K
+
+Bepaal, met redes, die verhouding van:
+
+8.2.1
+
+(2)
+
+8.2.2
+
+(3)
+
+[13]
+
+VRAAG 9
+
+In die diagram word raaklyne vanaf punt  M  buite die sirkel getrek om die sirkel by  B  en  N                     te raak. Die reguitlyn vanaf  B  wat deur die middelpunt van die sirkel gaan, ontmoet  MN  verleng in  A.  NM  word verleng na  K  sodanig dat  MK = MB.  BK  en  BN  word getrek.
+Laat  .
+
+52587651731645A
+020000A
+B
+K
+M
+N
+1
+2
+1
+2
+3
+x
+1
+2
+B
+K
+M
+N
+1
+2
+1
+2
+3
+x
+1
+2
+
+9.1
+Bepaal, met redes, die grootte van  ,  in terme van  x.
+
+(6)
+
+9.2
+Bewys dat  BA  'n raaklyn aan die sirkel is wat deur  K, B  en  N  gaan.
+
+(5)
+
+[11]
+
+VRAAG 10
+
+10.1
+In die diagram is  ∆ABC  en  ∆DEF  geskets so dat  ,    en  .
+
+10788651328420
+020000
+48149001001395F
+00F
+D
+E
+A
+B
+C
+
+D
+E
+A
+B
+C
+
+Gebruik die diagram in die ANTWOORDEBOEK om die stelling te bewys wat beweer dat as twee driehoeke gelykhoekig is, dan is die ooreenstemmende sye eweredig (in dieselfde verhouding), dus  .
+
+(6)
+
+10.2
+In die diagram is  O  die middelpunt van die sirkel en  CG  is 'n raaklyn aan die sirkel                     by  G.  Die reguitlyn vanaf  C  wat deur  O  gaan, sny die sirkel by A en B.  Middellyn  DOE is loodreg op  AC.  GE  en  CA  sny by  F.  Koorde  DG, BG  en  AG  is getrek.
+
+2986735372110D
+020000D
+A
+B
+C
+E
+F
+O
+1
+1
+1
+2
+3
+4
+2
+G
+2
+A
+B
+C
+E
+F
+O
+1
+1
+1
+2
+3
+4
+2
+G
+2
+
+10.2.1
+Bewys dat:
+
+(a)
+DGFO 'n koordevierhoek is
+
+(3)
+
+(b)
+GC = CF
+
+(5)
+
+10.2.2
+Indien dit verder gegee word dat  CO = 11 eenhede en  DE = 14 eenhede, bereken:
+
+(a)
+Die lengte van  BC
+
+(3)
+
+(b)
+Die lengte van  CG
+
+(5)
+
+(c)
+Die grootte van
+
+(4)
+
+[26]
+
+TOTAAL:
+
+150
+
+INLIGTINGSBLAD:  WISKUNDE
+
+   ; ;
+
+M
+
+In ABC:
+
+P(A of B) = P(A) + P(B) – P(A en B)

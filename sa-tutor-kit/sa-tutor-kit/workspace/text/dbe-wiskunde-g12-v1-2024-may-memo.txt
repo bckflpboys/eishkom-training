@@ -1,0 +1,809 @@
+**basic education**  
+Department: Basic Education  
+REPUBLIC OF SOUTH AFRICA  
+
+**SENIOR CERTIFICATE EXAMINATIONS / SENIORSERTIFIKAAT-EKSAMEN**  
+**NATIONAL SENIOR CERTIFICATE EXAMINATIONS / NASIONALE SENIORSERTIFIKAAT-EKSAMEN**  
+
+**MATHEMATICS P1 / WISKUNDE V1**  
+**MARKING GUIDELINES / NASIENRIGLYNE**  
+
+**MAY / JUNE / MEI / JUNIE 2024**  
+
+**MARKS: 150**  
+
+---
+
+**NOTE:**
+* If a candidate answers a question TWICE, only mark the FIRST attempt.
+* Consistent Accuracy applies in all aspects of the marking memorandum.
+
+**LET WEL:**
+* Indien 'n kandidaat 'n vraag TWEE keer beantwoord, merk slegs die EERSTE poging.
+* Volgehoue akkuraatheid is DEURGAANS op ALLE aspekte van die nasienriglyne van toepassing.
+
+---
+
+### QUESTION 1 / VRAAG 1
+
+1.1.1
+$$3x^2 + 5x = 0$$
+$$x(3x + 5) = 0$$
+$$x = 0 \quad \text{or} \quad x = -\frac{5}{3}$$
+
+* $\checkmark\ x = 0$
+* $\checkmark\ x = -\frac{5}{3}$  
+**(2)**
+
+---
+
+1.1.2
+$$4x^2 + 3x - 5 = 0$$
+$$x = \frac{-(3) \pm \sqrt{(3)^2 - 4(4)(-5)}}{2(4)}$$
+$$x = 0,80 \quad \text{or} \quad x = -1,55$$
+
+* $\checkmark$ correct substitution into correct formula
+* $\checkmark$ answer
+* $\checkmark$ answer  
+**(3)**
+
+---
+
+1.1.3
+$$(x - 1)^2 - 9 \ge 0$$
+$$x^2 - 2x - 8 \ge 0$$
+$$(x - 4)(x + 2) \ge 0$$
+$$x = 4 \quad \text{or} \quad x = -2$$
+$$x \le -2 \quad \text{or} \quad x \ge 4$$
+
+* $\checkmark$ standard form
+* $\checkmark$ critical values
+* $\checkmark\checkmark\ x \le -2 \text{ or } x \ge 4$  
+**(4)**
+
+---
+
+1.1.4
+$$5^{2x} - 5^x = 0$$
+$$5^x(5^x - 1) = 0$$
+$$5^x \neq 0 \quad \text{or} \quad 5^x = 1$$
+$$x = 0$$
+
+**OR/OF**
+$$5^{2x} = 5^x$$
+$$2x = x$$
+$$2x - x = 0$$
+$$x = 0$$
+
+* $\checkmark$ common factor
+* $\checkmark\ 5^x \neq 0$
+* $\checkmark\ 5^x = 1$
+* $\checkmark\ x = 0$  
+**(4)**
+
+**OR/OF**
+* $\checkmark\ 5^{2x} = 5^x$
+* $\checkmark\ 2x = x$
+* $\checkmark\ 2x - x = 0$
+* $\checkmark\ x = 0$  
+**(4)**
+
+---
+
+1.1.5
+$$\frac{x}{\sqrt{20 - x}} = 1$$
+$$x = \sqrt{20 - x}$$
+$$x^2 = 20 - x$$
+$$x^2 + x - 20 = 0$$
+$$(x + 5)(x - 4) = 0$$
+$$x = 4 \quad \text{or} \quad x \neq -5$$
+
+* $\checkmark$ isolating the surd
+* $\checkmark$ squaring both sides
+* $\checkmark$ standard form
+* $\checkmark$ answers
+* $\checkmark$ selection  
+**(5)**
+
+---
+
+1.2
+$$2x^2 - y^2 = 7 \quad \text{.... (1)}$$
+$$x + y = 9 \quad \text{.... (2)}$$
+$$y = 9 - x$$
+$$2x^2 - (9 - x)^2 = 7$$
+$$2x^2 - (81 - 18x + x^2) = 7$$
+$$x^2 + 18x - 88 = 0$$
+$$(x + 22)(x - 4) = 0$$
+$$x = -22 \quad \text{or} \quad x = 4$$
+$$y = 31 \quad \text{or} \quad y = 5$$
+
+**OR/OF**
+$$2x^2 - y^2 = 7 \quad \text{.... (1)}$$
+$$x + y = 9 \quad \text{.... (2)}$$
+$$x = 9 - y$$
+$$2(9 - y)^2 - y^2 = 7$$
+$$2(81 - 18y + y^2) - y^2 - 7 = 0$$
+$$162 - 36y + 2y^2 - y^2 - 7 = 0$$
+$$y^2 - 36y + 155 = 0$$
+$$(y - 31)(y - 5) = 0$$
+$$y = 31 \quad \text{or} \quad y = 5$$
+$$x = -22 \quad \text{or} \quad x = 4$$
+
+* $\checkmark\ y = 9 - x$
+* $\checkmark$ substitution
+* $\checkmark$ standard form
+* $\checkmark$ $x$-values
+* $\checkmark$ $y$-values  
+**(5)**
+
+**OR/OF**
+* $\checkmark\ x = 9 - y$
+* $\checkmark$ substitution
+* $\checkmark$ standard form
+* $\checkmark$ $y$-values
+* $\checkmark$ $x$-values  
+**(5)**
+
+---
+
+1.3
+$$P \times T = (1 - a)(1 + a)(1 + a^2)(1 + a^4) \dots (1 + a^{512})$$
+$$P \times T = (1 - a^2)(1 + a^2)(1 + a^4) \dots (1 + a^{512})$$
+$$P \times T = (1 - a^4)(1 + a^4) \dots (1 + a^{512})$$
+$$P \times T = (1 - a^8) \dots (1 + a^{512})$$
+$$P \times T = (1 - a^{512})(1 + a^{512})$$
+$$= 1 - a^{1024}$$
+
+* $\checkmark\ (1 - a^4)$
+* $\checkmark\ (1 - a^{512})$
+* $\checkmark\ 1 - a^{1024}$  
+**(3)**
+
+**[26]**
+
+---
+
+### QUESTION 2 / VRAAG 2
+
+2.1.1
+$$r = \frac{1}{2}$$
+Yes, because $-1 < \frac{1}{2} < 1$
+
+* $\checkmark\ r = \frac{1}{2}$
+* $\checkmark$ answer with reason  
+**(2)**
+
+---
+
+2.1.2
+$$S_\infty = \frac{a}{1 - r}$$
+$$S_\infty = \frac{4}{1 - \frac{1}{2}}$$
+$$\therefore S_\infty = 8$$
+
+* $\checkmark$ substitution
+* $\checkmark$ answer  
+**(2)**
+
+---
+
+2.2
+$$\sum_{p=k}^{10} 3^{p-1} = 3^{k-1} + 3^{k+1-1} + 3^{k+2-1} + \dots + 3^9$$
+$$= 3^{k-1} + 3^k + 3^{k+1} + \dots + 3^9$$
+$$S_n = \frac{a(r^n - 1)}{r - 1}$$
+$$29\,520 = \frac{3^{k-1}(3^{11-k} - 1)}{3 - 1}$$
+$$3^{10} - 3^{k-1} = 59\,040$$
+$$3^{k-1} = 9$$
+$$k - 1 = 2$$
+$$\therefore k = 3$$
+
+* $\checkmark\ a = 3^{k-1}$
+* $\checkmark\ r = 3$
+* $\checkmark\ n = 11 - k$
+* $\checkmark$ substitution
+* $\checkmark$ answer  
+**(5)**
+
+**[9]**
+
+---
+
+### QUESTION 3 / VRAAG 3
+
+3.1.1
+$3 ; 7 ; 12 ; 18$  
+First diff: $4 ; 5 ; 6$  
+Second diff: $1 ; 1$  
+
+$$2a = 1 \implies a = \frac{1}{2}$$
+$$3a + b = 4$$
+$$3\left(\frac{1}{2}\right) + b = 4 \implies b = \frac{5}{2}$$
+$$a + b + c = 3$$
+$$\frac{1}{2} + \frac{5}{2} + c = 3 \implies c = 0$$
+$$T_n = \frac{1}{2}n^2 + \frac{5}{2}n$$
+
+* $\checkmark\ 2a = 1$
+* $\checkmark\ 3\left(\frac{1}{2}\right) + b = 4$
+* $\checkmark\ \frac{1}{2} + \frac{5}{2} + c = 3$  
+**(3)**
+
+---
+
+3.1.2
+$$\frac{1}{2}n^2 + \frac{5}{2}n = 13\,527$$
+$$n^2 + 5n - 27\,054 = 0$$
+$$(n - 162)(n + 167) = 0$$
+$$n = 162 \quad \text{or} \quad n = -167$$
+$$T_{161} = 13\,363$$
+$$\therefore T_{161} + 164 = 13\,527$$
+$164$ must be added.
+
+**OR/OF**  
+$T_n = 3 + \text{sum of } 1^{\text{st}} \text{ differences}$  
+$$13\,527 = 3 + 4 + 5 + \dots + n$$
+$$\frac{n - 3 + 1}{2}[3 + n] = 13\,527$$
+$$n^2 + n - 27\,060 = 0$$
+$$(n + 165)(n - 167) = 0$$
+$$n = 164$$
+
+* $\checkmark\ \frac{1}{2}n^2 + \frac{5}{2}n = 13\,527$
+* $\checkmark$ standard form
+* $\checkmark$ answers for $n$
+* $\checkmark\ 164$  
+**(4)**
+
+**OR/OF**
+* $\checkmark\ 13\,527 = 3 + 4 + 5 + \dots + n$
+* $\checkmark\ n^2 + n - 27\,060 = 0$
+* $\checkmark$ answers for $n$
+* $\checkmark\ 164$  
+**(4)**
+
+---
+
+3.2.1
+$$T_n = 8 + (n - 1)(3)$$
+$$T_n = 3n + 5$$
+$$41 = 3n + 5$$
+$$36 = 3n \implies n = 12$$
+
+* $\checkmark\ T_n = 3n + 5$
+* $\checkmark\ T_n = 41$
+* $\checkmark$ answer  
+**(3)**
+
+---
+
+3.2.2a
+$$P_{41} = 12$$
+
+* $\checkmark$ answer  
+**(1)**
+
+---
+
+3.2.2b
+$$P_8 = a + 7d = 1$$
+$$P_{11} = a + 10d = 2$$
+$$3d = 1 \implies d = \frac{1}{3}$$
+$$a + 7\left(\frac{1}{3}\right) = 1 \implies a = -\frac{4}{3}$$
+
+* $\checkmark\ a + 7d = 1$
+* $\checkmark\ a + 10d = 2$
+* $\checkmark$ value of $d$
+* $\checkmark$ value of $a$  
+**(4)**
+
+**[15]**
+
+---
+
+### QUESTION 4 / VRAAG 4
+
+4.1
+$$x = 1$$
+$$y = 2$$
+
+* $\checkmark\ x = 1$
+* $\checkmark\ y = 2$  
+**(2)**
+
+---
+
+4.2
+*(Graph sketch with asymptotes $x=1, y=2$, $y$-intercept at $(0,1)$, $x$-intercept at $(\frac{1}{2}, 0)$)*
+
+* $\checkmark$ $x$-intercept
+* $\checkmark$ $y$-intercept
+* $\checkmark$ asymptotes
+* $\checkmark$ shape  
+**(4)**
+
+---
+
+4.3
+$$x < \frac{1}{2} \quad \text{or} \quad x > 1$$
+
+* $\checkmark\ x < \frac{1}{2}$
+* $\checkmark\ x > 1$  
+**(2)**
+
+---
+
+4.4
+$$y = -(x - 1) + 2$$
+$$y = -x + 3$$
+
+**OR/OF**  
+$$y - 2 = -(x - 1)$$
+$$y = -x + 3$$
+
+**OR/OF**  
+$$y = -x + c$$
+$$2 = -(1) + c \implies c = 3$$
+$$\therefore y = -x + 3$$
+
+* $\checkmark$ substitution of $(1 ; 2)$
+* $\checkmark$ answer  
+**(2)**
+
+**OR/OF**
+* $\checkmark$ substitution of $(1 ; 2)$
+* $\checkmark$ answer  
+**(2)**
+
+**OR/OF**
+* $\checkmark$ substitution of $(1 ; 2)$
+* $\checkmark$ answer  
+**(2)**
+
+**[10]**
+
+---
+
+### QUESTION 5 / VRAAG 5
+
+5.1
+$$P'(2 ; 4)$$
+
+* $\checkmark\ x = 2$
+* $\checkmark\ y = 4$  
+**(2)**
+
+---
+
+5.2
+$$f(x) = \log_a x$$
+$$2 = \log_a 4$$
+$$a^2 = 4 \implies a = 2$$
+
+* $\checkmark$ substitute $(4 ; 2)$
+* $\checkmark\ a^2 = 4$  
+**(2)**
+
+---
+
+5.3
+$$y = 2^x$$
+
+* $\checkmark\ y = 2^x$  
+**(1)**
+
+---
+
+5.4
+$$1 = \log_2 x \implies x = 2 \quad \Rightarrow T(2 ; 1)$$
+$$\text{RT} = 2 \text{ units}$$
+$$\text{P}'\text{T} = 3 \text{ units}$$
+$$\text{Area of }\Delta\text{RTP}' = \frac{1}{2} \cdot \text{RT} \cdot \text{TP}'$$
+$$= \frac{1}{2} \times 2 \times 3 = 3 \text{ units}^2$$
+
+* $\checkmark\ x = 2$
+* $\checkmark\ \text{RT} = 2 \text{ units}$
+* $\checkmark\ \text{P}'\text{T} = 3 \text{ units}$
+* $\checkmark$ answer  
+**(4)**
+
+**[9]**
+
+---
+
+### QUESTION 6 / VRAAG 6
+
+6.1
+$$y \ge -4 \quad \text{or} \quad y \in [-4 ; \infty)$$
+
+* $\checkmark$ answer  
+**(1)**
+
+---
+
+6.2
+$$x^2 - 2x - 3 = 0$$
+$$(x - 3)(x + 1) = 0$$
+$$x = 3 \quad \text{or} \quad x = -1$$
+$$\therefore E(3 ; 0) \quad \text{and} \quad D(-1 ; 0)$$
+
+* $\checkmark y = 0$
+* $\checkmark$ both $x$-values
+* $\checkmark$ correct identification of coordinates  
+**(3)**
+
+---
+
+6.3
+$$P(0 ; -3)$$
+$$\therefore m_{PE} = 1$$
+$$\therefore g(x) = x - 3$$
+
+* $\checkmark\ m_{PE} = 1$
+* $\checkmark\ g(x) = x - 3$  
+**(2)**
+
+---
+
+6.4
+$$f(x) > g(x)$$
+$$x < 0 \quad \text{or} \quad x > 3$$
+
+* $\checkmark\ x < 0$
+* $\checkmark\ x > 3$  
+**(2)**
+
+---
+
+6.5
+$$\text{Distance} = -x^2 + 2x + 3 - x + 3 = -x^2 + x + 6$$
+$$D' = -2x + 1 = 0 \quad \text{or/of} \quad x = -\frac{b}{2a}$$
+$$\therefore x = \frac{1}{2}$$
+$$D\left(\frac{1}{2}\right) = -\left(\frac{1}{2}\right)^2 + \left(\frac{1}{2}\right) + 6 = \frac{25}{4} = 6,25$$
+
+* $\checkmark\ D = -x^2 + x + 6$
+* $\checkmark$ method
+* $\checkmark\ x = \frac{1}{2}$
+* $\checkmark$ substitution
+* $\checkmark$ answer  
+**(5)**
+
+---
+
+6.6
+$$f'(x) = m$$
+$$1 = 2x - 2 \implies x = \frac{3}{2}$$
+$$\text{Point on } f: \left(\frac{3}{2} ; -\frac{15}{4}\right)$$
+$$-\frac{15}{4} = \left(\frac{3}{2} - 3\right) - n$$
+$$\therefore n = 2\frac{1}{4} = \frac{9}{4} = 2,25$$
+
+**OR/OF**  
+$$f(x) = k(x)$$
+$$x^2 - 2x - 3 = x - 3 - n$$
+$$x^2 - 3x + n = 0$$
+$$\Delta = b^2 - 4ac = (-3)^2 - 4(1)(n) = 9 - 4n$$
+$$\text{To touch: } \Delta = 0$$
+$$9 - 4n = 0 \implies 4n = 9 \implies n = \frac{9}{4}$$
+
+* $\checkmark\ 1 = 2x - 2$
+* $\checkmark\ x = \frac{3}{2}$
+* $\checkmark\ -\frac{15}{4}$
+* $\checkmark\ -\frac{15}{4} = \left(\frac{3}{2} - 3\right) - n$
+* $\checkmark$ answer  
+**(5)**
+
+**OR/OF**
+* $\checkmark$ equating
+* $\checkmark$ standard form
+* $\checkmark$ substitution into $\Delta$
+* $\checkmark\ \Delta = 0$
+* $\checkmark$ answer  
+**(5)**
+
+**[18]**
+
+---
+
+### QUESTION 7 / VRAAG 7
+
+7.1
+$$A = P(1 - i)^n$$
+$$8\,337,75 = 13\,000(1 - i)^6$$
+$$i = 7,14\%$$
+
+* $\checkmark$ substitution in correct formula
+* $\checkmark\checkmark$ answer  
+**(3)**
+
+---
+
+7.2
+$$F = \frac{x[(1 + i)^n - 1]}{i}$$
+$$80\,000 = \frac{x\left[\left(1 + \frac{8,6}{1200}\right)^{36} - 1\right]}{\frac{8,6}{1200}}$$
+$$x = \text{R1 }955,78$$
+
+$$\text{Thandi's total} = 1955,78 \times 36 = \text{R } 70\,408,08$$
+$$\text{Eric's total} = 1402,31 \times 48 = \text{R } 67\,310,88$$
+$$\text{Difference} = 70\,408,08 - 67\,310,88 = \text{R3 }097,20$$
+
+* $\checkmark\ i$
+* $\checkmark$ substitution into correct formula
+* $\checkmark$ answer
+* $\checkmark$ answer  
+**(4)**
+
+---
+
+7.3
+$$A = P(1 + i)^n$$
+$$A = 225\,000\left(1 + \frac{0,09}{12}\right)^3 = \text{R } 230\,100,5637\dots$$
+
+$$225\,000\left(1 + \frac{0,09}{12}\right)^3 = \frac{5500\left[1 - \left(1 + \frac{0,09}{12}\right)^{-n}\right]}{\frac{0,09}{12}}$$
+$$0,3137734959\dots = 1 - \left(1 + \frac{0,09}{12}\right)^{-n}$$
+$$\left(1 + \frac{0,09}{12}\right)^{-n} = 0,6862265041\dots$$
+$$-n = \log_{\left(1 + \frac{0,09}{12}\right)} 0,6862265041\dots$$
+$$n = 50,394375\dots$$
+$$n = 51$$
+
+* $\checkmark$ substitution in correct formula
+* $\checkmark$ answer
+* $\checkmark$ substitution
+* $\checkmark$ simplification
+* $\checkmark$ use of logs
+* $\checkmark$ answer  
+**(6)**
+
+**[13]**
+
+---
+
+### QUESTION 8 / VRAAG 8
+
+8.1
+$$f(x) = \frac{1}{x}$$
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+$$f'(x) = \lim_{h \to 0} \frac{\frac{1}{x + h} - \frac{1}{x}}{h}$$
+$$f'(x) = \lim_{h \to 0} \frac{x - (x + h)}{x(x + h)} \times \frac{1}{h}$$
+$$f'(x) = \lim_{h \to 0} \frac{-h}{x(x + h)} \times \frac{1}{h}$$
+$$f'(x) = \lim_{h \to 0} \frac{-1}{x(x + h)}$$
+$$f'(x) = -\frac{1}{x^2}$$
+
+**OR/OF**
+$$f(x) = \frac{1}{x}$$
+$$f(x + h) = \frac{1}{x + h}$$
+$$f(x + h) - f(x) = \frac{1}{x + h} - \frac{1}{x} = \frac{-h}{x(x + h)}$$
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+$$f'(x) = \lim_{h \to 0} \frac{-h}{x(x + h)} \times \frac{1}{h}$$
+$$f'(x) = \lim_{h \to 0} \frac{-1}{x(x + h)}$$
+$$f'(x) = -\frac{1}{x^2}$$
+
+* $\checkmark\ f(x + h) = \frac{1}{x + h}$
+* $\checkmark\ \frac{x - (x + h)}{x(x + h)} \times \frac{1}{h}$
+* $\checkmark\ \frac{-h}{x(x + h)} \times \frac{1}{h}$
+* $\checkmark\ \frac{-1}{x(x + h)}$
+* $\checkmark$ answer  
+**(5)**
+
+**OR/OF**
+* $\checkmark\ f(x + h) = \frac{1}{x + h}$
+* $\checkmark\ f(x + h) - f(x) = \frac{-h}{x(x + h)}$
+* $\checkmark\ \frac{-h}{x(x + h)} \times \frac{1}{h}$
+* $\checkmark\ \frac{-1}{x(x + h)}$
+* $\checkmark$ answer  
+**(5)**
+
+---
+
+8.2.1
+$$\frac{d}{dx}(\sqrt{4x^6} + \sqrt{2}.x)$$
+$$= \frac{d}{dx}(2x^3 + \sqrt{2}.x)$$
+$$= 6x^2 + \sqrt{2}$$
+
+* $\checkmark\ 2x^3$
+* $\checkmark\ 6x^2$
+* $\checkmark\ \sqrt{2}$  
+**(3)**
+
+---
+
+8.2.2
+$$g(x) = \frac{3x^4 - 4x^2 + 6}{x^2}$$
+$$g(x) = 3x^2 - 4 + 6x^{-2}$$
+$$g'(x) = 6x - 12x^{-3}$$
+
+* $\checkmark\ 3x^2 - 4 + 6x^{-2}$
+* $\checkmark\ 6x$
+* $\checkmark\ -12x^{-3}$  
+**(3)**
+
+---
+
+8.3
+$$f(x) = 3x^2 + bx + c$$
+$$f'(x) = 6x + b$$
+$$f'(1) = 6 + b = 9 \implies b = 3$$
+$$f(1) = 3 + 3 + c = 0 \implies c = -6$$
+$$\therefore f(x) = 3x^2 + 3x - 6$$
+
+* $\checkmark\ f'(1) = 6 + b = 9$
+* $\checkmark\ b = 3$
+* $\checkmark\ f(1) = 3 + 3 + c = 0$
+* $\checkmark\ c = -6$  
+**(4)**
+
+**[15]**
+
+---
+
+### QUESTION 9 / VRAAG 9
+
+9.1
+$$f(x) = ax^3 + bx^2 + cx - 5$$
+$$-5 = a(0 + 1)^2(0 - 5)$$
+$$-5 = -5a \implies a = 1$$
+$$f(x) = (x + 1)(x + 1)(x - 5)$$
+$$f(x) = (x^2 + 2x + 1)(x - 5)$$
+$$f(x) = x^3 - 3x^2 - 9x - 5$$
+$$\therefore b = -3 \quad \text{and} \quad c = -9$$
+
+* $\checkmark$ substitution of $x$-intercepts
+* $\checkmark$ simplification
+* $\checkmark$ simplification  
+**(3)**
+
+---
+
+9.2
+$$f(x) = x^3 - 3x^2 - 9x - 5$$
+$$f'(x) = 3x^2 - 6x - 9$$
+$$3x^2 - 6x - 9 = 0$$
+$$x^2 - 2x - 3 = 0$$
+$$(x - 3)(x + 1) = 0$$
+$$x = 3 \quad \text{or} \quad x = -1$$
+$$\text{Minimum value at } x = 3$$
+
+* $\checkmark\ f'(x) = 3x^2 - 6x - 9$
+* $\checkmark\ f'(x) = 0$
+* $\checkmark$ factors
+* $\checkmark\ x = 3$  
+**(4)**
+
+---
+
+9.3
+$$f''(x) \cdot f(x) > 0$$
+Point of inflection: $x = 1$
+$$x < 1 ; x \neq -1 \quad \text{or} \quad x > 5$$
+
+* $\checkmark\ x = 1$
+* $\checkmark\ x < 1 ; x \neq -1$
+* $\checkmark\ x > 5$  
+**(3)**
+
+---
+
+9.4
+$$-32 < -t < -5$$
+$$5 < t < 32$$
+
+**OR/OF**  
+Shift up more than 5 units and less than 32 units  
+$$\therefore 5 < t < 32$$
+
+* $\checkmark\ -32$
+* $\checkmark\ -32 < -t < -5$
+* $\checkmark\ 5 < t < 32$  
+**(3)**
+
+**OR/OF**
+* $\checkmark$ more than 5 units
+* $\checkmark$ less than 32 units
+* $\checkmark\ 5 < t < 32$  
+**(3)**
+
+**[13]**
+
+---
+
+### QUESTION 10 / VRAAG 10
+
+10.1
+$$\frac{\text{NE}}{\text{EF}} = \frac{2}{3} \implies \frac{\frac{3}{2}x^2}{b} = \frac{2}{3}$$
+$$3x^2 = 2b \implies b = \frac{3x^2}{2}$$
+$$\text{EH} = 4 - 2x^2$$
+$$\text{Area EFGH} = (4 - 2x^2)\left(\frac{3x^2}{2}\right)$$
+$$A(x) = 6x^2 - 3x^4$$
+
+**OR/OF**  
+In $\Delta\text{DMP}: \tan P = \frac{3}{2}$  
+In $\Delta\text{HGP}: \tan P = \frac{GH}{x^2}$  
+$$\frac{GH}{x^2} = \frac{3}{2} \implies GH = \frac{3x^2}{2} = b$$
+$$\text{EH} = 4 - 2x^2$$
+$$\text{Area EFGH} = (4 - 2x^2)\left(\frac{3x^2}{2}\right)$$
+$$A(x) = 6x^2 - 3x^4$$
+
+* $\checkmark\ \frac{\text{NE}}{\text{EF}} = \frac{\frac{3}{2}x^2}{b} = \frac{2}{3}$
+* $\checkmark\ b = \frac{3x^2}{2}$
+* $\checkmark\ \text{EH} = 4 - 2x^2$
+* $\checkmark\ (4 - 2x^2)\left(\frac{3x^2}{2}\right)$  
+**(4)**
+
+**OR/OF**
+* $\checkmark\ \frac{GH}{x^2} = \frac{3}{2}$
+* $\checkmark\ b = \frac{3x^2}{2}$
+* $\checkmark\ \text{EH} = 4 - 2x^2$
+* $\checkmark\ (4 - 2x^2)\left(\frac{3x^2}{2}\right)$  
+**(4)**
+
+---
+
+10.2
+$$A(x) = 6x^2 - 3x^4$$
+$$A'(x) = 12x - 12x^3 = 0$$
+$$12x(1 - x^2) = 0$$
+$$\therefore x \neq 0 \quad \text{or} \quad x = -1 \quad \text{or} \quad x = 1$$
+$$\therefore \text{max area: } A(1) = 6(1)^2 - 3(1)^4 = 3 \text{ cm}^2$$
+
+* $\checkmark\ 12x - 12x^3 = 0$
+* $\checkmark$ values of $x$
+* $\checkmark$ correct substitution
+* $\checkmark$ answer  
+**(4)**
+
+**[8]**
+
+---
+
+### QUESTION 11 / VRAAG 11
+
+11.1
+$$P(A) + P(B) = 0,52$$
+$$0,4 + P(B) = 0,52$$
+$$P(B) = 0,12$$
+
+* $\checkmark$ substitution
+* $\checkmark$ answer  
+**(2)**
+
+---
+
+11.2.1
+$$P(\text{sandwich}) = \frac{4}{25}$$
+
+**OR/OF**  
+$$0,02 + 0,01 + 0,04 + 0,09 = \frac{4}{25} = 0,16$$
+
+* $\checkmark$ answer  
+**(1)**
+
+**OR/OF**
+* $\checkmark$ answer  
+**(1)**
+
+---
+
+11.2.2
+$$P(\text{at least two events}) = 0,02 + 0,01 + 0,03 + 0,04 = 0,1$$
+
+* $\checkmark\ 0,02 + 0,01 + 0,03 + 0,04$
+* $\checkmark$ answer  
+**(2)**
+
+---
+
+11.2.3
+$$P(\text{not any}) = 1 - (0,1 + 0,04 + 0,09 + 0,2) = 0,57$$
+
+* $\checkmark\ 1 - (0,1 + 0,04 + 0,09 + 0,2)$
+* $\checkmark$ answer  
+**(2)**
+
+---
+
+11.3.1
+$$7! = 5040$$
+
+* $\checkmark\ 7!$  
+**(1)**
+
+---
+
+11.3.2
+$$P(4 \text{ players alphabetically}) = \frac{1}{7 \times 6 \times 5 \times 4} = \

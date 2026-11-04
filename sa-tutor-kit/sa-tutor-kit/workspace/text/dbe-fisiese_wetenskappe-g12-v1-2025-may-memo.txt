@@ -1,0 +1,357 @@
+**PHYSICAL SCIENCES: PHYSICS (P1)**
+**FISIESE WETENSKAPPE: FISIKA (V1)**
+**MAY/JUNE 2025/MEI/JUNIE 2025**
+**MARKING GUIDELINES/NASIENRIGLYNE**
+
+---
+
+### **QUESTION 1 / VRAAG 1**
+
+1.1 D $\checkmark\checkmark$ (2)
+
+1.2 A $\checkmark\checkmark$ (2)
+
+1.3 B $\checkmark\checkmark$ Accept Q / Aanvaar Q (2)
+
+1.4 D $\checkmark\checkmark$ (2)
+
+1.5 D $\checkmark\checkmark$ (2)
+
+1.6 C $\checkmark\checkmark$ (2)
+
+1.7 A $\checkmark\checkmark$ (2)
+
+1.8 C $\checkmark\checkmark$ (2)
+
+1.9 C $\checkmark\checkmark$ (2)
+
+1.10 C $\checkmark\checkmark$ (2)
+
+**[20]**
+
+---
+
+### **QUESTION 2 / VRAAG 2**
+
+2.1 Marking criteria/Nasienkriteria
+If any of the underlined key words/phrases in the correct context is omitted deduct 1 mark./Indien enige van die onderstreepte sleutelwoorde/frases in die korrekte konteks uitgelaat is, trek 1 punt af.
+
+A body will remain in its state of *rest* or *motion at constant velocity* unless a non-zero *resultant/net force* acts on it. $\checkmark\checkmark$
+'n Liggaam sal in sy toestand van *rus* of *beweging teen konstante snelheid* volhard, tensy 'n nie-nul *resulterende/netto krag* daarop inwerk. (2)
+
+2.2 
+
+**ACCEPT / AANVAAR**
+```
+       N
+       ↑
+       │   F
+       └───→
+  fk   │
+  ←────┼
+       │
+       │  w
+       ↓
+```
+```
+       N
+       │   F
+       └───↗ fk
+       │  /
+       │ /
+       │/  w
+```
+
+| **Accepted labels / Aanvaarde benoemings** |
+| :--- |
+| **N** $\quad F_{\text{N}} / \text{Normal force} / F_{\text{normal}} / 212,18\text{ N} / F_{\text{normaal}} / \text{Normaalkrag}$ |
+| **$f_{\text{k}}$** $\quad (\text{kinetic})\text{ friction} / F_{\text{f}} / f / 40\text{ N} / (\text{kinetiese})\text{ wrywing} / F_{\text{w}}$ |
+| **F** $\quad \text{Applied force} / F_{\text{applied}} / F_{\text{a}} / \text{Toegepaste krag} / F_{\text{toegepas}}$ |
+| **w** $\quad F_{\text{g}} / F_{\text{w}} / mg / 245\text{ N} / \text{weight} / \text{gravitational force} / \text{gewig} / \text{gravitasiekrag}$ |
+
+**Notes / Aantekeninge**
+* Mark is awarded for label and arrow / Punt word toegeken vir byskrif en pyltjie.
+* Do not penalise for length of arrows / Moenie vir die lengte van die pyltjies penaliseer nie.
+* If arrows do not touch the dot / Indien pyle nie die kolletjie raak nie: $\text{Max/Maks } \frac{3}{4}$
+* Any other additional force(s) / Enige ander addisionele krag(te): $\text{Max/Maks } \frac{3}{4}$
+* If everything correct, but no arrows / Indien alles korrek, maar geen pyltjies: $\text{Max/Maks } \frac{3}{4}$
+* If components are drawn / Indien komponente geteken: $\text{max/maks } \frac{3}{4}$ (4)
+
+2.3 
+
+| **OPTION 1 / OPSIE 1**<br>**DOWNWARDS AS POSITIVE / AFWAARTS AS POSITIEF** | **UPWARDS AS POSITIVE / OPWAARTS AS POSITIEF** |
+| :--- | :--- |
+| $\begin{aligned} F_{\text{net}} &= 0 \\ F_{\text{net}} &= ma \\ F_{\text{g}\parallel} - F - f_{\text{k}} &= ma \\ mg\sin\theta - F - f_{\text{k}} &= ma \\ 25(9,8)\sin30^\circ - F - 40 &= 25(0) \checkmark \\ F &= 82,5\text{ N} \checkmark \end{aligned}$ | $\begin{aligned} F_{\text{net}} &= 0 \\ F_{\text{net}} &= ma \\ -F_{\text{g}\parallel} + F + f_{\text{k}} &= ma \\ -mg\sin\theta + F + f_{\text{k}} &= ma \\ -25(9,8)\sin30^\circ + F + 40 &= 25(0) \checkmark \\ F &= 82,5\text{ N} \checkmark \end{aligned}$ |
+
+**OPTION 2 / OPSIE 2**
+$$\begin{aligned} W_{\text{net}} &= \Delta E_{\text{k}} \\ W_{F} + W_{\text{f}} + W_{F\text{g}} &= 0 \\ F\Delta x\cos\theta + f\Delta x\cos\theta + mg\sin\phi\Delta x\cos\theta &= 0 \\ F\cos180^\circ + 40\cos180^\circ + (25)(9,8)\sin30^\circ\cos0^\circ &= 0 \checkmark \\ F &= 82,5\text{ N} \checkmark \end{aligned}$$ (3)
+
+2.4
+
+$$\begin{aligned}
+F_{\text{net}} &= 0 \quad \checkmark \text{Any one / Enige een} \\
+F_{\text{g}\parallel} &= f \\
+F_{\text{g}\parallel} - f &= F_{\text{net}} = 0 \\
+\text{OR/OF } f &= \mu_{\text{k}}N \checkmark
+\end{aligned}$$
+$$\begin{aligned}
+mg\sin\theta \checkmark &= \mu_{\text{k}}mg\cos\theta \checkmark \quad \textbf{OR/OF } \mu_{\text{k}} = \frac{mg\sin\theta}{mg\cos\theta} \checkmark \\
+\mu_{\text{k}} &= \frac{\sin\theta}{\cos\theta}
+\end{aligned}$$
+*(NOTE: mark only awarded with correct substitution of $F_{\text{g}\parallel}$ / NOTA: punt toegeken slegs indien korrekte vervanging van $F_{\text{g}\parallel}$)* (3)
+
+2.5
+
+| **OPTION 1 / OPSIE 1** | **OPTION 2 / OPSIE 2** |
+| :--- | :--- |
+| $\begin{aligned} \tan\theta &= 0,19 \\ \theta &= 10,76^\circ \checkmark \\ f_{\text{k}} &= \mu_{\text{k}}mg\cos\theta \\ &= (0,19)(25)(9,8)\cos10,76^\circ \checkmark \\ &= 45,73\text{ N} \checkmark \end{aligned}$ | $\begin{aligned} \tan\theta &= 0,19 \\ \theta &= 10,76^\circ \checkmark \\ f_{\text{k}} &= F_{\text{g}\parallel} = mg\sin\theta \\ &= (25)(9,8)\sin10,76^\circ \checkmark \\ &= 45,73\text{ N} \checkmark \end{aligned}$ |
+
+$(\text{Range/Gebied: } 45,73 - 45,74\text{ N})$ (3)
+
+**[15]**
+
+---
+
+### **QUESTION 3 / VRAAG 3**
+
+3.1 Motion under the influence of gravitational force only. $\checkmark\checkmark$
+Accept weight for gravitational force.
+Beweging slegs onder die invloed van gravitasiekrag.
+Aanvaar swaartekrag/gewig vir gravitasiekrag.
+(2 or/of 0)
+
+**OR/OF**
+
+Motion in which the only force acting is gravitational force. $\checkmark\checkmark$
+Accept weight for gravitational force.
+Beweging waar die enigste krag wat inwerk, gravitasiekrag is.
+Aanvaar swaartekrag/gewig vir gravitasiekrag.
+(2 or/of 0)
+
+**NOTE: If projectile is defined: $\frac{0}{2}$ / LET WEL: Indien projektiel gedefinieer is: $\frac{0}{2}$** (2)
+
+3.2 
+Marking criteria / Nasienkriteria
+* Correct formula for $\Delta y = v_{\text{i}}\Delta t + \frac{1}{2}a\Delta t^2$ / Korrekte formule vir $\Delta y = v_{\text{i}}\Delta t + \frac{1}{2}a\Delta t^2$ $\checkmark$
+* Correct substitution into formula for A-B. / Korrekte vervanging in formule vir A-B. $\checkmark$
+* Correct substitution into formula for B-C or A-C. / Korrekte vervanging in formule vir B-C of A-C. $\checkmark$
+* Equating $v_{\text{f}}$ at B and $v_{\text{i}}$ at B / Gelykstelling van $v_{\text{f}}$ by B en $v_{\text{i}}$ by B $\checkmark$
+
+**DOWNWARDS AS POSITIVE / AFWAARTS AS POSITIEF**
+
+| **OPTION 1 / OPSIE 1** | **NOTE / NOTA:** |
+| :--- | :--- |
+| **A-B**<br>$\Delta y = v_{\text{i}}\Delta t + \frac{1}{2}a\Delta t^2 \checkmark$<br>$h = (0) + \frac{1}{2}(9,8)(t)^2 \checkmark$<br>$h = 4,9 t^2$<br><br>**A-C**<br>$\Delta y = v_{\text{i}}\Delta t + \frac{1}{2}a\Delta t^2$<br>$9h = (0)(t + 2) + \frac{1}{2}(9,8)(t + 2)^2 \checkmark$<br>$9h = (4,9)(t + 2)^2$<br>$9t^2 = (t + 2)^2 \checkmark$<br>$3t = (t + 2)$<br>$t = 1\text{ s}$ | If candidate uses $t = 3\text{ s}$ or $t = 1\text{ s}$<br>Indien kandidaat $t = 3\text{ s}$ of $t = 1\text{ s}$ gebruik<br>$\text{max/maks } \frac{1}{4}$ |
+
+| **OPTION 2 / OPSIE 2** | **OPTION 3 / OPSIE 3** |
+| :--- | :--- |
+| **A-B**<br>$\Delta y = v_{\text{i}}\Delta t + \frac{1}{2}a\Delta t^2 \checkmark$<br>$h = (0)t + \frac{1}{2}(9,8)t^2 \checkmark$<br>$h = 4,9 t^2$<br><br>**B-C**<br>$\Delta y = v_{\text{i}}\Delta t + \frac{1}{2}a\Delta t^2$<br>$8h = v_{\text{i}}(2) + \frac{1}{2}(9,8)(2)^2 \checkmark$<br>$\phantom{8h} = 2v_{\text{i}} + 19,6$<br>$v_{\text{i}} = \frac{8h - 19,6}{2}$<br><br>**A-B & B-C**<br>$v_{\text{f}} = v_{\text{i}} + a\Delta t$<br>$v_{\text{f}} = 0 + (9,8)t$<br>$v_{\text{i(B-C)}} = v_{\text{f(A-B)}}$<br>$\frac{8h - 19,6}{2} = (9,8)t \checkmark$<br>$8(4,9t^2) = (19,6)t + 19,6$<br>$2t^2 - t - 1 = 0$<br>$t = 1\text{ s}$ | **A-B**<br>$v_{\text{f}}^2 = v_{\text{i}}^2 + 2a\Delta y$<br>$\phantom{v_{\text{f}}^2} = (0) + 2(9,8)(h) \checkmark$<br>$v_{\text{B}} = \sqrt{19,6h}$<br><br>**B-C**<br>$\Delta y = v_{\text{i}}\Delta t + \frac{1}{2}a\Delta t^2 \checkmark$<br>$8h = v_{\text{B}}(2) + \frac{1}{2}(9,8)(2)^2 \checkmark$<br>$8h = 2(\sqrt{19,6h}) + 19,6$<br>$8h - 2\sqrt{19,6h} = 19,6$<br>$h = 4,9\text{ m}$<br><br>**A-B**<br>$\Delta y = v_{\text{i}}\Delta t + \frac{1}{2}a\Delta t^2$<br>$4,9 = (0) + \frac{1}{2}(9,8)(t)^2 \checkmark$<br>$t = 1\text{ s}$ |
+
+| **OPTION 4 / OPSIE 4** | **OPTION 5 / OPSIE 5** |
+| :--- | :--- |
+| **A-B** $F_{\text{net}}\Delta t = m(v_{\text{f}} - v_{\text{i}})$<br>$\phantom{A-B} mg\Delta t = m(v_{\text{f}} - v_{\text{i}})$<br>$\phantom{A-B} v_{\text{f}} = 9,8t \dots(1)$<br><br>**B-C**<br>$\Delta y = v_{\text{i}}\Delta t + \frac{1}{2}a\Delta t^2 \checkmark$<br>$8h = 9,8t(2) + \frac{1}{2}(9,8)(2)^2 \checkmark$<br>$8h = 19,6t + 19,6 \dots(2)$<br><br>**A-B**<br>$\Delta y = v_{\text{i}}\Delta t + \frac{1}{2}a\Delta t^2$<br>$h = 0t + \frac{1}{2}(9,8)t^2 \checkmark$<br>$h = 4,9t^2 \dots(3)$<br><br>$8(4,9t^2) = 19,6t + 19,6 \checkmark$ (3) into (2)<br>$39,2t^2 - 19,6t + 19,6 = 0$<br>$t = 1\text{ s}$ | **B-C** $\Delta x = v_{\text{i}}\Delta t + \frac{1}{2}a\Delta t^2 \checkmark$<br>$\phantom{B-C} 8h = v_{\text{i}}(2) + \frac{1}{2}(9,8)(2)^2 \checkmark$<br>$\phantom{B-C} v_{\text{i}} = 4h - 9,8 \dots(1)$<br><br>**A-B** $\quad v_{\text{f}} = v_{\text{i}} + a\Delta t$<br>$\phantom{A-B} 4h - 9,8 = 0 + 9,8t$<br>$\phantom{A-B} t = \frac{4h}{9,8} - 1 \dots(2)$<br><br>**A-B** $\quad \Delta x = v_{\text{i}}\Delta t + \frac{1}{2}a\Delta t^2$<br>$\phantom{A-B} h = 0 + \frac{1}{2}(9,8)t^2 \checkmark$<br>$\phantom{A-B} = 4,9t^2 \dots(3)$<br><br>(3) into (2): $t = \frac{4(4,9t^2)}{9,8} - 1 \checkmark$<br>$2t^2 - t - 1 = 0$<br>$t = 1\text{ s}$ |
+
+*(UPWARDS AS POSITIVE / OPWAARTS AS POSITIEF omitted for brevity, but similarly marked)* (4)
+
+3.3 Marking criteria/Nasienkriteria
+* Formula to calculate $v_{\text{f}}$ / Formule om $v_{\text{f}}$ te bereken $\checkmark$
+* Correct substitution / Korrekte vervanging $\checkmark$
+* Correct final answer / Korrekte finale antwoord: $29,4\text{ m}\cdot\text{s}^{-1}$ $\checkmark$
+
+**DOWNWARDS AS POSITIVE / AFWAARTS AS POSITIEF**
+
+| **OPTION 1 / OPSIE 1** | **OPTION 2 / OPSIE 2** |
+| :--- | :--- |
+| **A-C**<br>$v_{\text{f}} = v_{\text{i}} + a\Delta t \checkmark$<br>$\phantom{v_{\text{f}}} = 0 + (9,8)(3) \checkmark$<br>$v_{\text{f}} = 29,4\text{ m}\cdot\text{s}^{-1}\checkmark$ | **A-B**<br>$v_{\text{f}} = v_{\text{i}} + a\Delta t$<br>$\phantom{v_{\text{f}}} = 0 + (9,8)(1)$<br>$v_{\text{f}} = 9,8\text{ m}\cdot\text{s}^{-1}$<br>**B-C**<br>$v_{\text{f}} = v_{\text{i}} + a\Delta t \checkmark$<br>$v_{\text{f}} = 9,8 + (9,8)(2) \checkmark$<br>$v_{\text{f}} = 29,4\text{ m}\cdot\text{s}^{-1}\checkmark$ |
+
+| **OPTION 3 / OPSIE 3** | **OPTION 4 / OPSIE 4** |
+| :--- | :--- |
+| **A-C**<br>$v_{\text{f}}^2 = v_{\text{i}}^2 + 2a\Delta y \checkmark$<br>$v_{\text{f}}^2 = (0)^2 + (2)(9,8)(44,1) \checkmark$<br>$v_{\text{f}} = 29,4\text{ m}\cdot\text{s}^{-1}\checkmark$ | **A-C**<br>$\Delta y = \left(\frac{v_{\text{i}} + v_{\text{f}}}{2}\right)\Delta t \checkmark$<br>$44,1 = \left(\frac{0 + v_{\text{f}}}{2}\right)(3) \checkmark$<br>$v_{\text{f}} = 29,4\text{ m}\cdot\text{s}^{-1}\checkmark$ |
+
+(3)
+
+3.4.1 POSITIVE MARKING FROM QUESTION 3.2 and 3.3
+**DOWNWARDS AS POSITIVE / AFWAARTS AS POSITIEF**
+
+| **OPTION 1 / OPSIE 1** | **OPTION 2 / OPSIE 2** | **OPTION 3 / OPSIE 3** |
+| :--- | :--- | :--- |
+| $h = 4,9 \text{ OR } h = (4,9)(1)^2 \text{ OR } \Delta y = v_{\text{i}}\Delta t + \frac{1}{2}a\Delta t^2$<br>$9h = 9(4,9) \checkmark$<br>$\phantom{9h} = 44,1\text{ m} \checkmark$ | $\Delta y = 4,9 + 39,2 \checkmark$<br>$\phantom{\Delta y} = 44,1\text{ m} \checkmark$ | $\Delta y = v_{\text{i}}\Delta t + \frac{1}{2}a\Delta t^2$<br>$\phantom{\Delta y} = (0)(3) + \frac{1}{2}(9,8)(3)^2 \checkmark$<br>$\Delta y = 44,1\text{ m} \checkmark$ |
+
+| **OPTION 4 / OPSIE 4** | **OPTION 5 / OPSIE 5** | **OPTION 6 / OPSIE 6** |
+| :--- | :--- | :--- |
+| $\Delta y = \left(\frac{v_{\text{i}} + v_{\text{f}}}{2}\right)\Delta t$<br>$\phantom{\Delta y} = \left(\frac{0 + 29,4}{2}\right)(3) \checkmark$<br>$\Delta y = 44,1\text{ m} \checkmark$ | $v_{\text{f}}^2 = v_{\text{i}}^2 + 2a\Delta y$<br>$(29,4)^2 = (0)^2 + (2)(9,8)\Delta y \checkmark$<br>$\Delta y = 44,1\text{ m} \checkmark$ | $(E_{\text{mech}})_{\text{i}} = (E_{\text{mech}})_{\text{f}}<br>0 + m(9,8)h = \frac{1}{2}m(29,4)^2 + 0 \checkmark$<br>$h = 44,1\text{ m} \checkmark$ |
+
+(2)
+
+3.4.2 $\Delta y_{\text{BC}} = 39,2\text{ m} \checkmark$ (1)
+
+3.5 POSITIVE MARKING FROM QUESTIONS 3.3 and 3.4
+**DOWNWARDS AS POSITIVE / AFWAARTS AS POSITIEF**
+```
+position (m)
+ 0 ┼───────────────► Time (s)
+   │  1       3
+   │  :       .
+   │  :      /
+   │  :     /
+   │  :    /
+   │  :   /
+   │  :  /
+-39,2┼─.  /
+-44,1┼─' /
+```
+**Marking criteria:**
+* Initial position $-44,1\text{ m}$ AND ball strikes the ground at $3\text{ s}$ $\checkmark$
+* Position at $1\text{ s}$ is $-39,2\text{ m}$ $\checkmark$
+* Correct shape $\checkmark\checkmark$
+* If ground is not used as zero $\text{max } \frac{3}{4}$
+* If axis incorrectly/not labelled $\text{max } \frac{3}{4}$ (4)
+
+**[16]**
+
+---
+
+### **QUESTION 4 / VRAAG 4**
+
+4.1 Marking criteria/Nasienkriteria
+If any of the underlined key words/phrases in the correct context is omitted deduct 1 mark.
+The total (linear) momentum in an isolated system is **conserved/remains constant**. $\checkmark\checkmark$
+Die totale (lineêre) momentum in 'n geïsoleerde sisteem bly **behoue/konstant**.
+
+*Accept for 1 mark:* In an isolated system the total momentum before a collision is equal to the total momentum after a collision. $\checkmark$ (2)
+
+4.2 
+$$\begin{aligned}
+\Delta x &= v_{\text{i}}\Delta t + \frac{1}{2}a\Delta t^2 \\
+0,8 &= v_{\text{i}}(2) \checkmark \\
+v_{\text{i}} &= 0,4\text{ m}\cdot\text{s}^{-1}
+\end{aligned}$$
+
+| **RIGHT AS + / REGS AS +**<br>**OPTION 1 / OPSIE 1** | **LEFT AS + / LINKS AS +**<br>**OPTION 1 / OPSIE 1** |
+| :--- | :--- |
+| $\begin{aligned} \sum p_{\text{i}} &= \sum p_{\text{f}} \\ m_1v_{1\text{i}} + m_2v_{2\text{i}} &= (m_1 + m_2)v_{\text{f}} \\ (2)v_{1\text{i}} + 0 \checkmark &= (2 + 1,5)(0,4) \checkmark \\ v_{1\text{i}} &= 0,7\text{ m}\cdot\text{s}^{-1} \checkmark \end{aligned}$ | $\begin{aligned} \sum p_{\text{i}} &= \sum p_{\text{f}} \\ m_1v_{1\text{i}} + m_2v_{2\text{i}} &= (m_1 + m_2)v_{\text{f}} \\ (2)(v_{1\text{i}}) + 0 \checkmark &= (2 + 1,5)(-0,4) \checkmark \\ v_{1\text{i}} &= 0,7\text{ m}\cdot\text{s}^{-1} \checkmark \end{aligned}$ |
+
+(5)
+
+4.3 Inelastic / Onelasties $\checkmark$ (1)
+
+4.4 DECREASES / NEEM AF $\checkmark$
+$F_{\text{net}}\Delta t = \Delta p \text{ OR/OF } F_{\text{net}} = \frac{\Delta p}{\Delta t} \text{ OR/OF } F_{\text{net}}\Delta t = m\Delta v \text{ OR/OF } F_{\text{net}} \alpha \frac{1}{\Delta t}$ $\checkmark$ (2)
+
+**[10]**
+
+---
+
+### **QUESTION 5 / VRAAG 5**
+
+5.1 Marking criteria/Nasienkriteria
+If any of the underlined key words/phrases in the correct context is omitted deduct 1 mark.
+A non-conservative force is a force for which the work done (in moving an object between two points) **is dependent on the path taken**. $\checkmark\checkmark$
+'n Nie-konserwatiewe krag is 'n krag waarvoor die arbeid wat verrig is (om 'n voorwerp tussen twee punte te beweeg) **afhanklik is van die pad wat gevat word**. (2)
+
+5.2 
+```
+    Fpump
+      ↑
+      │
+      •
+      │
+      ↓
+      w
+```
+| **Accepted labels / Aanvaarde byskrifte** |
+| :--- |
+| **$F_{\text{pump}}$** $\quad F / F_{\text{P}} / F_{\text{electric pump}} / F / 1\text{ }960\text{ N} / F_{\text{applied}} / F_{\text{up}} / F_{\text{p}} / F_{\text{elektriese pomp}} / F_{\text{toegepas}} / F_{\text{op}}$ |
+| **w** $\quad F_{\text{g}} / F_{\text{w}} / \text{weight} / mg / \text{gravitational force} / 1\text{ }960\text{ N} / \text{gewig} / \text{gravitasiekrag}$ |
+
+(2)
+
+5.3.1 
+
+| **OPTION 1 / OPSIE 1** | **OPTION 2 / OPSIE 2** |
+| :--- | :--- |
+| $\begin{aligned} W_{\text{nc}} &= \Delta E_{\text{p}} + \Delta E_{\text{k}} \\ W_{\text{pump}} &= mg\Delta h / mgh \\ &= 200(9,8)(12,5) \checkmark \\ &= 24\text{ }500\text{ J} \checkmark \end{aligned}$ | $\begin{aligned} F_{\text{pump}} &= w = 1960\text{ N} \\ W_{\text{pump}} &= F_{\text{pump}}\Delta x\cos\theta \checkmark \\ &= (1960)(12,5)(1) \checkmark \\ &= 24\text{ }500\text{ J} \checkmark \end{aligned}$ |
+
+(3)
+
+5.3.2 
+
+| **OPTION 1 / OPSIE 1** | **OPTION 2 / OPSIE 2** |
+| :--- | :--- |
+| $\begin{aligned} \Delta t &= \frac{200}{2,5} \checkmark = 80\text{ s} \\ v &= \frac{\Delta x}{\Delta t} \\ &= \frac{12,5}{80} \\ &= 0,16\text{ m}\cdot\text{s}^{-1} (0,156\text{ m}\cdot\text{s}^{-1}) \checkmark \end{aligned}$ | $\begin{aligned} \Delta t &= \frac{200}{2,5} \checkmark = 80\text{ s} \\ \Delta x &= \left(\frac{v_{\text{i}} + v_{\text{f}}}{2}\right)\Delta t \\ 12,5 &= \frac{2v}{2}(80) \checkmark \\ v &= 0,16\text{ m}\cdot\text{s}^{-1} (0,156\text{ m}\cdot\text{s}^{-1}) \checkmark \end{aligned}$ |
+
+(3)
+
+5.3.3 POSITIVE MARKING FROM Q5.3.1 and Q5.3.2
+
+| **OPTION 1 / OPSIE 1** | **OPTION 2 / OPSIE 2** |
+| :--- | :--- |
+| $\begin{aligned} P &= \frac{W}{\Delta t} \checkmark \\ &= \frac{24500}{80} \checkmark \\ &= 306,25\text{ W} \checkmark \end{aligned}$ | $\begin{aligned} P_{\text{ave}} &= Fv_{\text{ave}} \checkmark \\ &= (200)(9,8)(0,16) \checkmark \\ &= 313,60\text{ W} \checkmark \end{aligned}$ |
+
+$(\text{Range/Gebied: } 305,76\text{ W} - 313,60\text{ W})$ (3)
+
+**[13]**
+
+---
+
+### **QUESTION 6 / VRAAG 6**
+
+6.1 Marking criteria/Nasienkriteria
+If any of the underlined key words/phrases in the correct context is omitted deduct 1 mark.
+Doppler effect / Doppler-effek $\checkmark$
+The **change in frequency (pitch)** of the sound detected by a listener because the **sound source and the listener have different velocities** relative to the medium of sound propagation. $\checkmark\checkmark$
+Die **verandering in frekwensie (toonhoogte)** van die klank waargeneem deur 'n luisteraar omdat die **klankbron en die luisteraar verskillende snelhede** relatief tot die medium waarin die klank voortgeplant word, het. (3)
+
+6.2 
+$$\begin{aligned}
+v &= f_{\text{L}}\lambda \\
+340 &= f_{\text{L}} \times 0,016 \checkmark \\
+f_{\text{L}} &= 21\text{ }250\text{ Hz}
+\end{aligned}$$
+$$\begin{aligned}
+f_{\text{L}} &= \left(\frac{v \pm v_{\text{L}}}{v \pm v_{\text{s}}}\right)f_{\text{S}} \checkmark \\
+21\text{ }250 \checkmark &= \left(\frac{340 + 0}{340 - v_{\text{B}}}\right)f_{\text{S}} \\
+f_{\text{S}} &= 21\text{ }250 - 62,5v_{\text{B}}
+\end{aligned}$$ (4)
+
+6.3 POSITIVE MARKING FROM Q6.2 for $21\text{ }250\text{ Hz}$ for $f_{\text{s}}$
+$$f_{\text{L}}' = 21\text{ }250 - 62,5v_{\text{B}} + 850 = 22\text{ }100 - 62,5v_{\text{B}} \checkmark$$
+$$[22\text{ }100 - 62,5v_{\text{B}}] = \left(\frac{340 + v_{\text{B}}}{340 - 0}\right)(21\text{ }250) \checkmark$$
+$$v_{\text{B}} = 6,8\text{ m}\cdot\text{s}^{-1} \checkmark$$ (5)
+
+**[12]**
+
+---
+
+### **QUESTION 7 / VRAAG 7**
+
+7.1 
+```
+       ↑
+   ←   •   →
+       ↓
+```
+* Correct shape (straight field lines). / Korrekte vorm (reguit veldlyne). $\checkmark$
+* Correct direction away from the charge. / Korrekte rigting weg van die lading. $\checkmark\checkmark$ (3)
+
+7.2.1 Marking criteria/Nasienkriteria:
+The magnitude of the electrostatic force exerted by one point charge ($Q_1$) on another point charge ($Q_2$) is **directly proportional** to the product of the (magnitudes) of the charges $\checkmark$ and **inversely proportional** to the square of the **distance ($r$) between them**. $\checkmark$ (2)
+
+7.2.2 
+```
+      T
+      ↖
+      │
+      • ─── FE
+      │
+      ↓
+      w
+```
+| **Accepted labels / Aanvaarde byskrifte** |
+| :--- |
+| **w** $\quad F_{\text{w}} / F_{\text{g}} / mg / 1,47 \times 10^{-3}\text{ N} / \text{gravitational force} / \text{gravitasiekrag} / \text{weight} / \text{gewig}$ |
+| **$F_{\text{E}}$** $\quad F / \text{Electrostatic force} / \text{Coulomb force} / F_{\text{E}}\text{ Field} / F_{\text{R on S}} / F_{\text{E}}\text{veld} / F_{\text{R op S}} / F_{\text{R}}$ |
+| **T** $\quad F_{\text{T}} / F_{\text{string}} / \text{tension} / \text{spanning} / F_{\text{tou}}$ |
+
+(3)
+

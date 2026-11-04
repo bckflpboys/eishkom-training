@@ -1,0 +1,273 @@
+**NATIONAL SENIOR CERTIFICATE**
+**GRAAD 12**
+
+**WISKUNDE V1**
+**NOVEMBER 2022**
+
+**PUNTE: 150**
+**TYD: 3 uur**
+
+Hierdie vraestel bestaan uit 9 bladsye en 1 inligtingsblad.
+
+---
+
+### INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies noukeurig deur voordat die vrae beantwoord word.
+
+1. Hierdie vraestel bestaan uit 10 vrae.
+2. Beantwoord AL die vrae.
+3. Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie vraestel gebruik is.
+4. Dui ALLE berekeninge, diagramme, grafieke, ens. wat jy gebruik het om jou antwoorde te bepaal, duidelik aan.
+5. Volpunte sal NIE noodwendig aan slegs antwoorde toegeken word NIE.
+6. Jy mag 'n goedgekeurde, wetenskaplike sakrekenaar (nieprogrammeerbaar en niegrafies) gebruik, tensy anders vermeld.
+7. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders vermeld.
+8. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+9. 'n Inligtingsblad met formules is aan die einde van die vraestel ingesluit.
+10. Skryf netjies en leesbaar.
+
+---
+
+### VRAAG 1
+
+1.1 Los op vir $x$:
+1.1.1 $(3x - 6)(x + 2) = 0$ (2)
+1.1.2 $2x^2 - 6x + 1 = 0$ (korrek tot TWEE desimale plekke) (3)
+1.1.3 $x^2 - 90 > x$ (4)
+1.1.4 $x - 7\sqrt{x} = -12$ (4)
+
+1.2 Los gelyktydig vir $x$ en $y$ op:
+$$2x - y = 2$$
+$$xy = 4$$ (5)
+
+1.3 Toon dat $2 \cdot 5^n - 5^{n+1} + 5^{n+2}$ ewe is vir alle positiewe heelgetalwaardes van $n$. (3)
+
+1.4 Bepaal die waardes van $x$ en $y$ as: $\frac{3^{y+1}}{32} = \sqrt{96^x}$ (4)
+
+**[25]**
+
+---
+
+### VRAAG 2
+
+2.1 Die eerste term van 'n meetkundige reeks is $14$ en die $6^{\text{de}}$ term is $448$.
+
+2.1.1 Bereken die waarde van die konstante verhouding, $r$. (2)
+2.1.2 Bepaal die aantal opeenvolgende terme wat by die eerste $6$ terme van die reeks getel moet word om 'n som van $114\ 674$ te kry. (4)
+2.1.3 Indien die eerste term van 'n ander reeks $448$ en die $6^{\text{de}}$ term $14$ is, bereken die som tot oneindig van die nuwe reeks. (3)
+
+2.2 Indien $\sum_{p=0}^{k} \left(\frac{1}{3}\cdot p + \frac{1}{6}\right) = 20\frac{1}{6}$, bepaal die waarde van $k$. (5)
+
+**[14]**
+
+---
+
+### VRAAG 3
+
+Daar word gegee dat die algemene term van 'n kwadratiese getalpatroon $T_n = n^2 + bn + 9$ is en dat die eerste term van die eerste verskille $7$ is.
+
+3.1 Toon dat $b = 4$. (2)
+
+3.2 Bepaal die waarde van die $60^{\text{ste}}$ term van hierdie getalpatroon. (2)
+
+3.3 Bepaal die algemene term vir die ry van eerste verskille van die kwadratiese getalpatroon. Skryf jou antwoord in die vorm $T_p = mp + q$. (3)
+
+3.4 Watter TWEE opeenvolgende terme in die kwadratiese getalpatroon het 'n eerste verskil van $157$? (3)
+
+**[10]**
+
+---
+
+### VRAAG 4
+
+4.1 Die grafiek van $h(x) = \frac{1}{x + p} + q$ is hieronder geskets. Die asimptote van $h$ sny by $(1; 2)$.
+
+[DIAGRAM: A hyperbola $h$ with vertical asymptote $x = 1$ and horizontal asymptote $y = 2$. The graph has two branches in quadrants relative to the asymptotes: one in the top right, one in the bottom left. The $y$-intercept is not explicitly labeled on the axis, but the origin $O$ is marked. The intersection of asymptotes is at $(1; 2)$.]
+
+4.1.1 Skryf die waardes van $p$ en $q$ neer. (2)
+4.1.2 Bereken die koördinate van die $x$-afsnit van $h$. (2)
+4.1.3 Skryf die $x$-koördinaat van die $x$-afsnit van $g$ neer, indien $g(x) = h(x + 3)$. (2)
+4.1.4 Die vergelyking van 'n simmetrie-as van $h$ is $y = x + t$. Bepaal die waarde van $t$. (2)
+4.1.5 Bepaal die waardes van $x$ waarvoor $-2 \le \frac{1}{x - 1}$. (3)
+
+---
+
+4.2 Die grafieke van $f(x) = x^2 - 4x - 5$ en $g(x) = a \cdot 2^x + q$ is hieronder geskets.
+* $E$ en $H$ is die $x$-afsnitte van $f$.
+* $C$ is die $y$-afsnit van $f$ en lê op die asimptoot van $g$.
+* Die twee grafieke sny by $D$, die draaipunt van $f$.
+
+[DIAGRAM: A parabola $f$ opening upwards with vertex $D$ in the fourth quadrant. It intersects the $x$-axis at $E$ (negative side) and $H$ (positive side). It intersects the $y$-axis at $C$ (negative side). An exponential curve $g$ with a horizontal asymptote passing through $C$ is also shown, passing through the intersection point $D$.]
+
+4.2.1 Skryf die $y$-koördinaat van $C$ neer. (1)
+4.2.2 Bepaal die koördinate van $D$. (2)
+4.2.3 Bepaal die waardes van $a$ en $q$. (3)
+4.2.4 Skryf die waardeversameling van $g$ neer. (1)
+4.2.5 Bepaal die waardes van $k$ waarvoor die waarde van $f(x) - k$ altyd positief sal wees. (2)
+
+**[20]**
+
+---
+
+### VRAAG 5
+
+Die grafieke van $g(x) = 2x + 6$ en $g^{-1}$, die inverse van $g$, word in die diagram hieronder getoon.
+* $D$ en $B$ is onderskeidelik die $x$- en $y$-afsnitte van $g$.
+* $C$ is die $x$-afsnit van $g^{-1}$.
+* Die grafieke van $g$ en $g^{-1}$ sny by $A$.
+
+[DIAGRAM: Two straight lines $g$ and $g^{-1}$ intersecting in the third quadrant at $A$. Line $g$ has $y$-intercept $B$ and $x$-intercept $D$. Line $g^{-1}$ has $x$-intercept $C$.]
+
+5.1 Skryf die $y$-koördinaat van $B$ neer. (1)
+
+5.2 Bepaal die vergelyking van $g^{-1}$ in die vorm $g^{-1}(x) = mx + n$. (2)
+
+5.3 Bepaal die koördinate van $A$. (3)
+
+5.4 Bereken die lengte van $AB$. (2)
+
+5.5 Bereken die oppervlakte van $\Delta ABC$. (5)
+
+**[13]**
+
+---
+
+### VRAAG 6
+
+6.1 $\text{R}12\ 000$ is in 'n fonds belê wat rente teen $m\%$ p.j., kwartaalliks saamgestel, betaal het. Na $24$ maande was die waarde van die belegging $\text{R}13\ 459$.
+Bepaal die waarde van $m$. (4)
+
+6.2 Op $31$ Januarie $2022$ het Tino $\text{R}1\ 000$ in 'n rekening gedeponeer wat rente teen $7,5\%$ p.j., maandeliks saamgestel, betaal het. Hy het aangehou om $\text{R}1\ 000$ op die laaste dag van elke maand te deponeer. Hy sal die laaste deposito op $31$ Desember $2022$ maak.
+Sal Tino op $1$ Januarie $2023$ genoeg geld in die rekening hê om 'n rekenaar wat $\text{R}13\ 000$ kos, te koop? Motiveer jou antwoord deur 'n toepaslike berekening te gebruik. (4)
+
+6.3 Thabo beplan om 'n kar wat $\text{R}250\ 000$ kos, te koop. Hy sal 'n deposito van $15\%$ betaal en 'n lening vir die balans uitneem. Die rente op die lening is $13\%$ p.j., maandeliks saamgestel.
+
+6.3.1 Bereken die waarde van die lening. (1)
+6.3.2 Die eerste terugbetaling sal gemaak word $6$ maande nadat die lening toegestaan is. Die lening sal oor 'n tydperk van $6$ jaar nadat dit toegestaan is, afbetaal word. Bereken die MAANDELIKSE paaiement. (5)
+
+**[14]**
+
+---
+
+### VRAAG 7
+
+7.1 Bepaal $f'(x)$ vanuit eerste beginsels indien $f(x) = x^2 + x$. (5)
+
+7.2 Bepaal $f'(x)$ indien $f(x) = 2x^5 - 3x^4 + 8x$. (3)
+
+7.3 Die raaklyn aan g$(x) = ax^3 + 3x^2 + bx + c$ het 'n minimum helling (gradiënt) by die punt $(-1; -7)$. Vir watter waardes van $x$ sal $g$ konkaaf op wees? (4)
+
+**[12]**
+
+---
+
+### VRAAG 8
+
+Die grafiek van $y = f'(x) = mx^2 + nx + k$ is hieronder geteken.
+Die grafiek gaan deur die punte $P\left(-\frac{1}{3}; 0\right)$, $Q(1; 0)$ en $R(0; 1)$.
+
+[DIAGRAM: A parabola $f'$ opening downwards passing through $P(-\frac{1}{3}; 0)$, $Q(1; 0)$ and $R(0; 1)$.]
+
+8.1 Bepaal die waardes van $m$, $n$ en $k$. (6)
+
+8.2 Indien dit verder gegee word dat $f(x) = -x^3 + x^2 + x + 2$:
+8.2.1 Bepaal die koördinate van die draaipunte van $f$. (3)
+8.2.2 Skets die grafiek van $f$. Dui die koördinate van die draaipunte en die afsnitte met die asse op jou grafiek aan. (5)
+
+8.3 Punte $E$ en $W$ is twee veranderlike punte op $f'$ en is op dieselfde horisontale lyn.
+* $h$ is 'n raaklyn aan $f'$ by $E$.
+* $g$ is 'n raaklyn aan $f'$ by $W$.
+* $h$ en $g$ sny by $D(a; b)$.
+
+8.3.1 Skryf die waarde van $a$ neer. (1)
+8.3.2 Bepaal die waarde(s) van $b$ waarvoor $h$ en $g$ nie meer raaklyne aan $f'$ sal wees nie. (2)
+
+**[17]**
+
+---
+
+### VRAAG 9
+
+Gegee $f(x) = x^2$.
+Bepaal die minimum afstand tussen die punt $(10; 2)$ en 'n punt op $f$. (8)
+
+**[18]**
+
+---
+
+### VRAAG 10
+
+10.1 A, B en C is drie gebeurtenisse. Die waarskynlikhede dat hierdie gebeurtenisse (of enige kombinasie daarvan) sal plaasvind, word in die Venn-diagram hieronder gegee.
+
+[DIAGRAM: A Venn diagram with three intersecting sets A, B, and C inside a universal set. Probability values: set A has region 0.05, A and C overlap with 0.15, A and B overlap with 0.1, C has 0.05, B has 0.183, the intersection of all three is $x$, and B and C overlap with 0.2. The region outside all three sets is $y$.]
+
+10.1.1 Indien daar gegee word dat die waarskynlikheid dat ten minste een van die gebeurtenisse sal plaasvind, $0,893$ is, bereken die waarde van:
+(a) $y$, die waarskynlikheid dat nie een van hierdie gebeurtenisse sal plaasvind nie. (1)
+(b) $x$, die waarskynlikheid dat al drie gebeurtenisse sal plaasvind. (1)
+10.1.2 Bepaal die waarskynlikheid dat ten minste twee van die gebeurtenisse sal plaasvind. (2)
+10.1.3 Is gebeurtenisse B en C onafhanklik? Motiveer jou antwoord. (5)
+
+10.2 'n Viersyferkode word benodig om 'n kombinasieslot oop te maak. Die kode moet 'n ewe getal wees en mag nie die syfers $0$ of $1$ bevat nie. Syfers mag nie herhaal word nie.
+
+10.2.1 Hoeveel moontlike 4-syfer-kombinasies is daar om die slot oop te maak? (3)
+10.2.2 Bereken die waarskynlikheid dat jy die slot met die eerste poging sal oopmaak as daar gegee word dat die kode groter as $5\ 000$ is en dat die derde syfer $2$ is. (5)
+
+**[17]**
+
+**TOTAAL: 150**
+
+---
+
+### INLIGTINGSBLAD
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni)$$ 
+$$A = P(1 - ni)$$ 
+$$A = P(1 - i)^n$$ 
+$$A = P(1 + i)^n$$
+
+$$T_n = a + (n - 1)d$$ 
+$$S_n = \frac{n}{2}[2a + (n - 1)d]$$
+
+$$T_n = ar^{n-1}$$ 
+$$S_n = \frac{a(r^n - 1)}{r - 1} \quad (r \neq 1)$$ 
+$$S_\infty = \frac{a}{1 - r} \quad (-1 < r < 1)$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i}$$ 
+$$P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$ 
+$$M\left(\frac{x_1 + x_2}{2}; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c$$ 
+$$y - y_1 = m(x - x_1)$$ 
+$$m = \frac{y_2 - y_1}{x_2 - x_1}$$ 
+$$m = \tan \theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+In $\Delta ABC$: 
+$$\frac{\sin A}{a} = \frac{\sin B}{b} = \frac{\sin C}{c}$$
+$$a^2 = b^2 + c^2 - 2bc \cos A$$
+$$\text{area } \Delta ABC = \frac{1}{2}ab \sin C$$
+
+$$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta$$
+$$\sin(\alpha - \beta) = \sin \alpha \cos \beta - \cos \alpha \sin \beta$$
+$$\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta$$
+$$\cos(\alpha - \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2 \alpha - \sin^2 \alpha \\ 1 - 2\sin^2 \alpha \\ 2\cos^2 \alpha - 1 \end{cases}$$
+
+$$\sin 2\alpha = 2\sin \alpha \cos \alpha$$
+
+$$\bar{x} = \frac{\sum x}{n}$$ 
+$$\sigma^2 = \frac{\sum_{i=1}^{n}(x_i - \bar{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)}$$ 
+$$P(A \text{ of } B) = P(A) + P(B) - P(A \text{ en } B)$$
+
+$$\hat{y} = a + bx$$ 
+$$b = \frac{\sum(x - \bar{x})(y - \bar{y})}{\sum(x - \bar{x})^2}$$

@@ -1,0 +1,606 @@
+# BASIC EDUCATION
+**Department:** Basic Education  
+**REPUBLIC OF SOUTH AFRICA**
+
+**SENIOR CERTIFICATE EXAMINATIONS / SENIORSERTIFIKAAT-EKSAMEN**  
+**NATIONAL SENIOR CERTIFICATE EXAMINATIONS / NASIONALE SENIORSERTIFIKAAT-EKSAMEN**
+
+### MATHEMATICS P1 / WISKUNDE V1
+### MARKING GUIDELINES / NASIENRIGLYNE
+### 2021
+
+**MARKS:** 150  
+**PUNTE:** 150  
+
+These marking guidelines consist of 13 pages.  
+Hierdie nasienriglyne bestaan uit 13 bladsye.
+
+---
+
+## NOTE:
+- If a candidate answers a question TWICE, only mark the FIRST attempt.
+- Consistent Accuracy applies in all aspects of the marking memorandum.
+
+## LET WEL:
+- Indien 'n kandidaat 'n vraag TWEE keer beantwoord, merk slegs die EERSTE poging.
+- Volgehoue akkuraatheid is DEURGAANS op ALLE aspekte van die memorandum van toepassing.
+
+---
+
+## QUESTION / VRAAG 1
+
+### 1.1.1
+$$x^2 - x - 20 = 0$$
+$$(x - 5)(x + 4) = 0$$
+$$x = 5 \quad \text{or} \quad x = -4$$
+
+**Marking Criteria:**
+* $\checkmark$ factors
+* $\checkmark x = 5$
+* $\checkmark x = -4$ **(3)**
+
+---
+
+### 1.1.2
+$$3x^2 - 2x - 6 = 0$$
+$$x = \frac{-(-2) \pm \sqrt{(-2)^2 - 4(3)(-6)}}{2(3)}$$
+$$x = \frac{1 \pm \sqrt{19}}{3}$$
+$$x = -1,12 \quad \text{or} \quad x = 1,79$$
+
+**Marking Criteria:**
+* $\checkmark$ substitution
+* $\checkmark$ simplification
+* $\checkmark x = -1,12$
+* $\checkmark x = 1,79$ **(4)**
+
+---
+
+### 1.1.3
+$$(x - 1)^2 > 9$$
+$$x^2 - 2x - 8 > 0$$
+$$(x - 4)(x + 2) > 0$$
+
+Critical values: $x = 4$ or $x = -2$
+
+```
+      ===o----------------o===
+        -2                4
+```
+
+$$x < -2 \quad \text{or} \quad x > 4$$
+
+**OR/OF**
+$$(-\infty; -2) \quad \text{or} \quad (4; \infty)$$
+
+**OR/OF**
+$$x - 1 > 3 \quad \text{or} \quad x - 1 < -3$$
+$$x > 4 \quad \text{or} \quad x < -2$$
+
+**Marking Criteria:**
+* $\checkmark$ standard form
+* $\checkmark$ critical values
+* $\checkmark\checkmark x < -2 \text{ or } x > 4$ **(4)**
+
+**OR/OF**
+* $\checkmark\checkmark (-\infty; -2) \text{ or } (4; \infty)$ **(4)**
+
+**OR/OF**
+* $\checkmark x - 1 > 3$
+* $\checkmark x - 1 < -3$
+* $\checkmark\checkmark x > 4 \text{ or } x < -2$ **(4)**
+
+---
+
+### 1.1.4
+$$2\sqrt{x + 6} + 2 = x$$
+$$2\sqrt{x + 6} = x - 2$$
+$$4(x + 6) = (x - 2)^2$$
+$$4x + 24 = x^2 - 4x + 4$$
+$$x^2 - 8x - 20 = 0$$
+$$(x - 10)(x + 2) = 0$$
+$$x = 10 \quad \text{or} \quad x \neq -2$$
+
+**Marking Criteria:**
+* $\checkmark$ isolating the surd
+* $\checkmark 4x + 24 = x^2 - 4x + 4$
+* $\checkmark x = 10$
+* $\checkmark x \neq -2$ **(4)**
+
+---
+
+### 1.2
+$$4x = 2 - y \quad \dots (1)$$
+$$4x + y^2 = 8 \quad \dots (2)$$
+
+$$\therefore 2 - y + y^2 = 8$$
+$$y^2 - y - 6 = 0$$
+$$(y - 3)(y + 2) = 0$$
+$$y = 3 \quad \text{or} \quad y = -2$$
+$$x = -\frac{1}{4} \quad \text{or} \quad x = 1$$
+
+**OR/OF**
+$$y = -4x + 2 \quad \dots (1)$$
+$$4x + y^2 = 8 \quad \dots (2)$$
+
+$$4x + (-4x + 2)^2 = 8$$
+$$4x + 16x^2 - 16x + 4 - 8 = 0$$
+$$16x^2 - 12x - 4 = 0$$
+$$4x^2 - 3x - 1 = 0$$
+$$(4x + 1)(x - 1) = 0$$
+$$x = -\frac{1}{4} \quad \text{or} \quad x = 1$$
+$$y = 3 \quad \text{or} \quad y = -2$$
+
+**Marking Criteria:**
+* $\checkmark 4x = 2 - y$
+* $\checkmark$ substitution
+* $\checkmark$ standard form
+* $\checkmark y$-values
+* $\checkmark x$-values **(5)**
+
+**OR/OF**
+* $\checkmark y = -4x + 2$
+* $\checkmark$ substitution
+* $\checkmark$ standard form
+* $\checkmark x$-values
+* $\checkmark y$-values **(5)**
+
+---
+
+### 1.3
+$$2^x \times 3^y = (2^3 \times 3)^6$$
+$$2^x \times 3^y = 2^{18} \times 3^6$$
+$$2^x = 2^{18} \quad \text{and} \quad 3^y = 3^6$$
+$$x = 18 \quad \text{and} \quad y = 6$$
+
+$$\therefore x - y = 18 - 6$$
+$$\therefore x - y = 12$$
+
+**Marking Criteria:**
+* $\checkmark 2^3 \times 3$
+* $\checkmark 2^{18} \text{ or } 3^6$
+* $\checkmark x = 18 \text{ or } y = 6$
+* $\checkmark$ answer (A) **(4)**
+
+**[24]**
+
+---
+
+## QUESTION / VRAAG 2
+
+### 2.1.1
+Pattern: $72 \quad ; \quad 100 \quad ; \quad 120 \quad ; \quad 132 \quad ; \quad \dots$  
+First differences: $28 \quad 20 \quad 12$  
+Second differences: $-8 \quad -8$
+
+$$2a = -8 \implies a = -4$$
+$$3a + b = 28 \implies b = 40$$
+$$a + b + c = 72 \implies c = 36$$
+
+$$T_n = -4n^2 + 40n + 36$$
+
+**Marking Criteria:**
+* $\checkmark$ second differences = $-8$
+* $\checkmark a = -4$
+* $\checkmark b = 40$
+* $\checkmark c = 36$ **(4)**
+
+---
+
+### 2.1.2
+$$T_{12} = 36 - 8n = 36 - 8(12) = -60$$
+$$-4n^2 + 40n + 36 = -60$$
+$$n^2 - 10n - 24 = 0$$
+$$(n - 12)(n + 2) = 0$$
+$$\therefore n = 12$$
+
+**Marking Criteria:**
+* $\checkmark 36 - 8n$
+* $\checkmark -60$
+* $\checkmark$ standard form
+* $\checkmark$ factors
+* $\checkmark n = 12$ **(5)**
+
+---
+
+### 2.1.3
+$$T'_n = -8n + 40 = 0$$
+$$n = 5$$
+$$T_n = -4(5)^2 + 40(5) + 36 = 136$$
+
+**OR/OF**
+$$\frac{-b}{2a} = \frac{40}{8} = 5$$
+$$T_n = -4(5)^2 + 40(5) + 36 = 136$$
+
+**Marking Criteria:**
+* $\checkmark -8n + 40$
+* $\checkmark n = 5$
+* $\checkmark 136$ **(3)**
+
+**OR/OF**
+* $\checkmark$ substitution
+* $\checkmark n = 5$
+* $\checkmark 136$ **(3)**
+
+---
+
+### 2.1.4
+$$\text{Maximum value} = 41$$
+
+**Marking Criteria:**
+* $\checkmark$ value **(1)**
+
+---
+
+### 2.2
+$$2\sin 3x - (-11) = 15 - 2\sin 3x$$
+$$4\sin 3x = 4$$
+$$\sin 3x = 1$$
+$$3x = 90^\circ$$
+$$\therefore x = 30^\circ$$
+
+**Marking Criteria:**
+* $\checkmark$ equating
+* $\checkmark 4\sin 3x = 4$
+* $\checkmark \sin 3x = 1$
+* $\checkmark$ answer **(4)**
+
+**[17]**
+
+---
+
+## QUESTION / VRAAG 3
+
+### 3.1.1
+$$T_n = ar^{n-1} = 2000\left(\frac{1}{5}\right)^{n-1}$$
+
+**Marking Criteria:**
+* $\checkmark 2000\left(\frac{1}{5}\right)^{n-1}$ **(1)**
+
+---
+
+### 3.1.2
+$$T_7 = 2000\left(\frac{1}{5}\right)^{7-1} = \frac{16}{125}$$
+
+**Marking Criteria:**
+* $\checkmark \frac{16}{125}$ **(1)**
+
+---
+
+### 3.1.3
+$$\frac{16}{15625} = 2000\left(\frac{1}{5}\right)^{n-1}$$
+$$\frac{1}{1953125} = \left(\frac{1}{5}\right)^{n-1}$$
+$$\left(\frac{1}{5}\right)^9 = \left(\frac{1}{5}\right)^{n-1} \quad \mathbf{OR} \quad n - 1 = \log_{\frac{1}{5}} \frac{1}{1953125}$$
+$$n - 1 = 9$$
+$$n = 10$$
+
+**Marking Criteria:**
+* $\checkmark$ equating
+* $\checkmark$ same base / use of log
+* $\checkmark$ answer **(3)**
+
+---
+
+### 3.2
+$$S_\infty = 27 = \frac{a}{1 - r}$$
+$$S_3 = \frac{a(1 - r^3)}{1 - r} = 26$$
+$$27(1 - r^3) = 26$$
+$$1 - r^3 = \frac{26}{27}$$
+$$r^3 = \frac{1}{27}$$
+$$\therefore r = \frac{1}{3}$$
+
+**OR/OF**
+$$S_\infty = 27 = \frac{a}{1 - r}$$
+$$a = 27(1 - r)$$
+
+$$\text{But } a + ar + ar^2 = 26$$
+$$a(1 + r + r^2) = 26$$
+$$27(1 - r)(1 + r + r^2) = 26$$
+$$(1 - r)(1 + r + r^2) = \frac{26}{27}$$
+$$r^2 + r + 1 - r^3 - r^2 - r = \frac{26}{27}$$
+$$-r^3 + 1 = \frac{26}{27}$$
+$$r^3 = \frac{1}{27}$$
+$$\therefore r = \frac{1}{3}$$
+
+**Marking Criteria:**
+* $\checkmark S_\infty = 27 = \frac{a}{1 - r}$
+* $\checkmark S_3 = \frac{a(1 - r^3)}{1 - r} = 26$
+* $\checkmark$ substitution
+* $\checkmark r = \frac{1}{3}$ **(4)**
+
+**OR/OF**
+* $\checkmark a = 27(1 - r)$
+* $\checkmark a + ar + ar^2 = 26$
+* $\checkmark$ substitution
+* $\checkmark r = \frac{1}{3}$ **(4)**
+
+**[9]**
+
+---
+
+## QUESTION / VRAAG 4
+
+### 4.1
+$$x + 1 = -x - 7$$
+$$2x = -8$$
+$$x = -4$$
+$$\therefore y = -3$$
+
+$$\therefore f(x) = \frac{-2}{x + 4} - 3$$
+$$\therefore p = 4 \quad \text{and} \quad q = -3$$
+
+**OR/OF**
+$$p + q = 1 \quad \dots (1)$$
+$$-p + q = -7 \implies q = p - 7 \quad \dots (2)$$
+
+Substitute (2) into (1):
+$$p + p - 7 = 1$$
+$$2p = 8 \implies p = 4$$
+$$q = -3$$
+
+**Marking Criteria:**
+* $\checkmark x + 1 = -x - 7$
+* $\checkmark 2x = -8$
+* $\checkmark x = -4$
+* $\checkmark y = -3$ **(4)**
+
+**OR/OF**
+* $\checkmark p + q = 1$
+* $\checkmark q = p - 7$
+* $\checkmark$ substitution
+* $\checkmark$ simplification **(4)**
+
+---
+
+### 4.2
+$$y = \frac{-2}{x + 4} - 3$$
+$$0 = \frac{-2}{x + 4} - 3$$
+$$-2 - 3(x + 4) = 0$$
+$$-3x - 14 = 0$$
+$$\therefore x = -\frac{14}{3}$$
+
+**Marking Criteria:**
+* $\checkmark y = 0$
+* $\checkmark x = -\frac{14}{3}$ **(2)**
+
+---
+
+### 4.3
+
+```
+                    y |
+                      |   
+                      |             \
+                      |              \
+       -4,67          |               \
+   -------o-----------+----------------\----------> x
+         -4           | O               \
+                      |                  \
+   - - - - - - - - - -|- - - - - - - - - -\- - - - - y = -3
+                      |-3                  \
+                      |                     o -3,5
+                      |                    /
+                      |                   /
+```
+
+**Marking Criteria:**
+* $\checkmark$ horizontal asymptote
+* $\checkmark$ vertical asymptote
+* $\checkmark$ y-intercept
+* $\checkmark$ shape **(4)**
+
+**[10]**
+
+---
+
+## QUESTION / VRAAG 5
+
+### 5.1
+$$-2x^2 + 4x + 16 = 0$$
+$$x^2 - 2x - 8 = 0$$
+$$(x - 4)(x + 2) = 0$$
+$$x = 4 \quad \text{or} \quad x = -2$$
+$$\therefore A(-2; 0) \quad \text{and} \quad B(4; 0)$$
+
+**Marking Criteria:**
+* $\checkmark$ factors
+* $\checkmark x = -2$
+* $\checkmark x = 4$ **(3)**
+
+---
+
+### 5.2
+$$f(x) = -2x^2 + 4x + 16$$
+$$x = -\frac{b}{2a} = -\frac{4}{-2(2)} = 1$$
+$$f(1) = -2(1)^2 + 4(1) + 16 = 18$$
+$$\therefore C(1; 18)$$
+
+**OR/OF**
+$$f(x) = -2x^2 + 4x + 16$$
+$$f'(x) = -4x + 4$$
+$$-4x + 4 = 0 \implies x = 1$$
+$$f(1) = -2(1)^2 + 4(1) + 16 = 18$$
+$$\therefore C(1; 18)$$
+
+**Marking Criteria:**
+* $\checkmark 1$
+* $\checkmark 18$ **(2)**
+
+**OR/OF**
+* $\checkmark 1$
+* $\checkmark 18$ **(2)**
+
+---
+
+### 5.3
+$$y \le 18$$
+
+**OR/OF**
+$$y \in (-\infty; 18]$$
+
+**Marking Criteria:**
+* $\checkmark y \le 18$ **(1)**  
+* **OR/OF** $\checkmark y \in (-\infty; 18]$ **(1)**
+
+---
+
+### 5.4
+$$\text{TP } (1; 18) \text{ for } f$$
+$$\text{TP } (2; 15) \text{ for } h$$
+$$\therefore p = -1 \quad \text{and} \quad q = -3$$
+
+**Marking Criteria:**
+* $\checkmark \text{TP for } h \text{ at } (2; 15)$
+* $\checkmark p = -1$
+* $\checkmark q = -3$ **(3)**
+
+---
+
+### 5.5
+$$y = 2x + 4$$
+$$\text{Swop } x \text{ and } y: \quad x = 2y + 4$$
+$$\therefore y = \frac{1}{2}x - 2$$
+
+**Marking Criteria:**
+* $\checkmark$ swop $x$ and $y$
+* $\checkmark y = \frac{1}{2}x - 2$ **(2)**
+
+---
+
+### 5.6
+$$g(x) = 0 \quad \text{or} \quad g^{-1}(x) = 0$$
+$$x = 4 \quad \text{or} \quad x = -2 \quad (\text{product } 0 \text{ at } x\text{-intercepts})$$
+
+**Marking Criteria:**
+* $\checkmark x = 4$
+* $\checkmark x = -2$ **(2)**
+
+---
+
+### 5.7
+$$-2x^2 + 4x + 16 + k = 2x + 4$$
+$$-2x^2 + 2x + 12 + k = 0$$
+$$b^2 - 4ac < 0$$
+$$(2)^2 - 4(-2)(12 + k) < 0$$
+$$4 + 8(12 + k) < 0$$
+$$100 + 8k < 0$$
+$$k < -12,5$$
+
+**OR/OF**
+$$g'(x) = 2$$
+$$f'(x) = -4x + 4 = 2$$
+$$x = \frac{1}{2}$$
+$$f\left(\frac{1}{2}\right) = 17,5$$
+$$g\left(\frac{1}{2}\right) = 5$$
+$$\therefore k < -12,5$$
+
+**Marking Criteria:**
+* $\checkmark$ equating
+* $\checkmark$ standard form
+* $\checkmark b^2 - 4ac < 0$
+* $\checkmark$ substitution
+* $\checkmark$ answer **(5)**
+
+**OR/OF**
+* $\checkmark g'(x) = 2$
+* $\checkmark f'(x) = -4x + 4$
+* $\checkmark f\left(\frac{1}{2}\right) = 17,5$
+* $\checkmark g\left(\frac{1}{2}\right) = 5$
+* $\checkmark$ answer **(5)**
+
+**[18]**
+
+---
+
+## QUESTION / VRAAG 6
+
+### 6.1.1
+$$y = 3^x$$
+$$\text{Swop } x \text{ and } y: \quad x = 3^y$$
+$$y = \log_3 x$$
+
+**Marking Criteria:**
+* $\checkmark$ swop $x$ and $y$
+* $\checkmark$ equation **(2)**
+
+---
+
+### 6.1.2
+$$h(x) = 3^{x-4} + 2$$
+Transformation: 4 units left, 2 units down
+$$P'(2; 9)$$
+
+**Marking Criteria:**
+* $\checkmark x = 2$ (A)
+* $\checkmark y = 9$ (A) **(2)**
+
+---
+
+### 6.2
+$$f(x) = 2^{x+p} + q$$
+$$q = -16$$
+$$16 = 2^{3+p} - 16$$
+$$2^{p+3} = 32$$
+$$2^{p+3} = 2^5$$
+$$\therefore p + 3 = 5$$
+$$p = 2$$
+
+**Marking Criteria:**
+* $\checkmark q = -16$
+* $\checkmark$ substitute $(3; 16)$
+* $\checkmark 2^{p+3} = 2^5 \text{ or } p + 3 = \log_2 32$
+* $\checkmark p = 2$ **(4)**
+
+**[8]**
+
+---
+
+## QUESTION / VRAAG 7
+
+### 7.1
+$$13\,080 = 10\,000\left(1 + \frac{i}{4}\right)^{16}$$
+$$\left(1 + \frac{i}{4}\right)^{16} = \frac{13\,080}{10\,000}$$
+$$1 + \frac{i}{4} = \sqrt[16]{\frac{13\,080}{10\,000}}$$
+$$\frac{i}{4} = 0,0169227\dots$$
+$$i = 0,06769\dots$$
+$$i = 6,77\%$$
+
+**Marking Criteria:**
+* $\checkmark$ substitution into correct formula
+* $\checkmark n = 16$
+* $\checkmark$ simplification
+* $\checkmark$ answer (A) **(4)**
+
+---
+
+### 7.2.1
+$$F = \frac{x[(1+i)^n - 1]}{i}$$
+$$F = \frac{9\,000 \left[ \left(1 + \frac{0,075}{12}\right)^{60} - 1 \right]}{\frac{0,075}{12}}$$
+$$F = \text{R}652\,743,95$$
+
+**Marking Criteria:**
+* $\checkmark \frac{0,075}{12}$
+* $\checkmark$ substitution into correct formula
+* $\checkmark$ answer **(3)**
+
+---
+
+### 7.2.2
+$$60 \times 9000 = \text{R}540\,000$$
+$$A = P(1+i)^n$$
+$$652\,743,95 \left(1 + \frac{0,075}{12}\right)^n = 190\,214,14 + 540\,000$$
+$$730\,214,14 = 652\,743,95 \left(1 + \frac{0,075}{12}\right)^n$$
+$$1,1186\dots = (1,00625)^n$$
+$$n = \log_{1,00625} (1,1186\dots)$$
+$$\therefore n = 18 \text{ months}$$
+
+**Marking Criteria:**
+* $\checkmark 60 \times 9000 = \text{R}540\,000$
+* $\checkmark\checkmark$ equation
+* $\checkmark$ simplification
+* $\checkmark$ use of logs
+* $\checkmark 18 \text{ months}$ **(6)**
+
+**OR/OF**
+$$\text{Interest over 5 years} = 652\,743,95 - 9\,000 \times 60 = 112\,743,95$$
+$$\therefore \text{interest on } n \text{ years} = 190\,214,14 - 112\,743,95 = 77\,470,19$$
+$$652\,743,95 + 77\,470,19 = 652\,743,95 \left(1 + \frac{0,075}{1
