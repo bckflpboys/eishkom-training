@@ -186,8 +186,7 @@ In the diagram, $PR$ is the diameter of the circle. Triangle $PQR$ is drawn with
 
 A cylindrical aerosol can has a lid in the shape of a hemisphere that fits exactly on the top of the can. The height of the can is $16\text{ cm}$ and the radius of the base of the can is $2,9\text{ cm}$.
 
-$$\text{Volume of sphere} = \frac{4}{3}\pi r^3$$
-$$\text{Surface area of sphere} = 4\pi r^2$$
+$$\text{Volume of sphere} = \frac{4}{3}\pi r^3\text{Surface area of sphere} = 4\pi r^2$$
 
 [DIAGRAM: Figure 1 shows a cylinder with radius $2,9\text{ cm}$ and height $16\text{ cm}$, topped by a hemispherical lid. Figure 2 shows the hemispherical lid partially filled with liquid.]
 

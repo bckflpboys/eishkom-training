@@ -82,6 +82,12 @@
         - Stage 4: Physical Sciences & Fisiese Wetenskappe (180/180, 100% completed)
     [x] Ingest 11,310,442 high-fidelity characters, 354 KaTeX LaTeX documents, 1,005 geometric diagram descriptions
     [x] Generate forensic extraction audit manifest in workspace/text/manifest.jsonl
+    [x] Run deterministic KaTeX sanitizer (pipeline/sanitize_text.py) cleaning 137 documents ($$ $$ removed, environments closed)
+    [x] Execute Two-Pass Quality Verification Audit (pipeline/verify_extractions.py) across all 301 pairs (600 docs):
+        - 287 / 301 Clean Structural Passes (95.3%)
+        - 47,299 KaTeX equations verified
+        - 1,005 structured diagrams verified
+        - Complete audit scorecard in workspace/reports/extraction_verification_report.json
 
 [ ] Phase 2.5: Item Extraction & LaTeX/Diagram Standardization
     [ ] Standardize all equations, fractions, and symbols into LaTeX ($...$ inline, $$...$$ block)

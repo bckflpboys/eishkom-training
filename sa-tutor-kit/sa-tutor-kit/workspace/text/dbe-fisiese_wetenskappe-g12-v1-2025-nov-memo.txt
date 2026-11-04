@@ -81,17 +81,13 @@ fs max +----->
 * If force(s) do not make contact with the dot / *Indien krag(te) nie met die kolletjie kontak maak nie:* Max / Maks: $\frac{3}{4}$ (4)
 
 2.3.1 
-$$F_x = F\cos\theta$$
-$$15 = 18\cos\theta \checkmark$$
-$$\theta = 33,56^\circ \checkmark$$
+$$F_x = F\cos\theta15 = 18\cos\theta \checkmark\theta = 33,56^\circ \checkmark$$
 
 **OR / OF**
-$$9,95 = 15\tan\theta \checkmark$$
-$$\theta = 33,56^\circ \checkmark$$
+$$9,95 = 15\tan\theta \checkmark\theta = 33,56^\circ \checkmark$$
 
 **OR / OF**
-$$9,95 = 18\sin\theta \checkmark$$
-$$\theta = 33,56^\circ \checkmark$$
+$$9,95 = 18\sin\theta \checkmark\theta = 33,56^\circ \checkmark$$
 
 *(NOTE/NOTA: If answer only / Indien slegs antwoord $1/2$)* (2)
 
@@ -333,6 +329,4 @@ The **work done** (on an object) **by a resultant/net force** is **equal to the 
 *Die arbeid verrig (op 'n voorwerp) deur die resultante/netto krag is gelyk aan die verandering in die voorwerp se kinetiese energie.* (2)
 
 5.2 
-$$W_{\text{net}} = \Delta E_k$$
-$$W_{F_A} = \Delta E_k$$
-$$F_A\
+$$W_{\text{net}} = \Delta E_kW_{F_A} = \Delta E_kF_A\$$

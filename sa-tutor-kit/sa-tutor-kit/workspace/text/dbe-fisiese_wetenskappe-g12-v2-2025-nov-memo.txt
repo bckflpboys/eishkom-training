@@ -198,28 +198,19 @@ Mol bereken deur $22,4\text{ dm}^3$ of ander molêre gasvolume te gebruik.
 (d) Optel van drie volumes/moles $\checkmark$  
 (e) Korrekte finale antwoord $66\text{ cm}^3$ of $0,066\text{ dm}^3$ $\checkmark$  
 
-$$n(\text{C}_3\text{H}_8) = \frac{\text{V}}{\text{V}_m} = \frac{0,008}{22,4} = 3,571 \times 10^{-4}\text{ mol}$$  
-$$n(\text{O}_2)_{\text{change}} = (5)(3,571 \times 10^{-4}) = 1,7855 \times 10^{-3}\text{ mol}$$  
-$$n(\text{O}_2)_{\text{change}} = \frac{\text{V}}{\text{V}_m} \implies 1,7855 \times 10^{-3} = \frac{\text{V}}{22,4} \implies \text{V(O}_2)_{\text{change}} = 0,04\text{ dm}^3$$ $\checkmark\text{ (a)}$  
+$$n(\text{C}_3\text{H}_8) = \frac{\text{V}}{\text{V}_m} = \frac{0,008}{22,4} = 3,571 \times 10^{-4}\text{ mol}n(\text{O}_2)_{\text{change}} = (5)(3,571 \times 10^{-4}) = 1,7855 \times 10^{-3}\text{ mol}n(\text{O}_2)_{\text{change}} = \frac{\text{V}}{\text{V}_m} \implies 1,7855 \times 10^{-3} = \frac{\text{V}}{22,4} \implies \text{V(O}_2)_{\text{change}} = 0,04\text{ dm}^3$$ $\checkmark\text{ (a)}$  
 $$\text{V(O}_2)_{\text{remaining}} = 0,05 - 0,04 = 0,01\text{ dm}^3$$ $\checkmark\text{ (c)}$  
-$$n(\text{CO}_2) = (3)(3,571 \times 10^{-4}) = 1,0713 \times 10^{-3}\text{ mol}$$  
-$$n(\text{CO}_2) = \frac{\text{V}}{\text{V}_m} \implies 1,0713 \times 10^{-3} = \frac{\text{V}}{22,4} \implies \text{V(CO}_2) = 0,024\text{ dm}^3$$  
-$$n(\text{H}_2\text{O}) = (4)(3,571 \times 10^{-4}) = 1,43 \times 10^{-3}\text{ mol}$$ $\checkmark\text{ (b)}$  
-$$n(\text{H}_2\text{O}) = \frac{\text{V}}{\text{V}_m} \implies 1,43 \times 10^{-3} = \frac{\text{V}}{22,4} \implies \text{V(H}_2\text{O)} = 0,032\text{ dm}^3$$  
-$$\text{V}_{\text{Total}} = 0,01 + 0,024 + 0,032$$ $\checkmark\text{ (d)}$  
+$$n(\text{CO}_2) = (3)(3,571 \times 10^{-4}) = 1,0713 \times 10^{-3}\text{ mol}n(\text{CO}_2) = \frac{\text{V}}{\text{V}_m} \implies 1,0713 \times 10^{-3} = \frac{\text{V}}{22,4} \implies \text{V(CO}_2) = 0,024\text{ dm}^3n(\text{H}_2\text{O}) = (4)(3,571 \times 10^{-4}) = 1,43 \times 10^{-3}\text{ mol}$$ $\checkmark\text{ (b)}$  
+$$n(\text{H}_2\text{O}) = \frac{\text{V}}{\text{V}_m} \implies 1,43 \times 10^{-3} = \frac{\text{V}}{22,4} \implies \text{V(H}_2\text{O)} = 0,032\text{ dm}^3\text{V}_{\text{Total}} = 0,01 + 0,024 + 0,032$$ $\checkmark\text{ (d)}$  
 $$= 0,066\text{ dm}^3$$ $\checkmark\text{ (e)}$  
 
 **OR / OF**  
 
-$$n(\text{C}_3\text{H}_8) = \frac{\text{V}}{\text{V}_m} = \frac{0,008}{22,4} = 3,571 \times 10^{-4}\text{ mol}$$  
-$$n(\text{O}_2)_{\text{change}} = (5)(3,571 \times 10^{-4}) = 1,7855 \times 10^{-3}\text{ mol}$$ $\checkmark\text{ (a)}$  
-$$n(\text{O}_2)_{\text{ini}} = \frac{\text{V}}{\text{V}_m} = \frac{0,05}{22,4} = 2,232 \times 10^{-3}\text{ mol}$$  
-$$n(\text{O}_2)_{\text{remaining}} = 2,232 \times 10^{-3} - 1,7855 \times 10^{-3} = 4,465 \times 10^{-4}\text{ mol}$$ $\checkmark\text{ (c)}$  
-$$n(\text{CO}_2) = (3)(3,571 \times 10^{-4}) = 1,0713 \times 10^{-3}\text{ mol}$$  
-$$n(\text{H}_2\text{O}) = (4)(3,571 \times 10^{-4}) = 1,43 \times 10^{-3}\text{ mol}$$ $\checkmark\text{ (b)}$  
+$$n(\text{C}_3\text{H}_8) = \frac{\text{V}}{\text{V}_m} = \frac{0,008}{22,4} = 3,571 \times 10^{-4}\text{ mol}n(\text{O}_2)_{\text{change}} = (5)(3,571 \times 10^{-4}) = 1,7855 \times 10^{-3}\text{ mol}$$ $\checkmark\text{ (a)}$  
+$$n(\text{O}_2)_{\text{ini}} = \frac{\text{V}}{\text{V}_m} = \frac{0,05}{22,4} = 2,232 \times 10^{-3}\text{ mol}n(\text{O}_2)_{\text{remaining}} = 2,232 \times 10^{-3} - 1,7855 \times 10^{-3} = 4,465 \times 10^{-4}\text{ mol}$$ $\checkmark\text{ (c)}$  
+$$n(\text{CO}_2) = (3)(3,571 \times 10^{-4}) = 1,0713 \times 10^{-3}\text{ mol}n(\text{H}_2\text{O}) = (4)(3,571 \times 10^{-4}) = 1,43 \times 10^{-3}\text{ mol}$$ $\checkmark\text{ (b)}$  
 $$n_{\text{Total}} = 4,465 \times 10^{-4} + 1,0713 \times 10^{-3} + 1,43 \times 10^{-3}$$ $\checkmark\text{ (d)}$  
-$$= 2,95 \times 10^{-3}\text{ mol}$$  
-$$n_{\text{Total}} = \frac{\text{V}}{\text{V}_m} \implies 2,95 \times 10^{-3} = \frac{\text{V}}{22,4} \implies \text{V}_{\text{Total}} = 0,066\text{ dm}^3$$ $\checkmark\text{ (e)}$ (5)  
+$$= 2,95 \times 10^{-3}\text{ mol}n_{\text{Total}} = \frac{\text{V}}{\text{V}_m} \implies 2,95 \times 10^{-3} = \frac{\text{V}}{22,4} \implies \text{V}_{\text{Total}} = 0,066\text{ dm}^3$$ $\checkmark\text{ (e)}$ (5)  
 **[22]**
 
 ---
@@ -399,33 +390,13 @@ Aanvaar: $0,265\text{ tot }0,27$ vir $\text{[O}_2\text{]}_{\text{aanvank}}$
 GEBIED: $0,06 - 0,072$  
 
 **OPTION 1 / OPSIE 1:**  
-$$\text{Rate/Tempo} = -\frac{\Delta c(\text{O}_2)}{\Delta t}$$  
-$$= -\left(\frac{0,15 - 0,27}{10 - 0}\right) \checkmark\text{ (a)} \checkmark\text{ (b)}$$  
-$$= 0,012\text{ mol}\cdot\text{dm}^{-3}\cdot\text{s}^{-1}$$  
-
-$$\text{Rate/Tempo (O}_2\text{) in mol}\cdot\text{s}^{-1} = c\text{V}$$  
-$$= (0,012)(3) \checkmark\text{ (c)}$$  
-$$= 0,036\text{ mol}\cdot\text{s}^{-1}$$  
-
-$$\text{Rate/Tempo (CO}_2) = 2 \times \text{rate (O}_2)$$  
-$$= 2 \times 0,036 \checkmark\text{ (d)}$$  
-$$= 0,072\text{ (mol}\cdot\text{s}^{-1}\text{)} \checkmark\text{ (e)}$$  
+$$\text{Rate/Tempo} = -\frac{\Delta c(\text{O}_2)}{\Delta t}= -\left(\frac{0,15 - 0,27}{10 - 0}\right) \checkmark\text{ (a)} \checkmark\text{ (b)}= 0,012\text{ mol}\cdot\text{dm}^{-3}\cdot\text{s}^{-1}\text{Rate/Tempo (O}_2\text{) in mol}\cdot\text{s}^{-1} = c\text{V}= (0,012)(3) \checkmark\text{ (c)}= 0,036\text{ mol}\cdot\text{s}^{-1}\text{Rate/Tempo (CO}_2) = 2 \times \text{rate (O}_2)= 2 \times 0,036 \checkmark\text{ (d)}= 0,072\text{ (mol}\cdot\text{s}^{-1}\text{)} \checkmark\text{ (e)}$$  
 
 **OPTION 2 / OPSIE 2:**  
-$$\Delta c(\text{O}_2) = 0,27 - 0,15 \checkmark\text{ (a)}$$  
-$$= 0,12\text{ mol}\cdot\text{dm}^{-3}$$  
-$$\Delta n(\text{O}_2) = c\text{V} = 0,12(3) = 0,36\text{ mol}$$  
-$$\Delta n(\text{CO}_2) = 2n(\text{O}_2) \checkmark\text{ (c)}$$  
-$$= 2(0,36) = 0,72\text{ mol}$$  
-$$\text{Rate(CO}_2) = \frac{\Delta n}{\Delta t} = \frac{0,72}{10 - 0} \checkmark\text{ (b)}$$  
-$$= 0,072\text{ (mol}\cdot\text{s}^{-1}\text{)} \checkmark\text{ (e)}$$  
+$$\Delta c(\text{O}_2) = 0,27 - 0,15 \checkmark\text{ (a)}= 0,12\text{ mol}\cdot\text{dm}^{-3}\Delta n(\text{O}_2) = c\text{V} = 0,12(3) = 0,36\text{ mol}\Delta n(\text{CO}_2) = 2n(\text{O}_2) \checkmark\text{ (c)}= 2(0,36) = 0,72\text{ mol}\text{Rate(CO}_2) = \frac{\Delta n}{\Delta t} = \frac{0,72}{10 - 0} \checkmark\text{ (b)}= 0,072\text{ (mol}\cdot\text{s}^{-1}\text{)} \checkmark\text{ (e)}$$  
 
 **OPTION 3 / OPSIE 3:**  
-$$n(\text{O}_2)_{\text{at }0\text{s}} = c\text{V} = 0,27 \times 3 \checkmark\text{ (c)} = 0,81\text{ mol}$$  
-$$n(\text{O}_2)_{\text{at }10\text{s}} = c\text{V} = 0,15 \times 3 = 0,45\text{ mol}$$  
-$$\text{Rate (O}_2) = -\frac{\Delta n}{\Delta t} = -\left(\frac{0,45 - 0,81}{10 - 0}\right) \checkmark\text{ (a)} \checkmark\text{ (b)}$$  
-$$= 0,036\text{ mol}\cdot\text{s}^{-1}$$  
-$$\text{Rate (CO}_2) = 2 \times \text{rate (O}_2) = 2 \times 0,036 \checkmark\text{ (d)} = 0,072\text{ (mol}\cdot\text{s}^{-1}\text{)} \checkmark\text{ (e)}$$ (5)
+$$n(\text{O}_2)_{\text{at }0\text{s}} = c\text{V} = 0,27 \times 3 \checkmark\text{ (c)} = 0,81\text{ mol}n(\text{O}_2)_{\text{at }10\text{s}} = c\text{V} = 0,15 \times 3 = 0,45\text{ mol}\text{Rate (O}_2) = -\frac{\Delta n}{\Delta t} = -\left(\frac{0,45 - 0,81}{10 - 0}\right) \checkmark\text{ (a)} \checkmark\text{ (b)}= 0,036\text{ mol}\cdot\text{s}^{-1}\text{Rate (CO}_2) = 2 \times \text{rate (O}_2) = 2 \times 0,036 \checkmark\text{ (d)} = 0,072\text{ (mol}\cdot\text{s}^{-1}\text{)} \checkmark\text{ (e)}$$ (5)
 
 5.2.3 $\text{O}_2$ / Oxygen / Suurstof $\checkmark$ (1)
 

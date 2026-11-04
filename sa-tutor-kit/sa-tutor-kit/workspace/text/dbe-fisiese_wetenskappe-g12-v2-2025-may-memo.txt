@@ -350,10 +350,7 @@ Temperature $\checkmark$ / (Initial) amount/Mass of magnesium carbonate / Surfac
 > (f) Finale korrekte antwoord: $2,92 \times 10^{-3}\text{ (dm}^3\cdot\text{s}^{-1})$ $\checkmark$  
 > Gebied: $2,08 \times 10^{-3}$ tot $3 \times 10^{-3}$
 
-$$m(\text{CO}_2) = 144,5 - 143,87 = 0,63\text{ g} \quad \checkmark \text{ (a)}$$
-$$n(\text{CO}_2) = \frac{m}{M} = \frac{0,63}{44}\checkmark \text{ (c)} = 1,43 \times 10^{-2}\text{ mol} \quad \checkmark \text{ (b)}$$
-$$V(\text{CO}_2) = nV_m = (1,43 \times 10^{-2})(24,5)\checkmark \text{ (d)} = 0,35\text{ dm}^3$$
-$$\text{Ave rate / gem tempo} = \frac{\Delta V(\text{CO}_2)}{\Delta t} = \frac{0,35 - (0)}{120 - (0)}\checkmark \text{ (e)} = 2,92 \times 10^{-3}\text{ (dm}^3\cdot\text{s}^{-1})\quad \checkmark \text{ (f)}$$ (6)
+$$m(\text{CO}_2) = 144,5 - 143,87 = 0,63\text{ g} \quad \checkmark \text{ (a)}n(\text{CO}_2) = \frac{m}{M} = \frac{0,63}{44}\checkmark \text{ (c)} = 1,43 \times 10^{-2}\text{ mol} \quad \checkmark \text{ (b)}V(\text{CO}_2) = nV_m = (1,43 \times 10^{-2})(24,5)\checkmark \text{ (d)} = 0,35\text{ dm}^3\text{Ave rate / gem tempo} = \frac{\Delta V(\text{CO}_2)}{\Delta t} = \frac{0,35 - (0)}{120 - (0)}\checkmark \text{ (e)} = 2,92 \times 10^{-3}\text{ (dm}^3\cdot\text{s}^{-1})\quad \checkmark \text{ (f)}$$ (6)
 
 5.5 
 > **Marking criteria:**
@@ -418,9 +415,7 @@ The same amount $\text{MgCO}_3$ is used in each experiment. / *Dieselfde hoeveel
 > (d) Substitute of concentration into $K_c$ expression. $\checkmark$
 > (e) Final answer: $5,98$ $\checkmark$ (Range: $5,98 - 7,29$)
 
-$$K_c = \frac{[\text{CO}]^2}{[\text{CO}_2]}\checkmark \text{ (c)}$$
-$$= \frac{(0,53)^2}{0,047}\checkmark \text{ (d)}$$
-$$= 5,98 \quad \checkmark \text{ (e)}$$ (5)
+$$K_c = \frac{[\text{CO}]^2}{[\text{CO}_2]}\checkmark \text{ (c)}= \frac{(0,53)^2}{0,047}\checkmark \text{ (d)}= 5,98 \quad \checkmark \text{ (e)}$$ (5)
 
 6.5 $\text{Y}$ $\checkmark\checkmark$ (2)
 
@@ -452,10 +447,7 @@ $$= 5,98 \quad \checkmark \text{ (e)}$$ (5)
 > (d) Reactants $\checkmark$ Products $\checkmark$ Balancing $\checkmark$  
 > NOTE: Ignore $\rightleftharpoons$ and phases. Marking rule 6.3.10
 
-$$n_{\text{acid}} = (0,11)(0,02364) = 2,6 \times 10^{-3}\text{ mol} \quad \checkmark \text{ (a)}$$
-$$n_{\text{base}} = (0,26)(0,02) = 5,2 \times 10^{-3}\text{ mol} \quad \checkmark \text{ (b)}$$
-$$\frac{n(\text{H}_x\text{Y})}{n(\text{NaOH})} = \frac{n_a}{n_b} \implies \frac{2,6 \times 10^{-3}}{5,2 \times 10^{-3}} = \frac{1}{n_b} \implies n_b = 2 \implies x = 2 \quad \checkmark \text{ (c)}$$
-$$\text{H}_2\text{Y(aq)} + 2\text{NaOH(aq)}\checkmark \rightarrow \text{Na}_2\text{Y(aq)} + 2\text{H}_2\text{O}(\ell)\checkmark \quad \text{Bal. }\checkmark \text{ (d)}$$ (6)
+$$n_{\text{acid}} = (0,11)(0,02364) = 2,6 \times 10^{-3}\text{ mol} \quad \checkmark \text{ (a)}n_{\text{base}} = (0,26)(0,02) = 5,2 \times 10^{-3}\text{ mol} \quad \checkmark \text{ (b)}\frac{n(\text{H}_x\text{Y})}{n(\text{NaOH})} = \frac{n_a}{n_b} \implies \frac{2,6 \times 10^{-3}}{5,2 \times 10^{-3}} = \frac{1}{n_b} \implies n_b = 2 \implies x = 2 \quad \checkmark \text{ (c)}\text{H}_2\text{Y(aq)} + 2\text{NaOH(aq)}\checkmark \rightarrow \text{Na}_2\text{Y(aq)} + 2\text{H}_2\text{O}(\ell)\checkmark \quad \text{Bal. }\checkmark \text{ (d)}$$ (6)
 
 7.4 
 > **Marking criteria:**
@@ -469,5 +461,4 @@ $$\text{H}_2\text{Y(aq)} + 2\text{NaOH(aq)}\checkmark \rightarrow \text{Na}_2\te
 > (h) Mass of impurity = $m_{\text{sample}} - m(\text{CaCO}_3)$ $\checkmark$
 > (i) Final answer: $0,25\text{ g}$ $\checkmark$ (Range: $0,2\text{ g}$ to $0,3\text{ g}$)
 
-$$\text{pH} = -\log[\text{H}_3\text{O}^+] \implies 1,61 = -\log[\text{H}_3\text{O}^+] \implies [\text{H}_3\text{O}^+] = 10^{-1,61} = 2,45 \times 10^{-2}\text{ mol}\cdot\text{dm}^{-3} \quad \checkmark \text{ (a, b)}$$
-$$n(\text{HCl})_{\text{unused}} =
+$$\text{pH} = -\log[\text{H}_3\text{O}^+] \implies 1,61 = -\log[\text{H}_3\text{O}^+] \implies [\text{H}_3\text{O}^+] = 10^{-1,61} = 2,45 \times 10^{-2}\text{ mol}\cdot\text{dm}^{-3} \quad \checkmark \text{ (a, b)}n(\text{HCl})_{\text{unused}} =$$

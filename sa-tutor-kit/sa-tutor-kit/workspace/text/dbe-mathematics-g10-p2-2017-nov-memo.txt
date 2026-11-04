@@ -97,9 +97,7 @@ $\checkmark \text{ans./antw.}$ (2)
 $$\begin{aligned}
 M_{QS} &= T(x; y) \\
 \left(\frac{6 + x}{2}; \frac{6 + y}{2}\right) &= \left(\frac{7}{2}; \frac{7}{2}\right)
-\end{aligned}$$
-
-$$\begin{array}{r l r l}
+\end{aligned}\begin{array}{r l r l}
 \frac{6 + x}{2} &= \frac{7}{2} & \quad \frac{6 + y}{2} &= \frac{7}{2} \\
 x &= 1 & y &= 1
 \end{array}$$
@@ -167,9 +165,7 @@ $\checkmark \text{ans./antw.}$ (3)
 $$\begin{aligned}
 4\cot\theta + 3 &= 0 \\
 \cot\theta &= -\frac{3}{4}
-\end{aligned}$$
-
-$$\begin{aligned}
+\end{aligned}\begin{aligned}
 \cos\theta &= -\frac{3}{5}
 \end{aligned}$$
 $\checkmark \cot\theta = -\frac{3}{4}$  

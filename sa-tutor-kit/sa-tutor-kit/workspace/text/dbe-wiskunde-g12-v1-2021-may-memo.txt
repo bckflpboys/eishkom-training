@@ -20,8 +20,7 @@
 ### QUESTION / VRAAG 1
 
 1.1.1 
-$$x^2 - x - 20 = 0$$
-$$(x - 5)(x + 4) = 0$$
+$$x^2 - x - 20 = 0(x - 5)(x + 4) = 0$$
 $x = 5 \text{ or } x = -4$
 
 * $\checkmark \text{ factors}$
@@ -30,9 +29,7 @@ $x = 5 \text{ or } x = -4$
 *(3)*
 
 1.1.2
-$$3x^2 - 2x - 6 = 0$$
-$$x = \frac{-(-2) \pm \sqrt{(-2)^2 - 4(3)(-6)}}{2(3)}$$
-$$x = \frac{1 \pm \sqrt{19}}{3}$$
+$$3x^2 - 2x - 6 = 0x = \frac{-(-2) \pm \sqrt{(-2)^2 - 4(3)(-6)}}{2(3)}x = \frac{1 \pm \sqrt{19}}{3}$$
 $x = -1,12 \text{ or } x = 1,79$
 
 * $\checkmark \text{ substitution}$
@@ -42,9 +39,7 @@ $x = -1,12 \text{ or } x = 1,79$
 *(4)*
 
 1.1.3
-$$(x - 1)^2 > 9$$
-$$x^2 - 2x - 8 > 0$$
-$$(x - 4)(x + 2) > 0$$
+$$(x - 1)^2 > 9x^2 - 2x - 8 > 0(x - 4)(x + 2) > 0$$
 
 Critical values: $x = 4 \text{ or } x = -2$
 
@@ -80,12 +75,7 @@ $x > 4 \text{ or } x < -2$
 ---
 
 1.1.4
-$$2\sqrt{x + 6} + 2 = x$$
-$$2\sqrt{x + 6} = x - 2$$
-$$4(x + 6) = (x - 2)^2$$
-$$4x + 24 = x^2 - 4x + 4$$
-$$x^2 - 8x - 20 = 0$$
-$$(x - 10)(x + 2) = 0$$
+$$2\sqrt{x + 6} + 2 = x2\sqrt{x + 6} = x - 24(x + 6) = (x - 2)^24x + 24 = x^2 - 4x + 4x^2 - 8x - 20 = 0(x - 10)(x + 2) = 0$$
 $x = 10 \text{ or } x \neq -2$
 
 * $\checkmark \text{ isolating the surd}$
@@ -95,23 +85,12 @@ $x = 10 \text{ or } x \neq -2$
 *(4)*
 
 1.2
-$$4x = 2 - y \quad \dots (1)$$
-$$4x + y^2 = 8 \quad \dots (2)$$
-
-$$\therefore 2 - y + y^2 = 8$$
-$$y^2 - y - 6 = 0$$
-$$(y - 3)(y + 2) = 0$$
+$$4x = 2 - y \quad \dots (1)4x + y^2 = 8 \quad \dots (2)\therefore 2 - y + y^2 = 8y^2 - y - 6 = 0(y - 3)(y + 2) = 0$$
 $y = 3 \text{ or } y = -2$
 $x = -\frac{1}{4} \text{ or } x = 1$
 
 **OR / OF**
-$$y = -4x + 2 \quad \dots (1)$$
-$$4x + y^2 = 8 \quad \dots (2)$$
-$$4x + (-4x + 2)^2 = 8$$
-$$4x + 16x^2 - 16x + 4 - 8 = 0$$
-$$16x^2 - 12x - 4 = 0$$
-$$4x^2 - 3x - 1 = 0$$
-$$(4x + 1)(x - 1) = 0$$
+$$y = -4x + 2 \quad \dots (1)4x + y^2 = 8 \quad \dots (2)4x + (-4x + 2)^2 = 84x + 16x^2 - 16x + 4 - 8 = 016x^2 - 12x - 4 = 04x^2 - 3x - 1 = 0(4x + 1)(x - 1) = 0$$
 $x = -\frac{1}{4} \text{ or } x = 1$
 $y = 3 \text{ or } y = -2$
 
@@ -131,12 +110,9 @@ $y = 3 \text{ or } y = -2$
 *(5)*
 
 1.3
-$$2^x \times 3^y = (2^3 \times 3^6)^6$$
-$$2^x \times 3^y = 2^{18} \times 3^{36}$$
-$$2^x = 2^{18} \text{ and } 3^y = 3^{36}$$
+$$2^x \times 3^y = (2^3 \times 3^6)^62^x \times 3^y = 2^{18} \times 3^{36}2^x = 2^{18} \text{ and } 3^y = 3^{36}$$
 $x = 18 \text{ and } y = 6$
-$$\therefore x - y = 18 - 6$$
-$$\therefore x - y = 12$$
+$$\therefore x - y = 18 - 6\therefore x - y = 12$$
 
 * $\checkmark 2^3 \times 3^6$
 * $\checkmark 2^{18} \text{ or } 3^{36}$
@@ -157,11 +133,7 @@ $$\therefore x - y = 12$$
        -8     -8
 ```
 
-$$2a = -8$$
-$$a = -4$$
-$$3a + b = 28 \implies b = 40$$
-$$a + b + c = 72 \implies c = 36$$
-$$T_n = -4n^2 + 40n + 36$$
+$$2a = -8a = -43a + b = 28 \implies b = 40a + b + c = 72 \implies c = 36T_n = -4n^2 + 40n + 36$$
 
 * $\checkmark \text{ second differences} = -8$
 * $\checkmark a = -4$
@@ -170,11 +142,7 @@ $$T_n = -4n^2 + 40n + 36$$
 *(4)*
 
 2.1.2
-$$T_{12} = 36 - 8n = 36 - 8(12) = -60$$
-$$-4n^2 + 40n + 36 = -60$$
-$$n^2 - 10n - 24 = 0$$
-$$(n - 12)(n + 2) = 0$$
-$$\therefore n = 12$$
+$$T_{12} = 36 - 8n = 36 - 8(12) = -60-4n^2 + 40n + 36 = -60n^2 - 10n - 24 = 0(n - 12)(n + 2) = 0\therefore n = 12$$
 
 * $\checkmark 36 - 8n$
 * $\checkmark -60$
@@ -184,13 +152,10 @@ $$\therefore n = 12$$
 *(5)*
 
 2.1.3
-$$T'_n = -8n + 40 = 0$$
-$$n = 5$$
-$$T_n = -4(5)^2 + 40(5) + 36 = 136$$
+$$T'_n = -8n + 40 = 0n = 5T_n = -4(5)^2 + 40(5) + 36 = 136$$
 
 **OR / OF**
-$$n = \frac{-b}{2a} = \frac{-40}{2(-4)} = 5$$
-$$T_n = -4(5)^2 + 40(5) + 36 = 136$$
+$$n = \frac{-b}{2a} = \frac{-40}{2(-4)} = 5T_n = -4(5)^2 + 40(5) + 36 = 136$$
 
 * $\checkmark -8n + 40$
 * $\checkmark n = 5$
@@ -210,11 +175,7 @@ Maximum value $= 41$
 *(1)*
 
 2.2
-$$2\sin 3x - (-11) = 15 - 2\sin 3x$$
-$$4\sin 3x = 4$$
-$$\sin 3x = 1$$
-$$3x = 90^\circ$$
-$$\therefore x = 30^\circ$$
+$$2\sin 3x - (-11) = 15 - 2\sin 3x4\sin 3x = 4\sin 3x = 13x = 90^\circ\therefore x = 30^\circ$$
 
 * $\checkmark \text{ equating}$
 * $\checkmark 4\sin 3x = 4$
@@ -241,16 +202,10 @@ $$T_7 = 2000\left(\frac{1}{5}\right)^{7-1} = \frac{16}{125}$$
 *(1)*
 
 3.1.3
-$$2000\left(\frac{1}{5}\right)^{n-1} = \frac{16}{15625}$$
-$$\left(\frac{1}{5}\right)^{n-1} = \frac{1}{1953125}$$
-$$\left(\frac{1}{5}\right)^{n-1} = \left(\frac{1}{5}\right)^9$$
-$$n - 1 = 9$$
-$$n = 10$$
+$$2000\left(\frac{1}{5}\right)^{n-1} = \frac{16}{15625}\left(\frac{1}{5}\right)^{n-1} = \frac{1}{1953125}\left(\frac{1}{5}\right)^{n-1} = \left(\frac{1}{5}\right)^9n - 1 = 9n = 10$$
 
 **OR / OF**
-$$n - 1 = \log_{\frac{1}{5}}\left(\frac{1}{1953125}\right)$$
-$$n - 1 = 9$$
-$$n = 10$$
+$$n - 1 = \log_{\frac{1}{5}}\left(\frac{1}{1953125}\right)n - 1 = 9n = 10$$
 
 * $\checkmark \text{ equating}$
 * $\checkmark \text{ same base / use of log}$
@@ -258,23 +213,10 @@ $$n = 10$$
 *(3)*
 
 3.2
-$$S_\infty = \frac{a}{1 - r} = 27$$
-$$S_3 = \frac{a(1 - r^3)}{1 - r} = 26$$
-$$27(1 - r^3) = 26$$
-$$1 - r^3 = \frac{26}{27}$$
-$$r^3 = \frac{1}{27}$$
-$$\therefore r = \frac{1}{3}$$
+$$S_\infty = \frac{a}{1 - r} = 27S_3 = \frac{a(1 - r^3)}{1 - r} = 2627(1 - r^3) = 261 - r^3 = \frac{26}{27}r^3 = \frac{1}{27}\therefore r = \frac{1}{3}$$
 
 **OR / OF**
-$$S_\infty = \frac{a}{1 - r} = 27 \implies a = 27(1 - r)$$
-$$\text{But } a + ar + ar^2 = 26$$
-$$a(1 + r + r^2) = 26$$
-$$27(1 - r)(1 + r + r^2) = 26$$
-$$(1 - r)(1 + r + r^2) = \frac{26}{27}$$
-$$r^2 + r + 1 - r^3 - r^2 - r = \frac{26}{27}$$
-$$-r^3 + 1 = \frac{26}{27}$$
-$$r^3 = \frac{1}{27}$$
-$$\therefore r = \frac{1}{3}$$
+$$S_\infty = \frac{a}{1 - r} = 27 \implies a = 27(1 - r)\text{But } a + ar + ar^2 = 26a(1 + r + r^2) = 2627(1 - r)(1 + r + r^2) = 26(1 - r)(1 + r + r^2) = \frac{26}{27}r^2 + r + 1 - r^3 - r^2 - r = \frac{26}{27}-r^3 + 1 = \frac{26}{27}r^3 = \frac{1}{27}\therefore r = \frac{1}{3}$$
 
 * $\checkmark S_\infty = \frac{a}{1 - r} = 27$
 * $\checkmark S_3 = \frac{a(1 - r^3)}{1 - r} = 26$
@@ -296,21 +238,10 @@ $$\therefore r = \frac{1}{3}$$
 ### QUESTION / VRAAG 4
 
 4.1
-$$x + 1 = -x - 7$$
-$$2x = -8$$
-$$x = -4$$
-$$\therefore y = -3$$
-$$\therefore f(x) = \frac{-2}{x + 4} - 3$$
-$$\therefore p = 4 \text{ and } q = -3$$
+$$x + 1 = -x - 72x = -8x = -4\therefore y = -3\therefore f(x) = \frac{-2}{x + 4} - 3\therefore p = 4 \text{ and } q = -3$$
 
 **OR / OF**
-$$p + q = 1 \dots (1)$$
-$$-p + q = -7 \implies q = p - 7 \dots (2)$$
-$$\text{Subs. (2) into (1):}$$
-$$p + p - 7 = 1$$
-$$2p = 8$$
-$$p = 4$$
-$$q = -3$$
+$$p + q = 1 \dots (1)-p + q = -7 \implies q = p - 7 \dots (2)\text{Subs. (2) into (1):}p + p - 7 = 12p = 8p = 4q = -3$$
 
 * $\checkmark x + 1 = -x - 7$
 * $\checkmark 2x = -8$
@@ -326,11 +257,7 @@ $$q = -3$$
 *(4)*
 
 4.2
-$$y = \frac{-2}{x + 4} - 3$$
-$$0 = \frac{-2}{x + 4} - 3$$
-$$-2 - 3(x + 4) = 0$$
-$$-3x - 14 = 0$$
-$$\therefore x = -\frac{14}{3}$$
+$$y = \frac{-2}{x + 4} - 30 = \frac{-2}{x + 4} - 3-2 - 3(x + 4) = 0-3x - 14 = 0\therefore x = -\frac{14}{3}$$
 
 * $\checkmark y = 0$
 * $\checkmark x = -\frac{14}{3}$
@@ -362,26 +289,17 @@ $$\therefore x = -\frac{14}{3}$$
 ### QUESTION / VRAAG 5
 
 5.1
-$$-2x^2 + 4x + 16 = 0$$
-$$x^2 - 2x - 8 = 0$$
-$$(x - 4)(x + 2) = 0$$
-$$x = 4 \text{ or } x = -2$$
-$$\therefore A(-2; 0) \text{ and } B(4; 0)$$
+$$-2x^2 + 4x + 16 = 0x^2 - 2x - 8 = 0(x - 4)(x + 2) = 0x = 4 \text{ or } x = -2\therefore A(-2; 0) \text{ and } B(4; 0)$$
 
 * $\checkmark \text{ factors}$
 * $\checkmark x = -2 \quad \checkmark x = 4$
 *(3)*
 
 5.2
-$$f(x) = -2x^2 + 4x + 16$$
-$$x = \frac{-b}{2a} = \frac{-4}{2(-2)} = 1$$
-$$f(1) = -2(1)^2 + 4(1) + 16 = 18$$
-$$\therefore C(1; 18)$$
+$$f(x) = -2x^2 + 4x + 16x = \frac{-b}{2a} = \frac{-4}{2(-2)} = 1f(1) = -2(1)^2 + 4(1) + 16 = 18\therefore C(1; 18)$$
 
 **OR / OF**
-$$f'(x) = -4x + 4 = 0 \implies x = 1$$
-$$f(1) = -2(1)^2 + 4(1) + 16 = 18$$
-$$\therefore C(1; 18)$$
+$$f'(x) = -4x + 4 = 0 \implies x = 1f(1) = -2(1)^2 + 4(1) + 16 = 18\therefore C(1; 18)$$
 
 * $\checkmark 1$
 * $\checkmark 18$
@@ -415,37 +333,24 @@ $$\therefore p = -1, \quad q = -3$$
 *(3)*
 
 5.5
-$$y = 2x + 4$$
-$$x = 2y + 4$$
-$$\therefore y = \frac{1}{2}x - 2$$
+$$y = 2x + 4x = 2y + 4\therefore y = \frac{1}{2}x - 2$$
 
 * $\checkmark \text{ swop } x \text{ and } y$
 * $\checkmark y = \frac{1}{2}x - 2$
 *(2)*
 
 5.6
-$$g(x) = 0 \text{ or } g^{-1}(x) = 0$$
-$$x = 4 \text{ or } x = -2$$
+$$g(x) = 0 \text{ or } g^{-1}(x) = 0x = 4 \text{ or } x = -2$$
 
 * $\checkmark x = 4$
 * $\checkmark x = -2$
 *(2)*
 
 5.7
-$$-2x^2 + 4x + 16 + k = 2x + 4$$
-$$-2x^2 + 2x + 12 + k = 0$$
-$$b^2 - 4ac < 0$$
-$$(2)^2 - 4(-2)(12 + k) < 0$$
-$$4 + 8(12 + k) < 0$$
-$$100 + 8k < 0$$
-$$k < -12,5$$
+$$-2x^2 + 4x + 16 + k = 2x + 4-2x^2 + 2x + 12 + k = 0b^2 - 4ac < 0(2)^2 - 4(-2)(12 + k) < 04 + 8(12 + k) < 0100 + 8k < 0k < -12,5$$
 
 **OR / OF**
-$$g'(x) = 2$$
-$$f'(x) = -4x + 4 = 2 \implies x = \frac{1}{2}$$
-$$f\left(\frac{1}{2}\right) = 17,5$$
-$$g\left(\frac{1}{2}\right) = 5$$
-$$\therefore k < -12,5$$
+$$g'(x) = 2f'(x) = -4x + 4 = 2 \implies x = \frac{1}{2}f\left(\frac{1}{2}\right) = 17,5g\left(\frac{1}{2}\right) = 5\therefore k < -12,5$$
 
 * $\checkmark \text{ equating}$
 * $\checkmark \text{ standard form}$
@@ -469,9 +374,7 @@ $$\therefore k < -12,5$$
 ### QUESTION / VRAAG 6
 
 6.1.1
-$$y = 3^x$$
-$$x = 3^y$$
-$$y = \log_3 x$$
+$$y = 3^xx = 3^yy = \log_3 x$$
 
 * $\checkmark \text{ swop } x \text{ and } y$
 * $\checkmark \text{ equation}$
@@ -487,13 +390,7 @@ $$P'(2; 9)$$
 *(2)*
 
 6.2
-$$f(x) = 2^{x+p} + q$$
-$$q = -16$$
-$$16 = 2^{p+3} - 16$$
-$$2^{p+3} = 32$$
-$$2^{p+3} = 2^5$$
-$$\therefore p + 3 = 5$$
-$$p = 2$$
+$$f(x) = 2^{x+p} + qq = -1616 = 2^{p+3} - 162^{p+3} = 322^{p+3} = 2^5\therefore p + 3 = 5p = 2$$
 
 * $\checkmark q = -16$
 * $\checkmark \text{ substitute } (3; 16)$
@@ -508,12 +405,7 @@ $$p = 2$$
 ### QUESTION / VRAAG 7
 
 7.1
-$$13\,080 = 10\,000\left(1 + \frac{i}{4}\right)^{16}$$
-$$\left(1 + \frac{i}{4}\right)^{16} = \frac{13\,080}{10\,000}$$
-$$1 + \frac{i}{4} = \sqrt[16]{\frac{13\,080}{10\,000}}$$
-$$\frac{i}{4} = 0,0169227\dots$$
-$$i = 0,06769\dots$$
-$$i = 6,77\%$$
+$$13\,080 = 10\,000\left(1 + \frac{i}{4}\right)^{16}\left(1 + \frac{i}{4}\right)^{16} = \frac{13\,080}{10\,000}1 + \frac{i}{4} = \sqrt[16]{\frac{13\,080}{10\,000}}\frac{i}{4} = 0,0169227\dotsi = 0,06769\dotsi = 6,77\%$$
 
 * $\checkmark \text{ substitution into correct formula}$
 * $\checkmark n = 16$
@@ -522,9 +414,7 @@ $$i = 6,77\%$$
 *(4)*
 
 7.2.1
-$$F = \frac{x[(1 + i)^n - 1]}{i}$$
-$$F = \frac{9\,000\left[\left(1 + \frac{0,075}{12}\right)^{60} - 1\right]}{\frac{0,075}{12}}$$
-$$F = \text{R }652\,743,95$$
+$$F = \frac{x[(1 + i)^n - 1]}{i}F = \frac{9\,000\left[\left(1 + \frac{0,075}{12}\right)^{60} - 1\right]}{\frac{0,075}{12}}F = \text{R }652\,743,95$$
 
 * $\checkmark \frac{0,075}{12}$
 * $\checkmark \text{ substitution into correct formula}$
@@ -532,21 +422,10 @@ $$F = \text{R }652\,743,95$$
 *(3)*
 
 7.2.2
-$$60 \times 9\,000 = \text{R}540\,000$$
-$$A = P(1 + i)^n$$
-$$652\,743,95\left(1 + \frac{0,075}{12}\right)^n = 190\,214,14 + 540\,000$$
-$$730\,214,14 = 652\,743,95\left(1 + \frac{0,075}{12}\right)^n$$
-$$1,1186\dots = (1,00625)^n$$
-$$n = \log_{1,00625}(1,1186)$$
-$$\therefore n = 18 \text{ months}$$
+$$60 \times 9\,000 = \text{R}540\,000A = P(1 + i)^n652\,743,95\left(1 + \frac{0,075}{12}\right)^n = 190\,214,14 + 540\,000730\,214,14 = 652\,743,95\left(1 + \frac{0,075}{12}\right)^n1,1186\dots = (1,00625)^nn = \log_{1,00625}(1,1186)\therefore n = 18 \text{ months}$$
 
 **OR / OF**
-$$\text{Interest over } 5 \text{ years} = 652\,743,95 - 9\,000 \times 60 = 112\,743,95$$
-$$\text{Interest on } n \text{ years} = 190\,214,14 - 112\,743,95 = 77\,470,19$$
-$$652\,743,95 + 77\,470,19 = 652\,743,95\left(1 + \frac{0,075}{12}\right)^n$$
-$$1,1186\dots = (1,00625)^n$$
-$$n = \log_{1,00625}(1,1186)$$
-$$\therefore n = 18 \text{ months}$$
+$$\text{Interest over } 5 \text{ years} = 652\,743,95 - 9\,000 \times 60 = 112\,743,95\text{Interest on } n \text{ years} = 190\,214,14 - 112\,743,95 = 77\,470,19652\,743,95 + 77\,470,19 = 652\,743,95\left(1 + \frac{0,075}{12}\right)^n1,1186\dots = (1,00625)^nn = \log_{1,00625}(1,1186)\therefore n = 18 \text{ months}$$
 
 * $\checkmark 60 \times 9\,000 = \text{R}540\,000$
 * $\checkmark \checkmark \text{ equation}$
@@ -571,13 +450,7 @@ $$\therefore n = 18 \text{ months}$$
 ### QUESTION / VRAAG 8
 
 8.1
-$$f(x) = 3x^2$$
-$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
-$$f'(x) = \lim_{h \to 0} \frac{3(x + h)^2 - 3x^2}{h}$$
-$$f'(x) = \lim_{h \to 0} \frac{3x^2 + 6xh + 3h^2 - 3x^2}{h}$$
-$$= \lim_{h \to 0} \frac{6xh + 3h^2}{h}$$
-$$= \lim_{h \to 0} \frac{h(6x + 3h)}{h}$$
-$$= 6x$$
+$$f(x) = 3x^2f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}f'(x) = \lim_{h \to 0} \frac{3(x + h)^2 - 3x^2}{h}f'(x) = \lim_{h \to 0} \frac{3x^2 + 6xh + 3h^2 - 3x^2}{h}= \lim_{h \to 0} \frac{6xh + 3h^2}{h}= \lim_{h \to 0} \frac{h(6x + 3h)}{h}= 6x$$
 
 * $\checkmark \text{ substitution}$
 * $\checkmark \text{ expansion}$
@@ -587,8 +460,7 @@ $$= 6x$$
 *(5)*
 
 8.2.1
-$$f(x) = x^2 - 3 + 9x^{-2}$$
-$$f'(x) = 2x - 18x^{-3}$$
+$$f(x) = x^2 - 3 + 9x^{-2}f'(x) = 2x - 18x^{-3}$$
 
 * $\checkmark 9x^{-2}$
 * $\checkmark 2x$
@@ -596,9 +468,7 @@ $$f'(x) = 2x - 18x^{-3}$$
 *(3)*
 
 8.2.2
-$$g(x) = (\sqrt{x} + 3)(\sqrt{x} - 1)$$
-$$g(x) = x + 2x^{\frac{1}{2}} - 3$$
-$$g'(x) = 1 + x^{-\frac{1}{2}}$$
+$$g(x) = (\sqrt{x} + 3)(\sqrt{x} - 1)g(x) = x + 2x^{\frac{1}{2}} - 3g'(x) = 1 + x^{-\frac{1}{2}}$$
 
 * $\checkmark x \quad \checkmark 2x^{\frac{1}{2}}$
 * $\checkmark 1 \quad \checkmark x^{-\frac{1}{2}}$
@@ -611,13 +481,7 @@ $$g'(x) = 1 + x^{-\frac{1}{2}}$$
 ### QUESTION / VRAAG 9
 
 9.1
-$$f'(x) = 6x^2 + 6x - 12$$
-$$6x^2 + 6x - 12 = 0$$
-$$x^2 + x - 2 = 0$$
-$$(x + 2)(x - 1) = 0$$
-$$x = -2 \text{ or } x = 1$$
-$$y = 20 \text{ or } y = -7$$
-$$\therefore A(-2; 20) \text{ and } B(1; -7)$$
+$$f'(x) = 6x^2 + 6x - 126x^2 + 6x - 12 = 0x^2 + x - 2 = 0(x + 2)(x - 1) = 0x = -2 \text{ or } x = 1y = 20 \text{ or } y = -7\therefore A(-2; 20) \text{ and } B(1; -7)$$
 
 * $\checkmark 6x^2 + 6x - 12$
 * $\checkmark = 0$
@@ -627,14 +491,10 @@ $$\therefore A(-2; 20) \text{ and } B(1; -7)$$
 *(5)*
 
 9.2
-$$f''(x) = 12x + 6$$
-$$12x + 6 > 0$$
-$$12x > -6$$
-$$x > -\frac{1}{2}$$
+$$f''(x) = 12x + 612x + 6 > 012x > -6x > -\frac{1}{2}$$
 
 **OR / OF**
-$$x = \frac{-2 + 1}{2} = -\frac{1}{2}$$
-$$\therefore x > -\frac{1}{2}$$
+$$x = \frac{-2 + 1}{2} = -\frac{1}{2}\therefore x > -\frac{1}{2}$$
 
 * $\checkmark 12x + 6$
 * $\checkmark f''(x) > 0$
@@ -647,9 +507,7 @@ $$\therefore x > -\frac{1}{2}$$
 *(3)*
 
 9.3
-$$f'(2) = 24$$
-$$\text{Equation of the tangent: } y - 4 = 24(x - 2)$$
-$$y = 24x - 44$$
+$$f'(2) = 24\text{Equation of the tangent: } y - 4 = 24(x - 2)y = 24x - 44$$
 
 * $\checkmark f'(2)$
 * $\checkmark 24$
@@ -670,14 +528,7 @@ $$y = 24x - 44$$
 *(4)*
 
 10.2.1
-$$\text{Area of segment} = \frac{1}{4} \text{ Area of big circle}$$
-$$= \frac{1}{4}\pi(x - x^2)^2$$
-
-$$\text{Area triangle ABO counted} = \text{Area } \Delta = \frac{1}{2}(x - x^2)^2$$
-
-$$\text{Area of shaded region} = \frac{1}{4}\pi(x - x^2)^2 - \frac{1}{2}(x - x^2)^2$$
-$$= \left(\frac{\pi - 2}{4}\right)(x - x^2)^2$$
-$$= \left(\frac{\pi - 2}{4}\right)(x^2 - 2x^3 + x^4)$$
+$$\text{Area of segment} = \frac{1}{4} \text{ Area of big circle}= \frac{1}{4}\pi(x - x^2)^2\text{Area triangle ABO counted} = \text{Area } \Delta = \frac{1}{2}(x - x^2)^2\text{Area of shaded region} = \frac{1}{4}\pi(x - x^2)^2 - \frac{1}{2}(x - x^2)^2= \left(\frac{\pi - 2}{4}\right)(x - x^2)^2= \left(\frac{\pi - 2}{4}\right)(x^2 - 2x^3 + x^4)$$
 
 * $\checkmark \checkmark \frac{1}{4}\pi(x - x^2)^2$
 * $\checkmark \text{ Area } \Delta = \frac{1}{2}(x - x^2)^2$
@@ -686,13 +537,7 @@ $$= \left(\frac{\pi - 2}{4}\right)(x^2 - 2x^3 + x^4)$$
 *(5)*
 
 10.2.2
-$$\text{Area} = \left(\frac{\pi - 2}{4}\right)(x^4 - 2x^3 + x^2)$$
-$$\frac{dA}{dx} = \left(\frac{\pi - 2}{4}\right)(4x^3 - 6x^2 + 2x)$$
-$$4x^3 - 6x^2 + 2x = 0$$
-$$x(2x^2 - 3x + 1) = 0$$
-$$x(2x - 1)(x - 1) = 0$$
-$$x \neq 0 \text{ or } x = \frac{1}{2} \text{ or } x \neq 1$$
-$$\therefore x = \frac{1}{2}$$
+$$\text{Area} = \left(\frac{\pi - 2}{4}\right)(x^4 - 2x^3 + x^2)\frac{dA}{dx} = \left(\frac{\pi - 2}{4}\right)(4x^3 - 6x^2 + 2x)4x^3 - 6x^2 + 2x = 0x(2x^2 - 3x + 1) = 0x(2x - 1)(x - 1) = 0x \neq 0 \text{ or } x = \frac{1}{2} \text{ or } x \neq 1\therefore x = \frac{1}{2}$$
 
 * $\checkmark \left(\frac{\pi - 2}{4}\right)(4x^3 - 6x^2 + 2x)$
 * $\checkmark \text{ factors}$
@@ -707,10 +552,7 @@ $$\therefore x = \frac{1}{2}$$
 ### QUESTION / VRAAG 11
 
 11.1
-$$\text{P(A)} = 1 - \text{P(not A)} = 0,6$$
-$$\text{P(A and B)} = \text{P(A)} \times \text{P(B)}$$
-$$= 0,6 \times 0,3$$
-$$= \frac{9}{50} = 0,18$$
+$$\text{P(A)} = 1 - \text{P(not A)} = 0,6\text{P(A and B)} = \text{P(A)} \times \text{P(B)}= 0,6 \times 0,3= \frac{9}{50} = 0,18$$
 
 * $\checkmark 0,6$
 * $\checkmark \text{P(A and B)} = \text{P(A)} \times \text{P(B)}$
@@ -730,10 +572,7 @@ $$m = 1 - 0,7 = 0,3$$
 *(1)*
 
 11.2.3
-$$0,24 + 0,14 + 0,02 + 0,12 + 0,1 + 2b = 0,7$$
-$$2b = 0,08$$
-$$b = 0,04$$
-$$0,04 \times 150 = 6$$
+$$0,24 + 0,14 + 0,02 + 0,12 + 0,1 + 2b = 0,72b = 0,08b = 0,040,04 \times 150 = 6$$
 
 * $\checkmark \text{ addition}$
 * $\checkmark \text{ simplification}$
@@ -748,9 +587,7 @@ $$9 \times 9 \times 8 = 648$$
 *(2)*
 
 11.3.2
-$$2 \times 8 \times 4 = 64$$
-$$2 \times 8 \times 5 = 80$$
-$$\text{Total number} = 64 + 80 = 144$$
+$$2 \times 8 \times 4 = 642 \times 8 \times 5 = 80\text{Total number} = 64 + 80 = 144$$
 
 * $\checkmark \checkmark 2 \times 8 \times 4$
 * $\checkmark 2 \times 8 \times 5$

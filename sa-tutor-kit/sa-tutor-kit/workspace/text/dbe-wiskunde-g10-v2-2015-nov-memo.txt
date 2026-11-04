@@ -22,8 +22,7 @@
 
 ### QUESTION / VRAAG 1
 
-$$14 \quad 15 \quad 16 \quad 16 \quad 17 \quad 17 \quad 18 \quad 18 \quad 19 \quad 19$$
-$$19 \quad 20 \quad 21 \quad 21 \quad 22 \quad 23 \quad 24 \quad 24 \quad 29$$
+$$14 \quad 15 \quad 16 \quad 16 \quad 17 \quad 17 \quad 18 \quad 18 \quad 19 \quad 1919 \quad 20 \quad 21 \quad 21 \quad 22 \quad 23 \quad 24 \quad 24 \quad 29$$
 
 | | | |
 | :--- | :--- | :--- |

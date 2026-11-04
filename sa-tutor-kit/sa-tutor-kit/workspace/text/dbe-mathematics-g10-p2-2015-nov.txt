@@ -40,8 +40,7 @@ Read the following instructions carefully before answering the questions.
 
 Nineteen girls were required to complete a puzzle as quickly as possible. Their times (in seconds) were recorded and are shown in the table below.
 
-$$14 \quad 15 \quad 16 \quad 16 \quad 17 \quad 17 \quad 18 \quad 18 \quad 19 \quad 19$$
-$$19 \quad 20 \quad 21 \quad 21 \quad 22 \quad 23 \quad 24 \quad 24 \quad 29$$
+$$14 \quad 15 \quad 16 \quad 16 \quad 17 \quad 17 \quad 18 \quad 18 \quad 19 \quad 1919 \quad 20 \quad 21 \quad 21 \quad 22 \quad 23 \quad 24 \quad 24 \quad 29$$
 
 1.1 Identify the median time taken by the girls to complete the puzzle. (1)
 
@@ -201,8 +200,7 @@ A concrete gate post comprises a right rectangular prism having a square base an
 
 [DIAGRAM: A 3D gate post showing a rectangular prism of height $150\text{ cm}$ and square base of $30\text{ cm} \times 30\text{ cm}$, topped with a square-based pyramid of perpendicular height $8\text{ cm}$.]
 
-$$\text{Volume of a pyramid} = \frac{1}{3} \text{area of the base} \times \text{height}$$
-$$\text{Total surface area of a pyramid} = \text{area of the base} + \frac{1}{2}(\text{perimeter of the base} \times \text{slant height})$$
+$$\text{Volume of a pyramid} = \frac{1}{3} \text{area of the base} \times \text{height}\text{Total surface area of a pyramid} = \text{area of the base} + \frac{1}{2}(\text{perimeter of the base} \times \text{slant height})$$
 
 7.1 Calculate the volume of concrete required to make ONE post. (3)
 

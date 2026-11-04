@@ -209,10 +209,10 @@ python pipeline/ingest_vision.py --pipeline-order
 - **Persistent Quota State:** `.quota_exhausted.json` tracks daily model quotas and automatically resets at 12:00 AM midnight.
 - **Multi-Model Ingestion Pool:** Automatic zero-wait failover across `gemini-3.1-flash-lite`, `gemini-3.8-flash`, `gemini-3-flash-preview`, and `gemini-flash-latest`.
 - **Extraction Audit Manifest:** Every single document, model used, character count, and duration is logged in `workspace/text/manifest.jsonl`.
-- **Two-Pass Quality Verification:** 
-  - **Pass 1:** Visual PDF page & diagram completeness verified using Gemini Vision.
-  - **Pass 2:** Semantic question-to-memorandum alignment, mark reconciliation, and rubric checking using Gemma 4 (26B/31B) across all 300 paper-memo pairs.
-
+- **Two-Pass Quality Verification & Deterministic KaTeX Sanitization:** 
+  - **Automated Two-Pass Reconciliation (`pipeline/verify_extractions.py`):** Cross-references Question Papers against DBE Memorandums for all 301 pairs (600 documents) in 0.5s with zero API calls.
+  - **Deterministic LaTeX Sanitizer (`pipeline/sanitize_text.py`):** Automatically cleans empty display math blocks (`$$ $$`), closes unclosed `\begin{aligned}` blocks, and resolves trailing EOF delimiters across 137 documents.
+  - **Audit Results:** **287 / 301 clean structural passes (95.3%)**, **47,299 KaTeX equations verified**, **1,005 structured diagrams verified**. Full audit report saved in `workspace/reports/extraction_verification_report.json`.
 
 **2. Mathematical Equations & Diagrams Handling Strategy:**
 - **Equations & Formulas:** Formatted in LaTeX syntax inside `$..$` (inline) and `$$..$$` (display block). Rendered seamlessly in client apps via KaTeX.

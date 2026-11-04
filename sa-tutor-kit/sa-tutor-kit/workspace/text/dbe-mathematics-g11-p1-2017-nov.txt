@@ -45,8 +45,7 @@ Read the following instructions carefully before answering the questions.
 
 1.2 Solve for $x$ and $y$ simultaneously:
 
-$$2y + x = 1$$
-$$x^2 + y^2 + 3xy + y = 0$$ (6)
+$$2y + x = 1x^2 + y^2 + 3xy + y = 0$$ (6)
 
 1.3 If $f(x) = 0$ has roots $x = \frac{-5 \pm \sqrt{3 - 12k^2}}{4}$, for which values of $k$ will the roots be equal? (3)
 

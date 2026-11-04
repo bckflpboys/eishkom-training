@@ -312,46 +312,6 @@ Kopiereg voorbehou
 
 ### INLIGTINGSBLAD
 
-$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
-
-$$A = P(1 + ni) \quad A = P(1 - ni) \quad A = P(1 - i)^n \quad A = P(1 + i)^n$$
-
-$$T_n = a + (n - 1)d \quad S_n = \frac{n}{2}[2a + (n - 1)d]$$
-
-$$T_n = ar^{n-1} \quad S_n = \frac{a(r^n - 1)}{r - 1} ; r \neq 1 \quad S_\infty = \frac{a}{1 - r} ; -1 < r < 1$$
-
-$$F = \frac{x[(1 + i)^n - 1]}{i} \quad P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
-
-$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
-
-$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} \quad M\left(\frac{x_1 + x_2}{2}; \frac{y_1 + y_2}{2}\right)$$
-
-$$y = mx + c \quad y - y_1 = m(x - x_1) \quad m = \frac{y_2 - y_1}{x_2 - x_1} \quad m = \tan \theta$$
-
-$$(x - a)^2 + (y - b)^2 = r^2$$
-
-$$\text{In } \triangle ABC: \frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}$$
-
-$$a^2 = b^2 + c^2 - 2bc \cos A$$
-
-$$\text{area } \triangle ABC = \frac{1}{2}ab \sin C$$
-
-$$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta \quad \sin(\alpha - \beta) = \sin \alpha \cos \beta - \cos \alpha \sin \beta$$
-
-$$\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta \quad \cos(\alpha - \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta$$
-
-$$\cos 2\alpha = \begin{cases} \cos^2 \alpha - \sin^2 \alpha \\ 1 - 2\sin^2 \alpha \\ 2\cos^2 \alpha - 1 \end{cases} \quad \sin 2\alpha = 2\sin \alpha \cos \alpha$$
-
-$$\bar{x} = \frac{\sum_{i=1}^n x_i}{n}$$
-
-$$\sigma^2 = \frac{\sum_{i=1}^n (x_i - \bar{x})^2}{n}$$
-
-$$P(A) = \frac{n(A)}{n(S)}$$
-
-$$P(\text{A of B}) = P(A) + P(B) - P(\text{A en B})$$
-
-$$\hat{y} = a + bx$$
-
-$$b = \frac{\sum (x - \bar{x})(y - \bar{y})}{\sum (x - \bar{x})^2}$$
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}A = P(1 + ni) \quad A = P(1 - ni) \quad A = P(1 - i)^n \quad A = P(1 + i)^nT_n = a + (n - 1)d \quad S_n = \frac{n}{2}[2a + (n - 1)d]T_n = ar^{n-1} \quad S_n = \frac{a(r^n - 1)}{r - 1} ; r \neq 1 \quad S_\infty = \frac{a}{1 - r} ; -1 < r < 1F = \frac{x[(1 + i)^n - 1]}{i} \quad P = \frac{x[1 - (1 + i)^{-n}]}{i}f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} \quad M\left(\frac{x_1 + x_2}{2}; \frac{y_1 + y_2}{2}\right)y = mx + c \quad y - y_1 = m(x - x_1) \quad m = \frac{y_2 - y_1}{x_2 - x_1} \quad m = \tan \theta(x - a)^2 + (y - b)^2 = r^2\text{In } \triangle ABC: \frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}a^2 = b^2 + c^2 - 2bc \cos A\text{area } \triangle ABC = \frac{1}{2}ab \sin C\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta \quad \sin(\alpha - \beta) = \sin \alpha \cos \beta - \cos \alpha \sin \beta\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta \quad \cos(\alpha - \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta\cos 2\alpha = \begin{cases} \cos^2 \alpha - \sin^2 \alpha \\ 1 - 2\sin^2 \alpha \\ 2\cos^2 \alpha - 1 \end{cases} \quad \sin 2\alpha = 2\sin \alpha \cos \alpha\bar{x} = \frac{\sum_{i=1}^n x_i}{n}\sigma^2 = \frac{\sum_{i=1}^n (x_i - \bar{x})^2}{n}P(A) = \frac{n(A)}{n(S)}P(\text{A of B}) = P(A) + P(B) - P(\text{A en B})\hat{y} = a + bxb = \frac{\sum (x - \bar{x})(y - \bar{y})}{\sum (x - \bar{x})^2}$$
 
 Kopiereg voorbehou

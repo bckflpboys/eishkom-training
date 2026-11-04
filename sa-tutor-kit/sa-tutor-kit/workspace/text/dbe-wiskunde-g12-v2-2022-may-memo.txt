@@ -61,9 +61,7 @@ $\checkmark$ shape (3)
 $\checkmark\checkmark$ answer (2)
 
 1.5.1 
-$$\bar{x} = \frac{(6 \times 6) + (18 \times 8) + (21 \times 10) + (19 \times 12) + (11 \times 14) + (4 \times 16) + (1 \times 18)}{80}$$
-$$= \frac{854}{80}$$
-$$= 10,68$$
+$$\bar{x} = \frac{(6 \times 6) + (18 \times 8) + (21 \times 10) + (19 \times 12) + (11 \times 14) + (4 \times 16) + (1 \times 18)}{80}= \frac{854}{80}= 10,68$$
 
 $\checkmark$ 854 \
 $\checkmark$ answer (2) \
@@ -79,9 +77,7 @@ $\checkmark$ $8\text{ kg}$ (2)
 **OR / OF**
 
 Learners' bags are heavier than the stipulated international guideline. \
-$$\text{Estimated mean} = \frac{10,68}{80} \times 100$$
-$$= 13,35\%$$
-$$13,35\% > 10\%$$
+$$\text{Estimated mean} = \frac{10,68}{80} \times 100= 13,35\%13,35\% > 10\%$$
 
 $\checkmark$ answer \
 $\checkmark$ $13,35\%$ (2)

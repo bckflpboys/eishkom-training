@@ -93,8 +93,7 @@ F_{\text{net}} &= 0 \quad \checkmark \text{Any one / Enige een} \\
 F_{\text{g}\parallel} &= f \\
 F_{\text{g}\parallel} - f &= F_{\text{net}} = 0 \\
 \text{OR/OF } f &= \mu_{\text{k}}N \checkmark
-\end{aligned}$$
-$$\begin{aligned}
+\end{aligned}\begin{aligned}
 mg\sin\theta \checkmark &= \mu_{\text{k}}mg\cos\theta \checkmark \quad \textbf{OR/OF } \mu_{\text{k}} = \frac{mg\sin\theta}{mg\cos\theta} \checkmark \\
 \mu_{\text{k}} &= \frac{\sin\theta}{\cos\theta}
 \end{aligned}$$
@@ -307,17 +306,14 @@ $$\begin{aligned}
 v &= f_{\text{L}}\lambda \\
 340 &= f_{\text{L}} \times 0,016 \checkmark \\
 f_{\text{L}} &= 21\text{ }250\text{ Hz}
-\end{aligned}$$
-$$\begin{aligned}
+\end{aligned}\begin{aligned}
 f_{\text{L}} &= \left(\frac{v \pm v_{\text{L}}}{v \pm v_{\text{s}}}\right)f_{\text{S}} \checkmark \\
 21\text{ }250 \checkmark &= \left(\frac{340 + 0}{340 - v_{\text{B}}}\right)f_{\text{S}} \\
 f_{\text{S}} &= 21\text{ }250 - 62,5v_{\text{B}}
 \end{aligned}$$ (4)
 
 6.3 POSITIVE MARKING FROM Q6.2 for $21\text{ }250\text{ Hz}$ for $f_{\text{s}}$
-$$f_{\text{L}}' = 21\text{ }250 - 62,5v_{\text{B}} + 850 = 22\text{ }100 - 62,5v_{\text{B}} \checkmark$$
-$$[22\text{ }100 - 62,5v_{\text{B}}] = \left(\frac{340 + v_{\text{B}}}{340 - 0}\right)(21\text{ }250) \checkmark$$
-$$v_{\text{B}} = 6,8\text{ m}\cdot\text{s}^{-1} \checkmark$$ (5)
+$$f_{\text{L}}' = 21\text{ }250 - 62,5v_{\text{B}} + 850 = 22\text{ }100 - 62,5v_{\text{B}} \checkmark[22\text{ }100 - 62,5v_{\text{B}}] = \left(\frac{340 + v_{\text{B}}}{340 - 0}\right)(21\text{ }250) \checkmarkv_{\text{B}} = 6,8\text{ m}\cdot\text{s}^{-1} \checkmark$$ (5)
 
 **[12]**
 

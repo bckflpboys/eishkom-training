@@ -331,15 +331,10 @@ Is an **(apparent) change in (observed/detected) frequency (pitch)** as a result
 *NOTE: If inversely proportional indicated NOTA: Indien omgekeerd eweredig ($\frac{0}{2}$)* (2)
 
 6.4 **Ambulance approaching / Ambulans beweeg nader:**
-$$f_L = \frac{v \pm v_L}{v \pm v_S}f_S \quad \text{OR/OF} \quad f_L = \frac{v}{v - v_S}f_S$$
-$$1298 = \frac{v}{v - 25}f_S \checkmark \implies vf_S = 1298(v - 25) \dots\dots \text{eq. (1)}$$
+$$f_L = \frac{v \pm v_L}{v \pm v_S}f_S \quad \text{OR/OF} \quad f_L = \frac{v}{v - v_S}f_S1298 = \frac{v}{v - 25}f_S \checkmark \implies vf_S = 1298(v - 25) \dots\dots \text{eq. (1)}$$
 
 **Ambulance moving away / Ambulans beweeg weg:**
-$$1115 = \frac{v}{v + 25}f_S \checkmark \implies vf_S = 1115(v + 25) \dots\dots \text{eq. (2)}$$
-
-$$\text{(1)} = \text{(2)} \quad \text{OR/OF} \quad \text{(1)} \div \text{(2)}$$
-$$1298(v - 25) = 1115(v + 25) \checkmark$$
-$$v = 329,64\text{ m}\cdot\text{s}^{-1} \checkmark$$
+$$1115 = \frac{v}{v + 25}f_S \checkmark \implies vf_S = 1115(v + 25) \dots\dots \text{eq. (2)}\text{(1)} = \text{(2)} \quad \text{OR/OF} \quad \text{(1)} \div \text{(2)}1298(v - 25) = 1115(v + 25) \checkmarkv = 329,64\text{ m}\cdot\text{s}^{-1} \checkmark$$
 (6)
 
 **[12]**
@@ -378,13 +373,11 @@ $$\begin{aligned}
 F_{XY} &= \frac{kQ_XQ_Y}{r^2} \checkmark \\
 &= \frac{(9 \times 10^9)(3 \times 10^{-7})(5 \times 10^{-7})}{(0,05)^2} \checkmark \\
 &= 0,54\text{ N}
-\end{aligned}$$
-$$\begin{aligned}
+\end{aligned}\begin{aligned}
 F_{XZ} &= \frac{kQ_XQ_Z}{r^2} \\
 &= \frac{(9 \times 10^9)(3 \times 10^{-7})(4 \times 10^{-7})}{(0,04)^2} \checkmark \\
 &= 0,68\text{ N}
-\end{aligned}$$
-$$F_{\text{net}(E)} = F_{XZ} + F_{XY} = 0,68 - 0,54 \checkmark = 0,14\text{ N}$$
+\end{aligned}F_{\text{net}(E)} = F_{XZ} + F_{XY} = 0,68 - 0,54 \checkmark = 0,14\text{ N}$$
 **No / Nee** $\checkmark$  
 $F_{\text{net}(E)} >/\neq F_{\text{net}}$ $\checkmark$ (6)
 
@@ -402,3 +395,4 @@ $F_{\text{net}(E)} >/\neq F_{\text{net}}$ $\checkmark$ (6)
 8.2 
 $$\begin{aligned}
 R &= \frac{V}{I} \checkmark \\
+\end{aligned}$$

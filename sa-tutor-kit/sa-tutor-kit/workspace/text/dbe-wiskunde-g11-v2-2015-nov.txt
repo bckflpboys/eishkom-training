@@ -188,8 +188,7 @@ In die diagram is $PR$ die middellyn van die sirkel. Driehoek $PQR$ is getrek me
 
 'n Silindriese spuitkannetjie het 'n deksel in die vorm van 'n hemisfeer wat presies bo-op die kannetjie pas. Die hoogte van die kannetjie is $16\text{ cm}$ en die radius van die basis van die kannetjie is $2,9\text{ cm}$.
 
-$$\text{Volume van sfeer} = \frac{4}{3}\pi r^3$$
-$$\text{Buite-oppervlakte van sfeer} = 4\pi r^2$$
+$$\text{Volume van sfeer} = \frac{4}{3}\pi r^3\text{Buite-oppervlakte van sfeer} = 4\pi r^2$$
 
 8.1 Bereken die buite-oppervlakte van die kannetjie met die deksel, soos in FIGUUR 1 getoon. (5)
 

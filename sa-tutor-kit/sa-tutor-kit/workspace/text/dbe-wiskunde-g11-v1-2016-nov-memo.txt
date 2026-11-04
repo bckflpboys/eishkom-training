@@ -27,10 +27,7 @@
 ## QUESTION / VRAAG 1
 
 1.1.1 
-$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
-$$= \frac{-(-5) \pm \sqrt{(-5)^2 - 4(3)(-1)}}{2(3)}$$
-$$= \frac{5 \pm \sqrt{37}}{6}$$
-$$x = 1,85 \text{ or } x = -0,18$$
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}= \frac{-(-5) \pm \sqrt{(-5)^2 - 4(3)(-1)}}{2(3)}= \frac{5 \pm \sqrt{37}}{6}x = 1,85 \text{ or } x = -0,18$$
 
 * $\checkmark$ substitution / vervanging
 * $\checkmark$ answer / antwoord
@@ -41,9 +38,7 @@ $$x = 1,85 \text{ or } x = -0,18$$
 ---
 
 1.1.2 
-$$x^2 - 6x + 8 = 0$$
-$$(x - 4)(x - 2) = 0$$
-$$x = 4 \text{ or } x = 2$$
+$$x^2 - 6x + 8 = 0(x - 4)(x - 2) = 0x = 4 \text{ or } x = 2$$
 
 * $\checkmark$ factors / faktore
 * $\checkmark$ $x = 4$
@@ -55,18 +50,12 @@ $$x = 4 \text{ or } x = 2$$
 
 1.1.3 
 **Option / Opsie 1**
-$$4x - 2x^2 < 0$$
-$$2x(2 - x) < 0$$
-$$x < 0 \text{ or } x > 2$$
+$$4x - 2x^2 < 02x(2 - x) < 0x < 0 \text{ or } x > 2$$
 
 **OR / OF**
 
 **Option / Opsie 2**
-$$4x - 2x^2 < 0$$
-$$-2x^2 + 4x < 0$$
-$$2x^2 - 4x > 0$$
-$$2x(x - 2) > 0$$
-$$x < 0 \text{ or } x > 2$$
+$$4x - 2x^2 < 0-2x^2 + 4x < 02x^2 - 4x > 02x(x - 2) > 0x < 0 \text{ or } x > 2$$
 
 * $\checkmark$ factors / faktore
 * $\checkmark$ method / metode
@@ -78,13 +67,7 @@ $$x < 0 \text{ or } x > 2$$
 ---
 
 1.1.4 
-$$2^{3x+1} + 2^{3x} = 12$$
-$$2^{3x}(2^1 + 1) = 12$$
-$$2^{3x} \cdot 3 = 12$$
-$$2^{3x} = 4$$
-$$2^{3x} = 2^2$$
-$$3x = 2$$
-$$\therefore x = \frac{2}{3}$$
+$$2^{3x+1} + 2^{3x} = 122^{3x}(2^1 + 1) = 122^{3x} \cdot 3 = 122^{3x} = 42^{3x} = 2^23x = 2\therefore x = \frac{2}{3}$$
 
 * $\checkmark$ common / gemene factor
 * $\checkmark$ simplification / vereenv.
@@ -96,14 +79,7 @@ $$\therefore x = \frac{2}{3}$$
 ---
 
 1.1.5 
-$$\sqrt{x-1} + 3 = x - 4$$
-$$\sqrt{x-1} = x - 4 - 3$$
-$$\sqrt{x-1} = x - 7$$
-$$(\sqrt{x-1})^2 = (x - 7)^2$$
-$$x - 1 = x^2 - 14x + 49$$
-$$x^2 - 15x + 50 = 0$$
-$$(x - 5)(x - 10) = 0$$
-$$x \neq 5 \text{ or } x = 10$$
+$$\sqrt{x-1} + 3 = x - 4\sqrt{x-1} = x - 4 - 3\sqrt{x-1} = x - 7(\sqrt{x-1})^2 = (x - 7)^2x - 1 = x^2 - 14x + 49x^2 - 15x + 50 = 0(x - 5)(x - 10) = 0x \neq 5 \text{ or } x = 10$$
 
 * $\checkmark$ isolate / isoleer $\sqrt{}$ sign / teken
 * $\checkmark$ squaring / kwadr. both sides
@@ -117,14 +93,7 @@ $$x \neq 5 \text{ or } x = 10$$
 ---
 
 1.2 
-$$3x - y + 2 = 0 \quad \text{and} \quad y = -x^2 + 2x + 8$$
-$$\therefore y = 3x + 2$$
-$$3x + 2 = -x^2 + 2x + 8$$
-$$x^2 + x - 6 = 0$$
-$$(x + 3)(x - 2) = 0$$
-$$x = -3 \text{ or } x = 2$$
-$$y = 3(-3) + 2 \quad \text{or} \quad y = 3(2) + 2$$
-$$= -7 \quad \text{or} \quad y = 8$$
+$$3x - y + 2 = 0 \quad \text{and} \quad y = -x^2 + 2x + 8\therefore y = 3x + 23x + 2 = -x^2 + 2x + 8x^2 + x - 6 = 0(x + 3)(x - 2) = 0x = -3 \text{ or } x = 2y = 3(-3) + 2 \quad \text{or} \quad y = 3(2) + 2= -7 \quad \text{or} \quad y = 8$$
 
 * $\checkmark$ $y = 3x + 2$
 * $\checkmark$ substitution / verv
@@ -138,13 +107,7 @@ $$= -7 \quad \text{or} \quad y = 8$$
 ---
 
 1.3 
-$$3x^2 + (k+2)x = 1 - k$$
-$$3x^2 + (k+2)x - 1 + k = 0$$
-$$\Delta = b^2 - 4ac$$
-$$= (k + 2)^2 - 4(3)(-1 + k)$$
-$$= k^2 + 4k + 4 + 12 - 12k$$
-$$= k^2 - 8k + 16$$
-$$= (k - 4)^2$$
+$$3x^2 + (k+2)x = 1 - k3x^2 + (k+2)x - 1 + k = 0\Delta = b^2 - 4ac= (k + 2)^2 - 4(3)(-1 + k)= k^2 + 4k + 4 + 12 - 12k= k^2 - 8k + 16= (k - 4)^2$$
 $\therefore b^2 - 4ac$ is a perfect square.
 Roots are real and rational.
 
@@ -162,11 +125,7 @@ Roots are real and rational.
 ## QUESTION / VRAAG 2
 
 2.1.1 
-$$\frac{5^a \cdot 5^{-2} \cdot 2^a \cdot 2^2}{10^a - 10^a \cdot 10^{-1} \cdot 2}$$
-$$= \frac{(5 \cdot 2)^a \cdot 5^{-2} \cdot 2^2}{10^a \left[1 - \frac{2}{10}\right]}$$
-$$= \frac{10^a \cdot \frac{4}{25}}{10^a \cdot \frac{8}{10}}$$
-$$= \frac{4}{25} \times \frac{10}{8}$$
-$$= \frac{1}{5}$$
+$$\frac{5^a \cdot 5^{-2} \cdot 2^a \cdot 2^2}{10^a - 10^a \cdot 10^{-1} \cdot 2}= \frac{(5 \cdot 2)^a \cdot 5^{-2} \cdot 2^2}{10^a \left[1 - \frac{2}{10}\right]}= \frac{10^a \cdot \frac{4}{25}}{10^a \cdot \frac{8}{10}}= \frac{4}{25} \times \frac{10}{8}= \frac{1}{5}$$
 
 * $\checkmark$ writing as separate bases / skryf as priembasisse
 * $\checkmark$ multiplication of bases with same exponents / vermenigv. van basisse met dies. eksp.
@@ -179,18 +138,11 @@ $$= \frac{1}{5}$$
 ---
 
 2.1.2 
-$$\frac{\sqrt{27m^6} - \sqrt{48m^6}}{\sqrt{12m^6}}$$
-$$= \frac{3\sqrt{3}m^3 - 4\sqrt{3}m^3}{2\sqrt{3}m^3}$$
-$$= \frac{\sqrt{3}m^3(3 - 4)}{2\sqrt{3}m^3}$$
-$$= \frac{-\sqrt{3}m^3}{2\sqrt{3}m^3}$$
-$$= -\frac{1}{2}$$
+$$\frac{\sqrt{27m^6} - \sqrt{48m^6}}{\sqrt{12m^6}}= \frac{3\sqrt{3}m^3 - 4\sqrt{3}m^3}{2\sqrt{3}m^3}= \frac{\sqrt{3}m^3(3 - 4)}{2\sqrt{3}m^3}= \frac{-\sqrt{3}m^3}{2\sqrt{3}m^3}= -\frac{1}{2}$$
 
 **OR / OF**
 
-$$= \frac{3\sqrt{3}m^6 - 4\sqrt{3}m^6}{2\sqrt{3}m^6}$$
-$$= \frac{\sqrt{3}m^6(3 - 4)}{2\sqrt{3}m^6}$$
-$$= \frac{3 - 4}{2}$$
-$$= -\frac{1}{2}$$
+$$= \frac{3\sqrt{3}m^6 - 4\sqrt{3}m^6}{2\sqrt{3}m^6}= \frac{\sqrt{3}m^6(3 - 4)}{2\sqrt{3}m^6}= \frac{3 - 4}{2}= -\frac{1}{2}$$
 
 * $\checkmark$ simplification of surds / vereenv. van wortels
 * $\checkmark$ simplification of numerator / vereenv. van teller
@@ -201,20 +153,11 @@ $$= -\frac{1}{2}$$
 ---
 
 2.2 
-$$\text{LHS} = \frac{4\sqrt{2} - 8(1 + \sqrt{2})}{2\sqrt{2}(1 + \sqrt{2})}$$
-$$= \frac{4\sqrt{2} - 8 - 8\sqrt{2}}{2\sqrt{2} + 4}$$
-$$= \frac{-4\sqrt{2} - 8}{2\sqrt{2} + 4}$$
-$$= \frac{-4(\sqrt{2} + 2)}{2(\sqrt{2} + 2)}$$
-$$= -2$$
-$$= \text{RHS}$$
+$$\text{LHS} = \frac{4\sqrt{2} - 8(1 + \sqrt{2})}{2\sqrt{2}(1 + \sqrt{2})}= \frac{4\sqrt{2} - 8 - 8\sqrt{2}}{2\sqrt{2} + 4}= \frac{-4\sqrt{2} - 8}{2\sqrt{2} + 4}= \frac{-4(\sqrt{2} + 2)}{2(\sqrt{2} + 2)}= -2= \text{RHS}$$
 
 **OR / OF**
 
-$$\text{LHS} = \frac{2}{1 + \sqrt{2}} \times \frac{1 - \sqrt{2}}{1 - \sqrt{2}} - \frac{8 \times \sqrt{8}}{\sqrt{8} \times \sqrt{8}}$$
-$$= \frac{2 - 2\sqrt{2}}{1 - 2} - \frac{\sqrt{8}}{8}$$
-$$= -2 + 2\sqrt{2} - 2\sqrt{2}$$
-$$= -2$$
-$$= \text{RHS}$$
+$$\text{LHS} = \frac{2}{1 + \sqrt{2}} \times \frac{1 - \sqrt{2}}{1 - \sqrt{2}} - \frac{8 \times \sqrt{8}}{\sqrt{8} \times \sqrt{8}}= \frac{2 - 2\sqrt{2}}{1 - 2} - \frac{\sqrt{8}}{8}= -2 + 2\sqrt{2} - 2\sqrt{2}= -2= \text{RHS}$$
 
 * $\checkmark$ LCD / KGN
 * $\checkmark$ numerator / teller
@@ -236,9 +179,7 @@ $$= \text{RHS}$$
 ## QUESTION / VRAAG 3
 
 3.1 
-$$\begin{array}{cccccccc} -9 & & -6 & & 1 & & 12 \\ & 3 & & 7 & & 11 \\ & & 4 & & 4 \end{array}$$
-$$x - 23 = 4$$
-$$\therefore x = 27$$
+$$\begin{array}{cccccccc} -9 & & -6 & & 1 & & 12 \\ & 3 & & 7 & & 11 \\ & & 4 & & 4 \end{array}x - 23 = 4\therefore x = 27$$
 
 * $\checkmark$ answer / antw.
 
@@ -247,15 +188,7 @@ $$\therefore x = 27$$
 ---
 
 3.2 
-$$2a = 4$$
-$$\therefore a = 2$$
-$$3a + b = 3$$
-$$6 + b = 3$$
-$$\therefore b = -3$$
-$$a + b + c = -9$$
-$$2 - 3 + c = -9$$
-$$\therefore c = -8$$
-$$T_n = 2n^2 - 3n - 8$$
+$$2a = 4\therefore a = 23a + b = 36 + b = 3\therefore b = -3a + b + c = -92 - 3 + c = -9\therefore c = -8T_n = 2n^2 - 3n - 8$$
 
 * $\checkmark$ $a = 2$
 * $\checkmark$ $b = -3$
@@ -267,8 +200,7 @@ $$T_n = 2n^2 - 3n - 8$$
 ---
 
 3.3 
-$$T_n = 2n^2 - 3n - 8 + 3$$
-$$= 2n^2 - 3n - 5$$
+$$T_n = 2n^2 - 3n - 8 + 3= 2n^2 - 3n - 5$$
 
 * $\checkmark$ answer / antw.
 
@@ -277,18 +209,11 @@ $$= 2n^2 - 3n - 5$$
 ---
 
 3.4 
-$$T_n = 400$$
-$$2n^2 - 3n - 5 = 400$$
-$$2n^2 - 3n - 405 = 0$$
-$$(n - 15)(2n + 27) = 0$$
-$$n = 15 \quad \text{or} \quad n \neq -\frac{27}{2}$$
+$$T_n = 4002n^2 - 3n - 5 = 4002n^2 - 3n - 405 = 0(n - 15)(2n + 27) = 0n = 15 \quad \text{or} \quad n \neq -\frac{27}{2}$$
 
 **OR**
 
-$$2n^2 - 3n - 8 = 397$$
-$$2n^2 - 3n - 405 = 0$$
-$$(n - 5)(2n + 27) = 0$$
-$$n = 15 \quad \text{or} \quad n \neq -\frac{27}{2}$$
+$$2n^2 - 3n - 8 = 3972n^2 - 3n - 405 = 0(n - 5)(2n + 27) = 0n = 15 \quad \text{or} \quad n \neq -\frac{27}{2}$$
 
 * $\checkmark$ equating / verg.
 * $\checkmark$ std form / stand vorm
@@ -304,8 +229,7 @@ $$n = 15 \quad \text{or} \quad n \neq -\frac{27}{2}$$
 ## QUESTION / VRAAG 4
 
 4.1.1 
-$$\begin{array}{cccccc} 18 & & 14 & & 10 \\ & -4 & & -4 \end{array}$$
-$$T_4 = 6$$
+$$\begin{array}{cccccc} 18 & & 14 & & 10 \\ & -4 & & -4 \end{array}T_4 = 6$$
 
 * $\checkmark$ answer / antw.
 
@@ -314,9 +238,7 @@ $$T_4 = 6$$
 ---
 
 4.1.2 
-$$T_n = a + (n - 1)d$$
-$$= 18 + (n - 1)(-4)$$
-$$= -4n + 22$$
+$$T_n = a + (n - 1)d= 18 + (n - 1)(-4)= -4n + 22$$
 
 * $\checkmark$ substitution / verv.
 * $\checkmark$ answer / antw.
@@ -326,10 +248,7 @@ $$= -4n + 22$$
 ---
 
 4.1.3 
-$$T_n = 22 - 4n$$
-$$-70 = 22 - 4n$$
-$$-92 = -4n$$
-$$n = 23$$
+$$T_n = 22 - 4n-70 = 22 - 4n-92 = -4nn = 23$$
 
 * $\checkmark$ substitution / verv.
 * $\checkmark$ answer / antw.
@@ -339,9 +258,7 @@ $$n = 23$$
 ---
 
 4.1.4 
-$$Q_{510} - Q_{509} = T_{509} \text{ of the linear sequence}$$
-$$= 22 - 4 \times 509$$
-$$= -2014$$
+$$Q_{510} - Q_{509} = T_{509} \text{ of the linear sequence}= 22 - 4 \times 509= -2014$$
 
 * $\checkmark$ making association / ass.
 * $\checkmark$ answer / antw.
@@ -351,10 +268,7 @@ $$= -2014$$
 ---
 
 4.2.1 
-$$2a = 2$$
-$$\therefore a = 1$$
-$$\therefore a > 0$$
-$$\therefore \text{this pattern has a minimum value.}$$
+$$2a = 2\therefore a = 1\therefore a > 0\therefore \text{this pattern has a minimum value.}$$
 The shape of the graph will be $\cup$ (parabola opening upwards).
 
 * $\checkmark$ value / wrde of $a$
@@ -366,31 +280,15 @@ The shape of the graph will be $\cup$ (parabola opening upwards).
 ---
 
 4.2.2 
-$$T_n = 1(n + p)^2 + q$$
-$$\text{A.O.S} = \frac{5 + 17}{2}$$
-$$p = 11$$
-$$\therefore T_n = 1(n - 11)^2 + q$$
-$$29 = 1(17 - 11)^2 + q$$
-$$\therefore q = -7$$
-$$\therefore T_n = (n - 11)^2 - 7$$
-$$T_n = n^2 - 22n + 114$$
+$$T_n = 1(n + p)^2 + q\text{A.O.S} = \frac{5 + 17}{2}p = 11\therefore T_n = 1(n - 11)^2 + q29 = 1(17 - 11)^2 + q\therefore q = -7\therefore T_n = (n - 11)^2 - 7T_n = n^2 - 22n + 114$$
 
 **OR / OF**
 
-$$T_5 = 29$$
-$$\therefore 1(5)^2 + 5b + c = 29$$
-$$\text{ie } 5b + c = 4 \dots (1)$$
-$$\text{and } T_{17} = 29$$
-$$\therefore 1(17)^2 + 17b + c = 29$$
-$$\text{ie } 17b + c = -260 \dots (2)$$
+$$T_5 = 29\therefore 1(5)^2 + 5b + c = 29\text{ie } 5b + c = 4 \dots (1)\text{and } T_{17} = 29\therefore 1(17)^2 + 17b + c = 29\text{ie } 17b + c = -260 \dots (2)$$
 solve the equations simultaneously:
-$$-12b = 264$$
-$$\therefore b = -22$$
+$$-12b = 264\therefore b = -22$$
 substitute in (1):
-$$\text{ie } 5(-22) + c = 4$$
-$$-110 + c = 4$$
-$$\therefore c = 114$$
-$$\therefore T_n = n^2 - 22n + 114$$
+$$\text{ie } 5(-22) + c = 4-110 + c = 4\therefore c = 114\therefore T_n = n^2 - 22n + 114$$
 
 * $\checkmark$ axis of symmetry / simm. as
 * $\checkmark$ value / wrde of $p$
@@ -407,11 +305,7 @@ $$\therefore T_n = n^2 - 22n + 114$$
 ## QUESTION 5
 
 5.1 
-$$x = -\frac{b}{2a}$$
-$$= -\frac{1}{2(-2)}$$
-$$= \frac{1}{4}$$
-$$\therefore y = -2\left(\frac{1}{4}\right)^2 + \left(\frac{1}{4}\right) + 6$$
-$$y = \frac{49}{8}$$
+$$x = -\frac{b}{2a}= -\frac{1}{2(-2)}= \frac{1}{4}\therefore y = -2\left(\frac{1}{4}\right)^2 + \left(\frac{1}{4}\right) + 6y = \frac{49}{8}$$
 
 * $\checkmark$ substitution / verv.
 * $\checkmark$ $x$-value / wrde
@@ -434,11 +328,7 @@ $\therefore y$-intercept $(0; 6)$
 
 5.3 
 $x$ intercepts:
-$$0 = -2x^2 + x + 6$$
-$$0 = 2x^2 - x - 6$$
-$$0 = (2x + 3)(x - 2)$$
-$$\therefore x = 2 \text{ or } x = -\frac{3}{2}$$
-$$(2; 0) \text{ and } \left(-\frac{3}{2}; 0\right)$$
+$$0 = -2x^2 + x + 60 = 2x^2 - x - 60 = (2x + 3)(x - 2)\therefore x = 2 \text{ or } x = -\frac{3}{2}(2; 0) \text{ and } \left(-\frac{3}{2}; 0\right)$$
 
 * $\checkmark$ $y = 0$
 * $\checkmark$ factorisation / fakt.
@@ -508,10 +398,7 @@ $$x \in \mathbb{R} ; x \neq -3$$
 ---
 
 6.3.1 
-$$\text{At } B, x = 0$$
-$$y = \frac{1}{0 + 3} - 1$$
-$$y = -\frac{2}{3}$$
-$$\therefore \text{OB} = \frac{2}{3} \text{ units}$$
+$$\text{At } B, x = 0y = \frac{1}{0 + 3} - 1y = -\frac{2}{3}\therefore \text{OB} = \frac{2}{3} \text{ units}$$
 
 * $\checkmark$ substituton / verv.
 * $\checkmark$ answer / antw.
@@ -521,12 +408,7 @@ $$\therefore \text{OB} = \frac{2}{3} \text{ units}$$
 ---
 
 6.3.2 
-$$\text{At } A, y = 0$$
-$$0 = \frac{1}{x + 3} - 1$$
-$$1 = \frac{1}{x + 3}$$
-$$x + 3 = 1$$
-$$x = -2$$
-$$\therefore \text{OA} = 2 \text{ units}$$
+$$\text{At } A, y = 00 = \frac{1}{x + 3} - 11 = \frac{1}{x + 3}x + 3 = 1x = -2\therefore \text{OA} = 2 \text{ units}$$
 
 * $\checkmark$ substitution / verv.
 * $\checkmark$ simplification / vereenv.
@@ -537,12 +419,7 @@ $$\therefore \text{OA} = 2 \text{ units}$$
 ---
 
 6.4 
-$$\frac{1}{x + 3} - 1 = \frac{1}{2}x$$
-$$2 - 2(x + 3) = x(x + 3)$$
-$$x^2 + 3x - 2 + 2x + 6 = 0$$
-$$x^2 + 5x + 4 = 0$$
-$$(x + 4)(x + 1) = 0$$
-$$x = -4 \text{ or } x = -1$$
+$$\frac{1}{x + 3} - 1 = \frac{1}{2}x2 - 2(x + 3) = x(x + 3)x^2 + 3x - 2 + 2x + 6 = 0x^2 + 5x + 4 = 0(x + 4)(x + 1) = 0x = -4 \text{ or } x = -1$$
 when $x = -1; y = -\frac{1}{2}$
 when $x = -4; y = -2$
 $$\therefore C\left(-1; -\frac{1}{2}\right) \text{ and } D(-4; -2)$$
@@ -559,11 +436,7 @@ $$\therefore C\left(-1; -\frac{1}{2}\right) \text{ and } D(-4; -2)$$
 ---
 
 6.5 
-$$\frac{1}{x + 3} \geq \frac{x + 2}{2}$$
-$$\frac{1}{x + 3} \geq \frac{x}{2} + 1$$
-$$\frac{1}{x + 3} - 1 \geq \frac{x}{2}$$
-$$\therefore f(x) \geq g(x)$$
-$$\therefore x \leq -4 \text{ or } -3 < x \leq -1$$
+$$\frac{1}{x + 3} \geq \frac{x + 2}{2}\frac{1}{x + 3} \geq \frac{x}{2} + 1\frac{1}{x + 3} - 1 \geq \frac{x}{2}\therefore f(x) \geq g(x)\therefore x \leq -4 \text{ or } -3 < x \leq -1$$
 
 * $\checkmark$ simplification / vereen
 * $\checkmark$ $f(x) \geq g(x)$
@@ -579,13 +452,7 @@ $$\therefore x \leq -4 \text{ or } -3 < x \leq -1$$
 ## QUESTION / VRAAG 7
 
 7.1 
-$$q = 2$$
-$$f(x) = 2 \cdot b^{x+1} + 2$$
-$$20 = 2 \cdot b^{1+1} + 2$$
-$$18 = 2 \cdot b^2$$
-$$9 = b^2$$
-$$b = 3$$
-$$f(x) = 2 \cdot 3^{x+1} + 2$$
+$$q = 2f(x) = 2 \cdot b^{x+1} + 220 = 2 \cdot b^{1+1} + 218 = 2 \cdot b^29 = b^2b = 3f(x) = 2 \cdot 3^{x+1} + 2$$
 
 * $\checkmark$ substitution of $q = 2$
 * $\checkmark$ substitution of 1 and 20
@@ -596,9 +463,7 @@ $$f(x) = 2 \cdot 3^{x+1} + 2$$
 ---
 
 7.2 
-$$y = 2 \cdot 3^{-1+1} + 2$$
-$$y = 2 \cdot 1 + 2$$
-$$y = 4$$
+$$y = 2 \cdot 3^{-1+1} + 2y = 2 \cdot 1 + 2y = 4$$
 
 * $\checkmark$ answer / antw.
 
@@ -607,9 +472,7 @@ $$y = 4$$
 ---
 
 7.3 
-$$m = \frac{y_2 - y_1}{x_2 - x_1}$$
-$$= \frac{20 - 4}{1 - (-1)}$$
-$$= 8$$
+$$m = \frac{y_2 - y_1}{x_2 - x_1}= \frac{20 - 4}{1 - (-1)}= 8$$
 
 * $\checkmark$ substitution / verv.
 * $\checkmark$ answer / antw.
@@ -625,8 +488,7 @@ $$h(x) = -2 \cdot 3^{x+1} + 2$$
 Reflected about the $x$-axis
 $$= -2 \cdot 3^{x+1} - 2$$
 $\therefore$ Reflected about the asymptote
-$$h(x) = -2 \cdot 3^{x+1} - 2 + 4$$
-$$= -2 \cdot 3^{x+1} + 2$$
+$$h(x) = -2 \cdot 3^{x+1} - 2 + 4= -2 \cdot 3^{x+1} + 2$$
 
 * $\checkmark \checkmark$ answer / antw.
 
@@ -648,9 +510,7 @@ $$y < 2$$
 ## QUESTION / VRAAG 8
 
 8.1 
-$$A = P(1 - i)^n$$
-$$= \text{R}25\,000(1 - 0,09)^4$$
-$$= \text{R}17\,143,74$$
+$$A = P(1 - i)^n= \text{R}25\,000(1 - 0,09)^4= \text{R}17\,143,74$$
 
 * $\checkmark$ $A = P(1 - i)^n$
 * $\checkmark$ substitution / verv.
@@ -661,11 +521,7 @@ $$= \text{R}17\,143,74$$
 ---
 
 8.2 
-$$1 + i_{\text{eff}} = \left(1 + \frac{i_{\text{nom}}}{m}\right)^m$$
-$$1 + i_{\text{eff}} = \left(1 + \frac{0,1235}{12}\right)^{12}$$
-$$i_{\text{eff}} = \left(1 + \frac{0,1235}{12}\right)^{12} - 1$$
-$$\therefore \text{Rate} = 0,13073 \times 100$$
-$$= 13,07\%$$
+$$1 + i_{\text{eff}} = \left(1 + \frac{i_{\text{nom}}}{m}\right)^m1 + i_{\text{eff}} = \left(1 + \frac{0,1235}{12}\right)^{12}i_{\text{eff}} = \left(1 + \frac{0,1235}{12}\right)^{12} - 1\therefore \text{Rate} = 0,13073 \times 100= 13,07\%$$
 The effective interest rate / Die effektiewe rentekoers is $13,07\%$
 
 * $\checkmark$ formula / for.
@@ -678,11 +534,7 @@ The effective interest rate / Die effektiewe rentekoers is $13,07\%$
 ---
 
 8.3 
-$$A = P(1 + i)^n$$
-$$\text{R}221\,292,32 = \text{R}145\,000\left(1 + \frac{r}{100}\right)^6$$
-$$\sqrt[6]{\frac{\text{R}221\,292,32}{145\,000}} = 1 + \frac{r}{100}$$
-$$\frac{r}{100} = 0,07300000324$$
-$$r = 7,3\%$$
+$$A = P(1 + i)^n\text{R}221\,292,32 = \text{R}145\,000\left(1 + \frac{r}{100}\right)^6\sqrt[6]{\frac{\text{R}221\,292,32}{145\,000}} = 1 + \frac{r}{100}\frac{r}{100} = 0,07300000324r = 7,3\%$$
 
 * $\checkmark$ correct substitution into correct formula
 * $\checkmark$ $n = 6$
@@ -694,8 +546,7 @@ $$r = 7,3\%$$
 ---
 
 8.4 
-$$A = 15\,000\left(1 + \frac{0,096}{4}\right)^{12} - 5\,000\left(1 + \frac{0,096}{4}\right)^{10} + 3\,500\left(1 + \frac{0,096}{4}\right)^4$$
-$$= \text{R}17\,448,46$$
+$$A = 15\,000\left(1 + \frac{0,096}{4}\right)^{12} - 5\,000\left(1 + \frac{0,096}{4}\right)^{10} + 3\,500\left(1 + \frac{0,096}{4}\right)^4= \text{R}17\,448,46$$
 
 * $\checkmark \frac{0,096}{4}$
 * $\checkmark 15\,000\left(1 + \frac{0,096}{4}\right)^{12}$
@@ -718,9 +569,7 @@ $P(B) = 0,5$
 $P(A \text{ or } B) = 0,6$
 
 9.1.1 
-$$P(A \text{ or } B) = P(A) + P(B) - P(A \text{ and } B)$$
-$$0,6 = 0,2 + 0,5 - P(A \text{ and } B)$$
-$$P(A \text{ and } B) = 0,1$$
+$$P(A \text{ or } B) = P(A) + P(B) - P(A \text{ and } B)0,6 = 0,2 + 0,5 - P(A \text{ and } B)P(A \text{ and } B) = 0,1$$
 
 * $\checkmark$ $0,6 = 0,2 + 0,5 - P(A \text{ and } B)$
 * $\checkmark$ $P(A \text{ and } B) = 0,1$
@@ -730,10 +579,7 @@ $$P(A \text{ and } B) = 0,1$$
 ---
 
 9.1.2 
-$$P(A \text{ and } B) = 0,1$$
-$$P(A) \times P(B) = 0,2 \times 0,5$$
-$$= 0,1$$
-$$\therefore P(A \text{ and } B) = P(A) \times P(B)$$
+$$P(A \text{ and } B) = 0,1P(A) \times P(B) = 0,2 \times 0,5= 0,1\therefore P(A \text{ and } B) = P(A) \times P(B)$$
 $\therefore A \text{ and } B$ are independent
 
 * $\checkmark$ $P(A) \times P(B) = 0,1$
@@ -745,11 +591,7 @@ $\therefore A \text{ and } B$ are independent
 ---
 
 9.2.1 
-$$a = 15$$
-$$b = 1$$
-$$c = 38$$
-$$d = 3$$
-$$e = 37$$
+$$a = 15b = 1c = 38d = 3e = 37$$
 
 * $\checkmark$ $a = 15$
 * $\checkmark$ $b = 1$
@@ -789,9 +631,7 @@ $$P(\text{one learner plays netball or volleyball}) = \frac{25}{100} = \frac{1}{
 ---
 
 9.3.2 
-$$P(\text{second answer correct}) = P(C \text{ and } C) + P(W \text{ and } C)$$
-$$= (0,4 \times 0,5) + (0,6 \times 0,3)$$
-$$= 0,38$$
+$$P(\text{second answer correct}) = P(C \text{ and } C) + P(W \text{ and } C)= (0,4 \times 0,5) + (0,6 \times 0,3)= 0,38$$
 
 * $\checkmark$ addition of probabilities
 * $\checkmark$ substitution
@@ -809,23 +649,13 @@ $$= 0,38$$
 
 Let one of the equal sides $= x$
 the other side $= 14 - 2x$
-$$\text{Area} = (14 - 2x)x$$
-$$= -2x^2 + 14x$$
-$$x = \frac{-14}{2(-2)}$$
-$$= \frac{7}{2}m$$
-$$y = 7m$$
+$$\text{Area} = (14 - 2x)x= -2x^2 + 14xx = \frac{-14}{2(-2)}= \frac{7}{2}my = 7m$$
 
 **OR / OF**
 
-$$\text{the other side} = 14 - 2x$$
-$$\text{Area} = (14 - 2x)x$$
-$$= -2(x^2 - 7x)$$
-$$= -2\left(x^2 - 7x + \frac{49}{4} - \frac{49}{4}\right)$$
-$$= -2\left[\left(x - \frac{7}{2}\right)^2 - \frac{49}{4}\right]$$
-$$= -2\left(x - \frac{7}{2}\right)^2 + \frac{49}{2}$$
+$$\text{the other side} = 14 - 2x\text{Area} = (14 - 2x)x= -2(x^2 - 7x)= -2\left(x^2 - 7x + \frac{49}{4} - \frac{49}{4}\right)= -2\left[\left(x - \frac{7}{2}\right)^2 - \frac{49}{4}\right]= -2\left(x - \frac{7}{2}\right)^2 + \frac{49}{2}$$
 $\therefore$ when $x = \frac{7}{2}$ metres it will have a maximum area
-$$\therefore \text{the other side} = 14 - 2\left(\frac{7}{2}\right)$$
-$$= 7 \text{ metres}$$
+$$\therefore \text{the other side} = 14 - 2\left(\frac{7}{2}\right)= 7 \text{ metres}$$
 
 * $\checkmark$ area formula / oppervl. for.
 * $\checkmark$ $x = \frac{-14}{2(-2)}$
@@ -844,11 +674,7 @@ $$= 7 \text{ metres}$$
 *(Alternative solution using $y$ as length)*
 Let the length be $y$
 Width be $\frac{14 - y}{2}$
-$$\text{Area} = y\left(7 - \frac{1}{2}y\right)$$
-$$= -\frac{1}{2}y^2 + 7y$$
-$$y = \frac{-7}{2\left(-\frac{1}{2}\right)}$$
-$$= 7m$$
-$$\text{width} = 3,5m$$
+$$\text{Area} = y\left(7 - \frac{1}{2}y\right)= -\frac{1}{2}y^2 + 7yy = \frac{-7}{2\left(-\frac{1}{2}\right)}= 7m\text{width} = 3,5m$$
 
 * $\checkmark$ area formula / oppervl. for.
 * $\checkmark \left(7 - \frac{1}{2}y\right)$

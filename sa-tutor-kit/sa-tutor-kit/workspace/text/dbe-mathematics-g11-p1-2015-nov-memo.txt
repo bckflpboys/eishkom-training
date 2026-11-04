@@ -27,9 +27,7 @@
 ### **QUESTION / VRAAG 1**
 
 #### 1.1.1
-$$x^2 + x - 12 = 0$$
-$$(x + 4)(x - 3) = 0$$
-$$x = -4 \text{ or } x = 3$$
+$$x^2 + x - 12 = 0(x + 4)(x - 3) = 0x = -4 \text{ or } x = 3$$
 
 * $\checkmark$ factors / faktore
 * $\checkmark$ answer / antwoord
@@ -38,14 +36,7 @@ $$x = -4 \text{ or } x = 3$$
 ---
 
 #### 1.1.2
-$$\sqrt{2x + 1} = x - 1$$
-$$2x + 1 = (x - 1)^2$$
-$$2x + 1 = x^2 - 2x + 1$$
-$$x^2 - 4x = 0$$
-$$x(x - 4) = 0$$
-$$x = 0 \text{ or } x = 4$$
-$$x = 0 \text{ (n/a)}$$
-$$x = 4 \text{ (correct selection / korrekte keuse)}$$
+$$\sqrt{2x + 1} = x - 12x + 1 = (x - 1)^22x + 1 = x^2 - 2x + 1x^2 - 4x = 0x(x - 4) = 0x = 0 \text{ or } x = 4x = 0 \text{ (n/a)}x = 4 \text{ (correct selection / korrekte keuse)}$$
 
 * $\checkmark$ squaring both sides / kwadreer aan albei kante
 * $\checkmark$ standard form / standvorm
@@ -56,31 +47,20 @@ $$x = 4 \text{ (correct selection / korrekte keuse)}$$
 ---
 
 #### 1.1.3
-$$2x^{\frac{3}{2}} = 27$$
-$$x^{\frac{3}{2}} = \frac{27}{2}$$ 
+$$2x^{\frac{3}{2}} = 27x^{\frac{3}{2}} = \frac{27}{2}$$ 
 *(Wait, let's look closely at the image: $2x^{\frac{3}{2}} = 27 \implies x^{\frac{3}{2}} = \frac{27}{2}$ wait, looking at the memorandum OCR/image:* 
 Let's re-read the memorandum image for 1.1.3:
-$$2x^{\frac{3}{2}} = 27$$
-$$x^{\frac{3}{2}} = \frac{27}{2}$$ — Ah, wait, looking at page 2:
+$$2x^{\frac{3}{2}} = 27x^{\frac{3}{2}} = \frac{27}{2}$$ — Ah, wait, looking at page 2:
 $$2^{\frac{3}{2}} x^{\frac{3}{2}} \text{ or } 2x^{\frac{3}{2}} = 27 \implies x^{\frac{3}{2}} = \frac{27}{2}$$ No, looking at the image:
 $$2^{\frac{3}{2}}x = 27$$ wait, the exponent is on $2x$: $(2x)^{\frac{3}{2}} = 27$
-$$(2x)^{\frac{3}{2}} = 27$$
-$$2x = (27)^{\frac{2}{3}}$$
-$$2x = 9 \implies x = \frac{9}{2}$$ 
+$$(2x)^{\frac{3}{2}} = 272x = (27)^{\frac{2}{3}}2x = 9 \implies x = \frac{9}{2}$$ 
 Let's re-verify from the actual image on page 2:
-$$(2x)^{\frac{3}{2}} = 27$$
-$$2x^{\frac{3}{2}} = 27 \text{ (Wait, it says } 2x^{\frac{3}{2}} = 27 \text{, let's transcribe exactly as shown)}$$
-$$\checkmark 2^{\frac{3}{2}} \text{ (or } 2x^{\frac{3}{2}}\text{)}$$
-$$\checkmark x^{\frac{3}{2}} = 27$$
-$$\checkmark \text{raise both sides to } \frac{2}{3}$$
-$$\checkmark \text{answer / antwoord: } x = 9$$ (4)
+$$(2x)^{\frac{3}{2}} = 272x^{\frac{3}{2}} = 27 \text{ (Wait, it says } 2x^{\frac{3}{2}} = 27 \text{, let's transcribe exactly as shown)}\checkmark 2^{\frac{3}{2}} \text{ (or } 2x^{\frac{3}{2}}\text{)}\checkmark x^{\frac{3}{2}} = 27\checkmark \text{raise both sides to } \frac{2}{3}\checkmark \text{answer / antwoord: } x = 9$$ (4)
 
 ---
 
 #### 1.1.4
-$$x^2 - 2x - 8 < 0$$
-$$(x - 4)(x + 2) < 0$$
-$$-2 < x < 4 \text{ OR / OF } x \in (-2; 4)$$
+$$x^2 - 2x - 8 < 0(x - 4)(x + 2) < 0-2 < x < 4 \text{ OR / OF } x \in (-2; 4)$$
 
 * $\checkmark (x + 4)(x + 2) < 0$
 * $\checkmark$ critical values / krit wrdes
@@ -89,10 +69,7 @@ $$-2 < x < 4 \text{ OR / OF } x \in (-2; 4)$$
 ---
 
 #### 1.2.1
-$$5x^2 + 6x - 7 = 0$$
-$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
-$$= \frac{-6 \pm \sqrt{(6)^2 - 4(5)(-7)}}{2(5)}$$
-$$= 0,73 \text{ or } -1,93$$
+$$5x^2 + 6x - 7 = 0x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}= \frac{-6 \pm \sqrt{(6)^2 - 4(5)(-7)}}{2(5)}= 0,73 \text{ or } -1,93$$
 
 * $\checkmark$ formula / e
 * $\checkmark$ substitution
@@ -101,24 +78,16 @@ $$= 0,73 \text{ or } -1,93$$
 ---
 
 #### 1.2.2
-$$5x^2 + 6x - d = 0$$
-$$x = \frac{-6 \pm \sqrt{(6)^2 - 4(5)(-d)}}{2(5)}$$
-$$36 + 20d = 0$$
-$$d = -\frac{9}{5}$$
+$$5x^2 + 6x - d = 0x = \frac{-6 \pm \sqrt{(6)^2 - 4(5)(-d)}}{2(5)}36 + 20d = 0d = -\frac{9}{5}$$
 
 **OR / OF**
 For equal roots / vir gelyke wortels: $\Delta = 0$
-$$\Delta = b^2 - 4ac = (6)^2 - 4(5)(-d)$$
-$$36 + 20d = 0$$
-$$d = -\frac{9}{5}$$
+$$\Delta = b^2 - 4ac = (6)^2 - 4(5)(-d)36 + 20d = 0d = -\frac{9}{5}$$
 
 **OR / OF**
-$$5x^2 + 6x - d = 0$$
-$$x^2 + \frac{6}{5}x = \frac{d}{5}$$
-$$\left(x + \frac{3}{5}\right)^2 = \frac{d}{5} + \frac{9}{25} = \frac{5d + 9}{25}$$
+$$5x^2 + 6x - d = 0x^2 + \frac{6}{5}x = \frac{d}{5}\left(x + \frac{3}{5}\right)^2 = \frac{d}{5} + \frac{9}{25} = \frac{5d + 9}{25}$$
 For equal roots: $\frac{5d + 9}{25} = 0$
-$$\therefore 5d + 9 = 0$$
-$$d = -\frac{9}{5}$$
+$$\therefore 5d + 9 = 0d = -\frac{9}{5}$$
 
 * $\checkmark$ substitution
 * $\checkmark 36 + 20d = 0$
@@ -127,27 +96,16 @@ $$d = -\frac{9}{5}$$
 ---
 
 #### 1.3
-$$x = 2y - 3 \quad \dots (1)$$
-$$xy = 20 \quad \dots (2)$$
+$$x = 2y - 3 \quad \dots (1)xy = 20 \quad \dots (2)$$
 
 Substitute (1) into (2):
-$$(2y - 3)y = 20$$
-$$2y^2 - 3y - 20 = 0$$
-$$(2y + 5)(y - 4) = 0$$
-$$y = -\frac{5}{2} \text{ or } y = 4$$
-$$x = -8 \text{ or } x = 5$$
+$$(2y - 3)y = 202y^2 - 3y - 20 = 0(2y + 5)(y - 4) = 0y = -\frac{5}{2} \text{ or } y = 4x = -8 \text{ or } x = 5$$
 
 **OR / OF**
-$$x + 3 = 2y \implies y = \frac{x + 3}{2} \quad \dots (1)$$
-$$xy = 20 \quad \dots (2)$$
+$$x + 3 = 2y \implies y = \frac{x + 3}{2} \quad \dots (1)xy = 20 \quad \dots (2)$$
 
 Substitute (1) into (2):
-$$x\left(\frac{x + 3}{2}\right) = 20$$
-$$x^2 + 3x = 40$$
-$$x^2 + 3x - 40 = 0$$
-$$(x + 8)(x - 5) = 0$$
-$$x = -8 \text{ or } x = 5$$
-$$y = -\frac{5}{2} \text{ or } y = 4$$
+$$x\left(\frac{x + 3}{2}\right) = 20x^2 + 3x = 40x^2 + 3x - 40 = 0(x + 8)(x - 5) = 0x = -8 \text{ or } x = 5y = -\frac{5}{2} \text{ or } y = 4$$
 
 * $\checkmark$ making $x$ the subject / maak $x$ die o/w
 * $\checkmark$ substitution
@@ -163,17 +121,10 @@ $$y = -\frac{5}{2} \text{ or } y = 4$$
 ### **QUESTION / VRAAG 2**
 
 #### 2.1.1
-$$\frac{2^{n+2} \cdot 4^{n+1}}{8^{n-1}}$$
-$$= \frac{2^{n+2} \cdot 2^{2n+2}}{2^{3n-3}}$$
-$$= 2^{n+2 + 2n+2 - (3n-3)}$$
-$$= 2^7$$
-$$= 128$$
+$$\frac{2^{n+2} \cdot 4^{n+1}}{8^{n-1}}= \frac{2^{n+2} \cdot 2^{2n+2}}{2^{3n-3}}= 2^{n+2 + 2n+2 - (3n-3)}= 2^7= 128$$
 
 **OR / OF**
-$$\frac{2^n \cdot 2^2 \cdot 4^n \cdot 4}{8^n \cdot 8^{-1}}$$
-$$= \frac{2^n \cdot 2^2 \cdot 2^{2n} \cdot 2^2}{2^{3n} \cdot 2^{-3}}$$
-$$= 2^7$$
-$$= 128$$
+$$\frac{2^n \cdot 2^2 \cdot 4^n \cdot 4}{8^n \cdot 8^{-1}}= \frac{2^n \cdot 2^2 \cdot 2^{2n} \cdot 2^2}{2^{3n} \cdot 2^{-3}}= 2^7= 128$$
 
 * $\checkmark$ writing as prime bases / skryf as priembasisse
 * $\checkmark$ applying exponential laws / pas ekspon.wette toe
@@ -182,21 +133,11 @@ $$= 128$$
 ---
 
 #### 2.1.2
-$$\sqrt{x + \sqrt{2x-1}} \cdot \sqrt{x - \sqrt{2x-1}}$$
-$$= \sqrt{(x + \sqrt{2x-1})(x - \sqrt{2x-1})}$$
-$$= \sqrt{x^2 - (2x - 1)}$$
-$$= \sqrt{x^2 - 2x + 1}$$
-$$= \sqrt{(x-1)^2}$$
-$$= x - 1$$
+$$\sqrt{x + \sqrt{2x-1}} \cdot \sqrt{x - \sqrt{2x-1}}= \sqrt{(x + \sqrt{2x-1})(x - \sqrt{2x-1})}= \sqrt{x^2 - (2x - 1)}= \sqrt{x^2 - 2x + 1}= \sqrt{(x-1)^2}= x - 1$$
 
 **OR / OF**
 Let $\sqrt{2x-1} = k \implies 2x - 1 = k^2$
-$$\sqrt{x + k}\sqrt{x - k}$$
-$$= \sqrt{x^2 - k^2}$$
-$$= \sqrt{x^2 - (2x - 1)}$$
-$$= \sqrt{x^2 - 2x + 1}$$
-$$= \sqrt{(x-1)^2}$$
-$$= x - 1$$
+$$\sqrt{x + k}\sqrt{x - k}= \sqrt{x^2 - k^2}= \sqrt{x^2 - (2x - 1)}= \sqrt{x^2 - 2x + 1}= \sqrt{(x-1)^2}= x - 1$$
 
 * $\checkmark$ writing as one surd / skryf as een wortel
 * $\checkmark x^2 - 2x + 1$
@@ -207,8 +148,7 @@ $$= x - 1$$
 
 #### 2.2.1
 For $P$ to be a real number, we cannot divide by $0$ and $\frac{5}{x+2}$ must be positive, i.e. we must have:
-$$x + 2 > 0$$
-$$x > -2$$
+$$x + 2 > 0x > -2$$
 
 * $\checkmark x + 2 > 0$
 * $\checkmark$ answer / antwoord (2)
@@ -218,9 +158,7 @@ $$x > -2$$
 #### 2.2.2
 $$P = \frac{5}{\sqrt{x+2}} + \frac{x}{3}$$
 For $x = 3$:
-$$P = \frac{5}{\sqrt{3+2}} + \frac{3}{3}$$
-$$= \frac{5}{\sqrt{5}} + 1$$
-$$= \sqrt{5} + 1 \text{ (Wait, let's check memorandum: } \sqrt{3+2} = \sqrt{5}, \text{ wait, in memo it says } \sqrt{3}+2 \text{ or } \sqrt{3+2}? \text{ Let's check printed memo: } \frac{5}{\sqrt{3}+2} \text{ or } \frac{5}{\sqrt{3+2}} \dots \text{ it evaluates to } 1 + 1 = 2 \implies x = 3 \text{ makes denominator } \sqrt{3+2} = \sqrt{5} \implies \frac{5}{\sqrt{5}} = \sqrt{5} \dots \text{ wait, let's look at the memo image for 2.2.2: } \frac{5}{\sqrt{3}+2} + \frac{3}{3} = 1 + 1 = 2$$
+$$P = \frac{5}{\sqrt{3+2}} + \frac{3}{3}= \frac{5}{\sqrt{5}} + 1= \sqrt{5} + 1 \text{ (Wait, let's check memorandum: } \sqrt{3+2} = \sqrt{5}, \text{ wait, in memo it says } \sqrt{3}+2 \text{ or } \sqrt{3+2}? \text{ Let's check printed memo: } \frac{5}{\sqrt{3}+2} \text{ or } \frac{5}{\sqrt{3+2}} \dots \text{ it evaluates to } 1 + 1 = 2 \implies x = 3 \text{ makes denominator } \sqrt{3+2} = \sqrt{5} \implies \frac{5}{\sqrt{5}} = \sqrt{5} \dots \text{ wait, let's look at the memo image for 2.2.2: } \frac{5}{\sqrt{3}+2} + \frac{3}{3} = 1 + 1 = 2$$
 
 * $\checkmark$ substitution $x = 3$
 * $\checkmark$ answer / antwoord (2)
@@ -228,12 +166,7 @@ $$= \sqrt{5} + 1 \text{ (Wait, let's check memorandum: } \sqrt{3+2} = \sqrt{5}, 
 ---
 
 #### 2.3
-$$2^{2015} \times 5^{2019}$$
-$$= 2^{2015} \times 5^{2015} \cdot 5^4$$
-$$= 625 \times (2 \cdot 5)^{2015}$$
-$$= 625 \times 10^{2015}$$
-$$= 625\,000\,000 \dots 0$$
-$$\therefore \text{Sum of digits will be} / \text{Som van die getalle} = 6 + 2 + 5 + 0 + 0 \dots + 0 = 13$$
+$$2^{2015} \times 5^{2019}= 2^{2015} \times 5^{2015} \cdot 5^4= 625 \times (2 \cdot 5)^{2015}= 625 \times 10^{2015}= 625\,000\,000 \dots 0\therefore \text{Sum of digits will be} / \text{Som van die getalle} = 6 + 2 + 5 + 0 + 0 \dots + 0 = 13$$
 
 * $\checkmark 5^4 \times 2^{2015} \times 5^{2015}$
 * $\checkmark 10^{2015}$
@@ -262,10 +195,7 @@ $T_4 = -16$
 ---
 
 #### 3.1.3
-$$T_n = -7n + 12$$
-$$-289 = -7n + 12$$
-$$7n = 301$$
-$$n = 43$$
+$$T_n = -7n + 12-289 = -7n + 127n = 301n = 43$$
 
 * $\checkmark T_n = -7n + 12$
 * $\checkmark T_n = -289$
@@ -281,21 +211,10 @@ $$T_{22} = 64 + 3 + 3 = 70$$
 ---
 
 #### 3.2.2
-$$T_{20} = 3n + b$$
-$$64 = 3(20) + b$$
-$$b = 4$$
-$$T_n = 3n + 4$$
-$$3T_5 - 2 = 3[3(5) + 4] - 2 = 55$$
-$$3n + 4 = 55$$
-$$3n = 51$$
-$$n = 17$$
+$$T_{20} = 3n + b64 = 3(20) + bb = 4T_n = 3n + 43T_5 - 2 = 3[3(5) + 4] - 2 = 553n + 4 = 553n = 51n = 17$$
 
 **OR / OF**
-$$T_{20} = 3n + b \implies 64 = 3(20) + b \implies b = 4$$
-$$T_5 = 64 - 15(3) = 19$$
-$$T_n = 3T_5 - 2$$
-$$3n + 4 = 3(19) - 2$$
-$$3n = 51 \implies n = 17$$
+$$T_{20} = 3n + b \implies 64 = 3(20) + b \implies b = 4T_5 = 64 - 15(3) = 19T_n = 3T_5 - 23n + 4 = 3(19) - 23n = 51 \implies n = 17$$
 
 * $\checkmark 64 = 3(20) + b$
 * $\checkmark 3[3(5) + 4] - 2$
@@ -342,17 +261,10 @@ $3,\quad 5,\quad 8,\quad 12$
 $2,\quad 3,\quad 4$
 $1,\quad 1$
 
-$$2a = 1 \implies a = \frac{1}{2}$$
-$$3\left(\frac{1}{2}\right) + b = 2 \implies b = \frac{1}{2}$$
-$$a + b + c = 3 \implies \frac{1}{2} + \frac{1}{2} + c = 3 \implies c = 2$$
-$$T_n = \frac{1}{2}n^2 + \frac{1}{2}n + 2$$
-$$T_{26} = \frac{(26)^2}{2} + \frac{26}{2} + 2 = 353$$
+$$2a = 1 \implies a = \frac{1}{2}3\left(\frac{1}{2}\right) + b = 2 \implies b = \frac{1}{2}a + b + c = 3 \implies \frac{1}{2} + \frac{1}{2} + c = 3 \implies c = 2T_n = \frac{1}{2}n^2 + \frac{1}{2}n + 2T_{26} = \frac{(26)^2}{2} + \frac{26}{2} + 2 = 353$$
 
 **OR / OF**
-$$T_n = T_1 + (n-1)d_1 + \frac{(n-1)(n-2)d_2}{2}$$
-$$= 3 + (n-1)(2) + \frac{(n-1)(n-2)(1)}{2}$$
-$$= \frac{1}{2}n^2 + \frac{1}{2}n + 2$$
-$$T_{26} = 353$$
+$$T_n = T_1 + (n-1)d_1 + \frac{(n-1)(n-2)d_2}{2}= 3 + (n-1)(2) + \frac{(n-1)(n-2)(1)}{2}= \frac{1}{2}n^2 + \frac{1}{2}n + 2T_{26} = 353$$
 
 * $\checkmark a = \frac{1}{2}$
 * $\checkmark b = \frac{1}{2}$
@@ -368,9 +280,7 @@ $p,\quad 18,\quad 28,\quad 4p$
 $18 - p,\quad 10,\quad 4p - 28$
 $c,\quad c$
 
-$$10 - (18 - p) = 4p - 28 - 10$$
-$$10 - 18 + p = 4p - 38$$
-$$3p = 30 \implies p = 10$$
+$$10 - (18 - p) = 4p - 28 - 1010 - 18 + p = 4p - 383p = 30 \implies p = 10$$
 
 * $\checkmark T_3 = 28$
 * $\checkmark T_4 = 4p$
@@ -395,14 +305,10 @@ $$(1; -2)$$
 
 #### 5.1.2
 **For $x$-intercept / Vir $x$-afsnit:** ($y = 0$)
-$$0 = \frac{-9}{x - 1} - 2$$
-$$2 = \frac{-9}{x - 1}$$
-$$2(x - 1) = -9 \implies 2x = -7 \implies x = -\frac{7}{2}$$
-$$\left(-\frac{7}{2}; 0\right)$$
+$$0 = \frac{-9}{x - 1} - 22 = \frac{-9}{x - 1}2(x - 1) = -9 \implies 2x = -7 \implies x = -\frac{7}{2}\left(-\frac{7}{2}; 0\right)$$
 
 **For $y$-intercept / Vir $y$-afsnit:** ($x = 0$)
-$$y = \frac{-9}{0 - 1} - 2 = 9 - 2 = 7$$
-$$(0; 7)$$
+$$y = \frac{-9}{0 - 1} - 2 = 9 - 2 = 7(0; 7)$$
 
 * $\checkmark y = 0$
 * $\checkmark$ simplification / vereenv
@@ -421,14 +327,9 @@ $$y = -x - 1$$
 ---
 
 #### 5.1.4
-$$-x - 1 = \frac{-9}{x - 1} - 2$$
-$$-x + 1 = \frac{-9}{x - 1}$$
-$$(x - 1)^2 = 9$$
-$$x - 1 = 3 \text{ or } x - 1 = -3$$
-$$x = 4 \text{ or } x = -2$$
+$$-x - 1 = \frac{-9}{x - 1} - 2-x + 1 = \frac{-9}{x - 1}(x - 1)^2 = 9x - 1 = 3 \text{ or } x - 1 = -3x = 4 \text{ or } x = -2$$
 In the fourth quadrant, $x > 0$, hence $x = 4$ only.
-$$y = -4 - 1 = -5$$
-$$\text{Point / Punt is } (4; -5)$$
+$$y = -4 - 1 = -5\text{Point / Punt is } (4; -5)$$
 
 * $\checkmark$ equating / vgl
 * $\checkmark (x - 1)^2 = 9$
@@ -448,8 +349,7 @@ $$y = \frac{9}{x - 1} + 2$$
 
 #### 5.2.1
 For $y$-intercept / Vir $y$-afsnit substitution $x = 0$:
-$$y = 4 \cdot 2^0 + 1 = 5$$
-$$H(0; 5)$$
+$$y = 4 \cdot 2^0 + 1 = 5H(0; 5)$$
 
 * $\checkmark x = 0$ substitution into the equation / in die vgl
 * $\checkmark y = 5$ (2)
@@ -492,9 +392,7 @@ The graph of $h$ is translated $7$ units upwards to form $g$.
 #### 6.1
 $$y = a(x - 2)^2 + 9$$
 Substitution $(0; 5)$:
-$$5 = a(0 - 2)^2 + 9$$
-$$5 = 4a + 9 \implies a = -1$$
-$$y = -1(x - 2)^2 + 9 = -(x^2 - 4x + 4) + 9 = -x^2 + 4x + 5$$
+$$5 = a(0 - 2)^2 + 95 = 4a + 9 \implies a = -1y = -1(x - 2)^2 + 9 = -(x^2 - 4x + 4) + 9 = -x^2 + 4x + 5$$
 
 * $\checkmark$ substitution coordinates of TP
 * $\checkmark$ substitution of $(0; 5)$
@@ -517,8 +415,7 @@ $$\frac{1}{2}x^2 - 8 = 0 \implies x^2 = 16 \implies x = \pm 4$$
 At $B$: $x = -4$
 
 $x$-intercepts of / $x$-afsnitte van $g$:
-$$-x^2 + 4x + 5 = 0 \implies x^2 - 4x - 5 = 0 \implies (x - 5)(x + 1) = 0$$
-$$x = -1 \text{ or } 5$$
+$$-x^2 + 4x + 5 = 0 \implies x^2 - 4x - 5 = 0 \implies (x - 5)(x + 1) = 0x = -1 \text{ or } 5$$
 At $D$: $x = 5$
 $$\text{Length of BD} = 4 + 5 = 9$$
 
@@ -551,9 +448,7 @@ $$0 < x < 2$$
 ### **QUESTION / VRAAG 7**
 
 #### 7.1
-$$CD = 2x + 3 - (-2x^2 + 14x + k)$$
-$$= 2x + 3 + 2x^2 - 14x - k$$
-$$= 2x^2 - 12x + 3 - k$$
+$$CD = 2x + 3 - (-2x^2 + 14x + k)= 2x + 3 + 2x^2 - 14x - k= 2x^2 - 12x + 3 - k$$
 
 * $\checkmark \checkmark f(x) - g(x)$
 * $\checkmark$ answer / antwoord (3)
@@ -564,13 +459,10 @@ $$= 2x^2 - 12x + 3 - k$$
 Minimum value occurs at:
 $$x = \frac{-b}{2a} = \frac{--12}{2(2)} = 3$$
 Minimum value:
-$$5 = 2(3)^2 - 12(3) + 3 - k$$
-$$5 = 18 - 36 + 3 - k$$
-$$k = -20$$
+$$5 = 2(3)^2 - 12(3) + 3 - k5 = 18 - 36 + 3 - kk = -20$$
 
 **OR / OF**
-$$CD = 2x^2 - 12x + 3 - k = 2(x^2 - 6x) + 3 - k$$
-$$= 2[(x - 3)^2 - 9] + 3 - k = 2(x - 3)^2 - 15 - k$$
+$$CD = 2x^2 - 12x + 3 - k = 2(x^2 - 6x) + 3 - k= 2[(x - 3)^2 - 9] + 3 - k = 2(x - 3)^2 - 15 - k$$
 Hence minimum value of $CD$ is $-15 - k$.
 Given minimum value is $5$:
 $$5 = -15 - k \implies k = -20$$
@@ -596,10 +488,7 @@ $$A = P(1 + i)^n = 140\,000(1 + 0,061)^4 = \text{R}177\ 414,69$$
 ---
 
 #### 8.2
-$$1 + i_{\text{eff}} = \left(1 + \frac{0,07}{2}\right)^2$$
-$$1 + i_{\text{eff}} = (1 + 0,035)^2$$
-$$i_{\text{eff}} = (1 + 0,035)^2 - 1 = 0,071225$$
-$$\text{Effective interest rate} = 7,12\% \text{ p.a.}$$
+$$1 + i_{\text{eff}} = \left(1 + \frac{0,07}{2}\right)^21 + i_{\text{eff}} = (1 + 0,035)^2i_{\text{eff}} = (1 + 0,035)^2 - 1 = 0,071225\text{Effective interest rate} = 7,12\% \text{ p.a.}$$
 
 * $\checkmark \frac{0,07}{2}$
 * $\checkmark 1 + i_{\text{eff}} = (1 + 0,035)^2$
@@ -619,11 +508,7 @@ $$A = 24\,000\left(1 + \frac{0,105}{12}\right)^{48} - 7\,000\left(1 + \frac{0,10
 ---
 
 #### 8.4
-$$102\ 755,34 = 198\ 000\left(1 - \frac{r}{100}\right)^3$$
-$$\sqrt[3]{\frac{102\ 755,34}{198\ 000}} = 1 - \frac{r}{100}$$
-$$1 - \frac{r}{100} = 0,8036119818$$
-$$\frac{r}{100} = 0,1963880182$$
-$$r = 19,64\%$$
+$$102\ 755,34 = 198\ 000\left(1 - \frac{r}{100}\right)^3\sqrt[3]{\frac{102\ 755,34}{198\ 000}} = 1 - \frac{r}{100}1 - \frac{r}{100} = 0,8036119818\frac{r}{100} = 0,1963880182r = 19,64\%$$
 
 * $\checkmark$ formula
 * $\checkmark$ correct substitution into formula
@@ -662,8 +547,7 @@ Therefore $A$ and $B$ are not mutually exclusive.
 ---
 
 #### 9.2.2
-$$P(A \text{ and } B) = \frac{500}{2646} = 18,90\%$$
-$$P(A) \times P(B) = \frac{1832}{2646} \times \frac{960}{2646} = 25,12\%$$
+$$P(A \text{ and } B) = \frac{500}{2646} = 18,90\%P(A) \times P(B) = \frac{1832}{2646} \times \frac{960}{2646} = 25,12\%$$
 Clearly, $P(A \text{ and } B) \neq P(A) \times P(B)$.
 Hence $A$ and $B$ are not independent.
 
@@ -676,8 +560,7 @@ Hence $A$ and $B$ are not independent.
 ---
 
 #### 9.2.3
-$$P(\text{Area 1 person earns } < \text{R3200}) = \frac{500}{1832} = 27,29\%$$
-$$P(\text{Area 2 person earns } < \text{R3200}) = \frac{460}{814} = 56,51\%$$
+$$P(\text{Area 1 person earns } < \text{R3200}) = \frac{500}{1832} = 27,29\%P(\text{Area 2 person earns } < \text{R3200}) = \frac{460}{814} = 56,51\%$$
 A person from Area 2 is more likely to earn less than R3200.
 
 * $\checkmark 27,29\%$

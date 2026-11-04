@@ -106,9 +106,7 @@ $$\begin{array}{ccccccccccc}
 &&& 14 && 18 && 22 &&& \\
 && 26 && 30 && 34 && 38 && \\
 & 42 && \dots && \dots && \dots && \dots &
-\end{array}$$
-
-$$\begin{array}{llll}
+\end{array}\begin{array}{llll}
 3.2.1 & \text{Calculate the sum of the numbers in the } 8^{\text{th}} \text{ row.} & (3) \\
 3.2.2 & \text{Determine the mean of the numbers in the } 20^{\text{th}} \text{ row.} & (2)
 \end{array}$$

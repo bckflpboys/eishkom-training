@@ -187,9 +187,7 @@ $$\text{[9]}$$
 
 $$\text{8.1.1} \quad \text{Stel die inligting hierbo in 'n Venn-diagram voor.}$$ \hfill (5)
 
-$$\text{8.1.2} \quad \text{Bereken die waarskynlikheid dat 'n graad 10-seun by die skool, wat willekeurig gekies word:}$$
-
-$$\text{(a)} \quad \text{Sokker en rugby speel}$$ \hfill (1)
+$$\text{8.1.2} \quad \text{Bereken die waarskynlikheid dat 'n graad 10-seun by die skool, wat willekeurig gekies word:}\text{(a)} \quad \text{Sokker en rugby speel}$$ \hfill (1)
 
 $$\text{(b)} \quad \text{Sokker of rugby speel}$$ \hfill (1)
 

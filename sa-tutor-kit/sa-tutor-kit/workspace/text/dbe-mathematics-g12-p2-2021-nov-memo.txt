@@ -586,4 +586,3 @@ $$\begin{aligned}
 * ✓ $\tan x = \frac{\sin x}{\cos x}$
 * ✓ $\sin 2x = 2\sin x \cos x$ (5)
 
-$$\begin{aligned

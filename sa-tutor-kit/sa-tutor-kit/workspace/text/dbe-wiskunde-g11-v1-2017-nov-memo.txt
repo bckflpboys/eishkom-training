@@ -29,8 +29,7 @@
 ## QUESTION / VRAAG 1
 
 ### 1.1.1
-$$(2x - 3)(x + 7) = 0$$
-$$x = \frac{3}{2} \quad \text{or/of} \quad x = -7$$
+$$(2x - 3)(x + 7) = 0x = \frac{3}{2} \quad \text{or/of} \quad x = -7$$
 
 * $\checkmark x = \frac{3}{2}$
 * $\checkmark x = -7$
@@ -40,11 +39,7 @@ $$x = \frac{3}{2} \quad \text{or/of} \quad x = -7$$
 ---
 
 ### 1.1.2
-$$7x^2 + 3x - 2 = 0$$
-$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
-$$x = \frac{-(3) \pm \sqrt{(3)^2 - 4(7)(-2)}}{2(7)}$$
-$$x = \frac{-3 \pm \sqrt{65}}{14}$$
-$$x = -0,79 \quad \text{or/of} \quad x = 0,36$$
+$$7x^2 + 3x - 2 = 0x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}x = \frac{-(3) \pm \sqrt{(3)^2 - 4(7)(-2)}}{2(7)}x = \frac{-3 \pm \sqrt{65}}{14}x = -0,79 \quad \text{or/of} \quad x = 0,36$$
 
 * $\checkmark \text{substitution / vervanging}$
 * $\checkmark \text{answer / antwoord}$
@@ -57,13 +52,7 @@ $$x = -0,79 \quad \text{or/of} \quad x = 0,36$$
 ---
 
 ### 1.1.3
-$$\sqrt{x - 1} + 3 = x$$
-$$\sqrt{x - 1} = x - 3$$
-$$(\sqrt{x - 1})^2 = (x - 3)^2$$
-$$x - 1 = x^2 - 6x + 9$$
-$$x^2 - 7x + 10 = 0$$
-$$(x - 2)(x - 5) = 0$$
-$$x \neq 2 \quad \text{or/of} \quad x = 5$$
+$$\sqrt{x - 1} + 3 = x\sqrt{x - 1} = x - 3(\sqrt{x - 1})^2 = (x - 3)^2x - 1 = x^2 - 6x + 9x^2 - 7x + 10 = 0(x - 2)(x - 5) = 0x \neq 2 \quad \text{or/of} \quad x = 5$$
 
 * $\checkmark \text{isolate / isoleer} \quad \checkmark \text{sign / teken}$
 * $\checkmark \text{squaring / kwadr both sides / beide kante}$
@@ -77,9 +66,7 @@ $$x \neq 2 \quad \text{or/of} \quad x = 5$$
 ---
 
 ### 1.1.4
-$$x^2 > 3(x + 6)$$
-$$x^2 - 3x - 18 > 0$$
-$$(x - 6)(x + 3) > 0$$
+$$x^2 > 3(x + 6)x^2 - 3x - 18 > 0(x - 6)(x + 3) > 0$$
 
 *(Graph / Sketch shown with roots at $-3$ and $6$)*
 
@@ -95,25 +82,11 @@ $$x < -3 \quad \text{OR/OF} \quad x > 6 \quad \text{OR/OF} \quad x \in (-\infty;
 ---
 
 ### 1.2
-$$x = 1 - 2y$$
-$$(1 - 2y)^2 + y^2 + 3y(1 - 2y) + y = 0$$
-$$1 - 4y + 4y^2 + y^2 + 3y - 6y^2 + y = 0$$
-$$1 - y^2 = 0$$
-$$(1 - y)(1 + y) = 0$$
-$$y = 1 \quad \text{or/of} \quad y = -1$$
-$$x = -1 \quad \text{or/of} \quad x = 3$$
+$$x = 1 - 2y(1 - 2y)^2 + y^2 + 3y(1 - 2y) + y = 01 - 4y + 4y^2 + y^2 + 3y - 6y^2 + y = 01 - y^2 = 0(1 - y)(1 + y) = 0y = 1 \quad \text{or/of} \quad y = -1x = -1 \quad \text{or/of} \quad x = 3$$
 
 **OR/OF**
 
-$$y = \frac{1 - x}{2}$$
-$$x^2 + \left(\frac{1 - x}{2}\right)^2 + 3x\left(\frac{1 - x}{2}\right) + \frac{1 - x}{2} = 0$$
-$$x^2 + \frac{1 - 2x + x^2}{4} + \frac{3x - 3x^2}{2} + \frac{1 - x}{2} = 0$$
-$$4x^2 + 1 - 2x + x^2 + 6x - 6x^2 + 2 - 2x = 0$$
-$$-x^2 + 2x + 3 = 0$$
-$$x^2 - 2x - 3 = 0$$
-$$(x - 3)(x + 1) = 0$$
-$$x = 3 \quad \text{or/of} \quad x = -1$$
-$$y = -1 \quad \text{or/of} \quad y = 1$$
+$$y = \frac{1 - x}{2}x^2 + \left(\frac{1 - x}{2}\right)^2 + 3x\left(\frac{1 - x}{2}\right) + \frac{1 - x}{2} = 0x^2 + \frac{1 - 2x + x^2}{4} + \frac{3x - 3x^2}{2} + \frac{1 - x}{2} = 04x^2 + 1 - 2x + x^2 + 6x - 6x^2 + 2 - 2x = 0-x^2 + 2x + 3 = 0x^2 - 2x - 3 = 0(x - 3)(x + 1) = 0x = 3 \quad \text{or/of} \quad x = -1y = -1 \quad \text{or/of} \quad y = 1$$
 
 * $\checkmark x = 1 - 2y$
 * $\checkmark \text{substitution / verv}$
@@ -135,10 +108,7 @@ $$y = -1 \quad \text{or/of} \quad y = 1$$
 ---
 
 ### 1.3
-$$3 - 12k^2 = 0$$
-$$1 - 4k^2 = 0$$
-$$k^2 = \frac{1}{4}$$
-$$k = \pm \frac{1}{2}$$
+$$3 - 12k^2 = 01 - 4k^2 = 0k^2 = \frac{1}{4}k = \pm \frac{1}{2}$$
 
 * $\checkmark 3 - 12k^2 = 0$
 * $\checkmark k^2 = \frac{1}{4}$
@@ -153,18 +123,11 @@ $$k = \pm \frac{1}{2}$$
 ## QUESTION / VRAAG 2
 
 ### 2.1
-$$\frac{3^{m+4} - 6 \cdot 3^{m+1}}{7 \cdot 3^{m+2}}$$
-$$= \frac{3^{m+1}(3^3 - 6)}{7 \cdot 3^{m+1} \cdot 3}$$
-$$= \frac{3^3 - 6}{7 \cdot 3}$$
-$$= \frac{21}{21}$$
-$$= 1$$
+$$\frac{3^{m+4} - 6 \cdot 3^{m+1}}{7 \cdot 3^{m+2}}= \frac{3^{m+1}(3^3 - 6)}{7 \cdot 3^{m+1} \cdot 3}= \frac{3^3 - 6}{7 \cdot 3}= \frac{21}{21}= 1$$
 
 **OR/OF**
 
-$$\frac{3^{m+4} - 6 \cdot 3^{m+1}}{7 \cdot 3^{m+2}}$$
-$$= \frac{3^m(3^4 - 6 \cdot 3)}{3^m(7 \cdot 3^2)}$$
-$$= \frac{3^m \cdot 63}{3^m \cdot 63}$$
-$$= 1$$
+$$\frac{3^{m+4} - 6 \cdot 3^{m+1}}{7 \cdot 3^{m+2}}= \frac{3^m(3^4 - 6 \cdot 3)}{3^m(7 \cdot 3^2)}= \frac{3^m \cdot 63}{3^m \cdot 63}= 1$$
 
 * $\checkmark \text{common factor / gemene fakt}$
 * $\checkmark 3^3 - 6$
@@ -182,19 +145,11 @@ $$= 1$$
 ---
 
 ### 2.2.1
-$$x^{-\frac{3}{4}} = 8$$
-$$x = (2^3)^{-\frac{4}{3}}$$
-$$x = 2^{-4}$$
-$$x = \frac{1}{16}$$
+$$x^{-\frac{3}{4}} = 8x = (2^3)^{-\frac{4}{3}}x = 2^{-4}x = \frac{1}{16}$$
 
 **OR/OF**
 
-$$x^{-\frac{3}{4}} = 8$$
-$$\sqrt[4]{x^{-3}} = 2^3$$
-$$x^{-3} = 2^{12} \quad (4096)$$
-$$x^{-1} = 2^4 \quad (16)$$
-$$x = 2^{-4}$$
-$$x = \frac{1}{16}$$
+$$x^{-\frac{3}{4}} = 8\sqrt[4]{x^{-3}} = 2^3x^{-3} = 2^{12} \quad (4096)x^{-1} = 2^4 \quad (16)x = 2^{-4}x = \frac{1}{16}$$
 
 * $\checkmark \text{change to prime base / verander na priembasis}$
 * $\checkmark \text{rational exponent / rasionele eksp}$
@@ -210,11 +165,7 @@ $$x = \frac{1}{16}$$
 ---
 
 ### 2.2.2
-$$2^{2x} - 2^x = 2$$
-$$2^{2x} - 2^x - 2 = 0$$
-$$(2^x + 1)(2^x - 2) = 0$$
-$$2^x \neq -1 \quad \text{or/of} \quad 2^x = 2$$
-$$x = 1$$
+$$2^{2x} - 2^x = 22^{2x} - 2^x - 2 = 0(2^x + 1)(2^x - 2) = 02^x \neq -1 \quad \text{or/of} \quad 2^x = 2x = 1$$
 
 *(NOTE/LET WEL: If answer only of $x = 1$: award $1/4$ marks / Slegs antwoord van $x = 1$: gee $1/4$ punte)*
 *(If the learner writes $2x - x = 1$ Breakdown: $0/4$ marks / As die leerder skryf $2x - x = 1$ Ontleding: $0/4$ punte)*
@@ -229,19 +180,11 @@ $$x = 1$$
 ---
 
 ### 2.3
-$$(x + y)^2 = \left(\frac{3 - \sqrt{a}}{\sqrt{2}} + \frac{4 + \sqrt{a}}{\sqrt{2}}\right)^2$$
-$$= \left(\frac{7}{\sqrt{2}}\right)^2$$
-$$= \frac{49}{2}$$
-$$= 24\frac{1}{2}$$
+$$(x + y)^2 = \left(\frac{3 - \sqrt{a}}{\sqrt{2}} + \frac{4 + \sqrt{a}}{\sqrt{2}}\right)^2= \left(\frac{7}{\sqrt{2}}\right)^2= \frac{49}{2}= 24\frac{1}{2}$$
 
 **OR/OF**
 
-$$(x + y)^2 = x^2 + 2xy + y^2$$
-$$= \left(\frac{3 - \sqrt{a}}{\sqrt{2}}\right)^2 + 2\left(\frac{3 - \sqrt{a}}{\sqrt{2}}\right)\left(\frac{4 + \sqrt{a}}{\sqrt{2}}\right) + \left(\frac{4 + \sqrt{a}}{\sqrt{2}}\right)^2$$
-$$= \left(\frac{9 - 6\sqrt{a} + a}{2}\right) + 2\left(\frac{12 - \sqrt{a} - a}{2}\right) + \left(\frac{16 + 8\sqrt{a} + a}{2}\right)$$
-$$= \left(\frac{25 + 2\sqrt{a} + 2a}{2}\right) + (12 - \sqrt{a} - a)$$
-$$= \frac{25}{2} + \sqrt{a} + a + 12 - \sqrt{a} - a$$
-$$= 24\frac{1}{2}$$
+$$(x + y)^2 = x^2 + 2xy + y^2= \left(\frac{3 - \sqrt{a}}{\sqrt{2}}\right)^2 + 2\left(\frac{3 - \sqrt{a}}{\sqrt{2}}\right)\left(\frac{4 + \sqrt{a}}{\sqrt{2}}\right) + \left(\frac{4 + \sqrt{a}}{\sqrt{2}}\right)^2= \left(\frac{9 - 6\sqrt{a} + a}{2}\right) + 2\left(\frac{12 - \sqrt{a} - a}{2}\right) + \left(\frac{16 + 8\sqrt{a} + a}{2}\right)= \left(\frac{25 + 2\sqrt{a} + 2a}{2}\right) + (12 - \sqrt{a} - a)= \frac{25}{2} + \sqrt{a} + a + 12 - \sqrt{a} - a= 24\frac{1}{2}$$
 
 * $\checkmark \text{substitution / verv.}$
 * $\checkmark \text{simplification / vereenv.}$
@@ -257,11 +200,7 @@ $$= 24\frac{1}{2}$$
 ---
 
 ### 2.4
-$$10^{\frac{1}{2}} \cdot \sqrt{64.10} \cdot \sqrt[4]{81.10} \cdot \sqrt[12]{4.10}$$
-$$= 10^{\frac{1}{2}} \cdot \sqrt{2^6.10} \cdot \sqrt[4]{3^4.10} \cdot \sqrt[12]{2^2.10}$$
-$$= 10^{\frac{1}{2}} \cdot 2^{\frac{6}{2}} \cdot 10^{\frac{1}{2}} \cdot 3^{\frac{4}{4}} \cdot 10^{\frac{1}{4}} \cdot 2^{\frac{2}{12}} \cdot 10^{\frac{1}{12}}$$
-$$= 2 \times 3 \times 2 \times 10^{\frac{12}{12}}$$
-$$= 120$$
+$$10^{\frac{1}{2}} \cdot \sqrt{64.10} \cdot \sqrt[4]{81.10} \cdot \sqrt[12]{4.10}= 10^{\frac{1}{2}} \cdot \sqrt{2^6.10} \cdot \sqrt[4]{3^4.10} \cdot \sqrt[12]{2^2.10}= 10^{\frac{1}{2}} \cdot 2^{\frac{6}{2}} \cdot 10^{\frac{1}{2}} \cdot 3^{\frac{4}{4}} \cdot 10^{\frac{1}{4}} \cdot 2^{\frac{2}{12}} \cdot 10^{\frac{1}{12}}= 2 \times 3 \times 2 \times 10^{\frac{12}{12}}= 120$$
 
 * $\checkmark \text{split the surd / skei wortel}$
 * $\checkmark \text{rational exponents / rasionele eksp}$
@@ -277,9 +216,7 @@ $$= 120$$
 ## QUESTION / VRAAG 3
 
 ### 3.1.1
-$$12, \quad 17, \quad 22$$
-$$\text{Difference} = 5$$
-$$T_n = 5n + 7$$
+$$12, \quad 17, \quad 22\text{Difference} = 5T_n = 5n + 7$$
 
 * $\checkmark 5n$
 * $\checkmark 7$
@@ -289,8 +226,7 @@ $$T_n = 5n + 7$$
 ---
 
 ### 3.1.2
-$$T_{12} = 5(12) + 7$$
-$$= 67$$
+$$T_{12} = 5(12) + 7= 67$$
 
 * $\checkmark \text{subst / verv}$
 * $\checkmark \text{answer / antw}$
@@ -300,9 +236,7 @@ $$= 67$$
 ---
 
 ### 3.1.3
-$$5n + 7 = 172$$
-$$5n = 165$$
-$$n = 33$$
+$$5n + 7 = 1725n = 165n = 33$$
 
 * $\checkmark 5n + 7 = 172$
 * $\checkmark \text{answer / antw}$
@@ -312,26 +246,11 @@ $$n = 33$$
 ---
 
 ### 3.2
-$$3, \quad x - 3, \quad x, \quad y - x, \quad y, \quad y - 30, \quad 30$$
-
-$$x - 3 = y - x$$
-$$y = 2x - 3$$
-
-$$30 - y = y - x$$
-$$30 + x = 2y$$
-$$30 + x = 2(2x - 3)$$
-$$30 + x = 4x - 6$$
-$$36 = 3x$$
-$$12 = x$$
-$$y = 21$$
+$$3, \quad x - 3, \quad x, \quad y - x, \quad y, \quad y - 30, \quad 30x - 3 = y - xy = 2x - 330 - y = y - x30 + x = 2y30 + x = 2(2x - 3)30 + x = 4x - 636 = 3x12 = xy = 21$$
 
 **OR/OF**
 
-$$x - 3 = 30 - y$$
-$$x - 3 = 30 - 2x + 3$$
-$$3x = 36$$
-$$x = 12$$
-$$y = 21$$
+$$x - 3 = 30 - yx - 3 = 30 - 2x + 33x = 36x = 12y = 21$$
 
 * $\checkmark x - 3 = y - x$
 * $\checkmark 30 - y = y - x$
@@ -347,10 +266,7 @@ $$y = 21$$
 ## QUESTION / VRAAG 4
 
 ### 4.1
-$$244, \quad 193, \quad 148, \quad 109$$
-$$\text{1st diff:} \quad -51, \quad -45, \quad -39$$
-$$\text{2nd diff:} \quad 6, \quad 6$$
-$$T_5 = 76$$
+$$244, \quad 193, \quad 148, \quad 109\text{1st diff:} \quad -51, \quad -45, \quad -39\text{2nd diff:} \quad 6, \quad 6T_5 = 76$$
 
 *(NOTE/LET WEL: Answer only: $2/2$ marks / Slegs antwoord: $2/2$ punte)*
 
@@ -362,10 +278,7 @@ $$T_5 = 76$$
 ---
 
 ### 4.2
-$$2a = 6 \implies a = 3$$
-$$3a + b = -51 \implies 3(3) + b = -51 \implies b = -60$$
-$$a + b + c = 244 \implies 3 + (-60) + c = 244 \implies c = 301$$
-$$T_n = 3n^2 - 60n + 301$$
+$$2a = 6 \implies a = 33a + b = -51 \implies 3(3) + b = -51 \implies b = -60a + b + c = 244 \implies 3 + (-60) + c = 244 \implies c = 301T_n = 3n^2 - 60n + 301$$
 
 * $\checkmark a = 3$
 * $\checkmark b = -60$
@@ -377,11 +290,7 @@ $$T_n = 3n^2 - 60n + 301$$
 ---
 
 ### 4.3
-$$3n^2 - 60n + 301 = 508$$
-$$3n^2 - 60n - 207 = 0$$
-$$n^2 - 20n - 69 = 0$$
-$$(n + 3)(n - 23) = 0$$
-$$n = 23 \quad \text{or/of} \quad n \neq -3$$
+$$3n^2 - 60n + 301 = 5083n^2 - 60n - 207 = 0n^2 - 20n - 69 = 0(n + 3)(n - 23) = 0n = 23 \quad \text{or/of} \quad n \neq -3$$
 
 * $\checkmark \text{equating / verg.}$
 * $\checkmark \text{std form / stand vorm}$
@@ -393,21 +302,11 @@ $$n = 23 \quad \text{or/of} \quad n \neq -3$$
 ---
 
 ### 4.4
-$$T_n = a + (n - 1)d$$
-$$453 = -51 + (n - 1)6$$
-$$453 = -57 + 6n$$
-$$510 = 6n$$
-$$n = 85$$
-$$\text{between } T_{85} \text{ and } T_{86} \quad / \quad \text{tussen } T_{85} \text{ en } T_{86}$$
+$$T_n = a + (n - 1)d453 = -51 + (n - 1)6453 = -57 + 6n510 = 6nn = 85\text{between } T_{85} \text{ and } T_{86} \quad / \quad \text{tussen } T_{85} \text{ en } T_{86}$$
 
 **OR/OF**
 
-$$T_{n+1} - T_n = 453$$
-$$3(n+1)^2 - 60(n+1) + 301 - (3n^2 - 60n + 301) = 453$$
-$$3n^2 + 6n + 3 - 60n - 60 - 3n^2 + 60n = 453$$
-$$6n = 510$$
-$$n = 85$$
-$$\text{between } T_{85} \text{ and } T_{86} \quad / \quad \text{tussen } T_{85} \text{ en } T_{86}$$
+$$T_{n+1} - T_n = 4533(n+1)^2 - 60(n+1) + 301 - (3n^2 - 60n + 301) = 4533n^2 + 6n + 3 - 60n - 60 - 3n^2 + 60n = 4536n = 510n = 85\text{between } T_{85} \text{ and } T_{86} \quad / \quad \text{tussen } T_{85} \text{ en } T_{86}$$
 
 * $\checkmark 453 = -57 + 6n$
 * $\checkmark n = 85$
@@ -423,17 +322,12 @@ $$\text{between } T_{85} \text{ and } T_{86} \quad / \quad \text{tussen } T_{85}
 ---
 
 ### 4.5
-$$T_n = 3n^2 - 60n + 301$$
-$$= 3(n - 10)^2 + 1$$
-$$(n - 10)^2 \geq 0 \text{ for/vir } n \in \mathbb{N}$$
-$$3(n - 10)^2 \geq 0$$
-$$3(n - 10)^2 + 1 > 0$$
+$$T_n = 3n^2 - 60n + 301= 3(n - 10)^2 + 1(n - 10)^2 \geq 0 \text{ for/vir } n \in \mathbb{N}3(n - 10)^2 \geq 03(n - 10)^2 + 1 > 0$$
 $\text{All terms in the pattern are positive / al die terme in die patroon is positief}$
 
 **OR/OF**
 
-$$T_n = 3n^2 - 60n + 301$$
-$$= 3(n - 10)^2 + 1$$
+$$T_n = 3n^2 - 60n + 301= 3(n - 10)^2 + 1$$
 $\text{T is a minimum valued function with minimum value } 1$
 $\text{Range of T: } y \geq 1$
 $\text{All terms in the pattern are positive.}$
@@ -451,8 +345,7 @@ $(\text{T is funksie met minimum waarde van } 1, \text{ Waardeversameling van T:
 ## QUESTION / VRAAG 5
 
 ### 5.1
-$$f(-3) = \frac{-3}{-3 + 2} + 1$$
-$$= 4$$
+$$f(-3) = \frac{-3}{-3 + 2} + 1= 4$$
 
 * $\checkmark \text{answer / antw.}$
 
@@ -461,10 +354,7 @@ $$= 4$$
 ---
 
 ### 5.2
-$$4 = 2^{-x} - 4$$
-$$8 = 2^{-x}$$
-$$2^3 = 2^{-x}$$
-$$x = -3$$
+$$4 = 2^{-x} - 48 = 2^{-x}2^3 = 2^{-x}x = -3$$
 
 * $\checkmark 4 = 2^{-x} - 4$
 * $\checkmark \text{answer / antw.}$
@@ -474,8 +364,7 @@ $$x = -3$$
 ---
 
 ### 5.3
-$$x = -2$$
-$$y = 1$$
+$$x = -2y = 1$$
 
 * $\checkmark x = -2$
 * $\checkmark y = 1$
@@ -495,16 +384,11 @@ $$y > -4 \quad \text{OR/OF} \quad y \in (-4; \infty)$$
 
 ### 5.5
 **$y$-intercept / afsnit:**
-$$y = \frac{-3}{0 + 2} + 1$$
-$$= -\frac{1}{2}$$
+$$y = \frac{-3}{0 + 2} + 1= -\frac{1}{2}$$
 $y\text{-intercept / afsnit is } \left(0; -\frac{1}{2}\right)$
 
 **$x$-intercept / afsnit:**
-$$0 = \frac{-3}{x + 2} + 1$$
-$$-1 = \frac{-3}{x + 2}$$
-$$-x - 2 = -3$$
-$$-x = -1$$
-$$x = 1$$
+$$0 = \frac{-3}{x + 2} + 1-1 = \frac{-3}{x + 2}-x - 2 = -3-x = -1x = 1$$
 $x\text{-intercept / afsnit is } (1; 0)$
 
 * $\checkmark \text{subst } x = 0$
@@ -518,16 +402,11 @@ $x\text{-intercept / afsnit is } (1; 0)$
 ---
 
 ### 5.6
-$$y = -x + c$$
-$$1 = -(-2) + c$$
-$$-1 = c$$
-$$y = -x - 1$$
+$$y = -x + c1 = -(-2) + c-1 = cy = -x - 1$$
 
 **OR/OF**
 
-$$y - 1 = -(x - (-2))$$
-$$y = -x - 2 + 1$$
-$$y = -x - 1$$
+$$y - 1 = -(x - (-2))y = -x - 2 + 1y = -x - 1$$
 
 * $\checkmark \text{subst / verv}$
 * $\checkmark \text{answer / antw.}$
@@ -565,11 +444,7 @@ $$x \in (-\infty; -3] \cup (-2; -1]$$
 ## QUESTION / VRAAG 6
 
 ### 6.1
-$$0 = -x^2 - x + 6$$
-$$x^2 + x - 6 = 0$$
-$$(x + 3)(x - 2) = 0$$
-$$x = -3 \quad \text{or/of} \quad x = 2$$
-$$B(-3; 0) \text{ and / en } C(2; 0)$$
+$$0 = -x^2 - x + 6x^2 + x - 6 = 0(x + 3)(x - 2) = 0x = -3 \quad \text{or/of} \quad x = 2B(-3; 0) \text{ and / en } C(2; 0)$$
 
 * $\checkmark y = 0$
 * $\checkmark \text{standard form / vorm}$
@@ -581,15 +456,11 @@ $$B(-3; 0) \text{ and / en } C(2; 0)$$
 ---
 
 ### 6.2
-$$x = \frac{-b}{2a}$$
-$$x = \frac{-(-1)}{2(-1)}$$
-$$= -\frac{1}{2}$$
+$$x = \frac{-b}{2a}x = \frac{-(-1)}{2(-1)}= -\frac{1}{2}$$
 
 **OR/OF**
 
-$$x = \frac{x_1 + x_2}{2}$$
-$$x = \frac{(-3) + (2)}{2}$$
-$$= -\frac{1}{2}$$
+$$x = \frac{x_1 + x_2}{2}x = \frac{(-3) + (2)}{2}= -\frac{1}{2}$$
 
 * $\checkmark \text{method / metode}$
 * $\checkmark \text{answer / antw.}$
@@ -599,10 +470,7 @@ $$= -\frac{1}{2}$$
 ---
 
 ### 6.3
-$$f\left(-\frac{1}{2}\right) = -\left(-\frac{1}{2}\right)^2 - \left(-\frac{1}{2}\right) + 6$$
-$$= 6\frac{1}{4}$$
-$$\text{TP / DP } \left(-\frac{1}{2}; 6\frac{1}{4}\right)$$
-$$\text{Range / waardeversameling } y \in \left(-\infty; 6\frac{1}{4}\right] \quad \text{OR/OF} \quad y \leq 6\frac{1}{4}$$
+$$f\left(-\frac{1}{2}\right) = -\left(-\frac{1}{2}\right)^2 - \left(-\frac{1}{2}\right) + 6= 6\frac{1}{4}\text{TP / DP } \left(-\frac{1}{2}; 6\frac{1}{4}\right)\text{Range / waardeversameling } y \in \left(-\infty; 6\frac{1}{4}\right] \quad \text{OR/OF} \quad y \leq 6\frac{1}{4}$$
 
 * $\checkmark y \text{ value of TP / waarde van DP}$
 * $\checkmark\checkmark \text{Answer / antw.}$
@@ -612,9 +480,7 @@ $$\text{Range / waardeversameling } y \in \left(-\infty; 6\frac{1}{4}\right] \qu
 ---
 
 ### 6.4
-$$D(0; 6)$$
-$$m_{AD} = \frac{6 - 4}{0 - (-2)} = 1$$
-$$\text{Equation of / vergelyking van } g: \quad y = x + 6$$
+$$D(0; 6)m_{AD} = \frac{6 - 4}{0 - (-2)} = 1\text{Equation of / vergelyking van } g: \quad y = x + 6$$
 
 * $\checkmark \text{coordinates / koördinate D}$
 * $\checkmark \text{gradient.}$
@@ -634,16 +500,11 @@ $$\text{Average / Gemid. gradient} = \text{gradient of / van } g = 1$$
 ---
 
 ### 6.6
-$$f(x) = -\left(x + \frac{1}{2}\right)^2 + \frac{25}{4}$$
-$$h(x) = \left(x + \frac{1}{2} - 3\right)^2 - \frac{25}{4}$$
-$$h(x) = \left(x - \frac{5}{2}\right)^2 - \frac{25}{4}$$
+$$f(x) = -\left(x + \frac{1}{2}\right)^2 + \frac{25}{4}h(x) = \left(x + \frac{1}{2} - 3\right)^2 - \frac{25}{4}h(x) = \left(x - \frac{5}{2}\right)^2 - \frac{25}{4}$$
 
 **OR/OF**
 
-$$f(x) = -x^2 - x + 6$$
-$$h(x) = (x - 3)^2 + (x - 3) - 6$$
-$$h(x) = x^2 - 5x$$
-$$h(x) = \left(x - \frac{5}{2}\right)^2 - \frac{25}{4}$$
+$$f(x) = -x^2 - x + 6h(x) = (x - 3)^2 + (x - 3) - 6h(x) = x^2 - 5xh(x) = \left(x - \frac{5}{2}\right)^2 - \frac{25}{4}$$
 
 * $\checkmark f(x) = -\left(x + \frac{1}{2}\right)^2 + \frac{25}{4}$
 * $\checkmark \left(x - \frac{5}{2}\right)^2$
@@ -668,21 +529,11 @@ $$-3 < x < 2 \quad \text{OR/OF} \quad x \in (-3; 2)$$
 ---
 
 ### 6.8
-$$r = -2$$
-$$\text{By symmetry / deur simmetrie}$$
-$$p = 1$$
-$$p - r = 3$$
+$$r = -2\text{By symmetry / deur simmetrie}p = 1p - r = 3$$
 
 **OR/OF**
 
-$$-x^2 - x + 6 = 4$$
-$$-x^2 - x + 2 = 0$$
-$$x^2 + x - 2 = 0$$
-$$(x + 2)(x - 1) = 0$$
-$$x = -2 \quad \text{or/of} \quad x = 1$$
-$$r = -2$$
-$$p = 1$$
-$$p - r = 3$$
+$$-x^2 - x + 6 = 4-x^2 - x + 2 = 0x^2 + x - 2 = 0(x + 2)(x - 1) = 0x = -2 \quad \text{or/of} \quad x = 1r = -2p = 1p - r = 3$$
 
 * $\checkmark r = -2$
 * $\checkmark\checkmark p = 1$
@@ -697,13 +548,7 @@ $$p - r = 3$$
 ## QUESTION / VRAAG 7
 
 ### 7.1
-$$A = P(1 - i)^n$$
-$$20000 = 80000(1 - i)^5$$
-$$0,25 = (1 - i)^5$$
-$$\sqrt[5]{0,25} = 1 - i$$
-$$i = 1 - \sqrt[5]{0,25}$$
-$$i = 0,24214417$$
-$$i = 24,21\%$$
+$$A = P(1 - i)^n20000 = 80000(1 - i)^50,25 = (1 - i)^5\sqrt[5]{0,25} = 1 - ii = 1 - \sqrt[5]{0,25}i = 0,24214417i = 24,21\%$$
 
 * $\checkmark \text{substitution into correct formula / verv. in korrekte vorm}$
 * $\checkmark \text{simplification / vereenv}$
@@ -714,10 +559,7 @@ $$i = 24,21\%$$
 ---
 
 ### 7.2
-$$1 + i_{\text{eff}} = \left(1 + \frac{i_{\text{nom}}}{m}\right)^m$$
-$$1 + i_{\text{eff}} = \left(1 + \frac{0,05}{4}\right)^4$$
-$$i_{\text{eff}} = 0,050945336...$$
-$$\text{Effective rate } = 5,09\% \text{ p.a.}$$
+$$1 + i_{\text{eff}} = \left(1 + \frac{i_{\text{nom}}}{m}\right)^m1 + i_{\text{eff}} = \left(1 + \frac{0,05}{4}\right)^4i_{\text{eff}} = 0,050945336...\text{Effective rate } = 5,09\% \text{ p.a.}$$
 
 * $\checkmark \text{vorm / vorm}$
 * $\checkmark \text{subst / verv}$
@@ -728,9 +570,7 @@ $$\text{Effective rate } = 5,09\% \text{ p.a.}$$
 ---
 
 ### 7.3
-$$A = P(1 + i)^n$$
-$$= 30000\left(1 + \frac{0,12}{12}\right)^{2 \times 12} \left(1 + \frac{0,108}{2}\right)^{4 \times 2}$$
-$$= \text{R } 58\text{ }017,51$$
+$$A = P(1 + i)^n= 30000\left(1 + \frac{0,12}{12}\right)^{2 \times 12} \left(1 + \frac{0,108}{2}\right)^{4 \times 2}= \text{R } 58\text{ }017,51$$
 
 * $\checkmark \left(1 + \frac{0,12}{12}\right)^{2 \times 12}$
 * $\checkmark \left(1 + \frac{0,108}{2}\right)^{4 \times 2}$
@@ -741,8 +581,7 @@ $$= \text{R } 58\text{ }017,51$$
 ---
 
 ### 7.4
-$$A = 25000\left(1 + \frac{0,18}{12}\right)^{5 \times 12} - 8000\left(1 + \frac{0,18}{12}\right)^{3 \times 12} + 4000\left(1 + \frac{0,18}{12}\right)^{1,5 \times 12}$$
-$$= \text{R } 52636,74$$
+$$A = 25000\left(1 + \frac{0,18}{12}\right)^{5 \times 12} - 8000\left(1 + \frac{0,18}{12}\right)^{3 \times 12} + 4000\left(1 + \frac{0,18}{12}\right)^{1,5 \times 12}= \text{R } 52636,74$$
 
 **OR/OF**
 *(Step-by-step calculation shown in the memo)*

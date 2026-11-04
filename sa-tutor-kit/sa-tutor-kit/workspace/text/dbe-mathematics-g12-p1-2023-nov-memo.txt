@@ -21,40 +21,27 @@
 ### QUESTION 1 / VRAAG 1
 
 1.1.1 
-$$x^2 + x - 12 = 0$$
-$$(x - 3)(x + 4) = 0$$
-$$x = 3 \text{ or } x = -4$$
+$$x^2 + x - 12 = 0(x - 3)(x + 4) = 0x = 3 \text{ or } x = -4$$
 * $\checkmark$ factors / formula
 * $\checkmark$ answer
 * $\checkmark$ answer (3)
 
 1.1.2 
-$$3x^2 - 2x = 6$$
-$$3x^2 - 2x - 6 = 0$$
-$$x = \frac{-(-2) \pm \sqrt{(-2)^2 - 4(3)(-6)}}{2(3)}$$
-$$x = 1,79 \text{ or } x = -1,12$$
+$$3x^2 - 2x = 63x^2 - 2x - 6 = 0x = \frac{-(-2) \pm \sqrt{(-2)^2 - 4(3)(-6)}}{2(3)}x = 1,79 \text{ or } x = -1,12$$
 * $\checkmark$ standard form
 * $\checkmark$ substitution into correct formula
 * $\checkmark$ answer
 * $\checkmark$ answer (4)
 
 1.1.3 
-$$\sqrt{2x + 1} = x - 1$$
-$$2x + 1 = (x - 1)^2$$
-$$2x + 1 = x^2 - 2x + 1$$
-$$x^2 - 4x = 0$$
-$$x(x - 4) = 0$$
-$$x = 0 \text{ or } x = 4$$
-$$x \neq 0 \text{ or } x = 4$$
+$$\sqrt{2x + 1} = x - 12x + 1 = (x - 1)^22x + 1 = x^2 - 2x + 1x^2 - 4x = 0x(x - 4) = 0x = 0 \text{ or } x = 4x \neq 0 \text{ or } x = 4$$
 * $\checkmark$ squaring both sides
 * $\checkmark$ standard form
 * $\checkmark$ both $x$-values
 * $\checkmark$ valid answer (4)
 
 1.1.4 
-$$x^2 - 2x > 3$$
-$$x^2 - 2x - 3 > 0$$
-$$(x - 3)(x + 1) > 0$$
+$$x^2 - 2x > 3x^2 - 2x - 3 > 0(x - 3)(x + 1) > 0$$
 $\text{CV's: } x = -1 ; x = 3$
 
 ```
@@ -70,30 +57,11 @@ $$x < -1 \text{ or } x > 3$$
 ---
 
 1.2 
-$$\frac{1}{x} + \frac{1}{y} = 1 \quad \dots \text{ (1)}$$
-$$x + 2 = 2y \quad \dots \text{ (2)}$$
-
-$$x = 2y - 2$$
-$$\frac{1}{2y - 2} + \frac{1}{y} = 1$$
-$$y + 2y - 2 = 2y^2 - 2y$$
-$$2y^2 - 5y + 2 = 0$$
-$$(2y - 1)(y - 2) = 0$$
-$$y = \frac{1}{2} \text{ or } y = 2$$
-$$x = -1 \text{ or } x = 2$$
+$$\frac{1}{x} + \frac{1}{y} = 1 \quad \dots \text{ (1)}x + 2 = 2y \quad \dots \text{ (2)}x = 2y - 2\frac{1}{2y - 2} + \frac{1}{y} = 1y + 2y - 2 = 2y^2 - 2y2y^2 - 5y + 2 = 0(2y - 1)(y - 2) = 0y = \frac{1}{2} \text{ or } y = 2x = -1 \text{ or } x = 2$$
 
 **OR / OF**
 
-$$\frac{1}{x} + \frac{1}{y} = 1 \quad \dots \text{ (1)}$$
-$$x + 2 = 2y \quad \dots \text{ (2)}$$
-
-$$y = \frac{x}{2} + 1$$
-$$\frac{1}{x} + \frac{1}{\frac{x}{2} + 1} = 1$$
-$$\frac{1}{x} + \frac{2}{x + 2} = 1$$
-$$x + 2 + 2x = x^2 + 2x$$
-$$x^2 - x - 2 = 0$$
-$$(x + 1)(x - 2) = 0$$
-$$x = -1 \text{ or } x = 2$$
-$$y = \frac{1}{2} \text{ or } y = 2$$
+$$\frac{1}{x} + \frac{1}{y} = 1 \quad \dots \text{ (1)}x + 2 = 2y \quad \dots \text{ (2)}y = \frac{x}{2} + 1\frac{1}{x} + \frac{1}{\frac{x}{2} + 1} = 1\frac{1}{x} + \frac{2}{x + 2} = 1x + 2 + 2x = x^2 + 2xx^2 - x - 2 = 0(x + 1)(x - 2) = 0x = -1 \text{ or } x = 2y = \frac{1}{2} \text{ or } y = 2$$
 
 * $\checkmark x = 2y - 2$
 * $\checkmark$ substitution
@@ -112,20 +80,11 @@ $$y = \frac{1}{2} \text{ or } y = 2$$
 ---
 
 1.3 
-$$2^{m+1} + 2^m = 3^{n+2} - 3^n$$
-$$2^m(2 + 1) = 3^n(3^2 - 1)$$
-$$2^m(3) = 3^n(8)$$
-$$2^m(3) = 3^n(2^3)$$
-$$\therefore m = 3 \text{ and } n = 1$$
-$$\therefore m + n = 4$$
+$$2^{m+1} + 2^m = 3^{n+2} - 3^n2^m(2 + 1) = 3^n(3^2 - 1)2^m(3) = 3^n(8)2^m(3) = 3^n(2^3)\therefore m = 3 \text{ and } n = 1\therefore m + n = 4$$
 
 **OR / OF**
 
-$$2^{m+1} + 2^m = 3^{n+2} - 3^n$$
-$$2^m(2 + 1) = 3^n(3^2 - 1)$$
-$$2^m(3) = 3^n(8)$$
-$$2^m(3) = 3^n(2^3)$$
-$$2^{m-3} = 3^{n-1}$$
+$$2^{m+1} + 2^m = 3^{n+2} - 3^n2^m(2 + 1) = 3^n(3^2 - 1)2^m(3) = 3^n(8)2^m(3) = 3^n(2^3)2^{m-3} = 3^{n-1}$$
 $\text{Only true if } m - 3 = 0 \text{ and } n - 1 = 0$
 $$\therefore m + n = 4$$
 
@@ -148,15 +107,10 @@ $$\therefore m + n = 4$$
 ### QUESTION 2 / VRAAG 2
 
 2.1.1 $7 + 12 + 17 + \dots$
-$$T_n = a + (n - 1)d$$
-$$T_{91} = 7 + (91 - 1)(5)$$
-$$T_{91} = 457$$
+$$T_n = a + (n - 1)dT_{91} = 7 + (91 - 1)(5)T_{91} = 457$$
 
 **OR / OF**
-$$d = 5$$
-$$T_n = 5n + 2$$
-$$T_{91} = 5(91) + 2$$
-$$T_{91} = 457$$
+$$d = 5T_n = 5n + 2T_{91} = 5(91) + 2T_{91} = 457$$
 
 * $\checkmark d = 5$
 * $\checkmark$ substitution into correct formula
@@ -170,14 +124,10 @@ $$T_{91} = 457$$
 ---
 
 2.1.2 
-$$S_n = \frac{n}{2}[2a + (n - 1)d]$$
-$$S_{91} = \frac{91}{2}[2(7) + (91 - 1)(5)]$$
-$$S_{91} = 21\ 112$$
+$$S_n = \frac{n}{2}[2a + (n - 1)d]S_{91} = \frac{91}{2}[2(7) + (91 - 1)(5)]S_{91} = 21\ 112$$
 
 **OR / OF**
-$$S_n = \frac{n}{2}(a + l)$$
-$$S_{91} = \frac{91}{2}(7 + 457)$$
-$$S_{91} = 21\ 112$$
+$$S_n = \frac{n}{2}(a + l)S_{91} = \frac{91}{2}(7 + 457)S_{91} = 21\ 112$$
 
 * $\checkmark$ substitution into correct formula
 * $\checkmark$ answer (2)
@@ -189,10 +139,7 @@ $$S_{91} = 21\ 112$$
 ---
 
 2.1.3 
-$$T_n = 7 + (n - 1)(5)$$
-$$5n + 2 = 517$$
-$$5n = 515$$
-$$n = 103$$
+$$T_n = 7 + (n - 1)(5)5n + 2 = 5175n = 515n = 103$$
 
 * $\checkmark$ substitution into correct formula
 * $\checkmark$ equate
@@ -212,12 +159,7 @@ $$T_1 = 3 ; T_2 - T_1 = 9 \text{ and } T_3 - T_2 = 21$$
 $$\therefore T_5 = 3 + 9 + 21 + 33 + 45 = 111$$
 
 **OR / OF**
-$$2a = 12$$
-$$a = 6$$
-$$3(6) + b = 9$$
-$$b = -9$$
-$$6 - 9 + c = 3$$
-$$T_5 = 6(5)^2 - 9(5) + 6 = 111$$
+$$2a = 12a = 63(6) + b = 9b = -96 - 9 + c = 3T_5 = 6(5)^2 - 9(5) + 6 = 111$$
 
 * $\checkmark$ constant second diff $= 12$
 * $\checkmark$ first differences : $33 \text{ and } 45$ (2)
@@ -229,10 +171,7 @@ $$T_5 = 6(5)^2 - 9(5) + 6 = 111$$
 ---
 
 2.2.2 
-$$2a = 12 \implies a = 6$$
-$$3(6) + b = 9 \text{ or } 5 \times 6 + b = 21 \implies b = -9$$
-$$6 - 9 + c = 3 \implies c = 6$$
-$$T_n = 6n^2 - 9n + 6$$
+$$2a = 12 \implies a = 63(6) + b = 9 \text{ or } 5 \times 6 + b = 21 \implies b = -96 - 9 + c = 3 \implies c = 6T_n = 6n^2 - 9n + 6$$
 
 * $\checkmark 2a = 12$
 * $\checkmark 3(6) + b = 9 \text{ or } 5 \times 6 + b = 21$
@@ -241,8 +180,7 @@ $$T_n = 6n^2 - 9n + 6$$
 ---
 
 2.2.3 
-$$T_n^{'} = 12n - 9 > 0$$
-$$n > \frac{3}{4}$$
+$$T_n^{'} = 12n - 9 > 0n > \frac{3}{4}$$
 $\therefore T_n \text{ is increasing for } n \in \mathbb{N}$
 
 **OR / OF**
@@ -266,24 +204,19 @@ $\therefore T_n \text{ is increasing for } n \in \mathbb{N}$
 ### QUESTION 3 / VRAAG 3
 
 3.1.1 
-$$T_n = ar^{n-1}$$
-$$T_n = 3(2)^{n-1}$$
+$$T_n = ar^{n-1}T_n = 3(2)^{n-1}$$
 
 * $\checkmark T_n = 3(2)^{n-1}$ (1)
 
 ---
 
 3.1.2 
-$$\sum_{p=1}^{k} 3.2^{p-1} = 98\ 301$$
-$$\sum_{p=1}^{k} 3.2^{p-1} = 3 + 6 + 12 + \dots$$
+$$\sum_{p=1}^{k} 3.2^{p-1} = 98\ 301\sum_{p=1}^{k} 3.2^{p-1} = 3 + 6 + 12 + \dots$$
 $n = k$
-$$\frac{3[(2)^k - 1]}{2 - 1} = 98\ 301$$
-$$(2)^k = 32\ 768$$
-$$2^k = 2^{15}$$
+$$\frac{3[(2)^k - 1]}{2 - 1} = 98\ 301(2)^k = 32\ 7682^k = 2^{15}$$
 
 **OR / OF**
-$$k = \log_2 32\ 768$$
-$$\therefore k = 15$$
+$$k = \log_2 32\ 768\therefore k = 15$$
 
 * $\checkmark$ expansion
 * $\checkmark n = k$
@@ -293,15 +226,7 @@ $$\therefore k = 15$$
 ---
 
 3.2 
-$$S_{22} = \frac{22}{2}[2a + 21(3)]$$
-$$S_{22} = 22a + 693$$
-
-$$S_{\infty} = \frac{a}{1 - \frac{1}{3}} = \frac{3a}{2}$$
-
-$$\therefore 22a + 693 = \frac{3a}{2} + 734$$
-$$44a + 1386 = 3a + 1468$$
-$$41a = 82$$
-$$a = 2$$
+$$S_{22} = \frac{22}{2}[2a + 21(3)]S_{22} = 22a + 693S_{\infty} = \frac{a}{1 - \frac{1}{3}} = \frac{3a}{2}\therefore 22a + 693 = \frac{3a}{2} + 73444a + 1386 = 3a + 146841a = 82a = 2$$
 
 * $\checkmark$ substitution into $S_n$
 * $\checkmark S_{22} = 22a + 693$
@@ -322,21 +247,14 @@ $$y = -4$$
 ---
 
 4.2 $x\text{-intercept: } 0 = 2^x - 4$
-$$4 = 2^x$$
-$$x = 2$$
-$$\therefore B(2; 0)$$
+$$4 = 2^xx = 2\therefore B(2; 0)$$
 * $\checkmark y = 0$
 * $\checkmark x = 2$ (2)
 
 ---
 
 4.3 
-$$y = 2^0 - 4 = -3$$
-$$\therefore A(0; -3)$$
-
-$$y = mx + c$$
-$$m = \frac{3}{2}$$
-$$k(x) = \frac{3}{2}x - 3$$
+$$y = 2^0 - 4 = -3\therefore A(0; -3)y = mx + cm = \frac{3}{2}k(x) = \frac{3}{2}x - 3$$
 
 * $\checkmark y = -3$
 * $\checkmark$ gradient
@@ -345,9 +263,7 @@ $$k(x) = \frac{3}{2}x - 3$$
 ---
 
 4.4 
-$$k(1) = \frac{3}{2}(1) - 3 = -\frac{3}{2}$$
-$$f(1) = 2^1 - 4 = -2$$
-$$\text{Vertical distance} = -\frac{3}{2} - (-2) = \frac{1}{2} \text{ units}$$
+$$k(1) = \frac{3}{2}(1) - 3 = -\frac{3}{2}f(1) = 2^1 - 4 = -2\text{Vertical distance} = -\frac{3}{2} - (-2) = \frac{1}{2} \text{ units}$$
 
 * $\checkmark k(1)$
 * $\checkmark f(1) = -2$
@@ -356,8 +272,7 @@ $$\text{Vertical distance} = -\frac{3}{2} - (-2) = \frac{1}{2} \text{ units}$$
 ---
 
 4.5 
-$$g(x) = f(x) + 4$$
-$$g(x) = 2^x ; x \in [-2; 4)$$
+$$g(x) = f(x) + 4g(x) = 2^x ; x \in [-2; 4)$$
 * $\checkmark g(x) = 2^x$ (1)
 
 ---
@@ -388,17 +303,14 @@ $$(1; 8)$$
 ---
 
 5.2 
-$$y = -\frac{1}{2}(0 - 1)^2 + 8$$
-$$= 7\frac{1}{2}$$
-$$C\left(0; \frac{15}{2}\right)$$
+$$y = -\frac{1}{2}(0 - 1)^2 + 8= 7\frac{1}{2}C\left(0; \frac{15}{2}\right)$$
 * $\checkmark x = 0$
 * $\checkmark$ answer (2)
 
 ---
 
 5.3 
-$$8 = \frac{d}{1}$$
-$$\therefore d = 8$$
+$$8 = \frac{d}{1}\therefore d = 8$$
 * $\checkmark$ substitution $(1; 8)$ (1)
 
 ---
@@ -419,24 +331,15 @@ $$x \in [-3; 0) \cup [5; \infty)$$
 ---
 
 5.6 
-$$-2x + k = \frac{8}{x}$$
-$$-2x^2 + kx - 8 = 0$$
-$$\Delta = (k)^2 - 4(-2)(-8)$$
-$$k^2 - 64 < 0$$
+$$-2x + k = \frac{8}{x}-2x^2 + kx - 8 = 0\Delta = (k)^2 - 4(-2)(-8)k^2 - 64 < 0$$
 $\text{CV} : k = 8 ; k = -8$
 $$\therefore -8 < k < 8 \quad \text{or/of} \quad k \in (-8; 8)$$
 
 **OR / OF**
-$$g^{'}(x) = h^{'}(x)$$
-$$-\frac{8}{x^2} = -2$$
-$$-8 = -2x^2$$
-$$x = \pm 2$$
-$$y = \pm 4 \quad \therefore B(2; 4) \text{ and } A(-2; -4)$$
+$$g^{'}(x) = h^{'}(x)-\frac{8}{x^2} = -2-8 = -2x^2x = \pm 2y = \pm 4 \quad \therefore B(2; 4) \text{ and } A(-2; -4)$$
 $\text{For tangents:}$
 $h(x) = -2x + k \quad \text{or} \quad h(x) = -2x + k$
-$$4 = -2(2) + k \quad -4 = -2(-2) + k$$
-$$k = 8 \quad k = -8$$
-$$\therefore -8 < k < 8 \quad \text{or/of} \quad k \in (-8; 8)$$
+$$4 = -2(2) + k \quad -4 = -2(-2) + kk = 8 \quad k = -8\therefore -8 < k < 8 \quad \text{or/of} \quad k \in (-8; 8)$$
 
 * $\checkmark -2x + k = \frac{8}{x}$
 * $\checkmark$ standard form
@@ -454,36 +357,15 @@ $$\therefore -8 < k < 8 \quad \text{or/of} \quad k \in (-8; 8)$$
 ---
 
 5.7 
-$$h(x) = -2x + 8$$
-$$-2x + 8 = \frac{8}{x}$$
-$$-2x^2 + 8x = 8$$
-$$-2x^2 + 8x - 8 = 0$$
-$$x^2 - 4x + 4 = 0$$
-$$(x - 2)^2 = 0$$
-$$\therefore x = 2$$
-
-$$f(2) = \frac{15}{2}$$
-$$h(2) = 4$$
-$$4 = \frac{15}{2} + t$$
-$$\therefore t = -\frac{7}{2}$$
+$$h(x) = -2x + 8-2x + 8 = \frac{8}{x}-2x^2 + 8x = 8-2x^2 + 8x - 8 = 0x^2 - 4x + 4 = 0(x - 2)^2 = 0\therefore x = 2f(2) = \frac{15}{2}h(2) = 44 = \frac{15}{2} + t\therefore t = -\frac{7}{2}$$
 
 **OR / OF**
 $$f(2) = \frac{15}{2}$$
 $\text{Tangent point of contact } (2; 4)$
-$$4 = -\frac{1}{2}(2 - 1)^2 + 8 + t$$
-$$4 = \frac{15}{2} + t$$
-$$\therefore t = -\frac{7}{2}$$
+$$4 = -\frac{1}{2}(2 - 1)^2 + 8 + t4 = \frac{15}{2} + t\therefore t = -\frac{7}{2}$$
 
 **OR / OF**
-$$g(x) = 8x^{-1}$$
-$$g^{'}(x) = -8x^{-2}$$
-$$-2 = -8x^{-2}$$
-$$\frac{1}{4} = \frac{1}{x^2}$$
-$$x = 2$$
-$$y = \frac{8}{2} = 4 \implies R(2; 4)$$
-$$y = -\frac{1}{2}(x - 1)^2 + 8 + t$$
-$$4 = -\frac{1}{2}(2 - 1)^2 + 8 + t$$
-$$t = -\frac{7}{2}$$
+$$g(x) = 8x^{-1}g^{'}(x) = -8x^{-2}-2 = -8x^{-2}\frac{1}{4} = \frac{1}{x^2}x = 2y = \frac{8}{2} = 4 \implies R(2; 4)y = -\frac{1}{2}(x - 1)^2 + 8 + t4 = -\frac{1}{2}(2 - 1)^2 + 8 + tt = -\frac{7}{2}$$
 
 * $\checkmark x = 2$
 * $\checkmark f(2)$
@@ -509,12 +391,7 @@ $$t = -\frac{7}{2}$$
 ### QUESTION 6 / VRAAG 6
 
 6.1.1 
-$$A = P(1 + i)^n$$
-$$19\ 319,48 = 18\ 500\left(1 + \frac{r}{1200}\right)^6$$
-$$\left(1 + \frac{r}{1200}\right)^6 = 1,04429\dots$$
-$$1 + \frac{r}{1200} = \sqrt[6]{1,04429\dots}$$
-$$\frac{r}{1200} = 0,00725\dots$$
-$$r = 8,7\%$$
+$$A = P(1 + i)^n19\ 319,48 = 18\ 500\left(1 + \frac{r}{1200}\right)^6\left(1 + \frac{r}{1200}\right)^6 = 1,04429\dots1 + \frac{r}{1200} = \sqrt[6]{1,04429\dots}\frac{r}{1200} = 0,00725\dotsr = 8,7\%$$
 
 * $\checkmark n = 6$
 * $\checkmark$ substitution into correct formula
@@ -523,8 +400,7 @@ $$r = 8,7\%$$
 ---
 
 6.1.2 
-$$1 + \frac{i}{100} = \left(1 + \frac{8,7}{1200}\right)^{12}$$
-$$r = 9,06\%$$
+$$1 + \frac{i}{100} = \left(1 + \frac{8,7}{1200}\right)^{12}r = 9,06\%$$
 
 * $\checkmark$ substitution into correct formula
 * $\checkmark$ answer (2)
@@ -532,9 +408,7 @@ $$r = 9,06\%$$
 ---
 
 6.2.1 
-$$A = P(1 - in)$$
-$$0 = 10\ 000(1 - 0,2n)$$
-$$n = 5$$
+$$A = P(1 - in)0 = 10\ 000(1 - 0,2n)n = 5$$
 
 * $\checkmark$ substitution into correct formula
 * $\checkmark$ answer (2)
@@ -542,9 +416,7 @@ $$n = 5$$
 ---
 
 6.2.2 
-$$F = \frac{x[(1 + i)^n - 1]}{i}$$
-$$20\ 000 = \frac{x\left[\left(1 + \frac{8,7}{1200}\right)^{60} - 1\right]}{\frac{8,7}{1200}}$$
-$$x = \text{R}267,26$$
+$$F = \frac{x[(1 + i)^n - 1]}{i}20\ 000 = \frac{x\left[\left(1 + \frac{8,7}{1200}\right)^{60} - 1\right]}{\frac{8,7}{1200}}x = \text{R}267,26$$
 
 * $\checkmark i$
 * $\checkmark n$
@@ -554,12 +426,7 @@ $$x = \text{R}267,26$$
 ---
 
 6.3 
-$$P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
-$$1\ 600\ 000 = \frac{20\ 000\left[1 - \left(1 + \frac{0,112}{12}\right)^{-n}\right]}{\frac{0,112}{12}}$$
-$$\frac{56}{75} = 1 - \left(1 + \frac{0,112}{12}\right)^{-n}$$
-$$\left(1 + \frac{0,112}{12}\right)^{-n} = \frac{19}{75}$$
-$$-n = \log_{\left(1 + \frac{0,112}{12}\right)}\left(\frac{19}{75}\right)$$
-$$-n = -147,80$$
+$$P = \frac{x[1 - (1 + i)^{-n}]}{i}1\ 600\ 000 = \frac{20\ 000\left[1 - \left(1 + \frac{0,112}{12}\right)^{-n}\right]}{\frac{0,112}{12}}\frac{56}{75} = 1 - \left(1 + \frac{0,112}{12}\right)^{-n}\left(1 + \frac{0,112}{12}\right)^{-n} = \frac{19}{75}-n = \log_{\left(1 + \frac{0,112}{12}\right)}\left(\frac{19}{75}\right)-n = -147,80$$
 $\therefore \text{Tino will make } 147 \text{ withdrawals of R20 000}$
 
 * $\checkmark i$
@@ -575,22 +442,10 @@ $\therefore \text{Tino will make } 147 \text{ withdrawals of R20 000}$
 ### QUESTION 7 / VRAAG 7
 
 7.1 
-$$f^{'}(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
-$$f^{'}(x) = \lim_{h \to 0} \frac{-4(x + h)^2 - (-4x^2)}{h}$$
-$$f^{'}(x) = \lim_{h \to 0} \frac{-4x^2 - 8xh - 4h^2 + 4x^2}{h}$$
-$$f^{'}(x) = \lim_{h \to 0} \frac{-8xh - 4h^2}{h}$$
-$$f^{'}(x) = \lim_{h \to 0} \frac{h(-8x - 4h)}{h}$$
-$$f^{'}(x) = \lim_{h \to 0} (-8x - 4h)$$
-$$f^{'}(x) = -8x$$
+$$f^{'}(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}f^{'}(x) = \lim_{h \to 0} \frac{-4(x + h)^2 - (-4x^2)}{h}f^{'}(x) = \lim_{h \to 0} \frac{-4x^2 - 8xh - 4h^2 + 4x^2}{h}f^{'}(x) = \lim_{h \to 0} \frac{-8xh - 4h^2}{h}f^{'}(x) = \lim_{h \to 0} \frac{h(-8x - 4h)}{h}f^{'}(x) = \lim_{h \to 0} (-8x - 4h)f^{'}(x) = -8x$$
 
 **OR / OF**
-$$f(x + h) = -4(x + h)^2 = -4x^2 - 8xh - 4h^2$$
-$$f(x + h) - f(x) = -4x^2 - 8xh - 4h^2 - (-4x^2) = -8xh - 4h^2$$
-$$f^{'}(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
-$$f^{'}(x) = \lim_{h \to 0} \frac{-8xh - 4h^2}{h}$$
-$$f^{'}(x) = \lim_{h \to 0} \frac{h(-8x - 4h)}{h}$$
-$$f^{'}(x) = \lim_{h \to 0} (-8x - 4h)$$
-$$f^{'}(x) = -8x$$
+$$f(x + h) = -4(x + h)^2 = -4x^2 - 8xh - 4h^2f(x + h) - f(x) = -4x^2 - 8xh - 4h^2 - (-4x^2) = -8xh - 4h^2f^{'}(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}f^{'}(x) = \lim_{h \to 0} \frac{-8xh - 4h^2}{h}f^{'}(x) = \lim_{h \to 0} \frac{h(-8x - 4h)}{h}f^{'}(x) = \lim_{h \to 0} (-8x - 4h)f^{'}(x) = -8x$$
 
 * $\checkmark$ substitution into correct formula
 * $\checkmark f(x+h) = -4x^2 - 8xh - 4h^2$
@@ -608,8 +463,7 @@ $$f^{'}(x) = -8x$$
 ---
 
 7.2.1 
-$$f(x) = 2x^3 - 3x$$
-$$f^{'}(x) = 6x^2 - 3$$
+$$f(x) = 2x^3 - 3xf^{'}(x) = 6x^2 - 3$$
 
 * $\checkmark 6x^2$
 * $\checkmark -3$ (2)
@@ -617,9 +471,7 @@ $$f^{'}(x) = 6x^2 - 3$$
 ---
 
 7.2.2 
-$$D_x \left[7.\sqrt[3]{x^2} + 2x^{-5}\right]$$
-$$= D_x \left[7x^{\frac{2}{3}} + 2x^{-5}\right]$$
-$$= \frac{14}{3}x^{-\frac{1}{3}} - 10x^{-6}$$
+$$D_x \left[7.\sqrt[3]{x^2} + 2x^{-5}\right]= D_x \left[7x^{\frac{2}{3}} + 2x^{-5}\right]= \frac{14}{3}x^{-\frac{1}{3}} - 10x^{-6}$$
 
 * $\checkmark x^{\frac{2}{3}}$
 * $\checkmark$ derivative with rational exp
@@ -628,8 +480,7 @@ $$= \frac{14}{3}x^{-\frac{1}{3}} - 10x^{-6}$$
 ---
 
 7.3 
-$$-6x^2 + 8 > 0$$
-$$x^2 < \frac{8}{6}$$
+$$-6x^2 + 8 > 0x^2 < \frac{8}{6}$$
 $\text{CV's} : x = -\frac{2}{\sqrt{3}} \text{ or } x = \frac{2}{\sqrt{3}}$
 $\text{Positive for} : -\frac{2}{\sqrt{3}} < x < \frac{2}{\sqrt{3}}$
 
@@ -643,13 +494,7 @@ $\text{Positive for} : -\frac{2}{\sqrt{3}} < x < \frac{2}{\sqrt{3}}$
 ### QUESTION 8 / VRAAG 8
 
 8.1 
-$$f^{'}(x) = -3x^2 + 12x - 9$$
-$$-3x^2 + 12x - 9 = 0$$
-$$x^2 - 4x + 3 = 0$$
-$$(x - 3)(x - 1) = 0$$
-$$\therefore x = 3 \text{ or } x = 1$$
-$$f(3) = -(3)^3 + 6(3)^2 - 9(3) + 4 = 4$$
-$$f(1) = -(1)^3 + 6(1)^2 - 9(1) + 4 = 0$$
+$$f^{'}(x) = -3x^2 + 12x - 9-3x^2 + 12x - 9 = 0x^2 - 4x + 3 = 0(x - 3)(x - 1) = 0\therefore x = 3 \text{ or } x = 1f(3) = -(3)^3 + 6(3)^2 - 9(3) + 4 = 4f(1) = -(1)^3 + 6(1)^2 - 9(1) + 4 = 0$$
 $\therefore \text{turning points are: } (3; 4) \text{ and } (1; 0)$
 
 * $\checkmark f^{'}(x) = -3x^2 + 12x - 9$
@@ -685,22 +530,17 @@ $$0 < k < 4 \quad \text{or/of} \quad k \in (0; 4)$$
 ---
 
 8.4 
-$$f^{''}(x) = -6x + 12 = 0$$
-$$x = 2$$
+$$f^{''}(x) = -6x + 12 = 0x = 2$$
 $\text{Max at } (2; 2)$
 
-$$f^{'}(2) = 3$$
-$$\therefore y - 2 = 3(x - 2) \quad \text{or} \quad 2 = 3(2) + c$$
-$$g(x) = 3x - 4$$
+$$f^{'}(2) = 3\therefore y - 2 = 3(x - 2) \quad \text{or} \quad 2 = 3(2) + cg(x) = 3x - 4$$
 
 **OR / OF**
 $\text{Point of inflection: } x = \frac{3 + 1}{2}$
 $$x = 2$$
 $\text{Max at } (2; 2)$
 
-$$f^{'}(2) = 3$$
-$$\therefore y - 2 = 3(x - 2) \quad \text{or} \quad 2 = 3(2) + c$$
-$$g(x) = 3x - 4$$
+$$f^{'}(2) = 3\therefore y - 2 = 3(x - 2) \quad \text{or} \quad 2 = 3(2) + cg(x) = 3x - 4$$
 
 * $\checkmark f^{''}(x) = -6x + 12$
 * $\checkmark f^{''}(x) = 0$
@@ -719,8 +559,7 @@ $$g(x) = 3x - 4$$
 ---
 
 8.5 
-$$\tan \theta = 3$$
-$$\therefore \theta = 71,57^{\circ}$$
+$$\tan \theta = 3\therefore \theta = 71,57^{\circ}$$
 
 * $\checkmark$ gradient of $g$
 * $\checkmark$ answer (2)
@@ -732,10 +571,7 @@ $$\therefore \theta = 71,57^{\circ}$$
 ### QUESTION 9 / VRAAG 9
 
 9.1 
-$$432 = xb \implies b = \frac{432}{x}$$
-$$A(x) = (x + 8)\left(\frac{432}{x} + 6\right)$$
-$$A(x) = 432 + 6x + \frac{3456}{x} + 480$$
-$$A(x) = \frac{3456}{x} + 6x + 912 \quad \text{Wait, checking diagram: } 432 + 48 = 912 \text{ or standard formula text shows } 432 + 6x + \frac{3456}{x} + 480$$
+$$432 = xb \implies b = \frac{432}{x}A(x) = (x + 8)\left(\frac{432}{x} + 6\right)A(x) = 432 + 6x + \frac{3456}{x} + 480A(x) = \frac{3456}{x} + 6x + 912 \quad \text{Wait, checking diagram: } 432 + 48 = 912 \text{ or standard formula text shows } 432 + 6x + \frac{3456}{x} + 480$$
 
 * $\checkmark b = \frac{432}{x}$
 * $\checkmark (x + 8)$
@@ -744,11 +580,7 @@ $$A(x) = \frac{3456}{x} + 6x + 912 \quad \text{Wait, checking diagram: } 432 + 4
 ---
 
 9.2 
-$$A(x) = 3456x^{-1} + 6x + 480$$
-$$A^{'}(x) = -\frac{3456}{x^2} + 6$$
-$$-\frac{3456}{x^2} + 6 = 0$$
-$$3456 = 6x^2$$
-$$\therefore x = \sqrt{576} = 24 \text{ cm}$$
+$$A(x) = 3456x^{-1} + 6x + 480A^{'}(x) = -\frac{3456}{x^2} + 6-\frac{3456}{x^2} + 6 = 03456 = 6x^2\therefore x = \sqrt{576} = 24 \text{ cm}$$
 
 * $\checkmark 3456x^{-1} + 6x + 480$
 * $\checkmark A^{'}(x) = -\frac{3456}{x^2} + 6$
@@ -761,8 +593,7 @@ $$\therefore x = \sqrt{576} = 24 \text{ cm}$$
 ### QUESTION 10 / VRAAG 10
 
 10.1.1 $P(\text{A and B}) = P(\text{A}) \times P(\text{B})$
-$$= \frac{1}{3} \times \frac{3}{4}$$
-$$= \frac{1}{4}$$
+$$= \frac{1}{3} \times \frac{3}{4}= \frac{1}{4}$$
 
 * $\checkmark \frac{1}{3} \times \frac{3}{4}$
 * $\checkmark \frac{1}{4}$ (2)
@@ -770,8 +601,7 @@ $$= \frac{1}{4}$$
 ---
 
 10.1.2 $P(\text{A or B}) = P(\text{A}) + P(\text{B}) - P(\text{A and B})$
-$$= \frac{1}{3} + \frac{3}{4} - \frac{1}{4}$$
-$$= \frac{5}{6}$$
+$$= \frac{1}{3} + \frac{3}{4} - \frac{1}{4}= \frac{5}{6}$$
 
 **OR / OF**
 
@@ -784,4 +614,3 @@ $$= \frac{5}{6}$$
   +-------+       +-------+
 ```
 
-$$P(\text{A or B}) =

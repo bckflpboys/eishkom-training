@@ -351,31 +351,13 @@ Butene / Buteen: deduct 1 mark / trek een punt af. (2)
 > (f) Finale korrekte antwoord: $0,38\text{ g}$ $(0,379\text{ g})$ $\checkmark$
 > **Gebied:** $0,365 – 0,42\text{ g}$
 
-$$\text{Rate} / \text{Tempo} = \frac{\Delta V(\text{H}_2)}{\Delta t}$$
-$$0,033 = \frac{\Delta V(\text{H}_2)}{5} \checkmark\text{(a)}$$
-$$V(\text{H}_2) = 0,165\text{ dm}^3$$
-
-$$n(\text{H}_2) = \frac{V}{V_m} = \frac{0,165}{24,5} \checkmark\text{(b)}$$
-$$= 6,74 \times 10^{-3}\text{ mol } (0,0067)$$
-
-$$n(\text{A}\ell) = \frac{2}{3} n(\text{H}_2) \checkmark\text{(c)}$$
-$$= \frac{2}{3} (6,74 \times 10^{-3}) = 4,49 \times 10^{-3}\text{ mol } (0,00449)$$
+$$\text{Rate} / \text{Tempo} = \frac{\Delta V(\text{H}_2)}{\Delta t}0,033 = \frac{\Delta V(\text{H}_2)}{5} \checkmark\text{(a)}V(\text{H}_2) = 0,165\text{ dm}^3n(\text{H}_2) = \frac{V}{V_m} = \frac{0,165}{24,5} \checkmark\text{(b)}= 6,74 \times 10^{-3}\text{ mol } (0,0067)n(\text{A}\ell) = \frac{2}{3} n(\text{H}_2) \checkmark\text{(c)}= \frac{2}{3} (6,74 \times 10^{-3}) = 4,49 \times 10^{-3}\text{ mol } (0,00449)$$
 
 **OPTION 1 / OPSIE 1:**
-$$n(\text{A}\ell) = \frac{m}{M}$$
-$$4,49 \times 10^{-3} = \frac{m(\text{Al})}{27} \checkmark\text{(d)}$$
-$$m(\text{A}\ell) = 0,12\text{ g } (0,121)$$
-
-$$\Delta m(\text{A}\ell) = 0,5 - 0,12 \checkmark\text{(e)}$$
-$$= 0,38\text{ g} \checkmark\text{(f)}$$
+$$n(\text{A}\ell) = \frac{m}{M}4,49 \times 10^{-3} = \frac{m(\text{Al})}{27} \checkmark\text{(d)}m(\text{A}\ell) = 0,12\text{ g } (0,121)\Delta m(\text{A}\ell) = 0,5 - 0,12 \checkmark\text{(e)}= 0,38\text{ g} \checkmark\text{(f)}$$
 
 **OPTION 2 / OPSIE 2:**
-$$n(\text{A}\ell) = \frac{m}{M} = \frac{0,5}{27} = 0,0185\text{ mol}$$
-$$\Delta n(\text{A}\ell) = 0,0185 - 4,49 \times 10^{-3} = 0,014\text{ mol} \checkmark\text{(e)}$$
-
-$$n(\text{A}\ell) = \frac{m}{M}$$
-$$0,014 = \frac{m(\text{Al})}{27} \checkmark\text{(d)}$$
-$$m(\text{A}\ell) = 0,38\text{ g} \checkmark\text{(f)}$$ (6)
+$$n(\text{A}\ell) = \frac{m}{M} = \frac{0,5}{27} = 0,0185\text{ mol}\Delta n(\text{A}\ell) = 0,0185 - 4,49 \times 10^{-3} = 0,014\text{ mol} \checkmark\text{(e)}n(\text{A}\ell) = \frac{m}{M}0,014 = \frac{m(\text{Al})}{27} \checkmark\text{(d)}m(\text{A}\ell) = 0,38\text{ g} \checkmark\text{(f)}$$ (6)
 
 5.1.3 
 * The surface area / contact area / mass / size of aluminium decreases. $\checkmark$
@@ -512,8 +494,4 @@ $$\begin{array}{|l|c|c|c|c|}
 \hline
 \text{Equilibrium concentration (mol}\cdot\text{dm}^{-3}\text{) / Ewewigskonsentrasie} & \frac{0,6 - x}{2} & \frac{0,6 - x}{2} & \frac{0,1 + x}{2} & \frac{0,1 + x}{2} \checkmark\text{ (c)} \\
 \hline
-\end{array}$$
-
-$$K_c = \frac{[\text{CO}_2][\text{H}_2]}{[\text{CO}][\text{H}_2\text{O}]} \checkmark\text{(d)}$$
-
-$$4 \checkmark\text{(e)} = \frac{\left(\frac{0,1 + x}{2}\right)\left(\frac{0,1 + x}{2}\right)}{\left(\frac
+\end{array}K_c = \frac{[\text{CO}_2][\text{H}_2]}{[\text{CO}][\text{H}_2\text{O}]} \checkmark\text{(d)}4 \checkmark\text{(e)} = \frac{\left(\frac{0,1 + x}{2}\right)\left(\frac{0,1 + x}{2}\right)}{\left(\frac$$

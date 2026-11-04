@@ -21,9 +21,7 @@
 ### QUESTION / VRAAG 1
 
 **1.1.1**
-$$x^2 + 5x - 6 = 0$$
-$$(x + 6)(x - 1) = 0$$
-$$x = -6 \text{ or } x = 1$$
+$$x^2 + 5x - 6 = 0(x + 6)(x - 1) = 0x = -6 \text{ or } x = 1$$
 * $\checkmark \text{ factors}$
 * $\checkmark x = -6$
 * $\checkmark x = 1$ $(3)$
@@ -31,11 +29,7 @@ $$x = -6 \text{ or } x = 1$$
 ---
 
 **1.1.2**
-$$4x^2 + 3x - 5 = 0$$
-$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
-$$x = \frac{-3 \pm \sqrt{(3)^2 - 4(4)(-5)}}{2(4)}$$
-$$x = \frac{-3 \pm \sqrt{89}}{8}$$
-$$x = -1,55 \text{ or } x = 0,8$$
+$$4x^2 + 3x - 5 = 0x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}x = \frac{-3 \pm \sqrt{(3)^2 - 4(4)(-5)}}{2(4)}x = \frac{-3 \pm \sqrt{89}}{8}x = -1,55 \text{ or } x = 0,8$$
 * $\checkmark \text{ substitution into the correct formula}$
 * $\checkmark x = -1,55$
 * $\checkmark x = 0,8$ $(3)$
@@ -43,9 +37,7 @@ $$x = -1,55 \text{ or } x = 0,8$$
 ---
 
 **1.1.3**
-$$4x^2 - 1 < 0$$
-$$(2x + 1)(2x - 1) < 0$$
-$$-\frac{1}{2} < x < \frac{1}{2}$$
+$$4x^2 - 1 < 0(2x + 1)(2x - 1) < 0-\frac{1}{2} < x < \frac{1}{2}$$
 *(Number line diagram)*
 * $\checkmark \text{ factors}$
 * $\checkmark \text{ method}$
@@ -54,13 +46,7 @@ $$-\frac{1}{2} < x < \frac{1}{2}$$
 ---
 
 **1.1.4**
-$$\left(\sqrt{32 + x}\right)\left(\sqrt{32 - x}\right) = x$$
-$$\sqrt{32 - x^2} = x$$
-$$32 - x^2 = x^2$$
-$$-2x^2 = -32$$
-$$x^2 = 16$$
-$$x = \pm 4$$
-$$\therefore x = 4$$
+$$\left(\sqrt{32 + x}\right)\left(\sqrt{32 - x}\right) = x\sqrt{32 - x^2} = x32 - x^2 = x^2-2x^2 = -32x^2 = 16x = \pm 4\therefore x = 4$$
 * $\checkmark \sqrt{32 - x^2}$
 * $\checkmark \text{ squaring both sides}$
 * $\checkmark x^2 = 16$
@@ -69,17 +55,10 @@ $$\therefore x = 4$$
 ---
 
 **1.2**
-$$y + x = 12 \implies y = -x + 12 \dots (1)$$
-$$xy = 14 - 3x \dots (2)$$
+$$y + x = 12 \implies y = -x + 12 \dots (1)xy = 14 - 3x \dots (2)$$
 
 $\text{Sub (1) into (2):}$
-$$x(-x + 12) = 14 - 3x$$
-$$-x^2 + 12x - 14 + 3x = 0$$
-$$-x^2 + 15x - 14 = 0$$
-$$x^2 - 15x + 14 = 0$$
-$$(x - 14)(x - 1) = 0$$
-$$x = 14 \text{ or } x = 1$$
-$$y = -2 \text{ or } y = 11$$
+$$x(-x + 12) = 14 - 3x-x^2 + 12x - 14 + 3x = 0-x^2 + 15x - 14 = 0x^2 - 15x + 14 = 0(x - 14)(x - 1) = 0x = 14 \text{ or } x = 1y = -2 \text{ or } y = 11$$
 
 * $\checkmark y \text{ subject of the formula}$
 * $\checkmark \text{ substitution}$
@@ -88,17 +67,10 @@ $$y = -2 \text{ or } y = 11$$
 * $\checkmark \text{ both values of } y$ $(5)$
 
 **OR/OF**
-$$y + x = 12 \implies x = -y + 12 \dots (1)$$
-$$xy = 14 - 3x \dots (2)$$
+$$y + x = 12 \implies x = -y + 12 \dots (1)xy = 14 - 3x \dots (2)$$
 
 $\text{Sub (1) into (2):}$
-$$y(-y + 12) = 14 - 3(-y + 12)$$
-$$12y - y^2 - 14 + 36 - 3y = 0$$
-$$-y^2 + 9y + 22 = 0$$
-$$y^2 - 9y - 22 = 0$$
-$$(y + 2)(y - 11) = 0$$
-$$y = -2 \text{ or } y = 11$$
-$$x = 14 \text{ or } x = 1$$
+$$y(-y + 12) = 14 - 3(-y + 12)12y - y^2 - 14 + 36 - 3y = 0-y^2 + 9y + 22 = 0y^2 - 9y - 22 = 0(y + 2)(y - 11) = 0y = -2 \text{ or } y = 11x = 14 \text{ or } x = 1$$
 
 * $\checkmark x \text{ subject of the formula}$
 * $\checkmark \text{ substitution}$
@@ -109,9 +81,7 @@ $$x = 14 \text{ or } x = 1$$
 ---
 
 **1.3**
-$$3 \quad 6 \quad 9 \quad 12 \quad 15 \quad 18 \quad 21 \quad 24 \quad 27 \quad 30$$
-$$3 \quad 3 \quad 3^2 \quad 3 \quad 3 \quad 3^2 \quad 3 \quad 3 \quad 3^3 \quad 3$$
-$$\therefore k = 14$$
+$$3 \quad 6 \quad 9 \quad 12 \quad 15 \quad 18 \quad 21 \quad 24 \quad 27 \quad 303 \quad 3 \quad 3^2 \quad 3 \quad 3 \quad 3^2 \quad 3 \quad 3 \quad 3^3 \quad 3\therefore k = 14$$
 
 * $\checkmark \text{ identifying multiples of } 3$
 * $\checkmark \text{ ten multiples of } 3$
@@ -146,18 +116,13 @@ $$\begin{aligned}
 2a &= 2 &\quad 3a + b &= -31 &\quad a + b + c &= 321 \\
 a &= 1 &\quad 3(1) + b &= -31 &\quad 1 + (-34) + c &= 321 \\
 && b &= -34 &\quad c &= 354
-\end{aligned}$$
-
-$$T_n = n^2 - 34n + 354$$
+\end{aligned}T_n = n^2 - 34n + 354$$
 $(4)$
 
 ---
 
 **2.1.3**
-$$n^2 - 34n + 354 = 74$$
-$$n^2 - 34n + 280 = 0$$
-$$(n - 14)(n - 20) = 0$$
-$$n = 14 \text{ or } n = 20$$
+$$n^2 - 34n + 354 = 74n^2 - 34n + 280 = 0(n - 14)(n - 20) = 0n = 14 \text{ or } n = 20$$
 
 * $\checkmark \text{ equating } T_n \text{ to } 74$
 * $\checkmark \text{ standard form}$
@@ -166,20 +131,13 @@ $$n = 14 \text{ or } n = 20$$
 ---
 
 **2.1.4**
-$$f'(n) = 0$$
-$$2n - 34 = 0$$
-$$2n = 34$$
-$$n = 17$$
-$$\text{Term } 17 \text{ will have the smallest value}$$
+$$f'(n) = 02n - 34 = 02n = 34n = 17\text{Term } 17 \text{ will have the smallest value}$$
 
 **OR/OF**
-$$n = \frac{-b}{2a}$$
-$$n = \frac{34}{2} = 17$$
-$$\text{Term } 17 \text{ will have the smallest value}$$
+$$n = \frac{-b}{2a}n = \frac{34}{2} = 17\text{Term } 17 \text{ will have the smallest value}$$
 
 **OR/OF**
-$$n = \frac{14 + 20}{2} = 17$$
-$$\text{Term } 17 \text{ will have the smallest value}$$
+$$n = \frac{14 + 20}{2} = 17\text{Term } 17 \text{ will have the smallest value}$$
 
 * $\checkmark 2n - 34 = 0$
 * $\checkmark \text{ answer}$ $(2)$
@@ -195,11 +153,7 @@ $$\text{Term } 17 \text{ will have the smallest value}$$
 ---
 
 **2.2.1**
-$$a = \frac{5}{8} \text{ ; } r = \frac{1}{2} \text{ ; } n = 21$$
-$$S_n = \frac{a(1 - r^n)}{1 - r}$$
-$$S_{21} = \frac{\frac{5}{8}\left(1 - \left(\frac{1}{2}\right)^{21}\right)}{1 - \frac{1}{2}}$$
-$$= 1,2499\dots$$
-$$= 1,25$$
+$$a = \frac{5}{8} \text{ ; } r = \frac{1}{2} \text{ ; } n = 21S_n = \frac{a(1 - r^n)}{1 - r}S_{21} = \frac{\frac{5}{8}\left(1 - \left(\frac{1}{2}\right)^{21}\right)}{1 - \frac{1}{2}}= 1,2499\dots= 1,25$$
 
 * $\checkmark r$
 * $\checkmark \text{ substitution into the correct formula}$
@@ -208,23 +162,10 @@ $$= 1,25$$
 ---
 
 **2.2.2**
-$$T_n > \frac{5}{8192}$$
-$$ar^{n-1} > \frac{5}{8192}$$
-$$\frac{5}{8}\left(\frac{1}{2}\right)^{n-1} > \frac{5}{8192}$$
-$$\left(\frac{1}{2}\right)^{n-1} > \frac{1}{1024}$$
-$$\left(\frac{1}{2}\right)^{n-1} > \left(\frac{1}{2}\right)^{10} \quad \text{or} \quad 2^{-n+1} > 2^{-10}$$
-$$\therefore n - 1 < 10 \quad -n + 1 > -10$$
-$$n < 11 \quad n < 11$$
-$$\therefore n = 10 \quad \therefore n = 10$$
+$$T_n > \frac{5}{8192}ar^{n-1} > \frac{5}{8192}\frac{5}{8}\left(\frac{1}{2}\right)^{n-1} > \frac{5}{8192}\left(\frac{1}{2}\right)^{n-1} > \frac{1}{1024}\left(\frac{1}{2}\right)^{n-1} > \left(\frac{1}{2}\right)^{10} \quad \text{or} \quad 2^{-n+1} > 2^{-10}\therefore n - 1 < 10 \quad -n + 1 > -10n < 11 \quad n < 11\therefore n = 10 \quad \therefore n = 10$$
 
 **OR/OF**
-$$8 \text{ ; } 16 \text{ ; } 32 \text{ ; } \dots \text{ ; } 8192$$
-$$8 \cdot 2^{n-1} < 8192$$
-$$2^{n-1} < 1024$$
-$$2^{n-1} < 2^{10}$$
-$$n - 1 < 10$$
-$$n < 11$$
-$$\therefore n = 10$$
+$$8 \text{ ; } 16 \text{ ; } 32 \text{ ; } \dots \text{ ; } 81928 \cdot 2^{n-1} < 81922^{n-1} < 10242^{n-1} < 2^{10}n - 1 < 10n < 11\therefore n = 10$$
 
 * $\checkmark \text{ substitution into the correct formula}$
 * $\checkmark \text{ method / same base or log}$
@@ -244,10 +185,7 @@ $$\therefore n = 10$$
 ### QUESTION / VRAAG 3
 
 **3.1**
-$$\sum_{y=3}^{10} \frac{1}{y-2} - \sum_{y=3}^{10} \frac{1}{y-1}$$
-$$= \left(\frac{1}{1} + \frac{1}{2} + \frac{1}{3} + \dots + \frac{1}{8}\right) - \left(\frac{1}{2} + \frac{1}{3} + \dots + \frac{1}{8} + \frac{1}{9}\right)$$
-$$= 1 - \frac{1}{9}$$
-$$= \frac{8}{9}$$
+$$\sum_{y=3}^{10} \frac{1}{y-2} - \sum_{y=3}^{10} \frac{1}{y-1}= \left(\frac{1}{1} + \frac{1}{2} + \frac{1}{3} + \dots + \frac{1}{8}\right) - \left(\frac{1}{2} + \frac{1}{3} + \dots + \frac{1}{8} + \frac{1}{9}\right)= 1 - \frac{1}{9}= \frac{8}{9}$$
 
 * $\checkmark \left(\frac{1}{1} + \frac{1}{2} + \frac{1}{3} + \dots + \frac{1}{8}\right)$
 * $\checkmark \left(\frac{1}{2} + \frac{1}{3} + \dots + \frac{1}{8} + \frac{1}{9}\right)$
@@ -258,24 +196,13 @@ $$= \frac{8}{9}$$
 **3.2**
 $$\left(1 \times \frac{2}{3}\right) + \left(2 \times \frac{2}{3}\right) + \left(1 \times \frac{4}{3}\right) + \dots + \left(4 \times \frac{2}{3}\right)$$
 *Wait, transcribing formula carefully from image:*
-$$\left(\frac{1}{3} \times \frac{2}{3}\right) + \left(\frac{2}{3} \times \frac{2}{3}\right) + \left(1 \times \frac{4}{9}\right) + \dots + \left(4 \times \frac{2}{3}\right) \text{ etc.}$$
-$$= \frac{2}{9} + \frac{4}{9} + \frac{4}{3} + \dots + \frac{8}{3}$$
-$$a = \frac{2}{9} \quad \text{and} \quad d = \frac{4}{9} - \frac{2}{9} = \frac{2}{9}$$
-
-$$S_n = \frac{n}{2}[2a + (n - 1)d] \quad \text{OR} \quad S_n = \frac{n}{2}(a + l)$$
-$$S_{12} = \frac{12}{2}\left[2\left(\frac{2}{9}\right) + (12 - 1)\frac{2}{9}\right] \quad S_{12} = \frac{12}{2}\left(\frac{2}{9} + \frac{8}{3}\right)$$
-$$= \frac{52}{3}\text{m}^2 \quad = \frac{52}{3}\text{m}^2$$
-
-$$\therefore \text{for both sides} = 2 \times \frac{52}{3} = \frac{104}{3} = 34,67\text{m}^2$$
+$$\left(\frac{1}{3} \times \frac{2}{3}\right) + \left(\frac{2}{3} \times \frac{2}{3}\right) + \left(1 \times \frac{4}{9}\right) + \dots + \left(4 \times \frac{2}{3}\right) \text{ etc.}= \frac{2}{9} + \frac{4}{9} + \frac{4}{3} + \dots + \frac{8}{3}a = \frac{2}{9} \quad \text{and} \quad d = \frac{4}{9} - \frac{2}{9} = \frac{2}{9}S_n = \frac{n}{2}[2a + (n - 1)d] \quad \text{OR} \quad S_n = \frac{n}{2}(a + l)S_{12} = \frac{12}{2}\left[2\left(\frac{2}{9}\right) + (12 - 1)\frac{2}{9}\right] \quad S_{12} = \frac{12}{2}\left(\frac{2}{9} + \frac{8}{3}\right)= \frac{52}{3}\text{m}^2 \quad = \frac{52}{3}\text{m}^2\therefore \text{for both sides} = 2 \times \frac{52}{3} = \frac{104}{3} = 34,67\text{m}^2$$
 
 **OR/OF**
-$$\frac{2}{9} \times (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12) \times 2$$
-$$= 34,67\text{m}^2$$
+$$\frac{2}{9} \times (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12) \times 2= 34,67\text{m}^2$$
 
 **OR/OF**
-$$T_1 = \frac{2}{9} \times 12 = \frac{8}{3} \quad l = \frac{2}{9} \times 1 = \frac{2}{9}$$
-$$2S_{12} = 2\left(\frac{12}{2}\right)\left(\frac{8}{3} + \frac{2}{9}\right)$$
-$$= 34,67\text{m}^2$$
+$$T_1 = \frac{2}{9} \times 12 = \frac{8}{3} \quad l = \frac{2}{9} \times 1 = \frac{2}{9}2S_{12} = 2\left(\frac{12}{2}\right)\left(\frac{8}{3} + \frac{2}{9}\right)= 34,67\text{m}^2$$
 
 * $\checkmark\checkmark a$
 * $\checkmark d$
@@ -309,12 +236,7 @@ $$p = -1$$
 ---
 
 **4.2**
-$$y = \frac{a}{x - 1}$$
-$$-3 = \frac{a}{0 - 1}$$
-$$a = 3$$
-$$y = x^2 + bx - 3$$
-$$0 = (1)^2 + (1)b - 3$$
-$$b = 2$$
+$$y = \frac{a}{x - 1}-3 = \frac{a}{0 - 1}a = 3y = x^2 + bx - 30 = (1)^2 + (1)b - 3b = 2$$
 
 * $\checkmark \text{ coordinates } D(0 \text{ ; } -3)$
 * $\checkmark \text{ substitute } (0 \text{ ; } -3)$
@@ -323,19 +245,10 @@ $$b = 2$$
 ---
 
 **4.3**
-$$y = x^2 + 2x - 3$$
-$$\text{axis of sym: } x = \frac{-b}{2a}$$
-$$x = \frac{-2}{2(1)}$$
-$$x = -1$$
-$$y = (-1)^2 + 2(-1) - 3 = -4$$
-$$C(-1 \text{ ; } -4)$$
+$$y = x^2 + 2x - 3\text{axis of sym: } x = \frac{-b}{2a}x = \frac{-2}{2(1)}x = -1y = (-1)^2 + 2(-1) - 3 = -4C(-1 \text{ ; } -4)$$
 
 **OR/OF**
-$$\frac{dy}{dx} = 0$$
-$$2x + 2 = 0$$
-$$x = -1$$
-$$y = (-1)^2 + 2(-1) - 3 = -4$$
-$$C(-1 \text{ ; } -4)$$
+$$\frac{dy}{dx} = 02x + 2 = 0x = -1y = (-1)^2 + 2(-1) - 3 = -4C(-1 \text{ ; } -4)$$
 
 * $\checkmark \text{ substitution}$
 * $\checkmark x = -1$
@@ -358,11 +271,7 @@ $$y \in [-4 \text{ ; } \infty) \text{ or } y \ge -4$$
 ---
 
 **4.5**
-$$m = \tan 45^{\circ} = 1$$
-$$y = mx + c$$
-$$-4 = (1)(-1) + c$$
-$$c = -3$$
-$$y = x - 3$$
+$$m = \tan 45^{\circ} = 1y = mx + c-4 = (1)(-1) + cc = -3y = x - 3$$
 * $\checkmark \text{ gradient}$
 * $\checkmark \text{ subs } m \text{ and } (-1 \text{ ; } -4)$
 * $\checkmark \text{ equation}$ $(3)$
@@ -384,13 +293,7 @@ $f \text{ is reflected in the } y\text{-axis and translated } 1 \text{ unit to t
 $$\text{Therefore: } m = -1, \quad q = 4$$
 
 **OR/OF**
-$$\text{Substitute } x = 0 \text{ and } q = 4 \text{ for one } x\text{-intercept}$$
-$$h(x) = (m - x)^2 + 2(m - x) - 3 + q$$
-$$h(0) = (m - 0)^2 + 2(m - 0) - 3 + 4$$
-$$0 = m^2 + 2m + 1$$
-$$0 = (m + 1)^2$$
-$$m = -1$$
-$$q = 4$$
+$$\text{Substitute } x = 0 \text{ and } q = 4 \text{ for one } x\text{-intercept}h(x) = (m - x)^2 + 2(m - x) - 3 + qh(0) = (m - 0)^2 + 2(m - 0) - 3 + 40 = m^2 + 2m + 10 = (m + 1)^2m = -1q = 4$$
 
 * $\checkmark\checkmark \text{ value of } m$
 * $\checkmark\checkmark \text{ value of } q$ $(4)$
@@ -402,18 +305,14 @@ $$q = 4$$
 ### QUESTION / VRAAG 5
 
 **5.1**
-$$f(x) = k^x$$
-$$16 = k^4$$
-$$k = 2$$
+$$f(x) = k^x16 = k^4k = 2$$
 * $\checkmark \text{ substitution } (4 \text{ ; } 16)$
 * $\checkmark \text{ answer}$ $(2)$
 
 ---
 
 **5.2**
-$$f\text{: } y = 2^x$$
-$$f^{-1}\text{: } x = 2^y$$
-$$y = \log_2 x$$
+$$f\text{: } y = 2^xf^{-1}\text{: } x = 2^yy = \log_2 x$$
 * $\checkmark x = 2^y$
 * $\checkmark y = \log_2 x$ $(2)$
 
@@ -442,24 +341,10 @@ $$0 < x \le \frac{1}{2} \text{ or } x \in \left(0 \text{ ; } \frac{1}{2}\right]$
 ---
 
 **5.5**
-$$2^x - 2^{-x} = \frac{15}{4}$$
-$$2^x - \frac{1}{2^x} = \frac{15}{4}$$
-$$4 \cdot 2^x - 4 = 15 \times 2^x$$
-$$4 \cdot 2^{2x} - 15 \cdot 2^x - 4 = 0$$
-$$(4 \cdot 2^x + 1)(2^x - 4) = 0$$
-$$4 \cdot 2^x + 1 = 0 \quad \text{or} \quad 2^x - 4 = 0$$
-$$2^x = \frac{-1}{4} \quad \text{or} \quad 2^x = 2^2$$
-$$\text{N/A} \quad x = 2$$
+$$2^x - 2^{-x} = \frac{15}{4}2^x - \frac{1}{2^x} = \frac{15}{4}4 \cdot 2^x - 4 = 15 \times 2^x4 \cdot 2^{2x} - 15 \cdot 2^x - 4 = 0(4 \cdot 2^x + 1)(2^x - 4) = 04 \cdot 2^x + 1 = 0 \quad \text{or} \quad 2^x - 4 = 02^x = \frac{-1}{4} \quad \text{or} \quad 2^x = 2^2\text{N/A} \quad x = 2$$
 
 **OR/OF**
-$$\text{Let } k = 2^x$$
-$$k^2 - 1 = \frac{15}{4}k$$
-$$4k^2 - 4 = 15k$$
-$$4k^2 - 15k - 4 = 0$$
-$$(4k + 1)(k - 4) = 0$$
-$$k = \frac{-1}{4} \text{ or } k = 4$$
-$$2^x = \frac{-1}{4} \text{ or } 2^x = 2^2$$
-$$\text{N/A} \quad x = 2$$
+$$\text{Let } k = 2^xk^2 - 1 = \frac{15}{4}k4k^2 - 4 = 15k4k^2 - 15k - 4 = 0(4k + 1)(k - 4) = 0k = \frac{-1}{4} \text{ or } k = 42^x = \frac{-1}{4} \text{ or } 2^x = 2^2\text{N/A} \quad x = 2$$
 
 * $\checkmark 2^x - 2^{-x} = \frac{15}{4}$
 * $\checkmark \text{ standard form}$
@@ -479,20 +364,10 @@ $$\text{N/A} \quad x = 2$$
 ### QUESTION / VRAAG 6
 
 **6.1**
-$$\text{Kuda: } A = P(1 + in)$$
-$$= 5\,000(1 + 0,083 \times 4)$$
-$$= \text{R}6\,660,00$$
-$$\text{Final Answer: R}6\,660,00 + \text{R}266,40 = \text{R}6\,926,40$$
+$$\text{Kuda: } A = P(1 + in)= 5\,000(1 + 0,083 \times 4)= \text{R}6\,660,00\text{Final Answer: R}6\,660,00 + \text{R}266,40 = \text{R}6\,926,40$$
 
 **OR/OF**
-$$\text{Kuda: } A = P(1 + in) \times 1,04$$
-$$= 5\,000(1 + 0,083 \times 4) \times 1,04$$
-$$= \text{R}6\,926,40$$
-
-$$\text{Thabo: } A = P(1 + i)^n$$
-$$= 5\,000\left(1 + \frac{0,081}{12}\right)^{12 \times 4}$$
-$$= \text{R}6\,905,71$$
-$$\text{Kuda will have a better investment}$$
+$$\text{Kuda: } A = P(1 + in) \times 1,04= 5\,000(1 + 0,083 \times 4) \times 1,04= \text{R}6\,926,40\text{Thabo: } A = P(1 + i)^n= 5\,000\left(1 + \frac{0,081}{12}\right)^{12 \times 4}= \text{R}6\,905,71\text{Kuda will have a better investment}$$
 
 * $\checkmark \text{ substitution into the correct formula}$
 * $\checkmark \text{ final answer}$
@@ -508,23 +383,10 @@ $$\text{Kuda will have a better investment}$$
 ---
 
 **6.2.1**
-$$P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
-$$525\,000 = \frac{6\,000\left[1 - \left(1 + \frac{0,1}{12}\right)^{-n}\right]}{\frac{0,1}{12}}$$
-$$\frac{35}{48} = 1 - \left(1 + \frac{0,1}{12}\right)^{-n}$$
-$$-n \log\left(1 + \frac{0,1}{12}\right) = \log \frac{13}{48}$$
-$$-n = \frac{\log \frac{13}{48}}{\log\left(1 + \frac{0,1}{12}\right)}$$
-$$n = 157,40$$
-$$n = 158 \text{ payments}$$
+$$P = \frac{x[1 - (1 + i)^{-n}]}{i}525\,000 = \frac{6\,000\left[1 - \left(1 + \frac{0,1}{12}\right)^{-n}\right]}{\frac{0,1}{12}}\frac{35}{48} = 1 - \left(1 + \frac{0,1}{12}\right)^{-n}-n \log\left(1 + \frac{0,1}{12}\right) = \log \frac{13}{48}-n = \frac{\log \frac{13}{48}}{\log\left(1 + \frac{0,1}{12}\right)}n = 157,40n = 158 \text{ payments}$$
 
 **OR/OF**
-$$525\,000 = \frac{6\,000\left[1 - \left(1 + \frac{0,1}{12}\right)^{-12n}\right]}{\frac{0,1}{12}}$$
-$$\frac{35}{48} = 1 - \left(1 + \frac{0,1}{12}\right)^{-12n}$$
-$$-12n \log\left(1 + \frac{0,1}{12}\right) = \log \frac{13}{48}$$
-$$-12n = \frac{\log \frac{13}{48}}{\log\left(1 + \frac{0,1}{12}\right)}$$
-$$n = \frac{1}{12} \times \frac{\log \frac{13}{48}}{\log\left(1 + \frac{0,1}{12}\right)}$$
-$$n = 13,11686841$$
-$$\text{Number of payments} = 13,11686841 \times 12 = 157,40$$
-$$n = 158 \text{ payments}$$
+$$525\,000 = \frac{6\,000\left[1 - \left(1 + \frac{0,1}{12}\right)^{-12n}\right]}{\frac{0,1}{12}}\frac{35}{48} = 1 - \left(1 + \frac{0,1}{12}\right)^{-12n}-12n \log\left(1 + \frac{0,1}{12}\right) = \log \frac{13}{48}-12n = \frac{\log \frac{13}{48}}{\log\left(1 + \frac{0,1}{12}\right)}n = \frac{1}{12} \times \frac{\log \frac{13}{48}}{\log\left(1 + \frac{0,1}{12}\right)}n = 13,11686841\text{Number of payments} = 13,11686841 \times 12 = 157,40n = 158 \text{ payments}$$
 
 * $\checkmark \frac{0,1}{12}$
 * $\checkmark \text{ substitution into the correct formula}$
@@ -542,26 +404,13 @@ $$n = 158 \text{ payments}$$
 ---
 
 **6.2.2**
-$$\text{Difference: R}6\,000 - \text{R}5\,066,36 = \text{R}933,64$$
-$$F = \frac{x[(1 + i)^n - 1]}{i}$$
-$$F = \frac{933,64\left[\left(1 + \frac{0,1}{12}\right)^{108} - 1\right]}{\frac{0,1}{12}}$$
-$$= \text{R}1\,625\,03,51$$
+$$\text{Difference: R}6\,000 - \text{R}5\,066,36 = \text{R}933,64F = \frac{x[(1 + i)^n - 1]}{i}F = \frac{933,64\left[\left(1 + \frac{0,1}{12}\right)^{108} - 1\right]}{\frac{0,1}{12}}= \text{R}1\,625\,03,51$$
 
 **OR/OF**
-$$F = \frac{6\,000\left[\left(1 + \frac{0,1}{12}\right)^{108} - 1\right]}{\frac{0,1}{12}}$$
-$$= \text{R}1\,044\,322,28$$
-$$F = \frac{5\,066,36\left[\left(1 + \frac{0,1}{12}\right)^{108} - 1\right]}{\frac{0,1}{12}}$$
-$$= \text{R}881\,818,77\dots$$
-$$\text{Amount available for withdrawal} = \text{R}1\,044\,322,28 - \text{R}881\,818,77 = \text{R}162\,503,51$$
+$$F = \frac{6\,000\left[\left(1 + \frac{0,1}{12}\right)^{108} - 1\right]}{\frac{0,1}{12}}= \text{R}1\,044\,322,28F = \frac{5\,066,36\left[\left(1 + \frac{0,1}{12}\right)^{108} - 1\right]}{\frac{0,1}{12}}= \text{R}881\,818,77\dots\text{Amount available for withdrawal} = \text{R}1\,044\,322,28 - \text{R}881\,818,77 = \text{R}162\,503,51$$
 
 **OR/OF**
-$$\text{Outstanding balance with monthly repayment of R}5\,066,35\text{:}$$
-$$= 525\,000\left(1 + \frac{0,1}{12}\right)^{108} - \frac{5\,066,36\left[\left(1 + \frac{0,1}{12}\right)^{108} - 1\right]}{\frac{0,1}{12}}$$
-$$= \text{R}404\,666,23$$
-$$\text{Outstanding balance with monthly repayment of R}6\,000\text{:}$$
-$$= 525\,000\left(1 + \frac{0,1}{12}\right)^{108} - \frac{6\,000\left[\left(1 + \frac{0,1}{12}\right)^{108} - 1\right]}{\frac{0,1}{12}}$$
-$$= \text{R}242\,162,72$$
-$$\text{Amount available for withdrawal} = \text{R}404\,666,23 - \text{R}242\,162,72 = \text{R}162\,512,18$$
+$$\text{Outstanding balance with monthly repayment of R}5\,066,35\text{:}= 525\,000\left(1 + \frac{0,1}{12}\right)^{108} - \frac{5\,066,36\left[\left(1 + \frac{0,1}{12}\right)^{108} - 1\right]}{\frac{0,1}{12}}= \text{R}404\,666,23\text{Outstanding balance with monthly repayment of R}6\,000\text{:}= 525\,000\left(1 + \frac{0,1}{12}\right)^{108} - \frac{6\,000\left[\left(1 + \frac{0,1}{12}\right)^{108} - 1\right]}{\frac{0,1}{12}}= \text{R}242\,162,72\text{Amount available for withdrawal} = \text{R}404\,666,23 - \text{R}242\,162,72 = \text{R}162\,512,18$$
 
 * $\checkmark \text{R}933,64$
 * $\checkmark n = 108$
@@ -587,11 +436,7 @@ $$\text{Amount available for withdrawal} = \text{R}404\,666,23 - \text{R}242\,16
 ### QUESTION / VRAAG 7
 
 **7.1**
-$$f(x) = 4 - 7x$$
-$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
-$$= \lim_{h \to 0} \frac{4 - 7(x + h) - (4 - 7x)}{h}$$
-$$= \lim_{h \to 0} \frac{h(-7)}{h}$$
-$$= -7$$
+$$f(x) = 4 - 7xf'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}= \lim_{h \to 0} \frac{4 - 7(x + h) - (4 - 7x)}{h}= \lim_{h \to 0} \frac{h(-7)}{h}= -7$$
 
 * $\checkmark 4 - 7(x + h)$
 * $\checkmark \text{ substitution}$
@@ -601,9 +446,7 @@ $$= -7$$
 ---
 
 **7.2**
-$$y = 4x^8 + \sqrt{x^3}$$
-$$= 4x^8 + x^{\frac{3}{2}}$$
-$$\frac{dy}{dx} = 32x^7 + \frac{3}{2}x^{\frac{1}{2}}$$
+$$y = 4x^8 + \sqrt{x^3}= 4x^8 + x^{\frac{3}{2}}\frac{dy}{dx} = 32x^7 + \frac{3}{2}x^{\frac{1}{2}}$$
 
 * $\checkmark x^{\frac{3}{2}}$
 * $\checkmark 32x^7$
@@ -612,34 +455,21 @@ $$\frac{dy}{dx} = 32x^7 + \frac{3}{2}x^{\frac{1}{2}}$$
 ---
 
 **7.3.1**
-$$y = ax^2 + a$$
-$$\frac{dy}{dx} = 2ax + 0$$
-$$\frac{dy}{dx} = 2ax$$
+$$y = ax^2 + a\frac{dy}{dx} = 2ax + 0\frac{dy}{dx} = 2ax$$
 
 * $\checkmark 2ax$ $(1)$
 
 ---
 
 **7.3.2**
-$$y = ax^2 + a$$
-$$\frac{dy}{da} = x^2 + 1$$
+$$y = ax^2 + a\frac{dy}{da} = x^2 + 1$$
 
 * $\checkmark\checkmark \text{ answer}$ $(2)$
 
 ---
 
 **7.4**
-$$\text{Substitute } (2 \text{ ; } b) \text{ in } y = x + \frac{12}{x}$$
-$$b = 2 + \frac{12}{2}$$
-$$b = 8$$
-$$m_{\text{tangent}} = \frac{dy}{dx}$$
-$$\frac{dy}{dx} = 1 - \frac{12}{x^2}$$
-$$m_{\text{tangent}} = 1 - \frac{12}{2^2} = -2$$
-$$m_{\text{perp}} = \frac{1}{2}$$
-$$\text{Equation of perpendicular line:}$$
-$$y - y_1 = m(x - x_1)$$
-$$y - 8 = \frac{1}{2}(x - 2)$$
-$$y = \frac{1}{2}x + 7$$
+$$\text{Substitute } (2 \text{ ; } b) \text{ in } y = x + \frac{12}{x}b = 2 + \frac{12}{2}b = 8m_{\text{tangent}} = \frac{dy}{dx}\frac{dy}{dx} = 1 - \frac{12}{x^2}m_{\text{tangent}} = 1 - \frac{12}{2^2} = -2m_{\text{perp}} = \frac{1}{2}\text{Equation of perpendicular line:}y - y_1 = m(x - x_1)y - 8 = \frac{1}{2}(x - 2)y = \frac{1}{2}x + 7$$
 
 * $\checkmark \text{ value of } b$
 * $\checkmark \frac{dy}{dx} = 1 - \frac{12}{x^2}$
@@ -659,15 +489,10 @@ $$36\text{cm}$$
 ---
 
 **8.2**
-$$\therefore t = 6 \quad (-2t^2 + 3t - 6) \text{ have no real roots}$$
-$$\text{Insect reaches the floor only once.}$$
+$$\therefore t = 6 \quad (-2t^2 + 3t - 6) \text{ have no real roots}\text{Insect reaches the floor only once.}$$
 * $\checkmark\checkmark\checkmark \text{ only once}$ $(3)$
 
 ---
 
 **8.3**
-$$h(t) = -2t^3 + 15t^2 - 24t + 36$$
-$$h'(t) = -6t^2 + 30t - 24$$
-$$-6t^2 + 30t - 24 = 0$$
-$$t^2 - 5t + 4 = 0$$
-$$(t - 4)(t - 1)
+$$h(t) = -2t^3 + 15t^2 - 24t + 36h'(t) = -6t^2 + 30t - 24-6t^2 + 30t - 24 = 0t^2 - 5t + 4 = 0(t - 4)(t - 1)$$

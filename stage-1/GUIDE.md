@@ -15,14 +15,16 @@ python pipeline/download_dbe.py --dry-run
 python pipeline/download_dbe.py
 
 # ==============================================================================
-# PHASE 2: INGESTION (PDF -> TEXT)
+# PHASE 2: MULTIMODAL VISION INGESTION & TWO-PASS VERIFICATION (COMPLETED)
 # ==============================================================================
-python pipeline/ingest.py
+python pipeline/ingest_vision.py --pipeline-order
+python pipeline/sanitize_text.py
+python pipeline/verify_extractions.py
 
 # ==============================================================================
 # PHASE 2.5: ITEM EXTRACTION (QUESTIONS & MEMOS)
 # ==============================================================================
-python pipeline/extract_items.py
+python pipeline/extract_items.py --source <source_id>
 
 # ==============================================================================
 # PHASE 3: HELD-OUT EVALUATION BENCHMARK
@@ -93,11 +95,10 @@ gcloud run deploy koeberg-stage-1 \
 - 600 PDFs downloaded into `workspace/raw/dbe/` covering Grades 10–12 Mathematics, Physical Sciences, English, and Afrikaans.
 - All documents paired in `workspace/sources/sources.csv`.
 
-### Step 2: Extract Clean Text with PyMuPDF (Completed & Audited)
-- Run `python pipeline/ingest.py --skip-existing`.
-- Extracted all 600 exam documents into `workspace/text/` (**14,959,351 characters**, 0 errors).
-- Automatically detected and routed 4 DOCX files with `.pdf` URLs to `read_docx()`.
-- Zero API calls; ran 100% locally on CPU.
+### Step 2: Multimodal Vision Ingestion & Two-Pass Verification (Completed & Audited)
+- **Vision Extraction:** Ingested all 600 exam documents into `workspace/text/` using Gemini Multimodal Vision (**11,310,442 characters**, 354 KaTeX LaTeX documents, 1,005 geometric diagrams).
+- **Deterministic KaTeX Sanitizer:** Cleaned 137 files via `pipeline/sanitize_text.py`, eliminating empty `$$ $$` blocks and closing unclosed environments in 0.5s.
+- **Two-Pass Verification Audit:** Audited all 301 exam pairs via `pipeline/verify_extractions.py`, achieving **287 / 301 clean structural passes (95.3%)**, **47,299 KaTeX formulas**, and **1,005 verified diagrams**. Report persisted in `workspace/reports/extraction_verification_report.json`.
 
 ### Step 3: Segment into Structured Question-and-Answer Items
 - Run `python pipeline/extract_items.py --source <source_id>`.

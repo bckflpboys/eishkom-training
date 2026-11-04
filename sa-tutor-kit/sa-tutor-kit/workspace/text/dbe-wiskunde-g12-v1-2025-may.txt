@@ -226,15 +226,4 @@ Beskou die driesyfer-getalle vanaf 501 tot by 999.
 
 ### INLIGTINGSBLAD
 
-$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
-
-$$A = P(1 + ni)$$
-$$A = P(1 - ni)$$
-$$A = P(1 - i)^n$$
-$$A = P(1 + i)^n$$
-
-$$T_n = a + (n-1)d$$
-$$S_n = \frac{n}{2}[2a + (n-1)d]$$
-
-$$T_n = ar^{n-1}$$
-$$S_n = \frac{a(r^n - 
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}A = P(1 + ni)A = P(1 - ni)A = P(1 - i)^nA = P(1 + i)^nT_n = a + (n-1)dS_n = \frac{n}{2}[2a + (n-1)d]T_n = ar^{n-1}S_n = \frac{a(r^n -$$

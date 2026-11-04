@@ -88,9 +88,7 @@ $$\begin{array}{|c|c|c|}
 
 2.2 Twee graad 11-Wiskundeklasse het dieselfde getal leerders. Die vyf-getal-opsommings van die punte wat hierdie klasse vir 'n toets behaal het, word hieronder getoon.
 
-$$\text{KLAS A}\quad (30\,;\,48\,;\,65\,;\,82\,;\,90)$$
-
-$$\text{KLAS B}\quad (50\,;\,58\,;\,65\,;\,75\,;\,90)$$
+$$\text{KLAS A}\quad (30\,;\,48\,;\,65\,;\,82\,;\,90)\text{KLAS B}\quad (50\,;\,58\,;\,65\,;\,75\,;\,90)$$
 
 Die ouers van leerders in KLAS A en KLAS B neem waar dat abei klasse dieselfde mediaan en dieselfde maksimum punt het en beweer dus dat daar geen prestasieverskil tussen hierdie klasse is nie.
 

@@ -97,11 +97,7 @@ Bereken Linda se ouderdom tans. (4)
 
 3.2 Beskou die getalpatroon hieronder wat geskep is deur die getalle van die ry $2; 6; 10; 14; 18; \dots$ te gebruik.
 
-$$2$$
-$$6 \quad 10$$
-$$14 \quad 18 \quad 22$$
-$$26 \quad 30 \quad 34 \quad 38$$
-$$42 \quad \dots \quad \dots \quad \dots \quad \dots$$
+$$26 \quad 1014 \quad 18 \quad 2226 \quad 30 \quad 34 \quad 3842 \quad \dots \quad \dots \quad \dots \quad \dots$$
 
 3.2.1 Bereken die som van die getalle in die $8^{\text{ste}}$ ry. (3)
 

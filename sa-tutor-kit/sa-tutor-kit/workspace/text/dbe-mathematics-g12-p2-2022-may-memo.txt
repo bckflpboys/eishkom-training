@@ -63,9 +63,7 @@ $\checkmark\checkmark$ answer
 (2)
 
 1.5.1 
-$$\bar{x} = \frac{(6 \times 6) + (18 \times 8) + (21 \times 10) + (19 \times 12) + (11 \times 14) + (4 \times 16) + (1 \times 18)}{80}$$
-$$= \frac{854}{80}$$
-$$= 10,68$$
+$$\bar{x} = \frac{(6 \times 6) + (18 \times 8) + (21 \times 10) + (19 \times 12) + (11 \times 14) + (4 \times 16) + (1 \times 18)}{80}= \frac{854}{80}= 10,68$$
 $\checkmark 854$  
 $\checkmark$ answer  
 *(Answer only: $2/2$)*

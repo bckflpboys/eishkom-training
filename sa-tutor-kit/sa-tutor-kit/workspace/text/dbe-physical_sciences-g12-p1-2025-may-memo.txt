@@ -74,19 +74,12 @@ A body will remain in its state of **rest** or **motion at constant velocity** u
 | $\begin{aligned} F_{\text{net}} &= 0 \\ F_{\text{net}} &= ma \\ F_{g\parallel} - F - f_k &= ma \\ mg\sin\theta - F - f_k &= ma \\ 25(9,8)\sin30^\circ - F - 40 &= 25(0) \checkmark \\ F &= 82,5\text{ N} \checkmark \end{aligned}$ | $\begin{aligned} F_{\text{net}} &= 0 \\ F_{\text{net}} &= ma \\ -F_{g\parallel} + F + f_k &= ma \\ -mg\sin\theta + F + f_k &= ma \\ -25(9,8)\sin30^\circ + F + 40 &= 25(0) \checkmark \\ F &= 82,5\text{ N} \checkmark \end{aligned}$ |
 
 **OPTION 2 / OPSIE 2**  
-$$W_{\text{net}} = \Delta E_k$$
-$$W_F + W_f + W_{Fg} = 0$$
-$$F\Delta x \cos\theta + f\Delta x \cos\theta + mg\sin\theta\Delta x \cos\theta = 0$$
-$$F\cos180^\circ + 40\cos180^\circ + (25)(9,8)\sin30^\circ\cos0^\circ = 0 \checkmark$$
-$$F = 82,5\text{ N} \checkmark$$
+$$W_{\text{net}} = \Delta E_kW_F + W_f + W_{Fg} = 0F\Delta x \cos\theta + f\Delta x \cos\theta + mg\sin\theta\Delta x \cos\theta = 0F\cos180^\circ + 40\cos180^\circ + (25)(9,8)\sin30^\circ\cos0^\circ = 0 \checkmarkF = 82,5\text{ N} \checkmark$$
 *( $\checkmark$ Any one / Enige een)* (3)
 
 2.4 
 
-$$\begin{aligned} F_{\text{net}} &= 0 \\ F_{g\parallel} &= f \quad \checkmark \text{Any one / Enige een} \\ F_{g\parallel} - f &= F_{\text{net}} = 0 \end{aligned}$$
-$$\text{OR/OF } f = \mu_k N \checkmark$$
-$$mg\sin\theta \checkmark = \mu_k mg\cos\theta \checkmark \quad \text{OR/OF } \mu_k = \frac{mg\sin\theta}{mg\cos\theta} \checkmark$$
-$$\mu_k = \frac{\sin\theta}{\cos\theta}$$
+$$\begin{aligned} F_{\text{net}} &= 0 \\ F_{g\parallel} &= f \quad \checkmark \text{Any one / Enige een} \\ F_{g\parallel} - f &= F_{\text{net}} = 0 \end{aligned}\text{OR/OF } f = \mu_k N \checkmarkmg\sin\theta \checkmark = \mu_k mg\cos\theta \checkmark \quad \text{OR/OF } \mu_k = \frac{mg\sin\theta}{mg\cos\theta} \checkmark\mu_k = \frac{\sin\theta}{\cos\theta}$$
 *(NOTE: mark only awarded with correct substitution of $F_{g\parallel}$)* (3)
 
 2.5 
@@ -199,23 +192,14 @@ The **total (linear) momentum** in an **isolated system** is **conserved/remains
 *(Accept for 1 mark: In an isolated system the total momentum before a collision is equal to the total momentum after a collision.)* (2)
 
 4.2 
-$$\Delta x = v_i\Delta t + \frac{1}{2}a\Delta t^2$$
-$$0,8 = v_i(2) \checkmark$$
-$$v_i = 0,4\text{ m}\cdot\text{s}^{-1}$$
+$$\Delta x = v_i\Delta t + \frac{1}{2}a\Delta t^20,8 = v_i(2) \checkmarkv_i = 0,4\text{ m}\cdot\text{s}^{-1}$$
 
 **RIGHT AS + / REGS AS +**  
 **OPTION 1 / OPSIE 1**  
-$$\sum p_i = \sum p_f \quad \checkmark \text{Any one/Enige een}$$
-$$m_1v_{1i} + m_2v_{2i} = m_1v_{1f} + m_2v_{2f}$$
-$$m_1v_{1i} + m_2v_{2i} = (m_1 + m_2)v_f$$
-$$(2)v_{1i} + 0 \checkmark = (2 + 1,5)(0,4) \checkmark$$
-$$v_{1i} = 0,7\text{ m}\cdot\text{s}^{-1} \checkmark$$
+$$\sum p_i = \sum p_f \quad \checkmark \text{Any one/Enige een}m_1v_{1i} + m_2v_{2i} = m_1v_{1f} + m_2v_{2f}m_1v_{1i} + m_2v_{2i} = (m_1 + m_2)v_f(2)v_{1i} + 0 \checkmark = (2 + 1,5)(0,4) \checkmarkv_{1i} = 0,7\text{ m}\cdot\text{s}^{-1} \checkmark$$
 
 **OPTION 2 / OPSIE 2**  
-$$\Delta p_1 = -\Delta p_2 \quad \checkmark \text{Any one/Enige een}$$
-$$m(v_{1f} - v_{1i}) = -m(v_{2f} - v_{2i})$$
-$$2(0,4 - v_{1i}) \checkmark = -1,5(0,4 - 0) \checkmark$$
-$$v_{1i} = 0,7\text{ m}\cdot\text{s}^{-1} \checkmark$$ (5)
+$$\Delta p_1 = -\Delta p_2 \quad \checkmark \text{Any one/Enige een}m(v_{1f} - v_{1i}) = -m(v_{2f} - v_{2i})2(0,4 - v_{1i}) \checkmark = -1,5(0,4 - 0) \checkmarkv_{1i} = 0,7\text{ m}\cdot\text{s}^{-1} \checkmark$$ (5)
 
 4.3 Inelastic / Onelasties $\checkmark$ (1)
 
@@ -289,17 +273,10 @@ The **change in frequency (pitch)** of the sound detected by a listener because 
 A change in observed/detected frequency (pitch), as a result of the relative motion between a source and an observer (listener). $\checkmark\checkmark$ (3)
 
 6.2 
-$$v = f_L\lambda$$
-$$340 = f_L \times 0,016 \checkmark$$
-$$f_L = 21\text{ }250\text{ Hz}$$
-$$f_L = \frac{v \pm v_L}{v \pm v_s} f_s \quad \checkmark \text{OR/OF} \quad f_L = \frac{v}{v - v_s} f_s \quad \text{OR/OF} \quad f_L = \frac{v \pm v_L}{v \pm v_B} f_s$$
-$$21\text{ }250 \checkmark = \left(\frac{340 + 0}{340 - v_B}\right) f_s$$
-$$f_s = 21\text{ }250 - 62,5v_B$$ (4)
+$$v = f_L\lambda340 = f_L \times 0,016 \checkmarkf_L = 21\text{ }250\text{ Hz}f_L = \frac{v \pm v_L}{v \pm v_s} f_s \quad \checkmark \text{OR/OF} \quad f_L = \frac{v}{v - v_s} f_s \quad \text{OR/OF} \quad f_L = \frac{v \pm v_L}{v \pm v_B} f_s21\text{ }250 \checkmark = \left(\frac{340 + 0}{340 - v_B}\right) f_sf_s = 21\text{ }250 - 62,5v_B$$ (4)
 
 6.3 **POSITIVE MARKING FROM Q6.2 for $21\text{ }250\text{ Hz}$ for $f_s$**  
-$$f_L' = 21\text{ }250 - 62,5v_B + 850 = 22\text{ }100 - 62,5v_B \quad \checkmark \text{Any one/Enige een}$$
-$$[22\text{ }100 - 62,5v_B] = \frac{340 + v_B}{340 - 0}(21\text{ }250) \checkmark$$
-$$v_B = 6,8\text{ m}\cdot\text{s}^{-1} \checkmark$$ (5)  
+$$f_L' = 21\text{ }250 - 62,5v_B + 850 = 22\text{ }100 - 62,5v_B \quad \checkmark \text{Any one/Enige een}[22\text{ }100 - 62,5v_B] = \frac{340 + v_B}{340 - 0}(21\text{ }250) \checkmarkv_B = 6,8\text{ m}\cdot\text{s}^{-1} \checkmark$$ (5)  
 **[12]**
 
 ---
@@ -333,9 +310,7 @@ Accepted labels:
 *   $\mathbf{T}$: $F_T / \text{string} / \text{tension} / \text{spanning}$ $\checkmark$ (3)
 
 7.2.3 
-$$F = \frac{kQ_1Q_2}{r^2} \checkmark = \frac{(9 \times 10^9)(6 \times 10^{-9})(3 \times 10^{-9})}{0,03^2} \checkmark = 1,8 \times 10^{-4}\text{ N}$$
-$$w = mg = (1,5 \times 10^{-4})(9,8) = 1,47 \times 10^{-3}\text{ N}$$
-$$\tan\theta = \frac{F_E}{mg} = \frac{1,8 \times 10^{-4}}{1,47 \times 10^{-3}} \checkmark \implies \theta = 6,98^\circ \checkmark$$
+$$F = \frac{kQ_1Q_2}{r^2} \checkmark = \frac{(9 \times 10^9)(6 \times 10^{-9})(3 \times 10^{-9})}{0,03^2} \checkmark = 1,8 \times 10^{-4}\text{ N}w = mg = (1,5 \times 10^{-4})(9,8) = 1,47 \times 10^{-3}\text{ N}\tan\theta = \frac{F_E}{mg} = \frac{1,8 \times 10^{-4}}{1,47 \times 10^{-3}} \checkmark \implies \theta = 6,98^\circ \checkmark$$
 *(Alternatively solved via $T^2 = (F_E)^2 + (F_g)^2$, yielding $T = 1,481 \times 10^{-3}\text{ N}$, then $\cos\theta = \dots$)* (5)  
 **[13]**
 
@@ -356,14 +331,10 @@ The **potential difference (voltage) across a conductor** is **directly proporti
 (3)
 
 8.2.2 **POSITIVE MARKING FROM QUESTION 8.2.1**  
-$$V_p = V_{9\Omega}$$
-$$10,4 \checkmark = I_{9\Omega}(9) \checkmark \implies I_{9\Omega} = 1,16\text{ A}$$
-$$I_{\text{total}} = I_{13\Omega} + I_L + I_{9\Omega} = 0,8 + 1,09 + 1,16 \checkmark = 3,05\text{ A} \checkmark$$ (4)
+$$V_p = V_{9\Omega}10,4 \checkmark = I_{9\Omega}(9) \checkmark \implies I_{9\Omega} = 1,16\text{ A}I_{\text{total}} = I_{13\Omega} + I_L + I_{9\Omega} = 0,8 + 1,09 + 1,16 \checkmark = 3,05\text{ A} \checkmark$$ (4)
 
 8.2.3 **POSITIVE MARKING FROM Q 8.2.2**  
-$$\varepsilon = I(R + r) \implies 24 = V_{\text{ext}} + 3,05(0,3) \checkmark \implies V_{\text{ext}} = 23,09\text{ V}$$
-$$V_{\text{ext}} = V_p + V_R \implies 23,09 = 10,40 + V_R \checkmark \implies V_R = 12,69\text{ V}$$
-$$V = IR \implies 12,69 = (3,05)R \checkmark \implies R = 4,16\ \Omega \checkmark$$  
+$$\varepsilon = I(R + r) \implies 24 = V_{\text{ext}} + 3,05(0,3) \checkmark \implies V_{\text{ext}} = 23,09\text{ V}V_{\text{ext}} = V_p + V_R \implies 23,09 = 10,40 + V_R \checkmark \implies V_R = 12,69\text{ V}V = IR \implies 12,69 = (3,05)R \checkmark \implies R = 4,16\ \Omega \checkmark$$  
 *(Range: $4,157\ \Omega - 4,161\ \Omega$)* (5)
 
 8.3 Decreases / Neem af $\checkmark$  

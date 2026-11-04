@@ -10,9 +10,7 @@
 ## QUESTION/VRAAG 1
 
 1.1 
-$$a = -43,72$$
-$$b = 2,36$$
-$$y = -43,72 + 2,36x$$
+$$a = -43,72b = 2,36y = -43,72 + 2,36x$$
 
 * $\checkmark\ a = -43,72$
 * $\checkmark\ b = 2,36$
@@ -31,8 +29,7 @@ Scatter plot
 ---
 
 1.3 
-$$y = -43,72 + 2,36(110)$$
-$$y = 215,88$$
+$$y = -43,72 + 2,36(110)y = 215,88$$
 
 * $\checkmark\ \text{substitution}$
 * $\checkmark\ \text{answer}$
@@ -48,11 +45,7 @@ $$y = 215,90 \text{ (calculator)}$$
 ---
 
 1.4 
-$$y = -43,72 + 2,36(130)$$
-$$y = 263,08$$
-
-$$\text{Percentage increase in weight} = \frac{263,08 - 215,88}{215,88} \times 100$$
-$$= 21,86\%$$
+$$y = -43,72 + 2,36(130)y = 263,08\text{Percentage increase in weight} = \frac{263,08 - 215,88}{215,88} \times 100= 21,86\%$$
 
 * $\checkmark\ y\text{-value}$
 * $\checkmark\ \text{difference between } y\text{-values}$
@@ -61,11 +54,7 @@ $$= 21,86\%$$
 
 **OR**
 
-$$y = 263,08$$
-$$\text{Percentage} = \frac{263,08}{215,88} \times 100$$
-$$= 121,86\%$$
-
-$$\text{Percentage increase in weight} = 121,86 - 100 = 21,86\%$$
+$$y = 263,08\text{Percentage} = \frac{263,08}{215,88} \times 100= 121,86\%\text{Percentage increase in weight} = 121,86 - 100 = 21,86\%$$
 
 * $\checkmark\ y\text{-value}$
 * $\checkmark\ \text{difference between }\%$
@@ -106,10 +95,7 @@ Ogive / Ogief
 ---
 
 2.3 
-$$Q_3 = 17,8$$
-$$Q_1 = 11$$
-
-$$\text{IQR} = 6,8$$
+$$Q_3 = 17,8Q_1 = 11\text{IQR} = 6,8$$
 
 * $\checkmark\ Q_3 \text{ (accept between 17-19) and } Q_1 \text{ (accept between 10-12,5)}$
 * $\checkmark\ \text{answer (accept 5-9)}$
@@ -126,9 +112,7 @@ $$5 \le x < 10$$
 ---
 
 2.5 
-$$\text{Estimated mean} = \frac{2,5(3) + 7,5(11) + 12,5(20) + 17,5(8) + 22,5(5) + 27,5(3)}{50}$$
-$$= \frac{675}{50}$$
-$$= 13,5\text{ km}$$
+$$\text{Estimated mean} = \frac{2,5(3) + 7,5(11) + 12,5(20) + 17,5(8) + 22,5(5) + 27,5(3)}{50}= \frac{675}{50}= 13,5\text{ km}$$
 
 * $\checkmark\ \text{new frequencies}$
 * $\checkmark\ \sum fx$
@@ -142,19 +126,14 @@ $$= 13,5\text{ km}$$
 ## QUESTION/VRAAG 3
 
 3.1 
-$$y = kx + 3$$
-$$4 = k(3) + 3$$
-$$3k = 1$$
-$$\therefore k = \frac{1}{3}$$
+$$y = kx + 34 = k(3) + 33k = 1\therefore k = \frac{1}{3}$$
 
 * $\checkmark\ \text{substitution } (3; 4)$
 **(1)**
 
 **OR**
 
-$$\text{y-intercept of AB: } (0; 3)$$
-$$m_{\text{AB}} = \frac{4 - 3}{3 - 0} = \frac{1}{3}$$
-$$\therefore k = \frac{1}{3}$$
+$$\text{y-intercept of AB: } (0; 3)m_{\text{AB}} = \frac{4 - 3}{3 - 0} = \frac{1}{3}\therefore k = \frac{1}{3}$$
 
 * $\checkmark\ \text{substitution } (0; 3)$
 **(1)**
@@ -162,10 +141,7 @@ $$\therefore k = \frac{1}{3}$$
 ---
 
 3.2 
-$$0 = \frac{1}{3}x + 3$$
-$$-3 = \frac{1}{3}x$$
-$$x = -9$$
-$$B(-9; 0)$$
+$$0 = \frac{1}{3}x + 3-3 = \frac{1}{3}xx = -9B(-9; 0)$$
 
 * $\checkmark\ y = 0$
 * $\checkmark\ \text{answer}$
@@ -174,12 +150,7 @@ $$B(-9; 0)$$
 ---
 
 3.3 
-$$F(0; -2)$$
-$$F\left(\frac{x + 3}{2}; \frac{y + 4}{2}\right)$$
-
-$$\frac{x + 3}{2} = 0 \quad ; \quad \frac{y + 4}{2} = -2$$
-$$x = -3 \quad ; \quad y = -8$$
-$$C(-3; -8)$$
+$$F(0; -2)F\left(\frac{x + 3}{2}; \frac{y + 4}{2}\right)\frac{x + 3}{2} = 0 \quad ; \quad \frac{y + 4}{2} = -2x = -3 \quad ; \quad y = -8C(-3; -8)$$
 
 * $\checkmark\ F(0; -2)$
 * $\checkmark\ \frac{x + 3}{2} = 0 \quad ; \quad \frac{y + 4}{2} = -2$
@@ -189,9 +160,7 @@ $$C(-3; -8)$$
 
 **OR by translation**
 
-$$F(0; -2)$$
-$$A \rightarrow F(x; y) \rightarrow (x - 3; y - 6)$$
-$$F \rightarrow C(0; -2) \rightarrow (0 - 3; -2 - 6) = (-3; -8)$$
+$$F(0; -2)A \rightarrow F(x; y) \rightarrow (x - 3; y - 6)F \rightarrow C(0; -2) \rightarrow (0 - 3; -2 - 6) = (-3; -8)$$
 
 * $\checkmark\ F(0; -2)$
 * $\checkmark\ (x - 3; y - 6)$
@@ -202,12 +171,7 @@ $$F \rightarrow C(0; -2) \rightarrow (0 - 3; -2 - 6) = (-3; -8)$$
 ---
 
 3.4 
-$$m_{\text{BC}} = \frac{0 - (-8)}{-9 - (-3)} \quad \text{OR} \quad m_{\text{BC}} = \frac{-8 - 0}{-3 - (-9)}$$
-$$m_{\text{BC}} = -\frac{4}{3}$$
-$$y = -\frac{4}{3}x + c$$
-$$(-2) = -\frac{4}{3}(-15) + c$$
-$$c = -22$$
-$$y = -\frac{4}{3}x - 22$$
+$$m_{\text{BC}} = \frac{0 - (-8)}{-9 - (-3)} \quad \text{OR} \quad m_{\text{BC}} = \frac{-8 - 0}{-3 - (-9)}m_{\text{BC}} = -\frac{4}{3}y = -\frac{4}{3}x + c(-2) = -\frac{4}{3}(-15) + cc = -22y = -\frac{4}{3}x - 22$$
 
 * $\checkmark\ \text{substitution of B and C into the gradient formula}$
 * $\checkmark\ m_{\text{BC}}$
@@ -218,12 +182,7 @@ $$y = -\frac{4}{3}x - 22$$
 
 **OR**
 
-$$m_{\text{BC}} = \frac{0 - (-8)}{-9 - (-3)} \quad \text{OR} \quad m_{\text{BC}} = \frac{-8 - 0}{-3 - (-9)}$$
-$$m_{\text{BC}} = -\frac{4}{3}$$
-$$y - y_1 = m(x - x_1)$$
-$$y - (-2) = -\frac{4}{3}(x - (-15))$$
-$$y + 2 = -\frac{4}{3}x - 20$$
-$$y = -\frac{4}{3}x - 22$$
+$$m_{\text{BC}} = \frac{0 - (-8)}{-9 - (-3)} \quad \text{OR} \quad m_{\text{BC}} = \frac{-8 - 0}{-3 - (-9)}m_{\text{BC}} = -\frac{4}{3}y - y_1 = m(x - x_1)y - (-2) = -\frac{4}{3}(x - (-15))y + 2 = -\frac{4}{3}x - 20y = -\frac{4}{3}x - 22$$
 
 * $\checkmark\ \text{substitution into the gradient formula}$
 * $\checkmark\ m_{\text{BC}}$
@@ -235,13 +194,7 @@ $$y = -\frac{4}{3}x - 22$$
 ---
 
 3.5 
-$$\tan\alpha = m_{\text{AC}} = 2$$
-$$\alpha = 63,43^\circ$$
-$$\tan A\hat{B}D = m_{\text{AS}} = \frac{1}{3}$$
-$$A\hat{B}D = 18,43^\circ$$
-$$B\hat{A}C = \alpha - A\hat{B}D$$
-$$B\hat{A}C = 63,43^\circ - 18,43^\circ$$
-$$B\hat{A}C = 45^\circ$$
+$$\tan\alpha = m_{\text{AC}} = 2\alpha = 63,43^\circ\tan A\hat{B}D = m_{\text{AS}} = \frac{1}{3}A\hat{B}D = 18,43^\circB\hat{A}C = \alpha - A\hat{B}DB\hat{A}C = 63,43^\circ - 18,43^\circB\hat{A}C = 45^\circ$$
 
 * $\checkmark\ \tan\alpha = m_{\text{AC}} = 2$
 * $\checkmark\ \alpha = 63,43^\circ$
@@ -252,18 +205,7 @@ $$B\hat{A}C = 45^\circ$$
 
 **OR**
 
-$$\text{AB} = \sqrt{(-9 - 3)^2 + (0 - 4)^2}$$
-$$\text{AB} = 4\sqrt{10}$$
-
-$$\text{BD} = 10$$
-
-$$\text{AD} = \sqrt{(3 - 1)^2 + (4 - 0)^2}$$
-$$\text{AD} = 2\sqrt{5}$$
-
-$$\text{BD}^2 = \text{AB}^2 + \text{AD}^2 - 2\text{AB} \cdot \text{AD}\cos B\hat{A}C$$
-$$(10)^2 = (4\sqrt{10})^2 + (2\sqrt{5})^2 - 2(4\sqrt{10})(2\sqrt{5})\cos B\hat{A}C$$
-$$\cos B\hat{A}C = \frac{\sqrt{2}}{2}$$
-$$B\hat{A}C = 45^\circ$$
+$$\text{AB} = \sqrt{(-9 - 3)^2 + (0 - 4)^2}\text{AB} = 4\sqrt{10}\text{BD} = 10\text{AD} = \sqrt{(3 - 1)^2 + (4 - 0)^2}\text{AD} = 2\sqrt{5}\text{BD}^2 = \text{AB}^2 + \text{AD}^2 - 2\text{AB} \cdot \text{AD}\cos B\hat{A}C(10)^2 = (4\sqrt{10})^2 + (2\sqrt{5})^2 - 2(4\sqrt{10})(2\sqrt{5})\cos B\hat{A}C\cos B\hat{A}C = \frac{\sqrt{2}}{2}B\hat{A}C = 45^\circ$$
 
 * $\checkmark\ \text{length of AB}$
 * $\checkmark\ \text{calculation of remaining 2 lengths}$
@@ -275,16 +217,7 @@ $$B\hat{A}C = 45^\circ$$
 ---
 
 3.6 
-$$A(3; 4) \text{ and } S(-15; -2)$$
-
-$$\text{AS} = \sqrt{(x_A - x_S)^2 + (y_A - y_S)^2}$$
-$$\text{AS} = \sqrt{(3 - (-15))^2 + (4 - (-2))^2}$$
-$$\text{AS} = \sqrt{360} = 6\sqrt{10} = 18,97$$
-
-$$\frac{\text{Area of }\Delta\text{ABD}}{\text{Area of }\Delta\text{ASC}} = \frac{\frac{1}{2}(\text{BD})(\perp h)}{\frac{1}{2}(\text{AS})(\text{AC})\sin B\hat{A}C}$$
-
-$$\frac{\text{Area of }\Delta\text{ABD}}{\text{Area of }\Delta\text{ASC}} = \frac{\frac{1}{2}(10)(4)}{\frac{1}{2}(6\sqrt{10})(6\sqrt{5})\sin 45^\circ}$$
-$$= \frac{2}{9}$$
+$$A(3; 4) \text{ and } S(-15; -2)\text{AS} = \sqrt{(x_A - x_S)^2 + (y_A - y_S)^2}\text{AS} = \sqrt{(3 - (-15))^2 + (4 - (-2))^2}\text{AS} = \sqrt{360} = 6\sqrt{10} = 18,97\frac{\text{Area of }\Delta\text{ABD}}{\text{Area of }\Delta\text{ASC}} = \frac{\frac{1}{2}(\text{BD})(\perp h)}{\frac{1}{2}(\text{AS})(\text{AC})\sin B\hat{A}C}\frac{\text{Area of }\Delta\text{ABD}}{\text{Area of }\Delta\text{ASC}} = \frac{\frac{1}{2}(10)(4)}{\frac{1}{2}(6\sqrt{10})(6\sqrt{5})\sin 45^\circ}= \frac{2}{9}$$
 
 * $\checkmark\ \text{AS} = \sqrt{(3 - (-15))^2 + (4 - (-2))^2}$
 * $\checkmark\ \text{length of AS}$
@@ -295,14 +228,7 @@ $$= \frac{2}{9}$$
 
 **OR**
 
-$$\text{AS} = \sqrt{360} = 6\sqrt{10} = 18,97$$
-$$\text{AB} = \sqrt{(-9 - 3)^2 + (0 - 4)^2} = 4\sqrt{10}$$
-$$\text{AD} = \sqrt{(3 - 1)^2 + (4 - 0)^2} = 2\sqrt{5}$$
-
-$$\frac{\text{Area of }\Delta\text{ABD}}{\text{Area of }\Delta\text{ASC}} = \frac{\frac{1}{2}(\text{AB})(\text{AD})\sin\hat{A}}{\frac{1}{2}(\text{AS})(\text{AC})\sin\hat{A}}$$
-
-$$= \frac{\frac{1}{2}(4\sqrt{10})(2\sqrt{5})\sin\hat{A}}{\frac{1}{2}(6\sqrt{10})(6\sqrt{5})\sin\hat{A}}$$
-$$= \frac{2}{9}$$
+$$\text{AS} = \sqrt{360} = 6\sqrt{10} = 18,97\text{AB} = \sqrt{(-9 - 3)^2 + (0 - 4)^2} = 4\sqrt{10}\text{AD} = \sqrt{(3 - 1)^2 + (4 - 0)^2} = 2\sqrt{5}\frac{\text{Area of }\Delta\text{ABD}}{\text{Area of }\Delta\text{ASC}} = \frac{\frac{1}{2}(\text{AB})(\text{AD})\sin\hat{A}}{\frac{1}{2}(\text{AS})(\text{AC})\sin\hat{A}}= \frac{\frac{1}{2}(4\sqrt{10})(2\sqrt{5})\sin\hat{A}}{\frac{1}{2}(6\sqrt{10})(6\sqrt{5})\sin\hat{A}}= \frac{2}{9}$$
 
 * $\checkmark\ \text{AS} = \sqrt{(3 - (-15))^2 + (4 - (-2))^2}$
 * $\checkmark\ \text{length of AS}$
@@ -318,8 +244,7 @@ $$= \frac{2}{9}$$
 ## QUESTION/VRAAG 4
 
 4.1 
-$$E\left(\frac{5 + (-3)}{2}; \frac{1 + (-3)}{2}\right)$$
-$$\therefore E(1; -1)$$
+$$E\left(\frac{5 + (-3)}{2}; \frac{1 + (-3)}{2}\right)\therefore E(1; -1)$$
 
 * $\checkmark\ x = 1$
 * $\checkmark\ y = -1$
@@ -328,8 +253,7 @@ $$\therefore E(1; -1)$$
 ---
 
 4.2 
-$$\text{AB} = \sqrt{(5 - (-3))^2 + (1 - (-3))^2}$$
-$$\text{AB} = \sqrt{80} = 4\sqrt{5} = 8,94\text{ units}$$
+$$\text{AB} = \sqrt{(5 - (-3))^2 + (1 - (-3))^2}\text{AB} = \sqrt{80} = 4\sqrt{5} = 8,94\text{ units}$$
 
 * $\checkmark\ \text{AB} = \sqrt{80} = 4\sqrt{5} = 8,94$
 **(1)**
@@ -337,21 +261,11 @@ $$\text{AB} = \sqrt{80} = 4\sqrt{5} = 8,94\text{ units}$$
 ---
 
 4.3 
-$$m_{\text{AB}} = \frac{1 - (-3)}{5 - (-3)}$$
-$$m_{\text{AB}} = \frac{1}{2}$$
-$$\therefore m_{\text{CE}} = -2 \quad [CE \perp AB]$$
-$$E(1; -1)$$
-
-$$y = -2x + c$$
-$$(-1) = -2(1) + c$$
-$$c = 1$$
-$$y = -2x + 1$$
+$$m_{\text{AB}} = \frac{1 - (-3)}{5 - (-3)}m_{\text{AB}} = \frac{1}{2}\therefore m_{\text{CE}} = -2 \quad [CE \perp AB]E(1; -1)y = -2x + c(-1) = -2(1) + cc = 1y = -2x + 1$$
 
 **OR**
 
-$$y - y_1 = -2(x - x_1)$$
-$$y - (-1) = -2(x - 1)$$
-$$y = -2x + 1$$
+$$y - y_1 = -2(x - x_1)y - (-1) = -2(x - 1)y = -2x + 1$$
 
 * $\checkmark\ m_{\text{AB}} = \frac{1}{2}$
 * $\checkmark\ m_{\text{CE}}$
@@ -362,19 +276,14 @@ $$y = -2x + 1$$
 ---
 
 4.4 
-$$y = -2x + 1$$
-$$p = -2(2) + 1$$
-$$p = -3$$
+$$y = -2x + 1p = -2(2) + 1p = -3$$
 
 * $\checkmark\ \text{substitution of } C(2; p) \text{ into } \perp \text{ bisector of AB}$
 **(1)**
 
 **OR**
 
-$$m_{\text{CE}} = -2$$
-$$\frac{p - (-1)}{2 - 1} = -2$$
-$$p + 1 = -2$$
-$$p = -3$$
+$$m_{\text{CE}} = -2\frac{p - (-1)}{2 - 1} = -2p + 1 = -2p = -3$$
 
 * $\checkmark\ \text{substitution of C and E into the gradient formula}$
 **(1)**
@@ -382,11 +291,7 @@ $$p = -3$$
 ---
 
 4.5 
-$$\text{BC} = r = 5\text{ units}$$
-
-$$\therefore (x - 2)^2 + (y + 3)^2 = 25$$
-$$x^2 - 4x + 4 + y^2 + 6y + 9 = 25$$
-$$x^2 + y^2 - 4x + 6y - 12 = 0$$
+$$\text{BC} = r = 5\text{ units}\therefore (x - 2)^2 + (y + 3)^2 = 25x^2 - 4x + 4 + y^2 + 6y + 9 = 25x^2 + y^2 - 4x + 6y - 12 = 0$$
 
 * $\checkmark\ \text{BC} = r = 5\text{ units}$
 * $\checkmark\ (x - 2)^2 + (y + 3)^2$
@@ -397,22 +302,7 @@ $$x^2 + y^2 - 4x + 6y - 12 = 0$$
 ---
 
 4.6 
-$$(x - 2)^2 + (y + 3)^2 = 25 \quad \text{OR} \quad x^2 + y^2 - 4x + 6y - 12 = 0$$
-$$y = tx + 8$$
-$$(x - 2)^2 + (tx + 8 + 3)^2 = 25 \quad \text{OR} \quad x^2 + (tx + 8)^2 - 4x + 6(tx + 8) - 12 = 0$$
-$$x^2 - 4x + 4 + t^2x^2 + 22tx + 121 = 25 \quad \text{OR} \quad x^2 + t^2x^2 + 16tx + 64 - 4x + 6tx + 48 - 12 = 0$$
-$$x^2(t^2 + 1) + x(22t - 4) + 100 = 0$$
-
-$$\Delta < 0$$
-$$(22t - 4)^2 - 4(t^2 + 1)(100) < 0$$
-$$484t^2 - 176t + 16 - 400t^2 - 400 < 0$$
-$$84t^2 - 176t - 384 < 0$$
-$$21t^2 - 44t - 96 < 0$$
-$$(7t - 24)(3t + 4) < 0$$
-
-$$\text{CV: } -\frac{4}{3} ; \frac{24}{7}$$
-
-$$\therefore t \in \left(-\frac{4}{3}; \frac{24}{7}\right) \quad \text{OR} \quad -\frac{4}{3} < t < \frac{24}{7}$$
+$$(x - 2)^2 + (y + 3)^2 = 25 \quad \text{OR} \quad x^2 + y^2 - 4x + 6y - 12 = 0y = tx + 8(x - 2)^2 + (tx + 8 + 3)^2 = 25 \quad \text{OR} \quad x^2 + (tx + 8)^2 - 4x + 6(tx + 8) - 12 = 0x^2 - 4x + 4 + t^2x^2 + 22tx + 121 = 25 \quad \text{OR} \quad x^2 + t^2x^2 + 16tx + 64 - 4x + 6tx + 48 - 12 = 0x^2(t^2 + 1) + x(22t - 4) + 100 = 0\Delta < 0(22t - 4)^2 - 4(t^2 + 1)(100) < 0484t^2 - 176t + 16 - 400t^2 - 400 < 084t^2 - 176t - 384 < 021t^2 - 44t - 96 < 0(7t - 24)(3t + 4) < 0\text{CV: } -\frac{4}{3} ; \frac{24}{7}\therefore t \in \left(-\frac{4}{3}; \frac{24}{7}\right) \quad \text{OR} \quad -\frac{4}{3} < t < \frac{24}{7}$$
 
 * $\checkmark\ \text{substitution of } y = tx + 8$
 * $\checkmark\ \text{standard form}$
@@ -456,9 +346,7 @@ $$\cos(-80^\circ) = \cos 80^\circ = 1 - 2\sin^2 40^\circ = 1 - 2p^2$$
 
 **OR**
 
-$$\cos(-80^\circ) = \cos 80^\circ = \cos(30^\circ + 50^\circ)$$
-$$= \cos 30^\circ \cos 50^\circ - \sin 30^\circ \sin 50^\circ$$
-$$= \frac{\sqrt{3}}{2}p - \frac{1}{2}\sqrt{1 - p^2}$$
+$$\cos(-80^\circ) = \cos 80^\circ = \cos(30^\circ + 50^\circ)= \cos 30^\circ \cos 50^\circ - \sin 30^\circ \sin 50^\circ= \frac{\sqrt{3}}{2}p - \frac{1}{2}\sqrt{1 - p^2}$$
 
 * $\checkmark\ \cos 80^\circ$
 * $\checkmark\ \text{expansion}$
@@ -468,11 +356,7 @@ $$= \frac{\sqrt{3}}{2}p - \frac{1}{2}\sqrt{1 - p^2}$$
 ---
 
 5.2.1 
-$$\text{LHS} = \tan x(1 - \cos^2 x) + \cos^2 x$$
-$$= \frac{\sin x}{\cos x}(\sin^2 x) + \cos^2 x$$
-$$= \frac{\sin^3 x + \cos^3 x}{\cos x}$$
-$$= \frac{(\sin x + \cos x)(\sin^2 x - \sin x\cos x + \cos^2 x)}{\cos x}$$
-$$= \frac{(\sin x + \cos x)(1 - \sin x\cos x)}{\cos x} = \text{RHS}$$
+$$\text{LHS} = \tan x(1 - \cos^2 x) + \cos^2 x= \frac{\sin x}{\cos x}(\sin^2 x) + \cos^2 x= \frac{\sin^3 x + \cos^3 x}{\cos x}= \frac{(\sin x + \cos x)(\sin^2 x - \sin x\cos x + \cos^2 x)}{\cos x}= \frac{(\sin x + \cos x)(1 - \sin x\cos x)}{\cos x} = \text{RHS}$$
 
 * $\checkmark\ \frac{\sin x}{\cos x} \quad \checkmark\ \sin^2 x$
 * $\checkmark\ \text{simplification}$
@@ -482,13 +366,7 @@ $$= \frac{(\sin x + \cos x)(1 - \sin x\cos x)}{\cos x} = \text{RHS}$$
 
 **OR**
 
-$$\text{RHS} = \frac{(\sin x + \cos x)(1 - \sin x\cos x)}{\cos x}$$
-$$= \frac{\sin x - \sin^2 x\cos x + \cos x - \sin x\cos^2 x}{\cos x}$$
-$$= \tan x - \sin^2 x + 1 - \sin x\cos x$$
-$$= \tan x + \cos^2 x - \sin x\cos x$$
-$$= \tan x\left(1 - \frac{\sin x\cos x}{\tan x} + \cos^2 x\right)$$
-$$= \tan x\left(1 - \frac{\sin x\cos x}{\frac{\sin x}{\cos x}} + \cos^2 x\right)$$
-$$= \tan x(1 - \cos^2 x) + \cos^2 x = \text{LHS}$$
+$$\text{RHS} = \frac{(\sin x + \cos x)(1 - \sin x\cos x)}{\cos x}= \frac{\sin x - \sin^2 x\cos x + \cos x - \sin x\cos^2 x}{\cos x}= \tan x - \sin^2 x + 1 - \sin x\cos x= \tan x + \cos^2 x - \sin x\cos x= \tan x\left(1 - \frac{\sin x\cos x}{\tan x} + \cos^2 x\right)= \tan x\left(1 - \frac{\sin x\cos x}{\frac{\sin x}{\cos x}} + \cos^2 x\right)= \tan x(1 - \cos^2 x) + \cos^2 x = \text{LHS}$$
 
 * $\checkmark\ \text{multiplication}$
 * $\checkmark\ \div \text{ by } \cos x$
@@ -500,9 +378,7 @@ $$= \tan x(1 - \cos^2 x) + \cos^2 x = \text{LHS}$$
 ---
 
 5.2.2 
-$$\cos x = 0 \text{ or where } \tan x \text{ is undefined}$$
-$$x = 90^\circ + k.360^\circ \quad \text{or} \quad x = 270^\circ + k.360^\circ$$
-$$x = 90^\circ \quad \text{or} \quad x = -90^\circ$$
+$$\cos x = 0 \text{ or where } \tan x \text{ is undefined}x = 90^\circ + k.360^\circ \quad \text{or} \quad x = 270^\circ + k.360^\circx = 90^\circ \quad \text{or} \quad x = -90^\circ$$
 
 * $\checkmark\ \cos x = 0 \text{ or tan } x \text{ undefined}$
 * $\checkmark\ x = 90^\circ$
@@ -512,12 +388,7 @@ $$x = 90^\circ \quad \text{or} \quad x = -90^\circ$$
 ---
 
 5.3.1 
-$$\frac{\sin 150^\circ + \cos^2 x - 1}{2}$$
-$$= \frac{\sin 30^\circ + \cos^2 x - 1}{2}$$
-$$= \frac{\frac{1}{2} - (1 - \cos^2 x)}{2}$$
-$$= \frac{\left(\frac{1}{2} - \sin^2 x\right)}{\frac{1}{2}}$$
-$$= \frac{1 - 2\sin^2 x}{4}$$
-$$= \frac{\cos 2x}{4}$$
+$$\frac{\sin 150^\circ + \cos^2 x - 1}{2}= \frac{\sin 30^\circ + \cos^2 x - 1}{2}= \frac{\frac{1}{2} - (1 - \cos^2 x)}{2}= \frac{\left(\frac{1}{2} - \sin^2 x\right)}{\frac{1}{2}}= \frac{1 - 2\sin^2 x}{4}= \frac{\cos 2x}{4}$$
 
 * $\checkmark\ \sin 30^\circ$
 * $\checkmark\ \sin 30^\circ = \frac{1}{2} \quad \checkmark\ \text{factor}$
@@ -529,13 +400,7 @@ $$= \frac{\cos 2x}{4}$$
 ---
 
 5.3.2 
-$$\frac{\sin 150^\circ + \cos^2 x - 1}{2} = \frac{1}{25}$$
-$$\frac{\cos 2x}{4} = \frac{1}{25}$$
-$$\cos 2x = \frac{4}{25}$$
-$$\text{ref}\angle = 80,79\dots^\circ$$
-
-$$2x = 80,79\dots^\circ + k.360^\circ \quad \text{or} \quad 2x = 279,20\dots^\circ + k.360^\circ$$
-$$x = 40,40^\circ + k.180^\circ \quad \text{or} \quad x = 139,60^\circ + k.180^\circ ; k \in \mathbb{Z}$$
+$$\frac{\sin 150^\circ + \cos^2 x - 1}{2} = \frac{1}{25}\frac{\cos 2x}{4} = \frac{1}{25}\cos 2x = \frac{4}{25}\text{ref}\angle = 80,79\dots^\circ2x = 80,79\dots^\circ + k.360^\circ \quad \text{or} \quad 2x = 279,20\dots^\circ + k.360^\circx = 40,40^\circ + k.180^\circ \quad \text{or} \quad x = 139,60^\circ + k.180^\circ ; k \in \mathbb{Z}$$
 
 * $\checkmark\ \text{answer } 5.3.1 = \frac{1}{25}$
 * $\checkmark\ 2x = 80,79^\circ$
@@ -546,14 +411,7 @@ $$x = 40,40^\circ + k.180^\circ \quad \text{or} \quad x = 139,60^\circ + k.180^\
 
 **OR**
 
-$$\frac{\sin 150^\circ + \cos^2 x - 1}{2} = \frac{1}{25}$$
-$$\sin 150^\circ + \cos^2 x - 1 = \frac{2}{25}$$
-$$\sin 30^\circ + \cos^2 x - 1 = \frac{2}{25}$$
-$$\cos^2 x = \frac{29}{50}$$
-$$\cos x = \pm\sqrt{\frac{29}{50}}$$
-
-$$x = 40,40^\circ + k.360^\circ \quad \text{or} \quad x = 319,60^\circ + k.360^\circ$$
-$$\text{or} \quad x = 139,60^\circ + k.360^\circ \quad \text{or} \quad x = 220,40^\circ + k.360^\circ ; k \in \mathbb{Z}$$
+$$\frac{\sin 150^\circ + \cos^2 x - 1}{2} = \frac{1}{25}\sin 150^\circ + \cos^2 x - 1 = \frac{2}{25}\sin 30^\circ + \cos^2 x - 1 = \frac{2}{25}\cos^2 x = \frac{29}{50}\cos x = \pm\sqrt{\frac{29}{50}}x = 40,40^\circ + k.360^\circ \quad \text{or} \quad x = 319,60^\circ + k.360^\circ\text{or} \quad x = 139,60^\circ + k.360^\circ \quad \text{or} \quad x = 220,40^\circ + k.360^\circ ; k \in \mathbb{Z}$$
 
 * $\checkmark\ \cos^2 x = \frac{29}{50}$
 * $\checkmark\ x = 40,40^\circ \quad \checkmark\ x = 139,60^\circ$
@@ -592,12 +450,7 @@ $$a = -45^\circ$$
 ---
 
 6.4 
-$$\sin 2x = k$$
-
-$$k = \sin(2 \times 165^\circ) \quad \text{OR} \quad k = \sin(2 \times (-75^\circ))$$
-$$k = \sin 330^\circ \quad k = \sin(-150^\circ)$$
-$$k = -\sin 30^\circ$$
-$$k = -\frac{1}{2}$$
+$$\sin 2x = kk = \sin(2 \times 165^\circ) \quad \text{OR} \quad k = \sin(2 \times (-75^\circ))k = \sin 330^\circ \quad k = \sin(-150^\circ)k = -\sin 30^\circk = -\frac{1}{2}$$
 
 * $\checkmark\ -\sin 30^\circ$
 * $\checkmark\ -\frac{1}{2}$
@@ -605,10 +458,7 @@ $$k = -\frac{1}{2}$$
 
 **OR**
 
-$$k = \cos(165^\circ - 45^\circ) \quad \text{OR} \quad k = \cos(-75^\circ - 45^\circ)$$
-$$k = \cos 120^\circ \quad k = \cos(-120^\circ)$$
-$$k = -\cos 60^\circ$$
-$$k = -\frac{1}{2}$$
+$$k = \cos(165^\circ - 45^\circ) \quad \text{OR} \quad k = \cos(-75^\circ - 45^\circ)k = \cos 120^\circ \quad k = \cos(-120^\circ)k = -\cos 60^\circk = -\frac{1}{2}$$
 
 * $\checkmark\ -\cos 60^\circ$
 * $\checkmark\ -\frac{1}{2}$
@@ -617,8 +467,7 @@ $$k = -\frac{1}{2}$$
 ---
 
 6.5 
-$$\text{Points of intersection are translated } 60^\circ \text{ to the left}$$
-$$x = -15^\circ$$
+$$\text{Points of intersection are translated } 60^\circ \text{ to the left}x = -15^\circ$$
 
 * $\checkmark\ x = -15^\circ$
 **(1)**
@@ -626,12 +475,7 @@ $$x = -15^\circ$$
 ---
 
 6.6 
-$$\sqrt{2}\sin 2x = \sin x + \cos x$$
-$$\sin 2x = \frac{1}{\sqrt{2}}\sin x + \frac{1}{\sqrt{2}}\cos x$$
-$$\sin 2x = \sin 45^\circ \sin x + \cos 45^\circ \cos x$$
-$$\sin 2x = \cos(45^\circ - x) \quad \text{OR} \quad \sin 2x = \cos(x - 45^\circ)$$
-
-$$\therefore 2 \text{ roots in the interval } x \in [-90^\circ; 90^\circ]$$
+$$\sqrt{2}\sin 2x = \sin x + \cos x\sin 2x = \frac{1}{\sqrt{2}}\sin x + \frac{1}{\sqrt{2}}\cos x\sin 2x = \sin 45^\circ \sin x + \cos 45^\circ \cos x\sin 2x = \cos(45^\circ - x) \quad \text{OR} \quad \sin 2x = \cos(x - 45^\circ)\therefore 2 \text{ roots in the interval } x \in [-90^\circ; 90^\circ]$$
 
 * $\checkmark\ \text{division by } \sqrt{2}$
 * $\checkmark\ \text{special angles}$
@@ -648,8 +492,7 @@ $$\therefore 2 \text{ roots in the interval } x \in [-90^\circ; 90^\circ]$$
 7.1
 
 7.1.1 
-$$\sin\hat{B} = \frac{\text{AD}}{\text{AB}}$$
-$$\text{AD} = \text{AB}\sin\hat{B}$$
+$$\sin\hat{B} = \frac{\text{AD}}{\text{AB}}\text{AD} = \text{AB}\sin\hat{B}$$
 
 * $\checkmark\ \sin\hat{B} = \frac{\text{AD}}{\text{AB}}$
 * $\checkmark\ \text{answer}$
@@ -658,8 +501,7 @@ $$\text{AD} = \text{AB}\sin\hat{B}$$
 ---
 
 7.1.2 
-$$\text{Area of }\Delta\text{ABC} = \frac{1}{2}(\text{BC})(\text{AD})$$
-$$\therefore \text{Area of }\Delta\text{ABC} = \frac{1}{2}(\text{BC})(\text{AB})\sin\hat{B}$$
+$$\text{Area of }\Delta\text{ABC} = \frac{1}{2}(\text{BC})(\text{AD})\therefore \text{Area of }\Delta\text{ABC} = \frac{1}{2}(\text{BC})(\text{AB})\sin\hat{B}$$
 
 * $\checkmark\ \frac{1}{2}(\text{BC})(\text{AD})$
 **(1)**
@@ -669,9 +511,7 @@ $$\therefore \text{Area of }\Delta\text{ABC} = \frac{1}{2}(\text{BC})(\text{AB})
 7.2
 
 7.2.1 
-$$\text{In }\Delta\text{ADB:} \quad \sin\alpha = \frac{\text{AB}}{\text{AD}} \implies \text{AD} = \frac{\text{AB}}{\sin\alpha}$$
-$$\text{In }\Delta\text{ABC:} \quad \sin\alpha = \frac{\text{AB}}{\text{AC}} \implies \text{AC} = \frac{\text{AB}}{\sin\alpha}$$
-$$\text{AD} = \text{AC}$$
+$$\text{In }\Delta\text{ADB:} \quad \sin\alpha = \frac{\text{AB}}{\text{AD}} \implies \text{AD} = \frac{\text{AB}}{\sin\alpha}\text{In }\Delta\text{ABC:} \quad \sin\alpha = \frac{\text{AB}}{\text{AC}} \implies \text{AC} = \frac{\text{AB}}{\sin\alpha}\text{AD} = \text{AC}$$
 
 * $\checkmark\ \sin\alpha = \frac{\text{AB}}{\text{AD}}$
 * $\checkmark\ \sin\alpha = \frac{\text{AB}}{\text{AC}}$
@@ -679,23 +519,14 @@ $$\text{AD} = \text{AC}$$
 
 **OR**
 
-$$\text{In }\Delta\text{ADB} \text{ and } \Delta\text{ACB}$$
-$$\text{AB} = \text{AB} \quad [\text{common side}]$$
-$$A\hat{D}B = A\hat{C}B = 90^\circ \quad [\text{given}]$$
-$$\text{BD} = \text{BC} \quad [\text{given}]$$
-$$\Delta\text{ADB} \equiv \Delta\text{ACB} \quad [\text{S}\angle\text{S}]$$
-$$\therefore \text{AD} = \text{AC}$$
+$$\text{In }\Delta\text{ADB} \text{ and } \Delta\text{ACB}\text{AB} = \text{AB} \quad [\text{common side}]A\hat{D}B = A\hat{C}B = 90^\circ \quad [\text{given}]\text{BD} = \text{BC} \quad [\text{given}]\Delta\text{ADB} \equiv \Delta\text{ACB} \quad [\text{S}\angle\text{S}]\therefore \text{AD} = \text{AC}$$
 
 * $\checkmark\ \Delta\text{ADB} \equiv \Delta\text{ACB} \quad \checkmark\ \text{R}$
 **(2)**
 
 **OR**
 
-$$\text{AD}^2 = \text{AB}^2 + \text{DB}^2 \quad [\text{Pythagoras}]$$
-$$\text{AC}^2 = \text{AB}^2 + \text{BC}^2 \quad [\text{Pythagoras}]$$
-$$\text{But DB} = \text{BC} \quad [\text{given}]$$
-$$\therefore \text{AD}^2 = \text{AC}^2$$
-$$\therefore \text{AD} = \text{AC}$$
+$$\text{AD}^2 = \text{AB}^2 + \text{DB}^2 \quad [\text{Pythagoras}]\text{AC}^2 = \text{AB}^2 + \text{BC}^2 \quad [\text{Pythagoras}]\text{But DB} = \text{BC} \quad [\text{given}]\therefore \text{AD}^2 = \text{AC}^2\therefore \text{AD} = \text{AC}$$
 
 * $\checkmark\ \text{both Pythagoras statements}$
 * $\checkmark\ \text{DB} = \text{BC}$
@@ -704,10 +535,7 @@ $$\therefore \text{AD} = \text{AC}$$
 ---
 
 7.2.2 
-$$\frac{\text{BD}}{\sin\theta} = \frac{k}{\sin(180^\circ - 2\theta)}$$
-$$\text{BD} = \frac{k\sin\theta}{\sin 2\theta}$$
-$$\text{BD} = \frac{k\sin\theta}{2\sin\theta\cos\theta}$$
-$$\text{BD} = \frac{k}{2\cos\theta}$$
+$$\frac{\text{BD}}{\sin\theta} = \frac{k}{\sin(180^\circ - 2\theta)}\text{BD} = \frac{k\sin\theta}{\sin 2\theta}\text{BD} = \frac{k\sin\theta}{2\sin\theta\cos\theta}\text{BD} = \frac{k}{2\cos\theta}$$
 
 * $\checkmark\ \text{substitution of } (180^\circ - 2\theta) \text{ into sine rule}$
 * $\checkmark\ \text{reduction}$
@@ -716,8 +544,4 @@ $$\text{BD} = \frac{k}{2\cos\theta}$$
 
 **OR**
 
-$$\text{BC}^2 = k^2 + \text{BD}^2 - 2k(\text{BD})\cos\theta$$
-$$\text{BD}^2 = k^2 + \text{BD}^2 - 2k(\text{BD})\cos\theta$$
-$$k^2 - 2k(\text{BD})\cos\theta = 0$$
-$$2k(\text{BD})\cos\theta = k^2$$
-$$\therefore \text{
+$$\text{BC}^2 = k^2 + \text{BD}^2 - 2k(\text{BD})\cos\theta\text{BD}^2 = k^2 + \text{BD}^2 - 2k(\text{BD})\cos\thetak^2 - 2k(\text{BD})\cos\theta = 02k(\text{BD})\cos\theta = k^2\therefore \text{$$

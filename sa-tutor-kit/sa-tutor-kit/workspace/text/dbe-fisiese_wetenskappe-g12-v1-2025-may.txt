@@ -438,65 +438,22 @@ Gee 'n rede vir die antwoord. (2)
 **TABLE 2: FORMULAE**
 
 **MOTION / BEWEGING**
-$$v_f = v_i + a\Delta t$$
-$$\Delta x = v_i\Delta t + \frac{1}{2}a\Delta t^2 \quad \text{or/of} \quad \Delta y = v_i\Delta t + \frac{1}{2}a\Delta t^2$$
-$$v_f^2 = v_i^2 + 2a\Delta x \quad \text{or/of} \quad v_f^2 = v_i^2 + 2a\Delta y$$
-$$\Delta x = \left(\frac{v_i + v_f}{2}\right)\Delta t \quad \text{or/of} \quad \Delta y = \left(\frac{v_i + v_f}{2}\right)\Delta t$$
+$$v_f = v_i + a\Delta t\Delta x = v_i\Delta t + \frac{1}{2}a\Delta t^2 \quad \text{or/of} \quad \Delta y = v_i\Delta t + \frac{1}{2}a\Delta t^2v_f^2 = v_i^2 + 2a\Delta x \quad \text{or/of} \quad v_f^2 = v_i^2 + 2a\Delta y\Delta x = \left(\frac{v_i + v_f}{2}\right)\Delta t \quad \text{or/of} \quad \Delta y = \left(\frac{v_i + v_f}{2}\right)\Delta t$$
 
 **FORCE / KRAG**
-$$F_{\text{net}} = ma$$
-$$p = mv$$
-$$f_s^{\text{max}} = \mu_s N$$
-$$f_k = \mu_k N$$
-$$F_{\text{net}}\Delta t = \Delta p$$
-$$\Delta p = mv_f - mv_i$$
-$$w = mg$$
-$$F = G\frac{m_1 m_2}{d^2} \quad \text{or/of} \quad g = G\frac{M}{d^2}$$
+$$F_{\text{net}} = map = mvf_s^{\text{max}} = \mu_s Nf_k = \mu_k NF_{\text{net}}\Delta t = \Delta p\Delta p = mv_f - mv_iw = mgF = G\frac{m_1 m_2}{d^2} \quad \text{or/of} \quad g = G\frac{M}{d^2}$$
 
 **WORK, ENERGY AND POWER / ARBEID, ENERGIE EN DRYWING**
-$$W = F\Delta x \cos\theta$$
-$$U = mgh \quad \text{or/of} \quad E_p = mgh$$
-$$K = \frac{1}{2}mv^2 \quad \text{or/of} \quad E_k = \frac{1}{2}mv^2$$
-$$W_{\text{net}} = \Delta K \quad \text{or/of} \quad W_{\text{net}} = \Delta E_k$$
-$$\Delta K = K_f - K_i \quad \text{or/of} \quad \Delta E_k = E_{kf} - E_{ki}$$
-$$W_{\text{nc}} = \Delta K + \Delta U \quad \text{or/of} \quad W_{\text{nc}} = \Delta E_k + \Delta E_p$$
-$$P = \frac{W}{\Delta t}$$
-$$P_{\text{ave}} = Fv_{\text{ave}} \quad \text{or/of} \quad P_{\text{gemid}} = Fv_{\text{gemid}}$$
+$$W = F\Delta x \cos\thetaU = mgh \quad \text{or/of} \quad E_p = mghK = \frac{1}{2}mv^2 \quad \text{or/of} \quad E_k = \frac{1}{2}mv^2W_{\text{net}} = \Delta K \quad \text{or/of} \quad W_{\text{net}} = \Delta E_k\Delta K = K_f - K_i \quad \text{or/of} \quad \Delta E_k = E_{kf} - E_{ki}W_{\text{nc}} = \Delta K + \Delta U \quad \text{or/of} \quad W_{\text{nc}} = \Delta E_k + \Delta E_pP = \frac{W}{\Delta t}P_{\text{ave}} = Fv_{\text{ave}} \quad \text{or/of} \quad P_{\text{gemid}} = Fv_{\text{gemid}}$$
 
 **WAVES, SOUND AND LIGHT / GOLWE, KLANK EN LIG**
-$$v = f\lambda$$
-$$T = \frac{1}{f}$$
-$$f_L = \frac{v \pm v_L}{v \pm v_s} f_s$$
-$$E = hf \quad \text{or/of} \quad E = \frac{hc}{\lambda}$$
-$$E = W_0 + E_{k(\text{maks})} \quad \text{or/of} \quad E = W_0 + K_{\text{max}}$$
-$$W_0 = hf_0$$
-$$E_{k(\text{maks})} = \frac{1}{2}mv_{\text{max}}^2 \quad \text{or/of} \quad K_{\text{max}} = \frac{1}{2}mv_{\text{max}}^2$$
+$$v = f\lambdaT = \frac{1}{f}f_L = \frac{v \pm v_L}{v \pm v_s} f_sE = hf \quad \text{or/of} \quad E = \frac{hc}{\lambda}E = W_0 + E_{k(\text{maks})} \quad \text{or/of} \quad E = W_0 + K_{\text{max}}W_0 = hf_0E_{k(\text{maks})} = \frac{1}{2}mv_{\text{max}}^2 \quad \text{or/of} \quad K_{\text{max}} = \frac{1}{2}mv_{\text{max}}^2$$
 
 **ELECTROSTATICS / ELEKTROSTATIKA**
-$$F = \frac{kQ_1 Q_2}{r^2}$$
-$$E = \frac{kQ}{r^2}$$
-$$V = \frac{W}{q}$$
-$$E = \frac{F}{q}$$
-$$n = \frac{Q}{e} \quad \text{or/of} \quad n = \frac{Q}{q_e}$$
+$$F = \frac{kQ_1 Q_2}{r^2}E = \frac{kQ}{r^2}V = \frac{W}{q}E = \frac{F}{q}n = \frac{Q}{e} \quad \text{or/of} \quad n = \frac{Q}{q_e}$$
 
 **ELECTRIC CIRCUITS / ELEKTRIESE STROOMBANE**
-$$R = \frac{V}{I}$$
-$$\text{emf } (\varepsilon) = I(R + r)$$
-$$R_s = R_1 + R_2 + \dots$$
-$$\frac{1}{R_p} = \frac{1}{R_1} + \frac{1}{R_2} + \dots$$
-$$q = I\Delta t$$
-$$W = Vq$$
-$$W = VI\Delta t$$
-$$W = I^2R\Delta t$$
-$$W = \frac{V^2\Delta t}{R}$$
-$$P = \frac{W}{\Delta t}$$
-$$P = VI$$
-$$P = I^2R$$
-$$P = \frac{V^2}{R}$$
+$$R = \frac{V}{I}\text{emf } (\varepsilon) = I(R + r)R_s = R_1 + R_2 + \dots\frac{1}{R_p} = \frac{1}{R_1} + \frac{1}{R_2} + \dotsq = I\Delta tW = VqW = VI\Delta tW = I^2R\Delta tW = \frac{V^2\Delta t}{R}P = \frac{W}{\Delta t}P = VIP = I^2RP = \frac{V^2}{R}$$
 
 **ALTERNATING CURRENT / WISSELSTROOM**
-$$I_{\text{rms}} = \frac{I_{\text{max}}}{\sqrt{2}} \quad \text{or/of} \quad I_{\text{wgk}} = \frac{I_{\text{maks}}}{\sqrt{2}}$$
-$$V_{\text{rms}} = \frac{V_{\text{max}}}{\sqrt{2}} \quad \text{or/of} \quad V_{\text{wgk}} = \frac{V_{\text{maks}}}{\sqrt{2}}$$
-$$P_{\text{ave}} = V_{\text{rms}} I_{\text{rms}} \quad \text{or/of} \quad P_{\text{gemid}} = V_{\text{wgk}} I_{\text{wgk}}$$
-$$P_{\text{ave}} = I_{\text{rms}}^2 R \quad \text{or/of} \quad P_{\text{gemid}} = I_{\text{wgk}}^2 R$$
-$$P_{\text{ave}} = \frac{V_{\text{rms}}^2}{R} \quad \text{or/of} \quad P_{\text{gemid}} = \frac{V_{\text{wgk}}^2
+$$I_{\text{rms}} = \frac{I_{\text{max}}}{\sqrt{2}} \quad \text{or/of} \quad I_{\text{wgk}} = \frac{I_{\text{maks}}}{\sqrt{2}}V_{\text{rms}} = \frac{V_{\text{max}}}{\sqrt{2}} \quad \text{or/of} \quad V_{\text{wgk}} = \frac{V_{\text{maks}}}{\sqrt{2}}P_{\text{ave}} = V_{\text{rms}} I_{\text{rms}} \quad \text{or/of} \quad P_{\text{gemid}} = V_{\text{wgk}} I_{\text{wgk}}P_{\text{ave}} = I_{\text{rms}}^2 R \quad \text{or/of} \quad P_{\text{gemid}} = I_{\text{wgk}}^2 RP_{\text{ave}} = \frac{V_{\text{rms}}^2}{R} \quad \text{or/of} \quad P_{\text{gemid}} = \frac{V_{\text{wgk}}^2$$

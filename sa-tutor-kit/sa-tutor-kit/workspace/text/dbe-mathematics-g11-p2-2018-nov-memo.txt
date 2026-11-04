@@ -24,9 +24,7 @@ $$\begin{array}{|c|c|c|c|c|c|c|c|c|c|c|}
 \hline
 4 & 12 & 13 & 16 & 17 & 18 & 20 & 22 & 22 & 25 \\
 \hline
-\end{array}$$
-
-$$\begin{array}{|l|l|l|}
+\end{array}\begin{array}{|l|l|l|}
 \hline
 1.1 & 4 \text{ minutes / minute} & \checkmark \text{ answer / antwoord} \\
 & & (1) \\
@@ -70,9 +68,7 @@ $$\begin{array}{|l|l|l|}
 & & \checkmark \text{ answer / antwoord} \\
 & & (2) \\
 \hline
-\end{array}$$
-
-$$\begin{array}{|c|c|c|}
+\end{array}\begin{array}{|c|c|c|}
 \hline
 \text{Class interval /} & \text{Frequency /} & \text{Cumulative frequency /} \\
 \text{Klas interval} & \text{Frekwensie} & \text{Kumulatiewe frekwensie} \\
@@ -87,9 +83,7 @@ $$\begin{array}{|c|c|c|}
 \hline
 35 \le x < 40 & 3 & 50 \\
 \hline
-\end{array}$$
-
-$$\begin{array}{l}
+\end{array}\begin{array}{l}
 \checkmark \text{ two correct values / twee korrekte waardes} \\
 \checkmark \text{ three correct values / drie korrekte waardes} \\
 \checkmark \text{ all correct values / al die waardes korrek} \\
@@ -487,4 +481,4 @@ $$\begin{array}{|l|l|l|}
 
 $$\begin{array}{|l|l|l|}
 \hline
-8.1 & r^2 = 13^2 - h^2 \quad (\text{Pythagoras}) & \checkmark \text{ using theorem of pythagoras / gebruik stelling van pythagoras}
+8.1 & r^2 = 13^2 - h^2 \quad (\text{Pythagoras}) & \checkmark \text{ using theorem of pythagoras / gebruik stelling van pythagoras}$$

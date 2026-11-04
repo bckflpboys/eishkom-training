@@ -270,19 +270,4 @@ Calculate the number of cups of coffee that will be sold on a non-rainy day. **(
 
 ### **INFORMATION SHEET**
 
-$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
-
-$$A = P(1 + ni)$$
-$$A = P(1 - ni)$$
-$$A = P(1 - i)^n$$
-$$A = P(1 + i)^n$$
-
-$$T_n = a + (n-1)d$$
-$$S_n = \frac{n}{2}[2a + (n-1)d]$$
-
-$$T_n = ar^{n-1}$$
-$$S_n = \frac{a(r^n - 1)}{r - 1} \quad ; \quad r \neq 1$$
-$$S_\infty = \frac{a}{1 - r} \quad ; \quad -1 < r < 1$$
-
-$$F = \frac{x[(1+i)^n - 1]}{i}$$
-$$P =
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}A = P(1 + ni)A = P(1 - ni)A = P(1 - i)^nA = P(1 + i)^nT_n = a + (n-1)dS_n = \frac{n}{2}[2a + (n-1)d]T_n = ar^{n-1}S_n = \frac{a(r^n - 1)}{r - 1} \quad ; \quad r \neq 1S_\infty = \frac{a}{1 - r} \quad ; \quad -1 < r < 1F = \frac{x[(1+i)^n - 1]}{i}P =$$

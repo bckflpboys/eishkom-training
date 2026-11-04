@@ -96,8 +96,7 @@ C $\text{NaOH}\ ;\ \text{NH}_3\ ;\ \text{H}_2\text{CO}_3\ ;\ \text{HNO}_3$
 D $\text{HNO}_3\ ;\ \text{H}_2\text{CO}_3\ ;\ \text{NaOH}\ ;\ \text{NH}_3$ (2)
 
 1.9 A galvanic cell consists of the following half-cells:
-$$\text{Fe}^{3+}\text{(aq)}|\text{Fe}^{2+}\text{(aq)}$$
-$$\text{Ni}^{2+}\text{(aq)}|\text{Ni(s)}$$
+$$\text{Fe}^{3+}\text{(aq)}|\text{Fe}^{2+}\text{(aq)}\text{Ni}^{2+}\text{(aq)}|\text{Ni(s)}$$
 Which ONE of the following statements is CORRECT for this cell?
 A $\text{Ni}^{2+}$ is reduced and $\text{Fe}^{2+}$ is oxidised.
 B $\text{Ni}^{2+}$ is oxidised and $\text{Fe}^{3+}$ is reduced.
@@ -304,9 +303,7 @@ The $K_c$ values for the decomposition of $\text{NH}_4\text{HS(s)}$ at different
 ### QUESTION 7 (Start on a new page.)
 
 7.1 Phosphoric acid, $\text{H}_3\text{PO}_4\text{(aq)}$, is an example of an acid that can ionise in three steps, as shown below:
-$$\text{H}_3\text{PO}_4\text{(aq)} + \text{H}_2\text{O(}\ell\text{)} \rightleftharpoons \text{H}_3\text{O}^+\text{(aq)} + \text{H}_2\text{PO}_4^-\text{(aq)} \quad K_a = 6,9 \times 10^{-3}$$
-$$\text{H}_2\text{PO}_4^-\text{(aq)} + \text{H}_2\text{O(}\ell\text{)} \rightleftharpoons \text{H}_3\text{O}^+\text{(aq)} + \text{HPO}_4^{2-}\text{(aq)} \quad K_a = 6,2 \times 10^{-8}$$
-$$\text{HPO}_4^{2-}\text{(aq)} + \text{H}_2\text{O(}\ell\text{)} \rightleftharpoons \text{H}_3\text{O}^+\text{(aq)} + \text{PO}_4^{3-}\text{(aq)} \quad K_a = 4,8 \times 10^{-13}$$
+$$\text{H}_3\text{PO}_4\text{(aq)} + \text{H}_2\text{O(}\ell\text{)} \rightleftharpoons \text{H}_3\text{O}^+\text{(aq)} + \text{H}_2\text{PO}_4^-\text{(aq)} \quad K_a = 6,9 \times 10^{-3}\text{H}_2\text{PO}_4^-\text{(aq)} + \text{H}_2\text{O(}\ell\text{)} \rightleftharpoons \text{H}_3\text{O}^+\text{(aq)} + \text{HPO}_4^{2-}\text{(aq)} \quad K_a = 6,2 \times 10^{-8}\text{HPO}_4^{2-}\text{(aq)} + \text{H}_2\text{O(}\ell\text{)} \rightleftharpoons \text{H}_3\text{O}^+\text{(aq)} + \text{PO}_4^{3-}\text{(aq)} \quad K_a = 4,8 \times 10^{-13}$$
 
 7.1.1 Which one is the stronger acid, $\text{H}_2\text{PO}_4^-$ or $\text{HPO}_4^{2-}$? Give a reason for the answer by referring to the data above. (2)
 7.1.2 Write down the FORMULA for the conjugate base of $\text{H}_2\text{PO}_4^-\text{(aq)}$. (1)
