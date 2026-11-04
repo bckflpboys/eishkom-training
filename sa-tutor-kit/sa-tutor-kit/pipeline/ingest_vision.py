@@ -39,23 +39,62 @@ sys.path.insert(0, str(KIT_ROOT))
 from wspaths import p  # noqa: E402
 
 
-PROMPT_QP = """You are an expert transcriber for South African DBE (Department of Basic Education) past examination papers.
-Transcribe this entire exam paper faithfully into clean Markdown.
+PROMPT_QP = """You are an expert transcriber for South African CAPS curriculum examination papers and technical textbooks across all subjects, grades, and languages.
+Transcribe this entire document faithfully into clean Markdown according to the Universal Document & Visual Extraction Standard (UDVES).
 
-RULES:
-1. MATHEMATICS & FORMULAS: Convert all equations, fractions, radicals, indices, and chemical formulas into standard KaTeX LaTeX ($...$ inline, $$...$$ display block). Never omit or invent equations.
-2. QUESTION NUMBERING: Keep exact numbering: QUESTION 1, 1.1, 1.1.1, 1.1.2, 1.2, etc.
-3. MARKS: Preserve all mark allocations, e.g. (3), [24].
-4. DIAGRAMS: If a question references a geometry diagram, circuit, graph, or illustration, write a concise, complete description of all given geometric relations, vertices, angles, parallel lines, tangents, resistors, or coordinates inside:
-   [DIAGRAM: concise description of points, lines, angles, and components]
+UNIVERSAL EXTRACTION RULES:
+1. MATHEMATICS & FORMULAS (ALL STEM & TECHNICAL SUBJECTS):
+   - Convert all equations, fractions, radicals, indices, and chemical formulas into standard KaTeX LaTeX ($...$ inline, $$...$$ display block). Never omit or invent equations.
+   - LaTeX syntax rule: NEVER put ^ or \circ inside \text{} (write 25\,^\circ\text{C} or ^\circ\text{C}, NEVER \text{^\circ C}).
+   - Multiple display equations: write each on its own separate line or distinct $$ block; never merge distinct equations without line breaks.
+   - Decimal commas: inside math mode use 0{,}1 so KaTeX does not insert punctuation spacing.
+
+2. QUESTION NUMBERING & VERBATIM TEXT:
+   - Keep exact numbering: QUESTION 1, 1.1, 1.1.1, 1.1.2, 1.2, etc. Preserve all language text verbatim (English, Afrikaans, and African languages).
+
+3. MARKS: Preserve all mark allocations exactly, e.g. (3), [24], [150].
+
+4. DIAGRAMS, VISUALS & TECHNICAL MEDIA (UNIVERSAL STANDARD):
+   Always transcribe complete, quantitative details inside: [DIAGRAM: <Subject/Type> | <Details> | <Measurements/Coords>]. Include all little things:
+   - ENGINEERING GRAPHICS & DESIGN (EGD) & TECHNOLOGIES:
+     * Projections: First Angle or Third Angle orthographic views (Front View, Top View, Left/Right Elevation), Isometric, Oblique, Perspective.
+     * Dimensions & Features: Pitch Circle Diameters (PCD), metric threads (M16x2), chamfers, radii, tolerances, hidden detail lines.
+     * Sectional Views: Cutting plane lines (e.g. A-A), direction of sight arrows, hatching patterns.
+     * Civil/Architectural: Floor plans, site plans, wall thicknesses (220mm/110mm), doors, windows, sanitary/plumbing fixtures, scales (1:50, 1:100).
+     * Electrical Technology: Schematics, component values (Ω, μF, mH), logic gates (AND, OR, NOT, NAND, NOR, XOR), truth tables, oscilloscope waveforms (Vp, Vrms, period T, frequency).
+     * Mechanical Technology: Gear teeth counts, pitch diameters, pulley ratios, cam displacement profiles (lift, dwell, stroke), hydraulic pistons (A1, A2, P=F/A).
+   - MATHEMATICS & TECHNICAL MATHEMATICS:
+     * Euclidean Geometry: All points, circle centers (O), chords, tangents, parallel line arrows, equal tick marks, cyclic quads, angle values (e.g. ∠B₁ = 42°).
+     * Functions & Graphs: Cartesian axes, intercepts, asymptotes (x=p, y=q), turning points, domains, ranges, line of sight, bearings.
+     * Statistics: Box-and-whisker 5-number summary (Min, Q1, Median, Q3, Max, outliers), ogive cumulative coordinates, histograms.
+   - SCIENCES (PHYSICAL, LIFE & NATURAL SCIENCES):
+     * Graphs & Curves: Axis labels with units, starting coordinates at t=0, specific calculation points (e.g. at t=10s, [O₂]=0,15 mol·dm⁻³), equilibrium plateaus.
+     * Organic Chemistry: DO NOT use fragile ASCII/LaTeX matrices. Write standard IUPAC condensed structural formulas (e.g. CH₃COCH(CH₃)CH₃) plus explicit descriptions of carbon chain lengths, double/triple bond positions, and all substituent branches.
+     * Circuits: Battery EMF (V) and internal resistance (r), resistor ratings (Ω), switch states (open/closed), ammeter/voltmeter placements.
+     * Biology / Life Sciences: Anatomical pointer lines and labels (A, B, C), genetic pedigrees (generations I, II, III; males=squares, females=circles; affected/unaffected), food webs with trophic arrows.
+   - LANGUAGES & VISUAL LITERACY (CARTOONS & ADVERTISEMENTS):
+     * Editorial Cartoons: Frame-by-frame breakdown (Frame 1, Frame 2...). Character body language, facial expressions, speech and thought bubbles verbatim, visual irony and satire techniques.
+     * Advertisements: Headlines, subheadings, slogans, body copy, visual focal point, target market cues, contact details, logo, fine print.
+     * Infographics: Every data callout, percentage, bar chart, and footnote transcribed with exact figures.
+   - COMMERCIALS & HUMANITIES:
+     * Accounting: Balance sheets, income statements, ledger accounts with Debit/Credit columns, and explicit question blanks [1.1.1] for missing student figures.
+     * Economics: Supply and demand curves, market equilibrium (Pe, Qe), curve shifts, price ceilings/floors.
+     * Geography: Topographical map coordinates (latitude/longitude), contour intervals, spot heights, river patterns; synoptic weather charts (isobars in hPa, high/low pressure cells, fronts, station model symbols).
+     * History: Primary photographs, propaganda posters, boundary maps with complete historical descriptions.
+   - IT & CAT:
+     * UML class diagrams (attributes with +/-, methods), flowcharts (decision diamonds, processes), spreadsheet row/column coordinate tables.
+
 5. LAYOUT: Preserve sections (SECTION A, SECTION B), tables, and instructions cleanly in Markdown.
 """
 
-PROMPT_MEMO = """You are an expert transcriber for South African DBE past examination marking guidelines (memorandums).
-Transcribe this entire marking guideline faithfully into clean Markdown.
+PROMPT_MEMO = """You are an expert transcriber for South African CAPS curriculum marking guidelines (memorandums) across all subjects and languages.
+Transcribe this entire marking guideline faithfully into clean Markdown according to the Universal Document & Visual Extraction Standard (UDVES).
 
 RULES:
 1. MATHEMATICS & FORMULAS: Convert all worked steps, equations, fractions, and solutions into standard KaTeX LaTeX ($...$ inline, $$...$$ display block).
+   - LaTeX syntax rule: NEVER put ^ or \circ inside \text{} (write ^\circ\text{C}, NEVER \text{^\circ C}).
+   - Multi-step equations: write each step on a new line or within \begin{aligned} ... \end{aligned}.
+   - Decimal commas: use 0{,}1 inside math mode so KaTeX does not add spacing.
 2. NUMBERING & CRITERIA: Preserve exact question numbering (1.1.1, 1.1.2) and all marking criteria with checkmarks (✓ substitution, ✓ answer, etc.).
 3. ALTERNATIVES: Clearly document alternative solutions marked OR/OF.
 4. MARKS: Keep total marks for sub-questions (e.g. (4)) and whole questions (e.g. [24]).

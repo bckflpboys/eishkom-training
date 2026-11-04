@@ -88,12 +88,21 @@
         - 47,299 KaTeX equations verified
         - 1,005 structured diagrams verified
         - Complete audit scorecard in workspace/reports/extraction_verification_report.json
+    [x] Formulate & codify Universal Document & Visual Extraction Standard (UDVES) in workspace/config/UNIVERSAL_EXTRACTION_STANDARD.md:
+        - Engineering Graphics & Design (EGD): 1st/3rd angle orthographic projections, isometric, section A-A, PCD, threads, civil floor plans, electrical schematics, logic gates, waveforms, hydraulics
+        - Mathematics & Stats: Euclidean geometry, Cartesian functions, turning points, asymptotes, box-and-whisker plots, ogives
+        - Sciences & Biology: Quantitative rate curves, IUPAC condensed chemical formulas, anatomical pointers, genetic pedigrees
+        - Languages & Visual Literacy: Editorial cartoons frame-by-frame (body language, facial expressions, verbatim bubbles, visual irony), advertisements, infographics
+        - Commercials & Humanities: Accounting ledgers with calculation blanks [1.1.1], economics supply/demand, geography topo/synoptic charts
+        - Strict KaTeX standards: universal syntax guardrails ($^\circ\text{C}$ and $0{,}1$ decimal commas)
+    [x] Upgrade Vision Ingestion Prompt in pipeline/ingest_vision.py embedding full universal standard dynamically
 
-[ ] Phase 2.5: Item Extraction & LaTeX/Diagram Standardization
+[ ] Phase 2.5: Item Extraction & LaTeX/Diagram Standardization (IN PROGRESS)
+    [x] Establish ground-truth reconciliation strategy: pair DBE marking memorandums directly with question papers to resolve chemistry names and calculation coordinates automatically
     [ ] Standardize all equations, fractions, and symbols into LaTeX ($...$ inline, $$...$$ block)
     [ ] Encode text-describable diagrams (geometry, circuits, graphs) into the "passage" field
     [ ] Flag pure visual figures with "needs_review": true (quarantined for gariep-flash-stage-1 vision training)
-    [ ] Run python pipeline/extract_items.py with teacher LLM (DeepSeek / Gemini OpenAI endpoint)
+    [ ] Run python pipeline/extract_items.py with teacher LLM
     [ ] Store structured items in workspace/items/<source_id>.jsonl
 
 [ ] Phase 3: Benchmark Construction

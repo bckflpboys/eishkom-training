@@ -194,6 +194,63 @@
 - **Corpus Readiness:**
   - With 100% of curriculum content verified, the corpus is fully prepared for Phase 2.5 item extraction (`pipeline/extract_items.py`) to generate atomic tutoring pairs.
 
+---
+
+## 13. Granular Visual Description Standards & Advancement to Phase 2.5
+- **Vision Extraction Retrospective & Key Learnings:**
+  - Independent forensic comparison of raw PDF vs. vision-extracted text on Physical Sciences Grade 12 Paper 2 confirmed:
+    - **100% Faithfulness on Core Question Data:** All question sequences (1.1 through 9.2.3), sub-question mark totals, and numerical values match word-for-word, summing to the exact printed total of 150 marks.
+    - **Vision Extraction Blindspots Identified:**
+      1. *LaTeX Matrix Artifacts in Organic Chemistry:* Attempting to represent 2D branching chemical structures via `\begin{matrix}` ASCII art with `\quad` spacing is brittle—bonds, branches, and alignment drift easily.
+      2. *Qualitative vs. Quantitative Diagrams:* Vision models naturally summarize visual curves qualitatively (e.g. "concentration decreases to equilibrium") instead of extracting the exact numerical coordinates needed by students/tutors to solve calculation questions (e.g. at $t = 10\text{ s}$, $[\text{O}_2] = 0,15\text{ mol}\cdot\text{dm}^{-3}$).
+      3. *LaTeX Syntax Quirks:* Edge cases such as `\text{^\circ C}` (invalid KaTeX superscript nesting) and concatenated equations without line breaks.
+- **Upgraded Vision Extraction Prompt (`pipeline/ingest_vision.py`):**
+  - Prompt instructions were enriched with explicit, mandatory guidelines for future ingestions:
+    - *Graphs & Curves:* Must include axis units, initial coordinates at $t = 0$, specific intermediate calculation coordinates, intercepts, inflection points, and line styling (solid vs. dashed).
+    - *Organic Chemistry:* Strictly prohibits brittle `\begin{matrix}` ASCII drawings; mandates standardized IUPAC condensed structural formulas (e.g. $\text{CH}_3\text{COCH(CH}_3)\text{CH}_3$) accompanied by structural descriptions detailing carbon chain lengths, double/triple bond positions, and all branch locations.
+    - *KaTeX Standards:* Strictly enforces `$^\circ\text{C}$` (never `\text{^\circ C}`), decimal commas formatted as `$0{,}1$`, and distinct display equation blocks.
+    - *Circuits & Geometry:* Explicitly mandates component ratings (EMF, $r$, $\Omega$, switch states) and all geometric theorem markers (tangents, subtended angles, cyclic quads).
+- **Advancement Directly to Phase 2.5 (Item Extraction):**
+  - **Decision:** Do NOT manually hand-edit intermediate raw text across 600 documents in `workspace/text/`.
+  - **Rationale:** Intermediate raw text is a staging area. In Phase 2.5 (`pipeline/extract_items.py`), the teacher model receives the Question Paper and the official DBE Marking Memorandum simultaneously. The memorandum provides authoritative ground truth (exact calculation numbers, method marks, and IUPAC names), resolving ambiguity automatically.
+  - **Quality Gates:** Items with complex or ambiguous visual components are automatically flagged with `"needs_review": true`, keeping pure-text models clean while quarantining visual items for multimodal vision fine-tuning on `LiquidAI/LFM3-VL-2B` (`gariep-flash-stage-1`).
+
+---
+
+## 14. Universal Document & Visual Extraction Standard (UDVES) Across All Subjects & Disciplines
+- **Universal Scope Expansion:**
+  - Expanded beyond STEM subjects to define an exhaustive, cross-curricular visual extraction standard codified in [`workspace/config/UNIVERSAL_EXTRACTION_STANDARD.md`](config/UNIVERSAL_EXTRACTION_STANDARD.md) and embedded into `pipeline/ingest_vision.py`.
+- **Cross-Subject Rules Mandated:**
+  1. **Engineering Graphics & Design (EGD) & Technical Technologies (Civil, Electrical, Mechanical):**
+     - Transcribe 1st and 3rd angle orthographic projections (FV, TV, Left/Right Elevation), cutting plane lines ($A-A$), cross-hatchings, hidden details.
+     - Title block specifications: drawing number, scales ($1:1$, $1:2$, $1:50$), tolerances, PCD, thread symbols ($\text{M}16 \times 2$), chamfers, radii.
+     - Architectural floor plans: wall thicknesses ($220\text{ mm}/110\text{ mm}$), doors, windows, sanitary/plumbing fixtures.
+     - Electrical schematics: active components, logic gates (AND, OR, NOT, NAND, NOR, XOR), truth tables, oscilloscope waveforms.
+     - Mechanical systems: gear teeth counts, pulley ratios, cam displacement profiles, hydraulic pistons ($A_1, A_2$).
+  2. **Mathematics & Mathematical Literacy:**
+     - Euclidean Geometry: circle centers ($O$), chords, tangents, parallel lines, cyclic quads, angle markings.
+     - Analytical Geometry & Functions: Cartesian coordinates, intercepts, asymptotes ($x=p, y=q$), turning points, shaded regions.
+     - Statistics: Box-and-whisker 5-number summaries, ogives, histograms, regression lines.
+  3. **Sciences & Biology:**
+     - Kinetics & Potential Energy curves: exact coordinates at initial, intermediate calculation, and equilibrium points.
+     - Organic Chemistry: standardized IUPAC condensed structural formulas accompanied by carbon chain and branch descriptions (prohibiting ASCII matrices).
+     - Life Sciences: anatomical pointer lines and labels ($A, B, C$), pedigree charts (generations I, II, III; males=squares, females=circles; affected/carrier/unaffected), food webs.
+  4. **Languages & Visual Literacy (English, Afrikaans, African Languages):**
+     - Editorial Cartoons: frame-by-frame breakdown, facial expressions, body language, gesture lines, verbatim speech/thought bubbles, visual irony/satire.
+     - Advertisements: headlines, slogans, visual focal point, emotional appeal, target audience cues, contact details.
+     - Infographics: data callouts, percentages, and footnotes.
+  5. **Commercials & Humanities:**
+     - Accounting: standard balance sheets, income statements, ledger accounts with Debit/Credit columns and calculation blanks (`[1.1.1]`).
+     - Economics: supply/demand curve shifts, equilibrium prices/quantities.
+     - Geography: topographical map coordinates (latitude/longitude), contour intervals, spot heights; synoptic weather charts (isobars in $\text{hPa}$, fronts, station models).
+     - History: primary photographs, propaganda posters, boundary maps with context.
+  6. **Computer Studies (IT & CAT):**
+     - UML class diagrams (attributes with $+/-$, methods), flowcharts, spreadsheet coordinate tables, network topologies.
+  7. **Universal KaTeX Syntax Guardrails:**
+     - Strictly enforce `$^\circ\text{C}$` (never `\text{^\circ C}`), decimal commas as `$0{,}1$`, and distinct display equation blocks.
+
+
+
 
 
 

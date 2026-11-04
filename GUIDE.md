@@ -214,13 +214,18 @@ python pipeline/ingest_vision.py --pipeline-order
   - **Deterministic LaTeX Sanitizer (`pipeline/sanitize_text.py`):** Automatically cleans empty display math blocks (`$$ $$`), closes unclosed `\begin{aligned}` blocks, and resolves trailing EOF delimiters across 137 documents.
   - **Audit Results:** **287 / 301 clean structural passes (95.3%)**, **47,299 KaTeX equations verified**, **1,005 structured diagrams verified**. Full audit report saved in `workspace/reports/extraction_verification_report.json`.
 
-**2. Mathematical Equations & Diagrams Handling Strategy:**
-- **Equations & Formulas:** Formatted in LaTeX syntax inside `$..$` (inline) and `$$..$$` (display block). Rendered seamlessly in client apps via KaTeX.
-- **Text-Describable Diagrams (~20%):** Euclidean geometry (circles, tangents, triangles), electric circuits, velocity-time graphs, and coordinate geometry figures have their geometric properties, labels, and relationships explicitly written into the `"passage"` field of the item schema. This allows pure text language models (`koeberg-stage-1`, `kendal-stage-1`, `gariep-stage-1`) to tutor geometry questions with complete context.
-- **Pure Visual Figures (~10%):** Questions requiring perceptual visual inspection (anatomical diagrams, unlabelled cartoons) are flagged `"needs_review": true`, excluded from pure text SFT, rendered to `workspace/images/` via `pipeline/render_pages.py`, and reserved for multimodal vision fine-tuning on `LiquidAI/LFM3-VL-2B` (`gariep-flash-stage-1`).
-- **Memo-First Question Recovery:** For Mathematics question papers with rasterized formulas, question wording and step criteria are extracted directly from the paired DBE memorandum.
+**2. Universal Document & Visual Extraction Standard (UDVES):**
+All documents and visual elements follow the production standard codified in [`workspace/config/UNIVERSAL_EXTRACTION_STANDARD.md`](workspace/config/UNIVERSAL_EXTRACTION_STANDARD.md):
+- **Universal KaTeX Syntax:** Standard LaTeX inside `$..$` (inline) and `$$..$$` (display block). Strict rules: `$^\circ\text{C}$` (never `\text{^\circ C}`) and decimal commas as `$0{,}1$`.
+- **Engineering & EGD:** 1st/3rd angle orthographic projections, cutting planes $A-A$, isometric views, PCD, thread symbols, civil floor plans, electrical schematics, logic gates, waveforms, and hydraulic/mechanical systems.
+- **Organic Chemistry Structures:** Standardized IUPAC condensed structural formulas (e.g. $\text{CH}_3\text{COCH(CH}_3)\text{CH}_3$) with explicit descriptions of carbon chains, functional groups, and branch positions (strictly prohibiting brittle ASCII `\begin{matrix}` drawings).
+- **Mathematics & Quantitative Curves:** Coordinates for turning points, intercepts, and asymptotes. For rate and kinetics curves, explicit coordinates at $t=0$, calculation points (e.g. at $t=10\text{ s}$), and equilibrium plateaus.
+- **Languages & Visual Literacy:** Editorial cartoons broken down frame-by-frame (facial expressions, body language, verbatim speech/thought bubbles, visual irony). Advertisements with focal points, persuasive appeals, and full copy.
+- **Life Sciences & Commercials:** Anatomical pointers ($A, B, C$), genetic pedigrees, accounting ledger statements with calculation blanks (`[1.1.1]`), and geography topographical/synoptic weather charts.
+- **Pure Visual Figures (~10%):** Questions requiring perceptual visual inspection are flagged `"needs_review": true`, excluded from pure text SFT, rendered to `workspace/images/` via `pipeline/render_pages.py`, and reserved for multimodal vision fine-tuning on `LiquidAI/LFM3-VL-2B` (`gariep-flash-stage-1`).
+- **Memo-First Question Recovery:** For question papers with visual formulas or graphs, official DBE marking memorandums provide authoritative ground truth for calculations and steps.
 
-**3. Run Item Extraction:**
+**3. Run Item Extraction (Phase 2.5):**
 ```bash
 # Dry-run cost estimate (shows token count and estimated cost before spending):
 python pipeline/extract_items.py --source dbe-physical_sciences-g12-p1-2024-nov --dry-run
