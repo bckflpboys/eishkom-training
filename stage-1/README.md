@@ -37,9 +37,10 @@ All models in this release adhere to our **Clean Branding Rule**: public model n
 
 ## Master Milestones at a Glance
 
-- **Phase 0 (Environment Setup):** `80% Complete` — Python 3.12 verified, Colab Enterprise notebook ready, directory structure created.
+- **Phase 0 (Environment Setup):** `90% Complete` — Python 3.12 verified, Colab Enterprise notebook ready, Spot VM configuration loaded, multi-model rotation active.
 - **Phase 1 (Data Collection):** `100% Complete` — **600 PDFs downloaded (378.15 MB, 0 errors)** from DBE across Grades 10–12 for Mathematics, Physical Sciences, English, and Afrikaans. All 16 November 2024 Grade 12 papers are locked as held-out evaluation benchmarks in [`sources.csv`](../sa-tutor-kit/sa-tutor-kit/workspace/sources/sources.csv).
-- **Phase 2 (Ingestion):** `Ready to Start` — Converting PDFs into clean text using `python pipeline/ingest.py`.
+- **Phase 2 (Vision Ingestion Upgrade):** `100% Complete` — All 4 curriculum stages (Mathematics/Wiskunde, English HL/FAL, Afrikaans HT/EAT, Physical Sciences/Fisiese Wetenskappe) vision-extracted into **11,310,442 characters of clean KaTeX LaTeX and Markdown**, 354 LaTeX documents, and 1,005 geometric diagram notes with 0 DBE loss.
+- **Phase 2.5 (Item Extraction) & Phase 3 (Benchmark Lock):** `Ready to Execute` — Slicing into atomic tutoring items and locking the 16 held-out November 2024 exam papers.
 
 ---
 

@@ -155,6 +155,26 @@
 - **Phase 2 Completion Milestone:**
   - All 4 curriculum stages (Mathematics/Wiskunde, English, Afrikaans, Physical Sciences/Fisiese Wetenskappe) completed with 11,310,442 characters, 354 KaTeX LaTeX documents, and 1,005 diagram descriptions.
 
+---
+
+## 11. Public Open-Source Repository Architecture & Two-Pass Quality Verification
+- **Open-Source Public Repository Structure:**
+  - The repository is configured for public release on GitHub so educators, developers, and learners can inspect, clone, and replicate the pipeline.
+  - **Zero Credential Leakage:** Both root `.gitignore` and `sa-tutor-kit/.gitignore` strictly enforce ignoring `.env` and `.env.*`.
+  - Added `.env.example` as a clean public template showing required API keys (`GEMINI_API_KEY`, `TEACHER_API_KEY`).
+  - **Public Data Ingestion:** Unlocked `workspace/text/` and `workspace/sources/` for Git tracking so public clones receive all 11.3M characters of extracted CAPS curriculum text and the audit manifest. Model weights (`*.gguf`, `*.bin`, `workspace/runs/`) remain strictly excluded from Git and will be hosted on Hugging Face.
+- **Two-Pass Verification Decision:**
+  - Before proceeding to Phase 2.5 and dialogue generation, the dataset undergoes rigorous two-pass verification:
+    1. **Pass 1: Multimodal PDF Visual Verification (Gemini 3.1 Flash Lite):**
+       - Reads the raw `.pdf` files visually alongside extracted `.txt` to confirm page completeness, formula layout, and diagram descriptions.
+    2. **Pass 2: Semantic & Rubric Reconciliation (Gemma 4 26B/31B):**
+       - Evaluates the paired Question Paper against the official Marking Memorandum.
+       - Confirms 1-to-1 question numbering alignment, mark allocation matches, and checks that every sub-question has worked solutions.
+       - Leverages Gemma 4's 14,400 daily requests and 30 RPM with 4–6 concurrent workers for rapid completion.
+- **AI Studio API Model Endpoint Profile:**
+  - Empirically verified that Google AI Studio serves `gemma-4-26b-a4b-it` and `gemma-4-31b-it` via pure text endpoints (returning HTTP 500 when sent raw inline image/PDF binaries). Thus, Gemma 4 is deployed for high-volume text and semantic reasoning, while Gemini Flash models handle multimodal raw PDF document vision.
+
+
 
 
 

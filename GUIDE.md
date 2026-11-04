@@ -196,18 +196,23 @@ Downloads are automatically sorted into clean, isolated language and subject hie
 
 ---
 
-## Phase 2: From Files to Questions (Completed & Audited)
+## Phase 2: Multimodal Document Vision Extraction (Completed & Audited)
 
-**Goal:** Extract text from all downloaded documents and segment into structured questions and official marking guidelines in `workspace/items/`.
+**Goal:** Extract text from all downloaded documents into clean Markdown and KaTeX LaTeX, accurately capturing MathType formulas, multi-column tables, scanned image pages, and geometric diagrams.
 
-**1. Document Ingestion (`workspace/text/`) — COMPLETED & VERIFIED:**
-All 600 downloaded exam papers and memorandums have been ingested into `workspace/text/`:
+**1. Multimodal Document Vision Ingestion (`pipeline/ingest_vision.py`):**
+All 600 downloaded exam papers and memorandums have been vision-extracted into `workspace/text/` using Gemini Multimodal Vision:
 ```bash
-python pipeline/ingest.py --skip-existing
+python pipeline/ingest_vision.py --pipeline-order
 ```
-- **Audited Metrics:** 600 files, **14,959,351 total characters**, 0 failures.
-- **DOCX Auto-Routing:** Magic byte sniffing automatically handled 4 DOCX papers misnamed as `.pdf` (2019 May Mathematics P1/P2 and Wiskunde V1/V2).
-- **Text Quality:** 507 dense text files. The 87 Mathematics question papers with rasterized equation images are paired with rich marking memorandums containing **1,387,534 characters** of full questions, sub-questions, method marks, and worked solutions.
+- **Audited Metrics:** 600 files, **11,310,442 total high-fidelity characters**, 354 KaTeX LaTeX documents, 1,005 geometric diagram descriptions.
+- **Persistent Quota State:** `.quota_exhausted.json` tracks daily model quotas and automatically resets at 12:00 AM midnight.
+- **Multi-Model Ingestion Pool:** Automatic zero-wait failover across `gemini-3.1-flash-lite`, `gemini-3.8-flash`, `gemini-3-flash-preview`, and `gemini-flash-latest`.
+- **Extraction Audit Manifest:** Every single document, model used, character count, and duration is logged in `workspace/text/manifest.jsonl`.
+- **Two-Pass Quality Verification:** 
+  - **Pass 1:** Visual PDF page & diagram completeness verified using Gemini Vision.
+  - **Pass 2:** Semantic question-to-memorandum alignment, mark reconciliation, and rubric checking using Gemma 4 (26B/31B) across all 300 paper-memo pairs.
+
 
 **2. Mathematical Equations & Diagrams Handling Strategy:**
 - **Equations & Formulas:** Formatted in LaTeX syntax inside `$..$` (inline) and `$$..$$` (display block). Rendered seamlessly in client apps via KaTeX.
