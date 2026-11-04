@@ -25,9 +25,9 @@ def sanitize_document(content: str) -> tuple[str, list[str]]:
     fixes = []
     orig = content
 
-    # 1. Strip empty display math blocks
-    if re.search(r"\$\$\s*\$\$", content):
-        content = re.sub(r"\$\$\s*\$\$", "", content)
+    # 1. Strip empty display math blocks ($$$$ or $$  $$ on same line)
+    if re.search(r"\$\$[ \t]*\$\$", content):
+        content = re.sub(r"\$\$[ \t]*\$\$", "", content)
         fixes.append("Removed empty display math blocks")
 
     # 2. Check for unclosed environments like \begin{aligned} without \end{aligned}
@@ -56,7 +56,12 @@ def sanitize_document(content: str) -> tuple[str, list[str]]:
             content = content.rstrip() + "$$\n"
             fixes.append("Closed unmatched $$ delimiter")
 
-    # 4. Clean consecutive blank lines
+    # 4. Fix invalid LaTeX \text{^\circ C} -> ^\circ\text{C}
+    if re.search(r"\\text\{\^\\circ\s*C\}", content):
+        content = re.sub(r"\\text\{\^\\circ\s*C\}", lambda m: r"^\circ\text{C}", content)
+        fixes.append("Corrected invalid \\text{^\\circ C} to ^\\circ\\text{C}")
+
+    # 5. Clean consecutive blank lines
     content = re.sub(r"\n{3,}", "\n\n", content)
 
     return content, fixes
@@ -91,3 +96,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

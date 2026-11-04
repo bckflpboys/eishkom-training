@@ -52,11 +52,11 @@ B (i) and (iii) only
 C (i) and (ii) only
 D (i), (ii) and (iii) (2)
 
-1.4 Magnesium ribbon of mass $2\text{ g}$ reacts with excess hydrochloric acid of concentration $0,1\text{ mol}\cdot\text{dm}^{-3}$ at $20\ \text{^\circ C}$:
+1.4 Magnesium ribbon of mass $2\text{ g}$ reacts with excess hydrochloric acid of concentration $0,1\text{ mol}\cdot\text{dm}^{-3}$ at $20\ ^\circ\text{C}$:
 $$\text{Mg(s)} + 2\text{HCl(aq)} \rightarrow \text{MgCl}_2\text{(aq)} + \text{H}_2\text{(g)}$$
 Which ONE of the following changes will NOT increase the initial rate of the reaction?
 A Using $2\text{ g}$ of powdered magnesium
-B Increasing the temperature of $\text{HCl}$ to $30\ \text{^\circ C}$
+B Increasing the temperature of $\text{HCl}$ to $30\ ^\circ\text{C}$
 C Using a longer piece of the magnesium ribbon
 D Doubling the volume of the hydrochloric acid used (2)
 
@@ -64,7 +64,7 @@ D Doubling the volume of the hydrochloric acid used (2)
 $$\text{H}_2\text{(g)} + \text{S(s)} \rightleftharpoons \text{H}_2\text{S(g)} \quad \Delta H < 0$$
 The reaction rate versus time graph for the reaction is given below.
 
-[DIAGRAM: Reaction rate versus time graph showing a solid line decreasing to an equilibrium level, then abruptly dropping and rising back to a new higher rate at time $t_1$.]
+[DIAGRAM: Reaction rate vs time. Forward rate (solid line) decreases and reverse rate (dashed line) increases until they meet at equilibrium. At time t₁ both rates step up together to the same higher constant value (no dip).]
 
 What change was made to the system at time $t_1$?
 A The pressure was increased at a constant temperature.
@@ -96,7 +96,7 @@ C $\text{NaOH}\ ;\ \text{NH}_3\ ;\ \text{H}_2\text{CO}_3\ ;\ \text{HNO}_3$
 D $\text{HNO}_3\ ;\ \text{H}_2\text{CO}_3\ ;\ \text{NaOH}\ ;\ \text{NH}_3$ (2)
 
 1.9 A galvanic cell consists of the following half-cells:
-$$\text{Fe}^{3+}\text{(aq)}|\text{Fe}^{2+}\text{(aq)}\text{Ni}^{2+}\text{(aq)}|\text{Ni(s)}$$
+$$\text{Fe}^{3+}\text{(aq)}|\text{Fe}^{2+}\text{(aq)} \quad \text{and} \quad \text{Ni}^{2+}\text{(aq)}|\text{Ni(s)}$$
 Which ONE of the following statements is CORRECT for this cell?
 A $\text{Ni}^{2+}$ is reduced and $\text{Fe}^{2+}$ is oxidised.
 B $\text{Ni}^{2+}$ is oxidised and $\text{Fe}^{3+}$ is reduced.
@@ -125,31 +125,15 @@ Which ONE of the following combinations for the ANODE and REACTION AT THE CATHOD
 
 The letters **A** to **G** in the table below represent organic compounds.
 
-| **A** | 
-$\begin{matrix}
-\text{H}\quad\text{O}\quad\text{H}\quad\text{H} \\
-|\quad\,\,| \quad\,\,|\quad\,\,| \\
-\text{H}-\text{C}-\text{C}-\text{C}-\text{C}-\text{H} \\
-|\quad\quad\,\,|\quad\,\,| \\
-\text{H}\quad\text{H}-\text{C}-\text{H}\quad\text{H} \\
-\quad\quad\,\,| \\
-\quad\quad\text{H}
-\end{matrix}$ | **B** |
-$\begin{matrix}
-\text{H}\quad\text{H} \\
-|\quad\,\,| \\
-\text{Cl}-\text{C}-\text{C}-\text{C}-\text{H} \\
-|\quad\,\,|\quad\,\,| \\
-\text{H}\quad\text{H}\quad\text{H} \\
-\text{H}\quad\text{H}\quad\text{H}\quad\text{H}\quad\text{H} \\
-|\quad\,\,|\quad\,\,|\quad\,\,|\quad\,\,| \\
-\text{H}-\text{C}-\text{C}-\text{C}-\text{C}-\text{C}-\text{H} \\
-|\quad\,\,|\quad\,\,|\quad\,\,|\quad\,\,| \\
-\text{H}\quad\text{Cl}\quad\text{H}\quad\text{H}\quad\text{H}
-\end{matrix}$ |
-| **C** | $\text{CH}_3\text{CH}(\text{CH}_3)\text{CH}_2\text{CHO}$ | **D** | $\text{C}_4\text{H}_{10}\text{O}$ |
-| **E** | $\text{C}_3\text{H}_8$ | **F** | Pentane |
-| **G** | [DIAGRAM: Structural formula of an organic compound containing a chain with a double bond and multiple methyl branches] | | |
+| **Compound** | **Structural / Condensed Formula** |
+| :---: | :--- |
+| **A** | $\text{CH}_3\text{COCH(CH}_3\text{)CH}_3$<br>*(Structural formula of 3-methylbutan-2-one: a 4-carbon main chain with a carbonyl oxygen double bond $(=\text{O})$ on carbon 2 and a methyl branch $(-\text{CH}_3)$ on carbon 3)* |
+| **B** | $\text{CH}_3\text{CCl(CH}_3\text{)CH}_2\text{CH}_2\text{CH(CH}_3\text{)CH(Cl)CH}_3$<br>*(Structural formula of 2,6-dichloro-2,5-dimethylheptane: a 7-carbon heptane main chain with chlorine and methyl substituents at carbons 2, 5, and 6)* |
+| **C** | $\text{CH}_3\text{CH(CH}_3\text{)CH}_2\text{CHO}$ |
+| **D** | $\text{C}_4\text{H}_{10}\text{O}$ |
+| **E** | $\text{C}_3\text{H}_8$ |
+| **F** | Pentane |
+| **G** | $\text{CH}_3\text{C(CH}_3\text{)=C(CH}_2\text{CH}_3\text{)CH}_2\text{CH}_2\text{CH}_3$<br>*(Structural formula of 3-ethyl-2-methylhex-2-ene: a 6-carbon hexene main chain with a double bond at carbon 2, a methyl branch at carbon 2, and an ethyl branch at carbon 3)* |
 
 2.1 Write down the LETTER(S) that represent(s) EACH of the following:
 2.1.1 An alcohol (1)
@@ -246,7 +230,7 @@ $$2\text{CO(g)} + \text{O}_2\text{(g)} \rightarrow 2\text{CO}_2\text{(g)}$$
 
 The graph below shows the concentration of $\text{O}_2\text{(g)}$ versus time.
 
-[DIAGRAM: Graph of concentration of $\text{O}_2\text{(g)}$ versus time, starting at $0,30\text{ mol}\cdot\text{dm}^{-3}$ at $0\text{ s}$ and decreasing non-linearly to around $0,05\text{ mol}\cdot\text{dm}^{-3}$ at $60\text{ s}$.]
+[DIAGRAM: Graph of concentration of $\text{O}_2\text{(g)}$ versus time. Curve starts at $0,27\text{ mol}\cdot\text{dm}^{-3}$ at $0\text{ s}$, drops to $0,15\text{ mol}\cdot\text{dm}^{-3}$ at $10\text{ s}$, $0,09\text{ mol}\cdot\text{dm}^{-3}$ at $20\text{ s}$, $0,05\text{ mol}\cdot\text{dm}^{-3}$ at $30\text{ s}$, and levels off at equilibrium at $0,025\text{ mol}\cdot\text{dm}^{-3}$ from around $52\text{ s}$ to $60\text{ s}$.]
 
 5.2.1 At which time, $10\text{ s}$ or $30\text{ s}$, is the reaction rate higher? (1)
 5.2.2 The reaction takes place in a $3\text{ dm}^3$ container. Calculate the average rate (in $\text{mol}\cdot\text{s}^{-1}$) at which $\text{CO}_2\text{(g)}$ is formed in the first $10\text{ s}$. (5)
@@ -275,14 +259,14 @@ More $\text{SO}_2\text{(g)}$ is now added to the container at constant temperatu
 
 ### QUESTION 6 (Start on a new page.)
 
-6.1 Equilibrium is established at $25\ \text{^\circ C}$ in a saturated calcium hydroxide solution according to the reaction:
+6.1 Equilibrium is established at $25\ ^\circ\text{C}$ in a saturated calcium hydroxide solution according to the reaction:
 $$\text{Ca(OH)}_2\text{(s)} \rightleftharpoons \text{Ca}^{2+}\text{(aq)} + 2\text{OH}^-\text{(aq)}$$
 
 6.1.1 State Le Chatelier's principle. (2)
 6.1.2 A few drops of concentrated hydrochloric acid, $\text{HCl(conc.)}$, are added to the equilibrium mixture. What effect does this addition have on the mass of $\text{Ca(OH)}_2\text{(s)}$? Choose from INCREASES, DECREASES or REMAINS THE SAME. (1)
 6.1.3 Explain the answer to QUESTION 6.1.2 by using Le Chatelier's principle. (2)
 
-6.2 Initially $70\text{ g}$ of $\text{NH}_4\text{HS(s)}$ is placed in a $3\text{ dm}^3$ container at $250\ \text{^\circ C}$. The container is sealed and the reaction is allowed to reach equilibrium according to the balanced equation:
+6.2 Initially $70\text{ g}$ of $\text{NH}_4\text{HS(s)}$ is placed in a $3\text{ dm}^3$ container at $250\ ^\circ\text{C}$. The container is sealed and the reaction is allowed to reach equilibrium according to the balanced equation:
 $$\text{NH}_4\text{HS(s)} \rightleftharpoons \text{NH}_3\text{(g)} + \text{H}_2\text{S(g)}$$
 
 The $K_c$ values for the decomposition of $\text{NH}_4\text{HS(s)}$ at different temperatures are given in the table below:
@@ -295,7 +279,7 @@ The $K_c$ values for the decomposition of $\text{NH}_4\text{HS(s)}$ at different
 
 6.2.1 Is the decomposition of $\text{NH}_4\text{HS(s)}$ an EXOTHERMIC or ENDOTHERMIC reaction? (1)
 6.2.2 Explain the answer to QUESTION 6.2.1 by using Le Chatelier's principle. (3)
-6.2.3 Calculate the mass of $\text{NH}_4\text{HS(s)}$ that will be present at equilibrium at $250\ \text{^\circ C}$. (8)
+6.2.3 Calculate the mass of $\text{NH}_4\text{HS(s)}$ that will be present at equilibrium at $250\ ^\circ\text{C}$. (8)
 **[17]**
 
 ---
@@ -303,7 +287,9 @@ The $K_c$ values for the decomposition of $\text{NH}_4\text{HS(s)}$ at different
 ### QUESTION 7 (Start on a new page.)
 
 7.1 Phosphoric acid, $\text{H}_3\text{PO}_4\text{(aq)}$, is an example of an acid that can ionise in three steps, as shown below:
-$$\text{H}_3\text{PO}_4\text{(aq)} + \text{H}_2\text{O(}\ell\text{)} \rightleftharpoons \text{H}_3\text{O}^+\text{(aq)} + \text{H}_2\text{PO}_4^-\text{(aq)} \quad K_a = 6,9 \times 10^{-3}\text{H}_2\text{PO}_4^-\text{(aq)} + \text{H}_2\text{O(}\ell\text{)} \rightleftharpoons \text{H}_3\text{O}^+\text{(aq)} + \text{HPO}_4^{2-}\text{(aq)} \quad K_a = 6,2 \times 10^{-8}\text{HPO}_4^{2-}\text{(aq)} + \text{H}_2\text{O(}\ell\text{)} \rightleftharpoons \text{H}_3\text{O}^+\text{(aq)} + \text{PO}_4^{3-}\text{(aq)} \quad K_a = 4,8 \times 10^{-13}$$
+$$\text{H}_3\text{PO}_4\text{(aq)} + \text{H}_2\text{O(}\ell\text{)} \rightleftharpoons \text{H}_3\text{O}^+\text{(aq)} + \text{H}_2\text{PO}_4^-\text{(aq)} \quad K_a = 6,9 \times 10^{-3}$$
+$$\text{H}_2\text{PO}_4^-\text{(aq)} + \text{H}_2\text{O(}\ell\text{)} \rightleftharpoons \text{H}_3\text{O}^+\text{(aq)} + \text{HPO}_4^{2-}\text{(aq)} \quad K_a = 6,2 \times 10^{-8}$$
+$$\text{HPO}_4^{2-}\text{(aq)} + \text{H}_2\text{O(}\ell\text{)} \rightleftharpoons \text{H}_3\text{O}^+\text{(aq)} + \text{PO}_4^{3-}\text{(aq)} \quad K_a = 4,8 \times 10^{-13}$$
 
 7.1.1 Which one is the stronger acid, $\text{H}_2\text{PO}_4^-$ or $\text{HPO}_4^{2-}$? Give a reason for the answer by referring to the data above. (2)
 7.1.2 Write down the FORMULA for the conjugate base of $\text{H}_2\text{PO}_4^-\text{(aq)}$. (1)
@@ -316,11 +302,11 @@ Sodium hydrogen phosphate, $\text{Na}_2\text{HPO}_4\text{(s)}$, is dissolved in 
 7.2 Barium hydroxide, $\text{Ba(OH)}_2$, dissolves in water according to the balanced equation:
 $$\text{Ba(OH)}_2\text{(s)} \rightarrow \text{Ba}^{2+}\text{(aq)} + 2\text{OH}^-\text{(aq)}$$
 
-A $100\text{ cm}^3$ solution is prepared by dissolving an unknown amount of $\text{Ba(OH)}_2$ at $25\ \text{^\circ C}$.
+A $100\text{ cm}^3$ solution is prepared by dissolving an unknown amount of $\text{Ba(OH)}_2$ at $25\ ^\circ\text{C}$.
 $25\text{ cm}^3$ of this $\text{Ba(OH)}_2$ solution is reacted with $15\text{ cm}^3$ of a $0,2\text{ mol}\cdot\text{dm}^{-3}$ $\text{HCl}$ solution in a flask, according to the balanced equation:
 $$\text{Ba(OH)}_2\text{(aq)} + 2\text{HCl(aq)} \rightarrow \text{BaCl}_2\text{(aq)} + 2\text{H}_2\text{O(}\ell\text{)}$$
 
-The final pH of the solution is $12,62$ at $25\ \text{^\circ C}$.
+The final pH of the solution is $12,62$ at $25\ ^\circ\text{C}$.
 
 Calculate the:
 7.2.1 Final concentration of the hydroxide ions in the flask (4)

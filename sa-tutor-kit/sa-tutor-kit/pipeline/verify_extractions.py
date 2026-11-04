@@ -28,8 +28,8 @@ def check_latex_syntax(text):
     """Accurately check for broken LaTeX math blocks and syntax."""
     errors = []
     
-    # Check for empty display math blocks ($$$$)
-    if re.search(r"\$\$\s*\$\$", text):
+    # Check for empty display math blocks ($$$$ or $$  $$ on same line)
+    if re.search(r"\$\$[ \t]*\$\$", text):
         errors.append("Empty display math block")
 
     # Match all standard display math blocks ($$...$$)
