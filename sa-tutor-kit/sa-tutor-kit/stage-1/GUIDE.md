@@ -100,14 +100,20 @@ gcloud run deploy koeberg-stage-1 \
 - **Deterministic KaTeX Sanitizer:** Cleaned 137 files via `pipeline/sanitize_text.py`, eliminating empty `$$ $$` blocks and closing unclosed environments in 0.5s.
 - **Two-Pass Verification Audit:** Audited all 301 exam pairs via `pipeline/verify_extractions.py`, achieving **287 / 301 clean structural passes (95.3%)**, **47,299 KaTeX formulas**, and **1,005 verified diagrams**. Report persisted in `workspace/reports/extraction_verification_report.json`.
 
-### Step 3: Segment into Structured Question-and-Answer Items
-- Run `python pipeline/extract_items.py --source <source_id>`.
-- Dry-run estimate test: `python pipeline/extract_items.py --source <source_id> --dry-run`.
-- **Mathematical Equations:** Standardized into LaTeX inside `$..$` (inline) or `$$..$$` (display block).
-- **Text-Describable Diagrams (~20%):** Geometry circles, triangles, circuits, coordinate graphs have their spatial relations written in the `"passage"` field so pure text models can reason about them.
-- **Pure Visual Figures (~10%):** Flagged `"needs_review": true`, excluded from text SFT, rendered to `workspace/images/` for multimodal training on `LiquidAI/LFM3-VL-2B` (`gariep-flash-stage-1`).
-- **Memo-First Question Recovery:** For Mathematics question papers with rasterized formulas, question wording and step criteria are extracted directly from the paired DBE memorandum.
-- Stores items in `workspace/items/<source_id>.jsonl`.
+### Step 3: Segment into Structured Question-and-Answer Items (Phase 2.5)
+- **Autonomous Subagent Orchestration:**
+  - Lead Orchestrator (`curriculum_orchestrator`) coordinates worker subagents (`curriculum_item_extractor`) in parallel waves (4 workers per wave).
+  - Live progress is maintained in `workspace/EXTRACTION_TRACKER.md` with interactive checkboxes `[x]` / `[ ]` across all 301 exam pairs.
+  - Sync tracker status anytime: `python workspace/tools/sync_tracker.py`.
+- **Directory Hierarchy & Mirroring:**
+  - Structured items are placed in `workspace/items/<subject>/<source_id>.jsonl` and mirrored to `workspace/items/<source_id>.jsonl` for full backward compatibility with downstream pipeline tools.
+- **Universal Extraction Standards (UDVES):**
+  - **Mathematical Equations:** Standardized into LaTeX inside `$..$` (inline) or `$$..$$` (display block) with `$0{,}1$` comma spacing.
+  - **Text-Describable Diagrams (~20%):** Geometry circles, triangles, circuits, coordinate graphs have spatial relations written into `"passage"`.
+  - **Chemistry & Sciences:** Standardized into condensed IUPAC formulas (e.g. $\text{CH}_3\text{CH}_2\text{OH}$) with reaction coordinates; zero fragile 2D matrices.
+  - **Languages & Visual Literacy:** Full reading passages, frame-by-frame cartoon descriptions, and advertising layouts preserved in `"passage"`.
+  - **Pure Visual Figures:** Flagged `"needs_review": true`, excluded from text SFT, preserved for multimodal training on `LiquidAI/LFM3-VL-2B` (`gariep-flash-stage-1`).
+  - **Memo-First Question Recovery:** For Mathematics question papers with rasterized formulas, question wording and step criteria are extracted directly from the paired DBE memorandum.
 
 ### Step 4: Reserve the 2024 Benchmark
 - The November 2024 Grade 12 items are compiled into `workspace/eval/eval_items.jsonl`.

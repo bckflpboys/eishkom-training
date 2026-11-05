@@ -1,0 +1,191 @@
+**NASIONALE SENIOR SERTIFIKAAT**
+**GRAAD 10**
+
+**WISKUNDE V2**
+**NOVEMBER 2018**
+
+**PUNTE:** 100
+**TYD:** 2 uur
+
+---
+
+### INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies aandagtig deur voordat jy die vrae beantwoord.
+
+1. Hierdie vraestel bestaan uit AGT vrae.
+2. Beantwoord AL die vrae in die SPESIALE ANTWOORDEBOEK wat verskaf word.
+3. Dui ALLE berekeninge, diagramme, grafieke, ens. wat jy gebruik het om die antwoorde te bepaal, duidelik aan.
+4. Slegs antwoorde sal NIE noodwendig volpunte verdien NIE.
+5. Rond antwoorde tot TWEE desimale plekke af, tensy anders aangedui.
+6. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+7. Jy mag 'n goedgekeurde wetenskaplike sakrekenaar (nieprogrammeerbaar en niegrafies) gebruik, tensy anders aangedui.
+8. Skryf netjies en leesbaar.
+
+---
+
+### VRAAG 1
+
+Die lyngrafiek hieronder toon toetspunte uit 10 wat deur 'n graad 10-klas behaal is.
+
+[DIAGRAM: A line graph showing frequency on the y-axis (ranging from 0 to 10) against points (Punte) on the x-axis (ranging from 0 to 10). Points on the graph: (0,0), (1,3), (2,4), (3,5), (4,3), (5,6), (6,0), (7,7), (8,9), (9,5), (10,0).]
+
+1.1 Voltooi die frekwensiekolom in die tabel wat in die ANTWOORDEBOEK verskaf is. (2)
+
+1.2 Hoeveel leerders het die toets geskryf? (1)
+
+1.3 Bereken die:
+   1.3.1 Variasiewydte vir die data (2)
+   1.3.2 Gemiddeld vir die toets (3)
+
+1.4 Bepaal die mediaan vir die data. (3)
+
+1.5 Teken 'n mond-en-snordiagram (boksplot) vir die data. (3)
+
+**[14]**
+
+---
+
+### VRAAG 2
+
+In die diagram hieronder is $P(1; 0)$, $Q(6; 3)$ en $R(9; -2)$ die hoekpunte van 'n driehoek sodat $PQ = QR$ en $PQ \perp QR$. $T$ is 'n punt op $PQ$ sodat $T$ die middelpunt van $PQ$ is. $S$ is die snypunt van $RQ$ en die $x$-as. $V$ is 'n punt op die $x$-as sodat $\hat{QSV} = 121^\circ$. $\hat{QPS} = \theta$
+
+[DIAGRAM: Cartesian plane showing triangle $PQR$. $P(1; 0)$ on the positive x-axis. $Q(6; 3)$ in the first quadrant with a right angle at $Q$. $R(9; -2)$ in the fourth quadrant. Line $PQ$ has midpoint $T$. $S$ is the x-intercept of line $RQ$. $V$ is a point on the positive x-axis. Angle $Q\hat{P}S = \theta$, and $Q\hat{S}V = 121^\circ$.]
+
+2.1 Bepaal die:
+   2.1.1 Lengte van $PQ$. Laat jou antwoord in wortelvorm. (2)
+   2.1.2 Gradiënt van $PQ$ (2)
+   2.1.3 Koördinate van $T$ (2)
+
+2.2 Bereken die:
+   2.2.1 Oppervlakte van $\Delta QTR$ (3)
+   2.2.2 Grootte van $\theta$, met redes (2)
+   2.2.3 Koördinate van $S$ (3)
+
+2.3 Bepaal, met redes, die gradiënt van die lyn deur $T$ en die middelpunt van $PR$. (3)
+
+**[17]**
+
+---
+
+### VRAAG 3
+
+3.1 In die diagram hieronder is $\Delta QPR$ 'n reghoekige driehoek met $Q\hat{P}R = 90^\circ$.
+
+[DIAGRAM: Right-angled triangle $QPR$ with $Q\hat{P}R = 90^\circ$, vertex $Q$ on the left, $P$ top right, $R$ bottom right.]
+
+   3.1.1 Gebruik die skets om die verhouding van $\tan(90^\circ - R)$ te bepaal. (1)
+   3.1.2 Skryf die trigonometriese verhouding neer wat aan $\frac{QR}{QP}$ gelyk is. (1)
+
+3.2 $S(-3; -4)$ is 'n punt op die Cartesiese vlak sodat $OS$ 'n hoek van $\theta$ met die positiewe $x$-as maak.
+
+[DIAGRAM: Cartesian plane showing point $S(-3; -4)$ in the third quadrant. Line segment $OS$ makes an angle $\theta$ with the positive x-axis, measured counterclockwise.]
+
+Bereken die volgende SONDER om 'n sakrekenaar te gebruik:
+   3.2.1 Die lengte van $OS$ (2)
+   3.2.2 Die waarde van $\sec \theta + \sin^2 \theta$ (3)
+
+3.3 Bepaal die waarde van die volgende SONDER om 'n sakrekenaar te gebruik:
+   $$\frac{\csc 45^\circ}{\sin 90^\circ \cdot \tan 60^\circ}$$ (4)
+
+**[11]**
+
+---
+
+### VRAAG 4
+
+4.1 In die diagram hieronder is ABC, ACD en ADE reghoekige driehoeke. $B\hat{A}E = 90^\circ$ en $B\hat{A}C = 30^\circ$. $BC = 20$ eenhede en $AD = 60$ eenhede.
+
+[DIAGRAM: Interconnected right-angled triangles sharing vertex $A$. $B\hat{A}E = 90^\circ$, $B\hat{A}C = 30^\circ$. Right angles at $B$, $C$, and $D$. $BC = 20$, $AD = 60$.]
+
+Bereken die:
+   4.1.1 Lengte van $AC$ (2)
+   4.1.2 Grootte van $C\hat{A}D$ (2)
+   4.1.3 Lengte of $DE$ (3)
+
+4.2 Los op vir $x$, korrek tot EEN desimale plek, waar $0^\circ \le x \le 90^\circ$:
+   4.2.1 $\tan x = 2,01$ (2)
+   4.2.2 $5 \cos x + 2 = 4$ (3)
+   4.2.3 $\frac{\csc x}{2} = 3$ (3)
+
+**[15]**
+
+---
+
+### VRAAG 5
+
+5.1 Beskou die funksie $f(x) = -3 \tan x$.
+   5.1.1 Skets, op die rooster wat in die ANTWOORDEBOEK verskaf word, die grafiek van $f$ vir $0^\circ \le x \le 360^\circ$. Toon duidelik AL die snypunte en asimptote. (3)
+   5.1.2 Skryf gevolglik of andersins neer die:
+         (a) Periode van $f$ (1)
+         (b) Vergelyking van $h$ indien $h$ die refleksie van $f$ om die $x$-as is (1)
+
+5.2 Die grafiek van $g(x) = a \cos b\theta$ is hieronder geskets.
+
+[DIAGRAM: Cosine-type wave $g$ starting at $(0, -2)$, reaching a peak of $2$ at $180^\circ$, and ending at $(360^\circ, -2)$.]
+
+   5.2.1 Skryf die waardes van $a$ en $b$ neer. (2)
+   5.2.2 Gebruik die grafiek om die waarde(s) van $x$, waarvoor $g(x) > 0$, te bepaal. (1)
+   5.2.3 Bepaal die waardeverzameling van $h$ indien $h$ die beeld van $g$ is indien $g$ TWEE eenhede na onder geskuif word. (2)
+   5.2.4 Bepaal, met gebruik van die grafiek, die waarde van:
+         $$-2(\cos 0^\circ + \cos 1^\circ + \cos 2^\circ + \dots + \cos 358^\circ + \cos 359^\circ + \cos 360^\circ)$$ (2)
+
+**[12]**
+
+---
+
+### VRAAG 6
+
+Die diagram hieronder toon 'n beker met 'n volume van $117\pi\text{ cm}^3$ en 'n binnemiddellyn van $60\text{ mm}$. Ignoreer die dikte van die beker.
+
+[DIAGRAM: Cylindrical container (beker) with internal diameter $60\text{ mm}$ and height $h$. Liquid fills a portion of the cylinder.]
+
+Bereken die:
+6.1 Hoogte van die beker (3)
+
+6.2 Totale buite-oppervlakte van die water wat aan die beker raak indien die beker $80\%$ met water gevul is. (4)
+
+**[7]**
+
+---
+
+**Gee redes vir ALLE meetkundestellings in VRAAG 7 en 8.**
+
+### VRAAG 7
+
+7.1 Voltooi die stelling sodat dit WAAR is:
+
+   Die lyn wat vanaf die middelpunt van die een sy van 'n driehoek getrek word, parallel aan die tweede sy, ... (1)
+
+7.2 $ACS$ is 'n driehoek. $P$ is 'n punt op $AS$ en $R$ is 'n punt op $AC$ sodat $PSRQ$ 'n parallelogram is. $PQ$ sny $AC$ by $B$ sodat $B$ die middelpunt van $AR$ is. $QC$ word verbind. Net so is $CR = PS$, $\hat{C}_1 = 50^\circ$ en $BP = 60\text{ mm}$.
+
+[DIAGRAM: Triangle $ACS$ with $P$ on $AS$, $R$ on $AC$, $Q$ outside such that $PSRQ$ is a parallelogram. Line segment $PQ$ intersects $AC$ at $B$. $B$ is the midpoint of $AR$. $QC$ is joined. $CR = PS$, $\hat{C}_1 = 50^\circ$, $BP = 60\text{ mm}$.]
+
+   7.2.1 Bereken die grootte van $\hat{A}$. (5)
+   7.2.2 Bepaal die lengte van $QP$. (3)
+
+**[9]**
+
+---
+
+### VRAAG 8
+
+8.1 $ABCD$ is 'n parallelogram. $E$ en $F$ is punte onderskeidelik op $AB$ en $DC$ sodat $AE = CF$. $DE$ word verleng na $J$ en $CJ$ word getrek. $BF$ word verleng na $K$ en $AK$ word getrek.
+
+[DIAGRAM: Parallelogram $ABCD$ with points $E$ on $AB$ and $F$ on $DC$ such that $AE = CF$. $DE$ extended to $J$, $CJ$ joined. $BF$ extended to $K$, $AK$ joined, forming a larger symmetric configuration.]
+
+Bewys dat:
+   8.1.1 $DJ \parallel BK$ (5)
+   8.1.2 $\hat{E}_1 = \hat{F}_1$ (4)
+
+8.2 In die diagram hieronder is $O$ die middelpunt van die sirkel. $A$ en $B$ lê op die omtrek van die sirkel. $AP = BP$.
+
+[DIAGRAM: Circle with center $O$. Points $A$ and $B$ on the circumference. Tangents/lines from external point $P$ to $A$ and $B$ such that $AP = BP$. Line $OP$ intersects the circle at $T$.]
+
+Bewys dat:
+   8.2.1 $AT = BT$ (5)
+   8.2.2 $O\hat{T}A = 90^\circ$ (1)
+
+**[15]**
+
+**TOTAAL: 100**

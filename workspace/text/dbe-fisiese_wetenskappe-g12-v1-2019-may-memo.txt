@@ -1,0 +1,1487 @@
+=== page 1 ===
+Copyright reserved/Kopiereg voorbehou                                            Please turn over/Blaai om asseblief
+
+SENIOR CERTIFICATE EXAMINATIONS/
+NATIONAL SENIOR CERTIFICATE EXAMINATIONS
+SENIORSERTIFIKAAT-EKSAMEN/
+NASIONALE SENIORSERTIFIKAAT-EKSAMEN
+
+PHYSICAL SCIENCES:  PHYSICS (P1)
+FISIESE WETENSKAPPE:  FISIKA (V1)
+
+2019
+
+MARKING GUIDELINES/NASIENRIGLYNE
+
+MARKS/PUNTE:  150
+
+These marking guidelines consist of 28 pages./
+Hierdie nasienriglyne bestaan uit 28 bladsye.
+
+=== page 2 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  2 DBE/2019
+ SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou                                            Please turn over/Blaai om asseblief
+
+QUESTION 1/VRAAG 1
+
+1.1 A   (2)
+
+1.2 B   (2)
+
+1.3 D     (2)
+
+1.4 C   (2)
+
+1.5 C   (2)
+
+1.6 C  (2)
+
+1.7 D  (2)
+
+1.8 D   (2)
+
+1.9 C   (2)
+
+1.10 A   (2)
+[20]
+
+=== page 3 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  3 DBE/2019
+ SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief
+
+QUESTION 2/VRAAG 2
+
+2.1.1
+
+Notes/Aantekeninge
+• Mark awarded for label and arrow / Punt toegeken vir benoeming en pyltjie
+• Do not penalise for length of arrows since drawing is not to scale. / Moenie
+vir die lengte van die pyltjies penaliseer nie aangesien die tekening nie
+volgens skaal is nie
+• Any other additional force(s) / Enige ander addisionele krag(te) Max /Maks
+43
+• If force(s) do not make contact with body / Indien krag(te) nie met die
+voorwerp kontak maak nie: Max/Maks: 43
+• Deduct 1 mark for an arrow/arrows omitted / trek 1 punt af indien pyl/pyle
+weggelaat
+Accepted labels/Aanvaarde benoemings
+F FA/90 N/F90
+w Fg / Fw/weight / mg / gravitational force Fg / Fw / gewig / mg / gravitasiekrag
+f (Kinetic) Friction / Ff /  / fk / wrywing / Fw
+N FNormal / Normal/Normaal / FN
+
+(4)
+
+2.1.2 It is moving at constant speed in a straight line/, the acceleration is zero/ the
+net force (resultant) acting on it is zero/it is moving at constant velocity 
+Dit beweeg teen konstante spoed in ‘n reguit lyn / versnelling is nul / netto
+krag (resultant) wat daarop inwerk is nul/ dit beweeg teen konstante snelheid
+
+(1)
+
+N
+●
+w
+f
+F
+ACCEPT/
+AANVAAR
+F
+●
+N
+w
+f
+F
+N
+w
+f Fy ●
+w
+f Fx
+N
+
+=== page 4 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  4 DBE/2019
+ SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief
+
+2.1.3
+
+OR/OF
+
+(3)
+ NOTE:
+1 mark for formula/equation, 1 mark substitution with zero, 1 mark answer.
+LW:1 punt vir formule/vergelyking, 1 punt substitusie, 1 punt antwoord.
+
+2.1.4 POSITIVE MARKING FROM 2.1.3 /POSITIEWE NASIEN VANAF 2.1.3
+OPTION 1/OPSIE 1
+vf = vi + a∆t
+ 2 = 0 + a(3) 
+a = 0,67 m∙s-2
+
+Fnet = ma
+F cos 40o – 68,94  = 15 (0,67)
+
+F = 103,11N (103,05 N – 103,11N)
+
+ POSITIVE MARKING FROM 2.1.3 /POSITIEWE NASIEN VANAF 2.1.3
+OPTION 2/OPSIE 2
+Fnet.Δt = Δp
+Fcos 40º - (68,94) (3) = 15(2 – 0) 
+F = 103,11 N
+
+Fnet = ma
+Fcos 320o – f = 15(0,67)
+F cos 320o – 68,94 = 15(0,67)
+F = 103,11N
+Fnet = ma
+Fnet = 0
+Fx = f
+Fx – f = 0
+Fsin 50o – f = 0
+
+90 sin 50o – f = 0
+f  = 68,94 N
+
+Fnet = ma
+Fnet = 0
+Fx= f
+Fx – f = 0
+Fcos 40o- f = 0
+
+ 90 cos 40o – f = 0
+f = 68,94 N
+ any one
+    enige een
+
+Fnet = ma
+Fnet = 0
+Fx= f
+Fx – f = 0
+Fcos 320o- f = 0
+
+90 cos 320o – f = 0
+f = 68,94 N
+ any one
+    enige een
+
+ any one
+    enige een
+
+=== page 5 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  5 DBE/2019
+ SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief
+
+ POSITIVE MARKING FROM 2.1.3 /POSITIEWE NASIEN VANAF 2.1.3
+OPTION 3/OPSIE 3
+Fnet = ma
+Fx – fk = ma
+
+Fx – 68,94 =    15 ( )30 -2
+Fx = 78,94 N
+x
+y
+F
+F
+=θtan
+94,78
+F
+=40tan
+yo
+Fy = 66,24 N
+
+F2 = 2y2x F+F
+F2 = (78,94)2 + (66,24)2
+F = 103,05 N
+
+ POSITIVE MARKING FROM 2.1.3 /POSITIEWE NASIEN VANAF 2.1.3
+OPTION 4/OPSIE 4
+Δt2 v+v=Δx fi
+
+( ) ( )320+2=
+∆x = 3 m
+Wnet = ∆K
+WF + Wf = ∆K
+F∆x cos θ + f∆x cos θ = ∆K
+F(3)cos40o + 68,94(3)cos180o = ½ (15)(22) – ½ (15)(0)2
+F = 103.06 N
+
+(6)
+ any one
+    enige een
+
+
+
+ 
+
+=== page 6 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  6 DBE/2019
+ SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief
+
+2.2 OPTION 1/OPSIE 1
+2
+21
+r
+mmG=F 
+( ) ( )( )25planet11- 10×6 10m10×67,6=20
+mplanet = 1,08 x 1022 kg
+
+OPTION 2/OPSIE 2
+w = mg
+20 = (10)(g)
+g = 2 m·s-2
+2R
+GMg=
+25
+-11
+)10×6(
+M)10×67,6(=2 
+M = 1,08 x 1022 kg
+
+(4)
+   [18]
+
+ 
+ Any one
+   Enige een
+
+=== page 7 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  7 DBE/2019
+ SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief
+
+QUESTION 3/VRAAG 3
+
+3.1 Motion of an object under the influence of gravity /gravitational force (weight)
+only.
+Beweging van ŉ  voorwerp slegs onder die invloed van gravitasie/gravitasie
+krag (gewig).
+
+OR/OF
+Motion in which the only force acting on the object is gravity/weight. 
+Beweging waar die enigste krag wat op die voorwerp inwerk, gravitasie/gewig
+is.
+
+ACCEPT/AANVAAR
+Vertical motion in which friction/air resistance is absent. 
+Vertikale beweging waar wrywing/lugweerstand afwesig is.
+
+Motion in air with an acceleration of 9,8 m∙s-2. 
+Beweging in lug met ‘n versnelling van 9,8 m∙s-2.
+
+(2)
+ NOTE: 2 OR ZERO/ 2 of nul
+
+3.2.1 OPTION 1/OPSIE 1
+Upwards positive/Opwaarts positief:
+  vf = vi +aΔt 
+  0  = vi+(-9,8) (1,53) 
+∴ vi = 14,99 m∙s-1 (15 m∙s-1)  
+Downwards positive/Afwaarts positief
+    vf = vi +aΔt 
+  0    = vi+(9,8) (1,53) 
+∴ vi = -14,99  m∙s-1
+     vi =  14,99 m∙s-1 (15 m∙s-1) 
+
+ OPTION 2/OPSIE 2
+Fnet = ma
+      =  9,8 (m)
+Fnet Δt = mΔv
+(9,8)(m)(1,53) =  (m)(vf – 0) 
+vf = 14,99 m·s-1 (15 m·s-1) 
+
+ OPTION 3/OPSIE 3
+Upwards positive/Opwaarts positief:
+Δy = viΔt + ½aΔt2 
+   0  = vi(3,06) + ½ (- 9,8)(3,06)2
+    vi = 14,99 m∙s-1(15 m∙s-1)
+
+Downwards positive/Afwaarts positief
+Δy = viΔt + ½aΔt2 
+   0  = vi(3,06) + ½ (9,8)(3,06)2
+    vi = 14,99 m∙s-1 (15 m∙s-1)
+
+NOTE: initial and final velocities can be swopped if starting from top, as long
+as sign of g is changed accordingly.
+LW: vf en vi kan omgeruil w ord indien van bopunt begin, solank teken van g
+dienooreenkomstig verander word.
+
+(3)
+
+=== page 8 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  8 DBE/2019
+ SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief
+
+3.2.2 OPTION 1/OPSIE 1
+POSITIVE MARKING FROM 3.2.1/ Positiewe nasien vanaf 3.2.1
+Upwards positive/Opwaarts positief:
+Δy = viΔt + ½aΔt2 
+     = 14,99 (1,53) + ½ (- 9,8)(1,53)2
+     = 11,47 m(11,46-11,48)
+Maximum height is/Maksimum hoogte is 11,47 m
+
+Downwards positive/Afwaarts positief
+Δy = viΔt + ½aΔt2 
+     = -14,99 (1,53) + ½ (9,8)(1,53)2 
+     = -11,47 m  (11,46-11,48)
+Maximum height is /Maksimum hoogte is 11,47 m
+
+ OPTION 2/OPSIE 2
+POSITIVE MARKING FROM 3.2.1/ Positiewe nasien vanaf 3.2.1
+Upwards positive/Opwaarts positief:
+vf2 = vi2 + 2aΔy
+0 = (14,99)2 + 2(-9,8)(Δy)
+Δy= 11,47 m∙(11,46-11,48)
+Maximum height reached is/Maksimum hoogte bereik is 11,47 m
+
+Downwards positive/Afwaarts positief:
+vf2 = vi2 + 2aΔy
+0 = (-14,99)2 + 2(9,8)(Δy)
+Δy= -11,47 m∙(11,46-11,48)
+Maximum height reached is/Maksimum hoogte bereik is 11,47 m
+
+ OPTION 3/OPSIE 3
+POSITIVE MARKING FROM 3.2.1/ Positiewe nasien vanaf 3.2.1
+Upwards positive/Opwaarts positief:
+Δt2 vvΔy fi  +=
+( ) ( )1,532 014,99    +=
+∆y = 11,47 m
+Maximum height reached is /Maksimum hoogte bereik is 11,47 m
+
+Downwards positive/Afwaarts positief:
+
+Δt2 vvΔy fi  +=
+( ) ( )1,532 014,99-    +=
+∆y = -11,47 m (11,46-11,48)
+Maximum height reached is /Maksimum hoogte bereik is 11,47 m
+
+
+
+
+
+
+=== page 9 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  9 DBE/2019
+ SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief
+
+ OPTION 4/OPSIE 4
+POSITIVE MARKING FROM 3.2.1
+
+∆E = ∆K + ∆U
+½ mvi2 + mghi = ½ mvf2 + mghf
+
+½ (14,994)2 + (9,8)(0) = 0 + 9,8 hf 
+hf = 11,47 m (11,46-11,48)
+Maximum height reached is /Maksimum hoogte bereik is 11,47 m
+
+OR/OF
+∆K = - ∆U
+½ m(vf2 – vi2) = - mg(hf – hi)
+     ½ (0 - 14,992) = - 9,8( hf - 0) 
+hf = 11,47 m (11,46-11,48)
+Maximum height reached is /Maksimum hoogte bereik is 11,47 m
+
+(3)
+
+3.3 OPTION 1/OPSIE 1
+POSITIVE MARKING FROM 3.2.1
+Upwards positive/Opwaarts positief:
+Δy = viΔt + ½aΔt2 
+     = (14,99) (4) + ½ (- 9,8)(4)2
+     = -18,4 m
+Position is 18,4 m downwards ( below the edge of the roof )  / Posisie is
+18,4 m afwaarts (onder die kant van die dak).
+
+Downwards positive/Afwaarts positief
+Δy = viΔt + ½aΔt2 
+     = (-14,99) (4) + ½ (9,8)(4)2
+     = 18,4 m
+Position is 18,4 m downwards ( below the edge of the roof ) / Posisie is
+18,4 m afwaarts (onder die kant van die dak)
+
+1 mark for any
+1 punt vir enige
+
+=== page 10 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  10 DBE/2019
+ SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief
+
+ OPTION 2/OPSIE 2
+POSITIVE MARKING FROM 3.2.1
+Upwards positive/Opwaarts positief:
+vf = vi +aΔt
+   = (14,99) + (-9,8) (4)
+  = - 24,2 m∙s-1
+vf2 = vi2 + 2aΔy
+(-24,2)2 = (14,99)2 + 2(-9,8)(Δy)
+Δy= - 18,4 m∙
+Ball is 18,4 m downwards (below the edge of the roof) / Bal is 18,4 m afwaarts
+(onder die kant van die dak)
+Downwards positive/Afwaarts positief:
+vf = vi +aΔt
+   = (-14,99) + (9,8) (4)
+  = 24,2 m∙s-1
+vf2 = vi2 + 2aΔy
+(24,2)2 = (-14,99)2 + 2(9,8)(Δy)
+Δy= 18,4 m∙
+Ball is 18,4 m downwards ( below the edge of the roof )/ Bal is 18,4 m
+afwaarts (onder die kant van die dak)
+
+ OPTION 3/OPSIE 3
+POSITIVE MARKING FROM 3.2.1
+Upwards positive/Opwaarts positief:
+Δt2 vvΔy fi  +=
+( ) ( )42 24,2-14,99   =
+∆y =- 18,4 m
+Ball is 18,4 m downwards ( below the edge of the roof )  / Bal is 18,4 m
+afwaarts (onder die kant van die dak).
+
+Downwards positive/Afwaarts positief:
+
+Δt2 vvΔy fi  +=
+( ) ( )42 24,214,99-    +=
+∆y = 18,4 m
+Ball is 18,4 m downwards ( below the edge of the roof )  / Bal is 18,4 m
+afwaarts (onder die kant van die dak.)
+
+
+
+
+
+vf = vi +aΔt
+   = (-14,99) + (9,8) (4)
+  = 24,2 m∙s-1
+
+vf = vi +aΔt
+   = (14,99) + (-9,8) (4)
+  = - 24,2 m∙s-1
+
+=== page 11 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  11 DBE/2019
+ SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief
+
+ OPTION 4/OPSIE 4
+Total time to return to starting point/totale tyd terug na beginpunt
+ = 2(1,53) = 3,06 s
+∴ time from reference point to ground/ tyd vanaf verwysingspunt tot by grond
+= (4 – 3,06) = 0,94 s
+∆y = vi∆t + ½ (g)∆t2 
+     = (14,99)(0,94) + ½(9,8)(0,94)2 
+      = 18,43 m downwards (below the edge of the roof) /afwaarts (onder die
+kant van die dak.
+
+(3)
+
+3.4 No/Nee
+The motion of the ball is only dependent on its initial velocity /the initial
+velocity depends on the time taken to reach maximum height.
+Die beweging van die bal is slegs afhanklik van sy beginsnelhei d./die
+aanvanklike snelheid hang af van die tyd wat dit neem om maksimum hoogte
+te bereik.
+
+ACCEPT for 1 mark/ AANVAAR vir 1 punt:
+
+The ball will still be in the air.
+Die bal sal nog steeds in die lug wees.
+
+OR/OF
+The ball is still falling.
+Die bal is steeds besig om te val.
+
+OR/OF
+The ball would not have reached the ground.
+Die bal sal nog nie die grond bereik het nie.
+
+OR/OF
+The motion of the ball is independent of the height of the building. 
+Die beweging van die bal is onafhanklik van die hoogte van die gebou.
+
+ NOTE: If learners gave  separate answers for 3.2 and 3.3 , mark them
+together. Thus, if one answer is correct and the other incorrect 0/3
+LW: Indien leerders twee afsonderlike antwoorde gee vir 3.2 en 3.3, sien as
+geheel na.  Dus, indien een verkeerd is, 0/3
+
+(3)
+[14]
+
+-
+
+=== page 12 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  12 DBE/2019
+ SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief
+
+QUESTION 4/VRAAG 4
+
+4.1 The total (linear) momentum in a isolated/closed system  remains constant./ is
+conserved 
+Die totale lineêre momentum in 'n geslote sisteem bly konstant/behoue.
+
+OR/OF
+In an isolated/closed system the total momentum before a collision is equal to
+the total momentum after the collision. 
+In 'n geslote/geïsoleerde sisteem is die totale momentum voor die botsing
+gelyk aan die totale momentum na die botsing.
+
+NOTE/LET WEL:
+-1 for each key word/phrase omitted.
+-1 vir elke sleutel woorde/frase weggelaat.
+Take the whole statement in context /Vat die hele stelling in konteks.
+
+(2)
+
+4.2 OPTION 1/OPSIE 1
+∑pi = ∑pf
+m1v1i + m2v2i = m1v1f + m2v2f
+m1v1i + m2v2i = (m1 +m2)vf
+
+{0,45(9) + 0,20(0)} = (0,45 + 0,20)v
+v = 6,23 m⋅s-1
+
+OR
+∆pball/bal = - ∆pcont/houer
+0,45(v – 9)  = - 0,2(v – 0) 
+v = 6,23 m⋅s-1
+
+ OPTION 2/OPSIE 2
+
+∑pi = ∑pf
+pf Total = pi Total
+(Thus change in total momentum = 0 /Dus verandering in momentum is=0))
+0 = (0,65vf) – (9)(0,45)
+vf = 6,23 m∙s-1
+
+(4)
+1 mark for any
+1 punt vir enige
+If – sign omitted from formula  0/4
+Indien – teken weggelaat uit
+formula   0/4
+1 mark for any
+1 punt vir enige
+
+=== page 13 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  13 DBE/2019
+ SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief
+
+4.3 POSITIVE MARKING FROM 4.2/POSITIEWE NASIEN VANAF 4.2
+K = ½ mv2 (or EK = ½ mv2)
+Total kinetic energy before collision:/Totale kinetiese energie voor botsing:
+½ (0,45)(9)2 + 0=  18,225J
+
+Total kinetic energy after collision:/ Totale kinetiese energie na botsing:
+½ (0,45 + 0,20)(6,23)2    = 12,614J
+
+∑Kbefore/voor ≠ ∑Kafter/na
+Collision is inelastic. /Botsing is onelasties
+
+ If start with/ indien begin met ∑EKi =∑EKf  4/5 max/maks
+No calculation/ geen berekening: 0
+Do not accept a conclusion of inelastic collision based on any other
+calculation (such as that of momentum or mechanical energy)./ Moet geen
+afleiding van ‘ n onelastiese botsing aanvaar wat op enige ander berekening
+gebaseer is nie (soos byvoorbeeld momentum of meganiese energie).
+
+(5)
+   [11]
+
+=== page 14 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  14 DBE/2019
+ SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief
+NOTE: maximum ¾ if friction
+and tension are not on a
+straight line
+LW: maksimum ¾ indien
+wrywing en spanning nie in ‘n
+reguitlyn nie.
+NOTE: maximum ¾ if N and
+w⊥  are not on a straight line
+LW: maksimum ¾ indien N en
+w⊥  nie in ‘n reguitlyn nie.
+•
+T
+f
+N
+w
+ACCEPT/AANVAAR
+T
+f
+N
+w
+
+•
+T
+f
+N
+w⊥/Fg⊥
+w||/Fg//
+
+QUESTION 5/VRAAG 5
+
+5.1 Tension/Spanning  (1)
+
+5.2 There is friction/ tension in the system 
+Daar is wrywing/spanning in die sisteem
+OR/OF
+Friction/tension  is a non-conservative
+force 
+Wrywing/spanning 'n 'n nie-
+konserwatiewekrag
+OR/OF
+The system is not isolated because
+there is friction/tension 
+Die sisteem in nie geïsoleerd nie omdat
+daar wrywing/spanning is
+OR/OF
+The internal energy increases
+because of friction 
+Die interne energie n eem toe as
+gevolg van wrywing.
+OR
+The applied force is non-
+conservative
+Die toegepaste krag is nie-
+konservatief
+OR
+It is not an isolated system
+
+(1)
+
+5.3
+
+=== page 15 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  15 DBE/2019
+ SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief
+
+Notes/Aantekeninge
+• Mark awarded for label and arrow / Punt toegeken vir benoeming en pyltjie
+• Do not penalise for length of arrows since drawing is not to scale. / Moenie
+vir die lengte van die pyltjies penaliseer nie aangesien die tekening nie
+volgens skaal is nie
+• Any other additional fo rce(s) / Enige ander addisionele krag(te) Max /Maks
+43
+• If force(s) do not make contact with body / Indien krag(te) nie met die
+voorwerp kontak maak nie: Max/Maks: 43
+Deduct 1 mark for an arrow/arrows omitted / trek 1 punt af indien pyl/pyle
+weggelaat
+Accepted labels/Aanvaarde benoemings
+w Fg/Fw/weight/mg/gravitational force   Fg/Fw/gewig/mg/gravitasiekrag 
+f Friction/Ff/fk/178,22 N/wrywing/Fw              
+N Normal (force)/FnormaL/FN/Fnormaal/Freaction/reaksie        
+T FT/FA/Fapplied/toegepas/700 N/Tension 
+
+(4)
+
+5.4 W = F∆xcosθ
+Wf = [178,22(4)cos180o] 
+     = - 712,88 J
+
+(3)
+
+5.5 OPTION 1/OPSIE 1
+POSITIVE MARKING FROM QUESTIONS 5.4 POSITIEWE NASIEN VANAF
+VRAE 5.4
+Wnet = ∆EK
+Wf + Wg + WT = ∆K
+Wf + mgsinθ∆xcosθ + WT = ∆K
+
+-712,88 + (70)(9,8) (sin 30o)(4) cos 180o + (700 x 4 x cos 0o) = ½ 70(vf2 – 0)
+vf = 4,52 m⋅s-1
+
+NOTE: Wg can be obtained using any of the following formulae:
+LW: wg kan verkry word deur enige een van die volgende formules:
+Wgravity/gravitasie = mg∆xcosθ
+                       = (70)(9,8)(4).(cos 120o)
+
+∴
+
+Wgravity/gravitasie = -∆ mgh = - mg(hf – h0)
+                                  =  mg∆ycosθ
+                       = ((70)(9,8) 4(sin 30o).cos 180o
+  Wgravity/gravitasie = mgsinθ∆xcosθ
+                      = (70)(9,8) (sin 30o)(4).cos 180o
+
+1 mark for any one/
+1 punt vir enige een
+
+-712,88 + (70)(9,8)(4)cos 120o) + (700 x 4 x cos 0o) = ½ 70(vf2 – 0)
+vf = 4,52 m⋅s-1
+
+=== page 16 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  16 DBE/2019
+ SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief
+
+ OPTION 2/OPSIE 2
+POSITIVE MARKING FROM 5.4 / POSITIEWE NASIEN VANAF 5.4
+Wnc = ∆EK + ∆Ep 
+WT + Wf = ∆EK + ∆Ep
+(700)(4) cos 0o) + (-712,88) = [(70)(9,8) 4(sin 30o). - 0 ]+ ½ 70(vf2 – 0)
+vf = 4,52 m⋅s-1
+
+ OPTION 3
+Fnet = FT – [mgsinθ + fk]
+       = 700 – [(70 x 9,8 sin 30o) + 178,22] 
+       = 178,78 N
+Wnet = ∆EK
+Fnet . ∆xcosθ =∆EK
+(178,78)(4)cos0 o =.½ 70(vf2 – 0)
+vf = 4,52 m⋅s-1
+
+(5)
+
+5.5 WHERE EQUATIONS OF MOTION ARE USED:/ WAAR
+BEWEGINGSvERGELYKING GEBRUIK: MAX/MAKS 51
+Fnet = ma
+FT – [mgsinθ + fk] = ma
+700 – [(70 x 9,8 sin 30o) + 178,22] = 70a
+a = 2,554 ms-2
+vf2 = vi2 + 2a∆x
+    = 0 + 2(2,554)(4)
+vf = 4,52 m⋅s-1
+
+5.6 POSITIVE MARKING FROM 5.4/POSITIEWE NASIEN VANAF 5.4
+
+2(-712,88) = -1425,76 J
+
+OR/OF
+Double the answer (in question 5.4). 
+Dubbel die antwoord (in vraag 5.4)
+
+(1)
+   [15]
+
+=== page 17 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  17 DBE/2019
+ SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief
+
+QUESTION 6/VRAAG 6
+
+6.1.1 ∆x = vi∆t + ½ a∆t2
+300 = vi (10) 
+vi = 30 m∙s-1
+
+NOTE/LET WEL:
+Accept/Aanvaar ∆x = vi∆t
+
+(2)
+
+6.1.2 The change in frequency (or pitch) (of the sound ) detected by a listener
+because the source and the listener have different velocities relative to the
+medium of sound propagation. 
+Die verandering in die frekwensie (of toonhoogte)  (van die klank)
+waargeneem deur ‘n luisteraar omdat die bron en die luisteraar verskillende
+snelhede relatief tot die voortplantingsmedium het.
+
+OR/OF
+An (apparent) change in observed/detected frequency (pitch), (wavelength)
+as a result of the relative motion between a source and an
+observer (listener). 
+'n Skynbare verandering in waargenome frekwensie (toonhoogte),(golflengte )
+as gevolg van die relatiewe beweging tussen die bron en ' n waarnemer/
+luisteraar.
+
+NOTE/LET WEL:
+-1 for each key word/phrase omitted.
+-1 vir elke sleutel woorde/frase weggelaat
+
+(2)
+
+6.1.3 Car/source (just) passes observer 
+Motor beweeg net verby die waarnemer
+Accept:
+Car moves away from observer 
+No relative motion between car and observer 
+Car and observer at the same place/position
+
+Aanvaar:
+Motor beweeg verby waarnemer
+ Geen relatiewe beweging tussen motor en waarnemer
+Motor en waarnemer by dieselfde plek/posisie.
+
+(2)
+
+v = 10300=td =30m∙s-1 
+
+=== page 18 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  18 DBE/2019
+ SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief
+
+6.1.4 POSITIVE MARKING FROM 6.1.1/POSITIEWE NAISEN VANF 6.1.1
+s
+s
+L
+L fvv vvf ±±=            OR/OF ssL fvv vf −=
+
+sf 03-340340 =932
+
+   fs = 849,76 Hz 
+
+(4)
+
+ Notes/Aantekeninge:
+• Any other Doppler formula, e.g. /Enige ander Doppler formula b.v.
+ fL = sfsvv vv L−−  -  Max/Maks. 43
+Marking rule 1.5: No penalisation if zero substitutions are omitted.
+Nasienreël 1.5. Geen penalisering indein nul vervangings uitgelaat word
+
+6.2 Doppler / Blood flow meter
+Dopplervloeimeter/ bloedvloeimeter
+Measuring the heartbeat of a foetus
+Meting van hartklop van 'n fetus
+Radar
+Sonar
+Used to determine whether stars are receding  or approaching earth/
+Gebruik om te bepaal of sterre na of weg van die aarde beweeg
+
+(2)
+   [12]
+
+
+
+
+Any 2 
+Enige 2
+
+=== page 19 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  19 DBE/2019
+ SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief
+
+QUESTION 7/VRAAG 7
+
+7.1 The electric field at a point is the electrostatic force experienced per unit
+positive charge placed at that point. 
+Die elektriese veld by ' n punt is die elektrostatiese krag  wat per eenheid
+positiewe lading wat by daardie punt geplaas word, ervaar word. 
+
+NOTE/LET WEL:
+-1 for each key word/phrase omitted.  If definition of electric field: 0/2
+-1 vir elke sleutel woorde/frase weggelaat . Indien definisie van elektriese veld
+0/2
+
+(2)
+
+7.2 q2 is positive 
+
+The electric field due to q 1 points to the right because q1 is negative.  Since
+the net field is zero, field due to q 2 must point to the left away from q 2, 
+hence q2 is positive.
+
+q2 is positief
+
+Die elektriese veld as gevolg van q1 is na regs gerig omdat q1negaitief is.
+Aangesien die net veld nul is, moet die veld as gevolg van q 2 na links we g
+van q2 wees.
+
+OR/OF
+q2 is positive 
+
+Since Enet is zero,E1 and E2 are in opposite directions therefore q1 and q2
+are oppositely charged. 
+
+q2 is positief
+Omdat Enet nul is, is E1 en E2 in teenoorgestelde rigtings daarom is q1 en
+q2 teenoorgesteld gelaai. 
+
+(3)
+-
+
+-
+
+=== page 20 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  20 DBE/2019
+ SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief
+
+7.3
+E = 2rQk
+Enet = 0
+∴ 2
+2
+2
+2
+1
+1
+r
+qk
+r
+qk =   OR
+2
+2
+2
+2
+1
+1
+r
+q=rq
+
+( ) ( )2
+2
+9
+2
+-99
+4,0
+q)10×9(=1,0 )10×3)(10×9(
+
+q2 = + 4,8 x 10-8 C
+
+(4)
+
+7.4 The electrostatic force (of attraction/repulsion) between two point charges is
+directly proportional to the product of the charges and inversely proportional
+to the square of the distance between them. 
+Die elek trostatiese krag(aantekking/afstotend) tussen twee puntladings is
+direk eweredig aan  die produk van die lad ings en omgekeerd eweredig aan
+die kwadraat van die afstand tussen hulle.
+
+NOTE/LET WEL:
+-1 for each key word/phrase omitted.If masses used instead of charges 0
+-1 vir elke sleutel woorde/frase weggelaat Indien massas gebruik 0
+
+(2)
+
+7.5 POSITIVE MARKING FROM 7.3/POSITIEWE NASIEN VANAF 7.3
+2
+21
+r
+QkQF=
+
+( )( )( )
+( )2
+9
+0,3
+×8,410×310×9=F -8-9 10
+
+    = 1,44 x 10-5 N
+
+(3)
+
+7.6 POSITIVE MARKING FROM 7.2 AND 7.3/ POSITIEWE NASIEN van 7.2 en
+7.3
+YES/JA
+Both charges are equal and positive 
+Beide ladings is gelyk en positief
+
+Accept calculation which shows charges the same and positive/ Aanvaar
+berekening wat toon dat ladings dieselfde en positief is.
+
+If the answer is YES, mark according to the memo, if NO check 7.2 first for
+sign of charge.  If stated NEGATIVE at 7.2, then answer is:
+No, the direction is incorrect. 
+Positiewe nasien vanaf 7.2: Indien antwoord vir 7.2 NEGATIEF, dan is hierd ie
+antwoord: Nee , die rigting is verkeerd. 
+
+(2)
+   [16]
+
+
+
+
+ 1 mark for formula 1 mark for equating the two fields
+1 mark for both substitutions
+1 mark for answer
+1 punt vir vergelyking
+1 punt vir twee velde gelyk gestel
+1 punt vir altwee substitusies
+1 punt vir antwoord
+
+
+ 
+
+=== page 21 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  21 DBE/2019
+ SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief
+
+QUESTION 8/VRAAG 8
+
+8.1.1 The rate at which (electrical) energy is converted (to other forms) (in a circuit)
+The rate at which energy is used/Energy used per second
+The rate at which work is done 
+(2 or zero)
+Die tempo waarteen elektriese energie omgesit word (in ander vorms) in ' n
+stroombaan.
+Die tempo waarteen energie verbruik word.
+Die tempo waarteen arbeid verrig word.
+(2 of nul) (2)
+
+8.1.2
+R
+VP 2=
+
+( )
+R
+12=6
+2
+
+R = 24 Ω
+
+( ) ( )
+R
+112=6
+2
+
+R=24 Ω
+
+P = VI
+6 = (12)(I)
+∴I = 0,5 A
+P = I2R
+6 = (0,5)2 R
+R = 24 Ω
+
+P = VI
+6 = (12)(I)
+∴I = 0,5 A
+V = IR
+12 = (0,5)R
+R = 24 Ω
+
+(3)
+
+8.1.3 POSITIVE MARKING FROM 8.1.2/POSITIEWE NASIEN VANAF 8.1.2
+OPTION 1/OPSIE 1
+
+21//
+1+1=1 RRR
+     = 241+241 
+R// = 12 Ω
+
+Rext = (Rs + R//)
+Rext = (24 +12) 
+     = 36 Ω
+V = IR
+OR
+ε = I(R + r)
+12 = I(36 + 2) 
+I = 0,32 A(0,316 A)
+
+
+ 
+
+( )( )
+Ω36=
+48
+2424+24=R
+)R+R RR+R(=R
+tot
+21
+21
+stot
+  
+ any one
+Enige 1
+
+=== page 22 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  22 DBE/2019
+ SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief
+
+ POSITIVE MARKING FROM 8.1.2/POSITIEWE NASIEN VANAF 8.1.2
+OPTION 2/OPSIE 2
+
+Rext = (Rs + R//)
+
+21//
+1+1=1 RRR
+   = 24
+1+241 
+ R// = 12 Ω
+Rext = (24 + 12)
+      = 36 Ω
+
+R
+V=RI=P 22 
+    ( ) ( )3812=2+36I 22 
+I = 0,32 A(0,316) 
+
+(5)
+
+8.1.4 POSITIVE MARKING FROM 8.1.3
+POSITIEWE NASIEN VANAF 8.1.3
+OPTION 1/OPSIE 1
+V = IR
+V = I(RA+r)
+     = 0,316(26) 
+     = 8,216 V (8,32 V)
+
+V//  = (12 – 8,216) 
+     = 3,784 V(3,68 V)
+∴VC = 3,78 V (3,68 V) 
+POSITIVE MARKING FROM 8.1.3
+POSITIEWE NASIEN VANAF 8.1.3
+OPTION 2/OPSIE 2
+V = IR
+For the parallel portion (or from 8.1.3):
+Vir die parallel gedeelte (of vanaf
+8..1.3)
+21 R
+1+R1=R1  OR  ( )21 21 R+R RR=R
+ R  = ( )( )482424
+     = 12 Ω
+V// = VC 
+V = IR//
+= (0,316)(12) 
+     = 3.79 V (3,84 V)
+
+(3)
+
+ POSITIVE MARKING FROM 8.1.3
+POSITIEWE NASIEN VANAF 8.1.3
+OPTION 3/OPSIE 3
+IA = IB + IC
+    = 2 IB
+0,316 = 2IB
+IB = 0,158 A
+V = 0,158 (24) 
+   = 3,79 V
+
+(3)
+
+I2R I2R = RV 2
+I2R2 = V2
+V = IR
+12 = I(38) 
+I = 0,316 A
+=
+( )( )
+Ω36=
+48
+2424+24=R
+R+R
+RR+R=R
+ext
+21
+21
+sext
+  
+
+=== page 23 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  23 DBE/2019
+ SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief
+
+8.1.5 OPTION 1/OPSIE 1
+The power rating  (output voltage) of the bulb is 6 W, 12 V. / Die gloeilamp is
+gemerk 6W ; 12 V
+P = RV 2
+ [For a given resistance, power is directly proportional to V2] 
+ [of Vir ‘n gegewe resistor is drywing direk eweredig aan V2]
+Since t he potential difference across light bulb C is less than the operating
+voltage, the output/power will be less , / Omdat d ie pote nsiaalverskil oor
+gloeilamp C  minder is as die benodigde spanning sal  die uitset/drywing
+minder wees.
+
+ OPTION 2/OPSIE 2
+P = RV 2
+The potential difference across light bulb C is less than the operating voltage.
+ Thus for the same resistance,  brightness decreases.
+Die potensiaalverskil oor gloeilamp C is minder as die benodigde
+potensiaalverskil. Dus vir dieselfde weerstand, sal die helderheid afneem.
+
+OPTION 3/OPSIE 3
+P = I2 R
+For a  given resistance , power is directly proportional to I 2 Since current
+decreases, brightness decreases.]
+ [vir ‘n gegewe resistor is drywing direk eweredig aan I 2 Omdat stroom
+afneem sal die helderheid afneem]
+
+OPTION 4/OPSIE 4
+P = I2 R
+In the circuit, the total current in light bulb C is less than the optimum current
+required (0,5 A ).  Thus for the same resistance,   the power will be less 
+hence brightness will decrease.
+In die stroombaan is die totale stroom in gloeilamp C minder as die optimum
+stroom benodig (0,5 A). Dus vir dieselfde weerstand, is die drywing minder  en
+die helderheid sal afneem.
+
+OPTION 5/OPSIE 5
+P = IV    [Power is directly proportional/equal to product of V and I. 
+Since current decreases, brightnes decreases/
+                  drywing is direk eweredig/gelyk  aan produk van V en I. Omdat
+stroom afneem sal die helderheid afneem]]
+OR/OF
+The voltage across light bulb C, as well as the current in the bulb are all less
+than the optimum values hence power is less and brightness is less.
+Die potensiaalverskil oor gloeilamp C sowel as die stroom in die gloeilamp is
+almal minder as die optimum waardes, dus is die drywing minder en die
+helderheid minder.
+
+(3)
+ NOTE: No mark if only equation is given.
+
+=== page 24 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  24 DBE/2019
+ SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief
+
+8.2.1 The total current passes through resistor A .  For the parallel portion, the
+current branches, therefore  only a portion of the total current passes through
+resistor C. 
+Die totale stroom vloei deur resistor A. Vir die parallelle  gedeelte verdeel die
+stroom, dus vloei slegs 'n gedeelte van die stroom deur resistor C. (2)
+ ACCEPT for 1 mark: Resistor C is connected parallel to resistors B and D
+together. Current is dividing at the junction.
+AANVAAR vir 1 punt: Resistor C is in parallel geskakel met B en D saam.  Die
+stroom breek op  by die koppeling.
+
+8.2.2 The current in B is equal to the current in A. The circuit becomes a series
+circuit. 
+Die stroom in B is gelyk aan die stroom in A. Die stroombaan word 'n serie
+stroombaan. (2)
+  [21]
+
+=== page 25 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  25 DBE/2019
+ SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief
+
+QUESTION 9/VRAAG 9
+
+9.1 Slip rings/Sleep ringe   (1)
+
+9.2 B   (1)
+
+9.3
+2
+VV max/maksrms/wgk =
+           = 2312
+           = 220,62 V 
+
+(3)
+
+9.4.1
+
+POSITIVE MARKING FROM 9.3/POSITIEWE NASIEN VANAF 9.3
+
+OPTION 1/OPSIE 1
+R
+VP 2 wgk/rmsgemid/aver =
+               =  40(220,62)2
+               =  1216,83 W 
+
+ POSITIVE MARKING FROM 9.3/POSITIEWE NASIEN VANAF 9.3
+OPTION 2/OPSIE 2
+Irms = R
+V wgk/rms
+
+      =  40(220,62)
+      = 5,515
+Pave = I2rmsR
+               = (5,515)2(40) 
+               = 1216,61 W 
+OR
+Pave = VrmsIrms
+       = (220,62)(5,515) 
+       = 1216,72 W
+
+
+
+
+
+ for any/ vir enige
+
+=== page 26 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  26 DBE/2019
+ SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief
+
+ OPTION 3/OPSIE 3
+R
+V=I maxmax
+
+       40
+312=
+
+        = 7,80 A
+2
+VI=P maxmaxave
+
+( )
+2
+)312(8,7=
+
+          = 1216,80 W
+
+(3)
+
+9.4.2 OPTION 1/OPSIE 1
+Imax/maks = RVmax/maks
+             = 40312
+             = 7,8 A
+
+ POSITIVE MARKING FROM 9.3 AND 9.4 .1/POSITIEWE NASIEN VANAF
+9.3 EN 9.4.1
+OPTION 2/OPSIE 2
+Pave/gemid = Vrms/wgkIrms/wgk
+ 1 216,83 = 220,62 Irms/wgk 
+
+  Irms/wgk = 5,515 A
+  Irms/wgk = 2Imax/maks
+   5,515 =
+2
+Imax/maks
+
+   Imax/maks = 7,8 A
+
+ OPTION 3/OPSIE 3
+Pave/gemid  = I2rms/wgk R
+1 216,83  = I2rms/wgk(40)
+   Irms/wgk = 5,515 A
+    2
+II max/maksrms/wgk =
+    5,515 =
+2
+Imax/maks
+
+    Imax/maks = 7,8 A 
+
+(4)
+   [12]
+
+
+
+
+
+
+Accept/ Aanvaar: I =
+R
+V
+
+
+ for any/ vir enige
+ for any/ vir enige
+ for any/ vir enige
+
+=== page 27 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  27 DBE/2019
+ SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief
+
+QUESTION 10/VRAAG 10
+
+10.1 The minimum freq uency of light needed to eject electrons from a metal
+(surface).
+Minimum frekwensie  van lig benodig  om elektrone vanaf ŉ m etaal
+(oppervlak) vry te stel.
+
+NOTE/LET WEL:
+-1 for each key word/phrase omitted.
+-1 vir elke sleutel woorde/frase weggelaat.
+
+(2)
+
+10.2 OPTION 1/OPSIE 1
+E= h λc 
+   =
+( )( )
+7-
+8-34
+10×5
+10×310×63,6 
+   = 3,98 x 10-19 J
+OPTION 2/OPSIE 2
+c = fλ
+3 x 108 = f(5 x 10-7)
+f = 6 x 1014 Hz
+
+E = hf
+   = (6,63 x 10-34)(6 x 1014) 
+   = 3,98 x 10-19 J
+
+(3)
+ NOTE: do not penalise if v is used in place of c.
+
+10.3 OPTION 1/OPSIE 2
+POSITIVE MARKING FROM QUESTION 10.2/POSITIEWE NASIEN VANAF
+VRAAG 10.2
+ E = W0 + Ekmax
+2
+max0 mv21+W=hf
+            h λc    = W0 + EK(max/maks)
+            h λc     = hf0 + EK(max/maks)
+3,98 x 10-19 = (6,63 x 10-34)(5,55 x1014) + EK(max/maks)
+EK(max/maks) = 3,0 x10-20 J
+
+EK(max/maks > 0 
+
+(The electrons emitted from the metal plate have kinetic energy to move
+between the plates, hence the ammeter registers a reading.
+Die elektrone vrygestel vanaf die metaalplaat het kinetiese energie om
+tussen die plate te beweeg en gevolglik registreer die ammeter ŉ lesing)
+
+
+1 mark any one/1 punt vir
+enige
+Both equations
+  Beide vergelykings
+
+=== page 28 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  28 DBE/2019
+ SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou
+
+ OPTION 2/OPSIE 2
+POSITIVE MARKING FROM QUESTION 10.2 /POSITIEWE N ASIEN
+VANAF VRAAG 10.2
+Wo = hfo 
+     = (6,63 x 10-34)(5,55 x1014) 
+     = 3,68 x 10-19 J
+
+Ephoton > Wo 
+
+(The energy of the incident photon is great er than the work function of
+potassium. From the equation hf = W 0 + E Kmax, the ejected photoelectrons
+will move between the plates,  hence the ammeter registers a reading.
+Die energie van die invallende foton is hoër as die arbeidsfunksie van kalium.
+Vanaf die vergelyking hf = hf 0 + E K(maks), sal die vrygestelde foto -elektrone
+tussen die plate te beweeg en gevolglik registreer die ammeter ŉ lesing.)
+
+ OPTION 3/OPSIE 3
+
+c = fλ 
+3 x 108 = f(5 x 10-7) 
+f = 6 x 1014 Hz
+
+f > f0 
+
+The frequency of the incident photon is higher than the threshold frequency.
+From the equation hf = hf 0 + EK(max), the ejected photoelectrons will be able
+to move between the plates   (for the given frequency) , hence the ammeter
+registers a reading.
+Die frekwensie van die invallende foton is hoër as die drumpelfrekwensie.
+Vanaf die vergelyking hf = hf 0 + E K(maks), sal die vrygeste lde foto-elektrone
+tussen die plate kan beweeg en gevolglik registreer die ammeter ŉ lesing.)
+
+(4)
+10.4 The increase in intensity increases the number of photons per second.
+Soos die intensiteit  toeneem, neem die aantal fotone per sekonde toe.
+
+Since each photon releases one electron  the number of ejected electrons
+per second increases.
+Aangesien elke foton een elektron vrystel, neem die aantal vrygesteld
+e elektrone per sekonde toe.
+ACCEPT: Flow of electrons per unit time increases  (1 mark)
+AANVAAR: vloei van elektrone per eenheidstyd neem toe (1 punt)
+
+This causes the current /ammeter reading to increase.
+Dit veroorsaak dat die stroom/ammeterlesing toeneem.
+
+(3)
+   [12]
+
+ TOTAL/TOTAAL:  150

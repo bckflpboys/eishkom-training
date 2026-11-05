@@ -1,0 +1,1019 @@
+=== page 1 ===
+Copyright reserved  Please turn over
+
+MARKS:  150
+
+TIME:  3 hours
+
+This question paper consists of 17 pages and 3 data sheets.
+
+GRADE 12
+NATIONAL
+SENIOR CERTIFICATE
+PHYSICAL SCIENCES:  PHYSICS (P1)
+
+NOVEMBER 2019
+
+=== page 2 ===
+Physical Sciences/P1 2 DBE/November 2019
+ NSC
+Copyright reserved  Please turn over
+
+INSTRUCTIONS AND INFORMATION
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+Write your examination number and centre number in the appropriate spaces
+on the ANSWER BOOK.
+
+This question paper consists of TEN questions. Answer ALL the questions in
+the ANSWER BOOK.
+
+Start EACH question on a NEW page in the ANSWER BOOK.
+
+Number the answers correctly according to the numbering system used in this
+question paper.
+
+Leave ONE line between two subquestions, e.g. between QUESTION 2.1 and
+QUESTION 2.2.
+
+You may use a non-programmable calculator.
+
+You may use appropriate mathematical instruments.
+
+Show ALL formulae and substitutions in ALL calculations.
+
+Round off your FINAL numerical answers to a minimum of TWO decimal
+places.
+
+Give brief motivations, discussions, etc. where required.
+
+You are advised to use the attached DATA SHEETS.
+
+Write neatly and legibly.
+
+=== page 3 ===
+Physical Sciences/P1 3 DBE/November 2019
+ NSC
+Copyright reserved  Please turn over
+
+QUESTION 1:  MULTIPLE-CHOICE QUESTIONS
+
+Various options are provided as possible answers to the following questions. Choose
+the answer and write only the letter (A–D) next to the question numbers (1.1 to 1.10) in
+the ANSWER BOOK, e.g. 1.11 E. Each question has only ONE correct answer.
+
+1.1 Which physical quantity is equal to the rate of change of momentum?
+
+ A
+
+B
+
+C
+
+D
+Mass
+
+Impulse
+
+Net force
+
+Acceleration
+
+(2)
+
+1.2 The gravitational acceleration on the surface of a planet of radius R is g.
+
+The gravitational acceleration at a height of 2R above the surface of the same
+planet is …
+
+A
+
+B
+
+C
+
+D
+9
+g
+
+4
+g
+
+4g
+
+9g
+
+(2)
+
+1.3 A ball falls from the edge of a table. Ignore the effects of air friction.
+
+Which ONE of the physical quantities associated with the ball during the fall
+remains constant?
+
+ A
+
+B
+
+C
+
+D
+Weight
+
+Momentum
+
+Kinetic energy
+
+Gravitational potential energy
+
+(2)
+
+=== page 4 ===
+Physical Sciences/P1 4 DBE/November 2019
+ NSC
+Copyright reserved  Please turn over
+
+1.4 Two trolleys, X and Y, of masses m and 2m respectively, are held together by
+a compressed spring between them . Initially they  are stationary on a
+horizontal floor, as shown below. Ignore the effects of friction.
+
+ The spring is now released and falls to the floor while the trolleys move apart.
+
+The magnitude of the MOMENTUM of trolley X while it moves away is …
+
+ A
+
+B
+
+C
+
+D
+zero.
+
+half the magnitude of the momentum of trolley Y.
+
+twice the magnitude of the momentum of trolley Y.
+
+the same as the magnitude of the momentum of trolley Y.
+
+(2)
+
+1.5 An object is dropped from rest and after falling a distance x, its momentum
+is p. Ignore the effects of air friction.
+
+The momentum of the object, after it has fallen a distance 2x, is …
+
+ A
+
+B
+
+C
+
+D
+p
+
+p2
+
+2
+p
+
+2p
+
+(2)
+
+1.6 A police car , with its siren on , is travelling at a constant speed  TOWARDS
+a stationary sound detector. The siren emits sound waves of frequency f and
+speed v.
+
+Which ONE of the following combinations best describes the frequency and
+speed of the detected sound waves?
+
+  FREQUENCY SPEED
+ A Less than f v
+ B Less than f Less than v
+ C Greater than f Less than v
+ D Greater than f v   (2)
+Y
+X
+m 2m
+
+=== page 5 ===
+Physical Sciences/P1 5 DBE/November 2019
+ NSC
+Copyright reserved  Please turn over
+R S
+-q +q
+
+1.7 Two identical spheres, R and S, on insulated stands, carry ing charges of
++q and -q respectively, are placed a distance apart . Sphere R exerts a n
+electrostatic force of magnitude F on sphere S.
+
+The two spheres are now brought into contact and returned to their original
+positions.
+
+The magnitude of the electrostatic force that sphere R exerts on sphere S is
+now …
+
+ A
+
+B
+
+C
+
+D
+zero
+
+2
+F
+
+F
+
+2F
+
+(2)
+
+1.8 Which ONE of the graphs below best represents the relationship between
+potential difference (V) and current (I) for an ohmic conductor?
+
+ A
+
+B
+
+ C
+
+D
+
+(2)
+
+V
+I 0
+V
+I 0
+V
+I 0
+V
+I 0
+
+=== page 6 ===
+Physical Sciences/P1 6 DBE/November 2019
+ NSC
+Copyright reserved  Please turn over
+
+1.9 Which ONE of the following combinations regarding the energy conversions in
+electric motors and electric generators is CORRECT?
+
+  ENERGY CONVERSION IN MOTORS ENERGY CONVERSION IN GENERATORS
+ A Mechanical to electrical Electrical to mechanical
+ B Mechanical to electrical Mechanical to electrical
+ C Electrical to mechanical Electrical to mechanical
+ D Electrical to mechanical Mechanical to electrical   (2)
+
+1.10 Consider the statements below regarding the photoelectric effect.
+
+The photoelectric effect proves that …
+
+(i) light energy is quantised.
+
+(ii) light has a particle nature.
+
+(iii) light has a wave nature.
+
+ Which of the statements above is/are CORRECT?
+
+ A
+
+B
+
+C
+
+D
+(i) only
+
+(ii) only
+
+(i) and (ii) only
+
+(i) and (iii) only
+
+(2)
+    [20]
+
+=== page 7 ===
+Physical Sciences/P1 7 DBE/November 2019
+ NSC
+Copyright reserved  Please turn over
+
+QUESTION 2 (Start on a new page.)
+
+Block P, of mass 2 kg , is connected to block  Q, of mass 3 kg, by a light inextensible
+string. Both blocks are on a plane inclined at an angle of 30°
+
+to the horizontal.
+
+Block Q is pulled by a constant force of 40 N at an angle of 25° to the incline.
+
+Block P moves on a rough section, AB, of the incline , while block Q moves on a
+frictionless section, BC, of the incline. See diagram below.
+
+An average constant frictional force of 2,5 N acts on block P as it moves from A to B
+up the incline.
+
+2.1 State Newton's Second Law in words.  (2)
+
+2.2 Draw a labelled free-body diagram for block P.  (4)
+
+2.3 Calculate the magnitude of the acceleration of block P while block P is moving
+on section AB.
+
+(8)
+
+2.4
+
+If block P has now passed point B, how will its acceleration compare to that
+calculated in  QUESTION 2.3? Choose from  GREATER THAN , SMALLER
+THAN or EQUAL TO.
+
+Give a reason for the answer.
+
+(2)
+   [16]
+
+A
+B
+3 kg
+C
+2 kg
+30°
+Q
+P
+25°
+40 N
+
+=== page 8 ===
+Physical Sciences/P1 8 DBE/November 2019
+ NSC
+Copyright reserved  Please turn over
+10 m∙s-1
+A
+40 m
+
+QUESTION 3 (Start on a new page.)
+
+Stone A is thrown vertically upwards with a speed of 10 m∙s -1 from the edge of the roof
+of a 40 m high building, as shown in the diagram below.
+
+Ignore the effects of air friction. Take the ground as reference.
+
+3.1 Define the term free fall.   (2)
+
+3.2 Calculate the maximum HEIGHT ABOVE THE GROUND reached by stone A.   (4)
+
+3.3 Write down the magnitude and direction of the acceleration of stone A at this
+maximum height.
+
+(2)
+
+Stone B is dropped from rest from the edge of the roof, x seconds after stone A was
+thrown upwards.
+
+3.4 Stone A passes stone B when the two stones are 29,74 m above the ground.
+
+Calculate the value of x.
+
+(6)
+
+ground
+
+=== page 9 ===
+Physical Sciences/P1 9 DBE/November 2019
+ NSC
+Copyright reserved  Please turn over
+
+3.5 The graphs of position versus time for part of the motion of both stones are
+shown below.
+
+ Which of labels a to h on the graph s above represents EACH of the
+following?
+
+ 3.5.1 The time at which stone A has a positive velocity  (1)
+
+ 3.5.2 The maximum height reached by stone A  (1)
+
+ 3.5.3 The time when stone B was dropped  (1)
+
+ 3.5.4 The height at which the stones pass each other  (1)
+    [18]
+    0   d     e   f           g          time (s)
+position (m)
+a
+h
+b
+c
+0
+
+=== page 10 ===
+Physical Sciences/P1 10 DBE/November 2019
+ NSC
+Copyright reserved  Please turn over
+480 m∙s-1 80 m∙s-1
+   Fixed wooden block
+W
+S
+E
+N
+
+QUESTION 4 (Start on a new page.)
+
+A bullet moves east at a velocity of 480 m∙s-1. It hits a wooden block that is fixed to the
+floor. The bullet takes 0,01 s to move through the stationary block and emerges from
+the block at a velocity of 80 m∙s-1 east. See the diagram below.
+
+Ignore the effects of air resistance.
+
+Consider the block-bullet system as an isolated system.
+
+4.1 Explain what is meant by an isolated system as used in Physics.   (2)
+
+The magnitude of the momentum of the bullet before it enters the block is 24 kg∙m∙s-1.
+
+ 4.2.1 Mass of the bullet  (3)
+
+ 4.2.2 Average net force exerted by the wooden block on the bullet  (5)
+[10]
+
+4.2 Calculate the:
+
+=== page 11 ===
+Physical Sciences/P1 11 DBE/November 2019
+ NSC
+Copyright reserved  Please turn over
+0,95 m·s-1
+ 1,5 m
+B
+A
+ground
+4 m·s-1
+C
+1,8 kg
+1,8 kg
+
+QUESTION 5 (Start on a new page.)
+
+An object of mass 1,8 kg slides down a rough curved track and passes point A, which
+is 1,5 m above the ground, at a speed of 0,95 m·s-1.
+
+The object reaches point B at the bottom of the track at a speed of 4 m·s-1.
+
+5.1 Define the term conservative force.  (2)
+
+5.2 Name the conservative force acting on the object.  (1)
+
+5.3 Is mechanical energy conserved as the object slides from point A to point B?
+Choose from YES or NO. Give a reason for the answer.
+
+(2)
+
+5.4 Calculate the gravitational  potential energy of the object when it was at
+point A.
+
+(3)
+
+5.5 Using energy principles, calculate the work done by friction on the object as it
+slides from point A to point B.
+
+(4)
+
+Surface BC in the diagram above is frictionless.
+
+5.6 What is the value of the net work done on the object as it slides from point B
+to point C?
+
+(1)
+   [13]
+
+=== page 12 ===
+Physical Sciences/P1 12 DBE/November 2019
+ NSC
+Copyright reserved  Please turn over
+GRAPH B: AIR PRESSURE VS TIME RECORDED BY DETECTOR Q NEXT TO THE ROAD
+air pressure
+time (x10-4 s)      9               18         27
+GRAPH A: AIR PRESSURE VS TIME RECORDED BY DETECTOR P IN THE CAR
+
+air pressure
+   time (x10-4 s)     8,5            17      25,5
+
+The siren of a police car , which is  travelling at a constant speed  along a straight
+horizontal road, emits sound waves of constant frequency. Detector P is placed inside
+the police car and detector Q is placed next to the road at a certain distance away from
+the car. The two detectors record the changes in the air pressure readings caused by
+the sound waves emitted by the siren as a function of time.
+
+The graphs below were obtained from the recorded results.
+
+The police car is moving AWAY from detector Q.
+
+6.2 Use the graphs and give a reason why  it can be confirmed that the police car
+is moving away from detector Q.
+
+(1)
+
+6.4 Use the information in the graphs to c alculate the speed o f the police car.
+Take the speed of sound in air as 340 m∙s-1.   (6)
+[11]
+QUESTION 6 (Start on a new page.)
+6.1 Different patterns are shown above for the same sound wave emitted by the
+siren. What phenomenon is illustrated by the two detectors showing  the
+different patterns?
+
+(1)
+6.3 Calculate the frequency of the sound waves recorded by detector P.  (3)
+
+=== page 13 ===
+Physical Sciences/P1 13 DBE/November 2019
+ NSC
+Copyright reserved  Please turn over
+
+QUESTION 7 (Start on a new page.)
+
+7.1 A small sphere, Y, carrying an unknown charge, is suspended at the end of a
+light inextensible string which is attached to  a fixed poi nt. Another sphere, X,
+carrying a charge of +6 x10 -6 C, on an insulat ed stand is brought close to
+sphere Y.
+
+Sphere Y experiences an electrostatic force and comes to rest 0,2  m away
+from sphere X, with the string at an angle of 10° with the vertical, as shown in
+the diagram below.
+
+ 7.1.1 What is the nature of the charge on sphere Y? Choose from
+POSITIVE or NEGATIVE.
+
+(1)
+
+ 7.1.2 Calculate the magnitude of the charge on sphere Y if the
+magnitude of the electrostatic force acting on it is 3,05 N.
+
+(3)
+
+ 7.1.3 Draw a labelled free-body diagram for sphere Y.  (3)
+
+ 7.1.4 Calculate the magnitude of the tension in the string.  (3)
+
+7.2 Two small charged spheres , A and B, on insulat ed stands, with charges
++2 x10-5 C and -4 x10-5 C respectively, are placed 0,4 m apart , as shown in
+the diagram below. M is the midpoint between spheres A and B.
+
+ 7.2.1 Define the term electric field at a point.  (2)
+
+ 7.2.2 Calculate the net electric field at point M.   (6)
+[18]
+
++6 x10-6 C X
+0,2 m
+10°
+Y
+string
+-4 x10-5 C
+B
++2 x10-5 C
+A
+0,4 m
+M
+
+=== page 14 ===
+Physical Sciences/P1 14 DBE/November 2019
+ NSC
+Copyright reserved  Please turn over
+
+QUESTION 8 (Start on a new page.)
+
+In the circuit diagram below, resistor R, with a resistance of 5,6 Ω, is connected,
+together with a switch, an ammeter and a high-resistance voltmeter, to a battery with
+an unknown internal resistance, r.
+
+The resistance of the connecting wires and the ammeter may be ignored.
+
+The graph below shows the potential difference across the terminals of the battery as a
+function of time.
+
+At time t1, switch S is closed.
+
+8.1 Define the term emf of a battery.  (2)
+
+8.2 Write down the value of the emf of the battery.  (1)
+
+8.3 When switch S is CLOSED, calculate the:
+
+ 8.3.1 Current through resistor R  (3)
+
+ 8.3.2 Power dissipated in resistor R  (3)
+
+ 8.3.3 Internal resistance, r, of the battery  (3)
+time (s)
+Potential difference   (V)
+13
+10,5
+t1 0
+r
+ A
+V
+● ●
+S R
+5,6 Ω
+ Ɛ
+
+=== page 15 ===
+Physical Sciences/P1 15 DBE/November 2019
+ NSC
+Copyright reserved  Please turn over
+
+8.4 Two IDENTICAL resistors, each with resistance X, are now connected in the
+same circuit with switch S closed, as shown below.
+
+ The ammeter reading now increases to 4 A.
+
+ 8.4.1 How would the voltmeter reading  change? Choose fr om
+INCREASES, DECREASES or REMAINS THE SAME.
+
+Give a reason for the answer by referring to Vinternal resistance.
+
+(2)
+
+ 8.4.2 Calculate resistance X.    (5)
+    [19]
+
+X
+r
+ A
+V
+● ●
+ S R
+ Ɛ
+5,6 Ω
+X
+
+=== page 16 ===
+Physical Sciences/P1 16 DBE/November 2019
+ NSC
+Copyright reserved  Please turn over
+AC source
+
+200 Ω
+S
+DC source
+
+200 Ω
+S
+Diagram A Diagram B
+
+QUESTION 9 (Start on a new page.)
+
+9.1 A simplified diagram of an electric generator is shown below. When the coil is
+rotated with a constant speed, an emf is induced in the coil.
+
+ 9.1.1 Is this an AC generator or a DC generator?   (1)
+
+ 9.1.2 Briefly explain how an emf is generated in the coil when the coil is
+rotated by referring to the principle of electromagnetic induction.
+
+(2)
+
+ 9.1.3 Draw a sketch graph of the output voltage versus time for this
+generator. Show ONE complete cycle.
+
+(2)
+
+9.2 A 200 Ω resistor is connected to a DC voltage supply , as shown in
+diagram A. The energy dissipated in the resistor in 10 s is 500 J.
+
+The same resistor is now connected to an AC source ( diagram B) and 500 J
+of energy is also dissipated in the resistor in 10 s.
+
+ 9.2.1 Define the term rms voltage of an AC source.  (2)
+
+  9.2.2 Calculate the maximum (peak) voltage of the AC source.  (5)
+[12]
+Coil
+Magnet
+
+=== page 17 ===
+Physical Sciences/P1 17 DBE/November 2019
+ NSC
+Copyright reserved
+
+During an experiment, light of different frequencies is radiated onto a silver cathode of
+a photocell and the corresponding maximum speed of the ejected photoelectrons are
+measured.
+
+A graph of the energy of the incident photons versus the square of the maximum
+speed of the ejected photoelectrons is shown below.
+
+10.1 Define the term photoelectric effect.  (2)
+
+10.2 Write down the value of the work function of silver.
+
+Use a relevant equation to justify the answer.
+
+(3)
+
+10.3 Which physical quantity can be determined from the gradient of the graph?  (1)
+
+10.4 Calculate the value of X as shown on the graph.  (5)
+
+10.5 How will EACH of the following be affected? Choose  from INCREASES ,
+DECREASES or REMAINS THE SAME.
+
+ 10.5.1 The gradient of the graph  (1)
+
+ 10.5.2 The number of photoelectrons emitted per unit time  (1)
+[13]
+
+ TOTAL:  150
+QUESTION 10 (Start on a new page.)
+Use the graph to answer the following questions.
+The experiment above is now repeated using light of higher intensity.
+Graph of energy of photons versus square of
+maximum speed of photoelectrons
+  0                                        X
+2
+maxv  (x 1012 m2∙s-2)
+Energy of photons (x10-19J) 11,98
+
+  7,48
+
+       0
+
+=== page 18 ===
+Physical Sciences/P1 1 DBE/November 2019
+ NSC
+Copyright reserved             Please turn over
+
+DATA FOR PHYSICAL SCIENCES GRADE 12
+PAPER 1 (PHYSICS)
+
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 12
+VRAESTEL 1 (FISIKA)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Acceleration due to gravity
+Swaartekragversnelling g 9,8 m·s-2
+Universal gravitational constant
+Universele gravitasiekonstant G 6,67 x 10-11 N·m2·kg-2
+Radius of the Earth
+Radius van die Aarde
+ER  6,38 x 106 m
+Mass of the Earth
+Massa van die Aarde
+EM  5,98 x 1024 kg
+Speed of light in a vacuum
+Spoed van lig in 'n vakuum c 3,0 x 108 m·s-1
+Planck's constant
+Planck se konstante h 6,63 x 10-34 J·s
+Coulomb's constant
+Coulomb se konstante k 9,0 x 109 N·m2·C-2
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Electron mass
+Elektronmassa
+em  9,11 x 10-31 kg
+
+=== page 19 ===
+Physical Sciences/P1 2 DBE/November 2019
+ NSC
+Copyright reserved      Please turn over
+
+TABLE 2:  FORMULAE/TABEL 2:  FORMULES
+
+MOTION/BEWEGING
+tavv if 
+
+2
+2
+1
+i taΔtvΔx   or/of
+2
+2
+1
+i taΔtvΔy 
+xa2vv
+2
+i
+2
+f 
+ or/of
+ya2vv
+2
+i
+2
+f 
+Δt2 vvΔx fi    or/of
+Δt2 vvΔy fi  
+
+FORCE/KRAG
+
+maFnet
+
+mvp
+Nμ=f s
+max
+s
+
+Nμ =f kk
+if
+net
+mv- mv=pΔ
+pΔ=tΔF
+
+mgw
+
+2
+21
+d
+mmG=F
+       or/of
+2
+21
+r
+mmG=F
+
+2d
+MG  g 
+2r
+MG g 
+WORK, ENERGY AND POWER/ARBEID, ENERGIE EN DRYWING
+
+xΔF=W
+cos
+
+mghU           or/of
+mghEP
+2mv21K 
+       or/of
+2
+k mv21E 
+KWnet 
+        or/of
+knet EW 
+
+if KKK 
+     or/of
+kikfk EEE 
+UKWnc 
+ or/of
+pknc EEW 
+
+t
+WP 
+Pave = Fvave    / Pgemid = Fvgemid
+
+WAVES, SOUND AND LIGHT/GOLWE, KLANK EN LIG
+
+ fv
+
+f
+1T
+s
+s
+L
+L fvv vvf 
+
+b
+b
+L
+L fvv vvf 
+hfE     or /of
+ hcE
+
+k(max)0 E+ W=E
+  or/of
+max0 K+ W=E  where/waar
+hf  E
+ and/en
+00 hfW  and/en
+2
+max(max)k mv21E     or/of
+
+2
+maxmax mv21K 
+
+or/of
+or/of
+
+=== page 20 ===
+Physical Sciences/P1 3 DBE/November 2019
+ NSC
+Copyright reserved
+
+ELECTROSTATICS/ELEKTROSTATIKA
+
+2
+21
+r
+QkQF
+
+2r
+kQE 
+q
+WV
+
+q
+FE
+
+e
+Q=n
+eq
+Q=n
+
+ELECTRIC CIRCUITS/ELEKTRIESE STROOMBANE
+
+I
+VR 
+
+emf (
+ε ) = I(R + r)
+
+emk (
+ε ) = I(R + r)
+...RRR 21s 
+
+...R1R1R1 21p 
+
+tq  I
+W = Vq
+
+W = VI
+ t
+
+W = I2R
+ t
+
+W =
+R
+ΔtV2
+Δt
+WP 
+
+P = VI
+
+RP 2I
+
+R
+VP 2
+
+ALTERNATING CURRENT/WISSELSTROOM
+
+2
+max
+rms
+II 
+             /
+2
+maks
+wgk
+II 
+
+2
+VV maxrms 
+           /
+2
+VV makswgk 
+rmsrmsave VP I
+     /
+wgkwgkgemiddeld VP I
+
+RP 2rmsave I
+       /
+RP 2wgkgemiddeld I
+
+R
+VP 2rmsave
+       /
+R
+VP 2wgkgemiddeld
+
+output
+N S
+or / of

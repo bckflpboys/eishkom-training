@@ -1,0 +1,225 @@
+# NATIONAL SENIOR CERTIFICATE
+
+## GRADE 10
+
+---
+
+## MATHEMATICS P2
+
+### NOVEMBER 2018
+
+---
+
+**MARKS:** 100  
+**TIME:** 2 hours
+
+This question paper consists of 9 pages.
+
+---
+
+## INSTRUCTIONS AND INFORMATION
+
+Read the following instructions carefully before answering the questions.
+
+1. This question paper consists of EIGHT questions.
+2. Answer ALL the questions in the SPECIAL ANSWER BOOK provided.
+3. Clearly show ALL calculations, diagrams, graphs, etc. that you used to determine the answers.
+4. Answers only will NOT necessarily be awarded full marks.
+5. If necessary, round off answers to TWO decimal places, unless stated otherwise.
+6. Diagrams are NOT necessarily drawn to scale.
+7. You must use an approved scientific calculator (non-programmable and non-graphical), unless stated otherwise.
+8. Write neatly and legibly.
+
+---
+
+## QUESTION 1
+
+The line graph below shows test marks out of 10 obtained by a Grade 10 class.
+
+[DIAGRAM: A line graph with Frequency on the vertical axis (from 0 to 10) and Marks on the horizontal axis (from 0 to 10). Plotted points: (0,0), (1,3), (2,4), (3,5), (4,3), (5,6), (6,0), (7,7), (8,9), (9,5), (10,0).]
+
+1.1 Complete the frequency column in the table provided in the ANSWER BOOK. (2)
+
+1.2 How many learners wrote the test? (1)
+
+1.3 Calculate the:
+
+1.3.1 Range for the data (2)
+
+1.3.2 Mean for the test (3)
+
+1.4 Determine the median for the data. (3)
+
+1.5 Draw a box and whisker diagram for the data. (3)  
+**[14]**
+
+---
+
+## QUESTION 2
+
+In the diagram below, $P(1; 0)$, $Q(6; 3)$ and $R(9; -2)$ are the vertices of a triangle such that $PQ = QR$ and $PQ \perp QR$. $T$ is a point on $PQ$ such that $T$ is the midpoint of $PQ$. $S$ is the point of intersection of $RQ$ and the $x$-axis. $V$ is a point on the $x$-axis such that $Q\hat{S}V = 121^\circ$. $Q\hat{P}S = \theta$
+
+[DIAGRAM: Cartesian plane showing triangle $PQR$ with $P(1;0)$, $Q(6;3)$, and $R(9;-2)$. $T$ is the midpoint of $PQ$. $S$ is on the $x$-axis where line $RQ$ intersects it. $V$ is further right on the positive $x$-axis with angle $Q\hat{S}V = 121^\circ$. Angle $Q\hat{P}S = \theta$.]
+
+2.1 Determine the:
+
+2.1.1 Length of $PQ$. Leave your answer in surd form. (2)
+
+2.1.2 Gradient of $PQ$ (2)
+
+2.1.3 Coordinates of $T$ (2)
+
+2.2 Calculate the:
+
+2.2.1 Area of $\Delta QTR$ (3)
+
+2.2.2 Size of $\theta$, with reasons (2)
+
+2.2.3 Coordinates of $S$ (3)
+
+2.3 Determine, with reasons, the gradient of the line through $T$ and the midpoint of $PR$. (3)  
+**[17]**
+
+---
+
+## QUESTION 3
+
+3.1 In the diagram below, $\Delta QPR$ is a right-angled triangle with $Q\hat{P}R = 90^\circ$.
+
+[DIAGRAM: Right-angled triangle $\Delta QPR$ with $Q\hat{P}R = 90^\circ$, vertex $Q$ at the top left, $P$ at the top right, and $R$ at the bottom right.]
+
+3.1.1 Use the sketch to determine the ratio of $\tan(90^\circ - R)$. (1)
+
+3.1.2 Write down the trigonometric ratio that is equal to $\frac{QR}{QP}$. (1)
+
+3.2 $S(-3; -4)$ is a point on the Cartesian plane such that $OS$ makes an angle of $\theta$ with the positive $x$-axis.
+
+[DIAGRAM: Cartesian plane showing point $S(-3; -4)$ in the third quadrant, with angle $\theta$ measured counterclockwise from the positive $x$-axis to ray $OS$.]
+
+Calculate the following WITHOUT using a calculator:
+
+3.2.1 The length of $OS$ (2)
+
+3.2.2 The value of $\sec \theta + \sin^2 \theta$ (3)
+
+3.3 Determine the value of the following WITHOUT using a calculator:
+$$\frac{\csc 45^\circ}{\sin 90^\circ \cdot \tan 60^\circ}$$ (4)  
+**[11]**
+
+---
+
+## QUESTION 4
+
+4.1 In the diagram below, $ABC$, $ACD$ and $ADE$ are right-angled triangles. $A\hat{B}E = 90^\circ$ and $B\hat{A}C = 30^\circ$. $BC = 20$ units and $AD = 60$ units.
+
+[DIAGRAM: Connected right-angled triangles $ABC$, $ACD$, and $ADE$. $A\hat{B}E = 90^\circ$, $B\hat{A}C = 30^\circ$, $BC = 20$, $AD = 60$. Right angles at $B$, $C$, and $D$.]
+
+Calculate the:
+
+4.1.1 Length of $AC$ (2)
+
+4.1.2 Size of $C\hat{A}D$ (2)
+
+4.1.3 Length of $DE$ (3)
+
+4.2 Solve for $x$, correct to ONE decimal place, where $0^\circ \le x \le 90^\circ$:
+
+4.2.1 $\tan x = 2,01$ (2)
+
+4.2.2 $5 \cos x + 2 = 4$ (3)
+
+4.2.3 $\frac{\csc x}{2} = 3$ (3)  
+**[15]**
+
+---
+
+## QUESTION 5
+
+5.1 Consider the function $f(x) = -3 \tan x$.
+
+5.1.1 Sketch, on the grid provided in the ANSWER BOOK, the graph of $f$ for $0^\circ \le x \le 360^\circ$. Clearly show ALL the intercepts and asymptotes. (3)
+
+5.1.2 Hence, or otherwise, write down the:
+
+(a) Period of $f$ (1)
+
+(b) Equation of $h$ if $h$ is the reflection of $f$ about the $x$-axis (1)
+
+5.2 Sketched below is the graph of $g(x) = a \cos b\theta$
+
+[DIAGRAM: A cosine wave $g(x)$ starting at $(0,-2)$, reaching a maximum of $2$ at $180^\circ$, and ending at $(360^\circ, -2)$, with $x$-intercepts at $90^\circ$ and $270^\circ$.]
+
+5.2.1 Write down the values of $a$ and $b$. (2)
+
+5.2.2 Use the graph to determine the value(s) of $x$ for which $g(x) > 0$. (1)
+
+5.2.3 Determine the range of $h$ if $h$ is the image of $g$ if $g$ is shifted down TWO units. (2)
+
+5.2.4 Determine, using the graph, the value of:
+$$-2(\cos 0^\circ + \cos 1^\circ + \cos 2^\circ + ... + \cos 358^\circ + \cos 359^\circ + \cos 360^\circ)$$ (2)  
+**[12]**
+
+---
+
+## QUESTION 6
+
+The diagram below shows a cup with a volume of $117\pi\text{ cm}^3$ and an inner diameter of $60\text{ mm}$. Ignore the thickness of the cup.
+
+[DIAGRAM: A cylindrical cup of inner diameter $60\text{ mm}$ and height $h$, partially filled with liquid.]
+
+Calculate the:
+
+6.1 Height of the cup (3)
+
+6.2 Total surface area of the water that touches the cup if the cup is $80\%$ full with water (4)  
+**[7]**
+
+---
+
+## Give reasons for ALL geometry statements in QUESTIONS 7 and 8.
+
+---
+
+## QUESTION 7
+
+7.1 Complete the statement so that it is TRUE:
+
+The line drawn from the midpoint of the one side of a triangle, parallel to the second side, ... (1)
+
+7.2 $ACS$ is a triangle. $P$ is a point on $AS$ and $R$ is a point on $AC$ such that $PSRQ$ is a parallelogram. $PQ$ intersects $AC$ at $B$ such that $B$ is the midpoint of $AR$. $QC$ is joined. Also, $CR = PS$, $\hat{C}_1 = 50^\circ$ and $BP = 60\text{ mm}$.
+
+[DIAGRAM: Triangle $ACS$ with points $P$ on $AS$ and $R$ on $AC$. $PSRQ$ is a parallelogram. $PQ$ intersects $AC$ at $B$ (midpoint of $AR$). $QC$ joined. $CR = PS$, $\hat{C}_1 = 50^\circ$, $BP = 60\text{ mm}$.]
+
+7.2.1 Calculate the size of $\hat{A}$. (5)
+
+7.2.2 Determine the length of $QP$. (3)  
+**[9]**
+
+---
+
+## QUESTION 8
+
+8.1 $ABCD$ is a parallelogram. $E$ and $F$ are points on $AB$ and $DC$ respectively such that $AE = CF$. $DE$ is produced to $J$ and $CJ$ is drawn. $BF$ is produced to $K$ and $AK$ is drawn.
+
+[DIAGRAM: Parallelogram $ABCD$ with points $E$ on $AB$ and $F$ on $DC$ ($AE = CF$). $DE$ produced to $J$, $CJ$ drawn. $BF$ produced to $K$, $AK$ drawn.]
+
+Prove that:
+
+8.1.1 $DJ \parallel BK$ (5)
+
+8.1.2 $\hat{E}_1 = \hat{F}_1$ (4)
+
+8.2 In the diagram below $O$ is the centre of the circle. $A$ and $B$ lie on the circumference of the circle. $AP = BP$.
+
+[DIAGRAM: Circle with centre $O$. Points $A$ and $B$ on circumference. Tangents/secants from external point $P$ such that $AP = BP$. $T$ is the intersection point.]
+
+Prove that:
+
+8.2.1 $AT = BT$ (5)
+
+8.2.2 $O\hat{T}A = 90^\circ$ (1)  
+**[15]**
+
+---
+
+**TOTAL: 100**

@@ -1,0 +1,430 @@
+**BASIC EDUCATION**
+**REPUBLIC OF SOUTH AFRICA**
+
+**NASIONALE SENIOR SERTIFIKAAT**
+
+**GRAAD 12**
+
+**FISIESE WETENSKAPPE: FISIKA (V1)**
+
+**NOVEMBER 2025**
+
+**PUNTE:** 150  
+**TYD:** 3 uur  
+
+Hierdie vraestel bestaan uit 16 bladsye en 3 gegewensblaaie.
+
+---
+
+### INSTRUKSIES EN INLIGTING
+
+1. Skryf jou sentrumnommer en eksamennommer in die toepaslike ruimtes op die ANTWOORDEBOEK neer.
+2. Hierdie vraestel bestaan uit TIEN vrae. Beantwoord AL die vrae in die ANTWOORDEBOEK.
+3. Begin ELKE vraag op 'n NUWE bladsy in die ANTWOORDEBOEK.
+4. Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie vraestel gebruik is.
+5. Laat EEN reël tussen twee subvrae oop, bv. tussen VRAAG 2.1 en VRAAG 2.2.
+6. Jy mag 'n nieprogrammeerbare sakrekenaar gebruik.
+7. Toon ALLE formules en substitusies in ALLE berekeninge.
+8. Rond jou FINALE numeriese antwoorde tot 'n minimum van TWEE desimale plekke af.
+9. Gee kort (bondige) motiverings, besprekings, ens. waar nodig.
+10. Jy word aangeraai om die aangehegte GEGEWENSBLAAIE te gebruik.
+11. Skryf netjies en leesbaar.
+
+---
+
+## VRAAG 1: MEERVOUDIGEKEUSE-VRAE
+
+Verskeie opsies word as moontlike antwoorde op die volgende vrae gegee. Elke vraag het slegs EEN korrekte antwoord. Kies die antwoord en skryf slegs die letter (A–D) langs die vraagnommers (1.1 tot 1.10) in die ANTWOORDEBOEK neer, bv. 1.11 E.
+
+1.1 Die netto krag wat op 'n voorwerp op 'n horisontale oppervlak inwerk, is altyd …
+
+A in die rigting van beweging van die voorwerp.  
+B in die rigting van versnelling van die voorwerp.  
+C nul wanneer die voorwerp teen konstante versnelling beweeg.  
+D toenemend wanneer die voorwerp teen konstante versnelling beweeg.  
+(2)
+
+1.2 'n Warmlugballon beweeg opwaarts teen 'n konstante snelheid. 'n Klein klippie word uit DIE BALLON laat val. Watter EEN van die volgende grafieke verteenwoordig die bewegings van die lugballon en die klippie?
+
+Ignoreer die effekte van wrywing op die klippie.
+
+A
+[DIAGRAM: Velocity-time graph showing a straight horizontal line for 'ballon' and a straight line starting below zero rising upwards through zero for 'klippie']
+
+B
+[DIAGRAM: Velocity-time graph showing a straight horizontal line for 'ballon' and a straight line starting below zero going downwards for 'klippie']
+
+C
+[DIAGRAM: Velocity-time graph showing a straight horizontal line for 'ballon' and a straight line starting at the same positive velocity as the balloon and sloping upwards for 'klippie']
+
+D
+[DIAGRAM: Velocity-time graph showing a straight horizontal line for 'ballon' and a straight line starting at zero sloping upwards for 'klippie']
+(2)
+
+1.3 'n Motor wat aan die grond vasgemaak is, word gebruik om 'n houer vertikaal opwaarts teen 'n KONSTANTE SNELHEID te lig.
+
+[DIAGRAM: A motor on the ground connected by a rope over a pulley to a container moving vertically upwards]
+
+Beskou die stellings hieronder vir die opwaartse beweging van die houer.
+
+(i) Die tempo waarteen arbeid deur die motor verrig word, neem toe.  
+(ii) Die tempo waarteen arbeid deur die motor verrig word, bly konstant.  
+(iii) Die meganiese energie van die houer neem toe.  
+(iv) Die meganiese energie van die houer bly konstant.
+
+Watter van die stellings hierbo is KORREK?
+
+A Slegs (i) en (iii)  
+B Slegs (ii) en (iv)  
+C Slegs (ii) en (iii)  
+D Slegs (i) en (iv)  
+(2)
+
+1.4 Voorwerpe $P$ en $Q$, met massas $m$ en $2m$ onderskeidelik, het dieselfde momentum.
+
+[DIAGRAM: Two blocks labeled P (mass m) and Q (mass 2m)]
+
+Die snelheid van P is …
+
+A gelyk aan die snelheid van Q.  
+B die helfte van die snelheid van Q.  
+C dubbel die snelheid van Q.  
+D vier keer die snelheid van Q.  
+(2)
+
+1.5 'n Blok beweeg oor 'n ruwe horisontale oppervlak terwyl 'n horisontale krag $F$ met 'n grootte van $18\text{ N}$ en 'n konstante kinetiese wrywingskrag met 'n grootte van $6\text{ N}$ daarop inwerk.
+
+[DIAGRAM: A block on a horizontal surface with a kinetic friction force $f_k = 6\text{ N}$ to the left and an applied force $F = 18\text{ N}$ to the right]
+
+Watter EEN van die volgende kombinasies oor VERSNELLING en NETTO ARBEID VERRIG OP DIE BLOK is KORREK?
+
+| | VERSNELLING | NETTO ARBEID VERRIG OP DIE BLOK |
+|---|---|---|
+| A | Konstant | Neem toe |
+| B | Neem toe | Konstant |
+| C | Neem toe | Neem toe |
+| D | Konstant | Konstant |
+(2)
+
+1.6 'n Ster se spektrum, soos waargeneem vanaf die Aarde, het rooiverskuiwing ondergaan. Watter EEN van die volgende stellings is KORREK?
+
+A Die spoed van lig neem toe.  
+B Die ster beweeg na die Aarde toe.  
+C Die frekwensie van elke spektrumlyn neem toe.  
+D Die golflengte van elke spektrumlyn neem toe.  
+(2)
+
+1.7 Drie puntladings, $Q_1$, $Q_2$ en $Q_3$, is vas in 'n reguit lyn. $Q_1$ is $r$ meter van $Q_2$ af, terwyl $Q_3$ $2r$ meter van $Q_2$ af is, soos in die diagram hieronder getoon.
+
+[DIAGRAM: Three point charges $Q_1$, $Q_2$, $Q_3$ on a straight line. Distance between $Q_1$ and $Q_2$ is $r$, and distance between $Q_2$ and $Q_3$ is $2r$]
+
+Die grootte van die lading op $Q_2$ is $q$. Die netto elektrostatiese krag op lading $Q_1$ is nul.
+
+Wat is die grootte van lading $Q_3$ in terme van $q$?
+
+A $\frac{1}{9}q$  
+B $\frac{1}{3}q$  
+C $3q$  
+D $9q$  
+(2)
+
+1.8 Drie identiese gloeilampe, $X$, $Y$ en $Z$, is in 'n stroombaan verbind, soos in die diagram hieronder getoon. Skakelaar $S$ is aanvanklik gesluit.
+
+Ignoreer die interne weerstand van die battery.
+
+[DIAGRAM: Circuit with a DC source, lamp X in series with parallel branches containing lamp Y and switch S with lamp Z]
+
+Skakelaar $S$ word nou oopgemaak.
+
+Hoe sal die helderheid van gloeilampe $X$ en $Y$ beïnvloed word?
+
+| | HELDERHEID VAN GLOEILAMP X | HELDERHEID VAN GLOEILAMP Y |
+|---|---|---|
+| A | Neem toe | Neem af |
+| B | Neem af | Neem toe |
+| C | Neem toe | Neem toe |
+| D | Neem af | Neem af |
+(2)
+
+1.9 Hoe verseker die kommutator in 'n GS-motor dat die spoel voortdurend in EEN rigting roteer?
+
+A Deur wrywing te verminder  
+B Deur WS in GS om te skakel  
+C Deur die rigting van die stroom in die spoel om te draai  
+D Deur elektriese kontak tussen die eksterne en die interne stroombane te handhaaf  
+(2)
+
+1.10 Lig van verskillende golflengtes is invallend op 'n metaaloppervlak.
+
+Watter EEN van die volgende grafieke toon die KORREKTE verwantskap tussen die maksimum kinetiese energie van die foto-elektrone, $E_{\text{k(maks)}}$, en die omgekeerde van die golflengte van die invallende lig, $\frac{1}{\lambda}$?
+
+A
+[DIAGRAM: Graph of $E_{\text{k(maks)}}$ vs $\frac{1}{\lambda}$ starting from origin and sloping up]
+
+B
+[DIAGRAM: Graph of $E_{\text{k(maks)}}$ vs $\frac{1}{\lambda}$ starting from origin and sloping down]
+
+C
+[DIAGRAM: Graph of $E_{\text{k(maks)}}$ vs $\frac{1}{\lambda}$ with a positive x-intercept before starting to slope up]
+
+D
+[DIAGRAM: Graph of $E_{\text{k(maks)}}$ vs $\frac{1}{\lambda}$ with a negative y-intercept sloping down]
+(2)
+
+**[20]**
+
+---
+
+## VRAAG 2 (Begin op 'n nuwe bladsy.)
+
+'n Blok met 'n massa van $5\text{ kg}$ is in rus op 'n ruwe horisontale oppervlak. Wanneer 'n konstante krag $F$, met 'n grootte van $18\text{ N}$, op die blok teen 'n hoek $\theta$ met die horisontaal inwerk, ervaar die blok maksimum statiese wrywing. Sien die diagram hieronder.
+
+[DIAGRAM: A $5\text{ kg}$ block on a horizontal surface being pulled by a force $F = 18\text{ N}$ at an angle $\theta$ above the horizontal]
+
+2.1 Stel Newton se Tweede Bewegingswet in woorde. (2)
+
+2.2 Teken 'n benoemde vrye liggaamdiagram (vrye kragtediagram) wat AL die kragte wat op die blok inwerk, toon. (4)
+
+2.3 Die horisontale komponent van krag $F$ is $15\text{ N}$.
+
+Bereken:
+
+2.3.1 $\theta$ (2)
+
+2.3.2 Die koëffisiënt van statiese wrywing (5)
+
+2.4 Hoek $\theta$ word verklein terwyl die grootte van krag $F$ konstant bly.
+
+Hoe sal die wrywing wat op die blok inwerk, beïnvloed word? Kies uit TOENEEM, AFNEEM of BLY DIESELFDE. Verduidelik die antwoord. (4)
+
+**[17]**
+
+---
+
+## VRAAG 3 (Begin op 'n nuwe bladsy.)
+
+'n Bal word vertikaal opwaarts geprojekteer vanaf die bokant van 'n gebou wat $5\text{ m}$ hoog is. Ignoreer die effekte van wrywing.
+
+[DIAGRAM: A building of height $5\text{ m}$ with a ball being projected vertically upwards from the top]
+
+Die tabel hieronder toon die grootte van die snelheid van die bal op DRIE verskillende tye gedurende die beweging daarvan.
+
+| TYD (s) | GROOTTE VAN SNELHEID ($\text{m}\cdot\text{s}^{-1}$) |
+|---|---|
+| $0$ | $15$ |
+| $p$ | $0$ |
+| $3,36$ | $q$ |
+
+3.1 Definieer die term vryval. (2)
+
+3.2 Gebruik SLEGS BEWEGINGSVERGELYKINGS en bereken die waarde van $p$. (3)
+
+Die bal tref die grond $3,36$ sekondes nadat dit opwaarts gegooi is.
+
+3.3 Bereken $q$. (3)
+
+Die bal hop tot 'n maksimum hoogte van $3\text{ m}$ nadat dit die grond getref het.
+
+3.4 Is die botsing met die grond ELASTIES of ONELASTIES?  
+Verduidelik die antwoord SONDER die gebruik van berekeninge. (3)
+
+3.5 Teken 'n snelheid-teenoor-tydgrafiek vir die beweging van die bal vanaf die tyd wat dit geprojekteer is totdat dit die maksimum hoogte bereik het nadat dit gehop het.
+
+Toon die volgende NUMERIESE WAARDES op die grafiek:
+* Die aanvanklike snelheid
+* Tyd $p$
+* Snelheid $q$
+(4)
+
+**[15]**
+
+---
+
+## VRAAG 4 (Begin op 'n nuwe bladsy.)
+
+Krieketspelers by 'n akademie voer 'n eksperiment uit om die verwantskap te bepaal tussen die kontaktyd en die finale momentum van 'n bal vir 'n konstante gemiddelde netto krag.
+
+'n Krieketbal met 'n massa van $150\text{ g}$ word horisontaal teen 'n sekere aanvanklike snelheid gegooi en word met 'n kolf geslaan sodat die bal in die teenoorgestelde rigting beweeg, soos in die diagram hieronder getoon. Die gemiddelde netto krag wat op die bal inwerk, is horisontaal.
+
+[DIAGRAM: A bat hitting a ball moving with initial velocity $v_i$ to the left and final velocity $v_f$ to the right]
+
+Die eksperiment word herhaal met dieselfde bal. Die gemiddelde netto krag en die aanvanklike snelheid van die bal bly konstant. Die kontaktyd tussen die kolf en die bal word ELKE keer verander. Die resultate verkry, word in die sketsgrafiek hieronder getoon.
+
+[DIAGRAM: Graph of final momentum $p_f$ ($\text{kg}\cdot\text{m}\cdot\text{s}^{-1}$) versus contact time $\Delta t$ (s), starting at a negative y-intercept, passing through $(0.01, 0)$ and reaching $(0.03, 4.5)$]
+
+4.1 Definieer die term impuls. (2)
+
+4.2 Bereken die:
+
+4.2.1 Gemiddelde netto krag wat op die bal inwerk (3)
+
+4.2.2 Grootte van die aanvanklike snelheid van die bal (4)
+
+4.3 Teken die grafiek in die ANTWOORDEBOEK oor en benoem dit as A.  
+Op dieselfde assestelsel, teken die grafiek wat verkry sal word wanneer 'n bal met 'n groter massa gebruik word, sonder om die aanvanklike snelheid en die gemiddelde netto krag te verander. Benoem dit as B. (2)
+
+**[11]**
+
+---
+
+## VRAAG 5 (Begin op 'n nuwe bladsy.)
+
+'n Krat met 'n massa van $3\text{ kg}$ is in rus by punt A op 'n wrywinglose horisontale oppervlak. 'n Konstante horisontale krag $F$ van $12\text{ N}$ werk in op die krat en beweeg dit van punt A na punt B. Die krat beweeg dan teen 'n ruwe skuinsvlak af, teen 'n hoek van $20^\circ$ met die horisontaal. Die afstand vanaf punt A na punt B is $7\text{ m}$ en vanaf punt B na punt C $6,8\text{ m}$, soos in die diagram hieronder getoon.
+
+[DIAGRAM: A $3\text{ kg}$ block moving on a horizontal frictionless surface from A to B ($7\text{ m}$) under applied force $F = 12\text{ N}$, then moving down a rough inclined plane at $20^\circ$ from B to C ($6.8\text{ m}$)]
+
+5.1 Stel die arbeid-energie-stelling in woorde. (2)
+
+5.2 Gebruik SLEGS ENERGIEBEGINSELS en bereken die kinetiese energie van die krat by punt B. (3)
+
+Krag $F$ word verwyder wanneer die krat punt B bereik. Die krat ervaar dan 'n konstante wrywingskrag van $21\text{ N}$ soos dit teen die skuinsvlak afbeweeg.
+
+5.3 Teken 'n vrye liggaamdiagram (vrye kragtediagram) wat AL die kragte toon wat op die krat inwerk soos dit teen die skuinsvlak afbeweeg. (3)
+
+5.4 Gebruik SLEGS ENERGIEBEGINSELS en bepaal of die krat by punt C sal verbygaan. (5)
+
+**[13]**
+
+---
+
+## VRAAG 6 (Begin op 'n nuwe bladsy.)
+
+'n Ondersoek word uitgevoer om die verwantskap te bepaal tussen die snelheid van 'n bewegende klankbron en die frekwensie van die klank waargeneem.
+
+Die sirene van 'n ambulans bring klank met 'n konstante frekwensie voort. Die ambulans, met sy sirene aan, beweeg na 'n stilstaande klankdetektor (Deel A) en weg van die stilstaande klankdetektor (Deel B) teen konstante snelhede. Die eksperiment word vir verskillende snelhede van die ambulans herhaal. Die waargenome frekwensie word vir ELKE snelheid gemeet. Die resultate verkry, word in die grafiek hieronder getoon.
+
+[DIAGRAM: Setups for Part A (ambulance moving towards stationary detector) and Part B (ambulance moving away from stationary detector), along with a graph of observed frequency (Hz) vs speed of the ambulance ($\text{m}\cdot\text{s}^{-1}$) showing two diverging/converging linear plots passing through $1115\text{ Hz}$ and $1298\text{ Hz}$ at zero or intercept values]
+
+6.1 STEL die Doppler-effek. (2)
+
+6.2 Vir hierdie eksperiment, skryf neer:
+
+6.2.1 Die onafhanklike veranderlike (1)
+
+6.2.2 'n Gekontroleerde veranderlike (1)
+
+6.3 Watter gevolgtrekking kan vir Deel B van hierdie eksperiment gemaak word? (2)
+
+6.4 Bereken die spoed van klank in lug. (6)
+
+**[12]**
+
+---
+
+## VRAAG 7 (Begin op 'n nuwe bladsy.)
+
+'n Sfeer X word by punt A op 'n horisontale oppervlak geplaas. X dra 'n lading van $+3 \times 10^{-7}\text{ C}$. Punt P is $r$ meter links van punt A.
+
+[DIAGRAM: Sphere X with charge $+3 \times 10^{-7}\text{ C}$ at point A, and point P at distance $r$ to the left]
+
+Die grootte van die elektriese veld by punt P is $1,08 \times 10^6\text{ N}\cdot\text{C}^{-1}$.
+
+7.1 Beskryf 'n elektriese veld. (2)
+
+7.2 Teken die elektrieseveldpatroon as gevolg van die lading op sfeer X. (2)
+
+7.3 Toon, deur middel van 'n berekening, dat $r = 0,05\text{ m}$. (3)
+
+Sfeer Y, wat 'n lading van $-5 \times 10^{-7}\text{ C}$ dra, is nou vas by punt P en sfeer Z, wat 'n lading van $-4 \times 10^{-7}\text{ C}$ dra, is vas $0,04\text{ m}$ regs van sfeer X.
+
+[DIAGRAM: Three spheres Y ($ -5 \times 10^{-7}\text{ C}$), X ($+3 \times 10^{-7}\text{ C}$ at A), and Z ($-4 \times 10^{-7}\text{ C}$) on a line, with distances $r$ and $0.04\text{ m}$]
+
+7.4 Die NETTO KRAG wat op sfeer X inwerk, is $0,0427\text{ N}$ by punt A.
+
+Is die oppervlak wrywingloos? Kies uit JA of NEE. Verduidelik die antwoord deur middel van 'n berekening. (6)
+
+7.5 Sfeer Y word met sfeer X in kontak gebring, en word dan in sy oorspronklike posisie teruggeplaas.
+
+Hoe sal die grootte van die krag wat sfeer X nou op sfeer Y uitoefen, beïnvloed word? Kies uit TOENEEM, AFNEEM of BLY DIESELFDE. (2)
+
+**[15]**
+
+---
+
+## VRAAG 8 (Begin op 'n nuwe bladsy.)
+
+Twee identiese hoofligte, $\text{L}_1$ en $\text{L}_2$, en 'n aansitmotor, $\text{M}$, van 'n kar word aan 'n battery verbind, soos in die stroombaandiagram hieronder getoon. Die weerstand van elke hooflig is $12\ \Omega$, terwyl die weerstand van die aansitmotor $0,1\ \Omega$ is. Die emk ($\mathcal{E}$) en interne weerstand ($r$) van die battery is onbekend.
+
+Die ammeters en die verbindingsdrade het weglaatbare weerstand, terwyl die voltmeter 'n hoë weerstand het. Skakelaars $\text{S}_1$ en $\text{S}_2$ is aanvanklik oop.
+
+[DIAGRAM: Circuit diagram showing battery with emf $\mathcal{E}$ and internal resistance $r$, lamps $\text{L}_1$ and $\text{L}_2$ each $12\ \Omega$ controlled by switch $\text{S}_1$, starter motor $\text{M}$ with resistance $0.1\ \Omega$ controlled by switch $\text{S}_2$, ammeters $\text{A}_1$, $\text{A}_2$, and voltmeter $\text{V}$]
+
+8.1 Definieer die term emk. (2)
+
+8.2 Skakelaar $\text{S}_1$ bly oop terwyl skakelaar $\text{S}_2$ gesluit word.  
+Die lesing op ammeter $\text{A}_2$ is $120\text{ A}$.  
+Bereken die lesing op die voltmeter. (3)
+
+8.3 Skakelaar $\text{S}_1$ word nou gesluit en skakelaar $\text{S}_2$ word oopgemaak. Die drywing verbruik deur elke gloeilamp is $15\text{ W}$.
+
+8.3.1 Bereken die stroom wat deur $\text{L}_1$ gaan. (3)
+
+8.3.2 Skryf die lesing op ammeter $\text{A}_1$ neer. (1)
+
+8.4 Bereken die emk van die battery. (6)
+
+8.5 Beide skakelaars word nou gesluit.  
+Hoe sal die lesing op ammeter $\text{A}_1$ beïnvloed word? Kies uit TOENEEM, AFNEEM of BLY DIESELFDE.
+
+Verduidelik die antwoord SONDER om 'n berekening te gebruik. (5)
+
+**[20]**
+
+---
+
+## VRAAG 9 (Begin op 'n nuwe bladsy.)
+
+'n WS-generator laat 'n waaier werk. Die rigtings van die rotasie van die spoel en die geïnduseerde stroom word in die vereenvoudigde diagram hieronder getoon.
+
+[DIAGRAM: AC generator connected to a fan and a voltmeter, showing magnetic poles and rotating coil]
+
+9.1 Definieer die term wgk-potensiaalverskil. (2)
+
+9.2 Wat is die polariteit van die magneet by Z? (2)
+
+9.3 Die weerstand van die waaier is $60\ \Omega$ en die maksimum potensiaalverskil gelewer deur die generator is $311,11\text{ V}$. Bereken die koste om die waaier vir $1,5$ ure te laat werk indien die koste van elektrisiteit $\text{R}3,33$ per $\text{kWh}$ is. (5)
+
+Die potensiaalverskil-teenoor-tydgrafiek vir hierdie generator word hieronder getoon.
+
+[DIAGRAM: Potential difference (V) vs Time (s) sine wave graph showing one full cycle completing at $4\text{ s}$]
+
+9.4 Teken hierdie grafiek in die ANTWOORDEBOEK oor en benoem dit as A. Op dieselfde assestelsel, teken die grafiek vir EEN rotasie van die spoel wanneer die rotasiespoed verdubbel word. Benoem dit as grafiek B. (3)
+
+9.5 Noem EEN manier waarop hierdie generator na 'n GS-generator verander kan word. (1)
+
+**[13]**
+
+---
+
+## VRAAG 10 (Begin op 'n nuwe bladsy.)
+
+10.1 Leerders voer 'n eksperiment uit om te bepaal of elektrone van die oppervlak van verskillende metale vrygestel sal word wanneer lig met 'n enkel frekwensie invallend op die metaal is. Die maksimum kinetiese energie van die vrygestelde elektrone word gemeet wanneer lig met 'n frekwensie van $1,045 \times 10^{15}\text{ Hz}$ gebruik word.
+
+Die resultate verkry, word in die tabel hieronder getoon.
+
+| METALE | ELEKTRONE VRYGESTEL | MAKSIMUM KINETIESE ENERGIE (J) |
+|---|---|---|
+| Sink | Ja | $0$ |
+| Natrium | Ja | $2,53 \times 10^{-19}$ |
+| Sesium | Ja | $3,50 \times 10^{-19}$ |
+| Metaal M | Nee | – |
+
+10.1.1 Definieer die term werksfunksie. (2)
+
+10.1.2 Skryf die drumpelfrekwensie van sink neer. (1)
+
+10.1.3 Hoe vergelyk die werksfunksie van natrium met dié van sesium? Kies uit KLEINER AS, GROTER AS of DIESELFDE. Verduidelik die antwoord. (3)
+
+10.1.4 Lig met dieselfde frekwensie, maar met 'n hoër intensiteit, word nou op metaal M geskyn. Sal elektrone nou vrygestel word? Kies uit JA of NEE. Gee 'n rede vir die antwoord. (2)
+
+10.2 Die energiediagram hieronder (NIE volgens skaal geteken NIE) toon die elektronenergieë in verskillende energievlakke, $E_1$, $E_2$ en $E_3$, van 'n sekere atoom.
+
+[DIAGRAM: Energy level diagram showing $E_3 = 5.7 \times 10^{-19}\text{ J}$, $E_2 = 5.1 \times 10^{-19}\text{ J}$, and $E_1 = 1.3 \times 10^{-19}\text{ J}$ with an upward arrow for increasing energy and a transition arrow from $E_3$ to $E_1$]
+
+10.2.1 'n Elektron van hierdie atoom beweeg van $E_3$ na $E_1$. Foton X word vrygestel. Bereken die frekwensie van foton X. (4)
+
+10.2.2 Is dit moontlik vir 'n foton met 'n energie van $2,5 \times 10^{-19}\text{ J}$ om uit hierdie atoom vrygestel te word? Kies uit JA of NEE. Gee 'n rede vir die antwoord. (2)
+
+**[14]**
+
+**TOTAAL: 150**

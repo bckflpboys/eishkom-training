@@ -1,0 +1,1218 @@
+=== page 1 ===
+Kopiereg voorbehou  Blaai om asseblief
+
+PUNTE:  150
+
+TYD:  3 uur
+
+Hierdie vraestel bestaan uit 12 bladsye, 4 gegewensblaaie
+en 1 antwoordblad.
+
+FISIESE WETENSKAPPE:  CHEMIE (V2)
+
+NOVEMBER 2016
+NASIONALE
+SENIOR SERTIFIKAAT
+GRAAD 11
+
+=== page 2 ===
+Fisiese Wetenskappe/V2 2 DBE/November 2016
+ KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+INSTRUKSIES EN INLIGTING
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+Skryf jou naam en klas (byvoorbeeld 11A) in die toepaslike ruimte s op die
+ANTWOORDEBOEK neer.
+
+Hierdie vraestel bestaan uit 10 vrae. Beantwoord AL die vrae in die
+ANTWOORDEBOEK behalwe VRAAG 4.1.2, 4.1.3 en 4.1.6,  wat op die
+aangehegte ANTWOORDBLAD beantwoord moet word. Lewer die
+ANTWOORDBLAD saam met die ANTWOORDEBOEK in.
+
+Begin ELKE vraag op 'n NUWE bladsy in die ANTWOORDEBOEK.
+
+Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie
+vraestel gebruik is.
+
+Laat EEN reël oop tussen subvrae, byvoorbeeld tussen VRAAG  2.1 en
+VRAAG 2.2.
+
+Jy mag 'n nie-programmeerbare sakrekenaar gebruik.
+
+Jy mag toepaslike wiskundige instrumente gebruik.
+
+Jy word aangeraai om die aangehegte GEGEWENSBLAAIE te gebruik.
+
+Toon ALLE formules en substitusies in ALLE berekeninge.
+
+Rond jou finale numeriese antwoorde tot ' n minimum van TWEE desimale
+plekke af.
+
+Gee kort (bondige) motiverings, besprekings ensovoorts waar nodig.
+
+Skryf netjies en leesbaar.
+
+=== page 3 ===
+Fisiese Wetenskappe/V2 3 DBE/November 2016
+ KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 1:  MEERVOUDIGEKEUSE-VRAE
+
+Vier opsies word as moontlike antwoorde op die  volgende vrae gegee. Elke vraag het
+slegs EEN korrekte antwoord. Kies die antwoord en skryf slegs die letter (A –D) langs
+die vraagnommer (1.1–1.10) in die ANTWOORDEBOEK, byvoorbeeld 1.11 E.
+
+1.1 Die tipe binding wat tussen 'n H+-ioon en H2O vorm, staan as 'n … bekend.
+
+ A
+
+B
+
+C
+
+D
+waterstofbinding
+
+datief-kovalente binding
+
+ioniese binding
+
+kovalente binding
+
+(2)
+
+1.2 Die vorm van die molekuul waarin die sentrale atoom deur twee alleenpare en
+twee bindingspare omring word, is …
+
+ A
+
+B
+
+C
+
+D
+lineêr.
+
+trigonaal planêr.
+
+tetrahedries.
+
+hoekig.
+
+(2)
+
+1.3 Die intermolekulêre kragte in droë ys (CO2) is …
+
+ A
+
+B
+
+C
+
+D
+ioon-geïnduseerde dipoolkragte.
+
+waterstofbindings.
+
+ioon-dipool kragte.
+
+London-kragte.
+
+(2)
+
+1.4 Die b indingsenergie van 'n C–Cℓ-binding is 338  kJ.mol-1 terwyl die
+bindingsenergie van ' n C–I-binding 238 kJ.mol -1 is. Die verskil in
+bindingsenergie bestaan omdat …
+
+ A
+
+B
+
+C
+
+D
+die bindingslengte van die C–Cℓ-binding groter as die bindingslengte
+van die C–I-binding is.
+
+chloor meer elektronegatief as jodium is.
+
+die bindingslengte van die C–I-binding groter as die bindingslengte van
+die C–Cℓ-binding is.
+
+die chlooratoom groter as die jodiumatoom is.
+
+(2)
+
+=== page 4 ===
+Fisiese Wetenskappe/V2 4 DBE/November 2016
+ KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+1.5 'n G as met volume V is by 'n temperatuur T 1 en druk  P1 in 'n gasspui t.
+Indien die druk op die gas verdubbel en die temperatuu r gehalveer word,
+sal die volume wat die gas beset … wees.
+
+ A
+
+B
+
+C
+
+D
+¼ V
+
+½ V
+
+V
+
+2 V
+
+(2)
+
+1.6 Watter EEN van die grafieke hieronder stel die KORREKTE afwyking van
+'n ware gas van idealegas-gedrag teen baie hoë druk voor? Die stippellyn stel
+die grafiek van die ware gas voor.
+
+ A
+
+B
+(2)
+ C
+
+D
+
+V
+p
+1
+V
+p
+1
+V
+p
+1
+V
+p
+1
+
+=== page 5 ===
+Fisiese Wetenskappe/V2 5 DBE/November 2016
+ KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+1.7 Die blomme van krismisros e (hydrangea) is natuurlike indikators van
+grond-pH. 'n Natuurlike indikator word in 'n  laboratorium gemaak deur
+krismisroos(hydrangea)-blomme te gebruik. NaOH en HCℓ word by die
+indikator gevoeg en die kleurverandering  word in die tabel hieronder
+aangeteken.
+
+INDIKATOR NATUURLIKE KLEUR NaOH HCℓ
+Krismisroosblomme Blou Pers Pienk
+
+Indien lemoensap by die indikator hierbo gevoeg word, kan die kleur wat
+waargeneem word … wees.
+
+ A
+
+B
+
+C
+
+D
+bruin
+
+pienk
+
+pers
+
+blou
+
+(2)
+
+1.8 Selrespirasie vind in die selle van alle lewende organism es plaas.
+Suurstof reageer met glukose in selr espirasie om die volgende verbindings
+volgens die gebalanseerde vergelyking hieronder te vorm:
+
+C6H12O6(aq) + 6O2 (g)  →  6CO2(g)  +  6H2O(ℓ)    ΔH = -2 830 kJ
+
+Die potensië le-energie-teenoor-reaksieverloop-diagram vir hierdie reaksie
+is …
+
+ A
+
+B
+
+ C
+
+D
+(2)
+Ep
+Reaksieverloop
+Ep
+Reaksieverloop
+Ep
+Reaksieverloop
+Ep
+Reaksieverloop
+
+=== page 6 ===
+Fisiese Wetenskappe/V2 6 DBE/November 2016
+ KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+1.9 Die oksidasiegetal van fosfor in H3PO4 is …
+
+ A
+
+B
+
+C
+
+D
++3
+
+-2
+
++2
+
++5
+
+(2)
+
+1.10 Gedurende die verwerking van gouderts word sink by die
+goudsianiedoplossing gevoeg om goud te produseer volgens die
+gebalanseerde vergelyking hieronder:
+
+Zn(s)+ 2NaAu(CN)2(aq) → 2Au(s) + Zn(CN)2(aq) + 2NaCN(aq)
+
+Die reduseermiddel in hierdie reaksie is …
+
+ A
+
+B
+
+C
+
+D
+Na+
+
+Au+
+
+Zn
+
+CN-
+
+(2)
+    [20]
+
+=== page 7 ===
+Fisiese Wetenskappe/V2 7 DBE/November 2016
+ KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+Ep
+Afstand tussen kerne in pm
+Y
+X
+
+VRAAG 2   (Begin op 'n nuwe bladsy.)
+
+Elektronegatiwiteit van atome kan gebruik word om die polariteit van bindings te
+verduidelik.
+
+2.1 Definieer die term elektronegatiwiteit.   (2)
+
+2.2 Teken die Lewis-diagram van 'n suurstofdifluoriedmolekuul.  (2)
+
+2.3 Bereken die elektronegatiwiteitsverskil tussen O en F in suurstofdifluoried en
+voorspel die polariteit van die binding.
+
+(2)
+
+2.4 'n Polêre binding lei nie noodwendig tot 'n polêre molekule nie.
+
+Verduidelik hierdie stelling deur na OF 2- en CO2-molekules te verwys. Sluit
+die polariteit van die binding s en die vorm van die molekule s by die
+verduideliking in.
+
+(4)
+
+2.5  Die diagram hieronder toon die energieverandering wat plaasvind wanneer
+twee atome nader aan mekaar beweeg.
+
+ 2.5.1 Wat word deur X en Y voorgestel?  (2)
+
+ 2.5.2 Definieer die konsep wat deur X voorgestel word.  (2)
+
+ 2.5.3 Verduidelik die verhouding tussen bindingsorde, bindingslengte en
+bindingsenergie.
+
+(3)
+    [17]
+
+=== page 8 ===
+Fisiese Wetenskappe/V2 8 DBE/November 2016
+ KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 3   (Begin op 'n nuwe bladsy.)
+
+Leerders voer 'n eksperiment uit om die effek van intermolekulêre kragte op kookpunte
+te ondersoek. Hulle gebruik 20 mℓ van elk van die volgende verbindings in hulle
+ondersoek: water, sonneblomolie, naellakverwyderaar, gliserien en brandspiritus.
+Die resultate word in die tabel hieronder getoon:
+
+NAAM VAN
+VERBINDING
+KOOKPUNT
+(°C)
+water 93
+sonneblomolie 230
+naellakverwyderaar 56
+gliserien 290
+brandspiritus 62
+
+3.1 Definieer die term kookpunt.  (2)
+
+3.2 Formuleer 'n ondersoekende vraag vir hierdie eksperiment.  (2)
+
+3.3 In watter verbinding in die tabel hierbo sal die sterkste int ermolekulêre kragte
+voorkom? Gee 'n rede vir die antwoord.
+
+(2)
+
+3.4 Die leerders gebruik nou 40 mℓ van elke verbinding hierbo in die eksperiment.
+Sal dit die kookpunt e beïnvloed? Kies JA of NEE . Gee 'n rede vir die
+antwoord.
+
+(2)
+
+3.5 Brandspiritus is hoogs vlambaar. Noem TWEE veiligheidsmaatreëls wat in ag
+geneem moet word wanneer brandspiritus in die laboratorium gebruik word.
+
+(2)
+
+3.6 Watter verbinding in die tabel hierbo sal die hoogste verdampingstempo hê?
+Gee 'n rede vir die antwoord.
+
+(2)
+
+3.7 Sonneblomolie is 'n nie -polêre verbinding met geïnduseerde dipool kragte
+tussen die molekules, terwyl water 'n polêre molekule met waterstofbindings
+tussen die molekules is. Verduidelik waarom die kookpunt van sonneblomolie
+hoër as die kookpunt van water is.
+
+(2)
+    [14]
+
+=== page 9 ===
+Fisiese Wetenskappe/V2 9 DBE/November 2016
+ KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 4   (Begin op 'n nuwe bladsy.)
+
+VOLUME
+(cm3) TEMPERATUUR (ºC)
+114 0
+124 25
+134 50
+145 75
+155 100
+
+ 4.1.2 Teken 'n grafiek van volume teenoor temperatuur by konstante druk
+op die aangehegte grafiekpapier.
+
+(4)
+
+ 4.1.3 Ekstrapoleer die grafiek  (verleng die  grafiek) en noem teen watter
+temperatuur die grafiek die x-as sny.
+
+(1)
+
+ 4.1.4 Wat is noemenswaardig van hierdie temperatuur?  (2)
+
+ 4.1.5 Bereken die volume wat hierdie gas by 120 °C teen konstante druk
+sal beset.
+
+(3)
+
+ 4.1.6 Die e ksperiment word nou uitgevoer teen 'n laer konstante druk.
+Op die grafiek wat vir VRAAG 4.1.2 geteken is, skets die grafiek wat
+teen 'n laer druk verkry sal word. Benoem hierdie grafiek P.
+
+(2)
+
+4.2 'n Onbekende gas met 'n massa van 0,77 g beslaan 'n volume van 0,32 dm3
+by     'n temperatuur van 27 °C en 'n druk van 96 kPa. Neem aan dat die gas
+soos 'n ideale gas optree.
+
+ 4.2.1 Bereken die molêre massa van die gas.  (5)
+
+ 4.2.2 Skryf die MOLEKULÊ RE FORMULE  of NAAM van die gas in
+VRAAG 4.2.1 genoem.
+
+(2)
+   [21]
+
+4.1 Charles se Wet beskryf die verhouding tussen die volume en temperatuur van
+'n ingeslote gasmassa by konstante druk . Die volumes  van 'n gas by
+verskillende temperature, teen konstante druk, word in die tabel hieronder
+gegee.
+
+ 4.1.1 Verduidelik Charles se Wet ten opsigte van die kinetiese molekulêre
+teorie van gasse.
+
+(2)
+
+=== page 10 ===
+Fisiese Wetenskappe/V2 10 DBE/November 2016
+ KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 5   (Begin op 'n nuwe bladsy.)
+
+5.1 Definieer die term konsentrasie.  (2)
+
+5.2 Agt (8) gram Na 2S2O3 word in water opgelos om 500 cm3 oplossing te berei.
+Bereken die konsentrasie van die Na2S2O3-oplossing.
+
+(3)
+
+5.3 'n 10 g-monster van 'n verbinding bevat  2,66 g kalium, 3,5 4 g chro om en
+3,81 g suurstof.
+
+ 5.3.1 Definieer die term empiriese formule.  (2)
+
+ 5.3.2 Bepaal die empiriese formule van hierdie verbinding.  (7)
+   [14]
+
+VRAAG 6   (Begin op 'n nuwe bladsy.)
+
+Leerders het 'n minivulkaan  in 'n wetenskap slaboratorium gemaak deur
+natriumbikarbonaat by etanoësuur te voeg . Hulle het 100 mℓ van 'n 0,2 mol.dm-3-
+etanoësuuroplossing by 10 g NaHCO 3 gevoeg om die reaksie van die vulkaan te
+begin.
+
+Die gebalanseerde vergelyking vir hierdie reaksie is:
+
+CH3COOH(aq) + NaHCO3(s) → CH3COONa(aq) + H2O(ℓ) + CO2(g)
+
+6.1 Definieer die term beperkte reagens.  (2)
+
+6.2 Bepaal die beperkte reagens in hierdie reaksie.  (6)
+
+6.3 Bereken die massa van die ander stof in oormaat.  (3)
+
+6.4 Bereken die volume CO2 wat by STD vorm.  (4)
+   [15]
+
+=== page 11 ===
+Fisiese Wetenskappe/V2 11 DBE/November 2016
+ KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 7   (Begin op 'n nuwe bladsy.)
+
+Metaan word as 'n alternatiewe brandstof  gebruik. Die verbranding van metaan stel
+koolstofdioksied en water vry. Die gebalanseerde vergelyking vir die reaksie is:
+
+CH4(g) + O2 (g) → CO2 (g) + 2H2O (g) + 891 kJ.mol-1
+
+Die aktiveringsenergie vir die reaksie is 172 kJ.mol-1.
+
+7.1 Is hierdie reaksie ENDOTERMIES of EKSOTERMIES? G ee 'n rede vir die
+antwoord.
+
+(2)
+
+7.2 Verduidelik waarom alle chemiese reaksies aktiveringsenergie benodig.  (2)
+
+7.3 Waarom word hierdie reaksie nie as omgewingsvriendelik beskou nie?  (2)
+   [6]
+
+VRAAG 8   (Begin op 'n nuwe bladsy.)
+
+8.1 Definieer 'n suur ten opsigte van die Lowry-Brønsted-teorie.  (2)
+
+8.2 Beskou die volgende suur-basisreaksie:
+
+H2PO4- + NH3  → HPO42- + NH4+
+
+ 8.2.1 Identifiseer die gekonjugeerde suur-basispare in die reaksie.   (4)
+
+ 8.2.2 Definieer die term amfoliet.  (1)
+
+ 8.2.3 Kies 'n amfoliet in die reaksie hierbo.  (2)
+
+8.3 Tien gram (10 g) van 'n onsuiwer monster natriumkarbonaat word by 100 cm3
+van 'n 0,2 mol.dm-3-oplossing soutsuur gevoeg. Die suur is in oormaat.
+
+Die vergelyking vir die reaksie is:
+
+Na2CO3 + HCℓ → NaCℓ + H2O + CO2
+
+ 8.3.1 Balanseer die vergelyking hierbo.   (1)
+
+ 8.3.2 Bereken die getal mol soutsuur.   (3)
+
+ Die oormaat suur neutraliseer 20 cm3 van 'n 0,1 mol.dm-3-oplossing
+magnesiumhidroksied.
+
+2HCℓ(aq) + Mg(OH)2(aq) → MgCℓ2(aq) + H2O(ℓ)
+
+ 8.3.3 Bereken di e per sentasie suiwerheid van di e natrium-
+karbonaatoplossing.
+
+(8)
+[21]
+
+=== page 12 ===
+Fisiese Wetenskappe/V2 12 DBE/November 2016
+KABV – Graad 11
+Kopiereg voorbehou
+
+VRAAG 9   (Begin op 'n nuwe bladsy.)
+
+'n Silwer Kersboom kan gemaak word deur koperdraad , in die vorm van 'n boompie, in
+'n silwernitraatoplossing te plaas. Die ongebalanseerde vergelyking vir die reaksie is:
+
+Cu(s) + AgNO3(aq) → Cu(NO3)2(aq) + Ag(s)
+
+9.1 Definieer die term oksidasie ten opsigte van oksidasiegetalle.  (2)
+
+9.2 Skryf die volgende vir die reaksie hierbo neer:
+
+ 9.2.1 Formule van die reduseermiddel  (2)
+
+ 9.2.2 Naam van die oksideermiddel  (2)
+
+ 9.2.3 Oksidasie-halfreaksie  (2)
+
+ 9.2.4 Gebalanseerde net to ioniese  vergelyking met gebruik van die
+ioon-elektronmetode
+
+(4)
+
+9.3 Gebruik oksidasiegetalle om jou keuse van oksideermiddel in VRAAG 9.2.2 te
+verduidelik.
+
+(2)
+   [14]
+
+VRAAG 10   (Begin op 'n nuwe bladsy.)
+
+Die ontdekking van goud het 'n beduidende rol in die ekonomiese ontwikkeling van
+Suid-Afrika gespeel. Die goudmynbedryf het in 1970,  68 persent tot wêreldproduksie
+bygedra.
+
+10.1 Watter twee mynboumetodes word in Suid-Afrika gebruik?  (2)
+
+10.2 Gee TWEE redes waarom mynbou vir die  Suid-Afrikaanse ekonomie
+belangrik is.
+
+(2)
+
+10.3 Noem TWEE negatiewe effekte van mynbou ten opsigte van die omgewing.  (2)
+
+10.4 Die meeste allooie van goud word in juweliersware en tandheelkunde gebruik.
+Die goudinhoud van juweliersware word in  karaat uitgedruk. Die term dui die
+aantal dele goud wat in elke 24 dele van die allooi voorkom, aan.
+
+ 10.4.1 Suiwer goud, wat 24 karaat is, word nie gebruik om juweliersware te
+maak nie. Gee EEN rede hiervoor deur na die eienskappe van goud
+te verwys.
+
+(1)
+
+ 10.4.2 Buiten dat goud in juweliersware en tandheelkunde  gebruik word ,
+noem nog EEN gebruik van goud.
+
+(1)
+   [8]
+
+TOTAAL:  150
+
+=== page 13 ===
+Fisiese Wetenskappe/V2 1 DBE/November 2016
+ KABV – Graad 11
+Kopiereg voorbehou
+
+DATA FOR PHYSICAL SCIENCES GRADE 11
+PAPER 2 (CHEMISTRY)
+
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 11
+VRAESTEL 2 (CHEMIE)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Avogadro's constant
+Avogadro-konstante NA 6,02 x 1023 mol-1
+Molar gas constant
+Molêre gaskonstante R 8,31 J∙K-1∙mol-1
+Standard pressure
+Standaarddruk
+θp  1,013 x 105 Pa
+Molar gas volume at STP
+Molêre gasvolume by STD Vm 22,4 dm3∙mol-1
+Standard temperature
+Standaardtemperatuur
+θT  273 K
+
+TABLE 2:  FORMULAE/TABEL 2: FORMULES
+
+2
+22
+1
+11
+T
+Vp
+T
+Vp =  nRTpV=
+M
+mn=
+AN
+Nn=
+mV
+Vn=  Vnc=          OR/OF        MVmc=
+
+=== page 14 ===
+Fisiese Wetenskappe/V2 2 DBE/November 2016
+ KABV – Graad 11
+Kopiereg voorbehou
+
+TABLE 3: THE PERIODIC TABLE OF ELEMENTS/TABEL 3: DIE PERIODIEKE TABEL VAN ELEMENTE
+1
+(I)
+2
+(II)
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+(III)
+14
+(IV)
+15
+(V)
+16
+(VI)
+17
+(VII)
+18
+(VIII)
+2,1 1
+H
+1
+
+  2
+He
+4
+1,0 3
+Li
+7
+1,5 4
+Be
+9
+
+2,0 5
+B
+11
+2,5 6
+C
+12
+3,0 7
+N
+14
+3,5 8
+O
+16
+4,0 9
+F
+19
+ 10
+Ne
+20
+0,9 11
+Na
+23
+1,2 12
+Mg
+24
+
+1,5 13
+Aℓ
+27
+1,8 14
+Si
+28
+2,1 15
+P
+31
+2,5 16
+S
+32
+3,0 17
+Cℓ
+35,5
+ 18
+Ar
+40
+0,8 19
+K
+39
+1,0 20
+Ca
+40
+1,3 21
+Sc
+45
+1,5 22
+Ti
+48
+1,6 23
+V
+51
+1,6 24
+Cr
+52
+1,5 25
+Mn
+55
+1,8 26
+Fe
+56
+1,8 27
+Co
+59
+1,8 28
+Ni
+59
+1,9 29
+Cu
+63,5
+1,6 30
+Zn
+65
+1,6 31
+Ga
+70
+1,8 32
+Ge
+73
+2,0 33
+As
+75
+2,4 34
+Se
+79
+2,8 35
+Br
+80
+ 36
+Kr
+84
+0,8 37
+Rb
+86
+1,0 38
+Sr
+88
+1,2 39
+Y
+89
+1,4 40
+Zr
+91
+
+41
+Nb
+92
+1,8 42
+Mo
+96
+1,9 43
+Tc
+
+2,2 44
+Ru
+101
+2,2 45
+Rh
+103
+2,2 46
+Pd
+106
+1,9 47
+Ag
+108
+1,7 48
+Cd
+112
+1,7 49
+In
+115
+1,8 50
+Sn
+119
+1,9 51
+Sb
+122
+2,1 52
+Te
+128
+2,5 53
+I
+127
+ 54
+Xe
+131
+0,7 55
+Cs
+133
+0,9 56
+Ba
+137
+
+57
+La
+139
+1,6 72
+Hf
+179
+
+73
+Ta
+181
+
+74
+W
+184
+
+75
+Re
+186
+
+76
+Os
+190
+
+77
+Ir
+192
+
+78
+Pt
+195
+
+79
+Au
+197
+
+80
+Hg
+201
+1,8 81
+Tℓ
+204
+1,8 82
+Pb
+207
+1,9 83
+Bi
+209
+2,0 84
+Po
+
+2,5 85
+At
+
+ 86
+Rn
+
+0,7 87
+Fr
+
+0,9 88
+Ra
+226
+
+89
+Ac
+
+58
+Ce
+140
+59
+Pr
+141
+60
+Nd
+144
+61
+Pm
+
+62
+Sm
+150
+63
+Eu
+152
+64
+Gd
+157
+65
+Tb
+159
+66
+Dy
+163
+67
+Ho
+165
+68
+Er
+167
+69
+Tm
+169
+70
+Yb
+173
+71
+Lu
+175
+
+90
+Th
+232
+91
+Pa
+
+92
+U
+238
+93
+Np
+
+94
+Pu
+
+95
+Am
+
+96
+Cm
+
+97
+Bk
+
+98
+Cf
+
+99
+Es
+
+100
+Fm
+
+101
+Md
+
+102
+No
+
+103
+Lr
+
+Approximate relative atoomic mass
+Benaderde relatiewe atoommassa
+Atoomic number
+Atoomgetal
+
+    29
+   Cu
+    63,5 1,9 Symbol
+ Simbool
+
+Electronegativity
+Elektronegatiwiteit
+KEY/SLEUTEL
+
+=== page 15 ===
+Fisiese Wetenskappe/V2 3 DBE/November 2016
+KABV – Graad 11
+Kopiereg voorbehou
+
+TABLE 4A: STANDARD REDUCTION POTENTIALS
+TABEL 4A: STANDAARD-REDUKSIEPOTENSIALE
+Half-reactions/Halfreaksies
+θ
+E  (V)
+F2(g) + 2e− ⇌ 2F− + 2,87
+Co3+ + e− ⇌ Co2+ + 1,81
+H2O2 + 2H+ +2e− ⇌ 2H2O +1,77
+MnO−4  + 8H+ + 5e− ⇌ Mn2+ + 4H2O + 1,51
+Cℓ2(g) + 2e− ⇌ 2Cℓ− + 1,36
+Cr2O −27  + 14H+ + 6e− ⇌ 2Cr3+ + 7H2O + 1,33
+O2(g) + 4H+ + 4e− ⇌ 2H2O + 1,23
+MnO2 + 4H+ + 2e− ⇌ Mn2+ + 2H2O + 1,23
+Pt2+ + 2e− ⇌ Pt + 1,20
+Br2(ℓ) + 2e− ⇌ 2Br− + 1,07
+NO−3  + 4H+ + 3e− ⇌ NO(g) + 2H2O + 0,96
+Hg2+ + 2e− ⇌ Hg(ℓ) + 0,85
+Ag+ + e− ⇌ Ag + 0,80
+NO−3  + 2H+ + e− ⇌ NO2(g) + H2O + 0,80
+Fe3+ + e− ⇌ Fe2+ + 0,77
+O2(g) + 2H+ + 2e− ⇌ H2O2 + 0,68
+I2 + 2e− ⇌ 2I− + 0,54
+Cu+ + e− ⇌ Cu + 0,52
+SO2 + 4H+ + 4e− ⇌ S + 2H2O + 0,45
+2H2O + O2 + 4e− ⇌ 4OH− + 0,40
+Cu2+ + 2e− ⇌ Cu + 0,34
+SO −24  + 4H+ + 2e− ⇌ SO2(g) + 2H2O + 0,17
+Cu2+ + e− ⇌ Cu+ + 0,16
+Sn4+ + 2e− ⇌ Sn2+ + 0,15
+S + 2H+ + 2e−  ⇌ H2S(g) + 0,14
+2H+ + 2e− ⇌ H2(g) 0,00
+Fe3+ + 3e− ⇌ Fe − 0,06
+Pb2+ + 2e− ⇌ Pb − 0,13
+Sn2+ + 2e− ⇌ Sn − 0,14
+Ni2+ + 2e− ⇌ Ni − 0,27
+Co2+ + 2e− ⇌ Co − 0,28
+Cd2+ + 2e− ⇌ Cd − 0,40
+Cr3+ + e− ⇌ Cr2+ − 0,41
+Fe2+ + 2e− ⇌ Fe − 0,44
+Cr3+ + 3e− ⇌ Cr − 0,74
+Zn2+ + 2e− ⇌ Zn − 0,76
+2H2O + 2e− ⇌ H2(g) + 2OH− − 0,83
+Cr2+ + 2e− ⇌ Cr − 0,91
+Mn2+ + 2e− ⇌ Mn − 1,18
+Aℓ3+ + 3e− ⇌ Aℓ − 1,66
+Mg2+ + 2e− ⇌ Mg − 2,36
+Na+ + e− ⇌ Na − 2,71
+Ca2+ + 2e− ⇌ Ca − 2,87
+Sr2+ + 2e− ⇌ Sr − 2,89
+Ba2+ + 2e− ⇌ Ba − 2,90
+Cs+ + e- ⇌ Cs - 2,92
+K+ + e− ⇌ K − 2,93
+Li+ + e− ⇌ Li − 3,05
+
+Increasing oxidising ability/Toenemende oksiderende vermoë
+Increasing reducing ability/Toenemende reduserende vermoë
+
+=== page 16 ===
+Fisiese Wetenskappe/V2 4 DBE/November 2016
+KABV – Graad 11
+Kopiereg voorbehou
+
+TABLE 4B: STANDARD REDUCTION POTENTIALS
+TABEL 4B: STANDAARD-REDUKSIEPOTENSIALE
+
+Half-reactions/Halfreaksies
+θ
+E  (V)
+Li+ + e− ⇌ Li − 3,05
+K+ + e− ⇌ K − 2,93
+Cs+ +  e− ⇌ Cs − 2,92
+Ba2+ + 2e− ⇌ Ba − 2,90
+Sr2+ + 2e− ⇌ Sr − 2,89
+Ca2+ + 2e− ⇌ Ca − 2,87
+Na+ + e− ⇌ Na − 2,71
+Mg2+ + 2e− ⇌ Mg − 2,36
+Aℓ3+ + 3e− ⇌ Aℓ − 1,66
+Mn2+ + 2e− ⇌ Mn − 1,18
+Cr2+ + 2e− ⇌ Cr − 0,91
+2H2O + 2e− ⇌ H2(g) + 2OH− − 0,83
+Zn2+ + 2e− ⇌ Zn − 0,76
+Cr3+ + 3e− ⇌ Cr − 0,74
+Fe2+ + 2e− ⇌ Fe − 0,44
+Cr3+ + e− ⇌ Cr2+ − 0,41
+Cd2+ + 2e− ⇌ Cd − 0,40
+Co2+ + 2e− ⇌ Co − 0,28
+Ni2+ + 2e− ⇌ Ni − 0,27
+Sn2+ + 2e− ⇌ Sn − 0,14
+Pb2+ + 2e− ⇌ Pb − 0,13
+Fe3+ + 3e− ⇌ Fe − 0,06
+2H+ + 2e− ⇌ H2(g) 0,00
+S + 2H+ + 2e−  ⇌ H2S(g) + 0,14
+Sn4+ + 2e− ⇌ Sn2+ + 0,15
+Cu2+ + e− ⇌ Cu+ + 0,16
+SO −24  + 4H+ + 2e− ⇌ SO2(g) + 2H2O + 0,17
+Cu2+ + 2e− ⇌ Cu + 0,34
+2H2O + O2 + 4e− ⇌ 4OH− + 0,40
+SO2 + 4H+ + 4e− ⇌ S + 2H2O + 0,45
+Cu+ + e− ⇌ Cu + 0,52
+I2 + 2e− ⇌ 2I− + 0,54
+O2(g) + 2H+ + 2e− ⇌ H2O2 + 0,68
+Fe3+ + e− ⇌ Fe2+ + 0,77
+NO−3  + 2H+ + e− ⇌ NO2(g) + H2O + 0,80
+Ag+ + e− ⇌ Ag + 0,80
+Hg2+ + 2e− ⇌ Hg(ℓ) + 0,85
+NO−3  + 4H+ + 3e− ⇌ NO(g) + 2H2O + 0,96
+Br2(ℓ) + 2e− ⇌ 2Br− + 1,07
+Pt2+ + 2 e− ⇌ Pt + 1,20
+MnO2 + 4H+ + 2e− ⇌ Mn2+ + 2H2O + 1,23
+O2(g) + 4H+ + 4e− ⇌ 2H2O + 1,23
+Cr2O −27  + 14H+ + 6e− ⇌ 2Cr3+ + 7H2O + 1,33
+Cℓ2(g) + 2e− ⇌ 2Cℓ− + 1,36
+MnO−4  + 8H+ + 5e− ⇌ Mn2+ + 4H2O + 1,51
+H2O2 + 2H+ +2 e− ⇌ 2H2O +1,77
+Co3+ + e− ⇌ Co2+ + 1,81
+F2(g) + 2e− ⇌ 2F− + 2,87
+Increasing oxidising ability/Toenemende oksiderende vermoë
+Increasing reducing ability/Toenemende reduserende vermoë
+
+=== page 17 ===
+Fisiese Wetenskappe/V2 DBE/November 2016
+ KABV – Graad 11
+Kopiereg voorbehou
+
+NAAM:  KLAS:
+
+VRAAG 4.1.2, 4.1.3 en 4.1.6
+
+Lewer hierdie ANTWOORDBLAD saam met die ANTWOORDEBOEK in.
+
+0                50              100

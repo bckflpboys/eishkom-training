@@ -1,0 +1,222 @@
+**NATIONAL SENIOR CERTIFICATE**
+**GRADE 10**
+
+**MATHEMATICS P1**
+**NOVEMBER 2016**
+
+**MARKS: 100**
+**TIME: 2 hours**
+
+This question paper consists of 8 pages.
+
+---
+
+### INSTRUCTIONS AND INFORMATION
+
+Read the following instructions carefully before answering the questions.
+
+1. This question paper consists of 8 questions.
+2. Answer **ALL** the questions.
+3. Clearly show **ALL** calculations, diagrams, graphs, et cetera that you have used in determining your answers.
+4. Answers only will **NOT** necessarily be awarded full marks.
+5. You may use an approved scientific calculator (non-programmable and non-graphical), unless stated otherwise.
+6. If necessary, round answers off to **TWO** decimal places, unless stated otherwise.
+7. Diagrams are **NOT** necessarily drawn to scale.
+8. Number the answers correctly according to the numbering system used in this question paper.
+9. Write neatly and legibly.
+
+---
+
+### QUESTION 1
+
+1.1 Factorise the following expressions fully:
+
+1.1.1 $x^2 - x$ $(1)$
+
+1.1.2 $3x^2 + 3px - 2mx - 2mp$ $(3)$
+
+1.1.3 $2p^2 - 2p - 12$ $(3)$
+
+1.2 Simplify the following:
+
+1.2.1 $\frac{2^{a+1} - 2^{a-1}}{2^a}$ $(3)$
+
+1.2.2 $\frac{x^2 - x + 1}{x^3 + 1} \div \frac{2x}{2x + 2}$ $(4)$
+
+**[14]**
+
+---
+
+### QUESTION 2
+
+2.1 Solve for $x$:
+
+2.1.1 $x(x - 1) = 20$ $(4)$
+
+2.1.2 $\frac{3x - 2}{2} = x + 1$ $(3)$
+
+2.2 Given: $-4 \leq -\frac{1}{2}m < 5$ where $m \in \mathbb{R}$
+
+2.2.1 Solve for $m$. $(3)$
+
+2.2.2 Write the answer to QUESTION 2.2.1 in interval notation. $(1)$
+
+2.3 Given: $4x^2 - y^2 = 171$ and $2x - y = 9$
+
+2.3.1 Calculate the value of $2x + y$. $(2)$
+
+2.3.2 Solve simultaneously for $x$ and $y$. $(3)$
+
+**[16]**
+
+---
+
+### QUESTION 3
+
+Dark tiles (D) and light tiles (L) are used to create patterns on a floor. The first four patterns are shown below. For the patterns that follow the tiles are arranged in a similar manner.
+
+[DIAGRAM: Pattern 1 shows 1 dark tile. Pattern 2 shows 1 dark tile and 1 light tile. Pattern 3 shows 3 dark tiles and 2 light tiles. Pattern 4 shows 4 dark tiles and 4 light tiles.]
+
+3.1 How many dark tiles were used in pattern 5? $(1)$
+
+3.2 How many light tiles were used in pattern 6? $(1)$
+
+3.3 Write down the general term ($D_n$) for the number of dark floor tiles used in each pattern. $(2)$
+
+3.4 Write down the general term ($L_n$) for the number of light floor tiles used in each pattern. $(2)$
+
+3.5 Which pattern will have exactly $64$ light floor tiles? $(3)$
+
+3.6 Each dark tile is $0,3\text{ m}$ wide and $0,6\text{ m}$ long. Calculate the total area covered by all the dark tiles in the first $100$ patterns. $(3)$
+
+**[12]**
+
+---
+
+### QUESTION 4
+
+4.1 Mary wants to buy a fridge that costs $\text{R}15\ 550$. She has to pay a deposit of $15\%$ of the cost and the balance by means of a hire-purchase agreement. The rate of interest on the loan is $16,25\%$ p.a. simple interest. The repayment period of the loan is $54$ months. In addition to the hire-purchase agreement, an annual insurance premium of $1,5\%$ of the total cost of the fridge should be added. The annual insurance premium should be paid in monthly instalments.
+
+4.1.1 Calculate the value of the loan that Mary will take. $(2)$
+
+4.1.2 Calculate the total amount that must be repaid on the hire-purchase agreement. $(3)$
+
+4.1.3 Calculate the monthly repayment, which includes the monthly insurance premium. $(3)$
+
+4.2 The table below shows the rand equivalent of one British pound and one US dollar.
+
+| COUNTRY | CURRENCY | RATE OF EXCHANGE OF THE RAND |
+| :--- | :--- | :---: |
+| Britain (United Kingdom) | Pound ($\pounds$) | $21,41$ |
+| United States of America | Dollar ($\$$) | $13,45$ |
+
+A South African nurse works in the United States of America.
+
+4.2.1 The nurse saves the equivalent of $\text{R}4\ 800$ per month. Calculate the amount, in US (American) dollars, that she saves per month. $(2)$
+
+4.2.2 She ordered a book from the United Kingdom (Britain) and paid $\$85$ for it. Calculate the price of the book in pounds ($\pounds$). $(3)$
+
+4.3 A sum of money doubles in $5$ years when the interest is compounded annually. Calculate the rate of interest. $(3)$
+
+**[16]**
+
+---
+
+### QUESTION 5
+
+The graphs of $f(x) = x^2 - 4$ and $g(x) = -x + 2$ are sketched below. $A$ and $B$ are the $x$-intercepts of $f$. $C$ and $D$ are the $y$-intercepts of $f$ and $g$ respectively. $K$ is a point on $g$ such that $BK \parallel x\text{-axis}$. $f$ and $g$ intersect at $A$ and $E$.
+
+[DIAGRAM: Cartesian plane showing parabola $f(x) = x^2 - 4$ opening upwards with $x$-intercepts at $A$ and $B$, $y$-intercept at $C$. Straight line $g(x) = -x + 2$ with $y$-intercept at $D$ and intersecting $f$ at $A$ and $E$. Point $K$ lies on $g$ above $B$ such that $BK$ is parallel to the $x$-axis and perpendicular to the vertical line from $K$.]
+
+5.1 Write down the coordinates of $C$. $(1)$
+
+5.2 Write down the coordinates of $D$. $(1)$
+
+5.3 Determine the length of $CD$. $(1)$
+
+5.4 Calculate the coordinates of $B$. $(3)$
+
+5.5 Determine the coordinates of $E$, a point of intersection of $f$ and $g$. $(4)$
+
+5.6 For which values of $x$ will:
+
+5.6.1 $f(x) < g(x)$ $(2)$
+
+5.6.2 $f(x) \cdot g(x) \geq 0$ $(2)$
+
+5.7 Calculate the length of $AK$. $(4)$
+
+**[18]**
+
+---
+
+### QUESTION 6
+
+The graph of $g(x) = -2^x + 8$ is sketched below. $A$ and $B$ are the $y$- and $x$-intercepts respectively of $g$.
+
+[DIAGRAM: Cartesian plane showing exponential curve $g(x) = -2^x + 8$ decreasing towards a horizontal asymptote above the x-axis, with y-intercept at $A$ and x-intercept at $B$.]
+
+6.1 Write down the range of $g$. $(1)$
+
+6.2 Determine the coordinates of $B$. $(3)$
+
+6.3 If $g$ is reflected over the $x$-axis to form a new graph $h$, determine the equation of $h$. $(2)$
+
+6.4 Explain why the $x$-intercepts of $g$ and $h$ are both at $B$. $(2)$
+
+**[8]**
+
+---
+
+### QUESTION 7
+
+A hyperbola, $h$, is described with the following characteristics:
+* The equation of the vertical asymptote is $x = 0$
+* The range of $h$ is $(-\infty; 3) \cup (3; \infty)$
+* The $x$-intercept of $h$ is $(2; 0)$
+
+Determine the equation of $h$. $(4)$
+
+**[4]**
+
+---
+
+### QUESTION 8
+
+8.1 In a certain class of $42$ boys:
+* $27$ play hockey ($H$)
+* $32$ play soccer ($S$)
+* $7$ do not play hockey or soccer
+* An unknown number ($x$) play both hockey and soccer
+
+The information is represented in the Venn diagram below.
+
+[DIAGRAM: Venn diagram showing two intersecting circles $H$ and $S$ inside a rectangle representing the sample space. $H$ has $27-x$, intersection has $x$, $S$ has $32-x$, and $7$ is outside both circles.]
+
+8.1.1 Calculate the value of $x$. $(2)$
+
+8.1.2 If a boy from the class is chosen at random, calculate the probability that he:
+
+(a) Does not play hockey or soccer $(1)$
+
+(b) Plays only soccer $(2)$
+
+8.2 A bag contains $3$ blue balls and $x$ yellow balls.
+
+8.2.1 Write down the total number of balls in the bag. $(1)$
+
+8.2.2 If a ball is drawn from the bag, write down the probability that it is blue. $(2)$
+
+8.3 
+
+8.3.1 Complete the following statement:
+
+If $A$ and $B$ are two mutually exclusive events, then $P(A \text{ and } B) = \dots$ $(1)$
+
+8.3.2 Given that $A$ and $B$ are mutually exclusive events. The probability that event $A$ occurs is $0,55$. The probability that event $B$ does not occur is $0,7$.
+
+Calculate $P(A \text{ or } B)$. $(3)$
+
+**[12]**
+
+**TOTAL: 100**

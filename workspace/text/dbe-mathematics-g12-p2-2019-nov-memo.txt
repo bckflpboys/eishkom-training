@@ -1,0 +1,127 @@
+# NATIONAL SENIOR CERTIFICATE / NASIONALE SENIOR SERTIFIKAAT
+## GRADE / GRAAD 12
+### MATHEMATICS P2 / WISKUNDE V2
+#### NOVEMBER 2019
+#### MARKING GUIDELINES / NASIENRIGLYNE
+
+---
+
+**NOTE:**
+* If a candidate answers a question TWICE, only mark the FIRST attempt.
+* If a candidate has crossed out an attempt of a question and not redone the question, mark the crossed out version.
+* Consistent accuracy applies in ALL aspects of the marking memorandum. Stop marking at the second calculation error.
+* Assuming answers/values in order to solve a problem is NOT acceptable.
+
+**NOTA:**
+* As 'n kandidaat 'n vraag TWEE KEER beantwoord, sien slegs die EERSTE poging na.
+* As 'n kandidaat 'n antwoord van 'n vraag doodtrek en nie oordoen nie, sien die doodgetrekte poging na.
+* Volgehoue akkuraatheid word in ALLE aspekte van die nasienriglyne toegepas. Hou op nasien by die tweede berekeningsfout.
+* Om antwoorde/waardes te aanvaar om 'n probleem op te los, word NIE toegelaat NIE.
+
+---
+
+### GEOMETRY • MEETKUNDE
+
+| | |
+| :---: | :--- |
+| **S** | A mark for a correct statement<br>(A statement mark is independent of a reason)<br><br>*'n Punt vir 'n korrekte bewering*<br>*('n Punt vir 'n bewering is onafhanklik van die rede)* |
+| **R** | A mark for the correct reason<br>(A reason mark may only be awarded if the statement is correct)<br><br>*'n Punt vir 'n korrekte rede*<br>*('n Punt word slegs vir die rede toegeken as die bewering korrek is)* |
+| **S/R** | Award a mark if statement AND reason are both correct<br><br>*Ken 'n punt toe as die bewering EN rede beide korrek is* |
+
+---
+
+### QUESTION / VRAAG 1
+
+| Monthly income (in rands)<br>Maandelikse inkomste (in rand) | 9 000 | 13 500 | 15 000 | 16 500 | 17 000 | 20 000 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| Monthly repayment (in rands)<br>Maandelikse paaiement (in rand) | 2 000 | 3 000 | 3 500 | 5 200 | 5 500 | 6 000 |
+
+| 1.1 | $\begin{aligned} a &= -1946,875\dots = -1946,88 \\ b &= 0,41 \\ \hat{y} &= -1946,88 + 0,41x \end{aligned}$ | $\checkmark\text{ Answer only: Full marks}$<br><br>$\checkmark a = -1946,88$<br>$\checkmark b = 0,41$<br>$\checkmark \text{equation}$ | (3) |
+| :--- | :--- | :--- | :--- |
+| 1.2 | Monthly repayment $\approx \text{R3 }727,16 \quad \text{ (calculator)}$<br>Maandelikse paaiement $\approx \text{R3 }727,16$<br><br>**OR**<br><br>$\begin{aligned} \hat{y} &= -1946,88 + 0,41(14000) \\ &\approx \text{R3 }793,12 \end{aligned}$ | $\checkmark\checkmark \text{answer}$<br><br><br>$\checkmark \text{substitution}$<br>$\checkmark \text{answer}$ | (2)<br><br>(2) |
+| 1.3 | $r = 0,946\dots \approx 0,95$ | $\checkmark \text{answer}$ | (1) |
+| 1.4 | Not to spend $\text{R9 }000$ per month because the point $(18\text{ }000\text{ ; }9\text{ }000)$ lies very far from the least squares regression line. **OR D**<br>Spandeer nie $\text{R9 }000$ per maand nie, want die punt $(18\text{ }000\text{ ; }9\text{ }000)$ lê baie ver van die kleinste-kwadrate regressielyn. **OF D** | $\checkmark\checkmark \text{answer}$ | (2) |
+| | | | **[8]** |
+
+---
+
+### QUESTION / VRAAG 2
+
+| 2.1 | Number people paid R200 or less $= 19$<br>Aantal mense wat R200 of minder betaal het $= 19$ | $\checkmark \text{answer}$ | (1) |
+| :--- | :--- | :--- | :--- |
+| 2.2 | $\begin{aligned} 7 + 12 + a + 35 + b + 6 &= 100 \quad \Rightarrow \quad a = 40 - b \\ 309 &= \frac{(50\times 7) + (150\times 12) + (250\times a) + (350\times 35) + (450\times b) + (550\times 6)}{100} \\ 309 &= \frac{(50\times 7) + (150\times 12) + (250(40 - b)) + (350\times 35) + (450\times b) + (550\times 6)}{100} \\ 350 + 1800 + 10000 - 250b + 12250 + 450b + 3300 &= 30900 \\ 200b &= 3200 \\ b &= 16 \\ a &= 24 \end{aligned}$<br><br>**OR/OF**<br><br>$\begin{aligned} 7 + 12 + a + 35 + b + 6 &= 100 \quad \Rightarrow \quad b = 40 - a \\ 309 &= \frac{(50\times 7) + (150\times 12) + (250\times a) + (350\times 35) + (450\times b) + (550\times 6)}{100} \\ 309 &= \frac{(50\times 7) + (150\times 12) + (250\times a) + (350\times 35) + (450(40 - a)) + (550\times 6)}{100} \\ 350 + 1800 + 250a + 12250 + 1800 - 450a &= 30900 \\ 200a &= 4\text{ }800 \\ a &= 24 \\ b &= 16 \end{aligned}$ | $\checkmark \sum x = 100$<br>$\checkmark a = 40 - b$<br>$\checkmark \sum fX$<br>$\checkmark \frac{\sum fX}{n} = 309$<br>$\checkmark 200b = 3200$<br><br><br><br><br><br><br><br>$\checkmark \sum x = 100$<br>$\checkmark b = 40 - a$<br>$\checkmark \sum fX$<br>$\checkmark \frac{\sum fX}{n} = 309$<br>$\checkmark 200a = 4\text{ }800$ | (5)<br><br><br><br><br><br><br><br><br>(5) |
+| 2.3 | Modal class / modale klas: $300 < x \le 400$ | $\checkmark \text{answer}$ | (1) |
+
+---
+
+| 2.4 | ![Cumulative Frequency Graph](data:image/png;base64,...) | $\checkmark \text{grounded at }(0\text{ ; }0)$<br>$\checkmark (600\text{ ; }100)$<br>$\checkmark \text{cumulative frequencies for } y\text{-coordinates}$<br>$\checkmark \text{smooth shape}$ | (4) |
+| :--- | :--- | :--- | :--- |
+| 2.5 | Number of people / Aantal mense $= 100 - 82 \quad [\text{accept } 80 - 84 \text{ people}]$<br>$18$ people paid more than R420 per month / $[\text{accept } 16 - 20 \text{ people}]$<br>$18$ mense betaal meer as R420 per maand | $\checkmark 82$<br>$\checkmark \text{answer}$<br><br>**Answer only: Full marks** | (2)<br><br>**[13]** |
+
+---
+
+### QUESTION / VRAAG 3
+
+![Graph for Question 3](data:image/png;base64,...)
+
+| 3.1 | Equation of PR: $y = 5$ | $\checkmark \text{answer}$ | (1) |
+| :--- | :--- | :--- | :--- |
+| 3.2.1 | $\begin{aligned} m_{RS} &= \frac{y_2 - y_1}{x_2 - x_1} \\ &= \frac{5 - (-7)}{3 - (-3)} = \frac{12}{6} \\ &= 2 \end{aligned}$ | $\checkmark\text{ Answer only: Full marks}$<br><br>$\checkmark \text{substitution of R \& S into gradient formula}$<br>$\checkmark \text{answer}$ | (2) |
+| 3.2.2 | $\begin{aligned} m_{RS} &= m_{PT} \quad [PT \parallel RS] \\ \tan\theta &= 2 \\ \theta &= 63,43^\circ \end{aligned}$ | $\checkmark m_{RS} = m_{PT}$<br>$\checkmark \tan\theta = 2$<br>$\checkmark \theta = 63,43^\circ$ | (3) |
+
+---
+
+| 3.2.3 | **Equation of RS:**<br>$\begin{aligned} y - 5 &= 2(x - 3) \text{ or } y - (-7) &= 2(x - (-3)) \text{ or } 5 &= 2(3) + c \\ y - 5 &= 2x - 6 \quad y + 7 &= 2x + 6 \quad c &= -1 \\ y &= 2x - 1 \quad y &= 2x - 1 \quad y &= 2x - 1 \end{aligned}$<br><br>$\therefore \text{D}(0\text{ ; } -1)$<br><br>**OR/OF**<br><br>$\begin{aligned} m_{RS} &= m_{RD} = m_{DS} \\ 2 &= \frac{5 - y}{3 - 0} = \frac{y + 7}{0 - (-3)} \\ \therefore y &= -1 \\ \therefore \text{D}(0\text{ ; }&-1) \end{aligned}$ | $\checkmark \text{substitution}$<br>$\checkmark \text{equation of RS}$<br>$\checkmark \text{coordinates of D}$<br><br><br><br><br>$\checkmark \text{equating gradients}$<br>$\checkmark \text{value of } y$<br>$\checkmark \text{coordinates of D}$ | (3)<br><br><br><br>(3) |
+| :--- | :--- | :--- | :--- |
+| 3.3 | $\begin{aligned} ST = 2\sqrt{5} &= \sqrt{[-5 - (-3)]^2 + (k - (-7))^2} \\ 20 &= 4 + (k + 7)^2 \\ (k + 7)^2 &= 16 \\ k + 7 &= \pm 4 \\ k = -11 &\text{ or } k = -3 \\ \therefore k &= -3 \end{aligned}$<br><br>**OR**<br><br>$\begin{aligned} ST = 2\sqrt{5} &= \sqrt{[-5 - (-3)]^2 + (k - (-7))^2} \\ 20 &= 4 + k^2 + 14k + 49 \\ k^2 + 14k + 33 &= 0 \\ (k + 11)(k + 3) &= 0 \\ k = -11 &\text{ or } k = -3 \\ \therefore k &= -3 \end{aligned}$ | $\checkmark \text{substitute S and T into distance formula}$<br>$\checkmark \text{isolate square}$<br>$\checkmark \text{square root both sides}$<br>$\checkmark \text{answer}$<br><br><br>$\checkmark \text{substitute S and T into distance formula}$<br>$\checkmark \text{standard form}$<br>$\checkmark \text{factors}$<br>$\checkmark \text{answer}$ | (4)<br><br><br><br><br>(4) |
+| 3.4 | **Method: translation**<br>$\text{T} \to \text{S}: \quad (x\text{ ; } y) \to (x + 2\text{ ; } y - 4)$<br>$\therefore \text{ by symmetry: } \text{D} \to \text{N}:$<br>$\text{D}(0\text{ ; } -1) \to \text{N}(0 + 2\text{ ; } -1 - 4)$<br>$\therefore \text{N}(2\text{ ; } -5)$<br><br>**OR**<br><br>$\text{Midpoint of TN} = \text{Midpoint of SD}$<br>$\frac{x + (-5)}{2} = \frac{-3 + 0}{2} \quad \text{and} \quad \frac{y + (-3)}{2} = \frac{-7 + (-1)}{2}$<br>$x = 2 \quad \text{and} \quad y = -5$<br>$\therefore \text{N}(2\text{ ; } -5)$ | $\checkmark \text{method}$<br><br>$\checkmark x\text{-coordinate}$<br>$\checkmark y\text{-coordinate}$<br><br><br>$\checkmark \text{method: midpoint of diagonals}$<br><br>$\checkmark x\text{-coordinate}$<br>$\checkmark y\text{-coordinate}$ | (3)<br><br><br><br><br>(3) |
+
+---
+
+| 3.5 | $\beta$ is the inclination of RS $\quad \therefore \beta = 63,434\dots^\circ$<br>O$\widehat{\text{F}}\text{D} = 63,434\dots^\circ \quad [\text{vert opp } \angle\text{s}]$<br>O$\widehat{\text{D}}\text{F} = 90^\circ - 63,434\dots^\circ = 26,565\dots^\circ$<br>$\text{R}\widehat{\text{D}}\text{R}' = 2(26,565\dots^\circ) = 53,13^\circ$<br><br>**OR**<br>PEFR is a $\parallel\text{m} \quad [\text{both pairs of opp sides} \parallel]$<br>$\therefore \widehat{\text{R}} = \theta = 63,434\dots^\circ \quad [\text{opp } \angle\text{s of } \parallel\text{m}]$<br>$\text{R}\widehat{\text{R}}'\text{D} = 63,434\dots^\circ \quad [\angle\text{s opp} = \text{sides: RD} = \text{R}'\text{D}]$<br>$\text{D}\widehat{\text{R}}\text{R}' = 180^\circ - (63,43^\circ + 63,43^\circ) \quad [\text{sum of } \angle\text{s in } \Delta]$<br>$\text{D}\widehat{\text{R}}\text{R}' = 53,13^\circ$<br><br>**OR**<br>$\tan \text{O}\widehat{\text{D}}\text{F} = \frac{3}{6}$<br>$\text{O}\widehat{\text{D}}\text{F} = 26,565\dots^\circ$<br>$\text{R}\widehat{\text{D}}\text{R}' = 2(26,565\dots^\circ) = 53,13^\circ$<br><br>**OR**<br>$\text{R}'(-3\text{ ; } 5) \quad [\text{reflection of R}(3\text{ ; } 5) \text{ about the } y\text{-axis}]$<br>$\text{RD} = \sqrt{(3 - 0)^2 + (5 - (-1))^2}$<br>$\text{RD} = \sqrt{45} = \text{R}'\text{D} \text{ or } 3\sqrt{5} \text{ or } 6,71$<br>$(\text{RR}')^2 = (\sqrt{45})^2 + (\sqrt{45})^2 - 2(\sqrt{45})(\sqrt{45})(\cos\text{R}\widehat{\text{D}}\text{R}')$<br>$6^2 = 45 + 45 - 2(45)(\cos\text{R}\widehat{\text{D}}\text{R}')$<br>$\cos\text{R}\widehat{\text{D}}\text{R}' = \frac{45 + 45 - 36}{2(45)}$<br>$\cos\text{R}\widehat{\text{D}}\text{R}' = \frac{3}{5}$<br>$\therefore \text{D}\widehat{\text{R}}\text{R}' = 53,13^\circ$ | $\checkmark \beta = 63,43^\circ$<br>$\checkmark \text{O}\widehat{\text{D}}\text{F} = 26,57^\circ$<br>$\checkmark \text{answer}$<br><br><br>$\checkmark \widehat{\text{R}} = 63,43^\circ$<br>$\checkmark \text{R}\widehat{\text{R}}'\text{D} = 63,43^\circ$<br><br>$\checkmark \text{answer}$<br><br><br>$\checkmark \text{trig ratio}$<br>$\checkmark \text{O}\widehat{\text{D}}\text{F} = 26,565\dots^\circ$<br>$\checkmark \text{answer}$<br><br><br>$\checkmark \text{R}'(-3\text{ ; } 5) \quad \text{OR} \quad \text{RD} = \sqrt{45} = \text{R}'\text{D}$<br><br>$\checkmark \text{substitution into cosine rule}$<br><br><br><br>$\checkmark \text{answer}$ | (3)<br><br><br><br><br>(3)<br><br><br><br><br>(3)<br><br><br><br><br><br><br><br><br><br>(3)<br>**[19]** |
+
+---
+
+### QUESTION / VRAAG 4
+
+| 4.1 | $\text{M}(-1\text{ ; } 1)$<br>$(x + 1)^2 + (y - 1)^2 = 1$ | $\checkmark\text{ Answer only: Full marks}$<br><br>$\checkmark \text{M}(-1\text{ ; } 1)$<br>$\checkmark \text{LHS} \quad \checkmark \text{RHS}$ | (3) |
+| :--- | :--- | :--- | :--- |
+| 4.2 | $\text{Midpoint of CB, N: } (-0,5\text{ ; } 1,5)$<br>$\frac{x_C + 0}{2} = -\frac{1}{2} \quad \text{and} \quad \frac{y_C + 1}{2} = \frac{3}{2}$<br>$\therefore \text{C}(-1\text{ ; } 2)$<br><br>**OR**<br>$\text{B} \to \text{N}: \quad (x\text{ ; } y) \to (x - 0,5\text{ ; } y + 0,5)$<br>$\text{N} \to \text{C}: \quad (x\text{ ; } y) \to (x - 0,5\text{ ; } y + 0,5)$<br>$\therefore \text{C}(-0,5 - 0,5\text{ ; } 1,5 + 0,5)$<br>$\therefore \text{C}(-1\text{ ; } 2)$ | $\checkmark\text{ Answer only: Full marks}$<br><br>$\checkmark x\text{-value} \quad \checkmark y\text{-value}$<br><br><br><br><br><br>$\checkmark x\text{-value} \quad \checkmark y\text{-value}$ | (2)<br><br><br><br><br>(2) |
+
+---
+
+| 4.3 | $\begin{aligned} m_{\text{radius}} &= \frac{2 - 1}{-1 - 0} \text{ or } \frac{2 - (-\frac{1}{2})}{-1 - (-\frac{3}{2})} \text{ or } \frac{0 - (-\frac{1}{2})}{1 - \frac{3}{2}} \\ &= -1 \\ \therefore m_{\text{tangent}} &= 1 \\ y &= mx + c \\ y &= x + c \\ 2 &= 1(-1) + c \\ c &= 3 \\ \therefore y &= x + 3 \\ y - x &= 3 \end{aligned}$<br><br>**OR**<br>$\begin{aligned} m_{\text{radius}} &= \frac{2 - 1}{-1 - 0} = -1 \\ \therefore m_{\text{tangent}} &= 1 \\ y - y_1 &= m(x - x_1) \\ y - 2 &= 1(x - (-1)) \\ y - 2 &= x + 1 \\ \therefore y &= x + 3 \\ y - x &= 3 \end{aligned}$ | $\checkmark m_{\text{radius}}$<br>$\checkmark m_{\text{tangent}}$<br><br>$\checkmark \text{substitute } (-1\text{ ; } 2) \text{ and } m$<br>$\checkmark \text{simplification}$<br><br><br><br><br>$\checkmark m_{\text{radius}}$<br>$\checkmark m_{\text{tangent}}$<br><br>$\checkmark \text{substitute } (-1\text{ ; } 2) \text{ and } m$<br>$\checkmark \text{simplification}$ | (4)<br><br><br><br><br><br>(4) |
+| :--- | :--- | :--- | :--- |
+| 4.4 | Tangents to circle: $y = x + 3 \text{ and } y = x + 1$<br><br>$\therefore t > 3 \text{ or } t < 1$ | $\checkmark y = x + 1$<br>$\checkmark t > 3 \quad \checkmark t < 1$ | (3) |
+| 4.5 | **Draw rectangle CNED:**<br>$\text{Midpt of DN} \left(-\frac{7}{4}\text{ ; } \frac{3}{4}\right)$<br>$\therefore \text{E}\left(-\frac{5}{2}\text{ ; } -\frac{1}{2}\right)$<br><br>**OR/OF**<br>$\text{D}(-3\text{ ; } 0)$<br>$\text{C} \to \text{N}: \quad (x\text{ ; } y) \to (x + 0,5\text{ ; } y - 0,5)$<br>$\text{D} \to \text{E}: \quad (x\text{ ; } y) \to (x + 0,5\text{ ; } y - 0,5)$<br>$\therefore \text{E}(-3 + 0,5\text{ ; } 0 - 0,5)$<br>$\therefore \text{E}(-2,5\text{ ; } -0,5)$ | $\checkmark \text{midpt of DN}$<br><br>$\checkmark x\text{-value} \quad \checkmark y\text{-value}$<br><br><br>$\checkmark \text{coordinates of D}$<br><br><br>$\checkmark x\text{-value} \quad \checkmark y\text{-value}$ | (3)<br><br><br><br>(3) |
+
+---
+
+| 4.6 | $\begin{aligned} \text{area of trapezium AOBC} &= \frac{1}{2}(1 + 2)(1) \\ &= 1\frac{1}{2} \text{ square units} \\ \text{area of } \Delta\text{ACD} &= \frac{1}{2}(2)(2) \\ &= 2 \text{ square units} \\ \text{area of quadrilateral OBCD} &= 3\frac{1}{2} \text{ square units} \\ \therefore 2a^2 &= \frac{7}{2} \\ a^2 &= \frac{7}{4} \\ a &= \frac{\sqrt{7}}{2} \end{aligned}$ | $\checkmark \text{substitution into area of trapezium form}$<br>$\checkmark \text{area of trapezium}$<br><br>$\checkmark \text{area of triangle}$<br><br>$\checkmark \text{area of OBCD}$<br><br>$\checkmark \text{equating area OBCD to } 2a^2$ | (5) |
+| :--- | :--- | :--- | :--- |
+| | | | **[20]** |
+
+---
+
+### QUESTION / VRAAG 5
+
+| 5.1 | $\begin{aligned} &\frac{\sin x}{\cos x \cdot \tan x} + \sin(180^\circ + x)\cos(90^\circ - x) \\ &= \frac{\sin x}{\cos x \cdot \frac{\sin x}{\cos x}} + (-\sin x)\sin x \\ &= 1 - \sin^2 x \\ &= \cos^2 x \end{aligned}$ | $\checkmark -\sin x \quad \checkmark \sin x$<br>$\checkmark \tan x = \frac{\sin x}{\cos x}$<br>$\checkmark 1 - \sin^2 x$<br>$\checkmark \cos^2 x$ | (5) |
+| :--- | :--- | :--- | :--- |
+| 5.2 | $\begin{aligned} &\frac{\sin^2 35^\circ - \cos^2 35^\circ}{4\sin 10^\circ \cos 10^\circ} \\ &= \frac{-(\cos^2 35^\circ - \sin^2 35^\circ)}{2(2\sin 10^\circ \cos 10^\circ)} \\ &= \frac{-\cos 70^\circ}{2\sin 20^\circ} \\ &= \frac{-\cos 70^\circ}{2\cos 70^\circ} \quad \textbf{OR} \quad = \frac{-\sin 20^\circ}{2\sin 20^\circ} \\ &= -\frac{1}{2} \end{aligned}$ | $\checkmark -(\cos^2 35^\circ - \sin^2 35^\circ)$<br>$\checkmark -\cos 70^\circ$<br>$\checkmark 2\sin 20^\circ$<br>$\checkmark \text{answer}$ | (4) |
+| 5.3 | $\begin{aligned} 2\sin^2 77^\circ &= 2[\sin(90^\circ - 13^\circ)]^2 \\ &= 2\cos^2 13^\circ \\ &= 2\cos^2 13^\circ - 1 + 1 \\ &= \cos 26^\circ + 1 \\ &= m + 1 \end{aligned}$<br><br>**OR**<br>$\begin{aligned} 1 - 2\sin^2 77^\circ &= \cos 154^\circ \\ 2\sin^2 77^\circ &= 1 - \cos 154^\circ \\ &= 1 - (-\cos 26^\circ) \\ &= 1 + m \end{aligned}$ | $\checkmark \text{using co-ratio}$<br>$\checkmark \text{reduction}$<br>$\checkmark 2\cos^2 13^\circ - 1 = \cos 26^\circ$<br>$\checkmark \text{answer}$<br><br><br>$\checkmark 1 - 2\sin^2 77^\circ = \cos 154^\circ$<br>$\checkmark 2\sin^2 77^\circ = 1 - \cos 154^\circ$<br>$\checkmark \text{reduction}$<br>$\checkmark \text{answer}$ | (4)<br><br><br><br>(4) |
+
+---
+
+| 5.4.1 | $\begin{aligned} \sin(x + 25^\circ)\sin 15^\circ - \cos(x + 25^\circ)\sin 15^\circ &= \tan 165^\circ \\ \sin(x + 25^\circ - 15^\circ) &= -0,2679\dots \\ \sin(x + 10^\circ) &= -0,2679\dots \end{aligned}$<br><br>$x + 10^\circ = 195,54^\circ + k \cdot 360^\circ \quad \text{or} \quad x + 10^\circ = 344,46^\circ + k \cdot 360^\circ$<br>$x = 185,54^\circ + k \cdot 360^\circ ; k \in \mathbb{Z} \quad \text{or} \quad x = 334,46^\circ + k \cdot 360^\circ ; k \in \mathbb{Z}$<br><br>**OR/OF**<br>$\begin{aligned} \sin(x + 25^\circ)\sin 75^\circ - \cos(x + 25^\circ)\cos 75^\circ &= \tan 165^\circ \\ -(\cos(x + 25^\circ)\cos 75^\circ - \sin(x + 25^\circ)\sin 75^\circ) &= -0,2679\dots \\ \cos(x + 100^\circ) &= 0,2679\dots \end{aligned}$<br><br>ref. $\angle = 74,4577\dots^\circ$<br>$x + 100^\circ = 74,46^\circ + k \cdot 360^\circ \quad \text{or} \quad x + 100^\circ = 285,54^\circ + k \cdot 360^\circ$<br>$x = -25,54^\circ + k \cdot 360^\circ ; k \in \mathbb{Z} \quad \text{or} \quad x = 185,54^\circ + k \cdot 360^\circ ; k \in \mathbb{Z}$ | $\checkmark\checkmark \sin(x + 10^\circ)$<br>$\checkmark -0,2679\dots$<br>$\checkmark 195,54^\circ \text{ \& } 344,46^\circ$<br>$\checkmark 185,54^\circ \text{ \& } 334,46^\circ$<br>$\checkmark + k \cdot 360^\circ ; k \in \mathbb{Z}$<br><br><br><br>$\checkmark\checkmark \cos(x + 100^\circ)$<br>$\checkmark -0,2679\dots$<br><br>$\checkmark 74,46^\circ \text{ \& } 285,54^\circ$<br>$\checkmark -25,54^\circ \text{ \& } 185,54^\circ$<br>$\checkmark + k \cdot 360^\circ ; k \in \mathbb{Z}$ | (6)<br><br><br><br><br><br><br><br>(6) |
+| :--- | :--- | :--- | :--- |
+| 5.4.2 | $f(x) = \sin(x + 10^\circ) \quad \text{Answers only: Full marks}$<br>For minimum value of $\sin x : \quad x = 270^\circ$<br>For minimum value of $\sin(x + 10^\circ) : \quad x = 260^\circ$ | $\checkmark f(x) = \sin(x + 10^\circ)$<br>$\checkmark 270^\circ$<br>$\checkmark \text{answer}$ | (3)<br>**[22]** |
+
+---
+
+### QUESTION / VRAAG 6
+
+![Graph for Question 6](data:image/png;base64,...)
+
+| 6.1 | Range of $f: \quad y \in [-2\text{ ; } 0] \quad \text{OR} \quad -2 \le y \le 0$ | $\checkmark \text{critical values}$<br>$\checkmark \text{notation}$ | (2) |
+| :--- | :--- | :--- | :--- |
+| 6.2 | $x \in (90^\circ\text{ ; } 270^\circ) \quad \text{OR} \quad x \in

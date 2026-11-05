@@ -1,0 +1,249 @@
+**NASIONALE SENIOR SERTIFIKAAT**
+**GRAAD 10**
+
+**WISKUNDE V2**
+**NOVEMBER 2015**
+
+**PUNTE: 100**
+**TYD: 2 uur**
+
+Hierdie vraestel bestaan uit 11 bladsye en 'n 16 bladsy-antwoordeboek.
+
+---
+
+**INSTRUKSIES EN INLIGTING**
+
+Lees die volgende instruksies aandagtig deur voordat jy die vrae beantwoord.
+
+1. Hierdie vraestel bestaan uit 9 vrae.
+2. Beantwoord AL die vrae in die SPESIALE ANTWOORDEBOEK wat verskaf word.
+3. Dui ALLE berekeninge, diagramme, grafieke ensovoorts wat jy gebruik het om jou antwoorde te bepaal, duidelik aan.
+4. Antwoorde alleenlik sal NIE noodwendig volpunte verdien NIE.
+5. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders aangedui.
+6. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+7. Jy mag 'n goedgekeurde wetenskaplike sakrekenaar (nieprogrammeerbaar en niegrafies) gebruik, tensy anders aangedui.
+8. Skryf netjies en leesbaar.
+
+---
+
+**VRAAG 1**
+
+Negentien dogters is gevra om 'n legkaart so gou as moontlik te voltooi. Hulle tye (in sekondes) is aangeteken en word in die tabel hieronder getoon:
+
+$$\begin{array}{llllllllll}
+14 & 15 & 16 & 16 & 17 & 17 & 18 & 18 & 19 & 19 \\
+19 & 20 & 21 & 21 & 22 & 23 & 24 & 24 & 29 &
+\end{array}$$
+
+1.1 Identifiseer die mediaantyd wat die dogters geneem het om die legkaart te voltooi. (1)
+
+1.2 Bepaal die onderste en boonste kwartiele vir die data. (2)
+
+1.3 Teken 'n mond-en-snordiagram om die data voor te stel. (2)
+
+1.4 Die vyfgetalopsomming van die tyd (in sekondes) wat dit 19 seuns geneem het om dieselfde legkaart te voltooi, is $(15; 19; 23; 26; 30)$.
+
+1.4.1 Bereken die interkwartielvariasiewydte (-omvang) vir die tyd wat dit die seuns geneem het. (2)
+
+1.4.2 Indien slegs een seun 19 sekondes geneem het om die legkaart te voltooi, watter persentasie van die seuns het ten minste 19 sekondes geneem om die legkaart te voltooi? (1)
+
+1.5 In watter groep, die seuns of die dogters, het 'n groter getal leerders die legkaart in minder as 23 sekondes voltooi? Motiveer jou antwoord. (2)
+
+**[10]**
+
+---
+
+**VRAAG 2**
+
+Die tabel hieronder toon inligting oor die getal uur wat 120 leerders in die afgelope week op hulle selfone spandeer het.
+
+$$\begin{array}{|c|c|}
+\hline
+\textbf{GETAL UUR } (h) & \textbf{FREKWENSIE} \\ \hline
+0 < h \le 2 & 10 \\ \hline
+2 < h \le 4 & 15 \\ \hline
+4 < h \le 6 & 30 \\ \hline
+6 < h \le 8 & 35 \\ \hline
+8 < h \le 10 & 25 \\ \hline
+10 < h \le 12 & 5 \\ \hline
+\end{array}$$
+
+2.1 Identifiseer die modale klas vir die data. (1)
+
+2.2 Skat die gemiddelde getal uur wat hierdie leerders in die afgelope week op hul selfone spandeer het. (3)
+
+**[4]**
+
+---
+
+**VRAAG 3**
+
+In die diagram is C 'n punt op die $y$-as sodat $A(0; 4)$, $B(4; -4)$, en $D(-4; 2)$ hoekpunte van parallelogram $ABCD$ is. K is die punt $\left(0; -2\frac{1}{4}\right)$ en L is 'n punt op AB sodat $KL \parallel CB$.
+
+[DIAGRAM: Cartesian plane showing parallelogram $ABCD$ with vertices $A(0;4)$, $D(-4;2)$, $C$, and $B(4;-4)$. Point $K$ is on the $y$-axis at $(0; -2\frac{1}{4})$ and point $L$ is on $AB$ such that $KL \parallel CB$.]
+
+3.1 Bereken die lengte van hoeklyn $DB$. (3)
+
+3.2 Bereken die koördinate van M, die middelpunt van $DB$. (3)
+
+3.3 Bereken die gradiënt van $AD$. (3)
+
+3.4 Bewys dat $AD \perp AB$. (3)
+
+3.5 Gee 'n rede waarom parallelogram $ABCD$ 'n reghoek is. (1)
+
+3.6 Bepaal die vergelyking van $KL$ in die vorm $y = mx + c$. (2)
+
+3.7 Skryf, met redes, die koördinate van $C$ neer. (3)
+
+**[18]**
+
+---
+
+**VRAAG 4**
+
+$\Delta PQR$ en $\Delta SQR$ is reghoekige driehoeke soos in die diagram hieronder aangetoon. 
+$PR = 26$, $PQ = 24$, $QS = 8$, $SR = 6$, $QR = 10$ en $\text{P}\hat{\text{R}}\text{Q} = \theta$.
+
+[DIAGRAM: Two right-angled triangles $\Delta PQR$ ($\hat{Q}=90^\circ$) and $\Delta SQR$ ($\hat{S}=90^\circ$) sharing side $QR$. $PR=26$, $PQ=24$, $QR=10$, $QS=8$, $SR=6$, and $\text{P}\hat{\text{R}}\text{Q} = \theta$.]
+
+4.1 Verwys na die diagram hierbo en, SONDER om 'n sakrekenaar te gebruik, skryf die waarde neer van:
+
+4.1.1 $\tan\hat{P}$ (1)
+
+4.1.2 $\sin\text{S}\hat{\text{Q}}\text{R}$ (1)
+
+4.1.3 $\cos\theta$ (1)
+
+4.1.4 $\sec\text{S}\hat{\text{R}}\text{Q}$ (1)
+
+4.2 SONDER om 'n sakrekenaar te gebruik, bepaal die waarde van $\frac{\cot\theta}{\text{cosec }\text{Q}\hat{\text{R}}\text{S}}$. (3)
+
+**[7]**
+
+---
+
+**VRAAG 5**
+
+5.1 In die diagram hieronder is $P(x; y)$ 'n punt in die derde kwadrant. $\text{R}\hat{\text{O}}\text{P} = \beta$ en $17\cos\beta + 15 = 0$.
+
+[DIAGRAM: Cartesian plane showing point $P(x;y)$ in the third quadrant. Angle $\text{R}\hat{\text{O}}\text{P} = \beta$ measured counterclockwise from the positive $x$-axis to ray $OP$.]
+
+5.1.1 Skryf die waardes van $x$, $y$ en $r$ neer. (4)
+
+5.1.2 SONDER om 'n sakrekenaar te gebruik, bepaal die waarde van:
+
+(a) $\sin\beta$ (1)
+
+(b) $\cos^2 30^\circ \cdot \tan\beta$ (3)
+
+5.1.3 Bereken die grootte van $\text{R}\hat{\text{O}}\text{P}$ korrek tot TWEE desimale plekke. (2)
+
+5.2 Los vir $x$ op in elk van die volgende vergelykings, waar $0^\circ \le x \le 90^\circ$. Gee jou antwoorde korrek tot TWEE desimale plekke.
+
+5.2.1 $\tan x = 2,22$ (2)
+
+5.2.2 $\sec(x + 10^\circ) = 5,759$ (3)
+
+5.2.3 $\frac{\sin x}{0,2} - 2 = 1,24$ (3)
+
+**[18]**
+
+---
+
+**VRAAG 6**
+
+In die diagram hieronder is die grafiek van $f(x) = -2\cos x$ geskets vir die interval $0^\circ \le x \le 360^\circ$.
+
+[DIAGRAM: Graph of $f(x) = -2\cos x$ plotted on a Cartesian plane from $x = 0^\circ$ to $360^\circ$, showing $y$-intercept at $(0^\circ, -2)$, minimum at $(0^\circ, -2)$ and $(360^\circ, -2)$, $x$-intercepts at $90^\circ$ and $270^\circ$, and maximum at $(180^\circ, 2)$.]
+
+6.1 Skryf die amplitude van $f$ neer. (1)
+
+6.2 Skryf die minimum waarde van $f(x) + 3$ neer. (1)
+
+6.3 Op dieselfde assestelsel, skets die grafiek van $g$, waar $g(x) = \sin x + 1$ vir die interval $0^\circ \le x \le 360^\circ$. (3)
+
+6.4 Gebruik die grafieke om die volgende te bepaal:
+
+6.4.1 Die waarde van $f(180^\circ) - g(180^\circ)$ (2)
+
+6.4.2 Vir watter waarde(s) van $x$ sal $f(x)\cdot g(x) > 0$ wees (2)
+
+6.5 Die grafiek van $f$ word om die $x$-as gereflekteer en dan met 3 eenhede afwaarts geskuif om die grafiek van $h$ te vorm. Bepaal:
+
+6.5.1 Die vergelyking van $h$ (2)
+
+6.5.2 Die waardeversameling van $h$ vir die interval $0^\circ \le x \le 360^\circ$ (2)
+
+**[13]**
+
+---
+
+**VRAAG 7**
+
+'n Betonhekpilaar bestaan uit 'n regte reghoekige prisma met 'n vierkantige basis en 'n piramiede aan die bokant, soos in die diagram hieronder getoon. Die lengte van die sye van die basis is $30\text{ cm}$ en die hoogte van die reghoekige gedeelte is $150\text{ cm}$. Die loodregte hoogte van die piramiede gedeelte is $8\text{ cm}$.
+
+[DIAGRAM: A concrete pillar made of a square-based prism of base $30\text{ cm} \times 30\text{ cm}$ and height $150\text{ cm}$, topped with a square-based pyramid of perpendicular height $8\text{ cm}$.]
+
+$$\begin{array}{|l}
+\text{Volume van 'n piramiede} = \frac{1}{3}\text{ oppervlakte van die basis} \times \text{hoogte} \\
+\text{Totale buite-oppervlakte van 'n piramiede} = \text{oppervlakte van die basis} + \frac{1}{2}(\text{omtrek van die basis} \times \text{skuinshoogte})
+\end{array}$$
+
+7.1 Bereken die volume beton wat benodig word om EEN pilaar te maak. (3)
+
+7.2 Bereken die buite-oppervlakte van die piramiedegedeelte van die pilaar. (3)
+
+7.3 Indien die lengte van die sye van die basis gehalveer word, hoeveel pilare met dieselfde ontwerp as die oorspronklike, kan met dieselfde volume beton as die oorspronklike pilaar gemaak word? (2)
+
+**[8]**
+
+---
+
+**VRAAG 8**
+
+**Gee redes vir jou bewerings in VRAAG 8 en 9.**
+
+In die diagram is $ABCD$ 'n ruit met hoeklyne $AC$ en $BD$ wat in $O$ sny. $\text{A}\hat{\text{D}}\text{O} = 36,87^\circ$ en $DO = 8\text{ cm}$.
+
+[DIAGRAM: Rhombus $ABCD$ with diagonals $AC$ and $BD$ intersecting at $O$. $\text{A}\hat{\text{D}}\text{O} = 36,87^\circ$ and $DO = 8\text{ cm}$.]
+
+8.1 Skryf die groottes van die volgende hoeke neer:
+
+8.1.1 $\text{C}\hat{\text{O}}\text{D}$ (1)
+
+8.1.2 $\text{A}\hat{\text{O}}\text{D}$ (1)
+
+8.2 Bereken die lengte van $AO$. (2)
+
+8.3 As $E$ 'n punt op $AB$ is met $OE \parallel DA$, bereken die lengte van $OE$. (4)
+
+**[8]**
+
+---
+
+**VRAAG 9**
+
+9.1 In die diagram hieronder is $D$ die middelpunt van sy $AB$ van $\Delta ABC$. $E$ is die middelpunt van $AC$. $DE$ is verleng na $F$ sodat $DE = EF$. $CF \parallel BA$.
+
+[DIAGRAM: Triangle $ABC$ with $D$ on $AB$ ($AD=DB$) and $E$ on $AC$ ($AE=EC$). Segment $DE$ is extended to $F$ such that $DE=EF$. $CF \parallel BA$.]
+
+9.1.1 Skryf 'n rede neer waarom $\Delta ADE \equiv \Delta CFE$. (1)
+
+9.1.2 Skryf 'n rede neer waarom $DBCF$ 'n parallelogram is. (1)
+
+9.1.3 Bewys vervolgens die stelling wat beweer dat $DE = \frac{1}{2}BC$. (2)
+
+9.2 In die diagram hieronder is $PQRS$ 'n parallelogram met hoeklyne $PR$ en $QS$ wat in $M$ sny. $B$ is 'n punt op $PQ$ sodat $SBA$ en $RQA$ reguitlyne is en $SB = BA$. $SA$ sny $PR$ in $C$ en $PA$ word getrek.
+
+[DIAGRAM: Parallelogram $PQRS$ with diagonals $PR$ and $QS$ intersecting at $M$. Point $B$ on $PQ$ such that $SBA$ and $RQA$ are straight lines with $SB=BA$. $SA$ intersects $PR$ at $C$, and $PA$ is drawn.]
+
+9.2.1 Bewys dat $SP = QA$. (4)
+
+9.2.2 Bewys dat $SPAQ$ 'n parallelogram is. (2)
+
+9.2.3 Bewys dat $AR = 4MB$. (4)
+
+**[14]**
+
+**TOTAAL: 100**

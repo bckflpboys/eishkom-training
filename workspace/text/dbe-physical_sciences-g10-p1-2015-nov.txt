@@ -1,0 +1,789 @@
+=== page 1 ===
+Copyright reserved Please turn over
+
+MARKS:  150
+
+TIME:  2 hours
+
+This question paper consists of 17 pages and 2 data sheets.
+
+GRADE 10
+NATIONAL
+SENIOR CERTIFICATE
+PHYSICAL SCIENCES:  PHYSICS (P1)
+
+NOVEMBER 2015
+
+=== page 2 ===
+Physical Sciences/P1  2                 DBE/November 2015
+CAPS – Grade 10
+Copyright reserved                                                                                                                   Please turn over
+
+INSTRUCTIONS AND INFORMATION
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+Write your name and class  (for example 10A) in the appropriate spaces on
+the ANSWER BOOK.
+
+This question paper consists of 11 questions. Answer ALL the questions in
+the ANSWER BOOK.
+
+Start EACH question on a NEW page in the ANSWER BOOK.
+
+Number the answers correctly according to the numbering system used in this
+question paper.
+
+Leave ONE line between two subquestions, for example between
+QUESTION 2.1 and QUESTION 2.2.
+
+You may use a non-programmable calculator.
+
+You may use appropriate mathematical instruments.
+
+You are advised to use the attached DATA SHEETS.
+
+Show ALL formulae and substitutions in ALL calculations.
+
+Round off your final numerical answers to a minimum of TWO decimal places.
+
+Give brief motivations, discussions et cetera where required.
+
+Write neatly and legibly.
+
+=== page 3 ===
+Physical Sciences/P1  3                 DBE/November 2015
+CAPS – Grade 10
+Copyright reserved                                                                                                                   Please turn over
+
+QUESTION 1:  MULTIPLE-CHOICE QUESTIONS
+
+Four options are provided as possible answers to the following questions. Each
+question has only ONE correct answer. Choose the answer and write only the
+letter (A –D) next to the question number (1.1– 1.10) in the ANS WER BOOK, for
+example 1.11 E.
+
+1.1 Which ONE of the following combinations includes TWO scalar quantities and
+ONE vector quantity?
+
+ A
+
+B
+
+C
+
+D
+Displacement, acceleration, speed
+
+Speed, velocity, distance
+
+Force, mass, acceleration
+
+Displacement, acceleration, velocity
+
+(2)
+
+1.2 A car sets out from town X and travels 40 km along a straight road to town Y.
+The driver turns around and immediately drives back to t own X. The whole
+trip takes 2 hours.
+
+The magnitude of the average velocity for the whole journey, in kilometres per
+hour, will be …
+
+ A
+
+B
+
+C
+
+D
+0
+
+20
+
+40
+
+80
+
+(2)
+
+1.3 The slope of a tangent to a position versus time graph represents the …
+
+ A
+
+B
+
+C
+
+D
+average acceleration.
+
+average velocity.
+
+instantaneous velocity.
+
+instantaneous acceleration.
+
+(2)
+
+=== page 4 ===
+Physical Sciences/P1  4                 DBE/November 2015
+CAPS – Grade 10
+Copyright reserved                                                                                                                   Please turn over
+
+1.4 An object of mass m is dropped from a balcony  and strikes the ground with
+kinetic energy E.
+
+An object of mass 2m is dropped FROM THE SAME HEIGHT and strikes the
+ground with kinetic energy equal to ...
+
+ A
+
+B
+
+C
+
+D
+¼E
+
+½E
+
+E
+
+2E
+
+(2)
+
+1.5 Two pulses are travelling towards each other  along a string, as shown in the
+diagram below.
+
+ When the centres of the two pulses meet at Q, the amplitude of the resultant
+pulse will be ...
+
+ A
+
+B
+
+C
+
+D
+x + y
+
+2(x + y)
+
+y – x
+
+2(y – x)
+
+(2)
+
+ y
+x Q
+
+=== page 5 ===
+Physical Sciences/P1  5                 DBE/November 2015
+CAPS – Grade 10
+Copyright reserved                                                                                                                   Please turn over
+
+1.6 Which ONE of the combinations below concerning the pitch and loudness of
+sound is CORRECT?
+
+The pitch and loudness of sound depend on:
+
+  PITCH LOUDNESS
+ A Frequency Amplitude of vibration
+ B Frequency Speed of vibration
+ C Amplitude of vibration Frequency
+ D Speed of vibration Frequency   (2)
+
+1.7 Consider the following statements concerning ultraviolet radiation:
+
+(i) It cannot be reflected.
+(ii) It has a longer wavelength than gamma rays.
+(iii) It is radiated from the sun and may be harmful to humans.
+
+Which ONE of the following combinations is CORRECT?
+
+ A
+
+B
+
+C
+
+D
+(i) and (ii) only
+
+(ii) and (iii) only
+
+(i) and (iii) only
+
+(i), (ii) and (iii)
+
+(2)
+
+1.8 A rod acquires a negative charge after it has been rubbed with wool.
+
+Which ONE of the following best explains why this happens?
+
+ A
+
+B
+
+C
+
+D
+Positive charges are transferred from the rod to the wool.
+
+Negative charges are transferred from the rod to the wool.
+
+Positive charges are transferred from the wool to the rod.
+
+Negative charges are transferred from the wool to the rod.
+
+(2)
+
+=== page 6 ===
+Physical Sciences/P1  6                 DBE/November 2015
+CAPS – Grade 10
+Copyright reserved                                                                                                                   Please turn over
+
+1.9 The diagram below represents the magnetic field around a bar magnet.
+
+ At which point is the magnitude of the magnetic field of the bar magnet the
+greatest?
+
+ A
+
+B
+
+C
+
+D
+P
+
+Q
+
+R
+
+S
+
+(2)
+
+1.10 For which ONE of the quantities below is the CORRECT unit of measurement
+given?
+
+  QUANTITY UNIT
+ A Current A∙s-1
+ B Energy kW
+ C Potential difference V
+ D Resistance V∙s   (2)
+[20]
+
+S
+P
+Q
+R
+
+=== page 7 ===
+Physical Sciences/P1  7                 DBE/November 2015
+CAPS – Grade 10
+Copyright reserved                                                                                                                   Please turn over
+N
+E W
+S
+
+QUESTION 2   (Start on a new page.)
+
+A motorbike produces a  driving force of 500 N as the bike and rider move westwards
+on a flat, straight road.
+
+When the rider applies the brakes, a frictional force of 150 N acts on the wheels, slows
+down the motorbike and rider.
+
+2.1 Define the term vector.  (2)
+
+2.2 Calculate the resultant force acting on the motorbike and rider. (Treat the rider
+and bike as a single object).
+
+(3)
+
+The rider trav els 160 km westward s against the wind  in a time of 2 hours . The rider
+immediately turns around and rides back to the starting point in a time of 1, 67 hours,
+this time with the wind.
+
+2.3 Write down the total displacement for the entire journey.  (1)
+
+2.4 Calculate the average speed of the motorbike for the entire journey in km∙h-1.  (4)
+
+ The wind blows at a constant speed of 8 km∙h-1 EASTWARDS.
+
+2.5 Calculate the m agnitude of the actual velocity of the motorbike , in km∙h-1 (in
+other words, if there is no wind).
+
+(3)
+   [13]
+
+=== page 8 ===
+Physical Sciences/P1  8                 DBE/November 2015
+CAPS – Grade 10
+Copyright reserved                                                                                                                   Please turn over
+
+QUESTION 3   (Start on a new page.)
+
+A van is traveling at a constant speed of 54 km∙h-1 in a 40 km∙h-1 zone.
+
+A policeman starts his car from rest just as the van passes him.
+
+The police car accelerates at  2 m∙s-2 until it reaches a maximum velocity of 20 m∙s -1.
+The policeman then continues driving at this constant velocity.
+
+3.1 Define the term acceleration.  (2)
+
+3.2 Convert 54 km∙h-1 to metres per second (m∙s-1).  (3)
+
+3.3 Calculate the time it takes the police car to reach its maximum velocity.  (4)
+
+3.4 Calculate which vehicle (the van or the police car) is ahead at the time
+calculated in QUESTION 3.3.
+
+(5)
+
+3.5 Calculate how far the police car has to travel before it catches  up with the
+van.
+
+(5)
+
+3.6 Write down the total time taken by the police car to catch up with the van.  (1)
+   [20]
+
+=== page 9 ===
+Physical Sciences/P1  9                 DBE/November 2015
+CAPS – Grade 10
+Copyright reserved                                                                                                                   Please turn over
+velocity (m∙s-1)
+5
+27,5
+20  time (s)
+-20
+30
+40
+A
+B C
+D
+E
+25
+N
+W
+S
+E
+
+QUESTION 4   (Start on a new page.)
+
+The velocity versus time graph for a racing car moving eastwards, is shown below.
+
+4.1 Write down the initial velocity of the car.  (2)
+
+4.2 Write down the speed of the car at time t = 10 s.  (2)
+
+4.3 Describe the motion of the car for the section labelled CD.  (2)
+
+4.4 Support the answer to QUESTION 4.3 above  by calculating the acceleration
+for section CD.
+
+(4)
+
+4.5 Without any calculation, compare the magnitude of the acceleration of the car
+in part DE  with that of part CD of the journey. Write only GREATER THAN,
+LESS THAN or EQUAL TO. Give a reason for the answer.
+
+(2)
+
+4.6 Determine the total displacement for the motion of the car.  (7)
+   [19]
+
+=== page 10 ===
+Physical Sciences/P1  10                 DBE/November 2015
+CAPS – Grade 10
+Copyright reserved                                                                                                                   Please turn over
+•
+
+•
+
+•
+ •
+
+A
+
+B
+
+C
+
+D
+
+5 m
+
+7 m
+
+QUESTION 5   (Start on a new page.)
+
+A steel ball  of mass 5 kg is rolling over a frictionless surface , as shown below. When
+the ball reaches point A  it has mechanical ener gy of 250 J. (The sketch is NOT  drawn
+to scale.)
+
+5.1 State the principle of conservation of mechanical energy in words.  (2)
+
+5.2 Use your knowledge of the principle of conservation of mechanical energy to:
+
+ 5.2.1 Write down the kinetic energy of the steel ball at point B  (2)
+
+ 5.2.2 Calculate the speed of the steel ball at the instant it reaches point C  (5)
+
+5.3 Determine whether the mechanical energy acquired by the ball at
+point A will be enough to carry the ball over point D. Show ALL calculations.
+
+(4)
+   [13]
+
+=== page 11 ===
+Physical Sciences/P1  11                 DBE/November 2015
+CAPS – Grade 10
+Copyright reserved                                                                                                                   Please turn over
+
+QUESTION 6   (Start on a new page.)
+
+The diagram below represents a water wave moving from left to right. The  time
+between two consecutive crests is 0,5 s.
+
+6.1 What type of wave is a water wave?  (1)
+
+6.2 Write down the amplitude of the wave.  (1)
+
+6.3 Define the term wavelength.  (2)
+
+6.4 Determine the wavelength of the wave.  (2)
+
+6.5 Name TWO points on the wave form above that are in phase.  (1)
+
+Calculate:
+
+6.6 The time taken for FOUR crests to move past a certain point in the path of the
+wave
+
+(3)
+
+6.7 The speed of the wave  (4)
+   [14]
+
+B
+J
+C
+   A
+D
+
+E
+
+F
+
+6 m
+3 m
+  Direction of motion
+
+=== page 12 ===
+Physical Sciences/P1  12                 DBE/November 2015
+CAPS – Grade 10
+Copyright reserved                                                                                                                   Please turn over
+
+QUESTION 7   (Start on a new page.)
+
+7.1 Define the term longitudinal wave.  (2)
+
+7.2 A sound wave travels to a high wall which is 225 m away from the source and
+is then reflected back.
+
+If the speed of sound in air is 340 m∙s -1, calculate the time it takes to hear the
+echo.
+
+(4)
+
+The same sound source used in QUESTION 7.2 above is used to produce an echo b y
+sending the sound into water.
+
+7.3 Is the time it takes to hear the echo LESS THAN, EQUAL TO or  THE SAME
+as that obtained in QUESTION 7.2? Give a reason for the answer.
+
+(3)
+
+7.4 Ultrasound is used in medicine.
+
+State the property of ultrasound waves that enables ultrasound to be used in
+imaging.
+
+(2)
+   [11]
+
+QUESTION 8   (Start on a new page.)
+
+The table below shows an arrangement of electromagnetic radiation according to their
+frequencies.
+
+TYPE OF RADIATION TYPICAL FREQUENCY (Hz)
+Radio waves 105–1010
+Microwaves 1010–1011
+Infrared (IR) 1011–1014
+Visible light 1014–1015
+Ultraviolet (UV) 1015–1016
+X-rays 1016–1018
+Gamma rays 1018–1021
+
+8.1 Write down TWO properties of electromagnetic waves.  (2)
+
+8.2 Which radiation has the highest energy?  (1)
+
+8.3 A certain radiation has energy of 1,99 x 10-20 J.
+
+Identify the type of radiation associated with this energy.
+
+(4)
+
+=== page 13 ===
+Physical Sciences/P1  13                 DBE/November 2015
+CAPS – Grade 10
+Copyright reserved                                                                                                                   Please turn over
+
+8.4 Refer to diagrams A to C below.
+
+ Which type of radiation is used in:
+
+ 8.4.1 A  (1)
+
+ 8.4.2 B  (1)
+
+ 8.4.3 C  (1)
+   [10]
+
+TV
+Afstandbeheer
+
+B
+
+A
+
+C
+Aircraft
+communication
+Television
+remote control
+
+=== page 14 ===
+Physical Sciences/P1  14                 DBE/November 2015
+CAPS – Grade 10
+Copyright reserved                                                                                                                   Please turn over
+
+QUESTION 9   (Start on a new page.)
+
+9.1 Define the term magnetic field.   (2)
+
+9.2 What general term is used to describe materials that are easily magnetised?  (1)
+
+9.3 The diagram below shows t he ma gnetic field pattern of two identical bar
+magnets with ends AB and CD.
+
+ 9.3.1 What important information  about the polarities of B and C is
+obtained from the diagram?
+
+(1)
+
+ 9.3.2 A small piece of magnetic material is placed at point X, exactly in the
+middle of the arrangement. Will the material move? Write down only
+YES or NO.
+
+(1)
+
+ A small compass is placed at point Y. The north pole of the compass points
+AWAY from D.
+
+ 9.3.3 Do the field lines shown around bar magnet CD point from C to D, or
+from D to C? Give a reason for the answer.
+
+(2)
+
+9.4 Give a reason why the Earth's magnetic field is important to our existence.  (1)
+   [8]
+
+C
+Direction of compass needle
+
+=== page 15 ===
+Physical Sciences/P1  15                 DBE/November 2015
+CAPS – Grade 10
+Copyright reserved                                                                                                                   Please turn over
+
+QUESTION 10   (Start on a new page.)
+
+A learner in a Physical S ciences class rubs his hair with a plastic rod. The rod
+becomes negatively charged. The learner now opens a tap so that a thin stream of
+water runs from it . When the rod is brought close to the water without touching it, it is
+observed that the water bends toward the rod, as shown in the diagram below.
+
+10.1 Write down the principle of conservation of charge in words.  (2)
+
+10.2 Give a reason why the stream of water bends towards the rod.  (2)
+
+During the rubbing process 1014 electrons are transferred to the rod.
+
+10.3 Calculate the net charge now carried by the rod.  (4)
+   [8]
+
+tap
+water
+
+=== page 16 ===
+Physical Sciences/P1  16                 DBE/November 2015
+CAPS – Grade 10
+Copyright reserved                                                                                                                   Please turn over
+
+QUESTION 11   (Start on a new page.)
+
+11.1 Two IDENTICAL bulbs, A and B, as well as a measuring device Z, are
+connected to a battery, as shown in the circuit below.
+
+The switch is initially open.
+
+ 11.1.1 Which physical quantity will device Z measure when the switch is
+closed?
+
+(1)
+
+ 11.1.2 Give a reason why the brightness of the bulbs will be the same
+when the switch is closed.
+
+(1)
+
+ A third identical bulb is now connected in series with  bulbs A and B in the
+circuit.
+
+ 11.1.3 Will the brightness of the bulb INCREASE, DECREASE or
+REMAIN THE SAME?
+
+(1)
+
+  Z
+
+S
+●
+A B
+
+=== page 17 ===
+Physical Sciences/P1  17                 DBE/November 2015
+CAPS – Grade 10
+Copyright reserved
+2 Ω 4 Ω
+V2
+4 V
+  S ●
+6 Ω
+ V1
+
+11.2 In the circuit below , potential difference V1 across the battery and  potential
+difference V2 across the 4 Ω resistor are unknown.
+
+ When switch S is closed briefly, the potential difference across the parallel
+combination is 4 V.
+
+ 11.2.1 Define the term potential difference.  (2)
+
+ Calculate the:
+
+ 11.2.2 Effective resistance of the 2 Ω and 6 Ω resistors  (3)
+
+ 11.2.3 Reading on voltmeter V1  (4)
+
+ 11.2.4 Reading on voltmeter V2  (2)
+    [14]
+
+ TOTAL:  150
+
+=== page 18 ===
+Physical Sciences/P1                 DBE/November 2015
+CAPS – Grade 10
+Copyright reserved
+
+DATA FOR PHYSICAL SCIENCES GRADE 10
+PAPER 1 (PHYSICS)
+
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 10
+VRAESTEL 1 (FISIKA)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Acceleration due to gravity
+Swaartekragversnelling g 9,8 m·s-2
+Speed of light in a vacuum
+Spoed van lig in 'n vakuum c 3,0 x 108 m·s-1
+Planck's constant
+Planck se konstante h 6,63 x 10-34 J·s
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Electron mass
+Elektronmassa me 9,11 x 10-31 kg
+
+TABLE 2:  FORMULAE/TABEL 2:  FORMULES
+
+MOTION/BEWEGING
+
+tavv if ∆+=  221i tatvx ∆+∆=∆
+xa2vv
+2
+i
+2
+f ∆+=   t2 vvx if ∆ +=∆
+
+WORK, ENERGY AND POWER/ARBEID, ENERGIE EN DRYWING
+
+mghU=  or/of   mghEP =  2mv21K=   or/of  2k mv21E =
+
+EM = Ek+ Ep.   OR   EM = K + U
+
+WAVES, SOUND AND LIGHT/GOLWE, KLANK EN LIG
+
+λ= fv
+f
+1T=
+hfE= or/of λ= chE
+
+=== page 19 ===
+Physical Sciences/P1                  DBE/November 2015
+CAPS – Grade 10
+Copyright reserved
+
+ELECTROSTATICS/ELEKTROSTATIKA
+
+e
+Q = n  2Q +Q = Q 21
+
+ELECTRIC CIRCUITS/ELEKTRIESE STROOMBANE
+
+I=Q ∆ t ...R1R1R1 21p ++=
+...RRR 21s ++=  qWV=

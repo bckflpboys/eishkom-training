@@ -1,0 +1,304 @@
+# SENIOR CERTIFICATE EXAMINATIONS/
+# NATIONAL SENIOR CERTIFICATE EXAMINATIONS
+
+**PHYSICAL SCIENCES: CHEMISTRY (P2)**
+**MAY/JUNE 2024**
+
+**MARKS: 150**
+**TIME: 3 hours**
+
+---
+
+### INSTRUCTIONS AND INFORMATION
+
+1. Write your centre number and examination number in the appropriate spaces on the ANSWER BOOK.
+2. This question paper consists of NINE questions. Answer ALL the questions in the ANSWER BOOK.
+3. Start EACH question on a NEW page in the ANSWER BOOK.
+4. Number the answers correctly according to the numbering system used in this question paper.
+5. Leave ONE line between two subquestions, e.g. between QUESTION 2.1 and QUESTION 2.2.
+6. You may use a non-programmable calculator.
+7. Show ALL formulae and substitutions in ALL calculations.
+8. Round off your FINAL numerical answers to a minimum of TWO decimal places.
+9. Give brief motivations, discussions, etc. where required.
+10. You are advised to use the attached DATA SHEETS.
+11. Write neatly and legibly.
+
+---
+
+### QUESTION 1: MULTIPLE-CHOICE QUESTIONS
+
+Various options are provided as possible answers to the following questions. Each question has only ONE correct answer. Choose the answer and write only the letter (A–D) next to the question numbers (1.1 to 1.10) in the ANSWER BOOK, e.g. 1.11 E.
+
+1.1 The functional group for an ALDEHYDE is a …
+A formyl group.
+B carboxyl group.
+C carbonyl group.
+D hydroxyl group. (2)
+
+1.2 Which ONE of the following equations represents the reaction for the IDENTIFICATION of an UNSATURATED organic compound in the laboratory?
+A $CH_3CH_2CH_2CHCH_2 + H_2 \rightarrow CH_3CH_2CH_2CH_2CH_3$
+B $CH_3CH_2CH_2CHCH_2 + HBr \rightarrow CH_3CH_2CH_2CHBrCH_3$
+C $CH_3CH_2CH_2CHCH_2 + Br_2 \rightarrow CH_3CH_2CH_2CHBrCH_2Br$
+D $CH_3CH_2CH_2CH_2CH_3 + Br_2 \rightarrow CH_3CH_2CH_2CH_2CH_2Br + HBr$ (2)
+
+1.3 Which ONE of the following is the EMPIRICAL formula of ethyl ethanoate?
+A $C_2H_4O$
+B $C_2H_2O$
+C $C_4H_8O$
+D $C_4H_8O_2$ (2)
+
+1.4 In an experiment 5 g of calcium carbonate, $CaCO_3(s)$, reacts with EXCESS hydrochloric acid, $HCl(aq)$, at a temperature of 40 °C.
+$CaCO_3(s) + 2HCl(aq) \rightarrow CaCl_2(aq) + H_2O(l) + CO_2(g)$
+The volume of $CO_2(g)$ produced versus time is shown by CURVE P in the graph below.
+The experiment is repeated with 10 g of the same $CaCO_3(s)$ sample and an excess of $HCl(aq)$ with the same concentration at 40 °C. Which ONE of the curves will now be obtained?
+
+[DIAGRAM: A graph of Volume of $CO_2(g)$ vs Time. Curve P is a standard sigmoidal curve reaching a plateau. Curve I is below P, Curve II is above P but reaches the same plateau, Curve III is steeper than P and reaches a higher plateau, Curve IV is steeper than P and reaches a higher plateau.]
+
+A Curve I
+B Curve II
+C Curve III
+D Curve IV (2)
+
+1.5 The balanced equation below represents a reaction at equilibrium.
+$2CrO_4^{2-}(aq) + 2H_3O^+(aq) \rightleftharpoons Cr_2O_7^{2-}(aq) + 3H_2O(l)$
+(yellow) (orange)
+Which statement(s) is/are TRUE when a few drops of concentrated hydrochloric acid, $HCl(conc)$, are added to the mixture?
+(i) The reverse reaction will be favoured.
+(ii) The concentration of $Cr_2O_7^{2-}(aq)$ increases.
+(iii) The colour of the solution changes from yellow to orange.
+A (i) only
+B (i) and (ii) only
+C (i) and (iii) only
+D (ii) and (iii) only (2)
+
+1.6 Consider the equation below for a hypothetical reaction.
+$A(aq) + B(s) \rightleftharpoons C(aq) + D(aq)$
+If the equilibrium constant $K_c = 1 \times 10^{-4}$, then …
+A $[A][B] < [C][D]$
+B $[A][B] > [C][D]$
+C $[A] > [C][D]$
+D $[A] < [C][D]$ (2)
+
+1.7 Which ONE of the following shows the PRODUCTS for the reaction of oxalic acid with sodium hydroxide?
+A $(COO)_2Na_2(aq) + H_2O(l) + CO_2(g)$
+B $(COO)_2Na_2(aq) + H_2O(l)$
+C $CH_3COONa(aq) + H_2O(l)$
+D $CH_3COONa(aq) + H_2O(l) + CO_2(g)$ (2)
+
+1.8 Four solutions of different acids of the same concentration are compared. Which ONE of the following $K_a$ values represents the WEAKEST acid at 25 °C?
+A $4,5 \times 10^{-6}$
+B $2,5 \times 10^{-5}$
+C $1,8 \times 10^{-2}$
+D $6,5 \times 10^{-2}$ (2)
+
+1.9 Copper is purified by electrolysis. Which ONE of the following combinations is CORRECT for the changes occurring at the anode, cathode and in the electrolyte when the cell is in operation?
+
+| | MASS OF THE ANODE | MASS OF THE CATHODE | COLOUR OF THE ELECTROLYTE |
+|---|---|---|---|
+| A | Increases | Decreases | No change |
+| B | Decreases | Increases | No change |
+| C | Increases | Decreases | Becomes darker |
+| D | Decreases | Increases | Becomes lighter |
+
+[DIAGRAM: Electrolytic cell with a power source, Anode, Cathode, and $CuSO_4(aq)$ electrolyte.] (2)
+
+1.10 Which ONE of the following redox reactions is SPONTANEOUS under standard conditions?
+A $Br_2 + 2Cl^- \rightarrow 2Br^- + Cl_2$
+B $2Fe^{3+} + 2I^- \rightarrow 2Fe^{2+} + I_2$
+C $Ni^{2+} + H_2 \rightarrow Ni + 2H^+$
+D $Cu + Pb^{2+} \rightarrow Cu^{2+} + Pb$ (2)
+[20]
+
+---
+
+### QUESTION 2 (Start on a new page.)
+
+The letters A to H in the table below represent eight organic compounds.
+
+| | | | |
+|---|---|---|---|
+| **A** | Butan-2-ol | **B** | $CH_3C(CH_3)_2(CH_2)_2CH_3$ |
+| **C** | 3-ethylpent-1-yne | **D** | $CH_3CH_2CH_2CH_2CHO$ |
+| **E** | $CH_3 - CH_2 - C - CH_2 - CH_3$ (with $=O$ on C3) | **F** | Butan-1-ol |
+| **G** | $CH_3 - C(CH_3)_2 - CH_2 - CH(Cl) - CH_3$ | **H** | $CH_3 - C(CH_3)_2 - C(=O)H$ |
+
+2.1 Define the term hydrocarbon. (2)
+2.2 Write down the letter(s) for:
+2.2.1 TWO compounds that are UNSATURATED hydrocarbons (1)
+2.2.2 TWO compounds that are CHAIN ISOMERS of each other (2)
+2.2.3 A secondary alcohol (1)
+2.3 Write down the:
+2.3.1 STRUCTURAL formula of the FUNCTIONAL ISOMER of compound D (2)
+2.3.2 General formula of the homologous series to which compound B belongs (1)
+2.3.3 STRUCTURAL formula of compound C (2)
+2.4 Write down the IUPAC name of compound:
+2.4.1 E (3)
+2.4.2 G (3)
+2.4.3 H (2)
+2.5 Compound B undergoes complete combustion. Using MOLECULAR FORMULAE, write down the balanced equation for this reaction. (3)
+[22]
+
+---
+
+### QUESTION 3 (Start on a new page.)
+
+The boiling points of some organic compounds are shown in the table below. The atmospheric pressure is 101,3 kPa.
+
+| ORGANIC COMPOUND | BOILING POINT (°C) |
+|---|---|
+| A | $CH_3CH_2CH_2CH_2Cl$ | 78 |
+| B | $CH_3CH(CH_3)CH_2Cl$ | 46 |
+| C | $CH_3CH_2CH_2CH_2OH$ | 118 |
+| D | $CH_3CH_2CH_2CHO$ | X |
+
+3.1 Define the term boiling point. (2)
+3.2 Which ONE of compounds A, B or C is mainly in the liquid phase at 100 °C? (1)
+3.3 Explain the difference in the boiling points of compounds A and B. (3)
+3.4 Consider the boiling points below: 75 °C, 120 °C, 126 °C
+3.4.1 Which ONE of these values represents X, the boiling point of compound D? (1)
+3.4.2 Fully explain the answer to QUESTION 3.4.1. (2)
+3.5 The atmospheric pressure is now changed to 83 kPa. How will the boiling points of these organic compounds be affected? Choose from INCREASE, DECREASE or REMAIN THE SAME. (1)
+[10]
+
+---
+
+### QUESTION 4 (Start on a new page.)
+
+4.1 In an experiment, a test tube containing methanol, propanoic acid and a catalyst is heated in a water bath.
+[DIAGRAM: A test tube in a beaker of water being heated by a flame.]
+Write down:
+4.1.1 The NAME or FORMULA of the catalyst (1)
+4.1.2 The type of reaction taking place (1)
+4.1.3 TWO reasons why the use of a water bath is preferred in this experiment (2)
+4.1.4 The balanced equation for this reaction using STRUCTURAL FORMULAE (5)
+4.1.5 The IUPAC name of the organic product for this reaction (2)
+
+4.2 Compound A, a six-carbon branched haloalkane, is used in a two-step reaction to prepare compound C. Reaction 2 is an ADDITION reaction.
+[DIAGRAM: Flowchart: Compound A $\rightarrow$ Reaction 1 $\rightarrow$ Compound B $\rightarrow$ Reaction 2 $\rightarrow$ Compound C ($CH_3-C(CH_3)_2-CH_2-CH_3$)]
+Write down:
+4.2.1 The NAME or FORMULA of the inorganic reactant in reaction 2 (1)
+4.2.2 The IUPAC name of compound B (2)
+4.2.3 The type of reaction represented by reaction 1 (1)
+Compound B is now used in a two-step reaction to prepare compound A. Reaction 4 is a SUBSTITUTION reaction.
+[DIAGRAM: Flowchart: Compound B $\rightarrow$ Reaction 3 $\rightarrow$ Compound D $\rightarrow$ Reaction 4 $\rightarrow$ Compound A]
+Write down:
+4.2.4 The NAME or FORMULA of the catalyst used in reaction 3 (1)
+4.2.5 The IUPAC name of compound D (2)
+4.2.6 The type of reaction represented by reaction 3 (1)
+4.2.7 The type of haloalkane represented by compound A (Choose from primary, secondary or tertiary.) (1)
+[20]
+
+---
+
+### QUESTION 5 (Start on a new page.)
+
+The reaction between aluminium and EXCESS sulphuric acid is used to investigate factors affecting rates of reactions.
+$2Al(s) + 3H_2SO_4(aq) \rightarrow Al_2(SO_4)_3(aq) + 3H_2(g)$
+
+5.1 INVESTIGATION I
+The effect of a catalyst on the rate of reaction is determined. Aluminium powder of mass 5 g reacts with excess $0,1 \text{ mol}\cdot\text{dm}^{-3} H_2SO_4$ at 60 °C. Consider the following energy diagrams (not drawn to scale) for this investigation. X and Y in diagram B represent the activation energies.
+
+[DIAGRAM A: Potential energy vs Course of reaction. Reactants at 208,2 kJ, Peak at 240,8 kJ, Products at 86,5 kJ.]
+[DIAGRAM B: Number of particles vs Kinetic energy. Maxwell-Boltzmann distribution curve with lines P, Y, and X.]
+
+5.1.1 Is the reaction between $Al(s)$ and dilute $H_2SO_4(aq)$ ENDOTHERMIC or EXOTHERMIC? Give a reason for the answer by referring to the above diagrams. (2)
+5.1.2 What does the shaded area to the right of line P represent? (1)
+5.1.3 Determine the numerical value represented by the letter X on diagram B. (2)
+
+5.2 INVESTIGATION II
+The investigation is now repeated at 30 °C using the same reactants and catalyst. How will this affect EACH of the following when compared to INVESTIGATION I? Choose from INCREASES, DECREASES or REMAINS THE SAME.
+5.2.1 The size of the shaded area (diagram B) (1)
+5.2.2 The value of Y (1)
+5.2.3 The TOTAL volume of hydrogen gas produced (1)
+
+5.3 INVESTIGATION III
+In this investigation, 5 g of the same sample of IMPURE aluminium powder reacts with an EXCESS diluted $H_2SO_4$ at 60 °C in each of three runs.
+
+| RUN | CONCENTRATION $H_2SO_4(aq) (\text{mol}\cdot\text{dm}^{-3})$ | AVERAGE RATE OF VOLUME $H_2(g)$ PRODUCED $(\text{cm}^3\cdot\text{s}^{-1})$ |
+|---|---|---|
+| 1 | 0,1 | 15 |
+| 2 | 0,2 | 19 |
+| 3 | 0,4 | 40 |
+
+5.3.1 Write down the independent variable for this investigation. (1)
+5.3.2 Use the collision theory to explain how the average rate of the reaction is affected in this investigation. (3)
+5.3.3 The time for the reaction to reach completion in RUN 3 is 2,6 minutes. Calculate the percentage purity of the aluminium. Take the molar gas volume at 60 °C to be $27\,000 \text{ cm}^3\cdot\text{mol}^{-1}$. (6)
+[18]
+
+---
+
+### QUESTION 6 (Start on a new page.)
+
+Consider the balanced equation for a hypothetical reaction that takes place in $2 \text{ dm}^3$ sealed containers.
+$P_2Q(g) + 3Q(s) \rightleftharpoons 2PQ_2(g)$
+The graphs below are obtained for the same reaction at two different temperatures. Graph A is obtained at 298 K and graph B at 398 K.
+
+[DIAGRAM: Graph A: Concentration vs Time. $PQ_2$ increases to 0,4, $P_2Q$ decreases to a plateau. Graph B: Concentration vs Time. $PQ_2$ increases to 0,35, $P_2Q$ decreases to a plateau.]
+
+6.1 State Le Chatelier's principle. (2)
+6.2 What do the parallel lines after $t = 5$ minutes in graph A represent? (1)
+6.3 Is the forward reaction EXOTHERMIC or ENDOTHERMIC? (1)
+6.4 Explain the answer to QUESTION 6.3. (2)
+6.5 How does the value of the equilibrium constant, $K_c$, for the reaction in graph B compare to that in graph A? Choose from GREATER THAN, LESS THAN or EQUAL TO. (1)
+6.6 The equilibrium constant, $K_c$, is 0,49 at 398 K (graph B). Calculate the initial number of moles of $P_2Q$. (8)
+6.7 Describe the change made to the equilibrium system at $t = 8$ minutes, as shown in graph B, at a constant temperature. (1)
+6.8 Explain by using Le Chatelier's principle how the system reacts to the change in QUESTION 6.7. (2)
+[18]
+
+---
+
+### QUESTION 7 (Start on a new page.)
+
+7.1 A standard solution is prepared by dissolving 10 g of sodium carbonate, $Na_2CO_3(s)$, in $0,7 \text{ dm}^3$ of water.
+7.1.1 Calculate the concentration of the solution. (3)
+7.1.2 Will the pH of the solution be GREATER THAN or LESS THAN 7? (1)
+7.1.3 Write an equation that explains the answer to QUESTION 7.1.2. (2)
+The sodium carbonate solution is titrated with dilute hydrochloric acid, $HCl(aq)$.
+
+| INDICATOR | pH RANGE |
+|---|---|
+| P | 3,4–4,5 |
+| Q | 6,8–7,2 |
+| R | 8,3–10 |
+
+7.1.4 Which ONE of the indicators (P, Q or R) is most suitable for this titration? Give a reason for the answer by referring to the data in the table. (2)
+
+7.2 When 0,01 moles of dilute sulphuric acid, $H_2SO_4(aq)$, is mixed with 0,024 moles of potassium hydroxide, $KOH(aq)$, the total volume of the final solution is $0,2 \text{ dm}^3$.
+$2KOH(aq) + H_2SO_4(aq) \rightarrow K_2SO_4(aq) + 2H_2O(l)$
+7.2.1 What is meant by a dilute acid? (2)
+7.2.2 Calculate the pH of the final solution. (8)
+[18]
+
+---
+
+### QUESTION 8 (Start on a new page.)
+
+The relationship between the concentration of the electrolyte and the cell potential is investigated using the following electrochemical cell:
+$Al(s) | Al^{3+}(aq) || M^{2+}(aq) | M(s)$
+
+[DIAGRAM: Graph of Emf (V) vs $[M^{2+}] (\text{mol}\cdot\text{dm}^{-3})$. Curve starts at 1,70V and rises to 2,00V.]
+
+8.1 Identify the reducing agent in this cell. (1)
+8.2 Determine the concentration of $M^{2+}(aq)$ that will produce an emf of 1,87 V. (2)
+8.3 How will the concentration of $M^{2+}(aq)$ be affected as the cell operates? Choose from INCREASES, DECREASES or REMAINS THE SAME. Give a reason for the answer. (2)
+8.4 Potassium nitrate, $KNO_3(aq)$, is used in the salt bridge of this cell. To which electrode will the $K^+$ ions move in the salt bridge ($Al$ or $M$)? (1)
+8.5 Identify metal M with the aid of a calculation. (6)
+8.6 Metal M is now replaced with magnesium, Mg.
+8.6.1 Which electrode, $Al$ or $Mg$, will be the anode? (1)
+8.6.2 Refer to the relative strengths of the oxidising agents to explain the answer. (2)
+[15]
+
+---
+
+### QUESTION 9 (Start on a new page.)
+
+The simplified diagram below represents the cell used for electroplating ornaments with silver, Ag. P and Q are the two terminals of the battery.
+
+[DIAGRAM: Electroplating cell with a battery, ornament, and $Ag^+(aq)$ solution.]
+
+9.1 State the energy conversion that takes place in this cell. (1)
+9.2 Which terminal of the battery (P or Q) is negative? (1)
+9.3 Write down the equation for the half-cell reaction that takes place at the cathode. (2)
+9.4 Calculate the current needed to electroplate the ornament with 3,25 g of silver in 30 minutes. (5)
+[9]
+**TOTAL: 150**

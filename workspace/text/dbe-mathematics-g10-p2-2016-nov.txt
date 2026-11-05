@@ -1,0 +1,215 @@
+NATIONAL SENIOR CERTIFICATE
+
+GRADE 10
+
+MATHEMATICS P2
+
+NOVEMBER 2016
+
+---
+
+**MARKS: 100**  
+**TIME: 2 hours**
+
+---
+
+This question paper consists of 10 pages and a 16-page answer book.
+
+---
+
+### INSTRUCTIONS AND INFORMATION
+
+Read the following instructions carefully before answering the questions.
+
+1. This question paper consists of 9 questions.
+2. Answer ALL the questions in the SPECIAL ANSWER BOOK provided.
+3. Clearly show ALL calculations, diagrams, graphs et cetera that you used to determine the answers.
+4. Answers only will NOT necessarily be awarded full marks.
+5. If necessary, round off answers to TWO decimal places, unless stated otherwise.
+6. Diagrams are NOT necessarily drawn to scale.
+7. You must use an approved scientific calculator (non-programmable and non-graphical), unless stated otherwise.
+8. Write neatly and legibly.
+
+---
+
+### QUESTION 1
+
+The heights of 20 children were measured (in centimetres) and the results were recorded. The data collected is given in the table below.
+
+| 127 | 128 | 129 | 130 | 131 | 133 | 134 | 134 | 135 | 136 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 137 | 138 | 139 | 140 | 141 | 142 | 142 | 143 | 144 | 145 |
+
+1.1 Write down the median height measured. (1)
+
+1.2 Determine:
+  1.2.1 The mean height (2)
+  1.2.2 The range (1)
+  1.2.3 The interquartile range (3)
+
+1.3 Draw a box and whisker diagram to represent the data. (2)
+
+**[9]**
+
+---
+
+### QUESTION 2
+
+The intelligence quotient score (IQ) of a Grade 10 class is summarised in the table below.
+
+| IQ INTERVAL | FREQUENCY |
+| :---: | :---: |
+| $90 \le x < 100$ | 4 |
+| $100 \le x < 110$ | 8 |
+| $110 \le x < 120$ | 7 |
+| $120 \le x < 130$ | 5 |
+| $130 \le x < 140$ | 4 |
+| $140 \le x < 150$ | 2 |
+
+2.1 Write down the modal class of the data. (1)
+
+2.2 Determine the interval in which the median lies. (2)
+
+2.3 Estimate the mean IQ score of this class of learners. (3)
+
+**[6]**
+
+---
+
+### QUESTION 3
+
+3.1 Show that a triangle $\text{ABC}$, with vertices $\text{A}(1\ ;\ 1)$; $\text{B}(3\ ;\ 6)$ and $\text{C}(6\ ;\ 3)$, is an isosceles triangle. (4)
+
+3.2 [DIAGRAM: A Cartesian plane showing a kite $\text{ADCB}$ with vertex $\text{A}(3\ ;\ 5)$, vertex $\text{B}(-1\ ;\ -4)$, vertex $\text{C}$ on the $x$-axis, and vertex $\text{D}$. The diagonals $\text{AC}$ and $\text{BD}$ intersect at point $\text{P}$. Line $\text{AD}$ is parallel to the $x$-axis and has a length of $5$ units. Line $\text{CD}$ is perpendicular to the $x$-axis.]
+
+In the diagram below, $\text{ADCB}$ is a kite with $\text{A}(3\ ;\ 5)$ and $\text{B}(-1\ ;\ -4)$. $\text{AD} = \text{DC}$ and $\text{AB} = \text{BC}$. $\text{D}$ is a point such that $\text{AD}$ is parallel to the $x$-axis and $\text{AD} = 5$ units. $\text{CD}$ is perpendicular to the $x$-axis. The diagonals intersect at $\text{P}$.
+
+  3.2.1 Show that the coordinates of $\text{C}$ are $(8\ ;\ 0)$. (2)
+  3.2.2 Write down the coordinates of point $\text{P}$. (2)
+  3.2.3 Calculate the gradient of line $\text{BD}$. (2)
+  3.2.4 Calculate the length of line $\text{AC}$. (2)
+  3.2.5 Calculate the area of the kite $\text{ADCB}$. (3)
+
+**[15]**
+
+---
+
+### QUESTION 4
+
+4.1 [DIAGRAM: A right-angled triangle with side lengths $a$, $b$, and $c$, and interior angle $\theta$ opposite to side $a$, adjacent to side $b$, and with hypotenuse $c$.]
+
+  A right-angled triangle has sides $a$, $b$ and $c$ and the angle $\theta$, as shown below.
+
+  4.1.1 Write the following in terms of $a$, $b$ and $c$:
+    (a) $\cos\theta$ (1)
+    (b) $\tan\theta$ (1)
+    (c) $\sin(90^\circ - \theta)$ (2)
+  4.1.2 If it is given that $a = 5$ and $\theta = 50^\circ$, calculate the numerical value of $b$. (2)
+
+4.2 Given that $\hat{\text{A}} = 38,2^\circ$ and $\hat{\text{B}} = 146,4^\circ$.  
+  Calculate the value of $2\text{cosec}\text{A} + \cos 3\text{B}$. (3)
+
+4.3 Simplify fully, WITHOUT the use of a calculator:
+  $$\frac{\sin 45^\circ \cdot \tan^2 60^\circ}{\cos 45^\circ}$$ (4)
+
+4.4 Given that $5\cos\beta - 3 = 0$ and $0^\circ < \beta < 90^\circ$.  
+  If $\alpha + \beta = 90^\circ$ and $0^\circ < \alpha < 90^\circ$, calculate the value of $\cot\alpha$. (4)
+
+**[17]**
+
+---
+
+### QUESTION 5
+
+5.1 [DIAGRAM: A right-angled triangle $\Delta\text{MNP}$ with $\hat{\text{N}} = 90^\circ$ and $MN = 15$ units. $\text{A}$ is the midpoint of $\text{PN}$ such that $\text{PA} = \text{AN}$. Angle $\text{A}\hat{\text{M}}\text{N} = 21^\circ$.]
+
+  In the sketch below, $\Delta\text{MNP}$ is drawn having a right angle at $\text{N}$ and $\text{MN} = 15$ units. $\text{A}$ is the midpoint of $\text{PN}$ and $\text{A}\hat{\text{M}}\text{N} = 21^\circ$.
+
+  Calculate:
+  5.1.1 $\text{AN}$ (3)
+  5.1.2 $\text{P}\hat{\text{M}}\text{N}$ (3)
+  5.1.3 $\text{MP}$ (3)
+
+5.2 Calculate $\theta$ if $2\sin(\theta + 15^\circ) = 1,462$ and $0^\circ \le \theta \le 90^\circ$. (3)
+
+**[12]**
+
+---
+
+### QUESTION 6
+
+[DIAGRAM: Cartesian plane showing two trigonometric graphs for $x \in [0^\circ\ ;\ 360^\circ]$. Graph $f(x) = a\sin x$ starts at the origin, reaches a maximum of $2$ at $90^\circ$, crosses the $x$-axis at $180^\circ$, reaches a minimum of $-2$ at $270^\circ$, and ends at $360^\circ$. Graph $g(x) = \cos x + 1$ starts at $(0\ ;\ 2)$, decreases to $1$ at $90^\circ$, crosses the $x$-axis at $180^\circ$, decreases to $0$ at $180^\circ$? Wait, at $180^\circ$ $\cos(180^\circ)+1 = -1+1=0$, reaches a minimum of $0$ at $180^\circ$, increases to $1$ at $270^\circ$, and reaches $2$ at $360^\circ$.]
+
+The graphs of $f(x) = a\sin x$ and $g(x) = \cos x + 1$ for $x \in [0^\circ\ ;\ 360^\circ]$ are sketched below.
+
+6.1 Write down the value of $a$. (1)
+
+6.2 Write down the period of $f$. (1)
+
+6.3 Write down the range of $g$. (2)
+
+6.4 For which values of $x$ for $x \in [0^\circ\ ;\ 360^\circ]$ will $f(x)\cdot g(x) > 0$? (2)
+
+6.5 The graph $g$ is reflected about the $x$-axis and then shifted $2$ units upwards to obtain the graph $h$. Write down the equation of $h$. (2)
+
+**[8]**
+
+---
+
+### QUESTION 7
+
+[DIAGRAM: A cross-section diagram showing peaks of Table Mountain ($\text{T}$) and Lions Head ($\text{L}$) above sea level. Points $\text{M}$ and $\text{N}$ are directly below peaks $\text{L}$ and $\text{T}$ respectively, such that $\text{M}$, $\text{P}$, and $\text{N}$ lie on the same horizontal plain at sea level. Point $\text{P}$ is directly below cable car $\text{C}$. $\text{MN} = 3\,100\text{ m}$. Angle of elevation of $\text{L}$ from $\text{N}$ is $\beta$, angle of elevation of $\text{T}$ from $\text{M}$ is $\theta$. $\tan\theta = 0,35$ and $\tan\beta = 0,21$.]
+
+The diagram below represents a cross-section of the peaks of Table Mountain, $\text{T}$, and Lions Head, $\text{L}$, above sea level. Points $\text{M}$ and $\text{N}$ are directly below peaks $\text{L}$ and $\text{T}$ respectively, such that $\text{M}\text{P}\text{N}$ lies on the same horizontal plain at sea level and $\text{P}$ is directly below $\text{C}$.  
+$\text{MN} = 3\,100\text{ m}$.  
+The angle of elevation of $\text{L}$ from $\text{N}$ is $\beta$ and the angle of elevation of $\text{T}$ from $\text{M}$ is $\theta$.  
+It is given that $\tan\theta = 0,35$ and $\tan\beta = 0,21$.
+
+7.1 Calculate the ratio of $\text{LM} : \text{TN}$. (4)
+
+7.2 A cable car, $\text{C}$, travelling from the top of Table Mountain, $\text{T}$, follows a path along $\text{T}\text{C}\text{M}$.
+  7.2.1 Calculate the angle formed ($\text{M}\hat{\text{T}}\text{N}$) between the cable and the vertical height $\text{TN}$. (2)
+  7.2.2 If the cable car, $\text{C}$, travels along the cable, such that $\text{TC} = 400\text{ m}$, calculate the height of the cable car above sea level at that instant. (5)
+
+**[11]**
+
+---
+
+**Give reasons for your statements in QUESTIONS 8 and 9.**
+
+### QUESTION 8
+
+8.1 Complete the following statement:
+
+  If the opposite angles of a quadrilateral are equal, then the quadrilateral $\dots$ (1)
+
+8.2 [DIAGRAM: A parallelogram $\text{ABCD}$ with a diagonal $\text{BD}$ drawn, forming angles $\hat{\text{B}}_1, \hat{\text{B}}_2$ and $\hat{\text{D}}_1, \hat{\text{D}}_2$.]
+
+  Use the sketch below to prove that the opposite sides of a parallelogram are equal. (6)
+
+8.3 [DIAGRAM: A parallelogram $\text{KMNP}$ with diagonals $\text{KN}$ and $\text{MP}$ intersecting at $\text{O}$. A line $\text{ON}$ bisects $\text{K}\hat{\text{N}}\text{M}$ and $\text{OM}$ bisects $\text{N}\hat{\text{M}}\text{P}$. Numbered angles at $\text{O}$ ($\hat{\text{O}}_1, \hat{\text{O}}_2, \hat{\text{O}}_3$), at $\text{N}$ ($\hat{\text{N}}_1, \hat{\text{N}}_2$) and at $\text{M}$ ($\hat{\text{M}}_1, \hat{\text{M}}_2$) are shown.]
+
+  In the sketch below, $\text{KPMN}$ is a parallelogram. $\text{ON}$ bisects $\text{K}\hat{\text{N}}\text{M}$ and $\text{OM}$ bisects $\text{N}\hat{\text{M}}\text{P}$.
+
+  8.3.1 Show that $\text{N}\hat{\text{O}}\text{M} = 90^\circ$. (3)
+  8.3.2 Prove that $\text{O}$ is the midpoint of $\text{KP}$. (6)
+
+**[16]**
+
+---
+
+### QUESTION 9
+
+9.1 Complete the following statement:
+
+  The line through the midpoint of two sides in a triangle is parallel to and $\dots$ the third side. (1)
+
+9.2 [DIAGRAM: $\Delta\text{PQR}$ where $\text{A}$ and $\text{B}$ are the midpoints of sides $\text{PQ}$ and $\text{PR}$ respectively. $\text{AR}$ and $\text{BQ}$ intersect at $\text{W}$. Points $\text{D}$ and $\text{E}$ are on $\text{WQ}$ and $\text{WR}$ respectively such that $\text{WD} = \text{DQ}$ and $\text{WE} = \text{ER}$. A line segment $\text{DE}$ is drawn parallel to $\text{QR}$.]
+
+  In $\Delta\text{PQR}$, $\text{A}$ and $\text{B}$ are the midpoints of sides $\text{PQ}$ and $\text{PR}$ respectively. $\text{AR}$ and $\text{BQ}$ intersect at $\text{W}$. $\text{D}$ and $\text{E}$ are points on $\text{WQ}$ and $\text{WR}$ respectively such that $\text{WD} = \text{DQ}$ and $\text{WE} = \text{ER}$.
+
+  Prove that $\text{ADEB}$ is a parallelogram. (5)
+
+**[6]**
+
+**TOTAL: 100**

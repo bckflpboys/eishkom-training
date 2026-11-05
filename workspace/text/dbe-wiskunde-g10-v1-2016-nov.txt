@@ -1,0 +1,291 @@
+Wiskunde/V1
+
+DBE/November 2016
+
+KABV - Graad 10
+
+---
+
+**BASIESE ONDERWYS / BASIC EDUCATION**
+**REPUBLIEK VAN SUID-AFRIKA / REPUBLIC OF SOUTH AFRICA**
+
+**NASIONALE SENIOR SERTIFIKAAT**
+
+**GRAAD 10**
+
+**WISKUNDE V1**
+
+**NOVEMBER 2016**
+
+**PUNTE:** 100  
+**TYD:** 2 uur  
+
+Hierdie vraestel bestaan uit 8 bladsye.
+
+---
+
+Wiskunde/V1
+
+2
+
+DBE/November 2016
+
+KABV - Graad 10
+
+### INSTRUKSIES EN INLIGTING
+
+Lees die volgende instruksies aandagtig deur voordat jy die vrae beantwoord.
+
+1. Hierdie vraestel bestaan uit 8 vrae.
+2. Beantwoord AL die vrae.
+3. Dui ALLE berekeninge, diagramme, grafieke ensovoorts wat jy gebruik om jou antwoorde te bepaal, duidelik aan.
+4. Slegs antwoorde sal NIE noodwendig volpunte verdien NIE.
+5. Jy mag 'n goedgekeurde wetenskaplike sakrekenaar (nieprogrammeerbaar en niegrafies) gebruik, tensy anders aangedui.
+6. Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders aangedui.
+7. Diagramme is NIE noodwendig volgens skaal geteken NIE.
+8. Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie vraestel gebruik is.
+9. Skryf netjies en leesbaar.
+
+---
+
+Wiskunde/V1
+
+3
+
+DBE/November 2016
+
+KABV - Graad 10
+
+### VRAAG 1
+
+1.1 Faktoriseer die volgende uitdrukkings volledig:
+
+1.1.1 $x^2 - x$ (1)
+
+1.1.2 $3x^2 + 3px - 2mx - 2mp$ (3)
+
+1.1.3 $2p^2 - 2p - 12$ (3)
+
+1.2 Vereenvoudig die volgende:
+
+1.2.1 $\dfrac{2^{a+1} - 2^{a-1}}{2^a}$ (3)
+
+1.2.2 $\dfrac{x^2 - x + 1}{x^3 + 1} \div \dfrac{2x}{2x + 2}$ (4)
+
+**[14]**
+
+---
+
+### VRAAG 2
+
+2.1 Los op vir $x$:
+
+2.1.1 $x(x - 1) = 20$ (4)
+
+2.1.2 $\dfrac{3x - 2}{2} = x + 1$ (3)
+
+2.2 Gegee: $-4 \le -\dfrac{1}{2}m < 5$ waar $m \in \mathbb{R}$
+
+2.2.1 Los op vir $m$. (3)
+
+2.2.2 Skryf die antwoord op VRAAG 2.2.1 in intervalnotasie. (1)
+
+2.3 Gegee: $4x^2 - y^2 = 171$ en $2x - y = 9$
+
+2.3.1 Bereken die waarde van $2x + y$. (2)
+
+2.3.2 Los gelyktydig op vir $x$ en $y$. (3)
+
+**[16]**
+
+---
+
+Wiskunde/V1
+
+4
+
+DBE/November 2016
+
+KABV - Graad 10
+
+### VRAAG 3
+
+Donker teëls (D) en ligte teëls (L) word gebruik om patrone op 'n vloer te skep. Die eerste vier patrone word hieronder getoon. Vir die patrone wat volg, word die teëls op dieselfde wyse gerangskik.
+
+[DIAGRAM: Patroon 1 shows 1 dark tile. Patroon 2 shows 2 dark tiles and 2 light tiles. Patroon 3 shows 3 dark tiles and 4 light tiles. Patroon 4 shows 4 dark tiles and 6 light tiles arranged in a grid.]
+
+3.1 Hoeveel donker teëls is in patroon 5 gebruik? (1)
+
+3.2 Hoeveel ligte teëls is in patroon 6 gebruik? (1)
+
+3.3 Skryf die algemene term ($D_n$) neer vir die getal donker vloerteëls wat in elke patroon gebruik word. (2)
+
+3.4 Skryf die algemene term ($L_n$) neer vir die getal ligte teëls wat in elke patroon gebruik word. (2)
+
+3.5 Watter patroon sal presies $64$ ligte teëls hê? (3)
+
+3.6 Elke donker teël is $0,3\text{ m}$ breed en $0,6\text{ m}$ lank. Bereken die totale oppervlakte wat deur al die donker teëls in die eerste $100$ patrone gedek word. (3)
+
+**[12]**
+
+---
+
+Wiskunde/V1
+
+5
+
+DBE/November 2016
+
+KABV - Graad 10
+
+### VRAAG 4
+
+4.1 Mary wil 'n yskas koop wat $\text{R}15\ 550$ kos. Sy moet 'n deposito van $15\%$ van die kosprys betaal en die balans deur middel van 'n huurkoopooreenkoms. Die rentekoers op die lening is $16,25\%$ p.j., enkelvoudige rente. Die terugbetalingstydperk van die lening is $54$ maande. Buiten die huurkoopooreenkoms moet 'n jaarlikse versekeringspremie van $1,5\%$ van die totale koste van die yskas bygetel word. Die jaarlikse versekeringspremie moet in maandelikse paaimente betaal word.
+
+4.1.1 Bereken die waarde van die lening wat Mary sal uitneem. (2)
+
+4.1.2 Bereken die totale bedrag wat op die huurkoopooreenkoms terugbetaal moet word. (3)
+
+4.1.3 Bereken die maandelikse terugbetaling, wat die maandelikse versekeringspremie insluit. (3)
+
+4.2 Die tabel hieronder toon die randekwivalent van 'n Britse pond en 'n Amerikaanse dollar.
+
+| LAND | GELDEENHEID | WISSELKOERS VAN DIE RAND |
+| :---: | :---: | :---: |
+| Brittanje (Verenigde Koninkryk) | Pond (£) | $21,41$ |
+| Verenigde State van Amerika | Doller ($) | $13,45$ |
+
+'n Suid-Afrikaanse verpleegster werk in die Verenigde State van Amerika.
+
+4.2.1 Die verpleegster spaar maandeliks die ekwivalent van $\text{R}4\ 800$. Bereken die bedrag wat sy maandeliks in Amerikaanse dollar spaar. (2)
+
+4.2.2 Sy het 'n boek in die Verenigde Koninkryk (Brittanje) bestel en $\$85$ daarvoor betaal. Bereken die prys van die boek in pond (£). (3)
+
+4.3 'n Bedrag geld verdubbel in $5$ jaar as rente jaarliks saamgestel word. Bereken die rentekoers. (3)
+
+**[16]**
+
+---
+
+Wiskunde/V1
+
+6
+
+DBE/November 2016
+
+KABV - Graad 10
+
+### VRAAG 5
+
+Die grafieke van $f(x) = x^2 - 4$ en $g(x) = -x + 2$ is hieronder geskets. $A$ en $B$ is die $x$-afsnitte van $f$. $C$ en $D$ is die $y$-afsnitte van $f$ en $g$ onderskeidelik. $K$ is 'n punt op $g$ sodat $BK \parallel x$-as. $f$ en $g$ sny by $A$ en $E$.
+
+[DIAGRAM: Cartesian plane showing parabola $f(x) = x^2 - 4$ opening upwards with vertex $C$ on the negative y-axis, x-intercepts $B$ and $A$. Straight line $g(x) = -x + 2$ has y-intercept $D$ and x-intercept $A$. Point $E$ is the intersection of $f$ and $g$ in the second quadrant. Point $K$ is on line $g$ such that segment $BK$ is parallel to the x-axis, where $B$ is the x-intercept of $f$. A dashed vertical line drops from $K$ to the x-axis at $B$.]
+
+5.1 Skryf die koördinate van $C$ neer. (1)
+
+5.2 Skryf die koördinate van $D$ neer. (1)
+
+5.3 Bepaal die lengte van $CD$. (1)
+
+5.4 Bereken die koördinate van $B$. (3)
+
+5.5 Bepaal die koördinate van $E$, 'n snypunt van $f$ en $g$. (4)
+
+5.6 Vir watter waardes van $x$ sal:
+
+5.6.1 $f(x) < g(x)$ (2)
+
+5.6.2 $f(x) \cdot g(x) \ge 0$ (2)
+
+5.7 Bereken die lengte van $AK$. (4)
+
+**[18]**
+
+---
+
+Wiskunde/V1
+
+7
+
+DBE/November 2016
+
+KABV - Graad 10
+
+### VRAAG 6
+
+Die grafiek van $g(x) = -2^x + 8$ is hieronder geskets. $A$ en $B$ is die $y$- en $x$-afsnitte onderskeidelik van $g$.
+
+[DIAGRAM: Cartesian plane showing exponential curve $g(x) = -2^x + 8$ passing through y-intercept $A$ and x-intercept $B$, with a horizontal asymptote above the curve.]
+
+6.1 Skryf die waardeverzameling van $g$ neer. (1)
+
+6.2 Bepaal die koördinate van $B$. (3)
+
+6.3 Indien $g$ oor die $x$-as gereflekteer word om 'n nuwe grafiek $h$ te vorm, bepaal die vergelyking van $h$. (2)
+
+6.4 Verduidelik hoekom die $x$-afsnitte van $g$ en $h$ beide by $B$ is. (2)
+
+**[8]**
+
+---
+
+### VRAAG 7
+
+'n Hiperbool, $h$, word met die volgende eienskappe beskryf:
+
+* Die vergelyking van die vertikale asimptoot is $x = 0$
+* Die waardeverzameling van $h$ is $(-\infty; 3) \cup (3; \infty)$
+* Die $x$-afsnit van $h$ is $(2; 0)$
+
+Bepaal die vergelyking van $h$. (4)
+
+**[4]**
+
+---
+
+Wiskunde/V1
+
+8
+
+DBE/November 2016
+
+KABV - Graad 10
+
+### VRAAG 8
+
+8.1 In 'n sekere klas van $42$ seuns speel:
+* $27$ hokkie ($H$)
+* $32$ sokker ($S$)
+* $7$ nie hokkie of sokker nie
+* 'n Onbekende getal ($x$) beide hokkie en sokker
+
+Die inligting word in die Venn-diagram hieronder voorgestel.
+
+[DIAGRAM: Venn diagram with universal set containing two intersecting circles $H$ and $S$. Set $H$ has region $27 - x$ and $x$ in the intersection. Set $S$ has region $32 - x$ in the intersection and remaining part. The region outside both circles inside the rectangle is $7$.]
+
+8.1.1 Bereken die waarde van $x$. (2)
+
+8.1.2 Indien 'n seun in die klas ewekansig gekies word, bereken die waarskynlikheid dat hy:
+
+(a) Nie hokkie of sokker speel nie (1)
+
+(b) Slegs sokker speel (2)
+
+8.2 'n Sak bevat $3$ blou balle en $x$ geel balle.
+
+8.2.1 Skryf die totale getal balle in die sak neer. (1)
+
+8.2.2 Indien 'n bal uit die sak gehaal word, skryf die waarskynlikheid neer dat die bal blou is. (2)
+
+8.3 
+8.3.1 Voltooi die volgende stelling:
+
+As $A$ en $B$ twee onderling uitsluitende gebeurtenisse is, dan $P(A \text{ en } B) = \dots$ (1)
+
+8.3.2 Gegee dat $A$ en $B$ onderling uitsluitende gebeurtenisse is. Die waarskynlikheid dat gebeurtenis $A$ plaasvind, is $0,55$. Die waarskynlikheid dat gebeurtenis $B$ nie plaasvind nie, is $0,7$.
+
+Bereken $P(A \text{ of } B)$. (3)
+
+**[12]**
+
+**TOTAAL: 100**

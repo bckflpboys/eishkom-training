@@ -1,0 +1,204 @@
+# NATIONAL SENIOR CERTIFICATE
+
+## GRADE 10
+
+---
+
+## MATHEMATICS P1
+
+### NOVEMBER 2018
+
+---
+
+**MARKS:** 100  
+**TIME:** 2 hours
+
+This question paper consists of 7 pages.
+
+---
+
+## INSTRUCTIONS AND INFORMATION
+
+Read the following instructions carefully before answering the questions.
+
+1. This question paper consists of EIGHT questions.
+2. Answer ALL the questions.
+3. Clearly show ALL calculations, diagrams, graphs, etc. that you have used in determining your answers.
+4. Answers only will NOT necessarily be awarded full marks.
+5. You may use an approved scientific calculator (non-programmable and non-graphical), unless stated otherwise.
+6. If necessary, round answers off to TWO decimal places, unless stated otherwise.
+7. Diagrams are NOT necessarily drawn to scale.
+8. Number the answers correctly according to the numbering system used in this question paper.
+9. Write neatly and legibly.
+
+---
+
+## QUESTION 1
+
+1.1 Factorise the following expressions fully:
+  1.1.1 $4x - x^3$ (2)
+  1.1.2 $x^2 + 15x - 54$ (2)
+  1.1.3 $y - xy + x - 1$ (3)
+
+1.2 Simplify the following expressions fully:
+  1.2.1 $(x + 2)(x^2 - x + 3)$ (2)
+  1.2.2 $\frac{5}{x + 3} - \frac{3}{2 - x}$ (3)
+  1.2.3 $\frac{25^{-x} \cdot 15^{x+1}}{3^x \cdot 5^{-x}}$ (3)
+
+1.3 Determine the value of $(3p + q)^2$ if $9p^2 + q^2 = 12$ and $pq = -3$. (3)
+
+**[18]**
+
+---
+
+## QUESTION 2
+
+2.1 Solve for $x$:
+  2.1.1 $px + qx = a$ (2)
+  2.1.2 $2x^2 - 5x + 2 = 0$ (3)
+  2.1.3 $\left(\frac{1}{2}\right)^{3x+1} = 32$ (3)
+
+2.2 Given: $-11 \le 3m - 8 < 4$
+  2.2.1 Solve for $m$. (2)
+  2.2.2 Hence, write down the number of integers that satisfy the inequality. (1)
+
+2.3 Solve simultaneously for $x$ and $y$ if:
+  $5x + 4y = 21$ and $2x = 3 - y$ (4)
+
+**[15]**
+
+---
+
+## QUESTION 3
+
+Consider the finite linear pattern: $20 ; 17 ; 14 ; \dots ; -103$
+
+3.1 Write down the $4^{\text{th}}$ term of the pattern. (1)
+3.2 Determine the expression for the $n^{\text{th}}$ term. (2)
+3.3 Calculate the number of terms in the sequence. (2)
+3.4 Which term is the first to have a negative value? (3)
+3.5 What is the value of the $19^{\text{th}}$ even-valued term in the sequence? (2)
+
+**[10]**
+
+---
+
+## QUESTION 4
+
+Samantha is investigating a pattern of dots represented in the diagram below.
+
+[DIAGRAM: Three dot pattern diagrams shown from left to right. Pattern 1 shows a single dot in a square. Pattern 2 shows 4 dots arranged in a $2 \times 2$ grid with an L-shaped boundary added. Pattern 3 shows 9 dots arranged in a $3 \times 3$ grid with a larger L-shaped boundary added.]
+
+Pattern number: $1 \quad \quad \quad \quad 2 \quad \quad \quad \quad 3$
+
+Number of dots: $1^2 = 1 \quad \quad 1 + 3 = 2^2 = 4 \quad \quad 1 + 3 + 5 = 3^2 = 9$
+
+4.1 Write down:
+  4.1.1 The number of dots in the $4^{\text{th}}$ pattern (1)
+  4.1.2 The number of dots in the $13^{\text{th}}$ pattern (1)
+  4.1.3 A formula for the number of dots in the $n^{\text{th}}$ pattern (1)
+
+4.2 Hence, or otherwise, calculate the value of:
+  $1 + 3 + 5 + \dots + 43$ (3)
+
+**[6]**
+
+---
+
+## QUESTION 5
+
+Sketched below are the graphs of $f(x) = ax^2 + q$ and $g(x) = \left(\frac{1}{2}\right)^x - 4$.
+
+A and B are the $x$-intercepts of $f$. The graphs intersect at A and point $E(1 ; 3)$ lies on $f$.  
+C is the turning point of $f$ and D is the $y$-intercept of $g$.
+
+[DIAGRAM: A Cartesian plane showing two graphs. A parabola $f$ opens downwards with vertex $C$ on the positive y-axis, intersecting the x-axis at A (negative) and B (positive), and passing through $E(1;3)$. An exponential curve $g$ passes through point A on the x-axis, crosses the y-axis at D below the origin, and has a horizontal asymptote below D represented by a dashed line.]
+
+5.1 Write down the:
+  5.1.1 Coordinates of D (2)
+  5.1.2 Range of $g$ (1)
+
+5.2 Calculate the:
+  5.2.1 Coordinates of A (2)
+  5.2.2 Values of $a$ and $q$ (4)
+
+5.3 Determine the:
+  5.3.1 Length of CD (2)
+  5.3.2 Equation of a straight line through A and D (3)
+
+5.4 For which values of $x$ is:
+  5.4.1 $f(x) > 0$? (2)
+  5.4.2 $f$ decreasing? (1)
+
+**[17]**
+
+---
+
+## QUESTION 6
+
+The equation of the function $g(x) = \frac{a}{x} + q$ passes through the point $(3 ; 2)$ and has a range of $y \in (-\infty ; 1) \cup (1 ; \infty)$.
+
+6.1 Determine the:
+  6.1.1 Equation of $g$ (3)
+  6.1.2 Equation of $h$, the axis of symmetry of $g$ which has a positive gradient (2)
+
+6.2 Sketch the graphs of $g$ and $h$ on the same system of axes. Clearly show ALL the asymptotes and intercepts with axes. (4)
+
+6.3 Write the equations of the asymptotes of $f$ if $f(x) = -g(x) + 5$. (3)
+
+**[12]**
+
+---
+
+## QUESTION 7
+
+Read the advertisement below.
+
+```
+                  Buy a Samsung J5 for only
+                     R229 per month.
+
+               You have 24 months to pay.
+               No deposit is required.
+```
+
+7.1 Calculate the total amount to be paid over a period of 24 months. (1)
+
+7.2 The monthly instalment, quoted in the advertisement, is calculated on a hire purchase agreement which charges interest of $7,5\%$ p.a. on the cash price of the cellphone. Show that the price of the cellphone is R4 779,13. (2)
+
+7.3 Calculate the total interest paid over a period of 24 months if the cellphone is bought with this hire purchase agreement. (1)
+
+7.4 The cellphone is insured at $11,5\%$ p.a. of the cash price. The total insurance is calculated and then split up over 24 months. It is then added to the monthly instalment. Calculate the new monthly instalment if the customer wants to insure the cellphone. (3)
+
+7.5 The cost of the cellphone is subject to inflation and increases to a cash price of R5 100,00 after 2 years. Calculate the annual inflation rate. (4)
+
+**[11]**
+
+---
+
+## QUESTION 8
+
+8.1 In a random physical sciences experiment, A and B are two different events. It was found that:
+$P(A) = \frac{2}{5}$, $P(B') = \frac{3}{8}$ and $P(A \text{ or } B) = \frac{5}{7}$
+
+  8.1.1 Calculate:
+    (a) $P(B)$ (2)
+    (b) $P(A \text{ and } B)$ (3)
+
+  8.1.2 Hence, determine whether events A and B are mutually exclusive. Motivate your answer. (2)
+
+8.2 The Venn diagrams below represent different scenarios of events A and B.
+
+Write down the probability of the shaded region for EACH of the diagrams below.
+
+  8.2.1 [DIAGRAM: Two intersecting circles A and B inside a rectangle, with only the intersection of A and B shaded.] (1)
+
+  8.2.2 [DIAGRAM: Two intersecting circles A and B inside a rectangle, with the entire region outside both circles A and B shaded.] (1)
+
+  8.2.3 [DIAGRAM: Two intersecting circles A and B inside a rectangle, with everything shaded EXCEPT the intersection of A and B.] (1)
+
+8.3 Which diagram(s) in QUESTIONS 8.2.1, 8.2.2 or 8.2.3 represent mutually exclusive events? (1)
+
+**[11]**
+
+**TOTAL: 100**

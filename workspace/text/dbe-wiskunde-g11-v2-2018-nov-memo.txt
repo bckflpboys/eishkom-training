@@ -1,0 +1,204 @@
+NATIONAL SENIOR CERTIFICATE / NASIONALE SENIOR SERTIFIKAAT
+
+GRADE/GRAAD 11
+
+MATHEMATICS P2 / WISKUNDE V2
+
+NOVEMBER 2018
+
+MARKING GUIDELINES / NASIENRIGLYNE
+
+---
+
+**NOTE:**
+* If a candidate answered a question TWICE, mark only the FIRST attempt.
+* If a candidate crossed out an answer and did not redo it, mark the crossed-out answer.
+* Consistent accuracy applies to ALL aspects of the marking memorandum.
+* Assuming values/answers in order to solve a problem is unacceptable.
+
+**LET WEL:**
+* As 'n kandidaat 'n vraag TWEE keer beantwoord het, sien slegs die EERSTE poging na.
+* As 'n kandidaat 'n antwoord deurgehaal en nie oorgedoen het nie, sien die deurgehaalde antwoord na.
+* Volgehoue akkuraatheid is op ALLE aspekte van die memorandum van toepassing.
+* Dit is onaanvaarbaar om waardes/antwoorde te veronderstel om 'n probleem op te los.
+
+---
+
+### QUESTION / VRAAG 1
+
+$$\begin{array}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+4 & 12 & 13 & 16 & 17 & 18 & 20 & 22 & 22 & 25 \\
+\hline
+\end{array}$$
+
+| | | |
+| :--- | :--- | :--- |
+| 1.1 | 4 minutes / minute | $\checkmark$ answer / antwoord <br> (1) |
+| 1.2 | $\text{Mean} / \text{gemiddeld} = \frac{169}{10} = 16,9$ | $\checkmark 169$ <br> $\checkmark$ answer / antwoord <br> (2) |
+| 1.3 | $\text{Standard deviation} / \text{standaardafwyking} = 5,79$ | $\checkmark$ answer / antwoord <br> (1) |
+| 1.4 | $(16,9 - 2 \times 5,79; 16,9 + 2 \times 5,79)$ <br> $(5,32; 28,48)$ <br><br> $\therefore$ 1 member of the team completed the obstacle race outside of 2 standard deviations of the mean. <br> 1 lid van die span het die hindernisbaan buite twee standaardafwykings van die gemiddeld voltooi. | $\checkmark \bar{x} - 2\sigma$ <br> $\checkmark \bar{x} + 2\sigma$ <br> $\checkmark$ answer / antwoord <br> (3) |
+| 1.5 | $\frac{169 + x + 5}{20} = 18$ <br> $x = 18 \times 20 - 174$ <br> $x = 186$ | $\checkmark 169 + x + 5$ <br> $\checkmark$ dividing by $20$ / deel deur $20$ <br> $\checkmark$ answer / antwoord <br> (3) |
+| | | **[10]** |
+
+---
+
+### QUESTION / VRAAG 2
+
+**Cumulative frequency graph of the ages of soccer players / Kumulatiewe frekwensie-grafiek van sokkerspelers se ouderdomme**
+
+| | | |
+| :--- | :--- | :--- |
+| 2.1.1 | 50 players / spelers | $\checkmark$ answer / antwoord <br> (1) |
+| 2.1.2 | $40 - 10 = 30$ players / spelers | $\checkmark 40$ and / en $10$ <br> $\checkmark$ answer / antwoord <br> (2) |
+
+| Class interval / Klas interval | Frequency / Frekwensie | Cumulative frequency / Kumulatiewe frekwensie | |
+| :---: | :---: | :---: | :--- |
+| $15 \le x < 20$ | $4$ | $4$ | $\checkmark$ two correct values / twee korrekte waardes |
+| $20 \le x < 25$ | $9$ | $13$ | |
+| $25 \le x < 30$ | $24$ | $37$ | $\checkmark$ three correct values / drie korrekte waardes |
+| $30 \le x < 35$ | $10$ | $47$ | |
+| $35 \le x < 40$ | $3$ | $50$ | $\checkmark$ all correct values / al die waardes korrek <br> (3) |
+
+---
+
+**Frequency polygon of the ages of soccer players / Frekwensie-veelhoek van sokkerspelers se ouderdomme**
+
+| | | |
+| :--- | :--- | :--- |
+| 2.1.4 | *(See graph)* | $\checkmark$ using midpoints / gebruik middelpunte <br> $\checkmark$ plotting the points correctly / korrekte punte geplot <br> $\checkmark$ points joined by straight line / punte verbind met 'n reguitlyn <br> $\checkmark$ grounding at / geanker by $(12,5; 0)$ and / en $(42,5; 0)$ <br> (4) |
+| 2.2 | The claim is not valid. / Die bewering is nie geldig nie <br><br> Range of class / Omgang van klas $\text{A} = 60$ <br> Range of class / Omgang van klas $\text{B} = 40$ <br><br> The range of class $\text{A}$ is bigger than the range of class $\text{B}$. Therefore the marks of class $\text{A}$ are more spread out than the class $\text{B}$. / <br> Die omvang van klas $\text{A}$ is groter as die omvang van klas $\text{B}$. Dus is die punte in klas $\text{A}$ meer verspreid as klas $\text{B}$ <br><br> At least $25\%$ of class $\text{A}$ have lower marks than any learner in class $\text{B}$. / <br> ten minste $25\%$ van klas $\text{A}$ het laer punte as enige leerder in klas $\text{B}$. <br><br> Class $\text{A}$ performed worse at the bottom end. / <br> Klas $\text{A}$ het slegter gevorder aan die onderste groep | $\checkmark$ claim not valid / bewering nie geldig nie <br> $\checkmark$ comment on the overall spread / kommentaar oor die algehele verspreiding <br> $\checkmark$ comparison of the lower marks / vergelyk laer punte <br> (3) |
+| | | **[13]** |
+
+---
+
+### QUESTION / VRAAG 3
+
+| | | |
+| :--- | :--- | :--- |
+| 3.1 | **B$(6;5)\quad \text{C}(0;-3)$** <br> $$m_{BC} = \frac{y_2 - y_1}{x_2 - x_1}$$ <br> $$= \frac{-3 - 5}{0 - 6}$$ <br> $$= \frac{-8}{-6}$$ <br> $$= \frac{4}{3}$$ | **OR / OF** <br> $$m_{BC} = \frac{y_2 - y_1}{x_2 - x_1}$$ <br> $$= \frac{5 - (-3)}{6 - 0}$$ <br> $$= \frac{8}{6}$$ <br> $$= \frac{4}{3}$$ | $\checkmark$ subst into correct grad. form / verv in grad form. <br> $\checkmark$ answer / antwoord <br> (2) |
+
+---
+
+| | | |
+| :--- | :--- | :--- |
+| 3.2 | $m_{AD} = m_{BC} = \frac{4}{3}\quad (\text{AD} \parallel \text{BC})$ <br><br> $$y = \frac{4}{3}x + c$$ <br> $$2 = \frac{4}{3}(-2) + c$$ <br> $$\frac{14}{3} = c$$ <br> $$\therefore y = \frac{4}{3}x + \frac{14}{3}$$ <br><br> **OR / OF** <br> $m_{AD} = \frac{4}{3}\quad (\text{AD} \parallel \text{BC})$ <br> $$y - 2 = \frac{4}{3}(x - (-2))$$ <br> $$y = \frac{4}{3}x + \frac{14}{3}$$ <br> $$\therefore y = \frac{4}{3}x + \frac{14}{3}$$ | $\checkmark m_{AD} = \frac{4}{3}$ <br><br> $\checkmark$ subst of $m$ and point $(-2;2)$ / verv. $m$ en punt $(-2;2)$ <br><br> $\checkmark$ answer / antwoord <br> (3) |
+| 3.3 | $$y = \frac{4}{3}x + \frac{14}{3}$$ <br> $$0 = \frac{4}{3}t + \frac{14}{3}$$ <br> $$\frac{-14}{3} = \frac{4}{3}t$$ <br> $$t = \frac{-14}{4} = \frac{-7}{2}$$ | $\checkmark$ subst / verv. $y = 0$ <br> $\checkmark$ answer / antwoord <br> (2) |
+| 3.4 | $$\text{AN} = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$ <br> $$= \sqrt{\left((-2) - \left(-\frac{7}{2}\right)\right)^2 + (2 - 0)^2}$$ <br> $$= \sqrt{\frac{25}{4}}$$ <br> $$= \frac{5}{2}$$ | $\checkmark$ subst. in distance formula / verv. in afstand formule <br> $\checkmark$ answer / antwoord <br> (2) |
+
+---
+
+| | | |
+| :--- | :--- | :--- |
+| 3.5 | $$\frac{3}{8}x - 3 = \frac{4}{3}x + \frac{14}{3}$$ <br> $$\frac{23}{24}x = -\frac{23}{3}$$ <br> $$x = -8$$ <br><br> $$y = \frac{4}{3}(-8) + \frac{14}{3}$$ <br> $$= -6$$ <br> $$\text{D}(-8; -6)$$ | $\checkmark$ equating / vergelyk <br> $\checkmark$ simplification / vereenv. <br> $\checkmark$ $x$-value / waarde <br> $\checkmark$ $y$-value / waarde <br> (4) |
+| 3.6 | $$m_{AB} = \frac{5 - 2}{6 - (-2)} = \frac{3}{8}$$ <br> $$m_{AB} = m_{DC}$$ <br> $\therefore \text{AB} \parallel \text{DC}$ <br> but / maar $\text{AD} \parallel \text{BC}$ <br> $\therefore \text{ABCD}$ is a parallelogram $[\text{opp sides are}\parallel / \text{teenoorst sye is}\parallel]$ <br><br> **OR / OF** <br> $$\text{AD} = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$ <br> $$= \sqrt{((-2) - (-8))^2 + (2 - 6)^2}$$ <br> $$= \sqrt{100}$$ <br> $$= 10$$ <br><br> $$\text{BC} = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$ <br> $$= \sqrt{(6 - 0)^2 + (5 - (-3))^2}$$ <br> $$= \sqrt{100}$$ <br> $$= 10$$ <br> $\therefore \text{AD} = \text{BC}$ <br> but / maar $\text{AD} \parallel \text{BC}$ <br> $\therefore \text{ABCD}$ is a parallelogram $\left[\begin{array}{l}2 \text{ opp sides are} = \text{and}\parallel \\ \text{teenoorst sye is} = \text{en}\parallel\end{array}\right]$ | $\checkmark m_{AB} = \frac{3}{8}$ <br> $\checkmark \text{AB} \parallel \text{DC}$ <br> $\checkmark$ reason / rede <br><br> $\checkmark$ length of $\text{AD}$ / lengte van $\text{AD}$ <br><br> $\checkmark$ length of $\text{BC}$ / lengte van $\text{BC}$ <br><br> $\checkmark$ reason / rede <br> (3) |
+
+---
+
+| | | |
+| :--- | :--- | :--- |
+| | $\text{M}$ is the midpoint of $\text{AC}$ <br> $\text{M}$ is die middelpunt van $\text{AC}$ <br> $$M\left(\frac{(-2) + 0}{2}, \frac{2 + (-3)}{2}\right)$$ <br> $$M\left(-1; -\frac{1}{2}\right)$$ <br><br> $\text{M}$ is the midpoint of $\text{BD}$ <br> $\text{M}$ is die middelpunt van $\text{BD}$ <br> $$M\left(\frac{(-8) + 6}{2}, \frac{(-6) + 5}{2}\right)$$ <br> $$M\left(-1; -\frac{1}{2}\right)$$ <br><br> $\therefore \text{ABCD}$ is a parallelogram $\left[\begin{array}{l}\text{diagonals bisect each other} \\ \text{hoeklyne halveer mekaar}\end{array}\right]$ | $\checkmark$ midpoint of $\text{AC}$ / middelpunt van $\text{AC}$ <br><br> $\checkmark$ midpoint of $\text{BD}$ / middelpunt van $\text{BD}$ <br><br> $\checkmark$ reason / rede <br> (3) |
+| 3.7 | $\text{M}$ is the midpoint of $\text{AC}$ $[\text{diagonals bisect}]$ <br> $\text{M}$ is die middelpunt van $\text{AC}$ $[\text{hoeklyne halveer}]$ <br> $$M\left(\frac{(-2) + 0}{2}, \frac{2 + (-3)}{2}\right)$$ <br> $$M\left(-1; -\frac{1}{2}\right)$$ | $\checkmark$ Substitution into the correct formula / Verv. in korrekte form. <br> $\checkmark x$-value / waarde <br> $\checkmark y$-value / waarde <br> (3) |
+| | | **[19]** |
+
+---
+
+### QUESTION / VRAAG 4
+
+| | | |
+| :--- | :--- | :--- |
+| 4.1 | $$m_{\text{FG}} = \frac{2 - (-2)}{5 - 2}$$ <br> $$= \frac{4}{3}$$ | $\checkmark$ subst. into correct gradient form. / verv in gradiënt formule <br> $\checkmark$ answer <br> (2) |
+| 4.2 | $$m_{\text{FC}} = -\frac{3}{4} \quad (\text{FC} \perp \text{FG})$$ <br> $$\frac{y + 2}{6 - 2} = -\frac{3}{4}$$ <br> $$y = -5$$ <br><br> **OR / OF** | $\checkmark m_{\text{FC}} = -\frac{3}{4}$ <br> $\checkmark$ equating gradients / stel gradiënte gelyk <br> $\checkmark$ answer / antwoord <br> (3) |
+
+---
+
+| | | |
+| :--- | :--- | :--- |
+| | $$m_{\text{FC}} \times m_{\text{FG}} = -1 \quad (\text{FC} \perp \text{FG})$$ <br> $$\frac{y + 2}{6 - 2} \times \frac{4}{3} = -1$$ <br> $$4(y + 2) = -12$$ <br> $$y + 2 = -3$$ <br> $$y = -5$$ | $\checkmark m_{\text{FC}} \times m_{\text{FG}} = -1$ <br> $\checkmark$ substitution / verv. <br> $\checkmark$ answer / antwoord <br> (3) |
+| 4.3 | $$\tan \beta = \frac{4}{3}$$ <br> $$\beta = 53,13^\circ$$ <br><br> $$\theta = 104,04^\circ - 53,13^\circ \quad [\text{ext }\angle\text{ of }\Delta / \text{ buite }\angle\text{ van }\Delta]$$ <br> $$\theta = 50,91^\circ$$ | $\checkmark \tan \beta = \frac{4}{3}$ <br> $\checkmark \beta = 53,13^\circ$ <br> $\checkmark$ answer / antwoord <br> (3) |
+| 4.4 | $$\text{FC} = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$ <br> $$= \sqrt{(6 - 2)^2 + (-5 - (-2))^2}$$ <br> $$= \sqrt{16 + 9}$$ <br> $$= 5$$ <br><br> $$\sin \theta = \frac{\text{FC}}{\text{NC}}$$ <br> $$\sin 50,91^\circ = \frac{5}{\text{NC}}$$ <br> $$\text{NC} = \frac{5}{\sin 50,91^\circ}$$ <br> $$= 6,44 \text{ unit}$$ | $\checkmark$ subst. into distance formula / verv. in afst. form. <br> $\checkmark$ length of $\text{FC}$ / lengte van $\text{FC}$ <br> $\checkmark \sin 50,91^\circ = \frac{5}{\text{NC}}$ <br> $\checkmark$ answer / antwoord <br> (4) |
+| | | **[12]** |
+
+---
+
+### QUESTION / VRAAG 5
+
+| | | |
+| :--- | :--- | :--- |
+| 5.1.1 | $$x^2 + y^2 = r^2 \quad [\text{Pythagoras}]$$ <br> $$(x)^2 + (15)^2 = 17^2$$ <br> $$x^2 = 64$$ <br> $$x = -8 \quad (\text{P is in quadrant } 2 / \text{is in kwadrant } 2)$$ | $\checkmark$ subst in pyth / verv in pyth <br> $\checkmark$ answer / antwoord <br> (2) |
+| 5.1.2 | $$\tan \theta = \frac{15}{-8}$$ | $\checkmark$ answer / antwoord <br> (1) |
+| 5.1.3 | $$\cos(180^\circ - \theta)$$ <br> $$= -\cos \theta$$ <br> $$= -\left(\frac{-8}{17}\right)$$ <br> $$= \frac{8}{17}$$ | $\checkmark -\cos \theta$ <br> $\checkmark$ answer / antwoord <br> (2) |
+| 5.1.4 | $$\sin^2 \theta$$ <br> $$= \left(\frac{15}{17}\right)^2$$ <br> $$= \frac{225}{289}$$ | $\checkmark$ substitution / vervanging <br> $\checkmark$ answer / antwoord <br> (2) |
+
+---
+
+| | | |
+| :--- | :--- | :--- |
+| 5.1.5 | $$\tan \theta = \frac{a}{-2} = \frac{15}{-8}$$ <br> $$\frac{a}{-2} = \frac{15}{-8}$$ <br> $$a = \frac{15}{4}$$ <br><br> **OR / OF** <br> $$m = \frac{15}{-8}$$ <br> $$y = \frac{15}{-8}x$$ <br> $$a = \frac{15}{-8}(-2)$$ <br> $$a = \frac{15}{4}$$ | $\checkmark \tan \theta = \frac{a}{-2}$ <br> $\checkmark$ equating / stel gelyk <br> $\checkmark$ answer / antwoord <br> (3) |
+| 5.2 | $$\text{LHS} = \frac{\sin 120^\circ \cdot \cos 210^\circ \cdot \tan 315^\circ \cdot \cos 27^\circ}{\cos 540^\circ \cdot \sin 63^\circ}$$ <br> $$= \frac{\sin 60^\circ \cdot (-\cos 30^\circ) \cdot (-\tan 45^\circ) \cdot \sin 63^\circ}{\cos 180^\circ \cdot \sin 63^\circ}$$ <br> $$= \frac{\frac{\sqrt{3}}{2} \cdot \left(-\frac{\sqrt{3}}{2}\right)(-1)}{-1}$$ <br> $$= -\frac{3}{4}$$ | $\checkmark \sin 60^\circ / \cos 30^\circ$ <br> $\checkmark -\cos 30^\circ$ <br> $\checkmark -\tan 45^\circ$ <br> $\checkmark \sin 63^\circ / \cos 27^\circ$ <br> $\checkmark \cos 180^\circ$ <br> $\checkmark$ special angle ratios / spesiale hoeke verhoudings <br> $\checkmark$ answer / antwoord <br> (7) |
+
+---
+
+| | | |
+| :--- | :--- | :--- |
+| 5.3 | $$\text{LHS} = \frac{1}{\cos \theta} - \frac{\cos \theta}{1 + \sin \theta}$$ <br> $$= \frac{1 + \sin \theta - \cos^2 \theta}{\cos \theta(1 + \sin \theta)}$$ <br> $$= \frac{1 + \sin \theta - (1 - \sin^2 \theta)}{\cos \theta(1 + \sin \theta)}$$ <br> $$= \frac{\sin \theta(1 + \sin \theta)}{\cos \theta(1 + \sin \theta)}$$ <br> $$= \frac{\sin \theta}{\cos \theta}$$ <br> $$= \tan \theta$$ <br> $$= \text{RHS}$$ <br><br> **OR / OF** <br> $$\text{LHS} = \frac{1}{\cos \theta} - \frac{\cos \theta}{1 + \sin \theta}$$ <br> $$= \frac{1 + \sin \theta - \cos^2 \theta}{\cos \theta(1 + \sin \theta)}$$ <br> $$= \frac{(1 - \cos^2 \theta) + \sin \theta}{\cos \theta(1 + \sin \theta)}$$ <br> $$= \frac{\sin^2 \theta + \sin \theta}{\cos \theta(1 + \sin \theta)}$$ <br> $$= \frac{\sin \theta(1 + \sin \theta)}{\cos \theta(1 + \sin \theta)}$$ <br> $$= \frac{\sin \theta}{\cos \theta}$$ <br> $$= \tan \theta$$ <br> $$= \text{RHS}$$ | $\checkmark$ common denominator / gemene noemer <br> $\checkmark 1 - \sin^2 \theta$ <br> $\checkmark$ simplification / vereenv. <br> $\checkmark$ factors / faktore <br> $\checkmark \frac{\sin \theta}{\cos \theta}$ <br> (5) |
+
+---
+
+| | | |
+| :--- | :--- | :--- |
+| | $$\text{LHS} = \frac{1}{\cos \theta} - \frac{\cos \theta}{1 + \sin \theta}$$ <br> $$= \frac{1 + \sin \theta - \cos^2 \theta}{\cos \theta(1 + \sin \theta)}$$ <br> $$= \frac{\sin^2 \theta + \cos^2 \theta + \sin \theta - \cos^2 \theta}{\cos \theta(1 + \sin \theta)}$$ <br> $$= \frac{\sin^2 \theta + \sin \theta}{\cos \theta(1 + \sin \theta)}$$ <br> $$= \frac{\sin \theta(1 + \sin \theta)}{\cos \theta(1 + \sin \theta)}$$ <br> $$= \frac{\sin \theta}{\cos \theta}$$ <br> $$= \tan \theta$$ <br> $$= \text{RHS}$$ | $\checkmark$ common denominator / gemene noemer <br> $\checkmark \sin^2 \theta + \cos^2 \theta$ <br> $\checkmark$ simplification / vereenv. <br> $\checkmark$ factors / faktore <br> $\checkmark \frac{\sin \theta}{\cos \theta}$ <br> (5) |
+| 5.4 | $$3 \sin x = 2 \tan x$$ <br> $$3 \sin x = 2 \times \frac{\sin x}{\cos x}$$ <br> $$3 \sin x \cos x = 2 \sin x$$ <br> $$3 \sin x \cos x - 2 \sin x = 0$$ <br> $$\sin x(3 \cos x - 2) = 0$$ <br><br> $\sin x = 0$ <br> $x = 360^\circ k, \ k \in \mathbb{Z}$ <br> **or / of** <br> $x = 180^\circ + 360^\circ k, \ k \in \mathbb{Z}$ | $\checkmark \frac{\sin x}{\cos x}$ <br> $\checkmark$ factors / faktore <br> $\checkmark$ both equations / beide vergelykings <br> $\checkmark$ both general solutions / beide algemene oplossings |
+
+---
+
+| | | |
+| :--- | :--- | :--- |
+| | $\cos x = \frac{2}{3}$ <br> $x = 48,19^\circ + 360^\circ k, \ k \in \mathbb{Z}$ <br> **or / of** <br> $x = 311,81^\circ + 360^\circ k, \ k \in \mathbb{Z}$ <br><br> **OR / OF** <br> $$3 \sin x = 2 \tan x$$ <br> $$3 \sin x = 2 \times \frac{\sin x}{\cos x}$$ <br> $$3 \sin x \cos x = 2 \sin x$$ <br> $$3 \sin x \cos x - 2 \sin x = 0$$ <br> $$\sin x(3 \cos x - 2) = 0$$ <br><br> $\sin x = 0$ <br> $x = 180^\circ k, \ k \in \mathbb{Z}$ <br> $\cos x = \frac{2}{3}$ <br> $x = \pm 48,19^\circ + 360^\circ k, \ k \in \mathbb{Z}$ | $\checkmark$ both general solutions / beide algemene oplossings <br> $\checkmark k \in \mathbb{Z}$ <br> (6) <br><br><br> $\checkmark \frac{\sin x}{\cos x}$ <br> $\checkmark$ factors / faktore <br> $\checkmark$ both equations / beide vergelykings <br> $\checkmark$ general solution / algemene oplossing <br> $\checkmark$ both general solutions / beide algemene oplossings <br> $\checkmark k \in \mathbb{Z}$ <br> (6) |
+| | | **[28]** |
+
+---
+
+### QUESTION / VRAAG 6
+
+| | | |
+| :--- | :--- | :--- |
+| 6.1 | $-3 \le y \le 3 \quad \text{\bf or / of}$ <br> $y \in [-3; 3]$ | $\checkmark$ end points / eindpunte <br> $\checkmark$ notation / notasie <br> (2) |
+| 6.2 | $c = 1$ | $\checkmark$ answer / antwoord <br> (1) |
+| 6.3 | $a = 3$, $b = 1$ | $\checkmark a = 3$ <br> $\checkmark b = 1$ <br> (2) |
+| 6.4 | $\text{Q}(122^\circ; -1,6)$ | $\checkmark x$-value / waarde <br> $\checkmark y$-value / waarde <br> (2) |
+| 6.5 | $\text{K}\left(-45^\circ; \frac{3\sqrt{2}}{2}\right)$ <br> $\text{M}(-45^\circ; -1)$ <br> $\text{KM} = \frac{3\sqrt{2}}{2} + 1$ <br> $= \frac{3\sqrt{2} + 2}{2}$ <br> $= 3,12$ | $\checkmark$ coordinates of / koördinate van $\text{K}$ <br> $\checkmark$ length of / lengte van $\text{KM}$ <br> (2) |
+| 6.6 | $f(x) = 3\cos(\theta - 45^\circ)$ | $\checkmark 3$ <br> $\checkmark -45^\circ$ <br> (2) |
+| | | **[11]** |
+
+---
+
+### QUESTION / VRAAG 7
+
+| | | |
+| :--- | :--- | :--- |
+| 7.1 | $\text{QR}^2 = \text{PR}^2 + \text{PQ}^2 - 2\text{PR}.\text{PQ}\cos\hat{\text{P}}$ <br> $\text{QR}^2 = (3)^2 + (9,2)^2 - 2(3)(9,2)\cos 67^\circ$ <br> $\text{QR} = \sqrt{(3)^2 + (9,2)^2 - 2(3)(9,2)\cos 67^\circ}$ <br> $\text{QR} = 8,49\text{cm}$ | $\checkmark$ using cos rule / gebruik cos reël <br> $\checkmark$ substitution / vervanging <br> $\checkmark$ answer / antwoord <br> (3) |
+
+---
+
+| | | |
+| :--- | :--- | :--- |
+| 7.2.1 | $\text{A}\hat{\text{C}}\text{D} = \theta - \alpha$ | $\checkmark$ answer / antw. <br> (1) |
+| 7.2.2 | $\hat{\text{D}}_1 = 90^\circ + \alpha$ <br> $\frac{\sin(90^\circ + \alpha)}{h} = \frac{\sin(\theta - \alpha)}{\text{AD}}$ <br> $\frac{\cos \alpha}{h} = \frac{\sin(\theta - \alpha)}{\text{AD}}$ <br> $\text{AD} = \frac{h \sin(\theta - \alpha)}{\cos \alpha}$ | $\checkmark \hat{\text{D}}_1 = 90^\circ + \alpha$ <br> $\checkmark \frac{\sin(90^\circ + \alpha)}{h}$ <br> $\checkmark \frac{\sin(\theta - \alpha)}{\text{AD}}$ <br> $\checkmark \sin(90^\circ + \alpha) = \cos \alpha$ <br> (4) |
+| 7.2.3 | $\text{AD} = \frac{17 \sin(58^\circ - 23^\circ)}{\cos 23^\circ}$ <br> $\text{AD} = 10,59 \text{ units}$ | $\checkmark$ subst / verv. <br> $\checkmark$ answer / antw. <br> (2) |
+| 7.2.4 | $\text{Area of } \Delta\text{ADC} = \frac{1}{2} \times \text{AD} \times \text{AC} \times \sin\hat{\text{A}}$ <br> $= \frac{1}{2} \times 10,59 \times 17 \times \sin 32^\circ$ <br> $= 47,70 \text{ unit}^2$ <br><br> **OR / OF** | $\checkmark$ correct area rule / korrekte area reël <br> $\checkmark 32^\circ$ <br> $\checkmark$ answer / antw. <br> (3) |
+
+---
+
+| | | |
+| :--- | :--- | :--- |
+| | $\sin 58^\circ = \frac{\text{AB}}{17}$ <br> $\text{AB} = 17 \sin 58^\circ$ <br> $= 14,41682\dots$ <br> $\text{BD} = 14,41682\dots - 10,59289\dots = 3,82393\dots$ <br> $\sin 23^\circ = \frac{3,82393\dots}{\text{CD}}$ <br> $\text{CD} = \frac{3,82393\dots}{\sin 23^\circ}$ <br> $= 9,78660\dots$ <br><br> $\text{Area of } \Delta\text{ADC} = \frac{1}{2} \times \text{CD} \times \text{AC} \times \sin 35^\circ$ <br> $= \frac{1}{2} \times 9,78660\dots \times 17 \times \sin 35^\circ$ <br> $= 47,71 \text{ unit}^2$ | $\checkmark$ length of $\text{BD}$ / lengte van $\text{BD}$ <br> $\checkmark$ length of $\text{CD}$ / lengte van $\text{CD}$ <br> $\checkmark$ answer / antw. <br> (3) |
+| | | **[28]** |
+
+---
+
+### QUESTION / VRAAG 8
+
+| | | |
+| :--- | :--- | :--- |
+| 8.1 | $r^2 = 13^2 - h^2 \quad (\text{Pythagoras})$ <br> $r^2

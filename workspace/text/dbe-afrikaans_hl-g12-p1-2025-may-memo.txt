@@ -1,0 +1,195 @@
+basic education  
+Department:  
+Basic Education  
+REPUBLIC OF SOUTH AFRICA  
+
+**SENIORSERTIFIKAAT-EKSAMEN/**  
+**NASIONALE SENIORSERTIFIKAAT-EKSAMEN**  
+
+**AFRIKAANS HUISTAAL V1**  
+
+**MEI/JUNIE 2025**  
+
+**NASIENRIGLYNE**  
+
+**PUNTE: 70**  
+
+Hierdie nasienriglyne bestaan uit 12 bladsye.  
+
+---
+
+**AFDELING A: LEESBEGRIP**  
+
+**Nasien van die leesbegrip:**  
+* Die fokus is op die begrip van die leesteks. Spel- en taalfoute word nie nagesien nie tensy dit die begrip/verstaan van die teks beïnvloed. (Taal- en spelfoute moet wel aangetoon word.)  
+* Indien die kandidaat woorde uit 'n ander taal gebruik as die taal waarin die vraestel verskyn, word die vreemde woorde geïgnoreer. Indien die antwoord sonder die vreemde woorde sinvol is, word die kandidaat nie gepenaliseer nie. Indien die vreemde woord in die antwoord vereis word, word dit aanvaar.  
+* Vir oop vrae word geen punte toegeken vir JA/NEE/EK STEM SAAM/EK STEM NIE SAAM NIE. Die rede/motivering moet oorweeg word.  
+* Geen punte word vir WAAR/ONWAAR of FEIT/MENING toegeken nie. Die rede/bewys/motivering word oorweeg by die puntetoekenning.  
+* Vrae wat aanhalings uit die leesstuk verg, word nie gepenaliseer indien die aanhalingstekens ontbreek nie.  
+* Waar eenwoordantwoorde gevra word en die kandidaat 'n volsin gee, is dit korrek, mits die korrekte woord onderstreep of op een of ander wyse uitgelig word.  
+* Wanneer twee of drie feite/punte vereis word en die kandidaat gee 'n hele reeks, word slegs die eerste twee of drie feite/punte nagesien.  
+* Aanvaar dialektiese variasies.  
+* Aanvaar by meervoudigekeuse-vrae BEIDE die ooreenstemmende letter met die korrekte antwoord EN/OF die volledige, uitgeskryfde antwoord.  
+
+| VRAAG 1 (Sien binne konteks na; sien betekenis na, nie woorde/taalgebruik nie.) | | |
+| :--- | :--- | :---: |
+| **Vraag** | **Antwoord** | **Punt** |
+| 1.1.1 | "verstom" $\checkmark$ | 1 |
+| 1.1.2 | Die kletsbot kan 'n (verstommende) hoeveelheid kennis stoor./bestaane kennis op nuwe probleme toepas./<br>Die kletsbot beantwoord jou vraag binne sekondes./(baie) vinnig. $\checkmark$<br><br>Die kandidaat bied 'n antwoord vir EEN punt aan. | 1 |
+| 1.1.3 | Dit beklemtoon die (reaksie/teleurstelling) dat die kletsbot nie 100% vertrou kan word nie./antwoorde soms verkeerd is. $\checkmark$<br><br>Die kandidaat bied 'n soortgelyke antwoord vir EEN punt aan. | 1 |
+| 1.2.1 | ChatGPT sal wel eendag die mens kan vervang./Die mens moenie gerus wees nie, want hy/sy kan vervang word. $\checkmark$<br><br>Die kandidaat bied 'n soortgelyke antwoord vir EEN punt aan. | 1 |
+| 1.2.2 | ChatGPT kan nie inligting redigeer nie./sal geleer moet word om te redigeer./Mense moet eers die inligting redigeer. $\checkmark$<br>ChatGPT kan nie inligting hersien nie./moet geprogrammeer word om te hersien./Mense moet eers die inligting hersien. $\checkmark$<br>ChatGPT kan nie kreatief wees nie./sal (soos die mens) kreatief moet wees./Mense moet die inligting kreatief hanteer. $\checkmark$<br><br>Die kandidaat bied DRIE antwoorde vir EEN punt elk aan. | 1<br>1<br>1 |
+
+---
+
+| **Vraag** | **Antwoord** | **Punt** |
+| :--- | :--- | :---: |
+| 1.3 | Die mediese KI is so goed is dat dit selfs diagnoses kan maak./<br>Dit is verstommend dat KI op mediese gebied nuwe behandelings kan aanbeveel./<br>Dit is verstommend dat KI op mediese gebied in 'n groot mate foute uitskakel./<br>Dit is verstommend dat KI-gebruik tot beter resultate vir pasiëntbehandeling lei./<br>KI kan mediese data analiseer. $\checkmark\checkmark$<br><br>**EN**<br><br>**Nee**<br>Die feit dat die tegnologie geneig is om minder foute te maak/tot beter resultate vir pasiënte lei, moet juis hulle vertroue wen.<br><br>**OF**<br><br>**Ja**<br>KI kan foute maak./Daar is steeds menslike hulp nodig om die aanbevelings te hersien./redigeer. $\checkmark$<br><br>Die kandidaat bied 'n soortgelyke antwoord vir EEN punt aan. | 2<br><br>1 |
+| 1.4 | Dr. Lee wys op die akkuraatheid van die KI-inligting, terwyl paragraaf 2 juis daarop wys dat KI nie tussen reg en verkeerd kan onderskei nie./foute begaan. $\checkmark$<br><br>Die kandidaat bied 'n soortgelyke antwoord vir EEN punt aan.<br>Die kandidaat moet na beide kante van die weerspreking verwys. | 1 |
+| 1.5 | KI-stelsels sal nuwe geleenthede raaksien./<br>KI-stelsels sal tendense kan voorspel./<br>KI-stelsels sal (dalk) kompeterende strategieë kan uitwerk./<br>KI-stelsels sal maklike toegang tot nuwe markte hê./<br>KI-stelsels sal taalhindernisse binne nuwe markte maklik oorkom. $\checkmark\checkmark\checkmark\checkmark$<br><br>Die kandidaat bied VIER antwoorde vir EEN punt elk aan. | 4 |
+| 1.6 | **Ja**<br>(Net soos 'n kompas jou deur 'n onbekende terrein kan lei,) kan KI leerders help om onbekende inligting te verwerk. $\checkmark$<br><br>(Net soos 'n wanfunksionerende kompas jou kan laat verdwaal,) kan KI leerders/onderwysers op 'n dwaalspoor laat beland./leerders maklik plagiaat laat pleeg. $\checkmark$<br><br>Die kandidaat bied TWEE soortgelyke antwoorde vir EEN punt elk aan.<br>Die kandidaat kan nie 'n NEE-antwoord aanbied nie. | 1<br>1 |
+| 1.7 | Onderwysers kan sagteware-programme gebruik (om plagiaat op te spoor./te verminder.)/<br>Onderwysers kan 'n evalueringsaspek oor waardes by opdragte inwerk./se opdragte moet kritiese denke by leerders toets./moet leerders leer om krities te dink. $\checkmark\checkmark$<br><br>Die kandidaat bied TWEE antwoorde vir EEN punt elk aan.<br><br>**EN** | 2 |
+
+---
+
+| **Vraag** | **Antwoord** | **Punt** |
+| :--- | :--- | :---: |
+| | Die gebruik van sagteware programme sal nie doeltreffend wees nie, aangesien alle onderwysers nie die toerusting sal hê om plagiaat op te spoor nie./die gedeeltes wat ChatGPT geskryf het, as plagiaat te herken nie.<br><br>**OF**<br><br>Die evalueringsaspek/bevordering van kritiese denke sal die minste doeltreffend wees, aangesien alle take nie evaluering oor waardes/kritiese denke kan bevat nie./dele wat nie evaluering/kritiese denke vereis nie, steeds gekopieer kan word. $\checkmark$<br><br>Die kandidaat bied 'n soortgelyke antwoord vir EEN punt aan. | 1 |
+| 1.8 | Dr. Sarah Adams is positief oor KI se invloed op die sakewêreld, terwyl Elon Musk meen dat KI-stelsels 'n negatiewe impak het./'n groot gevaar inhou./selfs gevaarliker as kernwapens kan wees. $\checkmark$<br><br>Die kandidaat bied albei dele van die verskil vir EEN punt aan. | 1 |
+| 1.9 | Mense wat nie kan onderskei tussen die werklikheid en die vals werklikheid nie./nie bewus is dat KI 'n vals werklikheid soos die realiteit kan laat lyk nie. $\checkmark$<br>Mense wat nie in elke situasie (waar e-posse, stem- of videoboodskappe met hom gedeel word) krities optree/dink nie./wat alle boodskappe summier vertrou. $\checkmark$<br><br>Die kandidaat bied TWEE soortgelyke antwoorde vir EEN punt elk aan. | 1<br>1 |
+| 1.10 | **Ja**<br>Dit laat die leser nadink oor die waarde van KI./ChatGPT./<br>Dit dien as 'n gepaste opsomming van die voor- en nadele (van die ontwikkeling) van KI/ChatGPT. $\checkmark$<br><br>Die kandidaat bied 'n soortgelyke antwoord vir EEN punt aan.<br>Die kandidaat kan nie 'n NEE-antwoord aanbied nie. | 1 |
+| 1.11 | Sy hou die boek na die seun uit./Haar arm met die boek is uitgestrek na die seun toe./Die ma se mond is (wyd) oop (wat aandui dat sy op die seun skree om sy boek te onthou). $\checkmark$ | 1 |
+| 1.12 | Die ma se verwagting dat leerders/die seun boeke in die skool gebruik verskil van die seun se realiteit oor elektroniese hulpmiddels in skole./dat boeke nie in skole gebruik word nie. $\checkmark$<br><br>Die kandidaat bied 'n soortgelyke antwoord vir EEN punt aan.<br>Die kandidaat moet na beide kante van die verskil verwys. | 1 |
+| 1.13 | Die miniatuurrobot is sarkasties./krities./ironies./sinies./beterweterig. $\checkmark$<br><br>**EN**<br><br>Die verskuilde waarskuwing is dat die seun nie goed in die eksamen gaan doen nie./te veel op die robot se hulp staatmaak. $\checkmark$<br><br>Die kandidaat bied 'n soortgelyke antwoord vir EEN punt aan. | 1<br>1 |
+
+---
+
+| **Vraag** | **Antwoord** | **Punt** |
+| :--- | :--- | :---: |
+| 1.14 | KI het die seun van sy kreatiwiteit beroof./<br>Hy lees/skryf/dink nie meer self nie. $\checkmark$<br><br>**EN**<br><br>**Ja**<br>Hy gaan (in die toekoms) toenemend van KI gebruik maak en wend dit nou al reeds as 'n hulpmiddel aan.<br><br>**OF**<br><br>**Nee**<br>Hy gee sy menswees/emosies/kreatiwiteit prys. $\checkmark$<br><br>Die kandidaat bied 'n soortgelyke antwoord vir EEN punt aan. | 1<br><br>1 |
+| | **TOTAAL AFDELING A:** | **30** |
+
+---
+
+**AFDELING B: OPSOMMING**  
+
+**VRAAG 2**  
+**Nasien van die opsomming**  
+* Die nasien van die opsomming word baseer op die insluiting van die relevante feite in die teks wat met die vraag ooreenstem.  
+* Opskrif/titel: Daar word nie van kandidate verwag om die leesstuk van 'n opskrif/titel te voorsien nie.  
+* Kandidate moet die opsomming in hul eie sinne, in enige volgorde skryf.  
+* Slegs stappe wat in volsinne aangebied word, verdien punte.  
+* Rofwerk/beplanning moet duidelik aangedui word. Indien dit nie die geval is nie, word die eerste opsomming nagesien.  
+* Kandidate moet die korrekte getal woorde aandui.  
+* Punte word soos volg toegeken:  
+  o 7 punte vir 7 feite (1 punt vir elke feit)  
+  o 3 punte vir taal  
+  o Totale punte: 10  
+* Verspreiding van punte vir taal wanneer die kandidaat nie woordeliks aangehaal het nie:  
+  o 1–3 feite korrek: ken 1 punt toe.  
+  o 4–5 feite korrek: ken 2 punte toe.  
+  o 6–7 feite korrek: ken 3 punte toe.  
+* Verspreiding van punte vir taal wanneer kandidaat woordeliks aangehaal het.  
+  o 6–7 direkte aanhalings: ken geen punte vir taal toe nie.  
+  o 4–5 direkte aanhalings: ken 'n maksimum van 1 taalpunt toe.  
+  o 2–3 direkte aanhalings: ken 'n maksimum van 2 taalpunte toe.  
+
+**LET WEL:**  
+* Tel van woorde:  
+  o Nasieners moet die aantal woorde wat gebruik is, tel.  
+  o Geen punte word afgetrek as die kandidaat nie die getal woorde aangedui het nie of as die getal woorde wat gebruik is, verkeerd aangedui is.  
+  o As die getal woorde oorskry is, lees tot by die laaste sin waarin die getal woorde oorskry word en ignoreer die res van die opsomming.  
+  o Korter opsommings wat die vereiste aspekte bevat, mag nie gepenaliseer word nie.  
+
+| NASIENSIMBOLE | | | | | |
+| :---: | :--- | :---: | :--- | :---: | :--- |
+| **V** | Onvolledige sin | **H** | Herhaling | **A** | Aanhaling |
+| **^** | Onvolledige feit | **F** | Feitefout | **S** | Stelling |
+
+---
+
+**MOONTLIKE PARAGRAAF**  
+Mense moet van jongs af die basiese beginsels van etiek leer en herhaaldelik goeie dinge doen om gesonde morele waardes te vorm. Mense moet deelneem aan morele aksies waarby hulle kinders ook betrokke is. Kinders moet leer wat die gevolge is wanneer ons gedrag teenstrydig met kernwaardes is. Sorg dat daar positiewe morele rolmodelle in kinders se lewens is en dat hulle kan identifiseer met waardegedrewe gesagsfigure. Laastens moet mense hulle omring met 'n skoon en netjiese omgewing.  
+**[Getal woorde: 77]**  
+
+**OF**  
+
+| | **AANHALING UIT TEKS** | | **MOONTLIKE BEWOORDING** |
+| :---: | :--- | :---: | :--- |
+| 1 | "... die opvoeding van ons mense ten opsigte van die basiese beginsels van etiek ..." | A | Mense moet die basiese beginsels van etiek leer./leer om die goeie te ken en te koester. |
+| 2 | "Doen ons dus herhaaldelik goeie dinge, word ons goed, want so vorm ons gesonde morele gewoontes." | B | Doen (herhaaldelik) goeie dinge (om gesonde morele waardes te vorm). |
+| 3 | "... moet mense deelneem aan morele aksies waarby hulle ook hulle kinders betrek." | C | Mense moet deelneem aan morele aksies waarby hulle kinders ook betrokke is. |
+| 4 | "Suid-Afrikaners sal moet leer wat die logiese gevolge is wanneer hulle gedrag teenstrydig met kernwaardes is." | D | Ons moet leer wat die gevolge is wanneer ons gedrag teenstrydig met kernwaardes is./verantwoordelikheid aanvaar vir die gevolge van ons gedrag. |
+| 5 | "... in die steek gelaat deur die gebrek aan positiewe morele rolmodelle in ons land. Sorg dat daar sulke rolmodelle in kinders se lewens is, ..." | E | Sorg dat daar (positiewe/morele) rolmodelle in kinders se lewens is. |
+| 6 | "Suid-Afrikaners moet ook kan identifiseer met gesagsfigure soos godsdiensleiers en onderwysers wat goeie waardes uitleef." | F | Mense moet identifiseer met gesagsfigure/godsdiensleiers/onderwysers wat goeie waardes het./Gesagsfigure moet seker maak dat mense met hulle kan identifiseer op grond van hulle goeie waardes. |
+| 7 | "Wanneer jy deur 'n vuil, onordelike omgewing omring word, sal jy meer tot wangedrag geneig wees; 'n netjiese, skoon omgewing sal tot 'n meer etiese samelewing lei." | G | Mense moenie hulle omring met 'n vuil, onordelike omgewing nie./Omgewings moet netjies/skoon wees. |
+
+**Getal woorde: 75 woorde**  
+
+**TOTAAL AFDELING B: 10**
+
+---
+
+**AFDELING C: TAALSTRUKTURE EN -KONVENSIES**  
+
+**Nasien van hierdie afdeling:**  
+* Spelling:  
+  o Eenwoordantwoorde word nie gepenaliseer nie, al is die spelling nie korrek nie tensy die spelling die betekenis van die woord beïnvloed en/of spelling die aspek is wat geassesseer word.  
+  o Waar 'n afkorting getoets word, behoort die punte op die regte plek te wees.  
+* Sinskonstruksies moet taalkundig korrek wees en in volsinne aangebied word soos in die instruksie aangedui.  
+* Vir meervoudigekeuse-vrae word die letter van die korrekte antwoord en/of die antwoord wat uitgeskryf is, as korrek aanvaar.  
+
+| VRAAG 3: ADVERTENSIE | | |
+| :--- | :--- | :---: |
+| **Vraag** | **Antwoord** | **Punt** |
+| 3.1.1 | "avontuur" $\checkmark$ | 1 |
+| 3.1.2 | Die gebiedende wyse spoor die leser aan/prikkel die leser se belangstelling/aandag om deel te neem./laat die oproep (om deel te neem) meer dringend klink./manipuleer die leser om (by die wedloop) betrokke te raak. $\checkmark$<br><br>Die kandidaat bied 'n soortgelyke antwoord vir EEN punt aan. | 1 |
+| 3.2 | Die terrein is klipperig/ongelyk/sanderig (wat sal bydra tot die uitdagende omstandighede van die wedloop.) $\checkmark$<br><br>Die kandidaat bied 'n soortgelyke antwoord vir EEN punt aan.<br><br>**EN**<br><br>"Toets" $\checkmark$ | 1 |
+| 3.3 | uit-hou-ver-mo-e $\checkmark$ | 1 |
+| 3.4 | Ek halveer die lemoen sodat ek dit met my boetie kan deel. $\checkmark$<br><br>Die kandidaat bied 'n soortgelyke sin vir EEN punt aan.<br>Die woord moet korrek gespel word. | 1 |
+| 3.5 | Die vetgedrukte woorde dui telkens die avontuur wat in elke wedloop wag, aan./<br>Die woorde skei die verskillende wedlope van mekaar./toon aan dat inligting oor 'n nuwe wedloop volg./<br>Die vetgedrukte woorde vestig die aandag op die vereistes van elke wedloop./gee 'n aanduiding van alles wat daardie dag gaan plaasvind./<br>Die woorde is telkens 'n opdrag wat die leser prikkel om aan die wedlope deel te neem./<br>Die opdragte sluit aan by BLOK A, aangesien dit bevele is. $\checkmark\checkmark$<br><br>Die kandidaat bied TWEE soortgelyke antwoorde vir EEN punt elk aan. | 2 |
+
+---
+
+| **Vraag** | **Antwoord** | **Punt** |
+| :--- | :--- | :---: |
+| 3.6 | Dit sal 'n invloed hê dat die leser/mense nie so maklik/vinnig op die advertensie sal kan reageer nie./<br>Dit sal nie 'n invloed hê nie, want die leser/mense kan nog steeds deur die webwerf (wat aangedui word) toegang tot inligting oor die wedloop kry. $\checkmark$<br><br>Die kandidaat bied 'n soortgelyke antwoord vir EEN punt aan. | 1 |
+| 3.7 | Die logo's help dat die borge dadelik herkenbaar is./<br>Die name van die borge staan uit./word beklemtoon./<br>Die logo's dra by tot die gedagte dat dit 'n gerekende wedloop is (met baie borge). $\checkmark$<br><br>Die kandidaat bied 'n soortgelyke antwoord vir EEN punt aan. | 1 |
+| | | **10** |
+
+---
+
+| VRAAG 4: STROKIESPRENT | | |
+| :--- | :--- | :---: |
+| **Vraag** | **Antwoord** | **Punt** |
+| 4.1 | "maar" $\checkmark$<br><br>**EN**<br><br>**Ja**<br>Die bewegingstrepies langs sy kop dui daarop dat hy sy kop in radeloosheid skud./<br>Die sweetdruppel langs sy kop dui daarop dat hy gespanne is./nie weet watter opsie reg is nie./Hägar kyk reguit na die leser (asof hy raad soek). $\checkmark$<br><br>Die kandidaat bied 'n soortgelyke antwoord vir EEN punt aan.<br>Die kandidaat kan nie 'n NEE-antwoord aanbied nie. | 1 |
+| 4.2.1 | Die (oordrewe) blydskap/liefde/ekstase/opgewondenheid $\checkmark$ | 1 |
+| 4.2.2 | (Hulle toon blydskap deur) hulle arms in die lug te gooi./hom tegemoet te hardloop./van oor tot oor te glimlag. $\checkmark$ | 1 |
+| 4.3.1 | Dit maak dit duidelik dat Hägar dikwels weg is van die huis./altyd 'n geskenk saambring as hy terugkeer huis toe./sy gesin elke keer wat hy terugkeer huis toe, net uitsien na wat hy saambring. $\checkmark$<br><br>Die kandidaat bied 'n soortgelyke antwoord vir EEN punt aan.<br><br>**EN**<br><br>dié $\checkmark$ | 1 |
+| 4.3.2 | Helga het gevra wat hy/Hägar daardie keer vir hulle saamgebring het. $\checkmark$ | 1 |
+| 4.4 | **Ja**<br>Die verandering is geloofwaardig, want hy is geskok/kom agter dat hulle meer uitsien na die geskenke wat hy bring as wat hulle bly is om hom te sien./besef dat hy in die moeilikheid is (omdat hy nie geskenke saamgebring het nie)./wonder hoe hy hom uit dié situasie gaan lospraat. $\checkmark$<br><br>Die kandidaat bied 'n soortgelyke antwoord vir EEN punt aan.<br>Die kandidaat kan nie 'n NEE-antwoord aanbied nie. | 1 |
+| 4.5 | Raampie 5 laat dit lyk asof die ouma reg was, want Hägar is oortuig dat sy aankoms die liefde van sy gesin ontlok het. $\checkmark$<br><br>Die kandidaat bied 'n soortgelyke antwoord vir EEN punt aan.<br><br>**EN**<br><br>In raampie 6 besef hy dat hy, soos sy oupa gesê het, die volgende keer weer sal moet probeer om 'n goeie indruk te skep, omdat hy nie geskenke saamgebring het./nie 'n eerste goeie indruk gemaak het nie. $\checkmark$<br><br>Die kandidaat bied 'n soortgelyke antwoord vir EEN punt aan. | 1 |
+| | | **10** |
+
+---
+
+| VRAAG 5: ARTIKEL | | |
+| :--- | :--- | :---: |
+| **Vraag** | **Antwoord** | **Punt** |
+| 5.1 | "... op hulle koppe gedraai ... " $\checkmark$<br><br>**EN**<br><br>As die bottels leeg is, moet dit op hulle koppe gedraai word dat die laaste sous kan uitkom./Die dansers het op hulle koppe gedraai. $\checkmark$<br><br>Die kandidaat bied 'n soortgelyke antwoord vir EEN punt aan. | 1 |
+| 5.2 | Die boek is as geskik vir ses- tot negejariges beskryf. $\checkmark$ | 1 |
+| 5.3 | selfleesboek/hoofstukboek/voorleesboek $\checkmark$ | 1 |
+| 5.4 | Die sinne wat hulle gebruik, is meestal kort./Die sinne waarvan hulle praat, is meestal kort. $\checkmark$<br><br>Die kandidaat bied 'n soortgelyke bysin vir EEN punt aan. | 1 |
+| 5.5 | B/gesondheidsfanatikusse $\checkmark$ | 1 |
+| 5.6 | Die wurm spin die kokon van sy./Die rok is van duur sy gemaak. (s.nw.)/<br>Die meisie lê op haar sy. (s.nw.)/<br>Sy is die kind se ma. (pers.vnw.)/<br>Hoe dit ook al sy, ek weet jy is verkeerd. (ww.) $\checkmark$<br><br>Die kandidaat bied 'n soortgelyke antwoord vir EEN punt aan. | 1 |
+| 5.7 | :/dubbelpunt<br><br>**EN**<br><br>Na die dubbelpunt word verklaar/uitgebrei watter les uit die boek gelees kan word.<br><br>**OF**<br><br>-/aandagstreep<br><br>**EN**<br><br>Na die aandagstreep word uitgebrei/die aandag gevestig op watter les uit die boek gelees kan word.<br><br>**OF**<br><br>;/kommapunt<br><br>**EN**<br><br>Die kommapunt staan in die plek van 'n neweskikkende voegwoord/want/en wat weggelaat word.<br><br>**OF** | 1 |
+
+---
+
+| **Vraag** | **Antwoord** | **Punt** |
+| :--- | :--- | :---: |
+| | ( )/hakies $\checkmark$<br><br>**EN**<br><br>Die gedeelte binne die hakies gee meer inligting oor watter les uit die boek geleer kan word. $\checkmark$<br><br>Die kandidaat bied 'n soortgelyke antwoord vir EEN punt aan. | 1 |
+| 5.8 | Die bekendheid van die sprokies skep spanning. $\checkmark$ | 1 |
+| | | **10** |
+| | **TOTAAL AFDELING C:** | **30** |
+| | **GROOTTOTAAL:** | **70** |

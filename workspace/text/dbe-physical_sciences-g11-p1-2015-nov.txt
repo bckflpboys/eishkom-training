@@ -1,0 +1,809 @@
+=== page 1 ===
+Copyright reserved Please turn over
+
+MARKS:  150
+
+TIME:  3 hours
+
+This question paper consists of 16 pages and 2 data sheets.
+
+GRADE 11
+NATIONAL
+SENIOR CERTIFICATE
+PHYSICAL SCIENCES:  PHYSICS (P1)
+
+NOVEMBER 2015
+
+=== page 2 ===
+Physical Sciences/P1 2  DBE/November 2015
+CAPS – Grade 11
+Copyright reserved  Please turn over
+
+INSTRUCTIONS AND INFORMATION
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+Write your name and class  (for example 11A) in the appropriate spaces on
+the ANSWER BOOK.
+
+This question paper consists of 11 questions. Answer ALL the questions in
+the ANSWER BOOK.
+
+Start EACH question on a NEW page in the ANSWER BOOK.
+
+Number the answers correctly according to the numbering system used in this
+question paper.
+
+Leave ONE line between two subquestions, for example between
+QUESTION 2.1 and QUESTION 2.2.
+
+You may use a non-programmable calculator.
+
+You may use appropriate mathematical instruments.
+
+You are advised to use the attached DATA SHEETS.
+
+Show ALL formulae and substitutions in ALL calculations.
+
+Round off your final numerical answers to a minimum of TWO decimal places.
+
+Give brief motivations, discussions et cetera where required.
+
+Write neatly and legibly.
+
+=== page 3 ===
+Physical Sciences/P1 3  DBE/November 2015
+CAPS – Grade 11
+Copyright reserved  Please turn over
+
+QUESTION 1:  MULTIPLE-CHOICE QUESTIONS
+
+Four options are provided as possible answers to the following questions. Each
+question has only ONE correct answer. Choose the answer and write only the
+letter (A –D) next to the question number (1.1– 1.10) in the AN SWER BOOK, for
+example 1.11 E.
+
+1.1 Vector P and vector –P are acting on a common point O. The angle between
+the two vectors is ...
+
+ A
+
+B
+
+C
+
+D
+0o
+
+90o
+
+180o
+
+270o
+
+(2)
+
+1.2 The statements below refer to scalars and vectors:
+
+(i) Vectors can be added together but scalars cannot.
+(ii) A scalar quantity can be associated with direction.
+(iii) A vector quantity is always associated with direction.
+
+ Which of the statements above are TRUE?
+
+ A
+
+B
+
+C
+
+D
+(i) and (ii) only
+
+(ii) and (iii) only
+
+(i) only
+
+(iii) only
+
+(2)
+
+1.3 A net force, F, is applied on an object of mass m kg and causes an
+acceleration of a m∙s-2. When the net force, F, on the same object is doubled,
+the resulting acceleration, in m∙s-2, will be ...
+
+ A
+
+B
+
+C
+
+D
+a
+
+2
+3 a
+
+2a
+
+3a
+
+(2)
+
+=== page 4 ===
+Physical Sciences/P1 4  DBE/November 2015
+CAPS – Grade 11
+Copyright reserved  Please turn over
+
+1.4 A person stands on a bathroom scale in a stationary elevator. The reading on
+the scale is 490 N. When the elevator  is in motion, the reading on the scale
+changes to 470 N.
+
+Which ONE of the following combinations best describes the DIRECTION OF
+THE MOTION and the DIRECTION OF THE ACCELERATION of the elevator
+during the motion?
+
+  DIRECTION OF THE
+MOTION
+DIRECTION OF THE
+ACCELERATION
+
+ A Upwards Upwards
+ B Downwards Downwards
+ C Upwards Downwards and then upwards
+ D Downwards Upwards and then downwards   (2)
+
+1.5 A light ray is refracted when it travel s from air in to water. Which ONE of the
+following combinations relating to the DIRECTION OF THE REFRACT ED
+RAY and the SPEED OF THE LIGHT RAY is CORRECT?
+
+  DIRECTION OF THE
+REFRACTED RAY SPEED OF THE LIGHT RAY
+ A Towards the normal Decreases
+ B Away from the normal Decreases
+ C Towards the normal Increases
+ D Away from the normal Increases   (2)
+
+1.6 A learner  hiding behind an open door of a room  can hear people talking
+outside the room although he cannot see them. The reason for this is that ...
+
+ A
+
+B
+
+C
+
+D
+sound has a shorter wavelength than a light wave.
+
+sound has a longer wavelength than a light wave.
+
+light travels in straight lines while sound travels only around corners.
+
+the energy in a sound wave is less than the energy in a light wave.
+
+(2)
+
+=== page 5 ===
+Physical Sciences/P1 5  DBE/November 2015
+CAPS – Grade 11
+Copyright reserved  Please turn over
+
+1.7 The leaves of the electroscope in the diagram below are positively charged.
+
+ When an object is brought close to the plate, the leaves diverge more.
+We can therefore conclude that the object …
+
+ A
+
+B
+
+C
+
+D
+is positively charged.
+
+is negatively charged.
+
+is not charged at all.
+
+releases positive charges.
+
+(2)
+
+1.8 Two charged objects repel each other with a force F when they are separated
+by a distance d. The distance between the charges is reduced to 31 d.
+The new force, in terms of F, will now be ...
+
+ A
+
+B
+
+C
+
+D
+F
+
+3F
+
+6F
+
+9F
+
+(2)
+
+=== page 6 ===
+Physical Sciences/P1 6  DBE/November 2015
+CAPS – Grade 11
+Copyright reserved  Please turn over
+V
+I
+V
+I
+V
+I
+V
+I
+
+1.9 In the diagram below, the north pole of a bar magnet approaches end A of
+a solenoid.
+
+ Which ONE of the following statements about the pola rity of A and the
+direction of the magnetic field INSIDE the solenoid is CORRECT  as the
+NORTH POLE approaches A?
+
+  POLARITY OF A DIRECTION OF FIELD IN SOLENOID
+ A South pole A to B
+ B North pole B to A
+ C North pole A to B
+ D South pole B to A   (2)
+
+1.10 Which ONE of the following graphs best represents the relationship between
+current and potential difference for a conductor which obeys Ohm's Law?
+
+A
+
+B
+
+C
+
+D
+
+   (2)
+   [20]
+
+N S
+
+=== page 7 ===
+Physical Sciences/P1 7  DBE/November 2015
+CAPS – Grade 11
+Copyright reserved  Please turn over
+
+QUESTION 2   (Start on a new page.)
+
+Three forces, P, Q and R, of magnitudes 500 N, 200 N and 300 N respectively, act on
+a point O in the directions shown in the diagram below.
+
+The forces are NOT drawn to scale.
+
+2.1 Refer to the information  in the diagram above and give a reason why forces
+P, Q and R are classified as vectors.
+
+(2)
+
+2.2 Determine the magnitude and direction of the resultant force , either by
+CALCULATION or by ACCURATE CONSTRUCTION AND MEASUREMENT.
+(Use scale 10 mm = 50 N.)
+
+(8)
+   [10]
+
+O
+P = 500 N
+Q = 200 N
+R = 300 N
+10ο
+30ο
+60ο x
+y
+
+=== page 8 ===
+Physical Sciences/P1 8  DBE/November 2015
+CAPS – Grade 11
+Copyright reserved  Please turn over
+
+QUESTION 3   (Start on a new page.)
+
+A constant force, F, pulls a 50 kg block  at a constant speed over a rough horizontal
+surface, AB, as shown in the diagram below.  The coefficient of kinetic friction (μk)
+between the block and the surface is 0,4.
+
+3.1 Draw a labelled free -body diagram showing ALL the forces acting on the
+block.
+
+(4)
+
+3.2 State Newton's first law of motion in words.  (2)
+
+Calculate the magnitude of the:
+
+3.3 Force F  (6)
+
+3.4 Normal force  (2)
+
+3.5 Frictional force  (2)
+
+The same constant force, F, is now applied to the block over the same rough horizontal
+surface as before, but in the direction shown below.
+
+3.6 Give a reason why the block will move slower than before.  (2)
+   [18]
+
+ 50 kg 20o
+A B
+F
+ 50 kg 20o
+A B
+F
+
+=== page 9 ===
+Physical Sciences/P1 9  DBE/November 2015
+CAPS – Grade 11
+Copyright reserved  Please turn over
+
+QUESTION 4   (Start on a new page.)
+
+4.1 In the diagram below, a 2 kg block is connected to a 1 kg block by means of a
+light inextensi ble string. The blocks are pulled up an inclined plane, which
+forms an angle of  28o to the horizontal. The sides of the blocks which touch
+the inclined plane have the same area.
+
+The kinetic frictional force between the 1 kg block and the inclined plane is
+4 N while the kinetic frictional force between the 2 kg  block and the inclined
+plane is 8 N.
+
+ 4.1.1 Draw a labelled free-body diagram showing ALL the forces acting
+on the 1 kg block.
+
+(5)
+
+ 4.1.2 State Newton's second law of motion in words.  (2)
+
+ 4.1.3 Calculate the magnitude of the tension in the string connecting the
+blocks.
+
+(5)
+
+ The two blocks are interchanged so that the SAME 30 N force is now acting
+on the 2 kg block along the inclined plane, as shown in the diagram below.
+
+ 4.1.4 How will the a cceleration of the system change? Write down only
+INCREASE, DECREASE or REMAIN THE SAME.
+
+(1)
+
+ 4.1.5 How will the tension in the string connecting the two blocks
+change? Write down only INCREASE, DECREASE or REMAIN
+THE SAME.
+
+(1)
+
+1 kg
+2 kg
+
+28o
+30 N
+
+1 kg
+
+2 kg
+
+28o
+30 N
+
+=== page 10 ===
+Physical Sciences/P1 10  DBE/November 2015
+CAPS – Grade 11
+Copyright reserved  Please turn over
+
+4.2 In the diagram below, a 1 kg mass and a 2 kg mass are connected by an
+inextensible string  of negligible mass . The string is passed over a light
+frictionless pulley so that the masses hang down as shown.  Initially the
+system is held stationary.
+
+ 4.2.1 Draw a labelled free -body diagram showing ALL the forces acting on
+the 2 kg mass.
+
+(2)
+
+ 4.2.2 Calculate the time it will take the 1 kg mass to move a distance of 1 m
+when the system is released.
+
+(7)
+    [23]
+
+QUESTION 5   (Start on a new page.)
+
+Gravitational force exists between the sun and the Earth.
+
+5.1 State Newton's law of Universal Gravitation in words.  (2)
+
+5.2 The mass of the sun is 330  000 times greater than that of the Earth. The
+distance between the centres of the su n and the E arth is 1,38  x 109 m.
+Calculate the gravitational force that the sun exerts on the Earth.
+
+(4)
+
+5.3 How will the gravitational force that the Earth exerts on the Sun compare to
+the answer to QUESTION 5.2? Write only GREATER THAN, LESS THAN OR
+EQUAL TO. Give a reason for the answer.
+
+(2)
+   [8]
+
+2 kg
+1 kg
+
+=== page 11 ===
+Physical Sciences/P1 11  DBE/November 2015
+CAPS – Grade 11
+Copyright reserved  Please turn over
+
+QUESTION 6   (Start on a new page.)
+
+The table below shows accurate values for the refractive ind ices (relative to air) of
+some optical media obtained during refraction experiments. The optical densities of the
+media increase from water to diamond.
+
+MEDIUM REFRACTIVE INDEX
+Water 1,33
+Crown glass 1,52
+Cubic zirconium 2,20
+Diamond 2,42
+
+6.1 What important deduction about the relationship between a medium and its
+refractive index can be made from the information above?
+
+(2)
+
+6.2 Define the term refraction.  (2)
+
+The diagram below shows a light ray moving from medium A into water.
+
+6.3 Provide a suitable calculation to identify medium A.  (5)
+
+Light travels from water into crown glass.
+
+6.4 Will the refractive index of the crown glass relative to wat er be GREATER
+THAN, LESS THAN or  EQUAL TO the refractive index of crown glass  in the
+table above?
+
+(1)
+   [10]
+
+water
+medium A
+35°
+20,28°
+
+=== page 12 ===
+Physical Sciences/P1 12  DBE/November 2015
+CAPS – Grade 11
+Copyright reserved  Please turn over
+
+QUESTION 7   (Start on a new page.)
+
+The diagram below shows a light ray travelling through an optic al fibre. The fibre is
+made from two different glass material s known as t he core glass  and the outer
+cladding glass. These two types of glass materials have different refractive indices.
+
+7.1 State the TWO conditions necessary for total internal reflection to occur.  (4)
+
+7.2 Which part of the optical fibre will have a higher refractive index? Write down
+only CORE or CLADDING.
+
+(1)
+
+The refractive index of the core glass is 1,5.
+
+7.3 Calculate the critical angle for the boundary between the two glass materials.  (3)
+
+7.4 State TWO advantages of optical fibre cables over copper cables when used
+in telecommunication.
+
+(2)
+   [10]
+
+Cladding: n2
+i
+Core: n1
+
+=== page 13 ===
+Physical Sciences/P1 13  DBE/November 2015
+CAPS – Grade 11
+Copyright reserved  Please turn over
+
+QUESTION 8   (Start on a new page.)
+
+8.1 All types of waves undergo diffraction.
+
+ 8.1.1 Define the term diffraction.  (2)
+
+ 8.1.2 State the condition necessary for diffraction to occur in a single slit.  (2)
+
+8.2 Light of wavelength 460 nm passes through a single slit of width 7 x 10-6 m.
+A diffraction pattern is observed on a screen, as shown in the diagram below.
+
+ 8.2.1 Describe the pattern observed on the screen.  (2)
+
+ 8.2.2 Describe how each of the following changes will affect t he width
+(broadness) of portion X in the diagram above:
+
+  (a)
+
+(b)
+Light of wavelength 470  nm is used while the slit width is kept
+constant
+
+The slit width is changed to 7 x 10-7 m while the origin al
+wavelength is left unchanged
+
+(1)
+
+(1)
+[8]
+X
+screen
+slit
+
+=== page 14 ===
+Physical Sciences/P1 14  DBE/November 2015
+CAPS – Grade 11
+Copyright reserved  Please turn over
+
+QUESTION 9   (Start on a new page.)
+
+9.1 Two identical  metal spheres, P and Q, separated by a distance d, are
+suspended from an insulated rigid wooden bar , as shown in the diagram
+below. The charge on the spheres are –4 μC and +8 μC respectively.
+
+ 9.1.1 Sphere Q experiences an electrostatic force.
+
+In which direction will sphere Q move? Write down only TO THE
+LEFT or TO THE RIGHT.
+
+(1)
+
+ The spheres are now made to touch and are then separated.
+
+ 9.1.2 Were electrons REMOVED FROM  or TRANSFERRED TO  P?
+Give a reason for the answer.
+
+(2)
+
+ 9.1.3 Calculate the distance d between the two spheres if the magnitude
+of the force experienced by P is 0,8 N.
+
+(3)
+
+9.2 Charges of +4 μC and –3 μC are placed a distance 0,2  m apart on a
+straight line , as shown below . Point P  is located 0,1 m to the right of the
+–3 μC charge.
+
+ Calculate the:
+
+ 9.2.1 Net electric field at point P  (5)
+
+ 9.2.2 Mass of a + 6 μC charge placed at P that will experience an
+acceleration of magnitude 5 x 102 m∙s-2  (3)
+    [14]
+
+d
+–4 μC
+P
+ +8 μC
+Q
+x
+0,1 m
+P +4 μC –3 μC
+ 0,2 m
+
+=== page 15 ===
+Physical Sciences/P1 15  DBE/November 2015
+CAPS – Grade 11
+Copyright reserved  Please turn over
+
+QUESTION 10   (Start on a new page.)
+
+10.1 The arrangement of apparatus to demonstrate Faraday's law of
+electromagnetic induction is shown below.
+
+ 10.1.1 State Faraday's law of electromagnetic induction in words.  (2)
+
+ 10.1.2 State TWO ways in which the deflection on the galvanometer can be
+increased.
+
+(2)
+
+10.2 A coil with area 0,6  m2 is held with its  axis coinciding with the direction of a
+magnetic field of strength 0,4 T.
+
+ 10.2.1 Calculate the magnetic flux linkage.  (3)
+
+ In order to produce an emf of 9 V , the area of the coil, with its axis coinciding
+with the direction of a magnetic field,  is halved from 0,6 m 2 to 0,3 m 2 in
+2 minutes.
+
+ 10.2.2 Calculate the number of turns in the coil.  (4)
+    [11]
+magnet
+
+=== page 16 ===
+Physical Sciences/P1 16  DBE/November 2015
+CAPS – Grade 11
+Copyright reserved
+
+QUESTION 11   (Start on a new page.)
+
+11.1 The circuit below is used to determine the resistance of resistor X.
+
+ The 12 V battery has negligible internal resistance. When switch S is closed,
+the reading on the ammeter is 0,5 A.
+
+ 11.1.1 State Ohm's law in words.  (2)
+
+ 11.1.2 Calculate the resistance of resistor X.  (5)
+
+11.2 Study the circuit below. The battery has an emf of 12 V with negligible internal
+resistance.
+
+ Switch S is closed.
+
+ 11.2.1 Write down the potential difference across the 4 Ω resistor.  (1)
+
+ 11.2.2 Calculate the reading on the ammeter.  (5)
+
+ 11.2.3 Calculate the energy dissipated in the 12 Ω resistor in 2 minutes.  (5)
+   [18]
+
+ TOTAL:  150
+
+A
+
+12 V
+8 Ω 12 Ω
+4 Ω
+16 Ω
+● ●
+S
+●
+●
+A X 8 Ω
+S
+12 V
+
+=== page 17 ===
+Physical Sciences/P1   DBE/November 2015
+CAPS – Grade 11
+Copyright reserved
+
+DATA FOR PHYSICAL SCIENCES GRADE 11
+PAPER 1 (PHYSICS)
+
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 11
+VRAESTEL 1 (FISIKA)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Acceleration due to gravity
+Swaartekragversnelling g 9,8 m·s-2
+Gravitational constant
+Swaartekragkonstante G 6,67 x 10-11 N⋅m2⋅kg-2
+Radius of Earth
+Straal van Aarde RE 6,38 x 106 m
+Coulomb's constant
+Coulomb se konstante K 9,0 x 109 N⋅m2·C-2
+Speed of light in a vacuum
+Spoed van lig in 'n vakuum c 3,0 x 108 m·s-1
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Electron mass
+Elektronmassa me 9,11 x 10-31 kg
+Mass of the earth
+Massa van die Aarde  M 5,98 x 1024 kg
+
+TABLE 2:  FORMULAE/TABEL 2:  FORMULES
+
+MOTION/BEWEGING
+
+tavv if ∆+=  221i tatvx ∆+∆=∆
+xa2vv
+2
+i
+2
+f ∆+=   t2 vvx if ∆ +=∆
+
+FORCE/KRAG
+
+ma=Fnet  w = mg
+2
+21
+r
+mGmF=
+N
+f (max)s
+s =µ
+N
+fk
+k =µ
+
+=== page 18 ===
+Physical Sciences/P1   DBE/November 2015
+CAPS – Grade 11
+Copyright reserved
+
+WAVES, SOUND AND LIGHT/GOLWE, KLANK EN LIG
+
+λ= fv
+f
+1T=
+rrii sinnsinn θ=θ   vcn=
+
+ELECTROSTATICS/ELEKTROSTATIKA
+
+2
+21
+r
+QkQ=F          (k = 9,0 x 109 N⋅m2·C-2) qF=E
+2r
+kQE=              (k = 9,0 x 109 N⋅m2·C-2)
+e
+Q=n
+
+ELECTROMAGNETISM/ELEKTROMAGNETISME
+
+tN ∆∆Φ−=ε  θ=Φ cosBA
+
+ELECTRIC CIRCUITS/ELEKTRIESE STROOMBANE
+
+t
+QI ∆=  IVR=
+...r1r1r1R1 321 +++=  ...rrrR 321 +++=
+W = Vq
+
+W = VI∆ t
+
+W= I2R∆ t
+
+W= RΔtV2
+Δt
+WP=
+
+P = VI
+
+P = I2R
+
+R
+VP 2=

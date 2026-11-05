@@ -1,0 +1,806 @@
+=== page 1 ===
+Kopiereg voorbehou  Blaai om asseblief
+
+PUNTE:  150
+
+TYD:  3 uur
+
+Hierdie vraestel bestaan uit 15 bladsye en 2 gegewensblaaie.
+
+GRAAD 11
+NASIONALE
+SENIOR SERTIFIKAAT
+FISIESE WETENSKAPPE:  FISIKA (V1)
+
+NOVEMBER 2018
+
+=== page 2 ===
+Fisiese Wetenskappe/V1 2 DBE/November 2018
+ KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+INSTRUKSIES EN INLIGTING
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+Skryf jou naam en klas ( bv. 11A) in die toep aslike ruimte s op die
+ANTWOORDEBOEK.
+
+Hierdie vraestel bestaan uit 12  vrae. Beantwoord AL die vrae in die
+ANTWOORDEBOEK.
+
+Begin ELKE vraag op 'n NUWE bladsy in die ANTWOORDEBOEK.
+
+Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie
+vraestel gebruik is.
+
+Laat EEN reël tussen twee subvrae oop, bv. tussen VRAAG 2.1 en VRAAG
+2.2.
+
+Jy mag 'n nieprogrammeerbare sakrekenaar gebruik.
+
+Jy mag toepaslike wiskundige instrumente gebruik.
+
+Jy word aangeraai om die aangehegte GEGEWENSBLAAIE te gebruik.
+
+Toon ALLE formules en substitusies in ALLE berekeninge.
+
+Rond jou FINALE numeriese antwoorde tot ' n minimum van TWEE desimale
+plekke af.
+
+Gee kort (bondige) motiverings, besprekings, ens. waar nodig.
+
+Skryf netjies en leesbaar.
+
+=== page 3 ===
+Fisiese Wetenskappe/V1 3 DBE/November 2018
+KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 1:  MEERVOUDIGEKEUSE-VRAE
+
+Verskeie opsies word as moontlike antwoorde op die volgende vrae gegee. Kies die
+antwoord en skryf slegs die letter (A –D) langs die vraagnommer s (1.1 tot 1.10) in die
+ANTWOORDEBOEK neer, bv. 1.11 D.
+
+1.1 Twee kragte, F1 en F2, werk op 'n punt in. Indien F1 en F2 in dieselfde rigting
+werk, het die maksimum resultant ' n grootte van 13 N. Indien kragte F 1 en F2
+in teenoorgestelde rigtings werk, is die grootte van die minimum resultant 3 N.
+Die grootte van die twee kragte, in newton, is …
+
+A
+
+B
+
+C
+
+D
+8 en 5.
+
+16 en 10.
+
+3 en 10.
+
+10 en 7.
+
+(2)
+
+1.2 'n Vrybewegende blok gly teen 'n skuinsvlak af teen 'n KONSTANTE
+SNELHEID. Dit beteken dat die …
+
+ A
+
+B
+
+C
+
+D
+wrywingskrag wat op die blok inwerk, nul is.
+
+netto krag wat op die blok inwerk in die rigting  afwaarts teen die helling
+van die vlak is.
+
+netto krag wat op die blok inwerk, nul is.
+
+komponent van gewig parallel aan die vlak , groter as die wrywingskrag
+is.
+
+(2)
+
+1.3 'n Trollie word met 'n krag van 150 N  teen 'n hoek van  45º met die
+horisontaal, oor 'n horisontale oppervlak gestoot. Die trollie ondervind 'n
+konstante wrywingskrag van 60 N.
+
+ Die NETTO KRAG wat op die trollie inwerk:
+
+(i) Veroorsaak dat die trollie horisontaal versnel
+(ii) Is aan die toegepaste krag gelyk
+(iii) Is horisontaal vorentoe
+
+Watter van die stellings hierbo is KORREK?
+
+ A
+
+B
+
+C
+
+D
+(i) en (ii)
+
+(ii) en (iii)
+
+(i) en (iii)
+
+(i), (ii) en (iii)
+
+150 N
+60 N
+45º
+
+=== page 4 ===
+Fisiese Wetenskappe/V1 4 DBE/November 2018
+KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+1.4 'n Man in 'n hysbak beweeg opwaarts teen 'n KONSTANTE SPOED.
+Die gewig van die man is W. Volgens Newton se Derde W et is die
+reaksiekrag van die gewig W die krag van die …
+
+ A
+
+B
+
+C
+
+D
+vloer op die man.
+
+Aarde op die man.
+
+man op die vloer.
+
+man op die Aarde.
+
+(2)
+
+1.5 Die optiese digtheid van 'n medium …
+
+ A
+
+B
+
+C
+
+D
+sal hoog wees indien die refraksie van lig minder is.
+
+is 'n aanduiding van die brekingskrag van die medium.
+
+is minder wanneer die lig na die normaal bu ig wanneer dit die medium
+binnegaan.
+
+sal hoog wees indien lig vinniger deur die medium beweeg.
+
+(2)
+
+1.6 In watter EEN van die grafieke hieronder sal die helling die brekingsindeks
+van 'n materiaal voorstel wanneer lig van die lug deur die materiaal beweeg?
+
+ A
+
+B
+
+ C
+
+D
+(2)
+θr
+θi
+sin θi
+sin θr
+sin θr
+sin θi θr
+θi
+
+=== page 5 ===
+Fisiese Wetenskappe/V1 5 DBE/November 2018
+KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+1.7 Elke punt op 'n golffront tree as 'n puntbron van sferiese, sekondêre golwe op
+wat teen dieselfde spoed as die golf voorwaarts  beweeg. Hierdie stelling
+verteenwoordig …
+
+ A
+
+B
+
+C
+
+D
+Snell se wet.
+
+Huygens se beginsel.
+
+refraksie.
+
+die wet van weerkaatsing.
+
+(2)
+
+1.8 Drie ladings met grootte s van +2q, +2q en  -2q word in die skets hieronder
+getoon.
+
+ Watter pyltjie dui die rigting van die NETTO KRAG wat op lading -2q inwerk,
+KORREK aan?
+
+ A
+
+B
+
+ C
+
+D
+(2)
+
+1.9 Watter EEN van die sketse hieronder stel die KORREKTE
+magneetveldpatroon rondom 'n reguit stroomdraende geleier voor?
+
+ A
+
+B
+
+ C
+
+D
+(2)
+d
+d
++2q
++2q -2q
+
+=== page 6 ===
+Fisiese Wetenskappe/V1 6 DBE/November 2018
+KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+1.10 Watter EEN van die grafieke hieronder stel die verhouding tussen
+potensiaalverskil en stroom in 'n nie-ohmiese weerstand KORREK voor?
+
+ A
+
+B
+
+ C
+
+D
+(2)
+    [20]
+
+I (A)
+V
+(V)
+I (A)
+V
+(V)
+I (A)
+V
+(V)
+I (A)
+V
+(V)
+
+=== page 7 ===
+Fisiese Wetenskappe/V1 7 DBE/November 2018
+KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 2 (Begin op 'n nuwe bladsy.)
+
+Twee kragte, met groottes van 50 N en 80 N, werk op 'n punt op 'n Cartesiese vlak in,
+in die rigtings wat in die skets hieronder getoon word.
+
+2.1 Gee die korrekte term vir die volgende beskrywing:
+
+'n Enkele vektor wat dieselfde effek as twee of meer vektore saam het
+
+(1)
+
+2.2 Bereken die:
+
+ 2.2.1 Grootte van die vertikale komponent van die 50 N  (2)
+
+ 2.2.2 Grootte van die resultante (netto) krag  (5)
+
+ 2.2.3 Rigting van die resultante (netto) krag  (2)
+   [10]
+
+30º
+50 N
+80 N
+
+=== page 8 ===
+Fisiese Wetenskappe/V1 8 DBE/November 2018
+KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 3 (Begin op 'n nuwe bladsy.)
+
+'n Houer, met 'n massa van 45 kg, word met 'n krag van 90 N teen 'n hoek van 50º met
+die horisontaal getrek. Die houer beweeg teen 'n KONSTANTE SNELHEID.
+
+3.1 Definieer die term kinetiese wrywingskrag.  (2)
+
+3.2 Stel Newton se Eerste Bewegingswet in woorde.  (2)
+
+3.3 Bereken die grootte van die horisontale komponent van die toegepaste krag.  (2)
+
+3.4 Bereken die grootte van die normaalkrag.  (4)
+
+3.5 Bereken die koëffisiënt van kinetiese wrywing.  (4)
+
+3.6 Sal die koëffisiënt van kinetiese wrywing verander indien die hoek van die
+toegepaste krag verklein word? Skryf slegs JA of NEE en gee 'n rede.
+
+(2)
+   [16]
+
+50º
+90 N
+
+45 kg
+
+=== page 9 ===
+Fisiese Wetenskappe/V1 9 DBE/November 2018
+KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 4 (Begin op 'n nuwe bladsy.)
+
+Leerders ondersoek die verhouding tussen die massa van 'n voorwerp en die
+versnelling wat dit ondervind wanneer 'n konstante netto krag op die voorwerp
+toegepas word. Hulle gebruik hulle resultate om die grafiek hieronder te teken.
+
+4.1 Stel Newton se Tweede Bewegingswet in woorde.  (2)
+
+4.2 Bereken die helling van die grafiek.  (3)
+
+4.3 Bepaal vervolgens die netto krag wat gedurende die eksperiment op die
+voorwerp toegepas is.
+
+(2)
+
+4.4 Skryf 'n gevolgtrekking vir hierdie eksperiment neer.  (2)
+   [9]
+
+Grafiek van die omgekeerde van versnelling teenoor massa
+3
+
+2,5
+
+2
+
+1,5
+
+1
+
+0,5
+
+0
+0           0,25         0,5           0,75          1          1,25          1,5          m (kg)
+ (m·s-2)-1 1 a
+
+=== page 10 ===
+Fisiese Wetenskappe/V1 10 DBE/November 2018
+KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 5 (Begin op 'n nuwe bladsy.)
+
+'n Krat , met 'n massa van 25 kg , gly teen 'n vlak af wat  'n helling van 15º met die
+horisontaal het. Tydens die eerste gedeelte van die beweging, van A na B, is daar
+geen wrywing tussen die krat en die vlak nie, maar gedeelte BC het 'n ruwe oppervlak.
+
+5.1 Teken 'n vrye kragtediagram van AL die kragte wat op die krat inwerk terwyl
+dit van B na C beweeg.
+
+(3)
+
+5.2 Bereken die grootte van die versnelling van die krat terwyl dit van A na B
+beweeg.
+
+(4)
+
+5.3 Skryf die rigting van die versnelling van die krat neer terwyl dit van B na C
+stadiger beweeg. Skryf slegs TEEN DIE HELLING OP of TEEN DIE HELLING
+AF.
+
+(1)
+
+5.4 Die grootte van die netto versnelling van B na C is 1,2 m·s-2. Bereken die
+grootte van die wrywingskrag wat op die krat inwerk.
+
+(4)
+   [12]
+
+VRAAG 6 (Begin op 'n nuwe bladsy.)
+
+Die gravitasie krag op 'n tuig , met die naam Curiosity, op die oppervlak van  Mars
+is 3 338 N. Die r adius van Mars is 3  390 km en die massa van die planeet  is
+6,39 x 1023 kg.
+
+6.1 Stel Newton se Universele Gravitasiewet in woorde.  (2)
+
+6.2 Bereken die massa van die tuig.  (4)
+
+6.3 Bereken die gewig van die tuig op die Aarde.  (2)
+   [8]
+15º
+A
+B
+C
+25 kg
+15º
+
+=== page 11 ===
+Fisiese Wetenskappe/V1 11 DBE/November 2018
+KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 7 (Begin op 'n nuwe bladsy.)
+
+'n Glasprisma word op die bodem van 'n houer, gevul met water, geplaas. 'n Ligstraal
+beweeg vanaf die lug deur die water en in die glasprisma in. Die ligstraal verander van
+rigting elke keer as dit in 'n nuwe medium inbeweeg.
+
+7.1 Noem die verskynsel wat deur die onderstreepte woorde hierbo beskryf word.   (1)
+
+7.2 Indien die brekingsindeks va n water en lug onderskeidelik 1,33 en 1 is ,
+bereken die hoek θ tussen die ligstraal en die OPPERVLAK VAN DIE
+WATER indien die brekingshoek in die water 40º is.
+
+(4)
+
+7.3 Die brekingshoek in die glas is 35º. Bereken die brekingsindeks van glas.  (3)
+
+7.4 Teken die skets hieronder en voltooi die diagram van die pad van die ligstraal
+vanaf die lug na die water na die glas. Dui AL die waardes van die
+invalshoeke, brekingshoeke en normaal in ELKE medium aan.
+
+   (5)
+
+7.5 Bereken die spoed van lig deur die glasprisma indien die brekingsindeks van
+glas 1,5 is.
+
+(3)
+
+7.6 Is dit moontlik dat totale interne weerkaatsing van die ligstraal in die situasie
+hierbo kan plaasvind? Skryf slegs JA of NEE.
+
+(1)
+   [17]
+θ lug
+water
+glas
+θ
+lug
+water
+glas
+
+=== page 12 ===
+Fisiese Wetenskappe/V1 12 DBE/November 2018
+KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 8 (Begin op 'n nuwe bladsy.)
+
+'n Eksperiment word uitgevoer om die effek van golflengte op die mate van diffraksie
+te ondersoek. Monochromatiese lig skyn deur 'n spleet met 'n wydte van 0,002 mm en
+die patroon wat vorm, word op 'n skerm getoon.
+
+8.1 Definieer die term diffraksie.  (2)
+
+8.2  Skryf 'n ondersoekende vraag vir hierdie eksperiment neer.   (2)
+
+Die mate van diffraksie vir verskillende kleure monochromatiese  lig word aangeteken
+en die resultate word op die grafiek hieronder getoon.
+
+8.3 Skryf die wiskundige verband tussen golflengte en die mate van diffraksie
+neer.
+
+(2)
+
+8.4  Watter kleur lig, ROOI of GROEN, het die grootste mate van diffraksie?  (1)
+
+Die eksperiment word herhaal met slegs groen lig met 'n golflengte van 560 nm, maar
+die spleetwydte word verander en die mate van diffraksie word aangeteken.
+
+8.5 Teken die stel asse hieronder in jou ANTWOORDEBOEK oor en t rek 'n
+grafiek om die verband tussen spleetwydte en mate van diffraksie te toon.
+
+(2)
+[9]
+Golflengte (nm)
+Mate van
+diffraksie
+Spleetwydte (mm)
+Mate van
+diffraksie
+Spleet
+Monochromatiese
+ligstraal
+Skerm
+
+=== page 13 ===
+Fisiese Wetenskappe/V1 13 DBE/November 2018
+KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 9 (Begin op 'n nuwe bladsy.)
+
+'n Klein geïsoleerde sfeer A, met 'n massa van 0,2 g, wat 'n lading van +7 x 10-9 C dra,
+hang vanaf ' n horisontale oppervlak  aan 'n toutjie met weglaatbare massa. 'n Tweede
+sfeer B , met 'n lading van -8 x 10 -9 C, op 'n geïsole erde staander, trek sfeer A aan
+sodat die toutjie 'n hoek van 20º met die vertikaal maak. Die horisontale afstand tussen
+die middelpunte van die sfere is 3 cm. Verwys na die diagram hieronder.
+
+9.1 Stel Coulomb se wet in woorde.  (2)
+
+9.2 Teken 'n VEKTORDIAGRAM van die  kragte wat op sfeer A inwerk. Dui ten
+minste EEN hoek aan.
+
+(4)
+
+9.3 Bereken die grootte van die elektrostatiese krag wat sfeer B op sfeer A
+uitoefen.
+
+(4)
+
+9.4 Bereken die grootte van die spanningskrag in die toutjie.  (3)
+   [13]
+
+VRAAG 10 (Begin op 'n nuwe bladsy.)
+
+Twee punte, P en T, is 3 mm van mekaar in die elektriese veld van positiewe lading Q ,
+soos hieronder getoon.
+
+10.1 Teken die elektrieseveld-patroon rondom lading Q.  (2)
+
+Die grootte van die elektriese veld by punt P is 4 x 106 N·C-1 en by punt T is die grootte
+2,5 x 105 N·C-1.
+
+10.2 Bereken:
+
+ 10.2.1 Die verhouding van die elektriese veld by punt P tot die elektriese
+veld by punt T. Skryf die antwoord as EP : ET.
+
+(1)
+
+ 10.2.2 Die afstand tussen lading Q en punt P  (4)
+
+ 10.2.3 Die grootte van lading Q  (2)
+   [9]
+20º
+A B
+3 cm
+-8 x 10-9 C
++7 x 10-9 C
+Q              P                         T
++
+3 mm
+
+=== page 14 ===
+Fisiese Wetenskappe/V1 14 DBE/November 2018
+KABV – Graad 11
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 11 (Begin op 'n nuwe bladsy.)
+
+'n VIERKANTIGE induksiespoel , met 'n sylengte van 3 cm en 400 windings , word
+loodreg in ' n uniforme magneetveld geplaas en dan in 0,08 s  deur 'n hoek van
+45º geroteer.
+
+'n Emk van 7 V word in die spoel geïnduseer.
+
+11.1 Stel Faraday se wet van elektromagnetiese induksie in woorde.  (2)
+
+11.2 Bereken die verandering in die magnetiese vloed.  (3)
+
+11.3 Bereken die grootte van die magnetiese veld.  (4)
+
+Die spoel word nou in 0,05 s deur 'n hoek van 45º geroteer.
+
+11.4 Hoe sal die geïnduseerde emk beïnvloed word?  Skryf slegs NEEM  TOE,
+NEEM AF of BLY DIESELFDE.
+
+(1)
+
+11.5 Verduidelik die antwoord op VRAAG 11.4.  (1)
+
+Die noordpool van 'n staafmagneet word in 'n solenoïde inbeweeg, soos in die skets
+hieronder getoon.
+
+11.6 Watter pool sal by punt X geïnduseer word? Skryf slegs NOORD of SUID.  (1)
+
+11.7 In watter rigting sal die geïn duseerde stroom vloei? Skryf slegs VAN A NA B
+of VAN B NA A.
+
+(1)
+   [13]
+
+N
+
+S
+A B
+X N
+
+=== page 15 ===
+Fisiese Wetenskappe/V1 15 DBE/November 2018
+ KABV – Graad 11
+Kopiereg voorbehou
+
+VRAAG 12 (Begin op 'n nuwe bladsy.)
+
+Bestudeer die stroombaandiagram hieronder. Die interne weerstand van die battery en
+enige weerstand in die drade kan geïgnoreer word.
+
+12.1 Bereken die waarde van resistor R i ndien die totale weerstand van die
+stroombaan 4,8 Ω is.
+
+(3)
+
+12.2 Bereken die lesing op die v oltmeter i ndien die stroom deur die 4R-resistor
+1,8 A is.
+
+(5)
+.
+12.3 Bereken die energie wat in 2 minute in resistor 4R omgeskakel is.   (3)
+
+Die 4R-resistor word met 'n ammeter vervang.
+
+12.4 Hoe sal die lesing op die voltmeter beïnvloed word? Skryf slegs NEEM TOE,
+NEEM AF of BLY DIESELFDE.
+
+(1)
+
+12.5 Verduidelik die antwoord op VRAAG 12.4.  (2)
+   [14]
+
+ TOTAAL:  150
+
+R
+3R
+2R
+4R
+V
+
+=== page 16 ===
+Fisiese Wetenskappe/V1 1 DBE/November 2018
+ KABV – Graad 11
+Kopiereg voorbehou
+
+DATA FOR PHYSICAL SCIENCES GRADE 11
+PAPER 1 (PHYSICS)
+
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 11
+VRAESTEL 1 (FISIKA)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Acceleration due to gravity
+Swaartekragversnelling g 9,8 m·s-2
+Gravitational constant
+Swaartekragkonstante G 6,67 x 10-11 N⋅m2⋅kg-2
+Radius of Earth
+Radius van die Aarde RE 6,38 x 106 m
+Coulomb's constant
+Coulomb se konstante k 9,0 x 109 N⋅m2·C-2
+Speed of light in a vacuum
+Spoed van lig in 'n vakuum c 3,0 x 108 m·s-1
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Electron mass
+Elektronmassa me 9,11 x 10-31 kg
+Mass of Earth
+Massa van die Aarde  M 5,98 x 1024 kg
+
+TABLE 2:  FORMULAE/TABEL 2:  FORMULES
+
+MOTION/BEWEGING
+
+ 221i tatvx ∆+∆=∆
+xa2vv
+2
+i
+2
+f ∆+=   t2 vvx if ∆ +=∆
+
+KRAG/KRAG
+
+ma=Fnet  w = mg
+2
+21
+r
+mGmF=
+N
+f
+=μ
+)maks(max/s
+s
+N
+fk
+k =µ
+
+tavv if ∆+=
+
+=== page 17 ===
+Fisiese Wetenskappe/V1 2 DBE/November 2018
+KABV – Graad 11
+Kopiereg voorbehou
+
+WAVES, SOUND AND LIGHT/GOLWE, KLANK EN LIG
+
+λ= fv
+f
+1T=
+rrii sinnsinn θ=θ   vcn=
+
+ELECTROSTATICS/ELEKTROSTATIKA
+
+2
+21
+r
+QkQF=         (k = 9,0 x 109 N⋅m2·C-2) qFE =
+2r
+kQE =             (k = 9,0 x 109 N⋅m2·C-2)
+e
+Q=n
+
+ELECTROMAGNETISM/ELEKTROMAGNETISME
+
+tN ∆∆Φ−=ε  θ=Φ cosBA
+
+ELECTRIC CIRCUITS/ELEKTRIESE STROOMBANE
+
+t
+QI ∆=  IVR=
+...r1r1r1R1 321 +++=  ...rrrR 321 +++=
+W = Vq
+
+W = VI∆ t
+
+W = I2R∆ t
+
+W = RΔtV2
+Δt
+WP=
+
+P = VI
+
+P = I2R
+
+R
+VP 2=

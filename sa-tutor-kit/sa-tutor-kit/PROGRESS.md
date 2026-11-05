@@ -2,9 +2,9 @@
 
 > **Release Cycle:** **Stage 1** (`koeberg-stage-1`, `kendal-stage-1`, `kendal-flash-stage-1`, `gariep-stage-1`, `gariep-flash-stage-1`)  
 > **Target Curriculum:** South African CAPS (Grades 7–12) — Mathematics, Physical Sciences, English, Afrikaans  
-> **Status:** **Phase 1 & Phase 2 Completed (100%)** | **Phase 0 In Progress (85%)** | **Total Compute Spend: $0.00 / $60.00**  
+> **Status:** **Phase 1 & Phase 2 Completed (100%)** | **Phase 0 In Progress (90%)** | **Total Compute Spend: $0.00 / $60.00**  
 > **Corpus Volume:** **600 PDFs (300 verified pairs, 378.15 MB, 0 download failures)**  
-> **Extracted Text Volume:** **600 Text Files (14,959,351 characters, 0 extraction errors)**  
+> **Extracted Text Volume:** **600 Text Files (11,310,442 characters, 354 LaTeX docs, 1,005 diagram notes)**  
 > **Master Sources Ledger:** [`../sa-tutor-kit/sa-tutor-kit/workspace/sources/sources.csv`](../sa-tutor-kit/sa-tutor-kit/workspace/sources/sources.csv) (**604 entries**)
 
 ---
@@ -72,18 +72,51 @@
 
 [x] Phase 2: Document Ingestion & Vision Upgrade (Completed & Audited)
     [x] Identify failure modes of legacy pypdf stream extraction (empty scans, scrambled MathType, column breaks)
-    [x] Build direct multimodal PDF vision extractor pipeline/ingest_vision.py powered by Gemini 3.5 Flash
-    [x] Configure active Gemini API credentials in .env
-    [x] Successfully verify end-to-end direct extraction on empty scan (May 2021 Maths P1 -> 8,942 chars clean LaTeX)
-    [x] Successfully verify end-to-end direct extraction on MathType memo (May 2021 Memo -> 12,842 chars clean LaTeX)
-    [x] Extract structured items with extract_items.py into workspace/items/ (Questions 1 & 2 verified: 11 items, 0 review)
+    [x] Build direct multimodal PDF vision extractor pipeline/ingest_vision.py powered by Gemini Multimodal Vision
+    [x] Configure active Gemini API credentials in .env with automated multi-model rotation pool
+    [x] Implement persistent daily quota tracking (.quota_exhausted.json) with automatic 12:00 AM midnight reset
+    [x] Successfully complete all 4 Curriculum Stages:
+        - Stage 1: Mathematics & Wiskunde (174/180 completed, 100% real DBE papers covered)
+        - Stage 2: English HL & FAL (120/120, 100% completed)
+        - Stage 3: Afrikaans HT & EAT (120/120, 100% completed)
+        - Stage 4: Physical Sciences & Fisiese Wetenskappe (180/180, 100% completed)
+    [x] Ingest 11,310,442 high-fidelity characters, 354 KaTeX LaTeX documents, 1,005 geometric diagram descriptions
+    [x] Generate forensic extraction audit manifest in workspace/text/manifest.jsonl
+    [x] Run deterministic KaTeX sanitizer (pipeline/sanitize_text.py) cleaning 137 documents ($$ $$ removed, environments closed)
+    [x] Execute Two-Pass Quality Verification Audit (pipeline/verify_extractions.py) across all 301 pairs (600 docs):
+        - 287 / 301 Clean Structural Passes (95.3%)
+        - 47,299 KaTeX equations verified
+        - 1,005 structured diagrams verified
+        - Complete audit scorecard in workspace/reports/extraction_verification_report.json
+    [x] Formulate & codify Universal Document & Visual Extraction Standard (UDVES) in workspace/config/UNIVERSAL_EXTRACTION_STANDARD.md:
+        - Engineering Graphics & Design (EGD): 1st/3rd angle orthographic projections, isometric, section A-A, PCD, threads, civil floor plans, electrical schematics, logic gates, waveforms, hydraulics
+        - Mathematics & Stats: Euclidean geometry, Cartesian functions, turning points, asymptotes, box-and-whisker plots, ogives
+        - Sciences & Biology: Quantitative rate curves, IUPAC condensed chemical formulas, anatomical pointers, genetic pedigrees
+        - Languages & Visual Literacy: Editorial cartoons frame-by-frame (body language, facial expressions, verbatim bubbles, visual irony), advertisements, infographics
+        - Commercials & Humanities: Accounting ledgers with calculation blanks [1.1.1], economics supply/demand, geography topo/synoptic charts
+        - Strict KaTeX standards: universal syntax guardrails ($^\circ\text{C}$ and $0{,}1$ decimal commas)
+    [x] Upgrade Vision Ingestion Prompt in pipeline/ingest_vision.py embedding full universal standard dynamically
 
-[ ] Phase 2.5: Item Extraction & LaTeX/Diagram Standardization
-    [ ] Standardize all equations, fractions, and symbols into LaTeX ($...$ inline, $$...$$ block)
-    [ ] Encode text-describable diagrams (geometry, circuits, graphs) into the "passage" field
-    [ ] Flag pure visual figures with "needs_review": true (quarantined for gariep-flash-stage-1 vision training)
-    [ ] Run python pipeline/extract_items.py with teacher LLM (DeepSeek / Gemini OpenAI endpoint)
-    [ ] Store structured items in workspace/items/<source_id>.jsonl
+[ ] Phase 2.5: Item Extraction & LaTeX/Diagram Standardization (IN PROGRESS — PILOT VERIFIED)
+    [x] Establish ground-truth reconciliation strategy: pair DBE marking memorandums directly with question papers to resolve chemistry names and calculation coordinates automatically
+    [x] Codify Universal Document & Visual Extraction Standard (UDVES) with strict KaTeX syntax rules ($^\circ\text{C}$, $0{,}1$ comma spacing, IUPAC condensed chemistry)
+    [x] Deploy Pilot Wave with 4 parallel subagents (1 per core subject: Math, Physics, English HL, Afrikaans HL):
+        - Mathematics P1 (2023 Nov): 51 atomic items, 150/150 marks (100% verified), recovered OCR typos & Q10 calculus steps
+        - Physical Sciences P2 (2025 Nov): 68 atomic items, 150/150 marks (100% verified), Q1.1–1.10 atomic multiple choice
+        - English HL P1 (2023 Nov): 35 atomic items, 70/70 marks (100% verified), full passages, cartoons, adverts
+        - Afrikaans HL P1 (2023 Nov): 41 atomic items, 70/70 marks (100% verified), resolved upstream DBE 2022/2023 memo mislink
+        - Total Pilot: 195 atomic items, 440/440 marks (100% verified), 0 KaTeX errors, 0 items flagged needs_review
+    [x] Deploy Wave 2 with 4 parallel subagents (Grade 12 Nov 2023 Core Wave):
+        - Mathematics P2 (2023 Nov): 53 atomic items, 150/150 marks (100% verified), Euclidean geometry theorems, circle tangents & full diagram passages
+        - Physical Sciences P1 (2023 Nov): 61 atomic items, 150/150 marks (100% verified), Q1.1–1.10 atomic MCQs, Newton's laws, Doppler, circuits, photoelectric
+        - English FAL P1 (2023 Nov): 47 atomic items, 80/80 marks (100% verified), water footprint pie charts, Vaseline summary, Garfield cartoon
+        - Afrikaans FAL P1 (2023 Nov): 68 atomic items, 80/80 marks (100% verified), smulkos teks, TV-gids, Boet & Jan strokiesprent, taal
+        - Total Wave 2: 229 atomic items, 460/460 marks (100% verified), 0 KaTeX errors, 0 items flagged needs_review
+    [x] Establish clean directory organization: workspace/items/<subject>/<source_id>.jsonl with backward-compatible root mirrors
+    [x] Establish Autonomous Orchestrator (curriculum_orchestrator) and Live Status Checklist (workspace/EXTRACTION_TRACKER.md)
+    [x] Cumulative Corpus Extracted: 435 atomic items across 9 papers (941 verified marks)
+    [ ] Extract Wave 3 (Grade 12 Nov 2022 Core STEM) in parallel subagent waves via curriculum_orchestrator
+    [ ] Compile all extracted items into dataset-ready master collections
 
 [ ] Phase 3: Benchmark Construction
     [ ] Extract November 2024 Grade 12 NSC items

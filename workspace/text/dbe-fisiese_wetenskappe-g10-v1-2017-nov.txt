@@ -1,0 +1,700 @@
+=== page 1 ===
+Kopiereg voorbehou Blaai om asseblief
+
+PUNTE:  150
+
+TYD:  2 uur
+
+Hierdie vraestel bestaan uit 14 bladsye, 1 gegewensblad en 1 antwoordblad.
+
+GRAAD 10
+FISIESE WETENSKAPPE:  FISIKA (V1)
+
+NOVEMBER 2017
+NASIONALE
+SENIOR SERTIFIKAAT
+
+=== page 2 ===
+Fisiese Wetenskappe/V1 2 DBE/November 2017
+KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+INSTRUKSIES EN INLIGTING
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+Skryf jou naam en klas (byvoorbeeld 1 0A) in die betrokke ruimte op die
+ANTWOORDEBOEK.
+
+Hierdie vraestel bestaan uit TIEN vrae. Beantwoord AL die vrae in die
+ANTWOORDEBOEK, behalwe VRAAG  3.3 wat op die aangehegte
+ANTWOORDBLAD beantwoord moet word.
+
+Lewer die ANTWOORDBLAD saam met die ANTWOORDEBOEK in.
+
+Begin ELKE vraag op 'n NUWE bladsy in die ANTWOORDEBOEK.
+
+Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie
+vraestel gebruik is.
+
+Laat EEN reël tussen subvrae oop, byvoorbeeld tussen VRAAG 2.1 en
+VRAAG 2.2.
+
+Jy mag 'n nie-programmeerbare sakrekenaar gebruik.
+
+Jy mag toepaslike wiskundige instrumente gebruik.
+
+Jy word aangeraai om die aangehegte GEGEWENSBLAD te gebruik.
+
+Toon ALLE formules en substitusies in ALLE berekeninge.
+
+Rond jou finale numeriese antwoorde tot 'n minimum van TWEE desimale
+plekke af.
+
+Gee kort (bondige) motiverings, besprekings ensovoorts, waar nodig.
+
+Skryf netjies en leesbaar.
+
+=== page 3 ===
+Fisiese Wetenskappe/V1 3 DBE/November 2017
+ KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+VRAAG 1:  MEERVOUDIGEKEUSE-VRAE
+
+Verskeie opsies word as moontlike antwoorde op die volgende vrae gegee. Elke
+vraag het slegs EEN korrekte antwoord. Kies die antwoord en skryf slegs die
+letter (A –D) langs die vraagnommer (1.1– 1.10) in die ANTWOORD EBOEK neer,
+byvoorbeeld 1.11 E.
+
+1.1 Watter EEN van die volgende pa re fisiese hoeveelhede bestaan uit  een
+skalaar- en een vektorhoeveelheid?
+
+ A
+B
+C
+D
+Afstand en spoed
+Spoed en versnelling
+Verplasing en snelheid
+Snelheid en versnelling
+
+(2)
+
+1.2 'n Motor beweeg teen 'n konstante snelheid op 'n reguit pad. Dit verminder
+dan uniform spoed. Watter EEN van die snelheid -tyd-grafieke hieronder stel
+die beweging van die motor die beste voor?
+
+ A B C D    (2)
+
+1.3 Olie wat teen gelyke tydintervalle uit 'n vragmotor dr up, laat die patroon
+hieronder op die pad.
+
+ Indien die vragmotor ooswaarts beweeg, w atter EEN van die kombinasies
+hieronder beskryf die spoed van die vragmotor gedurende die intervalle
+M tot Q, Q tot V en V tot Z die beste?
+
+ M TOT Q Q TOT V V TOT Z
+A Neem af Bly konstant Neem toe
+B Neem toe Bly konstant Neem af
+C Bly konstant Neem toe Neem toe
+D Neem toe Neem af Bly konstant
+
+(2)
+
+Oos
+v
+ v
+ v
+ v
+t
+ t
+t
+t
+
+=== page 4 ===
+Fisiese Wetenskappe/V1 4 DBE/November 2017
+ KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+1.4 'n Motorfiets wat teen 'n spoed v ry, het 'n kinetiese energie E. Indien die
+spoed van die motorfiets tot 3v toeneem, sal die kinetiese energie ... wees.
+
+ A
+
+B
+
+C
+D
+3E
+⅓E
+6E
+9E
+
+(2)
+
+1.5 Die SI-eenheid vir gravitasie- potensiële energie is ...
+
+ A
+B
+C
+D
+kg∙m∙s-1
+kg∙m∙s-2
+kg∙m2∙s-2
+kg∙m-1∙s-1
+
+(2)
+
+1.6 Die amplitude van 'n klankgolf word verhoog sonder om die frekwensie te
+verander. Hoe beïnvloed hierdie verandering die hardheid en toonhoogte van
+die klank?
+
+  HARDHEID TOONHOOGTE
+A Neem af Neem af
+B Neem af Neem toe
+C Neem toe Bly onveranderd
+D Neem toe Neem toe
+
+(2)
+
+1.7 Watter EEN van die kombinasies hieronder is die KORREKTE volgorde van
+elektromagnetiese golwe in TOENEMENDE GOLFLENGTES?
+
+ A
+
+B
+
+C
+
+D
+Gammastraal → X-straal → ultraviolet → sigbare lig  → infrar ooi →
+mikrogolf
+Radiogolf → mikrogolf → infra rooi → sigbare lig → ultraviolet →
+X-straal
+X-straal → ultraviolet → infrar ooi → sigbare lig  → radiogolf →
+mikrogolf
+Gammastraal → X-straal → sigbare lig  → ultraviolet → infrar ooi →
+mikrogolf
+
+(2)
+
+1.8 Die krag tussen twee magnete neem af wanneer …
+
+ A
+B
+C
+D
+twee gelyke pole nader aan mekaar kom.
+twee ongelyke pole nader aan mekaar kom.
+die afstand tussen hulle toeneem.
+die afstand tussen hulle afneem.
+
+(2)
+
+=== page 5 ===
+Fisiese Wetenskappe/V1 5 DBE/November 2017
+ KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+1.9 Twee identiese sfere, X en Y, op geïsoleerde staanders, dra onderskeidelik
+ladings van 3  µC en -5 µC. Die sfere word met mekaar in kontak gebring en
+weer op hulle oorpronklike posisies geplaas . Die lading op ELKE sfeer na
+kontak is …
+
+ A
+B
+C
+D
+8 µC
+-4 µC
+-2 µC
+-1 µC
+
+(2)
+
+1.10 Die energie oorgedra per eenheid elektriese lading in 'n stroombaan is ...
+
+ A
+B
+C
+D
+stroom.
+lading.
+drywing.
+potensiaalverskil.
+
+(2)
+[20]
+
+=== page 6 ===
+Fisiese Wetenskappe/V1 6 DBE/November 2017
+ KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+VRAAG 2   (Begin op 'n nuwe bladsy.)
+
+'n Broer en suster stap ná skool huis toe. Nadat hulle 500  m ooswaarts gestap het,
+besef die broer dat hy 'n boek by die skool vergeet het en hy draai terug skool toe. Sy
+suster stap nog 800  m na hulle huis toe.  Sy kom by die huis aan
+30 minute nadat sy by die skool weg is.
+
+ 500 m
+
+800 m
+Skool
+
+   Huis
+
+2.1 Definieer die term gemiddelde spoed.  (2)
+
+2.2 Bereken die gemiddelde spoed van die meisie vanaf die skool tot by haar
+huis.
+
+(4)
+
+2.3 Gebruik 'n vektorskaaldiagram en stel die verplasing van die seun voor vanaf
+die tyd da t hy besef het dat hy sy boek by die skool vergeet het totdat hy by
+die huis aangekom het. Sluit ALLE nodige inligting by die diagram in.
+
+Gebruik skaal 1 cm = 100 m vir die diagram.
+
+(3)
+
+2.4 Indien die gemiddelde spoed van die seun dieselfde as di é van die meisie is,
+bereken hoe lank dit die seun sal neem om by die huis te kom vanaf die tyd
+wat hulle saam by die skool weg is.
+
+(4)
+[13]
+
+                 N
+
+    W                       O
+
+                 S
+
+=== page 7 ===
+Fisiese Wetenskappe/V1 7 DBE/November 2017
+ KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+VRAAG 3  (Begin op 'n nuwe bladsy.)
+
+Die ingenieurs by 'n motormaatskappy voer versk illende toetse op hul le motors uit.
+Tydens een van die toetse meet hulle  die verandering in posisie gedurende gelyke
+tydintervalle. Die resultate verkry, is in die tabel hieronder aangeteken.
+
+TYD (s) POSISIE (m)
+0 0
+1 5
+2 10
+3 15
+4 20
+
+3.1 Gee die korrekte term vir verandering van posisie per eenheid tyd.  (1)
+
+3.2 Vir hierdie toets, skryf neer die:
+
+ 3.2.1 Onafhanklike veranderlike  (1)
+
+ 3.2.2 Afhanklike veranderlike  (1)
+
+3.3 Gebruik die inligting in die tabel hierbo en teken  'n akkurate posisie -tyd-
+grafiek op die grafiekpapier op die aangehegte ANTWOORDBLAD.
+
+(5)
+
+3.4 Bereken die helling van die grafiek.  (4)
+
+3.5 Teken (NIE volgens skaal NIE) 'n ooreenstemmende snelheid-tyd-grafiek vir
+die beweging van die motor. Benoem die asse.
+
+(2)
+
+3.6 Lei vervolgens die grootte van die versnelling van die motor af.  (2)
+[16]
+
+=== page 8 ===
+Fisiese Wetenskappe/V1 8 DBE/November 2017
+ KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+VRAAG 4  (Begin op 'n nuwe bladsy.)
+
+'n Motor versnel vanuit rus teen 15 m∙s-2 vir 2 s op 'n horisontale pad.
+
+4.1 Definieer die term versnelling.  (2)
+
+4.2 Bereken die:
+
+ 4.2.1 Afstand deur die motor afgelê  (3)
+
+ 4.2.2 Snelheid van die motor  (3)
+
+Terwyl 'n motorbestuurder teen 'n konstante snelheid van 108 km·h -1 beweeg, sien hy
+'n padteken wat motoriste waarsku om 'n  veilige 2-sekonde-volgafstand te handhaaf.
+Op daardie oomblik is  die motor 80  m agter 'n  vragmotor wat teen 'n  konstante
+snelheid van 90 km·h-1 beweeg.
+
+4.3 Verduidelik die betekenis van 'n veilige 2-sekonde-volgafstand.  (2)
+
+4.4 Bereken die veilige 2-sekonde-volgafstand agter die vragmotor.  (6)
+
+4.5 Bereken hoe lank dit die motor is sal neem om by 'n veilige 2 -sekonde-
+volgafstand agter die vragmotor te kom.
+
+(5)
+[21]
+
+80 m
+90 km·h-1
+108 km·h-1
+
+=== page 9 ===
+Fisiese Wetenskappe/V1 9 DBE/November 2017
+ KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+VRAAG 5  (Begin op 'n nuwe bladsy.)
+
+'n Hysbak neem 'n man na 'n lugbrug wat 100  m bokant die grond is , soos hieronder
+getoon. Hy doen 'n reksprong ('bungee jump') vanaf die lugbrug. Ignoreer die effek te
+van lugweerstand.
+
+                 [Bron: myjozi.co.za]
+
+5.1 Definieer die term kinetiese energie.  (2)
+
+5.2 Die man en sy toerusting het 'n massa van 72 kg. Bereken die man se
+gravitasie- potensiële energie net voordat hy van die lugbrug af spring.
+
+(3)
+
+5.3 Stel die wet van behoud van meganiese energie.  (2)
+
+5.4 Gebruik die wet in VRAAG 5.3 om die man se snelheid op 'n hoogte van 50 m
+bokant die grond te bereken.
+
+(5)
+
+5.5 Teken 'n grafiek van E p teenoor E k vir die beweging van die man vanaf die
+oomblik wat hy spring totdat hy die grond bereik.
+
+(3)
+[15]
+
+     Lugbrug
+100 m
+
+=== page 10 ===
+Fisiese Wetenskappe/V1 10 DBE/November 2017
+ KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+VRAAG 6  (Begin op 'n nuwe bladsy.)
+
+Twee meisies, wat aan weerskante van 'n tou staan, maak elk 'n puls met dieselfde
+spoed. Puls A, met 'n amplitude van 4 cm, beweeg na regs en puls B, met 'n amplitude
+van -6 cm, beweeg na links. Die pulse ontmoet by punt C.
+
+6.1 Noem die verskynsel wat waargeneem word  wanneer die twee pulse by
+punt C ontmoet.
+
+(3)
+
+6.2 Teken 'n benoemde diagram om die resulterende puls  te toon wanneer die
+twee pulse by punt C ontmoet. Benoem die pulse duidelik.
+
+(2)
+
+6.3 Noem die soort interferensie wat plaasvind wanneer die pulse ontmoet.  (1)
+
+6.4 Bepaal die resulterende amplitude van die pulse by punt C.  (2)
+
+6.5 Hoe sal die amplitude van puls A beïnvloed word nadat dit deur punt  C
+beweeg het? Skryf slegs TOENEEM, AFNEEM of BLY DIESELFDE neer.
+
+(1)
+[9]
+
+VRAAG 7  (Begin op 'n nuwe bladsy.)
+
+Dolfyne kommunikeer deur  die uitstuur en ontvang  van klanke. 'n Klein dolfyntjie het
+van sy ma afgedwaal en teen 'n  frekwensie van 130 kHz b egin fluit om haar te roep.
+Die spoed van klank in seewater is 1 480 m∙s-1.
+
+7.1 Verduidelik die term ultraklank.   (2)
+
+7.2 Bereken die golflengte van die klein dolfyntjie se fluit.  (4)
+
+7.3 'n Ander dolfyn hoor 2 s later die noodkreet van die klein dolfyntjie. Hoe ver is
+die twee dolfyne van mekaar af?
+
+(4)
+
+7.4 Die spoed van klank in lug is 340 m∙s-1. Verduidelik kortliks waarom die spoed
+van klank in lug verskil van die spoed van klank in seewater.
+
+(2)
+
+7.5 Beskryf hoe dolfyne eggolokasie gebruik om hul prooi te jag.  (3)
+[15]
+
+A
+B
+C
+•
+
+=== page 11 ===
+Fisiese Wetenskappe/V1 11 DBE/November 2017
+ KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+VRAAG 8  (Begin op 'n nuwe bladsy.)
+
+Beskou 'n laserwyser en selfoon, soos hieronder getoon.
+
+Laserwyser Selfoon
+
+8.1 Noem die soort elektromagnetiese straling wat vrygestel word deur die:
+
+ 8.1.1 Laserwyser  (1)
+
+ 8.1.2 Selfoon  (1)
+
+8.2 'n Laserwyser gebruik rooiligfotone met 'n golflengte van 620 nm.
+
+ 8.2.1 Definieer die term foton.  (2)
+
+ 8.2.2 Bereken die energie van 'n rooiligfoton.  (6)
+
+ 8.2.3 Verwys na die antwoord op VRAAG 8.2.2 . Verduidelik waarom dit
+baie gevaarlik is om met 'n laserwyser in 'n mens se oë te skyn.
+
+(2)
+[12]
+
+=== page 12 ===
+Fisiese Wetenskappe/V1 12 DBE/November 2017
+ KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+VRAAG 9  (Begin op 'n nuwe bladsy.)
+
+Twee magnete word so geplaas dat hul noordpole na mekaar wys.
+
+9.1 Verduidelik die term magneetveld.  (2)
+
+9.2 Teken die magnetieseveld-patroon tussen die twee noordpole van die
+magnete.
+
+(3)
+
+9.3 Die grafiek hieronder toon hoe  die magnetiese krag met afstand tussen die
+magnete verander.
+
+ 9.3.1 Wat is die wiskundige verwantskap tussen magnetiese krag en
+afstand tussen die twee magnete?
+
+(1)
+
+ 9.3.2 Wat is die grootte van die magnetiese krag tussen die twee
+magnete wanneer hulle 4 cm mekaar af is?
+
+(1)
+
+ 9.3.3 Hoe ver moet die magnete van mekaar af wees  om 'n krag van
+0,05 N te ervaar?
+
+(1)
+[8]
+
+Krag (N)
+Afstand (cm)
+0,1
+0,2
+0,3
+0,4
+0,5
+●
+    ●
+      ●
+●   ●
+0            2            4            6            8           10
+N
+ N
+
+=== page 13 ===
+Fisiese Wetenskappe/V1 13 DBE/November 2017
+ KABV – Graad 10
+Kopiereg voorbehou Blaai om asseblief
+
+VRAAG 10  (Begin op 'n nuwe bladsy.)
+
+'n Neutrale plastiekliniaal laai wanneer dit met 'n wollap gevryf word. Nadat dit gevryf
+is, het die liniaal 'n lading van -3,5 x 10-15 C.
+
+10.1 Onderskei tussen 'n neutrale voorwerp en 'n gelaaide voorwerp.  (2)
+
+10.2 Het die liniaal elektrone BYGEKRY of VERLOOR?  (1)
+
+10.3 Bereken die getal elektrone wat tydens die vryfproses oorgedra is.  (3)
+
+10.4 Die gelaaide liniaal word nou nader aan stukkies papier gebring.
+Die stukkies papier word na die liniaal aangetrek, soos hieronder getoon.
+
+ 10.4.1 Verduidelik waarom die stukkies papier na die liniaal aangetrek
+word.
+
+(3)
+
+ 10.4.2 Noem EEN toepassing van elektrostatika in ons daaglikse lewens.  (1)
+[10]
+liniaal
+papier
+
+=== page 14 ===
+Fisiese Wetenskappe/V1 14 DBE/November 2017
+KABV – Graad 10
+Kopiereg voorbehou
+●
+●
+4 Ω
+2 Ω
+V1
+S1
+9 V
+1,5 A
+         Stroombaan B
+
+VRAAG 11  (Begin op 'n nuwe bladsy.)
+
+Verwys na Stroombaan A en B hieronder en beantwoord die vrae wat volg.
+
+11.1 Definieer die term emk.  (2)
+
+11.2 Bereken die totale weerstand van Stroombaan A.  (2)
+
+11.3 Beskou Stroombaan B.
+
+ 11.3.1 Skryf die lesing op A2 neer.  (1)
+
+ 11.3.2 Bereken die lesing op V1.  (3)
+
+11.4 Indien 'n derde weerstand (1,5 Ω) in parallel met die bestaande weerstande in
+Stroombaan A geskakel word, sal die totale stroom in die stroombaan
+TOENEEM, AFNEEM of DIESELFDE BLY? Verduidelik die antwoord.
+
+(3)
+[11]
+
+TOTAAL:  150
+●
+●
+1,5 Ω
+V2
+1,5 Ω
+V1
+S1
+9 V
+     Stroombaan A
+V2
+A2
+A1
+
+=== page 15 ===
+Fisiese Wetenskappe/V1   DBE/November 2017
+ KABV – Graad 10
+Kopiereg voorbehou
+
+DATA FOR PHYSICAL SCIENCES GRADE 10
+PAPER 1 (PHYSICS)
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 10
+VRAESTEL 1 (FISIKA)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Acceleration due to gravity
+Swaartekragversnelling g 9,8 m·s-2
+Speed of light in a vacuum
+Spoed van lig in 'n vakuum c 3,0 x 108 m·s-1
+Planck's constant
+Planck se konstante h 6,63 x 10-34 J·s
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Electron mass
+Elektronmassa me 9,11 x 10-31 kg
+
+TABLE 2:  FORMULAE/TABEL 2:  FORMULES
+
+MOTION/BEWEGING
+
+tavv if ∆+=  221i tatvx ∆+∆=∆
+xa2vv
+2
+i
+2
+f ∆+=   t2 vvx if ∆ +=∆
+
+WORK, ENERGY AND POWER/ARBEID, ENERGIE EN DRYWING
+
+mghU=  or/of   mghEP =  2mv21K=   or/of  2k mv21E =
+
+EM = Ek+ Ep.   or/of   EM = K + U
+
+WAVES, SOUND AND LIGHT/GOLWE, KLANK EN LIG
+
+λ= fv
+f
+1T=
+hfE= or/of λ= chE
+
+ELECTROSTATICS/ELEKTROSTATIKA
+
+e
+Q = n  2Q +Q = Q 21
+
+ELECTRIC CIRCUITS/ELEKTRIESE STROOMBANE
+
+I=Q ∆  t ...R1R1R1 21p ++=
+...RRR 21s ++=  qWV=
+
+=== page 16 ===
+Fisiese Wetenskappe/V1   DBE/November 2017
+ KABV – Graad 10
+Kopiereg voorbehou
+
+ANTWOORDBLAD
+
+Lewer hierdie ANTWOORDBLAD saam met die ANTWOORDEBOEK in.
+
+NAAM: _____________________________________
+
+KLAS: _____
+
+VRAAG 3.3

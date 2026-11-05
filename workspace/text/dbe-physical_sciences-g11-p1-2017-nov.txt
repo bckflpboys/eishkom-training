@@ -1,0 +1,827 @@
+=== page 1 ===
+Copyright reserved Please turn over
+
+MARKS:  150
+
+TIME:  3 hours
+
+This question paper consists of 15 pages, 2 data sheets and 1 answer sheet.
+
+GRADE 11
+NATIONAL
+SENIOR CERTIFICATE
+PHYSICAL SCIENCES:  PHYSICS (P1)
+
+NOVEMBER 2017
+
+=== page 2 ===
+Physical Sciences/P1 2 DBE/November 2017
+ CAPS – Grade 11
+Copyright reserved  Please turn over
+
+INSTRUCTIONS AND INFORMATION
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+Write your name  and class (for example 11A)  in the appropriate spaces on
+the ANSWER BOOK.
+
+This question paper consists of TEN questions. Answer ALL t he questions in
+the ANSWER BOOK,  except QUESTION 3.3 which  has to be answered on
+the attached ANSWER SHEET.
+
+Hand in the ANSWER SHEET together with the ANSWER BOOK.
+
+Start EACH question on a NEW page in the ANSWER BOOK.
+
+Number the answers correctly according to the numbering system used in this
+question paper.
+
+Leave ONE line between two subquestions, for example between
+QUESTION 2.1 and QUESTION 2.2.
+
+You may use a non-programmable calculator.
+
+You may use appropriate mathematical instruments.
+
+You are advised to use the attached DATA SHEETS.
+
+Show ALL formulae and substitutions in ALL calculations.
+
+Round off your final numerical answers to a minimum of TWO decimal places.
+
+Give brief motivations, discussions et cetera where required.
+
+Write neatly and legibly.
+
+=== page 3 ===
+Physical Sciences/P1 3 DBE/November 2017
+ CAPS – Grade 11
+Copyright reserved  Please turn over
+
+QUESTION 1:  MULTIPLE-CHOICE QUESTIONS
+
+Various options are provided as possible answers to the foll owing questions.
+Each question has only ONE correct answer. Choose the answer and write only the
+letter (A –D) next to the question number (1.1– 1.10) in the ANSWER BOOK,
+for example 1.11 E.
+
+1.1 Which ONE of the following pairs of physical quantities is vector quantities?
+
+A
+
+B
+
+C
+
+D
+Force and distance
+
+Velocity and speed
+
+Charge and electric field
+
+Electric field and force
+
+(2)
+
+1.2 Which ONE of the following vector diagrams represents three forces acting on
+an object simultaneously while the object moves at CONSTANT VELOCITY?
+
+ A
+
+B
+ C
+
+D
+(2)
+
+=== page 4 ===
+Physical Sciences/P1 4 DBE/November 2017
+ CAPS – Grade 11
+Copyright reserved  Please turn over
+θ
+
+1.3 A block with a mass of 4 kg is pulled upwards along a frictionless slope,
+inclined at an angle θ, with a force F, as shown in the sketch below.
+
+ Which ONE of the following equations can be used to calculate the magnitude
+of the normal force (N)?
+
+ A
+
+B
+
+C
+
+D
+N = (4)(9,8)sinθ
+
+N = F - (4)(9,8)cosθ
+
+N = F + (4)(9,8)cosθ
+
+N = (4)(9,8)cosθ
+
+(2)
+
+1.4 A satellite orbit s Earth at a  height where the gravitational force is  a quarter
+(¼) of  the force it experiences on the surface of the E arth. If the radius of
+Earth is R, the height of the satellite ABOVE THE SURFACE of Earth is …
+
+ A
+
+B
+
+C
+
+D
+4R
+
+2R
+
+R
+
+½R
+
+(2)
+
+1.5 A light ray passes from glass to air. The angle of incidence is  35°. The critical
+angle of glass is 38°.
+
+The light ray will undergo …
+
+ A
+
+B
+
+C
+
+D
+diffraction.
+
+refraction and bend away from the normal.
+
+total internal reflection.
+
+refraction and bend towards the normal.
+
+(2)
+4 kg F
+
+=== page 5 ===
+Physical Sciences/P1 5 DBE/November 2017
+ CAPS – Grade 11
+Copyright reserved  Please turn over
+
+1.6 The path of a light ray passing from air through a rectangular Perspex block is
+shown below.
+
+ The magnitude of angle θ will be …
+
+ A
+
+B
+
+C
+
+D
+less than 39°.
+
+equal to 39°.
+
+equal to 51°.
+
+equal to 90°.
+
+(2)
+
+1.7 A monochromatic red light ray passes through a single slit of width d.
+The diffraction pattern is projected on a screen. The red light is then replaced
+with monochromatic blue light and passed through the same single slit.
+
+The degree of diffraction will …
+
+ A
+
+B
+
+C
+
+D
+increase because the degree of diffraction is dir ectly proportional to
+wavelength.
+
+decrease because blue light has a shorter wavelength than red light.
+
+increase because blue light has a longer wavelength than red light.
+
+decrease because the degree of diffraction is inversely propor tional to
+wavelength.
+
+(2)
+
+Perspex
+39°
+θ
+
+=== page 6 ===
+Physical Sciences/P1 6 DBE/November 2017
+ CAPS – Grade 11
+Copyright reserved  Please turn over
+
+1.8 A negative charge of 1  µC, which is free to move, is plac ed at a distance 2r
+from a positive charge of 4 µC.
+
+Which ONE of the following statements regarding the -1 µC charge, when it is
+at distance r, is CORRECT?
+
+The electrostatic force experienced by the -1 µC charge will …
+
+ A
+
+B
+
+C
+
+D
+remain the same.
+
+be halved.
+
+be doubled.
+
+increase four times.
+
+(2)
+
+1.9 A circular coil is placed inside a magnetic field and rotated clockwise to
+induce an emf. Which ONE of the following changes will increase the induced
+emf?
+
+ A
+
+B
+
+C
+
+D
+Rotating the coil slower
+
+Decreasing the number of turns/windings of the coil
+
+Increasing the speed of rotation of the coil
+
+Changing the polarity of the magnets
+
+(2)
+
+l l
++ -
++4 µC -1 µC
+r 2r
+l
+
+=== page 7 ===
+Physical Sciences/P1 7 DBE/November 2017
+ CAPS – Grade 11
+Copyright reserved  Please turn over
+
+1.10 In the circuit diagram below, the battery has negligible internal resistance.
+The resistance of the ammeter and wires may also be ignored.
+
+ The reading on voltmeter V3 will be equal to …
+
+ A
+
+B
+
+C
+
+D
+V1
+
+½ V1
+
+V1 + V2
+
+V2 - V1
+
+(2)
+    [20]
+
+A
+V3
+8 Ω
+4 Ω
+V1
+V2
+8 Ω
+
+=== page 8 ===
+Physical Sciences/P1 8 DBE/November 2017
+ CAPS – Grade 11
+Copyright reserved  Please turn over
+
+QUESTION 2   (Start on a new page.)
+
+Block A, which is at rest on  a horizontal rough surface, is used as an anchor to hold
+block B, with a mass of 56 kg, in the air at a certain height above the ground . The two
+blocks are connected with rope R, which makes  an angle of 35 ° with the vertical .
+Block B is suspended from the ceiling with cable C. Refer to the diagram below.
+
+Block A experiences a frictional force of magnitude 200 N. The system is stationary.
+
+2.1 Define the term resultant vector.  (2)
+
+2.2 What is the magnitude of the resultant force acting on block B?  (1)
+
+2.3 Draw a labelled free-body diagram indicating all the forces acting on block B.  (3)
+
+2.4 Determine the horizontal component of the force in rope R.  (1)
+
+2.5 Calculate the vertical component of the force in cable C.  (4)
+
+2.6 Calculate the angle θ between the cable and the ceiling.  (2)
+   [13]
+
+56 kg B
+A
+θ
+C
+R 35°
+
+=== page 9 ===
+Physical Sciences/P1 9 DBE/November 2017
+ CAPS – Grade 11
+Copyright reserved  Please turn over
+
+QUESTION 3   (Start on a new page.)
+
+Learners investigate the relationship between net force and acceleration by pulling
+a trolley across a surface which is slightly inclined  to compensate for  friction.
+The trolley i s connected to different masses  by a string of negligible mass . The string
+passes over a frictionless pulley. Refer to the diagram below.
+
+Ticker-tape attached to the trolley passes through the ticker -timer. The acceleration of
+the trolley is determined by analysing the ticker -tape. The results of the net force
+produced by the different masses and the acceleration of the trolley were recorded in
+the table below.
+
+NET FORCE (N) a (m∙s-2)
+0,3 0,36
+0,6 0,73
+0,9 1,09
+1,2 1,45
+
+3.1 Write down a hypothesis for this experiment.  (2)
+
+ 3.2.1
+
+3.2.2
+Identify the independent variable.
+
+Identify the controlled variable.
+ (1)
+
+(1)
+
+3.3 Use the graph paper on the ANSWER SHEET and draw  a g raph of the
+acceleration versus net force.
+
+(4)
+
+3.4 Calculate the gradient of the graph.  (3)
+
+3.5 Use the gradient of the graph calculated in QUESTION 3.4 to determine the
+mass of the trolley.
+
+(2)
+   [13]
+
+mass
+ticker-timer
+tape
+trolley
+
+=== page 10 ===
+Physical Sciences/P1 10 DBE/November 2017
+ CAPS – Grade 11
+Copyright reserved  Please turn over
+
+QUESTION 4   (Start on a new page.)
+
+A tow truck pulls a car along a gravel road.
+
+The force applied by the engine of the tow truck is 9 000 N. The mass of the  tow truck
+is 1  300 kg and the mass of the car is 950 kg. The vehicles are connected to each
+other by an inelastic tow bar of negligible mass. See the diagram below.
+
+The tow truck and car move at a CONSTANT VELOCITY.
+
+4.1 Define the term frictional force.  (2)
+
+4.2 NAME AND STATE  the law that explains why the force exerted by the tow
+truck on the car is the same as the force exerted by the car on the tow truck.
+
+(3)
+
+4.3 Draw a labelled free -body diagram indicating all the forces acting on the
+tow truck.
+
+(5)
+
+4.4 If the coefficient of kinetic friction between the tow-truck tyres and the road
+surface is 0,45, calculate the:
+
+ 4.4.1 Magnitude of the tension in the tow bar  (5)
+
+ 4.4.2 Coefficient of kinetic friction between the CAR tyres and the road
+surface
+
+(5)
+
+Suddenly the tow bar  between the car and the tow truck disconnects and the car
+comes loose.
+
+4.5 Using a relevant law of motion , explain why the car continues moving forward
+for a short distance.
+
+(3)
+
+4.6 Calculate the acceleration of the car as it comes  to a stop after a short
+distance.
+
+(3)
+   [26]
+
+T
+9 000 N
+Tow truck
+1 300 kg Car
+950 kg
+
+=== page 11 ===
+Physical Sciences/P1 11 DBE/November 2017
+ CAPS – Grade 11
+Copyright reserved  Please turn over
+
+QUESTION 5   (Start on a new page.)
+
+The acceleration due to gravity on planet X is 2,7 m ∙s-2. The radius of this  planet is
+a third (⅓) of the radius of Earth.
+
+5.1 Explain the difference between weight and mass.  (2)
+
+5.2 Calculate the mass of planet X.  (4)
+
+5.3 Determine the factor by which the weight of an object on  planet X will  differ
+from the weight of the same object on Earth.
+
+(2)
+   [8]
+
+QUESTION 6   (Start on a new page.)
+
+Experiments are performed to compare the refractive indices of different materials.
+
+In one experiment a light ray passes from air to material A and the angles of incidence
+and refraction are measured. The refractive index for air is 1.
+
+The graph below was drawn using the results of material A.
+
+6.1 Define the term angle of incidence.  (2)
+
+6.2 Calculate the refractive index of material A using the data in the graph.  (3)
+
+6.3 Calculate the speed of the light through material A.  (3)
+
+6.4 If material A is replaced by material B , the angle of refraction is 31° when the
+angle of incidence is 40°.
+
+ 6.4.1 Calculate the refractive index of material B.  (4)
+
+ 6.4.2 Redraw the graph of material A, and on the same set of axis, draw
+the graph you expect for material B. Label the graphs of material A
+and material B clearly.
+
+(2)
+0,56
+0,37
+sin θi
+sin θr A
+0
+
+=== page 12 ===
+Physical Sciences/P1 12 DBE/November 2017
+ CAPS – Grade 11
+Copyright reserved  Please turn over
+
+6.5 Total internal reflection occur s when a light ray passes from material  A to
+material B. The critical angle of material A is 49°.
+
+ 6.5.1 Which range of angles will make it possible for total internal
+reflection to occur?
+
+(2)
+
+ 6.5.2 What OTHER condition is necessary for total internal reflection to
+take place?
+
+(2)
+    [18]
+
+QUESTION 7   (Start on a new page.)
+
+An experiment is set up , as shown below , to investigate the effect of slit width on the
+degree of diffraction. Distance y  on the di agram represents the distance between the
+screen and the single slit. Distance x on the diagram represents the width of the
+central bright band.
+
+7.1 Write down an investigative question for this experiment.  (2)
+
+7.2 State Huygens' principle in words.  (2)
+
+7.3 How will distance x be affecte d if the slit width is increased? Choose from
+INCREASE, DECREASE or REMAIN THE SAME.
+
+(1)
+
+7.4 Explain the answer to QUESTION 7.3.  (2)
+
+7.5 How will distance x be affected if distance y is increased? Choose from
+INCREASE, DECREASE or REMAIN THE SAME.
+
+(1)
+   [8]
+screen
+single slit
+Light
+source
+y
+x
+
+=== page 13 ===
+Physical Sciences/P1 13 DBE/November 2017
+ CAPS – Grade 11
+Copyright reserved  Please turn over
+
+QUESTION 8   (Start on a new page.)
+
+Two IDENTICAL point charges, X and Y, are placed 2  mm apart. Point P is 3 mm to
+the right of charge Y. The net electric field at point P is 5,44 × 106 N∙C-1 to the left.
+
+8.1 Define the term electric field at a point.  (2)
+
+8.2  Are the charges NEGATIVE or POSITIVE?  (1)
+
+8.3 Draw the resultant electric field pattern for charges X and Y.  (3)
+
+8.4 Calculate the magnitude of the charge X.  (5)
+
+8.5  Charge Y is now replaced by an identical oppositely charged point charge.
+
+How will the magnitude of the net electric fiel d at point P  be affected?
+Choose from INCREASE, DECREASE or REMAIN THE SAME.
+
+Give a reason for the answer.
+
+(2)
+   [13]
+X Y P 2 mm
+3 mm
+
+=== page 14 ===
+Physical Sciences/P1 14 DBE/November 2017
+ CAPS – Grade 11
+Copyright reserved  Please turn over
+
+QUESTION 9   (Start on a new page.)
+
+An induction coil of area 48,6 cm 2 and 200 windings is rotated clockwise in a constant
+magnetic field of magnitude 2,4 T. Refer to the diagram below.
+
+The graph below shows how the induced emf varies with the inverse of time.
+
+9.1 State Faraday's law in words.  (2)
+
+9.2 Use the information in the graph to calculate the change in magnetic flux.  (5)
+
+9.3 The coil rotates through an angle θ to a posit ion where  the magnetic flux
+becomes zero. Calculate angle θ.
+
+(4)
+   [11]
+
+θ
+
+N
+
+S
+t
+1
+∆
+ε
+3
+
+2
+
+1
+
+0
+ 1             2            3
+(V)
+
+=== page 15 ===
+Physical Sciences/P1 15 DBE/November 2017
+ CAPS – Grade 11
+Copyright reserved
+
+QUESTION 10   (Start on a new page.)
+
+10.1 The circuit below consists of a 6 Ω and 15 Ω resistor connected in parallel and
+an unknown resistor  R, in series. An ammeter, a high- resistance voltmeter,
+a closed switch and battery  are connected, as shown. The resistance of the
+battery and wires can be ignored.
+
+ The total power dissipated in the parallel part of the circuit is 50 W.
+
+ 10.1.1 Define the term power.  (2)
+
+ 10.1.2 Calculate the effective resistance of the parallel combination.  (2)
+
+ 10.1.3 Calculate the potential difference across the resistors in parallel.  (3)
+
+ 10.1.4 Calculate the current through resistor R.  (3)
+
+ The switch in the circuit is now OPENED.
+
+ 10.1.5 How will the reading on the voltmeter (V) be influenced?
+Choose from INCREASE, DECREASE or REMAIN THE SAME.
+
+(1)
+
+ 10.1.6 Explain the answer to QUESTION 10.1.5.  (3)
+
+10.2 A geyser , labelled 2  000 W, is used for an average  of 5 hours per day.
+The cost of electricity is 80 cents per kWh.
+
+ 10.2.1 Calculate the energy used by the geyser for 5 hours per day.  (4)
+
+ 10.2.2 Calculate the cost of electricity to operate the geyser for a month
+with 30 days.
+
+(2)
+   [20]
+
+ TOTAL:  150
+
+R
+V
+6 Ω
+15 Ω
+A
+
+=== page 16 ===
+Physical Sciences/P1 1 DBE/November 2017
+ CAPS – Grade 11
+Copyright reserved Please turn over
+
+DATA FOR PHYSICAL SCIENCES GRADE 11
+PAPER 1 (PHYSICS)
+
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 11
+VRAESTEL 1 (FISIKA)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Acceleration due to gravity
+Swaartekragversnelling g 9,8 m·s-2
+Gravitational constant
+Swaartekragkonstante G 6,67 x 10-11 N⋅m2⋅kg-2
+Radius of Earth
+Straal van Aarde RE 6,38 x 106 m
+Coulomb's constant
+Coulomb se konstante k 9,0 x 109 N⋅m2·C-2
+Speed of light in a vacuum
+Spoed van lig in 'n vakuum c 3,0 x 108 m·s-1
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Electron mass
+Elektronmassa me 9,11 x 10-31 kg
+Mass of the earth
+Massa van die Aarde  M 5,98 x 1024 kg
+
+TABLE 2:  FORMULAE/TABEL 2:  FORMULES
+
+MOTION/BEWEGING
+
+tavv if ∆+=  221i tatvx ∆+∆=∆
+xa2vv
+2
+i
+2
+f ∆+=   t2 vvx if ∆ +=∆
+
+FORCE/KRAG
+
+ma=Fnet  w = mg
+2
+21
+r
+mGmF=
+N
+f (max)s
+s =µ
+N
+fk
+k =µ
+
+=== page 17 ===
+Physical Sciences/P1 2 DBE/November 2017
+ CAPS – Grade 11
+Copyright reserved
+
+WAVES, SOUND AND LIGHT/GOLWE, KLANK EN LIG
+
+λ= fv
+f
+1T=
+rrii sinnsinn θ=θ   vcn=
+
+ELECTROSTATICS/ELEKTROSTATIKA
+
+2
+21
+r
+QkQ=F          (k = 9,0 x 109 N⋅m2·C-2) qF=E
+2r
+kQE=              (k = 9,0 x 109 N⋅m2·C-2)
+e
+Q=n
+
+ELECTROMAGNETISM/ELEKTROMAGNETISME
+
+tN ∆∆Φ−=ε  θ=Φ cosBA
+
+ELECTRIC CIRCUITS/ELEKTRIESE STROOMBANE
+
+t
+QI ∆=  IVR=
+...r1r1r1R1 321 +++=  ...rrrR 321 +++=
+W = Vq
+
+W = VI∆ t
+
+W= I2R∆ t
+
+W= RΔtV2
+Δt
+WP=
+
+P = VI
+
+P = I2R
+
+R
+VP 2=
+
+=== page 18 ===
+Physical Sciences/P1  DBE/November 2017
+CAPS – Grade 11
+Copyright reserved
+
+ANSWER SHEET
+HAND IN THIS ANSWER SHEET TOGETHER WITH THE ANSWER BOOK.
+NAME: ______________________________________________ CLASS: _____
+
+QUESTION 3.3
+
+Graph of acceleration versus net force
+a
+(m∙s-2)
+F (N)

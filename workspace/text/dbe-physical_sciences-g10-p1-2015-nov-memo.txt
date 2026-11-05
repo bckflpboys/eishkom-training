@@ -1,0 +1,599 @@
+=== page 1 ===
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+MARKS/PUNTE:  150
+
+This memorandum consists of 10 pages.
+Hierdie memorandum bestaan uit 10 bladsye.
+
+PHYSICAL SCIENCES:  PHYSICS (P1)
+FISIESE WETENSKAPPE: FISIKA (V1)
+
+NOVEMBER 2015
+
+MEMORANDUM
+NATIONAL
+SENIOR CERTIFICATE/
+NASIONALE
+SENIOR SERTIFIKAAT
+GRADE/GRAAD 10
+
+=== page 2 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1 2 DBE/November 2015
+ NSC/NSS – Grade/Graad 10 – Memorandum
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+QUESTION 1/VRAAG 1
+
+1.1 B   (2)
+
+1.2 A   (2)
+
+1.3 C   (2)
+
+1.4 D   (2)
+
+1.5 C   (2)
+
+1.6 A   (2)
+
+1.7 B   (2)
+
+1.8 D  (2)
+
+1.9 D   (2)
+
+1.10 C   (2)
+[20]
+
+QUESTION 2/VRAAG 2
+
+2.1 A vector is a physical quantity which as both magnitude and direction
+'n Vektor is 'n fisiese hoeveelheid wat beide grootte en rigting het.
+
+(2)
+
+2.2 TAKE EAST AS POSITIVE
+NEEM OOS AS POSITIEF
+Fres = Fmbike/fiets + Ff
+       = (- 500 N + 150 N)
+      = - 350 N
+      = 350 N westward/weswaarts
+OR/OF
+TAKE WEST AS POSITIVE
+NEEM WES AS POSITIEF
+Fres = Fmbike/fiets + Ff
+       = (500 N  - 150 N)
+      = 350 N
+      = 350 N westward/weswaarts
+
+(3)
+
+2.3 0 km  [must include unit/moet eenheid bevat]  (1)
+
+=== page 3 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1 3 DBE/November 2015
+ NSC/NSS – Grade/Graad 10 – Memorandum
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+2.4 OPTION 1/OPSIE 1
+Average speed =  time total cetandis total 
+Gemiddelde spoed =  etydtotal dtanafstotale
+                               = ( ) 1,67) + (2 160 + 160
+                           = 87 ,19 km∙hr-1
+
+OPTION 2/OPSIE 2
+ time/tydfstanddistance/a andspeed/afst = 
+speed west =  2160  = 80 km∙hr-1.
+spoed wes
+speed east =  76 ,1160 =  95,81 km∙hr-1
+spoed oos
+∴ Average speed = ( )295,81  80+  
+∴ Gemid spoed    = 87,91 km∙hr-1
+
+(4)
+
+2.5 POSITIVE MARKING FROM 2.4
+POSITIEWE NASIEN VANAF 2.4
+For the westward trip/Vir die rit weswaarts:
+ 80 = (vbike/motorfiets – 8) 
+vbike/motorfiets = 88 km∙hr-1
+
+OR/OF
+For eastward trip/Vir die ooswaartse rit
+ 95,8= (vbike + 8) 
+Vbike/motorfiets = 87,8 km∙hr-1
+
+(3)
+   [13]
+
+QUESTION 3/VRAAG 3
+
+3.1 The rate of change of velocity. 
+Die tempo van verandering van snelheid
+
+ (2)
+
+3.2
+54 km∙hr-1 = (3600)1000) × (54
+                 = 15 m∙s-1
+
+OR/OF
+
+54 km∙hr-1 = 3,6 54
+                 = 15 m∙s-1
+
+ (3)
+
+3.3 POSITIVE MARKING FROM 3.2
+POSITIEWE NASIEN VANAF 3.2
+vf = vi + a∆t
+ 20 = 0 + (2)∆t
+∆t = 10 s
+
+(4)
+
+
+
+
+ 
+
+
+
+=== page 4 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1 4 DBE/November 2015
+ NSC/NSS – Grade/Graad 10 – Memorandum
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+3.4 POSITIVE MARKING FROM 3.2 AND 3.3
+POSITIEWE NASIEN VANAF 3.2 EN 3.2
+For the police car/Vir die polisiemotor
+∆x = vi ∆t + ½ a∆t2
+     = [0 + ½ (2)(102)] 
+     = 100 m
+
+For the van/Vir die paneelwa
+∆x = vi ∆t 
+    = (15 x 10)
+   = 150 m
+The van is ahead./Die paneelwa is voor.
+
+(5)
+
+3.5 Both the van and the police car are at the same position when they catch up..
+Beide die paneelwa en die polisiemotor is by dieselfde posisie wanneer hulle
+mekaar inhaal.
+∴ xpolice car/polisiemotor = xvan/paneelwa 
+For the police car/Vir polisiemotor:
+(xp – 100) = vf ∆t………….(1)
+ (xp – 100) = 20 ∆t  
+
+For the van/Vir paneelwa
+(xr – 150) = 15 ∆t………..(2)
+∆t = 10 s
+
+∴ xp = 100 + (20)(10)
+        = 300 m
+The police car catches up with the van after 300 m after 20 s
+Die polisiemotor haal die paneelwa na 300 m en na 20 s in
+
+(5)
+
+3.6 Total time/Totale tyd = (10 + 10)s = 20 s  (1)
+   [20]
+
+OR/OF
+xr = [150 + 15(10)]
+   = 300 m
+
+=== page 5 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1 5 DBE/November 2015
+ NSC/NSS – Grade/Graad 10 – Memorandum
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+QUESTION 4/VRAAG 4
+
+4.1 30 m∙s-1  (2)
+
+4.2 40 m∙s-1  (2)
+
+4.3 The speed decreases uniformly (from 40 m∙s-1 to 0 m∙s-1 ) 
+Die spoed neem uniform af (vanaf 40 m∙s-1 tot 0 m∙s-1)
+
+OR/OF
+The car slows down and finally stops
+Die motor beweeg stadiger en stop uiteindelik.
+
+(2)
+
+4.4
+ xΔyΔ=a 
+= 20-25 40-(0)
+= -8 m∙s-2
+
+(4)
+
+4.5 Equal to/Gelyk aan
+Same gradient /Dieselfde gradiënt
+
+(2)
+
+4.6 OPTION 1/OPSIE 1
+Displacement = Area under the v-t graph
+Verplasing  = Oppervlakte onder v-t grafiek
+                   =(Atrapezium + Arectangle/reghoek + Atriangle 1/driehoek 1) – Atriangle 2/driehoek 2
+                   = ½ (40+30)(5) +(15x40) + ½ (5 x40) – [½ (2,5 x 20)]
+                   = 850 m east/oos
+
+(7)
+
+ OR/OF
+Displacement= Area under the v-t graph
+Verplasing = Oppervlakte onder v–t grafiek
+                  = (Atrapezium/trapesium + Arectangle/reghoek + Atriangle/driehoek)- Atriangle/driehoek
+                  = ½ (20+15)(10) + (30 x 20) + ½ (5 x40) – ½ (2,5 x 20)
+                  = 850 m east/oos
+
+(7)
+   [19]
+
+ 
+ 
+
+=== page 6 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1 6 DBE/November 2015
+ NSC/NSS – Grade/Graad 10 – Memorandum
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+QUESTION 5/VRAAG 5
+
+5.1 The total mechanical energy in an isolated system is constant.  Die totale meganiese energie in 'n geïsoleerde sisteem is konstant.  (2)
+
+5.2.1 250 J  (2)
+
+5.2.2 (EM)A = (EM)C
+(EK1 + EP1)A = (EK2 + EP2)C
+(EM)A = (EK + EP)C
+C
+2
+A
+2 )mghmv21()mghmv21( +=+
+250 = ½ (5)v2  + (5)(9,8)(5) 
+v = 1,41 m∙s-1
+
+(5)
+
+5.3 Mechanical energy at point D = ½ mv2 + mgh
+Meganiese energie by punt D = 0 + (5)(9,8)(7) 
+                                                = 343 J
+
+OR/OF
+Just before it goes over point D, it is momentarily stationary.
+Net voordat dit oor punt D gaan, staan dit vir 'n oomblik stil
+Mechanical energy/Meganiese energie  = Ep = mgh = (5)(9,8)(7) = 343 J
+
+The minimum energy needed for the steel ball to reach the point D 343 J
+The mechanical energy of the steel ball is 250 J which is less than that at D
+So the ball cannot reach the point D. 
+Die minimum energie benodig vir die staalbal om punt D te bereik is 343 J
+Die meganiese energie van die staalbal is 250 J wat minder is as dit by punt
+D. So die bal kan nie punt D bereik nie
+
+(4)
+   [13]
+
+QUESTION 6/VRAAG 6
+
+6.1 Transverse/Transversale   (1)
+
+6.2 1,5 m  (1)
+
+6.3 The distance between two consecutive points in phase
+Die afstand tussen twee opeenvolgende punte in fase
+
+OR/OF
+The distance between two consecutive crests or two consecutive troughs.
+Die afstand tussen twee opeenvolgende kruine of twee opeenvolgende trôe.
+
+(2)
+
+6.4 λ  = 4 m       (6 m =1,5 waves/golwe)    (2)
+
+6.5 Any one of: A and E; B and J; D and F 
+Enige een van A en E; B en J; D en F
+
+(1)
+Any one/Enige een
+
+=== page 7 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1 7 DBE/November 2015
+ NSC/NSS – Grade/Graad 10 – Memorandum
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+6.6 4 crests implies 3 waves
+4 kruine impliseer 3 golwe
+3 x 0,5  = 1,5 s           (3 waves x 0,5 seconds per wave)
+                                         (3 golwe x 0,5 sekondes per golf)
+
+(3)
+
+6.7 speed = timecetandis 
+spoed = tyd dtanafs
+           = 75 ,0 6
+           = 8 m·s-1 
+Positive marking from 6.4
+Positiewe nasien vanaf 6.4
+v = tx∆∆ 
+     = 5,04
+     = 8 m·s-1 
+v = f λ  
+   = λ×T1
+   = 4  × 5,01
+
+OR/OF
+     = (2 x 4)
+     = 8 m·s-1  
+
+(4)
+     [14]
+
+QUESTION 7/VRAAG 7
+
+7.1 A wave in which the particles of the medium vibrate parallel to the direction of
+motion of the wave.
+'n Golf waarin die deeltjies van die medium parallel aan die rigting van
+beweging van die golf vibreer
+
+(2)
+
+7.2 OPTION 1/OPSIE 1
+taken time
+travelled distance = sound of speed   =  time echo  wallto distance × 2 
+geneemtyd
+afgeleafstand  klank van spoed =  = tydeggo muurnaafstand  2×
+                  ∴ 340 = tΔ225 × 2
+Time taken/tyd geneem = 1,32 s
+
+(4)
+ OPTION 2/OPSIE 2
+∆x  =  (vf + vi)∆t 
+     2
+225    =  (340+ 340) ∆t 
+   2
+∆t  = 0,6617 s 
+Echo travels to the wall and back again / Eggo beweeg na muur en weer terug
+∴ time/tyd = 1,32 s 
+
+(4)
+
+7.3 Less than/Minder as
+Sound travels quicker in water than in air (because water is denser).
+Klank beweeg vinniger in water as in lug (omdat water digter is)
+
+(3)
+ NOTE: There must be a comparison.
+LET WEL: Daar moet 'n vergelyking wees
+
+7.4 Reflection/Weerkaatsing  (2)
+   [11]
+
+
+
+  
+ 
+
+=== page 8 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1 8 DBE/November 2015
+ NSC/NSS – Grade/Graad 10 – Memorandum
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+QUESTION 8/VRAAG 8
+
+8.1 It can/Dit kan:
+• travel through vacuum/deur vakuum beweeg
+• travel at the speed of 3 x 108 m∙s-1/beweeg teen 'n spoed van 3 x 108 m∙s-1
+It originates from accelerating (oscillating) charges
+Dit onstaan van versnelde (ossillerende) ladings
+It propagates as electric and magnetic fields perpendicular to each other.
+Dit beweeg voort as elektriese en magnetiese velde reghoekig tot mekaar
+They can be/Hulle kan
+• Reflected/Weerkaats word
+• Refracted/Breking ondergaan
+They undergo/Hulle ondergaan
+• Inteference/Interferensie
+• Diffraction/Diffraksie
+
+(2)
+
+8.2 Gamma rays/Gammastrale  (1)
+
+8.3 E = hf 
+ 1,99 x 10-20 = (6 ,63x 10-34)(f) 
+         f  = 3,0 x 1013 Hz 
+   Infra red radiation /Infrarooistraling
+
+(4)
+
+8.4.1 Radio waves/Radiogolwe  (1)
+
+8.4.2 Infra red/Infrarooi  (1)
+
+8.4.3 X-rays/X-strale   (1)
+   [10]
+
+QUESTION 9/VRAAG 9
+
+9.1 A region in space where a magnetic material experiences a force.
+'n Gebied in die ruimte waar 'n magnetiese stof 'n krag ondervind.
+
+(2)
+
+9.2 Ferromagnetic materials/Ferromagnets
+Ferromagnetiese stowwe/Ferromagnete
+
+(1)
+
+9.3.1 Same/identical polarities
+Dieselfde/Identiese polariteite
+
+(1)
+
+9.3.2 No/Nee   (1)
+
+9.3.3 C to/na D
+D is the south pole of the magnet/is die suidpool van die magneet
+
+(2)
+
+9.4 It shields us from (harmful radiation) from solar winds.
+Dit beskerm ons van (skadelike straling) van sonwinde.
+
+(1)
+   [8]
+Any two/Enige twee
+
+=== page 9 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1 9 DBE/November 2015
+ NSC/NSS – Grade/Graad 10 – Memorandum
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+QUESTION 10/VRAAG 10
+
+10.1 In an isolated system the total/net charge remains constant
+In 'n geïsoleerde sisteem bly die totale/netto lading konstant
+
+ACCEPT/AAVAAR
+In an isolated system charge is neither created nor destroyed
+Lading word nie geskep of vernietig in 'n geïsoleerde sisteem nie.
+
+(2)
+
+10.2 The water molecule has a positive charge and is attracted toward the rod. 
+Die water molekuul het 'n positiewe lading en word na die staaf aangetrek
+
+OR/OF
+The positive end  of the water molecules are attracted to the negatively
+charged rod.
+Die positiewe ent van die watermolekule word aangetrek na die negatiewe
+staaf.
+
+OR/OF
+Unlike charges attract.   The positive end of the water molecules are
+attracted to the negatively charged comb.
+Ongelyksoortige ladings trek mekaar aan. Die positiewe ent van die
+watermolekule word aangetrek na die negatief gelaaide staaf.
+
+(2)
+
+10.3
+ eQ = n   OR/OF Q = nqe
+Q = 1014 x (1,6 x 10-19) 
+   = 1,6 x 10-5C  (0,000016 C) 
+
+(4)
+   [8]
+
+QUESTION 11/VRAAG 11
+
+11.1.1 Current/Stroom.  (1)
+
+11.1.2 The bulbs are identical and in series /the same current flows through each of
+the bulbs
+Die gloeilampe is identies en in series/ dieselfde stroom vloei deur elk van die
+gloeilampe
+
+OR/OF
+
+The same amount of charge passes through each of them in any given time.
+Dieselfde aantal lading beweeg deur elk van hulle in enige gegewe tyd.
+
+OR/OF
+The potential difference across each of them is the same hence current is the
+same.
+Die potensiaalverskil oor elk van hulle is dieselfde en gevolglik is die stroom
+dieselfde.
+
+(1)
+
+=== page 10 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1 10 DBE/November 2015
+ NSC/NSS – Grade/Graad 10 – Memorandum
+Copyright reserved/Kopiereg voorbehou
+
+11.1.3 Decrease/Afneem   (1)
+
+11.2.1 Potential difference across a conductor is the energy per unit charge flowing
+through it. 
+Die potensiaalverskil oor 'n geleier is die energie per eenheidslading wat deur
+dit vloei.
+
+OR/OF
+Work done per unit charge across the conductor. 
+Arbeid verrig per eenheidslading oor die geleier.
+
+(2)
+
+11.2.2
+21// R
+1 + R1 = R1 
+
+   = 61 + 21 
+∴ R// = 1,5 Ω 
+OR/OF
+21
+21
+// R + R
+R R = R 
+6 + 2
+6 × 2 
+
+∴ R// = 1,5 Ω 
+
+(3)
+
+11.2.3 POSITIVE MARKING FROM QUESTION 11.2.2
+POSITIEWE NASIEN VANAF VRAAG 11.2.2
+
+(4)
+OPTION 1/OPSIE 2
+A series circuit acts as a potential
+divider./
+'n Serieskakeling dien as 'n
+potensiaalverdeler
+( )tot
+tot
+p
+p VRR  V = 
+4 = ( ) totV  × 4 + ,5 1 ,5 1
+ ∴ V1 = Vtot = 14,67 V
+OPTION 2/OPSIE 2
+V = IR
+4 = I(1,5)
+I = 2,667A
+
+V2 = IR = 2,667(4)
+    = 10,67 V
+
+V1 =  Vtot =(4 + 10,67)
+    = 14,67 V
+
+11.2.4 POSITIVE MARKING FROM QUESTION 11.2.3
+POSITIEWE NASIEN VANAF VRAAG 11.2.3
+V2 = Vtot – V//
+    =(14,67 -4) 
+     =10,67 V
+OR/OF
+( )tot
+tot
+2
+2 VRR = V
+    = ( ) 67 14, ×4 + 5 ,1 4 
+   = 10,67 V
+
+(2)
+    [14]
+
+TOTAL/TOTAAL:  150
+
+
+

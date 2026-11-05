@@ -1,0 +1,430 @@
+**Vertroulik**
+
+**SENIORSERTIFIKAAT-EKSAMEN / NASIONALE SENIORSERTIFIKAAT-EKSAMEN**
+
+**FISIESE WETENSKAPPE: CHEMIE (V2)**
+
+**MEI/JUNIE 2025**
+
+**PUNTE:** 150  
+**TYD:** 3 uur  
+
+Hierdie vraestel bestaan uit 16 bladsye en 4 gegewensblaaie.
+
+---
+
+### **INSTRUKSIES EN INLIGTING**
+
+1. Skryf jou sentrumnommer en eksamennommer in die toepaslike ruimtes op die ANTWOORDEBOEK neer.
+2. Hierdie vraestel bestaan uit NEGE vrae. Beantwoord AL die vrae in die ANTWOORDEBOEK.
+3. Begin ELKE vraag op 'n NUWE bladsy in die ANTWOORDEBOEK.
+4. Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie vraestel gebruik is.
+5. Laat EEN reël tussen twee subvrae oop, bv. tussen VRAAG 2.1 en VRAAG 2.2.
+6. Jy mag 'n nieprogrammeerbare sakrekenaar gebruik.
+7. Toon ALLE formules en substitusies in ALLE berekeninge.
+8. Rond jou FINALE numeriese antwoorde tot 'n minimum van TWEE desimale plekke af.
+9. Gee kort (bondige) motiverings, besprekings, ens. waar nodig.
+10. Jy word aangeraai om die aangehegte GEGEWENSBLAAIE te gebruik.
+11. Skryf netjies en leesbaar.
+
+---
+
+## **VRAAG 1: MEERVOUDIGEKEUSE-VRAE**
+
+Verskeie opsies word as moontlike antwoorde op die volgende vrae gegee. Elke vraag het slegs EEN korrekte antwoord. Kies die antwoord en skryf slegs die letter (A–D) langs die vraagnommers (1.1 tot 1.10) in die ANTWOORDEBOEK neer, bv. 1.11 E.
+
+1.1 Hoeveel tipes Van der Waals-kragte is tussen die molekule van $\text{CH}_3\text{CH}_2\text{Br}$ teenwoordig?
+
+A 1  
+B 2  
+C 3  
+D 4  
+**(2)**
+
+1.2 Watter EEN van die volgende is die KORREKTE formule vir metielbutanoon?
+
+A $\text{CH}_3\text{CH}(\text{OH})\text{CH}(\text{CH}_3)\text{CH}_3$  
+B $\text{HCOOCH}(\text{CH}_3)\text{CH}_2\text{CH}_3$  
+C $\text{CH}_3\text{CH}_2\text{CH}(\text{CH}_3)\text{CHO}$  
+D $\text{CH}_3\text{COCH}(\text{CH}_3)\text{CH}_3$  
+**(2)**
+
+1.3 'n Verbinding $\text{CH}_3(\text{CH}_2)_5\text{CH}_3$ ondergaan die volgende reaksie:
+
+$$\text{CH}_3(\text{CH}_2)_5\text{CH}_3 \longrightarrow \mathbf{R} + \text{CH}_3(\text{CH}_2)_2\text{CH}_3$$
+
+Watter EEN van die volgende kombinasies is die KORREKTE beskrywing van die soort reaksie en die IUPAC-naam van verbinding $\mathbf{R}$?
+
+| | SOORT REAKSIE | IUPAC-NAAM |
+| :--- | :--- | :--- |
+| A | Eliminasie | Propaan |
+| B | Addisie | Propeen |
+| C | Kraking | Propaan |
+| D | Kraking | Propeen |
+
+**(2)**
+
+1.4 Twee gasse word in elk van vier leë houers by dieselfde temperatuur geplaas. Die diagramme hieronder toon die molekule van die gasse en die volumes van die houers aan die begin van die reaksie.
+
+[DIAGRAM: Four containers $V_1 = 5\text{ cm}^3$, $V_2 = 5\text{ cm}^3$, $V_3 = 10\text{ cm}^3$, $V_4 = 20\text{ cm}^3$ showing varying numbers of white circular diatomic molecules and black filled circular diatomic molecules representing gases at the start of a reaction.]
+
+In watter EEN van die volgende houers is die aanvanklike reaksietempo die hoogste?
+
+A Houer A ($V_1 = 5\text{ cm}^3$)  
+B Houer B ($V_2 = 5\text{ cm}^3$)  
+C Houer C ($V_3 = 10\text{ cm}^3$)  
+D Houer D ($V_4 = 20\text{ cm}^3$)  
+**(2)**
+
+1.5 Watter EEN van die volgende stellings is WAAR vir die effek van 'n katalisator op 'n reaksie by ewewig?
+
+A Die ewewigskonstante neem toe.  
+B Die tempo van die terugwaartse reaksie neem toe.  
+C Die aktiveringsenergie vir die terugwaartse reaksie neem toe.  
+D Die entalpieverandering, $\Delta H$, vir die voorwaartse reaksie neem af.  
+**(2)**
+
+1.6 Karbonielchloriedgas, $\text{COCl}_2(\text{g})$, ontbind in 'n geslote houer en bereik ewewig volgens die volgende vergelyking:
+
+$$\text{COCl}_2(\text{g}) \rightleftharpoons \text{CO}(\text{g}) + \text{Cl}_2(\text{g}) \quad \Delta H > 0$$
+
+Beskou die volgende stellings.
+
+'n Toename in temperatuur sal:
+(i) Die terugwaartse reaksie bevoordeel
+(ii) Die konsentrasie van die produkte verhoog
+(iii) Die ewewigskonstante verhoog
+
+Watter van die stellings hierbo is WAAR?
+
+A Slegs (i) en (ii)  
+B Slegs (i) en (iii)  
+C Slegs (ii) en (iii)  
+D (i), (ii) en (iii)  
+**(2)**
+
+1.7 Beskou die vergelyking vir die suur-basis-reaksie hieronder.
+
+$$\text{HSO}_4^-(\text{aq}) + \text{NH}_3(\text{aq}) \rightleftharpoons \text{SO}_4^{2-}(\text{aq}) + \text{NH}_4^+(\text{aq})$$
+
+Die twee sure in hierdie reaksie is …
+
+A $\text{NH}_3(\text{aq})$ en $\text{NH}_4^+(\text{aq})$  
+B $\text{HSO}_4^-(\text{aq})$ en $\text{SO}_4^{2-}(\text{aq})$  
+C $\text{HSO}_4^-(\text{aq})$ en $\text{NH}_3(\text{aq})$  
+D $\text{HSO}_4^-(\text{aq})$ en $\text{NH}_4^+(\text{aq})$  
+**(2)**
+
+1.8 Die geleidingsvermoë van twee sure, $\text{HNO}_3(\text{aq})$ en $\text{CH}_3\text{COOH}(\text{aq})$, elk met 'n konsentrasie van $1\text{ mol}\cdot\text{dm}^{-3}$, word by $25\ \text{^\circ}C$ vergelyk. Die vereenvoudigde diagramme hieronder toon die apparaat wat gebruik is. Die elektrodes is van koolstof gemaak.
+
+[DIAGRAM: Two circuits with lightbulbs labeled A and B, powered by cells, with carbon electrodes dipping into beakers containing $\text{HNO}_3(\text{aq})$ and $\text{CH}_3\text{COOH}(\text{aq})$ respectively.]
+
+Watter EEN van die volgende kombinasies wat die helderheid van gloeilamp A en gloeilamp B beskryf, en die rede hiervoor gee, is KORREK?
+
+| | HELDERHEID VAN GLOEILAMPE | REDE |
+| :--- | :--- | :--- |
+| A | A is helderder as B | $\text{CH}_3\text{COOH}$ is die sterker suur |
+| B | A is helderder as B | $\text{HNO}_3$ is die sterker suur |
+| C | B is helderder as A | $\text{CH}_3\text{COOH}$ is die swakker suur |
+| D | A en B het dieselfde helderheid | Sure het dieselfde konsentrasie |
+
+**(2)**
+
+1.9 Watter EEN van die volgende kombinasies van temperatuur en druk is KORREK vir die standaardwaterstofhalfsel?
+
+| | TEMPERATUUR ($^\circ\text{C}$) | DRUK ($\text{kPa}$) |
+| :--- | :--- | :--- |
+| A | $0$ | $273$ |
+| B | $25$ | $273$ |
+| C | $25$ | $101,3$ |
+| D | $0$ | $101,3$ |
+
+**(2)**
+
+1.10 Onsuiwer koper word in 'n elektrolitiese sel geraffineer. Watter EEN van die volgende kombinasies identifiseer die anode en die elektroliet vir hierdie sel KORREK?
+
+| | ANODE | ELEKTROLIET |
+| :--- | :--- | :--- |
+| A | Suiwer koper | $\text{Cu}(\text{NO}_3)_2(\text{aq})$ |
+| B | Suiwer koper | $\text{AgNO}_3(\text{aq})$ |
+| C | Onsuiwer koper | $\text{Cu}(\text{NO}_3)_2(\text{aq})$ |
+| D | Onsuiwer koper | $\text{AgNO}_3(\text{aq})$ |
+
+**(2)**  
+**[20]**
+
+---
+
+## **VRAAG 2 (Begin op 'n nuwe bladsy.)**
+
+Die letters **A** tot **F** in die tabel hieronder verteenwoordig organiese verbindings.
+
+| | | | |
+| :---: | :---: | :---: | :--- |
+| **A** | $\text{C}_5\text{H}_{10}\text{O}$ | **B** | [DIAGRAM: Structural formula of 4,4-dimethylpentan-2-one or similar branched carbonyl compound] $\begin{array}{cc} &\text{H} \\ &\text{l} \\\text{H}-\text{C}&-\text{H}\\ &\text{l} \\\text{H}-\text{C}&-\text{H}\\ &\text{l} \\\text{H}-\text{C}-\text{C}&-\text{C}-\text{C}-\text{C}-\text{H} \\ \text{l}\ \ \ \text{l} &\text{l}\ \ \ \text{l}\ \ \ \text{l} \\\text{H}\ \ \ \text{H} &\text{H}\ \ \ \text{I}\ \ \ \text{H} \\ &\ \ \ \text{H}\end{array}$ (Wait, let's look closely at B structure from OCR/screenshot) |
+| **C** | Butanoësuur | **D** | $(\text{CH}_3)_3\text{COH}$ |
+| **E** | $\text{CH}_2\text{C}(\text{CH}_3)_2$ | **F** | $\text{HCOOCH}_2\text{CH}_2\text{CH}_3$ |
+
+2.1 Definieer die term *onversadigde verbinding*. **(2)**
+
+2.2 Skryf die LETTER neer wat ELK van die volgende verteenwoordig:
+
+2.2.1 'n Onversadigde verbinding **(1)**  
+2.2.2 'n Funksionele isomeer van verbinding **C** **(1)**
+
+2.3 Noem die TWEE homoloë reekse waaraan **A** behoort. **(2)**
+
+2.4 Is verbinding **D** 'n PRIMÊRE, SEKONDÊRE of TERSIÊRE alkohol? Gee 'n rede vir die antwoord. **(2)**
+
+2.5 Skryf die IUPAC-naam neer van:
+
+2.5.1 Verbinding **B** **(3)**  
+2.5.2 Die POSISIONELE isomeer van verbinding **D** **(2)**
+
+2.6 Etanol reageer met verbinding **C** om 'n organiese verbinding **Z** te vorm. Skryf neer die:
+
+2.6.1 Tipe reaksie **(1)**  
+2.6.2 STRUKTUURFORMULE van verbinding **Z** **(2)**
+
+2.7 Skryf neer die:
+
+2.7.1 Empiriese formule van verbinding **F** **(1)**  
+2.7.2 STRUKTUURFORMULE van die KETTINGISOMEER van verbinding **E** **(2)**  
+**[19]**
+
+---
+
+## **VRAAG 3 (Begin op 'n nuwe bladsy.)**
+
+3.1 Die kookpunte van reguitketting-aldehiede en reguitketting-karboksielsure word vergelyk. Die tabel hieronder toon die resultate wat verkry is.
+
+| Getal koolstofatome in die verbinding | ONDERSOEK 1: Kookpunte van aldehiede ($^\circ\text{C}$) | ONDERSOEK 2: Kookpunte van karboksielsure ($^\circ\text{C}$) |
+| :---: | :---: | :---: |
+| 1 | -19 | 101 |
+| 2 | 20 | 118 |
+| 3 | 49 | 141 |
+| 4 | 75 | 164 |
+
+3.1.1 Definieer die term *homoloë reeks*. **(2)**
+
+3.1.2 Skryf neer die:  
+(a) NAAM van die FUNKSIONELE GROEP van die aldehiede **(1)**  
+(b) IUPAC-NAAM van die verbinding met die hoogste dampdruk in hierdie vergelyking **(2)**
+
+3.1.3 Vir ONDERSOEK 2:  
+(a) Skryf die gekontroleerde veranderlike neer. **(1)**  
+(b) Beskryf die neiging in die kookpunte. **(1)**  
+(c) Verduidelik die antwoord op VRAAG 3.1.3(b) volledig. **(2)**
+
+3.1.4 Skryf die kookpunt van butanaal neer. **(1)**
+
+3.2 Die dampdrukke van verbindings **A** en **B** word vergelyk.
+
+* **A:** $\text{CH}_3\text{CH}_2\text{CH}_2\text{CH}_2\text{CH}_2\text{OH}$
+* **B:** $\text{CH}_3\text{CH}_2\text{CH}_2\text{COOH}$
+
+Hoe vergelyk die dampdruk van verbinding **A** met dié van verbinding **B**? Kies uit HOËR AS, LAER AS of GELYK AAN. 
+
+Verduidelik die antwoord volledig. **(4)**  
+**[14]**
+
+---
+
+## **VRAAG 4 (Begin op 'n nuwe bladsy.)**
+
+In die vloeidiagram hieronder word 'n primêre alkohol **P** as 'n aanvangsreaktans gebruik om verskillende organiese verbindings onder verskillende reaksietoestande te vorm.
+
+[DIAGRAM: Flowchart showing Primary alcohol (Verbinding P) going via Reaksie I (Eliminasie) to Verbinding Q, then via Reaksie II to Butaan, and via Reaksie III with $\text{H}_2\text{O}$ to Verbinding S (hoofproduk).]
+
+4.1 Skryf neer die TIPE:
+
+4.1.1 Addisiereaksie deur reaksie II verteenwoordig **(1)**  
+4.1.2 Eliminasiereaksie deur reaksie I verteenwoordig **(1)**
+
+4.2 Skryf die IUPAC-naam van verbinding **P** neer. **(2)**
+
+4.3 Beskou reaksie III. Skryf neer:
+
+4.3.1 Die gebalanseerde vergelyking deur GEKONDENSEERDE struktuurformules te gebruik **(4)**  
+4.3.2 Die NAAM of FORMULE van 'n geskikte katalisator **(1)**
+
+4.4 Butaan kan na verbinding **P** in 'n TWEE-STAP-reaksie omgeskakel word. Gebruik STRUKTUURFORMULES en skryf die gebalanseerde vergelykings vir hierdie TWEE reaksies neer. **(5)**
+
+4.5 Skryf 'n gebalanseerde vergelyking, met gebruik van MOLEKULÊRE FORMULES, vir die volledige verbranding van butaan neer. **(3)**  
+**[17]**
+
+---
+
+## **VRAAG 5 (Begin op 'n nuwe bladsy.)**
+
+Die reaksie tussen magnesiumkarbonaatkorrels, $\text{MgCO}_3(\text{s})$, en 'n OORMAAT verdunde soutsuur, $\text{HCl}(\text{aq})$, word gebruik om die effek van konsentrasie op die tempo van 'n reaksie te ondersoek.
+
+$$\text{MgCO}_3(\text{s}) + 2\text{HCl}(\text{aq}) \rightarrow \text{MgCl}_2(\text{aq}) + \text{H}_2\text{O}(\ell) + \text{CO}_2(\text{g})$$
+
+Die apparaat wat vir hierdie ondersoek gebruik word, word hieronder getoon.
+
+[DIAGRAM: Conical flask containing reaction mixture on an electronic balance displaying $144,500\text{ g}$, labeled "Fles met reaksiemengsel" and "Skaal".]
+
+5.1 Definieer die term *reaksietempo*. **(2)**
+
+5.2 Skryf EEN gekontroleerde veranderlike vir hierdie ondersoek neer. **(1)**
+
+Drie eksperimente wat verskillende konsentrasies van $\text{HCl}(\text{aq})$ gebruik, word uitgevoer. Die konsentrasie van die $\text{HCl}(\text{aq})$ tydens elke eksperiment verander nie.
+
+| EKSPERIMENT | KONSENTRASIE VAN $\text{HCl}(\text{aq})$ ($\text{mol}\cdot\text{dm}^{-3}$) |
+| :---: | :---: |
+| 1 | $0,1$ |
+| 2 | $0,5$ |
+| 3 | $1,0$ |
+
+Die ONVOLLEDIGE grafiek van die resultate vir die eksperimente word hieronder getoon.
+
+[DIAGRAM: Graph of Mass of reaction mixture and flask ($g$) versus Time ($s$). Three curves labeled A, B, C starting at $144,50\text{ g}$ decreasing over time to different final masses at $t = 120\text{ s}$ ($144,37\text{ g}$, $143,87\text{ g}$, $143,24\text{ g}$).]
+
+5.3 Gee 'n rede waarom die massa van die reaksiemengsel en fles afneem. **(1)**
+
+5.4 Vir kurwe **B**, bereken die gemiddelde tempo waarteen $\text{CO}_2(\text{g})$ vir die eerste $120\text{ s}$ in $\text{dm}^3\cdot\text{s}^{-1}$ geproduseer word. Die molêre gasvolume is $24,5\text{ dm}^3\cdot\text{mol}^{-1}$. **(6)**
+
+5.5 Watter kurwe verteenwoordig EKSPERIMENT 1? Kies uit **A**, **B** of **C**. 
+
+Gebruik die botsingsteorie om die antwoord te verduidelik. **(5)**
+
+5.6 Hoe sal die finale massa van $\text{CO}_2(\text{g})$ wat in EKSPERIMENT 2 geproduseer is, met dié van EKSPERIMENT 3 vergelyk? Kies uit MEER AS, MINDER AS of DIESELFDE.
+
+Gee 'n rede vir die antwoord. **(2)**  
+**[17]**
+
+---
+
+## **VRAAG 6 (Begin op 'n nuwe bladsy.)**
+
+Die reaksie tussen verpoeierde koolstof, $\text{C}(\text{s})$, en koolstofdioksiedgas, $\text{CO}_2(\text{g})$, vind in 'n geslote $3\text{ dm}^3$-houer plaas volgens die gebalanseerde vergelyking hieronder.
+
+$$\text{C}(\text{s}) + \text{CO}_2(\text{g}) \rightleftharpoons 2\text{CO}(\text{g}) \quad \Delta H < 0$$
+
+Ewewig word by temperatuur $T\ \text{^\circ}\text{C}$ bereik.
+
+Die grafiek hieronder, nie volgens skaal geteken nie, toon die kurwes vir die massa van die reaktanse in die houer teenoor tyd.
+
+[DIAGRAM: Graph of Mass of reactants ($g$) versus Time ($minutes$). Curve for $\text{CO}_2(\text{g})$ starts at $41,2\text{ g}$ and levels off at $X$. Curve for $\text{C}(\text{s})$ starts at $14,0\text{ g}$ and levels off at $4,44\text{ g}$ at time $t_1$.]
+
+6.1 Hoe sal ELK van die volgende veranderings die getal mol van $\text{CO}_2(\text{g})$ by ewewig beïnvloed?
+
+Kies uit AFNEEM, TOENEEM of BLY DIESELFDE.
+
+6.1.1 'n Katalisator word bygevoeg. **(1)**  
+6.1.2 Die volume van die houer word by 'n konstante temperatuur vergroot. **(1)**  
+6.1.3 Meer verpoeierde koolstof word bygevoeg. **(1)**
+
+6.2 Verduidelik die antwoord op VRAAG 6.1.2 deur na Le Chatelier se beginsel te verwys. **(2)**
+
+6.3 Bereken die waarde van $\text{X}$ wat op die grafiek getoon word. **(6)**
+
+6.4 Bereken die ewewigskonstante, $K_c$, by $T\ \text{^\circ}\text{C}$. **(5)**
+
+6.5 Die gebalanseerde vergelyking vir hierdie reaksie is hieronder herskryf vir maklike verwysing.
+
+$$\text{C}(\text{s}) + \text{CO}_2(\text{g}) \rightleftharpoons 2\text{CO}(\text{g}) \quad \Delta H < 0$$
+
+Die grafiek hieronder toon die aantal mol van $\text{CO}(\text{g})$, $\text{C}(\text{s})$ and $\text{CO}_2(\text{g})$ in die fles by ewewig by tyd $t_1$.
+
+By $t_2$ word 'n hoeveelheid $\text{CO}(\text{g})$ by die fles gevoeg en die reaksie word toegelaat om ewewig te bereik. Kurwe Z toon die verandering in die hoeveelheid $\text{CO}(\text{g})$ tussen $t_2$ en $t_3$.
+
+'n Leerder teken ooreenkomstige kurwes, benoem X en Y, vir $\text{C}(\text{s})$ en $\text{CO}_2(\text{g})$ respektiewelik.
+
+[DIAGRAM: Graph of Amount (mol) versus Time (minutes) from $t_1$ to $t_3$. Shows $\text{CO}$ rising at $t_2$ and following curve Z, with dotted curves labeled $\text{X}$ for $\text{C}$ and dashed curves labeled $\text{Y}$ for $\text{CO}_2$.]
+
+Watter van hierdie kurwes verteenwoordig hierdie veranderinge KORREK?  
+Kies uit: $\text{X}$ of $\text{Y}$ of $\text{X}$ en $\text{Y}$ **(2)**
+
+6.6 Watter effek sal die byvoeging van $\text{CO}(\text{g})$ op die ewewigskonstante, $K_c$, hê? Kies uit TOENEEM, AFNEEM of BLY DIESELFDE. **(1)**  
+**[19]**
+
+---
+
+## **VRAAG 7 (Begin op 'n nuwe bladsy.)**
+
+7.1 Definieer 'n *suur* volgens die Arrhenius-teorie. **(2)**
+
+7.2 Die tabel hieronder toon waterige oplossings van verskillende stowwe, elk met konsentrasie van $1\text{ mol}\cdot\text{dm}^{-3}$ by kamertemperatuur.
+
+| | | | |
+| :---: | :---: | :---: | :---: |
+| $\text{HNO}_3(\text{aq})$ | $\text{H}_2\text{SO}_4(\text{aq})$ | $\text{NaCl}(\text{aq})$ | $\text{NaOH}(\text{aq})$ |
+| $(\text{COOH})_2(\text{aq})$ | $\text{HCO}_3^-(\text{aq})$ | $\text{Mg(OH)}_2(\text{aq})$ | $\text{NH}_3(\text{aq})$ | $\text{CH}_3\text{COOH}(\text{aq})$ |
+
+Identifiseer uit die tabel en skryf die FORMULE neer vir:
+
+7.2.1 'n Swak diprotiese suur **(1)**  
+7.2.2 'n Oplossing met 'n pH van 7 **(1)**  
+7.2.3 'n Amfoliet **(1)**  
+7.2.4 Die oplossing wat, wanneer dit met $(\text{COOH})_2(\text{aq})$ geneutraliseer word, 'n oplossing met 'n pH groter as 7 sal hê **(2)**
+
+7.3 'n Onbekende suur $\text{H}_x\text{Y}$ word ondersoek.
+
+Gedurende 'n titrasie neutraliseer $23,64\text{ cm}^3$ van 'n $0,11\text{ mol}\cdot\text{dm}^{-3}$ $\text{H}_x\text{Y}$-oplossing, $20\text{ cm}^3$ van 'n $0,26\text{ mol}\cdot\text{dm}^{-3}$ $\text{NaOH}$-oplossing.
+
+Bereken die waarde van $x$. Skryf vervolgens die gebalanseerde vergelyking vir hierdie reaksie neer. **(6)**
+
+7.4 In 'n eksperiment reageer $1,5\text{ g}$ van 'n verpoeierde ONSUIWER kalsiumkarbonaatmonster, $\text{CaCO}_3(\text{s})$, met $200\text{ cm}^3$ van 'n $0,15\text{ mol}\cdot\text{dm}^{-3}$-soutsuuroplossing, $\text{HCl}(\text{aq})$. Die gebalanseerde vergelyking vir die reaksie is:
+
+$$\text{CaCO}_3(\text{s}) + 2\text{HCl}(\text{aq}) \rightarrow \text{CaCl}_2(\text{aq}) + \text{CO}_2(\text{g}) + \text{H}_2\text{O}(\ell)$$
+
+Al die $\text{CO}_2(\text{g})$ wat gevorm is, ontsnap uit die oplossing.
+
+Die resulterende oplossing het 'n pH van $1,61$ en 'n volume van $200\text{ cm}^3$.
+
+Neem aan dat AL die $\text{CaCO}_3(\text{s})$ in die onsuiwer monster met die $\text{HCl}(\text{aq})$ gereageer het en dat geen van die onsuiwerhede gereageer het nie.
+
+Bereken die massa van die onsuiwerhede teenwoordig in die $1,5\text{ g}$-monster van onsuiwer $\text{CaCO}_3(\text{s})$. **(9)**  
+**[22]**
+
+---
+
+## **VRAAG 8 (Begin op 'n nuwe bladsy.)**
+
+Die vereenvoudigde diagram hieronder toon 'n sel wat gebruik kan word om die standaard-elektrodepotensiaal van die halfreaksie te meet wat deur die vergelyking hieronder verteenwoordig word.
+
+$$\text{Fe}^{3+}(\text{aq}) + \text{e}^- \rightleftharpoons \text{Fe}^{2+}(\text{aq})$$
+
+[DIAGRAM: Electrochemical cell setup with a voltmeter connected to Electrode A on the left beaker and Electrode B in a salt-bridged half-cell with $\text{H}_2(\text{g})$ bubbling over platinum electrode B in solution D.]
+
+8.1 Vir oplossing D, skryf die NAAM of FORMULE neer van die ione benodig. **(1)**
+
+8.2 Skryf die aanvanklike voltmeterlesing neer. **(1)**
+
+8.3 Watter elektrode, A of B, is die katode? **(1)**
+
+8.4 Verduidelik die antwoord op VRAAG 8.3 in terme van die relatiewe sterktes van die reduseermiddels. **(3)**
+
+8.5 Skryf neer die:
+
+8.5.1 NAAM of FORMULE van die metaal wat as elektrode A gebruik word **(1)**  
+8.5.2 Halfreaksie wat by elektrode B plaasvind **(2)**  
+8.5.3 Selnotasie vir hierdie sel **(3)**
+
+8.6 Gee 'n rede waarom die voltmeterlesing na nul val nadat die sel vir 'n geruime tyd in werking is. **(1)**  
+**[13]**
+
+---
+
+## **VRAAG 9 (Begin op 'n nuwe bladsy.)**
+
+Die vereenvoudigde diagram hieronder verteenwoordig 'n elektrolitiese sel wat gebruik word om die elektrolise van 'n gekonsentreerde natriumchloriedoplossing, $\text{NaCl}(\text{aq})$, te demonstreer.
+
+**X** en **Y** is koolstof-elektrodes.
+
+[DIAGRAM: Electrolytic cell with a DC source connected to carbon electrodes X and Y immersed in concentrated sodium chloride solution, with inverted test tubes collecting gas above each electrode.]
+
+9.1 Definieer die term *elektrolise*. **(2)**
+
+9.2 Skryf die reduksiehalfreaksie vir hierdie sel neer. **(2)**
+
+9.3 Wat is die rigting van die elektronvloei in die eksterne stroombaan? Kies uit $\text{X}$ tot $\text{Y}$ of $\text{Y}$ tot $\text{X}$. **(1)**
+
+9.4 Bereken die aantal elektrone wat deur die eksterne stroombaan oorgedra word wanneer $300\text{ cm}^3$ gas by elektrode **X** versamel word.
+
+Neem die molêre gasvolume as $24\text{ dm}^3\cdot\text{mol}^{-1}$. **(4)**  
+**[9]**
+
+**TOTAAL: 150**

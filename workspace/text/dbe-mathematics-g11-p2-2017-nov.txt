@@ -1,0 +1,301 @@
+# NATIONAL SENIOR CERTIFICATE
+
+## GRADE 11
+
+# MATHEMATICS P2
+
+## NOVEMBER 2017
+
+**MARKS: 150**  
+**TIME: 3 hours**
+
+This question paper consists of 13 pages and an answer book of 24 pages.
+
+---
+
+## INSTRUCTIONS AND INFORMATION
+
+Read the following instructions carefully before answering the questions.
+
+1. This question paper consists of 12 questions.
+2. Answer **ALL** the questions in the **ANSWER BOOK** provided.
+3. Clearly show **ALL** calculations, diagrams, graphs et cetera that you used to determine the answers.
+4. Answers only will **NOT** necessarily be awarded full marks.
+5. Round off answers to **TWO** decimal places, unless stated otherwise.
+6. Diagrams are **NOT** necessarily drawn to scale.
+7. You may use an approved scientific calculator (non-programmable and non-graphical), unless stated otherwise.
+8. Write neatly and legibly.
+
+---
+
+## QUESTION 1
+
+1.1 Mr Brown conducted a survey on the amount of airtime (in rands) EACH student had on his or her cellphone. He summarised the data in the box and whisker diagram below.
+
+[DIAGRAM: A box and whisker diagram with a number line from 10 to 66 in intervals of 2. The minimum value is at 14, the lower quartile ($Q_1$) is at 17, the median is at 30, the upper quartile ($Q_3$) is at 38, and the maximum value is at 64.]
+
+```
+  +---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+ 10  12  14  16  18  20  22  24  26  28  30  32  34  36  38  40  42  44  46  48  50  52  54  56  58  60  62  64  66
+```
+
+1.1.1 Write down the five-number summary of the data. (2)
+
+1.1.2 Determine the interquartile range. (1)
+
+1.1.3 Comment on the skewness of the data. (1)
+
+1.2 A group of 13 students indicated how long it took (in hours) before their cellphone batteries required recharging. The information is given in the table below.
+
+$$\begin{array}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+5 & 8 & 10 & 17 & 20 & 29 & 32 & 48 & 50 & 50 & 63 & y & 107 \\
+\hline
+\end{array}$$
+
+1.2.1 Calculate the value of $y$ if the mean for this data set is 41. (2)
+
+1.2.2 If $y = 94$, calculate the standard deviation of the data. (1)
+
+1.2.3 The mean time before another group of 6 students needed to recharge the batteries of their cellphones was 18 hours. Combine these groups and calculate the overall mean time needed for these two groups to recharge the batteries of their cellphones. (3)
+
+[10]
+
+---
+
+## QUESTION 2
+
+A student conducted a survey among his friends and relatives to determine the relationship between the age of a person and the number of marketing phone calls he or she received within one month. The information is given in the table below.
+
+$$\begin{array}{|c|c|c|}
+\hline
+\textbf{AGE OF PERSON} & \textbf{FREQUENCY} & \textbf{CUMULATIVE} \\
+\textbf{IN SURVEY} & & \textbf{FREQUENCY} \\
+\hline
+20 < x \le 30 & 7 & 7 \\
+\hline
+30 < x \le 40 & & 27 \\
+\hline
+40 < x \le 50 & 25 & \\
+\hline
+50 < x \le 60 & & 64 \\
+\hline
+60 < x \le 70 & & 72 \\
+\hline
+70 < x \le 80 & 4 & \\
+\hline
+80 < x \le 90 & & 80 \\
+\hline
+\end{array}$$
+
+2.1 Complete the frequency and cumulative frequency columns in the table given in the **ANSWER BOOK**. (4)
+
+2.2 How many people participated in this survey? (1)
+
+2.3 Write down the modal class. (1)
+
+2.4 Draw an ogive (cumulative frequency graph) to represent the data on the grid given in the **ANSWER BOOK**. (3)
+
+2.5 Determine the percentage of marketing calls received by people older than 54 years. (3)
+
+[12]
+
+---
+
+## QUESTION 3
+
+$A(-2\ ;\ -5)$, $B$, $C$ and $D$ are the vertices of quadrilateral $ABCD$ such that diagonal $AC$ is perpendicular to diagonal $BD$ at $T$.  
+The equation of $BTD$ is given by $2y + x = 18$ and $AB = 15\text{ units}$.
+
+[DIAGRAM: Quadrilateral $ABCD$ in a Cartesian plane. $A(-2, -5)$ is in the third quadrant. $B$ is in the second quadrant. $C$ is in the first quadrant. $D$ is in the fourth quadrant. Diagonal $BD$ and diagonal $AC$ intersect perpendicularly at $T$. A line segment of length 15 units connects $A$ and $B$.]
+
+3.1 Determine the gradient of line $AC$. (2)
+
+3.2 Determine the equation of $AC$ in the form $y = mx + c$. (2)
+
+3.3 If the equation of $AC$ is $y = 2x - 1$, calculate the coordinates of $T$. (3)
+
+3.4 If $ABCD$ is a kite with $AB = BC$:
+
+3.4.1 Determine the coordinates of $C$ (2)
+
+3.4.2 Calculate the length of $BT$ (4)
+
+3.4.3 Write down the length of the radius of the circle passing through points $B$, $C$ and $T$ (2)
+
+[15]
+
+---
+
+## QUESTION 4
+
+$C$, a point on the $x$-axis, $A(-5\ ;\ -3)$ and $B(4\ ;\ 12)$ are the vertices of a triangle.  
+$AB$ intersects the $x$-axis at $E$.  
+$\hat{A}BC = \theta$ and $B\hat{E}C = \alpha$.
+
+[DIAGRAM: Triangle $ABC$ with $A(-5, -3)$, $B(4, 12)$, and $C$ on the positive $x$-axis. $AB$ intersects the $x$-axis at $E$. Angle $\alpha$ is at vertex $E$ between the $x$-axis and line $AB$. Angle $\theta$ is at vertex $B$.]
+
+4.1 Calculate the gradient of $AB$. (2)
+
+4.2 Determine the coordinates of point $E$. (3)
+
+4.3 Determine the size of $\alpha$. Round off to the nearest whole number. (2)
+
+4.4 If $\theta = 76^\circ$, determine the equation of the line through $A$ parallel to $BC$. (5)
+
+[12]
+
+---
+
+## QUESTION 5
+
+5.1 Simplify fully: $\frac{\sin(90^\circ - x) \cdot \cos(180^\circ + x) + \tan x \cdot \cos x \cdot \sin(x - 180^\circ)}{\cos(-x)}$ (6)
+
+5.2 Prove, WITHOUT using a calculator, that:
+
+$$\frac{\sin 315^\circ \cdot \tan 210^\circ \cdot \sin 190^\circ}{\cos 100^\circ \cdot \sin 120^\circ} = -\frac{\sqrt{2}}{3}$$ (6)
+
+5.3 In the diagram below, $R$ is a point in the first quadrant such that $T\hat{O}R = \alpha$.  
+$RO$ is extended to $P$ such that $OP = 2\ RO$ and $T\hat{O}P = \beta$.  
+It is given that $\sin \alpha = \frac{3}{5}$.
+
+[DIAGRAM: Cartesian plane showing angle $\alpha$ from positive $x$-axis to ray $OR$ in the first quadrant. Ray $OP$ is the extension of $RO$ into the third quadrant, with angle $\beta$ measured counterclockwise from the positive $x$-axis to ray $OP$. $T$ lies on the positive $x$-axis.]
+
+WITHOUT using a calculator, determine:
+
+5.3.1 The value of $\tan \alpha$ (3)
+
+5.3.2 The value of $\sin \beta$ (3)
+
+5.3.3 The coordinates of $P$ (4)
+
+5.4 Prove the identity: $\frac{\sin \theta - \tan \theta \cdot \cos^2 \theta}{\cos \theta - 1 + \sin^2 \theta} = \tan \theta$ (4)
+
+[26]
+
+---
+
+## QUESTION 6
+
+6.1 Determine the general solution for $\sin(x - 30^\circ) = \cos 2x$ (5)
+
+6.2 Consider the functions $f(x) = \sin(x - 30^\circ)$ and $g(x) = \cos 2x$.
+
+6.2.1 Write down the period of $g$. (1)
+
+6.2.2 State the range of $f$. (2)
+
+6.2.3 On the grid provided in the ANSWER BOOK, draw the graphs of $f$ and $g$ for $x \in [-90^\circ; 180^\circ]$.  
+Clearly show ALL intercepts with the axes, turning points and end points. (5)
+
+6.2.4 Write down the $x$-coordinates of the points of intersection of $f$ and $g$ in the interval $x \in [-90^\circ; 180^\circ]$. (3)
+
+[16]
+
+---
+
+## QUESTION 7
+
+In $\Delta PQR$, $QR = 3\text{ units}$, $PR = x\text{ units}$, $PQ = 2x\text{ units}$ and $P\hat{Q}R = \theta$.
+
+[DIAGRAM: Triangle $PQR$ with side $QR = 3$, $PR = x$, $PQ = 2x$, and angle $P\hat{Q}R = \theta$.]
+
+7.1 Show that $\cos \theta = \frac{x^2 + 3}{4x}$ (3)
+
+7.2 If $x = 2,4\text{ units}$:
+
+7.2.1 Calculate $\theta$ (3)
+
+7.2.2 Calculate the area of $\Delta PQR$ (2)
+
+7.3 Calculate the values of $x$ for which the triangle exists. (4)
+
+[12]
+
+---
+
+## QUESTION 8
+
+A pyramid with a square base with a side length of $16\text{ cm}$ is sketched below. $P$ lies on the square base directly below $A$.  
+The volume of the pyramid is $640\text{ cm}^3$.
+
+$$\text{Volume of pyramid} = \frac{1}{3}Ah$$
+
+[DIAGRAM: A square-based pyramid $A$-square base. $P$ is the center of the square base, directly below the apex $A$. The perpendicular height $AP$ is $h$. A dashed line goes from $A$ to $P$, and from $P$ to the midpoint $T$ of one of the base edges. The side length of the square base is $16\text{ cm}$.]
+
+8.1 Show that the perpendicular height of the pyramid, $AP$, is $7,5\text{ cm}$. (2)
+
+8.2 Hence, determine the total surface area of the pyramid. (4)
+
+[6]
+
+---
+
+**Give reasons for your statements and calculations in QUESTIONS 9, 10, 11 and 12.**
+
+## QUESTION 9
+
+9.1 In the diagram below, $O$ is the centre of the circle and point $T$ lies on chord $RS$.  
+Prove the theorem which states that if $OT \perp RTS$ then $RT = TS$.
+
+[DIAGRAM: A circle with center $O$ and chord $RS$. $T$ is on chord $RS$ such that $OT \perp RS$. Radipresumably $OR$ and $OS$ are drawn forming two right-angled triangles $ORT$ and $OST$. Angles 1 and 2 are marked at $T$.] (5)
+
+9.2 In the diagram, $O$ is the centre of circle $ABD$. $F$ is a point on chord $AB$ such that $DOF \perp AB$. $AB = FD = 8\text{ cm}$ and $OF = x\text{ cm}$.
+
+[DIAGRAM: Circle with center $O$. Chord $AB$ intersects radius $OD$ at point $F$ perpendicularly. $DOF$ is a diameter or radius extension. $AB = FD = 8\text{ cm}$, $OF = x$. A line segment is drawn from $B$ to $D$.]
+
+Determine the length of the radius of the circle. (5)
+
+[10]
+
+---
+
+## QUESTION 10
+
+$M$ is the centre of the circle $SVQR$ having equal chords $SV$ and $QR$.  
+$RP$ and $QP$ are tangents to the circle at $R$ and $Q$ respectively such that $R\hat{P}Q = 70^\circ$.
+
+[DIAGRAM: Circle with center $M$ containing points $S, V, Q, R$. Chords $SV$ and $QR$ are equal. Tangents $RP$ and $QP$ meet at point $P$ outside the circle with $R\hat{P}Q = 70^\circ$. Various angles are labeled: $\hat{R}_1, \hat{R}_2, \hat{Q}_1, \hat{Q}_2, \hat{M}_1, \hat{M}_2$, etc.]
+
+10.1 Calculate the size of $\hat{R}_2$. (4)
+
+10.2 Calculate the size of $\hat{Q}_1$. (2)
+
+10.3 Determine the size of $\hat{M}_2$. (3)
+
+[9]
+
+---
+
+## QUESTION 11
+
+In the diagram below, $O$ is the centre of the circle. $CDE$ is a tangent to the circle at $D$.  
+$DB$ bisects $A\hat{B}C$. Let $\hat{B}_1 = x$.
+
+[DIAGRAM: Circle with center $O$. $CDE$ is a tangent at $D$. $A$ and $B$ are points on the circle. Chord $DB$ bisects angle $A\hat{B}C$. $\hat{B}_1 = x$. Angles at $O$, $\hat{B}_2$, $\hat{D}_1, \hat{D}_2$ are marked.]
+
+11.1 Prove that $BC \parallel OD$ (4)
+
+11.2 Show that $\hat{C} = 90^\circ$ (3)
+
+[7]
+
+---
+
+## QUESTION 12
+
+In the diagram below, two circles touch each other externally at point $P$.  
+$QPR$ is a common tangent to both circles at $P$. $EDRC$ is a tangent to circle $PBFC$ at $C$.  
+$R\hat{C}A = y$ and $D\hat{A}C = x$. $AD \parallel BC$.
+
+[DIAGRAM: Two circles touching externally at $P$. Common tangent $QPR$ at $P$. Tangent $EDRC$ touches the right circle at $C$. Chord $AC$ in the left circle, chord $AD$, angle $D\hat{A}C = x$, angle $R\hat{C}A = y$, parallel lines $AD \parallel BC$, many labeled angles around point $P$ ($P_1$ to $P_8$) and triangles.]
+
+12.1 Name, with reasons, FOUR other angles equal to $x$. (7)
+
+12.2 Show that $E\hat{P}A = x + y$ (4)
+
+12.3 Determine the numerical value of $x + y$, if it is given that $DCTP$ is a cyclic quadrilateral. (4)
+
+[15]
+
+**TOTAL: 150**

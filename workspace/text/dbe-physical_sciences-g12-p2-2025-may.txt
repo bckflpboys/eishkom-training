@@ -1,0 +1,393 @@
+# SENIOR CERTIFICATE EXAMINATIONS/ NATIONAL SENIOR CERTIFICATE EXAMINATIONS
+
+**PHYSICAL SCIENCES: CHEMISTRY (P2)**  
+**MAY/JUNE 2025**  
+**MARKS:** 150  
+**TIME:** 3 hours  
+
+---
+
+## INSTRUCTIONS AND INFORMATION
+
+1. Write your centre number and examination number in the appropriate spaces on the ANSWER BOOK.
+2. This question paper consists of NINE questions. Answer ALL the questions in the ANSWER BOOK.
+3. Start EACH question on a NEW page in the ANSWER BOOK.
+4. Number the answers correctly according to the numbering system used in this question paper.
+5. Leave ONE line between two subquestions, e.g. between QUESTION 2.1 and QUESTION 2.2.
+6. You may use a non-programmable calculator.
+7. Show ALL formulae and substitutions in ALL calculations.
+8. Round off your FINAL numerical answers to a minimum of TWO decimal places.
+9. Give brief motivations, discussions, etc. where required.
+10. You are advised to use the attached DATA SHEETS.
+11. Write neatly and legibly.
+
+---
+
+## QUESTION 1: MULTIPLE-CHOICE QUESTIONS
+
+Various options are provided as possible answers to the following questions. Each question has only ONE correct answer. Choose the answer and write only the letter (A–D) next to the question numbers (1.1 to 1.10) in the ANSWER BOOK, e.g. 1.11 E.
+
+1.1 How many types of Van der Waals forces are present between the molecules of $\text{CH}_3\text{CH}_2\text{Br}$?  
+A 1  
+B 2  
+C 3  
+D 4  
+(2)
+
+1.2 Which ONE of the following is the CORRECT formula of methylbutanone?  
+A $\text{CH}_3\text{CH(OH)CH(CH}_3\text{)CH}_3$  
+B $\text{HCOOCH(CH}_3\text{)CH}_2\text{CH}_3$  
+C $\text{CH}_3\text{CH}_2\text{CH(CH}_3\text{)CHO}$  
+D $\text{CH}_3\text{COCH(CH}_3\text{)CH}_3$  
+(2)
+
+1.3 A compound $\text{CH}_3(\text{CH}_2)_5\text{CH}_3$ undergoes the following reaction:  
+$$\text{CH}_3(\text{CH}_2)_5\text{CH}_3 \rightarrow \text{R} + \text{CH}_3(\text{CH}_2)_2\text{CH}_3$$  
+
+Which ONE of the following combinations CORRECTLY describes the type of reaction and the IUPAC name of compound R?
+
+| | TYPE OF REACTION | IUPAC NAME |
+|---|---|---|
+| A | Elimination | Propane |
+| B | Addition | Propene |
+| C | Cracking | Propane |
+| D | Cracking | Propene |
+
+(2)
+
+1.4 Two gases are added into each of four empty containers at the same temperature. The diagrams below show the molecules of the gases and the volumes of the containers at the start of the reaction.
+
+[DIAGRAM: Four containers A, B, C, D with volumes $V_1 = 5\text{ cm}^3$, $V_2 = 5\text{ cm}^3$, $V_3 = 10\text{ cm}^3$, $V_4 = 20\text{ cm}^3$ containing different numbers of white and black diatomic gas molecules.]
+
+In which ONE of the following containers is the initial reaction rate the highest?  
+A A  
+B B  
+C C  
+D D  
+(2)
+
+1.5 Which ONE of the following statements is TRUE for the effect of a catalyst on a reaction at equilibrium?  
+A The equilibrium constant increases.  
+B The rate of the reverse reaction increases.  
+C The activation energy for the reverse reaction increases.  
+D The enthalpy change, $\Delta H$, for the forward reaction decreases.  
+(2)
+
+1.6 Carbonyl chloride gas, $\text{COCl}_2(\text{g})$, decomposes in a closed container and reaches equilibrium according to the following equation:  
+$$\text{COCl}_2(\text{g}) \rightleftharpoons \text{CO}(\text{g}) + \text{Cl}_2(\text{g}) \quad \Delta H > 0$$  
+
+Consider the following statements.  
+An increase in temperature will:  
+(i) Favour the reverse reaction  
+(ii) Increase the concentration of the products  
+(iii) Increase the equilibrium constant  
+
+Which of the statements above are TRUE?  
+A (i) and (ii) only  
+B (i) and (iii) only  
+C (ii) and (iii) only  
+D (i), (ii) and (iii)  
+(2)
+
+1.7 Consider the equation for the acid-base reaction below.  
+$$\text{HSO}_4^-(\text{aq}) + \text{NH}_3(\text{aq}) \rightleftharpoons \text{SO}_4^{2-}(\text{aq}) + \text{NH}_4^+(\text{aq})$$  
+
+The two acids in this reaction are …  
+A $\text{NH}_3(\text{aq})$ and $\text{NH}_4^+(\text{aq})$  
+B $\text{HSO}_4^-(\text{aq})$ and $\text{SO}_4^{2-}(\text{aq})$  
+C $\text{HSO}_4^-(\text{aq})$ and $\text{NH}_3(\text{aq})$  
+D $\text{HSO}_4^-(\text{aq})$ and $\text{NH}_4^+(\text{aq})$  
+(2)
+
+1.8 The conductivity of two acids, $\text{HNO}_3(\text{aq})$ and $\text{CH}_3\text{COOH}(\text{aq})$, each with a concentration of $1\text{ mol}\cdot\text{dm}^{-3}$, is compared at $25\text{ }^\circ\text{C}$. The simplified diagrams below show the apparatus used. The electrodes are made of carbon.
+
+[DIAGRAM: Two circuits with DC sources, carbon electrodes in beakers containing $\text{HNO}_3(\text{aq})$ (Bulb A) and $\text{CH}_3\text{COOH}(\text{aq})$ (Bulb B).]
+
+Which ONE of the following combinations CORRECTLY describes the brightness of bulb A and bulb B, and provides the reason for this?
+
+| | BRIGHTNESS OF BULBS | REASON |
+|---|---|---|
+| A | A is brighter than B | $\text{CH}_3\text{COOH}$ is the stronger acid |
+| B | A is brighter than B | $\text{HNO}_3$ is the stronger acid |
+| C | B is brighter than A | $\text{CH}_3\text{COOH}$ is the weaker acid |
+| D | A and B have equal brightness | Acids are of equal concentration |
+
+(2)
+
+1.9 Which ONE of the following combinations of temperature and pressure is CORRECT for the standard hydrogen half-cell?
+
+| | TEMPERATURE ($^\circ\text{C}$) | PRESSURE ($\text{kPa}$) |
+|---|---|---|
+| A | 0 | 273 |
+| B | 25 | 273 |
+| C | 25 | 101,3 |
+| D | 0 | 101,3 |
+
+(2)
+
+1.10 Impure copper is refined in an electrolytic cell. Which ONE of the following combinations CORRECTLY identifies the anode and the electrolyte for this cell?
+
+| | ANODE | ELECTROLYTE |
+|---|---|---|
+| A | Pure copper | $\text{Cu(NO}_3)_2(\text{aq})$ |
+| B | Pure copper | $\text{AgNO}_3(\text{aq})$ |
+| C | Impure copper | $\text{Cu(NO}_3)_2(\text{aq})$ |
+| D | Impure copper | $\text{AgNO}_3(\text{aq})$ |
+
+(2)  
+**[20]**
+
+---
+
+## QUESTION 2 (Start on a new page.)
+
+The letters **A** to **F** in the table below represent organic compounds.
+
+| | | | |
+|---|---|---|---|
+| **A** | $\text{C}_5\text{H}_{10}\text{O}$ | **B** | [DIAGRAM: Structural formula of 2,2,4-trimethylpentane] |
+| **C** | Butanoic acid | **D** | $\text{(CH}_3)_3\text{COH}$ |
+| **E** | $\text{CH}_2\text{C(CH}_3)_2$ | **F** | $\text{HCOOCH}_2\text{CH}_2\text{CH}_3$ |
+
+2.1 Define the term *unsaturated compound*. (2)
+
+2.2 Write down the LETTER that represents EACH of the following:  
+2.2.1 An unsaturated compound (1)  
+2.2.2 A functional isomer of compound **C** (1)  
+
+2.3 Name the TWO homologous series to which **A** belongs. (2)
+
+2.4 Is compound **D** a PRIMARY, SECONDARY or TERTIARY alcohol? Give a reason for the answer. (2)
+
+2.5 Write down the IUPAC name of:  
+2.5.1 Compound **B** (3)  
+2.5.2 The POSITIONAL isomer of compound **D** (2)  
+
+2.6 Ethanol reacts with compound **C** to form an organic compound **Z**.  
+Write down the:  
+2.6.1 Type of reaction (1)  
+2.6.2 STRUCTURAL FORMULA of compound **Z** (2)  
+
+2.7 Write down the:  
+2.7.1 Empirical formula of compound **F** (1)  
+2.7.2 STRUCTURAL FORMULA of the CHAIN ISOMER of compound **E** (2)  
+**[19]**
+
+---
+
+## QUESTION 3 (Start on a new page.)
+
+3.1 The boiling points of straight chain aldehydes and straight chain carboxylic acids are compared. The table below shows the results obtained.
+
+| INVESTIGATION 1 | INVESTIGATION 2 |
+| :---: | :---: |
+| Number of carbon atoms in the compound | Boiling point of aldehydes ($^\circ\text{C}$) | Boiling point of carboxylic acids ($^\circ\text{C}$) |
+| 1 | -19 | 101 |
+| 2 | 20 | 118 |
+| 3 | 49 | 141 |
+| 4 | 75 | 164 |
+
+3.1.1 Define the term *homologous series*. (2)  
+
+3.1.2 Write down the:  
+(a) NAME of the FUNCTIONAL GROUP of the aldehydes (1)  
+(b) IUPAC NAME of the compound with the highest vapour pressure in this comparison (2)  
+
+3.1.3 For INVESTIGATION 2:  
+(a) Write down the controlled variable. (1)  
+(b) Describe the trend in the boiling points. (1)  
+(c) Fully explain the answer to QUESTION 3.1.3(b). (2)  
+
+3.1.4 Write down the boiling point of butanal. (1)  
+
+3.2 The vapour pressures of compounds **A** and **B** are compared.  
+* **A:** $\text{CH}_3\text{CH}_2\text{CH}_2\text{CH}_2\text{CH}_2\text{OH}$  
+* **B:** $\text{CH}_3\text{CH}_2\text{CH}_2\text{COOH}$  
+
+How does the vapour pressure of compound **A** compare to that of compound **B**? Choose from HIGHER THAN, LOWER THAN or EQUAL TO.  
+Fully explain the answer. (4)  
+**[14]**
+
+---
+
+## QUESTION 4 (Start on a new page.)
+
+In the flow diagram below, a primary alcohol **P** is used as a starting reactant to form different organic compounds under different reaction conditions.
+
+[DIAGRAM: Flow diagram showing Compound P (Primary alcohol) undergoing Reaction I (Elimination) to form Compound Q, which undergoes Reaction II to form Butane, and Compound Q reacting with $\text{H}_2\text{O}$ via Reaction III to form Compound S (major product).]
+
+4.1 Write down the TYPE of:  
+4.1.1 Addition reaction represented by reaction II (1)  
+4.1.2 Elimination reaction represented by reaction I (1)  
+
+4.2 Write down the IUPAC name of compound **P**. (2)  
+
+4.3 Consider reaction III.  
+Write down:  
+4.3.1 The balanced equation using CONDENSED structural formulae (4)  
+4.3.2 The NAME or FORMULA of a suitable catalyst (1)  
+
+4.4 Butane can be converted to compound **P** in a TWO-STEP reaction. Use STRUCTURAL FORMULAE and write down the balanced equations for these TWO reactions. (5)  
+
+4.5 Write down a balanced equation using MOLECULAR FORMULAE for the complete combustion of butane. (3)  
+**[17]**
+
+---
+
+## QUESTION 5 (Start on a new page.)
+
+The reaction between magnesium carbonate pellets, $\text{MgCO}_3(\text{s})$, and EXCESS dilute hydrochloric acid, $\text{HCl}(\text{aq})$, is used to investigate the effect of concentration on the rate of a reaction.  
+$$\text{MgCO}_3(\text{s}) + 2\text{HCl}(\text{aq}) \rightarrow \text{MgCl}_2(\text{aq}) + \text{H}_2\text{O}(\ell) + \text{CO}_2(\text{g})$$  
+
+The apparatus used for this investigation is shown below.  
+
+[DIAGRAM: Erlenmeyer flask with reaction mixture on an electronic balance reading $144,500\text{ g}$.]
+
+5.1 Define the term *rate of reaction*. (2)  
+
+5.2 Write down ONE controlled variable for this investigation. (1)  
+
+Three experiments using different concentrations of $\text{HCl}(\text{aq})$ are carried out. The concentration of the $\text{HCl}(\text{aq})$ during each experiment does not change.
+
+| EXPERIMENT | CONCENTRATION OF $\text{HCl}(\text{aq})$ ($\text{mol}\cdot\text{dm}^{-3}$) |
+| :---: | :---: |
+| 1 | 0,1 |
+| 2 | 0,5 |
+| 3 | 1,0 |
+
+The INCOMPLETE graph of the results of the experiments is shown below.  
+
+[DIAGRAM: Graph of Mass of reaction mixture and flask (g) vs Time (s) showing curves A, B, and C ending at different final masses ($144,37\text{ g}$, $143,87\text{ g}$, $143,24\text{ g}$) at $120\text{ s}$.]
+
+5.3 Give a reason why the mass of the reaction mixture and flask decreases. (1)  
+
+5.4 For curve **B**, calculate the average rate at which $\text{CO}_2(\text{g})$ is produced for the first $120\text{ s}$ in $\text{dm}^3\cdot\text{s}^{-1}$. The molar gas volume is $24,5\text{ dm}^3\cdot\text{mol}^{-1}$. (6)  
+
+5.5 Which curve represents EXPERIMENT 1? Choose from **A**, **B** or **C**.  
+Use the collision theory to explain the answer. (5)  
+
+5.6 How will the final mass of $\text{CO}_2(\text{g})$ produced in EXPERIMENT 2 compare to that of EXPERIMENT 3? Choose from MORE THAN, LESS THAN or THE SAME.  
+Give a reason for the answer. (2)  
+**[17]**
+
+---
+
+## QUESTION 6 (Start on a new page.)
+
+The reaction between powdered carbon, $\text{C}(\text{s})$, and carbon dioxide gas, $\text{CO}_2(\text{g})$, takes place in a closed $3\text{ dm}^3$ container according to the balanced equation below.  
+$$\text{C}(\text{s}) + \text{CO}_2(\text{g}) \rightleftharpoons 2\text{CO}(\text{g}) \quad \Delta H < 0$$  
+
+Equilibrium is reached at temperature $T\text{ }^\circ\text{C}$.  
+
+The graph below, not drawn to scale, shows the curves for the mass of the reactants in the container against time.  
+
+[DIAGRAM: Graph of Mass of reactants (g) vs Time (minutes). Curve for $\text{CO}_2(\text{g})$ starts at $41,2\text{ g}$ and levels off at $X$. Curve for $\text{C}(\text{s})$ starts at $14,0\text{ g}$ and levels off at $4,44\text{ g}$ at time $t_1$.]
+
+6.1 How will EACH of the following changes affect the number of moles of $\text{CO}_2(\text{g})$ at equilibrium?  
+Choose from INCREASES, DECREASES or REMAINS THE SAME.  
+6.1.1 A catalyst is added. (1)  
+6.1.2 The volume of the container is increased at a constant temperature. (1)  
+6.1.3 More powdered carbon is added. (1)  
+
+6.2 Explain the answer to QUESTION 6.1.2 by referring to Le Chatelier's principle. (2)  
+
+6.3 Calculate the value of **X** shown on the graph. (6)  
+
+6.4 Calculate the equilibrium constant, $K_c$, at $T\text{ }^\circ\text{C}$. (5)  
+
+The balanced equation for this reaction is rewritten below for easy reference.  
+$$\text{C}(\text{s}) + \text{CO}_2(\text{g}) \rightleftharpoons 2\text{CO}(\text{g}) \quad \Delta H < 0$$  
+
+6.5 The graph below shows the equilibrium number of moles of $\text{CO}(\text{g})$, $\text{C}(\text{s})$ and $\text{CO}_2(\text{g})$ in the flask at time $t_1$.  
+At $t_2$, some $\text{CO}(\text{g})$ is added to the flask and the reaction is allowed to reach equilibrium. Curve **Z** correctly shows the change in the amount of $\text{CO}(\text{g})$ between $t_2$ and $t_3$.  
+A learner draws corresponding curves, labelled **X** and **Y**, for $\text{C}(\text{s})$ and $\text{CO}_2(\text{g})$ respectively.  
+
+[DIAGRAM: Graph of Amount (moles) vs Time (minutes) showing curves for CO (Z), C (X), and $\text{CO}_2$ (Y) with disturbances at $t_2$ and new equilibria at $t_3$.]
+
+Which of these curves is the CORRECT representation for these changes?  
+Choose from:  
+**X** or  
+**Y** or  
+**X and Y** (2)  
+
+6.6 What effect will the addition of $\text{CO}(\text{g})$ have on the equilibrium constant, $K_c$?  
+Choose from INCREASES, DECREASES or REMAINS THE SAME. (1)  
+**[19]**
+
+---
+
+## QUESTION 7 (Start on a new page.)
+
+7.1 Define an acid according to the Arrhenius theory. (2)
+
+7.2 The table below shows aqueous solutions of different substances, each of concentration $1\text{ mol}\cdot\text{dm}^{-3}$ at room temperature.
+
+| | | | |
+| :---: | :---: | :---: | :---: |
+| $\text{HNO}_3(\text{aq})$ | $\text{H}_2\text{SO}_4(\text{aq})$ | $\text{NaCl}(\text{aq})$ | $\text{NaOH}(\text{aq})$ |
+| $\text{(COOH)}_2(\text{aq})$ | $\text{HCO}_3^-(\text{aq})$ | $\text{Mg(OH)}_2(\text{aq})$ | $\text{NH}_3(\text{aq})$ | $\text{CH}_3\text{COOH}(\text{aq})$ |
+
+Identify from the table and write down the FORMULA for:  
+7.2.1 A weak diprotic acid (1)  
+7.2.2 A solution with a pH of 7 (1)  
+7.2.3 An ampholyte (1)  
+7.2.4 The solution, which when neutralised with $\text{(COOH)}_2(\text{aq})$, will have a pH greater than 7 (2)  
+
+7.3 An unknown acid $\text{H}_x\text{Y}$ is investigated.  
+During a titration, $23,64\text{ cm}^3$ of a $0,11\text{ mol}\cdot\text{dm}^{-3}$ $\text{H}_x\text{Y}$ solution neutralises $20\text{ cm}^3$ of a $0,26\text{ mol}\cdot\text{dm}^{-3}$ $\text{NaOH}$ solution.  
+Calculate the value of $x$. Hence, write down the balanced equation for this reaction. (6)  
+
+7.4 In an experiment, $1,5\text{ g}$ of a powdered IMPURE calcium carbonate sample, $\text{CaCO}_3(\text{s})$, is reacted with $200\text{ cm}^3$ of a $0,15\text{ mol}\cdot\text{dm}^{-3}$ hydrochloric acid solution, $\text{HCl}(\text{aq})$. The balanced equation for the reaction is:  
+$$\text{CaCO}_3(\text{s}) + 2\text{HCl}(\text{aq}) \rightarrow \text{CaCl}_2(\text{aq}) + \text{CO}_2(\text{g}) + \text{H}_2\text{O}(\ell)$$  
+
+All the $\text{CO}_2(\text{g})$ formed escapes from the solution.  
+The resulting solution has a pH of $1,61$ and a volume of $200\text{ cm}^3$.  
+Assume that ALL the $\text{CaCO}_3(\text{s})$ in the impure sample reacted with the $\text{HCl}(\text{aq})$ and none of the impurities reacted.  
+Calculate the mass of the impurities present in the $1,5\text{ g}$ sample of impure $\text{CaCO}_3(\text{s})$. (9)  
+**[22]**
+
+---
+
+## QUESTION 8 (Start on a new page.)
+
+The simplified diagram below shows a cell that can be used to measure the standard electrode potential of the half-reaction represented by the equation below.  
+$$\text{Fe}^{3+}(\text{aq}) + \text{e}^- \rightleftharpoons \text{Fe}^{2+}(\text{aq})$$  
+
+[DIAGRAM: Galvanic cell with a voltmeter connected between Electrode A (metal) in a solution and Electrode B (inert) with $\text{H}_2(\text{g})$ input in Solution D, connected via a salt bridge.]
+
+8.1 For solution D, write down the NAME or FORMULA of the ions needed. (1)  
+
+8.2 Write down the initial reading on the voltmeter. (1)  
+
+8.3 Which electrode, **A** or **B**, is the cathode? (1)  
+
+8.4 Explain the answer to QUESTION 8.3 in terms of the relative strengths of the reducing agents. (3)  
+
+8.5 Write down the:  
+8.5.1 NAME or FORMULA of the metal used as electrode A (1)  
+8.5.2 Half-reaction that occurs at electrode B (2)  
+8.5.3 Cell notation for this cell (3)  
+
+8.6 Give a reason why the voltmeter reading drops to zero after the cell has operated for some time. (1)  
+**[13]**
+
+---
+
+## QUESTION 9 (Start on a new page.)
+
+The simplified diagram below represents an electrolytic cell used to demonstrate the electrolysis of a concentrated sodium chloride solution, $\text{NaCl}(\text{aq})$.  
+**X** and **Y** are carbon electrodes.  
+
+[DIAGRAM: Electrolytic cell with a DC source connected to carbon electrodes X and Y immersed in concentrated sodium chloride solution, with inverted test tubes collecting gases above X and Y.]
+
+9.1 Define the term *electrolysis*. (2)  
+
+9.2 Write down the reduction half-reaction for this cell. (2)  
+
+9.3 What is the direction of the electron flow in the external circuit? Choose from **X to Y** or **Y to X**. (1)  
+
+9.4 Calculate the number of electrons transferred through the external circuit when $300\text{ cm}^3$ gas is collected at electrode **X**.  
+Take the molar gas volume as $24\text{ dm}^3\cdot\text{mol}^{-1}$. (4)  
+**[9]**
+
+**TOTAL: 150**

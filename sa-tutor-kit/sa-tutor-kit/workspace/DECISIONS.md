@@ -300,3 +300,53 @@
   - **Needs Review:** 0 items flagged with `needs_review: true` (all visual elements described with UDVES precision).
   - **KaTeX Validation:** Validated with zero syntax errors or unescaped delimiter issues.
 
+---
+
+## 17. Item Extraction: Mathematics Grade 12 Paper 1 (November 2023)
+- **Source & Memo:** `dbe-mathematics-g12-p1-2023-nov` and `dbe-mathematics-g12-p1-2023-nov-memo`
+- **Output Files:**
+  - `workspace/items/mathematics/dbe-mathematics-g12-p1-2023-nov.jsonl`
+  - `workspace/items/dbe-mathematics-g12-p1-2023-nov.jsonl`
+- **OCR Artifact Recovery:**
+  - Recovered an OCR typo in Q2.2.1 where the text had misread $T_3$ as $T_5 = 111$.
+  - Recovered full worked steps for Question 10 (Calculus optimization) from the primary memorandum marking guidelines.
+- **Extraction Metrics & Verification:**
+  - **Total Items Extracted:** 51 atomic items.
+  - **Total Marks Verified:** Exactly 150 / 150 marks accounted for ($24 + 13 + 12 + 18 + 15 + 13 + 14 + 13 + 14 + 14 = 150$).
+  - **KaTeX Syntax:** 0 unclosed dollar delimiters, strict decimal formatting, and valid equation blocks.
+  - **Needs Review:** 0 items flagged `needs_review: true`.
+
+---
+
+## 18. Item Extraction: English Home Language Grade 12 Paper 1 (November 2023)
+- **Source & Memo:** `dbe-english_hl-g12-p1-2023-nov` and `dbe-english_hl-g12-p1-2023-nov-memo`
+- **Output Files:**
+  - `workspace/items/english_hl/dbe-english_hl-g12-p1-2023-nov.jsonl`
+  - `workspace/items/dbe-english_hl-g12-p1-2023-nov.jsonl`
+- **Context & Reading Passage Integrity:**
+  - Embedded full Text A reading passage into the `passage` field across all Section A comprehension subquestions (Q1.1 through Q1.10).
+  - Preserved full cartoon panel-by-panel descriptions (Andy Capp / Peanuts) and advertising layout details in `passage` for Section C.
+  - Sourced complete Section B summary marking grid and rubrics into `memo`.
+- **Extraction Metrics & Verification:**
+  - **Total Items Extracted:** 35 atomic items.
+  - **Total Marks Verified:** Exactly 70 / 70 marks accounted for ($30 + 10 + 10 + 10 + 10 = 70$).
+  - **KaTeX Syntax:** 0 unclosed dollar delimiters.
+  - **Needs Review:** 0 items flagged `needs_review: true`.
+
+---
+
+## 19. Autonomous Orchestration Architecture & Live Tracker System
+- **Context:** Slicing hundreds of DBE exam papers into high-quality UDVES items requires coordinated multi-agent execution while preventing token exhaustion and API rate limits.
+- **Decision:** Establish a two-tier subagent hierarchy:
+  1. **Curriculum Orchestrator (`curriculum_orchestrator`):**
+     - Granted `EnableSubagentTools: true` to invoke worker subagents.
+     - Maintains and programmatically updates the live tracking dashboard (`workspace/EXTRACTION_TRACKER.md`).
+     - Dispatches exam papers in waves (4 parallel workers per wave across subjects).
+     - Validates returned JSONL items against marks, syntax, and directory contracts before ticking items off in the tracker.
+  2. **Curriculum Item Extractor (`curriculum_item_extractor`):**
+     - Specialized single-paper worker subagent running UDVES rules.
+     - Produces atomic items in `workspace/items/<subject>/` and mirrors to `workspace/items/`.
+     - Validates 100% mark alignment and reports completion back to the orchestrator.
+- **Live Status Tracker:** `workspace/EXTRACTION_TRACKER.md` displays interactive status checklists `[x]` / `[ ]`, pages/waves, mark totals, and quarantines.
+
+---

@@ -1,0 +1,307 @@
+# NATIONAL SENIOR CERTIFICATE
+# GRADE 12
+# PHYSICAL SCIENCES: CHEMISTRY (P2)
+# NOVEMBER 2023
+
+**MARKS: 150**
+**TIME: 3 hours**
+
+---
+
+## INSTRUCTIONS AND INFORMATION
+
+1. Write your centre number and examination number in the appropriate spaces on the ANSWER BOOK.
+2. This question paper consists of NINE questions. Answer ALL the questions in the ANSWER BOOK.
+3. Start EACH question on a NEW page in the ANSWER BOOK.
+4. Number the answers correctly according to the numbering system used in this question paper.
+5. Leave ONE line between two subquestions, e.g. between QUESTION 2.1 and QUESTION 2.2.
+6. You may use a non-programmable calculator.
+7. You may use appropriate mathematical instruments.
+8. Show ALL formulae and substitutions in ALL calculations.
+9. Round off your FINAL numerical answers to a minimum of TWO decimal places.
+10. Give brief motivations, discussions, etc. where required.
+11. You are advised to use the attached DATA SHEETS.
+12. Write neatly and legibly.
+
+---
+
+## QUESTION 1: MULTIPLE-CHOICE QUESTIONS
+
+Various options are provided as possible answers to the following questions. Each question has only ONE correct answer. Choose the answer and write only the letter (A–D) next to the question numbers (1.1 to 1.10) in the ANSWER BOOK, e.g. 1.11 E.
+
+1.1 Which ONE of the following represents a straight chain SATURATED hydrocarbon?
+A $C_5H_8$
+B $C_5H_{10}$
+C $C_6H_{12}$
+D $C_6H_{14}$ (2)
+
+1.2 Which ONE of the following is a SECONDARY alcohol?
+A $C(CH_3)_3OH$
+B $CH_3(CH_2)_3OH$
+C $CH_3(CH_2)_2CHO$
+D $CH_3CH_2CH(OH)CH_3$ (2)
+
+1.3 Which ONE of the following is a HYDROLYSIS reaction?
+A $CH_3CH_2Br + H_2O \rightarrow CH_3CH_2OH + HBr$
+B $CH_3CH_2OH + HBr \rightarrow CH_3CH_2Br + H_2O$
+C $CH_2CH_2 + H_2O \rightarrow CH_3CH_2OH$
+D $CH_2CH_2 + H_2 \rightarrow CH_3CH_3$ (2)
+
+1.4 Hydrochloric acid reacts with EXCESS zinc:
+$Zn(s) + 2HCl(aq) \rightarrow ZnCl_2(aq) + H_2(g)$
+
+Different reaction conditions are shown in the diagrams below. The mass of zinc used is the same in both test tubes.
+
+[DIAGRAM: Test tube X contains $100\text{ cm}^3$ of $0,1\text{ mol}\cdot\text{dm}^{-3}\text{ HCl}(aq)$ and Zn powder. Test tube Y contains $200\text{ cm}^3$ of $0,1\text{ mol}\cdot\text{dm}^{-3}\text{ HCl}(aq)$ and Zn lumps.]
+
+How will the INITIAL rate of reaction and FINAL VOLUME of $H_2(g)$ produced in test tube Y compare with that in test tube X?
+
+| | INITIAL RATE OF REACTION IN Y | FINAL VOLUME OF $H_2(G)$ IN Y |
+| :--- | :--- | :--- |
+| A | Higher | Equal |
+| B | Lower | More |
+| C | Lower | Equal |
+| D | Higher | More | (2)
+
+1.5 The diagram below represents a mixture of $NO_2(g)$ and $N_2O_4(g)$ molecules at equilibrium in a $1\text{ dm}^3$ container at $T\text{ °C}$.
+
+[DIAGRAM: A box containing 12 small black circles ($NO_2$) and 6 large white circles ($N_2O_4$). Key: Black circle = $NO_2$, White circle = $N_2O_4$.]
+
+The balanced equation for this reaction is:
+$2NO_2(g) \rightleftharpoons N_2O_4(g)$
+
+Which ONE of the following is TRUE for the value of the equilibrium constant, $K_c$, for the reaction at $T\text{ °C}$?
+A $K_c = 24$
+B $K_c > 1$
+C $K_c = 1$
+D $0 < K_c < 1$ (2)
+
+1.6 A reaction is at equilibrium in a closed container according to the following balanced equation:
+$4CuO(s) \rightleftharpoons 2Cu_2O(s) + O_2(g)$
+
+The volume of the container is now increased while the temperature remains constant. A new equilibrium is reached. Which ONE of the following combinations is CORRECT for the new equilibrium?
+
+| | CONCENTRATION OF $O_2$ | NUMBER of MOLES OF $O_2$ | EQUILIBRIUM CONSTANT ($K_c$) |
+| :--- | :--- | :--- | :--- |
+| A | Decreases | Remains the same | Increases |
+| B | Remains the same | Decreases | Remains the same |
+| C | Remains the same | Increases | Remains the same |
+| D | Decreases | Increases | Remains the same | (2)
+
+1.7 Nitric acid, $HNO_3(aq)$, and ethanoic acid, $CH_3COOH(aq)$, of equal volumes and concentrations are compared. Consider the following statements regarding these solutions:
+(i) They have different pH values.
+(ii) Both have the same electrical conductivity.
+(iii) Both solutions require the same number of moles of $KOH(aq)$ for complete neutralisation.
+
+Which of the above statement(s) is/are TRUE?
+A (i) only
+B (i) and (ii) only
+C (i) and (iii) only
+D (ii) and (iii) only (2)
+
+1.8 The apparatus in the diagram below is used for the titration between $HCl(aq)$ and $KOH(aq)$.
+
+[DIAGRAM: A burette containing $HCl(aq)$ dripping into an Erlenmeyer flask containing a titration mixture.]
+
+In a titration, the learner accidentally exceeds the endpoint. Which ONE of the following will be TRUE for the titration mixture?
+A $[H^+] > [OH^-]$ and pH < 7
+B $[H^+] < [OH^-]$ and pH < 7
+C $[H^+] < [OH^-]$ and pH > 7
+D $[H^+] > [OH^-]$ and pH > 7 (2)
+
+1.9 The following hypothetical standard reduction potentials relate to a galvanic cell:
+$X^{2+}(aq) + 2e^- \rightarrow X(s) \quad E^\theta = +0,10\text{ V}$
+$Y^+(aq) + e^- \rightarrow Y(s) \quad E^\theta = -0,10\text{ V}$
+
+Consider the following statements for this galvanic cell:
+(i) The emf of the cell is $0,20\text{ V}$ under standard conditions.
+(ii) Electrode Y is the anode.
+(iii) X is oxidised.
+
+Which of the above statement(s) is/are TRUE for this galvanic cell?
+A (i) only
+B (i) and (ii) only
+C (i) and (iii) only
+D (ii) and (iii) only (2)
+
+1.10 Which ONE of the half-reactions below will be the MAIN reaction at the ANODE during the electrolysis of CONCENTRATED $CuCl_2(aq)$?
+A $Cu^{2+}(aq) + 2e^- \rightarrow Cu(s)$
+B $2H_2O(l) + 2e^- \rightarrow H_2(g) + 2OH^-(aq)$
+C $2H_2O(l) \rightarrow O_2(g) + 4H^+(aq) + 4e^-$
+D $2Cl^-(aq) \rightarrow Cl_2(g) + 2e^-$ (2)
+[20]
+
+---
+
+## QUESTION 2
+
+The letters A to H in the table below represent eight organic compounds.
+
+| | | | |
+| :--- | :--- | :--- | :--- |
+| **A** | Heptanoic acid | **B** | $CH_3(CH_2)_3COOCH_3$ |
+| **C** | 4-ethyl-3,3-difluorohexane | **D** | Hexanoic acid |
+| **E** | [DIAGRAM: $CH_3-CH(CH_3)-C(=O)-CH_3$] | **F** | [DIAGRAM: $CH_3-CH(CH_3)-C(=O)-CH_2-CH_3$] |
+| **G** | [DIAGRAM: $CH_3-C(CH_3)_2-CH_2-C(=O)H$] | **H** | [DIAGRAM: $CH_3-CH_2-CH(CH_3)-CH_2-CH_3$] |
+
+2.1 Define the term organic compound. (1)
+2.2 Write down the IUPAC name of compound:
+2.2.1 E (2)
+2.2.2 H (2)
+2.3 Write down the:
+2.3.1 STRUCTURAL formula of compound B (2)
+2.3.2 STRUCTURAL formula of compound C (3)
+2.3.3 General formula of the homologous series to which compound E belongs (1)
+2.3.4 STRUCTURAL formula of the FUNCTIONAL group of compound F (1)
+2.3.5 IUPAC name of the alcohol needed to produce compound B (2)
+2.4 Write down the letter(s) of the compound(s) that:
+2.4.1 Is a FUNCTIONAL isomer of compound G (1)
+2.4.2 Are CHAIN isomers of each other (1)
+[16]
+
+---
+
+## QUESTION 3
+
+The relationship between boiling point and the molecular mass of aldehydes, carboxylic acids and primary alcohols is investigated. Curves P, R and S are obtained. All compounds used are straight chain molecules.
+
+[DIAGRAM: A line graph of Boiling point (°C) vs Molecular mass (g·mol⁻¹). Three upward-sloping lines P, R, and S are shown. P is the highest, R is in the middle, and S is the lowest.]
+
+3.1 Define the term boiling point. (2)
+3.2 Write down the conclusion that can be made for curve P. (2)
+3.3 Explain the answer to QUESTION 3.2 in terms of the structures of the compounds. (2)
+3.4 Curve R represents the alcohols.
+3.4.1 Which homologous series is represented by curve S? (1)
+3.4.2 Explain the answer to QUESTION 3.4.1 by referring to the strength of intermolecular forces. (2)
+3.5 For curve R, write down the:
+3.5.1 Molecular mass of the compound with a boiling point of $97\text{ °C}$ (1)
+3.5.2 IUPAC name of the compound in QUESTION 3.5.1 (2)
+3.6 Two compounds, A and B, used in this investigation have a molecular mass of $74\text{ g}\cdot\text{mol}^{-1}$. A has a boiling point of $118\text{ °C}$ and B a boiling point of $142\text{ °C}$. Explain the difference in these boiling points by referring to the structures of these compounds. (3)
+[15]
+
+---
+
+## QUESTION 4
+
+4.1 Consider the cracking reaction below:
+$C_{16}H_{34} \rightarrow C_6H_{14} + C_6H_x + 2C_yH_z$
+
+4.1.1 Define cracking. (2)
+4.1.2 Write down the values represented by x, y and z in the equation above. (3)
+Compound $C_6H_{14}$ undergoes complete combustion.
+4.1.3 Using MOLECULAR FORMULAE, write down the balanced equation for this reaction. (3)
+
+4.2 Consider the equations for reactions I to III below. A and B represent organic compounds that are POSITIONAL ISOMERS. X is an inorganic product.
+
+I: $CH_3CH_2CHCHCH_3 + HCl \rightarrow A + B$
+II: $A \xrightarrow[\Delta]{H_2O} CH_3CH_2CH_2CH(OH)CH_3 + X$
+III: $CH_3CH_2CH_2CH(OH)CH_3 \rightarrow CH_3CH_2CHCHCH_3 + H_2O$
+
+4.2.1 Definition of positional isomers (2)
+4.2.2 Type of reaction represented by reaction I (1)
+4.2.3 STRUCTURAL formula of compound B (3)
+4.2.4 Formula of X (1)
+4.2.5 Inorganic reagent for reaction III (1)
+Compound A can be converted directly to the organic product of reaction III.
+4.2.6 Besides heat, write down the reaction condition needed for this conversion. (1)
+4.2.7 Write down TWO terms that describe this type of reaction. (2)
+[19]
+
+---
+
+## QUESTION 5
+
+The reaction between EXCESS dilute hydrochloric acid and sodium thiosulphate is used to investigate factors that influence reaction rate.
+$Na_2S_2O_3(aq) + 2HCl(aq) \rightarrow 2NaCl(aq) + S(s) + H_2O(l) + SO_2(g)$
+
+[DIAGRAM: A flask containing $Na_2S_2O_3(aq) + HCl(aq)$ placed on a piece of white paper with a cross drawn on it.]
+
+The table below summarises the reaction conditions and results of the experiment.
+
+| RUN | VOLUME $Na_2S_2O_3(aq)$ ($\text{cm}^3$) | VOLUME $H_2O(l)$ ADDED ($\text{cm}^3$) | CONCENTRATION $Na_2S_2O_3(aq)$ ($\text{mol}\cdot\text{dm}^{-3}$) | TIME (s) |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | 50 | 0 | 0,13 | 20,4 |
+| 2 | 40 | 10 | 0,10 | 26,7 |
+| 3 | 30 | 20 | P | 33,3 |
+
+5.1 Define reaction rate. (2)
+5.2 Write down the independent variable for this investigation. (1)
+5.3 Calculate the value of P in the table. (3)
+5.4 When $0,21\text{ g}$ of sulphur has formed in Run 1, the cross becomes invisible. Calculate the average reaction rate with respect to sodium thiosulphate, $Na_2S_2O_3(aq)$, in $\text{g}\cdot\text{s}^{-1}$. (5)
+5.5 Sketch the Maxwell-Boltzmann distribution curve for the reaction at $20\text{ °C}$. Label this curve as A. On the same set of axis, draw the curve that will be obtained at $35\text{ °C}$ and label it as B. (4)
+5.6 Explain the effect of temperature on reaction rate in terms of the collision theory. (4)
+[19]
+
+---
+
+## QUESTION 6
+
+Consider the following hypothetical reaction reaching equilibrium in a $4\text{ dm}^3$ closed container at $150\text{ °C}$.
+$2AB(g) \rightleftharpoons A_2(g) + B_2(g)$
+
+[DIAGRAM: A graph of Number of moles (mol) vs Time (s). The graph shows the moles of AB(g), A2(g), and B2(g) changing over time, with a disturbance at t = 80 s.]
+
+6.1 Write down the meaning of the term reversible reaction. (1)
+6.2 State Le Chatelier's principle. (2)
+6.3 A change was made to the equilibrium mixture at $t = 80\text{ s}$.
+6.3.1 Write down the change made at $t = 80\text{ s}$. (1)
+6.3.2 Use Le Chatelier's principle to explain how the system reacts to this change. (2)
+6.4 Calculate the equilibrium constant, $K_c$, at $t = 120\text{ s}$. (4)
+6.5 At $t = 130\text{ s}$ the temperature of the system is decreased to $100\text{ °C}$.
+6.5.1 Draw a potential energy diagram for this reaction. (3)
+6.5.2 Will the equilibrium constant, $K_c$, at $100\text{ °C}$ be GREATER THAN, LESS THAN or EQUAL TO the $K_c$ at $150\text{ °C}$? Explain the answer. (3)
+6.6 The initial reaction now takes place in the presence of a catalyst at $150\text{ °C}$. Describe the changes that will be observed on the graph between $t = 0\text{ s}$ and $t = 60\text{ s}$. (3)
+[19]
+
+---
+
+## QUESTION 7
+
+To identify metal M in an unknown metal carbonate, $MCO_3$, the following procedure is carried out:
+Step 1: $0,198\text{ g}$ of IMPURE $MCO_3$ is reacted with $25\text{ cm}^3$ of $0,4\text{ mol}\cdot\text{dm}^{-3}$ nitric acid, $HNO_3(aq)$.
+Step 2: The EXCESS $HNO_3(aq)$ is then neutralised with $20\text{ cm}^3$ of $0,15\text{ mol}\cdot\text{dm}^{-3}$ barium hydroxide, $Ba(OH)_2(aq)$.
+
+7.1 Define the term strong base. (2)
+7.2 Calculate the:
+7.2.1 Number of moles of $Ba(OH)_2(aq)$ that reacted with the excess $HNO_3(aq)$ (3)
+7.2.2 pH of the solution after Step 1 (5)
+7.3 The percentage purity of the $MCO_3(s)$ in the sample is 85%. Identify metal M. (8)
+[18]
+
+---
+
+## QUESTION 8
+
+A cleaned pure copper strip, $Cu(s)$, is placed in a beaker containing a colourless silver nitrate solution, $AgNO_3(aq)$, at $25\text{ °C}$. After a while, it is observed that the solution in the beaker becomes blue.
+
+8.1 Write down:
+8.1.1 ONE other OBSERVABLE change, besides the solution turning blue (1)
+8.1.2 The NAME or FORMULA of the oxidising agent (1)
+8.2 Explain the answer to QUESTION 8.1.1 by referring to the relative strengths of the oxidising agents or reducing agents. (3)
+
+A galvanic cell is now set up using Cu and Ag strips as electrodes.
+
+[DIAGRAM: A galvanic cell with a copper electrode in a solution, a silver electrode in $Ag^+(aq)$ solution, a salt bridge, and a voltmeter.]
+
+8.3 Write down the:
+8.3.1 NAME or FORMULA of electrode A (1)
+8.3.2 NAME or FORMULA of solution B (1)
+8.3.3 Overall (net) balanced equation for the cell reaction (3)
+8.4 The salt bridge contains potassium nitrate, $KNO_3(aq)$. Write down the FORMULA of the ion in the salt bridge that will move into the silver ion solution. Choose from $K^+(aq)$ or $NO_3^-(aq)$. Give a reason for the answer. (2)
+[12]
+
+---
+
+## QUESTION 9
+
+An electrolytic cell is set up to purify a piece of copper that contains silver and zinc as impurities. Electrode R is impure copper.
+
+[DIAGRAM: An electrolytic cell with a power source, Electrode Q (pure copper), Electrode R (impure copper), and an electrolyte. Silver is shown at the bottom.]
+
+9.1 Define the term electrolysis. (2)
+9.2 Write down the reaction taking place at electrode Q. (2)
+9.3 In which direction do the electrons flow in the external circuit? Choose from Q to R or R to Q. (1)
+9.4 Calculate the current needed to form $16\text{ g}$ of copper when the cell operates for five hours. (5)
+9.5 During this electrolysis, only copper and zinc are oxidised. Give a reason why the silver is not oxidised. (2)
+[12]
+**TOTAL: 150**

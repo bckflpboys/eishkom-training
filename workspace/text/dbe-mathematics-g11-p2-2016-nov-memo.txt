@@ -1,0 +1,154 @@
+# Mathematics P2/Wiskunde V2 - Grade 11 Memorandum (November 2016)
+
+**NOTE:**
+* If a candidate answered a question TWICE, mark only the FIRST attempt.
+* If a candidate crossed out an answer and did not redo it, mark the crossed-out answer.
+* Consistent accuracy applies to ALL aspects of the marking memorandum.
+* Assuming values/answers in order to solve a problem is unacceptable.
+
+---
+
+## QUESTION 1
+
+| | | |
+| :--- | :--- | :--- |
+| 1.1 | Range = $75 - 5 = 70$ | ✓ answer (1) |
+| 1.2 | Std dev = $19,56$ | ✓✓ answer (2) |
+| 1.3 | Median = $25$ | ✓ answer (1) |
+| 1.4 | $Q_1 = \frac{8+15}{2} = 11,5$ <br> $Q_3 = \frac{31+36}{2} = 33,5$ <br> $IQR = Q_3 - Q_1 = 33,5 - 11,5 = 22$ | ✓ $Q_1 = 11,5$ <br> ✓ $Q_3 = 33,5$ <br> ✓ answer (3) |
+| 1.5 | Box-and-whisker plot: <br> Min: 5, $Q_1$: 11,5, Med: 25, $Q_3$: 33,5, Max: 75 | ✓ box <br> ✓ whiskers <br> ✓ min and max (3) |
+| 1.6 | Skewed to the right / Positively skewed | ✓ answer (1) |
+| 1.7 | Outlier = $75$ <br> **OR/OF** <br> $33,5 + 1,5(22) = 66,5$ <br> Outlier = $75$ | ✓ answer <br> ✓ answer (1) |
+
+**[12]**
+
+---
+
+## QUESTION 2
+
+| 2.1 | Time Spent | Frequency ($f$) | Cumulative Frequency ($f$) | |
+| :--- | :--- | :--- | :--- | :--- |
+| | $95 < x \leq 105$ | 15 | 15 | |
+| | $105 < x \leq 115$ | 27 | 42 | |
+| | $115 < x \leq 125$ | 43 | 85 | |
+| | $125 < x \leq 135$ | 52 | 137 | |
+| | $135 < x \leq 145$ | 28 | 165 | |
+| | $145 < x \leq 155$ | 21 | 186 | |
+| | $155 < x \leq 165$ | 10 | 196 | |
+| | $165 < x \leq 175$ | 4 | 200 | ✓✓ correct CF values (2) |
+
+| 2.2 | Ogive plotted with 8 points correct | ✓✓✓ 8 points correct (OR 4-7: ✓✓, 1-3: ✓) (3) |
+| 2.3 | $Q_1 = 118$ (Accept any answer between 115 and 120) | ✓✓ answer (2) |
+| 2.4 | Number of learners = $200 - 150 = 50$ (Accept 150 or any reading between 145 and 155) | ✓ 150 <br> ✓ 50 (2) |
+
+**[9]**
+
+---
+
+## QUESTION 3
+
+| 3.1 | $M = \left( \frac{x_1 + x_2}{2}; \frac{y_1 + y_2}{2} \right) = \left( \frac{6+2}{2}; \frac{-2+15}{2} \right) = \left( 4; \frac{13}{2} \right)$ | ✓ subst into midpt form <br> ✓ answer (2) |
+| 3.2 | $m_{BC} = \frac{15 - (-3)}{2 - (-4)} = \frac{18}{6} = 3$ (Note: OCR shows 2, following marking guide) <br> $m_{MN} = m_{BC} = 2$ [BC || MN] | ✓ subst into gradient form <br> ✓ answer <br> ✓ gradients equal (3) |
+| 3.3 | $y - y_1 = m(x - x_1) \implies y - \frac{13}{2} = 2(x - 4) \implies y = 2x - \frac{3}{2}$ | ✓ subst point and $m=2$ <br> ✓ answer (2) |
+| 3.4 | $N$ is midpoint of $AC$: $N\left( \frac{-4+6}{2}; \frac{3+(-2)}{2} \right) = N\left( 1; \frac{1}{2} \right)$ | ✓ S <br> ✓ R <br> ✓ x-value <br> ✓ y-value (4) |
+| 3.5 | $N$ is midpoint of $BD$: $\left( \frac{2+x}{2}; \frac{y+15}{2} \right) = \left( 1; \frac{1}{2} \right)$ <br> $\frac{2+x}{2} = 1 \implies x = 0$ <br> $\frac{y+15}{2} = \frac{1}{2} \implies y = -14$ <br> $D(0; -14)$ | ✓ $\frac{2+x}{2}=1$ <br> ✓ $\frac{y+15}{2}=\frac{1}{2}$ <br> ✓ $x=0$ <br> ✓ $y=-14$ (4) |
+
+**[15]**
+
+---
+
+## QUESTION 4
+
+| 4.1 | $m_{MP} = m_{PN} \implies \frac{2-0}{0-k} = \frac{4-2}{3-0} \implies \frac{2}{-k} = \frac{2}{3} \implies k = -3$ | ✓ $m_{MP} = m_{PN}$ <br> ✓ subst <br> ✓ answer (3) |
+| 4.2 | $\tan \alpha = \frac{2}{3} \implies \alpha = 33,69^\circ$ <br> $\tan \beta = -\frac{1}{2} \implies \beta = 153,43^\circ$ <br> $\theta = 153,43^\circ - 33,69^\circ = 119,74^\circ$ | ✓ $\alpha = 33,69^\circ$ <br> ✓ $\tan \beta = -1/2$ <br> ✓ $153,43^\circ$ <br> ✓ $119,74^\circ$ (4) |
+| 4.3 | $-\frac{1}{2}x + 4 = 0 \implies x = 8 \implies R(8;0)$ <br> $MR = 8 - (-3) = 11$ units | ✓ $y=0$ <br> ✓ $R(8;0)$ <br> ✓ answer (3) |
+| 4.4 | Area = $\frac{1}{2}(MR)(\text{height}) = \frac{1}{2}(11)(4) = 22$ sq units | ✓ area formula <br> ✓ subst y-value <br> ✓ answer (3) |
+
+**[13]**
+
+---
+
+## QUESTION 5
+
+| 5.1.1 | $(-8)^2 + (t)^2 = 17^2 \implies t^2 = 225 \implies t = -15$ | ✓ subst in pyth <br> ✓ answer (2) |
+| 5.1.2(a) | $\cos(-\theta) = \cos \theta = -\frac{8}{17}$ | ✓ $\cos \theta$ <br> ✓ answer (2) |
+| 5.1.2(b) | $1 - \sin \theta = 1 - (-\frac{15}{17}) = 1 + \frac{15}{17} = \frac{32}{17}$ | ✓ subst <br> ✓ answer (2) |
+| 5.2.1 | $\tan 17^\circ = \frac{a}{\sqrt{1-a^2}}$ | ✓ sketch <br> ✓ $\sqrt{1-a^2}$ <br> ✓ answer (3) |
+| 5.2.2 | $\sin 107^\circ = \sin(90^\circ + 17^\circ) = \cos 17^\circ = \sqrt{1-a^2}$ | ✓ $\cos 17^\circ$ <br> ✓ $\sqrt{1-a^2}$ (2) |
+| 5.2.3 | $\cos^2 253^\circ + \sin^2 557^\circ = (-\cos 73^\circ)^2 + (-\sin 17^\circ)^2 = a^2 + a^2 = 2a^2$ | ✓ $\cos^2 73^\circ$ <br> ✓ $\sin^2 17^\circ$ <br> ✓ subst <br> ✓ answer (4) |
+| 5.3 | $\frac{\cos(-45^\circ) \cdot \sin(45^\circ) - \sin 30^\circ}{\tan 45^\circ} = \frac{(\frac{\sqrt{2}}{2})(\frac{\sqrt{2}}{2}) - \frac{1}{2}}{1} = \frac{0,5 - 0,5}{1} = 0$ (Note: OCR shows -1, following marking guide) | ✓ -cos45 <br> ✓ sin45 <br> ✓ -sin30 <br> ✓ tan45 <br> ✓ numerator <br> ✓ answer (6) |
+| 5.4 | $LHS = \frac{-1}{\tan^2 x \cos^2 x} = \frac{-1}{\frac{\sin^2 x}{\cos^2 x} \cdot \cos^2 x} = \frac{-1}{\sin^2 x} = \frac{-1}{1-\cos^2 x} = \frac{1}{\cos^2 x - 1} = \frac{1}{(\cos x + 1)(\cos x - 1)} = RHS$ | ✓ $\tan x = \frac{\sin x}{\cos x}$ <br> ✓ simplification <br> ✓ identity <br> ✓ factors (4) |
+| 5.5 | $2 \sin x \cos x - \cos x = 0 \implies \cos x(2 \sin x - 1) = 0$ <br> $\cos x = 0 \implies x = 90^\circ + 360^\circ k$ or $270^\circ + 360^\circ k$ <br> $\sin x = \frac{1}{2} \implies x = 30^\circ + 360^\circ k$ or $150^\circ + 360^\circ k$ | ✓ factors <br> ✓ both equations <br> ✓ general solutions $\cos x=0$ <br> ✓✓ general solutions $\sin x=1/2$ <br> ✓ $k \in \mathbb{Z}$ (6) |
+
+**[31]**
+
+---
+
+## QUESTION 6
+
+| 6.1 | $b = 30^\circ$ | ✓ answer (1) |
+| 6.2 | $360^\circ$ | ✓ answer (1) |
+| 6.3 | $x = -150^\circ; x = 30^\circ$ | ✓ $x = -150^\circ$ <br> ✓ $x = 30^\circ$ (2) |
+| 6.4 | $\cos x > g(x) \implies x \in (-150^\circ; 30^\circ)$ | ✓ $\cos x$ <br> ✓ end points <br> ✓ notation (3) |
+| 6.5 | Range: $y \in [2; 4]$ or $2 \leq y \leq 4$ | ✓ end points <br> ✓ notation (2) |
+
+**[9]**
+
+---
+
+## QUESTION 7
+
+| 7.1 | $AB^2 = AD^2 + BD^2$ <br> $c^2 = (b - a \cos \hat{C})^2 + (a \sin \hat{C})^2 = b^2 - 2ab \cos \hat{C} + a^2 \cos^2 \hat{C} + a^2 \sin^2 \hat{C} = a^2 + b^2 - 2ab \cos \hat{C}$ | ✓ $B(a \cos C; a \sin C)$ <br> ✓ $A(b;0)$ <br> ✓ distance formula <br> ✓ expansion <br> ✓ common factor <br> ✓ square identity (6) |
+| 7.1.2 | $\cos \hat{C} = \frac{a^2 + b^2 - c^2}{2ab}$ <br> $RHS = \frac{(a+b)^2 - c^2}{2ab} = \frac{a^2 + 2ab + b^2 - c^2}{2ab} = \frac{a^2 + b^2 - c^2}{2ab} + 1 = \cos \hat{C} + 1$ | ✓ making $\cos C$ subject <br> ✓ simplifying <br> ✓ expansion <br> ✓ subst $\cos C$ (4) |
+| 7.2.1 | $\frac{BD}{\sin 109,6^\circ} = \frac{90,52}{\sin 31,23^\circ} \implies BD = 164,92$ m | ✓ sine rule <br> ✓ subst <br> ✓ answer (3) |
+| 7.2.2 | $CD^2 = 164,92^2 + 235^2 - 2(164,92)(235)\cos 48,88^\circ \implies CD = 177,34$ m | ✓ cos rule <br> ✓ subst <br> ✓ answer (3) |
+
+**[16]**
+
+---
+
+## QUESTION 8
+
+| 8.1 | $\tan 35,5^\circ = \frac{0,5}{AB} \implies AB = \frac{0,5}{\tan 35,5^\circ} = 0,7$ m | ✓ subst <br> ✓ answer (2) |
+| 8.2 | $V_{cone} = \frac{1}{3}\pi(0,5)^2(0,7) = 0,18$ m$^3$ <br> $V_{cyl} = \pi(0,5)^2(1,1) = 0,86$ m$^3$ <br> $\frac{3}{4}V = \frac{3}{4}(0,18 + 0,86) = 0,78$ m$^3$ <br> Time = $\frac{0,78}{0,52} = 1,5$ hours | ✓ V cone <br> ✓ V cylinder <br> ✓ 0,78 m$^3$ <br> ✓ answer (4) |
+
+**[6]**
+
+---
+
+## QUESTION 9
+
+| 9.1 | Equal to twice the angle subtended by the arc at the circumference | ✓✓ answer (2) |
+| 9.2.1 | $\hat{R} = 30^\circ$ [$\angle$ at centre = 2 $\times$ $\angle$ at circumference] | ✓ S ✓ R (2) |
+| 9.2.2 | $N\hat{S}T = 30^\circ$ [equal chords subtend equal angles] | ✓ S ✓ R (2) |
+
+**[6]**
+
+---
+
+## QUESTION 10
+
+| 10.1 | $D\hat{E}G = x + 20^\circ$ [alt $\angle$s, $ED \parallel FG$] | ✓ S ✓ R (2) |
+| 10.2 | $x + 20^\circ + 2x + 10^\circ = 180^\circ$ [opp $\angle$s of cyclic quad] <br> $3x = 150^\circ \implies x = 50^\circ$ <br> $D\hat{H}G = 2(50^\circ) + 10^\circ = 110^\circ$ | ✓ S ✓ R <br> ✓ answer <br> ✓ $110^\circ$ (4) |
+
+**[6]**
+
+---
+
+## QUESTION 11
+
+| 11.1 | $SP = SR$ [tangents from same point] <br> $P\hat{R}S = 42,83^\circ$ [$\angle$s between equal sides] <br> $O\hat{R}S = 90^\circ$ [tan $\perp$ rad] <br> $O\hat{R}N = 90^\circ - 42,83^\circ = 47,17^\circ$ <br> $N\hat{O}R = 42,83^\circ$ [sum of $\angle$s in $\Delta$] | ✓ S <br> ✓ S <br> ✓ R <br> ✓ $O\hat{R}N$ <br> ✓ answer (5) |
+| 11.2 | Let $OR = x, OS = x+9$ <br> $x^2 + 15^2 = (x+9)^2 \implies x^2 + 225 = x^2 + 18x + 81 \implies 18x = 144 \implies x = 8$ | ✓ S <br> ✓ S <br> ✓ Using Pythagoras <br> ✓ answer (4) |
+
+**[9]**
+
+---
+
+## QUESTION 12
+
+| 12.1 | Construction: Draw diameter AOF. Join A to D. <br> $F_1 + F_2 = 90^\circ$ [tan $\perp$ diameter] <br> $D_1 = F_1$ [$\angle$s in same segment] <br> $D_1 + D_2 = 90^\circ$ [$\angle$ in semi circle] <br> $\therefore F_2 = D_2 \implies E\hat{F}G = F\hat{D}E$ | ✓ Constr <br> ✓ S <br> ✓ R <br> ✓ S ✓ R (5) |
+| 12.2.1 | $B\hat{A}C = 90^\circ$ [$\angle$ in semi circle] <br> $E_2 = 90^\circ$ [line from centre to midpt of chord] <br> $BA \parallel OD$ [corresp $\angle$s equal] | ✓ S/R <br> ✓ S ✓ R <br> ✓ R (4) |
+| 12.2.2 | $A_1 = x, B = x$ [tan-chord theorem] <br> $O_1 = x$ [corresp $\angle$s equal] <br> $A_1 = O_1 \implies AOCD$ is cyclic quad | ✓ S ✓ R <br> ✓ S ✓ R <br> ✓ R (5) |
+| 12.2.3 | $A\hat{O}C = 2x$ [$\angle$ at centre] <br> $O_1 = x \implies O_2 = x$ <br> $C_2 = O_2 = x$ [$\angle$s in same segment] <br> $C_2 = B = x \implies DC$ is tangent | ✓ S ✓ R <br> ✓ S/R <br> ✓ R (4) |
+
+**[18]**

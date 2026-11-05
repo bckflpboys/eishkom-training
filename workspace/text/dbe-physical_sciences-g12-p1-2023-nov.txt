@@ -1,0 +1,319 @@
+# NATIONAL SENIOR CERTIFICATE
+# PHYSICAL SCIENCES: PHYSICS (P1)
+# NOVEMBER 2023
+# GRADE 12
+
+---
+
+**MARKS: 150**
+**TIME: 3 hours**
+
+This question paper consists of 19 pages and 3 data sheets.
+
+---
+
+## INSTRUCTIONS AND INFORMATION
+
+1. Write your centre number and examination number in the appropriate spaces on the ANSWER BOOK.
+2. This question paper consists of 10 questions. Answer ALL the questions in the ANSWER BOOK.
+3. Start EACH question on a NEW page in the ANSWER BOOK.
+4. Number the answers correctly according to the numbering system used in this question paper.
+5. Leave ONE line between two subquestions, e.g. between QUESTION 2.1 and QUESTION 2.2.
+6. You may use a non-programmable calculator.
+7. You may use appropriate mathematical instruments.
+8. Show ALL formulae and substitutions in ALL calculations.
+9. Round off your FINAL numerical answers to a minimum of TWO decimal places.
+10. Give brief motivations, discussions etc. where required.
+11. You are advised to use the attached DATA SHEETS.
+12. Write neatly and legibly.
+
+---
+
+## QUESTION 1: MULTIPLE-CHOICE QUESTIONS
+
+Various options are provided as possible answers to the following questions. Each question has only ONE correct answer. Choose the answer and write only the letter (A–D) next to the question numbers (1.1 to 1.10) in the ANSWER BOOK, e.g. 1.11 E.
+
+1.1 A constant net force is applied to a block. Which ONE of the following statements is CORRECT?
+The block will move with a …
+A constant velocity.
+B constant acceleration.
+C constantly increasing acceleration.
+D constantly decreasing acceleration. (2)
+
+1.2 A crate of mass $m$ is stationary on a plane inclined at an angle $\theta$ with the horizontal.
+[DIAGRAM: A crate of mass $m$ on an inclined plane at angle $\theta$.]
+Which ONE of the following statements regarding the magnitude of the frictional force acting on the crate is CORRECT?
+The magnitude of the frictional force acting on the crate is …
+A equal to the component of the weight of the crate which is parallel to the plane.
+B larger than the component of the weight of the crate which is parallel to the plane.
+C equal to the component of the weight of the crate which is perpendicular to the plane.
+D larger than the component of the weight of the crate which is perpendicular to the plane. (2)
+
+1.3 A ball is projected vertically upwards from the top edge of a building. Points P, Q, R and S represent different positions during the motion of the ball, as shown in the diagram below.
+[DIAGRAM: A building with a ball projected upwards. Q is the highest point, P is at the top edge, R is level with P, and S is on the ground.]
+Ignore the effects of air friction.
+Between which two points will the ball undergo the greatest change in kinetic energy?
+A P and S
+B P and R
+C R and S
+D Q and S (2)
+
+1.4 A ball is dropped from height $h$ and strikes the floor with momentum $p$. The ball is then dropped from height $\frac{1}{2}h$.
+[DIAGRAM: Two balls dropped from heights $h$ and $\frac{1}{2}h$ respectively.]
+Ignore the effects of air friction.
+Which ONE of the following represents the momentum of the ball when it strikes the floor after being dropped from height $\frac{1}{2}h$?
+A $p$
+B $\frac{1}{\sqrt{2}}p$
+C $\frac{1}{2}p$
+D $2p$ (2)
+
+1.5 A box moves on a horizontal surface. The diagram below shows all the forces acting on the box.
+[DIAGRAM: A box on a surface with four vectors: P (up), R (down), S (left), and Q (diagonal up-right).]
+Which ONE of the following combinations of forces do work on the box?
+A P and R only
+B Q and S only
+C Q, R and S only
+D P, Q, R and S (2)
+
+1.6 A train moving at a constant velocity towards a stationary listener emits sound waves of constant frequency.
+Which ONE of the following statements about the sound waves observed by the listener is CORRECT?
+The observed …
+A frequency is higher than the emitted frequency.
+B wavelength is longer than the emitted wavelength.
+C frequency is lower than the emitted frequency.
+D wavelength is equal to the emitted wavelength. (2)
+
+1.7 Refer to the diagram below.
+Q and R are small spheres suspended by light insulated strings.
+When a negatively charged rod is brought close to sphere Q, sphere Q is repelled. When the negatively charged rod is brought close to sphere R, sphere R is attracted.
+[DIAGRAM: Sphere Q being repelled by a negative rod; Sphere R being attracted by a negative rod.]
+Which ONE of the combinations below can be possible for the nature of the charges on spheres Q and R?
+
+| | NATURE OF CHARGE ON SPHERE Q | NATURE OF CHARGE ON SPHERE R |
+|---|---|---|
+| A | Negative | Negative |
+| B | Positive | Neutral |
+| C | Neutral | Positive |
+| D | Negative | Neutral | (2)
+
+1.8 Four voltmeters, $V_1$, $V_2$, $V_3$ and $V_4$, are connected in a circuit, as shown in the diagram below.
+[DIAGRAM: A circuit with a battery $\varepsilon$, a resistor $R$, an ammeter $A$, and a switch $S$. $V_1$ is across the battery, $V_2$ is across $R$, $V_3$ is across the switch, and $V_4$ is across the ammeter.]
+Which voltmeter(s) will have the same reading as voltmeter $V_1$ when the switch is open?
+A $V_2$ only
+B $V_3$ only
+C $V_4$ only
+D $V_2$ and $V_4$ (2)
+
+1.9 A split-ring commutator connects the coil of a generator to an external circuit.
+Which ONE of the combinations below is CORRECT for the magnitude and direction of the induced current in the external circuit?
+
+| | MAGNITUDE OF INDUCED CURRENT | DIRECTION OF INDUCED CURRENT |
+|---|---|---|
+| A | Constant | Constant |
+| B | Constant | Changes |
+| C | Changes | Constant |
+| D | Changes | Changes | (2)
+
+1.10 Light of a suitable frequency is shone on the surface of a metal and electrons are ejected from the metal.
+Which ONE of the following is equal to the ratio of the work function to the threshold frequency of the metal?
+A Planck's constant
+B The inverse of Planck's constant
+C The energy of the incident photons
+D The maximum kinetic energy of the ejected electrons (2)
+
+**[20]**
+
+---
+
+## QUESTION 2 (Start on a new page.)
+
+Two blocks, A, of mass 4 kg, and B, of mass 9 kg, are connected by a light inextensible string. The blocks are held at rest on a plane which is inclined at an angle of 35º with the horizontal.
+A constant force, F, acting parallel to the plane, is applied to block B, as shown in the diagram below. The blocks now accelerate up the plane at 2 m·s⁻².
+[DIAGRAM: Block B (9 kg) and Block A (4 kg) on a 35º incline, connected by a string. Force F acts up the incline on Block B.]
+
+2.1 State Newton's Second Law of Motion in words. (2)
+
+The kinetic frictional forces acting on blocks A and B are 5,88 N and 13,23 N respectively.
+
+2.2 Draw a labelled free-body diagram showing all the forces acting on block A. (4)
+
+2.3 Calculate the magnitude of:
+2.3.1 The tension in the string (4)
+2.3.2 Force F (3)
+
+2.4 The angle that the plane makes with the horizontal is now decreased.
+2.4.1 How will this change the kinetic frictional force acting on block A? Choose from INCREASES, DECREASES or REMAINS THE SAME. (1)
+2.4.2 Explain the answer to QUESTION 2.4.1. (2)
+
+**[16]**
+
+---
+
+## QUESTION 3 (Start on a new page.)
+
+A ball of mass 0,5 kg is thrown vertically upwards from the top edge of a building which is 15,3 m high. The ball reaches a maximum height of 5,89 m above the top of the building. The ball strikes the ground and bounces vertically upwards, reaching a maximum height at point P, as shown in the diagram below.
+[DIAGRAM: A ball thrown from a 15,3 m building, reaching 5,89 m above the top, then falling to the ground and bouncing to point P.]
+Ignore the effects of air friction.
+
+3.1 Define the term free fall. (2)
+
+3.2 Using only EQUATIONS OF MOTION, calculate the speed at which the ball was projected upwards. (3)
+
+3.3 After the collision with the ground, the ball leaves the ground with a speed of 11,92 m·s⁻¹.
+Calculate the:
+3.3.1 Amount of kinetic energy lost by the ball during the collision with the ground (5)
+3.3.2 Time taken for the ball to reach point P after leaving the ground (3)
+
+3.4 The velocity-time graph for the motion of the ball from the instant it is projected upwards from the top edge of the building until the time it reaches point P is shown below.
+[DIAGRAM: A velocity-time graph starting at L, crossing the time axis at $t_1$, and ending at K.]
+Write down the numerical values indicated by EACH of the following:
+3.4.1 K (1)
+3.4.2 L (1)
+3.4.3 $t_2 - t_1$ (1)
+
+**[16]**
+
+---
+
+## QUESTION 4 (Start on a new page.)
+
+A wooden trolley of mass 2,7 kg moves to the left with a constant velocity of 3 m·s⁻¹. A bullet of mass 0,03 kg is fired horizontally from the left towards the trolley. (See DIAGRAM 1.)
+The bullet strikes the trolley and comes to rest inside the trolley in 0,02 s. The average net force exerted by the trolley on the bullet during this time is 591 N. The bullet-trolley combination now moves to the right. (See DIAGRAM 2.)
+[DIAGRAM 1: Bullet moving right, trolley moving left. DIAGRAM 2: Bullet-trolley combination moving right.]
+Ignore all frictional and rotational effects.
+
+4.1 Write down the magnitude and direction of the average net force that the bullet exerts on the trolley. (1)
+
+4.2 Calculate the magnitude of the velocity with which the bullet strikes the trolley. (4)
+
+4.3 State the principle of conservation of linear momentum in words. (2)
+
+4.4 Calculate the magnitude of the velocity of the bullet-trolley combination after the collision. (4)
+
+**[11]**
+
+---
+
+## QUESTION 5 (Start on a new page.)
+
+Learners conduct an experiment to determine how the initial kinetic energy given to a trolley affects the distance the trolley moves on a rough horizontal surface. A learner pushes a trolley of unknown mass until it reaches point A with kinetic energy $E_{kA}$. The horizontal distance ($\Delta x$) travelled by the trolley before it comes to rest is then measured. See the diagram below.
+[DIAGRAM: A trolley at point A moving a distance $\Delta x$ on a rough surface.]
+The experiment is repeated with the trolley moving on the same rough horizontal surface but with different initial kinetic energies at point A.
+The results obtained are shown in the graph below.
+[DIAGRAM: A linear graph of Distance travelled ($\Delta x$) vs Initial kinetic energy ($E_{kA}$), passing through the origin.]
+Ignore the rotational effects of the wheels of the trolley.
+
+5.1 Draw a labelled free-body diagram showing all the forces acting on the trolley during its motion after passing point A. (3)
+
+5.2 Name the independent variable in this experiment. (1)
+
+5.3 State the work-energy theorem in words. (2)
+
+5.4 Calculate the mass of the trolley if the coefficient of kinetic friction between the wheels of the trolley and the rough horizontal surface is 0,18. (6)
+
+**[12]**
+
+---
+
+## QUESTION 6 (Start on a new page.)
+
+6.1 An ambulance is moving away from a stationary listener with a constant velocity of 25 m·s⁻¹. The siren of the ambulance emits sound waves at a frequency of 550 Hz. The listener detects the frequency of these sound waves to be 512,64 Hz.
+Ignore the effects of wind.
+6.1.1 State the Doppler effect in words. (2)
+6.1.2 Use the given information to calculate the speed of sound in air. (5)
+6.1.3 If the ambulance moves away from the stationary listener with a constant velocity which is greater than 25 m·s⁻¹, how will EACH of the following change? Choose from INCREASES, DECREASES or REMAINS THE SAME.
+(a) The speed of sound in air (1)
+(b) The frequency of the sound waves emitted by the siren (1)
+(c) The frequency of the sound waves detected by the listener (1)
+
+6.2 The spectrum of a distant star when viewed from the Earth is red shifted.
+6.2.1 Is the star moving AWAY FROM or TOWARDS the Earth? (1)
+6.2.2 Use the Doppler effect to explain the answer to QUESTION 6.2.1. (2)
+
+**[13]**
+
+---
+
+## QUESTION 7 (Start on a new page.)
+
+Two point charges, A and B, each with a charge of $+3 \times 10^{-9}$ C, are stationary on a horizontal surface. Point P is $r$ metres from charge A and $2r$ metres from charge B, as shown in the diagram below.
+[DIAGRAM: Charges A and B separated by distance $3r$, with point P between them at distance $r$ from A and $2r$ from B.]
+
+7.1 Describe an electric field. (2)
+
+7.2 Draw the resultant electric field pattern due to charges A and B. (3)
+
+The magnitude of the net electric field at point P is 27 N·C⁻¹.
+
+7.3 Calculate the value of $r$. (5)
+
+7.4 Calculate the magnitude of the net electrostatic force that an electron would experience if placed at point P. (3)
+
+**[13]**
+
+---
+
+## QUESTION 8 (Start on a new page.)
+
+The circuit diagram below shows a battery with an emf of 12 V and an internal resistance of 0,5 $\Omega$ connected to three resistors, a light bulb, a switch, an ammeter and connecting wires. The ammeter and connecting wires have negligible resistance.
+[DIAGRAM: A circuit with a 12 V battery, internal resistance 0,5 $\Omega$, ammeter, switch S, resistors $R_1=10 \Omega$, $R_2=10 \Omega$, $R_L=10 \Omega$, and $R_3=15 \Omega$. $R_1$ and $R_2$ are in parallel, connected in series with $R_L$, and $R_3$ is in a parallel branch with the $R_1, R_2, R_L$ combination.]
+
+8.1 State Ohm's law in words. (2)
+
+Switch S is initially CLOSED.
+
+8.2 Calculate the:
+8.2.1 Total external resistance of the circuit (5)
+8.2.2 Reading on the ammeter (3)
+8.2.3 Power dissipated by resistor $R_3$ (4)
+
+8.3 Switch S is now OPENED.
+8.3.1 If the resistance of the light bulb remains constant, how will the brightness of the light bulb be affected? Choose from INCREASES, DECREASES or REMAINS THE SAME. (1)
+8.3.2 Explain the answer to QUESTION 8.3.1. (3)
+
+**[18]**
+
+---
+
+## QUESTION 9 (Start on a new page.)
+
+9.1 A simplified diagram of a DC electric motor is shown below.
+[DIAGRAM: A coil between N and S poles, with a split-ring commutator A.]
+
+9.1.1 Write down the name of component A. (1)
+9.1.2 State the energy conversion that takes place in the motor. (1)
+9.1.3 In which direction will the coil rotate? Choose from CLOCKWISE or ANTICLOCKWISE. (2)
+9.1.4 State TWO changes that can be made to the motor for the coil to rotate faster. (2)
+
+9.2 The circuit diagram below shows an electric kettle and a toaster connected to an AC source with an rms voltage of 220 V. The ammeter, connecting wires and switches $S_1$ and $S_2$ have negligible resistance.
+[DIAGRAM: AC source 220 V connected in parallel to a kettle (with switch $S_1$) and a toaster (with switch $S_2$).]
+
+9.2.1 Define the term root mean square current. (2)
+9.2.2 When switch $S_1$ is CLOSED and switch $S_2$ is OPEN, the maximum current through the circuit is 3,6 A. Calculate the root mean square current in the circuit. (3)
+9.2.3 When switch $S_1$ is OPEN and switch $S_2$ is CLOSED, the root mean square current in the circuit is 2,62 A. Calculate the energy consumed by the toaster in two minutes. (3)
+
+**[14]**
+
+---
+
+## QUESTION 10 (Start on a new page.)
+
+10.1 Two small spheres, A and B, made of pure zinc are at rest 0,1 m apart on a wooden table. Sphere A is negatively charged and is free to move on the table, while sphere B is uncharged and fixed to the table, as shown in the diagram below.
+[DIAGRAM: Sphere A (negative) and Sphere B (neutral) on a table, 0,1 m apart.]
+High-intensity ultraviolet light of frequency $2,8 \times 10^{16}$ Hz is now shone continuously onto sphere B.
+The work function of zinc is $6,63 \times 10^{-19}$ J.
+
+10.1.1 Define the term work function of a metal. (2)
+10.1.2 Explain, using a suitable calculation, why the ultraviolet light shone on sphere B will eject electrons from its surface. (4)
+10.1.3 Sphere A carries a charge of $-5,4 \times 10^{-6}$ C and requires a minimum force of 0,027 N to move from rest. Calculate the minimum number of photons of ultraviolet light that must strike sphere B which will cause sphere A to move from its rest position. (6)
+
+10.2 A beam of white light is shone through a cold gas. The emerging light is dispersed and a line spectrum is observed on a screen.
+10.2.1 Name the type of line spectrum observed. (1)
+10.2.2 Describe the spectrum referred to in QUESTION 10.2.1. (2)
+10.2.3 The diagrams below indicate some possible energy transitions made by atoms.
+[DIAGRAM: Two energy level diagrams, A and B, showing transitions between $E_0, E_1, E_2, E_3$.]
+Which ONE of the diagrams could result in the type of spectrum observed in QUESTION 10.2.1? Choose from DIAGRAM A or DIAGRAM B. (2)
+
+**[17]**
+
+**TOTAL: 150**

@@ -1,0 +1,872 @@
+=== page 1 ===
+Copyright reserved Please turn over
+
+MARKS:  150
+
+TIME:  3 hours
+
+This question paper consists of 17 pages, 2 data sheets and 1 answer sheet.
+
+GRADE 11
+NATIONAL
+SENIOR CERTIFICATE
+PHYSICAL SCIENCES:  PHYSICS (P1)
+
+NOVEMBER 2016
+
+=== page 2 ===
+Physical Sciences/P1 2  DBE/November 2016
+CAPS – Grade 11
+Copyright reserved Please turn over
+
+INSTRUCTIONS AND INFORMATION
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+Write your name and class (for example 11A)  in the appropriate spaces on
+the ANSWER BOOK.
+
+This question paper consists of 10 questions. Answer ALL t he questions in
+the ANSWER BOOK except QUESTION 10.2 , which has to be answered on
+the attached ANSWER SHEET. The ANSWER SHEET  has to be handed in
+together with the ANSWER BOOK.
+
+Start EACH question on a NEW page in the ANSWER BOOK.
+
+Number the answers correctly according to the numbering system used in this
+question paper.
+
+Leave ONE line between two subquestions, for example betw een
+QUESTION 2.1 and QUESTION 2.2.
+
+You may use a non-programmable calculator.
+
+You may use appropriate mathematical instruments.
+
+You are advised to use the attached DATA SHEETS.
+
+Show ALL formulae and substitutions in ALL calculations.
+
+Round off your final numerical answers to a minimum of TWO decimal places.
+
+Give brief motivations, discussions et cetera where required.
+
+Write neatly and legibly.
+
+=== page 3 ===
+Physical Sciences/P1 3  DBE/November 2016
+CAPS – Grade 11
+Copyright reserved Please turn over
+
+QUESTION 1:  MULTIPLE-CHOICE QUESTIONS
+
+Four options are provided as possible answers to the fo llowing questions.
+Each question has only ONE correct answer. Choose the answer and write only the
+letter (A –D) next to the question number (1.1– 1.10) in the ANSWER BOOK,
+for example 1.11 E.
+
+1.1 Four forces act on a point, as indicated in the diagram.
+
+The magnitudes of the components of the resultant (net) force in the
+horizontal (FX) and vertical (FY) directions are …
+
+ A
+
+B
+
+C
+
+D
+FX = 3 N and FY = 6 N.
+
+FX = 1 N and FY = 4 N.
+
+FX = 2 N and FY = 2 N.
+
+FX = 4 N and FY = 2 N.
+
+(2)
+
+1.2 A lawnmower is pushed across the ground with a  force of F at an angle of θ
+with the horizontal. The weight of the lawnmower is w.
+
+ The normal force, in N, on the lawnmower is …
+
+ A
+
+B
+
+C
+
+D
+w
+
+w + FY
+
+w - FY
+
+w + FX
+
+(2)
+4 N
+2 N
+1 N
+3 N
+F
+w
+N
+θ
+
+=== page 4 ===
+Physical Sciences/P1 4  DBE/November 2016
+CAPS – Grade 11
+Copyright reserved Please turn over
+
+1.3 A car is travelling along a road . The driver has his seat belt on . The driver
+sees an obstruction in the road ahead and suddenly applies the brakes.
+
+ An action-reaction pair is the force of the seat belt on the driver and the force
+of the …
+
+ A
+
+B
+
+C
+
+D
+driver on the seat.
+
+wheels on the road.
+
+driver on the seat belt.
+
+seat belt on the seat.
+
+(2)
+
+1.4 Planet X has a mass twice  the mass of the Earth and a radius one and a half
+times that of the Earth. If the acceleration due to gravity on the Earth is g ,
+then the gravitational acceleration on planet X will be …
+
+A
+
+B
+
+C
+
+D
+9
+8 g
+
+8
+9 g
+
+3
+4 g
+
+4
+3 g
+
+(2)
+
+Obstruction
+
+=== page 5 ===
+Physical Sciences/P1 5  DBE/November 2016
+CAPS – Grade 11
+Copyright reserved Please turn over
+
+1.5 A light ray travels from medium A  to medium B . Medium B has a lower
+refractive index than medium A.
+
+The critical angle for medium A in terms of medium B is 42°.
+
+Which ONE of the sketches below represents the CORRECT  path of the
+light ray?
+
+ A
+
+B
+
+ C  D
+(2)
+
+1.6 The ability of a wave to spread out in wave fronts as the wave passes around
+a sharp edge, is known as …
+
+ A
+
+B
+
+C
+
+D
+Snell's law.
+
+total internal reflection.
+
+diffraction.
+
+Huygens' principle.
+
+(2)
+
+40º
+Medium B
+Medium A 40º
+Medium B
+Medium A
+40º
+Medium B
+Medium A 40º
+Medium B
+Medium A
+
+=== page 6 ===
+Physical Sciences/P1 6  DBE/November 2016
+CAPS – Grade 11
+Copyright reserved Please turn over
+
+1.7 Which ONE of the graphs below represents the correct relationship between
+force F on a charge and the electric field E?
+
+ A
+
+B
+
+C
+
+D
+
+(2)
+
+1.8 A negative charge Q is placed at a distance of 5d from another charge R.
+
+If the net electric field at point P, at a distance of 2d  from R, is ZERO, which
+ONE of the follo wing combinations concerning the ratio of the charges Q
+and R and the charge on R, is CORRECT?
+
+  RATIO OF THE CHARGES
+Q : R
+CHARGE ON R
+(2)
+A 4 : 9 Positive
+B 3 : 2 Negative
+C 5 : 2 Positive
+D 9 : 4 Negative
+
+E (N.C-1)
+F (N)
+E (N.C-1)
+F (N)
+E (N.C-1)
+F (N)
+E (N.C-1)
+F (N)
+Q R P
+5d
+2d
+
+=== page 7 ===
+Physical Sciences/P1 7  DBE/November 2016
+CAPS – Grade 11
+Copyright reserved Please turn over
+
+1.9 In which ONE of the sketches below is the induced polarity of the coil
+CORRECTLY indicated?
+
+ A
+
+B
+
+ C
+
+D
+
+(2)
+
+1.10 The potential difference of the battery in the circuit below is 12 V. The internal
+resistance of the battery is negligible. Two voltmeters , V1 and V 2, are
+connected to the circuit, as shown in the diagram.
+
+ When the switch is open, the correct readings on V1 and V2 will be as follows:
+
+  V1 V2
+ A 12 V 12 V
+ B 0 V 12 V
+ C 12 V 0 V
+ D 0 V 0 V  (2)
+   [20]
+N
+Magnet is
+pulled out of
+the coil
+S N
+Magnet is
+pulled out of
+the coil
+N
+N
+Magnet is
+pushed into
+the coil
+S N
+Magnet is
+pushed into
+the coil
+N
+
+=== page 8 ===
+Physical Sciences/P1 8  DBE/November 2016
+CAPS – Grade 11
+Copyright reserved Please turn over
+FB = 1 440 N
+x
+FA = 730 N
+70°
+10°
+Object
+
+QUESTION 2   (Start on a new page.)
+
+A heavy object is lifted using two ropes and two pulleys, as shown in the diagram
+below. The two pulleys are a distance x apart. The force FA, in rope A , is 730 N and
+the force FB, in rope B, is 1 440 N. Rope A makes an angle of 70° with the horizontal
+and rope B makes an angle of 10° with the vertical.
+
+2.1 Define the term resultant vector.  (2)
+
+2.2 Explain why the vector diagram of force FA, force FB and the weight will NOT
+be a closed vector diagram.
+
+(2)
+
+2.3 Calculate the:
+
+ 2.3.1 Vertical component of FA  (2)
+
+ 2.3.2 Horizontal component of FA  (2)
+
+2.4  Calculate the maximum weight that force FA and force F B will be able to lift
+from the ground. Show ALL calculations.
+
+(4)
+
+2.5 Explain why the rope and pulley system will be less effective if the distance x
+between the pulleys is increased.
+
+(2)
+   [14]
+
+=== page 9 ===
+Physical Sciences/P1 9  DBE/November 2016
+CAPS – Grade 11
+Copyright reserved Please turn over
+
+QUESTION 3   (Start on a new page.)
+
+A hovering rescue helicopter has a container of supplies, with a weight of 1 960 N,
+hanging from a cable. The tension in the cable is 2 100 N.
+
+3.1 State Newton's First Law of Motion in words.  (2)
+
+3.2 Draw a labelled force-diagram of ALL the forces acting on the container.  (3)
+
+3.3 Why does the container remain station ary despite the tension being greater
+than the weight?
+
+(2)
+
+Now t he winch inside the helicopter  starts to pull the container upwards with an
+acceleration of 0,13 m.s-2, while the helicopter remains in its position.
+
+3.4 Calculate the mass of the container.  (2)
+
+3.5 Calculate the magnitude of the tension in the cable while the container is
+being pulled upwards.
+
+(4)
+
+After an acceleration of a few metres the container is pulled up at  a constant velocity
+of 0,8 m.s-1.
+
+3.6 What will be the magnitude of the tension in the cable while the container
+moves upwards at a constant velocity?
+
+(1)
+   [14]
+
+container
+
+=== page 10 ===
+Physical Sciences/P1 10  DBE/November 2016
+CAPS – Grade 11
+Copyright reserved Please turn over
+
+QUESTION 4   (Start on a new page.)
+
+Two blocks , of mass 8 kg and 4 kg respectively , are joined with an inelastic string
+of ne gligible mass. The string  runs over a frictionless pulley. The 8 kg block is on
+a horizontal surface while the 4 kg block is on an inclined plane of 40° with the
+horizontal. The coefficient of kinetic friction for both blocks is 0,2. The 4 kg block
+accelerates down the slope.
+
+4.1 State Newton's Second Law of Motion in words.  (2)
+
+4.2 Draw a labelled free-body diagram of ALL the forces acting on the 4 kg block.  (4)
+
+4.3 Calculate the frictional force between the surface and the 4 kg block.  (4)
+
+4.4 Calculate the magnitude of the acceleration of the system.  (6)
+
+4.5 How will the acceleration compare if the positions of the 8 kg block and
+4 kg block are switched ? Choose from GREATER THAN, LESS THAN or
+THE SAME. Explain the answer.
+
+(4)
+   [20]
+
+40°
+8 kg
+4 kg
+
+=== page 11 ===
+Physical Sciences/P1 11  DBE/November 2016
+CAPS – Grade 11
+Copyright reserved Please turn over
+
+QUESTION 5   (Start on a new page.)
+
+Two satellites orbiting the Earth  are situated on opposite sides of the Earth. Satellite A
+has a mass of 3  800 kg and S atellite B has a mass of 4 500 kg. Satellite A is at a
+height of 25 000 km above the surface of the Earth.
+
+5.1 State Newton's Universal Gravitational Law in words.  (2)
+
+5.2 Explain the term weightlessness.  (2)
+
+5.3 Calculate the force between the Earth and Satellite A.  (4)
+
+5.4 What distance above t he surface of the Earth should S atellite B be
+to experience the same force towards the Earth as Satellite A?
+
+Choose from: GREATER THAN, LESS THAN or EQUAL TO the distance
+above the Earth. Explain how you arrived at the answer.
+
+(4)
+   [12]
+
+Earth
+Satellite A
+Satellite B
+
+=== page 12 ===
+Physical Sciences/P1 12  DBE/November 2016
+CAPS – Grade 11
+Copyright reserved Please turn over
+
+QUESTION 6   (Start on a new page.)
+
+Olive oil floats on water because it s density is less than the density of water. However,
+the refractive index of olive oil is 1,47 while the refractive index of water is 1,33.
+
+6.1 Define the term refractive index.  (2)
+
+6.2 Calculate the speed of light through olive oil.  (3)
+
+6.3 If light travels through water and hits the water-olive oil boundary at an angle
+of 37°, calculate the angle of refraction of the light in olive oil.
+
+(4)
+
+6.4 What does the refractive index of oil tell us about the optical density of olive oil
+compared to the optical density of water?
+
+(2)
+
+6.5 6.5.1 If the light ray exits the oil into the air, will it refract T OWARDS or
+AWAY from the normal?
+
+(1)
+
+6.5.2 Give a reason for the answer to QUESTION 6.5.1.  (2)
+
+6.6 6.6.1 At whi ch surface is total internal reflection most likely to occur?
+Choose from oil and air or water and oil.
+
+(1)
+
+6.6.2 Give a reason for the answer to QUESTION 6.6.1.  (2)
+
+6.7 Which other wave characteristic, WAVELENGTH or FREQUENCY, will
+change together w ith the speed, when a wave moves from one medium
+to another?
+
+(1)
+   [18]
+
+Water
+Olive oil
+
+37°
+Air nair = 1
+
+nolive oil = 1,47
+
+nwater  = 1,33
+
+=== page 13 ===
+Physical Sciences/P1 13  DBE/November 2016
+CAPS – Grade 11
+Copyright reserved Please turn over
+
+QUESTION 7   (Start on a new page.)
+
+Two learners investigate the effect  of the slit width on the degree of diffraction.
+They use a green light with a waveleng th 520 nm. They set up an experiment ,
+as shown below , and measure the position of the first dark line from the centre of
+the bright, central band when changing the slit width.
+
+The following results are obtained:
+
+ SLIT WIDTH (mm) POSITION OF FIRST DARK
+LINE FROM THE CENTRE
+(mm)
+
+ 5,3 x 10-5 19,6
+ 4,9 x 10-5 21,2
+ 4,2 x 10-5 24,8
+
+7.1 State Huygens' principle in words.  (2)
+
+7.2 For this experiment, write down:
+
+ 7.2.1 The independent variable  (1)
+
+ 7.2.2 The dependant variable  (1)
+
+ 7.2.3 ONE controlled variable  (1)
+
+7.3 Give a conclusion for the results obtained in this experiment.  (2)
+
+7.4 7.4.1 How will the pattern on the screen change if red light, with a
+wavelength of 660 nm, is used instead of green light?
+
+(2)
+
+7.4.2 Explain the answer to QUESTION 7.4.1.  (1)
+   [10]
+
+Light
+source
+Barrier
+Screen
+Position of first
+dark line
+measured from
+the centre of the
+bright, central
+band
+
+=== page 14 ===
+Physical Sciences/P1 14  DBE/November 2016
+CAPS – Grade 11
+Copyright reserved Please turn over
+
+QUESTION 8   (Start on a new page.)
+
+Two charged spheres, X and Y, are placed in a vacuum at a distance of 0,04 m apart.
+
+8.1 Draw the resulting electric field pattern between the two charges.  (3)
+
+8.2  Calculate the electrostatic force  sphere X experiences due to the charge
+on sphere Y.
+
+(4)
+
+8.3 8.3.1 If sphere Y is at a fixed position and sphere X is free to move, will
+the acceleration experienced by sphere X  towards sphere Y  be
+constant? Write down YES or NO.
+
+(1)
+
+8.3.2 Explain the answer to QUESTION 8.3.1 by referring to the electric
+field and the force.
+
+(2)
+
+A third sphere,  Z, with a charge of - 4 µC, is placed at right angles to sphere X and at
+a distance of 0,03 m from sphere X.
+
+8.4 Calculate the magnitude of the net force  on sphere X due to sphere Y and
+sphere Z.
+
+(4)
+   [14]
+             X   +5 µC Y   -5 µC
+0,04 m
+0,04 m
+-4 µC  Z
++5 µC  X Y  -5 µC
+0,03 m
+
+=== page 15 ===
+Physical Sciences/P1 15  DBE/November 2016
+CAPS – Grade 11
+Copyright reserved Please turn over
+
+QUESTION 9   (Start on a new page.)
+
+A circular coil with 250 windings (turns) and a radius of 0,04 m, is rotated clockwise
+inside a magnetic field with a field strength of 3,2 T.
+
+9.1 Calculate the magnetic flux through the coil at the position indicated on the
+diagram, where the coil is perpendicular to the field.
+
+(3)
+
+9.2 If the coil rotates clockwise through 25°, and the potential difference induced
+is 2,8 V, calculate the time in which this rotation took place.
+
+(4)
+
+9.3 Which law can be used to explain the phen omenon described in
+QUESTION 9.2?
+
+Name and state the law.
+
+(2)
+
+9.4 9.4.1 If the circular coil is replaced with a square coil with a side length
+of 0,04 m, and the same movement is made in the same amount
+of time, will the induced emf be the same as, larger than or smaller
+than the circular coil?
+
+Write down only THE SAME  AS, LARGER THAN or  SMALLER
+THAN.
+
+(1)
+
+ 9.4.2 Explain the answer to QUESTION 9.4.1.  (2)
+[12]
+
+N
+
+S
+rotation
+
+=== page 16 ===
+Physical Sciences/P1 16  DBE/November 2016
+CAPS – Grade 11
+Copyright reserved Please turn over
+
+QUESTION 10   (Start on a new page.)
+
+An experiment is done to veri fy that the potential difference across a conductor is
+directly proportional to the current in the conductor if the temperature stays constant.
+
+Four cells , each with an emf of 1,5 V , are connected in series with an ammeter,
+switch S and a combination of a resistor R and resistors of 4 Ω and 6 Ω, as shown in
+the diagram.
+
+Voltmeters V 1 and V 2 are connected across the battery and the parallel resistors
+respectively. The internal resistance of the battery and wires are negligible.
+
+10.1 Which law is represented by the underlined phrase above?  (1)
+4 Ω
+6 Ω
+
+R
+V2
+A
+V1
+S
+
+=== page 17 ===
+Physical Sciences/P1 17  DBE/November 2016
+CAPS – Grade 11
+Copyright reserved
+
+The switch is now closed and six resistors (R 1–R6), each with a different resistance,
+are placed in the place of R , one at a time . The voltmeter and ammeter readings are
+recorded. The results are as follows:
+
+RESISTORS
+AT R
+READING ON
+VOLTMETER V2 (V)
+READING ON
+AMMETER (A)
+
+R1 1,2 0,5
+R2 1,4 0,6
+R3 1,9 0,8
+R4 2,4 1
+R5 2,9 1,2
+R6 3,6 1,5
+
+10.2 Use the attached graph paper and draw a graph of potential difference versus
+current using the data in the table.
+
+(4)
+
+10.3 What does the gradient of the graph represent?  (1)
+
+10.4 If voltmeter V2 is only connected across the 4 Ω resistor, how will the gradient
+of the graph change? Write down only INCREASES, DECREASES or STAYS
+THE SAME.
+
+(1)
+
+10.5 If the 4  Ω resistor is removed, how w ill the gradient of the graph change?
+Write down only INCREASES, DECREASES or STAYS THE SAME.
+
+(1)
+
+10.6 Calculate the resistance of resistor R3 using the values in the table.  (5)
+
+10.7 Calculate the energy dissipated in resistor R4 in 10 seconds.  (3)
+   [16]
+
+ TOTAL:  150
+
+=== page 18 ===
+Physical Sciences/P1 1  DBE/November 2016
+CAPS – Grade 11
+Copyright reserved
+
+DATA FOR PHYSICAL SCIENCES GRADE 11
+PAPER 1 (PHYSICS)
+
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 11
+VRAESTEL 1 (FISIKA)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Acceleration due to gravity
+Swaartekragversnelling g 9,8 m·s-2
+Gravitational constant
+Swaartekragkonstante G 6,67 x 10-11 N⋅m2⋅kg-2
+Radius of Earth
+Straal van Aarde RE 6,38 x 106 m
+Coulomb's constant
+Coulomb se konstante K 9,0 x 109 N⋅m2·C-2
+Speed of light in a vacuum
+Spoed van lig in 'n vakuum c 3,0 x 108 m·s-1
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Electron mass
+Elektronmassa me 9,11 x 10-31 kg
+Mass of the earth
+Massa van die Aarde  M 5,98 x 1024 kg
+
+TABLE 2:  FORMULAE/TABEL 2:  FORMULES
+
+MOTION/BEWEGING
+
+tavv if ∆+=  221i tatvx ∆+∆=∆
+xa2vv
+2
+i
+2
+f ∆+=   t2 vvx if ∆ +=∆
+
+FORCE/KRAG
+
+ma=Fnet  w = mg
+2
+21
+r
+mGmF=
+N
+f (max)s
+s =µ
+N
+fk
+k =µ
+
+=== page 19 ===
+Physical Sciences/P1 2  DBE/November 2016
+CAPS – Grade 11
+Copyright reserved
+
+WAVES, SOUND AND LIGHT/GOLWE, KLANK EN LIG
+
+λ= fv
+f
+1T=
+rrii sinnsinn θ=θ   vcn=
+
+ELECTROSTATICS/ELEKTROSTATIKA
+
+2
+21
+r
+QkQ=F          (k = 9,0 x 109 N⋅m2·C-2) qF=E
+2r
+kQE=              (k = 9,0 x 109 N⋅m2·C-2)
+e
+Q=n
+
+ELECTROMAGNETISM/ELEKTROMAGNETISME
+
+tN ∆∆Φ−=ε  θ=Φ cosBA
+
+ELECTRIC CIRCUITS/ELEKTRIESE STROOMBANE
+
+t
+QI ∆=  IVR=
+...r1r1r1R1 321 +++=  ...rrrR 321 +++=
+W = Vq
+
+W = VI∆ t
+
+W= I2R∆ t
+
+W= RΔtV2
+Δt
+WP=
+
+P = VI
+
+P = I2R
+
+R
+VP 2=
+
+=== page 20 ===
+Physical Sciences/P1   DBE/November 2016
+CAPS – Grade 11
+Copyright reserved
+
+NAME ______________________________________________ CLASS _____
+
+ANSWER SHEET FOR QUESTION 10.2
+HAND IN THIS ANSWER SHEET TOGETHER WITH THE ANSWER BOOK.
+
+I (A)
+V (V)
+Graph of potential difference versus current

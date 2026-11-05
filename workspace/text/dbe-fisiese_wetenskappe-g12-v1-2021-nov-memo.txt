@@ -1,0 +1,2101 @@
+=== page 1 ===
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+MARKS/PUNTE:  150
+
+This marking guidelines consists of 26 pages.
+Hierdie nasienriglyne bestaan uit 26 bladsye.
+
+PHYSICAL SCIENCES:  PHYSICS (P1)
+FISIESE WETENSKAPPE: FISIKA (V1)
+
+NOVEMBER 2021
+
+MARKING GUIDELINES/NASIENRIGLYNE
+NATIONAL
+SENIOR CERTIFICATE
+NASIONALE
+SENIOR SERTIFIKAAT
+GRADE/GRAAD 12
+
+=== page 2 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 2 DBE/November 2021
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou
+
+QUESTION 1/VRAAG 1
+
+1.1 A   (2)
+
+1.2 B   (2)
+
+1.3 D   (2)
+
+1.4 B   (2)
+
+1.5 C   (2)
+
+1.6 D   (2)
+
+1.7 B or/of F  (2)
+
+1.8 A or/of V1  (2)
+
+1.9 D   (2)
+
+1.10 D   (2)
+[20]
+
+=== page 3 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 3 DBE/November 2021
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+QUESTION 2/VRAAG 2
+
+2.1 Marking criteria/Nasienkriteria
+If any of the underlined key words/phrases in the correct context is omitted deduct
+1 mark. / Indien enige van die onderstreepte sleutel woorde/frases in die korrekte
+konteks uitgelaat is, trek 1 punt af.
+
+A body will remain in its state of rest  or motion at constant velocity  unless a
+non-zero resultant/net force/unbalanced force acts on it. 
+'n Liggaam sal in sy toestand van rus  of beweging teen konstante snelheid
+volhard, tensy 'n (nie-nul) resulterende/netto krag /ongebalanseerde krag
+daarop inwerk.
+OR/OF
+A body will remain in its state of rest or uniform motion in a straight line unless
+a (non-zero) resultant/net /unbalanced force acts on it. 
+'n Liggaam sal in sy toestand rus  of uniforme beweging in 'n reguit lyn
+volhard, tensy 'n (nie-nul) resulterende/netto/ongebalanseerde krag daarop
+inwerk.
+
+(2)
+
+2.2
+
+Accepted labels/Aanvaarde benoemings
+w Fg / Fw / weight / mg /196 N / gravitational force Fg / Fw / gewig / mg / 196 N / gravitasiekrag
+F FA / Applied force  FT / Toegepaste krag
+fk (kinetic) Friction /(kineties)wrywing / Ff / f /18 N / Fw / fw
+N FN / Normal / Normaal / 169,74 N
+
+ Notes/Aantekeninge:
+ Mark awarded for label and arrow, but penalise only once if arrows are
+omitted/Punt toegeken vir benoeming en pyltjie, maar penaliseer slegs een keer
+indien pyle uitgelaat is.
+ Do not penalise for length of arrows, drawing is not to scale. / Moenie vir die
+lengte van die pyltjies penaliseer nie, die tekening is nie volgens skaal nie.
+ Any other additional force(s)  deduct 1 mark. / Enige ander addisionele krag(te)
+trek 1 punt af.
+ If force(s) do not make contact with body deduct 1 mark. /Indien krag(te) nie met
+die voorwerp kontak maak nie, trek 1 punt af.  (4)
+N F
+•
+fk
+w
+N F
+fk
+w
+Accept force diagram/
+Aanvaar kragtediagram
+Accept/Aanvaar
+wll
+Ty
+pe
+eq
+uat
+ion
+her
+e.
+N F
+• fk
+w
+equa
+tion
+here.
+
+=== page 4 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 4 DBE/November 2021
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+2.3 OPTION 1/OPSIE 1
+Positive up the incline/Positief opwaarts teen skuinsvlak
+Fnet = ma
+F+ fk + wll = ma
+F+ (-fk) + (-wll) = ma
+F - (fk + wll) = ma
+F - [18 + (20)(9,8)(sin30º)]  = 0 
+F = 116 N 
+
+ OPTION 2/OPSIE 2
+Positive up the incline/Positief opwaarts teen skuinsvlak
+Wnet = ΔEk 
+FΔxcos0º + fΔxcos180º + wΔxcos120º = 0 
+FΔx = 18Δx + (20)(9,8)Δx(0,5)
+F = 116 N 
+
+(4)
+
+2.4 POSITIVE MARKING FROM QUESTION 2.3 /
+POSITIEWE NASIEN VANAF VRAAG 2.3
+
+ 116 N / f + w ||  Down the incline /opposite to direction of motion /Teen die
+helling af / in teenoorgestelde rigting van beweging
+
+ACCEPT/AANVAAR:
+Downwards/down/Afwaarts/af
+
+(2)
+
+2.5 POSITIVE MARKING FROM QUESTION 2.4 /
+POSITIEWE NASIEN VANAF VRAAG 2.4
+
+ OPTION 1/OPSIE 1
+Up the incline positive/Teen skuinsvlak op positief
+Fnet = ma
+-116 = 20a 
+a = -5,80 m∙s-2
+
+ vf2 = vi2 + 2aΔx 
+0 =(2)2 + (2)(-5,8)Δx
+Δx = 0,34 m 
+
+vf = vi +Δt
+0 = 2 + (-5,8)Δt
+Δt = 0,34 s
+
+OR/OF
+FnetΔt = m(vf – vi)
+(-116)Δt = (20)(0 – 2)
+Δt = 0,34 s
+
+Δx = viΔt + ½ aΔt2 
+  =(2)(0,34) + ½(-5,8) (0,34)2
+  = 0,34 m 
+
+vf = vi +Δt
+0 = 2 + (-5,8)Δt
+Δt = 0,34 s
+
+OR/OF
+FnetΔt = m(vf – vi)
+(-116)Δt = (20)(0–2)
+Δt = 0,34 s
+
+Δt2 vvΔx fi  
+
+
+34,02 02   
+      = 0,34 m 
+
+Any one/Enige een
+NOTE/LET WEL
+Fnet = 0 
+F = fk + w|| 
+NOTE/LET WEL
+Wnet = 0 
+FΔx = fΔx + wΔx(0,5) 
+
+=== page 5 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 5 DBE/November 2021
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+ OPTION 1/OPSIE 1
+Down the incline positive /Teen skuinsvlak af positief
+Fnet = ma
+116 = 20a 
+a = 5,80 m∙s-2
+
+ vf2 = vi2 + 2aΔx 
+0 =(-2)2 + (2)(5,8)Δx
+Δx = -0,34 m
+
+Distance = 0,34 m 
+Afstand
+vf = vi + aΔt
+0 = -2 + (5,8)Δt
+Δt = 0,34 s
+
+OR/OF
+FnetΔt = m(vf – vi)
+(116)Δt = (20)(0 – (-2))
+Δt = 0,34 s
+
+Δx = viΔt + ½ aΔt2 
+  = (-2)(0,34) + ½(5,8)(0,34)2
+  = -0,34 m 
+
+Distance/Afstand = 0,34 m 
+
+vf = vi + aΔt
+0 = -2 + (5,8)Δt
+Δt = 0,34 s
+
+OR/OF
+FnetΔt = m(vf – vi)
+(116)Δt =(20)(0-(-2))
+Δt = 0,34 s
+Δt2 vvΔx fi  
+
+
+34,02 02  
+
+      = -0,34 m 
+Distance/Afstand
+= 0,34 m 
+
+ OPTION 2/OPSIE 2
+Wnet = ∆EK
+Fnet∆xcosθ  = ½m(vf2 - vi2)
+(116)∆xcos180º = ½(20)(02 – 22) 
+∆x = 0,34 m 
+
+ OPTION 3/OPSIE 3
+Wnet = ∆EK
+Wf  + Wwll  = ½mvf2 - ½mvi2
+f∆xcosθ + (mgsin30º)∆xcosθ  = ½m(vf2 - vi2)
+(18)∆xcos180º + (20)(9,8)sin30º∆xcos180º= ½(20)(02 – 22) 
+∆x = 0,34 m 
+
+ OPTION 4/OPSIE 4
+Wnet = ∆EK
+Wf + Ww  = ½mvf2 - ½mvi2
+f∆xcosθ + mg∆xcos120° = ½m(vf2 - vi2)
+(18)∆xcos180º + (20)(9,8)∆xcos120º= ½(20)(02 – 22) 
+∆x = 0,34 m 
+
+ OPTION 5/OPSIE 5
+Wnc = ΔEp + ΔEk
+f∆xcosθ = mg(hf - hi) + ½m(vf2 – vi2)
+18∆xcos180º = 20(9,8)∆x + ½(20)(02 – 22)  
+-18∆x = 196∆xsin30º - 40
+∆x = 0,34 m 
+
+(4)
+   [16]
+
+Any one/Enige een
+Any one/Enige een
+Any one/Enige een
+Any one/Enige een
+
+=== page 6 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 6 DBE/November 2021
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+QUESTION 3/VRAAG 3
+
+3.1 No/Nee 
+ANY ONE/ENIGE EEN:
+ Gravitational force is not the only force acting on the balloon. /There are
+other forces acting on the balloon. 
+Gravitasiekrag is nie die enigste krag wat op die ballon inwerk nie./Daar is
+ander kragte wat op die ballon inwerk.
+ Its acceleration is not 9,8 m∙s-2/is zero.
+Sy versnelling is nie 9,8 m∙s-2/is nul.
+ It has constant velocity/no acceleration.
+Dit het 'n konstante snelheid/geen versnelling nie.
+
+(2)
+
+3.2.1 OPTION 1/OPSIE 1
+UPWARDS AS POSITIVE/
+OPWAARTS AS POSITIEF
+vf2 = vi2 + 2aΔy 
+(-62,68)2 = vi2 + 2(-9,8)(-200) 
+vi = 2,96 m∙s-1 
+
+DOWNWARDS AS POSITIVE/
+AFWAARTS AS POSITIEF
+vf2 = vi2 + 2aΔy 
+(62,68)2 = vi2 + 2(9,8)(200) 
+vi = -2,96 m∙s-1
+   = 2,96 m∙s-1 
+
+ OPTION 2/OPSIE 2
+(Emech/meg)200 m = (Emech/meg)bottom/onder
+  (EP +EK)200 m = (EP +EK)bottom/onder
+(mgh + ½ mv2)200 m = (mgh + ½ mv2)bottom/onder
+m(9,8)(200) + ½m(v2) = 0 + ½m(62,68) 2 
+vi = 2,96 m∙s-1 
+
+NOTE/LET WEL
+Mass may be omitted during substitution.
+Massa mag uitgelaat word tydens vervanging.
+
+ OPTION 3/OPSIE 3
+Wnc = ΔEp + ΔEk
+0 = mg(hf - hi)+ ½m(vf2 – vi2)
+0 = m(9,8)(0 - 200) + ½m(62,682 – vi2)  
+vi = 2,96 m∙s-1 
+
+NOTE/LET WEL
+Mass may be omitted during substitution.
+Massa mag uitgelaat word tydens vervanging.
+
+ OPTION 4/OPSIE 4
+Wnet = ΔEk
+FnetΔxcos
+  = ½m(vf2 – vi2)
+mgΔxcos
+  = ½m(vf2 – vi2)
+m(9,8)(200) = + ½m(62,682 – vi2) 
+vi = 2,96 m∙s-1 
+
+NOTE/LET WEL
+Mass may be omitted during substitution.
+Massa mag uitgelaat word tydens vervanging.
+
+(3)
+
+Any one/Enige een
+Any one/Enige een
+Any one/Enige een
+
+=== page 7 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 7 DBE/November 2021
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+3.2.2 POSITIVE MARKING FROM QUESTION 3.2.1/
+POSITIEWE NASIEN VANAF VRAAG 3.2.1
+
+ Marking criteria/Nasienkriteria
+ Formula to calculate Δt of stone A 
+Formule om Δt van klip A te bereken
+ Substitution to calculate Δt of stone A 
+Vervanging om Δt van klip A te bereken
+ Final answer/Finale antwoord: 6,70 s       Accept/Aanvaar: (6,69 to/tot 6,7)
+
+ NOTE: The calculation of Δt for A might be split up into two parts.
+LET WEL: Die berekening van Δt vir A kan in twee dele opgedeel word.
+
+ OPTION 1/OPSIE 1
+UPWARDS AS POSITIVE/
+OPWAARTS AS POSITIEF
+vf = vi + aΔt 
+-62,68 = 2,96 + (-9,8)Δt 
+Δt = 6,70 s      (6,698)
+
+DOWNWARDS AS POSITIVE/
+AFWAARTS AS POSITIEF
+vf = vi + aΔt 
+62,68 = -2,96 + 9,8Δt 
+Δt = 6,70 s   (6,698)
+
+ OPTION 2/OPSIE 2
+UPWARDS AS POSITIVE/
+OPWAARTS AS POSITIEF
+Δy = viΔt + ½ aΔt2 
+-200 = (2,96)Δt + ½ (-9,8)Δt2 
+Δt = 6,70 s   (6,697)
+
+DOWNWARDS AS POSITIVE/
+AFWAARTS AS POSITIEF
+Δy = viΔt + ½ aΔt2 
+200 = (-2,96) Δt + ½ (9,8)Δt2 
+Δt = 6,70 s   (6,697)
+
+ OPTION 3/OPSIE 3
+UPWARDS AS POSITIVE/
+OPWAARTS AS POSITIEF
+Δt2 vvΔy fi  
+
+-200
+Δt2 )68,62(96,2  
+Δt = 6,70 s   (6,698)
+
+DOWNWARDS AS POSITIVE/
+AFWAARTS AS POSITIEF
+Δt2 vvΔy fi  
+
+
+200
+Δt2 68,6296,2  
+
+
+
+Δt = 6,70 s   (6,698)
+
+ OPTION 4/OPSIE 4
+UPWARDS AS POSITIVE/
+OPWAARTS AS POSITIEF
+From 200 m upwards:
+Vanaf 200 m opwaarts:
+vf = vi + aΔt 
+0 = 2,96 + (-9,8)Δt 
+Δt = 0,3 s (0,302)
+From max h downwards:
+Vanaf maks h afwaarts:
+vf = vi + aΔt
+-62,68 = 0 + (-9,8)Δt
+Δt = 6,40 s (6,369)
+tA = 0,3 + 6,40 = 6,7 s 
+
+DOWNWARDS AS POSITIVE/
+AFWAARTS AS POSITIEF
+From 200 m upwards:
+Vanaf 200 m opwaarts:
+v = vi + aΔt 
+0 = -2,96 + (9,8)Δt 
+Δt = 0,3 s (0,302)
+From max h downwards:
+Vanaf maks h afwaarts:
+vf = vi + aΔt
+62,68 = 0 + (9,8)Δt
+Δt = 6,40 s (6,369)
+tA = 0,3 + 6,40 = 6,7 s 
+
+
+
+
+=== page 8 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 8 DBE/November 2021
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+ OPTION 5/OPSIE 5
+UPWARDS AS POSITIVE/
+OPWAARTS AS POSITIEF
+From 200 m upwards:
+Vanaf 200 m opwaarts:
+vf = vi + aΔt 
+0  = 2,96 + (-9,8)Δt 
+Δt = 0,3 s (0,302)
+
+From 200 m downwards:
+Vanaf 200 m afwaarts:
+vf  = vi + aΔt
+-62,68 = -2,96 + (-9,8)Δt
+Δt = 6,09 s (6,094)
+tA = 2(0,3) + 6,09 = 6,69 s 
+
+DOWNWARDS AS POSITIVE/
+AFWAARTS AS POSITIEF
+From 200 m upwards:
+Vanaf 200 m opwaarts:
+vf = vi + aΔt 
+0  = -2,96 + (9,8)Δt 
+Δt = 0,3 s (0,302)
+
+From 200 m downwards:
+Vanaf 200 m afwaarts:
+vf  = vi + aΔt
+62,68 = 2,96 + (9,8)Δt
+Δt = 6,09 s (6,094)
+tA = 2(0,3) + 6,09 = 6,69 s 
+
+OPTION 6/OPSIE 6
+UPWARDS AS POSITIVE/
+OPWAARTS AS POSITIEF
+FnetΔt = m(vf – vi) 
+mgΔt = m(vf – vi)
+gΔt = vf - vi
+(-9,8)Δt = (-62,68) – (2,96) 
+Δt = 6,69 s 
+
+DOWNWARDS AS POSITIVE/
+AFWAARTS AS POSITIEF
+FnetΔt = m(vf – vi) 
+mgΔt = m(vf – vi)
+gΔt = vf - vi
+(9,8)Δt = 62,68 – (-2,96) 
+Δt = 6,69 s 
+
+(3)
+
+=== page 9 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 9 DBE/November 2021
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+3.2.3 POSITIVE MARKING FROM QUESTION 3.2.1 and QUESTION 3.2.2/
+POSITIEWE NASIEN VANAF VRAAG 3.2.1 en VRAAG 3.2.2
+
+ Marking criteria/Nasienkriteria
+ Formula to calculate Δy of stone B 
+Formule om Δy van klip B te bereken
+ Substitution of t = 1,7 s  (tA – 5)
+Vervanging van t = 1,7 s (tA – 5)
+ Substitution to calculate Δy of stone B 
+Vervanging om Δy van klip B te bereken
+ Substitution to calculate Δy of balloon 
+Vervanging om Δy van ballon te bereken
+ Calculating distance between balloon and stone B 
+Berekening van afstand tussen ballon en klip B
+ Final answer/Finale antwoord: 14,16 m          (14,11 to/tot 14,16)
+
+ OPTION 1/OPSIE 1
+UPWARDS AS POSITIVE/
+OPWAARTS AS POSITIEF
+Stone B/Klip B:
+Δy = viΔt + ½ aΔt2 
+     = 2,96(6,7 - 5)+ ½(-9,8)(6,7- 5)2 
+     = -9,13 m  (-9,09 to/tot  -9,13)
+Distance travelled by stone B: 9,13 m
+Afstand afgelê deur klip B: 9,13 m
+
+Hot-air balloon/Lugballon
+Δy = viΔt + ½ aΔt2
+     = 2,96(6,7 - 5)  + 0       = 5,03 m
+Distance travelled by hot-air balloon/
+Afstand afgelê deur lugballon: 5,03 m
+
+Distance between hot -air balloon and
+stone B/Afstand tussen lugballon en
+klip B = 9,13 + 5,03 
+          = 14,16 m  (14,11 - 14,16)
+
+DOWNWARDS AS POSITIVE/
+AFWAARTS AS POSITIEF
+Stone B/Klip B:
+Δy = viΔt + ½ aΔt2
+    = -2,96(6,7 - 5) + ½(9,8)(6,7 - 5)2 
+    = 9,13 m  (9,09 to/tot 9,13)
+Distance travelled by stone B: 9,13 m
+Afstand afgelê deur klip B: 9,13 m
+
+Hot-air balloon/Lugballon
+Δy = viΔt + ½ aΔt2
+     = -2,96(6,7 - 5)  + 0
+     = -5,03 m
+Distance travelled by hot-air balloon/
+Afstand afgelê deur lugballon: 5,03 m
+
+Distance between hot -air balloon and
+stone B/Afstand tussen lugballon en
+klip B = 9,13 + 5,03 
+          = 14,16 m  (14,11 - 14,16)
+
+ 
+
+=== page 10 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 10 DBE/November 2021
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+
+ OPTION 2/OPSIE 2
+UPWARDS AS POSITIVE/
+OPWAARTS AS POSITIEF
+Stone B/Klip B:
+vf = vi + aΔt
+   = 2,96 + (-9,8)(6,70 – 5)
+   = - 13,7 m∙s-1
+vf2 = vi2 + 2aΔy 
+(-13,7)2 = (2,96)2 + 2(-9,8)Δy 
+Δy = -9,13 m
+Distance travelled by stone B: 9,13 m
+Afstand afgelê deur klip B: 9,13 m
+
+Hot-air balloon/Lugballon
+Δy = viΔt + ½ aΔt2
+     = -2,96(6,70 - 5) + 0 
+     = -5,03 m
+Distance travelled by hot-air balloon/
+Afstand afgelê deur lugballon: 5,03 m
+
+Distance between hot -air balloon and
+stone B/Afstand afgelê deur lugballon
+en klip B = 9,13+ 5,03 
+               = 14,16 m  (14,11 - 14,16)
+
+DOWNWARDS AS POSITIVE/
+AFWAARTS AS POSITIEF
+Stone B/Klip B:
+ vf  = vi + aΔt
+     = -2,96 + (9,8)(6,70 – 5)
+     = 13,7 m∙s-1
+vf2 = vi2 + 2aΔy 
+(13,7)2 = (-2,96)2 + 2(9,8)Δy 
+Δy = 9,13 m
+Distance travelled by stone B: 9,13 m
+Afstand afgelê deur klip B: 9,13 m
+
+Hot-air balloon/Lugballon
+Δy = viΔt + ½ aΔt2
+     = -2,96(6,70 - 5) + 0 
+     = -5,03 m
+Distance travelled by hot-air balloon/
+Afstand afgelê deur lugballon: 5,03 m
+
+Distance between hot -air balloon and
+stone B/Afstand afgelê deur lugballon
+en klip B = 9,13+ 5,03 
+               = 14,16 m  (14,11 - 14,16)
+
+ OPTION 3/OPSIE 3
+UPWARDS AS POSITIVE/
+OPWAARTS AS POSITIEF
+Stone B/Klip B:
+vf  = vi + aΔt
+    = 2,96 + (-9,8)(6,70 – 5)
+    = - 13,7 m∙s-1
+Δt2 vvΔy fi  
+
+
+
+
+
+  2 )7,13(96,2 (6,70 – 5)
+      = -9,13 m
+Distance travelled by stone B: 9,13 m
+Afstand afgelê deur klip B: 9,13 m
+
+Hot-air balloon/Lugballon
+2
+2
+1
+i taΔtvΔy 
+
+      = 2,96(6,70 - 5) + 0        = 5,03 m
+Distance travelled by hot-air balloon/
+Afstand afgelê deur lugballon: 5,03 m
+
+Distance between hot -air balloon and
+stone B/Afstand afgelê deur lugballon
+en klip B = 9,13 + 5,03 
+         = 14,16 m    (14,11 - 14,16)
+
+DOWNWARDS AS POSITIVE/
+AFWAARTS AS POSITIEF
+Stone B/Klip B:
+ vf   = vi + aΔt
+      = -2,96  + (9,8)(6,70 – 5)
+      =  13,7 m∙s-1
+Δt2 vvΔy fi  
+
+
+
+
+
+  2 )7,13(96,2 (6,70 – 5)
+     = 9,13 m
+Distance travelled by stone B: 9,13 m
+Afstand afgelê deur klip B: 9,13 m
+
+Hot-air balloon/Lugballon
+2
+2
+1
+i taΔtvΔy 
+
+      = -2,96(6,70 - 5) + 0        = -5,03 m
+Distance travelled by hot-air balloon/
+Afstand afgelê deur lugballon: 5,03 m
+
+Distance between hot -air balloon and
+stone B/Afstand afgelê deur lugballon
+en klip B = 9,13+ 5,03 
+         = 14,16 m     (14,11 - 14,16)
+
+
+
+
+
+  
+ 
+
+=== page 11 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 11 DBE/November 2021
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+ OPTION 4/OPSIE 4
+UPWARDS POSITIVE/
+OPWAARTS POSITIEF:
+Stone B/Klip B:
+vf   = vi + aΔt
+     = 2,96 + (-9,8)(6,70 – 5)
+     = - 13,7 m∙s-1
+Balloon's height after 5 s: 214,8 m
+Ballon se hoogte na 5 s: 214,8 m
+
+Emech/meg)214,8 m = (Emech/meg)1,7 s
+(EP +EK)214,8 m = (EP +EK)1,7 s 
+(mgh+½ mv2) = (mgh+½ mv2)1,7s
+(9,8)(214,9)+½(2,96)2 =
+                               (9,8)h+½(13,7)2
+
+h = 205,67 m
+
+Distance travelled by stone B/
+Afstand afgelê deur klip B:
+214,8 – 205,67 = 9,13 m
+
+Hot-air balloon/Lugballon
+2
+2
+1
+i taΔtvΔy 
+
+     = 2,96(6,70 - 5)  + 0
+     = 5,03 m
+Distance travelled by hot-air balloon/
+Afstand afgelê deur lugballon: 5,03 m
+
+Distance between hot -air balloon and
+stone B/Afstand tussen lugballon en
+klip B: 9,13 + 5,03  = 14,16 m 
+                             (14,11 to/tot 14,16)
+
+DOWNWARDS POSITIVE/
+AFWAARTS POSITIEF:
+Stone B/Klip B:
+vf   = vi + aΔt
+     = -2,96  +  (9,8)(6,70 – 5)
+     = 13,7 m∙s-13
+Balloon's height after 5 s: 214,8 m
+Ballon se hoogte na 5 s: 214,8 m
+
+(Emech/meg)214,8 m = (Emech/meg)1,7 s
+(EP +EK)214,8 m = (EP +EK)1,7 s 
+(mgh +½ mv2) = (mgh + ½ mv2)1,7s
+(9,8)(214,8)+½(2,96)2 =
+                                 (9,8)h+½(13,7)2
+
+h = 205,67 m
+
+Distance travelled by stone B/
+Afstand afgelê deur klip B:
+214,8 – 205,67 = 9,13 m
+
+Hot-air balloon/Lugballon
+2
+2
+1
+i taΔtvΔy 
+
+      = -2,96(6,70 - 5)  + 0       = -5,03 m
+Distance travelled by hot-air balloon/
+Afstand afgelê deur lugballon: 5,03 m
+
+Distance between hot-air balloon and
+stone B/Afstand tussen lugballon en
+klip B: 9,13 + 5,03  = 14,16 m 
+                           (14,11 to/tot 14,16)
+
+ 
+ 
+
+=== page 12 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 12 DBE/November 2021
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+ OPTION 5/OPSIE 5
+UPWARDS AS POSITIVE/
+OPWAARTS AS POSITIEF
+Stone B/Klip B:
+vf = vi + aΔt
+    = 2,96  +  (-9,8)(6,70 – 5)
+    = - 13,7 m∙s-1
+Wnet = ∆EK 
+Fnet∆xcosθ = ½mvf2 - ½mvi2
+                  = ½m(vf2- vi2)
+(9,8)∆hcos 0° = ½(13,72 – 2,962) 
+∆h = 9,13 m
+
+Distance travelled by stone B/
+Afstand afgelê deur klip B: 9,13 m
+
+Hot-air balloon/Lugballon
+2
+2
+1
+i taΔtvΔy 
+
+      = 2,96(6,70 - 5)  + 0        = 5,03 m
+Distance travelled by hot-air balloon/
+Afstand afgelê deur lugballon: 5,03 m
+
+Distance between hot -air balloon and
+stone B/Afstand tussen lugballon en
+klip B: 9,13 + 5,03  = 14,16 m 
+                           (14,11 to/tot  14,16)
+
+DOWNWARDS AS POSITIVE/
+AFWAARTS AS POSITIEF
+Stone B/Klip B:
+vf = vi + aΔt
+    = -2,96 + (9,8)(6,70 – 5)
+    = 13,7 m∙s-1
+Wnet = ∆EK 
+Fnet∆xcosθ = ½mvf2 - ½mvi2
+                   = ½m(vf2- vi2)
+(9,8)∆hcos0° = ½(13,72 – 2,962) 
+∆h = 9,13 m
+
+Distance travelled by stone B/
+Afstand afgelê deur klip B: 9,13 m
+
+Hot-air balloon/Lugballon
+2
+2
+1
+i taΔtvΔy 
+
+      = -2,96(6,70 - 5)  + 0       = -5,03 m
+Distance travelled by hot-air balloon/
+Afstand afgelê deur lugballon: 5,03 m
+
+Distance between hot -air balloon and
+stone B/Afstand tussen lugballon en
+klip B: 9,13+ 5,03  = 14,16 m 
+                          (14,11 to/tot  14,16)
+
+ OPTION 6/OPSIE 6
+Using relative velocities/Deur relatiewe snelhede te gebruik:
+
+ UPWARDS AS POSITIVE/
+OPWAARTS AS POSITIEF
+2
+2
+1
+i taΔtvΔy 
+
+     = (2,96 - 2,96)(1,7) +
+1
+2  (-9,8)(1,7)2
+     = -14,16 m
+Distance between hot -air balloon and
+stone B/Afstand tussen lugballon en
+klip B: 14,16 m 
+DOWNWARDS AS POSITIVE/
+AFWAARTS AS POSITIEF
+2
+2
+1
+i taΔtvΔy 
+
+     = (2,96 - 2,96)(1,7) +
+1
+2  (9,8)(1,7)2
+      = 14,16 m 
+
+ 
+     
+
+=== page 13 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 13 DBE/November 2021
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+ OPTION 7/OPSIE 7
+UPWARDS AS POSITIVE/
+OPWAARTS AS POSITIEF
+Δy = viΔt + ½ aΔt2 
+     =  (2,96)(1,7) + ½ (-9,8)(1,7)2 
+     = -9,13 m
+Distance travelled by stone B: 9,13 m
+Afstand afgelê deur klip B: 9,13 m
+
+DOWNWARDS AS POSITIVE/
+AFWAARTS AS POSITIEF
+Δy = viΔt + ½ aΔt2
+     = (-2,96)(1,7) + ½(9,8)(1,7)2 
+     = 9,13 m
+
+Height of stone B from the ground = 200 + 14,8 – 9,13 = 205,63 m
+Hoogte van klip B vanaf die grond:
+Height of balloon from the ground = 200 + (6,7)(2,96) = 219,83 m
+Hoogte van ballon vanaf die grond:
+Distance between B and the balloon = 219,83 – 205,63  = 14,16 m
+Afstand tussen B en die ballon:
+
+(6)
+
+3.3 UPWARDS POSITIVE  DOWNWARDS POSITIVE
+OPWAARTS POSITIEF AFWAARTS POSITIEF
+
+   (4)
+[18]
+Criteria for graph/Kriteria vir grafiek
+Correct shape for stone A not starting from 0 m./Korrekte vorm vir klip A
+wat nie by 0 m begin nie. 
+Correct shape and initial position for hot -air balloon . /Korrekte vorm en
+aanvanklike posisie vir lugballon. 
+Gradient for hot -air balloon is higher than that of stone A until stone A
+reaches the maximum height./Gradiënt vir lugballon is groter as dié vir klip
+A totdat klip A sy maksimum hoogte bereik.
+
+Both graphs starting at the same position and ending at the same time . /
+Beide grafieke begin by dieselfde posisie en eindig by dieselfde tyd. 
+Position/Posisie (m)
+0
+Time/Tyd (s)
+A
+Position/Posisie (m)
+Balloon/
+ballon
+A
+Time/tyd (s) 0
+Balloon/
+Ballon
+
+
+
+=== page 14 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 14 DBE/November 2021
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+QUESTION 4/VRAAG 4
+
+4.1 Marking criteria/Nasienkriteria
+If any of the underlined key words/phrases in the correct context is omitted deduct
+1 mark. / Indien enige van die onderstreepte sleutel woorde/frases in die korrekte
+konteks uitgelaat is, trek 1 punt af.
+NOTE/LET WEL
+If “total” is omitted: minus 1 mark / Indien “totaal” uitgelaat is: minus 1 punt
+
+ A collision in which both the total momentum and total kinetic energy  are
+conserved.
+'n Botsing waar die totale momentum en die totale kinetiese energie behoue
+bly.
+
+(2)
+
+4.2 OPTION 1/OPSIE 1
+∑EKi = ∑EKf
+½m1v
+2
+1i  + ½m2v
+2
+2i  = ½m1v
+2
+1f  + ½m2v
+2
+2f
+½mxv
+2
+ix  + ½myv
+2
+iy  = ½mxv
+2
+fx  + ½myv
+2
+fy
+½(10)(2)2 + ½(2)v
+2
+iy   = 0 + 36 
+vy = ± 4 m∙s-1
+vy = 4 m∙s-1 west/wes ACCEPT/AANVAAR: left/links
+
+ OPTION 2/OPSIE 2
+EKi = ½ mYvf2
+36    = ½ (2) vf2
+vf = 6 m∙s-1
+
+∑pi = ∑pf
+m1v1i  + m2v2i = m1v1f + m2v2f
+mxvxi  + myvyi = mXvxf + myvyf
+(10)(2) + (2)vy  = 0 + (2)(6)  
+vy = -4 m∙s-1
+vy = 4 m∙s-1 west/wesACCEPT/AANVAAR: left/links
+
+ OPTION 3/OPSIE 3
+EKi = ½ mYvf2
+36 = ½ (2) vf2
+vf = 6 m∙s-1
+
+ΔpX = -ΔpY
+mx(vXf - vXi) = - mY(vYf – vYi)
+(10)(0 – 2) = -(2)(6 – vY) 
+vYf = -4 m∙s-1
+vy = 4 m∙s-1 west/wes                   ACCEPT/AANVAAR: left/links
+
+(5)
+
+Any one/Enige een
+Any one/Enige een
+Any one/Enige een
+
+=== page 15 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 15 DBE/November 2021
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+4.3
+
+POSITIVE MARKING FROM QUESTION 4.2 FOR Y; OPTIONS 1, 3 and 6
+POSITIEWE NASIEN VANAF VRAAG 4.2 VIR Y; OPSIES 1, 3 en 6
+
+ OPTION 1/OPSIE 1
+EAST POSITIVE/OOS POSITIEF:
+For Y/Vir Y:
+FnetΔt = Δp
+FnetΔt = m(vf – vi)
+Fnet (0,1) = 2{6 - (-4)} 
+Fnet = 200 N 
+
+WEST POSITIVE/WES POSITIEF:
+For Y/Vir Y:
+FnetΔt = Δp
+FnetΔt = m(vf – vi)
+Fnet (0,1) = 2(-6 - 4) 
+Fnet = -200 N
+Fnet = 200 N 
+
+ OPTION 2/OPSIE 2
+EAST POSITIVE/OOS POSITIEF:
+For X/Vir X:
+FnetΔt = Δp
+FnetΔt = m(vf – vi)
+Fnet (0,1) = 10(0 - 2) 
+Fnet = -200 N
+Fnet = 200 N 
+
+WEST POSITIVE/WES POSITIEF
+For X/Vir X:
+FnetΔt = Δp
+FnetΔt = m(vf – vi)
+Fnet (0,1) = 10{0 - (-2)} 
+Fnet = 200 N 
+
+ OPTION 3/OPSIE 3
+EAST POSITIVE/OOS POSITIEF:
+For Y/Vir Y:
+vf = vi + aΔt
+6 = -4 + a(0,1)
+a = 100 m∙s-2
+Fnet = ma 
+       = 2(100) 
+       = 200 N 
+
+WEST POSITIVE/WES POSITIEF
+For Y/Vir Y:
+ vf = vi + aΔt
+-6 = 4 + a(0,1)
+ a = -100 m∙s-2
+Fnet = ma 
+      = 2(-100) 
+      = -200 N
+Fnet = 200 N 
+
+ OPTION 4/OPSIE 4
+EAST POSITIVE/OOS POSITIEF:
+For X/Vir X:
+vf = vi + aΔt
+0 = 2 + a(0,1)
+a = -20 m∙s-2
+Fnet = ma 
+       = 10(-20) 
+       = -200 N
+Fnet = 200 N 
+
+WEST POSITIVE/WES POSITIEF
+For X/Vir X:
+vf = vi + aΔt
+0 = -2 + a(0,1)
+a = 20 m∙s-2
+Fnet = ma 
+       = 10(20) 
+Fnet = 200 N 
+
+ OPTION 5/OPSIE 5
+EAST POSITIVE/OOS POSITIEF:
+For X/Vir X:
+vf = vi + aΔt                       vf2 = vi2 + 2aΔx                    Δx =
+
+
+
+
+ 
+2
+vv if Δt
+0 = 2 + a(0,1)                   0 = (2)2 + 2(-20)Δx                   =
+
+
+
+
+ 
+2
+20 (0,1)
+a = -20 m∙s-2                    Δx = 0,10 m                              = 0,10  m
+
+Wnet = ΔEk 
+FnetΔxcosθ = ½ m(vf2 – vi2)
+Fnet(0,1)cos180º = ½ (10)(02 – 22) 
+Fnet = 200 N 
+
+Any one/
+Enige een
+Any one/
+Enige een
+Any one/
+Enige een
+Any one/
+Enige een
+
+=== page 16 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 16 DBE/November 2021
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+ OPTION 5/OPSIE 5
+WEST POSITIVE/WES POSITIEF:
+For X/Vir X:
+vf = vi + aΔt                       vf2 = vi2 + 2aΔx                    Δx =
+
+
+
+
+ 
+2
+vv if Δt
+0 = -2 + a(0,1)                   0 = (-2)2 + 2(20)Δx                   =
+
+
+
+
+ 
+2
+)2(0 (0,1)
+a = 20 m∙s-2                    Δx = -0,10 m                               = - 0,10  m
+
+Wnet = ΔEk 
+FnetΔxcosθ = ½ m(vf2 – vi2)
+Fnet(0,1)cos180º = ½ (10)(02 – 22) 
+      Fnet = 200 N 
+
+ OPTION 6/OPSIE 6
+EAST POSITIVE/OOS POSITIEF:
+For Y/Vir Y:
+vf = vi + aΔt                       vf2 = vi2 + 2aΔx                    Δx =
+
+
+
+
+ 
+2
+vv if Δt
+6 = -4 + a(0,1)                (6)2 = (-4)2 + 2(100)Δx               =
+
+
+
+
+ 
+2
+46 (0,1)
+a = 100 m∙s-2                   Δx = 0,10 m                              = 0,10  m
+
+Wnet = ΔEk 
+FnetΔxcosθ = ½ m(vf2 – vi2)
+Fnet(0,1)cos0° = ½ (2)(62 – (-4)2) 
+Fnet = 200 N 
+
+ OPTION 6/OPSIE 6
+WEST POSITIVE/WES POSITIEF:
+For Y/Vir Y:
+vf = vi + aΔt                       vf2 = vi2 + 2aΔx                    Δx =
+
+
+
+
+ 
+2
+vv if Δt
+-6 = 4 + a(0,1)                   (-6)2 = (4)2 + 2(-100)Δx            =
+
+
+
+
+ 
+2
+46 (0,1)
+a = -100 m∙s-2                    Δx = -0,10 m                            = -0,10 m
+
+Wnet = ΔEk 
+FnetΔxcosθ = ½ m(vf2 – vi2)
+     Fnet(0,1)cos0° = ½ (2)((-6)2 – (4)2) 
+   Fnet = 200 N 
+
+(3)
+    [10]
+
+=== page 17 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 17 DBE/November 2021
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+QUESTION 5/VRAAG 5
+
+5.1 Marking criteria/Nasienkriteria
+If any of the underlined key words/phrases in the correct context is omitted deduct
+1 mark. /Indien enige van die onderstreepte sleutel woorde/frases in die korrekte
+konteks uitgelaat is, trek 1 punt af.
+
+ACCEPT/AANVAAR
+For isolated system:
+ Closed system/Geslote sisteem.
+ Only conservative force s act on the system/Slegs konserwatiewe kragte werk in
+op die sisteem.
+ No external forces act on system/Geen eksterne kragte werk in op die sisteem.
+
+ The total mechanical energy  in a n isolated system remains constant / the
+same. 
+Die totale meganiese energie in 'n geïsoleerde sisteem bly konstant  /
+dieselfde.
+OR/OF
+The sum of the kinetic and gravitational potential energies  in a n isolated
+system remains constant/the same.
+Die som van die kinet iese en gravitasie potensiële energie in 'n
+geïsoleerde/geslote sisteem bly konstant/dieselfde.
+
+(2)
+
+5.2 NOTE/LET WEL
+ Mass may be omitted during substitution. /Massa mag uitgelaat word tydens
+vervanging.
+ If equations of motion are used . Max 1/3 for corre ct answer . /  Indien
+bewegingsvergelykings gebruik word. Maks 1/3 vir korrekte antwoord.
+
+ OPTION 1/OPSIE1
+E P/mech top/meg bo = E Q/mech ground /meg grond
+(Ep + Ek)P/top/bo = (Ep + Ek)Q/bottom/onder
+(mgh + ½mv2)P/top/bo = (mgh + ½mv2)Q/bottom/onder
+(2)(9,8)(5) + 0 = 0 + ½(2)v
+2
+f  
+vf = 9,90 m∙s-1  (9,899)
+
+ OPTION 2/OPSIE2
+∆Ep + ∆EK = 0
+(mghf - mghi) + ½m(vf2 – vi2) = 0
+0 - (2)(9,8)(5) + ½(2)(vf2 – 0)  = 0
+vf = 9,90 m∙s-1  (9,899)
+
+(3)
+
+5.3 POSITIVE MARKING FROM QUESTION 5.2.
+POSITIEWE NASIEN VANAF VRAAG 5.2.
+
+ OPTION 1/OPSIE 1
+Wnet = ∆EK
+Wf = ½mvf2 - ½mvi2
+WN + Wf  + Ww= ½mvf2 - ½mvi2
+f∆xcosθ = ½m(vf2- vi2)
+f(10)cos180° = ½(2)(42 – 9,902) 
+f = 8,2 N 
+
+Any one/Enige een
+Any one/Enige een
+Any one/Enige een
+
+=== page 18 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 18 DBE/November 2021
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+ OPTION 2/OPSIE 2
+Wnc = ∆EK + ∆Ep
+Wf = ½mvf2 - ½mvi2
+WN + Wf = ½mvf2 - ½mvi2
+f∆xcosθ = ½m(vf2 – vi2) + mg(hf – hi)
+f(10)cos180° = ½(2)(42 – 9,902) + 0 
+f = 8,2 N 
+
+(4)
+
+5.4 LEFT NEGATIVE/LINKS NEGATIEF
+Fnet∆t = ∆p
+Fnet∆t = mvf - mvi
+Fnet∆t = m(vf - vi)
+-14 = 2(vf – 4) 
+vf = -3 m∙s-1
+
+∆EK = ½mvf2 - ½mvi2 
+       = ½(2)[(-3)2 - 42] 
+       = -7 J 
+
+ACCEPT/AANVAAR
+∆EK = ½mvf2 - ½mvi2 
+       = ½(2)[(0)2 – (-3)2] 
+       = -9 J 
+
+RIGHT NEGATIVE/REGS NEGATIEF
+Fnet∆t = ∆p
+Fnet∆t = mvf - mvi
+Fnet∆t = m(vf - vi)
+14 = 2(vf  – (-4)) 
+vf = 3 m∙s-1
+
+∆EK = ½mvf2 - ½mvi2 
+       = ½(2)[(3)2 – (-4)2] 
+       = -7 J 
+
+ACCEPT/AANVAAR
+∆EK = ½mvf2 - ½mvi2 
+       = ½(2)[(0)2 – (-3)2] 
+       = -9 J 
+
+(5)
+
+    [14]
+
+Any one/Enige een
+Any one/Enige een
+Do not penalise if +3 is substituted.
+Moenie penaliseer indien +3 vervang is.
+Do not penalise if +4 is substituted.
+Moenie penaliseer indien +4 vervang is.
+Any one/Enige een
+Do not penalise if +3 is substituted.
+Moenie penaliseer indien +3 vervang is.
+Do not penalise if +3 is substituted.
+Moenie penaliseer indien +3 vervang is.
+ACCEPT/AANVAAR
+Impulse/Impuls = mΔv
+ACCEPT/AANVAAR
+Impulse/Impuls = mΔv
+
+=== page 19 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 19 DBE/November 2021
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+QUESTION 6/VRAAG 6
+
+6.1 v = fλ 
+340 = 680λ 
+λ = 0,5 m 
+
+(3)
+
+6.2 Marking criteria/Nasienkriteria
+If any of the underlined key words/phrases in the correct context is omitted deduct 1
+mark./Indien enige van die onderstreepte sleutel woorde/fr ases in die korrekte konteks
+uitgelaat is, trek 1 punt af.
+ The change in frequency/pitch/wavelength of the sound detected by a listener
+because the sound source and the listener have different velocities relative to
+the medium of sound propagation. 
+Die verandering in frekwensie/ toonhoogte/golflengte van die klank waargeneem
+deur 'n luisteraar omdat die klank bron en die luisteraar verskillende snelhede
+relatief tot die medium van klank voortplanting het.
+
+OR/OF
+An (apparent) change in observed/detected  frequency/pitch/wavelength, as a
+result of the relative motion between a source and an observer (listener). 
+'n (Skynbare) verand ering in waargenome frekwensie/ toonhoogte/golflengte as
+gevolg van die relatiewe beweging tussen die bron en 'n waarnemer/luisteraar. (2)
+
+6.3.1 Decreased/Afgeneem   (1)
+
+6.3.2 Increased/Toegeneem   (1)
+
+6.4 POSITIVE MARKING FROM QUESTION 6.1 /
+POSITIEWE NASIEN VANAF VRAAG 6.1
+
+  OPTION 1/OPSIE 1
+s
+s
+L
+L fvv vvf 
+ OR
+s
+s
+L fvv vf  
+
+L
+L
+λ
+vf 
+
+     =
+05,05,0
+340
+
+      =
+45,0
+340
+     = 755,56 Hz
+
+680v340 034056,755 s  
+
+
+vs = 34 m∙s-1         (33,67 - 34,04)
+OPTION 2/OPSIE 2
+s
+s
+L
+L fvv vvf 
+ OR
+s
+s
+L fvv vf  
+
+s
+sL
+f)v-v 0+v(=λv
+
+05,05,0
+340
+
+  =
+680v340 0340 s  
+
+45,0
+340  =
+680v340 0340 s  
+
+vs  = 34 m∙s-1           (33,67 - 34,04)
+
+
+
+ 
+
+
+=== page 20 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 20 DBE/November 2021
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+ OPTION 3/OPSIE 3
+s
+s
+L
+L fvv vvf 
+ OR
+s
+s
+L fvv vf  
+
+ssL
+v
+v-v
+0vv
+ 
+
+
+ssL
+1
+v-v
+0v1
+ 
+
+05,05,0
+1
+
+  =
+5,0
+1
+v340
+0340
+s
+ 
+45,0
+1
+=
+5,0
+1
+v340
+0340
+s
+ 
+vs  = 34 m∙s-1      (33,67 - 34,04)
+OPTION 4/OPSIE 4
+s
+s
+L
+L fvv vvf 
+ OR
+s
+s
+L fvv vf  
+v1 = v2
+fsλ1 = fLλ2
+(600)(0,5) = fL(0,45) 
+fL = 755,56 Hz
+
+680v340 034056,755 s  
+
+
+vs =  34 m∙s-1           (33,67 - 34,04)
+
+(5)
+    [12]
+
+QUESTION 7/VRAAG 7
+
+7.1.1 Added/Toegevoeg   (1)
+
+7.1.2 NOTE/LET WEL
+Ignore signs of the charges./ Ignoreer tekens van die ladings.
+
+(3)
+n =
+eq
+Q
+
+   =
+19
+6
+10x6,1
+10x95,1
+
+
+
+
+
+= 1,22 x 1013   (1,21875 x 1013)
+
+7.1.3 Marking criteria/Nasienkriteria
+If any of the underlined key words/phrases in the correct context is omitted deduct
+1 mark. /Indien enige van die onderstreepte sleutel woorde/frases in die korrekte
+konteks uitgelaat is, trek 1 punt af.
+
+ The (electrostatic) force experienced per unit positive charge placed at that
+point.
+Die (elektrostatiese) krag per eenheid positiewe lading wat by die punt
+geplaas is.
+
+NOTE/LET WEL (1 mark for:/1 punt vir:)
+An electric field is a region of space in which an electric charge experiences a
+force.
+'n Gebied in die ruimte waarin 'n elektriese lading 'n krag ondervind.
+
+(2)
+
+7.1.4
+
+2r
+kQE
+     =
+2
+69
+)5,0(
+)1095,1)(109(  
+     = 7,02 x 104 N·C-1 
+
+(3)
+
+ 
+
+
+
+
+
+=== page 21 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 21 DBE/November 2021
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+7.2 OPTION 1/OPSIE 1
+Marking criteria/Nasienkriteria:
+ Coulomb's Law formula/Coulomb se formule 
+ Correct substitution for Fq1 OR Fq2 into
+2
+21
+r
+QkQ 
+      Korrekte substitusie van Fq1OF Fq2 in
+2
+21
+r
+QkQ
+ Correct substitution of 1,38 N for F(net) /Korrekte substitusie van 1,38 N vir F(net)
+ Subtracting (vector addition) electrostatic forces /Aftrek (vektoraddisie) van
+ elektrostatiese kragte 
+ Final answer/Finale antwoord: 1,11 x 10-7 C    (1,106 x 10-7 C)
+
+ FE(net) = Fq2 + Fq1
+1,38 =
+
+
+
+
+ 2 21r QkQ +
+
+
+
+
+ 2 21r QkQ
+1,38 =
+  2 269 )03,0( q)1095,1)(109( +
+  2 269 )05,0( q)1095,1)(109(
+q2 = 1,11 x 10-7 C  (1,106 x 10-7 C)
+
+ OPTION 2/OPSIE 2
+Marking criteria/Nasienkriteria:
+
+2r
+kQE   
+ Correct substitution of 7,08 x 105 N·C-1/Korrekte substitusie van 7,08 x105 N·C-1
+ Correct substitution for Eq1 OR Eq2 into
+
+2
+2
+r
+kQ
+
+ Korrekte substitusie van Eq1 OF Eq2 in
+
+2
+2
+r
+kQ
+
+ Subtracting electric fields/Aftrek van elektriese velde 
+ Final answer/Finale antwoord: 1,11 x 10-7 C   (1,106 x 10-7 C)
+
+q
+FE   =
+61095,1
+38,1
+
+   = 7,08 x 105 N∙C-1  (707692,30)
+
+Enet = Eq2 + Eq1
+7,08 x 105  =
+
+
+
+
+ 2 2rkQ  +
+
+
+
+
+ 2 1rkQ 
+                  =
+  2 29)03,0( q)109(  +
+  2 19)05,0( q)109( 
+
+q2 = 1,11 x 10-7 C  (1,106 x 10-7 C) 
+
+(5)
+   [14]
+
+
+
+ 
+
+
+=== page 22 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 22 DBE/November 2021
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+QUESTION 8/VRAAG 8
+
+8.1.1 12 V   (1)
+
+8.1.2 0 (V)   (1)
+
+8.2 Marking criteria/Nasienkriteria
+If any of the underlined key words/phrases in the correct context is omitted deduct
+1 mark ./Indien enige van die onderstreepte sleutel woorde/frases in die korrekte
+konteks uitgelaat is, trek 1 punt af.
+
+ The rate at which work is done or energy is expended/transferred.
+Die tempo waarteen arbeid verrig word of energie oorgedra word.
+
+(2)
+
+8.3 OPTION 1/OPSIE 1
+P = I2R 
+5,76 = (1,22)R 
+R = 4 Ω 
+
+OPTION 2/OPSIE 2
+P = VI
+5,76 = V(1,2)
+V = 4,8 V
+
+P =
+R
+V 2 
+5,76 =
+R
+)8,4( 2 
+R = 4 Ω 
+V = IR 
+4,8 = (1,2)R 
+R = 4 Ω 
+
+(3)
+
+8.4 POSITIVE MARKING FROM QUESTION 8.3
+POSITIEWE NASIEN VANAF VRAAG 8.3
+
+ OPTION 1/OPSIE 1
+21p R
+1
+R
+1
+R
+1 
+
+4,8
+1
+6
+1
+R
+1
+p
+
+
+
+Rp = 3,5 Ω
+
+RT = 3,5 + 4 
+     = 7,5 Ω 
+OPTION 2/OPSIE 2
+21
+21
+p
+RR
+RRR 
+
+4,86
+)4,8)(6(Rp
+
+
+
+
+Rp = 3,5 Ω
+
+RT  = 3,5 + 4
+      = 7,5 Ω 
+
+(3)
+
+=== page 23 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 23 DBE/November 2021
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+8.5 POSITIVE MARKING FROM QUESTION 8.3
+POSITIEWE NASIEN VANAF VRAAG 8.3
+
+ CALCULATE VP/BEREKEN VP
+Marking criteria/Nasienkriteria
+ Formula/Formule:
+V = IR 
+ Substitution to calculate Vp /
+Vervanging om Vp te bereken.
+CALCULATE V2/BEREKEN V2
+Marking criteria/Nasienkriteria
+ Substitution to calculate Ibranch or ratio
+of Rbranch/Vervanging om Itak of
+verhouding van Rtak te bereken. 
+ Substitution to calculate V2 /
+Vervanging om V2 te bereken.
+ Final Answer/Finale antwoord: 3 V
+
+OPTION 1/OPSIE 1
+Vp = IR
+     = (1,2)(3,5) 
+     = 4,2 V
+  I =
+R
+V
+    =
+4,8
+2,4 
+    = 0,5 A
+
+  V2 = IR 
+       = (0,5)(6) 
+       = 3 V 
+
+OR/OF
+
+ OPTION 2/OPSIE 2
+Px     = VI
+5,76 = V(1,2)
+    Vx = 4,8 V
+ I6 Ω  =
+2,14,144,8 
+        = 0,7 A
+V6 Ω  =  IR
+        = (0,7)(6) 
+        = 4,2 V
+
+ OPTION 3/OPSIE 3
+
+ε   = I(R + r)
+12 = 1,2(7,5 + r)
+   r = 2,5 Ω
+Vp = 12 – 1,2(2,5 + 4) = 4,2 V
+  R2,4 : R6 =  2,4 : 6 
+                =     2 : 5
+  V2,4 : V6  =  1,2 : 3 
+            V2 = 3 V 
+
+ CALCULATION OF I8,4Ω AND V2/BEREKENING VAN I8,4Ω EN V2
+OPTION 4/OPSIE 4
+I8,4Ω =
+
+
+
+
+
+4,14
+6 (1,2)  OR/OF
+
+
+
+
+
+4,8
+5,3 (1,2)
+       = 0,5 A 
+V2  = IR 
+       = (0,5)(6) 
+       = 3 V 
+
+ OPTION 5/OPSIE 5
+Vx = IR                              Vext = IRext
+    = (1,2)(4)                             = (1,2)(7,5)
+    = 4,8 V                                 = 9 V
+
+Vp = 9 – 4,8 = 4,2 V
+
+V8,4Ω = IR
+4,2 = I(8,4)
+I = 0,5 A
+
+V2 = IR 
+     = (0,5)(6) 
+     = 3 V 
+
+(5)
+
+=== page 24 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 24 DBE/November 2021
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+8.6 Decreases/Neem af 
+Total resistance decreases. / Totale weerstand neem af. 
+Current increases. /Stroom neem toe. 
+Vinternal /Internal voltage (“lost volts”) increases. /Interne potensiaalverskil neem
+toe. 
+Vexternal /external voltage decreases. /Eksterne potensiaalverskil neem af.
+
+NOTE/LET WEL
+Do not penalise i f “total” is omitted . / Moenie penaliseer i ndien “totaal”
+uitgelaat is nie.
+
+(4)
+   [19]
+
+QUESTION 9/VRAAG 9
+
+9. 1 Slip rings/Sleepringe 
+
+ACCEPT/AANVAAR
+Split ring/slip ring commutator /splitring/sleepring kommutator
+
+(1)
+
+9. 2 Y to/na X   (2)
+
+9.3 Marking criteria/Nasienkriteria
+If any of the underlined key words/phrases in the correct context is omitted deduct
+1 mark ./Indien en ige van die onderstreepte sleutel woorde/frases in die korrekte
+konteks uitgelaat is, trek 1 punt af.
+
+ The AC potential difference  which dissipates the same amount of energy  as
+an equivalent DC potential difference.
+Die WS-potensiaalverskil wat dieselfde hoeveelheid energie verbruik  as die
+ekwivalente/soortgelyke GS-potensiaalverskil.
+
+ACCEPT/AANVAAR
+The DC potential difference  which dissipates the same amount of energy  as
+an equivalent AC potential difference.
+Die GS-potensiaalverskil wat dieselfde ho eveelheid energie verbruik  as die
+ekwivalente/soortgelyke WS-potensiaalverskil.
+
+(2)
+
+9.4 OPTION 1/OPSIE 1
+Vrms/wgk =
+2
+V /max maks
+            =
+2
+100 
+            = 70,71 V
+Irms/wgk =
+R
+V /rms wgk 
+           =
+25
+71,70 
+           = 2,83 A 
+ACCEPT/AANVAAR
+If subscipts omitted in
+V = IR
+Indien onderskrifte
+uitgelaat is in V = IR
+OPTION 2/OPSIE 2
+Imax/maks =
+R
+Vmax/maks
+             =
+25
+100 
+             = 4 A
+
+Irms/wgk =
+2
+I /max maks 
+           =
+2
+4 
+           = 2,83 A 
+OPTION 3/OPSIE 3
+Pave =
+R
+V 2rms
+      =
+25
+2
+100 2 = 200 W
+Pave = VrmsIrms 
+200 =
+ 2100 Irms 
+Irms = 2,83 A 
+
+(4)
+
+=== page 25 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 25 DBE/November 2021
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+9.5 POSITIVE MARKING FROM QUESTION 9.4 /
+POSITIEWE NASIEN VANAF VRAAG 9.4
+
+ OPTION 1/OPSIE 1
+R
+VP 2rms/ave/ wgkgem
+
+
+25
+71,70 2
+ 
+
+           = 200,00 W  (200 W)
+OPTION 2/OPSIE 2
+rmsrmsave IVP 
+
+       = (70,71)(2,83)
+
+       = 200,11 W 
+OPTION 3/OPSIE 3
+RIP 2rms/ave/ wgkgem
+
+           = (2,83)2(25) 
+           = 200,22 W 
+
+ OPTION 4/OPSIE 4
+Irms/wgk =
+2
+I /max maks
+2,83 =
+2
+Imax
+Imax/maks = 4 A
+Pave/gem =
+2
+IV max/max/ maksmaks 
+              =
+2
+)4)(100( 
+              = 200 W 
+
+(3)
+
+9.6
+
+ Marking criteria/Nasienkriteria
+ 2 waves 
+2 golwe
+ Period of wave is 0,05 s 
+Periode van golf is 0,05 s
+ Amplitude = 200 V 
+
+(3)
+   [15]
+
+V (V)
+0
+0,05 t (s) 0,1
+200
+-200
+0,025 0,075
+
+=== page 26 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 26 DBE/November 2021
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou
+
+QUESTION 10/VRAAG 10
+
+10.1 Marking criteria/Nasienkriteria
+If any of the underlined key words/phrases in the correct context is omitted deduct
+1 mark. /Indien enige van die onderstreepte sleutel woorde/frases in die korrekte
+konteks uitgelaat is, trek 1 punt af.
+
+ The minimum frequenc y of light needed to eject electrons from a metal /
+surface. 
+Minimum frekwensie van lig benodig om elektrone vanaf 'n metaal / oppervlak
+vry te stel.
+
+(2)
+
+10.2 Greater than/Groter as   (2)
+
+10.3 OPTION 1/OPSIE 1
+E = Wo + Ek(max) 
+fx = (
+34-10 x 6,63
+1 ) (23,01x10-19)  + 10,40 x 1014 
+   = 4,51 x 1015 (Hz)  (45,1 x 1014 Hz )
+
+ OPTION 2/OPSIE 2
+m =
+h
+1 
+01001,23
+104,10f
+19
+14
+x
+
+
+
+ =
+341063,6
+1
+ 
+fx = 4,51 x 1015 (Hz) (45,1 x 1014 Hz)
+
+ OPTION 3/OPSIE 3
+E = Wo + Ek(max ) 
+hf = hf0 + Ek(max)
+6,63 x 10-34 fx = (6,63 x 10-34)(10,40 x 1014)+ 23,01 x 10-19 
+fx = 4,51 x 1015 (Hz)   (45,1 x 1014 Hz )
+
+(5)
+
+10.4
+10.4.1 No effect/Geen effek nie   (1)
+
+10.4.2 Increases/Verhoog   (1)
+
+10.4.3 No effect/Geen effek nie   (1)
+[12]
+
+TOTAL/TOTAAL:  150
+
+
+

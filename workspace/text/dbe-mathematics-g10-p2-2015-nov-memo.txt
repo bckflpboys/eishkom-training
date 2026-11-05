@@ -1,0 +1,141 @@
+**NATIONAL SENIOR CERTIFICATE / NASIONALE SENIOR SERTIFIKAAT**
+
+**GRADE / GRAAD 10**
+
+**MATHEMATICS P2 / WISKUNDE V2**
+
+**NOVEMBER 2015**
+
+**MEMORANDUM**
+
+---
+
+### **NOTE:**
+* If a candidate answers a question TWICE, mark only the FIRST attempt.
+* If a candidate crossed out an attempt of a question and did not redo the question, mark the crossed-out version.
+* Consistent accuracy applies in ALL aspects of the marking memorandum. Stop marking at the second calculation error.
+* Assuming answers/values in order to solve a problem is NOT acceptable.
+
+---
+
+### **QUESTION / VRAAG 1**
+
+$14 \quad 15 \quad 16 \quad 16 \quad 17 \quad 17 \quad 18 \quad 18 \quad 19 \quad 19$  
+$19 \quad 20 \quad 21 \quad 21 \quad 22 \quad 23 \quad 24 \quad 24 \quad 29$
+
+| 1.1 | Median/Mediaan $= 19 \text{ seconds/sekondes}$ | $\checkmark$ answer/antw | (1) |
+| :--- | :--- | :--- | :--- |
+| 1.2 | Lower quartile/Onderste kwartiel $(Q_1) = 17$<br>Upper quartile/Boonste kwartiel $(Q_3) = 22$ | $\checkmark Q_1$<br>$\checkmark Q_3$ | (2) |
+| 1.3 | **[Box and Whisker Diagram]**<br>Median line at 19, Box from 17 to 22, Whiskers from 14 to 29. | $\checkmark \text{box/mond}$<br>$\checkmark \text{whiskers/snor}$ | (2) |
+| 1.4.1 | $\text{IQR/IKO} = 26 - 19$<br>\quad $\quad \quad \;\;= 7$ | $\checkmark Q_3 - Q_1$<br>$\checkmark \text{answer/antw}$ | (2) |
+| 1.4.2 | 75% of the boys took at least 19 seconds to complete the puzzle./<br>75% van die seuns het ten minste 19 sekondes geneem om die legkaart te voltooi. | $\checkmark 75\%$ | (1) |
+| 1.5 | About 50% but not more than 75% of the boys completed the puzzle in less than 23 seconds./*Ongeveer 50% maar nie meer as 75% van die seuns het die legkaart in minder as 23 sekondes voltooi.*<br>More than 75% of the girls completed the puzzle in less than 23 seconds./*Meer as 75% van die dogters het die legkaart in minder as 23 sekondes voltooi.*<br>Therefore more girls completed the puzzle in less than 23 seconds./*Meer dogters het dus die legkaart in minder as 23 sekondes voltooi.* | $\checkmark \text{relevant/relevante explanation/verduideliking}$<br>$\checkmark \text{girls/dogters}$ | (2) |
+| **[10]** |
+
+---
+
+### **QUESTION / VRAAG 2**
+
+| NUMBER OF HOURS / GETAL UUR ($h$) | FREQUENCY / FREKWENSIE |
+| :---: | :---: |
+| $0 < h \le 2$ | 10 |
+| $2 < h \le 4$ | 15 |
+| $4 < h \le 6$ | 30 |
+| $6 < h \le 8$ | 35 |
+| $8 < h \le 10$ | 25 |
+| $10 < h \le 12$ | 5 |
+
+| 2.1 | The modal class is / Die modale klas is $6 < h \le 8$ | $\checkmark 6 < h \le 8$ | (1) |
+| :--- | :--- | :--- | :--- |
+| 2.2 | $\text{Average/Gemiddelde} = \frac{1 \times 10 + 3 \times 15 + \dots + 11 \times 5}{120}$<br><br>$\text{Estimated mean/Geskatte gemiddelde } (\bar{x}) = \frac{730}{120}$<br>$\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \; = 6,08 \text{ hours/uur}$ | $\checkmark \text{midpts/midpte}$<br>$\checkmark 730$<br>$\checkmark \text{answer/antw}$ | (3) |
+| **[4]** |
+
+---
+
+### **QUESTION / VRAAG 3**
+
+| 3.1 | $\begin{aligned} DB &= \sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2} \\ &= \sqrt{(-4 - 4)^2 + (2 - (-4))^2} \\ &= \sqrt{64 + 36} \\ &= \sqrt{100} \\ &= 10 \end{aligned}$ | $\checkmark \text{correct formula}$<br>$\checkmark \text{subst}$<br>$\checkmark \text{answer/antw}$ | (3) |
+| :--- | :--- | :--- | :--- |
+| 3.2 | $\begin{aligned} M\left(\frac{x_1 + x_2}{2} ; \frac{y_1 + y_2}{2}\right) &= M\left(\frac{-4 + 4}{2} ; \frac{2 - 4}{2}\right) \\ \therefore M(0 ; -1) \end{aligned}$ | $\checkmark \text{correct formula}$<br>$\checkmark x\text{-value/waarde}$<br>$\checkmark y\text{-value/waarde}$ | (3) |
+| 3.3 | $\begin{aligned} m_{AD} &= \frac{y_1 - y_2}{x_1 - x_2} \\ &= \frac{4 - 2}{0 - (-4)} \\ &= \frac{2}{4} = \frac{1}{2} \end{aligned}$ | $\checkmark \text{correct formula}$<br>$\checkmark \text{subst into/in gradient form}$<br>$\checkmark \text{answer/antw}$ | (3) |
+| 3.4 | $\begin{aligned} m_{AB} &= \frac{4 - (-4)}{0 - 4} \\ &= \frac{8}{-4} = -2 \\ \therefore m_{AD} \times m_{AB} &= \frac{1}{2} \times -2 = -1 \\ \therefore AD &\perp AB \end{aligned}$ | $\checkmark \text{subst}$<br>$\checkmark \text{gradient of AB}$<br>$\checkmark m_{AD} \times m_{AB} = -1$ | (3) |
+| 3.5 | $\text{parallelogram with one internal angle } = 90^\circ$<br>/*parallelogram met een binnehoek $ = 90^\circ$* | $\checkmark \text{R}$ | (1) |
+| 3.6 | $\begin{aligned} m_{KL} &= m_{AD} = \frac{1}{2} \quad [KL \parallel AD] \\ \therefore y &= \frac{1}{2}x - 2 \end{aligned}$ | $\checkmark \text{gradient of KL}$<br>$\checkmark \text{equation/vgl}$ | (2) |
+| 3.7 | $\begin{aligned} AC &= DB = 10 \text{ units} \quad [\text{diag of rectangle} = / \text{hkle v regh} =] \\ 4 - y_C &= 10 \\ y_C &= -6 \\ \therefore C(0 ; -6) \end{aligned}$<br>**OR/OF**<br>$\begin{aligned} m_{BC} &= m_{AD} = \frac{1}{2} \quad [\text{sides of rectangle} \parallel / \text{sye v regh} \parallel] \\ \frac{-4 - y_C}{4 - 0} &= \frac{1}{2} \\ -8 - 2y_C &= 4 \\ 2y_C &= -12 \\ y_C &= -6 \\ \therefore C(0 ; -6) \end{aligned}$ | $\checkmark \text{R}$<br>$\checkmark \text{equation/vgl}$<br>$\checkmark \text{answer/antw}$<br><br><br>$\checkmark \text{R}$<br>$\checkmark \text{equation/vgl}$<br>$\checkmark \text{answer/antw}$ | (3)<br><br><br>(3) |
+| **[18]** |
+
+---
+
+### **QUESTION / VRAAG 4**
+
+| 4.1.1 | $\tan \hat{P} = \frac{10}{24} = \frac{5}{12}$ | $\checkmark \text{answer/antw}$ | (1) |
+| :--- | :--- | :--- | :--- |
+| 4.1.2 | $\sin S\hat{Q}R = \frac{6}{10} = \frac{3}{5}$ | $\checkmark \text{answer/antw}$ | (1) |
+| 4.1.3 | $\cos \theta = \frac{10}{26} = \frac{5}{13}$ | $\checkmark \text{answer/antw}$ | (1) |
+| 4.1.4 | $\sec S\hat{R}Q = \frac{10}{6} = \frac{5}{3}$ | $\checkmark \text{answer/antw}$ | (1) |
+| 4.2 | $\begin{aligned} \frac{\cot \theta}{\csc S\hat{R}Q} &= \frac{\frac{10}{24}}{\frac{10}{8}} \\ &= \frac{10}{24} \div \frac{10}{8} \\ &= \frac{1}{3} \end{aligned}$ | $\checkmark \frac{10}{24}$<br>$\checkmark \frac{10}{8}$<br>$\checkmark \frac{1}{3}$ | (3) |
+| **[7]** |
+
+---
+
+### **QUESTION / VRAAG 5**
+
+| 5.1.1 | $\begin{aligned} x &= -15 \\ r &= 17 \\ x^2 + y^2 &= r^2 \\ (-15)^2 + y^2 &= 17^2 \\ y^2 &= 64 \\ y &= -8 \end{aligned}$ | $\checkmark x\text{-value/waarde}$<br>$\checkmark r\text{-value/waarde}$<br>$\checkmark \text{using/gebruik Pyth}$<br>$\checkmark y\text{-value/waarde}$ | (4) |
+| :--- | :--- | :--- | :--- |
+| 5.1.2(a) | $\sin \beta = -\frac{8}{17}$ | $\checkmark \text{answer/antw}$ | (1) |
+| 5.1.2(b) | $\begin{aligned} &\cos^2 30^\circ \cdot \tan \beta \\ &= \left(\frac{\sqrt{3}}{2}\right)^2 \cdot \frac{-8}{-15} \\ &= \frac{3}{4} \times \frac{8}{15} \\ &= \frac{2}{5} \end{aligned}$ | $\checkmark \frac{\sqrt{3}}{2}$<br>$\checkmark \frac{-8}{-15}$<br>$\checkmark \text{answer/antw}$ | (3) |
+| 5.1.3 | $\begin{aligned} R\hat{O}P &= 180^\circ + 28,07^\circ \\ &= 208,07^\circ \end{aligned}$ | $\checkmark \text{ref/verw}\angle$<br>$\checkmark \text{answer/antw}$ | (2) |
+| 5.2.1 | $\begin{aligned} \tan x &= 2,22 \\ x &= 65,75^\circ \end{aligned}$ | $\checkmark\checkmark \text{answer/antw}$ | (2) |
+| 5.2.2 | $\begin{aligned} \sec(x + 10^\circ) &= 5,759 \\ \cos(x + 10^\circ) &= 0,173\dots \quad \textbf{OR/OF} \quad \frac{1}{\cos(x + 10^\circ)} &= 5,759 \\ x + 10^\circ &= 80,0^\circ \\ x &= 70,0^\circ \end{aligned}$ | $\checkmark \cos(x + 10^\circ) = \frac{1}{5,759}$<br>$\checkmark \text{ref/verw}\angle$<br>$\checkmark \text{answer/antw}$ | (3) |
+| 5.2.3 | $\begin{aligned} \frac{\sin x}{0,2} - 2 &= 1,24 \\ \frac{\sin x}{0,2} &= 3,24 \\ \sin x &= 0,648 \\ x &= 40,39^\circ \end{aligned}$ | $\checkmark \text{addition/optelling}$<br>$\checkmark \text{multipl/vermenigv}$<br>$\checkmark \text{answer/antw}$ | (3) |
+| **[18]** |
+
+---
+
+### **QUESTION / VRAAG 6**
+
+| 6.1 | $\text{amplitude} = 2$ | $\checkmark \text{answer/antw}$ | (1) |
+| :--- | :--- | :--- | :--- |
+| 6.2 | $\text{min value/waarde} = -2 + 3 = 1$ | $\checkmark \text{answer/antw}$ | (1) |
+| 6.3 | **[Graph of $f$ and $g$ drawn]**<br>Points: $y$-intercept at $(0, 2)$, $(90^\circ, 2)$, $(270^\circ, 0)$. | $\checkmark y\text{-intercept/afsnit}$<br>$\checkmark (90^\circ ; 2)$<br>$\checkmark (270^\circ ; 0)$ | (3) |
+| 6.4.1 | $\begin{aligned} &f(180^\circ) - g(180^\circ) \\ &= 2 - 1 \\ &= 1 \end{aligned}$ | $\checkmark \text{correct values/korrekte waardes}$<br>$\checkmark \text{answer/antw}$ | (2) |
+| 6.4.2 | $x \in (90^\circ ; 270^\circ) \quad \textbf{OR/OF} \quad 90^\circ < x < 270^\circ$ | $\checkmark \text{correct values/korrekte waardes}$<br>$\checkmark \text{notation/notasie}$ | (2) |
+| 6.5.1 | $f(x) = 2 \cos x - 3$ | $\checkmark\checkmark \text{answer/antw}$ | (2) |
+| 6.5.2 | $y \in [-5 ; -1] \quad \textbf{OR/OF} \quad -5 \le y \le -1$ | $\checkmark\checkmark \text{answer/antw}$ | (2) |
+| **[13]** |
+
+---
+
+### **QUESTION / VRAAG 7**
+
+| 7.1 | $\begin{aligned} \text{Vol of post} &= \text{vol of rectangle} + \text{vol of pyramid} \\ &= \text{area of base} \times h + \frac{1}{3} \times \text{area of base} \times h \\ \text{Volume} &= (30 \times 30 \times 150) + \left(\frac{1}{3}(30 \times 30 \times 8)\right) \\ &= 137\,400\text{ cm}^3 \end{aligned}$ | $\checkmark \text{sum of formulae}$<br>$\checkmark \text{subst into/in both formulae}$<br>$\checkmark \text{answer/antw}$ | (3) |
+| :--- | :--- | :--- | :--- |
+| 7.2 | $\begin{aligned} \text{Slant height} &= \sqrt{8^2 + 15^2} \\ &= 17 \\ \text{Surface area} &= \text{area of base} + \frac{1}{2}(\text{perimeter of base} \times \text{slant height}) \\ &= 4\left(\frac{1}{2} \times 30 \times 17\right) \\ &= 1020\text{ cm}^2 \end{aligned}$ | $\checkmark 17$<br>$\checkmark \text{subst into/in correct form}$<br>$\checkmark \text{answer/antw}$ | (3) |
+| 7.3 | $\begin{aligned} \text{Volume (new)} &= \frac{1}{4}(137\,400) \\ &= 34\,350\text{ cm}^3 \\ \text{Number of posts} &= \frac{137\,400}{34\,350} \\ &= 4 \end{aligned}$<br>**OR/OF**<br>$\begin{aligned} \text{Volume (nuwe)} &= (15 \times 15 \times 150) + \left(\frac{1}{3}(15 \times 15 \times 8)\right) \\ &= 34\,350\text{ cm}^3 \\ \text{Getal kleiner pilare} &= \frac{137\,400}{34\,350} \\ &= 4 \end{aligned}$ | $\checkmark 34\,350$<br>$\checkmark 4$<br><br><br><br>$\checkmark 34\,350$<br>$\checkmark 4$ | (2)<br><br><br><br>(2) |
+| **[8]** |
+
+---
+
+### **QUESTION / VRAAG 8**
+
+| 8.1.1 | $C\hat{D}O = 36,87^\circ$ | $\checkmark \text{answer/antw}$ | (1) |
+| :--- | :--- | :--- | :--- |
+| 8.1.2 | $A\hat{O}D = 90^\circ$ | $\checkmark \text{answer/antw}$ | (1) |
+| 8.2 | $\begin{aligned} \tan 36,87^\circ &= \frac{AO}{8} \\ AO &= 8 \times \tan 36,87^\circ \\ &= 6\text{ cm} \end{aligned}$ | $\checkmark \frac{AO}{8} = \tan 36,87^\circ$<br>$\checkmark \text{answer/antw}$ | (2) |
+| 8.3 | $\begin{aligned} AD^2 &= 8^2 + 6^2 \quad [\text{Theorem of Pythagoras}] \\ &= 100 \\ AD &= 10 \\ AE &= EB \quad [\text{converse midpoint theorem}] \\ OE &= \frac{1}{2}AD = 5\text{ cm} \quad [\text{midpoint theorem}] \end{aligned}$ | $\checkmark AD = 10 \text{ with reason}$<br>$\checkmark S \quad \checkmark R$<br>$\checkmark 5\text{ cm}$ | (4) |
+| **[8]** |
+
+---
+
+### **QUESTION / VRAAG 9**
+
+| 9.1.1 | $\text{Two sides and an included angle} / \text{Twee sye en 'n ingeslote hoek}$ | $\checkmark R$ | (1) |
+| :--- | :--- | :--- | :--- |
+| 9.1.2 | $\text{one pr of sides} = \text{and } \parallel / \text{een pr sye} = \text{en } \parallel$ | $\checkmark R$ | (1) |
+| 9.1.3 | $\begin{aligned} DE &= \frac{1}{2}DF \quad [DE = EF] \\ DF &= BC \quad [\text{opp sides of parm} =] \\ \therefore DE &= \frac{1}{2}BC \end{aligned}$ | $\checkmark S$<br>$\checkmark S$ | (2) |
+| 9.2.1 | In $\Delta SAR$,<br>$SB = BA \quad [\text{given}]$<br>$QR = QA \quad [\text{converse midpoint th}]$<br>But $QR = SP \quad [\text{opp sides of parm} =]$<br>$\therefore SP = QA$ | $\checkmark S \quad \checkmark R$<br>$\checkmark S \quad \checkmark R$ | (4) |
+| 9.2.2 | $SP = QA \quad [\text{proven}]$<br>$SP \parallel QA \quad [\text{opp sides of parm } \parallel]$<br>$\therefore SPAQ \text{ is a parm} \quad [\text{one pr of sides} = \text{and } \parallel]$ | $\checkmark \text{both statements}$<br>$\checkmark R$ | (2) |
+| 9.2.3 | $M \text{ midpoint of } PR \text{ and } B \text{ midpoint of } PQ \quad [\text{diag bisect of parm}]$<br>$\begin{aligned} MB &= \frac{1}{2}QR \quad [\text{midpoint theorem}] \\ MB &= \frac{1}{2}\left(\frac{1}{2}AR\right) \\ \therefore 4MB &= AR \end{aligned}$ | $\checkmark S$<br>$\checkmark S \quad \checkmark R$<br>$\checkmark \frac{1}{2}QR = \frac{1}{2}AR$ | (4) |
+| **[14]** |
+
+**TOTAL / TOTAAL: 100**

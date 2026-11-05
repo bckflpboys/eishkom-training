@@ -1,0 +1,479 @@
+**BASIESE ONDERWYS / BASIC EDUCATION**
+**NASIONALE SENIOR SERTIFIKAAT / NATIONAL SENIOR CERTIFICATE**
+**GRAAD 12**
+
+**FISIESE WETENSKAPPE: FISIKA (V1)**
+**NOVEMBER 2024**
+
+**PUNTE:** 150  
+**TYD:** 3 uur  
+
+*Hierdie vraestel bestaan uit 16 bladsye en 3 gegewensblaaie.*
+
+---
+
+### INSTRUKSIES EN INLIGTING
+
+1. Skryf jou sentrumnommer en eksamennommer in die toepaslike ruimtes op die ANTWOORDEBOEK neer.
+2. Hierdie vraestel bestaan uit TIEN vrae. Beantwoord AL die vrae in die ANTWOORDEBOEK.
+3. Begin ELKE vraag op 'n NUWE bladsy in die ANTWOORDEBOEK.
+4. Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie vraestel gebruik is.
+5. Laat EEN reël tussen twee subvrae oop, bv. tussen VRAAG 2.1 en VRAAG 2.2.
+6. Jy mag 'n nieprogrammeerbare sakrekenaar gebruik.
+7. Jy mag toepaslike wiskundige instrumente gebruik.
+8. Toon ALLE formules en substitusies in ALLE berekeninge.
+9. Rond jou finale numeriese antwoorde tot 'n minimum van TWEE desimale plekke af.
+10. Gee kort (bondige) motiverings, besprekings, ens. waar nodig.
+11. Jy word aangeraai om die aangehegte GEGEWENSBLAAIE te gebruik.
+12. Skryf netjies en leesbaar.
+
+---
+
+## VRAAG 1: MEERVOUDIGEKEUSE-VRAE
+
+Verskeie opsies word as moontlike antwoorde op die volgende vrae gegee. Elke vraag het slegs EEN korrekte antwoord. Kies die antwoord en skryf slegs die letter (A–D) langs die vraagnommers (1.1 tot 1.10) in die ANTWOORDEBOEK neer, bv. 1.11 E.
+
+1.1 Verskeie kragte werk op 'n bewegende voorwerp in.
+
+Watter EEN van die volgende stellings is KORREK wanneer hierdie kragte in ewewig is?
+
+A Die snelheid van die voorwerp neem toe.  
+B Die voorwerp beweeg teen 'n konstante snelheid.  
+C Die kinetiese energie van die voorwerp verminder.  
+D Die voorwerp het 'n nie-nul-versnelling.  
+(2)
+
+1.2 'n Klip wat vertikaal afwaarts vanaf die bopunt van 'n gebou gegooi is, neem $t$ sekondes om die grond te tref. Beskou die versnelling-tyd-grafiek hieronder vir die beweging van die klip.
+
+Die effekte van lugweerstand word geïgnoreer.
+
+[DIAGRAM: Versnelling-tyd-grafiek showing a horizontal line at $9,8\text{ m}\cdot\text{s}^{-2}$ from $t = 0$ to $t$ seconds, with the area under the graph shaded.]
+
+Wat stel die gearseerde gebied tussen 0 en $t$ sekondes, soos in die grafiek getoon, voor?
+
+A Die finale snelheid van die klip  
+B Die verandering in posisie van die klip  
+C Die konstante snelheid van die klip  
+D Die verandering in snelheid van die klip  
+(2)
+
+1.3 'n Bal wat horisontaal beweeg, het konstante momentum $p$ en kinetiese energie $K$. Die bal bots met 'n muur en hop horisontaal terug.
+
+Onmiddellik ná die botsing het die bal momentum $\frac{1}{2}p$.
+
+Die massa van die bal bly konstant.
+
+[DIAGRAM: A ball moving horizontally towards a vertical wall labelled 'muur' with momentum $p$, and rebounding with momentum $\frac{1}{2}p$.]
+
+Watter EEN van die volgende is die kinetiese energie van die bal onmiddellik ná die botsing?
+
+A $\frac{1}{4}K$  
+B $\frac{1}{2}K$  
+C $2K$  
+D $4K$  
+(2)
+
+1.4 'n Krag $F$ werk in op 'n boks terwyl die boks vanuit rus langs 'n ruwe helling af beweeg teen 'n konstante versnelling. Die krag is parallel aan die skuinsvlak, soos in die diagram hieronder getoon.
+
+[DIAGRAM: A box on an inclined plane pulled down a rough slope by a force $F$ parallel to the plane.]
+
+Kies die opsie wat die volgende stelling KORREK voltooi.
+
+Die arbeid verrig deur die gravitasiekrag is … die arbeid verrig deur die wrywingskrag en die arbeid verrig deur $F$.
+
+A gelyk aan die som van  
+B minder as die som van  
+C groter as die som van  
+D gelyk aan die verskil tussen  
+(2)
+
+1.5 'n Bal wat vertikaal afwaarts vanaf punt A val, tref die grond met snelheid $v$, hop en bereik 'n maksimum hoogte by punt B, soos in die diagram hieronder getoon.
+
+[DIAGRAM: Ball falling vertically downwards from point A to the ground, bouncing up to a maximum height at point B.]
+
+Watter EEN van die kombinasies hieronder is KORREK vir die rigting van die impuls op die bal wanneer dit die grond tref, en die grootte van die snelheid waarmee die bal die grond verlaat?
+
+| | RIGTING VAN DIE IMPULS OP DIE BAL | GROOTTE VAN DIE SNELHEID WAARMEE DIE BAL DIE GROND VERLAAT |
+|---|---|---|
+| A | Opwaarts | Groter as $v$ |
+| B | Afwaarts | Groter as $v$ |
+| C | Opwaarts | Kleiner as $v$ |
+| D | Afwaarts | Kleiner as $v$ |
+(2)
+
+1.6 Die absorpsiespektrum van 'n element wat 'n bewegende ster omring, word op Aarde waargeneem en daar word gevind dat dit rooiverskuiwing ondergaan.
+
+Watter EEN van die volgende kombinasies is KORREK vir die beweging van die ster en die frekwensie van die waargenome lig op Aarde?
+
+| | BEWEGING VAN STER | FREKWENSIE VAN WAARGENOME LIG OP AARDE |
+|---|---|---|
+| A | Weg van die Aarde | Afgeneem |
+| B | Na die Aarde | Afgeneem |
+| C | Weg van die Aarde | Toegeneem |
+| D | Na die Aarde | Toegeneem |
+(2)
+
+1.7 Twee klein identiese sfere, elk met massa $m$ en lading $+Q$, word in 'n vertikale silinder geplaas. Die sfere bly bewegingloos wanneer hulle middelpunte $r$ meter van mekaar af is, soos in die diagram hieronder getoon. Ignoreer ALLE wrywingseffekte.
+
+[DIAGRAM: A vertical cylinder containing two identical spherical masses, each of mass $m$ and charge $+Q$, separated by a distance $r$.]
+
+Watter EEN van die volgende uitdrukkings kan gebruik word om die afstand $r$ KORREK te bereken?
+
+A $\sqrt{\frac{kQ^2}{mg}}$  
+B $\sqrt{\frac{kmg}{Q^2}}$  
+C $\sqrt{\frac{Q^2}{kmg}}$  
+D $\sqrt{\frac{mg}{kQ^2}}$  
+(2)
+
+1.8 Die kilowatt-uur ($\text{kWh}$) is 'n eenheid van …
+
+A drywing.  
+B elektriese stroom.  
+C elektriese energie.  
+D potensiaalverskil.  
+(2)
+
+1.9 Die diagram hieronder toon 'n vereenvoudigde elektriese motor. Die rotasie van die spoel word vanaf die battery waargeneem.
+
+[DIAGRAM: A simplified electric motor showing a coil between North (N) and South (S) magnetic poles, connected to split-ring commutators and a battery.]
+
+Watter EEN van die volgende stellings is KORREK terwyl die motor in werking is?
+
+Die spoel en die …
+
+A sleepringe roteer antikloksgewys.  
+B sleepringe roteer kloksgewys.  
+C kommutator roteer kloksgewys.  
+D kommutator roteer antikloksgewys.  
+(2)
+
+1.10 Watter van die volgende stellings is WAAR vir die foto-elektriese effek?
+
+Die foto-elektriese effek toon dat:
+(i) Lig 'n golfgeaardheid het  
+(ii) Lig 'n deeltjiegeaardheid het  
+(iii) Ligenergie gekwantiseerd is  
+
+A Slegs (i)  
+B Slegs (ii)  
+C Slegs (i) en (iii)  
+D Slegs (ii) en (iii)  
+(2)  
+**[20]**
+
+---
+
+## VRAAG 2 (Begin op 'n nuwe bladsy.)
+
+In 'n eksperiment is 'n krat met 'n massa van $8,5\text{ kg}$, wat in rus op 'n ruwe, horisontale tafel is, verbind aan 'n massa-haak deur middel van 'n ligte, onrekbare toutjie wat oor 'n wrywinglose katrol gaan, soos in die diagram hieronder getoon. Massastukke word by die massa-haak gevoeg en die versnelling van die krat word gemeet. Die eksperiment word verskeie kere herhaal deur verskillende massas by te voeg om die hangende massa elke keer te vergroot.
+
+Ignoreer die effekte van lugweerstand.
+
+Die uitslae wat verkry is, is gebruik om die sketsgrafiek hieronder te teken.
+
+[DIAGRAM: An experimental setup showing an 8,5 kg crate on a table connected via a pulley to a mass-hook with hanging masses. Accompanying graph of Acceleration of crate ($\text{m}\cdot\text{s}^{-2}$) vs Hanging mass (kg) showing a curve starting from a hanging mass of 4,2 kg and reaching a horizontal asymptote $Y$, with a point marked at 7,4 kg.]
+
+2.1 Definieer die term statiese wrywing. (2)
+
+2.2 Teken 'n benoemde vrye kragtediagram (vrye liggaamsdiagram) en toon AL die HORISONTALE kragte wat op die krat inwerk NET VOORDAT dit begin beweeg. (2)
+
+2.3 Bereken die:
+
+2.3.1 Statiese wrywingskoëffisiënt ($\mu_s$) (4)
+
+2.3.2 Grootte van die versnelling deur $Y$ op die grafiek verteenwoordig, indien die kinetiese wrywingskoëffisiënt tussen die krat en die tafel $0,40$ is (5)
+
+2.4 'n $5\text{ kg}$-blok word nou binne-in die krat gesit en die eksperiment word herhaal. Hoe sal dit die maksimum statiese wrywingskrag wat nou deur die krat ondervind word, beïnvloed? Kies uit TOENEEM, AFNEEM of BLY DIESELFDE. Gee 'n rede vir die antwoord. (2)  
+**[15]**
+
+---
+
+## VRAAG 3 (Begin op 'n nuwe bladsy.)
+
+Bal A word vertikaal opwaarts teen $12\text{ m}\cdot\text{s}^{-1}$ vanaf die bopunt van 'n gebou gegooi. Twee sekondes nadat bal A opwaarts gegooi is, word bal B vertikaal afwaarts teen $5,4\text{ m}\cdot\text{s}^{-1}$ vanaf die bopunt van dieselfde gebou gegooi. Beide balle, A en B, tref die grond by tyd $t$ sekondes.
+
+Ignoreer die effekte van lugweerstand.
+
+Die posisie-tyd-sketsgrafieke vir beide balle word hieronder getoon.
+
+[DIAGRAM: Position-time sketch graph for balls A and B. Curve A starts at $Y$ and goes up to $Z$ before falling down to the ground at time $t$. Curve B starts at $Y$ and goes downwards to the ground at time $t$.]
+
+3.1 Gebruik SLEGS BEWEGINGSVERGELYKINGS en bereken die waarde van ELK van die volgende, soos in die grafieke getoon:
+
+3.1.1 $t$ (5)
+
+3.1.2 $Z$ (3)
+
+3.1.3 $Y$ (4)
+
+3.2 Op dieselfde assestelsel, skets die snelheid-tyd-grafieke vir bal A en bal B terwyl hulle in vryval is. Benoem die grafieke A en B vir bal A en bal B onderskeidelik.
+
+Toon die volgende duidelik op die grafieke:
+* Die aanvanklike snelheid van elke bal
+* Die tyd wanneer elke bal gegooi word
+* Die tyd wanneer die balle die grond tref  
+(4)  
+**[16]**
+
+---
+
+## VRAAG 4 (Begin op 'n nuwe bladsy.)
+
+Twee trollies, A en B, met massas van $1,5\text{ kg}$ en $2\text{ kg}$ onderskeidelik, word in 'n stilstaande posisie op 'n reguit, horisontale, wrywinglose baan, met 'n saamgeperste veer tussen hulle, gehou. Die trollies word losgelaat en die veer neem $t$ sekondes om na sy natuurlike lengte terug te keer. Die veer val dan op die grond.
+
+Trollie A beweeg na links, terwyl trollie B na regs beweeg en dan teen 'n wrywinglose skuinsvlak op beweeg om 'n maksimum vertikale hoogte van $1,5\text{ m}$ te bereik, soos in die diagram hieronder getoon.
+
+Ignoreer die rotasie-effekte van die wiele.
+
+[DIAGRAM: Two diagrams: (1) 'Voordat veer losgelaat word' showing trolley A (1,5 kg) and trolley B (2 kg) stationary with a compressed spring between them. (2) 'Nadat veer losgelaat is' showing trolley A moving left, trolley B moving right and going up a frictionless inclined plane to a maximum vertical height of 1,5 m.]
+
+4.1 Skryf die beginsel van behoud van meganiese energie in woorde neer. (2)
+
+4.2 Bereken die spoed van trollie B aan die onderkant van die skuinsvlak. (4)
+
+4.3 Vir die $t$ sekondes wat die veer neem om na sy natuurlike lengte terug te keer:
+
+4.3.1 Bereken die verandering in momentum van trollie B (3)
+
+4.3.2 Skryf die verandering in die momentum van trollie A neer (1)
+
+4.4 Bereken die spoed van trollie A ná $t$ sekondes. (2)  
+**[12]**
+
+---
+
+## VRAAG 5 (Begin op 'n nuwe bladsy.)
+
+'n Konstante krag $F$ word toegepas teen 'n hoek van $30^\circ$ tot die horisontaal op 'n krat met 'n massa van $6\text{ kg}$, wat aanvanklik in rus is, soos in die diagram hieronder getoon.
+
+'n Konstante wrywingskrag van $10\text{ N}$ werk in op die krat soos dit by punt A vanuit rus oor 'n horisontale oppervlak na punt B beweeg. Die afstand tussen punt A en punt B is $1,5\text{ m}$. Die spoed van die krat by punt B is $2\text{ m}\cdot\text{s}^{-1}$.
+
+[DIAGRAM: A 6 kg crate on a horizontal surface being pulled by a force $F$ at an angle of $30^\circ$ to the horizontal, moving from point A to point B over a distance of 1,5 m.]
+
+5.1 Definieer die term arbeid verrig deur 'n krag. (2)
+
+5.2 Teken 'n benoemde vrye kragtediagram (vrye liggaamsdiagram) en toon AL die kragte wat op die krat inwerk terwyl dit beweeg. (4)
+
+5.3 Gebruik SLEGS ENERGIEBEGINSELS om die grootte van krag $F$ te bereken. (4)
+
+5.4 'n $2\text{ kg}$-voorwerp word in die krat geplaas. Watter uitwerking sal dit op die arbeid hê wat deur dieselfde krag $F$ verrig word wanneer die krat weer vanaf punt A na punt B beweeg word? Skryf slegs TOENEEM, AFNEEM of BLY DIESELFDE. (2)  
+**[12]**
+
+---
+
+## VRAAG 6 (Begin op 'n nuwe bladsy.)
+
+'n Stilstaande luisteraar wat langs die pad staan, teken die golflengte aan van die klank vrygestel deur die sirene van 'n polisiemotor wat teen 'n konstante snelheid beweeg.
+
+In die golflengte-tyd-grafiek hieronder, NIE volgens skaal geteken NIE, is $\lambda_L$ die golflengte van die klank wat deur die luisteraar aangeteken is en $\lambda_S$ die golflengte van die klank wat deur die sirene vrygestel word.
+
+Neem die spoed van klank in lug as $343\text{ m}\cdot\text{s}^{-1}$.
+
+[DIAGRAM: Wavelength-time graph showing a horizontal line for the source wavelength $\lambda_S = 0,38\text{ m}$ and a higher horizontal line for the observed wavelength $\lambda_L = 0,40\text{ m}$.]
+
+6.1 Noem die verskynsel wat verduidelik hoekom die golflengtes getoon in die grafiek, verskil. (1)
+
+6.2 Beweeg die motor NA of WEG VAN die luisteraar? Gee 'n rede vir die antwoord. (2)
+
+6.3 Bereken die:
+
+6.3.1 Frekwensie van die klank deur die sirene vrygestel (3)
+
+6.3.2 Grootte van die snelheid van die motor (6)  
+**[12]**
+
+---
+
+## VRAAG 7 (Begin op 'n nuwe bladsy.)
+
+P is 'n $+2\text{ nC}$-puntlading. X is 'n punt $6\text{ cm}$ vanaf lading P, soos in die diagram hieronder getoon.
+
+[DIAGRAM: Point charge P ($+2\text{ nC}$) and point X at a distance of 6 cm from P.]
+
+7.1 Bereken die grootte van die elektriese veld by X. (3)
+
+Puntlading S, met 'n lading van $-2\text{ nC}$, word $4\text{ cm}$ regs van lading P geplaas, soos in die diagram hieronder getoon.
+
+[DIAGRAM: Point charges P ($+2\text{ nC}$) and S ($-2\text{ nC}$) separated by a distance of 4 cm.]
+
+7.2 Teken die resulterende elektrieseveldpatroon as gevolg van ladings P en S. (3)
+
+'n Derde puntlading T word $2\text{ cm}$ regs van lading S geplaas, soos in die diagram hieronder getoon. Puntlading T ondervind 'n netto elektrostatiese krag van $2,5 \times 10^{-4}\text{ N}$ na links.
+
+[DIAGRAM: Three point charges P ($+2\text{ nC}$), S ($-2\text{ nC}$) and T, with P and S 4 cm apart, and S and T 2 cm apart.]
+
+7.3.1 Stel Coulomb se wet in woorde. (2)
+
+7.3.2 Wat is die polariteit van lading T? Kies uit POSITIEF of NEGATIEF. (1)
+
+7.3.3 Bereken die grootte van lading T. (5)  
+**[14]**
+
+---
+
+## VRAAG 8 (Begin op 'n nuwe bladsy.)
+
+$\text{L}_1$ en $\text{L}_2$ is twee gloeilampe met die volgende aanslae ('ratings'):  
+$\text{L}_1: 36\text{ W} ; 20\text{ V}$ en $\text{L}_2: 48\text{ W} ; 32\text{ V}$
+
+Die twee gloeilampe is verbind soos in die stroombaandiagram hieronder getoon. Die battery het 'n interne weerstand van $0,6\ \Omega$, terwyl die verbindingsdrade en die ammeters weglaatbare weerstand het. $\text{R}_1$ en $\text{R}_2$ is resistors.
+
+[DIAGRAM: Circuit diagram showing a battery with emf $\varepsilon$ and internal resistance $r = 0,6\ \Omega$, ammeter $\text{A}_1$ in the main circuit, resistor $\text{R}_2$ ($4\ \Omega$) in series, and a parallel combination of $\text{L}_2$ with ammeter $\text{A}_2$, and $\text{R}_1$ in series with $\text{L}_1$.]
+
+8.1 Definieer die term drywing. (2)
+
+8.2 Indien al twee gloeilampe werk soos AANGESLAAN ('rated'), bereken die:
+
+8.2.1 Lesing op ammeter $\text{A}_2$ (3)
+
+8.2.2 Lesing op ammeter $\text{A}_1$ (3)
+
+8.2.3 Weerstand van resistor $\text{R}_1$ (4)
+
+8.2.4 Emk van die battery (4)
+
+8.3 Gloeilamp $\text{L}_1$ brand na 'n ruk uit. Aanvaar dat die weerstand van gloeilamp $\text{L}_2$ konstant bly.
+
+Sal gloeilamp $\text{L}_2$ aanhou brand nadat gloeilamp $\text{L}_1$ uitgebrand het? Kies uit JA of NEE. Ondersteun jou antwoord met 'n geskikte berekening. (5)  
+**[21]**
+
+---
+
+## VRAAG 9 (Begin op 'n nuwe bladsy.)
+
+Die grafiek hieronder toon hoe die geïnduseerde stroom in 'n generator met tyd verander.
+
+[DIAGRAM: Graph of induced current (A) vs time (s) showing a rectified AC waveform with peak value 1,2 A, with time markers at 0,01 s, 0,02 s, 0,03 s, and 0,04 s.]
+
+9.1 Noem die soort generator. Kies uit WS of GS. (1)
+
+9.2 Noem die energie-omskakeling wat in hierdie generator plaasvind terwyl dit in werking is. (2)
+
+9.3 Gee 'n rede hoekom hierdie generator NIE geskik is vir die transmissie van elektrisiteit oor lang afstande NIE. (1)
+
+9.4 Bereken die frekwensie waarteen die spoel in die generator roteer. (2)
+
+9.5 Definieer die term wortelgemiddeldekwadraat-(wgk)-stroom. (2)
+
+9.6 Bereken die wortelgemiddeldekwadraat-stroom wat deur die generator gelewer word. (3)
+
+9.7 Die grafiek hieronder toon hoe die geïnduseerde stroom met tyd verander nadat 'n verandering aan die werking van die generator gemaak is.
+
+[DIAGRAM: Second graph of induced current (A) vs time (s) showing a similar waveform with a reduced peak value of 0,6 A.]
+
+Beskryf volledig die verandering wat gemaak is. (2)  
+**[13]**
+
+---
+
+## VRAAG 10 (Begin op 'n nuwe bladsy.)
+
+10.1 Definieer die term foto-elektriese effek. (2)
+
+10.2 Rooi lig, blou lig en groen lig word gelyktydig op 'n kaliumplaat geskyn, soos in die diagram hieronder getoon. Elke kleur lig bestaan uit 'n enkel frekwensie.
+
+Twee maksimum kinetiese energieë van die vrygestelde elektrone is moontlik, naamlik $6,96 \times 10^{-20}\text{ J}$ en $2,65 \times 10^{-20}\text{ J}$. Elke vrygestelde elektron het slegs een van hierdie maksimum kinetiese energieë.
+
+[DIAGRAM: Potassium plate illuminated simultaneously by red, green and blue light.]
+
+10.2.1 Watter kleur lig is verantwoordelik vir die vrystel van elektrone met 'n maksimum kinetiese energie gelyk aan $2,65 \times 10^{-20}\text{ J}$? (1)
+
+10.2.2 Verduidelik die antwoord op VRAAG 10.2.1. (2)
+
+10.2.3 Die elektrone met 'n maksimum kinetiese energie van $2,65 \times 10^{-20}\text{ J}$ word vrygestel deur lig wat 'n frekwensie van $5,85 \times 10^{14}\text{ Hz}$ het.
+
+Bereken die frekwensie van die lig wat elektrone met 'n maksimum kinetiese energie van $6,96 \times 10^{-20}\text{ J}$ vrygestel het. (5)
+
+10.2.4 Die intensiteit van die rooi lig word verhoog, terwyl die intensiteite van die blou lig en groen lig dieselfde bly.
+
+Watter effek sal hierdie verandering op die tempo hê waarteen elektrone vrygestel word? Kies uit TOENEEM, AFNEEM of BLY DIESELFDE. (2)
+
+10.3 Sommige van die atome van 'n warm gas, wat uit 'n enkele element bestaan, is in 'n opgewekte toestand. Die spektrum gevorm deur die warm gas word op 'n skerm in 'n donker kamer waargeneem. Die spektrum bestaan uit spesifieke gekleurde lyne op 'n swart agtergrond.
+
+10.3.1 Noem die soort spektrum gevorm. (1)
+
+10.3.2 Verduidelik die teenwoordigheid van die gekleurde lyne in die spektrum. (2)  
+**[15]**
+
+**TOTAAL: 150**
+
+---
+
+## DATA FOR PHYSICAL SCIENCES GRADE 12  
+## PAPER 1 (PHYSICS)
+
+### TABLE 1: PHYSICAL CONSTANTS
+
+| NAME / NAAM | SYMBOL / SIMBOOL | VALUE / WAARDE |
+|---|---|---|
+| Acceleration due to gravity (Swaartekragversnelling) | $g$ | $9,8\text{ m}\cdot\text{s}^{-2}$ |
+| Universal gravitational constant (Universele gravitasiekonstante) | $G$ | $6,67 \times 10^{-11}\text{ N}\cdot\text{m}^2\cdot\text{kg}^{-2}$ |
+| Radius of the Earth (Radius van die Aarde) | $R_E$ | $6,38 \times 10^6\text{ m}$ |
+| Mass of the Earth (Massa van die Aarde) | $M_E$ | $5,98 \times 10^{24}\text{ kg}$ |
+| Speed of light in a vacuum (Spoed van lig in 'n vakuum) | $c$ | $3,0 \times 10^8\text{ m}\cdot\text{s}^{-1}$ |
+| Planck's constant (Planck se konstante) | $h$ | $6,63 \times 10^{-34}\text{ J}\cdot\text{s}$ |
+| Coulomb's constant (Coulomb se konstante) | $k$ | $9,0 \times 10^9\text{ N}\cdot\text{m}^2\cdot\text{C}^{-2}$ |
+| Charge on electron (Lading op elektron) | $e$ | $-1,6 \times 10^{-19}\text{ C}$ |
+| Electron mass (Elektronmassa) | $m_e$ | $9,11 \times 10^{-31}\text{ kg}$ |
+
+---
+
+### TABLE 2: FORMULAE
+
+#### MOTION / BEWEGING
+$$\begin{aligned}
+v_f &= v_i + a\Delta t &\Delta x &= v_i\Delta t + \frac{1}{2}a\Delta t^2 \text{ or/of } \Delta y = v_i\Delta t + \frac{1}{2}a\Delta t^2 \\
+v_f^2 &= v_i^2 + 2a\Delta x \text{ or/of } v_f^2 = v_i^2 + 2a\Delta y &\Delta x &= \left(\frac{v_i + v_f}{2}\right)\Delta t \text{ or/of } \Delta y = \left(\frac{v_i + v_f}{2}\right)\Delta t
+\end{aligned}$$
+
+#### FORCE / KRAG
+$$\begin{aligned}
+F_{\text{net}} &= ma & p &= mv \\
+f_{\text{max}}^{\text{s}} &= \mu_s N & f_k &= \mu_k N \\
+F_{\text{net}}\Delta t &= \Delta p & w &= mg \\
+\Delta p &= mv_f - mvi & F &= G\frac{m_1 m_2}{d^2} \text{ or/of } F = G\frac{m_1 m_2}{r^2} \\
+g &= G\frac{M}{d^2} \text{ or/of } g = G\frac{M}{r^2}
+\end{aligned}$$
+
+#### WORK, ENERGY AND POWER / ARBEID, ENERGIE EN DRYWING
+$$\begin{aligned}
+W &= F\Delta x \cos\theta & U &= mgh \text{ or/of } E_p = mgh \\
+K &= \frac{1}{2}mv^2 \text{ or/of } E_k = \frac{1}{2}mv^2 & W_{\text{net}} &= \Delta K \text{ or/of } W_{\text{net}} = \Delta E_k \\
+\Delta K &= K_f - K_i \text{ or/of } \Delta K = E_{kf} - E_{ki} & W_{\text{nc}} &= \Delta K + \Delta U \text{ or/of } W_{\text{nc}} = \Delta E_k + \Delta E_p \\
+P &= \frac{W}{\Delta t} & P_{\text{ave}} &= F v_{\text{ave}} \text{ / } P_{\text{gemid}} = F v_{\text{gemid}}
+\end{aligned}$$
+
+#### WAVES, SOUND AND LIGHT / GOLWE, KLANK EN LIG
+$$\begin{aligned}
+v &= f\lambda & T &= \frac{1}{f} \\
+f_L &= \frac{v \pm v_L}{v \mp v_s} f_s &\quad E &= hf \text{ or/of } E = \frac{hc}{\lambda} \\
+E &= W_0 + K_{\max} \text{ or/of } E &= W_0 + E_{k(\max)} \\
+E &= hf \text{ and/en } W_0 = hf_0 \text{ and/en } K_{\max} &= \frac{1}{2}mv_{\max}^2 \text{ or/of } E_{k(\max)} = \frac{1}{2}mv_{\max}^2
+\end{aligned}$$
+
+---
+
+#### ELECTROSTATICS / ELEKTROSTATIKA
+$$\begin{aligned}
+F &= \frac{kQ_1 Q_2}{r^2} & E &= \frac{kQ}{r^2} \\
+V &= \frac{W}{q} & E &= \frac{F}{q} \\
+n &= \frac{Q}{e} \text{ or/of } n &= \frac{Q}{q_e}
+\end{aligned}$$
+
+#### ELECTRIC CIRCUITS / ELEKTRIESE STROOMBANE
+$$\begin{aligned}
+R &= \frac{V}{I} & \text{emf } (\varepsilon) &= I(R + r) \text{ / emk } (\varepsilon) = I(R + r) \\
+R_s &= R_1 + R_2 + \dots & q &= I\Delta t \\
+\frac{1}{R_p} &= \frac{1}{R_1} + \frac{1}{R_2} + \dots & W &= Vq \\
+W &= VI\Delta t & W &= I^2R\Delta t \\
+W &= \frac{V^2\Delta t}{R} & P &= \frac{W}{\Delta t} \\
+P &= VI & P &= I^2R \\
+P &= \frac{V^2}{R}
+\end{aligned}$$
+
+#### ALTERNATING CURRENT / WISSELSTROOM
+$$\begin{aligned}
+I_{\text{rms}} &= \frac{I_{\max}}{\sqrt{2}} \text{ / } I_{\text{wgk}} = \frac{I_{\text{maks}}}{\sqrt{2}} & P_{\text{ave}} &= V_{\text{rms}} I_{\text{rms}} \text{ / } P_{\text{gemid}} = V_{\text{wgk}} I_{\text{wgk}} \\
+V_{\text{rms}} &= \frac{V_{\max}}{\sqrt{2}} \text{ / } V_{\text{wgk}} = \frac{V_{\text{maks}}}{\sqrt{2}} & P_{\text{ave}} &= I_{\text{rms}}^2 R \text{ / } P_{\text{gemid}} = I_{\text{wgk}}^2 R \\
+&& P_{\text{ave}} &= \frac{V_{\text{rms}}^2}{R} \text{ / } P_{\text{gemid}} = \frac{V_{\text{wgk}}^2}{R}
+\end{aligned}$$

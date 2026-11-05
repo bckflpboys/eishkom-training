@@ -1,0 +1,2056 @@
+=== page 1 ===
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+SENIOR CERTIFICATE EXAMINATIONS/
+NATIONAL SENIOR CERTIFICATE EXAMINATIONS
+SENIORSERTIFIKAAT-EKSAMEN/
+NASIONALE SENIORSERTIFIKAAT-EKSAMEN
+
+PHYSICAL SCIENCES:  PHYSICS (P1)
+FISIESE WETENSKAPPE:  FISIKA (V1)
+
+2023
+
+MARKING GUIDELINES/NASIENRIGLYNE
+
+MARKS/PUNTE:  150
+
+These marking guidelines consist of 30 pages./
+Hierdie nasienriglyne bestaan uit 30 bladsye.
+
+=== page 2 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 2 DBE/2023
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+GENERAL MARKING GUIDELINES PAPER 1
+ALGEMENE NASIEN RIGLYNE VRAESTEL 1
+
+1.  CALCULATIONS/BEREKENINGE
+
+ 1.1 Marks will be awarded for: correct formula, correct substitution,
+  correct answer with unit.
+  Punte sal toegeken word vir: korrekte formule, korrekte
+  substitusie, korrekte antwoord met eenheid.
+
+ 1.2 No marks will be awarded if an incorrect or inappropriate
+  formula is used, even though there may be relevant symbols and
+  applicable substitutions.
+  Geen punte sal toegeken word waar 'n verkeerde of
+  ontoepaslike formule gebruik word nie, selfs al is daar relevante
+  simbole en relevante substitusies.
+
+ 1.3 When an error is made during substitution into a correct formula, a mark
+  will be awarded for the correct formula and for the correct substitutions, but
+  no further marks will be given.
+  Wanneer 'n fout gedurende substitusie in 'n korrekte formule begaan
+  word, sal 'n punt vir die korrekte formule en vir die korrekte substitusies
+  toegeken word, maar geen verdere punte sal toegeken word nie.
+
+ 1.4 If no formula is given, but all substitutions are correct, a candidate will
+  forfeit one mark.
+  Indien geen formule gegee is nie, maar al die substitusies is korrek,
+  verloor die kandidaat een punt.
+
+ 1.5 No penalisation if zero substitutions are omitted in calculations where
+  correct formula/principle is given correctly.
+  Geen penalisering indien nulwaardes nie getoon word nie in berekeninge
+  waar die formule/beginsel korrek gegee is nie
+
+ 1.6 Mathematical manipulations and change of subject of appropriate formulae
+  carry no marks, but if a candidate starts off with the correct formula and then
+  changes the subject of the formula incorrectly, marks will be awarded for the
+  formula and the correct substitutions. The mark for the incorrect numerical
+  answer is forfeited.
+  Wiskundige manipulasies en verandering van onderwerp van toepaslike
+  formules tel geen punte nie, maar indien 'n kandidaat met die korrekte
+  formule begin en dan die onderwerp van die formule verkeerd verander, sal
+  punte vir die formule en korrekte substitusies toegeken word. Die punt vir
+  die verkeerde numeriese antwoord word verbeur
+
+=== page 3 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 3 DBE/2023
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+ 1.7 Marks are only awarded for a formula if a calculation has been attempted,
+  i.e. substitutions have been made or a numerical answer given.
+  Punte word slegs vir 'n formule toegeken indien 'n poging tot 'n
+  berekening aangewend is, d.w.s. substitusies is gedoen of 'n numeriese
+  antwoord is gegee.
+
+ 1.8 Marks can only be allocated for substitutions when values are substituted
+  into formulae and not when listed before a calculation  starts.
+  Punte kan slegs toegeken word vir substitusies wanneer waardes in
+  formules ingestel is en nie vir waardes wat voor 'n berekening gelys
+  is nie.
+
+ 1.9 All calculations, when not specified in the question, must be rounded
+  off to a minimum of TWO decimal places.
+  Alle berekenings, wanneer dit nie in die vraag gespesifiseer word nie,
+  moet tot 'n minimum van TWEE desimale plekke afgerond word.
+
+ 1.10 If a final answer to a calculation is correct, full marks will not automatically
+  be awarded. Markers will always ensure that the correct/appropriate formula
+  is used and that workings, including substitutions, are correct.
+  Indien 'n finale antwoord van 'n berekening korrek is, sal volpunte nie
+  outomaties toegeken word nie. Nasieners sal altyd verseker dat die
+  korrekte/toepaslike formule gebruik word en dat bewerkings,  insluitende
+  substitusies, korrek is
+
+ 1.11 Questions where a series of calculations do not necessarily always have to
+  follow the same order (as in circuit calculations), full marks will be awarded
+  provided that it is a valid solution to the problem.
+  Vrae waar 'n reeks berekeninge nie noodwendig altyd in dieselfde volgorde
+  hoef te wees nie (soos in stroombaanberekeninge) sal volpunte toegeken
+  word op voorwaarde dat dit 'n geldige oplossing vir die probleem is.
+
+ 1.12 Any calculation that will not bring the candidate closer to the answer than
+  the original solution, will not count any marks.
+  Enige berekening wat nie die kandidaat nader aan die antwoord as die
+  oorspronklike oplossing bring nie, sal geen punte tel nie.
+
+2.  Units/Eenhede
+
+  2.1 Candidates will only be penalised once for the repeated use of an incorrect
+  unit within a question.
+  Kandidate sal slegs een keer gepenaliseer word vir die herhaaldelike
+  gebruik van 'n verkeerde eenheid in 'n vraag.
+
+ 2.2 Units are only required in the final answer to a calculation.
+  Eenhede word slegs in die finale antwoord op 'n berekening verlang.
+
+=== page 4 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 4 DBE/2023
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+ 2.3 Marks are only awarded for an answer, and not for a unit per se.
+  Candidates will therefore forfeit the mark allocated for the answer in
+  each of the following situations:
+  - Correct answer + wrong unit
+  - Wrong answer + correct unit
+  - Correct answer + no unit
+  Punte word slegs vir 'n antwoord en nie vir 'n eenheid op sigself
+  toegeken nie. Kandidate sal dus die punt wat toegeken is vir die
+  antwoord in elk van die volgende gevalle verbeur:
+  - Korrekte antwoord + verkeerde eenheid
+  - Verkeerde antwoord + korrekte eenheid
+  - Korrekte antwoord + geen eenheid
+
+ 2.4 SI units must be used, except in certain cases, e.g. V∙m-1 instead of N∙C-1,
+  and cm∙s-1 or km∙h-1 instead of m∙s-1 where the question warrants this.
+  SI-eenhede moet gebruik word, behalwe in sekere gevalle, bv. V∙m-1
+  in plaas van N∙C-1, en cm∙s-1 of km∙h-1 in plaas van m∙s-1 waar die vraag dit
+  regverdig.
+
+3   General/Algemeen
+
+ 3.1 If one answer or calculation is required, but two are given by the candidate,
+  only the first one will be marked, irrespective of which one is correct. If two
+  answers are required, only the first two will be marked, etc.
+  Indien een antwoord of berekening verlang word, maar twee word deur die
+  kandidaat gegee, sal slegs die eerste een nagesien word, ongeag watter
+  een korrek is. Indien twee antwoorde verlang word, sal slegs die eerste
+  twee nagesien word, ens.
+
+ 3.2 For marking purposes, alternative symbols (s, u, t, etc.) will also be
+  accepted.
+  Vir nasiendoeleindes sal alternatiewe simbole (s, u, t, ens.) ook aanvaar
+  word.
+
+ 3.3 Separate compound units with a multiplication dot, not a full stop, e.g.
+  m·s-1. For marking purposes, m.s-1 and m/s will also be accepted.
+  Skei saamgestelde eenhede met 'n vermenigvuldigpunt, nie met 'n
+  punt nie, bv. m·s-1. Vir nasiendoeleindes sal m.s-1 en m/s ook aanvaar word.
+
+=== page 5 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 5 DBE/2023
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+4.  Positive marking/Positiewe nasien
+
+Positive marking regarding calculations will be followed in the following cases:
+Positiewe nasien met betrekking tot berekenings sal in die volgende gevalle geld:
+
+ 4.1 Subquestion to subquestion: When a certain variable is incorrectly
+  calculated in one subquestion (e.g. 3.1) and needs to be substituted
+  into another subquestion (3.2 or 3.3), full marks are to be awarded for
+  the subsequent subquestions.
+  Subvraag na subvraag: Wanneer 'n sekere veranderlike in een
+  subvraag (bv. 3.1) bereken word en dan in 'n ander vervang moet
+  word (3.2 of 3.3), word volpunte vir die daaropvolgende subvrae
+  toegeken.
+
+ 4.2 A multistep question in a subquestion: If the candidate has to calculate,
+  for example, current in the first step and gets it wrong due to a substitution
+  error, the mark for the substitution and the final answer will be forfeited.
+  'n Vraag met veelvuldige stappe in 'n subvraag: Indien 'n kandidaat,
+  byvoorbeeld, die stroom verkeerd bereken in die eerste stap as gevolg van
+  'n substitusiefout, verbeur die kandidaat die punt vir die substitusie sowel as
+  die finale antwoord.
+
+5.  Negative marking/Negatiewe nasien
+
+  Normally an incorrect answer cannot be correctly motivated if based on a
+  conceptual mistake. If the candidate is therefore required to motivate in
+  QUESTION 3.2 the answer given to QUESTION 3.1, and QUESTION 3.1 is
+  incorrect, no marks can be awarded for QUESTION 3.2. However, if the
+  answer for, for example, QUESTION 3.1 is based on a calculation, the
+  motivation for the incorrect answer in QUESTION 3.2 should be considered.
+  'n Verkeerde antwoord, indien dit op 'n konsepsuele fout gebaseer is, kan
+  nie korrek gemotiveer word nie. Indien die kandidaat dus gevra word om in
+  VRAAG 3.2 die antwoord op VRAAG 3.1 te motiveer en VRAAG 3.1 is
+  verkeerd, kan geen punte vir VRAAG 3.2 toegeken word nie. Indien die
+  antwoord op, byvoorbeeld, VRAAG 3.1 egter op 'n berekening gebaseer is,
+  moet die motivering vir die verkeerde antwoord in VRAAG 3.2 oorweeg
+  word.
+
+=== page 6 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 6 DBE/2023
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+QUESTION 1/VRAAG 1
+
+1.1 A   (2)
+
+1.2 B  (accept Q/aanvaar Q)  (2)
+
+1.3 D   (2)
+
+1.4 D   (2)
+
+1.5 D   (2)
+
+1.6 B OR/OF D   (2)
+
+1.7 B   (2)
+
+1.8 A    (2)
+
+1.9 A   (2)
+
+1.10 D   (2)
+[20]
+
+=== page 7 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 7 DBE/2023
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+QUESTION 2/VRAAG 2
+
+2.1 Marking criteria/Nasienkriteria
+ Formula to calculate a./Formule om a te bereken. 
+ Correct substitution to calculate a./Korrekte vervanging om a te bereken. 
+
+ OPTION 1/OPSIE 1
+DOWNWARDS AS POSITIVE/
+AFWAARTS AS POSITIEF
+         vf2 = vi2 + 2aΔy 
+(3,41)2 = (0)2 + (2)a(1,5) 
+           a = 3,88 m·s-2
+
+UPWARDS AS POSITIVE/
+OPWAARTS AS POSITIEF
+          vf2 = vi2 + 2aΔy 
+(-3,41)2 = (0)2 + (2)a(-1,5) 
+            a = -3,88
+            a  = 3,88 m∙s-2
+
+ OPTION 2/OPSIE 2
+DOWNWARDS AS POSITIVE/
+AFWAARTS AS POSITIEF
+  y = (
+ vi + vf
+2  )∆t
+1,5 = (
+0   3,41
+2  )∆t
+ Δt = 0,88 s
+
+UPWARDS AS POSITIVE/
+OPWAARTS AS POSITIEF
+   y =(
+  vi + vf
+2  )∆t
+-1,5 = (
+ 0   3,41
+2 )∆t
+   Δt = 0,88 s
+
+        vf = vi + aΔt 
+-3,41 = (0) + a(0,88) 
+         a = -3,88
+         a = 3,88 m·s-2
+
+OR/OF
+    Δy = viΔt + ½aΔt2 
+-1,5 = (0)(0,88) + ½a(0,88)2 
+       a = -3,88
+       a =  3,88 m·s-2
+
+       vf = vi + aΔt 
+3,41 = (0) + a(0,88) 
+        a = 3,88 m·s-2
+
+OR/OF
+   Δy = viΔt + ½aΔt2 
+1,5 = (0)(0,88) + ½a(0,88)2 
+     a = 3,88 m·s-2
+
+(3)
+
+=== page 8 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 8 DBE/2023
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+2.2
+
+  Accepted symbols/Aanvaarde simbole
+
+w  Fg/Fw/weight/gewig/mg/gravitational force/gravitasiekrag/FEarth on block/ FAarde op blok/73,5N
+T  Tension/Spanning/FTension/FSpanning/Frope/Ftou/FT/F
+ Notes/Aantekeninge:
+ Mark awarded for label and arrow./Punt toegeken vir byskrif en pyltjie.
+ Do not penalise for length of arrows since drawing is not to scale./ Moenie vir die
+lengte van die pyltjies penaliseer nie aangesien die tekening nie volgens skaal is
+nie.
+ Any other additional force(s)/Enige ander addisionele krag(te): Max/Maks
+1
+2
+
+(2)
+
+2.3 Marking criteria/Nasienkriteria
+If any of the underlined key words/phrases in the correct context is omitted deduct
+1 mark./ Indien enige van die onderstreepte sleutelwoorde/frases in die korrekte
+konteks uitgelaat is, trek 1 punt af.
+ When a resultant/net force acts on an object, the object will accelerate in the
+direction of the force with an acceleration that is directly proportional to the
+force and inversely proportional to the mass of the object. 
+Wanneer 'n resulterende/netto krag op 'n voorwerp inwerk, sal die voorwerp in
+die rigting van die krag versnel teen 'n versnelling wat direk eweredig aan die
+krag en omgekeerd eweredig aan die massa van die voorwerp is.
+
+OR/OF
+The resultant/net force acting on an object is equal to the rate of change of
+momentum of the object in the direction of the resultant/net force.
+Die resulterende/netto krag wat op 'n voorwerp inwerk is gelyk aan die tempo
+van verandering van momentum van die voorwwerp in dieselfde rigting as die
+resulterende/netto krag.  (2)
+
+ACCEPT/AANVAAR
+
+T
+w
+•
+T
+w
+
+=== page 9 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 9 DBE/2023
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+2.4 Marking criteria/Nasienkriteria
+ Any correct formula./Enige korrekte formule. 
+ Correct substitution to calculate tension./Korrekte vervanging om spanning te
+bereken.
+ Correct substitution to calculate mass of block A./Korrekte vervanging om massa
+van blok A te bereken. 
+ Correct final answer/Korrekte finale antwoord: 3,25 kg 
+
+Calculation of tension (Block B) 3 marks:
+Berekening van spanning (Blok B)3 punte:
+Calculation of mass
+(Block A) 2 marks:
+Berekening van massa
+(Blok A) 2 punte:
+ DOWNWARDS POSITIVE/AFWAARTS POSITIEF
+                 Fnet = ma
+             Fg + T = ma
+             mg –T = ma
+7,5(9,8) – T = 7,5(3,88) 
+                     T = 44,40 N
+
+UPWARDS POSITIVE/OPWAARTS POSITIEF
+                 Fnet = ma
+             T – Fg = ma
+            T – mg = ma
+T – 7,5(9,8) = 7,5(-3,88) 
+                     T = 44,40 N
+UPWARDS POSITIVE
+OPWAARTS POSITIEF
+               Fnet = ma
+           T – Fg = ma
+          T – mg = ma
+44,40 – m(9,8) = m(3,88)
+                     m = 3,25 kg
+
+DOWN POSITIVE
+AF POSITIEF
+               Fnet = ma
+           Fg – T = ma
+         mg – T = ma
+m(9,8) - 44,40 = m(-3,88)
+                  m = 3,25 kg  (5)
+
+Any one/
+Enige een
+Any one/
+Enige een
+
+=== page 10 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 10 DBE/2023
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+2.5 Marking criteria/Nasienkriteria
+ Any correct formula./Enige korrekte formule. 
+ Correct substitution of vi and vf ./Korrekte vervanging van vi en vf. 
+ Correct substitution of 9,8 m·s-2./Korrekte vervanging van 9,8 m·s-2. 
+ Adding 1,5 m to calculated Δy. /Tel 1,5 m by berekende Δy. 
+ Correct final answer/Korrekte finale antwoord: 2,09 m 
+
+ OPTION 1/OPSIE 1
+UPWARDS AS POSITIVE/OPWAARTS AS POSITIEF
+  vf2 = vi2 + 2aΔy 
+(02) = (3,41)2 + (2)(-9,8)Δy 
+  Δy = 0,59 m
+
+Maximum height = 0,59 + 1,5 
+                            = 2,09 m 
+
+DOWNWARDS AS POSITIVE/AFWAARTS AS POSITIEF
+  vf2 = vi2 + 2aΔy 
+(02) = (-3,41)2  + (2)(9,8)Δy 
+ Δy = - 0,59
+ ∆y = 0,59 m
+
+Maximum height = 0,59 + 1,5 
+                            = 2,09 m 
+
+ OPTION 2/OPSIE 2
+UPWARDS AS POSITIVE/OPWAARTS AS POSITIEF
+ vf = vi + aΔt
+ 0 = 3,41+ (-9,8)Δt
+Δt = 0,35 s
+
+Δy = viΔt + ½aΔt2 
+     = (3,41)(0,35)  + ½(-9,8)(0,35)2 
+     = 0,59 m
+
+Maximum height = 0,59 + 1,5 
+                           = 2,09 m 
+
+DOWNWARDS AS POSITIVE/AFWAARTS AS POSITIEF
+ vf = vi + aΔt
+ 0 = -3,41+ (9,8)Δt
+Δt = 0,35 s
+
+Δy = viΔt + ½aΔt2 
+     = (-3, 41)(0,35) + ½(9,8)(0,35)2 
+     = - 0,59
+∆y = 0,59 m
+
+Maximum height = 0,59 + 1,5 
+                           = 2,09 m 
+
+=== page 11 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 11 DBE/2023
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+ OPTION 3/OPSIE 3
+UPWARDS AS
+POSITIVE/OPWAARTS AS
+POSITIEF
+vf = vi + aΔt
+ 0 = 3,41+ (-9,8)Δt
+Δt = 0,35 s
+
+∆y = (
+vi+ vf
+2 )∆t 
+∆y = (
+3,41+ 0
+2 )  (0,35) 
+    = 0,59 m
+
+Maximum height = 0,59 + 1,5 
+                           = 2,09 m 
+
+DOWNWARDS AS
+POSITIVE/AFWAARTS AS
+POSITIEF
+vf = vi + aΔt
+ 0 = -3,41+ (9,8)Δt
+Δt = 0,35 s
+
+∆y = (
+vi+ vf
+2 )∆t 
+∆y = (
+-3,41+ 0
+2 )  (0,35) 
+    = -0,59 m
+
+Maximum height = 0,59 + 1,5 
+                           = 2,09 m 
+
+ Note/Aantekening:
+OPTION 4 TO 5/OPSIE 4 TOT 5
+Substitution of incorrect mass/Vervanging van verkeerde massa:
+max/maks: 3 5⁄
+
+ OPTION 4/OPSIE 4
+             (Emech)top = (Emech)bottom
+           (Ep +Ek)top = (Ep + Ek)bottom
+(mgh + ½mvi2)top = (mgh + ½mvf2)bottom
+    (9,8)(h) + (0) = (0) + ½(3,41)2 
+                         h = 0,59 m
+
+Maximum height = 0,59 + 1,5 
+                            = 2,09 m 
+
+ OPTION 5/OPSIE 5
+Wnc = K + U
+Wnc = K + mg(hf - hi)
+    0 = ½mvf2 – ½mvi2 + mghf - mghi
+  (0) = (0) – ½(3,41)2 + (9,8)(h) 
+    h = 0,59 m
+
+Maximum height = 0,59 + 1,5 
+                            = 2,09 m 
+
+ OPTION 6/OPSIE 6
+                      Wnet = ΔEk
+              wΔycosθ = ½mvf2 – ½mvi2
+(9,8)(Δy)cos180° = 0 – ½(3,41)2 
+                          Δy = 0,59 m
+
+Maximum height = 0,59 + 1,5 
+                           = 2,09 m 
+
+(5)
+   [17]
+
+Any one/Enige een
+Any one/Enige een
+Any one/Enige een
+
+=== page 12 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 12 DBE/2023
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+QUESTION 3/VRAAG 3
+
+3.1 Motion under the influence of gravity/weight/gravitational force only. 
+Beweging slegs onder die invloed van gravitasie/gewig/gravitasiekrag.
+(2 or/of 0)
+
+OR/OF
+Motion in which the only force acting is the gravitational force.
+Beweging waar die enigste krag wat inwerk gravitasiekrag is.
+
+(2)
+
+3.2.1 Marking criteria/Nasienkriteria
+ Formula to calculate Δt./Formule om Δt te bereken. 
+ Correct substitution to calculate Δt./Korrekte vervanging om Δt te bereken. 
+ Final answer/Finale antwoord: 1,76 s 
+
+ OPTION 1/OPSIE 1
+ UPWARDS AS POSITIVE/
+OPWAARTS AS POSITIEF
+    Δy = viΔt + ½aΔt2 
+-15,2 = (0) + ½(-9,8)Δt2 
+     Δt = 1,76 s 
+DOWNWARDS AS POSITIVE/
+AFWAARTS AS POSITIEF
+   Δy = viΔt + ½aΔt2 
+15,2 = (0) + ½(9,8)Δt2 
+    Δt = 1,76 s 
+
+ OPTION 2/OPSIE 2
+UPWARDS AS POSITIVE/
+OPWAARTS AS POSITIEF
+vf2 = vi2 + 2aΔy
+vf2 = (0)2 + (2)(-9,8)(-15,2)
+ vf = -17,26 m·s-1
+
+DOWNWARDS AS POSITIVE/
+AFWAARTS AS POSITIEF
+vf2 = vi2 + 2aΔy
+vf2 = (0)2 + (2)(9,8)(15,2)
+ vf = 17,26 m·s-1
+
+UPWARDS AS POSITIVE/
+OPWAARTS AS POSITIEF
+        vf = vi + aΔt 
+-17,26 = (0) + (-9,8)Δt 
+       Δt = 1,76 s 
+
+OR/OF
+      y = (vi + vf2 ) ∆t 
+ -15,2 = (0  17,262 )∆t   
+     Δt = 1,76 s 
+
+DOWNWARDS AS POSITIVE/
+AFWAARTS AS POSITIEF
+      vf = vi + aΔt 
+17,26 = (0) + (9,8)Δt 
+      Δt = 1,76 s 
+
+OR/OF
+    ∆y = (vi + vf2 ) ∆t 
+15,2 = (0 + 17,262 ) ∆t    
+    Δt = 1,76 s 
+
+ OPTION 3/OPSIE 3
+            (Emech)top = (Emech)bottom
+          (Ep +Ek)top = (Ep + Ek)bottom
+(mgh + ½mvi2)top = (mgh + ½mvf2)bottom
+    (9,8)(15,2) + 0 = 0 + (½)(vf)2
+                        vf = 17,26 m·s-1
+
+ OPTION 4/OPSIE 4
+Wnc = K + U
+Wnc = K + mg(hf - hi)
+    0 = ½mvf2 – ½mvi2 + mghf - mghi
+    0 = ½( vf2 – 0) + (9,8)(15,2)
+   vf = 17,26 m·s-1
+
+ OPTION 5/OPSIE 5
+                       Wnet = ΔEk
+               wΔycosθ = ½mvf2 – ½mvi2
+(9,8)(15,2)cos180° = 0 – ½(vf)2
+                           vf = 17,26 m·s-1
+
+=== page 13 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 13 DBE/2023
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+ OPTION 6/OPSIE 6
+UPWARDS AS
+POSITIVE/OPWAARTS AS POSITIEF
+Fnet∆t = ∆p = m(vf – vi)
+ mg∆t = m(vf – vi )
+-9,8∆t = – 17,26 – (0) 
+      ∆t = 1,76 s 
+DOWNWARDS AS
+POSITIVE/AFWAARTS AS
+POSITIEF
+Fnet∆t = ∆p = m(vf – vi)
+mg∆t = m(vf – vi )
+9,8∆t =  17,26 – (0) 
+     ∆t = 1,76 s 
+
+(3)
+
+3.2.2 POSITIVE MARKING FROM QUESTION 3.2.1.
+POSITIEWE NASIEN VANAF VRAAG 3.2.1.
+
+ Marking criteria/Nasienkriteria
+ Correct substitution to calculate Δt for ball A./Korrekte vervanging om Δt te
+bereken vir bal A. 
+ Subtraction 1,76   0,81./Aftrekking 1,76   0,81. 
+ Correct formula to calculate vi for ball B./Korrekte formule om vi te bereken vir bal
+B. 
+ Correct substitution to calculate vi for ball B./Korrekte vervanging om vi te
+bereken vir bal B. 
+  Final answer/Finale antwoord: 4,66 m·s-1   (4,66 to/tot 4,7)
+
+ OPTION 1/OPSIE 1
+UPWARDS AS POSITIVE/
+OPWAARTS AS POSITIEF
+    Δy = viΔt + ½aΔt2 
+  -3,2 = (0) + ½(-9,8)(Δt)2 
+     Δt = 0,81 s
+
+Δt(B) = 1,76   0,81 
+Δt(B) = 0,95 s
+
+Δy = viΔt + ½aΔt2
+(0) = vi (0,95) + ½(-9,8)(0,95)2 
+  vi = 4,66 m·s-1
+
+DOWNWARDS AS POSITIVE/
+AFWAARTS AS POSITIEF
+   Δy = viΔt + ½aΔt2 
+  3,2 = (0) + ½(9,8)(Δt)2 
+    Δt = 0,81 s
+
+Δt(B) = 1,76   0,81 
+Δt(B) = 0,95 s
+
+Δy = viΔt + ½aΔt2
+  0 = -vi(0,95) + ½(9,8)(0,95)2 
+  vi = 4,66 m·s-1 
+OPTION 2/OPSIE 2
+UPWARDS AS POSITIVE/
+OPWAARTS AS POSITIEF
+    Δy = viΔt + ½aΔt2 
+  -3,2 = (0) + ½(-9,8)(Δt)2 
+     Δt = 0,81 s
+
+Δt(B) = 1,76   0,81 
+Δt(B) = 0,95 s
+
+ vf = vi + aΔt
+-vi = vi + (-9,8)(0,95) 
+  vi = 4,66 m·s-1
+
+DOWNWARDS AS POSITIVE/
+AFWAARTS AS POSITIEF
+   Δy = viΔt + ½aΔt2 
+  3,2 = (0) + ½(9,8)(Δt)2 
+    Δt = 0,81 s
+
+Δt(B) = 1,76   0,81 
+Δt(B) = 0,95 s
+
+vf = vi + aΔt
+vi = -vi + (9,8)(0,95) 
+vi = 4,66 m·s-1
+
+Any one/
+Enige een
+Any one/
+Enige een
+
+=== page 14 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 14 DBE/2023
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+ Calculate/Bereken:
+vf = 7,92 m·s-1
+
+OPTION 3/OPSIE 3
+UPWARDS +/
+OPWAARTS +
+vf2 = vi2 + 2aΔy
+vf2 = (0)2 + (2)(-9,8)(-3,2)
+ vf = -7,92 m·s-1
+
+DOWNWARDS +/
+AFWAARTS +
+vf2 = vi2 + 2aΔy
+vf2 = (0)2 + (2)(9,8)(3,2)
+ vf = 7,92 m·s-1
+
+Calculate/Bereken:
+Δt(B) = 0,95 s
+
+UPWARDS +/
+OPWAARTS +
+     vf = vi + aΔt
+-7,92 = (0) + (-9,8)Δt 
+    Δt = 0,81 s
+
+Δt(B) = 1,76   0,81
+Δt(B) = 0,95 s
+
+OR/OF
+   y = (vi + vf2 ) ∆t
+-3,2 = (
+ 0 - 7,92
+2 ) ∆t  
+  Δt = 0,81 s
+
+Δt(B) = 1,76 – 0,81 
+Δt(B) = 0,95 s
+
+OR/OF
+  Δy = viΔt + ½aΔt2
+-12=-7,92Δt+½(-9,8)Δt2 
+    ∆t = 0,95 s
+
+DOWNWARDS +/
+AFWAARTS +
+    vf = vi + aΔt
+7,92 = (0) + (9,8)Δt 
+    Δt = 0,81 s
+
+ Δt(B) = 1,76 – 0,81 
+Δt(B) = 0,95 s
+
+OR/OF
+ y = ( vi + vf 2 ) ∆t
+3,2 =( 0 +7,92 2 ) ∆t  
+  Δt = 0,81 s
+
+Δt(B) = 1,76 – 0,81 
+Δt(B) = 0,95 s
+
+OR/OF
+ Δy = viΔt + ½aΔt2
+12= 7,92Δt + ½(9,8)Δt2 
+   ∆t = 0,95 s
+Calculate/Bereken:
+vi = 4,66 m·s-1
+
+UPWARDS +/
+OPWAARTS +
+(Δtup and down = 0,95 s)
+ vf = vi + aΔt 
+-vi = vi + (-9,8)(0,95) 
+  vi = 4,66 m·s-1
+
+OR/OF
+(Δtup = 0,475 s)
+vf = vi + aΔt 
+0 = vi + (-9,8)(0,475) 
+vi = 4,66 m·s-1
+
+OR/OF
+Δy = viΔt + ½aΔt2 
+0  = vi(0,95)+½(-9,8)(0,95)2
+vi = 4,66 m·s-1
+
+DOWNWARDS +/
+AFWAARTS +
+vf = vi + aΔt 
+vi = vi + (9,8)(0,95) 
+    = - 4,66
+ vi = 4,66 m·s-1
+
+OR/OF
+(Δtup = 0,475 s)
+vf = vi + aΔt 
+0 = vi + (9,8)(0,475) 
+   = - 4,66
+vi = 4,66 m·s-1
+
+OR/OF
+Δy = viΔt + ½aΔt2 
+0 = -vi (0,95) +½(9,8)(0,95)2
+vi = 4,66 m·s-1
+
+OPTION 4/OPSIE 4
+        (Emech)top = (Emech)bot
+      (Ep + Ek)top = (Ep + Ek)bot
+ (mgh+½mvi2)top = (mgh+½mvf2)bot
+    (9,8)(3,2) + 0 = 0 + (½)(vf)2
+                     vf = 7,92 m·s-1
+
+OPTION 5/OPSIE 5
+Wnc = K + U
+Wnc = K + mg(hf - hi)
+0 = ½mvf2 – ½mvi2 + mghf - mghi
+0 = ½(vf2 – 0) + (9,8)(3,2)
+vf = 7,92 m·s-1
+OPTION 6/OPSIE 6
+        Wnet = ΔEk
+wΔycosθ = ½mvf2 – ½mvi2
+(9,8)(3,2)cos0° = ½vf2 - 0
+                      vf = 7,92 m·s-1
+
+=== page 15 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 15 DBE/2023
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+ OPTION 7/OPSIE 7
+UPWARDS AS
+POSITIVE/OPWAARTS AS
+POSITIEF
+            Fnet∆t = ∆p
+                      = m(vf – vi )
+(-9,8)(0,95) = – 2vi 
+             vi = 4,66 m·s
+-1
+ (4,655 m·s
+-1
+)
+
+DOWNWARDS AS
+POSITIVE/AFWAARTS AS
+POSITIEF
+           Fnet∆t = ∆p
+                     = m(vf – vi )
+(9,8)(0,95)  = 2vi  
+            vi = 4,66 m·s
+-1
+(4,655 m·s
+-1
+) 
+
+(5)
+
+3.3 POSITIVE MARKING FROM QUESTION 3.2.1/
+POSITIEWE NASIEN VANAF VRAAG 3.2.1
+
+ Marking criteria/Nasienkriteria:
+ Initial position of ball A = 15,2 m and B = 0 m./Oorspronklike posisie van
+A = 15,2 m en B = 0 m. 
+ Starting times for A = 0 s and B = 0,81 s./Begintye van A = 0 s en B = 0,81 s. 
+ Both balls strike the ground at t = 1,76 s./Albei balle tref die grond op t = 1,76 s. 
+ Shape of graph for ball A./Vorm van grafiek vir bal A. 
+ Shape of graph for ball B./Vorm van grafiek vir bal B. 
+ If graphs are drawn on seperate axis/Indien grafieke op apparte asse geteken
+word:
+max/maks: 4 5⁄
+
+UPWARDS AS POSITIVE/OPWAARTS AS POSITIEF (CHANGED GRAPH)
+
+ DOWNWARDS AS POSITIVE/AFWAARTS AS POSITIEF:
+
+   (5)
+   [15]
+
+Any one
+/Enige een
+Any one
+/Enige een
+B
+15,2
+Position (m)
+0
+Time (s)
+0,81
+ 1,76
+A
+-15,2
+Position (m)
+ 0
+Time (s)
+0,81
+ 1,76
+A
+B
+
+=== page 16 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 16 DBE/2023
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+QUESTION 4 /VRAAG 4
+
+4.1 Marking criteria/Nasienkriteria
+If any of the underlined key words/phrases in the correct context is omitted deduct
+1 mark/Indien enige van die onderstreepte sleutelwoorde/frases in die korrekte
+konteks uitgelaat is, trek 1 punt af.
+
+ In an isolated system the total (linear) momentum is conserved/remains
+constant.   (accept closed system)
+In 'n geïsoleerde sisteem bly die totale (lineêre) momentum behoue/
+konstant.    (aanvaar geslote sisteem)
+
+ACCEPT FOR 1 MARK/AANVAAR VIR 1 PUNT
+The total (linear) momentum before collision is equal to the total (linear)
+momentum after collision provided the system is isolated/the net external
+force on the system is zero.
+Die totale (lineêre) momentum voor ‘n botsing is gelyk aan die totale (lineêre)
+momentum na botsing mits die stelsel geïsoleer is/die netto eksterne krag op
+die stelsel is nul.
+
+(2)
+
+4.2.1 OPTION 1/OPSIE 1
+RIGHT AS POSITIVE/REGS AS POSITIEF:
+                  ∑pi = ∑pf
+  mAvAi + mBvBi = mAvAf + mBvBf
+  mAvAi + mBvBi = (mA + mB)vf
+(7,2)(0,4) + (0) = (7,2 + 5,3)vf  
+                     vf = 0,23 m·s-1 
+
+ LEFT AS POSITIVE/LINKS AS POSITIEF:
+                   ∑pi = ∑pf
+   mAvAi + mBvBi = mAvAf + mBvBf
+   mAvAi + mBvBi = (mA + mB)vf
+(7,2)(-0,4) + (0) = (7,2 + 5,3)vf  
+                      vf = - 0,23
+                    vf = 0,23 m s-1  
+
+ OPTION 2/OPSIE 2
+RIGHT AS POSITIVE/REGS AS POSITIEF
+        ∆ptrolley A = -∆ptrolley B
+  mA(vAf – vAi) = – mB(vBf – vBi)
+(7,2)(vf – 0,4) = – (5,3)(vf – 0) 
+                  vf  = 0,23 m·s-1   
+
+ LEFT AS POSITIVE/LINKS AS POSITIEF
+        ∆ptrolley A = –∆ptrolley B
+  mA(vAf – vAi) = –mB(vBf – vBi)
+(7,2)(vf + 0,4) = – (5,3)(vf – 0) 
+                   vf = – 0,23
+                     vf = 0,23 m s-1 
+
+(3)
+
+Any one/Enige een
+Any one/Enige een
+Any one/Enige een
+Any one/Enige een
+
+=== page 17 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 17 DBE/2023
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+4.2.2 POSITIVE MARKING FROM QUESTIONS 4.2.1.
+POSITIEWE NASIEN VANAF VRAAG 4.2.1.
+
+ OPTION 1/OPSIE 1
+RIGHT AS POSITIVE/
+REGS AS POSITIEF:
+
+LEFT AS POSITIVE/
+LINKS AS NEGATIEF:
+
+ Force of B on A/Krag van B op A:
+       FnetΔt = Δp
+       FnetΔt = m(vf – vi)
+Fnet (0,02) = 7,2(0,23 – 0,4) 
+          Fnet = – 61,2 
+         Fnet = 61,2 N 
+(60,95 N to/tot 61,2 N)
+Force of B on A/Krag van B op A:
+       FnetΔt = Δp
+       FnetΔt = m(vf – vi)
+Fnet (0,02) = 7,2(-0,23 + 0,4) 
+          Fnet = 61,2 N 
+ (60,95 N to/tot 61,2 N)
+
+ OPTION 2/OPSIE 2
+RIGHT AS POSITIVE/
+REGS AS POSITIEF:
+
+LEFT AS POSITIVE/
+LINKS AS POSITIEF:
+
+ Force of A on B/Krag van A op B:
+       FnetΔt = Δp
+       FnetΔt = m(vf – vi)
+Fnet (0,02) = 5,3(0,23 – 0) 
+          Fnet = 60,95 N 
+                   (60,95 N to/tot 61,2 N)
+Force of A on B/Krag van A op B:
+       FnetΔt = Δp
+       FnetΔt = m(vf – vi)
+Fnet (0,02) = 5,3(-0,23 – 0) 
+          Fnet = -60,95
+         Fnet = 60,95 N 
+               (60,95 N to/tot 61,2 N)
+
+ OPTION 3/OPSIE 3
+RIGHT AS POSITIVE/REGS AS
+POSITIEF
+A:
+    vf  = vi + a∆t
+0,23 = 0,4 + a(0,02)
+     a = - 8,5 m·s
+-2
+
+Fnet  = ma 
+       = (7,2)(-8,5) 
+       = – 61,20
+Fnet = 61,20 N 
+
+LEFT AS POSITIVE/LINKS AS
+POSITIEF
+A:
+     vf  = vi + a∆t
+-0,23 = -0,4 + a(0,02)
+      a = 8,5 m·s
+-2
+
+Fnet  = ma 
+       = (7,2)(8,5) 
+       = 61,20 N
+F net = 61,20 N
+
+ OPTION 4/OPSIE 4
+RIGHT AS POSITIVE/REGS AS
+POSITIEF
+B:
+   vf  = vi + a∆t
+0,23 = 0 + a(0,02)
+     a = 11,5 m·s
+-2
+
+Fnet  = ma 
+       = (5,3)(11,5) 
+       = 60,95 N
+F net = 60,95 N
+
+LEFT AS POSITIVE/LINKS AS
+POSITIEF
+B:
+     vf  = vi + a∆t
+-0,23 = 0 + a(0,02)
+       a = – 11,5 m·s
+-2
+
+Fnet  = ma 
+       = (5,3)(–11,5) 
+       = – 60,95 N
+F net = 60,95 N
+
+(3)
+    [8]
+
+Any one/
+Enige een
+Any one/
+Enige een
+Any one/
+Enige een
+Any one/
+Enige een
+
+=== page 18 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 18 DBE/2023
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+QUESTION 5/VRAAG 5
+
+5.1 Marking criteria/Nasienkriteria
+If any of the underlined key words/phrases in the correct context is omitted
+deduct 1 mark/Indien enige van die onderstreepte sleutel woorde/frases in die
+korrekte konteks uitgelaat is, trek 1 punt af.
+
+ A force is non -conservative if the work it does /done on an object which is
+moving between two points depends on the path taken. 
+'n Krag is nie -konserwatief indien die arbeid wat dit verrig /doen op 'n
+voorwerp wat tussen twee punte beweeg afhanklik is van die pad gevolg.
+
+OR/OF
+A force is non -conservative if the work it does /done in moving an object
+around a closed path is non-zero. 
+'n Krag is nie -konserwatief indien die arbeid wat dit  verrig/doen om 'n
+voorwerp op 'n geslote pad te beweeg, nie nul is nie.
+
+(2)
+ Note/Aantekening:
+If the word 'work' is omitted, 0/2.
+Indien die woord 'arbeid' weggelaat is, 0/2.
+
+5.2 Marking criteria/Nasienkriteria
+ Any one of the correct equations./Enige een van die korrekte vergelykings. 
+ Correct substitution for work done by gravity or ΔU. 
+ Korrekte vervanging vir arbeid verrig deur gravitasie of ΔU.
+ Correct substitution for work done by motor and friction./Korrekte vervanging aan
+van arbeid verrig deur motor en wrywing. 
+ Correct substitution for ∆K./Korrekte vervanging vir ∆K.
+ Correct final answer/Korrekte finale antwoord: 5,96 m·s-1 
+
+ OPTION 1/OPSIE 1
+                                Wnet = K
+                 Ww + Wf + WF = ½mvf2 - ½mvi2
+mgsinθ∆xcosθ + Wf + WF = ½mvf2 - ½mvi2
+(20)(9,8)(sin18°)(15,6)cos180°+(13,5)(15,6)cos180°+(96,8)(15,6)cos0°= ½(20)(vf2 – 02)
+                                     vf = 5,96 m·s-1 
+
+ OPTION 2/OPSIE 2
+            Wnc = K + U
+     Wf + WF = K + mg(hf - hi)
+fxcosθ + Fxcosθ = ½mvf2 – ½mvi2 + mghf – mghi
+13,5(15,6)cos180° + 96,8(15,6)cos0°=½(20)(vf2 – 02) +(20)(9,8)(15,6 sin18° – 0)
+                     vf = 5,96 m·s-1 
+
+ OPTION 3/OPSIE 3
+                Wnet = K
+ Ww + Wf + WF = ½mvf2 – ½mvi2
+-∆Ep + Wf + WF= ½mvf2 – ½mvi2
+-(20)(9,8)(15,6sin18°) +(13,5)(15,6)cos180° + (96,8)(15,6)cos0°=½(20)(vf2 – 02) 
+                     vf = 5,96 m·s-1 
+
+Any one/Enige een
+Any one/Enige een
+Any one/Enige
+
+
+=== page 19 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 19 DBE/2023
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+ OPTION 4/OPSIE 4
+                          Wnet = K
+           Ww + Wf + WF = ½mvf2 – ½mvi2
+mg∆xcosθ + Wf + WF = ½mvf2 – ½mvi2
+(20)(9,8)(15,6)cos108°+ (13.5)(15,6)cos180° +(96,8)(15,6)cos0° =½(20)(vf2–02) 
+                               vf = 5,96 m·s-1 
+
+ OPTION 5/OPSIE 5
+Fnet  = ma
+ Fnet = F – Fw// – f
+        = 96,8 – (20)(9,8)sin18°  – 13,5
+        = 22,73 N
+
+                       Wnet = K
+             Fnet∆xcosθ = ½mvf2 – ½mvi2
+22,73(15,6)cos0° = ½(20)(vf2 – 02) 
+                            vf = 5,96 m·s-1 
+
+(5)
+
+5.3 POSITIVE MARKING FROM QUESTION 5.2.
+POSITIEWE NASIEN VANAF VRAAG 5.2.
+
+ Marking criteria/Nasienkriteria
+ Correct equation for power/Korrekte vergelyking vir drywing. 
+ Correct substitution into power equation./ 
+Korrekte vervanging in drywingvergelyking.
+ Correct final answer/Korrekte finale antwoord: 288,46 W 
+ Range: 286,46 W to/na 288,73 W
+
+ OPTION1/OPSIE 1
+Pave = Fvave  
+       = 96,8(
+  0  + 5,96
+2 ) 
+       = 288,46 W 
+
+ OPTION2/OPSIE 2
+   ∆x = (
+vi + vf
+2 )∆t
+15,6 = (
+ 0  + 5,96
+2 )∆t
+    ∆t = 5,23 s  (5,24)
+
+P =
+W
+∆t
+P =
+F∆x cos
+∆t
+P =
+96,8 15,6 cos 0
+
+5,23     
+P  = 288,73 W 
+
+OR/OF
+vave =
+∆x
+∆t
+     =
+15,6 - 0
+5,23 - 0
+     = 2,98 m·s-1
+
+Pave = Fvave  
+       = 96,8(2,98) 
+       = 288,46 W 
+
+ OPTION 3/OPSIE 3
+         vf2 = vi2 + 2aΔx (5,96)2 = 02 + 2a(15,6)
+         a = 1,14 m·s-2   (1,13)
+
+    vf = vi + aΔt
+5,96 = 0 + (1,14)∆t
+    ∆t = 5,23 s  (5,27)
+
+(3)
+
+Any one/Enige
+Any one/Enige
+
+Any one/Enige een
+
+=== page 20 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 20 DBE/2023
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+5.4
+
+  Accepted symbols/Aanvaarde simbole
+
+N  FN/196N/Normal/Normaal/Fnormal/Fnormaal
+f  (kinetic) friction/(kineties) wrywing/Ff/Fw/fk/fr
+w  Fg/Fw/weight/gewig/mg/gravitational force/gravitasiekrag/FEarth on crate/
+FAarde op krat
+ Notes/Aantekeninge:
+ Accept correct numerical values for the forces./ Aanvaar korrekte numeriese
+waardes vir die kragte.
+ Mark awarded for label and arrow./Punt toegeken vir benoeming en pyltjie.
+ Do not penalise for length of arrows since drawing is not to scale ./Moenie vir die
+lengte van die pyltjies penaliseer nie aangesien die tekening nie volgens skaal is
+nie.
+ Any other additional force(s)/Enige ander addisionele krag(te): Max/Maks 2 3⁄
+ If everything co rrect, but no arrows/ Indien alles korrek, maar geen pyltjies :
+Max/Maks 2 3⁄
+
+(3)
+
+N
+fk
+w
+Type equation here.
+wll
+Type equation here.
+Accept/Aanvaar:
+N
+fk
+w
+Type equation here.
+Accept force diagram/
+Aanvaar kragte-diagram:
+N
+fk
+w
+Type equation here.
+
+=== page 21 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 21 DBE/2023
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+5.5 POSITIVE MARKING FROM QUESTION 5.2.
+POSITIEWE NASIEN VANAF VRAAG 5.2.
+
+ Marking criteria/Nasienkriteria:
+ First straight line starting at zero with positive gradient, reaching a maximum
+velocity./Eerste reguit lyn met ‘n positiewe gradiënt begin by nul en bereik
+maksimum snelheid. 
+ Second straight line with negative gradient from maximum velocity to zero./
+Tweede reguit lyn met negatiewe gradiënt vanaf maksimum snelheid na zero. 
+ Third straight line continuing from second line at zero and extending below the x-
+axis./Derde reguit lyn wat aangaan vanaf tweede lyn vanaf nul en verleng onder
+die x-as. 
+ Third line has a smaller negative gradient than the second line./Derde reguit lyn
+het 'n kleiner negatiewe gradiënt as die tweede lyn 
+
+ Note/Aantekening:
+Direction of gradients opposite for graph 2./Rigting van hellings teenoorgesteld vir
+grafiek 2.
+No marks given for values of velocities./Geen punte toegeken vir waardes van
+snelhede nie.
+
+ UPWARDS AS POSITIVE
+OPWAARTS AS POSITIEF:
+DOWNWARDS AS POSITIVE
+AFWAARTS AS POSITIEF:
+
+   (4)
+   [17]
+
+QUESTION 6/VRAAG 6
+
+6.1.1 Marking criteria/Nasienkriteria
+If any of the underlined key words/phrases in the correct context is omitted deduct
+1 mark ./Indien enige van die onderstreepte sleutel woorde/frases in die korrekte
+konteks uitgelaat is, trek 1 punt af.
+
+ The (apparent) change in frequency  (or pitch) (of the sound) detected by a
+listener because the source and the listener have different velocities relative
+to the medium of propagation. 
+Die (skynbare) verandering in die  frekwensie (of toonhoogte) (van die klank)
+waargeneem deur 'n luisteraar omdat die bron en die luisteraar verskillende
+snelhede relatief tot die voortplantingsmedium het.
+
+OR/OF
+An (apparent) change in observed /detected frequency/pitch as a result of the
+relative motion between a source and an observer/listener.
+'n (Skynbare) verandering in waargenome frekwensie/toonhoogte as gevolg
+van die relatiewe beweging tussen die bron en 'n waarnemer/luisteraar.
+
+(2)
+
+Velocity (m·s-1)
+5,96
+66
+Time (s)
+Velocity (m·s-1)
+Time (s)
+-5,96
+
+=== page 22 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 22 DBE/2023
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+6.1.2 fL  = v   v v   vs fS             OR/OF       fL  = v + v v  fS
+
+fL =
+340 + 22
+340   24 000
+
+fL = 25 552,94 Hz
+
+fL =
+v   v
+v   vs
+ fS              OR/OF                   fL =
+v
+v - vs  fS
+
+fL =
+340
+340 - 22  25 552,94
+
+fL = 27 320,75 Hz 
+
+(6)
+
+6.2 The frequencies of the spectral lines would have decreased./Die frekwensies
+van die spektrale lyne sou verminder het.
+
+OR/OF
+The spectral lines from the distant star are shifted towards lower frequency
+end of the spectrum ./Die spektrale lyne van die ver af ster sou verskuif na ‘n
+laer frekwensie op die spektrum.
+
+(2)
+   [10]
+
+QUESTION 7/VRAAG 7
+
+7.1 Marking criteria/Nasienkriteria
+If any of the underlined key words/phrases in the correct context is omitted deduct
+1 mark./Indien enige van die onderstreepte sleutelwoorde/frases in die korrekte
+konteks uitgelaat is, trek 1 punt af.
+If any refrence is made to mass/Indien enige verwysing gemaak is na massa: 0 2⁄
+
+ The magnitude of the electrostatic force exerted by one (stationary) point
+charge (Q1) on another (stationary) point charge (Q2) is directly proportional to
+the product of the magnitudes of the charges and inversely proportional to the
+square of the distance (r) between them.
+
+Die grootte van die elektrostatiese krag uitgeoefen deur een (stilstaande )
+puntlading (Q1) op’n ander puntlading ( Q2) is direk eweredig aan die produk
+van die grootte van die ladings en omgekeerd eweredig aan die kwadraat van
+die afstand (r) tussen hulle.
+
+(2)
+
+
+
+
+
+
+
+=== page 23 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 23 DBE/2023
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+7.2
+
+   (3)
+
+7.3
+ F =
+k Y X
+r2  
+F =
+(9   109)(7,2 x 10-9)(7,2 x 10-9)
+ 0,03 2
+  = 5,18 x 10-4 N     (0,000518 N)
+
+(3)
+
+7.4
+
+ Notes/Aantekeninge:
+ 1 Mark for arrows in opposite directions ./1 Punt vir pyle in teenoorgestelde
+rigtings.
+ 1 Mark for correct labels./1 Punt vir korrekte benoemings.
+ Do not penalise for length of arrow since drawing is not to scale./Moenie
+penaliseer vir die lengte van die pyltjie nie aangesien tekening nie volgens skaal
+is nie.
+ Accept Y and Z as  labels./Aanvaar Y en Z as benoeming.
+
+(2)
+
+Criteria for graph/Kriteria vir grafiek:
+Correct shape/ Korrekte vorm 
+Correct direction from Y to X. /Korrekte
+rigting van Y na X.  
+Lines must not cross and must touch
+charges./ Lyne mag nie kruis nie en
+moet die ladings raak.
+
+Note/Aantekening:
+ If the net electric field pattern is drawn for two like charges: 0 3⁄
+Indien die netto elektriese veldpatroon vir twee gelyksoortige ladings geteken is:0 3⁄
+ Ignore labels for point charges/ Ignoreer byskrifte vir puntladings.
+
+X
+ Y
+EY
+ EZ  
+ EY
+EZ  
+accept/
+aanvaar
+ EZ  
+EY
+OR/OF
+
+=== page 24 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 24 DBE/2023
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+7.5 OPTION 1/OPSIE 1
+ Marking criteria/Nasienkriteria
+ Formula for electric field./Formule vir elektriese veld. 
+ Substitution of Enet./Vervanging van Enet. 
+ Correct substitution into
+k
+r2  equation for charge Z or charge Y
+Korrekte vervanging in
+k
+r  .vergelyking vir lading Z of lading Y
+ Subtraction of electric fields (EZ + EY )/Aftrek van elektriese velde (EZ + EY ) 
+ Correct final answer/Korrekte finale antwoord: 6,25 x 10-9C
+Range/Gebied: 6,25 x 10-9 C to/na 6,26 x 10-9 C
+
+ OPTION 1/OPSIE 1
+Enet = EZ + EY
+          = EZ - EY
+Enet =
+k z
+r2  +
+k y
+r2
+4, 91 x 105=((9 x 109)  z
+0,012 )   (
+(9 x 109)(7,2 x 10-9)
+0,032 )
+               QZ = 6,25 x 10-9 C 
+
+ OPTION 2/OPSIE 2
+ POSITIVE MARKING FROM QUESTION 7.3/
+POSITIEWE NASIEN VANAF VRAAG 7.3
+
+ Marking criteria/Nasienkriteria
+ Correct formula for electric field./Korrekte formule vir elektriese veld. 
+ Substitution of Fnet./Vervanging van Fnet. 
+ Correct substitution into (
+k z x
+r2  ) for charge Z. 
+Korrekte vervanging in (
+k z x
+r2  ) vir lading Z
+ Subtraction of forces./Aftrek van kragte.
+ Correct final answer/Korrekte finale antwoord: 6,26 x 10-9 C 
+Range/Gebied: 6,25 x 10-9 C to/na 6,26 x 10-9 C
+
+              E =
+Q
+F
+4,91 x 105 = F
+7,2 x 10-9
+           Fnet= 3,54 x 10-3 N
+
+              Fnet = FZ on X + FY on X
+              Fnet =  (
+k z x
+r2  ) + (
+k Y x
+r2  )
+
+(3,54 x 10-3)  = ( (9 x 109)(7,2 x 10-9 ) Z
+(0,01)2 ) – (5,18 x 10-4)
+
+               QZ = 6,26 x 10-9 C 
+
+(5)
+   [15]
+
+
+
+
+
+
+
+
+
+=== page 25 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 25 DBE/2023
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+QUESTION 8/VRAAG 8
+
+8.1 Marking criteria/Nasienkriteria
+If any of the underlined key words/phrases in the correct context is omitted deduct
+1 mark ./Indien enig e van die onderstreepte sleutel woorde/frases in die korrekte
+konteks uitgelaat is, trek 1 punt af.
+
+ The potential d ifference across a condu ctor is d irectly p roportional to the
+current in the conductor at constant temperature (provided all other physical
+conditions remain constant). 
+Die potensiaalverskil oor 'n geleier is direk eweredig aan die stroom  in die
+geleier by konstante temperatuur (mits alle ander fisiese toestande konstant
+bly).
+
+OR/OF
+The ratio of potential difference to current is constant at constant temperature.
+Die verhouding van potensiaalverskil tot stroom is konstant  by konstante
+temperatuur.
+
+OR/OF
+The current in a condu ctor is directly proportional to the potential difference
+across the conductor at c onstant temperature (provided all other p hysical
+conditions remain constant).
+Die stroom in 'n geleier is direk eweredig aan die potensiaalverskil  oor 'n
+geleier by konstante temperatuur (mits alle fisiese toestande konstant bly).
+
+(2)
+
+8.2.1 OPTION 1/OPSIE 1
+R =
+V
+I  
+7 =
+V
+1,5   
+V = 10,5 V 
+
+ OPTION 2/OPSIE 2
+R =
+V
+I
+ 2 =
+V
+1,5
+V = 3 V
+
+5 =
+V
+1,5
+V = 7,5 V
+
+ VT = V1 + V2
+     = 3 + 7,5   (addition of calculated values/optel van berekende waardes)
+     = 10,5 V 
+
+
+
+
+=== page 26 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 26 DBE/2023
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+ OPTION 3/OPSIE 3
+Ratio of R:
+       3 : 7
+Ratio of I:
+       7 : 3
+I = 1,5 x
+7
+3 = 3,5 A
+
+V = IR 
+   = (3,5)(3) 
+   = 10,5 V
+
+(3)
+
+8.2.2 POSITIVE MARKING FROM QUESTION 8.2.1.
+POSITIEWE NASIEN VANAF VRAAG 8.2.1.
+
+ OPTION 1/OPSIE 1
+R = VI3 
+3 =
+10,5
+I3
+ 
+I3 = 3,5 A
+
+IT = 1,5 + 3,5    (addition of calculated values/optel van berekende waardes)
+   = 5 A 
+
+ OPTION 2/OPSIE 2
+
+1
+ p
+ =
+1
+ 1
+ +
+1
+ 2
+                OR/OF
+
+1
+ p
+ =
+1
+7 +
+1
+3    
+  Rp = 2,1 Ω
+
+   R =
+V
+I
+ 
+2,1 =
+10,5
+I
+ 
+  IT = 5 A 
+
+Rp =
+ 1 2
+ 1 +  2
+
+Rp =
+(7)(3)
+7 + 3     
+     = 2,1 Ω
+
+ OPTION 3/OPSIE 3
+ I3Ω =
+7
+3 x 1,5 
+      = 3,5 A 
+
+Itotal = 3,5 + 1,5
+      = 5 A
+OPTION 4/OPSIE 4
+     IS = (
+ 3Ω
+ 3Ω+ S
+) x Itotal
+1,5 =
+3
+3+7 x Itotal
+  Itotal = 5 A 
+
+(4)
+
+
+
+
+=== page 27 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 27 DBE/2023
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+8.2.3 POSITIVE MARKING FROM QUESTION 8.2.1 AND/OR QUESTION 8.2.2.
+POSITIEWE NASIEN VANAF VRAAG 8.2.1 EN/OF VRAAG 8.2.2.
+
+ OPTION 1/OPSIE 1
+P =
+V2
+  
+   =
+10,52
+3    
+  = 36,75 W 
+OPTION 2/OPSIE 2
+P = I2R 
+   = (3,5)2(3) 
+   = 36,75 W  
+
+ OPTION 3/OPSIE 3
+P = VI 
+   = (10,5)(3,5) 
+   = 36,75 W 
+
+(3)
+
+8.3 POSITIVE MARKING IF OPTION 2 IS USED IN QUESTION 8.2.2./
+POSITIEWE NASIEN INDIEN OPSIE 2 GEBRUIK IS IN VRAAG 8.2.2.
+
+ Marking criteria/Nasienkriteria
+ Correct equation for emf./Korrekte vergelyking vir emk. 
+ Correct substitution for S2 closed. /Korrekte vervanging vir S2 gesluit. 
+ Correct substitution for S2 open./Korrekte vervanging vir S2 oop. 
+ Equating emf or internal resistance equations. 
+Gelykstelling van emk of interne weerstand vergelykings.
+ Correct final answer/Korrekte finale antwoord: 12,05 V 
+Range/Gebied: 12,04 V to/tot 12,05 V
+
+ 1
+ p
+ =
+1
+ 1
+ +
+1
+ 2
+
+1
+ p
+ =
+1
+7 +
+1
+3
+Rp = 2,1 Ω
+
+For S1 and S2 closed:
+ε = I(R + r)
+ε = IR + Ir
+ε = Vint + Vext
+  = 5(2,1 + r) …(1)
+
+For S2 open:
+ε = I(R+r)
+   = 3,64(3 + r) …(2)
+
+          (1) = (2)
+5(2,1 + r) = 3,64(3 + r)
+              r = 0,31 Ω
+
+ε = 5(2,1 + 0,31)
+   = 12,05 V     (12,04)
+
+OR/OF
+
+ε = 3,64(3 + 0,31)
+   = 12,05 V     (12,04)
+
+       (1) = (2):
+ε - 10,5
+5  = ε - 10,923,64
+          ε = 12,05 V   (12,04)
+
+(5)
+
+ Any one/ Enige een
+
+
+
+=== page 28 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 28 DBE/2023
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+8.4 Increases/Toeneem 
+(Total) resistance increases./(Totale) weerstand neem toe. 
+Current decreases./Stroom neem af. 
+Vinternal /Internal volts decreases./Vintern/Interne volts neem af. 
+
+(4)
+ Note/Aantekening:
+Award marks if learner proved the statement using calulated numerical values./
+Ken punte toe indien leerder die stelling bewys deur berekende waardes te gebruik.
+
+   [21]
+
+QUESTION 9/VRAAG 9
+
+9.1.1 North pole/Noord-pool   (1)
+
+9.1.2 Y to X/Y na X    (1)
+
+9.1.3
+
+   (3)
+
+9.2.1 Marking criteria/Nasienkriteria:
+ Formula to calculate Vmax or Irms./Formule om Vmaks of Iwgk te bereken. 
+ Correct substitution of Vrms or Imax./Korrekte vervanging van Vwgk of Imaks. 
+ Correct substitution to calculate R./Korrekte vervanging om R te bereken. 
+ Correct final answer/Korrekte finale antwoord: 47,14 Ω to/tot 47,2 Ω 
+
+ OPTION 1/OPSIE 1
+Vrms =
+2
+Vmax 
+ 200 =
+2
+Vmax 
+Vmax = 282,84 V
+
+R =
+I
+V
+   =
+6
+282,84 
+R = 47,14 Ω 
+OPTION 2/OPSIE 2
+Irms =
+2
+Imax 
+Irms =
+2
+6 
+Irms = 4,24 A
+
+R =
+I
+V
+    =
+4,24
+200  
+ R = 47,17 Ω 
+
+Marking criteria/Nasienkriteria
+Correct shape for AC./Korrekte vorm vir WS. 
+Graph starts from maximum value./ Grafiek
+begin by maksimum waarde. 
+Two complete waves/
+Twee volledige golwe 
+Note/Aantekening:
+Accept graph starting at negative max./Aanvaar
+grafiek wat by negatiewe maks begin.
+emf/emk  (V)
+Time/tyd (s)
+
+=== page 29 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 29 DBE/2023
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+ OPTION 3/OPSIE 3
+Irms =
+2
+Imax 
+Irms =
+2
+6 
+Irms = 4,24 A
+
+Pave = VrmsIrms
+       = (200)(4,24)
+       = 848 W  (848,53)
+Pave =
+R
+V rms2
+848 =
+R
+(200)2  
+     = 47,17 Ω 
+
+OR/OF
+
+Pave = I2rmsR
+848 = (4,24)2R 
+      = 47,17 Ω 
+
+(4)
+
+9.2.2 POSITIVE MARKING FROM QUESTION 9.2.1.
+POSITIEWE NASIEN VANAF VRAAG 9.2.1.
+
+ OPTION 1/OPSIE 1 OPTION 2/OPSIE 2
+ W = I2R∆t  W = VI∆t 
+     = (4,24)2(47,17) (7200)      = (200)(4,24) (7200) 
+     = 6,11 x 106 J  (6,10 x 106)     = 6,11 x 106 J 
+ OPTION 3/OPSIE 3
+W =
+R
+ΔtV 2  
+    =
+
+(2002)    7200
+47,27
+    = 6,11 x 106 J  (6,10 x 106)
+OPTION 4/OPSIE 4
+   P =
+W
+∆t
+848 =
+7200
+W
+
+       = 6,11 x 106 J 
+(4)
+    [13]
+
+QUESTION 10/VRAAG 10
+
+10.1 6,63 x 10-34   (1)
+
+10.2 Marking criteria/Nasienkriteria
+If any of the underlined key words/phrases in the correct context is omitted or extra
+incorrect words added,  deduct 1 mark ./Indien enige van die onderstreepte sleutel
+woorde/frases in die korrekte konteks uitgelaat of inkorrekte woorde bygevoeg  is,
+trek 1 punt af.
+
+ The minimum energy needed to eject an electron from a (metal) surface. 
+Die minimum energie benodig om 'n elektron uit 'n (metaal)oppervlak vry te
+stel.
+
+(2)
+
+10.3.1 Wo = hfo 
+      = (6,63 x 10-34)(5 x 1014) 
+      = 3,32 x 10-19 J 
+
+(3)
+
+
+
+
+
+
+=== page 30 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 30 DBE/2023
+ NSC/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou
+
+10.3.2 POSITIVE MARKING FROM QUESTION 10.3.1./ POSITIEWE NASIEN
+VANAF VRAAG 10.3.1.
+
+ OPTION 1/OPSIE 1
+       Gradient =
+∆Ek
+∆f  
+6,63 x 10-34 = (X - 0)
+(12,54 x 1014- 5 x 1014) 
+                  X = 5 x 10-19 (J) 
+
+ OPTION 2/OPSIE 2
+E = Wo + Ek(max)
+hf = hfo +
+1
+2mv2max
+h c  = h c  o + Ek(max)
+(6,63 x 10-34)(12,54 x 1014)  = 3,32 x 10-19 + Ek(max) 
+                                    Ek(max) = 5 x 10-19 J 
+                                           X = 5 x 10-19 (J)
+
+ Note/Aantekkening:
+Do not penalise learner again in 10.3.2 if (x 1014) is omitted in 10.3.1/Moenie
+leerder weer penaliseer in 10.3.2 indien (x 1014) uitgelaat is in 10.3.1 nie.
+
+(4)
+
+10.4.1 No effect/Geen effek  (1)
+
+10.4.2 Increases/Toeneem  (1)
+
+10.5
+
+  (2)
+  [14]
+
+TOTAL/TOTAAL:  150
+
+Marking criteria/Nasienkriteria
+Graph B to the right of graph A./
+Grafiek B aan regterkant van
+grafiek A.
+
+Lines are parallel./Lyne is parallel. 
+If both graphs are not
+labelled/Indien beide grafieke nie
+benoem is nie: 0 2⁄
+If two seperate graphs are
+drawn/Indien twee aparte grafieke
+geteken is : 0 2⁄
+
+Maximum EK/ Maksimum EK
+
+Frequency/Frekwensie
+
+A
+
+ B
+
+ Any one/Enige een

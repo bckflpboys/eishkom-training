@@ -1,0 +1,442 @@
+=== page 1 ===
+6858007874000
+
+SENIOR CERTIFICATE EXAMINATIONS/
+NATIONAL SENIOR CERTIFICATE EXAMINATIONS
+
+MATHEMATICS P1
+
+2019
+
+MARKS:  150
+
+TIME: 3 hours
+
+This question paper consists of 8 pages and 1 information sheet.
+
+INSTRUCTIONS AND INFORMATION
+Read the following instructions carefully before answering the questions.
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+This question paper consists of 11 questions.
+
+Answer ALL the questions.
+
+Number the answers correctly according to the numbering system used in this question paper.
+
+Clearly show ALL calculations, diagrams, graphs, etc. that you have used in determining your answers.
+
+Answers only will NOT necessarily be awarded full marks.
+
+You may use an approved scientific calculator (non-programmable and non-graphical), unless stated otherwise.
+
+If necessary, round off answers to TWO decimal places, unless stated otherwise.
+
+Diagrams are NOT necessarily drawn to scale.
+
+An information sheet with formulae is included at the end of the question paper.
+
+Write neatly and legibly.
+
+QUESTION 1
+
+1.1
+Solve for  x:
+
+1.1.1
+
+(2)
+
+1.1.2
+  (correct to two decimal places)
+
+(4)
+
+1.1.3
+
+(3)
+
+1.1.4
+
+(3)
+
+1.2
+Solve simultaneously for  x  and  y:
+
+  and
+
+(5)
+
+1.3
+A rectangular box has dimensions  a,  b  and  c.  The area of the surfaces are              ;  and , as shown in the diagram below.
+
+62103035560a
+b
+c
+
+00a
+b
+c
+
+Calculate, without using a calculator, the volume of the rectangular box.
+(5)
+
+[22]
+
+QUESTION 2
+
+2.1
+The first FOUR terms of a quadratic pattern are:  15  ;  29  ;  41  ;  51
+
+2.1.1
+Write down the value of the 5th term.
+
+(1)
+
+2.1.2
+Determine an expression for the nth term of the pattern in the form.
+
+(4)
+
+2.1.3
+Determine the value of
+
+(2)
+
+2.2
+Given a geometric sequence:  36  ;  –18  ;  9  ; …
+
+2.2.1
+Determine the value of  r, the common ratio.
+
+(1)
+
+2.2.2
+Calculate  n  if
+
+(3)
+
+2.2.3
+Calculate
+
+(2)
+
+2.2.4
+Calculate the value of
+
+(4)
+
+[17]
+
+QUESTION 3
+
+3.1
+The first three terms of an arithmetic sequence are:  2p + 3 ; p + 6 and  p – 2.
+
+3.1.1
+Show that  p = 11.
+
+(2)
+
+3.1.2
+Calculate the smallest value of  n  for which
+
+(3)
+
+3.2
+Given that  , prove that  .
+
+(5)
+
+[10]
+QUESTION 4
+
+Given the exponential function:
+
+4.1
+Write down the range of  g.
+
+(1)
+
+4.2
+Determine the equation of   in the form  y = …
+
+(2)
+
+4.3
+Is    a function? Justify your answer.
+
+(2)
+
+4.4
+The point  M(a ; 2)  lies on  .
+
+4.4.1
+Calculate the value of  a.
+
+(2)
+
+4.4.2
+, the image of  M,  lies on  g.  Write down the coordinates of  .
+
+(1)
+
+4.5
+If  h(x) = g(x + 3) + 2, write down the coordinates of the image of    on  h.
+
+(3)
+
+[11]
+
+QUESTION 5
+
+5.1
+Given:
+
+.
+
+5.1.1
+Determine the equations of the asymptotes of  f.
+
+(2)
+
+5.1.2
+Write down the y-intercept of  f.
+
+(1)
+
+5.1.3
+Calculate the x-intercept of  f.
+
+(2)
+
+5.1.4
+Sketch the graph of  f . clearly label all intercepts with the axes and any asymptotes.
+
+(3)
+
+5.2
+Sketched below are the graphs of   and  .                   Graph  k  has a turning point at (–1 ; 18).  S is the x-intercept of  h  and  k.                     Graphs  h  and  k  also intersect at T.
+
+6699251905(–1 ; 18)
+  T
+  k
+h
+y
+x
+O
+  S
+.
+00(–1 ; 18)
+  T
+  k
+h
+y
+x
+O
+  S
+.
+
+5.2.1
+Calculate the coordinates of S.
+
+(2)
+
+5.2.2
+Determine the equation of  k  in the form
+
+(3)
+
+5.2.3
+If  ,  determine the coordinates of T.
+
+(5)
+
+5.2.4
+Determine the value(s) of  x  for which  .
+
+(2)
+
+5.2.5
+It is further given that  k  is the graph of  .
+
+(a)
+For which values of  x  will the graph of  g  be concave up?
+
+(2)
+
+(b)
+Sketch the graph of  g, showing clearly the  x-values of the turning points and the point of inflection.
+
+(3)
+
+[25]
+
+QUESTION 6
+6.1
+Sandile bought a car for R180 000. The value of the car depreciated at 15% per annum according to the reducing-balance method. The book value of Sandile's car is currently R79 866,96.
+6.1.1
+How many years ago did Sandile buy the car?
+(3)
+6.1.2
+At exactly the same time that Sandile bought the car, Anil deposited      R49 000 into a savings account at an interest rate of 10% p.a., compounded quarterly. Has Anil accumulated enough money in his savings account to buy Sandile's car now?
+(3)
+6.2
+Exactly 10 months ago, a bank granted Jane a loan of R800 000 at an interest rate of 10,25% p.a., compounded monthly.
+The bank stipulated that the loan:
+must be repaid over 20 years
+must be repaid by means of monthly repayments of R7 853,15, starting one month after the loan was granted
+
+6.2.1
+How much did Jane owe immediately after making her  6th repayment?
+
+(4)
+
+6.2.2
+Due to financial difficulties, Jane missed the 7th, 8th and 9th payments.      She was able to make payments from the end of the 10th month onwards.  Calculate Jane's increased monthly payment in order to settle the loan in the original 20 years.
+
+(5)
+
+[15]
+QUESTION 7
+7.1
+Given .
+
+Determine    from first principles.
+(4)
+7.2
+Determine    if:
+7.2.1
+
+(3)
+7.2.2
+
+(4)
+7.3
+If  g  is a linear function with   and  , determine the equation of  g  in the form  y = …..
+
+(3)
+
+[14]
+
+QUESTION 8
+A cubic function    cuts the  x-axis at  (–3 ; 0);  and  (1 ; 0).
+8.1
+Show that .
+(3)
+8.2
+Calculate the x-coordinates of the turning points of  h.
+(3)
+8.3
+Determine the value(s) of  x  for which  h  will be decreasing.
+(2)
+8.4
+For which value(s) of  x  will there be a tangent to the curve of  h  that is parallel to the line  .
+(4)
+
+[12]
+4311096155417A
+00A
+290904415004000QUESTION 9
+A cone with radius  r cm and height  AB  is inscribed in a
+sphere with centre  O  and a radius of  8 cm.  OB = x.
+
+387667510160r
+8
+r
+8
+64697468852Volume of sphere =
+Volume of cone =
+00Volume of sphere =
+Volume of cone =
+
+3404206126365437873237916O
+O
+
+4355444152022B
+x
+B
+x
+
+9.1
+Calculate the volume of the sphere.
+(1)
+9.2
+Show that .
+(1)
+9.3
+Determine the ratio between the largest volume of this cone and the volume of the sphere.
+(7)
+
+[9]
+
+QUESTION 10
+10.1
+A bag contains 7 yellow balls, 3 red balls and 2 blue balls. A ball is chosen at random from the bag and not replaced. A second ball is then chosen. Determine the probability that of the two balls chosen, one is red and the other is blue.
+(4)
+10.2
+Learners at a hostel may choose a meal and a drink for lunch. Their selections on a certain day were recorded and shown in the partially completed table below.
+
+MEAL
+TOTAL
+
+Sandwich (S)
+Pasta (P)
+
+DRINK
+Fruit Juice (F)
+a
+30
+b
+
+Bottled Water (W)
+
+TOTAL
+200
+
+250
+The probability of a learner choosing fruit juice and a sandwich on that day                   was  0,48.
+10.2.1
+Calculate the number of learners who chose fruit juice and a sandwich for lunch on that day.
+(1)
+10.2.2
+Is the choice of fruit juice independent of the choice of a sandwich for lunch on that day?  Show all calculations to motivate your answer.
+(4)
+
+[9]
+QUESTION 11
+Two learners from each grade at a high school (Grades 8, 9, 10, 11 and 12) are elected to form a sports committee.
+11.1
+In how many different ways can the chairperson and the deputy chairperson of the sports committee be elected if there is no restriction on who may be elected?
+(2)
+11.2
+A photographer wants to take a photograph of the sports committee. In how many different ways can the members be arranged in a straight line if:
+11.2.1
+Any member may stand in any position?
+(1)
+11.2.2
+Members from the same grade must stand next to each other and the Grade 12 members must be in the centre?
+(3)
+
+[6]
+                                                                                                             TOTAL:
+150
+
+INFORMATION SHEET:  MATHEMATICS
+
+   ; ;
+
+M
+
+In ABC:
+
+P(A or B) = P(A) + P(B) – P(A and B)

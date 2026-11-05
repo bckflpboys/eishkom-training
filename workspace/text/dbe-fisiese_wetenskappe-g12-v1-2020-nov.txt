@@ -1,0 +1,985 @@
+=== page 1 ===
+Kopiereg voorbehou  Blaai om asseblief
+
+PUNTE:  150
+
+TYD:  3 uur
+
+Hierdie vraestel bestaan uit 16 bladsye en 3 gegewensblaaie.
+
+FISIESE WETENSKAPPE:  FISIKA (V1)
+
+NOVEMBER 2020
+
+GRAAD 12
+
+SENIOR SERTIFIKAAT/
+NASIONALE SENIOR SERTIFIKAAT
+
+=== page 2 ===
+Fisiese Wetenskappe/V1 2 DBE/November 2020
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+INSTRUKSIES EN INLIGTING
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+Skryf jou eksamennommer en sentrumnom mer in die toepaslike ruimtes op
+die ANTWOORDEBOEK.
+
+Hierdie vraestel bestaan uit TIEN vrae. Beantwoord AL die vrae in die
+ANTWOORDEBOEK.
+
+Begin ELKE vraag op 'n NUWE bladsy in die ANTWOORDEBOEK.
+
+Nommer die antwoorde korrek volgens die nommeringstelsel w at in hierdie
+vraestel gebruik is.
+
+Laat EEN reël tussen twee subvrae oop, bv. tussen VRAAG 2.1 en
+VRAAG 2.2.
+
+Jy mag 'n nieprogrammeerbare sakrekenaar gebruik.
+
+Jy mag toepaslike wiskundige instrumente gebruik.
+
+Toon ALLE formules en vervangings in ALLE berekeninge.
+
+Rond jou FINALE numeriese antwoorde tot 'n minimum van TWEE desimale
+plekke af.
+
+Gee kort (bondige) motiverings, besprekings, ens. waar nodig.
+
+Jy word aangeraai om die aangehegte GEGEWENSBLAAIE te gebruik.
+
+Skryf netjies en leesbaar.
+
+=== page 3 ===
+Fisiese Wetenskappe/V1 3 DBE/November 2020
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 1:  MEERVOUDIGEKEUSE-VRAE
+
+Verskeie opsies word as moontlike antwoorde op die volgende vrae gegee. Kies die
+antwoord en skryf slegs die letter (A –D) langs die vraagnommers (1.1 tot 1.10) in die
+ANTWOORDEBOEK neer, bv. 1.11 E.
+
+1.1 Die tempo  van verandering van momentum van 'n voorwerp is gelyk aan
+die …
+
+ A
+
+B
+
+C
+
+D
+impuls op die voorwerp.
+
+netto krag wat op die voorwerp inwerk.
+
+produk van die voorwerp se massa en sy verandering in snelheid.
+
+produk van die netto krag wat op die voorwerp inwerk en sy versnelling.
+
+(2)
+
+1.2 Die gravitasieversnelling op die oppervlak van planeet X met massa M en
+radius  r  is  g.
+
+Die gravitasieversnelling op die oppervlak van planeet  Y met massa 2M en
+radius  ½r  is …
+
+ A
+
+B
+
+C
+
+D
+½g
+
+g
+
+4g
+
+8g
+
+(2)
+
+1.3 Die grafiek hieronder toon hoe een van die fisiese groothede wat met
+'n voorwerp in vryval geassosieer word, met tyd t verander. Die byskrif op die
+y-as is uitgelaat. Ignoreer lugweerstand.
+
+ Watter EEN van die volgende fisiese groothede k an die byskrif op die y -as
+wees?
+
+ A
+
+B
+
+C
+
+D
+Snelheid
+
+Posisie
+
+Gewig
+
+Momentum
+
+(2)
+t
+
+=== page 4 ===
+Fisiese Wetenskappe/V1 4 DBE/November 2020
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+1.4 'n Bal met 'n massa van m, wat vertikaal afwaarts val , tref die vloer met 'n
+spoed v en bons vertikaal opwaarts met 'n spoed van 0,75v.
+
+Watter EEN van die volgende kombinasies ten opsigte van die verandering in
+momentum van die bal tydens die botsing is KORREK?
+
+  GROOTTE RIGTING
+(2)
+ A 0,25mv Opwaarts
+ B 0,25mv Afwaarts
+ C 1,75mv Opwaarts
+ D 1,75mv Afwaarts
+
+1.5 Die basiese SI-eenheid van die fisiese grootheid 'arbeid' is ...
+
+ A
+
+B
+
+C
+
+D
+kg∙m∙s-1
+
+kg∙m2∙s2
+
+kg∙m2∙s-2
+
+kg∙m∙s-2
+
+(2)
+
+1.6 Die sirene van 'n p olisiemotor, wat voor 'n vragmotor ry, stel  klankgolwe met
+frekwensie f vry. Albei voertuie beweeg teen dieselfde konstante snelheid.
+
+Die frekwensie van die klank wat deur die bestuurder van die vragmotor
+gehoor word, is ...
+
+ A
+
+B
+
+C
+
+D
+f.
+
+nul.
+
+groter as f.
+
+kleiner as f.
+
+(2)
+
+=== page 5 ===
+Fisiese Wetenskappe/V1 5 DBE/November 2020
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+1.7 Twee identiese metaalsfere , P en R, o p ge ïsoleerde staanders, dra
+verskillende ladings. Die sfere word in kontak gebring en dan weer geskei.
+
+ Indien die lading op  sfeer R NA die skeiding q is, is die lading op sfeer  P na
+die skeiding …
+
+ A
+
+B
+
+C
+
+D
+q.
+
+nul.
+
+minder as q.
+
+groter as q.
+
+ (2)
+
+1.8 'n WS-generator wek 'n stroom met 'n frekwensie van 50 Hz op.
+
+Die getal kere wat die maksimum (piek-) stroom in een sekonde geproduseer
+word, is ...
+
+ A
+
+B
+
+C
+
+D
+25.
+
+50.
+
+75.
+
+100.
+
+(2)
+P R
+
+=== page 6 ===
+Fisiese Wetenskappe/V1 6 DBE/November 2020
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+1.9 In die stroombaan hieronder het die battery 'n interne weerstand r en 'n
+emk . 'n Verstelbare weerstand R word in die stroombaan geskakel en die
+ammeter en voltmeter registreer lesings.
+
+ Die weerstand van die verstelbare weerstand R word nou VERHOOG.
+
+Watter EEN van die volgende kombinasie s is die KORREKTE voorstelling
+van die verandering van die lesings op die ammeter en voltmeter soos wat
+die weerstand van R verhoog word?
+
+  AMMETERLESING VOLTMETERLESING
+A Verlaag Verhoog
+B Verhoog Verhoog
+C Verhoog Verlaag
+D Verlaag  Verlaag
+
+(2)
+
+ V
+ A
+Ɛ
+R
+r
+
+=== page 7 ===
+Fisiese Wetenskappe/V1 7 DBE/November 2020
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+1.10 Die natriumkatode van 'n fotosel word met ultraviolet lig bestraal soos in die
+diagram hieronder getoon. Die ammeter registreer 'n stroom.
+
+ Watter EEN van die volgende veranderinge sal die ammeterlesing
+VERHOOG?
+
+ A
+
+B
+
+C
+
+D
+Gebruik 'n dunner natriumkatode.
+
+Verhoog die intensiteit van die ultraviolet lig.
+
+Verhoog die frekwensie van die ultraviolet lig.
+
+Vervang die natriumkatode met 'n katode met 'n laer arbeidsfunksie.
+
+(2)
+[20]
+
+natriumkatode ultraviolet lig
+  GS-bron A
+
+=== page 8 ===
+Fisiese Wetenskappe/V1 8 DBE/November 2020
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 2 (Begin op 'n nuwe bladsy.)
+
+'n 20 kg-blok, wat op 'n ruwe horisontale oppervlak rus, is aan blokke P en Q verbind
+met 'n ligte onrekbare tou tjie wat oor 'n wrywinglose katrol beweeg. Blokke P en Q is
+aan mekaar vasgegom en het 'n gekombineerde massa m.
+
+'n Krag van 35 N word nou op die 20 kg-blok teen 'n hoek van 40° met die horisontaal
+toegepas, soos hieronder getoon.
+
+Die 20 kg -blok e rvaar 'n wrywingskrag met  'n grootte van 5 N soos wat dit teen 'n
+KONSTANTE SPOED na REGS beweeg.
+
+2.1 Definieer die term normaalkrag.  (2)
+
+2.2 Teken 'n benoemde vrye kragtediagram  (vrye liggaamdiagram)  van die
+20 kg-blok.
+
+(5)
+
+2.3 Bereken die gekombineerde massa m van die twee blokke.  (5)
+
+2.4 Op 'n sekere stadium van die beweging breek blok Q af en val afwaarts.
+
+Hoe sal ELK van die volgende beïnvloed word wanneer dit gebeur?
+
+ 2.4.1  Die spanning in die toutjie
+Kies uit NEEM TOE, NEEM AF of BLY DIESELFDE.
+
+(1)
+
+ 2.4.2  Die snelheid van die 20 kg-blok
+Verduidelik die antwoord.
+
+(3)
+    [16]
+
+35 N
+40° 20 kg
+m
+Q
+P
+
+=== page 9 ===
+Fisiese Wetenskappe/V1 9 DBE/November 2020
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 3 (Begin op 'n nuwe bladsy.)
+
+'n Klein balletjie word vanaf 'n hoogte van 2 m laat val en hop 'n paar keer nadat dit op
+'n sementvloer land. Ignoreer lugwrywing.
+
+Die posisie -tyd-grafiek hieronder, nie volgens skaal geteken  nie, verteenwoordig die
+beweging van die bal.
+
+3.1 Definieer die term vryval.   (2)
+
+3.2 Gebruik die grafiek en bepaal:
+
+ 3.2.1 Die tyd wat die bal met die vloer in kontak is voor die eerste terugwip  (2)
+
+ 3.2.2 Die tyd wat dit die bal neem om sy maksimum hoogte na die eerste
+terugwip te bereik
+
+(2)
+
+ 3.2.3 Die spoed waarteen die bal die vloer met die eerste terugwip verlaat  (3)
+
+ 3.2.4 Tyd t op die grafiek aangedui  (6)
+    [15]
+
+Posisie (m)
+Tyd (s)
+2
+1,85
+1,2
+0,64 0,67 1,90 1,97 t 0
+
+=== page 10 ===
+Fisiese Wetenskappe/V1 10 DBE/November 2020
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 4 (Begin op 'n nuwe bladsy.)
+
+Bal P met 'n massa van 0,16 kg, wat teen 'n spoed van 10 m∙s-1 oos beweeg, bots reg
+van voor met 'n ander bal Q met 'n massa van 0,2 kg, wat teen 'n spoed van 15 m∙s-1
+wes beweeg. Na die botsing beweeg  bal P wes teen 'n spoed van 5 m∙s-1, soos in die
+diagram hieronder getoon.
+
+Ignoreer die effekte van wrywing en die rotasie-effekte van die balle.
+
+4.1 Definieer die term momentum in woorde.   (2)
+
+4.2 Bereken die:
+
+ 4.2.1  Snelheid van bal Q na die botsing  (5)
+
+ 4.2.2 Grootte van die impuls op bal P tydens die botsing  (3)
+    [10]
+
+W
+S
+O
+N
+       VOOR BOTSING
+P Q P Q
+       NA BOTSING
+
+10 m∙s-1   5 m∙s-1   15 m∙s-1
+
+=== page 11 ===
+Fisiese Wetenskappe/V1 11 DBE/November 2020
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 5 (Begin op 'n nuwe bladsy.)
+
+'n Tuimeltrein-('roller-coaster')-kar met 'n massa van 200 kg, met die enjin afgeskakel,
+beweeg op baan  ABC wat 'n ruwe oppervlak het, soos in die diagra m hieronder
+getoon. By punt A, wat 10 m bokant die grond is, is die spoed van die kar 4 m·s-1.
+
+By punt B, wat op 'n hoogte h bokant die grond is, is die spoed van die kar  2 m·s -1.
+Tydens die beweging vanaf punt  A na punt B word 3,40 × 10 3 J energie verbruik om
+wrywing te oorkom.
+
+Ignoreer rotasie-effekte as gevolg van die wiele van die kar.
+
+5.1 Definieer die term nie-konserwatiewe krag.  (2)
+
+5.2 Bereken die verandering in die kinetiese energie van die kar nadat dit van
+punt A na punt B beweeg het.
+
+(3)
+
+5.3 Gebruik energie-beginsels om die hoogte h te bereken.  (4)
+
+Wanneer dit punt B bereik, word die kar se enjin aangeskakel sodat dit teen die helling
+op na punt C kan beweeg, wat 22 m bokant die grond is. Tydens die beweging van
+punt B na punt C beweeg die kar vir 15 s teen 'n konstante spoed van  2 m·s-1, terwyl
+'n gemiddelde wrywingskrag van 50 N daarop inwerk.
+
+5.4 Bereken die drywing wat deur die enjin gelewer word om die kar vanaf punt B
+na punt C te beweeg.
+
+(5)
+   [14]
+
+A
+10 m h
+B
+C
+22 m
+4 m·s-1
+2 m·s-1
+
+=== page 12 ===
+Fisiese Wetenskappe/V1 12 DBE/November 2020
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+Frekwensie (Hz)
+3 148
+
+2 073
+
+      0                         t1                       Tyd (s)
+
+Die sirene van 'n trein, wat teen 'n konstante spoed op 'n reguit horisontale spoor
+beweeg, stel klank met 'n konstante frekwensie vry. 'n Detektor, wat langs die spoor
+geplaas is, teken die frekwensie van die klankgolwe aan. Di e uits lae wat verkry is,
+word in die grafiek hieronder getoon.
+
+6.1 Stel die Doppler-effek in woorde.  (2)
+
+6.2 Teken die detektor die frekwensie van 3 148 Hz  aan wanneer die trein die
+detektor NADER of wanneer dit van die detektor WEGBEWEEG?
+
+(1)
+
+6.3 Bereken die spoed van die  trein. Neem die spoed van klank in lug as
+340 m∙s-1.  (6)
+
+6.4 Die detektor het begin om die frekwensie van die bewegende trein se sirene
+aan te teken toe die trein 350 m ver was.
+
+Bereken tyd t1 wat op die grafiek hierbo aangedui word.
+
+(2)
+   [11]
+
+VRAAG 6 (Begin op 'n nuwe bladsy.)
+
+=== page 13 ===
+Fisiese Wetenskappe/V1 13 DBE/November 2020
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 7 (Begin op 'n nuwe bladsy.)
+
+Twee klein gelaaide sfere , A en B, word op ge ïsoleerde staanders geplaas, 0,2 m uit
+mekaar, soos in die diagram hieronder getoon . Hulle dra onderskeidelik ladings van
+−4 x 10-6 C en +3 x 10-6 C.
+
+M is 'n punt wat 'n afstand van 0,1 m regs van sfeer B is.
+
+7.1 Bereken die getal elektrone in oormaat op sfeer A.  (3)
+
+7.2 Bereken die grootte van die elektrostatiese krag wat deur sfeer A op sfeer B
+uitgeoefen word.
+
+(3)
+
+7.3 Beskryf die term elektriese veld.   (2)
+
+7.4 Bereken die grootte van die netto elektriese veld by punt M.  (5)
+
+Gelaaide sfere A en B en nog 'n gelaaide sfeer D word nou op 'n reghoekige
+assestelsel gerangskik, soos in die diagram hieronder getoon.
+
+Die netto elektrostatiese krag ondervind deur sfeer  A, is 7,69 N in die rigting soos in
+die diagram hierbo getoon.
+
+7.5 Is die lading op sfeer D POSITIEF of NEGATIEF?  (1)
+
+7.6 Bereken die grootte van die lading op sfeer D.   (3)
+    [17]
+−4 x 10-6 C
+B
++3 x 10-6 C
+A
+0,2 m
+M
+0,1 m
+
+
+ A
+B
+D
+0,15 m
+0,2 m  x
+y
+ 7,69 N
+
+=== page 14 ===
+Fisiese Wetenskappe/V1 14 DBE/November 2020
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 8 (Begin op 'n nuwe bladsy.)
+
+'n Battery met 'n interne weerstand van 0,5 Ω en 'n onbekende emk (ε) word aan drie
+weerstande, 'n hoëweerstand -voltmeter en 'n ammeter , met weglaatbare weerstand,
+verbind, soos in die stroombaandiagram hieronder getoon.
+
+Die weerstand van die verbindingsdrade moet geïgnoreer word.
+
+8.1 Definieer die term emk van 'n battery.  (2)
+
+Die lesing op die voltmeter VERLAAG met 1,5 V wanneer skakelaar S gesluit word.
+
+8.2 Gee 'n rede hoekom die voltmeterlesing verlaag.   (2)
+
+8.3 Bereken die volgende wanneer skakelaar S gesluit word:
+
+ 8.3.1 Lesing op die ammeter   (3)
+
+ 8.3.2 Totale eksterne weerstand van die stroombaan  (4)
+
+ 8.3.3 Emk van die battery  (3)
+
+8.4 'n Leerder maak die volgende stelling:
+
+Die stroom deur resistor R3  is groter as die stroom deur resistor R2.
+
+Is hierdie stelling KORREK? Kies uit JA of NEE. Verduidelik die antwoord.
+
+(3)
+
+8.5 Die 4 Ω-resistor word nou uit die stroombaan verwyder.
+
+Hoe sal dit die emk van die battery beïnvloed? Kies uit TOENEEM, AFNEEM
+of BLY DIESELFDE.
+
+(1)
+   [18]
+
+15 Ω
+R3
+V
+R1
+4 Ω
+25 Ω
+R2
+
+
+S
+Ɛ
+A
+0,5 Ω
+r
+
+=== page 15 ===
+Fisiese Wetenskappe/V1 15 DBE/November 2020
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+VRAAG 9 (Begin op 'n nuwe bladsy.)
+
+9.1 'n Vereenvoudigde diagram van 'n elektriese masjien word hieronder getoon.
+
+ 9.1.1 Is hierdie masjien 'n GS-motor of 'n GS-generator?   (1)
+
+ 9.1.2 Skryf die energie -omsetting neer wat plaasvind terwyl h ierdie
+masjien in werking is.
+
+(2)
+
+ 9.1.3 Skryf die naam neer van komponent A in die diagram.   (1)
+
+ 9.1.4 In watter rigting sal die spoel , in die diagram  hierbo getoon, roteer?
+Kies uit KLOKSGEWYS of ANTIKLOKSGEWYS.
+
+(2)
+
+9.2 'n Elektriese toestel is 200 W ; 220 V gemerk.
+
+ 9.2.1 Definieer die term wgk-spanning.  (2)
+
+ 9.2.2 Bereken die weerstand van die toestel.  (3)
+
+ Hierdie toestel word nou aan 'n 150 V-, WS-bron gekoppel.
+
+  9.2.3 Bereken die energie wat binne 10 minute deur die toestel  verbruik
+word.
+
+(5)
+    [16]
+
+Spoel
+ A
+
+=== page 16 ===
+Fisiese Wetenskappe/V1 16 DBE/November 2020
+ SS/NSS
+Kopiereg voorbehou
+
+VRAAG 10 (Begin op 'n nuwe bladsy.)
+
+'n Eksperiment word uitgevoer om die verhouding tussen die frekwensie van lig wat op
+'n metaal inval en die maksimum kinetiese energie van die elektrone  wat vanaf die
+oppervlak van die metaal  vrygestel word, te ondersoek. Hierdie eksperiment word vir
+drie verskillende metale uitgevoer.
+
+Die grafiek hieronder verteenwoordig die uitslae wat verkry is.
+
+10.1 Noem die verskynsel waarop hierdie eksperiment gebaseer is.   (1)
+
+10.2 Noem die fisiese grootheid wat deur X op die grafiek verteenwoordig word.  (1)
+
+10.3 Watter EEN van die drie metale benodig invallende lig met die grootste
+golflengte vir die vrystelling van elektrone?
+
+Gee 'n rede vir die antwoord.
+
+(2)
+
+10.4 Definieer die term arbeidsfunksie in woorde.   (2)
+10.5 Bereken die:
+
+ 10.5.1 Arbeidsfunksie van platinum   (3)
+
+ 10.5.2 Frekwensie van die invallende lig wat elektrone vanaf die
+oppervlak van platinum met 'n maksimum snelhe id van
+5,60 x 105 m∙s-1 sal vrystel.
+
+(4)
+    [13]
+
+ TOTAAL:  150
+0,5 1,0 f (x1015 Hz) 1,5
+w
+2,0
+      kalium sink
+-X
+platinum
+Maksimum kinetiese energie (J)
+0
+
+=== page 17 ===
+Fisiese Wetenskappe/V1 1 DBE/November 2020
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+DATA FOR PHYSICAL SCIENCES GRADE 12
+PAPER 1 (PHYSICS)
+
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 12
+VRAESTEL 1 (FISIKA)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Acceleration due to gravity
+Swaartekragversnelling g 9,8 m·s-2
+Universal gravitational constant
+Universele gravitasiekonstant G 6,67 x 10-11 N·m2·kg-2
+Radius of the Earth
+Radius van die Aarde
+ER  6,38 x 106 m
+Mass of the Earth
+Massa van die Aarde
+EM  5,98 x 1024 kg
+Speed of light in a vacuum
+Spoed van lig in 'n vakuum c 3,0 x 108 m·s-1
+Planck's constant
+Planck se konstante h 6,63 x 10-34 J·s
+Coulomb's constant
+Coulomb se konstante k 9,0 x 109 N·m2·C-2
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Electron mass
+Elektronmassa
+em  9,11 x 10-31 kg
+
+=== page 18 ===
+Fisiese Wetenskappe/V1 2 DBE/November 2020
+ SS/NSS
+Kopiereg voorbehou  Blaai om asseblief
+
+TABLE 2:  FORMULAE/TABEL 2:  FORMULES
+
+MOTION/BEWEGING
+tavv if 
+
+2
+2
+1
+i taΔtvΔx   or/of
+2
+2
+1
+i taΔtvΔy 
+xa2vv
+2
+i
+2
+f 
+ or/of
+ya2vv
+2
+i
+2
+f 
+Δt2 vvΔx fi    or/of
+Δt2 vvΔy fi  
+
+FORCE/KRAG
+
+maFnet
+
+mvp
+Nμ=f s
+max
+s
+
+Nμ =f kk
+if
+net
+mv- mv=pΔ
+pΔ=tΔF
+
+mgw
+
+2
+21
+d
+mmG=F
+       or/of
+2
+21
+r
+mmG=F
+
+2d
+MG  g 
+2r
+MG g 
+WORK, ENERGY AND POWER/ARBEID, ENERGIE EN DRYWING
+
+xΔF=W
+cos
+
+mghU           or/of
+mghEP
+2mv21K 
+       or/of
+2
+k mv21E 
+KWnet 
+        or/of
+knet EW 
+
+if KKK 
+     or/of
+kikfk EEE 
+UKWnc 
+ or/of
+pknc EEW 
+
+t
+WP 
+Pave = Fvave    /    Pgemid = Fvgemid
+
+WAVES, SOUND AND LIGHT/GOLWE, KLANK EN LIG
+
+ fv
+
+f
+1T
+s
+s
+L
+L fvv vvf 
+
+b
+b
+L
+L fvv vvf 
+hfE     or /of
+ hcE
+
+k(max)0 E+ W=E
+  or/of
+max0 K+ W=E  where/waar
+hf  E
+ and/en
+00 hfW  and/en
+2
+max(max)k mv21E     or/of
+
+2
+maxmax mv21K 
+
+k (mak s)E WE  0
+  of
+mak s0 K WE   waar
+hf  E
+ en
+00 hfW     en
+2
+mak s)mak s(k mv21E    /
+2
+maksmv21K m aks
+
+or/of
+or/of
+
+=== page 19 ===
+Fisiese Wetenskappe/V1 3 DBE/November 2020
+ SS/NSS
+Kopiereg voorbehou
+
+ELECTROSTATICS/ELEKTROSTATIKA
+
+2
+21
+r
+QkQF
+
+2r
+kQE 
+q
+WV
+
+q
+FE
+
+e
+Q=n
+eq
+Q=n
+
+ELECTRIC CIRCUITS/ELEKTRIESE STROOMBANE
+
+I
+VR 
+
+emf (
+ε ) = I(R + r)
+
+emk (
+ε ) = I(R + r)
+...RRR 21s 
+
+...R1R1R1 21p 
+
+tq  I
+W = Vq
+
+W = VI
+ t
+
+W = I2R
+ t
+
+W =
+R
+ΔtV2
+Δt
+WP 
+
+P = VI
+
+RP 2I
+
+R
+VP 2
+
+ALTERNATING CURRENT/WISSELSTROOM
+
+2
+max
+rms
+II 
+             /
+2
+maks
+wgk
+II 
+
+2
+VV maxrms 
+           /
+2
+VV makswgk 
+rmsrmsave VP I
+     /
+wgkwgkgemiddeld VP I
+
+RP 2rmsave I
+       /
+RP 2wgkgemiddeld I
+
+R
+VP 2rmsave
+        /
+R
+VP 2wgkgemiddeld
+
+output
+N S
+or/of

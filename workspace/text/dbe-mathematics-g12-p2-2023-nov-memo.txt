@@ -1,0 +1,92 @@
+# NATIONAL SENIOR CERTIFICATE / NASIONALE SENIOR SERTIFIKAAT
+## GRADE 12 / GRAAD 12
+### MATHEMATICS P2 / WISKUNDE V2
+**NOVEMBER 2023**
+**MARKING GUIDELINES / NASIENRIGLYNE**
+
+---
+
+### QUESTION / VRAAG 1
+
+| 1.1 | $a = -23,846\dots$ <br> $b = 0,227\dots$ <br> $\hat{y} = -23,85 + 0,23x$ | $\checkmark$ $a = -23,846\dots$ <br> $\checkmark$ $b = 0,227\dots$ <br> $\checkmark$ equation | (3) |
+| :--- | :--- | :--- | :--- |
+| 1.2 | $\hat{y} = -23,85 + 0,23(550)$ <br> $y = 102,65$ <br> **OR** <br> $y = 101,02$ | $\checkmark$ substitution of 550 <br> $\checkmark$ answer <br> <br> $\checkmark\checkmark$ $y = 101,02$ (calculator) | (2) <br> <br> (2) |
+| 1.3 | $r = 0,98$ | $\checkmark$ $r = 0,98$ | (1) |
+| 1.4 | Very strong positive correlation | $\checkmark$ strong positive | (1) |
+| 1.5.1 | $\bar{x} = \frac{1200}{8}$ <br> $\bar{x} = 150$ <br> **OR** <br> $\bar{x} = 150$ | $\checkmark$ $1200$ <br> $\checkmark$ answer <br> <br> $\checkmark\checkmark$ $\bar{x} = 150$ | (2) <br> <br> (2) |
+| 1.5.2 | $\sigma = 50,50$ | $\checkmark$ $\sigma = 50,50$ | (1) |
+| 1.5.3 | $\bar{x} - \sigma$ <br> $= 150 - 50,50$ <br> $= 99,50$ <br> $\therefore$ 1 stop | $\checkmark$ calculation of $\bar{x} - \sigma$ <br> $\checkmark$ answer | (2) |
+| **[12]** |
+
+---
+
+### QUESTION / VRAAG 2
+
+| 2.1 | 
+| Number of glasses of water per day | Number of staff members | Cumulative frequency |
+| :---: | :---: | :---: |
+| $0 \le x < 2$ | 5 | 5 |
+| $2 \le x < 4$ | 15 | 20 |
+| $4 \le x < 6$ | 13 | 33 |
+| $6 \le x < 8$ | 5 | 38 |
+| $8 \le x < 10$ | 2 | 40 |
+| $\checkmark$ $5; 20$ <br> $\checkmark$ $40$ | (2) |
+| 2.2 | 40 staff members | $\checkmark$ answer | (1) |
+| 2.3 | 33 staff members | $\checkmark$ answer | (1) |
+| 2.4 | $\bar{x} = \frac{\left(1 \times \left(5 + \frac{k}{2}\right)\right) + (3 \times 15) + \left(5 \times \left(13 + \frac{k}{2}\right)\right) + (7 \times 5) + (9 \times 2)}{40 + k} = 4$ <br> $5 + \frac{k}{2} + 45 + 65 + \frac{5k}{2} + 35 + 18 = 160 + 4k$ <br> $3k + 168 = 160 + 4k$ <br> $k = 8$ <br> **OR** <br> $\bar{x} = \frac{(1 \times 5) + (15 \times 3) + (13 \times 5) + (5 \times 7) + (2 \times 9)}{40}$ <br> $= 4,2$ <br> $\bar{x}_{\text{old}} - \bar{x}_{\text{current}} = 4,2 - 4$ <br> $= 0,2$ <br> $\therefore 0,2 \times 40$ <br> $= 8 \text{ teachers}$ | $\checkmark$ answer from Q2.2 $+ k$ <br> $\checkmark$ $1 \times \left(5 + \frac{k}{2}\right)$ <br> $\checkmark$ $5 \times \left(13 + \frac{k}{2}\right)$ <br> $\checkmark$ answer <br> <br> $\checkmark$ $4,2$ <br> $\checkmark$ $\bar{x}_{\text{old}} - 4$ <br> $\checkmark$ difference <br> $\checkmark$ answer | (4) <br> <br> (4) |
+| **[8]** |
+
+---
+
+### QUESTION / VRAAG 3
+
+| 3.1 | $SL = \sqrt{(x_S - x_L)^2 + (y_S - y_L)^2}$ <br> $SL = \sqrt{(4 - (-4))^2 + (5 - 1)^2}$ <br> $SL = \sqrt{80} = 4\sqrt{5} = 8,94 \text{ units}$ | $\checkmark$ substitution of S and L into correct formula <br> $\checkmark$ answer | (2) |
+| :--- | :--- | :--- | :--- |
+| 3.2 | $m_{SN} = \frac{5 - (-3)}{4 - (-2)}$ <br> $m_{SN} = \frac{4}{3}$ | $\checkmark$ substitution of S and N into correct formula <br> $\checkmark$ answer | (2) |
+| 3.3 | $m = \tan\theta = \frac{4}{3}$ <br> $\theta = 53,13^\circ$ | $\checkmark$ $\tan\theta = m_{SN}$ <br> $\checkmark$ answer | (2) |
+| 3.4 | $m_{LN} = \frac{1 - (-3)}{-4 - (-2)}$ <br> $m_{LN} = -2$ <br> $L\hat{K}O = 116,565\dots^\circ$ <br> $L\hat{N}S = 116,565\dots^\circ - 53,13^\circ$ <br> $L\hat{N}S = 63,44^\circ$ <br> **OR** <br> $SN = 10 \text{ units}$ <br> $\sin L\hat{N}S = \frac{4\sqrt{5}}{10}$ <br> $L\hat{N}S = 63,44^\circ$ <br> **OR** <br> $LN = 2\sqrt{5} \text{ units}$ <br> $\tan L\hat{N}S = \frac{4\sqrt{5}}{2\sqrt{5}}$ <br> $L\hat{N}S = 63,44^\circ$ <br> **OR** <br> $SN = 10 \text{ units}$ <br> $LN = 2\sqrt{5} \text{ units}$ <br> $\cos L\hat{N}S = \frac{2\sqrt{5}}{10}$ <br> $L\hat{N}S = 63,44^\circ$ | $\checkmark$ $m_{LN} = -2$ <br> $\checkmark$ size of $L\hat{K}O$ <br> $\checkmark$ answer <br> <br> $\checkmark$ $SN = 10 \text{ units}$ <br> $\checkmark$ correct trig ratio <br> $\checkmark$ answer <br> <br> $\checkmark$ $LN = 2\sqrt{5} \text{ units}$ <br> $\checkmark$ correct trig ratio <br> $\checkmark$ answer <br> <br> $\checkmark$ $SN = 10 \text{ units}$ and $LN = 2\sqrt{5} \text{ units}$ <br> $\checkmark$ correct trig ratio <br> $\checkmark$ answer | (3) <br> <br> (3) <br> <br> (3) <br> <br> (3) |
+
+---
+
+| 3.5 | $m = \frac{4}{3}$ <br> $1 = \frac{4}{3}(-4) + c \quad \text{OR} \quad y - 1 = \frac{4}{3}(x - (-4))$ <br> $c = \frac{19}{3}$ <br> $y = \frac{4}{3}x + \frac{19}{3}$ | $\checkmark$ $m_{SN}$ <br> $\checkmark$ substitution of $m_{SN}$ & L <br> $\checkmark$ equation | (3) |
+| :--- | :--- | :--- | :--- |
+| 3.6 | $SL = 4\sqrt{5}$ <br> $LN = \sqrt{(-4 - (-2))^2 + (1 - (-3))^2}$ <br> $LN = \sqrt{20} = 2\sqrt{5}$ <br> $\text{Area } \Delta LSN = \frac{1}{2}(4\sqrt{5})(2\sqrt{5})$ <br> $= 20 \text{ units}^2$ <br> **OR** <br> $SN = 10 \text{ units}$ <br> $LN = \sqrt{20} = 2\sqrt{5}$ <br> $\text{Area } \Delta LSN = \frac{1}{2}(10)(2\sqrt{5})\sin 63,44^\circ$ <br> $= 20 \text{ units}^2$ | $\checkmark$ $LN = \sqrt{20} = 2\sqrt{5}$ <br> $\checkmark$ substitution into formula <br> $\checkmark$ answer <br> <br> $\checkmark$ $LN = \sqrt{20} = 2\sqrt{5}$ <br> $\checkmark$ substitution into formula <br> $\checkmark$ answer | (3) <br> <br> (3) |
+| 3.7 | $\hat{L} = 90^\circ$ <br> $SN \text{ is a diameter of circle S, L, N } [\text{chord subtends } 90^\circ \text{ OR converse } \angle \text{ in semi-circle}]$ <br> $\text{Centre of circle} = P\left(\frac{4 + (-2)}{2}; \frac{5 + (-3)}{2}\right)$ <br> $= P(1 ; 1)$ <br> **OR** <br> $\text{Let the coordinates of P be } (a ; b).$ <br> $\text{Then, } PL = PN: \quad (-4 - a)^2 + (1 - b)^2 = (-2 - a)^2 + (-3 - b)^2$ <br> $a - 2b = -1 \dots \text{equation 1}$ <br> $\text{If } PS = PN, \text{ then: } 4a + 2b = 6 \dots \text{equation 2}$ <br> $\text{Solving simultaneously yields: } a = 1 \text{ and } b = 1 \text{ and } P(1 ; 1)$ <br> **OR** <br> $\text{If } PL = PN, \text{ then: } a - 2b = -1 \dots \text{equation 1}$ <br> $\text{If } PS = PL, \text{ then: } 2a + b = 3 \dots \text{equation 2}$ <br> $\text{Solving simultaneously yields: } a = 1 \text{ and } b = 1 \text{ and } P(1 ; 1)$ | $\checkmark$ $SN \text{ is a diameter of circle S, L, N}$ <br> $\checkmark$ $x$-value <br> $\checkmark$ $y$-value <br> <br> $\checkmark$ 2 correct linear equations <br> $\checkmark$ $x$-value <br> $\checkmark$ $y$-value <br> <br> $\checkmark$ 2 correct linear equations <br> $\checkmark$ $x$-value <br> $\checkmark$ $y$-value | (3) <br> <br> (3) <br> <br> (3) |
+| 3.8 | $L\hat{P}N = \theta = 53,13^\circ \quad [\text{alt }\angle\text{s}; LP \parallel x\text{-axis}]$ <br> $\therefore L\hat{P}S = 126,87^\circ$ <br> **OR** <br> $L\hat{N}S = 63,44^\circ$ <br> $\therefore L\hat{P}S = 126,88^\circ \quad [\angle \text{ at centre} = 2 \times \angle \text{ at circumference}]$ <br> **OR** <br> $L\hat{S}N = 26,56^\circ \quad [\text{sum of }\angle\text{s in }\Delta]$ <br> $S\hat{L}P = 26,56^\circ \quad [\angle\text{s opp equal radii}]$ <br> $\therefore L\hat{P}S = 126,88^\circ \quad [\text{sum of }\angle\text{s in }\Delta]$ <br> **OR** <br> $(4\sqrt{5})^2 = 5^2 + 5^2 - 2(5)(5)\cos L\hat{P}S$ <br> $\cos L\hat{P}S = -\frac{3}{5}$ <br> $\therefore L\hat{P}S = 126,87^\circ$ | $\checkmark$ $L\hat{P}N$ <br> $\checkmark$ answer <br> <br> $\checkmark$ $L\hat{N}S$ <br> $\checkmark$ answer <br> <br> $\checkmark$ $L\hat{S}N$ <br> $\checkmark$ answer <br> <br> $\checkmark$ correct substitution into cosine formula <br> $\checkmark$ answer | (2) <br> <br> (2) <br> <br> (2) <br> <br> (2) |
+| **[20]** |
+
+---
+
+### QUESTION / VRAAG 4
+
+| 4.1 | $D(p ; -2)$ <br> $x^2 + y^2 = 20$ <br> $p^2 + (-2)^2 = 20$ <br> $p^2 = 16$ <br> $p = \pm 4$ <br> $p = 4$ | $\checkmark$ substitution of point $D(p ; -2)$ <br> $\checkmark$ $p^2 = 16$ | (2) |
+| :--- | :--- | :--- | :--- |
+| 4.2 | $\frac{4 + x_F}{2} = 6 \quad \frac{-2 + y_F}{2} = 2$ <br> $x_F = 8 \quad y_F = 6$ <br> $F(8 ; 6)$ <br> **OR** <br> $x_E - x_D = 6 - 4 \quad y_E - y_D = 2 - (-2)$ <br> $= 2 \quad = 4$ <br> $x_F = 6 + 2 = 8 \quad y_F = 2 + 4 = 6$ <br> $F(8 ; 6)$ | $\checkmark$ method <br> $\checkmark$ $x$-value <br> $\checkmark$ $y$-value <br> <br> $\checkmark$ method <br> $\checkmark$ $x$-value <br> $\checkmark$ $y$-value | (3) <br> <br> (3) |
+| 4.3 | $m_{DE} = \frac{-2 - 2}{4 - 6}$ <br> $m_{DE} = 2$ <br> $-2 = 2(4) + c \quad \text{OR} \quad y - (-2) = 2(x - 4)$ <br> $c = -10$ <br> $y = 2x - 10$ <br> **OR** <br> $m_{OD} = -\frac{2}{4} = -\frac{1}{2}$ <br> $\therefore m_{DE} = 2 \quad [\tan \perp \text{radius}]$ <br> $-2 = 2(4) + c \quad \text{OR} \quad y - (-2) = 2(x - 4)$ <br> $c = -10$ <br> $y = 2x - 10$ | $\checkmark$ correct substitution <br> $\checkmark$ gradient of DE, DF or EF <br> $\checkmark$ substitution of point $D(4 ; -2)$ or $E(6 ; 2)$ or $F(8 ; 6)$ <br> $\checkmark$ answer <br> <br> $\checkmark$ correct gradient of OD <br> $\checkmark$ gradient of DE <br> $\checkmark$ substitution of point $D(4 ; -2)$ or $E(6 ; 2)$ or $F(8 ; 6)$ <br> $\checkmark$ answer | (4) <br> <br> (4) |
+
+---
+
+| 4.4 | $m_{DE} = 2$ <br> $\therefore m_{GF} = -\frac{1}{2} \quad [\tan \perp \text{radius}]$ <br> $\frac{0 - 6}{t - 8} = -\frac{1}{2}$ <br> $-(t - 8) = 2(-6)$ <br> $t = 20$ <br> **OR** <br> $y = 2x - 10$ <br> $0 = 2x - 10$ <br> $x = 5$ <br> $A(5 ; 0)$ <br> $\text{In }\Delta AFG: FA \perp FG$ <br> $FA^2 = (6 - 0)^2 + (8 - 5)^2 = 45$ <br> $FG^2 = (t - 8)^2 + (0 - 6)^2 = t^2 - 16t + 100$ <br> $GA^2 = (t - 5)^2 = t^2 - 10t + 25$ <br> $\therefore GA^2 = GF^2 + FA^2$ <br> $t^2 - 10t + 25 = t^2 - 16t + 100 + 45$ <br> $6t = 120$ <br> $t = 20$ | $\checkmark$ correct gradient of GF <br> $\checkmark$ substitution of F <br> $\checkmark$ answer <br> <br> $\checkmark$ $x$-intercept of DF <br> $\checkmark$ substitution into Pythagoras <br> $\checkmark$ answer | (3) <br> <br> (3) |
+| :--- | :--- | :--- | :--- |
+| 4.5 | $F(8 ; 6)$ <br> $G(20 ; 0)$ <br> $(8 - 20)^2 + (6 - 0)^2 = r^2$ <br> $r^2 = 180$ <br> $(x - 20)^2 + y^2 = 180$ <br> $x^2 + y^2 - 40x + 220 = 0$ | $\checkmark$ substitution of F and G <br> $\checkmark$ value of $r^2$ <br> $\checkmark$ equation of circle <br> $\checkmark$ answer | (4) |
+| 4.6 | $\text{Smaller circle } r = 2\sqrt{5}$ <br> $\text{Larger circle } r = 6\sqrt{5}$ <br> $G(20 ; 0)$ <br> $k = 20 - (6\sqrt{5} - 2\sqrt{5}) \quad \text{or} \quad k = 20 + (6\sqrt{5} - 2\sqrt{5})$ <br> $= 20 - 4\sqrt{5} \quad = 20 + 4\sqrt{5}$ <br> $= 11,06 \text{ units} \quad = 28,94 \text{ units}$ <br> **OR** <br> $\text{Smaller circle } r = 2\sqrt{5}$ <br> $k = 2(2\sqrt{5}) + 20 - 8\sqrt{5} \quad \text{or} \quad k = 2(6\sqrt{5}) + 20 - 8\sqrt{5}$ <br> $= 20 - 4\sqrt{5} \quad = 20 + 4\sqrt{5}$ <br> $= 11,06 \text{ units} \quad = 28,94 \text{ units}$ <br> **OR** <br> $x^2 + y^2 - 40x + 220 = 0$ <br> $y = 0$ <br> $\therefore x^2 - 40x + 220 = 0$ <br> $\therefore x = 20 + 6\sqrt{5} \text{ or } x = 20 - 6\sqrt{5}$ <br> $\therefore k = 20 + 6\sqrt{5} - \sqrt{20} \text{ or } k = 20 - 6\sqrt{5} + \sqrt{20}$ <br> $\therefore k = 20 + 4\sqrt{5} \quad \therefore k = 20 - 4\sqrt{5}$ <br> $= 11,06 \text{ units} \quad = 28,94 \text{ units}$ | $\checkmark$ $r = 2\sqrt{5}$ <br> $\checkmark$ method <br> $\checkmark$ answer $\checkmark$ answer <br> <br> $\checkmark$ $r = 2\sqrt{5}$ <br> $\checkmark$ method <br> $\checkmark$ answer $\checkmark$ answer <br> <br> $\checkmark$ $x$-intercepts <br> $\checkmark$ method <br> $\checkmark$ answer $\checkmark$ answer | (4) <br> <br> (4) <br> <br> (4) |
+| **[20]** |
+
+---
+
+### QUESTION / VRAAG 5
+
+| 5.1.1 | $\sin\beta = \frac{1}{3} \quad \beta \in (90^\circ ; 270^\circ)$ <br> $x = -\sqrt{8} = -2\sqrt{2}$ <br> $\cos\beta = \frac{-2\sqrt{2}}{3}$ <br> **OR** <br> $\sin\beta = \frac{1}{3} \quad \beta \in (90^\circ ; 270^\circ)$ <br> $\cos^2\beta = 1 - \sin^2\beta$ <br> $\cos^2\beta = 1 - \left(\frac{1}{3}\right)^2$ <br> $\cos^2\beta = \frac{8}{9}$ <br> $\cos\beta = \frac{-\sqrt{8}}{3} = \frac{-2\sqrt{2}}{3}$ | $\checkmark$ $x^2 + y^2 = r^2$ <br> $\checkmark$ $x = -2\sqrt{2}$ <br> $\checkmark$ answer <br> <br> $\checkmark$ square identity <br> $\checkmark$ $\cos^2\beta$ <br> $\checkmark$ answer | (3) <br> <br> (3) |
+| :--- | :--- | :--- | :--- |
+| 5.1.2 | $\sin 2\beta = 2\sin\beta\cos\beta$ <br> $= 2\left(\frac{1}{3}\right)\left(\frac{-2\sqrt{2}}{3}\right)$ <br> $= \frac{-4\sqrt{2}}{9}$ | $\checkmark$ double angle <br> $\checkmark$ substitution <br> $\checkmark$ answer | (3) |
+| 5.1.3 | $\cos(450^\circ - \beta)$ <br> $= \cos(90^\circ - \beta)$ <br> $= \sin\beta$ <br> $= \frac{1}{3}$ <br> **OR** <br> $\cos(450^\circ - \beta)$ <br> $= \cos 450^\circ\cos\beta + \sin 450^\circ\sin\beta$ <br> $= \cos 90^\circ\cos\beta + \sin 90^\circ\sin\beta$ <br> $= \sin\beta$ <br> $= \frac{1}{3}$ | $\checkmark$ $\cos(90^\circ - \beta)$ <br> $\checkmark$ co-ratio <br> $\checkmark$ answer <br> <br> $\checkmark$ expansion <br> $\checkmark$ reduction <br> $\checkmark$ answer | (3) <br> <br> (3) |
+| 5.2.1 | $\text{LHS} = \frac{\cos^4 x + \sin^2 x.\cos^2 x}{1 + \sin x}$ <br> $= \frac{\cos^2 x(\cos^2 x + \sin^2 x)}{1 + \sin x}$ <br> $= \frac{1 - \sin^2 x}{1 + \sin x}$ <br> $= \frac{(1 - \sin x)(1 + \sin x)}{1 + \sin x}$ <br> $= 1 - \sin x = \text{RHS}$ <br> **OR** <br> $\text{LHS} = \frac{\cos^4 x + \sin^2 x.\cos^2 x}{1 + \sin x}$ <br> $= \frac{\cos^4 x + (1 - \cos^2 x)\cos^2 x}{1 + \sin x}$ <br> $= \frac{\cos^4 x + \cos^2 x - \cos^4 x}{1 + \sin x}$ <br> $= \frac{1 - \sin^2 x}{1 + \sin x}$ <br> $= \frac{(1 - \sin x)(1 + \sin x)}{1 + \sin x}$ <br> $= 1 - \sin x = \text{RHS}$ <br> **OR** <br> $\text{RHS} = 1 - \sin x$ <br> $= (1 - \sin x) \times \frac{1 + \sin x}{1 + \sin x}$ <br> $= \frac{1 - \sin^2 x}{1 + \sin x}$ <br> $= \frac{\cos^2 x}{1 + \sin x}$ <br> $= \frac{\cos^2 x(\sin^2 x + \cos^2 x)}{1 + \sin x}$ <br> $= \frac{\cos^4 x + \cos^2 x.\sin^2 x}{1 + \sin x} = \text{LHS}$ | $\checkmark$ factors <br> $\checkmark$ $\sin^2 x + \cos^2 x = 1$ <br> $\checkmark$ $\cos^2 x = 1 - \sin^2 x$ <br> $\checkmark$ factors <br> <br> $\checkmark$ $\sin^2 x = 1 - \cos^2 x$ <br> $\checkmark$ expansion <br> $\checkmark$ $\cos^2 x = 1 - \sin^2 x$ <br> $\checkmark$ factors <br> <br> $\checkmark$ $\frac{1 + \sin x}{1 + \sin x}$ <br> $\checkmark$ product <br> $\checkmark$ $1 - \sin^2 x = \cos^2 x$ <br> $\checkmark$ $1 = \cos^2 x + \sin^2 x$ | (4) <br> <br> (4) <br> <br> (4) |
+
+---
+
+| 5.2.2 | $\sin x + 1 = 0$ <br> $\sin x = -1$ <br> $\text{ref. }\angle = 90^\circ$ <br> $x = 270^\circ$ | $\checkmark$ $\sin x + 1 = 0$ <br> $\checkmark$ $x = 270^\circ$ | (2) |
+| :--- | :--- | :--- | :--- |
+| 5.2.3 | $y = \frac{\cos^4 x + \sin^2 x.\cos^2 x}{1 + \sin x}$ <br> $y = 1 - \sin x$ <br> $\therefore \text{Minimum} = 0$ | $\checkmark\checkmark \text{ Minimum} = 0$ | (2) |
+| 5.3.1 | $\sin(A - B)$ <br> $= \cos[90^\circ - (A - B)]$ <br> $= \cos[(90^\circ - A) - (-B)]$ <br> $= \cos(90^\circ - A)\cos(-B) + \sin(90^\circ - A)\sin(-B)$ <br> $= \sin A\cos B + \cos A(-\sin B)$ <br> $= \sin A\cos B - \cos A\sin B$ <br> **OR** <br> $\sin(A - B)$ <br> $= \cos[90^\circ - (A - B)]$ <br> $= \cos[(90^\circ - B) - A]$ <br> $= \cos(90^\circ - B)\cos A + \sin(90^\circ - B)\sin A$ <br> $= \sin B\cos A + \cos B\sin A$ <br> $= \sin A\cos B - \cos A\sin B$ | $\checkmark$ co-ratio <br> $\checkmark$ compound angle <br> $\checkmark$ reduction <br> <br> $\checkmark$ co-ratio <br> $\checkmark$ compound angle <br> $\checkmark$ reduction | (3) <br> <br> (3) |
+| 5.3.2 | $\sin 48^\circ\cos x - \cos 48^\circ\sin x = \cos 2x$ <br> $\sin(48^\circ - x) = \cos 2x$ <br> $\sin(48^\circ - x) = \sin(90^\circ - 2x)$ <br> $48^\circ - x = 90^\circ - 2x + k.360^\circ \quad \text{or}$ <br> $48^\circ - x = 180^\circ - (90^\circ - 2x) + k.360^\circ$ <br> $x = 42^\circ + k.360^\circ \quad -3x = 42^\circ + k.360^\circ$ <br> $x = -14^\circ - k.120^\circ ; k \in \mathbb{Z}$ <br> **OR** <br> $\sin 48^\circ\cos x - \cos 48^\circ\sin x = \cos 2x$ <br> $\sin(48^\circ - x) = \cos 2x$ <br> $\cos(90^\circ - 48^\circ + x) = \cos 2x$ <br> $\cos(42^\circ + x) = \cos 2x$ <br> $42^\circ + x = 2x + k.360^\circ \quad \text{or} \quad 42^\circ + x = 360^\circ - 2x + k.360^\circ$ <br> $-x = -42^\circ + k.360^\circ \quad 3x = 318^\circ + k.360^\circ$ <br> $x = 42^\circ - k.360^\circ \quad x = 106^\circ + k.120^\circ ; k \in \mathbb{Z}$ | $\checkmark$ compound angle <br> $\checkmark$ co-ratio <br> $\checkmark$ both equations <br> $\checkmark$ general solution <br> $\checkmark$ general solution; $k \in \mathbb{Z}$ <br> <br> $\checkmark$ compound angle <br> $\checkmark$ co-ratio <br> $\checkmark$ both equations <br> $\checkmark$ general solution <br> $\checkmark$ general solution; $k \in \mathbb{Z}$ | (5) <br> <br> (5) |
+| 5.4 | $\frac{\sin 3x + \sin x}{\cos 2x + 1}$ <br> $= \frac{\sin(2x + x) + \sin(2x - x)}{\cos 2x + 1}$ <br> $= \frac{\sin 2x\cos x + \cos 2x\sin x + \sin 2x\cos x - \cos 2x\sin x}{2\cos^2 x - 1 + 1}$ <br> $= \frac{2\sin 2x\cos x}{2\cos^2 x}$ <br> $= \frac{2(2\sin x\cos x)\cos x}{2\cos^2 x}$ <br> $= \frac{4\sin x\cos^2 x}{2\cos^2 x}$ <br> $= 2\sin x$ <br> **OR** <br> $\frac{\sin 3x + \sin x}{\cos 2x + 1}$ <br> $= \frac{\sin(2x + x) + \sin x}{2\cos^2 x - 1 + 1}$ <br> $= \frac{\sin 2x\cos x + \cos 2x\sin x + \sin x}{2\cos^2 x}$ <br> $= \frac{2\sin x\cos x\cos x + \cos 2x\sin x + \sin x}{2\cos^2 x}$ <br> $= \frac{\sin x(2

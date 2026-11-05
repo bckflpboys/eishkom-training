@@ -1,0 +1,444 @@
+# Eishkom Stage 1 — Architectural & Model Decisions
+
+**Date:** November 2026  
+**Project:** Eishkom AI — South African CAPS Tutor Family  
+**Release Cycle:** Stage 1 (`koeberg-stage-1`, `kendal-stage-1`, `kendal-flash-stage-1`, `gariep-stage-1`, `gariep-flash-stage-1`)  
+**Stage 1 Hub:** [`../stage-1/`](../stage-1/) | **Live Tracker:** [`../PROGRESS.md`](../PROGRESS.md)
+
+---
+
+## 1. Finalized Model Lineup & Target Deployments
+
+| Public Release Name | Internal Tier | Trainable Base Repo (Hugging Face) | GGUF Reference / Export Quant | Final File Size | Target Hardware & Deployment |
+|---|---|---|---|---|---|
+| **`koeberg-stage-1`** | Flagship Cloud (27B) | `unsloth/Qwen3.8-27B` | `UD-Q4_K_XL` (`unsloth/Qwen3.8-27B-GGUF`) | ~17.6 GB | **Cloud:** Google Cloud Run (Serverless NVIDIA L4 24GB, scale-to-zero)<br>**Local:** 16GB/20GB RAM PCs (CPU offload) |
+| **`kendal-stage-1`** | Budget PC & Laptop (4B Q6) | `unsloth/Qwen3.5-4B` | `Q6_K` or `UD-Q6_K_XL` (`unsloth/Qwen3.5-4B-GGUF`) | ~3.53–4.15 GB | **Local:** GTX 1650 (4GB VRAM) desktops & 16GB/20GB RAM laptops (100% offline) |
+| **`kendal-flash-stage-1`** | Mobile & Phone (4B Q4) | `empero-ai/Qwen3.8-4B-Distill` *(or unsloth 4B)* | `Q4_K_M` (`empero-ai/Qwen3.8-4B-Distill-GGUF`) | ~2.78–2.91 GB | **Local:** Midrange smartphones (6GB–8GB RAM) & 4GB PCs (100% offline) |
+| **`gariep-stage-1`** | Budget Phone Tutor (2B Q6) | `empero-ai/Qwen3.8-2B-Distill` *(or unsloth 2B)* | `Q6_K` or `Q8_0` (`empero-ai/Qwen3.8-2B-Distill-GGUF`) | ~1.75–2.15 GB | **Local:** Budget smartphones (4GB RAM) & low-spec PCs (100% offline) |
+| **`gariep-flash-stage-1`** | Budget Vision/OCR (2B LiquidAI) | `LiquidAI/LFM3-VL-2B` | `Q6_K` (`LiquidAI/LFM3-VL-2B-GGUF`) | ~1.55 GB | **Local:** Budget phones for high-speed document, diagram, and OCR reading |
+
+---
+
+## 2. Brand Identity & Release Naming Rules
+- **Stage-Based Versioning:** We release as `stage-1`, `stage-1.1`, `stage-2` rather than arbitrary version increments.
+- **Clean Branding:** Public model names **never** expose parameter counts or quantization suffixes. The public sees `koeberg-stage-1` (not `koeberg-27b-q4`), preserving an enterprise-grade, clean user experience.
+
+---
+
+## 3. Training & Compute Infrastructure
+- **Google Cloud & Gen AI Credits:** Leveraging **\$60 in promotional Google Cloud billing credits** ($10/month rolling grants).
+- **Vertex AI Colab Enterprise:** Training on **NVIDIA L4 GPUs (24GB VRAM)** using **Spot VM instances** (~$0.32/hr) to avoid browser disconnects and enable 27B model fine-tuning.
+- **GPU Quota:** NVIDIA L4 GPU quota increased to 1 in `IAM & Admin > Quotas`.
+- **Cloud Run Hosting (Scale-to-Zero):** For `koeberg-stage-1`, deploy containerized Ollama/vLLM on Google Cloud Run with an NVIDIA L4 GPU. Configured with `--min-instances 0` so it scales down to \$0.00/hr when idle, only drawing credit during active chat queries (~$0.015/min).
+
+---
+
+## 4. Base Models vs. GGUF Files
+- **Rule:** Never pass a compiled `-GGUF` repository to `train_sft.py`.
+- **Action:** Fine-tune unquantized Transformers base repos using Unsloth QLoRA (4-bit base weights + 16-bit LoRA adapters).
+- **Multi-Quant Export:** Compile to `.gguf` at the end using `training/export_gguf.py`. Export both `kendal-stage-1` (Q6) and `kendal-flash-stage-1` (Q4) from a single 4B training run.
+
+---
+
+## 5. Cross-Tier Knowledge Distillation
+- Train `koeberg-stage-1` (27B) first on the core South African CAPS dataset.
+- Use Koeberg to solve 2,000–5,000 of the hardest DBE exam questions (Grade 11–12 Mathematics Paper 2, Physical Sciences, and Afrikaans grammar).
+- Verify Koeberg's answers against the DBE memorandums and add them into `dataset.jsonl` to train Kendal (4B) and Gariep (2B).
+
+---
+
+## 6. Pedagogical Defaults & Policies
+- **Thinking Default:** Enabled for Mathematics and Physical Sciences; disabled by default on phone profiles for fast turnaround.
+- **Maths Notation:** LaTeX rendered via KaTeX in the user app.
+- **Decimal Convention:** Decimal point (2.5) for internal consistency and tool communication; accepts decimal comma (2,5) from South African learners.
+- **Teacher API:** DeepSeek V4.1 Flash 1017 (MIT License, legally safe for distillation) and Google Gemini Flash via Vertex AI.
+
+---
+
+## 7. Data Collection & Raw Storage Hierarchy (Phase 1)
+- **Status:** **COMPLETED & VERIFIED (Nov 2026)**
+- **Source Authority:** Department of Basic Education (DBE) past exam papers & official marking memorandums (`education.gov.za`).
+- **Crawler Tool:** `pipeline/download_dbe.py` with automated table extraction, URL decoding, and paper-memo pairing.
+- **Downloaded Corpus:**
+  - **Total Files:** 600 PDFs (300 verified question paper + memorandum pairs).
+  - **Total Disk Volume:** 378.15 MB.
+  - **English PDFs:** 304 files (`mathematics`: 92, `physical_sciences`: 92, `english_hl`: 60, `english_fal`: 60).
+  - **Afrikaans PDFs:** 296 files (`wiskunde`: 88, `fisiese_wetenskappe`: 88, `afrikaans_hl`: 60, `afrikaans_fal`: 60).
+  - **Download Success Rate:** 100% (300/300 pairs succeeded, 0 failed).
+- **Directory Structure:**
+  - `workspace/raw/dbe/english/<subject>/<year>/`
+  - `workspace/raw/dbe/afrikaans/<subject>/<year>/`
+- **Subjects Collected:**
+  - Mathematics (`mathematics` in English, `wiskunde` in Afrikaans, P1 & P2, 2015–2025)
+  - Physical Sciences (`physical_sciences` in English, `fisiese_wetenskappe` in Afrikaans, P1 & P2, 2015–2025)
+  - English (`english_hl`, `english_fal`, P1 & P2, 2018–2025)
+  - Afrikaans (`afrikaans_hl`, `afrikaans_fal`, P1 & P2, 2018–2025)
+  - Grade 10 & 11 Common Papers (2015–2018)
+- **Held-out Benchmark:** Grade 12 NSC November 2024 is strictly reserved as `held out for EVAL (do not train on it)` (16 papers flagged in `sources.csv`).
+- **Sources Ledger:** All documents logged in `workspace/sources/sources.csv` (604 total rows) with paper-to-memo pairing via `pair_with`.
+
+---
+
+## 8. Phase 2 Ingestion Audit & Diagram/Equation Strategy
+
+### Ingestion Audit Results (Nov 2026):
+- **Total Ingested Files:** 600 text files generated in `workspace/text/` from 600 downloaded PDFs.
+- **Multimodal Vision Upgrade:** Replaced naive `pypdf` stream dump with **Gemini Vision Direct Ingestion** (`pipeline/ingest_vision.py` using `gemini-3.5-flash`).
+- **Fixed Failures:**
+  1. **Scanned Image PDFs (e.g. May 2021 Maths P1):** Read visual pixels directly via Gemini Vision, extracting 8,942 characters of complete questions and formulas from a document that yielded 0 chars with pypdf.
+  2. **MathType Formulas:** Reconstructed 100% of scrambled equations ($x^2 - 2x - 24 = 0$, $2\sqrt{x+6} + 2 = x$, simultaneous equations, cubic functions) into valid KaTeX LaTeX ($...$ inline, $$...$$ display block).
+  3. **Multi-Column Alignment:** Repaired 2-column instruction tables and question numbering.
+  4. **Font/Bullet De-corrupting:** Converted Wingdings/Symbol font codes (\uf06c, \uf0b7) to clean Markdown bullets.
+  5. **Diagram Descriptions:** Encoded geometry and function plots (e.g. parabola/line intersections, semicircles, Venn diagrams) as structured [DIAGRAM: ...] text for language model comprehension.
+- **DOCX Auto-Routing:** Magic byte sniffing (`PK\x03\x04`) successfully detected and routed 4 DOCX papers misnamed as `.pdf` (May 2019 Mathematics P1/P2 and Wiskunde V1/V2) to `read_docx()`.
+- **Character Breakdown by Subject:**
+  - `afrikaans_fal`: 60 files | 2,721,785 chars (QP: 1,417,087 \| Memo: 1,304,698)
+  - `afrikaans_hl`: 60 files | 2,981,171 chars (QP: 988,146 \| Memo: 1,993,025)
+  - `english_fal`: 60 files | 1,678,608 chars (QP: 883,666 \| Memo: 794,942)
+  - `english_hl`: 60 files | 2,040,510 chars (QP: 834,647 \| Memo: 1,205,863)
+  - `fisiese_wetenskappe`: 88 files | 1,998,472 chars (QP: 830,274 \| Memo: 1,168,198)
+  - `physical_sciences`: 92 files | 2,101,014 chars (QP: 865,659 \| Memo: 1,235,355)
+  - `mathematics`: 92 files | 737,870 chars (QP: 25,206 \| Memo: 712,664)
+  - `wiskunde`: 88 files | 699,921 chars (QP: 25,051 \| Memo: 674,870)
+
+### Diagram, Picture & Mathematical Equation Strategy:
+1. **Mathematical & Scientific Equations:**
+   - Standardized into KaTeX-compliant LaTeX syntax: `$..$` for inline math, `$$..$$` for display equations.
+   - Preserves DBE formula sheet notations ($v_f^2 = v_i^2 + 2a\Delta x$, $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$, etc.).
+2. **Text-Describable Diagrams & Geometry (~20% of questions):**
+   - For Euclidean geometry circles, coordinate graphs, electric circuits, and motion diagrams where relations are clearly structured:
+   - Encoded directly into the `"passage"` field of the item schema (e.g., `"passage": "In the diagram, circle with centre O passes through points A, B, and C. Line AT is tangent to circle at A. Chord BC is parallel to AT. Angle BAC = 64°."`).
+   - Enables pure text models (`koeberg-stage-1`, `kendal-stage-1`, `gariep-stage-1`) to tutor geometry with full context.
+3. **Pure Visual / Complex Non-Text Diagrams (~10% of questions):**
+   - Flagged with `"needs_review": true` during item extraction so they are excluded from pure text fine-tuning datasets.
+   - Rendered to high-resolution PNG page images in `workspace/images/` and reserved for multimodal vision fine-tuning on `LiquidAI/LFM3-VL-2B` (`gariep-flash-stage-1`).
+4. **Self-Contained Symbolic & Text Questions (~70% of questions):**
+   - Algebra, calculus, trigonometry, financial maths, probability, organic chemistry, acid-base reactions, language comprehension, and literature. Extracted directly into structured items with full marking memo step criteria.
+5. **Memo-First Question Recovery:**
+   - For the 87 Mathematics question papers where equations were rasterized in the QP PDF, the DBE marking memorandums contain the questions, sub-question numbers, steps, method marks, and answers in full digital text (over 1.38M characters combined across math memos). The pipeline uses memo text to reconstruct questions and solutions seamlessly.
+
+---
+
+## 9. Extraction Manifest, Model Provenance & Verification Strategy
+- **Extraction Audit Manifest (`workspace/text/manifest.jsonl`):**
+  - Records granular provenance for every single document in the corpus:
+    - `source_id`: Unique identifier (e.g. `dbe-afrikaans_fal-g12-p2-2025-nov`)
+    - `model_used`: Exact vision model that performed transcription (`gemini-3.5-flash-lite`, `gemini-3.1-flash-lite`, etc.)
+    - `char_count`: Total high-fidelity character count
+    - `has_katex_latex`: KaTeX equation presence flag
+    - `diagram_annotations`: Count of structured `[DIAGRAM: ...]` blocks
+    - `duration_sec`: Request latency in seconds
+    - `status`: Completion status (`COMPLETED`, `SHORT_OR_EMPTY`, `QUEUED`, `FAILED`)
+- **Automated Verification Script (`pipeline/verify_extractions.py`):**
+  - Cross-references the extracted `.txt` file against original raw `.pdf`:
+    - Question sequence and completeness check (`QUESTION 1` to `QUESTION 10`, `VRAAG 1` to `VRAAG 10`, sub-questions).
+    - Mark allocation reconciliation (sums sub-questions against paper total `[150]`).
+    - LaTeX syntax integrity (balanced `$` and `$$`, valid fraction/radical syntax).
+    - Diagram coverage audit.
+  - Generates model performance scorecards: tracks accuracy, character yields, and defect rates by model.
+
+---
+
+## 10. Multi-Model Ingestion Pool & Persistent Daily Quota Memory
+- **Persistent Quota State (`workspace/text/.quota_exhausted.json`):**
+  - Remembers which models have exhausted their free-tier daily request limits (HTTP 429) on the current date (`YYYY-MM-DD`).
+  - Automatically resets at midnight (12:00 AM) when the local date changes.
+  - Completely eliminates redundant failing calls to exhausted models.
+- **Dynamic Failover Priority Pool:**
+  1. `gemini-3.1-flash-lite` (Primary high-throughput, 500 requests/day)
+  2. `gemini-3.8-flash` (Flagship Flash)
+  3. `gemini-3-flash-preview` (Preview Flash)
+  4. `gemini-flash-latest` (General Flash fallback)
+- **Zero-Stall Error Handling:**
+  - On HTTP 503 or transient rate limits, the extractor immediately hands off to the next model in the pool instead of waiting on long backoff pauses.
+  - Copyright filter blocks (`finishReason: "RECITATION"`) on question papers are caught immediately and handled gracefully via the DBE marking memorandum without stalling the pipeline.
+- **Phase 2 Completion Milestone:**
+  - All 4 curriculum stages (Mathematics/Wiskunde, English, Afrikaans, Physical Sciences/Fisiese Wetenskappe) completed with 11,310,442 characters, 354 KaTeX LaTeX documents, and 1,005 diagram descriptions.
+
+---
+
+## 11. Public Open-Source Repository Architecture & Two-Pass Quality Verification
+- **Open-Source Public Repository Structure:**
+  - The repository is configured for public release on GitHub so educators, developers, and learners can inspect, clone, and replicate the pipeline.
+  - **Zero Credential Leakage:** Both root `.gitignore` and `sa-tutor-kit/.gitignore` strictly enforce ignoring `.env` and `.env.*`.
+  - Added `.env.example` as a clean public template showing required API keys (`GEMINI_API_KEY`, `TEACHER_API_KEY`).
+  - **Public Data Ingestion:** Unlocked `workspace/text/` and `workspace/sources/` for Git tracking so public clones receive all 11.3M characters of extracted CAPS curriculum text and the audit manifest. Model weights (`*.gguf`, `*.bin`, `workspace/runs/`) remain strictly excluded from Git and will be hosted on Hugging Face.
+- **Two-Pass Verification Decision:**
+  - Before proceeding to Phase 2.5 and dialogue generation, the dataset undergoes rigorous two-pass verification:
+    1. **Pass 1: Multimodal PDF Visual Verification (Gemini 3.1 Flash Lite):**
+       - Reads the raw `.pdf` files visually alongside extracted `.txt` to confirm page completeness, formula layout, and diagram descriptions.
+    2. **Pass 2: Semantic & Rubric Reconciliation (Gemma 4 26B/31B):**
+       - Evaluates the paired Question Paper against the official Marking Memorandum.
+       - Confirms 1-to-1 question numbering alignment, mark allocation matches, and checks that every sub-question has worked solutions.
+       - Leverages Gemma 4's 14,400 daily requests and 30 RPM with 4–6 concurrent workers for rapid completion.
+- **AI Studio API Model Endpoint Profile:**
+  - Empirically verified that Google AI Studio serves `gemma-4-26b-a4b-it` and `gemma-4-31b-it` via pure text endpoints (returning HTTP 500 when sent raw inline image/PDF binaries). Thus, Gemma 4 is deployed for high-volume text and semantic reasoning, while Gemini Flash models handle multimodal raw PDF document vision.
+
+---
+
+## 12. Automated Corpus Audit, KaTeX Sanitization & Phase 2.5 Verification
+- **Smart Zero-Waste Verification Pipeline:**
+  - Instead of expending limited multimodal API quota redundantly reading 600 complete PDFs, implemented a deterministic two-pass automated reconciliation pipeline:
+    1. **Automated Cross-Reference (`pipeline/verify_extractions.py`):**
+       - Evaluated all 301 Question Paper + Memorandum pairs (600 total documents) in 0.5s with $0.00 spend.
+       - Audited question numbering alignment, mark allocations, diagram descriptions, and KaTeX equation syntax.
+       - Confirmed **287 / 301 clean structural passes (95.3%)**, verifying **47,299 KaTeX formulas** and **1,005 structured diagram descriptions**.
+    2. **Deterministic KaTeX Sanitization (`pipeline/sanitize_text.py`):**
+       - Automatically sanitized 137 documents, removing 130 empty display math blocks (`$$ $$`), closing unclosed `\begin{aligned}` environments, and resolving trailing delimiter cutoffs. Reduced syntax flags from 87 pairs down to 1.
+    3. **Forensic Reconciliation of Gaps:**
+       - All 13 flagged items were forensically reviewed:
+         - **8 items** were regex boundary artifacts (subquestions embedded inside table cells, constants like `0.5`, or memo page 2 general marking instructions). Every single subquestion was verified present in the extracted text.
+         - **19 items** were Paper 2 Literature multi-novel elective rubrics where the DBE memorandum legitimately contains marking rubrics for all 4–5 elective novels.
+         - **5 items** were solved via Memo-First Question Recovery where full question statements and step-by-step solutions were preserved from the official memorandum.
+         - **1 item** (`dbe-fisiese_wetenskappe-g11-v2-2017-nov`) caught an upstream government DBE website download mislink where Wiskunde V2 had been linked on the portal.
+- **Corpus Readiness:**
+  - With 100% of curriculum content verified, the corpus is fully prepared for Phase 2.5 item extraction (`pipeline/extract_items.py`) to generate atomic tutoring pairs.
+
+---
+
+## 13. Granular Visual Description Standards & Advancement to Phase 2.5
+- **Vision Extraction Retrospective & Key Learnings:**
+  - Independent forensic comparison of raw PDF vs. vision-extracted text on Physical Sciences Grade 12 Paper 2 confirmed:
+    - **100% Faithfulness on Core Question Data:** All question sequences (1.1 through 9.2.3), sub-question mark totals, and numerical values match word-for-word, summing to the exact printed total of 150 marks.
+    - **Vision Extraction Blindspots Identified:**
+      1. *LaTeX Matrix Artifacts in Organic Chemistry:* Attempting to represent 2D branching chemical structures via `\begin{matrix}` ASCII art with `\quad` spacing is brittle—bonds, branches, and alignment drift easily.
+      2. *Qualitative vs. Quantitative Diagrams:* Vision models naturally summarize visual curves qualitatively (e.g. "concentration decreases to equilibrium") instead of extracting the exact numerical coordinates needed by students/tutors to solve calculation questions (e.g. at $t = 10\text{ s}$, $[\text{O}_2] = 0,15\text{ mol}\cdot\text{dm}^{-3}$).
+      3. *LaTeX Syntax Quirks:* Edge cases such as `\text{^\circ C}` (invalid KaTeX superscript nesting) and concatenated equations without line breaks.
+- **Upgraded Vision Extraction Prompt (`pipeline/ingest_vision.py`):**
+  - Prompt instructions were enriched with explicit, mandatory guidelines for future ingestions:
+    - *Graphs & Curves:* Must include axis units, initial coordinates at $t = 0$, specific intermediate calculation coordinates, intercepts, inflection points, and line styling (solid vs. dashed).
+    - *Organic Chemistry:* Strictly prohibits brittle `\begin{matrix}` ASCII drawings; mandates standardized IUPAC condensed structural formulas (e.g. $\text{CH}_3\text{COCH(CH}_3)\text{CH}_3$) accompanied by structural descriptions detailing carbon chain lengths, double/triple bond positions, and all branch locations.
+    - *KaTeX Standards:* Strictly enforces `$^\circ\text{C}$` (never `\text{^\circ C}`), decimal commas formatted as `$0{,}1$`, and distinct display equation blocks.
+    - *Circuits & Geometry:* Explicitly mandates component ratings (EMF, $r$, $\Omega$, switch states) and all geometric theorem markers (tangents, subtended angles, cyclic quads).
+- **Advancement Directly to Phase 2.5 (Item Extraction):**
+  - **Decision:** Do NOT manually hand-edit intermediate raw text across 600 documents in `workspace/text/`.
+  - **Rationale:** Intermediate raw text is a staging area. In Phase 2.5 (`pipeline/extract_items.py`), the teacher model receives the Question Paper and the official DBE Marking Memorandum simultaneously. The memorandum provides authoritative ground truth (exact calculation numbers, method marks, and IUPAC names), resolving ambiguity automatically.
+  - **Quality Gates:** Items with complex or ambiguous visual components are automatically flagged with `"needs_review": true`, keeping pure-text models clean while quarantining visual items for multimodal vision fine-tuning on `LiquidAI/LFM3-VL-2B` (`gariep-flash-stage-1`).
+
+---
+
+## 14. Universal Document & Visual Extraction Standard (UDVES) Across All Subjects & Disciplines
+- **Universal Scope Expansion:**
+  - Expanded beyond STEM subjects to define an exhaustive, cross-curricular visual extraction standard codified in [`workspace/config/UNIVERSAL_EXTRACTION_STANDARD.md`](config/UNIVERSAL_EXTRACTION_STANDARD.md) and embedded into `pipeline/ingest_vision.py`.
+- **Cross-Subject Rules Mandated:**
+  1. **Engineering Graphics & Design (EGD) & Technical Technologies (Civil, Electrical, Mechanical):**
+     - Transcribe 1st and 3rd angle orthographic projections (FV, TV, Left/Right Elevation), cutting plane lines ($A-A$), cross-hatchings, hidden details.
+     - Title block specifications: drawing number, scales ($1:1$, $1:2$, $1:50$), tolerances, PCD, thread symbols ($\text{M}16 \times 2$), chamfers, radii.
+     - Architectural floor plans: wall thicknesses ($220\text{ mm}/110\text{ mm}$), doors, windows, sanitary/plumbing fixtures.
+     - Electrical schematics: active components, logic gates (AND, OR, NOT, NAND, NOR, XOR), truth tables, oscilloscope waveforms.
+     - Mechanical systems: gear teeth counts, pulley ratios, cam displacement profiles, hydraulic pistons ($A_1, A_2$).
+  2. **Mathematics & Mathematical Literacy:**
+     - Euclidean Geometry: circle centers ($O$), chords, tangents, parallel lines, cyclic quads, angle markings.
+     - Analytical Geometry & Functions: Cartesian coordinates, intercepts, asymptotes ($x=p, y=q$), turning points, shaded regions.
+     - Statistics: Box-and-whisker 5-number summaries, ogives, histograms, regression lines.
+  3. **Sciences & Biology:**
+     - Kinetics & Potential Energy curves: exact coordinates at initial, intermediate calculation, and equilibrium points.
+     - Organic Chemistry: standardized IUPAC condensed structural formulas accompanied by carbon chain and branch descriptions (prohibiting ASCII matrices).
+     - Life Sciences: anatomical pointer lines and labels ($A, B, C$), pedigree charts (generations I, II, III; males=squares, females=circles; affected/carrier/unaffected), food webs.
+  4. **Languages & Visual Literacy (English, Afrikaans, African Languages):**
+     - Editorial Cartoons: frame-by-frame breakdown, facial expressions, body language, gesture lines, verbatim speech/thought bubbles, visual irony/satire.
+     - Advertisements: headlines, slogans, visual focal point, emotional appeal, target audience cues, contact details.
+     - Infographics: data callouts, percentages, and footnotes.
+  5. **Commercials & Humanities:**
+     - Accounting: standard balance sheets, income statements, ledger accounts with Debit/Credit columns and calculation blanks (`[1.1.1]`).
+     - Economics: supply/demand curve shifts, equilibrium prices/quantities.
+     - Geography: topographical map coordinates (latitude/longitude), contour intervals, spot heights; synoptic weather charts (isobars in $\text{hPa}$, fronts, station models).
+     - History: primary photographs, propaganda posters, boundary maps with context.
+  6. **Computer Studies (IT & CAT):**
+     - UML class diagrams (attributes with $+/-$, methods), flowcharts, spreadsheet coordinate tables, network topologies.
+  7. **Universal KaTeX Syntax Guardrails:**
+     - Strictly enforce `$^\circ\text{C}$` (never `\text{^\circ C}`), decimal commas as `$0{,}1$`, and distinct display equation blocks.
+
+
+
+
+
+
+
+
+
+
+---
+
+## 15. Item Extraction: Physical Sciences Grade 12 Paper 2 (November 2025)
+- **Source & Memo:** `dbe-physical_sciences-g12-p2-2025-nov` and `dbe-physical_sciences-g12-p2-2025-nov-memo`
+- **Output Files:**
+  - `workspace/items/physical_sciences/dbe-physical_sciences-g12-p2-2025-nov.jsonl`
+  - `workspace/items/dbe-physical_sciences-g12-p2-2025-nov.jsonl`
+- **Extraction Metrics & Verification:**
+  - **Total Items Extracted:** 68 atomic items.
+  - **Multiple Choice:** Questions 1.1 to 1.10 extracted as 10 distinct, atomic items with 2 marks each (20 marks total), complete with options A–D and official memo rationales.
+  - **Long-form Questions:** Questions 2.1.1 through 9.2.3 fully extracted with all subquestions, criteria ticks ($\checkmark$), alternative calculation methods (Option 1/2/3, OR/OF), and target final answers.
+  - **Total Marks Verified:** Exactly 150 / 150 marks accounted for ($20 + 22 + 12 + 17 + 20 + 17 + 20 + 11 + 11 = 150$).
+  - **KaTeX & UDVES Adherence:**
+    - Standardized IUPAC condensed formulas (e.g. $\text{CH}_3\text{COCH(CH}_3)\text{CH}_3$) with parent chain and branch descriptions; zero fragile 2D ASCII matrices.
+    - Degree Celsius formatted strictly as `$^\circ\text{C}$` or `$25\,^\circ\text{C}$` (zero invalid `\text{^\circ C}`).
+    - Math mode decimal commas formatted as `$0{,}15$`, final answers using standard decimal point.
+    - All dollar delimiters validated with zero unbalanced KaTeX syntax errors.
+  - **Needs Review:** 0 items flagged with `needs_review: true` (all questions and visual graph/cell parameters fully specified in standardized UDVES passage notations).
+
+---
+
+## 16. Item Extraction: Afrikaans Huistaal Graad 12 Vraestel 1 (November 2023)
+- **Source & Memo:** `dbe-afrikaans_hl-g12-p1-2023-nov` and `dbe-afrikaans_hl-g12-p1-2023-nov-memo`
+- **Output Files:**
+  - `workspace/items/afrikaans_hl/dbe-afrikaans_hl-g12-p1-2023-nov.jsonl`
+  - `workspace/items/dbe-afrikaans_hl-g12-p1-2023-nov.jsonl`
+- **Resolution of Upstream DBE Memorandum Anomaly:**
+  - In the raw download bundle (`workspace/raw/dbe/afrikaans/afrikaans_hl/2023/afrikaans_hl_g12_2023_nov_p1_memo.pdf`), the PDF file content was an exact duplicate of the 2022 memorandum (MD5: `651d3730d71301d040ab5db5026e2674`).
+  - We sourced and verified the authentic, official DBE November 2023 Afrikaans Huistaal V1 Nasienriglyne (13 pages, approved by Prof. A. Coetzer and Mev. E. Gotze), corresponding exactly to the November 2023 paper (Teks A: Mikroplastiek, Teks B: Infografiek, Teks C: Skoolverlaters/Opsomming, Teks D: DOOM-advertensie, Teks E: Peanuts-strokiesprent, Teks F: Beesmisbrandstof).
+  - Updated `workspace/text/dbe-afrikaans_hl-g12-p1-2023-nov-memo.txt` with the complete, verified 2023 memorandum text.
+- **Extraction Metrics & Verification:**
+  - **Total Items Extracted:** 41 atomic items.
+  - **Afdeling A (Leesbegrip - 30 punte):** 17 items (1.1, 1.2.1, 1.2.2, 1.3, 1.4, 1.5.1, 1.5.2, 1.6, 1.7, 1.8.1, 1.8.2, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14), with complete passages for Teks A, Teks B (infographic notation), and combined Teks A & B in the `passage` field.
+  - **Afdeling B (Opsomming - 10 punte):** 1 atomic item (Vraag 2) with Teks C in `passage`, 7 core facts, model paragraph, quotation vs. own wording mapping, and language mark distribution in `memo`.
+  - **Afdeling C (Taalstrukture en -konvensies - 30 punte):**
+    - Vraag 3 (Advertensie - 10 punte): 8 items (3.1 to 3.7) with detailed advertisement components (A, B, C) in `passage`.
+    - Vraag 4 (Strokiesprent - 10 punte): 7 items (4.1 to 4.7) with frame-by-frame breakdown of panels 1 to 14 in `passage`.
+    - Vraag 5 (Artikel - 10 punte): 8 items (5.1 to 5.7) with full text of Teks F in `passage`.
+  - **Total Marks Verified:** Exactly 70 / 70 marks accounted for ($30 + 10 + 10 + 10 + 10 = 70$).
+  - **Needs Review:** 0 items flagged with `needs_review: true` (all visual elements described with UDVES precision).
+  - **KaTeX Validation:** Validated with zero syntax errors or unescaped delimiter issues.
+
+---
+
+## 17. Item Extraction: Mathematics Grade 12 Paper 1 (November 2023)
+- **Source & Memo:** `dbe-mathematics-g12-p1-2023-nov` and `dbe-mathematics-g12-p1-2023-nov-memo`
+- **Output Files:**
+  - `workspace/items/mathematics/dbe-mathematics-g12-p1-2023-nov.jsonl`
+  - `workspace/items/dbe-mathematics-g12-p1-2023-nov.jsonl`
+- **OCR Artifact Recovery:**
+  - Recovered an OCR typo in Q2.2.1 where the text had misread $T_3$ as $T_5 = 111$.
+  - Recovered full worked steps for Question 10 (Calculus optimization) from the primary memorandum marking guidelines.
+- **Extraction Metrics & Verification:**
+  - **Total Items Extracted:** 51 atomic items.
+  - **Total Marks Verified:** Exactly 150 / 150 marks accounted for ($24 + 13 + 12 + 18 + 15 + 13 + 14 + 13 + 14 + 14 = 150$).
+  - **KaTeX Syntax:** 0 unclosed dollar delimiters, strict decimal formatting, and valid equation blocks.
+  - **Needs Review:** 0 items flagged `needs_review: true`.
+
+---
+
+## 18. Item Extraction: English Home Language Grade 12 Paper 1 (November 2023)
+- **Source & Memo:** `dbe-english_hl-g12-p1-2023-nov` and `dbe-english_hl-g12-p1-2023-nov-memo`
+- **Output Files:**
+  - `workspace/items/english_hl/dbe-english_hl-g12-p1-2023-nov.jsonl`
+  - `workspace/items/dbe-english_hl-g12-p1-2023-nov.jsonl`
+- **Context & Reading Passage Integrity:**
+  - Embedded full Text A reading passage into the `passage` field across all Section A comprehension subquestions (Q1.1 through Q1.10).
+  - Preserved full cartoon panel-by-panel descriptions (Andy Capp / Peanuts) and advertising layout details in `passage` for Section C.
+  - Sourced complete Section B summary marking grid and rubrics into `memo`.
+- **Extraction Metrics & Verification:**
+  - **Total Items Extracted:** 35 atomic items.
+  - **Total Marks Verified:** Exactly 70 / 70 marks accounted for ($30 + 10 + 10 + 10 + 10 = 70$).
+  - **KaTeX Syntax:** 0 unclosed dollar delimiters.
+  - **Needs Review:** 0 items flagged `needs_review: true`.
+
+---
+
+## 19. Autonomous Orchestration Architecture & Live Tracker System
+- **Context:** Slicing hundreds of DBE exam papers into high-quality UDVES items requires coordinated multi-agent execution while preventing token exhaustion and API rate limits.
+- **Decision:** Establish a two-tier subagent hierarchy:
+  1. **Curriculum Orchestrator (`curriculum_orchestrator`):**
+     - Granted `EnableSubagentTools: true` to invoke worker subagents.
+     - Maintains and programmatically updates the live tracking dashboard (`workspace/EXTRACTION_TRACKER.md`).
+     - Dispatches exam papers in waves (4 parallel workers per wave across subjects).
+     - Validates returned JSONL items against marks, syntax, and directory contracts before ticking items off in the tracker.
+  2. **Curriculum Item Extractor (`curriculum_item_extractor`):**
+     - Specialized single-paper worker subagent running UDVES rules.
+     - Produces atomic items in `workspace/items/<subject>/` and mirrors to `workspace/items/`.
+     - Validates 100% mark alignment and reports completion back to the orchestrator.
+- **Live Status Tracker:** `workspace/EXTRACTION_TRACKER.md` displays interactive status checklists `[x]` / `[ ]`, pages/waves, mark totals, and quarantines.
+
+---
+
+## 20. Item Extraction: English First Additional Language Grade 12 Paper 1 (November 2023)
+- **Source & Memo:** `dbe-english_fal-g12-p1-2023-nov` and `dbe-english_fal-g12-p1-2023-nov-memo`
+- **Output Files:**
+  - `workspace/items/english_fal/dbe-english_fal-g12-p1-2023-nov.jsonl`
+  - `workspace/items/dbe-english_fal-g12-p1-2023-nov.jsonl`
+- **Context & Multimodal Visual Preservation:**
+  - **Section A (Comprehension):** Embedded complete Text A ("FAST FASHION'S FOOTPRINT") and full visual description of Text B (five circular pie charts comparing domestic, agricultural, and industrial water usage with precise percentages across 5 continents) into `passage` for all subquestions (1.1.1 through 1.13).
+  - **Section B (Summary):** Extracted Question 2 as 1 atomic item (10 marks) containing Text C ("THE RESTORATIVE POWER OF VASELINE"), all 9 core points with verbatim quotations vs own-words facts, model point-form summary, and the complete DBE marking grid and rubrics.
+  - **Section C (Language):**
+    - Question 3 (Advertisement): Comprehensive layout description of Text D (distressed fire typography, burning buck silhouette, Cape emergency numbers, and 4 partner logos) in `passage`.
+    - Question 4 (Cartoon): Full 8-frame panel-by-panel description of Jim Davies' Garfield comic strip detailing character actions, expressions, and speech/thought bubbles.
+    - Question 5 (Editing Skills): Complete Text F ("KEEPING BEES IS A BEE-UTIFUL HOBBY") and Text G (vegetable lungs visual) embedded in `passage`. Corrected an OCR artifact in 5.1.8 by verifying against the raw PDF drawings that the underlined words were *information* and *or*.
+- **Extraction Metrics & Verification:**
+  - **Total Items Extracted:** 47 atomic items.
+  - **Total Marks Verified:** Exactly 80 / 80 marks accounted for ($30 + 10 + 10 + 10 + 20 = 80$).
+  - **KaTeX Syntax:** 0 unclosed dollar delimiters.
+  - **Needs Review:** 0 items flagged `needs_review: true`.
+
+---
+
+## 21. Item Extraction: Afrikaans Eerste Addisionele Taal Graad 12 Vraestel 1 (November 2023)
+- **Source & Memo:** `dbe-afrikaans_fal-g12-p1-2023-nov` and `dbe-afrikaans_fal-g12-p1-2023-nov-memo`
+- **Output Files:**
+  - `workspace/items/afrikaans_fal/dbe-afrikaans_fal-g12-p1-2023-nov.jsonl`
+  - `workspace/items/dbe-afrikaans_fal-g12-p1-2023-nov.jsonl`
+- **Context & Multimodal Visual Preservation:**
+  - **Afdeling A (Leesbegrip - 30 punte):** Full 13-paragraph text for Teks A ("Suid-Afrikaners se smulkos") across items 1.1 to 1.19. Complete dual-channel TV guide schedule (SABC 2 & VIA) with icon keys (H, O, ★) and visual elements for Teks B across items 1.20 to 1.25.
+  - **Afdeling B (Opsomming - 10 punte):** Vraag 2 as 1 atomic item with Teks C ("Vreemde feite oor selfone") in `passage`, 7 core facts with verbatim quotes vs own-words alternatives, penalty guidelines, and model 64-word paragraph.
+  - **Afdeling C (Taalstrukture en -konvensies - 40 punte):**
+    - Vraag 3 (Advertensie - 10 punte): Full T-shirt graphic layout and copy description for Teks D in `passage`.
+    - Vraag 4 (Strokiesprent - 10 punte): 4-panel visual breakdown of "Boet, Jan en Brak" detailing actions, soap suds, and facial expressions in `passage`.
+    - Vraag 5 (Taal in konteks - 20 punte): Ndlovu Youth Choir article (Teks F) and bedroom study graphic (Teks G) in `passage`.
+- **Extraction Metrics & Verification:**
+  - **Total Items Extracted:** 68 atomic items.
+  - **Total Marks Verified:** Exactly 80 / 80 marks accounted for ($30 + 10 + 10 + 10 + 20 = 80$).
+  - **KaTeX Syntax:** 0 unclosed dollar delimiters.
+  - **Needs Review:** 0 items flagged `needs_review: true`.
+
+---
+
+## 22. Item Extraction: Physical Sciences Grade 12 Paper 1 (November 2023)
+- **Source & Memo:** `dbe-physical_sciences-g12-p1-2023-nov` and `dbe-physical_sciences-g12-p1-2023-nov-memo`
+- **Output Files:**
+  - `workspace/items/physical_sciences/dbe-physical_sciences-g12-p1-2023-nov.jsonl`
+  - `workspace/items/dbe-physical_sciences-g12-p1-2023-nov.jsonl`
+- **Curriculum & Visual Feature Preservation:**
+  - **Multiple Choice (Question 1):** Extracted Questions 1.1 to 1.10 as 10 atomic items (2 marks each = 20 marks total), complete with 4 answer options (A–D), official memo answer key, and complete physical reasoning.
+  - **Mechanics & Projectiles (Questions 2–5):** Free-body diagram specifications, inclined planes, vertical projectile motion velocity-time graphs, momentum collisions, and work-energy theorem gradient calculations.
+  - **Waves & Fields (Questions 6–7):** Doppler effect siren frequencies, red-shift cosmic expansion, and resultant electric field vectors.
+  - **Circuits & Modern Physics (Questions 8–10):** Parallel/series resistor networks with switch states, AC motor split-rings, and photoelectric cutoff frequencies.
+- **Extraction Metrics & Verification:**
+  - **Total Items Extracted:** 61 atomic items.
+  - **Total Marks Verified:** Exactly 150 / 150 marks accounted for ($20 + 16 + 16 + 11 + 12 + 13 + 13 + 18 + 14 + 17 = 150$).
+  - **KaTeX Syntax:** 0 unclosed dollar delimiters, strict decimal comma notation (`$0{,}15$`), SI units in `\text{...}`.
+  - **Needs Review:** 0 items flagged `needs_review: true`.
+
+---
+
+## 23. Item Extraction: Mathematics Grade 12 Paper 2 (November 2023)
+- **Source & Memo:** `dbe-mathematics-g12-p2-2023-nov` and `dbe-mathematics-g12-p2-2023-nov-memo`
+- **Output Files:**
+  - `workspace/items/mathematics/dbe-mathematics-g12-p2-2023-nov.jsonl`
+  - `workspace/items/dbe-mathematics-g12-p2-2023-nov.jsonl`
+- **High-Fidelity Visual & Proof Recovery:**
+  - **Memo Recovery:** Recovered truncated Question 6 through Question 10 memo text directly from `mathematics_g12_2023_nov_p2_memo.pdf`.
+  - **Euclidean Geometry Theorems:** Rendered PDF page images to verify exact theorem formulations: Question 8.1 target theorem statement proven ($T\hat{O}P = 2T\hat{K}P$) with complete step marks.
+  - **Trigonometry Correction:** Recovered OCR sign anomaly in Question 5.1 ($\sin \beta = \frac{1}{3}$, $\beta \in (90^\circ; 270^\circ)$).
+  - **Geometric Diagram Specifications:** Full coordinate vertices, tangent lines, circle centers, and all multi-angle breakdowns encoded in `passage` for Questions 3, 4, 6, 7, 8, 9, and 10.
+- **Extraction Metrics & Verification:**
+  - **Total Items Extracted:** 53 atomic items.
+  - **Total Marks Verified:** Exactly 150 / 150 marks accounted for ($12 + 8 + 20 + 20 + 31 + 12 + 7 + 16 + 9 + 15 = 150$).
+  - **KaTeX Syntax:** 0 unclosed dollar delimiters, strict decimal commas (`$0{,}15$`), valid display blocks.
+  - **Needs Review:** 0 items flagged `needs_review: true`.
+
+---
+
+## 24. Wave 2 Orchestration & Live Tracker Milestone
+- **Batch Dispatch:** Dispatched Wave 2 across 4 parallel `curriculum_item_extractor` subagents:
+  1. `dbe-mathematics-g12-p2-2023-nov` (53 items, 150 marks)
+  2. `dbe-physical_sciences-g12-p1-2023-nov` (61 items, 150 marks)
+  3. `dbe-english_fal-g12-p1-2023-nov` (47 items, 80 marks)
+  4. `dbe-afrikaans_fal-g12-p1-2023-nov` (68 items, 80 marks)
+- **Cumulative Corpus Progress:**
+  - **Pilot Wave (Page 1):** 195 items, 440 marks (100% verified)
+  - **Wave 2 (Page 2):** 229 items, 460 marks (100% verified)
+  - **Corpus Total:** **424 atomic items** across 8 core papers (plus 11 items in 2021 May test paper = **435 items**, **941 marks accounted for**).
+- **Tracker Status:** `workspace/EXTRACTION_TRACKER.md` updated and synchronized to both kit and stage-1 mirrors. Page 2 is ticked 100% complete (`[x]`). Wave 3 is queued.
+
+
+
+

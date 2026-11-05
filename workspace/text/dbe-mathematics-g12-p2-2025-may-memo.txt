@@ -1,0 +1,30 @@
+**SENIOR CERTIFICATE EXAMINATIONS / NATIONAL SENIOR CERTIFICATE EXAMINATIONS**
+
+**MATHEMATICS P2 / WISKUNDE V2**  
+**MAY/JUNE 2025**  
+**MARKING GUIDELINES / NASIENRIGLYNE**  
+
+**MARKS / PUNTE: 150**
+
+---
+
+### **QUESTION/VRAAG 1**
+
+Dataset: $134 \quad 215 \quad 325 \quad 326 \quad 362 \quad 429 \quad 515 \quad 531 \quad 598 \quad 610 \quad 624 \quad 728 \quad 923 \quad 1034 \quad 1200$
+
+| 1.1 | $\bar{x} = \frac{8554}{15}$ <br> $= 570,27$ | $\checkmark$ $8554$ <br> $\checkmark$ answer | (2) |
+|---|---|---|---|
+| 1.2 | $\sigma = 291,03$ | $\checkmark$ $291,03$ | (1) |
+| 1.3 | $(279,24 ; 861,3)$ <br> $\therefore 10\text{ premiums}$ | $\checkmark$ $(\bar{x}-\sigma ; \bar{x}+\sigma)$ <br> $\checkmark$ answer | (2) |
+| 1.4 | $\frac{\left(1791 \times \frac{118}{100}\right) + \left(6763 \times \frac{k + 100}{100}\right)}{15} = 686,44$ <br> $\frac{6763 \times \frac{k + 100}{100}}{15} = \frac{\text{sum of new premiums}}{15}$ <br> $6763 \times \frac{k + 100}{100} = 8183,22$ <br> $\frac{k + 100}{100} = 1,209\dots$ <br> $k + 100 = 120,999\dots$ <br> $k = 21\%$ | $\checkmark$ $1791 \times \frac{118}{100}$ <br> $\checkmark$ $6763 \times \frac{k + 100}{100}$ <br> $\checkmark$ sum of new premiums $= 686,44$ <br> $\checkmark$ answer | (4) |
+| | | | **[9]** |
+
+---
+
+### **QUESTION/VRAAG 2**
+
+| Number of items / Aantal items ($x$) | 10 | 3 | 20 | 14 | 17 | 9 | 12 | 18 | 15 | 19 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Time (in minutes) / Tyd (in minute) ($y$) | 5 | 5 | 9 | 7 | 6 | 6 | 8 | 11 | 10 | 12 |
+
+| 2.1 | 

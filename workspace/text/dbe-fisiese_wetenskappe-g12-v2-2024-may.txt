@@ -1,0 +1,293 @@
+**SENIORSERTIFIKAAT-EKSAMEN / NASIONALE SENIORSERTIFIKAAT-EKSAMEN**
+
+**FISIESE WETENSKAPPE: CHEMIE (V2)**
+
+**MEI/JUNIE 2024**
+
+**PUNTE: 150**
+**TYD: 3 uur**
+
+---
+
+### INSTRUKSIES EN INLIGTING
+
+1. Skryf jou sentrumnommer en eksamennommer in die toepaslike ruimtes op die ANTWOORDEBOEK neer.
+2. Hierdie vraestel bestaan uit NEGE vrae. Beantwoord AL die vrae in die ANTWOORDEBOEK.
+3. Begin ELKE vraag op 'n NUWE bladsy in die ANTWOORDEBOEK.
+4. Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie vraestel gebruik is.
+5. Laat EEN reël tussen twee subvrae oop, bv. tussen VRAAG 2.1 en VRAAG 2.2.
+6. Jy mag 'n nieprogrammeerbare sakrekenaar gebruik.
+7. Toon ALLE formules en substitusies in ALLE berekeninge.
+8. Rond jou FINALE numeriese antwoorde tot 'n minimum van TWEE desimale plekke af.
+9. Gee kort (bondige) motiverings, besprekings, ens. waar nodig.
+10. Jy word aangeraai om die aangehegte GEGEWENSBLAAIE te gebruik.
+11. Skryf netjies en leesbaar.
+
+---
+
+### VRAAG 1: MEERVOUDIGEKEUSE-VRAE
+
+Verskeie opsies word as moontlike antwoorde op die volgende vrae gegee. Elke vraag het slegs EEN korrekte antwoord. Kies die antwoord en skryf slegs die letter (A–D) langs die vraagnommers (1.1 tot 1.10) in die ANTWOORDEBOEK neer, bv. 1.11 E.
+
+1.1 Die funksionele groep vir 'n ALDEHIED is 'n …
+A formielgroep.
+B karboksielgroep.
+C karbonielgroep.
+D hidroksielgroep. (2)
+
+1.2 Watter EEN van die volgende vergelykings verteenwoordig die reaksie vir die IDENTIFISERING van 'n ONVERSADIGDE organiese verbinding in die laboratorium?
+A $\text{CH}_3\text{CH}_2\text{CH}_2\text{CHCH}_2 + \text{H}_2 \rightarrow \text{CH}_3\text{CH}_2\text{CH}_2\text{CH}_2\text{CH}_3$
+B $\text{CH}_3\text{CH}_2\text{CH}_2\text{CHCH}_2 + \text{HBr} \rightarrow \text{CH}_3\text{CH}_2\text{CH}_2\text{CHBrCH}_3$
+C $\text{CH}_3\text{CH}_2\text{CH}_2\text{CHCH}_2 + \text{Br}_2 \rightarrow \text{CH}_3\text{CH}_2\text{CH}_2\text{CHBrCH}_2\text{Br}$
+D $\text{CH}_3\text{CH}_2\text{CH}_2\text{CH}_2\text{CH}_3 + \text{Br}_2 \rightarrow \text{CH}_3\text{CH}_2\text{CH}_2\text{CH}_2\text{CH}_2\text{Br} + \text{HBr}$ (2)
+
+1.3 Watter EEN van die volgende is die EMPIRIESE formule van etieletanoaat?
+A $\text{C}_2\text{H}_4\text{O}$
+B $\text{C}_2\text{H}_2\text{O}$
+C $\text{C}_4\text{H}_8\text{O}$
+D $\text{C}_4\text{H}_8\text{O}_2$ (2)
+
+1.4 In 'n eksperiment reageer $5\text{ g}$ kalsiumkarbonaat, $\text{CaCO}_3(\text{s})$, met 'n OORMAAT soutsuur, $\text{HCl}(\text{aq})$, by 'n temperatuur van $40\text{ °C}$.
+$\text{CaCO}_3(\text{s}) + 2\text{HCl}(\text{aq}) \rightarrow \text{CaCl}_2(\text{aq}) + \text{H}_2\text{O}(\ell) + \text{CO}_2(\text{g})$
+Die volume $\text{CO}_2(\text{g})$ geproduseer teenoor tyd word deur KURWE P in die grafiek hieronder getoon.
+Die eksperiment word herhaal met $10\text{ g}$ van dieselfde $\text{CaCO}_3(\text{s})$-monster en 'n oormaat $\text{HCl}(\text{aq})$ van dieselfde konsentrasie by $40\text{ °C}$. Watter EEN van die kurwes sal nou verkry word?
+[DIAGRAM: 'n Grafiek van Volume $\text{CO}_2(\text{g})$ vs Tyd. Kurwe P styg en plat af. Kurwe I is onder P, Kurwe II is bo P, Kurwe III is tussen P en II, Kurwe IV is die steilste en hoogste.]
+A Kurwe I
+B Kurwe II
+C Kurwe III
+D Kurwe IV (2)
+
+1.5 Die gebalanseerde vergelyking hieronder verteenwoordig 'n reaksie by ewewig.
+$2\text{CrO}_4^{2-}(\text{aq}) + 2\text{H}_3\text{O}^+(\text{aq}) \rightleftharpoons \text{Cr}_2\text{O}_7^{2-}(\text{aq}) + 3\text{H}_2\text{O}(\ell)$
+(geel) (oranje)
+Watter stelling(s) is WAAR wanneer 'n paar druppels gekonsentreerde soutsuur, $\text{HCl}(\text{kons})$, by die mengsel gevoeg word?
+(i) Die terugwaartse reaksie sal bevoordeel word.
+(ii) Die konsentrasie van $\text{Cr}_2\text{O}_7^{2-}(\text{aq})$ neem toe.
+(iii) Die kleur van die oplossing verander van geel na oranje.
+A Slegs (i)
+B Slegs (i) en (ii)
+C Slegs (i) en (iii)
+D Slegs (ii) en (iii) (2)
+
+1.6 Beskou die vergelyking hieronder vir 'n hipotetiese reaksie.
+$\text{A}(\text{aq}) + \text{B}(\text{s}) \rightleftharpoons \text{C}(\text{aq}) + \text{D}(\text{aq})$
+Indien die ewewigskonstante $K_c = 1 \times 10^{-4}$, dan is …
+A $[\text{A}][\text{B}] < [\text{C}][\text{D}]$
+B $[\text{A}][\text{B}] > [\text{C}][\text{D}]$
+C $[\text{A}] > [\text{C}][\text{D}]$
+D $[\text{A}] < [\text{C}][\text{D}]$ (2)
+
+1.7 Watter EEN van die volgende toon die PRODUKTE vir die reaksie van oksaalsuur met natriumhidroksied?
+A $(\text{COO})_2\text{Na}_2(\text{aq}) + \text{H}_2\text{O}(\ell) + \text{CO}_2(\text{g})$
+B $(\text{COO})_2\text{Na}_2(\text{aq}) + \text{H}_2\text{O}(\ell)$
+C $\text{CH}_3\text{COONa}(\text{aq}) + \text{H}_2\text{O}(\ell)$
+D $\text{CH}_3\text{COONa}(\text{aq}) + \text{H}_2\text{O}(\ell) + \text{CO}_2(\text{g})$ (2)
+
+1.8 Vier oplossings van verskillende sure met dieselfde konsentrasie word vergelyk.
+Watter EEN van die volgende $K_a$-waardes verteenwoordig die SWAKSTE suur by $25\text{ °C}$?
+A $4,5 \times 10^{-6}$
+B $2,5 \times 10^{-5}$
+C $1,8 \times 10^{-2}$
+D $6,5 \times 10^{-2}$ (2)
+
+1.9 Koper word deur elektroliese gesuiwer.
+Watter EEN van die volgende kombinasies is KORREK vir die veranderings wat by die anode, katode en in die elektroliet plaasvind terwyl die sel in werking is?
+[DIAGRAM: 'n Elektrolitiese sel met 'n anode, katode, $\text{CuSO}_4(\text{aq})$ elektroliet en 'n energiebron.]
+| | MASSA VAN DIE ANODE | MASSA VAN DIE KATODE | KLEUR VAN DIE ELEKTROLIET |
+|---|---|---|---|
+| A | Neem toe | Neem af | Geen verandering nie |
+| B | Neem af | Neem toe | Geen verandering nie |
+| C | Neem toe | Neem af | Word donkerder |
+| D | Neem af | Neem toe | Word ligter | (2)
+
+1.10 Watter EEN van die volgende redoksreaksies is SPONTAAN onder standaardtoestande?
+A $\text{Br}_2 + 2\text{Cl}^- \rightarrow 2\text{Br}^- + \text{Cl}_2$
+B $2\text{Fe}^{3+} + 2\text{I}^- \rightarrow 2\text{Fe}^{2+} + \text{I}_2$
+C $\text{Ni}^{2+} + \text{H}_2 \rightarrow \text{Ni} + 2\text{H}^+$
+D $\text{Cu} + \text{Pb}^{2+} \rightarrow \text{Cu}^{2+} + \text{Pb}$ (2)
+[20]
+
+---
+
+### VRAAG 2
+
+Die letters A tot H in die tabel hieronder verteenwoordig agt organiese verbindings.
+
+| | | | |
+|---|---|---|---|
+| **A** | Butan-2-ol | **B** | $\text{CH}_3\text{C}(\text{CH}_3)_2(\text{CH}_2)_2\text{CH}_3$ |
+| **C** | 3-etielpent-1-yn | **D** | $\text{CH}_3\text{CH}_2\text{CH}_2\text{CH}_2\text{CHO}$ |
+| **E** | [DIAGRAM: $\text{CH}_3-\text{CH}_2-\text{CH}=\text{C}(\text{CH}_3)-\text{CH}_2-\text{CH}_3$] | **F** | Butan-1-ol |
+| **G** | [DIAGRAM: $\text{CH}_3-\text{C}(\text{Cl})(\text{CH}_3)-\text{CH}_2-\text{CH}(\text{Cl})-\text{CH}_3$] | **H** | [DIAGRAM: $\text{CH}_3-\text{C}(\text{CH}_3)_2-\text{C}(=\text{O})-\text{H}$] |
+
+2.1 Definieer die term koolwaterstof. (2)
+2.2 Skryf neer die letter(s) van:
+2.2.1 TWEE verbindings wat ONVERSADIGDE koolwaterstowwe is (1)
+2.2.2 TWEE verbindings wat KETTINGISOMERE van mekaar is (2)
+2.2.3 'n Sekondêre alkohol (1)
+2.3 Skryf neer die:
+2.3.1 STRUKTUURFORMULE van die FUNKSIONELE ISOMEER van verbinding D (2)
+2.3.2 Algemene formule van die homoloë reeks waaraan verbinding B behoort (1)
+2.3.3 STRUKTUURFORMULE van verbinding C (2)
+2.4 Skryf neer die IUPAC-naam van verbinding:
+2.4.1 E (3)
+2.4.2 G (3)
+2.4.3 H (2)
+2.5 Verbinding B ondergaan volledige verbranding. Deur MOLEKULÊRE FORMULES te gebruik, skryf die gebalanseerde vergelyking vir hierdie reaksie neer. (3)
+[22]
+
+---
+
+### VRAAG 3
+
+Die kookpunte van 'n paar organiese verbindings word in die tabel hieronder getoon. Die atmosferiese druk is $101,3\text{ kPa}$.
+
+| ORGANIESE VERBINDING | KOOKPUNT (°C) |
+|---|---|
+| **A** $\text{CH}_3\text{CH}_2\text{CH}_2\text{CH}_2\text{Cl}$ | 78 |
+| **B** $\text{CH}_3\text{CH}(\text{CH}_3)\text{CH}_2\text{Cl}$ | 46 |
+| **C** $\text{CH}_3\text{CH}_2\text{CH}_2\text{CH}_2\text{OH}$ | 118 |
+| **D** $\text{CH}_3\text{CH}_2\text{CH}_2\text{CHO}$ | X |
+
+3.1 Definieer die term kookpunt. (2)
+3.2 Watter EEN van die verbindings A, B of C is oorwegend in die vloeistoffase by $100\text{ °C}$? (1)
+3.3 Verduidelik die verskil in die kookpunte van verbindings A en B. (3)
+3.4 Beskou die kookpunte hieronder: $75\text{ °C}$, $120\text{ °C}$, $126\text{ °C}$.
+3.4.1 Watter EEN van hierdie waardes verteenwoordig X, die kookpunt van verbinding D? (1)
+3.4.2 Verduidelik die antwoord op VRAAG 3.4.1 volledig. (2)
+3.5 Die atmosferiese druk word nou na $83\text{ kPa}$ verander. Hoe sal die kookpunte van hierdie organiese verbindings beïnvloed word? Kies uit TOENEEM, AFNEEM of DIESELFDE BLY. (1)
+[10]
+
+---
+
+### VRAAG 4
+
+4.1 Tydens 'n eksperiment word 'n proefbuis wat metanol, propanoësuur en 'n katalisator bevat, in 'n waterbad verhit.
+[DIAGRAM: 'n Proefbuis in 'n waterbad met hittebron onder.]
+Skryf neer:
+4.1.1 Die NAAM of FORMULE van die katalisator (1)
+4.1.2 Die tipe reaksie wat plaasvind (1)
+4.1.3 TWEE redes waarom die gebruik van 'n waterbad in hierdie eksperiment verkies word (2)
+4.1.4 Die gebalanseerde vergelyking vir hierdie reaksie deur STRUKTUURFORMULES te gebruik (5)
+4.1.5 Die IUPAC-naam van die organiese produk vir hierdie reaksie (2)
+
+4.2 Verbinding A, 'n ses-koolstof-haloalkaan, word in 'n twee-stap-reaksie gebruik om verbinding C te berei. Reaksie 2 is 'n ADDISIE-reaksie.
+[DIAGRAM: Verbinding A $\rightarrow$ Reaksie 1 $\rightarrow$ Verbinding B $\rightarrow$ Reaksie 2 $\rightarrow$ Verbinding C ($\text{CH}_3-\text{C}(\text{CH}_3)_2-\text{CH}_2-\text{CH}_3$)]
+Skryf neer:
+4.2.1 Die NAAM of FORMULE van die anorganiese reaktans in reaksie 2 (1)
+4.2.2 Die IUPAC-naam van verbinding B (2)
+4.2.3 Die soort reaksie verteenwoordig deur reaksie 1 (1)
+Verbinding B word nou in 'n twee-stap-reaksie gebruik om verbinding A te berei. Reaksie 4 is 'n SUBSTITUSIE-reaksie.
+[DIAGRAM: Verbinding B $\rightarrow$ Reaksie 3 $\rightarrow$ Verbinding D $\rightarrow$ Reaksie 4 $\rightarrow$ Verbinding A]
+Skryf neer:
+4.2.4 Die NAAM of FORMULE van die katalisator wat in reaksie 3 gebruik word (1)
+4.2.5 Die IUPAC-naam van verbinding D (2)
+4.2.6 Die soort reaksie verteenwoordig deur reaksie 3 (1)
+4.2.7 Die tipe haloalkaan verteenwoordig deur verbinding A (Kies uit primêr, sekondêr of tersiêr.) (1)
+[20]
+
+---
+
+### VRAAG 5
+
+Die reaksie tussen aluminium en 'n OORMAAT swawelsuur word gebruik om die faktore wat die reaksietempo's beïnvloed, te ondersoek.
+$2\text{Al}(\text{s}) + 3\text{H}_2\text{SO}_4(\text{aq}) \rightarrow \text{Al}_2(\text{SO}_4)_3(\text{aq}) + 3\text{H}_2(\text{g})$
+
+5.1 ONDERSOEK I: Die effek van 'n katalisator op die reaksietempo word bepaal.
+Aluminiumpoeier met 'n massa van $5\text{ g}$ reageer met 'n oormaat $0,1\text{ mol}\cdot\text{dm}^{-3}\text{ H}_2\text{SO}_4$ by $60\text{ °C}$.
+[DIAGRAM A: Energiediagram toon Potensiële energie (kJ) vs Verloop van reaksie. Reaktanse by 208,2, piek by 240,8 (sonder katalisator) en 217,3 (met katalisator), produkte by 86,5.]
+[DIAGRAM B: Maxwell-Boltzmann verspreidingskurwe van Aantal deeltjies vs Kinetiese energie (kJ). Lyn P merk 'n drempelenergie, Y en X is aktiveringsenergieë.]
+5.1.1 Is die reaksie tussen $\text{Al}(\text{s})$ en verdunde $\text{H}_2\text{SO}_4(\text{aq})$ ENDOTERMIES of EKSOTERMIES? Gee 'n rede vir die antwoord deur na die diagramme hierbo te verwys. (2)
+5.1.2 Wat word deur die ingekleurde gedeelte regs van lyn P verteenwoordig? (1)
+5.1.3 Bepaal die numeriese waarde wat deur die letter X op diagram B verteenwoordig word. (2)
+
+5.2 ONDERSOEK II: Die ondersoek word nou by $30\text{ °C}$ herhaal deur dieselfde reaktanse en katalisator te gebruik. Hoe sal dit ELK van die volgende beïnvloed in vergelyking met ONDERSOEK I? Kies uit TOENEEM, AFNEEM of BLY DIESELFDE.
+5.2.1 Die grootte van die ingekleurde gedeelte (diagram B) (1)
+5.2.2 Die waarde van Y (1)
+5.2.3 Die TOTALE volume van waterstofgas geproduseer (1)
+
+5.3 ONDERSOEK III: In hierdie ondersoek reageer $5\text{ g}$ van dieselfde monster ONSUIWER aluminiumpoeier met 'n OORMAAT verdunde $\text{H}_2\text{SO}_4$ by $60\text{ °C}$.
+| LOPIE | KONSENTRASIE $\text{H}_2\text{SO}_4(\text{aq}) (\text{mol}\cdot\text{dm}^{-3})$ | GEMIDDELDE TEMPO VAN VOLUME $\text{H}_2(\text{g}) (\text{cm}^3\cdot\text{s}^{-1})$ |
+|---|---|---|
+| 1 | 0,1 | 15 |
+| 2 | 0,2 | 19 |
+| 3 | 0,4 | 40 |
+5.3.1 Skryf die onafhanlike veranderlike vir hierdie ondersoek neer. (1)
+5.3.2 Gebruik die botsingsteorie om te verduidelik hoe die gemiddelde reaksietempo in hierdie ondersoek beïnvloed word. (3)
+5.3.3 Die tyd wat die reaksie neem om in LOPIE 3 voltooiing te bereik, is $2,6\text{ minute}$. Bereken die persentasie suiwerheid van die aluminium. Neem die molêre gasvolume by $60\text{ °C}$ as $27\text{ 000 cm}^3\cdot\text{mol}^{-1}$. (6)
+[18]
+
+---
+
+### VRAAG 6
+
+Beskou die gebalanseerde vergelyking vir 'n hipotetiese reaksie wat in $2\text{ dm}^3$ verseëlde houers plaasvind.
+$\text{P}_2\text{Q}(\text{g}) + 3\text{Q}(\text{s}) \rightleftharpoons 2\text{PQ}_2(\text{g})$
+Grafiek A word verkry by $298\text{ K}$ en grafiek B by $398\text{ K}$.
+[DIAGRAM A: Konsentrasie vs Tyd. $\text{PQ}_2$ styg na 0,4, $\text{P}_2\text{Q}$ daal. Ewewig by 5 min.]
+[DIAGRAM B: Konsentrasie vs Tyd. $\text{PQ}_2$ styg na 0,35, $\text{P}_2\text{Q}$ daal. Ewewig by 3 min, verandering by 8 min.]
+
+6.1 Stel Le Chatelier se beginsel. (2)
+6.2 Wat stel die parallelle lyne na $t = 5\text{ minute}$ in grafiek A voor? (1)
+6.3 Is die voorwaartse reaksie EKSOTERMIES of ENDOTERMIES? (1)
+6.4 Verduidelik die antwoord op VRAAG 6.3. (2)
+6.5 Hoe vergelyk die waarde van die ewewigskonstante, $K_c$, vir die reaksie in grafiek B, met dié in grafiek A? Kies uit GROTER AS, KLEINER AS of GELYK AAN. (1)
+6.6 Die ewewigskonstante, $K_c$, is $0,49$ by $398\text{ K}$ (grafiek B). Bereken die aanvanklike hoeveelheid mol $\text{P}_2\text{Q}$. (8)
+6.7 Beskryf die verandering wat aan die ewewigsisteem by $t = 8\text{ minute}$ gemaak is, soos in grafiek B getoon, by 'n konstante temperatuur. (1)
+6.8 Verduidelik, deur Le Chatelier se beginsel te gebruik, hoe die sisteem op die verandering in VRAAG 6.7 reageer. (2)
+[18]
+
+---
+
+### VRAAG 7
+
+7.1 'n Standaardoplossing word berei deur $10\text{ g}$ natriumkarbonaat, $\text{Na}_2\text{CO}_3(\text{s})$, in $0,7\text{ dm}^3$ water op te los.
+7.1.1 Bereken die konsentrasie van die oplossing. (3)
+7.1.2 Sal die pH van die oplossing GROTER AS of KLEINER AS 7 wees? (1)
+7.1.3 Skryf 'n vergelyking neer wat die antwoord op VRAAG 7.1.2 verduidelik. (2)
+Die natriumkarbonaat-oplossing word met verdunde soutsuur, $\text{HCl}(\text{aq})$, getitreer.
+| INDIKATOR | pH-GEBIED |
+|---|---|
+| P | 3,4–4,5 |
+| Q | 6,8–7,2 |
+| R | 8,3–10 |
+7.1.4 Watter EEN van die indikators (P, Q of R) is die geskikste vir hierdie titrasie? Gee 'n rede vir die antwoord deur na die data in die tabel te verwys. (2)
+
+7.2 Wanneer $0,01\text{ mol}$ verdunde swawelsuur, $\text{H}_2\text{SO}_4(\text{aq})$, met $0,024\text{ mol}$ kaliumhidroksied, $\text{KOH}(\text{aq})$, gemeng word, is die totale volume van die finale oplossing $0,2\text{ dm}^3$.
+$2\text{KOH}(\text{aq}) + \text{H}_2\text{SO}_4(\text{aq}) \rightarrow \text{K}_2\text{SO}_4(\text{aq}) + 2\text{H}_2\text{O}(\ell)$
+7.2.1 Wat word met 'n verdunde suur bedoel? (2)
+7.2.2 Bereken die pH van die finale oplossing. (8)
+[18]
+
+---
+
+### VRAAG 8
+
+Die verband tussen die konsentrasie van die elektroliet en die selpotensiaal word ondersoek deur die volgende elektrochemiese sel te gebruik:
+$\text{Al}(\text{s}) \mid \text{Al}^{3+}(\text{aq}) \parallel \text{M}^{2+}(\text{aq}) \mid \text{M}(\text{s})$
+[DIAGRAM: Grafiek van Emk (V) vs $[\text{M}^{2+}] (\text{mol}\cdot\text{dm}^{-3})$. Kurwe styg van 1,80V by 0,25M tot 2,00V by 1,25M.]
+
+8.1 Identifiseer die reduseermiddel in hierdie sel. (1)
+8.2 Bepaal die konsentrasie van die $\text{M}^{2+}(\text{aq})$ wat 'n emk van $1,87\text{ V}$ sal gee. (2)
+8.3 Hoe sal die konsentrasie van $\text{M}^{2+}(\text{aq})$ beïnvloed word terwyl die sel in werking is? Kies uit TOENEEM, AFNEEM of DIESELFDE BLY. Gee 'n rede vir die antwoord. (2)
+8.4 Kaliumnitraat, $\text{KNO}_3(\text{aq})$, word in die soutbrug van hierdie sel gebruik. Na watter elektrode sal die $\text{K}^+$-ione in die soutbrug beweeg ($\text{Al}$ of $\text{M}$)? (1)
+8.5 Identifiseer metaal M met behulp van 'n berekening. (6)
+8.6 Metaal M word nou met magnesium, $\text{Mg}$, vervang.
+8.6.1 Watter elektrode, $\text{Al}$ of $\text{Mg}$, sal die anode wees? (1)
+8.6.2 Verwys na die relatiewe sterktes van die oksideermiddels om die antwoord te verduidelik. (2)
+[15]
+
+---
+
+### VRAAG 9
+
+Die vereenvoudigde diagram hieronder verteenwoordig die sel wat vir die elektroplatering van ornamente met silwer, $\text{Ag}$, gebruik word. P en Q is die twee terminale van die battery.
+[DIAGRAM: 'n Elektrolitiese sel met 'n ornament as katode en 'n silwer-elektrode as anode in $\text{Ag}^+(\text{aq})$. P en Q is battery terminale.]
+
+9.1 Stel die energie-omskakeling wat in hierdie sel plaasvind. (1)
+9.2 Watter terminaal van die battery (P of Q) is negatief? (1)
+9.3 Skryf die vergelyking neer vir die halfselreaksie wat by die katode plaasvind. (2)
+9.4 Bereken die stroom wat benodig word om binne $30\text{ minute}$ die ornament met $3,25\text{ g}$ silwer te elektroplateer. (5)
+[9]
+
+**TOTAAL: 150**

@@ -1,0 +1,1481 @@
+=== page 1 ===
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+MARKS/PUNTE:  150
+
+These marking guidelines consist of 19 pages./
+Hierdie nasienriglyne bestaan uit 19 bladsye.
+
+PHYSICAL SCIENCES:  PHYSICS (P1)
+FISIESE WETENSKAPPE: FISIKA (V1)
+
+NOVEMBER 2020
+
+MARKING GUIDELINES/NASIENRIGLYNE
+GRADE/GRAAD 12
+
+SENIOR CERTIFICATE/SENIOR SERTIFIKAAT
+NATIONAL SENIOR CERTIFICATE/
+NASIONALE SENIOR SERTIFIKAAT
+
+=== page 2 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  2 DBE/November 2020
+ SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou   Please turn over/Blaai om asseblief
+
+QUESTION 1/VRAAG 1
+
+1.1 B   (2)
+
+1.2 D    (2)
+
+1.3 C    (2)
+
+1.4 C   (2)
+
+1.5 C   (2)
+
+1.6 A   (2)
+
+1.7 A   (2)
+
+1.8 D   (2)
+
+1.9 A   (2)
+
+1.10 B   (2)
+[20]
+
+=== page 3 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  3 DBE/2020
+SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+w
+ N
+f T
+ Fapplied
+
+QUESTION 2/VRAAG 2
+
+2.1 Marking criteria/Nasienriglyne
+If any of the underlined key words/phrases in the correct context are omitted:
+- 1 mark per word/phrase.
+Indien enige van die sleutelwoorde/frases in die korrekte konteks weggelaat word:
+- 1 punt per woord/frase
+
+The perpendicular force exerted by a surface on an object  in contact  with
+the surface. 
+Die loodregte krag deur 'n oppervlak uitgeoefen op 'n voorwerp wat daarmee
+in kontak is.    (2)
+
+2.2
+
+  Accepted symbols/Aanvaarde simbole
+N  FN/Normal/Normal force/173,5N /Normaal/Normaalkrag
+f 
+Ff /fk /frictional force/wrywingskag/kinetic frictional force/kinetiese
+wrywingskrag/5 N
+
+w  Fg /mg/Weight/FEarth on block/Fw/Gewig/Gravitational force/ Gravitasiekrag/196 N
+T  Tension/Spanning/FT
+ Fapplied 
+Ftoegepas
+F/Applied force/35 N/Toegepaste krag/ FA
+
+ Notes/Aantekeninge
+ Mark is awarded for label and arrow./Punt word toegeken vir byskrif en pyltjie.
+ Do not penalise for length of arrows ./Moenie vir die lengte van die pyltjies
+penaliseer nie.
+ Deduct 1 mark for any additional force./Trek 1 punt af vir enige addisionele krag.
+ If all forces are correctly drawn and labelled, but no arrows, deduct 1 mark. /
+Indien all kragte korrek geteken en benoem is, maar geen ly ne nie, trek 1punt
+af.
+
+(5)
+
+2.3 For the/Vir die 20 kg:
+                           Fnet = ma
+                T – f – FAx = ma
+T – 5 – 35 cos40°  = 0 
+                          T = 31,81 N
+
+For/vir m:
+                  Fnet = ma
+             mg – T = ma
+ m(9,8) – 31,81  = 0
+                     m = 3,25 kg 
+Marking criteria/Nasienriglyne
+ Formula for 20 kg or m kg/Formule vir 20 kg of
+m kg / Fnet = ma 
+ Substitution of zero into either formula 
+Vervanging van nul in een van die formules
+ All substitutions into Fnet for 20 kg as shown 
+Alle vervanging in Fnet for 20 kg soos getoon
+ Substitution of value of T in eqn for m
+/Substitusie van waarde vir T in vgl vir m  
+ Final answer/finale antwoord: 3,25 kg 
+
+(5)
+
+2.4.1 Decreases/Neem af   (1)
+
+
+
+=== page 4 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  4 DBE/2020
+SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+2.4.2 POSITIVE MARKING FROM QUESTION 2.3
+POSITIEWE NASIEN VANAF VRAAG 2.3
+
+ Moving to the right/Beweeg na regs
+Velocity decreases/snelheid neem af 
+
+Accelerates/Net force to left /Versnelling/netto krag na links
+
+OR/OF
+As the tension force decreases, the net force/acceleration acts in the opposite
+direction of motion /to the left. 
+Soos die spanning afneem, is daar ‘ n netto krag /versnelling in die
+teenoorgestelde rigting / na links
+
+Moving to the left/Beweeg na links
+Velocity increases/snelheid neem toe 
+Accelerates/Net force to left /Versnelling/netto krag na links
+
+(3)
+   [16]
+
+QUESTION 3/VRAAG 3
+
+3.1 (Motion of an object) under the influence of gravity (weight) only.  (2 or 0)
+(Beweging van ŉ voorwerp) slegs onder die invloed van gravitasie (gewig).
+
+OR/OF
+(Motion in which) the only force acting on the object is gravity (weight).
+(Beweging waar ) die enigste krag  wat op die voorwerp inwerk, gravitasie
+(gewig) is.
+
+(2)
+
+3.2.1 Δt = 0,67 – 0,64 = 0,03 s   (2)
+
+3.2.2 OPTION 1/OPSIE 1
+Δt =
+2
+0,67)(1,90
+    = 0,62 s  (0,615 s)
+OPTION 2/OPSIE 2
+Δx = viΔt + ½ aΔt2
+(-1,85) = 0 + ½ (-9,8)Δt2 
+Δt = 0,61 s  (0,6145 s)
+
+(2)
+OPTION 3/OPSIE 3
+Δt =
+2
+0,67)(1,90 =  1,285 s
+Δt = 1,285 – 0,67  
+    = 0,62 s  (0,615 s)
+OPTION 4/OPSIE 4
+vf2 = vi2 + 2aΔx
+0 = vi2 + 2(-9,8)(1,85)
+vi = 6,02 m·s-1
+
+vf = vi + aΔt
+0 = 6,02 +  (-9,8)Δt 
+Δt = 0,61 s 
+
+
+
+=== page 5 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  5 DBE/2020
+SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+3.2.3 POSITIVE MARKING FROM QUESTION 3.2.2
+POSITIEWE NASIEN VANAF VRAAG 3.2.2
+
+ Marking Criteria/Nasienriglyne
+ Any appropriate formula/Enige geskikte formule 
+ Correct substitution/Korrekte vervanging 
+ Final answer/Finale antwoord: 5,94 to 6,08 m·s-1 
+
+ OPTION 1/OPSIE 1
+Upwards positive/Opwaarts positief
+vf = vi + aΔt 
+0  = vi + (-9,8)(0,62) 
+vi = 6,08 m·s-1 (6,076 m·s-1 ) 
+OPTION 2/OPSIE 2
+Upwards positive/Opwaarts positief
+Δy = viΔt + ½ aΔt2
+1,85 = vi (0,62) + ½ (-9,8) (0,62)2 
+vi = 6,02 m·s-1 (6,022 m·s-1 ) 
+
+ Downwards positive/Afwaarts positief
+vf = vi + aΔt 
+0  = vi + (9,8)(0,62) 
+vi = -6,08
+
+6,08 m·s-1 (6,076 m·s-1 ) 
+Downwards positive/Afwaarts
+positief
+Δy = viΔt + ½ aΔt2 
+1,85 = vi (0,62) + ½ (9,8) (0,62)2 
+vi = -6,02
+
+ vi = 6,02 m·s-1 (6,022 m·s-1) 
+
+ OPTION 3/OPSIE 3
+Motion from top to bottom /
+Beweging vanaf bo na onder
+Downwards positive/Afwaarts positief
+ya2vv
+2
+i
+2
+f 
+
+vf2 = 0 + 2(9,8)(1,85) 
+vf = 6,02 m·s-1 
+initial velocity/beginsnelheid=6,02 m·s-1
+
+Upwards positive/Opwaarts positief
+ya2vv
+2
+i
+2
+f 
+
+vf2 = 0 + 2(-9,8)(-1,85) 
+vf = 6,02 m·s-1 
+initial velocity/beginsnelheid=6,02 m·s-1
+
+Motion from bottom to top
+Beweging vanaf onder na bo
+Downwards positive/Afwaarts positief
+ya2vv
+2
+i
+2
+f 
+
+02 = vi2 + 2(9,8)(-1,85) 
+vi = 6,02 m·s-1 
+
+Upwards positive/Opwaarts positief
+ya2vv
+2
+i
+2
+f 
+
+0 = vi2 + 2(-9,8)(1,85) 
+vi = 6,02 m·s-1 
+OPTION 4/OPSIE 4
+Upwards positive/Opwaarts positief
+Δy = viΔt + ½ aΔt2 
+0 = vi(1,23) + ½ (-9,8)(1,23)2 
+vi = 6,03 m·s-1 
+
+Downwards positive/Afwaarts
+positief Δy = viΔt + ½ aΔt2 
+0 = vi(1,23) + ½ (9,8)(1,23)2 
+vi = - 6,03 m·s-1
+speed/spoed = 6,03 m·s-1
+
+OPTION 5/OPSIE 5
+Δy =
+
+
+
+
+ 
+2
+vv if Δt 
+1,85 =
+
+
+
+
+ 
+2
+v0 i (0,62)
+vi = 5,97 m·s-1 
+OPTION 6/OPSIE 6
+FnetΔt = mΔv
+FnetΔt = m(vf – vi)
+m(9,8)(0,62) = m(0 – vi) 
+vi = 6,08 m·s-1 
+ OPTION 7/OPSIE 7
+(Ep + Ek)floor/vloer = (Ep + Ek)top/bo 
+(mgh + ½ mv2)floor/vloer = (mgh + ½ mv2)top/bo
+0 + ½ v2 = (9,8)(1,85) + 0 
+v = 6,02 m·s-1 
+
+(3)
+
+
+
+=== page 6 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  6 DBE/2020
+SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+3.2.4 OPTION/OPSIE 1, 2, 3, 4: Marking criteria/Nasienriglyne
+ Calculate initial velocity:
+Bereken aanvanklike snelheid:
+ Appropriate formula/Geskikte formule 
+ Substitution/Vervanging 
+Calculate/Bereken Δt:
+ Appropriate formula/Geskikte formule 
+ Substitution/Vervanging 
+ 1,97 s + Δt 
+ Fin answer/Fin antwoord: 2,95 – 2,97 s 
+
+ Calculate initial velocity:
+Bereken beginsnelheid
+Calculate time Δt
+Bereken tyd Δt
+
+ OPTION 1/OPSIE 1
+Downwards positive/Afwaarts positief
+ya2vv
+2
+i
+2
+f 
+
+0 = vi2 + 2(9,8)(-1,2) 
+vi = - 4,85 m·s-1
+
+Upwards positive/Opwaarts positief
+ya2vv
+2
+i
+2
+f 
+
+0  = vi2 + 2(-9,8)(1,2) 
+vi = 4,85 m·s-1
+Upwards positive
+Opwaarts positief
+Δy = viΔt + ½ aΔt2
+1,2 = (4,85)Δt + ½(-9,8)Δt 2 
+Δt = 0,4898 s / 0,5 s
+t = 1,97 + 2(0,4898) 
+  = 2,95 s / 2,97 s 
+OR/OF
+Δy = viΔt + ½ aΔt2 
+0 = (4,85)Δt + ½(-9,8)Δt2 
+Δt = 0,9898 s (or Δt  = 0)
+t = 1,97 + 0,9898  = 2,96 s 
+
+Downwards positive
+Afwaarts positief
+Δy = viΔt + ½aΔt2
+1,2 = (-4,85)Δt + ½(9,8)Δt2 
+Δt = 0,4898 s / 0,5 s
+t = 1,97 + 2(0,4898) 
+  = 2,95 s / 2,97 s 
+OR/OF
+Δy = viΔt + ½aΔt2 
+0 = (4,85)Δt + ½(9,8)Δt 2 
+Δt = 0,9898 s    (or Δt  = 0)
+t = 1,97 + 0,9898  = 2,96 s 
+OR/OF
+vf = vi + aΔt 
+-4,85 = 4,85 + (-9,8)Δt 
+Δt = 0,9898 s
+Δt = 1,97 + 0,9898 = 2,96 s
+OR/OF
+Upwards positive
+Opwaarts positief
+vf = vi + aΔt 
+0 = 4,85 + (-9,8)Δt 
+Δt = 0,4949 s
+Δt = 1,97 + (2)(0,4949) 
+     = 2,96 s 
+OR/OF
+Δy =
+
+
+
+
+ 
+2
+vv fi Δt 
+1,2 =
+
+
+
+
+ 
+2
+85,40 ΔtΔt = 0,4948s
+Δttotal = 2(0,4948) = 0,99 s
+Δt = 1,97 + 0,99 = 2,96 s 
+
+ OPTION 2/OPSIE 2
+(Emech)top = (Emech)bot/ond
+(Ep +Ek)top = (Ep +Ek)Bot/Ond
+(mgh + ½mv2)top = (mgh + ½mv2)Bot/Ond
+(9,8)(1,2) + 0 = 0 + (½)v2 
+vi =  4,85 m·s-1 upwards /opwaarts
+
+ OPTION 3/OPSIE 3
+Wnc = ΔEp + ΔEk
+0 = (0 – mgh) + ½m(
+2
+i
+2
+f vv  )
+0 = -(9,8)(1,2) + ½vi2 
+vi =  4,85 m·s-1 upwards /opwaarts
+
+ OPTION 4/OPSIE 4
+Wnet = ΔEk
+wΔxcos180° = ½m(
+2
+i
+2
+f vv  )
+(9,8)(1,2)cos180° = ½vi2 
+vi = - 4,85 m·s-1
+
+ Any one/
+Enige een
+ Any one/
+Enige een
+ Any one/
+Enige een
+
+=== page 7 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  7 DBE/2020
+SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+ OPTION 5/OPSIE 5
+Downwards positive/Afwaarts positief
+Δy = viΔt + ½ aΔt2 
+1,2 = 0 + ½(9,8) Δt2
+Δt = 0,49 s
+t = 1,97 +  2(0,49) 
+  = 2,96 s 
+Upwards positive/Opwaarts positief
+Δy = viΔt + ½ aΔt2 
+-1,2 = 0 + ½(-9,8)Δt2
+Δt = 0,49 s
+t = 1,97 +  2(0,49) 
+  = 2,96 s 
+OPTION 5: Marking criteria/
+OPSIE 5: Nasienriglyne
+ Formula /Formule
+ Substitution/Vervanging
+Δy = 1,2 
+ Substitution/Vervanging
+0 + ½(9,8) Δt2
+ 1,97 s + 
+ 2 Δt 
+ Final answer/Finale
+antwoord:  2,95 - 2,97 s 
+
+(6)
+    [15]
+
+QUESTION 4/VRAAG 4
+
+4.1 (Linear) momentum (of an object) is the product of mass and velocity. 
+(Liniêre) momentum (van 'n voorwerp) is die produk van massa en snelheid.
+(2 or/of 0)
+
+(2)
+
+4.2.1 OPTION 1/OPSIE 1
+East as positive/Oos as positief
+                 ∑pi = ∑pf
+mpvpi  + mQvQi = mpvpf + mQvQf
+
+(0,16)(10) + (0,2)(-15) = (0,16)(-5) +(0,2)vQf 
+vQf = -3 m∙s-1
+vQf = 3 m∙s-1  west/wes 
+
+ OPTION 2/OPSIE 2
+West as positive/Wes as positief
+                 ∑pi =  ∑pf
+mpvpi  + mQvQi = mpvpf + mQvQf
+
+(0,16)(-10) + (0,2)(15) = (0,16)(5) +(0,2)QNf 
+vQf = 3 m∙s-1  west/wes 
+
+ OPTION 3/OPSIE 3
+Δpp = -ΔpQ 
+(0,16)(-5 – 10) = -(0,2)(v – (-15))
+v = -3 m·s-1
+    = 3 m·s-1 west/wes 
+
+(5)
+
+ Any one/Enige een
+ Any one/Enige een
+
+=== page 8 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  8 DBE/2020
+SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+4.2.2 For ball/Vir bal P:
+West as negative/Wes as negatief
+Impulse = Δp
+FnetΔt = Δp
+Δp = m(vPf – vPi)
+     = 0,16(-5 – 10) 
+     = - 2,4
+
+ 2,4 N∙s     (2,4 kg∙m∙s-1)
+
+OR/OF
+West as positive /Wes as positief
+Impulse = Δp
+FnetΔt = Δp
+          = m(vPf – vPi)
+          = 0,16(5 – (-10)) 
+          = 2,4 N·s 
+
+POSITIVE MARKING FROM
+QUESTION 4.2.1 /POSITIEWE
+NASIEN VANAF VRAAG 4.2.1
+
+(3)
+For ball/Vir bal Q:
+West as negative/Wes as negatief
+Impulse = Δp
+FnetΔt = Δp
+          = m(vQf – vQi)
+          = 0,2[-3 – (-15)] 
+          = 2,4 N∙s  (2,4 kg∙m∙s-1)
+
+OR/OF
+West as positive /Wes as positief
+Impulse = Δp
+FnetΔt = Δp
+          = m(vQf – vQi)
+          = 0,16(3 – (15)) 
+          = - 2,4 N·s
+
+2,4 N∙s     (2,4 kg∙m∙s-1)
+
+    [10]
+
+QUESTION 5/VRAAG 5
+
+5.1 Marking criteria/Nasienriglyne
+If any of the underlined key words/phrases in the correct context are omitted:
+- 1 mark per word/phrase. However, IF: The word “work” is omitted 0 marks
+Indien enige van die sleutelwoorde/frases in die korrekte konteks weggelaat word:
+- 1 punt per woord/frase. Maar, INDIEN: Die woord “arbeid” uitgelaat is, 0 punte
+
+A force is non -conservative if the work it does  on an object (which is moving
+between two points) depends on the path taken. 
+'n Krag is nie-konserwatief indien die arbeid wat dit verrig (op 'n voorwerp wat
+tussen twee punte beweeg) afhanklik is van die pad.
+
+OR/OF
+A force is non -conservative if the work it does on an object depends on the
+path taken. 
+'n Krag is nie -konserwatief indien die arbeid wat dit verrig afhanklik is van die
+pad.
+
+OR/OF
+A force is non -conservative if the work it does in moving an object around a
+closed path is non-zero. 
+'n Krag is nie -konserwatief indien die arbeid wat dit verrig om 'n voorwerp op
+'n geslote pad te beweeg, nie-nul is nie.
+
+(2)
+
+5.2
+
+K = ½ mv2 /Ek = ½ mv2
+ΔK = Kf - Ki
+K  = ½mvf2 - ½mvi2
+       = ½m(vf2- vi2)
+       =½(200)(22 - 42)
+K = - 1 200 J 
+
+(3)
+ Any one/
+    Enige een
+ Any one/
+    Enige een
+ Any one/
+    Enige een
+ Any one/
+    Enige een
+Any one /Enige een
+
+=== page 9 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  9 DBE/2020
+SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+5.3 POSITIVE MARKING FROM QUESTION 5.2.
+POSITIEWE NASIEN VANAF VRAAG 5.2.
+
+ Marking criteria/Nasienriglyne
+ Appropriate formula/Geskikte formule 
+ Substitution into appropriate formula together with/Vervanging in geskikte
+formule saam met -3,40 × 103  
+ Final answer/Finale antwoord:  8,88 m 
+
+OPTION 1/OPSIE 1
+Wnc = K + U
+Wnc = ½ mvf2 - ½ mvi2 + mghf - mghi
+       = ½ m (vf2- vi2) + mg(hf - hi)
+-3,40 × 103  = -1 200 + 200(9,8)(hf - 10) 
+h = 8,88 m      (8,87765 m)
+
+ OPTION 2/OPSIE 2
+E(mech/meg)A + Wf = E(mech)B
+(Ep +Ek)A + Wf = (Ep +Ek) B
+(mgh + ½mv2) A + Wf = (mgh + ½mv2) B
+200(9,8)(10) + ½(200)(42) - 3,40 × 103  = 200(9,8)(h) + ½(200)(2)2 
+h = 8,88 m       (8,87755)
+
+ OPTION 3/OPSIE 3
+Wnet = K
+Wf + Ww = ½mvf2 - ½mvi2
+Wf – ΔEp = ½mvf2 - ½mvi2
+Wf - mg(hf - hi) = ½m(vf2- vi2)
+-3,40 × 103 - 200(9,8)(h-10) = -1 200 
+h = 8,88 m       (8,87755 m)
+
+(4)
+
+5.4 OPTION 1 AND 2/OPSIE 1 EN 2: Marking criteria /Nasienriglyne
+ Appropriate formula/Geskikte formule 
+ Work done by friction/Arbeid verrig deur wrywing
+ Substitution of/Vervanging van (200)(9,8)(13,12) 
+ Appropriate formula/Geskikte formule
+ Substitution into power formula/Vervanging in drywingformule
+ Final answer /Finale antwoord: 1 814,35 W
+
+OPTION 1/OPSIE 1
+Wnc = K + U
+Wengine + Wf  = ½mvf2 - ½ mvi2 + mghf - mghi
+                    = ½m(vf2- vi2) + mg(hf - hi)
+Wengine + (50)(15)(2)cos180°  = 0 + 200(9,8)(22 – 8,88)
+Wengine = 27 215,20 J
+Pengine =
+t
+Wengine
+
+
+           =
+15
+20,21527
+         =  1 814,35 W
+
+Any one/Enige een
+Any one/Enige een
+Any one/Enige een
+Any one/Enige een
+
+=== page 10 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  10 DBE/2020
+SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+ OPTION 2/OPSIE 2
+Wnet = K
+WN + Wengine + Ww + Wf  = 0
+WN + Wengine  - ΔEp + Wf  = 0
+0 + Wengine - (200)(9,8)(13,12)  + (50)(2)(15)cos180°  = 0
+Wengine = 27 215,20 J
+
+OR/OF
+Wnet = K 
+WN + Wengine + Ww|| + Wf  = 0
+WN + Wengine  +mgsinθΔxcos180o + Wf  = 0
+0 + Wengine - (200)(9,8)
+
+
+
+
+
+x
+12,13 Δx(-1)  + (50)(2)(15)cos180°  = 0
+Wengine = 27 215,20 J
+Pengine  =
+t
+Wengine
+
+             =
+15
+20,21525
+            = 1 814,35 W
+
+ OPTION/OPSIE 3: Marking criteria/Nasienriglyne Opsie 3
+ Appropriate formula/Geskikte formule 
+ Substitution of/Vervanging van  - 50 
+ Substitution of/Vervanging van  (-200)(9,8)(0,4373) or/of (-200)(9,8)(0,44)
+ Appropriate formula/Geskikte formule
+ Substitution into/Vervanging in  Pave  = Fvave
+ Final answer/Finale antwoord: 1 814,35 W - 1 824,8 W
+
+ OPTION 3/OPSIE 3
+Fnet = ma
+Fengine + Ffriction  +  Fg// = 0
+Fengine + (-50)  + (-200)(9,8)(0,4373) = 0
+Fengine = 906,52 N (906,52 – 912,4)
+
+Pave  = Fvave
+Pave  = (908,52)(2)
+         = 1 813,04 W (1 824,8 W)
+
+OR/OF
+W = FengineΔxcosθ
+   = (906,52)(30)cos0o
+    = 27 195,6 J (27 372 W)
+
+P =
+t
+W
+  =
+15
+6,19527  = 1 813,04 W (1 824,8 W)
+
+(5)
+   [14]
+
+Any one/Enige een
+Any one/Enige een
+sinθ =
+x
+h
+
+        =
+)15(2
+12,13
+       = 0,4373
+
+=== page 11 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  11 DBE/2020
+SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+QUESTION 6/VRAAG 6
+
+6.1 Marking criteria/Nasienriglyne
+If any of the underlined key words/phrases in the correct context are o mitted:
+- 1 mark per word/phrase.
+Indien enige van die sleutelwoorde/frases in die korrekte konteks weggelaat word:
+- 1 punt per woord/frase
+
+The change in frequency  (or pitch) (of the sound) detected by a listener
+because the source and the list ener have different velocities relative to the
+medium of propagation. 
+Die verandering in die frekwensie (of toonhoogte)  (van die klank)
+waargeneem deur 'n luisteraar omdat die bron en die luisteraar verskillende
+snelhede relatief tot die voortplantingsmedium het.
+
+OR/OF
+An (apparent) change in (observed/detected) frequency (pitch), as a result of
+the relative motion between a source and an observer (listener).
+'n (Skynbare) verandering in (waargenome) frekwensie (toonhoogte),  as
+gevolg van die relatiewe beweging tussen die bron en 'n waarnemer/
+luisteraar.
+
+(2)
+
+6.2 Towards/Nader   (1)
+
+6.3
+s
+s
+L
+L fvv vvf 
+OR/OF
+s
+s
+L fvv vf 
+
+s
+s
+fv340 03403148 
+
+ OR/OF
+s
+s
+L fvv vf 
+
+s
+s
+fv340 03402073 
+
+0340
+)v340(3148 s
+
+
+ =
+0340
+)v340(2073 s
+
+
+                      vs  = 70 m·s-1  (69,95 - 70,16 m·s-1)
+
+(6)
+
+6.4 POSITIVE MARKING FROM QUESTION 6.3
+POSITIEWE NASIEN VANAF VRAAG 6.3
+
+ OPTION 1/OPSIE 1
+v
+xt 
+
+70
+350t 
+
+
+t = 5 s 
+OPTION 2/OPSIE 2
+Δx = viΔt + ½ aΔt2
+350 = 70Δt + 0 
+Δt = 5 s 
+
+OPTION 3/OPSIE 3
+Δt2 vvΔx fi  
+
+Δt27070350  
+
+Δt = 5 s 
+
+(2)
+     [11]
+
+
+
+
+
+
+
+
+
+=== page 12 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  12 DBE/2020
+SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+QUESTION 7/VRAAG 7
+
+7.1
+ n =
+e
+Q 
+   =
+19-
+-6
+101,6)(
+104)(
+
+  
+   = 2,5 x 1013 
+
+(3)
+
+7.2
+
+Electrostatic force on B due to A:/Elektrostatiese krag op B a.g.v. A:
+FAB =
+2
+21
+r
+QkQ 
+      =
+
+
+
+
+
+ 
+2
+-6-69
+0,2
+)10)(310(410  9  
+      = 2,7 N 
+
+(3)
+
+7.3 Marking criteria/Nasienriglyne
+If any of the underlined key words/phrases in the co rrect context are omitted:
+- 1 mark per word/phrase.
+Indien enige van die sleutelwoorde/frases in die korrekte konteks weggelaat word:
+- 1 punt per woord/frase
+
+Electric field is a region (in space ) where ( in which ) an (electric) charge
+experiences a (electric) force. 
+Elektriese veld is 'n gebied (in die ruimte ) waarin 'n (elektriese) lading 'n
+(elektriese) krag ondervind.
+
+(2)
+
+Ignore negative signs
+Ignoreer negatiewe tekens
+doeleindes
+
+=== page 13 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  13 DBE/2020
+SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+7.4
+
+Marking criteria/Nasienriglyne
+ Appropriate formula/Geskikte formule 
+ Correct substitution for A and B/Korrekte vervanging van A en B 
+ Subtraction of electric fields/Aftrek van elektriesevelde
+ Final answer/Finale antwoord: 2,3 x106 N∙C-1
+
+ OPTION 1/OPSIE 1
+Electric field at M due to / Elektriese veld by M as gevolg van: -4 x10-6 C
+EAM =
+2r
+Qk   
+       =
+2
+-6
+9
+)3,0(
+)10x(4109 
+       = 4,0 x 105 N∙C-1 (to left /links)
+
+Electric field at M due to / Elektriese veld by M as gevolg van: +3 x10-6 C,
+EBM =
+2r
+Qk
+       =
+2
+-6
+9
+)1,0(
+) x10(310x9 
+        = 2,7 x106 N∙C-1 (to right /regs)
+
+Net electric field at M /Netto elektrieseveld by M
+Enet = EBM + EAM
+       = 4,0 x105 – 2,7 x106 
+       = 2,3 x106 N∙C-1 (right/regs)
+
+OR/OF
+Net electric field at M /Netto elektrieseveld by M
+Enet = EBM + EAM
+       = -4,0 x105 + 2,7 x106  
+       = - 2,3 x106 N∙C-1
+       = 2,3 x106 N∙C-1  (right)
+
+(5)
+OPTION 2/OPSIE 2
+FAM =
+2
+21
+r
+QkQ  =
+2
+69
+)3,0(
+Q)104)(109(   = 4 x 105Q N
+FBM =
+2
+21
+r
+QkQ  =
+2
+69
+)1,0(
+Q)103)(109(   = 2,7 x 106Q N
+Fnet = 2,7 x 106Q  + (-4 x 105Q)  = 2,3 x 106Q
+
+E =
+q
+F  =
+Q
+Q103,2 6  = 2,3 x 106 N·C-1 (right/regs)
+
+=== page 14 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  14 DBE/2020
+SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+7.5 Positive/Positief   (1)
+
+7.6 POSITIVE MARKING FROM 7.2/POSITIEWE NASIEN VANAF 7.2
+
+Marking criteria/Nasienriglyne
+ Correct substitution into Pythagoras’s equation/Korrekte vervanging in
+Pythagoras se vergelyking 
+ Correct substitution into Coulomb’s Law/Korrekte vervanging in Coulomb se
+wet 
+ Correct answer/Korrekte antwoord 
+
+(3)
+(Fnet)2 = (FAD)2 + (FAB)2
+(7,69)2 = (FAD)2 + (2,7)2 
+FAD = 7,2 N
+
+FAD =
+2
+21
+r
+QkQ
+7,2  =
+2
+-69
+)15,0(
+Q)10x4)(10(9      
+
+QD = 4,5 x 10-6 C 
+
+OR/OF
+FAD =
+2
+21
+r
+QQk
+      =
+2
+-6
+9
+15,0
+Q)10x4(10x9 
+      = 1,6 x 106 Q
+Fnet =
+2
+AD
+2
+AB FF 
+  7,69 =
+262 )Q10x6,1(7,2  
+     Q = 4,50 x10-6 C 
+   [17]
+
+OR/OF
+2
+netF =
+
+2
+AD
+2
+AB FF 
+
+=== page 15 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  15 DBE/2020
+SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+QUESTION 8/VRAAG 8
+
+8.1 Marking criteria/Nasienriglyne
+If any of the underlined key words/phrases in the correct context are omitted:
+- 1 mark per word/phrase.
+Indien enige van die sleutelwoorde/frases in die korrekte konteks weggelaat word:
+- 1 punt per woord/frase
+
+(Maximum) energy provided (work done) by a battery per coulomb/unit charge
+passing through it. 
+(Maksimum) energie verskaf (arbeid verrig)  deur 'n battery per coulomb/
+eenheidslading wat daardeur beweeg.
+
+Work done  by the battery to move a unit coulomb of charge across the
+circuit./Arbeid verrig  deur die battery  om 'n eenheidslading oor die
+stroombaan te beweeg.
+
+(2)
+
+8.2 Energy (per coulomb of charge)  is converted to heat in the battery due to the
+internal resistance. 
+Energie (per coulomb lading) word na hitte omskep binne-in die battery a.g.v.
+interne weerstand.
+
+(2)
+
+8.3.1
+R
+VI 
+0,5
+1,5I
+
+  = 3 A 
+
+(3)
+
+8.3.2 OPTION 1/OPSIE 1 OPTION 2/OPSIE 2
+
+21P R
+1+R1=R1
+15
+1
+25
+1
+R
+1
+P
+
+
+Rp   = 9,375 
+Rext = 9,375 + 4  = 13,38  
+                                  (13,375 )
+21
+21
+p
+RR
+RRR 
+
+1525
+)15)(25(Rp
+
+
+Rp  = 9,375 
+Rext = 9,375 + 4 = 13,38  
+                                 (13,375 )
+
+(4)
+
+
+ 
+
+=== page 16 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  16 DBE/2020
+SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+8.3.3 POSITIVE MARKING FROM QUESTIONS 8.3.1 AND 8.3.2.
+POSITIEWE NASIEN VANAF VRAAG 8.3.1 EN 8.3.2.
+
+(3)
+OPTION 1/OPSIE 1
+Ɛ = I(R + r) 
+   = 3(13,38 + 0,5) 
+   = 41,64 V      (Range/Gebied: 41,625 – 41,64)
+OPTION 2/OPSIE 2
+Ɛ = Vext/eks + Vint 
+    = (3)(13,38) + 1,5 
+    = 41,64 V      (Range/Gebied: 41,625 – 41,64)
+
+8.4 Yes. /Ja
+
+For the same voltage/potential difference, 
+a larger current will flow through a smaller resistor (
+R
+VI ) 
+Vir dieselfde spanning/ potensiaalverskil
+sal 'n groter stroom deur die kleiner weerstand vloei (
+R
+VI ).
+
+OR/OF
+R
+1αI
+ , V = constant /konstant
+I is inversely proportional to R and V is constant.
+I is omgekeerd eweredig aan R en V is konstant.
+
+OR/OF
+V|| = IR
+    = (3)(9,38)
+    = 28,14 V
+
+IR2 =
+R
+V =
+25
+14,28  = 1,13 A 
+IR3 =
+R
+V =
+15
+14,28  = 1,88 A 
+
+OR/OF
+V is the same / V is dieselfde 
+I15Ω =
+40
+25 I
+I25Ω =
+40
+15 I
+
+(3)
+
+8.5 Remains the same/Bly dieselfde  (1)
+   [18]
+
+
+
+=== page 17 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  17 DBE/2020
+SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+QUESTION 9/VRAAG 9
+
+9.1.1 (DC) motor/(GS-)motor   (1)
+
+9.1.2 POSITIVE MARKING FROM QUESTION 9.1.1
+POSITIEWE NASIEN VANAF VRAAG 9.1.1
+Electrical to mechanical /kinetic (energy)  (2 or 0)
+Elektriese na meganiese/kinetiese (energie)     (2 of 0)
+
+(2)
+
+9.1.3 Split ring/commutator/Splitring/kommutator   (1)
+
+9.1.4 Anticlockwise/antikloksgewys   (2)
+
+9.2.1 (The rms voltage/value of AC is ) the AC voltage/potential difference which
+dissipates the same amount of energy /heat/power as an equivalent DC
+voltage/potential difference.  (2 or 0)
+(Die wgk-waarde van WS is) die WS-potensiaalverskil/spanning wat dieselfde
+hoeveelheid energie /hitte/drywing verbruik as 'n ekwivalente GS -spanning/
+potensiaalverskil.  (2 of 0)
+
+ACCEPT/AANVAAR
+The rms voltage/value of AC is the DC potential difference which dissipates
+the same amount of energy/heat/power as AC.
+Die wgk -waarde van WS is die GS -potensiaalverskil wat dieselfde
+hoeveelheid energie/hitte/drywing verbruik as die WS.
+
+(2)
+
+9.2.2 Marking criteria/Nasienriglyne
+ Appropriate formula for Pave/Geskikte formule vir Pave 
+ Substitution to calculate/Vervanging vir berekening van R 
+ Final answer/Finale antwoord: 242 Ω
+
+
+
+ OPTION 1/OPSIE 1
+R
+VP 2rmsave 
+
+R
+220=200 2
+
+R = 242 Ω 
+
+OPTION 2/OPSIE 2 OPTION 3/OPSIE 3
+
+rmsrmsave IVP  
+200 = Irms (220)
+Irms   = 0,909 A (0,91)
+rmsrmsave IVP 
+
+200 = Irms (220)
+Irms = 0,909 A(0,91)
+
+rms
+rms
+I
+VR  or/of
+I
+VR 
+909,0
+220R 
+
+
+R = 242 Ω  (241,76 Ω)
+
+Pave = Irms2R
+200 = (0,909)2R 
+R = 242 Ω 
+      (241,52 Ω)
+
+(3)
+
+=== page 18 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  18 DBE/2020
+SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief
+
+9.2.3 Marking criteria for options 1,2 and 3 /Nasienriglyne vir opsies 1,2 en 3
+ Appropriate f ormula to calculate P or I rms /Geskikte formule om  P of Irms te
+bereken 
+ Substitution/Vervanging 
+ Formula for P or W containing t/Formule vir P of W wat t bevat 
+ Substitution/Vervanging 
+ Final answer/Finale antwoord: 55 785,12 J 
+
+ POSITIVE MARKING FROM QUESTION 9.2.2.
+POSITIEWE NASIEN VANAF VRAAG 9.2.2.
+
+ OPTION 1/OPSIE 1
+Marking criteria / Nasienriglyne
+ Appropriate formula for W containing V /Geskikte formule vir W wat V
+bevat 
+ Substitution/Vervanging 
+ Final answer/Finale antwoord: 55 785,12 J 
+
+(5)
+
+R
+tVW 2
+
+
+242
+)60x10()(150  2
+     = 55 785,12 J 
+
+ OPTION 2/OPSIE 2
+R
+V=P 2rmsave
+
+
+242
+150= 2
+
+
+Pav =  92,975 W
+Δt
+WP 
+
+
+(10)(60)
+W92,975 
+ 
+W = 55 785,12 J 
+ (55785,12 – 55896 J)
+OPTION 3/OPSIE 3 OPTION 4/OPSIE 4
+
+rms
+rms
+I
+VR /
+I
+VR 
+
+rmsI
+150 242 
+
+rmsI
+ = 0,620 A
+rmsrmsave VIP 
+
+   = (0,62)(150)
+   = 92,97 W (93 W)
+Δt
+WP 
+
+
+(10)(60)
+W92,975 
+
+W = 55 785,12 J 
+(55785,12 – 55896 J)
+rms
+rms
+I
+VR
+/
+I
+VR 
+
+rmsI
+150 242 
+
+rmsI
+ = 0,620 A
+
+W = I2R
+ t 
+    = (0,62)2(242)(10)(60) 
+    = 55 814,88 J 
+(55785,12 – 55896 J)
+
+OR/OF
+W = VIΔt
+     = (150)(0,62)(600)
+     =  55 800 J
+
+ OPTION 5/OPSIE 5
+R
+V=P 2rmsave
+
+
+242
+150= 2
+= 92,975 W
+Pave= Irms2R
+92,975 = Irms2(242)
+Irms = 0,6198 A
+W = I2RΔt 
+     = (0,6198)2(242)(10)(60) 
+     = 55 778,88 J 
+
+   [16]
+
+
+
+
+=== page 19 ===
+Physical Sciences/P1/Fisiese Wetenskappe/V1  19 DBE/November 2020
+ SC/NSC/SS/NSS – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou
+
+QUESTION 10/VRAAG 10
+
+10.1 Photoelectric effect/Fotoëlektriese effek   (1)
+
+10.2 Work function (of potassium)/Werksfunksie/Arbeidsfunksie (van kalium)   (1)
+
+10.3 Potassium/Kalium 
+It has the lowest work function  / threshold frequency  / highest threshold
+wavelength.  
+Dit het die laagste arbeidsfunksie / drumpelfrekwensie / hoogste drumpel
+golflengte.
+
+(2)
+
+10.4 Marking criteria/Nasienriglyne
+If any of the underlined key words/phrases in the correct context are omitted:
+- 1 mark per word/phrase.
+Indien enige van die sleutelwoorde/frases in die korrekte konteks weggelaat word: -
+1 punt per woord/frase
+
+The work function of a metal is the minimum energy that an electron (in the
+metal) needs to be emitted/ejected from the metal / surface. 
+Die werkfunksie/arbeidsfunskie van 'n metaal is die minimum energie benodig
+om 'n elektron vanaf ‘n oppervlak / metaal vry te stel.
+
+(2)
+
+10.5.1 Wo= hfo 
+     =  (6,63 x 10-34)(1,75 x 1015) 
+     =  1,160 x 10-18 J 
+
+OR/OF
+E = Wo + Ek(max)
+hf = Wo + Ek(max)
+(6,63 x 10-34)(1,75 x 1015) = Wo + 0 
+Wo = 1,160 x 10-18 J 
+
+(3)
+
+10.5.2 POSITIVE MARKING FROM QUESTION 10.5.1.
+POSITIEWE NASIEN VANAF VRAAG 10.5.1.
+(max)k0 EWE 
+
+2
+maxo mv21hfhf 
+
+(6,63 x 10-34)f  = 1,160 x 10-18  +
+2
+1 (9,11 x 10-31) (5,60 x 105)2
+                     f = 1,97 x 1015 Hz 
+
+(4)
+   [13]
+
+TOTAL/TOTAAL:  150
+
+Any one/Enige een
+ Any one / Enigeen

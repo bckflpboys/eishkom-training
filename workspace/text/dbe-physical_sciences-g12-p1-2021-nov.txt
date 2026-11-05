@@ -1,0 +1,1008 @@
+=== page 1 ===
+Copyright reserved  Please turn over
+
+MARKS:  150
+
+TIME:  3 hours
+
+This question paper consists of 17 pages and 3 data sheets.
+
+GRADE 12
+NATIONAL
+SENIOR CERTIFICATE
+PHYSICAL SCIENCES:  PHYSICS (P1)
+
+NOVEMBER 2021
+
+=== page 2 ===
+Physical Sciences/P1 2 DBE/November 2021
+ NSC
+Copyright reserved  Please turn over
+
+INSTRUCTIONS AND INFORMATION
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+Write your examination number and ce ntre number in the appropriate spaces
+on the ANSWER BOOK.
+
+This question paper consists of TEN questions. Answer ALL the questions in
+the ANSWER BOOK.
+
+Start EACH question on a NEW page in the ANSWER BOOK.
+
+Number the answers correctly according to the numbering system used in this
+question paper.
+
+Leave ONE line between two subquestions, e.g. between QUESTION 2.1 and
+QUESTION 2.2.
+
+You may use a non-programmable calculator.
+
+You may use appropriate mathematical instruments.
+
+Show ALL formulae and substitutions in ALL calculations.
+
+Round off your FINAL numerical answers to a minimum of TWO decimal
+places.
+
+Give brief motivations, discussions, etc. where required.
+
+You are advised to use the attached DATA SHEETS.
+
+Write neatly and legibly.
+
+=== page 3 ===
+Physical Sciences/P1 3 DBE/November 2021
+ NSC
+Copyright reserved  Please turn over
+
+QUESTION 1:  MULTIPLE-CHOICE QUESTIONS
+
+Various options are provided as possible answers to the following questions. Each
+question has only ONE correct answer. Choose the answer and write only the letter
+(A–D) next to the question numbers (1.1 to 1.10) in the ANSWER BOOK, e.g. 1.11 E.
+
+1.1 Consider the statement below.
+
+The perpendicular force exerted by a surface on an object in contact  with the
+surface.
+
+Which ONE of the following forces is defined by the statement above?
+
+ A
+
+B
+
+C
+
+D
+Normal force
+
+Resultant force
+
+Frictional force
+
+Gravitational force
+
+(2)
+
+1.2 Two balls of masses m and 2m are dropped simultaneously from the same
+height above the ground. Ignore air resistance.
+
+When the balls strike the ground, w hich ONE of the following physical
+quantities will be the same for both balls?
+
+ A
+
+B
+
+C
+
+D
+Weight
+
+Velocity
+
+Momentum
+
+Kinetic energy
+
+(2)
+
+=== page 4 ===
+Physical Sciences/P1 4 DBE/November 2021
+ NSC
+Copyright reserved  Please turn over
+
+1.3 The graph below shows how the momentum (p) of an object changes with
+time (t).
+
+During which ONE of the following time intervals, measured in seconds, is the
+magnitude of the net force acting on the object the greatest?
+
+ A
+
+B
+
+C
+
+D
+0 to 1
+
+1 to 2
+
+2 to 3
+
+3 to 4
+
+(2)
+
+1.4 A ball is dropped from a height above a floor. The ball makes an elastic
+collision with the floor at time to and bounces vertically upwards.
+
+Ignore air resistance.
+
+Which ONE of the following graphs shows how the total mechanical energy
+(EM) of the ball changes with time?
+
+ A
+
+B
+ C
+
+D
+(2)
+p (kg∙ms -1)
+0
+10
+20
+-10
+-20
+t (s) 1 2 3 4
+t to 0
+EM
+t to 0
+EM
+t to 0
+EM
+t to 0
+EM
+
+=== page 5 ===
+Physical Sciences/P1 5 DBE/November 2021
+ NSC
+Copyright reserved  Please turn over
+
+1.5 Consider the two spectrum diagrams below.
+
+ Diagram 1 represents the spectrum of an element in a laboratory on Earth.
+
+Diagram 2 represents the spectrum of the same element from a distant star
+as observed from Earth.
+
+Which ONE of the following can be deduced from the spectra above?
+
+ A
+
+B
+
+C
+
+D
+The star is moving towards Earth.
+
+The star is at rest relative to Earth.
+
+The star is moving away from Earth.
+
+Both the star and Earth are moving towards each other.
+
+(2)
+
+1.6 The diagram below shows the field lines for the combined electric field due to
+two small charged spheres P and Q.
+
+ Which ONE of the combinations below correct ly shows  the polarity of
+spheres P and Q?
+
+  SPHERE P SPHERE Q
+ A Negative Positive
+ B Negative Negative
+ C Positive Positive
+ D Positive Negative   (2)
+Diagram 1
+Diagram 2
+Blue Red
+Blue Red
+P Q
+
+=== page 6 ===
+Physical Sciences/P1 6 DBE/November 2021
+ NSC
+Copyright reserved  Please turn over
+
+V
+1
+V1
+
+V
+1
+V3
+ ε     S
+   R
+
+V
+1
+V4
+
+V
+1
+V2
+  R
+
+  R
+
+1.7 Two identical spheres, P and Q, carry charges of +q and –2q respectively.
+Sphere P exerts an electrostatic force of magnitude F on sphere Q.
+
+Which ONE of the following represents the magnitude of  the electrostatic
+force exerted on sphere P by sphere Q?
+
+A
+
+B
+
+C
+
+D
+2
+1
+F
+
+F
+
+2F
+
+4F
+
+(2)
+
+1.8 In the circuit diagram shown below all the resistors are IDENTICAL. Ignore
+the internal resistance of the cell.
+
+  Which voltmeter will have the HIGHEST reading when switch S is closed?
+
+ A
+
+B
+
+C
+
+D
+V1
+
+V2
+
+V3
+
+V4
+
+(2)
+
+=== page 7 ===
+Physical Sciences/P1 7 DBE/November 2021
+ NSC
+Copyright reserved  Please turn over
+
+1.9 In w hich ONE of the following electrical machines is electrical energy
+converted to mechanical energy?
+
+ A
+
+B
+
+C
+
+D
+AC generator
+
+DC generator
+
+AC dynamo
+
+DC motor
+
+(2)
+
+1.10 Which ONE of the following combinations correctly links an emission
+spectrum and an absorption spectrum to the energy transitions of an electron
+in an atom?
+
+  EMISSION SPECTRUM  ABSORPTION SPECTRUM
+ A From low to high energy levels From high to low energy levels
+ B From low to high energy levels From low to high energy levels
+ C From high to low energy levels From high to low energy levels
+ D From high to low energy levels From low to high energy levels   (2)
+      [20]
+
+=== page 8 ===
+Physical Sciences/P1 8 DBE/November 2021
+ NSC
+Copyright reserved  Please turn over
+
+QUESTION 2 (Start on a new page.)
+
+A 20 kg block is placed on a rough surface inclined at 30° to the horizontal. A constant
+force F, acting parallel to the surface, is applied on the block so that t he block moves
+up the incline at a CONSTANT VELOCITY of 2 ms-1. Refer to the diagram below.
+
+A constant kinetic frictional force of 18 N acts on the block.
+
+2.1 State Newton's First Law in words.  (2)
+
+2.2 Draw a labelled free-body diagram for the block.  (4)
+
+2.3 Calculate the magnitude of force F.  (4)
+
+Force F is removed when the block reaches point X on the surface. The block
+continues to move up the surface and comes to rest momentarily at point Y.
+
+Assume that the kinetic frictional force acting on the block remains at 18 N as it moves
+from point X to point Y.
+
+2.4 Write down the net force acting on the block as it moves from X to Y.  (2)
+
+2.5 Calculate the distance between points X and Y.  (4)
+[16]
+
+F
+
+20 kg
+30°
+Y
+X
+
+ 
+
+=== page 9 ===
+Physical Sciences/P1 9 DBE/November 2021
+ NSC
+Copyright reserved  Please turn over
+
+QUESTION 3 (Start on a new page.)
+
+A hot-air balloon is moving upwards at a CONSTANT UNKNOWN speed.
+
+3.1 Is the hot air balloon in free fall? Choose from YES or NO.
+
+Give a reason for the answer.
+
+(2)
+
+When the balloon is 200 m above the ground, a small stone A is dropped from the
+balloon. See the diagram above. Another small stone B is dropped 5 s later  from the
+balloon while the balloon is still moving upwards at constant velocity.
+
+Stone A strikes the ground at a speed of 62,68 m∙s-1.
+
+Ignore air resistance.
+
+3.2 Calculate the:
+
+ 3.2.1 Speed of the hot air balloon   (3)
+
+ 3.2.2 Time it takes stone A to strike the ground  (3)
+
+ 3.2.3 Distance between the hot -air balloon and stone B at the instant
+when stone A strikes the ground
+
+(6)
+
+3.3 On the same set of axes,  draw position -time graph s for both the hot -air
+balloon and stone A from the moment the stone is dropped until it strikes the
+ground.
+
+Use the ground as zero reference.
+
+Label your graphs BALLOON and A.
+
+(4)
+[18]
+200 m
+ground
+
+A
+
+=== page 10 ===
+Physical Sciences/P1 10 DBE/November 2021
+ NSC
+Copyright reserved  Please turn over
+
+QUESTION 4 (Start on a new page.)
+
+A ball X, of mass 10 kg , is moving eastwards with a velocity of 2 m∙s -1. It  collides
+ELASTICALLY with another ball, Y, of mass 2 kg  which was moving with an unknown
+velocity vY (Diagram A). Immediately after the collision, ball X comes to rest and ball Y
+moves eastwards with a kinetic energy of 36 J (Diagram B).
+
+Ignore friction.
+
+                         DIAGRAM A         DIAGRAM B
+
+4.1 Explain the meaning of the term elastic collision.  (2)
+
+4.2 Calculate velocity vY.    (5)
+
+The balls were in contact with each other for 0,1 s during the collision.
+
+4.3 Calculate the magnitude of the force that ball X exerted on ball Y during the
+collision.
+
+(3)
+[10]
+
+Before collision
+X
+2 m∙s-1
+Y X Y
+   After collision
+N
+E
+S
+W
+36 J 0 m∙s-1 vY
+
+=== page 11 ===
+Physical Sciences/P1 11 DBE/November 2021
+ NSC
+Copyright reserved  Please turn over
+
+QUESTION 5 (Start on a new page.)
+
+A 2 kg box is released from rest at point P, 5 m above the ground. It slides down  a
+smooth frictionless curved track PQ. See the diagram below.
+
+5.1 State the principle of conservation of mechanical energy in words.   (2)
+
+5.2 Use the PRINCIPLE OF CONSERVATION OF MECHANICAL ENERGY  to
+calculate the speed of the box when it reaches point Q.
+
+(3)
+
+The box passes point Q and moves 10 m on a rough horizontal surface before striking
+a barrier at point R at a speed of 4 ms-1.
+
+5.3 Use ENERGY PRINCIPLES to calculate the magnitude of the average
+frictional force acting on the box as it moves from Q to R.
+
+(4)
+
+The barrier exerts an impulse of 14 N s to the LEFT on the box when the box strikes
+the barrier.
+
+5.4 Calculate the change in kinetic energy of the box after striking the barrier.  (5)
+[14]
+
+5 m
+P
+Q R 10 m
+2 kg
+barrier
+
+=== page 12 ===
+Physical Sciences/P1 12 DBE/November 2021
+ NSC
+Copyright reserved  Please turn over
+
+QUESTION 6 (Start on a new page.)
+
+The siren of a  stationary ambulance emits sound  waves at a constant frequency of
+680 Hz. A man is standing with a detector that records the wavelength of the sound
+emitted by the siren, as shown in the diagram below.
+
+The speed of sound in air is 340 m∙s-1.
+
+6.1 Calculate the wavelength of the detected sound.  (3)
+
+The ambulance now moves at a constant speed along the road TOWARDS the man.
+The detector now records the wavelength of the sound, which differs from the previous
+reading by 0,05 m.
+
+6.2 State the Doppler effect.  (2)
+
+6.3 How would EACH of the following have changed when the ambulance
+approached the detector compared to when the ambulance was stationary?
+
+Choose from INCREASED, DECREASED or NO CHANGE.
+
+ 6.3.1 Distance between the wave fronts   (1)
+
+ 6.3.2 Frequency of the detected waves  (1)
+
+6.4 Calculate the speed of the ambulance.  (5)
+   [12]
+
+=== page 13 ===
+Physical Sciences/P1 13 DBE/November 2021
+ NSC
+Copyright reserved  Please turn over
+
+QUESTION 7 (Start on a new page.)
+
+7.1 A small neutral sphere acquires a charge of -1,95 x 10-6 C.
+
+ 7.1.1 Were electrons ADDED TO or REMOVED FROM the sphere?  (1)
+
+ 7.1.2 Calculate the number of electrons which were added or removed.  (3)
+
+ 7.1.3 Define the term electric field at a point.  (2)
+
+ 7.1.4 Calculate the magnitude of the electric field at a point 0,5 m from
+the centre of the charged sphere.
+
+(3)
+
+7.2 Two point charges , q1 and q2, are fixed 0,02 m apart . The magnitude of
+charges q1 and q2 is the same and q1 is NEGATIVELY charged.
+
+The small charged sphere with the charge of -1,95 x 10 -6 C is placed at
+point P, 0,03 m east of charge q2, as shown in the diagram below. The sphere
+at point P experiences a net electrostatic force of 1,38 N west.
+
+ Calculate the magnitude of the charge on q2.  (5)
+[14]
+
+-1,95 x 10-6 C
+0,02 m 0,03 m
+● ● ● q1 q2 P FE = 1,38 N
+N
+E
+S
+W
+
+=== page 14 ===
+Physical Sciences/P1 14 DBE/November 2021
+ NSC
+Copyright reserved  Please turn over
+
+QUESTION 8 (Start on a new page.)
+
+The battery in the circuit shown below has an emf of 12 V and an unknown internal
+resistance r.
+
+The resistance of the connecting wires and the ammeter is negligible.
+
+Switch S is OPEN.
+
+8.1 Write down the reading on:
+
+ 8.1.1 Voltmeter V1  (1)
+
+ 8.1.2 Voltmeter V2  (1)
+
+Switch S is now CLOSED.
+
+The reading on the ammeter is 1,2 A and the power dissipated in resistor X is 5,76 W.
+
+8.2 Define the term power.  (2)
+
+Calculate the:
+
+8.3 Resistance of resistor X  (3)
+
+8.4 Total EXTERNAL resistance of the circuit  (3)
+
+8.5 Reading on voltmeter V2  (5)
+
+A length of wire of negligible resistance is used to connect point P to point Q in the
+circuit.
+
+8.6 How will the reading on voltmeter V1 be affected?
+
+Choose from INCREASES, DECREASES or NO EFFECT.
+
+Explain the answer.
+
+(4)
+   [19]
+•
+r
+5,76 W
+S
+6 Ω
+Ɛ = 12 V
+•
+X 2,4 Ω
+V1
+P
+•
+Q
+•
+V2 6 Ω
+A
+
+=== page 15 ===
+Physical Sciences/P1 15 DBE/November 2021
+ NSC
+Copyright reserved  Please turn over
+
+QUESTION 9 (Start on a new page.)
+
+A simplified diagram of an AC generator connected to a 25 Ω resistor is shown below.
+The coil rotates anticlockwise.
+
+9.1 Name the component that distinguishes this generator from a DC generator.  (1)
+
+9.2 In which direction will the induced current flow in section XY of the coil?
+
+Choose from X to Y OR Y to X.
+
+(2)
+
+The graph below shows the output voltage of the generator for one cycle of rotation of
+the coil.
+
+9.3 Define the term rms potential difference.   (2)
+
+9.4 Calculate the rms current in the circuit.  (4)
+
+9.5 Calculate the average power dissipated in the 25 Ω resistor.   (3)
+N
+S
+Y
+X
+25 Ω
+0,05 t (s)
+V (V)
+0
+0,1
+-100
+100
+0,025 0,075
+
+=== page 16 ===
+Physical Sciences/P1 16 DBE/November 2021
+ NSC
+Copyright reserved  Please turn over
+
+The speed of rotation of the coil in the generator is now DOUBLED.
+
+9.6 Copy the set of axes below in your ANSWER BOOK and sketch the graph of
+output voltage versus time for 0,1 s.
+
+    (3)
+[15]
+0,05 t (s)
+V (V)
+0
+0,1 0,025 0,075
+-100
+-200
+100
+200
+
+=== page 17 ===
+Physical Sciences/P1 17 DBE/November 2021
+ NSC
+Copyright reserved
+
+QUESTION 10 (Start on a new page.)
+
+The relationship between frequency (f) and maximum kinetic energy (Ek(max)) of
+photoelectrons emitted from two cathodes, M and N, of different photoelectric cells is
+investigated. The graphs below have been obtained from the results.
+
+10.1 Define the term threshold frequency.  (2)
+
+10.2 How does the maximum kinetic energy of photoelectrons emitted from
+cathode N compare to  the maximum kinetic energy  of those emitted from
+cathode M when light of a frequency greater than 10,40 x 1014 Hz is shone on
+each of the cathodes?
+
+Choose from GREATER THAN, SMALLER THAN or EQUAL TO.
+
+(2)
+
+10.4 The experiment is now repeated for cathode M using light of frequency fx, but
+of higher intensity. How will EACH of the following be affected?
+
+Choose from INCREASES, DECREASES or NO EFFECT.
+
+ 10.4.1 The y-intercept of the graph  (1)
+
+ 10.4.2 The number of photoelectrons emitted per unit time  (1)
+
+ 10.4.3 The maximum kinetic energy of the emitted photoelectrons  (1)
+[12]
+
+ TOTAL:  150
+
+10.3 Calculate the value of frequency fx indicated on the graph.  (5)
+M
+f (x 1014 Hz)
+N 10,40
+fx
+5,16
+23,01 Ek (max) (x 10-19 J)
+
+=== page 18 ===
+Physical Sciences/P1 1 DBE/November 2021
+ NSC
+Copyright reserved  Please turn over
+
+DATA FOR PHYSICAL SCIENCES GRADE 12
+PAPER 1 (PHYSICS)
+
+GEGEWENS VIR FISIESE WETENSKAPPE GRAAD 12
+VRAESTEL 1 (FISIKA)
+
+TABLE 1:  PHYSICAL CONSTANTS/TABEL 1:  FISIESE KONSTANTES
+
+NAME/NAAM SYMBOL/SIMBOOL VALUE/WAARDE
+Acceleration due to gravity
+Swaartekragversnelling g 9,8 m·s-2
+Universal gravitational constant
+Universele gravitasiekonstant G 6,67 x 10-11 N·m2·kg-2
+Radius of the Earth
+Radius van die Aarde RE 6,38 x 106 m
+Mass of the Earth
+Massa van die Aarde ME 5,98 x 1024 kg
+Speed of light in a vacuum
+Spoed van lig in 'n vakuum c 3,0 x 108 m·s-1
+Planck's constant
+Planck se konstante h 6,63 x 10-34 J·s
+Coulomb's constant
+Coulomb se konstante k 9,0 x 109 N·m2·C-2
+Charge on electron
+Lading op elektron e -1,6 x 10-19 C
+Electron mass
+Elektronmassa me 9,11 x 10-31 kg
+
+=== page 19 ===
+Physical Sciences/P1 2 DBE/November 2021
+ NSC
+Copyright reserved  Please turn over
+
+TABLE 2:  FORMULAE/TABEL 2:  FORMULES
+
+MOTION/BEWEGING
+tavv if 
+
+2
+2
+1
+i taΔtvΔx   or/of
+2
+2
+1
+i taΔtvΔy 
+xa2vv
+2
+i
+2
+f 
+ or/of
+ya2vv
+2
+i
+2
+f 
+Δt2 vvΔx fi    or/of
+Δt2 vvΔy fi  
+
+FORCE/KRAG
+
+maFnet
+
+mvp
+Nμ=f s
+max
+s
+
+Nμ =f kk
+if
+net
+mv- mv=pΔ
+pΔ=tΔF
+
+mgw
+
+2
+21
+d
+mmG=F
+       or/of
+2
+21
+r
+mmG=F
+
+2d
+MG  g 
+2r
+MG g 
+WORK, ENERGY AND POWER/ARBEID, ENERGIE EN DRYWING
+
+xΔF=W
+cos
+
+mghU           or/of
+mghEP
+2mv21K 
+       or/of
+2
+k mv21E 
+KWnet 
+        or/of
+knet EW 
+
+if KKK 
+     or/of
+kikfk EEE 
+UKWnc 
+ or/of
+pknc EEW 
+
+t
+WP 
+Pave = Fvave    /    Pgemid = Fvgemid
+
+WAVES, SOUND AND LIGHT/GOLWE, KLANK EN LIG
+
+ fv
+
+f
+1T
+s
+s
+L
+L fvv vvf 
+
+b
+b
+L
+L fvv vvf 
+hfE     or /of
+ hcE
+
+k(max)0 E+ W=E
+  or
+max0 K+ W=E  where
+hf  E
+ and
+00 hfW     and
+2
+max(max)k mv21E    /
+2
+maxmax mv21K 
+k (mak s)E WE  0
+  of
+mak s0 K WE   waar
+hf  E
+ en
+00 hfW     en
+2
+mak s)mak s(k mv21E    /
+2
+maksmv21K m aks
+
+or/of
+or/of
+
+=== page 20 ===
+Physical Sciences/P1 3 DBE/November 2021
+ NSC
+Copyright reserved
+
+ELECTROSTATICS/ELEKTROSTATIKA
+
+2
+21
+r
+QkQF
+
+2r
+kQE 
+q
+WV
+
+q
+FE
+
+e
+Q=n
+eq
+Q=n
+
+ELECTRIC CIRCUITS/ELEKTRIESE STROOMBANE
+
+I
+VR 
+
+emf (
+ε ) = I(R + r)
+
+emk (
+ε ) = I(R + r)
+...RRR 21s 
+
+...R1R1R1 21p 
+
+tq  I
+W = Vq
+
+W = VI
+ t
+
+W = I2R
+ t
+
+W =
+R
+ΔtV2
+Δt
+WP 
+
+P = VI
+
+RP 2I
+
+R
+VP 2
+
+ALTERNATING CURRENT/WISSELSTROOM
+
+2
+max
+rms
+II 
+             /
+2
+maks
+wgk
+II 
+
+2
+VV maxrms 
+           /
+2
+VV makswgk 
+rmsrmsave VP I
+     /
+wgkwgkgemiddeld VP I
+
+RP 2rmsave I
+       /
+RP 2wgkgemiddeld I
+
+R
+VP 2rmsave
+        /
+R
+VP 2wgkgemiddeld
+
+output
+N S
+or/of

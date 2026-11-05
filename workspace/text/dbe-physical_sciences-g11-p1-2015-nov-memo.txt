@@ -1,0 +1,951 @@
+=== page 1 ===
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+MARKS/PUNTE:  150
+
+This memorandum consists of 18 pages.
+Hierdie memorandum bestaan uit 18 bladsye.
+
+PHYSICAL SCIENCES:  PHYSICS (P1)
+FISIESE WETENSKAPPE: FISIKA (V1)
+
+NOVEMBER 2015
+
+MEMORANDUM
+NATIONAL
+SENIOR CERTIFICATE
+NASIONALE
+SENIOR SERTIFIKAAT
+GRADE/GRAAD 11
+
+=== page 2 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 2 DBE/November 2015
+ NSC/NSS – Grade/Graad 11 – Memorandum
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION 1/VRAAG 1
+
+1.1 C   (2)
+
+1.2 D   (2)
+
+1.3 C   (2)
+
+1.4 B   (2)
+
+1.5 A   (2)
+
+1.6 B   (2)
+
+1.7 A   (2)
+
+1.8 D   (2)
+
+1.9 B  (2)
+
+1.10 D   (2)
+   [20]
+
+=== page 3 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 3 DBE/November 2015
+ NSC/NSS – Grade/Graad 11 – Memorandum
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+θ
+Fx
+Fy
+
+QUESTION 2/VRAAG 2
+
+2.1 Each of them has magnitude and direction
+Elk van hulle het grootte en rigting
+
+ NOTE: 1 mark for: they have arrows or any similar statement.
+LET WEL: 1 punt vir: hulle het pyltjies of enige soortgelyke stelling.
+ACCEPT: They have magnitude and arrows indicating direction for 2 marks.
+AANVAAR: Hulle het grootte en pyltjies wat rigting aandui vir 2 punte.
+
+(2)
+
+2.2 Fx = P cos 80o + Q cos 30o + (-R cos 60o)
+    = 500 cos 80o + 200 cos 30o – 300 cos 60o]
+
+∴ Fx = 110,03 N
+Fy = P sin 80o + Q sin30o +(-R sin 60o)
+    = [500 sin 80o + 200 sin 30o – 300 sin 60o] 
+∴ Fy = 332,60 N
+
+FR = ( ) ( )22 ,60 332 + 03,110 
+
+   = 350,33 N
+θ =
+( )
+( )03 ,110
+60 ,332tan 1-   = 71,69o (71,7O)
+
+Resultant force = 350,33 N  in direction N 18, 3(1)o E(accept 71,69o North of
+east) [ACCEPT ANSWERS CORRECT TO 1 DEC PLACE FOR BEARING/
+DIRECTION]
+Resulterende krag = 350,33 N in die rigting N 18,3(1) oO (aanvaar 71,69 o
+Noord van oos) [AANVAAR ANTWOORDE KORREK NA 1 DES. PLEK VIR
+RIGTING]
+
+(8)
+
+NOTE ALSO/LET WEL OOK:
+Fx = P sin 10o + Q sin 60o + (-R sin30o
+     [500 sin 10o + 200 sin 60o – 300 sin 30o]
+
+Fy  = P cos 10o + Q cos 60o + (-R cos 30o)
+     [500 cos 10o + 200 cos 60o – 300 cos 30o]
+
+Do not penalise if diagram is not drawn.
+Moenie penaliseer as diagram nie geteken is nie.
+
+=== page 4 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 4 DBE/November 2015
+ NSC/NSS – Grade/Graad 11 – Memorandum
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+500 N
+200 N
+300 N
+350 N
+10o
+30o
+30o
+72o
+
+2.2 SCALE DRAWING/SKAALTEKENING
+
+CRITERIA/KRITERIA MARK/PUNT
+Each angle correctly measured
+Elke hoek korrek gemeet
+(1x3)
+Correct tail-to-head drawing of PQR
+Korrekte stert-aan-kop tekening vir PQR
+(1 x3)
+Fres both magnitude and direction correct starting from
+origin to meet 'head' of vector R
+Fres beide grootte en rigting korrek. Begin vanaf oorsprong
+om 'kop' van vektor R te ontmoet
+(1x2)
+ACCEPT P, Q and R in place of 500 N, 200 N and 300 N
+respectively.
+Aanvaar P, Q en R in plaas van 500 N, 200 N en 300 N
+onderskeidelik.
+
+Penalise ONE MARK if arrows are omitted.
+Penaliseer EEN PUNT indien pylpunte uitgelaat word
+
+(8)
+   [10]
+
+=== page 5 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 5 DBE/November 2015
+ NSC/NSS – Grade/Graad 11 – Memorandum
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+FN
+w/Fg
+Fsin20o
+fk Fcos20o
+ FN 
+●
+ F 
+w/Fg 
+ fk 
+ F 
+w/Fg 
+ fk 
+
+ FN 
+
+QUESTION 3/VRAAG 3
+
+3.1
+
+           ACCEPT/AANVAAR
+
+   (4)
+
+Notes: Accepted Labels/Aanvaarde benoemings
+w Fg/Fw/force of Earth on block/weight/490 N/mg/gravitational force Fg/Fw/krag van Aarde op blok/gewig/490 N/mg/gravitasiekrag
+f Ff / fk /friction/wrywing
+N FN /Normal/Normaal
+ Any additional force: deduct 1 mark (maximum ¾) Enige addisionele krag: trek 1 punt af (maksimum ¾)
+ Lines must touch dot/square otherwise (maximum ¾ ) Lyne moet kolletjie/vierkant raak anders( maksimum ¾)
+ Do not penalise if angle is shown/not shown. Moenie penaliseer as hoek getoon/nie getoon is nie.
+
+3.2 A body will remain in its state of rest or motion at constant velocity unless a
+non-zero resultant/net force acts on it.
+'n Liggaam sal in sy toestand van rus of beweging teen konstante snelheid
+bly, tensy 'n nie-nul resulterende / netto krag daarop inwerk.
+
+(2)
+
+3.3 Fnet = ma
+Fcos20o - fk = 0
+Fcos20o - μk FN = 0
+0,94 F - 0,4(490 - 0,34F)  = 0
+F = 182,156 N
+
+(6)
+
+Fg = FN + Fsin20o                 
+mg = FN + Fsin20o
+(50)(9,8) = FN + 0,34F
+FN = 490 - 0,34F
+
+=== page 6 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 6 DBE/November 2015
+ NSC/NSS – Grade/Graad 11 – Memorandum
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+3.4 POSITIVE MARKING FROM 3.3
+POSITIEWE NASIEN VANAF 3.3
+Fg = FN + Fsin20o
+mg = FN + Fsin20o
+(50)(9,8) = FN + 0,34F
+FN = 490 - 0,34F
+
+FN = 490 – 0,34(182,156)
+     = 428,07 N
+
+(2)
+
+3.5 fk = μk FN = μkN
+fk = 0,4(428,07)
+   = 171,23 N
+
+(2)
+
+3.6 The normal force increases , hence the frictional force increases, making it
+harder to move the object forward.
+Die normale krag neem toe, gevolglik neem die wrywings krag toe, wat dit
+moeiliker maak vir die voorwerp om vorentoe te beweeg.
+
+(2)
+   [18]
+
+QUESTION 4/VRAAG 4
+
+4.1.1
+
+Notes: Accepted Labels/Aanvaarde benoemings MARK/PUNT
+w Fg/Fw/force of Earth on block/weight/9,8 N/mg/gravitational force Fg/Fw/krag van Aarde op blok/gewig/9,8 N/mg/gravitasiekrag  
+f Ff/fk/friction/wrywing 
+N FN/Normal/Normaal 
+T FT/Tension force/Spanningskrag 
+FA 30 N/F30N 
+ Any additional force: deduct 1 mark maximum (maximum ¾) Enige addisionele krag: trek 1 punt af (maksimum ¾)
+ Lines must touch dot/square otherwise (maximum ¾ ) Lyne moet kolletjie/vierkant raak anders (maksimum ¾)
+ Do not penalise if angle is shown/not shown Moenie penaliseer as hoek getoon/nie getoon is nie.
+
+   (5)
+
+MAY START FROM ANY OF THESE
+KAN VAN ENIGE VAN HIERDIE BEGIN
+
+●
+N/FN
+w/Fg
+FA
+f/Ff
+T
+N/FN
+w/Fg
+FA
+f/Ff
+T
+
+=== page 7 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 7 DBE/November 2015
+ NSC/NSS – Grade/Graad 11 – Memorandum
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+4.1.2 When a net force is applied to an object (of mass m), it accelerates the object
+in the direction of the net force. The acceleration is directly proportional to the
+net force and inversely proportional to the mass of the object.
+Wanneer 'n netto krag op ' n liggaam (met massa m ) toegepas word, versnel
+dit in die rigting van die netto krag. Die versnelling is direk eweredig is aan die
+krag en omgekeerd eweredig is aan die massa van die voorwerp.
+
+OR/OF
+When a net force acts on an object of mass m, the acceleration that  results is
+directly proportional to the net force, has a magnitude that is inversely
+proportional to the mass and a direction that is the same as that of the net
+force. 
+Wanneer 'n netto krag op ' n liggaam met massa m inwerk, is die gevolglike
+versnelling direk eweredig aan die netto krag, het ' n grootte wat omgekeerd
+eweredig is aan die mass a en 'n rigting wat dieselfde is as die van die netto
+krag.
+
+(2)
+
+4.1.3 OPTION 1/OPSIE 1
+Fnet = ma
+For the 1 kg block/Vir die 1 kg-blok
+30-(T+mgsin28o + fk) = ma
+30 -{T+(1)(9,8)(sin28o) +4} = (1)(a) 
+21, 399 -T  = a……………(1)
+
+For the 2 kg block/Vir die 2 kg blok
+Fnet = ma
+T-(mgsin28o + fk) = ma
+T-{(2)(9,8)(sin28o)  + 8} = (2)(a) 
+T - 17,201 = 2a …………….(2)
+Substitute for T from equation (1)
+Vervang T vanaf vergelyking (1)
+(21,4 - a) - 17,2 = 3a
+4,198 = 3a
+a =1,4 m∙s-2 (1,399 m∙s-1)
+
+Form (1)/Vanaf (1)
+T = 21,399 – a
+  = 21,399 – 1,399
+  = 20 N 
+
+(5)
+
+OR/OF
+From (2)
+T = 17,201 + 2(1,399)
+  = 20 N
+OR from (1) & (2)/Of vanaf (1) & (2)
+21,399 – T = a………..(1)
+T – 17,201 = 2a……..(2)
+T – 17,201 = 2(21,399 – T)
+T = 20 N (19,999 N)
+
+=== page 8 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 8 DBE/November 2015
+ NSC/NSS – Grade/Graad 11 – Memorandum
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+4.1.3 OPTION 2 (AWARD 4 MARKS)
+OPSIE 2 (KEN 4 PUNTE TOE)
+Fnet = ma
+For the 1 kg and 2 kg block taken together:
+Vir die 1 kg- en 2 kg-blok saam geneem:
+FA – m1gsin 28o - f1k – m2gsin 28o – f2k = (m1 + m2)a
+30 – (1)9,8 sin 28o – 4 – 2(9,8)sin 28o – 8 = 3a
+a = 1,399 m∙s-1
+
+For the 2 kg block/Vir die 2 kg-blok
+Fnet = ma
+T - (mgsin28o + fk) = ma
+T - {(2)(9,8)(sin28o)  + 8} = (2)(1,399) 
+T = 20 N 
+
+(4)
+
+4.1.4 REMAINS THE SAME/BLY DIESELFDE   (1)
+
+4.1.5 DECREASES/AFNEEM  (1)
+
+4.2.1
+
+   (2)
+
+OR/OF
+For the 1 kg block/Vir die 1 kg-blok
+30 – (T + m1gsin 28o + 4) = m1a
+30 – (T + 9,8 sin28o + 4) = 1,399
+30 – T – 4,6 – 4 = 1,399
+T = 20,001N (20 N) 
+ACCEPT/AANVAAR
+●
+T 
+w/Fg 
+
+T 
+w/Fg 
+
+=== page 9 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 9 DBE/November 2015
+ NSC/NSS – Grade/Graad 11 – Memorandum
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+4.2.2 OPTION 1/OPSIE 1
+Fnet = ma
+For the 1 kg block
+T – (1)(9,8) = (1)a    
+∴ T – 9,8 = a………….(1)
+
+For the 2 kg block
+(2)(9,8) – T = 2a
+∴  19,6 – T = 2a………(2)
+
+From (1) and (2)/Vanaf (1) en (2)
+9,8 = 3a
+∴  a = 3,27 m∙s-2
+
+Δy = viΔt + ½ aΔt2  
+-1 = 0 + ½ (-3,27)Δt2
+Δt = 0,78 s 
+
+OR/OF
+Δy = viΔt + ½ aΔt2  
+1 = 0 + ½ (3,27)Δt2
+Δt = 0,78 s 
+
+(7)
+
+ OPTION 2 (6 MARKS)/OPSIE 2 (6 PUNTE)
+Fnet = ma
+For the SYSTEM/Vir die SISTEEM
+m2g – m1g = (m1+ m2)a
+2(9,8) – 9,8 = 3a
+9,8 = 3a
+a = 3,27m∙s-2
+
+Δy = viΔt + ½ aΔt2  
+-1 = 0 + ½ (-3,27)Δt2
+Δt = 0,78 s 
+
+OR/OF
+Δy = viΔt + ½ aΔt2  
+1 = 0 + ½ (3,27)Δt2
+Δt = 0,78 s 
+
+   [23]
+
+1 mark for any of the 2/1 punt vir enige van die 2
+1 mark for any of the 2/1 punt vir enige van die 2
+
+=== page 10 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 10 DBE/November 2015
+ NSC/NSS – Grade/Graad 11 – Memorandum
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION 5/VRAAG 5
+
+5.1 Every body in the universe attracts every other body with a force that is
+directly proportional to the product of their masses  and inversely
+proportional to the square of the distance between their centres. 
+Elke liggaam in die heelal trek ' n ander liggaam aan met ' n krag wat direk
+eweredig is aan die produk van hul massas en omgekeerd eweredig is aan
+die kwadraat van die afstand tussen hul middelpunte.
+
+(2)
+
+5.2
+F = 2
+21
+r
+mmG   OR/OF F = 2
+E
+E
+R
+mMG 
+
+  =
+( )( )( )[ ]
+29
+2424
+11-
+]10 ×38 ,1[
+10 × 5,9833000010 × ,985× 10 67 ,6
+
+  = 4,13(3) x 1026 N
+
+(4)
+
+5.3 Equal to/Gelyk aan
+Newton's third law is obeyed
+Newton se derde wet word gehoorsaam.
+
+(2)
+   [8]
+
+
+
+
+=== page 11 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 11 DBE/November 2015
+ NSC/NSS – Grade/Graad 11 – Memorandum
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION 6/VRAAG 6
+
+6.1 The refractive index depends on the optical density of the medium relative to
+air. 
+Die brekingsindeks hang af van die optiese digtheid van die medium relatief
+tot lig.
+
+OR/OF
+The amount (degree) of bending depends on the type of material.
+Die mate (graad) van buiging, hang af van die soort materiaal
+
+OR/OF
+The medium with the highest refractive index has the greater bending effect
+on light.
+Die medium met die hoogste brekingsindeks het die groter buigings effek op
+lig.
+
+OR/OF
+The greater the optical density, the slower light travels in the medium.
+Hoe groter die optiese digtheid, hoe stadiger beweeg lig in die medium.
+
+(2)
+
+6.2 The change in direction of (a) light (ray) due to a change in speed  when light
+travels from one medium into another of different optical density 
+Die verandering in die rigting van ( 'n) lig (straal) as gevolg van ' n verandering
+in die spoed wanneer lig van een medium na ' n ander van die verskillende
+optiese digtheid beweeg.
+
+OR/OF
+A change in the direction of light when it travels from one medium into another
+optically different medium. 
+'n Verandering in die rigting van die lig wanneer dit van een medium na ' n
+ander opties verskillende medium beweeg.
+
+(2)
+
+6.3 1 12 2
+1
+1
+n  sin θ n  sin θ
+n  sin20,28   1,33 sin 35
+n 2, 20
+=
+°= °
+=
+
+Material is cubic zirconium/Stof is kubiese sirkonium 
+
+(5)
+
+6.4 Less than/Minder as  (1)
+   [10]
+
+ 
+
+
+
+=== page 12 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 12 DBE/November 2015
+ NSC/NSS – Grade/Graad 11 – Memorandum
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION 7/VRAAG 7
+
+7.1 Light must travel from a dense medium into a less dense medium
+The angle of incidence in the dense medium must be greater  than the
+critical angle between the two media.
+Lig moet vanaf 'n dig medium na 'n minder digter medium beweeg.
+Die invalshoek in die digte medium moet groter wees as die grenshoek
+tussen die twee media.
+
+ NOTES/AANTEKENINGE:
+The sequence must be correct for each of the conditions.
+Die volgorde moet korrek vir elk van die toestande.
+
+(4)
+
+7.2 Core/Kern  (1)
+
+7.3
+sin c = n1 
+        = 5 1,1 
+      c = 41,81o
+
+(3)
+
+7.4 They are thinner than copper cables.
+They can carry more signals than copper cables.
+They are lighter than copper cables.
+They are not affected by electrical interference while copper cables can be
+affected by electrical interference.
+Hulle is dunner as koperkabels.
+Hulle kan meer seine as koperkabels dra.
+Hulle is ligter as koperkabels.
+Hulle is  nie beïnvloed deur elektriese interferensie nie terwyl koperkabels
+beïnvloed kan word deur elektriese interferensie.
+
+ NOTE/LET WEL:
+Any two/Enige twee
+
+(2)
+   [10]
+
+=== page 13 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 13 DBE/November 2015
+ NSC/NSS – Grade/Graad 11 – Memorandum
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION 8/VRAAG 8
+
+8.1.1 The bending of a wave as it passes around the edges of an object.
+Die buiging van 'n golf soos dit om die kante van 'n voorwerp beweeg.
+
+OR/OF
+The bending of a wave around an obstacle or the corners of an narrow
+opening.
+Die buiging van ' n golf om 'n versperring of deur die hoeke van ' n nou
+spleet/opening
+
+OR/OF
+The ability of a wave to spread out in wave fronts as they pass through a
+small aperture or around a sharp edge.
+Die vermoë van ' n golf om in golffronte uit te sprei soos hulle deur ' n klein
+opening of om 'n skerp kant beweeg.
+
+(2)
+
+8.1.2 The width of the opening must be less than, or of the order of the wavelength
+of the wave.
+Die wydte van die opening moet minder as of van die orde van die golflengte
+van die golf  wees
+
+(2)
+
+8.2.1 A broad central bright band  with alternating bright and dark ban ds (of
+decreasing intensity) on either side of the central band. 
+'n Breë sentrale helder band met afwisselende helder en donker bande (van
+dalende intensiteit ) aan weerskante van die sentrale band.
+
+(2)
+
+8.2.2(a) Central pattern (X) becomes broader
+Sentrale patroon (X) word breër.
+
+(1)
+
+8.2.2(b) Central pattern (X) becomes broader
+Sentrale patroon (X) word breër.
+
+(1)
+   [8]
+
+=== page 14 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 14 DBE/November 2015
+ NSC/NSS – Grade/Graad 11 – Memorandum
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION 9/VRAAG 9
+
+9.1.1 To the left/Na links  (1)
+
+9.1.2 Removed/Verwyder
+The net charge on P is positive (+ 2 μC).
+Die netto lading op P is positief (+ 2 μC)
+
+OR/OF
+Excess positive charge means electrons have been 'removed'
+Oormaat positiewe lading beteken elektrone moes 'verwyder' word.
+
+(2)
+
+9.1.3
+2
+21
+r
+QkQF=
+
+2
+-6-6
+9
+)d(
+)10× 2)(10 ×(210×9 = 0,8
+
+d = 0,21 m
+
+(3)
+
+9.2.1
+
+2r
+Qk = E
+
+( )2
+-6
+9
+4
+0,3
+10 × 4)10 ×9( = E
+
+E4 = 4 x 105 N∙C-1 to the right/na regs
+
+( )2
+-6
+9
+3-
+0,1
+10 ×3)10 ×9( = E
+
+E-3 = 2,7 x 106 N∙C-1 to the left/na links
+E4 + E3 = EP
+EP = (0,4 – 2,7) x 106 N∙C-1
+    = 2,3 x 106  N∙C-1 to the left/na links 
+
+(5)
+
+9.2.2 F = ma
+∴ QE = ma
+a
+QE = m
+ ( )( )
+( )2
+6-6
+10 × 5
+10 × 3,210 × 6 = m
+
+  =  2,76 x 10-2 kg
+
+(3)
+   [14]
+
+
+
+
+
+
+_
+Any of the three/Enige van die drie
+
+
+=== page 15 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 15 DBE/November 2015
+ NSC/NSS – Grade/Graad 11 – Memorandum
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION 10/VRAAG 10
+
+10.1.1 The magnitude of the induced emf (in a conductor) is equal to the rate of
+change of magnetic flux linkage. 
+Die grootte van die ge ïnduseerde emk (in ' n geleier) is gelyk aan die tempo
+van verandering van magnetiese vloedkoppeling
+
+OR/OF
+The emf induced in a conducting loop is equal to the negative of the rate at
+which the magnetic flux through the loop is changing with time 
+Die geïnduseerde emk in 'n geleidende lus is gelyk aan die negatiewe van die
+tempo waarteen die magnetiese vloedlyne deur die lus verander met tyd.
+
+ACCEPT/AANVAAR
+The emf induced in a conductor is proportional to the rate at which magnetic
+field lines are cut by a conductor. 
+Die geïnduseerde emk in 'n geleier is eweredig aan die tempo waarteen die
+magneetveldlyne deur 'n geleier gesny word.
+
+(2)
+
+10.1.2 Move the magnet quickly inside the coil.
+Use a stronger magnet. 
+Verhoog die sterkte van die magneet.
+Gebruik 'n sterker magneet.
+
+(2)
+
+10.2.1 θ=Φ cosBA 
+Φ = (0,4)(0,6)cos 0o
+Φ = 0,24 Wb/T∙m2
+
+(3)
+
+10.2.2 θ=Φ cosBA
+Φ1/2 = (0,4)(0,3) cos 0o
+       = 0,12 Wb/T∙m2
+tN ∆∆Φ−=ε
+   =
+( )
+tΔ
+Φ -Φ N- if
+
+9 = 120 )0,24 - 12,0( N-
+N = 9 000 turns/windings
+
+(4)
+   [11]
+
+
+
+
+=== page 16 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 16 DBE/November 2015
+ NSC/NSS – Grade/Graad 11 – Memorandum
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION 11/VRAAG 11
+
+11.1.1 The potential difference across a conductor is directly proportional to the
+current in the conductor at constant temperature.
+Die potensiaalverskil oor ' n geleier is direk eweredig aan  die stroom in die
+geleier by konstant temperatuur
+
+OR/OF
+Provided temperature and other physical conditions are constant , the
+potential difference across a conductor is directly proportional to the current.
+Mits die temperatuur en ander fisiese toestande konstant is, is die
+potensiaalverskil oor 'n geleier direk eweredig aan die stroom
+
+(2)
+
+11.1.2 OPTION 1/OPSIE 1
+Vtot = IRtot
+12 = (0,5)Rtot 
+∴Rtot = 24 Ω 
+∴R X = (24 - 8)  = 16 Ω 
+
+(5)
+
+ OPTION 2/OPSIE 2
+V8 = IR8Ω
+     = (0,5)(8) 
+     = 4 V
+∴ VX = (12 - 4)  = 8 V
+VX = IRx
+8  = (0,5)(RX) 
+∴R X = 16 Ω
+
+(5)
+
+ OPTION 3/OPSIE 3
+V8 = IR8Ω
+     = 0,5 (8) 
+     = 4 V
+∴ VX = (12 - 4)  = 8 V
+ VX =  tot
+tot
+X
+VRR
+ 8 = ( )( )12R + 8 R XX 
+∴ RX = 16 Ω
+OR/OF
+V8 = IR8Ω
+     = 0,5 (8) 
+     = 4 V
+∴ VX = (12 - 4)  = 8 V
+
+X
+8
+X
+8
+V
+V = RR
+∴ RX = ( )( )( )488 
+        = 16 Ω
+
+(5)
+
+11.2.1 12 V  (1)
+
+=== page 17 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 17 DBE/November 2015
+ NSC/NSS – Grade/Graad 11 – Memorandum
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+11.2.2 OPTION 1/OPSIE 1
+V4 = I4 R4Ω
+12 = I4(4)
+I4Ω = 3 A
+
+VX = I16ΩR
+12 = I16Ω16 
+I16Ω = 0,75 A
+IA = (3 + 0,75) 
+    = 3,75 A
+
+(5)
+
+ OPTION 2/OPSIE 2
+V4 = I4 R4Ω
+12 = I4(4)
+I4Ω = 3 A
+
+I4R4 = I16ΩR16Ω
+(3)(4) = I16Ω(16) 
+I16Ω = 0,75 A
+IA = (3 + 0,75) 
+    = 3,75 A
+
+(5)
+
+ OPTION 3/OPSIE 3
+Combined resistance of the lower portion/ Gekombineerde weerstand van die
+onderste gedeelte:
+R =
+416
+416
+RR
+RR
++
+R  = 204×16   = 3,2 Ω
+V = IAR
+ 12 = IA (3,2)
+IA = 3,75 A
+
+(5)
+
+11.2.3 OPTION 1/OPSIE 1
+V12 =  tot
+tot
+12
+VRR 
+ V12 = ( )( )1212 + 812 
+       = 7,2 V
+Energy/Energie W = tΔRV2 
+                               = ( )12012)2,7( 2 
+                               = 518,4 J
+
+(5)
+
+
+
+
+=== page 18 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 18 DBE/November 2015
+ NSC/NSS – Grade/Graad 11 – Memorandum
+Copyright reserved/Kopiereg voorbehou
+
+ OPTION 2/OPSIE 2
+V8,12 = I(R8 + R12)
+12  = I(20) 
+I  = 0,6 A
+Energy/Energie W = I2 R∆t
+                              = (0,6)2(12)(120) 
+                              = 518,4 J
+
+OR/OF
+V8,12 = I (R8 + R12)
+   12  = I (20) 
+  I  = 0,6 A
+V12 = IR12Ω
+     = 0,6 (12)
+     = 7,2 V
+Energy/Energie W = VI∆t
+                              = (7,2)(0,6)(120) 
+                              = 518,4 J
+
+(5)
+
+ OPTION 3/OPSIE 3
+R =
+416
+416
+RR
+RR
++
+R = 20 )4)(16(   = 3,2 Ω
+R =
+202,3
+202,3
+RR
+RR
++
+
+   = ( )202,3 )20)(2,3( +  = 2,758 Ω
+Vtot =ItotRtot
+12 = Itot(2,758)
+Itot  = 4,351 A
+I12Ω = 4,35 – 3,75 = 0,601 A
+Energy/Energie W = I2 R∆t
+                              = (0,601)2(12)(120) 
+                              = 520,13 J (518,4 J)
+
+(5)
+   [18]
+
+TOTAL/TOTAAL:  150
+
+

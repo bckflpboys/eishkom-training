@@ -1,0 +1,219 @@
+**NATIONAL SENIOR CERTIFICATE**
+
+**GRADE 10**
+
+**MATHEMATICS P1**
+
+**NOVEMBER 2015**
+
+**MARKS: 100**
+**TIME: 2 hours**
+
+This question paper consists of 7 pages.
+
+---
+
+### INSTRUCTIONS AND INFORMATION
+
+Read the following instructions carefully before answering the questions.
+
+1. This question paper consists of 8 questions.
+2. Answer ALL the questions.
+3. Number the answers correctly according to the numbering system used in this question paper.
+4. Clearly show ALL calculations, diagrams, graphs et cetera that you have used in determining your answers.
+5. Answers only will not necessarily be awarded full marks.
+6. You may use an approved scientific calculator (non-programmable and non-graphical), unless stated otherwise.
+7. If necessary, round off answers to TWO decimal places, unless stated otherwise.
+8. Diagrams are NOT necessarily drawn to scale.
+9. Write neatly and legibly.
+
+---
+
+### QUESTION 1
+
+1.1 Factorise the following expressions fully:
+
+1.1.1 $x^4 - 81$ $(2)$
+
+1.1.2 $6x^2y - 10xy + 15x - 25$ $(3)$
+
+1.2 Simplify the following expressions fully:
+
+1.2.1 $\frac{3}{a - 4} + \frac{2}{a + 3} - \frac{21}{a^2 - a - 12}$ $(5)$
+
+1.2.2 $\frac{10^{2x+3} \cdot 4^{1-x}}{25^{2+x}}$ $(4)$
+
+1.3 Consider the following numbers: $\sqrt{27} ; \sqrt[3]{-27} ; \sqrt{-27}$.
+
+Which ONE of these numbers is:
+
+1.3.1 Irrational $(1)$
+
+1.3.2 Non-real $(1)$
+
+**[16]**
+
+---
+
+### QUESTION 2
+
+2.1 Solve for $x$:
+
+2.1.1 $15x^2 - 8 = 14x$ $(4)$
+
+2.1.2 $5^x = \frac{1}{125}$ $(2)$
+
+2.2 The following inequality is given: $3(x + 7) < \frac{x}{2} + 1$
+
+2.2.1 Solve for $x$ in the inequality. $(3)$
+
+2.2.2 Represent your answer to QUESTION 2.2.1 on a number line. $(1)$
+
+2.3 Mary gave one third of her money to Nazeem and one fifth of her money to Elwethu. Elwethu received R28 less than Nazeem. How much money did Mary have originally? $(4)$
+
+**[14]**
+
+---
+
+### QUESTION 3
+
+3.1 Given the linear number pattern: $8 ; 3 ; -2 ; \dots$
+
+3.1.1 Write down the NEXT TWO terms of the pattern. $(2)$
+
+3.1.2 Determine the $n^{\text{th}}$ term of the pattern. $(2)$
+
+3.1.3 Calculate $T_{30}$, the thirtieth term of the pattern. $(2)$
+
+3.1.4 Which term of the pattern is equal to $-492$? $(2)$
+
+3.2 The first four terms of PATTERN A and PATTERN B are shown in the table below:
+
+| Position of term ($n$) | $1$ | $2$ | $3$ | $4$ |
+| :--- | :---: | :---: | :---: | :---: |
+| PATTERN A | $1$ | $3$ | $5$ | $7$ |
+| PATTERN B | $1$ | $9$ | $25$ | $49$ |
+
+3.2.1 Determine a general formula for the $n^{\text{th}}$ term of PATTERN A. $(2)$
+
+3.2.2 Hence, or otherwise, determine a general formula for the $n^{\text{th}}$ term of PATTERN B. $(1)$
+
+3.2.3 Hence, determine a general formula for the pattern $0 ; -6 ; -20 ; -42 \dots$. Simplify your answer as far as possible. $(4)$
+
+**[15]**
+
+---
+
+### QUESTION 4
+
+$f(x) = -2x^2 + 2$ and $g(x) = 2^x + 1$ are the defining equations of graphs $f$ and $g$ respectively.
+
+4.1 Write down an equation for the asymptote of $g$. $(1)$
+
+4.2 Sketch the graphs of $f$ and $g$ on the same set of axes, clearly showing ALL intercepts with the axes, turning points and asymptotes. $(6)$
+
+4.3 Write down the range of $f$. $(1)$
+
+4.4 Determine the maximum value of $h$ if $h(x) = 3^{f(x)}$. $(2)$
+
+4.5 What transformation does the graph of $y = f(x)$ undergo in order to obtain the graph of $y = 2x^2 - 2$? $(2)$
+
+**[12]**
+
+---
+
+### QUESTION 5
+
+The sketch below shows $f$ and $g$, the graphs of $f(x) = \frac{1}{x} - 1$ and $g(x) = ax + q$ respectively.
+
+Points $A(-1 ; -4)$ and $B(3 ; 4)$ lie on the graph $g$.
+The two graphs intersect at points $C$ and $D$.
+Line $BE$ is drawn parallel to the $y$-axis, with $E$ on $f$.
+
+[DIAGRAM: A Cartesian plane shows two graphs. $f(x) = \frac{1}{x}-1$ is a hyperbola with horizontal asymptote $y=-1$, intersecting the negative $y$-axis below $-1$, passing through point $A(-1; -4)$ (which is also on line $g$). $g(x)$ is a straight line passing through $A(-1; -4)$ and $B(3; 4)$, intersecting the horizontal axis at $D$ and passing through the first quadrant. Point $E$ lies on $f$ at the same x-coordinate as $B(3,4)$, with line $BE$ parallel to the y-axis. The curves intersect at points $C$ and $D$.]
+
+5.1 Show that $a = 2$ and $q = -2$. $(2)$
+
+5.2 Determine the values of $x$ for which $f(x) = g(x)$. $(4)$
+
+5.3 For what values of $x$ is $g(x) \ge f(x)$? $(3)$
+
+5.4 Calculate the length of $BE$. $(3)$
+
+5.5 Write down an equation of $h$ if $h(x) = f(x) + 3$. $(1)$
+
+**[13]**
+
+---
+
+### QUESTION 6
+
+Given: $f(x) = ax^2 + c$
+$f$ passes through the $x$-axis at $(d - 5)$ and $(d - 1)$, where $d \in \mathbb{R}$.
+
+6.1 Determine the value of $d$. $(2)$
+
+6.2 Determine the values of $a$ and $c$ if it is also given that $f(1) = -9$. $(4)$
+
+**[6]**
+
+---
+
+### QUESTION 7
+
+Zach likes to travel. He has saved $\text{R } 5\ 000$ as spending money for his vacation in Australia at the end of 2015.
+
+7.1 Zach looks up the exchange rate on the Internet. Using the information in the table below, calculate how many Australian dollars Zach can buy for $\text{R } 5\ 000$.
+
+**SOUTH AFRICAN RAND RATES TABLE**
+
+| FOREIGN CURRENCY | EQUIVALENT VALUE OF $\text{R } 1$ | RAND EQUIVALENT OF $1$ UNIT OF CURRENCY |
+| :--- | :---: | :---: |
+| US dollar | $0,083130$ | $12,029313$ |
+| Euro | $0,074048$ | $13,504730$ |
+| British pound | $0,053877$ | $18,560961$ |
+| Australian dollar | $0,105058$ | $9,518569$ |
+
+$(2)$
+
+7.2 Zach plans to make another trip to Australia at the end of 2018.
+
+7.2.1 Assume that the average annual rate of inflation in South Africa will be $6,1\%$ over the next $3$ years. In $2018$, what amount of money will be equivalent to the value of $\text{R } 5\ 000$ now? $(3)$
+
+7.2.2 Zach plans to invest equal amounts into a savings account on $1\text{ December } 2016$ and on $1\text{ December } 2017$ to have accumulated an amount of $\text{R } 5\ 980$ by $1\text{ December } 2018$. If this account earns interest at $9\%$ p.a. compounded annually, how much money should Zach deposit into the account on each occasion? $(4)$
+
+**[9]**
+
+---
+
+### QUESTION 8
+
+8.1 At a certain school there are $64$ boys in Grade 10. Their sport preferences are indicated below:
+* $24$ boys play soccer
+* $28$ boys play rugby
+* $10$ boys play both soccer and rugby
+* $22$ boys do not play soccer or rugby
+
+8.1.1 Represent the information above in a Venn diagram. $(5)$
+
+8.1.2 Calculate the probability that a Grade 10 boy at the school, selected at random, plays:
+
+(a) Soccer and rugby $(1)$
+
+(b) Soccer or rugby $(1)$
+
+8.1.3 Are the events a Grade 10 boy plays soccer at the school and a Grade 10 boy plays rugby at the school, mutually exclusive? Justify your answer. $(2)$
+
+8.2 One morning Samuel conducted a survey in his residential area to establish how many passengers, excluding the driver, travel in a car. The results are shown in the table below:
+
+| Number of passengers, excluding the driver | $0$ | $1$ | $2$ | $3$ | $4$ |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| Number of cars | $7$ | $11$ | $6$ | $5$ | $1$ |
+
+Calculate the probability that, excluding the driver, there are more than two passengers in a car. $(3)$
+
+8.3 If you throw two dice at the same time, the probability that a six will be shown on one of the dice is $\frac{10}{36}$ and the probability that a six will be shown on both the dice, is $\frac{1}{36}$. What is the probability that a six will NOT show on either of the dice when you throw two dice at the same time? $(3)$
+
+**[15]**
+
+**TOTAL: 100**

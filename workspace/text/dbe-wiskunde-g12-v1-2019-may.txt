@@ -1,0 +1,481 @@
+=== page 1 ===
+682404170953
+SENIORSERTIFIKAAT-EKSAMEN/
+NASIONALE SENIORSERTIFIKAAT-EKSAMEN
+
+WISKUNDE V1
+
+2019
+
+PUNTE:  150
+
+      TYD:  3 uur
+
+Hierdie vraestel bestaan uit 8 bladsye en 1 inligtingsblad.
+
+INSTRUKSIES EN INLIGTING
+Lees die volgende instruksies noukeurig deur voordat die vrae beantwoord word.
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+Hierdie vraestel bestaan uit 11 vrae.
+
+Beantwoord AL die vrae.
+
+Nommer die antwoorde korrek volgens die nommeringstelsel wat in hierdie vraestel gebruik is.
+
+Dui ALLE berekeninge, diagramme, grafieke, ens. wat jy gebruik het om jou antwoorde te bepaal, duidelik aan.
+
+Volpunte sal NIE noodwendig aan slegs antwoorde toegeken word NIE.
+
+Jy mag 'n goedgekeurde, wetenskaplike sakrekenaar (nieprogrammeerbaar en niegrafies) gebruik, tensy anders vermeld.
+
+Indien nodig, rond antwoorde tot TWEE desimale plekke af, tensy anders vermeld.
+
+Diagramme is NIE noodwendig volgens skaal geteken NIE.
+
+'n Inligtingsblad met formules is aan die einde van die vraestel ingesluit.
+
+Skryf netjies en leesbaar.
+
+VRAAG 1
+
+1.1
+Los op vir  x:
+
+1.1.1
+
+(2)
+
+1.1.2
+  (korrek tot twee desimale plekke)
+
+(4)
+
+1.1.3
+
+(3)
+
+1.1.4
+
+(3)
+
+1.2
+Los gelyktydig op vir  x  en  y:
+
+  en
+
+(5)
+
+1.3
+'n Reghoekige boks het afmetings  a,  b  en  c.  Die oppervlakte van die vlakke is;  en , soos in die skets hieronder getoon.
+
+62103035560a
+b
+c
+
+00a
+b
+c
+
+Bereken, sonder die gebruik van 'n sakrekenaar, die volume van die reghoekige boks.
+(5)
+
+[22]
+
+VRAAG 2
+
+2.1
+Die eerste VIER terme in die kwadratiese patroon is:  15  ;  29  ;  41  ;  51
+
+2.1.1
+Skryf neer die waarde van die 5de term.
+
+(1)
+
+2.1.2
+Bepaal ŉ uitdrukking vir die n-de term van die patroon in die vorm .
+
+(4)
+
+2.1.3
+Bereken die waarde van
+
+(2)
+
+2.2
+Gegee die meetkundige ry:  36  ;  –18  ;  9  ; …
+
+2.2.1
+Bepaal die waarde van  r, die gemeenskaplike verhouding.
+
+(1)
+
+2.2.2
+Bereken  n  indien
+
+(3)
+
+2.2.3
+Bereken
+
+(2)
+
+2.2.4
+Bereken die waarde van
+
+(4)
+
+[17]
+
+VRAAG 3
+
+3.1
+Die eerste drie terme van 'n rekenkundige ry is:  2p + 3 ; p + 6 en p – 2.
+
+3.1.1
+Toon dat  p = 11.
+
+(2)
+
+3.1.2
+Bereken die kleinste waarde van  n  waarvoor
+
+(3)
+
+3.2
+Gegee dat  , bewys dat  .
+
+(5)
+
+[10]
+
+VRAAG 4
+
+Gegee die eksponensiële funksie:
+
+4.1
+Skryf neer die waardeversameling van  g.
+
+(1)
+4.2
+Bepaal die vergelyking van   in die vorm  y = …
+
+(2)
+
+4.3
+Is    'n funksie?  Regverdig jou antwoord.
+
+(2)
+
+4.4
+Die punt  M(a ; 2)  lê op  .
+
+4.4.1
+Bereken die waarde van  a.
+
+(2)
+
+4.4.2
+, die beeld van  M,  lê op  g.   Skryf die koördinate van   neer.
+
+(1)
+
+4.5
+Indien  h(x) = g(x + 3) + 2, skryf die koördinate neer van die beeld van    op  h.
+
+(3)
+
+[11]
+
+VRAAG 5
+
+5.1
+Gegee:
+
+.
+
+5.1.1
+Bepaal die vergelykings van die asimptote van  f.
+
+(2)
+
+5.1.2
+Skryf die y-afsnit van  f  neer.
+
+(1)
+
+5.1.3
+Bereken die x-afsnit van  f.
+
+(2)
+
+5.1.4
+Skets die grafiek van  f. Dui alle afsnitte met die asse en enige asimptote duidelik aan.
+
+(3)
+
+5.2
+Die grafieke van    en    is hieronder geskets.  Grafiek  k  het 'n draaipunt by (–1 ; 18).  S  is   die x-afsnit van  h  en  k. Grafiek  h en k  sny mekaar ook by T.
+
+66992534925(–1 ; 18)
+  T
+  k
+h
+y
+x
+O
+  S
+.
+00(–1 ; 18)
+  T
+  k
+h
+y
+x
+O
+  S
+.
+
+5.2.1
+Bereken die koördinate van S.
+
+(2)
+
+5.2.2
+Bepaal die vergelyking van  k  in die vorm  .
+
+(3)
+
+5.2.3
+Indien  , bepaal die koördinate van T.
+
+(5)
+
+5.2.4
+Bepaal die waarde(s) van  x  waarvoor  .
+
+(2)
+
+5.2.5
+Daar word verder gegee dat  k  die grafiek van   is.
+
+(a)
+
+(b)
+Vir watter waardes van  x  sal die grafiek van  g  konkaaf op wees?
+
+Skets die grafiek van  g en dui die  x-waardes van die draaipunte en die buigpunt duidelik aan.
+
+(2)
+
+(3)
+[25]
+
+VRAAG 6
+6.1
+Sandile het 'n motor vir R180 000 gekoop. Die waarde van die motor het teen 15% per jaar volgens die verminderdesaldo-metode gedepresieer. Die boekwaarde van Sandile se motor is tans R79 866,96.
+
+6.1.1
+Hoeveel jaar gelede het Sandile die motor gekoop?
+
+(3)
+
+6.1.2
+Op presies dieselfde tyd as wat Sandile die motor gekoop het, het Anil                 R49 000 in 'n spaarrekening met 'n rentekoers van 10% p.j., kwartaalliks saamgestel, gedeponeer. Het Anil nou genoeg geld in sy spaarrekening om  Sandile se motor te kan koop?
+
+(3)
+
+6.2
+'n bank het presies 10 maande gelede 'n lening van R800 000 teen 'n rentekoers van 10,25% p.j., maandeliks saamgestel, aan Joan toegestaan.
+Die bank het bepaal dat die lening:
+oor 'n tydperk van 20 jaar terugbetaal moet word
+deur middel van maandelikse paaiemente van R7 853,15, wat een maand na die toestaan van die lening begin, terugbetaal moet word
+
+6.2.1
+Hoeveel het Jane geskuld onmiddellik nadat sy haar  6de  betaling gemaak het?
+
+(4)
+
+6.2.2
+As gevolg van finansiële probleme het Jane die 7de, 8ste en 9de paaiemente nie betaal nie. Sy kon weer paaiemente vanaf die einde van die 10de maand maak. Bereken Jane se verhoogde maandelikse paaiement om die lening steeds in die oorspronklike 20 jaar af te betaal.
+
+(5)
+
+[15]
+VRAAG 7
+
+7.1
+Gegee .
+
+Bepaal    vanuit eerste beginsels.
+
+(4)
+
+7.2
+Bepaal    indien:
+
+7.2.1
+
+(3)
+
+7.2.2
+
+(4)
+
+7.3
+Indien  g  'n liniêre funksie is met   en  , bepaal die vergelyking van  g  in die vorm  y = ….
+
+(3)
+
+[14]
+
+VRAAG 8
+
+'n Derdegraadse funksie  sny die x-as by (–3 ; 0);  en  (1 ; 0).
+
+8.1
+Toon dat .
+
+(3)
+
+8.2
+Bereken die  x-koördinate van die draaipunte van  h.
+
+(3)
+
+8.3
+Bepaal die waarde(s) van  x  waarvoor  h  dalend sal wees.
+
+(2)
+
+8.4
+Vir watter waarde(s) van  x  sal daar 'n raaklyn aan die kurwe van h  wees wat parallel aan die lyn    is.
+
+(4)
+
+[12]
+
+VRAAG 9
+
+2908935350520O
+00O
+4311015355600A
+00A
+43548301929765B
+x
+B
+x
+38766751262380r
+8
+r
+8
+34036001729105'n Keël met radius  r cm en hoogte AB is in die sfeer met
+middelpunt O en 'n radius van 8 cm ingeskryf.  OB = x.
+
+17029443444Volume van sfeer =
+Volume van keël =
+00Volume van sfeer =
+Volume van keël =
+
+9.1
+Bereken die volume van die sfeer.
+
+(1)
+
+9.2
+Dui aan dat  .
+
+(1)
+
+9.3
+Bepaal die verhouding tussen die grootste volume van hierdie keël en die volume van die sfeer.
+
+(7)
+
+[9]
+
+VRAAG 10
+
+10.1
+'n Sak het 7 geel balle, 3 rooi balle en 2 blou balle in.  'n Bal word willekeurig uit die sak gekies en nie teruggeplaas nie. 'n Tweede bal word dan gekies. Bepaal die waarskynlikheid dat van die twee balle wat gekies is, een rooi is en die ander blou is.
+
+(4)
+
+10.2
+Leerders by ŉ koshuis kan ŉ ete en ŉ koeldrank vir middagete kies.  Hulle keuses op ŉ spesifieke dag is aangeteken en word in die gedeeltelik voltooide tabel hieronder getoon.
+
+ETE
+TOTAAL
+
+toebroodjie (t)
+Pasta (P)
+
+KOELDRANK
+Vrugtesap (V)
+a
+30
+b
+
+Gebottelde Water (W)
+
+TOTAAL
+200
+
+250
+
+Die waarskynlikheid dat ŉ leerder vrugtesap en ŉ toebroodjie op daardie dag gekies het, is 0,48.
+
+10.2.1
+Bepaal die getal leerders wat vrugtesap en ŉ toebroodjie vir middagete op daardie dag gekies het.
+(1)
+
+10.2.2
+Is die keuse van vrugtesap onafhanklik van die keuse van ŉ toebroodjie vir middagete op daardie dag?  Toon AL jou berekeninge om jou antwoord te motiveer.
+(4)
+
+[9]
+
+VRAAG 11
+
+Twee leerders uit elke graad (graad 8, 9, 10, 11 en 12) word gekies om 'n                  sportkomitee by 'n hoërskool te vorm.
+
+11.1
+Op hoeveel verskillende maniere kan die voorsitter en die ondervoorsitter van                die sportkomitee gekies word as daar geen voorwaardes is oor wie verkies mag word nie?
+
+(2)
+
+11.2
+'n Fotograaf wil 'n foto van die sportkomitee neem. Op hoeveel verskillende maniere kan die lede in 'n reguit ry gerangskik word indien:
+
+11.2.1
+Enige lid in enige posisie kan staan?
+
+(1)
+
+11.2.2
+Lede van dieselfde graad langs mekaar moet staan en die graad 12-lede in die middel moet wees?
+
+(3)
+
+[6]
+                                                                                                             TOTAAL:
+150
+
+INLIGTINGSBLAD:  WISKUNDE
+
+   ; ;
+
+M
+
+In  ABC:
+
+P(A of B) = P(A) + P(B) – P(A en B)

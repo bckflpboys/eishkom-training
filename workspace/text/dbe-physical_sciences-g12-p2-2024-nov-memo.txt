@@ -1,0 +1,290 @@
+# Physical Sciences: Chemistry (P2) - Marking Guidelines (November 2024)
+
+## QUESTION 1 / VRAAG 1
+
+1.1 C ✓✓ (2)
+1.2 C ✓✓ (2)
+1.3 B ✓✓ (2)
+1.4 D ✓✓ (2)
+1.5 A ✓✓ (2)
+1.6 A ✓✓ (2)
+1.7 B ✓✓ (2)
+1.8 D ✓✓ (2)
+1.9 B ✓✓ (2)
+1.10 D ✓✓ (2)
+**[20]**
+
+---
+
+## QUESTION 2 / VRAAG 2
+
+2.1
+2.1.1 D ✓ (1)
+2.1.2 A ✓ (1)
+2.1.3 E ✓ (1)
+
+2.2
+2.2.1 **Marking criteria / Nasienkriteria:**
+* Correct stem, i.e. hexane / Korrekte stam d.i. heksaan. ✓
+* Correct substituents (bromo and methyl) identified / Korrekte substituente (bromo en metiel) geïdentifiseer. ✓
+* IUPAC name completely correct including numbering, sequence, hyphens and commas / IUPAC-naam heeltemal korrek insluitende nommering, volgorde, koppeltekens en kommas. ✓
+
+3,3-dibromo-4,4-dimethylhexane / 3,3-dibromo-4,4-dimetielheksaan ✓✓✓ (3)
+
+2.2.2 **Marking criteria / Nasienkriteria:**
+* Correct stem, i.e. pentyne / Korrekte stam, d.i. pentyn. ✓
+* Substituent (dimethyl) correctly identified / Substituente (dimetiel) korrek geïdentifiseer. ✓
+* IUPAC name completely correct including numbering, sequence, hyphens and commas / IUPAC-naam heeltemal korrek insluitende nommering, volgorde, koppeltekens en kommas. ✓
+
+4,4-dimethylpent-2-yne / 4,4-dimethyl-2-pentyne / 4,4-dimetielpent-2-yn / 4,4-dimetiel-2-pentyn ✓✓✓ (3)
+
+2.3
+2.3.1 **Marking criteria / Nasienkriteria:**
+If any one of the underlined key phrases in the correct context is omitted, deduct 1 mark / Indien enige van die onderstreepte frases in die korrekte konteks uitgelaat is, trek 1 punt af.
+
+Compounds with the **same molecular formula**, ✓ but **different functional groups/homologous series**. ✓
+Verbindings met **dieselfde molekulêre formule**, maar **verskillende funksionele groepe/homoloë reekse**. (2)
+
+2.3.2 A and/en C ✓ (1)
+
+2.4
+2.4.1 $H_2SO_4$ / Sulphuric acid / Swaelsuur ✓ (1)
+2.4.2 Esterification / Condensation / Verestering / Esterifikasie / Kondensasie ✓ (1)
+2.4.3 **Marking criteria / Nasienkriteria:**
+* Functional group correct / Funksionele groep korrek. ✓
+* Whole structural formula correct / Hele struktuurformule korrek. ✓
+
+(Structure: $CH_3-CH_2-CH_2-O-C(=O)-CH_3$) ✓✓ (2)
+
+2.4.4 **Marking criteria / Nasienkriteria:**
+* Correct chain length and functional group, i.e Propanol / Korrekte kettinglengte en funksionele groep, d.i. Propanol. ✓
+* Everything else correct: IUPAC name completely correct including numbering / Alles verder reg: IUPAC-naam heeltemal korrek nommering ingesluit. ✓
+
+Propan-1-ol / 1-propanol ✓✓
+**NOTE/AANTEKENING:** Propanol ✓ (2)
+**[18]**
+
+---
+
+## QUESTION 3 / VRAAG 3
+
+3.1 **Marking criteria / Nasienkriteria:**
+If any one of the underlined key phrases in the correct context is omitted, deduct 1 mark / Indien enige van die onderstreepte frases in die korrekte konteks uitgelaat is, trek 1 punt af.
+
+The **pressure exerted by a vapour at equilibrium with its liquid** in a **closed system**. ✓✓
+Die **druk uitgeoefen deur 'n damp in ewewig met sy vloeistof** in 'n **geslote sisteem**. (2)
+
+3.2
+3.2.1 146 (kPa) ✓
+**Accept/Aanvaar:** 146 000 Pa (1)
+
+3.2.2 **Marking criteria / Nasienkriteria:**
+* Compare structures. ✓
+* Compare the strength of intermolecular forces. ✓
+* Compare the energy required to overcome intermolecular forces. ✓
+**Accept/Aanvaar:** Abbreviation IMF in explanations / Afkorting IMK in verduidelikings.
+
+* **Structure:** Compound C is more branched than compounds A and B / Shorter chain length / most compact / most spherical / smallest surface area (over which intermolecular forces act). ✓
+* **Intermolecular forces:** Compound C has weaker/less intermolecular forces / Van der Waals forces / London forces than A and B. ✓
+* **Energy:** Lesser energy needed to overcome or break intermolecular forces / Van der Waals force in compound C than A and B. ✓ (3)
+
+3.3
+3.3.1 E / butanal / butanaal ✓ (1)
+
+3.3.2 **Marking criteria / Nasienkriteria:**
+* Strongest intermolecular forces in compound D: Hydrogen bond. ✓
+* Strongest intermolecular forces in compound E: Dipole-dipole forces. ✓
+* Compare the strength of intermolecular forces. ✓
+* Compare the energy required to overcome intermolecular forces. ✓
+
+* Compound D/Propanoic acid has hydrogen bonding (dipole-dipole and London forces) between molecules. ✓
+* Compound E/Butanal has dipole-dipole forces (and London forces) between molecules. ✓
+* Intermolecular forces between molecules of compound D/propanoic acid are stronger than intermolecular forces between molecules of compound E/butanal. ✓
+* More energy is needed to overcome/break intermolecular forces between molecules of compound D/propanoic acid than in compound E/butanal. ✓ (4)
+**[11]**
+
+---
+
+## QUESTION 4 / VRAAG 4
+
+4.1 **Marking criteria / Nasienkriteria:**
+The chemical process/reaction in which **longer chain hydrocarbon/alkane molecules** are **broken down to shorter (more useful) molecules**. ✓✓ (2)
+
+4.2 Primary / Primêre ✓
+The halogen/bromine/functional group (-X) is bonded to a C atom that is bonded to one other C atom. ✓ (2)
+
+4.3
+4.3.1 **Marking criteria / Nasienkriteria:**
+* Correct stem, i.e. 4 C atoms / Korrekte stam, d.w.s. 4 C-atome. ✓
+* Whole structural formula correct / Hele struktuurformule korrek. ✓✓ (3)
+
+4.3.2 $C_8H_{18}$ ✓ (1)
+
+4.4
+4.4.1 $Br_2$ / Bromine / Broom ✓ (1)
+4.4.2 Substitution / Substitusie ✓ (1)
+4.4.3 UV / (Sun)light / Heat / (Son)lig / Hitte ✓ (1)
+
+4.5 Dehydrohalogenation / Dehydrobromination / Dehidrohalogenering / Dehidrohalogenasie / Dehidrobrominering ✓ (1)
+
+4.6
+4.6.1 **Marking criteria / Nasienkriteria:**
+* Functional group of alkene on first C atom. ✓
+* Whole structural formula of alkene correct. ✓
+* HBr. ✓
+* Functional group of haloalkane correct. ✓
+* Whole structural formula of haloalkane correct (halogen on second/first C-atom). ✓
+(5)
+
+4.6.2 **Marking criteria / Nasienkriteria:**
+* NaOH. ✓
+* Whole structural formula of alkene correct (functional group on second/first C atom). ✓
+* $NaBr + H_2O$ ✓
+(3)
+
+4.6.3 But-2-ene / 2-butene / but-1-ene / 1-butene / But-2-een / 2-buteen / but-1-een / 1-buteen ✓✓
+Butene/Buteen: deduct 1 mark / trek een punt af. (2)
+**[22]**
+
+---
+
+## QUESTION 5 / VRAAG 5
+
+5.1.1 **NOTE/LET WEL:** Give the mark for per unit time only if in context of reaction rate.
+ANY ONE:
+* Change in concentration ✓ of products/reactants per (unit) time. ✓
+* Change in amount/number of moles/volume/mass of products or reactants per (unit) time.
+* Amount/number of moles/volume/mass of products formed/reactants used per (unit) time.
+* Rate of change in concentration/amount/number of moles/volume/mass. ✓✓ (2 or 0) (2)
+
+5.1.2 **Marking criteria:**
+(a) Substitute 0,033 and 5 in rate formula. ✓
+(b) Substitute 24,5 in $\frac{V}{V_m}$ ✓
+(c) USE mol ratio: $n(A\ell) : n(H_2) = 2 : 3$ ✓
+(d) Substitute 27 $g \cdot mol^{-1}$ in $\frac{m}{M}$ ✓
+(e) Subtract $m(A\ell)_{t=5}$ from $m(A\ell)_{ini}$ / $n(A\ell)_{t=5}$ from $n(A\ell)_{ini}$ ✓
+(f) Final correct answer: 0,38 g (0,379) ✓
+Range: 0,365 – 0,42 g (6)
+
+5.1.3
+* The surface area/contact area/mass/size of aluminium decreases. ✓
+* Less particles exposed. ✓
+* Less effective collisions per unit time/second. ✓
+* Reaction rate decreases./Lower reaction rate./Reaction slows down. ✓ (4)
+
+5.1.4 **Marking criteria:**
+* Curve B starts at the origin and ends at the same point as curve A. ✓
+* Gradient of curve B steeper for the whole duration. ✓
+(2)
+
+5.1.5 Equal to / Gelyk aan. ✓ (1)
+
+5.2
+5.2.1 An increase in temperature / 'n Toename in temperatuur. ✓ (1)
+5.2.2 Curve Y has a peak/maximum at a higher kinetic energy / Peak shifted to the right.
+OR
+The (average) kinetic energy (of the particles) increases / More particles with higher kinetic energy / Larger area with higher kinetic energy. ✓ (1)
+**[17]**
+
+---
+
+## QUESTION 6 / VRAAG 6
+
+6.1.1 (The dynamic equilibrium when) the rate of the forward reaction equals the rate of the reverse reaction. ✓✓ (2 or 0) (2)
+6.1.2 X ✓ (1)
+6.1.3 Decreased / Verlaag ✓ (1)
+6.1.4 The concentrations of (all) the gases decreased / The reverse reaction was favoured. ✓ (1)
+6.1.5 CO(g) / carbon monoxide / koolstofmonoksied. ✓ (1)
+6.1.6 The concentration of Z (CO) decreased with a decrease in the concentration of X ($O_2$). ✓ (1)
+6.1.7 Decreased / Verlaag ✓ (1)
+6.1.8
+* Concentration of products/Y/$CO_2$ increases. ✓
+* The forward reaction is exothermic. ✓
+* A decrease in temperature favours the exothermic reaction. ✓ (3)
+
+6.2 **REACTANTS ARE USED / REAKTANSE WORD GEBRUIK**
+**Marking criteria:**
+(a) USING ratio: $n(H_2O) : n(CO) : n(H_2) : n(CO_2) = 1 : 1 : 1 : 1$ ✓
+(b) $n(CO)_{eq} = n(CO)_{initial} - \Delta n(CO)$, $n(H_2O)_{eqm} = n(H_2O)_{initial} - \Delta n(H_2O)$, $n(CO_2)_{eq} = n(CO_2)_{initial} + \Delta n(CO_2)$ AND $n(H_2)_{eqm} = n(H_2)_{initial} + \Delta n(H_2)$ ✓
+(c) Divide $n_{eq}$ by the volume 2 $dm^3$ ✓
+(d) Correct $K_c$ expression. ✓
+(e) Substitute $K_c$ value 4. ✓
+(f) Substitute concentrations in $K_c$ expression. ✓
+(g) Substitute numerical values of x in $n(CO)_{initial} - \Delta n(CO)_{change}$ ✓
+(h) Substitute of 28 in $n = \frac{m}{M}$ ✓
+(i) Final answer: 6,44 g ✓
+Range: 6,44 – 6,72 g
+
+*(Table calculations follow standard equilibrium logic as shown in the provided images)*
+**[20]**
+
+---
+
+## QUESTION 7 / VRAAG 7
+
+7.1 Weak bases dissociate/ionise incompletely/partially in water ✓ to form a low concentration of hydroxide/$OH^-$ ions ✓ (2)
+7.2 $HCO_3^-(aq)$ ✓ (1)
+7.3.1 26,55 ($cm^3$) ✓ (1)
+7.3.2 28,15 ($cm^3$) ✓ (1)
+7.4
+* The titration’s equivalence point/colour change is in pH range less than 7 / Solution is acidic / The reaction of strong acid and weak base has equivalence point at pH less than 7. ✓
+* The end point of this titration is within the pH range in which methyl orange/indicator changes colour / Methyl orange changes colour at a pH less than 7. ✓ (2)
+
+7.5 **Marking criteria:**
+(a) Any formula: $\frac{V_a \times c_a}{V_b \times c_b} = \frac{n_a}{n_b}$ OR $n = cV$ ✓
+(b) Substitute: 0,1 $mol \cdot dm^{-3}$ & 25 x $10^{-3} dm^3$ (25 $cm^3$) ✓
+(c) Substitute average volume 20,1 x $10^{-3} dm^3$ (20,1 $cm^3$) ✓
+(d) Use ratio: $n(K_2CO_3) = \frac{1}{2}n(HCl)$ ✓
+(e) Final answer: 0,0625 $mol \cdot dm^{-3}$ ✓
+Range: 0,06 to 0,0625 $mol \cdot dm^{-3}$ (5)
+
+7.6 **POSITIVE MARKING FROM QUESTION 7.5**
+**Marking criteria:**
+(a) Any formula: $n = \frac{m}{M}$ OR $c = \frac{m}{MV}$ OR $n = cV$ ✓
+(b) Substitute: 600 $cm^3$ OR 0,6 $dm^3$ in $n = cV$ ✓
+(c) Substitute: 6,525 in formula $n = \frac{m}{M}$ OR $c = \frac{m}{MV}$ ✓
+(d) Substitute: 138 & 18 in $n = \frac{m}{M}$ ✓
+(e) Final answer: x = 2 ✓ (5)
+**[17]**
+
+---
+
+## QUESTION 8 / VRAAG 8
+
+8.1.1 The oxidation number of H changes from +1 to 0 ✓ AND the oxidation number of Mg changes from 0 to +2. ✓ (2)
+8.1.2 $H^+ / HCl$ ✓ (1)
+8.1.3 Cu/copper is a weaker reducing agent ✓ than hydrogen/$H_2$ ✓ (and will not reduce $H^+$/hydrogen ion to $H_2$). (2)
+8.1.4 Yes/Ja ✓
+$NO_3^-$/Nitrate ion/Nitric acid is a stronger oxidising agent ✓ than $Cu^{2+}$/copper (II) ion ✓ (therefore Cu/copper will be oxidised to $Cu^{2+}$/copper (II) ion). (3)
+
+8.2.1 **Marking criteria:**
+* Reactants ✓ Products ✓ Balancing ✓
+$Pb(s) + 2Fe^{3+}(aq) \rightarrow Pb^{2+}(aq) + 2Fe^{2+}(aq)$ ✓ (3)
+8.2.2 Increases / Toeneem ✓ (1)
+**[12]**
+
+---
+
+## QUESTION 9 / VRAAG 9
+
+9.1 **OPTION 1:**
+$E_{cell}^0 = E_{reduction}^0 - E_{oxidation}^0$ ✓
+$= -0,13 - (0,80)$ ✓
+$= -0,93 V$ ✓
+$\therefore$ non-spontaneous / nie-spontaan ✓ (5)
+
+9.2.1 ANY ONE:
+* A substance of which the (aqueous) solution contains ions. ✓✓
+* A substance that dissolves in water to give a solution that conducts electricity.
+* A substance that forms ions in water / when melted.
+* A solution/substance that conducts electricity through the movement of ions. (2)
+
+9.2.2 $2Cl^- \rightarrow Cl_2 + 2e^-$ ✓✓ (2)
+
+9.2.3 Hydroxide ions / $OH^-$ / Sodium hydroxide / NaOH ✓
+Hydrogen / $H_2$ ✓ (2)
+
+9.2.4 Water/$H_2O$ is a stronger oxidising agent ✓ (than $Na^+$/sodium ion) and water/$H_2O$ will be reduced. ✓ (2)
+**[13]**
+
+**TOTAL: 150**

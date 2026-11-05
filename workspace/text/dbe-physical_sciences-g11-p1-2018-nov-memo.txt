@@ -1,0 +1,1007 @@
+=== page 1 ===
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+MARKS/PUNTE:  150
+
+These marking guidelines consist of 16 pages.
+Hierdie nasienriglyne bestaan uit 16 bladsye.
+
+PHYSICAL SCIENCES:  PHYSICS (P1)
+FISIESE WETENSKAPPE: FISIKA (V1)
+
+NOVEMBER 2018
+
+MARKING GUIDELINES/NASIENRIGLYNE
+NATIONAL
+SENIOR CERTIFICATE/
+NASIONALE
+SENIOR SERTIFIKAAT
+GRADE/GRAAD 11
+
+=== page 2 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 2 DBE/November 2018
+ CAPS/KABV – Grade/Graad 11 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief
+
+QUESTION 1/VRAAG 1
+
+1.1 A   (2)
+
+1.2 C   (2)
+
+1.3 C   (2)
+
+1.4 D   (2)
+
+1.5 B   (2)
+
+1.6 D   (2)
+
+1.7 B   (2)
+
+1.8 A   (2)
+
+1.9 B   (2)
+
+1.10 C   (2)
+   [20]
+
+=== page 3 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 3 DBE/November 2018
+ CAPS/KABV – Grade/Graad 11 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION 2/VRAAG 2
+
+2.1 Resultant (net) vector/Resultante (netto) vektor   (1)
+
+2.2.1 Fy = Fsin θ
+    = 50sin 30°        OR/OF 50cos 60º
+    = 25 N 
+
+(2)
+
+2.2.2 POSITIVE MARKING FROM QUESTION 2.2.1
+POSITIEWE NASIEN VANAF VRAAG 2.2.1
+
+Fx = 50cos 30° 
+    = 43,3 N
+
+Rx = 80 – 43,3 
+         = 36,7 N
+
+Fnet2  = Rx2 + Fy2
+        = 36,72 + 252 
+        = 44,41 N 
+
+(5)
+
+2.2.3
+
+POSITIVE MARKING FROM QUESTION 2.2.1 AND 2.2.2
+POSITIEWE NASIEN VANAF VRAAG 2.2.1 EN 2.2.2
+OPTION 1/OPSIE 1
+tan θ = 257,36
+      θ = 55,74° 
+
+OPTION 2/OPSIE 2
+cos θ =
+25
+44,41
+      θ = 55,74° 
+
+OPTION 3/OPSIE 3
+sin θ =
+36,7
+44,41         θ = 55,74° 
+
+OPTION 4/OPSIE 4
+cos θ =
+25
+44,41
+      θ = 55,74° 
+
+(2)
+   [10]
+
+
+
+Substitution marks awarded within the question
+even if calculations for Fx and Rx are wrong
+Substitusiepunte toegeken in die vraag selfs indien
+berekeninge vir Fx en Rx verkeerd bereken word.
+Fnet = 44,41 N
+
+Accept direction as /Aanvaar rigting as
+ϕ = 90º - θ
+   = 34,26º   
+
+ϕ
+θ
+Rx = 36,7 N
+Ry = 25 N
+
+
+
+=== page 4 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 4 DBE/November 2018
+ CAPS/KABV – Grade/Graad 11 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION 3/VRAAG 3
+
+3.1 The force that opposes the motion of a moving object relative to a surface.
+Die krag wat die beweging van ' n bewegende voorwerp relatief tot 'n
+oppervlak teenwerk.
+[2 or/of 0]
+
+(2)
+
+3.2 A body will remain in its state of rest or motion at  constant velocity unless
+a non-zero resultant/net force acts on it. 
+'n Liggaam sal in sy toestand van rus of beweging teen konstante snelheid
+bly/volhard tensy 'n nie-nul resulterende/netto krag daarop inwerk.
+[Penalise -1 if key words/phrase is omitted/
+Penaliseer -1 indien sleutelwoorde/frase is uitgelaat]
+
+(2)
+
+3.3 Fx = 90cos 50°      OR/OF 90sin 40º
+     = 57,85 N  
+
+(2)
+
+3.4 N = Fg - Fy  
+N = 45(9,8)  - 90sin 50° 
+N = 372,06 N 
+
+(4)
+
+3.5 POSITIVE MARKING FROM QUESTION 3.3 and 3.4
+POSITIEWE NASIEN VANAF VRAAG 3.3 en 3.4
+
+fk = µkN 
+57,85  = µk(372,06)  
+µk = 0,16 
+
+(4)
+
+3.6 No  The coefficient is dependent on the (nature of) the surfaces / type of
+material in contact.  
+Nee.  Die koëffisiënt is afhanklik van die (tipe) oppervlakke / soort materiaal
+in kontak.
+
+(2)
+   [16]
+
+NOTE/NOTA:
+Weight and the vertical component can be
+calculated separately, award one mark each even
+if the formula for N is incorrect
+Gewig en vertikale komponent kan apart bereken
+word, een punt elk selfs indien die formule vir N
+verkeerd is.
+
+=== page 5 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 5 DBE/November 2018
+ CAPS/KABV – Grade/Graad 11 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION 4/VRAAG 4
+
+4.1 When a resultant/net force acts on an object,  the object will accelerat e in the
+direction of the force. The acceleration is directly proportional to the net force
+and inversely proportional to the mass of the object. 
+Wanneer 'n resulterende/netto krag op 'n voorwerp inwerk, sal die voorwerp in
+die rigting van die krag versnel. Die versnelling is direk eweredig aan die netto
+krag en omgekeerd eweredig aan die massa van die voorwerp.
+[Penalise -1 if key words/phrase is omitted/
+Penaliseer -1 indien sleutelwoorde/frase is uitgelaat]
+
+(2)
+
+4.2 Accept any set of coordinates from the graph, e.g.:
+Aanvaar enige kombinasie van koördinate vanaf die grafiek, bv.:
+
+Gradient/Helling =
+2,5 – 0
+1,25 – 0     = 2 
+
+                     OR/OF
+
+Gradient/Helling =
+2,1 – 1,7
+1,05 – 0,85     = 2 
+
+(3)
+
+4.3 OPTION 1/OPSIE 1
+Gradient/Helling =
+netF
+1
+ma
+1 =  = 2 
+
+Fnet = 21 = 0,5 N       Accept/Aanvaar Fnet = 0,5 N 
+OPTION 2/OPSIE 2
+Fnet = ma
+      = (1)(1/2)   
+      = 0,5 N 
+
+(2)
+
+4.4 Acceleration is inversely proportional to the mass of an object  (if the net force
+is kept constant) 
+Accept: The inverse of acceleration is directly proportional to the mass of the
+object (if the net force is kept constant)
+OR
+1
+a  α m
+Versnelling is omgekeerd eweredig aan die massa van die voorwerp ( indien
+die netto krag konstant bly)
+Aanvaar: Die omgekeerde van die versnelling is direk eweredig aan die
+massa van die voorwerp (indien die netto krag konstant bly)
+OF
+1
+a  α m
+
+(2)
+   [9]
+
+
+
+
+
+
+Accept any coordinates from graph
+Aanvaar enige koördinate vanaf grafiek
+
+=== page 6 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 6 DBE/November 2018
+ CAPS/KABV – Grade/Graad 11 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION 5/VRAAG 5
+
+5.1
+
+(3)
+Accepted Labels/Aanvaarbare Byskrifte Mark/Punt
+w weight/FG/Fg       OR  Both components for one mark
+gewig/gravitasiekrag/swaartekrag  OF
+Beide komponente vir een punt
+
+N Normal force/FN
+Normaalkrag/FN
+
+f Friction/Ff
+Wrywingskrag/Ff
+
+ Any additional force: deduct 1 mark (maximum ⅔) Enige addisionele krag: trek 1 punt af (maksimum ⅔)
+ Omission of arrow heads: deduct 1 mark (maximum ⅔) Pylpunte uitgelaat: trek 1 punt af (maksimum ⅔)
+ Lines must touch object otherwise (maximum ⅔ ) Lyne moet voorwerp raak anders (maksimum ⅔)
+ Do not penalise if vectors are not to scale Moenie penaliseer indien vektore nie op skaal is nie
+
+5.2 Fnet = ma
+mgsin θ = ma
+25(9,8)sin 15°   = 25a 
+a = 2,54 m·s-2 
+OR/OF
+25(9,8)cos 75º  = 25a 
+a = 2,54 m·s-2 
+
+(4)
+
+5.3 Up the slope/Teen die helling op   (1)
+
+5.4 Fnet = ma
+Fg// + (-f) = ma
+25(9,8)sin 15° - f  = 25(-1,2) 
+f = 93,41 N 
+OR/OF
+25(9,8)cos 75° - f  = 25(-1,2) 
+f = 93,41 N 
+Note/Let wel:
+Accept if calculation is done with direction up the slope as positive
+Aanvaar indien berekening gedoen is  met rigting teen die helling op as
+positief
+
+(4)
+   [12]
+N
+f
+Fg
+ Any one/Enige een
+ Any one/Enige een
+OR/OF
+NOTE/NOTA:
+Award one mark for the parallel
+component if calculated separately
+Ken een punt toe indien die parallel
+komponent apart bereken is
+N
+f
+Fgll
+Fg⊥
+
+=== page 7 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 7 DBE/November 2018
+ CAPS/KABV – Grade/Graad 11 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION 6/VRAAG 6
+
+6.3 POSITIVE MARKING FROM QUESTION 6.2
+POSITIEWE NASIEN VANAF VRAAG 6.2
+
+w = mg
+    = 900(9,8) 
+    = 8 820 N 
+
+(2)
+   [8]
+
+6.1 Each particle in the universe attracts every other particle with a
+gravitational force that is directly  proportional to the product of their masses
+and inversely proportional to the square of the distance between their
+centres. 
+Elke deeltjie in die heelal trek elke ander deeltjie aan met ' n krag wat direk
+eweredig is aan die produk van hulle massas  en omgekeerd eweredig is aan
+die kwadraat van die afstand tussen hulle middelpunte.
+[Penalise -1 if key words/phrase is omitted/
+Penaliseer -1 indien sleutelwoorde/frase is uitgelaat]
+
+(2)
+6.2 F = 2 21r mGm
+3 338  =
+�6,67 x 10-11��6,39 x 1023�(m)
+(3 390 x 103)2
+
+m = 900 kg 
+
+OR/OF
+
+g = 2rGm
+g =
+�6,67 x 10-11��6,39 x 1023�
+(3 390 x 103)2
+g = 3,71 m·s-2
+
+Fg = mg
+3 338   = m(3,71)  
+m = 900 kg   (899,73 kg)
+
+(4)
+
+
+
+
+
+=== page 8 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 8 DBE/November 2018
+ CAPS/KABV – Grade/Graad 11 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION 7/VRAAG 7
+
+7.1  Refraction/Refraksie   (1)
+
+7.2 OPTION 1/OPSIE 1
+ni sin θi = nr sin θr  
+  1sin θi = 1,33sin 40º 
+          θi = 58,75°
+
+OPTION 2/OPSIE 2
+n = sinθisinθr
+1,33 = sin θi
+sin 40°
+sin θi = 1,33sin 40º
+      θi = 58,75°
+
+ Therefore the angle between ray and surface/Daarom is die hoek tussen
+invallende straal en oppervlak
+θ = 90°- 58,75° 
+   = 31,25°
+
+(4)
+
+7.3 ni sinθi = nr sinθr
+1,33sin 40°  = nrsin 35º  
+nr = 1,49  
+
+(3)
+
+7.4
+
+ Allocation of marks/Toekenning van punte:  (5)
+ Light ray bends towards normal in water
+Ligstraal breek na die normaal in water
+
+ Light ray bends further towards normal in glass
+Ligstraal breek nog meer na die normaal in glas
+
+ Angle of incidence 58,75º shown (OR 31,25º)
+Invalshoek 58,75º aangedui (OF 31,25º)
+
+ Angles in water (40º)
+Hoeke in water (40º)
+
+ Angle in glass (35º)
+Hoeke in glas (35º)
+
+ If normal lines are not indicated, penalise with one mark
+Indien normaal lyne nie aangedui is nie, penaliseer met
+een punt
+
+ If arrows are omitted, penalise -1 (maximum 4/5)
+Indien pylpunte weggelaat word, penaliseer -1 (maks 4/5)
+
+water
+58,75º
+40º
+40º
+35º
+air/lug
+glass/glas
+
+
+
+=== page 9 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 9 DBE/November 2018
+ CAPS/KABV – Grade/Graad 11 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+7.5
+v
+cn=
+v
+10×3=5,1 8
+v = 2 x 108 m·s-1 
+
+(3)
+
+7.6 No/Nee   (1)
+   [17]
+
+QUESTION 8/VRAAG 8
+
+8.1  Diffraction is the ability of a wave to spread out in wave fronts   as the
+wave passes through a small aperture or around a sharp edge. 
+Diffraksie is die vermo ë van 'n golf om uit te sprei in golffronte  soos wat die
+golf deur 'n klein opening of om 'n skerp rand/kant beweeg.
+
+(2)
+
+8.2  Criteria for investigative question/Riglyne vir ondersoekende vraag
+The dependent and independent variables are stated correctly.
+Die afhanklike en onafhanklike veranderlikes korrek genoem.
+
+Ask the relationship between the dependent and independent variables
+in a question, not as a statement. The question may not be wr itten in a
+way that the answer is yes or no.
+Vra die verband tussen die afhanklike en onafhanklike veranderlike as 'n
+vraag, nie 'n stelling nie. Die vraag mag nie op so 'n manier geformuleer
+word dat die antwoord ja of nee is nie.
+
+Dependent variable/ Afhanklike veranderlike : degree of diffraction/ mate
+van diffraksie
+Independent variable/Onafhanklike veranderlike: wavelength/golflengte
+
+Examples/Voorbeelde:
+What is the relationship between the wavelength of a light ray and the degree
+of diffraction?
+Wat is die verband tussen die golflengte van 'n ligstraal en die mate van
+diffraksie?
+OR/OF
+How does a change in wavelength affect the degree of diffraction?
+Hoe beïnvloed 'n verandering in golflengte die mate van diffraksie?
+
+(2)
+
+8.3 Degree of diffraction is directly proportional to the wavelength. 
+Mate van diffraksie is direk eweredig aan die golflengte.
+OR/OF
+Degree of diffraction α λ. 
+Mate van diffraksie α λ.
+
+(2)
+
+8.4 Red/Rooi   (1)
+
+
+
+
+=== page 10 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 10 DBE/November 2018
+ CAPS/KABV – Grade/Graad 11 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+8.5 Line should indicate inverse proportionality 
+Lyn moet omgekeerde eweredigheid aandui
+
+(2)
+
+   [9]
+
+QUESTION 9/VRAAG 9
+
+9.1  The magnitude of the electrostatic force exerted by two point charges on each
+other is directly proportional to the product o f the (magnitudes of the) charges
+ and inversely proportional to the square of the distance between them. 
+Die grootte van die elektrostatiese krag wat deur twee puntladings op mekaar
+uitgeoefen word, is direk eweredig aan  die produk van die (groottes van die)
+ladings en omgekeerd eweredig aan die kwadraat van die afstand tussen
+hulle.
+[Penalise -1 if key words/phrase is omitted/
+Penaliseer -1 indien sleutelwoorde/frase is uitgelaat]
+NOTE: If learners refers to masses, no marks awarded
+NOTA: Indien leerder na massa verwys, geen punte
+
+(2)
+
+9.2
+
+Accepted Labels/Aanvaarbare Byskrifte Mark/Punt
+w weight/FG/Fg
+gewig/gravitasiekrag/swaartekrag
+
+T Tension/FT
+Spanning/FT
+
+FE Electrostatic force
+Elektrostatiese krag
+
+ One angle indicated
+Een hoek aangedui
+
+
+(4)
+
+Fg
+20º
+T
+Slit width (mm)/
+Spleetwydte (mm)
+Degree of
+diffraction/
+Mate van
+diffraksie
+FE
+OR/OF
+Fg
+T
+FE
+20º
+
+=== page 11 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 11 DBE/November 2018
+ CAPS/KABV – Grade/Graad 11 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+9.3 OPTION 1/OPSIE 1
+If FA and FB were used/Indien FA en FB gebruik word
+2
+21
+r
+QkQF=
+    =
+(9 x 109)(8 x 10-9)(7 x 10-9)
+0,032
+    = 5,60 x 10-4 N 
+
+OPTION 2/OPSIE 2
+If Fg and FE were used/Indien Fg en FE gebruik word
+Fg  = mg
+     = (0,2 x 10-3)(9,8)  
+     = 1,96 x 10-3 N 
+
+FE = (1,96 x 10-3)tan 70º  
+     = 7,13 x 10-4 N  
+
+OPTION 3/OPSIE 3
+ If Fg and FE were used/Indien Fg en FE gebruik word
+Fg  = mg
+     = (0,2 x 10-3)(9,8)  
+     = 1,96 x 10-3 N
+
+FE
+sin 20° =
+Fg
+sin 70°
+
+FE
+sin 20° = (1,96 x 10-3)sin 70°
+
+FE = 7,13 x 10-4 N 
+
+(4)
+
+9.4 POSITIVE MARKING FROM QUESTION 9.3
+POSITIEWE NASIEN VANAF VRAAG 9.3
+OPTION 1/OPSIE 1
+Using Fg and FE/Gebruik Fg en FE
+Fg  = mg
+     = (0,2 x 10-3)(9,8)  
+     = 1,96 x 10-3 N
+
+T2 = (1, 96 x  10-3)2 + (5, 6 x 10-4)2
+
+T  = 2,04 x 10-3 N 
+OPTION 2/OPSIE 2
+Using Fg and angle/Gebruik Fg en
+hoek
+T =
+Fg
+sin 70°
+
+T =
+1,96 x 10-3
+sin 70°
+
+T = 2,09 x10-3 N  
+OPTION 3/OPSIE 3
+Using FE and angle/Gebruik FE en
+hoek
+T =
+FE
+cos 70°
+
+T =
+5,6 x 10-4
+cos 70°
+
+T = 1,64 x10-3 N  
+
+(3)
+   [13]
+
+
+
+
+
+NOTE/NOTA:
+Due to information given in the question,
+accept all possible options
+As gevolg van die inligting in die vraag
+gegee, aanvaar alle moontlike opsies
+
+
+ 
+
+NOTE/NOTA:
+Due to information given in the
+question, accept all possible
+options
+As gevolg van die inligting in die
+vraag gegee, aanvaar alle
+moontlike opsies
+
+
+
+
+
+=== page 12 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 12 DBE/November 2018
+ CAPS/KABV – Grade/Graad 11 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION 10/VRAAG 10
+
+10.1
+
+ Criteria for marking/Nasienkriteria
+Shape of the field (minimum of 4 field lines)
+Vorm van veld (minimum van 4 veldlyne)
+
+Direction of the field
+Rigting van veld
+
+Lines don't touch charge/lines cross etc. (maximum ½)
+Lyne raak nie lading/lyne kruis ens. (maksimum ½)
+
+(2)
+
+10.2.1 16 : 1    (1)
+
++
+
+=== page 13 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 13 DBE/November 2018
+ CAPS/KABV – Grade/Graad 11 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+10.2.2 OPTION 1/OPSIE 1
+EP : ET
+16 : 1 
+
+Because/Omdat
+ E α 2r1  
+rP : rT
+1 : 4 
+
+r : r + 3 mm
+r = 1 mm   (0,001 m)
+OPTION 2/OPSIE 2
+2p r
+kQE =
+
+2
+9
+6
+r
+Q109104 ×=×
+9 x 109Q = (4 x 106)r2  …(1)
+
+2T r
+kQE =
+2,5 x 105 = 2
+9
+)003,0+r(
+Q10×9
+
+9 x 109Q = (2,5 x 105)(r + 0.003)2 …(2)
+
+Equation/Vergelyking (1) = (2)
+
+(4 x 106)r2 = (2,5 x 105)(r + 0,003)2
+16r2 = r2 + 0,006r + 9 x10-6
+
+r = 1 mm  (0,001 m)
+
+(4)
+
+10.2.3 POSITIVE MARKING FROM QUESTION 10.2.2
+POSITIEWE NASIEN VANAF VRAAG 10.2.2
+
+2p r
+kQE =                                   OR/OF
+2
+9
+6
+)001,0(
+Q10×9=10×4
+
+Q = 4,44 x 10-10
+
+C  
+2T r
+kQE =
+2
+9
+5
+)004,0(
+Q10×9=10×5,2
+
+Q = 4,44 x 10-10 C 
+
+(2)
+   [9]
+
+
+
+
+
+
+
+=== page 14 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 14 DBE/November 2018
+ CAPS/KABV – Grade/Graad 11 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION 11/VRAAG 11
+
+11.1 The magnitude of the induced emf across the ends of a conductor is directly
+proportional to the rate of change in the magnetic flux linkage with the
+conductor. 
+Die grootte van die geï nduseerde emk oor die punte  van 'n geleier is direk
+eweredig aan die t empo van verandering van die magneti ese vloedkoppeling
+met die geleier.
+[2 or/of 0]
+
+(2)
+
+11.2 ε =  − N ΔϕΔt
+7 =
+− 400 Δϕ
+0,08
+∆Φ = - 1,4 x 10-3 Wb  (-0,0014)
+
+(3)
+
+11.3 POSITIVE MARKING FROM QUESTION 11.2
+POSITIEWE NASIEN VANAF VRAAG 11.2
+
+∆Φ = AB(cos θf – cos θi)
+-0,0014  = (0,03)2B(cos 45º - cos 0º)    
+B = 5,31 T 
+
+(4)
+
+11.4 Increase/Toeneem   (1)
+
+11.5
+tΔ
+1αε
+OR/OF
+Emf is inversely proportional to time.
+Emk is omgekeerd eweredig aan tyd.
+If the time decreases, the emf will increase.
+Indien die tyd verminder, sal die emk toeneem.
+
+(1)
+
+11.6 North/Noord   (1)
+
+11.7 From A to B/Van A na B   (1)
+   [13]
+
+
+-
+
+
+
+
+=== page 15 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 15 DBE/November 2018
+ CAPS/KABV – Grade/Graad 11 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou     Please turn over/Blaai om asseblief
+
+QUESTION 12/VRAAG 12
+
+12.1 OPTION 1/OPSIE 1
+21p R
+1
+R
+1
+R
+1 +=
+
+R6
+1+R41=8,41
+R = 2 Ω 
+OPTION 2/OPSIE 2
+21
+21
+p R+R
+RR=R
+
+R6+R4
+R6×R4=8,4
+R = 2 Ω  
+
+(3)
+
+12.2 POSITIVE MARKING FROM QUESTION 12.1
+POSITIEWE NASIEN VANAF VRAAG 12.1
+
+ OPTION 1/OPSIE 1
+V4R = IR4R
+      = 1,8(4)(2)
+      = 14,4 V
+
+R6
+R6
+R
+VI =
+12
+4,14=I R6
+
+    = 1,2 A
+
+V2R = IR 
+      = 1,2(4)  
+      = 4,8 V  
+OPTION 2/OPSIE 2
+V4R = IR4R
+      = 1,8(4)(2)
+      = 14,4 V
+
+T
+T
+R
+VI =
+8,4
+4,14=IT
+
+    = 3 A
+
+I2R = 3 – 1,8
+     = 1,2 A
+
+V2R = IR  
+      = 1,2(4)  
+      = 4,8 V  
+
+ OPTION 3/OPSIE 3
+R1 : R2
+  4 : 6
+  I1 : I2
+  6 : 4
+
+A8,1=Ix106
+IT = 3 A
+
+I2R = 3 – 1,8
+     = 1,2 A
+
+V2R = IR  
+      = 1,2(4)  
+      = 4,8 V  
+OPTION 4/OPSIE 4
+V4R = IR4R
+      = 1,8(4)(2)
+      = 14,4 V
+
+R : 2R : 3R
+  1 : 2 : 3
+VR : V2R : V3R
+  1 : 2 : 3
+
+V2R = 4,14x62
+       = 4,8 V  
+
+(5)
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+=== page 16 ===
+Physical Sciences P1/Fisiese Wetenskappe V1 16 DBE/November 2018
+ CAPS/KABV – Grade/Graad 11 – Marking Guidelines/Nasienriglyne
+Copyright reserved/Kopiereg voorbehou
+
+12.3 POSITIVE MARKING FROM QUESTION 12.1 AND 12.2
+POSITIEWE NASIEN VANAF VRAAG 12.1 EN 12.2
+
+ OPTION 1/OPSIE 1
+W = I2R∆ t  
+    = 1,82(8)(120)  
+    = 1036,8 J  
+
+OPTION 2/OPSIE 2
+W = VIΔt 
+    = (14,4)(1,8)(120) 
+    = 3110,4 J 
+OPTION 3/OPSIE 3
+R
+tVW 2∆=
+8
+)120()4,14(=W 2
+W = 3110,4 J 
+
+(3)
+
+12.4 Decrease/Neem af   (1)
+
+12.5 The ammeter has such a low resistance 
+It short circuits the parallel part and all current flows through the ammeter. 
+OR
+The ammeter short circuits the resistors 
+No current flows through resistor 2R 
+
+Die ammeter het so 'n lae weerstand
+Dit kortsluit die parallelgedeelte en al die stroom vloei deur die ammeter.
+OF
+Die ammeter kortsluit die resistors
+Daar vloei geen stroom deur resistor 2R nie
+
+(2)
+   [14]
+
+TOTAL/TOTAAL:  150
+
+
+
+-
