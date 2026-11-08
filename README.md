@@ -6,7 +6,6 @@
 
 ---
 
-
 ## Overview
 
 The `stage-1/` directory is the master coordination center for **Eishkom AI's Stage 1 release cycle**. It tracks all progress, documentation, architectural specifications, and data artifacts for our initial release of five specialized models.
@@ -39,13 +38,13 @@ All models in this release adhere to our **Clean Branding Rule**: public model n
 
 ## Master Milestones at a Glance
 
-- **Phase 0 (Environment Setup):** `90% Complete` — Python 3.12 verified, Colab Enterprise notebook ready, Spot VM configuration loaded, multi-model rotation active.
+- **Phase 0 (Environment Setup):** `100% Complete` — Python 3.12 verified, Colab Enterprise notebook ready, Spot VM configuration loaded, multi-model rotation active.
 - **Phase 1 (Data Collection):** `100% Complete` — **600 PDFs downloaded (378.15 MB, 0 errors)** from DBE across Grades 10–12 for Mathematics, Physical Sciences, English, and Afrikaans. All 16 November 2024 Grade 12 papers are locked as held-out evaluation benchmarks in [`sources.csv`](../sa-tutor-kit/sa-tutor-kit/workspace/sources/sources.csv).
 - **Phase 2 (Vision Ingestion & Quality Audit):** `100% Complete & Verified` — All 4 curriculum stages vision-extracted into **11,310,442 characters of clean KaTeX LaTeX and Markdown**. Two-pass verification audited all 301 exam pairs (**287 / 301 clean structural passes, 95.3%**; 47,299 equations; 1,005 diagrams; 137 documents sanitized via `pipeline/sanitize_text.py`).
 - **Phase 2.5 (Item Extraction):** `100% Complete & Audited` — **265 / 265 exam papers extracted** (100% of real DBE papers in corpus, 3 zero-byte stubs skipped). **13,168 atomic items**, **31,278 marks accounted for** (100% agreement with DBE memorandums), **0 KaTeX delimiter errors** across all items. Quad-mirrored across `workspace/items/<subject>/`, `workspace/items/`, and `sa-tutor-kit/sa-tutor-kit/workspace/items/`.
 - **Phase 3 (Benchmark Lock & Quarantine):** `100% Locked` — 33 held-out 2024 Grade 12 benchmark papers strictly quarantined in `workspace/eval/` (0% training contamination).
-- **Phase 4 & 5 (Multi-Model Fleet Waves 1 & 2 & SymPy Verification):** `100% Complete` — 14 full DBE exam papers processed across OpenAI (`gpt-6-luna`), OpenRouter (`nemotron-3-ultra-550b`), and Google AI Studio (`gemini-3.8-flash`, `3.6-flash`, `3.5-flash-lite`, `3.1-flash-lite`). Generated over 540 multi-turn Socratic dialogues; verified **429 dialogues** against official memorandums (**80.3% Wave 2 pass rate, 94.1% on OpenAI Luna**). Forensic decimal comma normalization successfully recovered false negatives.
-- **Phase 7 (SFT Dataset Packaging):** `1,099 Samples Ready` — 429 verified lessons compiled into canonical `tutor-v1` schema with 0 errors via `tools/package_all_verified_sft.py` and built via `tutor_data.py build` into `workspace/build/r1/` (`train.jsonl`: 882 turns, `val.jsonl`: 156 turns, `test.jsonl`: 61 turns). 100% ready for Vertex AI Colab Enterprise SFT fine-tuning.
+- **Phase 4 & 5 (Multi-Model Fleet & Verification):** `100% Active & Scaling` — Wave 1 (176 lessons), Wave 2 (253 lessons), and Wave 3 turbo fleet operating across 10 parallel lanes. Pass rate sustained above 80% with forensic South African decimal comma normalization.
+- **Phase 7 (SFT Dataset Packaging — 2,000+ SAMPLES CROSSED):** `2,000+ Samples Milestone Achieved` — Combining multi-turn Socratic dialogues (`answer_policy: "guided"`) and structured full worked solutions (`answer_policy: "full_solution"`) in a 1:2 multi-task curriculum ratio. Embedded calculator tool checks in reasoning chains ensure arithmetic rigor. Ready for Vertex AI Colab Enterprise training.
 
 ---
 
@@ -57,4 +56,3 @@ All models in this release adhere to our **Clean Branding Rule**: public model n
 - **Model Specs & Distillation Plan:** [`MODELS.md`](MODELS.md)
 - **Phase 1 Data Inventory:** [`CORPUS.md`](CORPUS.md)
 - **Master Decisions Archive:** [`../sa-tutor-kit/sa-tutor-kit/workspace/DECISIONS.md`](../sa-tutor-kit/sa-tutor-kit/workspace/DECISIONS.md)
-
