@@ -6096,3 +6096,70 @@ eeds_review: true.
 - **Evaluation Quarantined:** 33 November 2024 Grade 12 papers strictly quarantined in workspace/eval/ (0% training contamination)
 - **Storage & Mirroring:** Quad-mirrored across workspace/items/<subject>/, workspace/items/, and sa-tutor-kit/sa-tutor-kit/workspace/items/.
 - **Next Phase:** Phase 3 (Item Synthesis, Curriculum Deduplication & SFT Training Packaging).
+
+
+## 2026-11-08: Milestone: Phase 4 & 5 Multi-Model Fleet Pilot (192 Verified Lessons, 410 SFT Samples)
+
+- **Objective:** Validate end-to-end multi-provider generation (Phase 4) and automated mathematical SymPy verification (Phase 5) across full DBE Grade 12 past papers before full corpus scaling.
+- **Participating Fleet & Results:**
+  1. **OpenAI (`gpt-6-luna`, $0.50 / 1M output tokens):** Processed `dbe-mathematics-g12-p1-2023-nov` (51 items) -> **47 generated, 46 SymPy-verified (97.9% mathematical pass rate)**.
+  2. **OpenRouter (`nvidia/nemotron-3-ultra-550b-a55b:free`):** Processed `dbe-afrikaans_hl-g12-p1-2023-nov` (41 items) -> **37 generated, 37 verified (100.0% pedagogical pass rate)**.
+  3. **Google AI Studio Key 2 (`gemini-3.1-flash-lite`):** Processed `dbe-english_hl-g12-p1-2023-nov` (35 items) -> **35 generated, 35 verified (100.0% pedagogical pass rate)**.
+  4. **Google AI Studio Key 2 (`gemini-3.5-flash-lite` / `3.1-flash-lite`):** Processed `dbe-physical_sciences-g12-p2-2023-nov` (68 items) -> **47 generated, 31 verified (66.0%)**.
+  5. **Google AI Studio Key 1 (`gemini-3.1-flash-lite` / `3.5-flash-lite`):** Processed `dbe-mathematics-g12-p2-2023-nov` (53 items) -> **48 generated, 28 verified (58.3%)**.
+  6. **Google AI Studio Key 1 (`gemini-3.5-flash-lite`):** Processed `dbe-physical_sciences-g12-p1-2023-nov` (61 items) -> **39 generated, 15 verified (38.5%)**.
+- **Aggregate Verification Metrics:**
+  - 6 full exam papers processed.
+  - 253 multi-turn Socratic dialogues generated.
+  - 192 dialogues verified 100% against DBE official memorandums.
+  - Master pilot dataset compiled: `workspace/verified/train_r1_pilot.jsonl`.
+- **SFT Build Packaging (`tutor_data.py build`):**
+  - Converted into canonical `tutor-v1` schema via `tools/format_pilot_for_tutor_data.py` with 0 validation errors.
+  - Built into SFT train/val/test splits in `workspace/build/r1_pilot/`:
+    - `train.jsonl`: 153 lessons (337 assistant samples, full thinking reasoning preserved, loss on completion).
+    - `val.jsonl`: 22 lessons (48 assistant samples).
+    - `test.jsonl`: 11 lessons (25 assistant samples).
+    - Total: 410 training turns ready for immediate fine-tuning in Colab Enterprise.
+- **Architectural Discovery: Testing Engine Clarification:**
+  - The AI models act as the teachers (Socratic prompting) and learners (misconceptions).
+  - Our local Python execution harness acts as the impartial examiner, running SymPy in an isolated subprocess to mathematically verify solutions against official DBE memorandums before admitting data into the training corpus.
+- **Storage & Synchronization:** Mirrored across root `workspace/` and `sa-tutor-kit/sa-tutor-kit/workspace/`.
+
+
+## 2026-11-08: Configuration: Maximum Reasoning Mode & Thinking Budgets Across All Providers
+
+- **OpenAI (`gpt-6-luna`):**
+  - Configured `reasoning_effort: "xhigh"` (tested and verified with HTTP 200).
+  - Increased `max_completion_tokens` to `4000` to allocate ample budget for deep pedagogical decomposition and Socratic dialogue.
+- **Google AI Studio (API Keys 1 & 2):**
+  - Integrated `thinkingConfig: {"thinkingBudget": 24576}` (the maximum allowable thinking token budget on `gemini-3.5-flash-lite` and `gemini-3.1-flash-lite`).
+  - Increased `maxOutputTokens` to `4000`.
+- **OpenRouter (`nvidia/nemotron-3-ultra-550b:free` & fleet):**
+  - Added `"reasoning": {"effort": "high"}` to payload.
+  - Increased token ceiling to `3500`.
+- **Sync & Mirroring:** Configured in `tools/run_multi_model_test.py` and mirrored across root and `sa-tutor-kit/sa-tutor-kit/tools/`.
+
+
+## 2026-11-08: Milestone: Wave 2 Multi-Model Fleet Completion & Forensic Decimal Normalization (429 Verified Lessons, 1,099 SFT Samples)
+
+- **Objective:** Run Wave 2 multi-model fleet generation with maximum reasoning modes (`xhigh` on Luna, 24k thinking budget on Flash Lite, high effort on Nemotron, 5 RPM pacing on Gemini 3.8/3.6 Flash) across 8 past papers, and execute forensic verification recovery.
+- **Participating Fleet Scorecard (Wave 2):**
+  1. **OpenAI (`gpt-6-luna`, `xhigh` reasoning):** Wiskunde V1 (`dbe-wiskunde-g12-v1-2023-nov`) -> **32 verified / 34 generated (94.1% pass rate)**.
+  2. **Google AI Studio Key 2 (`gemini-3.1-flash-lite`, 24k thinking):** Afrikaans HL P1 (`dbe-afrikaans_hl-g12-p1-2022-nov`) -> **38 verified / 42 generated (90.5% pass rate)**.
+  3. **Google AI Studio Key 1 (`gemini-3.5-flash-lite`, 24k thinking):** English HL P1 (`dbe-english_hl-g12-p1-2022-nov`) -> **28 verified / 32 generated (87.5% pass rate)**.
+  4. **Google AI Studio Key 2 (`gemini-3.5-flash-lite`, 24k thinking):** English FAL P1 (`dbe-english_fal-g12-p1-2023-nov`) -> **38 verified / 47 generated (80.9% pass rate)**.
+  5. **Google AI Studio Key 2 (`gemini-3.8-flash` -> `3.6-flash`, 5 RPM):** Fisiese Wetenskappe V1 -> **4 verified / 5 generated (80.0% pass rate)** before 20 RPD cap.
+  6. **Google AI Studio Key 1 (`gemini-3.8-flash` -> `3.6-flash`, 5 RPM):** Physical Sciences P1 -> **15 verified / 19 generated (78.9% recovered pass rate)**.
+  7. **OpenRouter (`nvidia/nemotron-3-ultra-550b:free`, effort: high):** Mathematics P1 (`dbe-mathematics-g12-p1-2022-nov`) -> **36 verified / 48 generated (75.0% recovered pass rate)**.
+  8. **Google AI Studio Key 1 (`gemini-3.1-flash-lite`, 24k thinking):** Afrikaans FAL P1 (`dbe-afrikaans_fal-g12-p1-2023-nov`) -> **46 verified / 68 generated (67.6% pass rate)**.
+- **Forensic Discovery & Verification Normalization:**
+  - Diagnosed that lower initial pass rates in Physics (47%) and Math (47%) were false negatives caused by the South African decimal comma (`$13{,}32$` vs `13.32`, `$5{,}78\%$` vs `5.78%`, `$0{,}16$` vs `0.16`), LaTeX unit wrappers (`\text{ m/s}`), space thousand separators (`$\text{R}212\ 500$`), and multi-line stdout root capture.
+  - Implemented `tools/recover_wave2_verifications.py` with decimal normalization and multiline root evaluation, successfully recovering 19 additional items and lifting the Wave 2 pass rate to **80.3%**.
+- **Master Corpus Compilation & Canonical SFT Packaging:**
+  - Merged Wave 1 and Wave 2 into `workspace/verified/train_all_canonical.jsonl`: **429 total verified lessons** (419 canonical schema compliant, 0 validation errors).
+  - Built production SFT training split in `workspace/build/r1/`:
+    - `train.jsonl`: **338 lessons | 882 assistant training turns** (loss on completion, full reasoning chains).
+    - `val.jsonl`: **58 lessons | 156 assistant validation turns**.
+    - `test.jsonl`: **23 lessons | 61 assistant test turns**.
+    - **Total SFT Training Samples:** **1,099 samples**.
+- **Storage & Synchronization:** Mirrored across root `workspace/` and `sa-tutor-kit/sa-tutor-kit/workspace/`.

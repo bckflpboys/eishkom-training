@@ -1,0 +1,33 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "Which ONE of the following represents a straight chain SATURATED hydrocarbon?\n\nA $\\text{C}_5\\text{H}_8$\nB $\\text{C}_5\\text{H}_{10}$\nC $\\text{C}_6\\text{H}_{12}$\nD $\\text{C}_6\\text{H}_{14}$"
+    },
+    {
+      "role": "assistant",
+      "reasoning": "The learner is confused and presented a multiple-choice question on saturated hydrocarbons. I should not give the answer. Start by activating the definition of a saturated hydrocarbon (alkane) and its general formula. Ask one small question to check what they remember about the general formula.",
+      "content": "Let's break this down. A saturated hydrocarbon has only single bonds between carbon atoms. What is the general formula for a saturated hydrocarbon (alkane) in terms of n, the number of carbon atoms?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure... is it CnH2n?"
+    },
+    {
+      "role": "assistant",
+      "reasoning": "The learner guessed the alkene formula CnH2n, which is a common misconception. I need to correct this gently and guide them to the alkane formula CnH2n+2. Then ask a focused question that leads them to apply it to option D without stating the answer outright.",
+      "content": "Good try — CnH2n is actually the formula for alkenes, which have one double bond and are unsaturated. For a saturated hydrocarbon (alkane), the formula is CnH2n+2. Now look at option D: C6H14. If n = 6, what does 2n + 2 give for the number of hydrogen atoms? Does it match?"
+    }
+  ],
+  "meta": {
+    "strategy_used": "socratic_hints",
+    "final_answer": "D",
+    "verify_code": "n = 6\nh = 2*n + 2\nprint('D' if h == 14 else 'not D')",
+    "techniques": [
+      "activate prior knowledge",
+      "correct misconception",
+      "apply general formula",
+      "guided questioning"
+    ]
+  }
+}
