@@ -40,6 +40,21 @@
 
 ---
 
+
+### 1.5. Stage 2 (v2 Models) Architectural Roadmap: Pedagogical Strategy Permutation
+
+> [!NOTE]
+> **Stage 2 Sidenote & Strategic Permutation Policy:**
+> In Stage 2 (v2 of the models), we will be training on the **exact same 265 question papers across different pedagogical teaching styles**.
+> - In Stage 1: Each paper is trained on subject-adaptive Socratic guidance (`step_walkthrough`) paired with formal full worked solutions (`full_solution`) in a 1:2 ratio.
+> - In Stage 2: The exact same question papers will be regenerated and retrained under alternate teaching styles:
+>   - `worked_example` (Modelled parallel problem followed by learner execution)
+>   - `mnemonic_memory_hook` (Cognitive memory aids, visual analogies like $V$ for vertical lines, and conceptual hooks)
+>   - `faded_example` (Partially worked solutions with fill-in-the-blank steps)
+>   - `frustrated_learner_de-escalation` (Emotional validation, confidence building, and micro-clues)
+>   - `rapid_short_prompt` (Ultra-concise Q&A for mobile micro-tutoring)
+> - This strategy multiplies the corpus 4x–5x (**10,000+ to 15,000+ verified SFT samples**) without requiring new exam papers, guaranteeing that the Stage 2 tutor can seamlessly pivot its teaching style based on what works best for each individual student.
+
 ## 2. Stage 1 Model Architecture & Lineup
 
 | Public Model Name | Internal Tier | Base Hugging Face Repo | Target Export Format | Final Size | Target Hardware & Deployment |

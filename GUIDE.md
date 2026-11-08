@@ -123,7 +123,38 @@ gcloud run deploy koeberg-stage-1 \
   - Balance 1 structured full worked solution (`answer_policy: "full_solution"`) per 2 Socratic hint dialogues (`answer_policy: "guided"`).
   - Grounded in official DBE mark schemes while anchoring conversational behavior in Socratic patience.
 
-### Step 5b: Stage-2 Strategy Permutation Architecture (v2 Roadmap)
+### Step 5b: Pedagogical Styles in Stage 1 vs Stage 2 Strategy Permutation (v2 Roadmap)
+
+#### How Teaching Styles Work in Stage 1:
+- **It is NOT 1 generic style for all subjects.** The teacher model trains on **different pedagogical styles adapted to the cognitive demands of each subject**:
+  1. **Mathematics & Wiskunde:**
+     - Uses **Polya's 4-step problem solving** (`understand_problem`, `devise_plan`, `carry_out_plan`, `look_back`).
+     - Employs **factor-pair search**, **check by substitution**, and explicit **`[TOOL CHECK: calculator(...)]`** in private chain-of-thought so arithmetic is verified rather than guessed.
+  2. **Physical Sciences & Fisiese Wetenskappe:**
+     - Uses **concept mapping** and **formula-selection-first**.
+     - Enforces **units checks** (e.g. converting $\text{km/h}$ to $\text{m/s}$, checking SI units $\text{N}$, $\text{J}$, $\text{W}$), identifying force directions (perpendicular normal force, frictional opposing force), and tool-checked arithmetic.
+  3. **Languages (English & Afrikaans HL / FAL):**
+     - Uses **context clues**, **quote extraction**, **paraphrasing**, and **mark-per-point** scoring.
+     - Guides visual literacy (frame-by-frame cartoon body language, font emphasis, advertising target audiences).
+  4. **Adaptive Student Personas Across All Subjects:**
+     - **Frustrated / Anxious Learners:** Validates emotions first (*"Take a deep breath, let's break this into one small piece"*), lowers cognitive anxiety, and gives micro-clues.
+     - **Short-Answer Learners:** Matches students who only reply with 1-3 words by providing tight, punchy, single-question nudges instead of lecturing.
+     - **Memory Mnemonics & Analogies:** Uses memory hooks (e.g. '$V$' points down so vertical means up-and-down; '$H$' is flat like the horizon; 4IR initials for Fourth Industrial Revolution).
+- **Multi-Task Curriculum Ratio (1:2):** 1 structured full worked solution demonstration (`answer_policy: "full_solution"`) per 2 Socratic hint dialogues (`answer_policy: "guided"`).
+
+#### Stage 2 (v2 Models) Architecture: Strategy Permutation
+> [!IMPORTANT]
+> **Stage 2 (v2) Permutation Architecture:**
+> In Stage 2 (v2 of the models), we will be retraining on the **exact same 265 question papers but across systematically rotated teaching styles**.
+> For example:
+> - If **November 2021 Mathematics P1** was trained using `step_walkthrough` (standard Socratic hint ladder) in Stage 1:
+> - In Stage 2, that **same exam paper** will be regenerated and retrained under alternate pedagogical styles:
+>   1. `worked_example`: The tutor provides a fully solved parallel problem first, then asks the student to solve the DBE question.
+>   2. `mnemonic_memory_hook`: The tutor focuses heavily on cognitive memory tricks, analogies, and visual metaphors.
+>   3. `faded_example`: The tutor provides a partially completed solution with key operational blanks for the student to complete.
+>   4. `frustrated_learner_recovery`: Explicit training on emotional de-escalation and building learner confidence.
+>   5. `rapid_short_prompt`: Ultra-concise, rapid-fire Q&A optimized for mobile chat.
+> - **The Result:** This multiplies our training corpus **4x–5x (10,000+ to 15,000+ SFT samples)** entirely from our verified 265 DBE exam papers, giving the Stage 2 models unprecedented stylistic versatility without needing external or unverified question papers.
 - In Stage 2 (v2 of the models), the exact same 265 core DBE question papers will be systematically re-prompted across multiple pedagogical styles:
   1. `step_walkthrough` (Standard Socratic hint ladder)
   2. `worked_example` (Full modelled problem followed by a parallel problem)

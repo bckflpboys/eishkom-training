@@ -1,0 +1,8 @@
+﻿Metric,Value,Notes
+Grand Total SFT Samples,5335,Total assistant training turns + full solutions
+Total Socratic Lessons,1346,Multi-turn interactive dialogue lessons
+Estimated Socratic Turns,3365,Assistant response turns in Socratic lessons
+Total Full Solution Demonstrations,1970,Formal DBE memorandum step-by-step demonstrations
+Exam Papers Fully Processed,41,Completed with both Socratic & Full Solutions
+Multi-Task Ratio,1 Full Solution : 1.6 Socratic,Curriculum balance
+Target Milestone,"5,000 Samples",Sprint currently active

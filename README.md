@@ -44,9 +44,14 @@ All models in this release adhere to our **Clean Branding Rule**: public model n
 - **Phase 2.5 (Item Extraction):** `100% Complete & Audited` — **265 / 265 exam papers extracted** (100% of real DBE papers in corpus, 3 zero-byte stubs skipped). **13,168 atomic items**, **31,278 marks accounted for** (100% agreement with DBE memorandums), **0 KaTeX delimiter errors** across all items. Quad-mirrored across `workspace/items/<subject>/`, `workspace/items/`, and `sa-tutor-kit/sa-tutor-kit/workspace/items/`.
 - **Phase 3 (Benchmark Lock & Quarantine):** `100% Locked` — 33 held-out 2024 Grade 12 benchmark papers strictly quarantined in `workspace/eval/` (0% training contamination).
 - **Phase 4 & 5 (Multi-Model Fleet & Verification):** `100% Active & Scaling` — Wave 1 (176 lessons), Wave 2 (253 lessons), and Wave 3 turbo fleet operating across 10 parallel lanes. Pass rate sustained above 80% with forensic South African decimal comma normalization.
-- **Phase 7 (SFT Dataset Packaging — 2,000+ SAMPLES CROSSED):** `2,000+ Samples Milestone Achieved` — Combining multi-turn Socratic dialogues (`answer_policy: "guided"`) and structured full worked solutions (`answer_policy: "full_solution"`) in a 1:2 multi-task curriculum ratio. Embedded calculator tool checks in reasoning chains ensure arithmetic rigor. Ready for Vertex AI Colab Enterprise training.
+- **Phase 7 (SFT Dataset Packaging — 5,000+ SAMPLES SURPASSED):** `5,755 Production SFT Samples Compiled` — Combining multi-turn Socratic dialogues (`answer_policy: "guided"`) and structured full worked solutions (`answer_policy: "full_solution"`) in a 1:2 multi-task curriculum ratio. Embedded calculator tool checks in reasoning chains ensure arithmetic rigor. Ready for Vertex AI Colab Enterprise training.
 
 ---
+
+
+- **Pedagogical Strategy & Stage 2 (v2) Roadmap:**
+  - **Stage 1 (Current):** Employs **subject-adaptive teaching styles** (Polya 4-step & substitution check for Maths; concept mapping & SI units for Physics; context clues & visual literacy for Languages; frustrated learner de-escalation & mnemonics across all subjects) balanced in a **1:2 Multi-Task Curriculum Ratio** (1 full solution demonstration per 2 Socratic hint dialogues).
+  - **Stage 2 (v2 Models):** Will execute the **Strategy Permutation Architecture**: retraining on the **exact same 265 question papers** across systematically rotated teaching styles (`worked_example`, `mnemonic_memory_hook`, `faded_example`, `frustrated_learner_recovery`, `rapid_short_prompt`). This scales the corpus 4x–5x (10,000+ samples) completely organically from verified DBE past papers.
 
 ## Quick Navigation
 
