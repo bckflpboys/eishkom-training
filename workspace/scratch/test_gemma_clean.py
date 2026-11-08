@@ -1,0 +1,71 @@
+import urllib.request
+import json
+import re
+
+api_key = "AQ.Ab8RN6KWottlmFmKypg9atadZdfk9IVDF02wuF0hzsrZ1l6CmQ"
+model_name = "models/gemma-4-31b-it"
+url = f"https://generativelanguage.googleapis.com/v1beta/{model_name}:generateContent?key={api_key}"
+
+with open('workspace/text/dbe-mathematics-g12-p2-2022-may.txt', 'r', encoding='utf-8') as f:
+    qp = f.read()
+with open('workspace/text/dbe-mathematics-g12-p2-2022-may-memo.txt', 'r', encoding='utf-8') as f:
+    memo = f.read()
+
+qp_q1 = qp[1062:2127].strip()
+memo_q1 = memo[1579:2866].strip()
+
+prompt = f"""You are an educational data extraction assistant following the Universal Document & Visual Extraction Standard (UDVES).
+Extract all atomic subquestions for QUESTION 1 from the Question Paper and Memorandum into a JSON code block.
+
+SOURCE DETAILS:
+- source_id: dbe-mathematics-g12-p2-2022-may
+- pair_source_id: dbe-mathematics-g12-p2-2022-may-memo
+- subject: mathematics
+- grade: 12
+- language: en
+- track: core_maths
+
+INSTRUCTIONS:
+1. Extract subquestions 1.1, 1.2, etc. as atomic items in a JSON array.
+2. Put the mass frequency table into the "passage" field.
+3. Use KaTeX LaTeX ($...$ inline, $$...$$ display) for all mathematical expressions.
+4. Decimal convention: inside math mode use $0{{,}}15$, in final_answer use standard decimal point (e.g. 0.15).
+5. All method marks and criteria from the memo must be included in "memo", with checkmarks formatted as $\\checkmark$.
+6. Output ONLY a valid JSON array wrapped in ```json and ```.
+
+QUESTION PAPER:
+{qp_q1}
+
+MEMORANDUM:
+{memo_q1}
+"""
+
+payload = {
+    "contents": [{"parts": [{"text": prompt}]}]
+}
+
+req = urllib.request.Request(
+    url,
+    data=json.dumps(payload).encode("utf-8"),
+    headers={"Content-Type": "application/json"}
+)
+
+print(f"Calling {model_name}...")
+try:
+    with urllib.request.urlopen(req, timeout=90) as resp:
+        data = json.loads(resp.read().decode("utf-8"))
+        raw = data["candidates"][0]["content"]["parts"][0]["text"]
+        print("Raw response length:", len(raw))
+        match = re.search(r'```(?:json)?\s*([\s\S]*?)\s*```', raw)
+        content = match.group(1).strip() if match else raw.strip()
+        items = json.loads(content)
+        print(f"SUCCESS! Extracted {len(items)} items.")
+        total_marks = sum(it.get("marks", 0) for it in items)
+        print(f"Total marks: {total_marks}")
+        for it in items:
+            print(f"  {it.get('question_ref')} ({it.get('marks')}m): {it.get('question')[:50]}... -> {it.get('final_answer')}")
+except Exception as e:
+    print("Error:", e)
+    if hasattr(e, "read"):
+        print("HTTP Error Details:", e.read().decode("utf-8"))
+

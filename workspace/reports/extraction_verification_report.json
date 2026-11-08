@@ -1,24 +1,24 @@
 {
   "summary": {
     "total_pairs_audited": 301,
-    "clean_passes": 287,
+    "clean_passes": 289,
     "eval_held_out": 17,
-    "memo_recoverable": 5,
-    "syntax_flags": 1,
-    "literature_choice_papers": 19,
-    "missing_question_gaps": 13,
-    "total_latex_equations_checked": 47312,
-    "total_diagrams_verified": 1004,
+    "memo_recoverable": 3,
+    "syntax_flags": 0,
+    "literature_choice_papers": 18,
+    "missing_question_gaps": 12,
+    "total_latex_equations_checked": 49692,
+    "total_diagrams_verified": 1080,
     "by_subject": {
       "mathematics": {
         "total": 47,
-        "clean": 44,
+        "clean": 45,
         "gaps": 2
       },
       "afrikaans": {
         "total": 60,
-        "clean": 54,
-        "gaps": 6
+        "clean": 55,
+        "gaps": 5
       },
       "english": {
         "total": 60,
@@ -84,12 +84,12 @@
       "qp_id": "dbe-afrikaans_fal-g12-p2-2025-nov",
       "memo_id": "dbe-afrikaans_fal-g12-p2-2025-nov-memo",
       "status": "GAP_DETECTED",
-      "qp_chars": 22783,
-      "memo_chars": 22099,
-      "equations_count": 5,
+      "qp_chars": 81963,
+      "memo_chars": 71387,
+      "equations_count": 0,
       "diagrams_found": 0,
-      "qp_question_count": 90,
-      "memo_question_count": 86,
+      "qp_question_count": 286,
+      "memo_question_count": 272,
       "missing_in_qp": [
         "1.1.1",
         "1.1.2",
@@ -98,7 +98,7 @@
         "2.1.2"
       ],
       "issues": [
-        "Memo has 86 questions; QP only has 90. Missing in QP: ['1.1.1', '1.1.2', '1.1.3', '2.1.1', '2.1.2']"
+        "Memo has 272 questions; QP only has 286. Missing in QP: ['1.1.1', '1.1.2', '1.1.3', '2.1.1', '2.1.2']"
       ]
     },
     {
@@ -232,17 +232,15 @@
       "subject": "mathematics",
       "qp_id": "dbe-mathematics-g12-p2-2025-nov",
       "memo_id": "dbe-mathematics-g12-p2-2025-nov-memo",
-      "status": "SYNTAX_FLAG",
-      "qp_chars": 11157,
-      "memo_chars": 19479,
-      "equations_count": 288,
-      "diagrams_found": 7,
-      "qp_question_count": 62,
-      "memo_question_count": 36,
+      "status": "VERIFIED_CLEAN",
+      "qp_chars": 13798,
+      "memo_chars": 81202,
+      "equations_count": 1779,
+      "diagrams_found": 47,
+      "qp_question_count": 71,
+      "memo_question_count": 65,
       "missing_in_qp": [],
-      "issues": [
-        "Empty display math block"
-      ]
+      "issues": []
     },
     {
       "pair_index": 13,
@@ -298,11 +296,11 @@
       "memo_id": "dbe-physical_sciences-g12-p2-2025-nov-memo",
       "status": "VERIFIED_CLEAN",
       "qp_chars": 19351,
-      "memo_chars": 21945,
-      "equations_count": 542,
+      "memo_chars": 23704,
+      "equations_count": 596,
       "diagrams_found": 8,
       "qp_question_count": 92,
-      "memo_question_count": 84,
+      "memo_question_count": 85,
       "missing_in_qp": [],
       "issues": []
     },
@@ -412,20 +410,14 @@
       "subject": "english",
       "qp_id": "dbe-english_fal-g12-p2-2025-may",
       "memo_id": "dbe-english_fal-g12-p2-2025-may-memo",
-      "status": "LITERATURE_ELECTIVE_ALIGNED",
-      "qp_chars": 28661,
-      "memo_chars": 31301,
-      "equations_count": 176,
+      "status": "VERIFIED_CLEAN",
+      "qp_chars": 39373,
+      "memo_chars": 32529,
+      "equations_count": 183,
       "diagrams_found": 0,
-      "qp_question_count": 75,
-      "memo_question_count": 102,
-      "missing_in_qp": [
-        "5.1.1",
-        "5.1.2",
-        "5.1.3",
-        "5.1.4",
-        "5.1.5"
-      ],
+      "qp_question_count": 105,
+      "memo_question_count": 103,
+      "missing_in_qp": [],
       "issues": []
     },
     {
@@ -495,12 +487,17 @@
       "memo_id": "dbe-mathematics-g12-p2-2025-may-memo",
       "status": "VERIFIED_CLEAN",
       "qp_chars": 12253,
-      "memo_chars": 1569,
-      "equations_count": 274,
-      "diagrams_found": 8,
+      "memo_chars": 61937,
+      "equations_count": 1132,
+      "diagrams_found": 43,
       "qp_question_count": 68,
-      "memo_question_count": 7,
-      "missing_in_qp": [],
+      "memo_question_count": 66,
+      "missing_in_qp": [
+        "3.08",
+        "6.25",
+        "7.63",
+        "17.14"
+      ],
       "issues": []
     },
     {
@@ -525,11 +522,11 @@
       "memo_id": "dbe-physical_sciences-g12-p1-2025-may-memo",
       "status": "VERIFIED_CLEAN",
       "qp_chars": 18534,
-      "memo_chars": 19487,
-      "equations_count": 373,
+      "memo_chars": 25185,
+      "equations_count": 392,
       "diagrams_found": 16,
       "qp_question_count": 73,
-      "memo_question_count": 53,
+      "memo_question_count": 68,
       "missing_in_qp": [],
       "issues": []
     },
@@ -1185,23 +1182,15 @@
       "subject": "afrikaans",
       "qp_id": "dbe-afrikaans_hl-g12-p1-2023-nov",
       "memo_id": "dbe-afrikaans_hl-g12-p1-2023-nov-memo",
-      "status": "GAP_DETECTED",
+      "status": "VERIFIED_CLEAN",
       "qp_chars": 19167,
-      "memo_chars": 21325,
+      "memo_chars": 20546,
       "equations_count": 0,
       "diagrams_found": 3,
       "qp_question_count": 50,
-      "memo_question_count": 46,
-      "missing_in_qp": [
-        "1.1.1",
-        "1.1.2",
-        "1.3.1",
-        "1.3.2",
-        "4.8"
-      ],
-      "issues": [
-        "Memo has 46 questions; QP only has 50. Missing in QP: ['1.1.1', '1.1.2', '1.3.1', '1.3.2', '4.8']"
-      ]
+      "memo_question_count": 45,
+      "missing_in_qp": [],
+      "issues": []
     },
     {
       "pair_index": 69,
@@ -1556,23 +1545,15 @@
       "subject": "mathematics",
       "qp_id": "dbe-mathematics-g12-p1-2023-may",
       "memo_id": "dbe-mathematics-g12-p1-2023-may-memo",
-      "status": "MEMO_FIRST_RECOVERABLE",
-      "qp_chars": 144,
+      "status": "VERIFIED_CLEAN",
+      "qp_chars": 10514,
       "memo_chars": 14810,
-      "equations_count": 262,
-      "diagrams_found": 0,
-      "qp_question_count": 0,
+      "equations_count": 360,
+      "diagrams_found": 1,
+      "qp_question_count": 73,
       "memo_question_count": 62,
-      "missing_in_qp": [
-        "1",
-        "1.1.1",
-        "1.1.2",
-        "1.1.3",
-        "1.1.4"
-      ],
-      "issues": [
-        "QP is short (144 chars), but Memo has rich full text (14,810 chars)"
-      ]
+      "missing_in_qp": [],
+      "issues": []
     },
     {
       "pair_index": 91,
@@ -1862,11 +1843,11 @@
       "memo_id": "dbe-mathematics-g12-p2-2022-nov-memo",
       "status": "VERIFIED_CLEAN",
       "qp_chars": 13633,
-      "memo_chars": 18130,
-      "equations_count": 532,
+      "memo_chars": 26034,
+      "equations_count": 658,
       "diagrams_found": 11,
       "qp_question_count": 77,
-      "memo_question_count": 52,
+      "memo_question_count": 67,
       "missing_in_qp": [],
       "issues": []
     },
@@ -2368,11 +2349,11 @@
       "memo_id": "dbe-mathematics-g12-p2-2021-nov-memo",
       "status": "VERIFIED_CLEAN",
       "qp_chars": 11825,
-      "memo_chars": 17842,
-      "equations_count": 381,
+      "memo_chars": 31723,
+      "equations_count": 403,
       "diagrams_found": 10,
       "qp_question_count": 73,
-      "memo_question_count": 45,
+      "memo_question_count": 61,
       "missing_in_qp": [],
       "issues": []
     },
@@ -2773,11 +2754,11 @@
       "qp_id": "dbe-afrikaans_hl-g12-p1-2020-nov",
       "memo_id": "dbe-afrikaans_hl-g12-p1-2020-nov-memo",
       "status": "VERIFIED_CLEAN",
-      "qp_chars": 19381,
+      "qp_chars": 21659,
       "memo_chars": 20019,
-      "equations_count": 56,
+      "equations_count": 53,
       "diagrams_found": 0,
-      "qp_question_count": 45,
+      "qp_question_count": 46,
       "memo_question_count": 45,
       "missing_in_qp": [],
       "issues": []
@@ -2870,11 +2851,11 @@
       "memo_id": "dbe-mathematics-g12-p1-2020-nov-memo",
       "status": "VERIFIED_CLEAN",
       "qp_chars": 10145,
-      "memo_chars": 15227,
-      "equations_count": 430,
+      "memo_chars": 17365,
+      "equations_count": 449,
       "diagrams_found": 3,
       "qp_question_count": 68,
-      "memo_question_count": 51,
+      "memo_question_count": 59,
       "missing_in_qp": [],
       "issues": []
     },
@@ -3095,7 +3076,7 @@
       "qp_id": "dbe-english_hl-g12-p1-2019-nov",
       "memo_id": "dbe-english_hl-g12-p1-2019-nov-memo",
       "status": "VERIFIED_CLEAN",
-      "qp_chars": 16751,
+      "qp_chars": 17761,
       "memo_chars": 15879,
       "equations_count": 3,
       "diagrams_found": 3,
@@ -3611,23 +3592,17 @@
       "subject": "mathematics",
       "qp_id": "dbe-mathematics-g12-p2-2018-nov",
       "memo_id": "dbe-mathematics-g12-p2-2018-nov-memo",
-      "status": "MEMO_FIRST_RECOVERABLE",
-      "qp_chars": 263,
-      "memo_chars": 19442,
-      "equations_count": 306,
+      "status": "VERIFIED_CLEAN",
+      "qp_chars": 10233,
+      "memo_chars": 29781,
+      "equations_count": 0,
       "diagrams_found": 0,
-      "qp_question_count": 0,
-      "memo_question_count": 42,
+      "qp_question_count": 76,
+      "memo_question_count": 67,
       "missing_in_qp": [
-        "1",
-        "1.1.1",
-        "1.1.2",
-        "1.1.3",
-        "1.1.4"
+        "1.1.1"
       ],
-      "issues": [
-        "QP is short (263 chars), but Memo has rich full text (19,442 chars)"
-      ]
+      "issues": []
     },
     {
       "pair_index": 217,

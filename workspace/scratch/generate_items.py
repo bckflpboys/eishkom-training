@@ -1,1276 +1,920 @@
+# -*- coding: utf-8 -*-
+"""
+Generate standardized atomic JSONL items for:
+Source ID: dbe-mathematics-g12-p2-2018-nov
+Paired Memo ID: dbe-mathematics-g12-p2-2018-nov-memo
+Grade: 12 | Subject: mathematics | Track: core_maths | Language: en
+Total Marks: 150
+"""
+
 import json
-import os
 import re
 
-source_id = "dbe-english_fal-g12-p1-2023-nov"
-pair_source_id = "dbe-english_fal-g12-p1-2023-nov-memo"
-subject = "english_fal"
-grade = 12
-language = "en"
-track = "languages_fal"
-
-# Shared Passages
-passage_sec_a = """### TEXT A
-
-**FAST FASHION'S FOOTPRINT**
-
-1. Fast fashion refers to the quick and inexpensive production of clothing by mass-market retailers in response to the latest fashion trends. The fashion industry is vibrant and varied. It has grown significantly in recent years due to the popularity of fast fashion. The goal is to get new clothing styles from the runway$^1$ to the store as quickly and cheaply as possible to meet consumer demand for trendy and affordable clothing.
-
-2. 'Clothing overconsumption is on the rise in Africa, including South Africa, and a major reason for this is the acceleration of the fast fashion cycle,' says Dr Lorna Christie, researcher at the Department of Life Sciences, College of Agriculture and Environmental Sciences (CAES). South Africa is a fashion-conscious nation and it shows in consumers' spending habits. In one financial year, South Africans spent R180 billion on clothing and textiles, which amounts to $18\\%$ of all retail sales in that year. As a strong consumer base, South Africa is contributing to pollution because of the massive amounts of waste the clothing industry generates.
-
-3. Globally, fashion companies have drastically changed their release of new clothing collections. In the past, only two collections per year were available. Currently, some brands and fashion houses release two collections a month, or even more. This is also a growing trend in South Africa.
-
-4. With fashion changing so often and so fast, it is not surprising that people are buying more clothing. Globally, clothing production has almost doubled since the year 2000. People are buying more garments than in the past, and they only keep the clothes for half as long. The fast fashion cycle is increasing even more, and people are purchasing clothing at an even faster rate. They discard clothing at a faster rate too.
-
-5. The amount of clothing that gets thrown away every second of every day is equivalent to a truck filled with garbage. Discarded clothing contributes massively to pollution. The chemicals used in the manufacturing process are released, and because of all the synthetic fibres, clothes either decompose slowly or do not decompose at all.
-
-6. Natural fibres are not any better, because the cultivation of cotton and other natural fibres requires the use of water, fertilisers, pesticides, as well as the energy for picking the fibre and processing it into yarns$^2$. Then, there is the dyeing process, which requires large amounts of water and chemicals, and the runoff$^3$ from this process can pollute waterways$^4$ and harm the environment.
-
-7. Washing clothes releases $500\\ 000$ tons of microfibres into the ocean each year, which is the equivalent of $50$ billion plastic bottles. More than $10\\ 000$ litres of water is used when manufacturing a single pair of jeans. This is equivalent to the average drinking water for one person for five-and-a-half years. There is a further impact on the environment when garments are shipped and delivered to the point of sale as much fuel and power are used.
-
-8. The fashion industry has a damaging effect on the environment, but everyone has the power to drive the change that will reduce the impact. Fashion designers must use eco-friendly, long-lasting materials when manufacturing clothes. This will lead to sustainable fashion which encourages the repair, recycling and donation of clothes. Discarding clothes in a rubbish dump must only be done as a last option.
-
-9. Consumers must buy from sustainable$^5$ fashion brands which do not produce clothes for the fast fashion market. They must support small local businesses which do not contribute to pollution. Instead of buying an outfit that is going to be worn once, it is better if consumers rent such outfits. People must ensure that their desire to look good does not have a negative impact on the environment.
-
-[Adapted from *www.unisa.ac.za*]
-
-**GLOSSARY:**
-- runway$^1$: the long narrow stage that models walk along in a fashion show
-- yarn(s)$^2$: thread used for making cloth or for knitting
-- runoff$^3$: rain or other liquid that flows off the land into rivers
-- waterway(s)$^4$: a river or canal that boats travel on
-- sustainable$^5$: capable of continuing for a long time
-
----
-
-### TEXT B
-
-**PERCENTAGE OF WATER USED FOR DIFFERENT PURPOSES IN FIVE CONTINENTS**
-
-[Diagram description: Five circular pie charts comparing the distribution of water consumption across three sectors (Domestic use, Agricultural use, Industrial use) for five continents. A legend at the bottom defines the shading:
-- Solid black shading = Domestic use
-- Diagonal hatching / striped shading = Agricultural use
-- Plain white / unshaded = Industrial use]
-
-- **North America:**
-  - Industrial use: $48\\%$
-  - Agricultural use: $39\\%$
-  - Domestic use: $13\\%$
-- **South America:**
-  - Agricultural use: $71\\%$
-  - Domestic use: $19\\%$
-  - Industrial use: $10\\%$
-- **Europe:**
-  - Industrial use: $53\\%$
-  - Agricultural use: $32\\%$
-  - Domestic use: $15\\%$
-- **Africa:**
-  - Agricultural use: $84\\%$
-  - Domestic use: $9\\%$
-  - Industrial use: $7\\%$
-- **Asia:**
-  - Agricultural use: $88\\%$
-  - Domestic use: $7\\%$
-  - Industrial use: $5\\%$
-
-[Source: *www.pinterest.com*]"""
-
-passage_sec_b = """### TEXT C
-
-**THE RESTORATIVE POWER OF VASELINE**
-
-Vaseline petroleum jelly (Vaseline) has been around for more than one hundred and fifty years; it is a true legend and has become popularly known as Vaseline in South Africa. The soothing power of Vaseline has been passed down from generation to generation. It is time to get excited about skincare and embrace the healing power of petroleum jelly. The affordable yet effective Vaseline is versatile.
-
-The hydrating power of Vaseline is a good remedy for dry skin. Applying it to the body after a shower keeps the skin moisturised. For minor wounds such as cuts, scrapes, scratches and burns, use Vaseline to keep the wound moist as doing this will aid the healing process.
-
-Vaseline is hypoallergenic; therefore, it is suitable for sensitive skin, making it a good skincare option for babies to prevent nappy rash. Do not let mosquito bites and bee stings get the upper hand. Put some Vaseline on the itchy spots for instant relief.
-
-Rubbing a little Vaseline into the hair gives it instant shine and reduces the look of split ends. Removing chewing gum stuck in your hair is a nightmare. Coat the gum and surrounding hair with Vaseline and pull gently to remove the gum.
-
-For teeth whitening, mix two tablespoons of baking soda with Vaseline and apply to dry teeth, using a toothbrush. Do not let snails and ants ruin your garden. Apply a combination of Vaseline and salt on the edges of flower pots to keep them protected.
-
-[Adapted from *Benefits*, January 2022]"""
-
-passage_sec_c_q3 = """### TEXT D
-
-**ADVERTISEMENT: CAUTION FIRE DANGER**
-
-[Visual & Layout Description:
-- **Top banner:** Flames leaping above a black and white warning sign.
-  - White text on a black block: "**CAUTION**"
-  - Large distressed, cracked font on a white banner below: "**FIRE DANGER**" (the letter 'I' in 'FIRE' looks fractured like a flame, and the letter 'G' in 'DANGER' is tilted and falling downwards).
-- **Upper right visual:** A circular vignette featuring a stylized black silhouette of a horned buck / antelope head surrounded by intense flames.
-- **Subheading:** "**Fire is EVERYONE'S fight**" (with 'EVERYONE'S' in bold capital letters).
-- **Central message box (white card):**
-  "The Western Cape has had devastating fires. Help us prevent unplanned veld fires and protect the environment and people!
-  
-  To report all emergencies, you can call **112** from a cellphone or **10177** from a landline toll free."
-- **Inset note (simulating a paper note pinned at the bottom-right):**
-  "**DISTRICT EMERGENCY NUMBERS FOR REPORTING VELD FIRES**
-  - City of Cape Town: 107 from a landline or 021 480 7700 from a cellphone
-  - Overberg: 028 425 1690
-  - West Coast: 022 433 8700
-  - Eden: 044 805 5071
-  - Central Karoo: 023 414 2603
-  - Cape Winelands: 021 887 4446"
-- **Black bar above footer:** "Thank you for your awareness and co-operation." with a Facebook badge: "Find CapeNature on: facebook".
-- **Footer logos:** Four official partner logos displayed side by side:
-  1. Western Cape Government (official coat of arms and provincial banner)
-  2. Disaster Management (circular logo with triangle and 'DISASTER MANAGEMENT')
-  3. FIRERESCUE SERVICES
-  4. CapeNature (leaf/water emblem and URL www.capenature.co.za)]
-
-[Adapted from *www.westerncape.gov.za*]"""
-
-passage_sec_c_q4 = """### TEXT E
-
-**GARFIELD by JIM DAVIES**
-
-[Comic strip of 8 frames featuring Jon (a man) and Garfield (his cat):
-- **FRAME 1:** Title frame showing the bold stylized banner "GARFIELD" surrounded by stars. Garfield is lying down comfortably, resting on top of the banner with paws folded peacefully.
-- **FRAME 2:** Jon is seated holding a warm coffee mug in his hand, looking drowsy and relaxed with half-closed eyes. Behind him, Garfield is standing on his hind legs, eyes wide open and tail raised, bouncing up and down energetically.
-- **FRAME 3:** Garfield leaps forward and smacks Jon on the back of his head with his paw. A large bold sound-effect word "**SMACK**" is displayed with impact stars. Jon is jolted forward, liquid splashes out of his mug, and stationery flies out of a pen-holder. Garfield thinks in a jagged thought-bubble: "LET'S PLAY!".
-- **FRAME 4:** Jon turns his head back, frowning with an irritated and stern expression: "LEAVE ME ALONE, GARFIELD.". Garfield ignores him, continuing to dance with paws waving: "LET'S PLAY! LET'S PLAY!".
-- **FRAME 5:** Jon gives in, smiling warmly with closed eyes: "OH, OKAY, WE'LL PLAY". Garfield is lying playfully on his back on the floor with all four paws raised in anticipation.
-- **FRAME 6:** Jon crouches down and vigorously tickles Garfield's stomach with both hands, joyfully chanting: "TICKLE! TICKLE! TICKLE! TICKLE!". Garfield is wriggling and laughing out loud with wide open mouth: "HA! HA! HEE! HO!".
-- **FRAME 7:** Suddenly, Garfield bites Jon's hand/arm! Jon screams in agony, head thrown back with movement lines and fingers spread wide in shock: "**OUCH!**".
-- **FRAME 8:** Jon sits slumped back on the floor, thoroughly exhausted, traumatized and stunned, waving a weary hand: "I'M THROUGH PLAYING NOW". Garfield smugly and casually walks away on all fours with a smirk.]
-
-[Source: *www.cartoons.com*]  
-*NOTE: In this cartoon, the man's name is Jon and his cat is Garfield.*"""
-
-passage_sec_c_q5_1 = """### TEXT F
-
-**KEEPING BEES IS A BEE-UTIFUL HOBBY**
-
-1. There **is** beekeepers who keep the critical bee populations healthy. They have managed swarms to prevent the number of bees from **diclining**. Keeping swarms is **an** hobby that requires only a small investment of time and money.
-
-2. Honey is a wonderful ingredient with many uses. It can be harvested twice **on** one season. Beekeepers ensure that their bees are safe so they can continue producing honey and wax. The wax is used to make furniture polish and lip balms. Bees also play a major role in pollinating vital plants.
-
-3. Len Boucher, chairman of a beekeeping association, shared his story about bees. He said, 'I turned the passion for bees into a business.' Boucher rescues swarms that need to be removed from areas where they pose a potential danger. He explained that they are not **allowed** to keep bees in densely populated areas like blocks of flats. It is unsafe for both the people and the bees.
-
-4. Bees cannot be kept near a school, a church or a shopping centre. A beekeeping permit is required by anyone who wishes to become a beekeeper.
-
-5. More **information** about keeping bees **or** the safe removal of swarms is available on the internet.
-
-[Adapted from *www.northcliffmelvilletimes.co.za*]"""
-
-passage_sec_c_q5_2 = """### TEXT G
-
-**YOU ONLY HAVE ONE BODY.**  
-**MAKE VEGETABLES YOUR HEALTHY CHOICE.**
-
-[Diagram description: An educational health image showing a pair of human lungs artistically constructed from fresh, dark green leafy vegetable leaves (spinach or Swiss chard). The thick white central stalks / stems of the leaves join together at the top to resemble the human trachea and primary bronchi, while the white veins branch outward across the dark leafy green lobes, mimicking the bronchial network inside the left and right lungs.]
-
-[Source: *www.coop.com*]"""
-
-items = [
-    # Section A: Comprehension
-    {
-        "item_id": f"{source_id}-1.1.1",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "1.1.1",
-        "marks": 1,
-        "topic": "Comprehension - Text A (Fast Fashion)",
-        "passage": passage_sec_a,
-        "question": "Refer to paragraph 1.\nQuote THREE consecutive words that suggest that fast fashion is exciting and different.",
-        "memo": "'vibrant and varied' $\\checkmark$ / 'trendy and affordable' $\\checkmark$ (1)",
-        "final_answer": "vibrant and varied",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-1.1.2",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "multiple_choice",
-        "question_ref": "1.1.2",
-        "marks": 1,
-        "topic": "Comprehension - Text A (Vocabulary)",
-        "passage": passage_sec_a,
-        "question": "Refer to paragraph 1.\nChoose the correct answer to complete the following sentence.\n\nA more formal word for 'trendy' is ...\n\nA cool.  \nB outdated.  \nC remarkable.  \nD fashionable.",
-        "memo": "D / fashionable $\\checkmark$ (1)",
-        "final_answer": "D / fashionable",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-1.2.1",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "1.2.1",
-        "marks": 2,
-        "topic": "Comprehension - Text A (Dr Lorna Christie / CAES)",
-        "passage": passage_sec_a,
-        "question": "Refer to paragraph 2.\nWhy does the writer mention Dr Lorna Christie? State TWO points.",
-        "memo": "She conducts research (on fashion) $\\checkmark$ and her findings provide credibility to the article. $\\checkmark$ (2)",
-        "final_answer": "She conducts research on fashion, and citing her findings gives authority and credibility to the article.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-1.2.2",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "1.2.2",
-        "marks": 2,
-        "topic": "Comprehension - Text A (Fashion-conscious South Africa)",
-        "passage": passage_sec_a,
-        "question": "Refer to paragraph 2.\nWhat does the writer mean by, 'South Africa is a fashion-conscious nation' (lines 10–11). State TWO points.",
-        "memo": "* South Africans are aware of the latest fashion trends. $\\checkmark$\n* They are interested in wearing stylish clothes. $\\checkmark$\n* They spend money on fashion. $\\checkmark$\n\n**NOTE:** Accept any TWO suitable answers. (2)",
-        "final_answer": "South Africans are knowledgeable about current fashion trends and spend significant money on stylish clothing.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-1.3.1",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "1.3.1",
-        "marks": 1,
-        "topic": "Comprehension - Text A (Global clothing trends)",
-        "passage": passage_sec_a,
-        "question": "Refer to paragraph 3.\nWhy is the following statement FALSE?\n\nThe trend of the frequent release of new clothing collections is unique to South Africa.",
-        "memo": "The passage mentions that fashion companies world-wide/globally have increased the frequency of new clothing collections. $\\checkmark$ (1)",
-        "final_answer": "The passage states that globally/worldwide, fashion companies have increased the frequency of releasing new clothing collections.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-1.3.2",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "1.3.2",
-        "marks": 1,
-        "topic": "Comprehension - Text A (Vocabulary)",
-        "passage": passage_sec_a,
-        "question": "Refer to paragraph 3.\nIdentify ONE word which shows that throughout the world, fashion companies have significantly increased their new clothing releases.",
-        "memo": "'drastically' $\\checkmark$ (1)",
-        "final_answer": "drastically",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-1.4.1",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "1.4.1",
-        "marks": 2,
-        "topic": "Comprehension - Text A (Production outcomes)",
-        "passage": passage_sec_a,
-        "question": "Refer to paragraph 4.\nWhat are TWO possible positive outcomes of the increase in clothing production?",
-        "memo": "* more affordable clothing $\\checkmark$\n* more fashionable clothing $\\checkmark$\n* readily available clothing $\\checkmark$\n* improved economy $\\checkmark$\n* increase in jobs $\\checkmark$\n* increase in revenue $\\checkmark$\n\n**NOTE:** Accept any TWO suitable answers. (2)",
-        "final_answer": "Clothing becomes more affordable and accessible to consumers, and increased manufacturing stimulates job creation and economic growth.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-1.4.2",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "1.4.2",
-        "marks": 2,
-        "topic": "Comprehension - Text A (Changing consumer habits)",
-        "passage": passage_sec_a,
-        "question": "Refer to paragraph 4.\nUsing your OWN words, describe how the shopping habits of consumers have changed over time.",
-        "memo": "People are buying more clothing/garments $\\checkmark$ and discarding them faster/purchase more frequently. $\\checkmark$ (2)",
-        "final_answer": "Consumers now buy clothing much more frequently and in greater quantities, but keep and wear them for a much shorter time before throwing them away.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-1.5",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "1.5",
-        "marks": 2,
-        "topic": "Comprehension - Text A (Decomposition of discarded clothing)",
-        "passage": passage_sec_a,
-        "question": "Refer to paragraph 5.\nExplain in your OWN words why discarded clothing decomposes slowly. State TWO points.",
-        "memo": "* The chemical content used to manufacture the clothes reduces the rate of decomposition. $\\checkmark$\n* Artificial/synthetic fibres do not decompose easily/quickly. $\\checkmark$ (2)",
-        "final_answer": "Synthetic fibres do not break down naturally, and the industrial chemicals applied during manufacturing inhibit decomposition.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-1.6.1",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "1.6.1",
-        "marks": 2,
-        "topic": "Comprehension - Text A (Environmental impact of natural fibres)",
-        "passage": passage_sec_a,
-        "question": "Refer to paragraph 6.\nHow does the information in lines 31–33 ('Natural fibres are ... it into yarns') challenge the usual perception that buying natural products is better for the environment?",
-        "memo": "To cultivate natural fibres, a lot of water is required $\\checkmark$ / fertiliser $\\checkmark$ / pesticides $\\checkmark$ are used / energy is required to pick and process the fibres. $\\checkmark$\n\n**NOTE:** Accept any TWO of the above answers. (2)",
-        "final_answer": "It shows that growing and processing natural fibres requires enormous quantities of water and energy, as well as polluting chemical fertilisers and pesticides.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-1.6.2",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "1.6.2",
-        "marks": 2,
-        "topic": "Comprehension - Text A (Dyeing process)",
-        "passage": passage_sec_a,
-        "question": "Refer to paragraph 6.\nExplain how the process of dyeing clothes affects the environment.",
-        "memo": "* The chemicals used to dye clothes cause water pollution. $\\checkmark$\n* Dyeing requires large amounts of water, which impacts the availability of (drinking) water. $\\checkmark$ (2)",
-        "final_answer": "Dyeing consumes vast amounts of water and releases toxic chemical runoff into waterways, harming aquatic life and reducing clean water resources.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-1.7",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "1.7",
-        "marks": 2,
-        "topic": "Comprehension - Text A (Environmental impact of jeans)",
-        "passage": passage_sec_a,
-        "question": "Refer to paragraph 7.\nHow can the purchase of a single pair of jeans negatively impact the environment? State TWO points.",
-        "memo": "* Washing the jeans releases microfibres into the ocean thus polluting it. $\\checkmark$\n* $10\\ 000$ litres of water go into the manufacturing of a single pair of jeans thereby reducing water resources. $\\checkmark$\n* The fuel used in the shipping and delivery of the jeans contributes to pollution. $\\checkmark$\n\n**NOTE:** Accept any TWO of the above answers. (2)",
-        "final_answer": "Over $10\\ 000$ litres of water are used to produce a single pair, washing them releases microfibres into the ocean, and transporting them burns fuel that pollutes the environment.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-1.8",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "1.8",
-        "marks": 2,
-        "topic": "Comprehension - Text A (Critical Evaluation: Fast fashion concerns)",
-        "passage": passage_sec_a,
-        "question": "Consider the text as a whole.\nDo you think that the environmental impact of the fashion industry is a serious concern that requires immediate action? Substantiate your response.",
-        "memo": "**Open-ended. Accept a suitable answer, e.g.**\n\n**Yes.**\nThe manufacturing process results in water pollution and the amount of water used leads to the exhaustion of valuable resources. The pollution caused by dumping and overconsumption is devastating as rubbish dumps will be filled. If consumers do not change their behaviour as soon as possible, it will be too late to save the environment as the problem will escalate and resources will disappear. $\\checkmark\\checkmark$\n\n**OR**\n\n**No.**\nThere are other factors that have a more devastating impact. The environmental impact of the fashion industry provides no immediate threat to humans. The fashion industry provides employment which contributes to the economy and thus outweighs any possible negative impact. $\\checkmark\\checkmark$\n\n**NOTE:** Accept other suitable answers. A candidate can score 1 mark for an answer that is not well substantiated. Accept a combination answer. (2)",
-        "final_answer": "Yes. Fast fashion causes severe depletion of scarce water reserves, massive chemical pollution of rivers and oceans, and fills landfills with non-biodegradable synthetic waste, demanding immediate sustainable action.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-1.9",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "1.9",
-        "marks": 2,
-        "topic": "Comprehension - Text A (Suitability of Title)",
-        "passage": passage_sec_a,
-        "question": "Discuss the suitability of the title, 'FAST FASHION'S FOOTPRINT'.",
-        "memo": "**Open-ended. Accept a suitable answer, e.g.**\n\nThe title is suitable because it is linked to the passage that discusses the negative effects of fast fashion on the environment. Footprints are what one leaves behind. According to the passage, fashion manufacturing leaves both negative and positive footprints. $\\checkmark\\checkmark$\n\n**OR**\n\nThe title is not suitable because it could be misunderstood if one reads it out of context. It could also be difficult to understand how fashion could possibly leave a 'footprint'. $\\checkmark\\checkmark$\n\n**NOTE:** Accept other suitable answers. A candidate can score 1 mark for an answer that is not well substantiated. Accept a combination answer. (2)",
-        "final_answer": "The title is suitable because 'footprint' refers metaphorically to the lasting environmental impact or damage left behind by rapid, disposable clothing manufacturing.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-1.10",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "1.10",
-        "marks": 2,
-        "topic": "Comprehension - Text B (Agricultural water usage)",
-        "passage": passage_sec_a,
-        "question": "Refer to TEXT B.\nIdentify the continent which uses the least amount of water for agricultural purposes. Give a reason for your answer.",
-        "memo": "Europe. $\\checkmark$\nThe section of the pie graph which represents Agricultural use is the smallest. $\\checkmark$ / The percentage indicated ($32\\%$) is the lowest $\\checkmark$ for Agricultural use when compared to other continents. (2)",
-        "final_answer": "Europe. Its agricultural water usage is only $32\\%$, which is the lowest percentage among all five continents shown.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-1.11",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "1.11",
-        "marks": 1,
-        "topic": "Comprehension - Text B (Industrial water usage)",
-        "passage": passage_sec_a,
-        "question": "Refer to TEXT B.\nWhat does $48\\%$ suggest about North America's water usage?",
-        "memo": "It suggests that North America uses the largest amount of water ($48\\%$) for industrial purposes. $\\checkmark$ (1)",
-        "final_answer": "It indicates that North America consumes the highest proportion of its water ($48\\%$) for industrial purposes.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-1.12",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "1.12",
-        "marks": 1,
-        "topic": "Comprehension - Text B (Graph Legend / Key)",
-        "passage": passage_sec_a,
-        "question": "Refer to TEXT B.\nWhy are the small boxes included at the bottom of TEXT B?",
-        "memo": "They show what the different shadings represent in this graph / they serve as a key/legend to explain the shadings. $\\checkmark$ (1)",
-        "final_answer": "They serve as a key or legend explaining what each shading pattern represents in the pie charts.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-1.13",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "1.13",
-        "marks": 2,
-        "topic": "Comprehension - Text B (Evaluation of Pie Graphs)",
-        "passage": passage_sec_a,
-        "question": "Refer to TEXT B.\nIn your view, do the pie graphs in this text succeed in conveying relevant information? Substantiate your answer.",
-        "memo": "**Open-ended. Accept a suitable answer, e.g.**\n\n**Yes.**\nThe pie graphs depict the percentage of water used for different purposes in five continents. They clearly show that some continents use more water for industrial purposes while others use more water for farming or domestic purposes. $\\checkmark\\checkmark$\n\n**OR**\n\n**No.**\nThe pie graphs do not convey a relevant message. Not everyone can easily analyse pie graphs/charts. Written words would have conveyed the information more effectively. $\\checkmark\\checkmark$\n\n**NOTE:** Accept other suitable answers. A candidate can score 1 mark for an answer that is not well substantiated. Accept a combination answer. (2)",
-        "final_answer": "Yes. The pie graphs clearly illustrate the comparative proportions and exact percentages of water allocated across the three main sectors in five distinct continents.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-
-    # Section B: Summary (Question 2)
-    {
-        "item_id": f"{source_id}-2",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "2",
-        "marks": 10,
-        "topic": "Summary Writing - Text C (The Restorative Power of Vaseline)",
-        "passage": passage_sec_b,
-        "question": """Vaseline is a household brand in South Africa. Not only is Vaseline petroleum jelly fantastic for soothing chapped lips, but it also has many other purposes.
-
-Read TEXT C below and list SEVEN benefits of using Vaseline petroleum jelly.
-
-#### INSTRUCTIONS:
-1. Your summary must be written in point form.
-2. List your SEVEN points in full sentences, using no more than 70 words.
-3. Number your sentences from 1 to 7.
-4. Write only ONE point per sentence.
-5. Use your OWN words as far as possible.
-6. Indicate the total number of words you have used in brackets at the end of your summary.""",
-        "memo": """The following points form the answer to the question:
-
-| QUOTATIONS | FACTS (Candidates may phrase the facts differently.) |
-| :--- | :--- |
-| 1. 'The hydrating power of Vaseline is a good remedy for dry skin.'/ 'Applying it to the body after a shower keeps the skin moisturised.' | 1. Vaseline is used to treat dry skin. / Vaseline helps to keep the skin moisturised. $\\checkmark$ |
-| 2. 'For minor wounds such as cuts, scrapes, scratches and burns, use Vaseline to keep the wound moist as doing this will aid the healing process.' | 2. It keeps less serious wounds moist in order to assist with healing. / It heals less serious wounds. $\\checkmark$ |
-| 3. 'Vaseline is hypoallergenic; therefore, it is suitable for sensitive skin, making it a good skincare option for babies to prevent nappy rash.' | 3. It can be used on sensitive skin. / It can be used to prevent nappy rash. $\\checkmark$ |
-| 4. 'Put some Vaseline on the itchy spots for instant relief.' | 4. Vaseline promptly relieves itchiness (caused by insect bites). $\\checkmark$ |
-| 5. 'Rubbing a little Vaseline into the hair gives it instant shine…' | 5. Applying Vaseline to the hair makes it shiny. $\\checkmark$ |
-| 6. '…reduces the look of split ends.' | 6. It hides split ends. $\\checkmark$ |
-| 7. 'Coat the gum and surrounding hair with Vaseline and pull gently to remove the gum.' | 7. Vaseline makes the removal of chewing gum from hair less challenging. $\\checkmark$ |
-| 8. 'For teeth whitening, mix two tablespoons of baking soda with Vaseline and apply to dry teeth using a toothbrush.' | 8. A mixture of Vaseline and baking soda can be used to whiten teeth. $\\checkmark$ |
-| 9. 'Apply a combination of Vaseline and salt on the edges of flower pots to keep them protected.' | 9. Applying a mixture of Vaseline and salt on the edges of flower pots will keep pests/snails and ants away. $\\checkmark$ |
-
-#### MARKING THE SUMMARY:
-* **Mark allocation:**
-  * 7 marks for 7 points (1 mark per main point)
-  * 3 marks for language
-  * **Total marks: 10**
-
-* **Distribution of language marks when a candidate has not quoted verbatim:**
-  * 1–3 points correct: award 1 mark
-  * 4–5 points correct: award 2 marks
-  * 6–7 points correct: award 3 marks
-
-* **Distribution of language marks when a candidate has quoted verbatim:**
-  * 6–7 quotes: award 0 language marks
-  * 4–5 quotes: award a maximum of 1 language mark
-  * 2–3 quotes: award a maximum of 2 language marks
-
-* **Word count:**
-  * Markers are required to verify the number of words used.
-  * Do not deduct marks if the candidate fails to indicate the word count or indicates it incorrectly.
-  * If the word limit is exceeded, read up to the end of the sentence containing the 70th word and ignore the rest.""",
-        "final_answer": """1. Vaseline effectively treats dry skin by retaining moisture after bathing.
-2. It keeps minor cuts and burns moist to speed up healing.
-3. It prevents nappy rash and protects sensitive baby skin.
-4. Applying it provides fast relief from itchy bug bites and bee stings.
-5. It adds shine to dull hair and conceals split ends.
-6. It simplifies removing chewing gum trapped in hair.
-7. Combined with baking soda, it acts as a teeth whitener.
-
-(67 words)""",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-
-    # Section C: Language Structures and Conventions
-    # Question 3: Analysing an Advertisement
-    {
-        "item_id": f"{source_id}-3.1",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "3.1",
-        "marks": 2,
-        "topic": "Analysing an Advertisement - Headline Techniques",
-        "passage": passage_sec_c_q3,
-        "question": "Refer to the headline.\nHow does the advertiser attract the reader's attention? Give TWO points.",
-        "memo": """The advertiser attracts the reader's attention by:
-* using capital letters $\\checkmark$
-* using bigger font $\\checkmark$
-* using bold font $\\checkmark$
-* making the letters in the words 'FIRE DANGER' appear 'damaged' $\\checkmark$
-* making the letter G (in DANGER) appear to be falling $\\checkmark$
-* using the words 'CAUTION' and 'FIRE DANGER' $\\checkmark$
-
-**NOTE:** Accept any TWO of the above answers. (2)""",
-        "final_answer": "By using large, bold capital letters and designing the letters in 'FIRE DANGER' to appear burnt or damaged, with the letter 'G' falling.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-3.2",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "multiple_choice",
-        "question_ref": "3.2",
-        "marks": 1,
-        "topic": "Analysing an Advertisement - Function of Apostrophe",
-        "passage": passage_sec_c_q3,
-        "question": """Choose the correct answer to complete the following sentence.
-
-Fire is everyone's fight.
-
-The function of the apostrophe in the above sentence is to indicate ...
-
-A omission.  
-B contraction.  
-C possession.  
-D abbreviation.""",
-        "memo": "C / possession. $\\checkmark$ (1)",
-        "final_answer": "C / possession.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-3.3",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "3.3",
-        "marks": 1,
-        "topic": "Analysing an Advertisement - Root Words",
-        "passage": passage_sec_c_q3,
-        "question": "Study the following subheading:\n\n*District emergency numbers for reporting veld fires*\n\nIdentify the root of the underlined word (*reporting*).",
-        "memo": "report / port $\\checkmark$ (1)",
-        "final_answer": "report",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-3.4",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "3.4",
-        "marks": 2,
-        "topic": "Analysing an Advertisement - Emergency Numbers",
-        "passage": passage_sec_c_q3,
-        "question": "How does the inclusion of various telephone numbers support the message of the advertisement? State TWO points.",
-        "memo": "The reader can call the nearest emergency service $\\checkmark$ from any location/district $\\checkmark$ to report veld fires. $\\checkmark$\n\n**NOTE:** Accept any TWO of the above answers. (2)",
-        "final_answer": "It provides specific district numbers so anyone can immediately contact their closest local emergency service from any area to report fires promptly.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-3.5",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "3.5",
-        "marks": 2,
-        "topic": "Analysing an Advertisement - Stakeholder Logos",
-        "passage": passage_sec_c_q3,
-        "question": "Why has the advertiser included the different logos at the bottom of this advertisement?",
-        "memo": "To show that these organisations/stakeholders $\\checkmark$ support the call to prevent unplanned veld fires. $\\checkmark$ (2)",
-        "final_answer": "To demonstrate that these official government bodies and emergency organisations endorse the campaign and are united in preventing veld fires.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-3.6",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "3.6",
-        "marks": 2,
-        "topic": "Analysing an Advertisement - Visual Effectiveness",
-        "passage": passage_sec_c_q3,
-        "question": "Discuss whether the visual of the animal effectively conveys the message of the advertisement.",
-        "memo": """**Open-ended. Accept a suitable answer, e.g.**
-
-**Yes.**
-The visual of the animal encircled by flames creates sympathy and could encourage people to be cautious about starting veld fires. They could also report veld fires thus protecting the animals from potential harm. $\\checkmark\\checkmark$
-
-**OR**
-
-**No.**
-There is no clear link between the visual of the animal and the advertisement. It is an animated drawing and not a picture of a real animal. People like hunters would not be sympathetic towards the animal. No animals are mentioned in the written text of the advertisement. $\\checkmark\\checkmark$
-
-**NOTE:** Do not award a mark for Yes or No. The above are merely examples. A candidate can score 1 mark for an answer that is not well substantiated. Accept a combination answer. (2)""",
-        "final_answer": "Yes. The image of an innocent animal trapped in flames evokes emotional sympathy, reminding readers of the dire threat veld fires pose to wildlife and nature.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-
-    # Question 4: Analysing a Cartoon
-    {
-        "item_id": f"{source_id}-4.1",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "4.1",
-        "marks": 2,
-        "topic": "Analysing a Cartoon - Body Language Comparison",
-        "passage": passage_sec_c_q4,
-        "question": "Refer to FRAME 2.\nHow is Jon's body language different to that of Garfield? State TWO points.",
-        "memo": """* Jon's eyes are half-closed and Garfield's eyes are wide open. $\\checkmark\\checkmark$
-* Jon is sitting while Garfield is jumping up and down. $\\checkmark\\checkmark$
-
-**NOTE:**
-* Accept ANY other suitable answer provided that the contrast is clear.
-* Award 2 or 0 marks. (2)""",
-        "final_answer": "Jon is sitting quietly with sleepy, half-closed eyes, whereas Garfield is on his feet jumping up and down with wide, alert eyes.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-4.2",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "4.2",
-        "marks": 2,
-        "topic": "Analysing a Cartoon - Visual Clues of Impact",
-        "passage": passage_sec_c_q4,
-        "question": "Explain how the cartoonist conveys the idea that Garfield is bothering Jon in Frame 3.\nState TWO visual clues.",
-        "memo": """* The movement lines show Garfield hitting Jon with his paw. $\\checkmark$
-* The word 'SMACK' (in bold) emphasises that Garfield has startled Jon. $\\checkmark$
-* The liquid in Jon's cup is spilling over because Garfield has pushed him. $\\checkmark$
-* Jon is leaning forward indicating that he has been pushed. $\\checkmark$
-
-**NOTE:** Accept any TWO of the above answers. (2)""",
-        "final_answer": "Garfield's paw strikes Jon with visible movement lines, the bold sound effect 'SMACK' denotes impact, and coffee spills out of Jon's mug as he jolts forward.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-4.3",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "4.3",
-        "marks": 1,
-        "topic": "Analysing a Cartoon - Contractions",
-        "passage": passage_sec_c_q4,
-        "question": "Refer to FRAME 5.\nRewrite the underlined contraction in full.\n\n'Oh, okay, **we'll** play.'",
-        "memo": "we will / we shall $\\checkmark$ (1)",
-        "final_answer": "we will",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-4.4",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "4.4",
-        "marks": 2,
-        "topic": "Analysing a Cartoon - Verbal and Visual Clues",
-        "passage": passage_sec_c_q4,
-        "question": "Refer to FRAME 7.\nExplain how Jon's actions convey that he is in pain. Refer to ONE verbal and ONE visual clue in your answer.",
-        "memo": """* **Verbal:** He shouts 'OUCH!' $\\checkmark$ / 'OUCH!' is written in bold. $\\checkmark$ / There is an exclamation mark. $\\checkmark$
-* **Visual:** His mouth is wide open. $\\checkmark$ / The movement lines behind his head and back indicate that he tilts his head in (sudden) pain. $\\checkmark$ / Jon spreads out his fingers in pain. $\\checkmark$
-
-**NOTE:** One verbal and one visual clue must be mentioned. (2)""",
-        "final_answer": "Verbal: He shouts 'OUCH!' in bold capital letters with an exclamation mark. Visual: His mouth is open wide in a cry of agony and his fingers are spread out in shock.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-4.5",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "4.5",
-        "marks": 1,
-        "topic": "Analysing a Cartoon - Homonyms / Homophones",
-        "passage": passage_sec_c_q4,
-        "question": "Study the following sentence.\n\n'I'm **through** playing now'\n\nUse a homonym for the word *through* in a sentence of your own.",
-        "memo": "I looked through the window. $\\checkmark$ / The boy threw the ball. $\\checkmark$\n\n**NOTE:** Accept other suitable responses. (1)",
-        "final_answer": "I looked through the window to see who was outside.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-4.6",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "4.6",
-        "marks": 2,
-        "topic": "Analysing a Cartoon - Critical Response",
-        "passage": passage_sec_c_q4,
-        "question": "Do you sympathise with Jon in this cartoon? Discuss your view.",
-        "memo": """**Open-ended. Accept a suitable answer, e.g.**
-
-**Yes.**
-Jon is enjoying his beverage when Garfield startles him. Garfield pesters Jon until he plays with him. They both appear to be enjoying the game. Garfield bites Jon to end the game and Jon does not deserve to be bitten. $\\checkmark\\checkmark$
-
-**OR**
-
-**No.**
-Jon tickles Garfield. However, Garfield does not like being tickled (for too long). Jon should have been more careful when playing with an animal as cats are aggressive and unpredictable. $\\checkmark\\checkmark$
-
-**NOTE:** Do not award a mark for Yes or No. The above are merely examples. A candidate can score 1 mark for an answer that is not well substantiated. Accept a combination answer. (2)""",
-        "final_answer": "Yes. Jon was relaxing peacefully when Garfield repeatedly harassed him to play, and when Jon kindly obliged, Garfield violently bit him for no good reason.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-
-    # Question 5: Language and Editing Skills
-    # 5.1 (Text F)
-    {
-        "item_id": f"{source_id}-5.1.1a",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "5.1.1a",
-        "marks": 1,
-        "topic": "Language & Editing - Concord",
-        "passage": passage_sec_c_q5_1,
-        "question": "Correct the SINGLE error in the following sentence. Write down ONLY the question number and the word you have corrected.\n\nThere is beekeepers who keep the critical bee populations healthy.",
-        "memo": "are $\\checkmark$ (1)",
-        "final_answer": "are",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-5.1.1b",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "5.1.1b",
-        "marks": 1,
-        "topic": "Language & Editing - Spelling",
-        "passage": passage_sec_c_q5_1,
-        "question": "Correct the SINGLE error in the following sentence. Write down ONLY the question number and the word you have corrected.\n\nThey have managed swarms to prevent the number of bees from diclining.",
-        "memo": "declining $\\checkmark$ (1)",
-        "final_answer": "declining",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-5.1.1c",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "5.1.1c",
-        "marks": 1,
-        "topic": "Language & Editing - Indefinite Articles",
-        "passage": passage_sec_c_q5_1,
-        "question": "Correct the SINGLE error in the following sentence. Write down ONLY the question number and the word you have corrected.\n\nKeeping swarms is an hobby that requires only a small investment of time and money.",
-        "memo": "a $\\checkmark$ (1)",
-        "final_answer": "a",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-5.1.1d",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "5.1.1d",
-        "marks": 1,
-        "topic": "Language & Editing - Prepositions",
-        "passage": passage_sec_c_q5_1,
-        "question": "Correct the SINGLE error in the following sentence. Write down ONLY the question number and the word you have corrected.\n\nIt can be harvested twice on one season.",
-        "memo": "in $\\checkmark$ (1)",
-        "final_answer": "in",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-5.1.2",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "5.1.2",
-        "marks": 1,
-        "topic": "Language & Editing - Question Tags",
-        "passage": passage_sec_c_q5_1,
-        "question": "Complete the following tag question. Write down only the missing words.\n\nBeekeepers ensure that their bees are safe, ...?",
-        "memo": "don't they / do they not $\\checkmark$ (1)",
-        "final_answer": "don't they",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-5.1.3",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "5.1.3",
-        "marks": 1,
-        "topic": "Language & Editing - Tense Transformation",
-        "passage": passage_sec_c_q5_1,
-        "question": "Rewrite the following sentence in the simple future tense:\n\nBees also play a major role in pollinating vital plants.",
-        "memo": "Bees will also play a major role in pollinating vital plants. $\\checkmark$ (1)",
-        "final_answer": "Bees will also play a major role in pollinating vital plants.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-5.1.4",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "5.1.4",
-        "marks": 3,
-        "topic": "Language & Editing - Reported Speech",
-        "passage": passage_sec_c_q5_1,
-        "question": "Rewrite the following sentence in reported speech:\n\nHe said, 'I turned the passion for bees into a business.'",
-        "memo": """He said (that) he $\\checkmark$ had turned $\\checkmark$ the passion for bees into a business. $\\checkmark$
-
-**NOTE:** Award ONE mark for each underlined change and ONE mark for correct punctuation. (3)""",
-        "final_answer": "He said that he had turned the passion for bees into a business.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-5.1.5",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "5.1.5",
-        "marks": 1,
-        "topic": "Language & Editing - Synonyms",
-        "passage": passage_sec_c_q5_1,
-        "question": "Provide a synonym for the underlined word in the following sentence:\n\nBoucher **rescues** swarms that need to be removed from areas where they pose a potential danger.",
-        "memo": "saves $\\checkmark$ (1)",
-        "final_answer": "saves",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-5.1.6",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "5.1.6",
-        "marks": 1,
-        "topic": "Language & Editing - Homophones",
-        "passage": passage_sec_c_q5_1,
-        "question": "Study the following sentence:\n\nHe explained that they were not **allowed** to keep bees in densely populated areas like blocks of flats.\n\nUse a homophone for the word *allowed* in a sentence of your own.",
-        "memo": "He enjoys thinking aloud. $\\checkmark$ / The teacher read the poem aloud. $\\checkmark$\n\n**NOTE:** Accept other suitable responses. (1)",
-        "final_answer": "The student read the poem aloud to the class.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-5.1.7",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "5.1.7",
-        "marks": 1,
-        "topic": "Language & Editing - Active Voice",
-        "passage": passage_sec_c_q5_1,
-        "question": "Rewrite the following sentence in the active voice:\n\nA beekeeping permit is required by anyone who wishes to become a beekeeper.",
-        "memo": "Anyone who wishes to become a beekeeper requires a beekeeping permit. $\\checkmark$ (1)",
-        "final_answer": "Anyone who wishes to become a beekeeper requires a beekeeping permit.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-5.1.8",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "5.1.8",
-        "marks": 2,
-        "topic": "Language & Editing - Parts of Speech",
-        "passage": passage_sec_c_q5_1,
-        "question": "Study the following sentence:\n\nMore **information** about keeping bees **or** the safe removal of swarms is available on the internet.\n\nState the part of speech of EACH of the underlined words (*information*, *or*) as used in this sentence.",
-        "memo": "* information – noun $\\checkmark$\n* or – conjunction $\\checkmark$ (2)",
-        "final_answer": "information: noun; or: conjunction",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-
-    # 5.2 (Text G)
-    {
-        "item_id": f"{source_id}-5.2.1",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "5.2.1",
-        "marks": 1,
-        "topic": "Language & Editing - Negative Form",
-        "passage": passage_sec_c_q5_2,
-        "question": "Rewrite the following sentence in the negative form:\n\nMy siblings enjoy eating raw vegetables.",
-        "memo": "My siblings don't/do not enjoy eating raw vegetables. $\\checkmark$ (1)",
-        "final_answer": "My siblings do not enjoy eating raw vegetables.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-5.2.2",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "5.2.2",
-        "marks": 2,
-        "topic": "Language & Editing - Sentence Synthesis ('Not only...')",
-        "passage": passage_sec_c_q5_2,
-        "question": """Combine the following sentences into a single sentence.
-
-Spinach tastes good.  
-Spinach improves digestion.
-
-Begin with: **Not only ...**""",
-        "memo": """Not only does spinach taste good, $\\checkmark$ (but) it also improves digestion. $\\checkmark$  
-**OR**  
-Not only does spinach improve digestion, $\\checkmark$ (but) it also tastes good. $\\checkmark$ (2)""",
-        "final_answer": "Not only does spinach taste good, but it also improves digestion.",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-5.2.3",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "5.2.3",
-        "marks": 1,
-        "topic": "Language & Editing - Degrees of Comparison",
-        "passage": passage_sec_c_q5_2,
-        "question": "Provide the correct degree of comparison in the following sentence:\n\nFresh vegetables from the garden are (**nutritious**) than frozen ones.",
-        "memo": "more/less nutritious $\\checkmark$ (1)",
-        "final_answer": "more nutritious",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-5.2.4",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "passage_questions",
-        "question_ref": "5.2.4",
-        "marks": 1,
-        "topic": "Language & Editing - Adverb Formation",
-        "passage": passage_sec_c_q5_2,
-        "question": "Give the correct form of the word in brackets:\n\nEating healthy meals can (**significant**) improve one's breathing.",
-        "memo": "significantly $\\checkmark$ (1)",
-        "final_answer": "significantly",
-        "needs_review": False,
-        "licence": "DBE copyright - check terms",
-        "attribution": "Department of Basic Education"
-    },
-    {
-        "item_id": f"{source_id}-5.2.5",
-        "source_id": source_id,
-        "pair_source_id": pair_source_id,
-        "subject": subject,
-        "grade": grade,
-        "language": language,
-        "track": track,
-        "kind": "multiple_choice",
-        "question_ref": "5.2.5",
-        "marks": 1,
-        "topic": "Language & Editing - Collective Nouns",
-        "passage": passage_sec_c_q5_2,
-        "question": """Choose the correct answer to complete the following sentence.
-
-When you go to the market, please buy me a ... of spinach.
-
-A bunch  
-B bundle  
-C bucket  
-D bouquet""",
-        "memo": "A / bunch $\\checkmark$ (1)",
-        "final_answer": "A / bunch",
+SOURCE_ID = "dbe-mathematics-g12-p2-2018-nov"
+MEMO_ID = "dbe-mathematics-g12-p2-2018-nov-memo"
+
+items = []
+
+def add_item(q_ref, marks, topic, passage, question, memo, final_answer, kind="question"):
+    item = {
+        "item_id": f"{SOURCE_ID}-{q_ref}",
+        "source_id": SOURCE_ID,
+        "pair_source_id": MEMO_ID,
+        "subject": "mathematics",
+        "grade": 12,
+        "language": "en",
+        "track": "core_maths",
+        "kind": kind,
+        "question_ref": q_ref,
+        "marks": marks,
+        "topic": topic,
+        "passage": passage.strip(),
+        "question": question.strip(),
+        "memo": memo.strip(),
+        "final_answer": final_answer.strip(),
         "needs_review": False,
         "licence": "DBE copyright - check terms",
         "attribution": "Department of Basic Education"
     }
-]
+    items.append(item)
 
-# Validation
-total_marks = sum(item["marks"] for item in items)
-print(f"Total items: {len(items)}")
-print(f"Total marks: {total_marks}")
-assert total_marks == 80, f"Expected 80 marks, got {total_marks}"
+# ==========================================
+# PASSAGES DEFINITIONS
+# ==========================================
 
-# KaTeX dollar balance validation
-katex_errors = 0
-for i, it in enumerate(items):
-    for f in ["passage", "question", "memo", "final_answer"]:
-        text = it[f]
-        # Count non-escaped dollar signs
-        dollars = len(re.findall(r"(?<!\\)\$", text))
-        if dollars % 2 != 0:
-            print(f"Unbalanced dollars in item {it['item_id']}, field {f}: count={dollars}")
-            katex_errors += 1
+PASSAGE_Q1_1 = """The cumulative frequency graph (ogive) drawn below shows the total number of food items ordered from a menu over a period of 1 hour.
 
-print(f"KaTeX errors: {katex_errors}")
-assert katex_errors == 0, f"Found {katex_errors} KaTeX dollar balance errors"
+[DIAGRAM: Cumulative frequency graph (ogive).
+- Horizontal axis: Number of minutes, ranging from 0 to 60 minutes, with grid intervals of 10 minutes.
+- Vertical axis: Cumulative frequency (number of food items ordered), ranging from 0 to 140 items, with grid lines marked at 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120, 130, 140.
+- Key plotted points on the ogive:
+  - $(0\;; 0)$
+  - $(10\;; 10)$
+  - $(20\;; 30)$
+  - $(30\;; 85)$
+  - $(40\;; 115)$
+  - $(50\;; 132)$
+  - $(60\;; 140)$
+- Total items ordered at $t = 60\\text{ minutes}$ is 140.]"""
 
-# Save to target paths
-paths = [
-    f"workspace/items/{subject}/{source_id}.jsonl",
-    f"workspace/items/{source_id}.jsonl",
-    f"sa-tutor-kit/sa-tutor-kit/workspace/items/{subject}/{source_id}.jsonl",
-    f"sa-tutor-kit/sa-tutor-kit/workspace/items/{source_id}.jsonl"
-]
+PASSAGE_Q1_2A = """Reggie works part-time as a waiter at a local restaurant. The amount of money (in rands) he made in tips over a 15-day period is given below:
 
-# Write JSONL
-lines = [json.dumps(it, ensure_ascii=False) for it in items]
-content = "\n".join(lines) + "\n"
+$$\\begin{array}{ccccc}
+35 & 70 & 75 & 80 & 80 \\\\
+90 & 100 & 100 & 105 & 105 \\\\
+110 & 110 & 115 & 120 & 125
+\\end{array}$$"""
 
-for p in paths:
-    os.makedirs(os.path.dirname(p), exist_ok=True)
-    with open(p, "w", encoding="utf-8") as f:
-        f.write(content)
-    print(f"Successfully wrote {len(items)} items to {p}")
+PASSAGE_Q1_2B = """Reggie works part-time as a waiter at a local restaurant. The amount of money (in rands) he made in tips over a 15-day period is given below:
+
+$$\\begin{array}{ccccc}
+35 & 70 & 75 & 80 & 80 \\\\
+90 & 100 & 100 & 105 & 105 \\\\
+110 & 110 & 115 & 120 & 125
+\\end{array}$$
+
+Mary also works part-time as a waitress at the same restaurant. Over the same 15-day period Mary collected the same mean amount in tips as Reggie, but her standard deviation was $\\text{R}14$."""
+
+PASSAGE_Q2 = """A familiar question among professional tennis players is whether the speed of a tennis serve (in $\\text{km/h}$) depends on the height of a player (in metres). The heights of 21 tennis players and the average speed of their serves were recorded during a tournament. The data is represented in the scatter plot below. The least squares regression line is also drawn.
+
+[DIAGRAM: Scatter plot titled SCATTER PLOT.
+- Horizontal axis: Height of a player (in metres), marked from $1{,}80$ to $2{,}10\\text{ m}$ in increments of $0{,}05\\text{ m}$.
+- Vertical axis: Average serve speed (in $\\text{km/h}$), marked from 205 to $255\\text{ km/h}$ in increments of $5\\text{ km/h}$.
+- 21 data points are plotted with a moderate positive trend.
+- The highest plotted point reaches an average serve speed of $251\\text{ km/h}$ for a height of approximately $2{,}08\\text{ m}$.
+- The least squares regression line is drawn with equation $\\hat{y} = 27{,}07 + bx$, showing a positive gradient.]"""
+
+PASSAGE_Q3 = """In the diagram, $K(-1\\;; 2)$, $L$, and $N(1\\;; -1)$ are vertices of $\\Delta KLN$ such that $L\\hat{K}N = 78{,}69^\\circ$. $KL$ intersects the $x$-axis at $P$. $KL$ is produced. The inclination of $KN$ is $\\theta$. The coordinates of $M$ are $(-3\\;; -5)$.
+
+[DIAGRAM: Cartesian plane showing:
+- Vertices: $K(-1\\;; 2)$ in the second quadrant, $N(1\\;; -1)$ in the fourth quadrant, $M(-3\\;; -5)$ in the third quadrant, and $L$ in the third quadrant.
+- Line $KL$ passes through $K(-1\\;; 2)$ and intersects the $x$-axis at point $P$.
+- Angle $L\\hat{K}N = 78{,}69^\\circ$.
+- Straight line $KN$ connects $K(-1\\;; 2)$ and $N(1\\;; -1)$, with inclination angle $\\theta$ measured counterclockwise from the positive $x$-axis.
+- Line $KL$ is extended past $L$ to point $T$.
+- Triangle $KLN$ has vertices $K, L, N$. Point $M(-3\\;; -5)$ is given such that $KN = LM$.]"""
+
+PASSAGE_Q4 = """In the diagram, the equation of the circle with centre $F$ is $(x - 3)^2 + (y - 1)^2 = r^2$. $S(6\\;; 5)$ is a point on the circle with centre $F$. Another circle with centre $G(m\\;; n)$ in the fourth quadrant touches the circle with centre $F$ at $H$ such that $FH : HG = 1 : 2$. The point $J$ lies in the first quadrant such that $HJ$ is a common tangent to both these circles. $JK$ is a tangent to the larger circle at $K$.
+
+[DIAGRAM: Cartesian plane showing:
+- Circle with centre $F(3\\;; 1)$ in the first quadrant.
+- Point $S(6\\;; 5)$ lies on the circumference of circle $F$.
+- A larger circle with centre $G(m\\;; n)$ lies in the fourth quadrant and touches circle $F$ externally at $H$.
+- Points $F, H, G$ are collinear, with $FH : HG = 1 : 2$.
+- Point $J$ is located in the first quadrant.
+- $HJ$ is the common tangent touching both circles at point $H$, so $FH \\perp HJ$ and $GH \\perp HJ$.
+- $JK$ is a tangent to circle $G$ at point $K$, so $GK \\perp JK$.
+- Tangent $JK$ is a vertical line with equation $x = 22$.]"""
+
+PASSAGE_Q5 = """In the diagram, $P(k\\;; 1)$ is a point in the $2^{\\text{nd}}$ quadrant and is $\\sqrt{5}$ units from the origin. $R$ is a point on the positive $x$-axis and obtuse $R\\hat{O}P = \\theta$.
+
+[DIAGRAM: Cartesian plane showing:
+- Point $P(k\\;; 1)$ in the second quadrant, with $y = 1$ and $x = k < 0$.
+- Distance from origin $O(0\\;; 0)$ to $P$ is $OP = \\sqrt{5}$.
+- Point $R$ is on the positive $x$-axis.
+- Angle $\\theta = R\\hat{O}P$ is an obtuse angle measured in standard position from the positive $x$-axis to line segment $OP$.]"""
+
+PASSAGE_Q6 = """Consider: $f(x) = -2\\tan \\left(\\frac{3}{2}x\\right)$"""
+
+PASSAGE_Q7 = """A pilot is flying in a helicopter. At point $A$, which is $h$ metres directly above point $D$ on the ground, he notices a strange object at point $B$. The pilot determines that the angle of depression from $A$ to $B$ is $30^\\circ$. He also determines that the control room at point $C$ is $3h$ metres from $A$ and $B\\hat{A}C = 2x$. Points $B$, $C$, and $D$ are in the same horizontal plane.
+
+[DIAGRAM: 3D scenario showing:
+- Point $A$ is the helicopter vertically above point $D$ on the ground, so $AD \\perp \\text{plane } BCD$ and $A\\hat{D}B = 90^\\circ$.
+- $AD = h$ metres.
+- The angle of depression from $A$ to $B$ is $30^\\circ$, hence the angle of elevation $A\\hat{B}D = 30^\\circ$ (alternate interior angles with horizontal through $A$).
+- Control room at point $C$ with $AC = 3h$ metres.
+- Angle $B\\hat{A}C = 2x$.
+- Points $B, C, D$ lie in the horizontal ground plane.]"""
+
+PASSAGE_Q8_1 = """$PON$ is a diameter of the circle centred at $O$. $TM$ is a tangent to the circle at $M$, a point on the circle. $R$ is another point on the circle such that $OR \\parallel PM$. $NR$ and $MN$ are drawn. Let $\\hat{M}_1 = 66^\\circ$.
+
+[DIAGRAM: Circle with centre $O$:
+- $PON$ is a diameter passing through centre $O$, so $P, O, N$ are collinear.
+- $TM$ is a tangent to the circle at point $M$.
+- Chord $MN$ is drawn. The angle between tangent $TM$ and chord $MN$ is $\\hat{M}_1 = 66^\\circ$.
+- $\\hat{M}_2 = P\\hat{M}N$ is the angle subtended by diameter $PON$ on the circumference.
+- Chord $PM$ is drawn.
+- Point $R$ lies on the circle such that radius $OR$ is parallel to chord $PM$ ($OR \\parallel PM$).
+- Chord $NR$ is drawn.
+- Angles at $N$: $\\hat{N}_1 = P\\hat{N}M$ and $\\hat{N}_2 = M\\hat{N}R$, so $P\\hat{N}R = \\hat{N}_1 + \\hat{N}_2$.
+- Angles at $O$: $\\hat{O}_1 = N\\hat{O}R$ and $\\hat{O}_2 = P\\hat{O}R$.]"""
+
+PASSAGE_Q8_2 = """In the diagram, $\\Delta AGH$ is drawn. $F$ and $C$ are points on $AG$ and $AH$ respectively such that $AF = 20\\text{ units}$, $FG = 15\\text{ units}$ and $CH = 21\\text{ units}$. $D$ is a point on $FC$ such that $ABCD$ is a rectangle with $AB$ also parallel to $GH$ ($AB \\parallel GH$). The diagonals of $ABCD$ intersect at $M$, a point on $AH$.
+
+[DIAGRAM: Triangle $AGH$:
+- $F$ lies on side $AG$ such that $AF = 20$ and $FG = 15$ (total length $AG = 35$).
+- $C$ lies on side $AH$ such that $CH = 21$.
+- $ABCD$ is a rectangle with vertex $A$ at the top, $B$ on side $AH$, $C$ on side $AH$, and $D$ on line segment $FC$.
+- Opposite sides of rectangle: $AB \\parallel DC$ (so $AB \\parallel FC$) and $AD \\parallel BC$.
+- Side $AB$ is parallel to base $GH$ ($AB \\parallel GH$), which implies $FC \\parallel GH$.
+- The diagonals of rectangle $ABCD$ ($AC$ and $BD$) intersect at point $M$, which lies on side $AH$.]"""
+
+PASSAGE_Q9_1 = """In the diagram, $JKLM$ is a cyclic quadrilateral and the circle has centre $O$.
+
+[DIAGRAM: Circle with centre $O$:
+- Cyclic quadrilateral $JKLM$ is inscribed in the circle, with vertices $J, K, L, M$ on the circumference.
+- Radii $KO$ and $MO$ can be drawn to form central angles: reflex angle $\\hat{O}_1$ facing $\\hat{J}$, and angle $\\hat{O}_2$ facing $\\hat{L}$.]"""
+
+PASSAGE_Q9_2 = """In the diagram, a smaller circle $ABTS$ and a bigger circle $BDRT$ are given. $BT$ is a common chord. Straight lines $STD$ and $ATR$ are drawn. Chords $AS$ and $DR$ are produced to meet in $C$, a point outside the two circles. $BS$ and $BD$ are drawn. $\\hat{A} = x$ and $\\hat{R}_1 = y$.
+
+[DIAGRAM: Two intersecting circles:
+- Smaller circle $ABTS$ and larger circle $BDRT$ intersect at points $B$ and $T$.
+- $BT$ is the common chord connecting the two intersection points.
+- Straight secant line $STD$ passes through $S$ on the smaller circle, $T$ (intersection), and $D$ on the larger circle.
+- Straight secant line $ATR$ passes through $A$ on the smaller circle, $T$ (intersection), and $R$ on the larger circle.
+- Chord $AS$ (produced) and chord $DR$ (produced) intersect at external point $C$.
+- Chords $BS$ and $BD$ are drawn.
+- Marked angles:
+  - $\\hat{A} = S\\hat{A}T = x$ in circle $ABTS$.
+  - $\\hat{R}_1 = B\\hat{R}T = y$ in circle $BDRT$.
+  - At vertex $B$: $\\hat{B}_1 = S\\hat{B}T$ and $\\hat{B}_2 = T\\hat{B}D$, giving total angle $S\\hat{B}D = \\hat{B}_1 + \\hat{B}_2$.
+  - Lines $STD$ and $ATR$ intersect at $T$, forming vertically opposite angles $\\hat{T}_1$ and $\\hat{T}_4$.]"""
+
+PASSAGE_Q10 = """In the diagram, $ABCD$ is a cyclic quadrilateral such that $AC \\perp CB$ and $DC = CB$. $AD$ is produced to $M$ such that $AM \\perp MC$. Let $\\hat{B} = x$.
+
+[DIAGRAM: Cyclic quadrilateral $ABCD$ inscribed in a circle:
+- Vertices $A, B, C, D$ lie on the circumference.
+- Chord $AC$ is perpendicular to chord $CB$ ($AC \\perp CB$), so $A\\hat{C}B = 90^\\circ$.
+- Chords $DC$ and $CB$ are equal in length ($DC = CB$).
+- Side $AD$ is produced past $D$ to point $M$.
+- Line segment $MC$ is drawn such that $AM \\perp MC$, forming right angle $A\\hat{M}C = 90^\\circ$.
+- $\\hat{B} = A\\hat{B}C = x$.
+- At vertex $A$: diagonal $AC$ subtends $\\hat{A}_1 = D\\hat{A}C$ and $\\hat{A}_2 = C\\hat{A}B$.
+- At vertex $C$: angles include $A\\hat{C}B = 90^\\circ$, $\\hat{C}_1 = A\\hat{C}D$, and $\\hat{C}_2 = M\\hat{C}D$.
+- At vertex $D$: interior angle $\\hat{D}_1 = A\\hat{D}C$ and exterior angle $\\hat{D}_2 = M\\hat{D}C$.]"""
+
+# ==========================================
+# QUESTION 1 (15 marks)
+# ==========================================
+
+add_item(
+    q_ref="1.1.1",
+    marks=1,
+    topic="Statistics - Ogive & Cumulative Frequency",
+    passage=PASSAGE_Q1_1,
+    question="Write down the total number of food items ordered from the menu during this hour.",
+    memo="Reading from the cumulative frequency graph at $t = 60\\text{ minutes}$:\nTotal number of items = 140\n\n* $\\checkmark$ answer ($140$ items)",
+    final_answer="140",
+    kind="question"
+)
+
+add_item(
+    q_ref="1.1.2",
+    marks=1,
+    topic="Statistics - Ogive & Cumulative Frequency",
+    passage=PASSAGE_Q1_1,
+    question="Write down the modal class of the data.",
+    memo="The steepest section of the ogive occurs between $t = 20$ and $t = 30$ minutes (frequency = $85 - 30 = 55$ items):\nModal class: $20 < x \\le 30\\text{ minutes}$ OR $20 \\le x < 30\\text{ minutes}$\n\n* $\\checkmark$ answer ($20 < x \\le 30\\text{ minutes}$)",
+    final_answer="20 < x \\le 30\\text{ minutes}",
+    kind="question"
+)
+
+add_item(
+    q_ref="1.1.3",
+    marks=1,
+    topic="Statistics - Ogive & Cumulative Frequency",
+    passage=PASSAGE_Q1_1,
+    question="How long did it take to order the first 30 food items?",
+    memo="Reading from the cumulative frequency of 30 items on the vertical axis to the graph:\nTime taken = 20 minutes\n\n* $\\checkmark$ answer ($20\\text{ minutes}$)",
+    final_answer="20\\text{ minutes}",
+    kind="question"
+)
+
+add_item(
+    q_ref="1.1.4",
+    marks=2,
+    topic="Statistics - Ogive & Cumulative Frequency",
+    passage=PASSAGE_Q1_1,
+    question="How many food items were ordered in the last 15 minutes?",
+    memo="The last 15 minutes corresponds to the interval from $t = 45$ to $t = 60$ minutes.\nAt $t = 45\\text{ minutes}$, cumulative frequency $\\approx 126$ [Accept: 124 to 128].\nAt $t = 60\\text{ minutes}$, cumulative frequency $= 140$.\nNumber of items ordered $= 140 - 126 = 14$ orders [Accept: 12 to 16].\n\n* $\\checkmark 126$ [Accept: 124 to 128]\n* $\\checkmark$ answer ($14$ orders)",
+    final_answer="14",
+    kind="question"
+)
+
+add_item(
+    q_ref="1.1.5",
+    marks=2,
+    topic="Statistics - Ogive & Cumulative Frequency",
+    passage=PASSAGE_Q1_1,
+    question="Determine the $75^{\\text{th}}$ percentile for the data.",
+    memo="The $75^{\\text{th}}$ percentile corresponds to $0{,}75 \\times 140 = 105$ items.\nReading the time at a cumulative frequency of 105 items:\nTime $= 37\\text{ minutes}$ [Accept: $36 - 38\\text{ minutes}$].\n\n* $\\checkmark 105$ items position\n* $\\checkmark$ answer ($37\\text{ minutes}$)",
+    final_answer="37\\text{ minutes}",
+    kind="question"
+)
+
+add_item(
+    q_ref="1.1.6",
+    marks=2,
+    topic="Statistics - Ogive & Cumulative Frequency",
+    passage=PASSAGE_Q1_1,
+    question="Calculate the interquartile range of the data.",
+    memo="Lower quartile ($Q_1$) is at $0{,}25 \\times 140 = 35$ items:\n$Q_1 = 21{,}5\\text{ minutes}$ [Accept: $21 - 23\\text{ minutes}$].\nUpper quartile ($Q_3$) from Question 1.1.5 is at 105 items:\n$Q_3 = 37\\text{ minutes}$ [Accept: $36 - 38\\text{ minutes}$].\n$$\\text{IQR} = Q_3 - Q_1 = 37 - 21{,}5 = 15{,}5\\text{ minutes} \\quad [\\text{Accept: } 13 - 17\\text{ minutes}]$$\n\n* $\\checkmark$ lower quartile ($Q_1 = 21{,}5$)\n* $\\checkmark$ answer ($15{,}5\\text{ minutes}$)",
+    final_answer="15{,}5\\text{ minutes}",
+    kind="question"
+)
+
+add_item(
+    q_ref="1.2.1(a)",
+    marks=2,
+    topic="Statistics - Univariate Data & Measures of Dispersion",
+    passage=PASSAGE_Q1_2A,
+    question="Calculate the mean of the data.",
+    memo="Sum of tips: $\\sum x = 35 + 70 + 75 + 80 + 80 + 90 + 100 + 100 + 105 + 105 + 110 + 110 + 115 + 120 + 125 = 1\\,420$\nNumber of days: $n = 15$\n$$\\bar{x} = \\frac{\\sum x}{n} = \\frac{1\\,420}{15} = \\text{R}94{,}666\\dots \\approx \\text{R}94{,}67$$\n\n* $\\checkmark 1\\,420$\n* $\\checkmark$ answer ($\\text{R}94{,}67$)",
+    final_answer="\\text{R}94{,}67",
+    kind="question"
+)
+
+add_item(
+    q_ref="1.2.1(b)",
+    marks=2,
+    topic="Statistics - Univariate Data & Measures of Dispersion",
+    passage=PASSAGE_Q1_2A,
+    question="Calculate the standard deviation of the data.",
+    memo="Using a calculator for the 15 data values:\n$$\\sigma = \\text{R}22{,}691\\dots \\approx \\text{R}22{,}69$$\n\n* $\\checkmark\\checkmark$ answer ($\\text{R}22{,}69$)",
+    final_answer="\\text{R}22{,}69",
+    kind="question"
+)
+
+add_item(
+    q_ref="1.2.2(a)",
+    marks=1,
+    topic="Statistics - Univariate Data & Measures of Dispersion",
+    passage=PASSAGE_Q1_2B,
+    question="Using the available information, comment on the total amount in tips that they EACH collected over the 15-day period.",
+    memo="Since both Reggie and Mary have the same mean tip amount ($\\bar{x} = \\text{R}94{,}67$) over the same 15-day period:\n$$\\text{Total tips} = 15 \\times \\bar{x} = 15 \\times \\frac{1\\,420}{15} = \\text{R}1\\,420$$\nThey both collected the same (equal) total amount in tips, i.e. $\\text{R}1\\,420$ over the 15-day period.\n\n* $\\checkmark$ answer (They collected the same / equal total amount of $\\text{R}1\\,420$)",
+    final_answer="They both collected the same total amount in tips (\\text{R}1\\,420)",
+    kind="question"
+)
+
+add_item(
+    q_ref="1.2.2(b)",
+    marks=1,
+    topic="Statistics - Univariate Data & Measures of Dispersion",
+    passage=PASSAGE_Q1_2B,
+    question="Using the available information, comment on the variation that EACH of them received in daily tips over this period.",
+    memo="Mary's standard deviation ($\\text{R}14$) is smaller than Reggie's standard deviation ($\\text{R}22{,}69$).\nThis suggests that Mary had less variation in her daily tips, whereas Reggie experienced greater variation/spread in the amount of tips collected each day.\n\n* $\\checkmark$ explanation (Mary's tips had less variation / Reggie's tips had greater variation due to standard deviation)",
+    final_answer="Mary's tips showed less variation than Reggie's (smaller standard deviation of \\text{R}14 vs \\text{R}22{,}69)",
+    kind="question"
+)
+
+# ==========================================
+# QUESTION 2 (5 marks)
+# ==========================================
+
+add_item(
+    q_ref="2.1",
+    marks=1,
+    topic="Statistics - Bivariate Data & Regression",
+    passage=PASSAGE_Q2,
+    question="Write down the fastest average serve speed (in $\\text{km/h}$) achieved in this tournament.",
+    memo="From the scatter plot, the highest plotted point on the vertical axis represents an average serve speed of $251\\text{ km/h}$.\n\n* $\\checkmark$ answer ($251\\text{ km/h}$)",
+    final_answer="251\\text{ km/h}",
+    kind="question"
+)
+
+add_item(
+    q_ref="2.2.1",
+    marks=1,
+    topic="Statistics - Bivariate Data & Regression",
+    passage=PASSAGE_Q2,
+    question="Consider the following correlation coefficients:\nA: $r = 0{,}93$\nB: $r = -0{,}42$\nC: $r = 0{,}52$\n\nWhich ONE of the given correlation coefficients best fits the plotted data?",
+    memo="The points show a moderate positive correlation (increasing line with moderate scatter around the line).\nTherefore, $r = 0{,}52$ (Option C) best describes the relationship.\n\n* $\\checkmark$ answer ($r = 0{,}52$ or C)",
+    final_answer="C",
+    kind="multiple_choice"
+)
+
+add_item(
+    q_ref="2.2.2",
+    marks=1,
+    topic="Statistics - Bivariate Data & Regression",
+    passage=PASSAGE_Q2,
+    question="Use the scatter plot and least squares regression line to motivate your answer to QUESTION 2.2.1.",
+    memo="The least squares regression line has a positive slope (is increasing), which indicates a positive correlation ($r > 0$), and the data points are fairly scattered around the line rather than lying very close to it, ruling out a very strong correlation like $0{,}93$.\n\n* $\\checkmark$ reason (Points are fairly scattered and the regression line is increasing / positive slope)",
+    final_answer="The points are fairly scattered around the increasing regression line, indicating a moderate positive linear relationship",
+    kind="question"
+)
+
+add_item(
+    q_ref="2.3",
+    marks=1,
+    topic="Statistics - Bivariate Data & Regression",
+    passage=PASSAGE_Q2,
+    question="What does the data suggest about the speed of a tennis serve (in $\\text{km/h}$) and the height of a player (in metres)?",
+    memo="The data suggests that there is a weak to moderate positive relationship between height and serve speed, hence taller players may tend to have a faster serve speed.\nOR: There is no conclusive evidence that the height of a player will significantly influence his/her tennis serve speed (or that a taller person will necessarily serve faster).\n\n* $\\checkmark$ answer (Weak positive relationship / height could have an influence / no conclusive evidence)",
+    final_answer="There is a weak/moderate positive relationship between the height of a player and tennis serve speed",
+    kind="question"
+)
+
+add_item(
+    q_ref="2.4",
+    marks=1,
+    topic="Statistics - Bivariate Data & Regression",
+    passage=PASSAGE_Q2,
+    question="The equation of the regression line is given as $\\hat{y} = 27{,}07 + bx$. Explain why, in this context, the least squares regression line CANNOT intersect the $y$-axis at $(0\\;; 27{,}07)$.",
+    memo="The point $(0\\;; 27{,}07)$ would mean that a player with a height of $0\\text{ metres}$ can serve at a speed of $27{,}07\\text{ km/h}$.\nIt is impossible for a person to have a height of $0\\text{ metres}$ (a player with zero height does not exist and therefore cannot serve).\n\n* $\\checkmark$ explanation (A person cannot have a height of $0\\text{ m}$ / a player of $0\\text{ m}$ height does not exist to serve)",
+    final_answer="It is impossible for a person to have a height of 0 m and serve a tennis ball",
+    kind="question"
+)
+
+# ==========================================
+# QUESTION 3 (22 marks)
+# ==========================================
+
+add_item(
+    q_ref="3.1.1",
+    marks=2,
+    topic="Analytical Geometry - Gradient",
+    passage=PASSAGE_Q3,
+    question="Calculate the gradient of $KN$.",
+    memo="Coordinates: $K(-1\\;; 2)$ and $N(1\\;; -1)$.\n$$m_{KN} = \\frac{y_N - y_K}{x_N - x_K} = \\frac{-1 - 2}{1 - (-1)} = \\frac{-3}{2} = -\\frac{3}{2}$$\n\n* $\\checkmark$ correct substitution into gradient formula\n* $\\checkmark$ answer ($-\\frac{3}{2}$)",
+    final_answer="-\\frac{3}{2}",
+    kind="question"
+)
+
+add_item(
+    q_ref="3.1.2",
+    marks=2,
+    topic="Analytical Geometry - Inclination Angle",
+    passage=PASSAGE_Q3,
+    question="Calculate the size of $\\theta$, the inclination of $KN$.",
+    memo="$$\\tan \\theta = m_{KN} = -\\frac{3}{2}$$\n$$\\text{Reference angle} = \\tan^{-1}\\left(\\frac{3}{2}\\right) \\approx 56{,}31^\\circ$$\n$$\\theta = 180^\\circ - 56{,}31^\\circ = 123{,}69^\\circ$$\n\n* $\\checkmark \\tan \\theta = -\\frac{3}{2}$\n* $\\checkmark$ answer ($123{,}69^\\circ$)",
+    final_answer="123{,}69^\\circ",
+    kind="question"
+)
+
+add_item(
+    q_ref="3.2",
+    marks=2,
+    topic="Analytical Geometry - Inclination Angle",
+    passage=PASSAGE_Q3,
+    question="Show that the gradient of $KL$ is equal to 1.",
+    memo="In $\\Delta KNP$ (or using the exterior angle theorem where the angle of inclination of $KN$ is an exterior angle to the triangle formed by $KL$, $KN$, and the $x$-axis):\n$$\\text{Inclination of } KL = \\theta - L\\hat{K}N = 123{,}69^\\circ - 78{,}69^\\circ = 45^\\circ \\quad [\\text{ext } \\angle \\text{ of } \\Delta]$$\n$$m_{KL} = \\tan 45^\\circ = 1$$\n\n* $\\checkmark$ inclination of $KL = 45^\\circ$\n* $\\checkmark m_{KL} = \\tan 45^\\circ = 1$",
+    final_answer="m_{KL} = 1",
+    kind="question"
+)
+
+add_item(
+    q_ref="3.3",
+    marks=2,
+    topic="Analytical Geometry - Equations of Lines",
+    passage=PASSAGE_Q3,
+    question="Determine the equation of the straight line $KL$ in the form $y = mx + c$.",
+    memo="Gradient $m_{KL} = 1$, and passing through $K(-1\\;; 2)$:\n$$y - y_1 = m(x - x_1)$$\n$$y - 2 = 1(x - (-1))$$\n$$y - 2 = x + 1$$\n$$y = x + 3$$\n\n* $\\checkmark$ substitution of $(-1\\;; 2)$ and $m = 1$\n* $\\checkmark$ equation ($y = x + 3$)",
+    final_answer="y = x + 3",
+    kind="question"
+)
+
+add_item(
+    q_ref="3.4",
+    marks=2,
+    topic="Analytical Geometry - Distance Formula",
+    passage=PASSAGE_Q3,
+    question="Calculate the length of $KN$.",
+    memo="Coordinates: $K(-1\\;; 2)$ and $N(1\\;; -1)$.\n$$KN = \\sqrt{(x_N - x_K)^2 + (y_N - y_K)^2}$$\n$$KN = \\sqrt{(1 - (-1))^2 + (-1 - 2)^2}$$\n$$KN = \\sqrt{(2)^2 + (-3)^2} = \\sqrt{4 + 9} = \\sqrt{13} \\approx 3{,}61$$\n\n* $\\checkmark$ substitution of $K$ and $N$ into distance formula\n* $\\checkmark$ answer ($\\sqrt{13}$ or $3{,}61$)",
+    final_answer="\\sqrt{13}",
+    kind="question"
+)
+
+add_item(
+    q_ref="3.5.1",
+    marks=5,
+    topic="Analytical Geometry - Circles & Points of Intersection",
+    passage=PASSAGE_Q3,
+    question="It is further given that $KN = LM$. Calculate the possible coordinates of $L$.",
+    memo="Given $KN = \\sqrt{13}$, and $M(-3\\;; -5)$, with $LM = KN = \\sqrt{13}$:\n$$(x + 3)^2 + (y + 5)^2 = 13 \\quad \\dots (1)$$\nSince $L$ lies on the straight line $KL$, its equation is:\n$$y = x + 3 \\quad \\dots (2)$$\nSubstitute (2) into (1):\n$$(x + 3)^2 + (x + 3 + 5)^2 = 13$$\n$$(x + 3)^2 + (x + 8)^2 = 13$$\n$$(x^2 + 6x + 9) + (x^2 + 16x + 64) = 13$$\n$$2x^2 + 22x + 60 = 0$$\n$$x^2 + 11x + 30 = 0$$\n$$(x + 5)(x + 6) = 0$$\n$$x = -5 \\quad \\text{or} \\quad x = -6$$\nFor $x = -5$: $y = -5 + 3 = -2 \\implies L(-5\\;; -2)$\nFor $x = -6$: $y = -6 + 3 = -3 \\implies L(-6\\;; -3)$\n\n* $\\checkmark$ equation of circle: $(x + 3)^2 + (y + 5)^2 = 13$\n* $\\checkmark$ substituting $y = x + 3$\n* $\\checkmark$ standard quadratic equation: $x^2 + 11x + 30 = 0$\n* $\\checkmark x$-values ($x = -5$ or $x = -6$)\n* $\\checkmark y$-values ($y = -2$ or $y = -3$)",
+    final_answer="(-5\\;; -2)\\text{ or }(-6\\;; -3)",
+    kind="question"
+)
+
+add_item(
+    q_ref="3.5.2",
+    marks=3,
+    topic="Analytical Geometry - Properties of Parallelograms",
+    passage=PASSAGE_Q3,
+    question="Determine the coordinates of $L$ if it is given that $KLMN$ is a parallelogram.",
+    memo="In parallelogram $KLMN$, the diagonals $KM$ and $LN$ bisect each other at their common midpoint.\nMidpoint of diagonal $KM$ where $K(-1\\;; 2)$ and $M(-3\\;; -5)$:\n$$M_{KM} = \\left(\\frac{-1 + (-3)}{2}\\;; \\frac{2 + (-5)}{2}\\right) = \\left(-2\\;; -\\frac{3}{2}\\right)$$\nMidpoint of diagonal $LN$ where $N(1\\;; -1)$ and $L(x_L\\;; y_L)$:\n$$\\frac{x_L + 1}{2} = -2 \\implies x_L + 1 = -4 \\implies x_L = -5$$\n$$\\frac{y_L - 1}{2} = -\\frac{3}{2} \\implies y_L - 1 = -3 \\implies y_L = -2$$\n$$\\therefore L(-5\\;; -2)$$\n\nOR using equal gradients/vectors:\n$$\\vec{NL} = \\vec{KM} \\implies (x_L - 1\\;; y_L - (-1)) = (-3 - (-1)\\;; -5 - 2) = (-2\\;; -7) \\quad \\text{or } \\vec{LM} = \\vec{KN}$$\n$$m_{LM} = m_{KN} = -\\frac{3}{2} \\implies \\frac{y - (-5)}{x - (-3)} = -\\frac{3}{2} \\implies x = -5, y = -2$$\n\n* $\\checkmark$ midpoint of $KM = \\left(-2\\;; -\\frac{3}{2}\\right)$ (or translation vector / gradient equality)\n* $\\checkmark x$-value ($x = -5$)\n* $\\checkmark y$-value ($y = -2$)",
+    final_answer="L(-5\\;; -2)",
+    kind="question"
+)
+
+add_item(
+    q_ref="3.6",
+    marks=4,
+    topic="Analytical Geometry - Area of Triangle",
+    passage=PASSAGE_Q3,
+    question="$T$ is a point on $KL$ produced. $TM$ is drawn such that $TM = LM$. Calculate the area of $\\Delta KTN$.",
+    memo="Since $TM = LM = \\sqrt{13}$ and $T$ lies on $KL$ produced, $T$ corresponds to the other point found in Question 3.5.1:\n$$T(-6\\;; -3)$$\nCalculate distance $KT$ where $K(-1\\;; 2)$ and $T(-6\\;; -3)$:\n$$KT = \\sqrt{(-1 - (-6))^2 + (2 - (-3))^2} = \\sqrt{5^2 + 5^2} = \\sqrt{50} = 5\\sqrt{2}$$\nLength $KN = \\sqrt{13}$ (from Question 3.4), and angle between $KT$ and $KN$ is $L\\hat{K}N = 78{,}69^\\circ$.\n$$\\text{Area of } \\Delta KTN = \\frac{1}{2} \\cdot KT \\cdot KN \\cdot \\sin L\\hat{K}N$$\n$$\\text{Area} = \\frac{1}{2} \\cdot \\sqrt{50} \\cdot \\sqrt{13} \\cdot \\sin 78{,}69^\\circ$$\n$$\\text{Area} = \\frac{1}{2} (7{,}071068)(3{,}605551)(0{,}98058) \\approx 12{,}50\\text{ square units}$$\n\n* $\\checkmark$ coordinates of $T(-6\\;; -3)$\n* $\\checkmark$ length of $KT = \\sqrt{50}$\n* $\\checkmark$ substitution into area rule $\\frac{1}{2} ab \\sin C$\n* $\\checkmark$ answer ($12{,}50\\text{ square units}$)",
+    final_answer="12{,}50\\text{ square units}",
+    kind="question"
+)
+
+# ==========================================
+# QUESTION 4 (18 marks)
+# ==========================================
+
+add_item(
+    q_ref="4.1",
+    marks=2,
+    topic="Analytical Geometry - Circles & Tangents",
+    passage=PASSAGE_Q4,
+    question="Write down the coordinates of $F$.",
+    memo="From the equation of the circle $(x - 3)^2 + (y - 1)^2 = r^2$:\nCentre $F$ is $(3\\;; 1)$.\n\n* $\\checkmark x$-coordinate ($3$)\n* $\\checkmark y$-coordinate ($1$)",
+    final_answer="(3\\;; 1)",
+    kind="question"
+)
+
+add_item(
+    q_ref="4.2",
+    marks=2,
+    topic="Analytical Geometry - Distance Formula & Circle Radius",
+    passage=PASSAGE_Q4,
+    question="Calculate the length of $FS$.",
+    memo="Coordinates: $F(3\\;; 1)$ and $S(6\\;; 5)$.\n$$FS = \\sqrt{(6 - 3)^2 + (5 - 1)^2} = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$$\n\n* $\\checkmark$ substitution of $F$ and $S$ into distance formula\n* $\\checkmark$ answer ($5$)",
+    final_answer="5",
+    kind="question"
+)
+
+add_item(
+    q_ref="4.3",
+    marks=1,
+    topic="Analytical Geometry - Circles & Tangents",
+    passage=PASSAGE_Q4,
+    question="Write down the length of $HG$.",
+    memo="Since $S$ lies on circle $F$, radius $FH = FS = 5$.\nGiven ratio $FH : HG = 1 : 2$:\n$$HG = 2 \\times FH = 2 \\times 5 = 10$$\n\n* $\\checkmark answer$ ($HG = 10$)",
+    final_answer="10",
+    kind="question"
+)
+
+add_item(
+    q_ref="4.4",
+    marks=1,
+    topic="Analytical Geometry - Tangents from an External Point",
+    passage=PASSAGE_Q4,
+    question="Give a reason why $JH = JK$.",
+    memo="Both $JH$ and $JK$ are tangents drawn to the larger circle (centre $G$) from the same external point $J$.\nReason: Tangents drawn from a common/same point to a circle are equal in length.\n\n* $\\checkmark$ reason (Tangents from common/same external point)",
+    final_answer="\\text{Tangents drawn from the same external point to a circle are equal in length}",
+    kind="question"
+)
+
+add_item(
+    q_ref="4.5.1",
+    marks=4,
+    topic="Analytical Geometry - Circles & Tangents",
+    passage=PASSAGE_Q4,
+    question="Determine the distance $FJ$, with reasons, if it is given that $JK = 20$.",
+    memo="Since tangents from a common point are equal, $JH = JK = 20$.\n$HJ$ is tangent to the circle at $H$, so $FH \\perp HJ$ [$F\\hat{H}J = 90^\\circ$, tangent $\\perp$ radius].\nIn right-angled $\\Delta FHJ$ with $FH = 5$ and $JH = 20$:\n$$FJ^2 = FH^2 + HJ^2 \\quad [\\text{Pythagoras}]$$\n$$FJ^2 = 5^2 + 20^2 = 25 + 400 = 425$$\n$$FJ = \\sqrt{425} = 5\\sqrt{17} \\approx 20{,}62$$\n\n* $\\checkmark\\text{S } F\\hat{H}J = 90^\\circ$\n* $\\checkmark\\text{R } [\\text{tangent } \\perp \\text{ radius}]$\n* $\\checkmark\\text{S } FJ^2 = 5^2 + 20^2$\n* $\\checkmark$ answer ($FJ = \\sqrt{425}$ or $5\\sqrt{17}$ or $20{,}62$)",
+    final_answer="5\\sqrt{17}",
+    kind="question"
+)
+
+add_item(
+    q_ref="4.5.2",
+    marks=1,
+    topic="Analytical Geometry - Equations of Circles",
+    passage=PASSAGE_Q4,
+    question="Determine the equation of the circle with centre $G$ in terms of $m$ and $n$ in the form $(x - m)^2 + (y - n)^2 = r^2$.",
+    memo="Radius of circle $G$ is $R = HG = 10$, so $R^2 = 10^2 = 100$.\n$$(x - m)^2 + (y - n)^2 = 100$$\n\n* $\\checkmark$ answer ($(x - m)^2 + (y - n)^2 = 100$)",
+    final_answer="(x - m)^2 + (y - n)^2 = 100",
+    kind="question"
+)
+
+add_item(
+    q_ref="4.5.3",
+    marks=7,
+    topic="Analytical Geometry - Circles & Tangents",
+    passage=PASSAGE_Q4,
+    question="Determine the coordinates of $G$, if it is further given that the equation of tangent $JK$ is $x = 22$.",
+    memo="1. Since $JK$ is a vertical tangent line with equation $x = 22$, radius $GK \\perp JK$ [radius $\\perp$ tangent].\nTherefore, line $GK$ is horizontal, which means $K$ has coordinates $(22\\;; n)$ and $x_G = m = 22 - \\text{radius} = 22 - 10 = 12$.\n\n2. Since the two circles touch externally at $H$, the centres $F(3\\;; 1)$, $H$, and $G(12\\;; n)$ are collinear [line of centres passes through point of contact $H$].\n$$FG = FH + HG = 5 + 10 = 15$$\n\n3. Using the distance formula for $FG$:\n$$FG^2 = (12 - 3)^2 + (n - 1)^2 = 15^2$$\n$$9^2 + (n - 1)^2 = 225$$\n$$81 + (n - 1)^2 = 225$$\n$$(n - 1)^2 = 144$$\n$$n - 1 = \\pm 12$$\n$$n = 1 + 12 = 13 \\quad \\text{or} \\quad n = 1 - 12 = -11$$\nSince centre $G$ lies in the $4^{\\text{th}}$ quadrant, $y_G = n < 0$, so $n = -11$ ($n \\ne 13$).\n\nTherefore, the coordinates of $G$ are $(12\\;; -11)$.\n\n* $\\checkmark K(22\\;; n)$ [radius $\\perp$ tangent]\n* $\\checkmark m = 12$\n* $\\checkmark FG = 15$\n* $\\checkmark$ substitution of $F$ and $G$ into distance formula\n* $\\checkmark$ standard quadratic equation: $(n - 1)^2 = 144$ or $n^2 - 2n - 143 = 0$\n* $\\checkmark$ value of $n = -11$\n* $\\checkmark$ coordinates of $G(12\\;; -11)$",
+    final_answer="G(12\\;; -11)",
+    kind="question"
+)
+
+# ==========================================
+# QUESTION 5 (23 marks)
+# ==========================================
+
+add_item(
+    q_ref="5.1.1",
+    marks=2,
+    topic="Trigonometry - Cartesian Plane & Pythagoras",
+    passage=PASSAGE_Q5,
+    question="Calculate the value of $k$.",
+    memo="In the second quadrant, $P(k\\;; 1)$ with $k < 0$, and distance $r = OP = \\sqrt{5}$:\n$$x^2 + y^2 = r^2$$\n$$k^2 + 1^2 = (\\sqrt{5})^2$$\n$$k^2 + 1 = 5$$\n$$k^2 = 4$$\nSince $P$ is in the $2^{\\text{nd}}$ quadrant, $k = -2$.\n\n* $\\checkmark$ substitution into Pythagoras: $k^2 + 1^2 = (\\sqrt{5})^2$\n* $\\checkmark$ answer ($k = -2$)",
+    final_answer="-2",
+    kind="question"
+)
+
+add_item(
+    q_ref="5.1.2(a)",
+    marks=1,
+    topic="Trigonometry - Ratios in the Cartesian Plane",
+    passage=PASSAGE_Q5,
+    question="Without using a calculator, calculate the value of $\\tan \\theta$.",
+    memo="Using $P(-2\\;; 1)$ with $x = -2$ and $y = 1$:\n$$\\tan \\theta = \\frac{y}{x} = \\frac{1}{-2} = -\\frac{1}{2}$$\n\n* $\\checkmark$ answer ($-\\frac{1}{2}$)",
+    final_answer="-\\frac{1}{2}",
+    kind="question"
+)
+
+add_item(
+    q_ref="5.1.2(b)",
+    marks=2,
+    topic="Trigonometry - Reduction Formulas",
+    passage=PASSAGE_Q5,
+    question="Without using a calculator, calculate the value of $\\cos(180^\\circ + \\theta)$.",
+    memo="Using reduction formula:\n$$\\cos(180^\\circ + \\theta) = -\\cos \\theta$$\nFrom $P(-2\\;; 1)$ and $r = \\sqrt{5}$:\n$$\\cos \\theta = \\frac{x}{r} = \\frac{-2}{\\sqrt{5}}$$\n$$\\therefore \\cos(180^\\circ + \\theta) = -\\left(-\\frac{2}{\\sqrt{5}}\\right) = \\frac{2}{\\sqrt{5}}$$\n\n* $\\checkmark$ reduction: $-\\cos \\theta$\n* $\\checkmark$ answer ($\\frac{2}{\\sqrt{5}}$)",
+    final_answer="\\frac{2}{\\sqrt{5}}",
+    kind="question"
+)
+
+add_item(
+    q_ref="5.1.2(c)",
+    marks=5,
+    topic="Trigonometry - Compound Angles",
+    passage=PASSAGE_Q5,
+    question="Without using a calculator, calculate the value of $\\sin(\\theta + 60^\\circ)$ in the form $\\frac{a + b}{\\sqrt{20}}$.",
+    memo="Using the compound angle formula:\n$$\\sin(\\theta + 60^\\circ) = \\sin \\theta \\cos 60^\\circ + \\cos \\theta \\sin 60^\\circ$$\nSubstitute $\\sin \\theta = \\frac{1}{\\sqrt{5}}$, $\\cos \\theta = -\\frac{2}{\\sqrt{5}}$, $\\cos 60^\\circ = \\frac{1}{2}$, and $\\sin 60^\\circ = \\frac{\\sqrt{3}}{2}$:\n$$= \\left(\\frac{1}{\\sqrt{5}}\\right)\\left(\\frac{1}{2}\\right) + \\left(-\\frac{2}{\\sqrt{5}}\\right)\\left(\\frac{\\sqrt{3}}{2}\\right)$$\n$$= \\frac{1}{2\\sqrt{5}} - \\frac{2\\sqrt{3}}{2\\sqrt{5}} = \\frac{1 - 2\\sqrt{3}}{2\\sqrt{5}}$$\nSince $2\\sqrt{5} = \\sqrt{4 \\times 5} = \\sqrt{20}$:\n$$= \\frac{1 - 2\\sqrt{3}}{\\sqrt{20}}$$\n\n* $\\checkmark$ compound angle expansion: $\\sin \\theta \\cos 60^\\circ + \\cos \\theta \\sin 60^\\circ$\n* $\\checkmark$ substitution of $\\sin \\theta = \\frac{1}{\\sqrt{5}}$\n* $\\checkmark$ substitution of $\\cos \\theta = -\\frac{2}{\\sqrt{5}}$\n* $\\checkmark$ special angles: $\\cos 60^\\circ = \\frac{1}{2}$ and $\\sin 60^\\circ = \\frac{\\sqrt{3}}{2}$\n* $\\checkmark$ answer ($\\frac{1 - 2\\sqrt{3}}{\\sqrt{20}}$)",
+    final_answer="\\frac{1 - 2\\sqrt{3}}{\\sqrt{20}}",
+    kind="question"
+)
+
+add_item(
+    q_ref="5.1.3",
+    marks=3,
+    topic="Trigonometry - Evaluation & Calculator Applications",
+    passage=PASSAGE_Q5,
+    question="Use a calculator to calculate the value of $\\tan(2\\theta - 40^\\circ)$ correct to ONE decimal place.",
+    memo="From Question 5.1.2(a), $\\tan \\theta = -\\frac{1}{2}$.\nSince $\\theta$ is obtuse ($90^\\circ < \\theta < 180^\\circ$):\n$$\\text{Reference angle} = \\tan^{-1}\\left(\\frac{1}{2}\\right) \\approx 26{,}565^\\circ$$\n$$\\theta = 180^\\circ - 26{,}565^\\circ = 153{,}435^\\circ$$\nSubstitute $\\theta$ into the expression:\n$$2\\theta - 40^\\circ = 2(153{,}435^\\circ) - 40^\\circ = 306{,}87^\\circ - 40^\\circ = 266{,}87^\\circ$$\n$$\\tan(266{,}87^\\circ) \\approx 18{,}29 \\approx 18{,}3$$\n\n* $\\checkmark$ value of $\\theta = 153{,}43^\\circ$\n* $\\checkmark$ substitution into $2\\theta - 40^\\circ$\n* $\\checkmark$ answer ($18{,}3$)",
+    final_answer="18{,}3",
+    kind="question"
+)
+
+add_item(
+    q_ref="5.2",
+    marks=5,
+    topic="Trigonometry - Identities & Double Angles",
+    passage=PASSAGE_Q5,
+    question="Prove the following identity:\n$$\\frac{\\cos x + \\sin x}{\\cos x - \\sin x} - \\frac{\\cos x - \\sin x}{\\cos x + \\sin x} = 2\\tan 2x$$",
+    memo="$$\\text{LHS} = \\frac{\\cos x + \\sin x}{\\cos x - \\sin x} - \\frac{\\cos x - \\sin x}{\\cos x + \\sin x}$$\nBring to a common denominator $(\\cos x - \\sin x)(\\cos x + \\sin x)$:\n$$= \\frac{(\\cos x + \\sin x)^2 - (\\cos x - \\sin x)^2}{(\\cos x - \\sin x)(\\cos x + \\sin x)}$$\nExpand numerators and denominator:\n$$= \\frac{(\\cos^2 x + 2\\sin x \\cos x + \\sin^2 x) - (\\cos^2 x - 2\\sin x \\cos x + \\sin^2 x)}{\\cos^2 x - \\sin^2 x}$$\n$$= \\frac{(1 + 2\\sin x \\cos x) - (1 - 2\\sin x \\cos x)}{\\cos^2 x - \\sin^2 x}$$\n$$= \\frac{4\\sin x \\cos x}{\\cos^2 x - \\sin^2 x}$$\nApply double angle identities $\\sin 2x = 2\\sin x \\cos x$ and $\\cos 2x = \\cos^2 x - \\sin^2 x$:\n$$= \\frac{2(2\\sin x \\cos x)}{\\cos 2x} = \\frac{2\\sin 2x}{\\cos 2x} = 2\\tan 2x = \\text{RHS}$$\n\n* $\\checkmark$ single fraction with correct common denominator\n* $\\checkmark$ expansion of both brackets in numerator\n* $\\checkmark$ simplification to $\\frac{4\\sin x \\cos x}{\\cos^2 x - \\sin^2 x}$\n* $\\checkmark$ double angle formula for numerator: $2\\sin 2x$\n* $\\checkmark$ double angle formula for denominator: $\\cos 2x$",
+    final_answer="2\\tan 2x",
+    kind="question"
+)
+
+add_item(
+    q_ref="5.3",
+    marks=5,
+    topic="Trigonometry - Sigma Notation & Co-functions",
+    passage=PASSAGE_Q5,
+    question="Evaluate, without using a calculator:\n$$\\sum_{A=38^\\circ}^{52^\\circ} \\cos^2 A$$",
+    memo="Expand the sigma sum from $A = 38^\\circ$ to $52^\\circ$ ($52 - 38 + 1 = 15$ terms):\n$$\\sum_{A=38^\\circ}^{52^\\circ} \\cos^2 A = \\cos^2 38^\\circ + \\cos^2 39^\\circ + \\dots + \\cos^2 51^\\circ + \\cos^2 52^\\circ$$\nUsing co-function identity $\\cos(90^\\circ - x) = \\sin x$:\n$$\\cos 52^\\circ = \\sin 38^\\circ \\implies \\cos^2 38^\\circ + \\cos^2 52^\\circ = \\cos^2 38^\\circ + \\sin^2 38^\\circ = 1$$\n$$\\cos 51^\\circ = \\sin 39^\\circ \\implies \\cos^2 39^\\circ + \\cos^2 51^\\circ = \\cos^2 39^\\circ + \\sin^2 39^\\circ = 1$$\n$$\\cos 50^\\circ = \\sin 40^\\circ \\implies \\cos^2 40^\\circ + \\cos^2 50^\\circ = 1$$\n$$\\cos 49^\\circ = \\sin 41^\\circ \\implies \\cos^2 41^\\circ + \\cos^2 49^\\circ = 1$$\n$$\\cos 48^\\circ = \\sin 42^\\circ \\implies \\cos^2 42^\\circ + \\cos^2 48^\\circ = 1$$\n$$\\cos 47^\\circ = \\sin 43^\\circ \\implies \\cos^2 43^\\circ + \\cos^2 47^\\circ = 1$$\n$$\\cos 46^\\circ = \\sin 44^\\circ \\implies \\cos^2 44^\\circ + \\cos^2 46^\\circ = 1$$\nThis gives 7 pairs equal to 1, plus the single middle term $\\cos^2 45^\\circ$:\n$$\\sum_{A=38^\\circ}^{52^\\circ} \\cos^2 A = 7(1) + \\cos^2 45^\\circ = 7 + \\left(\\frac{1}{\\sqrt{2}}\\right)^2 = 7 + \\frac{1}{2} = 7\\frac{1}{2} = 7{,}5$$\n\n* $\\checkmark$ expansion of series\n* $\\checkmark$ co-ratio / pairing complementary angles\n* $\\checkmark \\cos^2 45^\\circ = \\frac{1}{2}$\n* $\\checkmark 7 \\times 1 = 7$\n* $\\checkmark$ answer ($7\\frac{1}{2}$ or $7{,}5$ or $\\frac{15}{2}$)",
+    final_answer="7\\frac{1}{2}",
+    kind="question"
+)
+
+# ==========================================
+# QUESTION 6 (13 marks)
+# ==========================================
+
+add_item(
+    q_ref="6.1",
+    marks=1,
+    topic="Trigonometry - Functions & Graphs",
+    passage=PASSAGE_Q6,
+    question="Write down the period of $f$.",
+    memo="For $f(x) = -2\\tan \\left(\\frac{3}{2}x\\right)$:\n$$\\text{Period} = \\frac{180^\\circ}{k} = \\frac{180^\\circ}{\\frac{3}{2}} = 180^\\circ \\times \\frac{2}{3} = 120^\\circ$$\n\n* $\\checkmark$ answer ($120^\\circ$)",
+    final_answer="120^\\circ",
+    kind="question"
+)
+
+add_item(
+    q_ref="6.2",
+    marks=3,
+    topic="Trigonometry - General Solutions",
+    passage=PASSAGE_Q6,
+    question="The point $A(t\\;; 2)$ lies on the graph. Determine the general solution of $t$.",
+    memo="Substitute point $A(t\\;; 2)$ into $f(x) = -2\\tan \\left(\\frac{3}{2}x\\right)$:\n$$2 = -2\\tan \\left(\\frac{3}{2}t\\right)$$\n$$\\tan \\left(\\frac{3}{2}t\\right) = -1$$\n$$\\frac{3}{2}t = 180^\\circ - 45^\\circ + k \\cdot 180^\\circ = 135^\\circ + k \\cdot 180^\\circ \\quad (k \\in \\mathbb{Z})$$\nMultiply by $\\frac{2}{3}$:\n$$t = 90^\\circ + k \\cdot 120^\\circ \\quad (k \\in \\mathbb{Z})$$\nOR:\n$$\\frac{3}{2}t = -45^\\circ + k \\cdot 180^\\circ \\implies t = -30^\\circ + k \\cdot 120^\\circ \\quad (k \\in \\mathbb{Z})$$\n\n* $\\checkmark$ equating: $\\tan \\left(\\frac{3}{2}t\\right) = -1$\n* $\\checkmark$ general solution for $\\frac{3}{2}t = 135^\\circ + k \\cdot 180^\\circ$\n* $\\checkmark$ general solution for $t = 90^\\circ + k \\cdot 120^\\circ, \\; k \\in \\mathbb{Z}$",
+    final_answer="t = 90^\\circ + k \\cdot 120^\\circ, \\; k \\in \\mathbb{Z}",
+    kind="question"
+)
+
+add_item(
+    q_ref="6.3",
+    marks=4,
+    topic="Trigonometry - Functions & Graphs",
+    passage=PASSAGE_Q6,
+    question="On the grid provided in the ANSWER BOOK, draw the graph of $f$ for the interval $x \\in [-120^\\circ\\;; 180^\\circ]$. Clearly show ALL asymptotes, intercepts with the axes and endpoint(s) of the graph.",
+    memo="Key features of $f(x) = -2\\tan \\left(\\frac{3}{2}x\\right)$ on $[-120^\\circ\\;; 180^\\circ]$:\n1. Vertical asymptotes occur where $\\frac{3}{2}x = \\pm 90^\\circ, 270^\\circ$:\n   $$x = -60^\\circ, \\quad x = 60^\\circ, \\quad x = 180^\\circ$$\n2. $x$-intercepts occur where $\\frac{3}{2}x = 0^\\circ, \\pm 180^\\circ$:\n   $$(-120^\\circ\\;; 0), \\quad (0^\\circ\\;; 0), \\quad (120^\\circ\\;; 0)$$\n3. Curve shape: decreasing tangent curve (due to negative amplitude $-2$).\n4. Critical guide points:\n   $$(-90^\\circ\\;; -2), \\quad (-30^\\circ\\;; 2), \\quad (30^\\circ\\;; -2), \\quad (90^\\circ\\;; 2), \\quad (150^\\circ\\;; -2)$$\n\n* $\\checkmark$ asymptotes: $x = \\pm 60^\\circ$ and $x = 180^\\circ$\n* $\\checkmark x$-intercepts: $0^\\circ$ and $\\pm 120^\\circ$\n* $\\checkmark$ negative tangent curve shape\n* $\\checkmark$ key guide points: $(90^\\circ\\;; 2)$ or $(-30^\\circ\\;; 2)$ or $(30^\\circ\\;; -2)$",
+    final_answer="\\text{Graph drawn with asymptotes at } x = -60^\\circ, 60^\\circ, 180^\\circ\\text{, } x\\text{-intercepts at } (-120^\\circ; 0), (0^\\circ; 0), (120^\\circ; 0)\\text{, and guide points } (-30^\\circ; 2), (90^\\circ; 2)",
+    kind="question"
+)
+
+add_item(
+    q_ref="6.4",
+    marks=3,
+    topic="Trigonometry - Functions & Graphs",
+    passage=PASSAGE_Q6,
+    question="Use the graph to determine for which value(s) of $x$ will $f(x) \\ge 2$ for $x \\in [-120^\\circ\\;; 180^\\circ]$.",
+    memo="From the graph, $f(x) = 2$ at $x = -30^\\circ$ and $x = 90^\\circ$.\nAs $x$ approaches the asymptotes $x = -60^\\circ$ and $x = 60^\\circ$ from the right, $f(x) \\to +\\infty$.\nThus $f(x) \\ge 2$ on:\n$$-60^\\circ < x \\le -30^\\circ \\quad \\text{or} \\quad 60^\\circ < x \\le 90^\\circ$$\nIn interval notation:\n$$x \\in (-60^\\circ\\;; -30^\\circ] \\cup (60^\\circ\\;; 90^\\circ]$$\n\n* $\\checkmark$ interval: $-60^\\circ < x \\le -30^\\circ$\n* $\\checkmark$ interval: $60^\\circ < x \\le 90^\\circ$\n* $\\checkmark$ correct notation (open at asymptotes, closed at points)",
+    final_answer="x \\in (-60^\\circ\\;; -30^\\circ] \\cup (60^\\circ\\;; 90^\\circ]",
+    kind="question"
+)
+
+add_item(
+    q_ref="6.5",
+    marks=2,
+    topic="Trigonometry - Transformations of Functions",
+    passage=PASSAGE_Q6,
+    question="Describe the transformation of graph $f$ to form the graph of $g(x) = -2\\tan \\left(\\frac{3}{2}x + 60^\\circ\\right)$.",
+    memo="Rewrite $g(x)$ in terms of $f$:\n$$g(x) = -2\\tan \\left[\\frac{3}{2}(x + 40^\\circ)\\right] = f(x + 40^\\circ)$$\nThis represents a horizontal shift (translation) of $40^\\circ$ to the left.\n\n* $\\checkmark$ translation of $40^\\circ$\n* $\\checkmark$ to the left",
+    final_answer="\\text{Horizontal translation of } 40^\\circ\\text{ to the left}",
+    kind="question"
+)
+
+# ==========================================
+# QUESTION 7 (6 marks)
+# ==========================================
+
+add_item(
+    q_ref="7.1",
+    marks=2,
+    topic="Trigonometry - 2D & 3D Applications",
+    passage=PASSAGE_Q7,
+    question="Determine the distance $AB$ in terms of $h$.",
+    memo="In right-angled $\\Delta ABD$:\nSince the angle of depression from $A$ to $B$ is $30^\\circ$, $A\\hat{B}D = 30^\\circ$ [alternate interior angles, horizontal $\\parallel$ ground].\n$$\\sin 30^\\circ = \\frac{AD}{AB} = \\frac{h}{AB}$$\n$$AB = \\frac{h}{\\sin 30^\\circ} = \\frac{h}{\\frac{1}{2}} = 2h$$\n\nOR using $D\\hat{A}B = 60^\\circ$:\n$$\\cos 60^\\circ = \\frac{h}{AB} \\implies AB = \\frac{h}{\\cos 60^\\circ} = 2h$$\n\n* $\\checkmark A\\hat{B}D = 30^\\circ$ (or $D\\hat{A}B = 60^\\circ$)\n* $\\checkmark$ answer ($AB = 2h$)",
+    final_answer="AB = 2h",
+    kind="question"
+)
+
+add_item(
+    q_ref="7.2",
+    marks=4,
+    topic="Trigonometry - 2D & 3D Applications",
+    passage=PASSAGE_Q7,
+    question="Show that the distance between the strange object at point $B$ and the control room at point $C$ is given by $BC = h\\sqrt{25 - 24\\cos^2 x}$.",
+    memo="In $\\Delta ABC$, apply the cosine rule:\n$$BC^2 = AB^2 + AC^2 - 2(AB)(AC)\\cos B\\hat{A}C$$\nSubstitute $AB = 2h$, $AC = 3h$, and $B\\hat{A}C = 2x$:\n$$BC^2 = (2h)^2 + (3h)^2 - 2(2h)(3h)\\cos 2x$$\n$$BC^2 = 4h^2 + 9h^2 - 12h^2\\cos 2x$$\n$$BC^2 = 13h^2 - 12h^2\\cos 2x$$\nApply the double angle identity $\\cos 2x = 2\\cos^2 x - 1$:\n$$BC^2 = 13h^2 - 12h^2(2\\cos^2 x - 1)$$\n$$BC^2 = 13h^2 - 24h^2\\cos^2 x + 12h^2$$\n$$BC^2 = 25h^2 - 24h^2\\cos^2 x = h^2(25 - 24\\cos^2 x)$$\nTake the square root:\n$$BC = h\\sqrt{25 - 24\\cos^2 x}$$\n\n* $\\checkmark$ use of cosine rule in $\\Delta ABC$\n* $\\checkmark$ substitution of $AB=2h, AC=3h, B\\hat{A}C=2x$\n* $\\checkmark$ double angle identity: $\\cos 2x = 2\\cos^2 x - 1$\n* $\\checkmark$ simplification: $25h^2 - 24h^2\\cos^2 x$",
+    final_answer="BC = h\\sqrt{25 - 24\\cos^2 x}",
+    kind="question"
+)
+
+# ==========================================
+# QUESTION 8 (16 marks)
+# ==========================================
+
+add_item(
+    q_ref="8.1.1",
+    marks=2,
+    topic="Euclidean Geometry - Circle Theorems & Tangents",
+    passage=PASSAGE_Q8_1,
+    question="Calculate, with reasons, the size of $\\hat{P}$.",
+    memo="$\\hat{P} = \\hat{M}_1 = 66^\\circ$ [tangent-chord theorem / raaklyn-koordstelling]\n\n* $\\checkmark\\text{S } \\hat{P} = 66^\\circ$\n* $\\checkmark\\text{R [tan-chord theorem]}$",
+    final_answer="\\hat{P} = 66^\\circ",
+    kind="question"
+)
+
+add_item(
+    q_ref="8.1.2",
+    marks=2,
+    topic="Euclidean Geometry - Circle Theorems & Tangents",
+    passage=PASSAGE_Q8_1,
+    question="Calculate, with reasons, the size of $\\hat{M}_2$.",
+    memo="$P\\hat{M}N = 90^\\circ$ [$\\angle$ in semi-circle / $\\angle$ in halfsirkel, since $PON$ is diameter].\nTherefore, $\\hat{M}_2 = 90^\\circ$.\n\n* $\\checkmark\\text{S } \\hat{M}_2 = 90^\\circ$\n* $\\checkmark\\text{R [}\\angle\\text{ in semi-circle]}$",
+    final_answer="\\hat{M}_2 = 90^\\circ",
+    kind="question"
+)
+
+add_item(
+    q_ref="8.1.3",
+    marks=1,
+    topic="Euclidean Geometry - Circle Theorems & Tangents",
+    passage=PASSAGE_Q8_1,
+    question="Calculate, with reasons, the size of $\\hat{N}_1$.",
+    memo="In $\\Delta PMN$:\n$$\\hat{N}_1 = 180^\\circ - (90^\\circ + 66^\\circ) = 24^\\circ \\quad [\\text{sum of } \\angle\\text{s in } \\Delta PMN]$$\n\n* $\\checkmark\\text{S } \\hat{N}_1 = 24^\\circ$",
+    final_answer="\\hat{N}_1 = 24^\\circ",
+    kind="question"
+)
+
+add_item(
+    q_ref="8.1.4",
+    marks=2,
+    topic="Euclidean Geometry - Circle Theorems & Tangents",
+    passage=PASSAGE_Q8_1,
+    question="Calculate, with reasons, the size of $\\hat{O}_2$.",
+    memo="$\\hat{O}_2 = \\hat{P} = 66^\\circ$ [corresponding $\\angle$s / ooreenkomstige $\\angle$e, $PM \\parallel OR$]\n\n* $\\checkmark\\text{S } \\hat{O}_2 = 66^\\circ$\n* $\\checkmark\\text{R [corresponding } \\angle\\text{s, } PM \\parallel OR]$",
+    final_answer="\\hat{O}_2 = 66^\\circ",
+    kind="question"
+)
+
+add_item(
+    q_ref="8.1.5",
+    marks=3,
+    topic="Euclidean Geometry - Circle Theorems & Tangents",
+    passage=PASSAGE_Q8_1,
+    question="Calculate, with reasons, the size of $\\hat{N}_2$.",
+    memo="Method 1 (using isosceles $\\Delta RNO$):\nIn $\\Delta RNO$, $OR = ON$ [radii], so $\\hat{R} = O\\hat{N}R = \\hat{N}_1 + \\hat{N}_2$ [$\\angle$s opp equal sides / radii].\n$$\\hat{O}_2 + \\hat{R} + O\\hat{N}R = 180^\\circ \\quad [\\text{sum of } \\angle\\text{s in } \\Delta RNO]$$\n$$66^\\circ + 2(\\hat{N}_1 + \\hat{N}_2) = 180^\\circ$$\n$$2(24^\\circ + \\hat{N}_2) = 114^\\circ$$\n$$24^\\circ + \\hat{N}_2 = 57^\\circ$$\n$$\\hat{N}_2 = 57^\\circ - 24^\\circ = 33^\\circ$$\n\nOR Method 2 (using angle at centre):\n$$P\\hat{O}R = 180^\\circ - 66^\\circ = 114^\\circ \\quad [\\angle\\text{s on a straight line}]$$\n$$P\\hat{N}R = \\frac{1}{2} P\\hat{O}R = \\frac{1}{2}(114^\\circ) = 57^\\circ \\quad [\\angle \\text{ at centre } = 2 \\times \\angle \\text{ at circumference}]$$\n$$\\hat{N}_2 = P\\hat{N}R - \\hat{N}_1 = 57^\\circ - 24^\\circ = 33^\\circ$$\n\n* $\\checkmark\\text{S } \\hat{R} + \\hat{N}_1 + \\hat{N}_2 = 114^\\circ$ (or $P\\hat{O}R = 114^\\circ$)\n* $\\checkmark\\text{S/R } O\\hat{N}R = 57^\\circ$ [$\\angle$s opp equal radii] (or $P\\hat{N}R = 57^\\circ$ [$\\angle$ at centre])\n* $\\checkmark\\text{S } \\hat{N}_2 = 33^\\circ$",
+    final_answer="\\hat{N}_2 = 33^\\circ",
+    kind="question"
+)
+
+add_item(
+    q_ref="8.2.1",
+    marks=1,
+    topic="Euclidean Geometry - Proportionality & Parallel Lines",
+    passage=PASSAGE_Q8_2,
+    question="Explain why $FC \\parallel GH$.",
+    memo="In rectangle $ABCD$, opposite sides are parallel, so $DC \\parallel AB$, which means line $FC \\parallel AB$.\nSince it is given that $AB \\parallel GH$, lines parallel to the same line are parallel to each other:\n$$FC \\parallel AB \\parallel GH \\implies FC \\parallel GH$$\n\n* $\\checkmark\\text{R [opposite sides of rectangle are parallel, } DC \\parallel AB \\parallel GH]$",
+    final_answer="FC \\parallel AB \\text{ (opposite sides of rectangle } ABCD \\text{ are parallel) and } AB \\parallel GH \\implies FC \\parallel GH",
+    kind="question"
+)
+
+add_item(
+    q_ref="8.2.2",
+    marks=5,
+    topic="Euclidean Geometry - Proportionality Theorem",
+    passage=PASSAGE_Q8_2,
+    question="Calculate, with reasons, the length of $DM$.",
+    memo="In $\\Delta AGH$, since $FC \\parallel GH$:\n$$\\frac{AC}{CH} = \\frac{AF}{FG} \\quad [\\text{line } \\parallel \\text{ one side of } \\Delta \\text{ / proportionality theorem; } FC \\parallel GH]$$\n$$\\frac{AC}{21} = \\frac{20}{15}$$\n$$AC = \\frac{20 \\times 21}{15} = \\frac{420}{15} = 28\\text{ units}$$\nIn rectangle $ABCD$, the diagonals are equal in length:\n$$DB = AC = 28\\text{ units} \\quad [\\text{diagonals of rectangle are equal}]$$\nThe diagonals of a rectangle bisect each other at $M$:\n$$DM = \\frac{1}{2} DB = \\frac{1}{2}(28) = 14\\text{ units} \\quad [\\text{diagonals of rectangle bisect each other}]$$\n\n* $\\checkmark\\text{S } \\frac{AC}{CH} = \\frac{AF}{FG}$\n* $\\checkmark\\text{R [line } \\parallel \\text{ one side of } \\Delta \\text{ / prop theorem]}$\n* $\\checkmark AC = 28$\n* $\\checkmark\\text{S } DB = AC = 28$ [diagonals of rectangle equal]\n* $\\checkmark\\text{S } DM = 14$ [diagonals of rectangle bisect]",
+    final_answer="DM = 14",
+    kind="question"
+)
+
+# ==========================================
+# QUESTION 9 (16 marks)
+# ==========================================
+
+add_item(
+    q_ref="9.1",
+    marks=5,
+    topic="Euclidean Geometry - Theorem Proofs",
+    passage=PASSAGE_Q9_1,
+    question="In the diagram, $JKLM$ is a cyclic quadrilateral and the circle has centre $O$. Prove the theorem which states that $\\hat{J} + \\hat{L} = 180^\\circ$.",
+    memo="Construction: Draw radii $KO$ and $MO$.\n\nProof:\nLet reflex angle $\\hat{O}_1$ subtend arc $KLM$ facing $\\hat{J}$, and angle $\\hat{O}_2$ subtend arc $MJK$ facing $\\hat{L}$.\n$$\\hat{O}_1 = 2\\hat{L} \\quad [\\angle \\text{ at centre } = 2 \\times \\angle \\text{ at circumference}]$$\n$$\\hat{O}_2 = 2\\hat{J} \\quad [\\angle \\text{ at centre } = 2 \\times \\angle \\text{ at circumference}]$$\n$$\\hat{O}_1 + \\hat{O}_2 = 360^\\circ \\quad [\\angle\\text{s around a point}]$$\n$$2\\hat{L} + 2\\hat{J} = 360^\\circ$$\n$$2(\\hat{J} + \\hat{L}) = 360^\\circ$$\n$$\\therefore \\hat{J} + \\hat{L} = 180^\\circ$$\n\nOR letting $\\hat{J} = x$:\n$$\\hat{O}_1 = 2x \\quad [\\angle \\text{ at centre } = 2 \\times \\angle \\text{ at circumference}]$$\n$$\\hat{O}_2 = 360^\\circ - 2x \\quad [\\angle\\text{s around a point}]$$\n$$\\hat{L} = \\frac{1}{2}(360^\\circ - 2x) = 180^\\circ - x \\quad [\\angle \\text{ at centre } = 2 \\times \\angle \\text{ at circumference}]$$\n$$\\therefore \\hat{J} + \\hat{L} = x + (180^\\circ - x) = 180^\\circ$$\n\n* $\\checkmark$ construction (Draw $KO$ and $MO$)\n* $\\checkmark\\text{S/R } \\hat{O}_1 = 2\\hat{L}$ [$\\angle$ at centre $= 2 \\times \\angle$ at circum]\n* $\\checkmark\\text{S } \\hat{O}_2 = 2\\hat{J}$\n* $\\checkmark\\text{S/R } \\hat{O}_1 + \\hat{O}_2 = 360^\\circ$ [$\\angle$s around a point]\n* $\\checkmark\\text{S } \\hat{J} + \\hat{L} = 180^\\circ$",
+    final_answer="\\hat{J} + \\hat{L} = 180^\\circ",
+    kind="question"
+)
+
+add_item(
+    q_ref="9.2.1(a)",
+    marks=2,
+    topic="Euclidean Geometry - Circle Geometry & Cyclic Quadrilaterals",
+    passage=PASSAGE_Q9_2,
+    question="Name, giving a reason, another angle equal to $x$.",
+    memo="In the smaller circle $ABTS$:\n$\\hat{B}_1 = \\hat{A} = x$ [$\\angle$s in the same segment / $\\angle$e in dieselfde segment, subtended by chord $ST$]\n\n* $\\checkmark\\text{S } \\hat{B}_1$\n* $\\checkmark\\text{R [}\\angle\\text{s in same segment]}$",
+    final_answer="\\hat{B}_1 = x\\text{ [}\\angle\\text{s in the same segment]}",
+    kind="question"
+)
+
+add_item(
+    q_ref="9.2.1(b)",
+    marks=2,
+    topic="Euclidean Geometry - Circle Geometry & Cyclic Quadrilaterals",
+    passage=PASSAGE_Q9_2,
+    question="Name, giving a reason, another angle equal to $y$.",
+    memo="In the bigger circle $BDRT$:\n$\\hat{B}_2 = \\hat{R}_1 = y$ [exterior $\\angle$ of cyclic quad / buite$\\angle$ van koordevierhoek $BDRT$]\n\n* $\\checkmark\\text{S } \\hat{B}_2$\n* $\\checkmark\\text{R [exterior } \\angle\\text{ of cyclic quad]}$",
+    final_answer="\\hat{B}_2 = y\\text{ [exterior }\\angle\\text{ of cyclic quad } BDRT]",
+    kind="question"
+)
+
+add_item(
+    q_ref="9.2.2",
+    marks=3,
+    topic="Euclidean Geometry - Circle Geometry & Cyclic Quadrilaterals",
+    passage=PASSAGE_Q9_2,
+    question="Prove that $SCDB$ is a cyclic quadrilateral.",
+    memo="Method 1 (opposite angles of quadrilateral):\nIn $\\Delta ACR$:\n$$\\hat{C} = 180^\\circ - (\\hat{A} + \\hat{R}_1) = 180^\\circ - (x + y) \\quad [\\text{sum of } \\angle\\text{s in } \\Delta ACR]$$\nFrom Question 9.2.1(a) and 9.2.1(b):\n$$S\\hat{B}D = \\hat{B}_1 + \\hat{B}_2 = x + y$$\nNow sum opposite angles $S\\hat{B}D$ and $\\hat{C}$:\n$$S\\hat{B}D + \\hat{C} = (x + y) + [180^\\circ - (x + y)] = 180^\\circ$$\n$$\\therefore SCDB \\text{ is a cyclic quad } [\\text{converse opp } \\angle\\text{s of cyclic quad / omgekeerde teenoorst } \\angle\\text{e koordevh}]$$\n\nOR Method 2 (exterior angle equal to opposite interior angle):\n$$\\hat{S}_1 = \\hat{T}_2 \\quad [\\angle\\text{s in same segment in circle } ABTS]$$\n$$\\hat{T}_2 = B\\hat{D}R = \\hat{D}_1 + \\hat{D}_2 \\quad [\\text{exterior } \\angle \\text{ of cyclic quad } BDRT]$$\n$$\\therefore \\hat{S}_1 = B\\hat{D}R$$\n$$\\therefore SCDB \\text{ is a cyclic quad } [\\text{ext } \\angle \\text{ of quad } = \\text{ opp interior } \\angle]$$\n\n* $\\checkmark\\text{S } \\hat{C} = 180^\\circ - (x + y)$\n* $\\checkmark\\text{S } S\\hat{B}D + \\hat{C} = 180^\\circ$\n* $\\checkmark\\text{R [converse opp angles of cyclic quad]}$",
+    final_answer="S\\hat{B}D + \\hat{C} = 180^\\circ \\implies SCDB\\text{ is a cyclic quadrilateral [converse of opposite angles of cyclic quad]}",
+    kind="question"
+)
+
+add_item(
+    q_ref="9.2.3",
+    marks=4,
+    topic="Euclidean Geometry - Circle Geometry & Cyclic Quadrilaterals",
+    passage=PASSAGE_Q9_2,
+    question="It is further given that $\\hat{D}_2 = 30^\\circ$ and $A\\hat{S}T = 100^\\circ$. Prove that $SD$ is not a diameter of circle $BDS$.",
+    memo="In $\\Delta SCD$:\n$A\\hat{S}T$ is an exterior angle of $\\Delta SCD$ at vertex $S$ (since line segment $AST$ meets line $STD$):\n$$A\\hat{S}T = \\hat{C} + \\hat{D}_2 \\quad [\\text{exterior } \\angle \\text{ of } \\Delta SCD]$$\n$$100^\\circ = \\hat{C} + 30^\\circ$$\n$$\\hat{C} = 70^\\circ$$\nFrom Question 9.2.2, $SCDB$ is a cyclic quadrilateral:\n$$S\\hat{B}D = 180^\\circ - \\hat{C} = 180^\\circ - 70^\\circ = 110^\\circ \\quad [\\text{opposite } \\angle\\text{s of cyclic quad}]$$\nIf $SD$ were a diameter of circle $BDS$, it would subtend a right angle on the circumference, i.e., $S\\hat{B}D = 90^\\circ$ [$\\angle$ in semi-circle].\nSince $S\\hat{B}D = 110^\\circ \\ne 90^\\circ$, $SD$ does not subtend a $90^\\circ$ angle.\n$$\\therefore SD \\text{ is not a diameter of circle } BDS$$\n\n* $\\checkmark\\text{S } A\\hat{S}T = \\hat{C} + \\hat{D}_2$\n* $\\checkmark\\text{S } \\hat{C} = 70^\\circ$\n* $\\checkmark\\text{S } S\\hat{B}D = 110^\\circ$\n* $\\checkmark\\text{R } [S\\hat{B}D \\ne 90^\\circ \\implies SD \\text{ is not a diameter / line does not subtend a } 90^\\circ \\angle]$",
+    final_answer="S\\hat{B}D = 110^\\circ \\ne 90^\\circ \\implies SD \\text{ is not a diameter of circle } BDS \\text{ [an angle subtended by a diameter is } 90^\\circ]",
+    kind="question"
+)
+
+# ==========================================
+# QUESTION 10 (16 marks)
+# ==========================================
+
+add_item(
+    q_ref="10.1.1",
+    marks=5,
+    topic="Euclidean Geometry - Tangent Proofs & Tangent-Chord Converse",
+    passage=PASSAGE_Q10,
+    question="Prove that $MC$ is a tangent to the circle at $C$.",
+    memo="In $\\Delta ACB$:\n$$A\\hat{C}B = 90^\\circ \\quad [\\text{given } AC \\perp CB]$$\n$$\\hat{B} = x \\quad [\\text{given}]$$\n$$\\hat{A}_2 = 180^\\circ - (90^\\circ + x) = 90^\\circ - x \\quad [\\text{sum of } \\angle\\text{s in } \\Delta ACB]$$\n\nIn circle $ABCD$:\n$$\\hat{A}_1 = \\hat{A}_2 = 90^\\circ - x \\quad [\\text{equal chords subtend equal } \\angle\\text{s, } DC = CB]$$\n\nIn cyclic quadrilateral $ABCD$:\n$$\\hat{D}_2 = C\\hat{D}M = \\hat{B} = x \\quad [\\text{exterior } \\angle \\text{ of cyclic quad } ABCD]$$\n\nIn right-angled $\\Delta DCM$ ($AM \\perp MC \\implies A\\hat{M}C = 90^\\circ$):\n$$\\hat{C}_2 = M\\hat{C}D = 180^\\circ - (90^\\circ + \\hat{D}_2) = 90^\\circ - x \\quad [\\text{sum of } \\angle\\text{s in } \\Delta DCM]$$\n\nComparing $\\hat{C}_2$ and $\\hat{A}_1$:\n$$\\hat{C}_2 = \\hat{A}_1 = 90^\\circ - x$$\n$$\\therefore MC \\text{ is a tangent to the circle at } C \\quad [\\text{converse tangent-chord theorem / omgekeerde raaklyn-koordstelling}]$$\n\n* $\\checkmark\\text{S } \\hat{A}_1 = 90^\\circ - x$\n* $\\checkmark\\text{R [equal chords subtend equal } \\angle\\text{s]}$\n* $\\checkmark\\text{S/R } \\hat{D}_2 = x$ [exterior $\\angle$ of cyclic quad]\n* $\\checkmark\\text{S } \\hat{C}_2 = 90^\\circ - x$\n* $\\checkmark\\text{R [converse tan-chord theorem]}$",
+    final_answer="\\hat{C}_2 = \\hat{A}_1 = 90^\\circ - x \\implies MC \\text{ is a tangent to the circle at } C \\text{ [converse of the tan-chord theorem]}",
+    kind="question"
+)
+
+add_item(
+    q_ref="10.1.2",
+    marks=3,
+    topic="Euclidean Geometry - Similarity Proofs",
+    passage=PASSAGE_Q10,
+    question="Prove that $\\Delta ACB \\ |||\\ \\Delta CMD$.",
+    memo="In $\\Delta ACB$ and $\\Delta CMD$:\n1. $\\hat{B} = \\hat{D}_2 = x$ [proven in 10.1.1 / exterior $\\angle$ of cyclic quad]\n2. $A\\hat{C}B = C\\hat{M}D = 90^\\circ$ [given $AC \\perp CB$ and $AM \\perp MC$]\n3. $\\hat{A}_2 = \\hat{C}_2 = 90^\\circ - x$ [proven in 10.1.1 / third angle of triangle]\n$$\\therefore \\Delta ACB \\ |||\\ \\Delta CMD \\quad [\\angle, \\angle, \\angle]$$\n\n* $\\checkmark\\text{S } \\hat{B} = \\hat{D}_2 = x$\n* $\\checkmark\\text{S } A\\hat{C}B = C\\hat{M}D = 90^\\circ$ (or $\\hat{A}_2 = \\hat{C}_2 = 90^\\circ - x$)\n* $\\checkmark\\text{R } [\\angle, \\angle, \\angle]$",
+    final_answer="\\Delta ACB \\ |||\\ \\Delta CMD \\text{ [}\\angle, \\angle, \\angle\\text{]}",
+    kind="question"
+)
+
+add_item(
+    q_ref="10.2.1",
+    marks=6,
+    topic="Euclidean Geometry - Similarity & Proportion",
+    passage=PASSAGE_Q10,
+    question="Hence, or otherwise, prove that:\n$$\\frac{CM^2}{DC^2} = \\frac{AM}{AB}$$",
+    memo="From $\\Delta ACB \\ |||\\ \\Delta CMD$ (proven in Question 10.1.2):\n$$\\frac{BC}{MD} = \\frac{AB}{DC} = \\frac{AC}{MC} \\quad [\\text{corresponding sides in proportion}]$$\nSince $BC = DC$:\n$$\\frac{DC}{MD} = \\frac{AB}{DC} \\implies DC^2 = AB \\cdot MD \\quad \\dots (1)$$\n\nNow consider $\\Delta AMC$ and $\\Delta CMD$:\n- $A\\hat{M}C = C\\hat{M}D = 90^\\circ$ [$\\hat{M}$ is common right angle]\n- $M\\hat{A}C = M\\hat{C}D$ [$\\hat{A}_1 = \\hat{C}_2 = 90^\\circ - x$, proven in Question 10.1.1 / tan-chord theorem]\n- $A\\hat{C}M = C\\hat{D}M = x$ [third angle of triangle]\n$$\\therefore \\Delta AMC \\ |||\\ \\Delta CMD \\quad [\\angle, \\angle, \\angle]$$\nTherefore, corresponding sides are in proportion:\n$$\\frac{AM}{CM} = \\frac{CM}{MD} \\implies CM^2 = AM \\cdot MD \\quad \\dots (2)$$\n\nDivide equation (2) by equation (1):\n$$\\frac{CM^2}{DC^2} = \\frac{AM \\cdot MD}{AB \\cdot MD} = \\frac{AM}{AB}$$\n\n* $\\checkmark \\frac{BC}{MD} = \\frac{AB}{DC}$\n* $\\checkmark DC^2 = AB \\cdot MD$ (using $BC = DC$)\n* $\\checkmark\\text{S } \\Delta AMC \\ |||\\ \\Delta CMD$\n* $\\checkmark\\text{S } \\frac{AM}{CM} = \\frac{CM}{MD}$\n* $\\checkmark CM^2 = AM \\cdot MD$\n* $\\checkmark \\frac{CM^2}{DC^2} = \\frac{AM \\cdot MD}{AB \\cdot MD} = \\frac{AM}{AB}$",
+    final_answer="\\frac{CM^2}{DC^2} = \\frac{AM}{AB}",
+    kind="question"
+)
+
+add_item(
+    q_ref="10.2.2",
+    marks=2,
+    topic="Euclidean Geometry - Similarity & Trigonometric Applications",
+    passage=PASSAGE_Q10,
+    question="Hence, or otherwise, prove that:\n$$\\frac{AM}{AB} = \\sin^2 x$$",
+    memo="In right-angled $\\Delta CMD$ with $C\\hat{M}D = 90^\\circ$ and $C\\hat{D}M = x$:\n$$\\sin x = \\frac{\\text{opposite}}{\\text{hypotenuse}} = \\frac{CM}{DC}$$\nSquaring both sides:\n$$\\sin^2 x = \\frac{CM^2}{DC^2}$$\nFrom Question 10.2.1, $\\frac{CM^2}{DC^2} = \\frac{AM}{AB}$:\n$$\\therefore \\frac{AM}{AB} = \\sin^2 x$$\n\nOR using $\\Delta ABC$ and $\\Delta AMC$:\nIn right-angled $\\Delta ABC$: $\\sin x = \\frac{AC}{AB}$\nIn right-angled $\\Delta AMC$: $\\sin x = \\frac{AM}{AC}$\n$$\\sin^2 x = \\left(\\frac{AC}{AB}\\right)\\left(\\frac{AM}{AC}\\right) = \\frac{AM}{AB}$$\n\n* $\\checkmark$ trigonometric ratio: $\\sin x = \\frac{CM}{DC}$ (or $\\sin x = \\frac{AC}{AB}$ and $\\sin x = \\frac{AM}{AC}$)\n* $\\checkmark$ squaring and equating to $\\frac{AM}{AB}$",
+    final_answer="\\frac{AM}{AB} = \\sin^2 x",
+    kind="question"
+)
+
+# ==========================================
+# VERIFICATION & WRITING OUTPUT
+# ==========================================
+
+print(f"Total items generated: {len(items)}")
+total_marks = sum(it["marks"] for it in items)
+print(f"Total marks: {total_marks} (Expected: 150)")
+assert total_marks == 150, f"Marks mismatch: {total_marks} != 150"
+
+# Verify KaTeX balanced dollar signs
+for it in items:
+    for field in ["passage", "question", "memo", "final_answer"]:
+        text = it[field]
+        # Count non-escaped $ signs
+        single_dollars = re.findall(r'(?<!\\)\$', text)
+        if len(single_dollars) % 2 != 0:
+            print(f"ERROR: Unbalanced $ in item {it['item_id']} field {field}")
+            print(text)
+            raise ValueError(f"Unbalanced $ in item {it['item_id']} field {field}")
+
+print("All KaTeX dollar delimiters are perfectly balanced!")
+
+# Write dual output files
+out_path1 = "workspace/items/mathematics/dbe-mathematics-g12-p2-2018-nov.jsonl"
+out_path2 = "workspace/items/dbe-mathematics-g12-p2-2018-nov.jsonl"
+
+with open(out_path1, "w", encoding="utf-8") as f1, open(out_path2, "w", encoding="utf-8") as f2:
+    for it in items:
+        line = json.dumps(it, ensure_ascii=False)
+        f1.write(line + "\n")
+        f2.write(line + "\n")
+
+print(f"Successfully wrote {len(items)} items to:")
+print(f"  - {out_path1}")
+print(f"  - {out_path2}")

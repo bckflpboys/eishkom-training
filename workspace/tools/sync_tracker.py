@@ -115,18 +115,100 @@ def generate_tracker():
     
     wave3_ids = [
         "dbe-mathematics-g12-p1-2022-nov",
-        "dbe-mathematics-g12-p2-2022-nov",
         "dbe-physical_sciences-g12-p1-2022-nov",
+        "dbe-english_hl-g12-p1-2022-nov",
+        "dbe-afrikaans_hl-g12-p1-2022-nov",
+    ]
+
+    wave4_ids = [
+        "dbe-mathematics-g12-p2-2022-nov",
         "dbe-physical_sciences-g12-p2-2022-nov",
+        "dbe-english_fal-g12-p1-2022-nov",
+        "dbe-afrikaans_fal-g12-p1-2022-nov",
+    ]
+
+    wave5_ids = [
+        "dbe-mathematics-g12-p1-2021-nov",
+        "dbe-physical_sciences-g12-p1-2021-nov",
+        "dbe-english_hl-g12-p1-2021-nov",
+        "dbe-afrikaans_hl-g12-p1-2021-nov",
+    ]
+
+    wave6_ids = [
+        "dbe-mathematics-g12-p2-2021-nov",
+        "dbe-physical_sciences-g12-p2-2021-nov",
+        "dbe-english_fal-g12-p1-2021-nov",
+        "dbe-afrikaans_fal-g12-p1-2021-nov",
+    ]
+
+    wave7_ids = [
+        "dbe-mathematics-g12-p1-2020-nov",
+        "dbe-physical_sciences-g12-p1-2020-nov",
+        "dbe-english_hl-g12-p1-2020-nov",
+        "dbe-afrikaans_hl-g12-p1-2020-nov",
+    ]
+
+    wave8_ids = [
+        "dbe-mathematics-g12-p2-2020-nov",
+        "dbe-physical_sciences-g12-p2-2020-nov",
+        "dbe-english_fal-g12-p1-2020-nov",
+        "dbe-afrikaans_fal-g12-p1-2020-nov",
+    ]
+
+    wave9_ids = [
+        "dbe-mathematics-g12-p1-2019-nov",
+        "dbe-physical_sciences-g12-p1-2019-nov",
+        "dbe-english_hl-g12-p1-2019-nov",
+        "dbe-afrikaans_hl-g12-p1-2019-nov",
+    ]
+
+    wave10_ids = [
+        "dbe-mathematics-g12-p2-2019-nov",
+        "dbe-physical_sciences-g12-p2-2019-nov",
+        "dbe-english_fal-g12-p1-2019-nov",
+        "dbe-afrikaans_fal-g12-p1-2019-nov",
+    ]
+
+    wave11_ids = [
+        "dbe-mathematics-g12-p1-2018-nov",
+        "dbe-physical_sciences-g12-p1-2018-nov",
+        "dbe-english_hl-g12-p1-2018-nov",
+        "dbe-afrikaans_hl-g12-p1-2018-nov",
+    ]
+
+    wave12_ids = [
+        "dbe-mathematics-g12-p2-2018-nov",
+        "dbe-physical_sciences-g12-p2-2018-nov",
+        "dbe-english_fal-g12-p1-2018-nov",
+        "dbe-afrikaans_fal-g12-p1-2018-nov",
     ]
 
     # Status summary calculation
     w1_done = sum(1 for sid in wave1_ids if (info := inspect_items(sid, "")) and info["item_count"] > 0)
     w2_done = sum(1 for sid in wave2_ids if (info := inspect_items(sid, "")) and info["item_count"] > 0)
+    w3_done = sum(1 for sid in wave3_ids if (info := inspect_items(sid, "")) and info["item_count"] > 0)
+    w4_done = sum(1 for sid in wave4_ids if (info := inspect_items(sid, "")) and info["item_count"] > 0)
+    w5_done = sum(1 for sid in wave5_ids if (info := inspect_items(sid, "")) and info["item_count"] > 0)
+    w6_done = sum(1 for sid in wave6_ids if (info := inspect_items(sid, "")) and info["item_count"] > 0)
+    w7_done = sum(1 for sid in wave7_ids if (info := inspect_items(sid, "")) and info["item_count"] > 0)
+    w8_done = sum(1 for sid in wave8_ids if (info := inspect_items(sid, "")) and info["item_count"] > 0)
+    w9_done = sum(1 for sid in wave9_ids if (info := inspect_items(sid, "")) and info["item_count"] > 0)
+    w10_done = sum(1 for sid in wave10_ids if (info := inspect_items(sid, "")) and info["item_count"] > 0)
+    w11_done = sum(1 for sid in wave11_ids if (info := inspect_items(sid, "")) and info["item_count"] > 0)
+    w12_done = sum(1 for sid in wave12_ids if (info := inspect_items(sid, "")) and info["item_count"] > 0)
     
     w1_status = f"**{w1_done}/{len(wave1_ids)} COMPLETE**" if w1_done == len(wave1_ids) else f"**{w1_done}/{len(wave1_ids)} In Flight**"
     w2_status = f"**100% COMPLETE**" if w2_done == len(wave2_ids) else (f"**IN FLIGHT ({w2_done}/{len(wave2_ids)} Done)**" if w2_done > 0 else "**ASSIGNED / IN FLIGHT**")
-    w3_status = "**ACTIVE QUEUE**" if w2_done == len(wave2_ids) else "**QUEUED**"
+    w3_status = f"**100% COMPLETE**" if w3_done == len(wave3_ids) else (f"**IN FLIGHT ({w3_done}/{len(wave3_ids)} Done)**" if w3_done > 0 else "**ACTIVE PIPELINE**")
+    w4_status = f"**100% COMPLETE**" if w4_done == len(wave4_ids) else (f"**IN FLIGHT ({w4_done}/{len(wave4_ids)} Done)**" if w4_done > 0 else "**ACTIVE PIPELINE**")
+    w5_status = f"**100% COMPLETE**" if w5_done == len(wave5_ids) else (f"**IN FLIGHT ({w5_done}/{len(wave5_ids)} Done)**" if w5_done > 0 else "**ACTIVE PIPELINE**")
+    w6_status = f"**100% COMPLETE**" if w6_done == len(wave6_ids) else (f"**IN FLIGHT ({w6_done}/{len(wave6_ids)} Done)**" if w6_done > 0 else "**ACTIVE PIPELINE**")
+    w7_status = f"**100% COMPLETE**" if w7_done == len(wave7_ids) else (f"**IN FLIGHT ({w7_done}/{len(wave7_ids)} Done)**" if w7_done > 0 else "**ACTIVE QUEUE**")
+    w8_status = f"**100% COMPLETE**" if w8_done == len(wave8_ids) else (f"**IN FLIGHT ({w8_done}/{len(wave8_ids)} Done)**" if w8_done > 0 else "**ACTIVE QUEUE**")
+    w9_status = f"**100% COMPLETE**" if w9_done == len(wave9_ids) else (f"**IN FLIGHT ({w9_done}/{len(wave9_ids)} Done)**" if w9_done > 0 else "**ACTIVE QUEUE**")
+    w10_status = f"**100% COMPLETE**" if w10_done == len(wave10_ids) else (f"**IN FLIGHT ({w10_done}/{len(wave10_ids)} Done)**" if w10_done > 0 else "**ACTIVE QUEUE**")
+    w11_status = f"**100% COMPLETE**" if w11_done == len(wave11_ids) else (f"**IN FLIGHT ({w11_done}/{len(wave11_ids)} Done)**" if w11_done > 0 else "**ACTIVE QUEUE**")
+    w12_status = f"**100% COMPLETE**" if w12_done == len(wave12_ids) else (f"**IN FLIGHT ({w12_done}/{len(wave12_ids)} Done)**" if w12_done > 0 else "**ACTIVE QUEUE**")
 
     out = []
     out.append("# Eishkom AI — Universal Item Extraction Tracker & Queue")
@@ -144,8 +226,17 @@ def generate_tracker():
     out.append("| Metric | Status | Description |")
     out.append("|---|---|---|")
     out.append(f"| **Pilot Wave (Page 1)** | {w1_status} | 4/4 Core Subjects verified (Maths P1, Physics P2, English HL, Afrikaans HL) |")
-    out.append(f"| **Active Wave (Page 2)** | {w2_status} | Maths P2, Physics P1, English FAL P1, Afrikaans FAL P1 |")
-    out.append(f"| **Next Wave (Page 3)** | {w3_status} | Grade 12 Nov 2022 Core STEM |")
+    out.append(f"| **Wave 2 (Page 2)** | {w2_status} | 4/4 Core Subjects verified (Maths P2, Physics P1, English FAL P1, Afrikaans FAL P1) |")
+    out.append(f"| **Wave 3 (Page 3)** | {w3_status} | Maths P1, Physics P1, English HL P1, Afrikaans HL P1 (2022) |")
+    out.append(f"| **Wave 4 (Page 4)** | {w4_status} | Maths P2, Physics P2, English FAL P1, Afrikaans FAL P1 (2022) |")
+    out.append(f"| **Wave 5 (Page 5)** | {w5_status} | Maths P1, Physics P1, English HL P1, Afrikaans HL P1 (2021) |")
+    out.append(f"| **Wave 6 (Page 6)** | {w6_status} | Maths P2, Physics P2, English FAL P1, Afrikaans FAL P1 (2021) |")
+    out.append(f"| **Wave 7 (Page 7)** | {w7_status} | Maths P1, Physics P1, English HL P1, Afrikaans HL P1 (2020) |")
+    out.append(f"| **Wave 8 (Page 8)** | {w8_status} | Maths P2, Physics P2, English FAL P1, Afrikaans FAL P1 (2020) |")
+    out.append(f"| **Wave 9 (Page 9)** | {w9_status} | Maths P1, Physics P1, English HL P1, Afrikaans HL P1 (2019) |")
+    out.append(f"| **Wave 10 (Page 10)** | {w10_status} | Maths P2, Physics P2, English FAL P1, Afrikaans FAL P1 (2019) |")
+    out.append(f"| **Wave 11 (Page 11)** | {w11_status} | Maths P1, Physics P1, English HL P1, Afrikaans HL P1 (2018) |")
+    out.append(f"| **Wave 12 (Page 12)** | {w12_status} | Maths P2, Physics P2, English FAL P1, Afrikaans FAL P1 (2018) |")
     out.append(f"| **Total Extracted Items** | **{total_extracted_items} Items** | KaTeX formatted, UDVES standardized, atomic multiple choice |")
     out.append(f"| **Total Marks Accounted** | **{total_verified_marks} Marks** | 100% agreement with DBE official memorandums |")
     out.append(f"| **Quarantined Benchmark** | **{len(quarantined_records)} Papers** | Locked in `workspace/eval/` — 0% training contamination |")
@@ -213,21 +304,396 @@ def generate_tracker():
     out.append("")
     out.append("---")
     out.append("")
-    out.append("## 4. Page 3: Wave 3 (Upcoming Batch Queue)")
+    out.append("## 4. Page 3: Wave 3 (Grade 12 Nov 2022 Core STEM & Languages)")
     out.append("")
-    out.append("| Status | Source ID | Paired Memo ID | Subject | Expected Marks | Batch |")
-    out.append("|:---:|---|---|---|:---:|:---:|")
+    out.append("| Status | Source ID | Subject | Grade | Session | Items | Marks | KaTeX Errors | Flagged Review | Dual Mirror |")
+    out.append("|:---:|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|")
+    
+    expected_marks_map_w3 = {
+        "dbe-mathematics-g12-p1-2022-nov": 150,
+        "dbe-physical_sciences-g12-p1-2022-nov": 150,
+        "dbe-english_hl-g12-p1-2022-nov": 70,
+        "dbe-afrikaans_hl-g12-p1-2022-nov": 70,
+    }
+    
     for sid in wave3_ids:
         match = next((p for p in past_papers if p.get("source_id") == sid), None)
         if match:
-            pair_id = match.get("pair_with", "")
             subj = match.get("subject", "")
-            out.append(f"| [ ] | `{sid}` | `{pair_id}` | {subj} | 150 | Wave 3 |")
+            gr = match.get("grade", "")
+            yr = match.get("year", "")
+            exp_m = expected_marks_map_w3.get(sid, 150)
+            info = inspect_items(sid, subj)
+            if info and info["item_count"] > 0:
+                tick = "[x]"
+                cnt = info["item_count"]
+                mrk = info["total_marks"]
+                err = info["unclosed_katex"]
+                rev = info["needs_review"]
+                mir = "Yes" if info["has_mirror"] else "No"
+                out.append(f"| {tick} | `{sid}` | {subj} | Gr {gr} | {yr} Nov | **{cnt}** | **{mrk}/{exp_m}** | {err} | {rev} | {mir} |")
+            else:
+                out.append(f"| [ ] | `{sid}` | {subj} | Gr {gr} | {yr} Nov | - | -/{exp_m} | - | - | - |")
             
     out.append("")
     out.append("---")
     out.append("")
-    out.append("## 5. Evaluation Benchmark Quarantine (Held-Out)")
+    out.append("## 5. Page 4: Wave 4 (Grade 12 Nov 2022 Core STEM & FAL)")
+    out.append("")
+    out.append("| Status | Source ID | Subject | Grade | Session | Items | Marks | KaTeX Errors | Flagged Review | Dual Mirror |")
+    out.append("|:---:|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|")
+    
+    expected_marks_map_w4 = {
+        "dbe-mathematics-g12-p2-2022-nov": 150,
+        "dbe-physical_sciences-g12-p2-2022-nov": 150,
+        "dbe-english_fal-g12-p1-2022-nov": 80,
+        "dbe-afrikaans_fal-g12-p1-2022-nov": 80,
+    }
+    
+    for sid in wave4_ids:
+        match = next((p for p in past_papers if p.get("source_id") == sid), None)
+        if match:
+            subj = match.get("subject", "")
+            gr = match.get("grade", "")
+            yr = match.get("year", "")
+            exp_m = expected_marks_map_w4.get(sid, 150)
+            info = inspect_items(sid, subj)
+            if info and info["item_count"] > 0:
+                tick = "[x]"
+                cnt = info["item_count"]
+                mrk = info["total_marks"]
+                err = info["unclosed_katex"]
+                rev = info["needs_review"]
+                mir = "Yes" if info["has_mirror"] else "No"
+                out.append(f"| {tick} | `{sid}` | {subj} | Gr {gr} | {yr} Nov | **{cnt}** | **{mrk}/{exp_m}** | {err} | {rev} | {mir} |")
+            else:
+                out.append(f"| [ ] | `{sid}` | {subj} | Gr {gr} | {yr} Nov | - | -/{exp_m} | - | - | - |")
+            
+    out.append("")
+    out.append("---")
+    out.append("")
+    out.append("## 6. Page 5: Wave 5 (Grade 12 Nov 2021 Core Wave)")
+    out.append("")
+    out.append("| Status | Source ID | Subject | Grade | Session | Items | Marks | KaTeX Errors | Flagged Review | Dual Mirror |")
+    out.append("|:---:|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|")
+    
+    expected_marks_map_w5 = {
+        "dbe-mathematics-g12-p1-2021-nov": 150,
+        "dbe-physical_sciences-g12-p1-2021-nov": 150,
+        "dbe-english_hl-g12-p1-2021-nov": 70,
+        "dbe-afrikaans_hl-g12-p1-2021-nov": 70,
+    }
+    
+    for sid in wave5_ids:
+        match = next((p for p in past_papers if p.get("source_id") == sid), None)
+        if match:
+            subj = match.get("subject", "")
+            gr = match.get("grade", "")
+            yr = match.get("year", "")
+            exp_m = expected_marks_map_w5.get(sid, 150)
+            info = inspect_items(sid, subj)
+            if info and info["item_count"] > 0:
+                tick = "[x]"
+                cnt = info["item_count"]
+                mrk = info["total_marks"]
+                err = info["unclosed_katex"]
+                rev = info["needs_review"]
+                mir = "Yes" if info["has_mirror"] else "No"
+                out.append(f"| {tick} | `{sid}` | {subj} | Gr {gr} | {yr} Nov | **{cnt}** | **{mrk}/{exp_m}** | {err} | {rev} | {mir} |")
+            else:
+                out.append(f"| [ ] | `{sid}` | {subj} | Gr {gr} | {yr} Nov | - | -/{exp_m} | - | - | - |")
+            
+    out.append("")
+    out.append("---")
+    out.append("")
+    out.append("## 7. Page 6: Wave 6 (Grade 12 Nov 2021 Core STEM & FAL)")
+    out.append("")
+    out.append("| Status | Source ID | Subject | Grade | Session | Items | Marks | KaTeX Errors | Flagged Review | Dual Mirror |")
+    out.append("|:---:|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|")
+    
+    expected_marks_map_w6 = {
+        "dbe-mathematics-g12-p2-2021-nov": 150,
+        "dbe-physical_sciences-g12-p2-2021-nov": 150,
+        "dbe-english_fal-g12-p1-2021-nov": 80,
+        "dbe-afrikaans_fal-g12-p1-2021-nov": 80,
+    }
+    
+    for sid in wave6_ids:
+        match = next((p for p in past_papers if p.get("source_id") == sid), None)
+        if match:
+            subj = match.get("subject", "")
+            gr = match.get("grade", "")
+            yr = match.get("year", "")
+            exp_m = expected_marks_map_w6.get(sid, 150)
+            info = inspect_items(sid, subj)
+            if info and info["item_count"] > 0:
+                tick = "[x]"
+                cnt = info["item_count"]
+                mrk = info["total_marks"]
+                err = info["unclosed_katex"]
+                rev = info["needs_review"]
+                mir = "Yes" if info["has_mirror"] else "No"
+                out.append(f"| {tick} | `{sid}` | {subj} | Gr {gr} | {yr} Nov | **{cnt}** | **{mrk}/{exp_m}** | {err} | {rev} | {mir} |")
+            else:
+                out.append(f"| [ ] | `{sid}` | {subj} | Gr {gr} | {yr} Nov | - | -/{exp_m} | - | - | - |")
+
+    out.append("")
+    out.append("---")
+    out.append("")
+    out.append("## 8. Page 7: Wave 7 (Grade 12 Nov 2020 Core STEM & HL)")
+    out.append("")
+    out.append("| Status | Source ID | Subject | Grade | Session | Items | Marks | KaTeX Errors | Flagged Review | Dual Mirror |")
+    out.append("|:---:|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|")
+    
+    expected_marks_map_w7 = {
+        "dbe-mathematics-g12-p1-2020-nov": 150,
+        "dbe-physical_sciences-g12-p1-2020-nov": 150,
+        "dbe-english_hl-g12-p1-2020-nov": 70,
+        "dbe-afrikaans_hl-g12-p1-2020-nov": 70,
+    }
+    
+    for sid in wave7_ids:
+        match = next((p for p in past_papers if p.get("source_id") == sid), None)
+        if match:
+            subj = match.get("subject", "")
+            gr = match.get("grade", "")
+            yr = match.get("year", "")
+            exp_m = expected_marks_map_w7.get(sid, 150)
+            info = inspect_items(sid, subj)
+            if info and info["item_count"] > 0:
+                tick = "[x]"
+                cnt = info["item_count"]
+                mrk = info["total_marks"]
+                err = info["unclosed_katex"]
+                rev = info["needs_review"]
+                mir = "Yes" if info["has_mirror"] else "No"
+                out.append(f"| {tick} | `{sid}` | {subj} | Gr {gr} | {yr} Nov | **{cnt}** | **{mrk}/{exp_m}** | {err} | {rev} | {mir} |")
+            else:
+                out.append(f"| [ ] | `{sid}` | {subj} | Gr {gr} | {yr} Nov | - | -/{exp_m} | - | - | - |")
+
+    out.append("")
+    out.append("---")
+    out.append("")
+    out.append("## 9. Page 8: Wave 8 (Grade 12 Nov 2020 Core STEM & FAL)")
+    out.append("")
+    out.append("| Status | Source ID | Subject | Grade | Session | Items | Marks | KaTeX Errors | Flagged Review | Dual Mirror |")
+    out.append("|:---:|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|")
+    
+    expected_marks_map_w8 = {
+        "dbe-mathematics-g12-p2-2020-nov": 150,
+        "dbe-physical_sciences-g12-p2-2020-nov": 150,
+        "dbe-english_fal-g12-p1-2020-nov": 80,
+        "dbe-afrikaans_fal-g12-p1-2020-nov": 80,
+    }
+    
+    for sid in wave8_ids:
+        match = next((p for p in past_papers if p.get("source_id") == sid), None)
+        if match:
+            subj = match.get("subject", "")
+            gr = match.get("grade", "")
+            yr = match.get("year", "")
+            exp_m = expected_marks_map_w8.get(sid, 150)
+            info = inspect_items(sid, subj)
+            if info and info["item_count"] > 0:
+                tick = "[x]"
+                cnt = info["item_count"]
+                mrk = info["total_marks"]
+                err = info["unclosed_katex"]
+                rev = info["needs_review"]
+                mir = "Yes" if info["has_mirror"] else "No"
+                out.append(f"| {tick} | `{sid}` | {subj} | Gr {gr} | {yr} Nov | **{cnt}** | **{mrk}/{exp_m}** | {err} | {rev} | {mir} |")
+            else:
+                out.append(f"| [ ] | `{sid}` | {subj} | Gr {gr} | {yr} Nov | - | -/{exp_m} | - | - | - |")
+
+    out.append("")
+    out.append("---")
+    out.append("")
+    out.append("## 10. Page 9: Wave 9 (Grade 12 Nov 2019 Core STEM & HL)")
+    out.append("")
+    out.append("| Status | Source ID | Subject | Grade | Session | Items | Marks | KaTeX Errors | Flagged Review | Dual Mirror |")
+    out.append("|:---:|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|")
+    
+    expected_marks_map_w9 = {
+        "dbe-mathematics-g12-p1-2019-nov": 150,
+        "dbe-physical_sciences-g12-p1-2019-nov": 150,
+        "dbe-english_hl-g12-p1-2019-nov": 70,
+        "dbe-afrikaans_hl-g12-p1-2019-nov": 70,
+    }
+    
+    for sid in wave9_ids:
+        match = next((p for p in past_papers if p.get("source_id") == sid), None)
+        if match:
+            subj = match.get("subject", "")
+            gr = match.get("grade", "")
+            yr = match.get("year", "")
+            exp_m = expected_marks_map_w9.get(sid, 150)
+            info = inspect_items(sid, subj)
+            if info and info["item_count"] > 0:
+                tick = "[x]"
+                cnt = info["item_count"]
+                mrk = info["total_marks"]
+                err = info["unclosed_katex"]
+                rev = info["needs_review"]
+                mir = "Yes" if info["has_mirror"] else "No"
+                out.append(f"| {tick} | `{sid}` | {subj} | Gr {gr} | {yr} Nov | **{cnt}** | **{mrk}/{exp_m}** | {err} | {rev} | {mir} |")
+            else:
+                out.append(f"| [ ] | `{sid}` | {subj} | Gr {gr} | {yr} Nov | - | -/{exp_m} | - | - | - |")
+
+    out.append("")
+    out.append("---")
+    out.append("")
+    out.append("## 11. Page 10: Wave 10 (Grade 12 Nov 2019 Core STEM & FAL)")
+    out.append("")
+    out.append("| Status | Source ID | Subject | Grade | Session | Items | Marks | KaTeX Errors | Flagged Review | Dual Mirror |")
+    out.append("|:---:|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|")
+    
+    expected_marks_map_w10 = {
+        "dbe-mathematics-g12-p2-2019-nov": 150,
+        "dbe-physical_sciences-g12-p2-2019-nov": 150,
+        "dbe-english_fal-g12-p1-2019-nov": 80,
+        "dbe-afrikaans_fal-g12-p1-2019-nov": 80,
+    }
+    
+    for sid in wave10_ids:
+        match = next((p for p in past_papers if p.get("source_id") == sid), None)
+        if match:
+            subj = match.get("subject", "")
+            gr = match.get("grade", "")
+            yr = match.get("year", "")
+            exp_m = expected_marks_map_w10.get(sid, 150)
+            info = inspect_items(sid, subj)
+            if info and info["item_count"] > 0:
+                tick = "[x]"
+                cnt = info["item_count"]
+                mrk = info["total_marks"]
+                err = info["unclosed_katex"]
+                rev = info["needs_review"]
+                mir = "Yes" if info["has_mirror"] else "No"
+                out.append(f"| {tick} | `{sid}` | {subj} | Gr {gr} | {yr} Nov | **{cnt}** | **{mrk}/{exp_m}** | {err} | {rev} | {mir} |")
+            else:
+                out.append(f"| [ ] | `{sid}` | {subj} | Gr {gr} | {yr} Nov | - | -/{exp_m} | - | - | - |")
+
+    out.append("")
+    out.append("---")
+    out.append("")
+    out.append("## 12. Page 11: Wave 11 (Grade 12 Nov 2018 Core STEM & HL)")
+    out.append("")
+    out.append("| Status | Source ID | Subject | Grade | Session | Items | Marks | KaTeX Errors | Flagged Review | Dual Mirror |")
+    out.append("|:---:|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|")
+    
+    expected_marks_map_w11 = {
+        "dbe-mathematics-g12-p1-2018-nov": 150,
+        "dbe-physical_sciences-g12-p1-2018-nov": 150,
+        "dbe-english_hl-g12-p1-2018-nov": 70,
+        "dbe-afrikaans_hl-g12-p1-2018-nov": 70,
+    }
+    
+    for sid in wave11_ids:
+        match = next((p for p in past_papers if p.get("source_id") == sid), None)
+        if match:
+            subj = match.get("subject", "")
+            gr = match.get("grade", "")
+            yr = match.get("year", "")
+            exp_m = expected_marks_map_w11.get(sid, 150)
+            info = inspect_items(sid, subj)
+            if info and info["item_count"] > 0:
+                tick = "[x]"
+                cnt = info["item_count"]
+                mrk = info["total_marks"]
+                err = info["unclosed_katex"]
+                rev = info["needs_review"]
+                mir = "Yes" if info["has_mirror"] else "No"
+                out.append(f"| {tick} | `{sid}` | {subj} | Gr {gr} | {yr} Nov | **{cnt}** | **{mrk}/{exp_m}** | {err} | {rev} | {mir} |")
+            else:
+                out.append(f"| [ ] | `{sid}` | {subj} | Gr {gr} | {yr} Nov | - | -/{exp_m} | - | - | - |")
+
+    out.append("")
+    out.append("---")
+    out.append("")
+    out.append("## 13. Page 12: Wave 12 (Grade 12 Nov 2018 Core STEM & FAL)")
+    out.append("")
+    out.append("| Status | Source ID | Subject | Grade | Session | Items | Marks | KaTeX Errors | Flagged Review | Dual Mirror |")
+    out.append("|:---:|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|")
+    
+    expected_marks_map_w12 = {
+        "dbe-mathematics-g12-p2-2018-nov": 150,
+        "dbe-physical_sciences-g12-p2-2018-nov": 150,
+        "dbe-english_fal-g12-p1-2018-nov": 80,
+        "dbe-afrikaans_fal-g12-p1-2018-nov": 80,
+    }
+    
+    for sid in wave12_ids:
+        match = next((p for p in past_papers if p.get("source_id") == sid), None)
+        if match:
+            subj = match.get("subject", "")
+            gr = match.get("grade", "")
+            yr = match.get("year", "")
+            exp_m = expected_marks_map_w12.get(sid, 150)
+            info = inspect_items(sid, subj)
+            if info and info["item_count"] > 0:
+                tick = "[x]"
+                cnt = info["item_count"]
+                mrk = info["total_marks"]
+                err = info["unclosed_katex"]
+                rev = info["needs_review"]
+                mir = "Yes" if info["has_mirror"] else "No"
+                out.append(f"| {tick} | `{sid}` | {subj} | Gr {gr} | {yr} Nov | **{cnt}** | **{mrk}/{exp_m}** | {err} | {rev} | {mir} |")
+            else:
+                out.append(f"| [ ] | `{sid}` | {subj} | Gr {gr} | {yr} Nov | - | -/{exp_m} | - | - | - |")
+
+    all_wave_ids = set(
+        wave1_ids + wave2_ids + wave3_ids + wave4_ids + wave5_ids + wave6_ids +
+        wave7_ids + wave8_ids + wave9_ids + wave10_ids + wave11_ids + wave12_ids
+    )
+
+    out.append("")
+    out.append("---")
+    out.append("")
+    out.append("## 13. Page 13: May/June & 2025 Sessions (Recent Completions)")
+    out.append("")
+    out.append("| Status | Source ID | Subject | Grade | Session | Items | Marks | KaTeX Errors | Flagged Review | Dual Mirror |")
+    out.append("|:---:|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|")
+
+    additional_completed = [
+        (p, info) for p, info in completed_records
+        if p.get("source_id") not in all_wave_ids
+    ]
+    additional_completed.sort(key=lambda x: x[0].get("source_id", ""))
+
+    for p, info in additional_completed:
+        sid = p.get("source_id", "")
+        subj = p.get("subject", "")
+        gr = p.get("grade", "")
+        yr = p.get("year", "")
+        cnt = info["item_count"]
+        mrk = info["total_marks"]
+        err = info["unclosed_katex"]
+        rev = info["needs_review"]
+        mir = "Yes" if info["has_mirror"] else "No"
+        out.append(f"| [x] | `{sid}` | {subj} | Gr {gr} | {yr} | **{cnt}** | **{mrk}** | {err} | {rev} | {mir} |")
+
+    out.append("")
+    out.append("---")
+    out.append("")
+    out.append("## 14. Remaining Training Queue Overview")
+    out.append("")
+    out.append(f"> **Total Training Papers Remaining:** {len(pending_records)}")
+    out.append("")
+    by_subj = {}
+    for p, _ in pending_records:
+        s = p.get("subject", "other")
+        by_subj.setdefault(s, []).append(p)
+
+    out.append("| Subject Track | Pending Papers | Next Up in Pipeline |")
+    out.append("|---|:---:|---|")
+    for s, lst in sorted(by_subj.items()):
+        next_sids = ", ".join(f"`{x.get('source_id')}`" for x in lst[:3])
+        out.append(f"| **{s}** | {len(lst)} | {next_sids} |")
+
+    out.append("")
+    out.append("---")
+    out.append("")
+    out.append("## 15. Evaluation Benchmark Quarantine (Held-Out)")
     out.append("")
     out.append("> [!IMPORTANT]")
     out.append("> The following 17 papers are strictly locked in `workspace/eval/` and NEVER processed into training datasets:")

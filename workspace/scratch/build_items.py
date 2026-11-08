@@ -1,0 +1,875 @@
+import json
+import re
+import os
+
+source_id = "dbe-english_hl-g12-p1-2023-may"
+pair_source_id = "dbe-english_hl-g12-p1-2023-may-memo"
+subject = "english_hl"
+grade = 12
+language = "en"
+track = "languages_hl"
+licence = "DBE copyright - check terms"
+attribution = "Department of Basic Education"
+
+# Passages
+passage_text_a = """### LAUGHTER IN THE TIME OF A PANDEMIC
+– Adapted from theconversation.com
+
+1. Almost immediately after the first case of Covid-19 was confirmed in South Africa, the jokes started. From memes featuring bad puns to pictures of people posing with silly home-made protective gear, South Africans took to social media to make fun of the virus. This is not unusual for South Africans who make jokes about their many problems. From potholes to power blackouts – cartoonists never seem to have a shortage of material.
+
+2. Online jokes, memes and video clips are not peculiar to South Africa. The increased accessibility of a growing range of social media platforms and editing tools have made it possible for media users around the world to create and interact with news topics in ever more creative ways. Yet it is remarkable how, in a country like South Africa with its multitude of serious challenges, media users often take to jokes rather than despair when presented with a new problem.
+
+3. Why is humour so often the first port of call when South African media users find themselves in stormy seas? There may be various sociocultural, political and psychological reasons for this.
+
+4. There is an established body of academic literature about the important role of gossip, jokes, rumour and satire in African politics and societies. In his landmark article, historian and human rights activist Stephen Ellis described the phenomenon of 'pavement radio' – that can be found across Africa – as underpinned by the widespread oral tradition characteristic of these societies. Ellis defines this form of communication as the popular and unofficial discussion of current affairs. Unlike the mainstream media, pavement radio is not controlled by any identifiable individual, institution or group of people and is not to be mistaken for ordinary, unverified rumours or gossip. It performs a social and political function by covering subject matters of public interest where official information cannot be trusted or when an official announcement has not been made.
+
+5. Humour also helps build community. South African tabloids have established a fiercely loyal readership with stories of the supernatural, silly or absurd, alongside a strong commitment to the community interest. Tabloid readers integrate their newspaper reading practices with storytelling, sharing and communal interpretation of newspaper content. These practices illustrate how the conviviality$^1$ of African societies also influences their media use. Similarly, joking about the coronavirus may be a way for people to say, 'It is all very absurd, but we're in this together.'
+
+6. Pavement radio thrives when the mainstream media are tightly controlled by the authorities, or where there is widespread distrust of official narratives. During apartheid, alternative media and underground information networks often provided more trusted channels of communication than the compliant mainstream media. Although South Africans enjoy a much higher degree of media freedom than they used to, widespread corruption in post-apartheid South Africa has not done much to improve citizens' respect for official narratives.
+
+7. They know what it feels like to be lied to.
+
+8. Research shows that young South Africans in particular are distrustful of politicians and political institutions. The 'sceptical laughter' evoked by popular culture is a way of poking fun at authority, thereby undermining the power of politicians or big corporates.
+
+9. Laughter and humour could also be used as a coping mechanism. The news that the first confirmed Covid-19 patient had returned to South Africa from a ski holiday unleashed jokes about rich jetsetters becoming infected. This may be a way to take the sting out of racial inequality and economic hierarchies. Several jokes on Twitter named other threats as a reminder that, while Covid-19 is serious, other concerns should not be lost from sight. A jibe about the coronavirus having to show its proof of residence at the port of entry hinted at the high levels of violent xenophobia in South Africa. Humour in this context is a way of showing resilience and agency. The daily tally of the infected and dead can also be overwhelming. Given the other risks that South Africans have to contend with daily, making jokes about an added worry may help to take the sting out of the new, unknown threat.
+
+10. Unfortunately, the prevalence of jokes and satire can also spread misinformation. Research in Africa shows high levels of exposure to misinformation. This is a cause for concern during a Covid-19 pandemic. This is why it is important to take popular culture seriously. If we understand how people use media in their everyday life, or how they use humour to allay their fears, it is easier to find appropriate responses to those concerns. The fight against the 'infodemic' of misinformation cannot be won by only insisting on fact-checking and rational debate. In Africa, the role of humour and jokes in everyday popular culture is deadly serious.
+
+[Adapted from theconversation.com]
+
+**Glossary:**
+$^1$*conviviality* – to be celebratory/amicable"""
+
+passage_text_b = """### TEXT B: POLITICAL CARTOON
+[Source: jcom.sissa.it / ANA © MANGENA 21.04.2020]
+
+**Title banner:** "BETWEEN A ROCK AND A HARD PLACE"
+
+**Visual Description:**
+- **Central Figure:** An impoverished, distressed African woman is depicted standing in the middle ground, barefoot or wearing ragged shoes with split soles revealing her toes. Tears stream down her anguished face, and she carries a frightened, crying infant wrapped onto her back. In her hands, she holds out an empty begging bowl/plate prominently labeled **'THE POOR'**.
+- **Left Side:** A massive, towering wave/tsunami formed of numerous spiky, menacing coronavirus particles labeled **'COVID-19'** curls violently overhead, threatening to engulf and crush her.
+- **Right Side:** A looming Grim Reaper figure clad in a dark hooded robe labeled **'POVERTY & HUNGER'**. The Grim Reaper brandishes a tall scythe in one skeletal hand while tauntingly holding out a tied grocery/aid bag in the other, just out of reach.
+- **Background:** In the desolate landscape behind them, rows of Christian cross grave markers stretch across a bleak cemetery, symbolizing widespread death.
+- **Significance:** The cartoon captures the harrowing dilemma of the vulnerable poor in South Africa during the pandemic, trapped between the fatal threat of the Covid-19 virus on one side and deadly poverty and starvation on the other, with no safe refuge."""
+
+passage_text_a_and_b = f"""{passage_text_a}
+
+---
+
+{passage_text_b}"""
+
+passage_text_c = """### TEXT C: THE MYSTERIES OF THE TEENAGE BRAIN
+– Adapted from news24.com
+
+1. The passage between childhood and adulthood is notoriously challenging for teens who are striving for independence and for parents who have to relinquish some control, while still being responsible for their children's safety.
+
+2. Understanding what is happening to their child is the first step to navigating this life passage. Less obvious, but even more important to understand, is that the brain of teenagers is only about 80% complete by adolescence.
+
+3. Teenagers are wired for risk-taking and novelty, and reward-seeking. But the frontal and pre-frontal cortex, the parts of the brain responsible for executive functions, cause and effect, empathy and impulse control, are not fully connected until the mid-20s. This explains why an otherwise smart, capable teen can do something foolish in the moment. They lack the split-second decision-making ability that might warn them of possible danger.
+
+4. 'Teens are impressionable, which makes them absorb information easily. Their primary job is to learn, and studies suggest that their IQ scores increase in enriched environments,' says Dr Francis Jensen, a neuroscientist. But being so open also makes them susceptible to danger. In her opinion, the digital invasion has resulted in the most overstimulated generation in history. Their heightened reward centres will respond to good marks at school, but will also keep them hooked to 'likes' on their phones and to the repetition of playing and winning digital games.
+
+5. 'The teen brain can get addicted harder, faster and for longer than an adult brain, with permanent damage in some cases,' she says. 'But they're also at an age of self-discovery and identity-seeking, and respond well to scientific facts and data. Give them information. Tell them stories about teens who made bad decisions and got into trouble. Arm them to make sensible choices.'
+
+6. Cape Town clinical psychologist, Dr Aneta Shaw, points out that teen rebellion, withdrawal or a stubborn lack of communication is often the result of parents getting in the way, via preaching, knowing better or just wanting to be protective.
+
+7. 'Teens are in a period of preparation toward integrated behaviour and realistic goal-setting,' she says, 'and a parent's biggest role is to help them think things through and not think on their behalf.'
+
+[Adapted from news24.com]"""
+
+passage_text_d = """### TEXT D: PRINT ADVERTISEMENT
+[Source: behance.net]
+
+**Visual Description:**
+- A high-contrast black-and-white photograph features a close-up profile of a woman with her eyes gently closed in sensory delight and lips parted, about to savor a swirled confectionery lollipop held on a stick in her hand.
+- Above her, stylized sensory ripple rings radiate outward from a thought bubble containing the headline:
+  **"imagine tasting this ad..."**
+  Followed by the caption: **"You can with Direct Mail"**
+
+**Body Copy:**
+"Direct Mail is reality marketing at its best.  
+It is an opportunity for your customer to share real time with your brand. It can delight the eye, charm the taste buds and even tantalize the nose.  
+This is the medium with no remote control. You can't zap it, mute it or change the channel. It's not virtual, and can't disappear into cyberspace. Direct Mail is in front of you to experience.  
+Start building real client relationships affordably, in a one-on-one personal and measurable way.  
+Visit us at www.directmailcentre.co.za or call the Direct Mail Centre on 011 318 3390."
+
+**Slogan & Logos:**
+- Beside an illustration of a postal envelope: **"GET REAL. GET INTO DIRECT MAIL."**
+- Footer Left: **"Direct Mail Centre"** / *A division of the Post Office group*
+- Footer Right: **"Post Office"** / *We deliver, whatever it takes.* [South African Post Office logo]"""
+
+passage_text_e = """### TEXT E: COMIC STRIP – PEANUTS
+*featuring 'Good ol' Charlie Brown' by Schulz*  
+[Source: www.pinterest.com]
+
+*The boy's name is Charlie Brown. The girl's name is Lucy.*
+
+- **FRAME 1:** Charlie Brown sits concentrated at a small desk, pen in hand, diligently writing on a sheet of paper.
+- **FRAME 2:** Charlie Brown walks purposefully forward carrying his document, smiling proudly with a buoyant, determined expression.
+- **FRAME 3:** Charlie Brown approaches Lucy with a broad, beaming smile, holding his paper aloft and declaring:  
+  Charlie Brown: *"YOU'RE GOING TO BE PROUD OF ME, LUCY... I'VE DECIDED THAT THIS NEXT YEAR IS GOING TO BE MY YEAR OF DECISION!"*  
+  Lucy stands calmly with her hands clasped behind her back, listening.
+- **FRAME 4:** Close-up of Charlie Brown beaming with confident optimism, presenting the paper:  
+  Charlie Brown: *"THIS IS A LIST OF THINGS IN MY LIFE THAT I'M GOING TO CORRECT... I'M GOING TO BE A BETTER PERSON!"*
+- **FRAME 5:** Lucy reacts dramatically with eyes closed, throwing her arms out wide:  
+  Lucy: *"NOT ME... I'M GOING TO SPEND THIS WHOLE YEAR REGRETTING THE PAST... IT'S THE ONLY WAY, CHARLIE BROWN..."*  
+  Charlie Brown stops short, looking taken aback and puzzled.
+- **FRAME 6:** Lucy clasps her hands together and looks skyward in theatrical nostalgia, mouth downturned:  
+  Lucy: *"I'M GOING TO CRY OVER SPILT MILK, AND SIGH OVER LOST LOVES..."*  
+  Charlie Brown stares at her in disbelief, his mouth hanging open.
+- **FRAME 7:** Lucy casually shrugs with both hands open:  
+  Lucy: *"IT'S A LOT EASIER... IT'S TOO HARD TO IMPROVE... I TRIED IT ONCE... IT DROVE ME CRAZY..."*  
+  Charlie Brown gazes down at his list, his confidence slipping away.
+- **FRAME 8:** Lucy clutches both cheeks with her hands in dramatic anguish, head tilted back:  
+  Lucy: *"'FORGET THE FUTURE' IS MY MOTTO... REGRET THE PAST! OH, HOW I REGRET THE PAST!"*
+- **FRAME 9:** Lucy throws her arms high into the air in full theatrical lamentation:  
+  Lucy: *"WHY DID I DO THIS? WHY DID I DO THAT? WHY? I REGRET IT ALL!"*  
+  Charlie Brown stands motionless beside her, completely dumbfounded.
+- **FRAME 10:** Lucy drops to her knees and clutches her chest dramatically:  
+  Lucy: *"OH, WHAT REGRETS! WHAT REMORSE! WHAT ANGUISH! WHAT..."*  
+  Behind her, Charlie Brown is completely deflated; his shoulders sag, hands thrust into his pockets, eyes shut in total exhaustion, releasing a heavy: ***SIGH***."""
+
+passage_text_f = """### TEXT F: ARTICLE
+– Adapted from The Star
+
+**WHEN YOUR AIRBNB HOST CHARGES YOU FOR AIR**
+
+1. A TikToker with the username @papirice shared a video of a gadget they encountered while at an Airbnb.
+
+2. The video text read: 'When your Airbnb host charges you for air.' The digital screen with numbers that tick higher and higher the longer the aircon is on, is used to hold guests responsible and accountable for using the hosts aircon to control the temperature of the rented room.
+
+3. With over 427 000 views, the video managed to ruffle major feathers. 'Airbnb used to be cool but now it's just boomers trying to squeeze every penny out of vacationers,' a commentator with the username @drunktennis says.
+
+4. Over the years, hotel alternatives have boomed in popularity for being a more affordable option for travellers on a budget. With over 5,6 million active listings worldwide, Airbnb is filling a very important gap in the market. They offer rentals, perfect for flexible, adventure travellers looking for fuss-free bookings. These could be in the form of a home, apartment, condo, boat, tent, shared space or other property.
+
+[Adapted from The Star]"""
+
+items = [
+    # SECTION A: QUESTION 1
+    {
+        "item_id": f"{source_id}-1.1",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "1.1",
+        "marks": 2,
+        "topic": "Comprehension - Text A",
+        "passage": passage_text_a,
+        "question": "Refer to paragraph 1.\n\nWhat does the writer indicate about the behaviour of South Africans?",
+        "memo": "The response of a South African, is to lighten the tension through humour (1), when facing a crisis (1).\n\n[Award 1 mark for lifting.]",
+        "final_answer": "South Africans tend to use humour and make jokes to lighten the tension whenever they face a crisis or difficult situation.",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    },
+    {
+        "item_id": f"{source_id}-1.2",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "1.2",
+        "marks": 2,
+        "topic": "Comprehension - Text A",
+        "passage": passage_text_a,
+        "question": "Refer to paragraph 2.\n\nExplain how social media has influenced the way people engage with the news.",
+        "memo": "People have access to news around the world through social media platforms. (1) / Social media allows people to find interesting ways to comment on the news. (2)\n\n[Award 1 mark for lifting.]",
+        "final_answer": "Social media platforms and digital editing tools provide people with global access to news and enable them to interact with, create content around, and comment on current news topics in increasingly creative ways.",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    },
+    {
+        "item_id": f"{source_id}-1.3",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "1.3",
+        "marks": 2,
+        "topic": "Comprehension - Text A",
+        "passage": passage_text_a,
+        "question": "Refer to paragraph 3.\n\nSuggest why the writer starts the paragraph with a question.",
+        "memo": "The use of a question at the beginning of the paragraph introduces the writer's argument/engages the reader's interest.\n\n[Award 2 marks for one idea.]",
+        "final_answer": "The writer uses a rhetorical question to introduce the core argument of the essay and engage the reader's curiosity regarding why humour is South Africans' immediate reaction to adversity.",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    },
+    {
+        "item_id": f"{source_id}-1.4",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "1.4",
+        "marks": 3,
+        "topic": "Comprehension - Text A",
+        "passage": passage_text_a,
+        "question": "Refer to paragraph 4.\n\nComment on the writer's objectivity in his discussion of 'pavement radio'.",
+        "memo": "The writer presents a favourable (biased) view of 'pavement radio', where he suggests that it is an uncensored form of communication which challenges official information. This view ignores the possibility of misinformation being spread via unofficial channels.\n\nOR\n\nThe writer cites academic research on 'pavement radio' in the South African context which objectively presents this form of communication as an effective method of social and political commentary to counteract propaganda.\n\n[Award 3 marks only if a comment is made.]\n[Credit mixed responses.]",
+        "final_answer": "The writer displays bias by framing 'pavement radio' in an overly positive light as an authentic, uncensored social forum while neglecting the dangers of unverified rumour and misinformation; alternatively, he maintains objectivity by relying on established academic research (Stephen Ellis) to analyze its sociological and political significance.",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    },
+    {
+        "item_id": f"{source_id}-1.5",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "1.5",
+        "marks": 3,
+        "topic": "Comprehension - Text A",
+        "passage": passage_text_a,
+        "question": "Refer to paragraph 5.\n\nDiscuss the effect humour has on community building.",
+        "memo": "Humour helps to build the community through integrating the traditional practices of storytelling and the communal interpretation of the narratives into the creation of humour. This practice unifies people in their common experience of enduring stressful situations.\n\n[Award 3 marks for two ideas well-discussed.]",
+        "final_answer": "Humour fosters community building by drawing on traditional oral storytelling and communal interpretation, uniting people through a shared sense of conviviality and solidarity ('we're in this together') during stressful national crises.",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    },
+    {
+        "item_id": f"{source_id}-1.6",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "1.6",
+        "marks": 3,
+        "topic": "Comprehension - Text A",
+        "passage": passage_text_a,
+        "question": "Refer to paragraph 6.\n\nDiscuss how the diction in this paragraph conveys the writer's attitude toward mainstream media.",
+        "memo": "The diction conveys the writer's distrust of the mainstream media. He refers to it as tainted: it is 'tightly controlled' by the authorities and 'compliant' which causes 'widespread distrust'. 'Widespread corruption' limits the credibility of the mainstream media and so generates a lack of respect on the part of the citizens.\n\n[Award 1 mark for identification of attitude and 2 marks for any ONE example of diction well-discussed.]",
+        "final_answer": "The writer's attitude is skeptical and distrustful. Diction such as 'tightly controlled' and 'compliant' portrays mainstream media as passive instruments of authority that compromise their integrity and forfeit public trust.",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    },
+    {
+        "item_id": f"{source_id}-1.7",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "1.7",
+        "marks": 3,
+        "topic": "Comprehension - Text A",
+        "passage": passage_text_a,
+        "question": "Comment critically on the impact of paragraph 7 on the reader.",
+        "memo": "The paragraph underscores the writer's argument that the people were easily manipulated by mainstream media. It is a concise assertion that draws the reader in by showing empathy with the common plight of the man in the street/there is a distrust of official channels and humour is used as an antidote to disturbing issues.\n\n[Award 1 mark for impact and 2 marks only if a critical comment is made.]\n[Credit valid alternative responses.]",
+        "final_answer": "Standing alone as an abrupt, single-sentence paragraph ('They know what it feels like to be lied to.'), it creates a stark, powerful emotional resonance with the reader. It emphasizes historical betrayal, directly validating the citizens' deep-seated cynicism and explaining why they turn to satirical humour as a coping mechanism.",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    },
+    {
+        "item_id": f"{source_id}-1.8",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "1.8",
+        "marks": 3,
+        "topic": "Comprehension - Text A",
+        "passage": passage_text_a,
+        "question": "Refer to paragraph 10.\n\nAssess the validity of the writer's conclusion.",
+        "memo": "The conclusion is valid as the writer cautions us that we need to take 'pavement' media seriously. He further recommends that an understanding of this culture and how it functions will enable us to address the current problems more effectively. He ends off with the paradox that humour and jokes are actually deadly serious which suggests their immense impact as well as the serious issues they are addressing.\n\n[Award 3 marks only if two valid aspects are discussed.]\n[Credit valid alternative responses.]",
+        "final_answer": "The conclusion is valid because the writer astutely argues that combating misinformation requires understanding the cultural and psychological roles of everyday humour rather than merely relying on sterile fact-checking. The closing paradox—that humour in Africa is 'deadly serious'—effectively underscores the profound social gravity beneath comedic expression.",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    },
+    {
+        "item_id": f"{source_id}-1.9",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "1.9",
+        "marks": 2,
+        "topic": "Comprehension - Text B",
+        "passage": passage_text_b,
+        "question": "How does the depiction of the woman evoke sympathy?",
+        "memo": "The woman is depicted as suffering hardship/being trapped by deadly forces/looking anxious/holding a begging bowl in her hand/carrying a baby on her back/wearing broken shoes/crying. These reveal her poverty and vulnerability.\n\n[Award 2 marks for two distinct points.]\n[Credit reference to the position of the woman in the cartoon.]",
+        "final_answer": "Sympathy is evoked by her visible distress—tears streaming down her face, carrying a crying baby on her back, wearing worn clothes and broken shoes with split soles—and her desperate gesture of holding an empty begging bowl labeled 'THE POOR' while trapped between lethal threats.",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    },
+    {
+        "item_id": f"{source_id}-1.10",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "1.10",
+        "marks": 3,
+        "topic": "Comprehension - Text B",
+        "passage": passage_text_b,
+        "question": "Comment on how the visual and verbal cues convey the message of the cartoon.",
+        "memo": "The poor character is hemmed in by the looming monster made up of Covid-19 viruses and the figure of the grim reaper (poverty and hunger) with outstretched arms and a scythe. The cemetery in the background represents death. These threats suggest that her situation is hopeless and she is caught between 'a rock and a hard place'. This captures the cartoonist's message that there is no way out of her dire situation.\n\n[Award 3 marks only if both the visual and verbal cues are commented on.]",
+        "final_answer": "The verbal idiom 'BETWEEN A ROCK AND A HARD PLACE' perfectly aligns with the visual cues: the central vulnerable woman labeled 'THE POOR' is trapped between a towering tidal wave of spiky 'COVID-19' viral particles and the Grim Reaper labeled 'POVERTY & HUNGER' armed with a scythe, backed by graves. Together, these cues vividly communicate that the impoverished have no escape from mortal danger.",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    },
+    {
+        "item_id": f"{source_id}-1.11",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "1.11",
+        "marks": 4,
+        "topic": "Comprehension - Texts A and B",
+        "passage": passage_text_a_and_b,
+        "question": "Critically discuss the extent to which TEXT B reinforces the writer's views presented in paragraph 9 of TEXT A.",
+        "memo": "Paragraph 9 of Text A highlights the trauma and stresses caused by Covid-19/racial and socio-economic inequalities. In Text B, the crises of poverty and hunger are presented alongside the deadly Covid-19 pandemic. 'The daily tally of the infected and dead' referred to in Text A, is represented by the cemetery in Text B. Text B depicts the seriousness of the situation in a graphic manner.\n\nOR\n\nParagraph 9 of Text A discusses how humour is used as 'a coping mechanism' for removing the 'sting' of the problems caused by Covid-19/racial and socio-economic inequalities. However, Text B foregrounds the pain and suffering caused by Covid-19; it does not use humour as 'a coping mechanism'. Text B shows that there is nothing humorous that could alleviate the sense of anguish or diminish the harrowing situation which is represented.\n\n[Award 4 marks only if the candidate has made reference to both paragraph 9 of Text A and Text B.]\n[Credit a mixed response.]",
+        "final_answer": "Text B reinforces paragraph 9 by graphically depicting how Covid-19 worsens pre-existing socio-economic inequalities ('poverty and hunger') and deadly daily perils (the graveyard). Alternatively, Text B contrasts with paragraph 9's assertion that humour serves as a coping mechanism to 'take the sting out' of crisis; Text B contains no comedic relief, illustrating instead unmitigated agony, terror, and despair.",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    },
+
+    # SECTION B: QUESTION 2
+    {
+        "item_id": f"{source_id}-2",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "2",
+        "marks": 10,
+        "topic": "Summary",
+        "passage": passage_text_c,
+        "question": "TEXT C discusses the mysteries of the teenage brain. Summarise, in your own words, how parents can better understand their teenage child.\n\nNOTE:\n1. Your summary should include SEVEN points and NOT exceed 90 words.\n2. You must write a fluent paragraph.\n3. You are NOT required to include a title for the summary.\n4. Indicate your word count at the end of your summary.",
+        "memo": """Use the following main points that the candidate should include in the summary as a guideline.
+Any 7 valid points are to be credited in paragraph-form.
+(Sentences and/or sentence fragments must be coherent.)
+
+**Point Quotations and Own Words:**
+1. *'Less obvious, but more important is to understand that the brain of teenagers is only about 80% complete by adolescence.'* -> Teenagers do not have a fully developed brain.
+2. *'Teenagers are wired for risk-taking, novelty and reward-seeking.'* -> Teenagers engage in risky behaviour.
+3. *'But the frontal and pre-frontal cortex, the parts of the brain responsible for executive functions, cause and effect, empathy and impulse control, are not fully connected until the mid-20s.'* -> Key areas of the brain which control actions, understanding and impulsivity are undeveloped until young adulthood.
+4. *'They lack the split-second decision-making ability that might warn them of possible danger.'* -> They are unable to act decisively in a tricky situation.
+5. *'Teens are impressionable which makes them absorb information easily.'* -> Teenagers are impressionable and are more receptive to information.
+6. *'But being so open also makes them susceptible to danger.'* -> Their lack of discernment makes teenagers vulnerable.
+7. *'… the digital invasion has resulted in the most overstimulated generation in history. Their heightened reward centres will respond to good marks at school, but will also keep them hooked to ‘likes’ on their phones and to the repetition of playing and winning digital games.'* -> Teenagers respond positively to rewards due to the influence of the digital age.
+8. *'The teen brain can get addicted harder, faster and for longer than an adult brain, with permanent damage in some cases.'* -> Teenagers are prone to harmful, addictive tendencies.
+9. *'But they're also at an age of self-discovery and identity-seeking, and respond well to scientific facts and data.'* -> Teenagers are drawn to scientific information, on their journey of self-discovery and identity-seeking.
+10. *'… teen rebellion, withdrawal, or a stubborn lack of communication is often the result of parents getting in the way via preaching, knowing better, or just wanting to be protective.'* -> Parents who are overbearing cause rebellious behaviour from their teenager.
+11. *'Teens are in a period of preparation towards integrated behaviour and realistic goal setting.'* -> Teenagers are being prepared for the real world.
+
+**Mark Allocation:**
+* $\\checkmark$ 7 marks for 7 points (1 mark per main point)
+* $\\checkmark$ 3 marks for language
+* Total marks: 10
+
+**Distribution of language marks when candidate has not quoted verbatim:**
+* 1–3 points correct: award 1 mark
+* 4–5 points correct: award 2 marks
+* 6–7 points correct: award 3 marks
+
+**Distribution of language marks when candidate has quoted verbatim:**
+* 6–7 quotations: award 0 language marks
+* 4–5 quotations: award 1 language mark
+* 2–3 quotations: award 2 language marks""",
+        "final_answer": "Parents must realize that the adolescent brain is not fully developed, leaving teenagers wired for risk-taking and lacking impulse control. Because key brain areas mature only in their mid-twenties, teens struggle with split-second danger assessments. Although impressionable and receptive to facts during identity-seeking, their heightened reward centers increase vulnerability to digital addiction. Finally, parents should recognize that overbearing lecturing triggers rebellion, as adolescents require supportive guidance to think independently rather than having decisions made on their behalf. (83 words)",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    },
+
+    # SECTION C: QUESTION 3 (ADVERTISING)
+    {
+        "item_id": f"{source_id}-3.1",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "3.1",
+        "marks": 2,
+        "topic": "Advertising",
+        "passage": passage_text_d,
+        "question": "Describe the service being advertised.",
+        "memo": "It is a mail service that delivers post directly to clients./It is a mail service that distributes promotional material.\n\n[Award 1 mark for the correct identification of the service and 1 mark for the description.]",
+        "final_answer": "It is a direct postal marketing service that delivers physical promotional advertising and brand materials straight to individual customers.",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    },
+    {
+        "item_id": f"{source_id}-3.2",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "3.2",
+        "marks": 3,
+        "topic": "Advertising",
+        "passage": passage_text_d,
+        "question": "Comment on the advertiser's claim about Direct Mail in:\n\n'This is the medium with no remote control. You can't zap it, mute it or change the channel.'",
+        "memo": "The advertiser claims that advertising on a screen can be easily ignored by the viewer. However, direct mail is compelling and cannot be cast aside/ignored. This makes it a more aggressive/bolder medium of advertising and hence more effective.\n\n[Award 3 marks only if a comment is made.]",
+        "final_answer": "The advertiser asserts that unlike broadcast and digital media—which viewers can effortlessly skip, mute, or turn off—direct physical mail physically confronts the customer, requiring tangible attention and engagement, making it a more impactful advertising channel.",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    },
+    {
+        "item_id": f"{source_id}-3.3",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "3.3",
+        "marks": 3,
+        "topic": "Advertising",
+        "passage": passage_text_d,
+        "question": "In your view, does the visual image effectively convey the message of the advertisement? Justify your response.",
+        "memo": """YES
+The advertiser is encouraging the consumer to use direct marketing to advertise as it promotes immediate marketing in real time. The woman in the picture is enjoying the experience one can have as a benefit of direct marketing ('in a one-on-one personal and measurable way'). The lollipop is foregrounded/is the focal point of the advertisement. The thought bubbles invite/entice the reader to 'imagine' the sensory experience as well.
+
+OR
+
+NO
+The image has no direct relationship with the advertiser or the service being offered. Sweets are universally desirable and anticipated whereas the products which could be distributed via the Post Office's direct mail, could be spam or irrelevant to the customer, and so immediately discarded. There is no guarantee that the customer will be more engaged through this service than through electronic marketing.
+
+[Award 3 marks only if the candidate refers to both the visual image and the message of the advertisement.]
+[Credit a mixed response.]""",
+        "final_answer": "YES: The focal image of the woman tasting a lollipop visually supports the text's sensory promise ('charm the taste buds', 'tantalize the nose'), showing that physical direct mail creates a tangible, sensory connection that digital media cannot replicate. / NO: A sweet treat is misleading because postal mail predominantly consists of unwanted junk paper or bills rather than appetizing confections, which recipients often throw away immediately.",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    },
+    {
+        "item_id": f"{source_id}-3.4",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "3.4",
+        "marks": 1,
+        "topic": "Advertising / Punctuation",
+        "passage": passage_text_d,
+        "question": "What is the function of the ellipsis in 'imagine tasting this ad ...'?",
+        "memo": "The ellipsis is used to indicate ongoing thought/stimulate the imagination. (1)",
+        "final_answer": "To indicate a pause for thought, prompting the reader to reflect and stimulate their imagination.",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    },
+    {
+        "item_id": f"{source_id}-3.5",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "3.5",
+        "marks": 1,
+        "topic": "Grammar / Sentence Structure",
+        "passage": passage_text_d,
+        "question": "Give a suitable subject for this sentence without changing its meaning:\n\n'Start building real client relationships affordably, in a one-on-one personal and measurable way.'",
+        "memo": "You (can)/He (can)/She (can)/We (can)/They (can)/One (can)/\nA customer (can)/Customers (can)\n\n[Credit the use of a person's name.]\n[Accept valid alternative responses.] (1)",
+        "final_answer": "You",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    },
+
+    # SECTION C: QUESTION 4 (CARTOON)
+    {
+        "item_id": f"{source_id}-4.1",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "4.1",
+        "marks": 2,
+        "topic": "Cartoons",
+        "passage": passage_text_e,
+        "question": "Explain how Charlie Brown's mood is conveyed in FRAME 3.",
+        "memo": "Charlie Brown is happy/self-assured/excited as shown by his jaunty step/beaming smile/desire to change/outstretched arm showing the note/spoken words (‘PROUD OF ME’/‘MY YEAR OF DECISION’). (2)\n\n[Award 1 mark for the mood and 1 mark for an explanation.]",
+        "final_answer": "Charlie Brown's mood is cheerful, confident, and optimistic, conveyed by his wide beaming smile, energetic posture, and enthusiastic exclamation that the upcoming year will be his 'YEAR OF DECISION'.",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    },
+    {
+        "item_id": f"{source_id}-4.2",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "4.2",
+        "marks": 3,
+        "topic": "Cartoons",
+        "passage": passage_text_e,
+        "question": "Refer to FRAMES 4–6.\n\nDiscuss both characters' viewpoints with reference to the cartoonist's depiction of them.",
+        "memo": "In FRAME 4, Charlie's viewpoint is that he is committed to being a better and more decisive person. This is shown by his self-satisfied smile and bold stance. The cartoonist places him in a frame of his own. Lucy, by contrast, has chosen to wallow in self-pity and regret. This is indicated by her despairing look and outstretched arms, in FRAME 5. This decision is further highlighted in FRAME 6 by her downturned mouth and folded arms. Her verbal retort ('I'm going to cry over spilt milk') reinforces this view. (3)\n\n[Award 3 marks only if reference is made to the viewpoints and depiction of both characters.]",
+        "final_answer": "In Frame 4, Charlie Brown's viewpoint is focused on future self-improvement and positive change, depicted isolated in his own frame with a hopeful smile and proudly holding up his list of corrections. Conversely, in Frames 5–6, Lucy's cynical viewpoint rejects change in favor of dwelling on past regrets; she is shown theatrically throwing her arms wide in despair and looking mournfully upward with folded arms, resolving to 'cry over spilt milk'.",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    },
+    {
+        "item_id": f"{source_id}-4.3",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "4.3",
+        "marks": 3,
+        "topic": "Cartoons",
+        "passage": passage_text_e,
+        "question": "Comment critically on the effectiveness of FRAME 10, in the context of the cartoon.",
+        "memo": """Despite Charlie's initial optimism in the introductory frames, in FRAME 10, he abandons his decision to be a better person after being defeated by Lucy's fatalistic attitude. Charlie is unable to convince himself or Lucy by the end of the cartoon. His weakness adds to the anti-climax of the final frame.
+
+OR
+
+Charlie asks for validation from Lucy in FRAME 3, but is side-lined by Lucy's dominant and opinionated/self-absorbed personality. This leads to the ironic conclusion that Charlie becomes a victim of his own question and discards the paper in defeat.
+
+[Award 3 marks only if a critical comment is provided.] (3)""",
+        "final_answer": "Frame 10 provides a poignant, humorous anti-climax: Lucy's theatrical hysteria ('OH, WHAT REGRETS! WHAT REMORSE!') utterly overwhelms Charlie Brown's earnest optimism, leaving him drooping with shoulders hunched, hands in his pockets, and emitting a weary '*SIGH*', highlighting how easily his fragile resolve is dismantled by her dominant cynicism.",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    },
+    {
+        "item_id": f"{source_id}-4.4",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "4.4",
+        "marks": 2,
+        "topic": "Reported Speech",
+        "passage": passage_text_e,
+        "question": "Refer to FRAME 5.\n\nRewrite the following sentence in indirect speech:\n\nLucy said, 'I'm going to spend this whole year regretting the past.'",
+        "memo": "Lucy said (that) she was (1) going to spend that (1) whole year regretting the past. (2)",
+        "final_answer": "Lucy said that she was going to spend that whole year regretting the past.",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    },
+
+    # SECTION C: QUESTION 5 (USING LANGUAGE CORRECTLY)
+    {
+        "item_id": f"{source_id}-5.1",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "5.1",
+        "marks": 1,
+        "topic": "Grammar / Pronoun Agreement",
+        "passage": passage_text_f,
+        "question": "Rewrite the first sentence (paragraph 1) so that it is grammatically correct.",
+        "memo": "A TikToker with the username @papirice shared a video of a gadget she/he encountered while at an Airbnb.\n\nOR\n\nA TikToker with the username @papirice shared a video of a gadget encountered while at an Airbnb. (1)",
+        "final_answer": "A TikToker with the username @papirice shared a video of a gadget he/she encountered while at an Airbnb.",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    },
+    {
+        "item_id": f"{source_id}-5.2",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "5.2",
+        "marks": 1,
+        "topic": "Punctuation / Apostrophe",
+        "passage": passage_text_f,
+        "question": "Refer to lines 3–6: 'The digital screen … the rented room.'\n\nCorrect the single punctuation error in the above sentence.",
+        "memo": "host's / hosts' (1)",
+        "final_answer": "host's (or hosts')",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    },
+    {
+        "item_id": f"{source_id}-5.3",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "5.3",
+        "marks": 1,
+        "topic": "Parts of Speech / Suffixes",
+        "passage": passage_text_f,
+        "question": "Using a suffix, change the word 'digital' (line 3) to an adverb.",
+        "memo": "digitally (1)",
+        "final_answer": "digitally",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    },
+    {
+        "item_id": f"{source_id}-5.4",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "5.4",
+        "marks": 1,
+        "topic": "Vocabulary / Abbreviations",
+        "passage": passage_text_f,
+        "question": "Write the word 'aircon' (line 4) out in full.",
+        "memo": "air conditioner / air conditioning (1)",
+        "final_answer": "air conditioner (or air conditioning)",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    },
+    {
+        "item_id": f"{source_id}-5.5",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "5.5",
+        "marks": 1,
+        "topic": "Grammar / Degrees of Comparison",
+        "passage": passage_text_f,
+        "question": "Provide the superlative form of 'accountable' (line 5).",
+        "memo": "most accountable (1)",
+        "final_answer": "most accountable",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    },
+    {
+        "item_id": f"{source_id}-5.6",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "5.6",
+        "marks": 1,
+        "topic": "Idioms and Idiomatic Expressions",
+        "passage": passage_text_f,
+        "question": "Explain the expression, 'to ruffle major feathers' (line 7).",
+        "memo": "To upset someone considerably.\n\n[Accept valid alternative responses that indicate the severity of the expression.] (1)",
+        "final_answer": "To cause considerable upset, annoyance, or irritation to people.",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    },
+    {
+        "item_id": f"{source_id}-5.7",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "5.7",
+        "marks": 1,
+        "topic": "Morphology / Root Words",
+        "passage": passage_text_f,
+        "question": "Refer to line 9.\n\nWhat is the root word of 'vacationers'?",
+        "memo": "vacate / vacation (1)",
+        "final_answer": "vacate (or vacation)",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    },
+    {
+        "item_id": f"{source_id}-5.8",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "5.8",
+        "marks": 1,
+        "topic": "Vocabulary / Antonyms",
+        "passage": passage_text_f,
+        "question": "Give the antonym of 'boomed' (line 10) in the context of the sentence.",
+        "memo": "declined / plummeted / dropped / dwindled\n\n[Accept valid alternative responses in context.] (1)",
+        "final_answer": "declined (or plummeted / dwindled / dropped)",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    },
+    {
+        "item_id": f"{source_id}-5.9",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "5.9",
+        "marks": 1,
+        "topic": "Sentence Synthesis / Conjunctions",
+        "passage": passage_text_f,
+        "question": "Refer to paragraph 4.\n\nCreate a single sentence from the following two sentences:\n\n'With over 5,6 million active listings worldwide, Airbnb is filling a very important gap in the market. They offer rentals, perfect for flexible, adventure travellers looking for fuss-free bookings' (lines 11–13).",
+        "memo": "With over 5.6 million active listings worldwide, Airbnb is filling a very important gap in the market, offering rentals perfect for flexible, adventure travellers looking for fuss-free bookings.\n\n[Accept valid alternative responses.] (1)",
+        "final_answer": "With over 5,6 million active listings worldwide, Airbnb is filling a very important gap in the market by offering rentals perfect for flexible, adventure travellers looking for fuss-free bookings.",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    },
+    {
+        "item_id": f"{source_id}-5.10",
+        "source_id": source_id,
+        "pair_source_id": pair_source_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "passage_questions",
+        "question_ref": "5.10",
+        "marks": 1,
+        "topic": "Active and Passive Voice",
+        "passage": passage_text_f,
+        "question": "Refer to line 12.\n\n'Airbnb is filling a very important gap in the market.'\n\nConvert the above sentence to the passive voice.",
+        "memo": "A very important gap in the market is being filled by Airbnb. (1)",
+        "final_answer": "A very important gap in the market is being filled by Airbnb.",
+        "needs_review": False,
+        "licence": licence,
+        "attribution": attribution
+    }
+]
+
+print(f"Total items generated: {len(items)}")
+total_marks = sum(item["marks"] for item in items)
+print(f"Total marks: {total_marks} (Expected: 70)")
+
+# KaTeX and format validation
+def check_katex(text):
+    # check balanced single dollars
+    # ignore escaped dollars \$
+    clean = re.sub(r'\\\$', '', text)
+    # count non-escaped single dollars
+    # double dollars
+    doubles = len(re.findall(r'\$\$', clean))
+    clean_no_doubles = re.sub(r'\$\$', '', clean)
+    singles = len(re.findall(r'\$', clean_no_doubles))
+    return singles % 2 != 0
+
+errors = []
+for idx, it in enumerate(items):
+    for field in ["passage", "question", "memo", "final_answer"]:
+        val = it.get(field, "")
+        if check_katex(val):
+            errors.append(f"Unclosed KaTeX in item {it['item_id']} field {field}")
+
+if errors:
+    print("ERRORS FOUND:")
+    for e in errors:
+        print(" ", e)
+else:
+    print("KaTeX validation PASSED: 0 unclosed dollar delimiters!")
+
+# Write dual mirrored files
+out_dir_subject = "workspace/items/english_hl"
+out_dir_root = "workspace/items"
+
+os.makedirs(out_dir_subject, exist_ok=True)
+os.makedirs(out_dir_root, exist_ok=True)
+
+target_subject_file = os.path.join(out_dir_subject, f"{source_id}.jsonl")
+target_root_file = os.path.join(out_dir_root, f"{source_id}.jsonl")
+
+# Write to subject directory
+with open(target_subject_file, "w", encoding="utf-8") as f:
+    for it in items:
+        f.write(json.dumps(it, ensure_ascii=False) + "\n")
+print(f"Wrote {len(items)} items to {target_subject_file}")
+
+# Write to root items directory if distinct
+if os.path.abspath(target_subject_file) != os.path.abspath(target_root_file):
+    with open(target_root_file, "w", encoding="utf-8") as f:
+        for it in items:
+            f.write(json.dumps(it, ensure_ascii=False) + "\n")
+    print(f"Wrote {len(items)} items to {target_root_file}")

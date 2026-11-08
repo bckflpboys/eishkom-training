@@ -1,0 +1,2235 @@
+=== PAGE 1 ===
+ 
+Copyright reserved/Kopiereg voorbehou       Please turn over/Blaai om asseblief 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MARKS/PUNTE:  150 
+     
+ 
+                 
+ 
+ 
+ 
+These marking guidelines consist of 27 pages. 
+Hierdie nasienriglyne bestaan uit 27 bladsye. 
+ 
+ 
+  
+  
+MATHEMATICS P2/WISKUNDE V2 
+ 
+NOVEMBER 2020 
+ 
+MARKING GUIDELINES/NASIENRIGLYNE 
+GRADE/GRAAD 12 
+ 
+ 
+SENIOR CERTIFICATE/SENIOR SERTIFIKAAT 
+NATIONAL SENIOR CERTIFICATE/ 
+NASIONALE SENIOR SERTIFIKAAT 
+
+=== PAGE 2 ===
+Mathematics P2/Wiskunde V2 2 DBE/November 2020 
+ SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief 
+ 
+ 
+NOTE: 
+ If a candidate answers a question TWICE, only mark the FIRST attempt. 
+ If a candidate has crossed out an attempt of a question and not redone the question, mark the 
+crossed out version. 
+ Consistent accuracy applies in ALL aspects of the marking memorandum. Stop marking at the 
+second calculation error.  
+ Assuming answers/values in order to solve a problem is NOT acceptable. 
+ 
+ 
+LET WEL: 
+ As 'n kandidaat 'n vraag TWEE KEER beantwoord, sien slegs die EERSTE poging na. 
+ As 'n kandidaat 'n antwoord van 'n vraag doodtrek en nie oordoen nie, sien die doodgetrekte 
+poging na.  
+ Volgehoue akkuraatheid word in ALLE aspekte van die memorandum toegepas. Hou op nasien 
+by die tweede berekeningsfout. 
+ Aanvaar van antwoorde/waardes om 'n probleem op te los, word NIE toegelaat nie.  
+ 
+ 
+ 
+ 
+ 
+GEOMETRY 
+S 
+A mark for a correct statement 
+(A statement mark is independent of a reason) 
+'n Punt vir 'n korrekte bewering 
+('n Punt vir 'n bewering is onafhanklik van die rede) 
+R 
+A mark for the correct reason  
+(A reason mark may only be awarded if the statement is correct) 
+'n Punt vir 'n korrekte rede 
+('n Punt word slegs vir die rede toegeken as die bewering korrek is) 
+S/R 
+Award a mark if statement AND reason are both correct 
+Ken 'n punt toe as die bewering EN rede beide korrek is 
+  
+
+=== PAGE 3 ===
+Mathematics P2/Wiskunde V2 3 DBE/November 2020 
+ SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief 
+ 
+ 
+QUESTION/VRAAG 1 
+ 
+1.1 
+5,9a  
+91,0..909,0 b
+ 
+xy 91,05,9ˆ 
+ 
+ 
+5,9a  
+ 
+91,0b  
+ equation 
+            (3) 
+1.2  
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0 10 20 30 40 50 60 70 80 90
+PHYSICAL SCIE NCE S(% )
+MATHEMATICS (% )
+ 
+ 
+ 
+ 
+ 
+ correct  
+    slope going 
+    through 2  
+     points: 
+    (50 ; 55) or 
+    (40 ; 46) or 
+    (60 ; 64) or 
+    (0 ; 9,5) or 
+    (45 ; 50) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2) 
+1.3 Final exam mark 
+  72,22%                (calculator) 
+ 
+OR 
+ 
+ 6991,05,9ˆ y
+ 
+   
+  72,29%  
+ answer            
+(2) 
+ 
+ 
+ substitution 
+ answer  
+(2) 
+1.4 r = 0,95     answer(A)                         
+(1) 
+1.5 There is a very strong positive correlation between the Mathematics and 
+Physical Sciences mark.  
+Daar is ‘n baie sterk positiewe korrelasie tussen die Wiskunde en Fisiese 
+Wetenskappunte. 
+  strong/ sterk 
+ 
+ 
+                    (1) 
+1.6 The teacher concludes that the higher the learners' Mathematics marks, the 
+higher the learners' Physical Sciences marks. 
+Die onderwyser het waargeneem dat hoe hoër die wiskunde punte is, hoe hoër 
+is die Fisiese Wetenskappunte. 
+ answer  
+           
+ 
+(1) 
+[10] 
+ 
+ 
+  
+9,5 
+
+=== PAGE 4 ===
+Mathematics P2/Wiskunde V2 4 DBE/November 2020 
+ SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief 
+ 
+ 
+QUESTION/VRAAG 2 
+ 
+ 
+ 
+2 018 2 175 2 182 2 215 2 254 2 263 2 267 2 271 2 293 2 323 2 334 2 346 
+ 
+ 
+ 
+2.1 July / Julie  answer        
+            (1) 
+2.2 
+12
+94126x  
+    = 2 245,083..  2 245,08 aircraft landings 
+ 26 941 
+                                          
+ answer 
+  (2) 
+2.3 Standard deviation for landings at the King Shaka International airport: 
+30,68
+ 
+ answer                          
+  (2) 
+2.4 
+) ; (   xx = (2 245,08 – 86,30 ; 2 245,08 + 86,30) 
+               limit = (2 158,78 ; 2 331,38) 
+There were 9 months when the aircraft arrivals at the King Shaka 
+International airport were within one standard deviation of the mean.
+ 
+ 
+x  
+ 
+x  
+ 
+ answer                            
+(3) 
+2.5 The standard deviation of the number of landings at the Port Elizabeth 
+Airport will be higher than the standard deviation of  the number of  
+arrivals at the King Shaka International Airport OR C. 
+ 
+   
+ 
+ 
+ answer        
+            (1) 
+[9] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Answer only: Full marks 
+
+=== PAGE 5 ===
+Mathematics P2/Wiskunde V2 5 DBE/November 2020 
+ SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief 
+ 
+QUESTION/VRAAG 3                                          
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+3.1 
+4
+8
+04
+)4(4
+WP
+ m
+ 
+2WP m
+ 
+ 
+ substitution of W and P 
+ 
+WPm    
+                                  (2) 
+3.2 
+2
+1
+ST m   (given) 
+  STWP mm
+   212
+ 
+                   
+1  
+WPST
+ 
+ 
+ 
+  
+  STWP mm    
+   
+  STWP mm = –1  
+                                           (2) 
+3.3 
+06025  xy  
+1252  xy
+ 
+6211252  xx
+ 
+6051204  xx
+ 
+1809 x
+ 
+20x
+ 
+  122052  y
+ 
+4 y
+ 
+
+S(–20; –4) 
+ 
+OR 
+ 
+ 
+ 
+ 
+ 
+ equating 
+ 
+ 
+   x value 
+ 
+ substitution 
+ 
+ y value                                                      
+                                          (4) 
+ 
+ 
+ 
+  
+ 
+O 
+T 
+S 
+x 
+K 
+P(0; –4) 
+R 
+y 
+ 
+W(–4 ; 4) 
+M 
+N 
+ 
+ 
+ V 
+
+=== PAGE 6 ===
+Mathematics P2/Wiskunde V2 6 DBE/November 2020 
+ SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+06025  xy  
+209029
+06023025
+06026215
+
+
+ 
+xx
+xx
+xx
+ 
+  122052  y
+ 
+4 y
+ 
+
+S(–20; –4) 
+ 
+OR 
+         
+)2........(122
+)1........(6025
+
+
+xy
+xy  
+369:)2(2)1(  y
+ 
+                    
+4y  
+       2(–4)  –  x = 12 
+                      x = –20 
+ 
+ substitution 
+ 
+ 
+   
+ 
+ 
+ x value 
+ 
+ substitution 
+ 
+ y value      
+                                        (4) 
+ 
+ 
+ 
+ 
+ adding 
+ 
+ y value 
+ substitution 
+ x value        
+ (4) 
+  
+O 
+T 
+S 
+x 
+K 
+P(0; –4) 
+R 
+y 
+ 
+W(–4 ; 4) 
+M 
+N 
+ 
+ 
+ V 
+
+=== PAGE 7 ===
+Mathematics P2/Wiskunde V2 7 DBE/November 2020 
+ SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief 
+ 
+3.4 
+  12452 y    OR    
+060)4(25 y  
+5
+52y
+ 
+
+
+
+
+  552;4R
+ OR R(–4 ; –10,4) 
+
+
+
+
+ 5524WR
+    OR WR = 
+22 )5524())4(4(   
+5
+72WR
+units   or  
+5
+214WR units 
+OR 
+ 
+units4,14
+18)4(109
+18109
+1252621
+SKSTWR
+
+
+
+ 
+
+x
+xx
+ 
+ 
+  substitution 
+ 
+  y value 
+ 
+ 
+ 
+  method or subst into 
+    distance formula 
+ 
+  answer                                          
+ (4) 
+ 
+ 
+ 
+ 
+  substitution 
+ 
+   simplification 
+ 
+ 
+  subst x = –4 
+ 
+  answer                       (4)                         
+3.5 
+5
+2
+SK m
+ 
+ ...19,158
+   (Ref.  
+  =21, 801…°)
+ 
+ 21,80...SNˆM
+ 
+2
+1
+ST m
+ 
+ ...56,26SMˆN
+ 
+ 26,56...21,80...
+ [ext  of ]
+ 
+ ...366,48= 48,37° 
+ 
+  
+SKm  
+ 
+ size of 
+   
+ 
+ 
+ 
+  size of 
+SMˆN  
+  method 
+  answer     
+                                       (5) 
+3.6 In SRW: 
+h
+ = –4 – (–20) 
+h
+ = 16units 
+  WR21 SRW  Area h
+ 
+  
+
+
+
+ 5721621                     
+ 
+115,2                     
+square units 
+ 
+Area SWRL = 2Area SRW  
+                     =2(115,2) 
+                     = 230,4square units 
+ 
+OR 
+ 
+ 
+  
+h  
+ 
+ 
+ 
+  substitution 
+                                    
+ area  
+ 
+ 
+ 
+ answer       
+                                    (4) 
+ 
+  
+
+=== PAGE 8 ===
+Mathematics P2/Wiskunde V2 8 DBE/November 2020 
+ SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief 
+ 
+ 
+ In SRW: 
+h
+ = –4 – (–20) 
+h
+ = 16units 
+Area SWRL =
+5
+7216  
+                     = 230,40 square units 
+ 
+OR 
+    89,175844420SW
+22
+
+ 
+  23,175291652104420SR
+2
+2
+
+
+
+
+ 
+ 
+Area SWRL = 
+SRW  Area2   
+
+
+
+
+  sinSRSW212
+ 
+  37,48sin5291658212
+ 
+ =230,41square units 
+ 
+ 
+ 
+  
+h  
+ 
+  substitution 
+ answer    
+                                        (4) 
+ 
+SW =
+58  
+ 
+SR=
+5
+2916  
+ 
+ 
+ 
+ 
+ 
+substitution 
+ 
+answer 
+(4)  
+ 
+ [21] 
+ 
+ 
+ 
+ 
+  
+
+=== PAGE 9 ===
+Mathematics P2/Wiskunde V2 9 DBE/November 2020 
+ SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief 
+ 
+QUESTION/VRAAG 4 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.1 
+222 ryx   
+
+    2543
+222 r  
+2522  yx
+ 
+ 
+ substitution 
+ 
+  answer 
+                                  (2) 
+4.2 TM  TN [tangent  radius] 
+T(–11 ; 4) 
+r = –3 – (–11) = 8 
+    6443
+22
+ yx
+ 
+ 
+ 
+ 
+11Tx  
+  LHS   RHS 
+                                           (3) 
+4.3 O (0 ; 0 )  and  M(–3; 4)   
+3
+4
+)3(0
+40OR3403 04OM  m
+ 
+4
+3
+NM m
+ 
+))3((434  xy
+         OR     
+cxy  43
+ 
+4
+9
+4
+34  xy
+                           
+c )3(434  
+4
+25
+4
+3  xy
+                          
+4
+25c  
+                                                  
+4
+25
+4
+3  xy  
+ 
+ 
+3
+4
+OM m  
+
+4
+3
+NM m   
+   
+  substitution of m and M 
+       
+ 
+ 
+ 
+ equation   
+                                      (4) 
+ 
+ 
+  
+T 
+ M(–3 ; 4) 
+S 
+O 
+ x 
+N(–11 ; p) 
+y 
+
+
+=== PAGE 10 ===
+Mathematics P2/Wiskunde V2 10 DBE/November 2020 
+ SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief 
+ 
+ 
+4.4 N(–11 ; p) 
+ 
+4
+25
+4
+3  xy
+                   
+  4251143 p
+        OR  
+4
+3
+)11(3
+4   p  
+2p
+ 
+ 
+ 2;11N 
+ 
+ 
+ 
+024and023  SS yx  
+ 4;3S 
+ 
+   
+22
+)4(2311SN 
+ 
+210      
+units or 14,14 units 
+ 
+ 
+ 
+ 
+ 
+ 
+  subst x = –11 into eq or  
+     gradient 
+  
+2p  
+ 
+ 
+ 
+                                            
+ 
+ 
+Sx   
+Sy  
+ 
+ 
+  answer (CA) 
+(5) 
+4.5 
+ 5;2B  
+2BM
+ units  
+ 
+Radius of circle centred at M = 8 units 
+ 
+28k
+                 or     
+28k  
+   = 6,59 units                            = 9,41 units 
+   = 6,6 units                              = 9,4 units 
+ 
+ 
+2  
+ 
+ 
+ 
+ 
+ 
+  
+6,6k  
+ 
+4,9k  
+   (5) 
+  [19] 
+ 
+x
+y
+ 
+ 
+  
+(–2 ; 5) 
+6,6 
+9,4 
+
+=== PAGE 11 ===
+Mathematics P2/Wiskunde V2 11 DBE/November 2020 
+ SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief 
+ 
+QUESTION/VRAAG 5 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+5.1 Period of  g = 360  answer 
+(1) 
+5.2 Amplitude of  f = 
+2
+1   answer (A) (1) 
+5.3 f (180) – g(180) 
+
+
+
+
+ 2121
+ 
+= 1 
+ 
+ 
+ 
+  1  
+(1) 
+5.4.1 
+ 9,140x
+  
+  
+ 9,140x  
+(1) 
+5.4.2 
+1cossin3  xx  
+2
+1cos21sin23  xx
+ 
+2
+130sincos30cossin  xx
+ 
+2
+1)30sin( x
+ 
+2
+1)30sin( x
+  at  
+ 0x  or 
+120x  
+]120;0[ x
+  OR   
+ 1200 x  
+ 
+ 
+ 
+  dividing by 2 
+ 
+   
+ 30sin;30cos  
+ 
+   
+2
+1)30sin( x  
+ 
+ 
+  interval  
+                                           (4) 
+ 
+  [8] 
+ 
+  
+180° 
+g 
+  150° 
+y 
+x 
+ 
+0° 
+f 
+A(130,9° ; 0,33) 
+  90° 
+
+=== PAGE 12 ===
+Mathematics P2/Wiskunde V2 12 DBE/November 2020 
+ SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief 
+ 
+QUESTION/VRAAG 6 
+x
+y
+P(5 ; 12)
+ T
+
+<
+ 
+6.1.1 
+   512tan   or  
+   522   answer 
+                                           (1) 
+6.1.2 (OP)2 = (–5)2 + (12)2  
+    OP = 13 
+cos
+ 
+   135  
+  Pythagoras 
+  OP 
+ 
+ answer    
+                                           (3) 
+6.1.3 
+2
+5
+5,613
+5
+5,6cos
+5,6)90sin(
+
+
+
+
+b
+b
+b
+b
+
+
+       
+OR 
+65,61312
+5,6sin
+5,6)90cos(
+
+
+
+aa
+a
+a
+
+
+    
+2
+5)6()5,6( 22 b
+ 
+ 
+ 
+5,6)90sin( b  
+ 
+cos  
+ 
+            
+ 
+5,613
+5 b    
+  value of b 
+(4) 
+ 
+5,6)90cos( a  
+ 
+sin  
+    
+ 
+ value of a  
+ 
+ 
+  value of b 
+(4) 
+  
+y 
+x 
+P(–5 ; 12) 
+S(a ; b) 
+O 
+13 
+6,5 
+ 
+
+=== PAGE 13 ===
+Mathematics P2/Wiskunde V2 13 DBE/November 2020 
+ SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief 
+ 
+ 
+6.2 
+)180sin(
+)360sin(.2cos)cos(.2sin
+x
+xxxx
+
+  
+ 
+x
+xxxx
+sin
+sin2coscos2sin
+
+
+ 
+x
+xx
+sin
+)2sin(
+
+
+ 
+x
+x
+sin
+sin
+
+ 
+ 
+1  
+ 
+ 
+ 
+ 
+xx cos)cos(   
+ 
+xx sin)360sin(   
+
+xx sin)180sin(   
+  
+ numerator = 
+xsin  
+ 
+  answer 
+                                           (5) 
+6.3 
+0)3cos2)(1cos3(
+03cos7cos6
+03cos7cos66
+03cos7)cos1(6
+03cos7sin6
+2
+2
+2
+2
+
+
+
+
+
+xx
+xx
+xx
+xx
+xx
+ 
+2
+3cosor31cos  xx
+(N/A) 
+
+Zkkx  ;360.47,109  or    
+Zkkx  ;360.53,250
+ 
+ 
+  identity 
+ 
+ 
+  standard form 
+  factors 
+ 
+  both solutions of cos x 
+ 
+ 
+ 53,250&47,109x  
+  +
+Zkk ;360.                                                                                 
+                                           (6) 
+6.4 
+ 
+21Acos9
+1Acos3
+Acos31
+2
+22
+2
+2
+
+
+
+
+
+ 
+
+xx
+xx
+xx
+ 
+  
+9
+1
+1942
+1Acos2A2cos
+9
+4Acos
+22Acos9
+2
+2
+2
+
+
+
+
+
+
+
+
+  
+OR
+ 
+ 
+ 
+ 
+squaring both sides 
+ 
+
+21Acos9 222  xx  
+ 
+ 
+
+9
+4Acos2    
+ 
+1Acos2A2cos 2   
+ 
+ 
+ 
+ 
+ answer 
+                                           (5) 
+ 
+ 
+ 
+  
+
+=== PAGE 14 ===
+Mathematics P2/Wiskunde V2 14 DBE/November 2020 
+ SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief 
+ 
+ 
+ 
+1
+1
+01
+012
+2
+2
+2
+2
+
+
+ 
+
+x
+x
+xx
+x
+x
+ 
+3
+2cosAor32cosA
+23cosAor23cosA
+
+
+ 
+9
+1
+1322
+1A2coscos2A
+2
+2
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1x  
+ 
+3
+2Acos   
+
+3
+2Acos   
+double angle identity 
+ 
+ 
+ 
+ answer 
+                                           (5) 
+ 
+  [24] 
+ 
+ 
+  
+
+=== PAGE 15 ===
+Mathematics P2/Wiskunde V2 15 DBE/November 2020 
+ SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief 
+ 
+ 
+QUESTION/VRAAG 7 
+ 
+7.1 
+QS
+330tan r
+                   OR 
+r
+rorr
+r
+3
+3
+3
+3
+3
+1
+3
+30tan
+3QS
+
+
+
+ 
+ 
+ trig ratio 
+ 
+ QS subject 
+ 
+ 
+ 
+ 
+ 
+(3) 
+7.2 
+ 
+2
+22
+22
+8
+9
+3gardenflower ofArea
+r
+rr
+rr
+
+
+
+
+
+
+ 
+ substitution into  
+    difference of areas 
+ 
+ answer 
+(2) 
+7.3 
+xr
+xr
+xrr
+xrrr
+xrrrr
+2cos610RS
+)2cos610(
+2cos610
+2cos69
+2cos)3)((2)3(RS
+2
+22
+222
+222
+
+
+
+
+
+ 
+substitution into cosine rule 
+   correctly 
+ 
+  
+xrr 2cos610 22   
+  
+)2cos610(2 xr   
+(3) 
+7.4 
+m35
+...9966,34
+)56(2cos61010RS
+
+
+
+ 
+substitution  
+ 
+  answer 
+(2) 
+ 
+ [10] 
+ 
+  
+P 
+R 
+Q 
+ 30° 
+2x 
+r 
+S 
+ 
+ 
+
+=== PAGE 16 ===
+Mathematics P2/Wiskunde V2 16 DBE/November 2020 
+ SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief 
+ 
+ 
+QUESTION/VRAAG 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8.1.1(a) 
+ 64Oˆ 2        [ at centre = 2 × at circumference/ 
+                        Middelpts  = 2 × omtreks] 
+ S   R       
+ 
+                                  (2) 
+8.1.1(b) 
+ 90Mˆ 2     [Line from centre to midpt of chord/lyn v midpt  
+                     na midpt v koord] 
+ 1162690NOˆK
+ [ext  of /buite  van ] 
+ 5264116Oˆ 1
+    
+OR 
+ 90Mˆ 2
+    [Line from centre to midpt of chord/lyn v midpt  
+                     na midpt v koord] 
+ 64Oˆ 3
+     [sum of s in ] 
+ 52Oˆ 1
+     [s on straight line/op ‘n reguitlyn] 
+ S  R       
+ 
+ S 
+ answer       
+                                         (4) 
+ S  R       
+ 
+ S 
+ answer       
+                                         (4) 
+8.1.2 
+ 128PˆOKˆP  [sum of s in ∆/som e van ∆] 
+ 
+PˆOKˆP     [s opp = sides/e teenoor = sye] 
+         
+64  
+122 KˆKˆ32Kˆ  or
+ 
+
+KN bisects/halveer 
+PKˆO  
+OR 
+            
+ONˆKKˆ 2 
+ [s opp = sides/e teenoor = sye] 
+ 64ONˆKKˆ 2
+[sum of s in ∆/som e van ∆] 
+122 KˆKˆ32Kˆ  or
+ 
+
+KN bisects/halveer 
+PKˆO  
+   
+ S 
+ S 
+ S 
+   (3) 
+ 
+ 
+ S   
+ S 
+ S 
+   (3) 
+  
+K 
+26° 
+O 
+N 
+M 
+1 
+2 
+1 
+ 1 
+ 2 
+P 
+3 
+32° 
+2 
+L 
+
+=== PAGE 17 ===
+Mathematics P2/Wiskunde V2 17 DBE/November 2020 
+ SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief 
+ 
+ 
+8.2 
+     
+ 
+8.2.1 
+11 DˆFˆ         [tan chord theorem/raaklyn koordst] 
+BˆDˆ 1 
+        [Given/Gegee] 
+BˆFˆ1 
+ 
+BC||FG
+  [corresp s =/Ooreenkomstigee =] 
+                          
+ S   R       
+                                
+ 
+  
+BˆFˆ1       
+  R      
+   (4) 
+8.2.2 
+AB
+FB
+AC
+GC 
+              [line || one side of /lyn || een sy v ] 
+7
+5
+62
+9 xx
+ 
+3010637  xx
+ 
+         3x = 93 
+           x = 31  
+OR 
+ 962AG  xx
+15 x
+ 
+FB
+AF
+GC
+AG 
+      
+[line || one side of /lyn || een sy v ] 
+5
+2
+9
+15 xx
+ 
+182755  xx
+ 
+        3x = 93 
+          x = 31 
+ 
+OR 
+ S   R       
+ 
+ substitution 
+ 
+ 
+ answer       
+                                           (4) 
+ 
+ 
+ S   R       
+ 
+ substitution 
+ 
+ 
+ answer       
+                                           (4) 
+ 
+  
+D 
+B 
+F 
+C 
+1 
+2 
+1 
+G 
+A 
+2 
+
+=== PAGE 18 ===
+Mathematics P2/Wiskunde V2 18 DBE/November 2020 
+ SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief 
+ 
+ 
+ 
+31
+933
+1241057
+62
+15
+7
+2
+]  sy v een ||   /lynof side one || [lineACAGABAF
+
+
+
+
+
+
+x
+x
+xx
+x
+x
+ 
+ 
+ S   R       
+ 
+ substitution 
+ 
+ 
+ answer       
+                                           (4) 
+ 
+  [17] 
+ 
+  
+
+=== PAGE 19 ===
+Mathematics P2/Wiskunde V2 19 DBE/November 2020 
+ SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief 
+ 
+ 
+QUESTION/VRAAG 9 
+ 
+9.1 
+ 
+       
+9.1 Construction: Draw diameter KS and draw KR 
+Konstruksie:  Trek middellyn KS en verbind KR 
+KSˆT90TSˆQ 
+         [radius  tangent/raaklyn] 
+ 90  K RˆS
+                    [ in semi circle/halfsirkel] 
+ TRˆK09  TRˆS 
+ 
+KRˆTKSˆT 
+                  [s same segment/e dieselfde  
+        segment] 
+ RˆTSˆQ 
+ 
+ construction 
+ 
+ S/R 
+ S/R 
+ S 
+ 
+ S/R 
+                             (5) 
+ 
+ 
+ 
+ 
+ 
+ 
+OR 
+ 
+ 
+ 
+ 
+ 
+  
+S 
+R 
+O 
+Q 
+T 
+K 
+
+=== PAGE 20 ===
+Mathematics P2/Wiskunde V2 20 DBE/November 2020 
+ SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief 
+ 
+ 
+ 
+ 
+ 
+9.1 Construction: Draw radii OS and OT 
+Konstruksie:  Trek radii OS en OT 
+TSˆO90TSˆQ 
+       [radius  tangent/raaklyn] 
+OTˆSTSˆO 
+                    [s opp = sides/e teenoor = sye] 
+ TSˆO2801  TOˆS 
+    [s of /e van ] 
+   
+TSˆO90Rˆ        [ at centre = 2× circumf/ 
+          midpts = 2× omtreks] 
+  RˆTSˆQ 
+ 
+ construction 
+ 
+ S/R 
+ 
+ S/R 
+ S 
+ S/R 
+ 
+ 
+                             (5) 
+ 
+OR 
+  
+S 
+R 
+O 
+Q 
+T 
+
+=== PAGE 21 ===
+Mathematics P2/Wiskunde V2 21 DBE/November 2020 
+ SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief 
+ 
+ 
+ 
+ 
+9.1 Construction: Draw diameter KS and join K to T. 
+Konstruksie: Trek middellyn KS en verbind K tot T 
+KSˆT90TSˆQ 
+       [radius  tangent/raaklyn] 
+ 90KTˆS
+     [ in semi circle/halfsirkel] 
+   
+KSˆT90Kˆ    
+KˆTSˆQ 
+  
+Kˆ  Rˆbut 
+ [s same segment/e dieselfde segment] 
+  RˆTSˆQ 
+ 
+ construction 
+ 
+ S/R 
+ 
+ S/R 
+ S 
+ 
+ S/R 
+                           
+   (5) 
+ 
+ 
+ 
+ 
+ 
+ 
+OR 
+S 
+R 
+O 
+Q 
+T 
+K 
+K 
+
+=== PAGE 22 ===
+Mathematics P2/Wiskunde V2 22 DBE/November 2020 
+ SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief 
+ 
+ 
+9.1 Construction: Draw radii OT, OR and OS 
+Konstruksie: Trek radiuse OT, OR en OS 
+STˆOTSˆO 
+       [s opp = radii/e teenoor = radiuse] 
+Also:  
+RSˆOSRˆOandTRˆORTˆO   
+ 180222 zyx
+ [s of ] 
+xzy
+zyx
+
+
+90
+90
+ 
+ 90QSˆO
+    [radius  tangent/raaklyn] 
+ 
+x 90QSˆT  
+ 
+RˆQSˆT  zy  
+ construction 
+ 
+ S/R 
+ 
+ 
+ 
+ 
+ S 
+ 
+ S/R 
+ S 
+                           
+   (5) 
+ 
+ 
+OR 
+ 
+ 
+ 
+ 
+  
+S 
+R 
+O 
+Q 
+T 
+x 
+x 
+y 
+y 
+z 
+z 
+
+=== PAGE 23 ===
+Mathematics P2/Wiskunde V2 23 DBE/November 2020 
+ SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief 
+ 
+ 
+9.1 Construction: Draw radii OT and OS, tangent QT 
+Konstruksie: Trek radiuse OT en OS, raaklyn QT 
+ 90QSˆO
+    [radius  tangent/raaklyn] 
+ 
+OSˆT90QSˆT   
+ 
+OTˆSOSˆT   [s opp = radii/e teenoor = radiuse] 
+OSˆ2T180SOˆT 
+ [s of ] 
+OSˆT90Rˆ 
+  [ at centre = 2× circumf/ 
+         midpts = 2× omtreks] 
+ 
+RˆQSˆT   
+ 
+ 
+ construction 
+ 
+ S/R 
+ 
+ 
+ S 
+ S 
+ 
+ 
+ S/R 
+                           
+   (5) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+S 
+R 
+O 
+Q 
+T 
+
+=== PAGE 24 ===
+Mathematics P2/Wiskunde V2 24 DBE/November 2020 
+ SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief 
+ 
+ 
+9.2 
+ 
+9.2.1(a) 
+x2Nˆ  [alt s;  PR || NQ/verw. e; PR || NQ]  S  R 
+                              (2) 
+9.2.1(b) 
+x2Qˆ  [tan chord theorem/raaklyn koordstelling] 
+OR 
+x2M
+ [tan chord theorem/raaklyn koordstelling] 
+x2Qˆ
+            [s in same segment/e in dieselfde segm] 
+ 
+ S  R 
+                              (2) 
+ 
+ S/R 
+ S/R 
+                              (2) 
+9.2.2 
+SP
+MS
+NR
+MN   [QN || PR; Prop Th] 
+x 21 NˆNˆ
+ [given] 
+x3Pˆ
+             [s in same segment/ e in dieselfde segm ]
+23 QˆPˆ 
+ [= x] 
+SQ = PS [sides opp = /sye teenoor = e] 
+SQ
+MS
+NR
+MN 
+ 
+ S   R 
+ 
+ S 
+ S  R 
+ 
+ 
+ R 
+                           
+  (6) 
+                              [15] 
+  
+Q 
+N 
+R 
+P 
+S 
+1 
+1 
+1 
+2 
+2 
+2 
+2 
+3 
+3 
+x 
+M 
+ 
+1 
+
+=== PAGE 25 ===
+Mathematics P2/Wiskunde V2 25 DBE/November 2020 
+ SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief 
+ 
+ 
+QUESTION/VRAAG 10 
+ 
+ 
+10.1.1 
+ 90EBˆD          [ in semi-circle/ in halfsirkel] 
+ 90AMˆD
+    [
+DEAM ] 
+
+FBDM is a cyclic quadrilateral/koordevh 
+   [converse opp s cyclic quad/omgek teenoorst e  kvh ]                                
+ 
+OR 
+ 90EBˆD
+         [ in semi-circle/ in halfsirkel] 
+    
+ 90EBˆDMˆ 2      
+
+FBDM is a cyclic quadrilateral/koordevh 
+[converse ext of cyclic quad/omgek buite van  kvh ]                                
+ S    R  
+ 
+  
+  R  
+                              (3) 
+ 
+ 
+ S    R  
+ 
+ 
+ R  
+                              (3) 
+ 
+ 
+  
+B 
+A 
+C 
+ E 
+F 
+D 
+1 
+ 2 
+2 
+2 
+2 
+1 
+1 
+1 
+3 
+3 
+4 
+M 
+
+=== PAGE 26 ===
+Mathematics P2/Wiskunde V2 26 DBE/November 2020 
+ SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou    Please turn over/Blaai om asseblief 
+ 
+ 
+10.1.2 
+23 DˆBˆ  [tangent chord th/raaklyn koordst] 
+21 DˆFˆ 
+ [ext  cyc quad/buite  koordevh] 
+
+13 FˆBˆ   
+ 
+OR 
+x EˆBˆ 1
+[tangent chord th/raaklyn koordst] 
+x 90Fˆ1
+[ sum in / van ] 
+ 
+x 90Dˆ 2 [ sum in / van ] 
+21 DFˆ 
+ 
+23 DˆBˆ 
+[tangent chord th/raaklyn koordst] 
+ 
+13 FˆBˆ   
+ 
+OR 
+x EˆBˆ 1
+[tangent chord th/raaklyn koordst] 
+]line/straight[90Bˆ 3 reguitlynx
+ 
+]/sofsum[90Fˆ1  vanevansomx
+ 
+  
+13 FˆBˆ   
+ S   R 
+ S   R 
+                               
+ (4) 
+ 
+ 
+ S   R 
+ 
+2
+1
+Dˆ
+90Fˆ
+
+ x  
+ 
+ 
+ R                             
+ (4) 
+ 
+ 
+ 
+ S   R 
+ S   
+ 
+ S 
+                              (4) 
+10.1.3 In ∆CDB and ∆CBE 
+CˆCˆ 
+            [common /gemeenskaplike  ] 
+BEˆCDBˆC 
+  [tangent chord th/raaklyn koordst] 
+ 
+EBˆCBDˆC    [ sum in / van ]  
+∆CDB ||| ∆CBE   
+ 
+OR 
+In ∆CDB and ∆CBE 
+BEˆCDBˆC 
+   [tangent chord th/raaklyn koordst] 
+ 
+CˆCˆ              [common /gemeenskaplike  ] 
+∆CDB ||| ∆CBE [, , ] 
+ 
+ 
+ S 
+ S/R 
+ 
+ R 
+                              (3) 
+ 
+ 
+ 
+ S/R 
+ S 
+ R 
+                        (3) 
+10.2.1 
+BC
+DC
+EC
+BC       [||| s] 
+4BC
+16
+28
+DCECBC2
+
+
+
+
+ 
+ 
+ ratio 
+ 
+ 
+ substitution 
+ 
+answer                             
+  (3) 
+
+=== PAGE 27 ===
+ 
+Mathematics/P2/Wiskunde/V2 27                  DBE/November 2020 
+ SCE/SSE– Marking guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou   
+ 
+ 
+10.2.2 
+2DBBE
+2
+1
+8
+4
+BE
+DB
+s]  [|||BEDBECBC
+
+
+
+ 
+units68,2
+5
+6DB
+5
+36DB
+365DB
+36(2DB)DB
+theorem][PythDEBEDB
+2
+2
+22
+222
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BE = 2DB 
+ 
+ substitution into 
+   Pyth theorem 
+ 
+ 
+ 
+5
+36DB2   
+answer      
+                     
+  (4) 
+                              [17] 
+        
+  TOTAL/TOTAAL:  150 
+

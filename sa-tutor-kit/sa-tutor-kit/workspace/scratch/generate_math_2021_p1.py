@@ -1,0 +1,573 @@
+# -*- coding: utf-8 -*-
+import json
+import re
+import os
+
+source_id = "dbe-mathematics-g12-p1-2021-nov"
+paired_memo_id = "dbe-mathematics-g12-p1-2021-nov-memo"
+subject = "mathematics"
+grade = 12
+language = "en"
+track = "core_maths"
+
+items = [
+    # QUESTION 1
+    {
+        "question_ref": "1.1.1",
+        "marks": 3,
+        "topic": "Algebra - Quadratic Equations (Factorisation)",
+        "passage": "",
+        "question": "Solve for $x$:\n$$x^2 - 2x - 24 = 0$$",
+        "memo": "$$x^2 - 2x - 24 = 0$$\n$$(x - 6)(x + 4) = 0$$\n$$x = 6 \\quad \\text{or} \\quad x = -4$$\n\n* $\\checkmark$ factors\n* $\\checkmark x = 6$\n* $\\checkmark x = -4$",
+        "final_answer": "$x = 6$ or $x = -4$"
+    },
+    {
+        "question_ref": "1.1.2",
+        "marks": 3,
+        "topic": "Algebra - Quadratic Equations (Quadratic Formula)",
+        "passage": "",
+        "question": "Solve for $x$:\n$$2x^2 - 3x - 3 = 0$$\n(correct to TWO decimal places)",
+        "memo": "$$2x^2 - 3x - 3 = 0$$\n$$x = \\frac{-(-3) \\pm \\sqrt{(-3)^2 - 4(2)(-3)}}{2(2)}$$\n$$x = \\frac{3 \\pm \\sqrt{33}}{4}$$\n$$x = 2{,}19 \\quad \\text{or} \\quad x = -0{,}69$$\n\n* $\\checkmark$ substitution into the correct formula\n* $\\checkmark x = 2{,}19$\n* $\\checkmark x = -0{,}69$",
+        "final_answer": "$x = 2{,}19$ or $x = -0{,}69$"
+    },
+    {
+        "question_ref": "1.1.3",
+        "marks": 4,
+        "topic": "Algebra - Quadratic Inequalities",
+        "passage": "",
+        "question": "Solve for $x$:\n$$x^2 + 5x \\le -4$$",
+        "memo": "$$x^2 + 5x \\le -4$$\n$$x^2 + 5x + 4 \\le 0$$\n$$(x + 4)(x + 1) \\le 0$$\nCritical values: $x = -4 \\text{ or } x = -1$\n\n$$-4 \\le x \\le -1 \\quad \\textbf{OR/OF} \\quad x \\in [-4 ; -1]$$\n\n* $\\checkmark$ standard form\n* $\\checkmark$ critical values\n* $\\checkmark\\checkmark$ answer",
+        "final_answer": "$-4 \\le x \\le -1$ or $x \\in [-4 ; -1]$"
+    },
+    {
+        "question_ref": "1.1.4",
+        "marks": 4,
+        "topic": "Algebra - Radical Equations",
+        "passage": "",
+        "question": "Solve for $x$:\n$$\\sqrt{x + 28} = 2 - x$$",
+        "memo": "$$\\sqrt{x + 28} = 2 - x$$\n$$(\\sqrt{x + 28})^2 = (2 - x)^2$$\n$$x + 28 = 4 - 4x + x^2$$\n$$x^2 - 5x - 24 = 0$$\n$$(x - 8)(x + 3) = 0$$\n$$x = 8 \\quad \\text{or} \\quad x = -3$$\n\nTesting solutions:\nFor $x = 8$: $\\sqrt{8 + 28} = \\sqrt{36} = 6 \\neq 2 - 8 = -6$ (not valid)\nFor $x = -3$: $\\sqrt{-3 + 28} = \\sqrt{25} = 5 = 2 - (-3)$ (valid)\n$$\\therefore x \\neq 8 \\quad \\text{or} \\quad x = -3$$\n\n* $\\checkmark$ squaring both sides\n* $\\checkmark$ standard form\n* $\\checkmark$ factors\n* $\\checkmark$ answers with selection",
+        "final_answer": "$x = -3$ ($x \\neq 8$)"
+    },
+    {
+        "question_ref": "1.2",
+        "marks": 6,
+        "topic": "Algebra - Simultaneous Equations",
+        "passage": "",
+        "question": "Solve simultaneously for $x$ and $y$ in:\n$$2y = 3 + x \\quad \\text{and} \\quad 2xy + 7 = x^2 + 4y^2$$",
+        "memo": "$$2y = 3 + x \\quad \\dots (1)$$\n$$x = 2y - 3$$\n$$2xy + 7 = x^2 + 4y^2 \\quad \\dots (2)$$\n$$2(2y - 3)y + 7 = (2y - 3)^2 + 4y^2$$\n$$4y^2 - 6y + 7 = 4y^2 - 12y + 9 + 4y^2$$\n$$4y^2 - 6y + 2 = 0$$\n$$2y^2 - 3y + 1 = 0$$\n$$(2y - 1)(y - 1) = 0$$\n$$y = \\frac{1}{2} \\quad \\text{or} \\quad y = 1$$\n$$x = -2 \\quad \\text{or} \\quad x = -1$$\n\n**OR/OF**\n\n$$2y = 3 + x$$\n$$y = \\frac{3}{2} + \\frac{x}{2} \\quad \\dots (1)$$\n$$2xy + 7 = x^2 + 4y^2 \\quad \\dots (2)$$\n$$2x\\left(\\frac{3}{2} + \\frac{x}{2}\\right) + 7 = x^2 + 4\\left(\\frac{3}{2} + \\frac{x}{2}\\right)^2$$\n$$3x + x^2 + 7 = x^2 + 9 + 6x + x^2$$\n$$x^2 + 3x + 2 = 0$$\n$$(x + 2)(x + 1) = 0$$\n$$x = -2 \\quad \\text{or} \\quad x = -1$$\n$$y = \\frac{1}{2} \\quad \\text{or} \\quad y = 1$$\n\n* $\\checkmark$ equation 1\n* $\\checkmark$ substitution\n* $\\checkmark$ simplification\n* $\\checkmark$ standard form\n* $\\checkmark y$ – values\n* $\\checkmark x$ – values",
+        "final_answer": "$x = -2, y = \\frac{1}{2}$ or $x = -1, y = 1$"
+    },
+    {
+        "question_ref": "1.3",
+        "marks": 4,
+        "topic": "Algebra - Nature of Roots and Geometric Sequences",
+        "passage": "",
+        "question": "The roots of an equation are $x = \\frac{-n \\pm \\sqrt{n^2 - 4mp}}{2m}$ where $m$, $n$ and $p$ are positive real numbers. The numbers $m$, $n$ and $p$, in that order, form a geometric sequence. Prove that $x$ is a non-real number.",
+        "memo": "$$\\frac{n}{m} = \\frac{p}{n}$$\n$$n^2 = mp$$\n$$\\Delta = b^2 - 4ac$$\n$$\\Delta = n^2 - 4mp, \\quad \\text{but } n^2 = mp$$\n$$\\Delta = n^2 - 4n^2 \\quad \\textbf{OR/OF} \\quad \\Delta = mp - 4mp$$\n$$\\Delta = -3n^2 \\quad \\quad \\quad \\quad \\quad \\quad \\Delta = -3mp$$\n\nSince $m$, $n$ and $p$ are positive real numbers:\n$$n^2 > 0 \\quad \\quad \\quad \\quad \\quad \\quad mp > 0$$\n$$\\therefore -3n^2 < 0 \\quad \\quad \\quad \\quad \\quad \\therefore -3mp < 0$$\n$$\\therefore \\Delta < 0 \\implies x \\text{ is a non-real number}$$\n\n* $\\checkmark \\frac{n}{m} = \\frac{p}{n}$\n* $\\checkmark n^2 = mp$\n* $\\checkmark \\Delta = -3n^2$ or $-3mp$\n* $\\checkmark \\Delta < 0$",
+        "final_answer": "$\\Delta = -3n^2 < 0$ (or $\\Delta = -3mp < 0$), $\\therefore \\Delta < 0$, which proves that $x$ is a non-real number."
+    },
+
+    # QUESTION 2
+    {
+        "question_ref": "2.1",
+        "marks": 2,
+        "topic": "Sequences and Series - Geometric Sequence",
+        "passage": "Given the geometric series: $x + 90 + 81 + \\dots$",
+        "question": "Calculate the value of $x$.",
+        "memo": "$$\\frac{90}{x} = \\frac{81}{90}$$\n$$81x = 8100$$\n$$x = 100$$\n\n**OR/OF**\n\n$$x = 90 \\times \\frac{10}{9}$$\n$$x = 100$$\n\n* $\\checkmark \\frac{90}{x} = \\frac{81}{90}$\n* $\\checkmark$ answer\n\n**OR/OF**\n* $\\checkmark \\frac{10}{9}$\n* $\\checkmark$ answer",
+        "final_answer": "$x = 100$"
+    },
+    {
+        "question_ref": "2.2",
+        "marks": 2,
+        "topic": "Sequences and Series - Sum of Geometric Series",
+        "passage": "Given the geometric series: $x + 90 + 81 + \\dots$, where $x = 100$.",
+        "question": "Show that the sum of the first $n$ terms is $S_n = 1\\ 000(1 - (0{,}9)^n)$.",
+        "memo": "$$a = 100, \\quad r = \\frac{90}{100} = 0{,}9$$\n$$S_n = \\frac{a(1 - r^n)}{1 - r}$$\n$$S_n = \\frac{100(1 - (0{,}9)^n)}{1 - 0{,}9}$$\n$$S_n = \\frac{100(1 - (0{,}9)^n)}{0{,}1}$$\n$$\\therefore S_n = 1\\ 000(1 - (0{,}9)^n)$$\n\n* $\\checkmark r = 0{,}9$\n* $\\checkmark$ substitution into correct formula",
+        "final_answer": "$S_n = \\frac{100(1 - (0{,}9)^n)}{1 - 0{,}9} = 1\\ 000(1 - (0{,}9)^n)$"
+    },
+    {
+        "question_ref": "2.3",
+        "marks": 2,
+        "topic": "Sequences and Series - Sum to Infinity",
+        "passage": "Given the geometric series: $x + 90 + 81 + \\dots$, where $a = 100$ and $r = 0{,}9$.",
+        "question": "Hence, or otherwise, calculate the sum to infinity.",
+        "memo": "$$S_\\infty = \\frac{a}{1 - r}$$\n$$S_\\infty = \\frac{100}{1 - \\frac{9}{10}}$$\n$$S_\\infty = 1\\ 000$$\n\n**OR/OF**\n\n$$S_\\infty = \\lim_{n \\to \\infty} [1\\ 000(1 - (0{,}9)^n)]$$\n$$S_\\infty = 1\\ 000$$\n\n* $\\checkmark$ substitution\n* $\\checkmark$ answer\n\n**OR/OF**\n* $\\checkmark \\lim_{n \\to \\infty} [1\\ 000(1 - (0{,}9)^n)]$\n* $\\checkmark$ answer",
+        "final_answer": "$S_\\infty = 1\\ 000$"
+    },
+
+    # QUESTION 3
+    {
+        "question_ref": "3.1",
+        "marks": 1,
+        "topic": "Sequences and Series - Quadratic Patterns (Next Term)",
+        "passage": "Consider the quadratic number pattern: $-145 ; -122 ; -101 ; \\dots$",
+        "question": "Write down the value of $T_4$.",
+        "memo": "First differences: $-122 - (-145) = 23$, $-101 - (-122) = 21$.\nSecond difference: $21 - 23 = -2$.\nNext first difference: $21 + (-2) = 19$.\n$$T_4 = -101 + 19 = -82$$\n\n* $\\checkmark$ answer",
+        "final_answer": "$T_4 = -82$"
+    },
+    {
+        "question_ref": "3.2",
+        "marks": 3,
+        "topic": "Sequences and Series - General Term of Quadratic Pattern",
+        "passage": "Consider the quadratic number pattern: $-145 ; -122 ; -101 ; \\dots$",
+        "question": "Show that the general term of this number pattern is $T_n = -n^2 + 26n - 170$.",
+        "memo": "$-145 ; -122 ; -101 ; \\dots$\nFirst differences: $23 ; 21 ; \\dots$\nSecond difference: $-2$\n\n$$2a = -2 \\implies a = -1$$\n$$3a + b = 23 \\implies 3(-1) + b = 23 \\implies b = 26$$\n$$a + b + c = -145 \\implies -1 + 26 + c = -145 \\implies c = -170$$\n$$\\therefore T_n = -n^2 + 26n - 170$$\n\n**OR/OF**\n\n$$2a = -2 \\implies a = -1$$\n$$c = -145 + (-2) - 23 = -170$$\n$$\\therefore T_n = -n^2 + bn - 170$$\n$$-145 = -1 + b - 170$$\n$$b = 26$$\n$$\\therefore T_n = -n^2 + 26n - 170$$\n\n* $\\checkmark 2a = -2$\n* $\\checkmark 3(-1) + b = 23$\n* $\\checkmark -1 + 26 + c = -145$\n\n**OR/OF**\n* $\\checkmark 2a = -2$\n* $\\checkmark c = -145 + (-2) - 23$\n* $\\checkmark -145 = -1 + b - 170$",
+        "final_answer": "$T_n = -n^2 + 26n - 170$"
+    },
+    {
+        "question_ref": "3.3",
+        "marks": 4,
+        "topic": "Sequences and Series - Difference Between Terms",
+        "passage": "Consider the quadratic number pattern: $-145 ; -122 ; -101 ; \\dots$, with general term $T_n = -n^2 + 26n - 170$.",
+        "question": "Between which TWO terms of the quadratic number pattern will there be a difference of $-121$?",
+        "memo": "$$T_n = bn + c \\quad \\text{or} \\quad T_n = a + (n - 1)d$$\n$$T_n = -2n + 25 \\quad \\quad \\quad = 23 + (n - 1)(-2)$$\n$$\\quad \\quad \\quad \\quad \\quad \\quad = 25 - 2n$$\n$$-2n + 25 = -121$$\n$$-2n = -146$$\n$$n = 73$$\n**Between $T_{73}$ and $T_{74}$**\n\n**OR/OF**\n\n$$T_{n+1} - T_n = -(n + 1)^2 + 26(n + 1) - 170 - (-n^2 + 26n - 170)$$\n$$-121 = -2n + 25$$\n$$n = 73$$\n**Between $T_{73}$ and $T_{74}$**\n\n* $\\checkmark T_n = -2n + 25$\n* $\\checkmark T_n = -121$\n* $\\checkmark n = 73$\n* $\\checkmark$ answer\n\n**OR/OF**\n* $\\checkmark T_n = -2n + 25$\n* $\\checkmark T_n = -121$\n* $\\checkmark n = 73$\n* $\\checkmark$ answer",
+        "final_answer": "Between $T_{73}$ and $T_{74}$"
+    },
+    {
+        "question_ref": "3.4",
+        "marks": 3,
+        "topic": "Sequences and Series - Maximum Term of Quadratic Pattern",
+        "passage": "Consider the quadratic number pattern: $-145 ; -122 ; -101 ; \\dots$, with general term $T_n = -n^2 + 26n - 170$.",
+        "question": "What value must be added to each term in the number pattern so that the value of the maximum term in the new number pattern formed will be $1$?",
+        "memo": "$$n = \\frac{-b}{2a} = \\frac{-26}{2(-1)} = 13$$\n$$T_{13} = -(13)^2 + 26(13) - 170 = -1$$\n$$\\therefore \\text{add } 2$$\n\n**OR/OF**\n\n$$T'_n = -2n + 26 = 0$$\n$$n = 13$$\n$$T_{13} = -(13)^2 + 26(13) - 170 = -1$$\n$$\\therefore \\text{add } 2$$\n\n* $\\checkmark 13$\n* $\\checkmark T_{13} = -1$\n* $\\checkmark$ add $2$\n\n**OR/OF**\n* $\\checkmark 13$\n* $\\checkmark T_{13} = -1$\n* $\\checkmark$ add $2$",
+        "final_answer": "$2$"
+    },
+
+    # QUESTION 4
+    {
+        "question_ref": "4.1",
+        "marks": 3,
+        "topic": "Sequences and Series - Linear Pattern",
+        "passage": "Consider the linear pattern: $5 ; 7 ; 9 ; \\dots$",
+        "question": "Determine $T_{51}$.",
+        "memo": "$$a = 5 \\quad \\text{and} \\quad d = 2$$\n$$T_{51} = 5 + (51 - 1)(2) = 105$$\n\n* $\\checkmark a$ and $d$\n* $\\checkmark$ substitution into correct formula\n* $\\checkmark$ answer",
+        "final_answer": "$T_{51} = 105$"
+    },
+    {
+        "question_ref": "4.2",
+        "marks": 2,
+        "topic": "Sequences and Series - Sum of Arithmetic Series",
+        "passage": "Consider the linear pattern: $5 ; 7 ; 9 ; \\dots$",
+        "question": "Calculate the sum of the first 51 terms.",
+        "memo": "$$S_n = \\frac{n}{2}[2a + (n - 1)d]$$\n$$S_{51} = \\frac{51}{2}[2(5) + (51 - 1)2] \\quad \\text{or} \\quad S_{51} = \\frac{51}{2}[5 + 105]$$\n$$= 2\\ 805 \\quad \\quad \\quad \\quad \\quad \\quad \\quad = 2\\ 805$$\n\n* $\\checkmark$ substitution into correct formula\n* $\\checkmark$ answer",
+        "final_answer": "$S_{51} = 2\\ 805$"
+    },
+    {
+        "question_ref": "4.3",
+        "marks": 1,
+        "topic": "Sequences and Series - Sigma Notation Expansion",
+        "passage": "",
+        "question": "Write down the expansion of $\\sum_{n=1}^{5000} (2n + 3)$. Show only the first 3 terms and the last term of the expansion.",
+        "memo": "$$\\sum_{n=1}^{5\\ 000} (2n + 3) = 5 + 7 + 9 + \\dots + 10\\ 003$$\n\n* $\\checkmark$ expansion",
+        "final_answer": "$5 + 7 + 9 + \\dots + 10\\ 003$"
+    },
+    {
+        "question_ref": "4.4",
+        "marks": 4,
+        "topic": "Sequences and Series - Sigma Notation Calculation",
+        "passage": "",
+        "question": "Hence, or otherwise, calculate $\\sum_{n=1}^{5000} (2n + 3) + \\sum_{n=1}^{4999} (-2n - 1)$.\n\nALL working details must be shown.",
+        "memo": "$$T_1 = -3 \\quad \\quad T_{4999} = -2(4\\ 999) - 1 = -9\\ 999$$\n$$\\sum_{n=1}^{5\\ 000} (2n + 3) + \\sum_{n=1}^{4\\ 999} (-2n - 1)$$\n$$= (5 + 7 + 9 + \\dots + 9\\ 999 + 10\\ 001 + 10\\ 003) + (-3 - 5 - 7 - 9 - \\dots - 9\\ 999)$$\n$$= 10\\ 001 + 10\\ 003 - 3$$\n$$= 20\\ 001$$\n\n**OR/OF**\n\n$$S_{4\\ 999} = \\frac{4\\ 999}{2}[2(-3) + (4\\ 999 - 1)(-2)] = -24\\ 999\\ 999$$\n$$S_{5\\ 000} = \\frac{5\\ 000}{2}[(2)(5) + (5\\ 000 - 1)(2)] = 25\\ 020\\ 000$$\n$$\\sum_{n=1}^{5\\ 000} (2n + 3) + \\sum_{n=1}^{4\\ 999} (-2n - 1) = 25\\ 020\\ 000 - 24\\ 999\\ 999 = 20\\ 001$$\n\n* $\\checkmark T_1 = -3$\n* $\\checkmark T_{4999} = -9\\ 999$\n* $\\checkmark$ both expansions\n* $\\checkmark$ answer (A)\n\n**OR/OF**\n* $\\checkmark T_1 = -3$\n* $\\checkmark S_{4999} = -24\\ 999\\ 999$\n* $\\checkmark S_{5000} = 25\\ 020\\ 000$\n* $\\checkmark$ answer (A)",
+        "final_answer": "$20\\ 001$"
+    },
+
+    # QUESTION 5
+    {
+        "question_ref": "5.1",
+        "marks": 2,
+        "topic": "Functions and Graphs - Hyperbola (Asymptotes)",
+        "passage": "Given: $f(x) = \\frac{-1}{x - 3} + 2$",
+        "question": "Write down the equations of the asymptotes of $f$.",
+        "memo": "$$x = 3$$\n$$y = 2$$\n\n* $\\checkmark x = 3$\n* $\\checkmark y = 2$",
+        "final_answer": "$x = 3$ and $y = 2$"
+    },
+    {
+        "question_ref": "5.2",
+        "marks": 1,
+        "topic": "Functions and Graphs - Hyperbola (Domain)",
+        "passage": "Given: $f(x) = \\frac{-1}{x - 3} + 2$",
+        "question": "Write down the domain of $f$.",
+        "memo": "$$x \\in \\mathbb{R}, \\, x \\neq 3$$\n\n**OR/OF**\n\n$$x \\in (-\\infty ; 3) \\cup (3 ; \\infty)$$\n\n**OR/OF**\n\n$$x < 3 \\quad \\text{or} \\quad x > 3$$\n\n* $\\checkmark$ answer\n\n**OR/OF**\n* $\\checkmark$ answer\n\n**OR/OF**\n* $\\checkmark$ answer",
+        "final_answer": "$x \\in \\mathbb{R}, x \\neq 3$"
+    },
+    {
+        "question_ref": "5.3",
+        "marks": 2,
+        "topic": "Functions and Graphs - Hyperbola (x-intercept)",
+        "passage": "Given: $f(x) = \\frac{-1}{x - 3} + 2$",
+        "question": "Determine the coordinates of the $x$-intercept of $f$.",
+        "memo": "$$0 = \\frac{-1}{x - 3} + 2$$\n$$-2(x - 3) = -1$$\n$$-2x + 6 = -1$$\n$$x = \\frac{7}{2}$$\n$$x\\text{-int: } \\left(\\frac{7}{2} ; 0\\right)$$\n\n* $\\checkmark y = 0$\n* $\\checkmark$ answer",
+        "final_answer": "$\\left(\\frac{7}{2} ; 0\\right)$ or $(3{,}5 ; 0)$"
+    },
+    {
+        "question_ref": "5.4",
+        "marks": 2,
+        "topic": "Functions and Graphs - Hyperbola (y-intercept)",
+        "passage": "Given: $f(x) = \\frac{-1}{x - 3} + 2$",
+        "question": "Write down the coordinates of the $y$-intercept of $f$.",
+        "memo": "$$y\\text{-int: } \\left(0 ; \\frac{7}{3}\\right)$$\n\n* $\\checkmark x = 0$\n* $\\checkmark \\frac{7}{3}$",
+        "final_answer": "$\\left(0 ; \\frac{7}{3}\\right)$"
+    },
+    {
+        "question_ref": "5.5",
+        "marks": 3,
+        "topic": "Functions and Graphs - Hyperbola (Sketch)",
+        "passage": "Given: $f(x) = \\frac{-1}{x - 3} + 2$\nAsymptotes: $x = 3$ and $y = 2$\nIntercepts with axes: $\\left(\\frac{7}{2} ; 0\\right)$ and $\\left(0 ; \\frac{7}{3}\\right)$",
+        "question": "Draw the graph of $f$. Clearly show ALL the asymptotes and intercepts with the axes.",
+        "memo": "Sketch of $f(x) = \\frac{-1}{x - 3} + 2$:\n- Asymptotes drawn as dashed lines at $x = 3$ and $y = 2$.\n- Axes intercepts clearly indicated at $\\left(0 ; \\frac{7}{3}\\right)$ on the $y$-axis and $\\left(\\frac{7}{2} ; 0\\right)$ on the $x$-axis.\n- Two smooth hyperbolic branches located in the second and fourth quadrants relative to the asymptotes $x = 3$ and $y = 2$.\n\n* $\\checkmark$ asymptotes\n* $\\checkmark$ intercepts with the axes\n* $\\checkmark$ shape",
+        "final_answer": "Graph showing asymptotes $x = 3$ and $y = 2$, intercepts $\\left(0 ; \\frac{7}{3}\\right)$ and $\\left(\\frac{7}{2} ; 0\\right)$, with correct hyperbola branches."
+    },
+
+    # QUESTION 6
+    {
+        "question_ref": "6.1",
+        "marks": 2,
+        "topic": "Functions and Graphs - Logarithmic Function",
+        "passage": "The graph of $f(x) = \\log_4 x$ is drawn below.\n$B(k; 2)$ is a point on $f$.\n\n[DIAGRAM DESCRIPTION: A Cartesian plane with origin $O(0;0)$. The curve $f(x) = \\log_4 x$ is shown for $x > 0$, increasing from the fourth quadrant through $(1 ; 0)$ into the first quadrant, with vertical asymptote $x = 0$. Point $B(k ; 2)$ is marked on the curve in the first quadrant.]",
+        "question": "Calculate the value of $k$.",
+        "memo": "$$f(x) = \\log_4 x$$\n$$2 = \\log_4 k$$\n$$4^2 = k$$\n$$\\therefore k = 16$$\n\n* $\\checkmark$ substitution of $(k ; 2)$\n* $\\checkmark$ answer",
+        "final_answer": "$k = 16$"
+    },
+    {
+        "question_ref": "6.2",
+        "marks": 2,
+        "topic": "Functions and Graphs - Logarithmic Inequality",
+        "passage": "The graph of $f(x) = \\log_4 x$ is drawn below.\n$B(k; 2)$ is a point on $f$, where $k = 16$.\n\n[DIAGRAM DESCRIPTION: A Cartesian plane with origin $O(0;0)$. The curve $f(x) = \\log_4 x$ is shown for $x > 0$, increasing from the fourth quadrant through $(1 ; 0)$ into the first quadrant, with vertical asymptote $x = 0$. Point $B(k ; 2)$ is marked on the curve in the first quadrant.]",
+        "question": "Determine the values of $x$ for which $-1 \\le f(x) \\le 2$.",
+        "memo": "$$-1 = \\log_4 x \\implies x = 4^{-1} = \\frac{1}{4}$$\n$$\\frac{1}{4} \\le x \\le 16 \\quad \\text{or} \\quad x \\in \\left[\\frac{1}{4} ; 16\\right]$$\n\n* $\\checkmark x = \\frac{1}{4}$\n* $\\checkmark$ answer",
+        "final_answer": "$\\frac{1}{4} \\le x \\le 16$ or $x \\in \\left[\\frac{1}{4} ; 16\\right]$"
+    },
+    {
+        "question_ref": "6.3",
+        "marks": 2,
+        "topic": "Functions and Graphs - Inverse Function",
+        "passage": "The graph of $f(x) = \\log_4 x$ is drawn below.\n$B(k; 2)$ is a point on $f$.\n\n[DIAGRAM DESCRIPTION: A Cartesian plane with origin $O(0;0)$. The curve $f(x) = \\log_4 x$ is shown for $x > 0$, increasing from the fourth quadrant through $(1 ; 0)$ into the first quadrant, with vertical asymptote $x = 0$. Point $B(k ; 2)$ is marked on the curve in the first quadrant.]",
+        "question": "Write down the equation of $f^{-1}$, the inverse of $f$, in the form $y = \\dots$",
+        "memo": "$$f(x) = \\log_4 x$$\n$$y = \\log_4 x$$\n$$x = \\log_4 y$$\n$$y = 4^x$$\n\n* $\\checkmark$ swopping $x$ and $y$\n* $\\checkmark$ answer",
+        "final_answer": "$y = 4^x$"
+    },
+    {
+        "question_ref": "6.4",
+        "marks": 2,
+        "topic": "Functions and Graphs - Exponential Inequality",
+        "passage": "The graph of $f(x) = \\log_4 x$ is drawn below, with inverse $f^{-1}(x) = 4^x$.\n\n[DIAGRAM DESCRIPTION: A Cartesian plane with origin $O(0;0)$. The curve $f(x) = \\log_4 x$ is shown for $x > 0$, increasing from the fourth quadrant through $(1 ; 0)$ into the first quadrant, with vertical asymptote $x = 0$. Point $B(k ; 2)$ is marked on the curve in the first quadrant.]",
+        "question": "For which values of $x$ will $x \\cdot f^{-1}(x) < 0$?",
+        "memo": "$$x < 0$$\n\n**OR/OF**\n\n$$x \\in (-\\infty ; 0)$$\n\n* $\\checkmark\\checkmark$ answer\n\n**OR/OF**\n* $\\checkmark\\checkmark$ answer",
+        "final_answer": "$x < 0$ or $x \\in (-\\infty ; 0)$"
+    },
+
+    # QUESTION 7
+    {
+        "question_ref": "7.1",
+        "marks": 2,
+        "topic": "Functions and Graphs - Parabola (x-intercepts)",
+        "passage": "The graph of $f(x) = (x + 4)(x - 6)$ is drawn below.\nThe parabola cuts the $x$-axis at B and D and the $y$-axis at G.\nC is the turning point of $f$.\nLine AE has an angle of inclination of $\\theta$ and cuts the $x$-axis and $y$-axis at A and E respectively.\nT is a point on $f$ between B and G.\n\n[DIAGRAM DESCRIPTION: Parabola $f(x) = (x + 4)(x - 6)$ opening upwards with $x$-intercepts $B$ (left) and $D$ (right) on the $x$-axis, $y$-intercept $G$ on the negative $y$-axis, and turning point $C$ in quadrant IV. Straight line $AE$ with angle of inclination $\\theta$ cuts the negative $x$-axis at $A$ (left of $B$) and positive $y$-axis at $E$. Point $T$ lies on the parabola in quadrant III between $B$ and $G$.]",
+        "question": "Write down the coordinates of B and D.",
+        "memo": "$$B(-4 ; 0)$$\n$$D(6 ; 0)$$\n\n* $\\checkmark B(-4 ; 0)$\n* $\\checkmark D(6 ; 0)$",
+        "final_answer": "$B(-4 ; 0)$ and $D(6 ; 0)$"
+    },
+    {
+        "question_ref": "7.2",
+        "marks": 2,
+        "topic": "Functions and Graphs - Parabola (Turning Point)",
+        "passage": "The graph of $f(x) = (x + 4)(x - 6) = x^2 - 2x - 24$ is drawn below.\nThe parabola cuts the $x$-axis at B and D and the $y$-axis at G.\nC is the turning point of $f$.\nLine AE has an angle of inclination of $\\theta$ and cuts the $x$-axis and $y$-axis at A and E respectively.\nT is a point on $f$ between B and G.\n\n[DIAGRAM DESCRIPTION: Parabola $f(x) = (x + 4)(x - 6)$ opening upwards with $x$-intercepts $B(-4 ; 0)$ and $D(6 ; 0)$, $y$-intercept $G(0 ; -24)$, and turning point $C$. Straight line $AE$ with angle of inclination $\\theta$ cuts the $x$-axis at $A$ and $y$-axis at $E$. Point $T$ lies on the parabola between $B$ and $G$.]",
+        "question": "Calculate the coordinates of C.",
+        "memo": "$$f(x) = x^2 - 2x - 24$$\n$$x_{\\text{tp}} = \\frac{-b}{2a} \\quad \\textbf{OR/OF} \\quad 2x - 2 = 0 \\quad \\textbf{OR/OF} \\quad x = \\frac{-4 + 6}{2}$$\n$$x = \\frac{-(-2)}{2(1)} = 1$$\n$$\\therefore x_{\\text{tp}} = 1$$\n$$y_{\\text{tp}} = f(1) = (1)^2 - 2(1) - 24 = -25$$\n$$C(1 ; -25)$$\n\n* $\\checkmark x_{\\text{tp}} = 1$\n* $\\checkmark y_{\\text{tp}} = -25$",
+        "final_answer": "$C(1 ; -25)$"
+    },
+    {
+        "question_ref": "7.3",
+        "marks": 1,
+        "topic": "Functions and Graphs - Parabola (Range)",
+        "passage": "The graph of $f(x) = (x + 4)(x - 6)$ is drawn below.\nC is the turning point of $f$ with coordinates $(1 ; -25)$.\n\n[DIAGRAM DESCRIPTION: Parabola $f(x) = (x + 4)(x - 6)$ opening upwards with turning point $C(1 ; -25)$.]",
+        "question": "Write down the range of $f$.",
+        "memo": "$$y \\ge -25$$\n\n**OR/OF**\n\n$$y \\in [-25 ; \\infty)$$\n\n* $\\checkmark$ answer\n\n**OR/OF**\n* $\\checkmark$ answer",
+        "final_answer": "$y \\ge -25$ or $y \\in [-25 ; \\infty)$"
+    },
+    {
+        "question_ref": "7.4.1",
+        "marks": 1,
+        "topic": "Analytical Geometry / Functions - Gradient from Angle of Inclination",
+        "passage": "The graph of $f(x) = (x + 4)(x - 6)$ is drawn below.\nLine AE has an angle of inclination of $\\theta$ and cuts the $x$-axis and $y$-axis at A and E respectively.\nT is a point on $f$ between B and G.\nGiven that $\\theta = 14{,}04^\\circ$ and the tangent to $f$ at T is perpendicular to AE.",
+        "question": "Calculate the gradient of AE, correct to TWO decimal places.",
+        "memo": "$$m_{AE} = \\tan 14{,}04^\\circ = 0{,}25 = \\frac{1}{4}$$\n\n* $\\checkmark$ answer",
+        "final_answer": "$0{,}25$ (or $\\frac{1}{4}$)"
+    },
+    {
+        "question_ref": "7.4.2",
+        "marks": 5,
+        "topic": "Calculus / Functions - Coordinates of Tangency Point",
+        "passage": "The graph of $f(x) = (x + 4)(x - 6) = x^2 - 2x - 24$ is drawn below.\nLine AE has gradient $m_{AE} = 0{,}25 = \\frac{1}{4}$.\nThe tangent to $f$ at T is perpendicular to AE.\nT is a point on $f$ between B and G.",
+        "question": "Calculate the coordinates of T.",
+        "memo": "$$m_{\\text{tang}} = -4$$\n$$f'(x) = 2x - 2$$\n$$2x - 2 = -4$$\n$$x_T = -1$$\n$$y_T = f(-1) = (-1)^2 - 2(-1) - 24 = 1 + 2 - 24 = -21$$\n$$T(-1 ; -21)$$\n\n* $\\checkmark m_{\\text{tang}} = -4$\n* $\\checkmark f'(x) = 2x - 2$\n* $\\checkmark$ equating\n* $\\checkmark x_T = -1$\n* $\\checkmark y_T = -21$",
+        "final_answer": "$T(-1 ; -21)$"
+    },
+    {
+        "question_ref": "7.5",
+        "marks": 6,
+        "topic": "Functions and Graphs - Intersection of Line and Parabola",
+        "passage": "The graph of $f(x) = (x + 4)(x - 6) = x^2 - 2x - 24$ is drawn below.\nLine AE has gradient $m_{AE} = \\frac{1}{4}$.\nA straight line, $g$, parallel to AE, cuts $f$ at $K(-3 ; -9)$ and $R$.",
+        "question": "Calculate the $x$-coordinate of $R$.",
+        "memo": "$$m_{\\text{line}} = \\frac{1}{4}$$\n$$y + 9 = \\frac{1}{4}(x + 3) \\quad \\textbf{OR/OF} \\quad -9 = \\frac{1}{4}(-3) + c$$\n$$y + 9 = \\frac{1}{4}x + \\frac{3}{4} \\quad \\quad \\quad \\quad c = -\\frac{33}{4} = -8{,}25$$\n$$y = \\frac{1}{4}x - \\frac{33}{4} \\quad \\textbf{OR/OF} \\quad y = 0{,}25x - 8{,}25$$\n\nEquating to parabola:\n$$x^2 - 2x - 24 = \\frac{1}{4}x - \\frac{33}{4}$$\n$$4x^2 - 8x - 96 = x - 33$$\n$$4x^2 - 9x - 63 = 0$$\n$$(4x - 21)(x + 3) = 0$$\n$$\\therefore x = \\frac{21}{4} = 5{,}25 \\quad \\text{or} \\quad x \\neq -3$$\n\n* $\\checkmark m_{\\text{line}} = \\frac{1}{4}$\n* $\\checkmark$ substitution $m$ and $K(-3 ; -9)$\n* $\\checkmark y = \\frac{1}{4}x - \\frac{33}{4}$\n* $\\checkmark$ equating\n* $\\checkmark$ standard form\n* $\\checkmark$ answer with selection",
+        "final_answer": "$x = \\frac{21}{4} = 5{,}25$"
+    },
+
+    # QUESTION 8
+    {
+        "question_ref": "8.1",
+        "marks": 3,
+        "topic": "Financial Mathematics - Reducing-Balance Depreciation",
+        "passage": "",
+        "question": "A farmer bought a tractor for R980 000. The value of the tractor depreciates annually at a rate of $9{,}2\\%$ p.a. on the reducing-balance method. Calculate the book value of the tractor after 7 years.",
+        "memo": "$$A = P(1 - i)^n$$\n$$A = 980\\ 000(1 - 0{,}092)^7$$\n$$A = \\text{R}498\\ 685{,}82$$\n\n* $\\checkmark$ correct formula\n* $\\checkmark$ substitution\n* $\\checkmark$ answer (A)",
+        "final_answer": "$\\text{R}498\\ 685{,}82$"
+    },
+    {
+        "question_ref": "8.2",
+        "marks": 4,
+        "topic": "Financial Mathematics - Compound Interest (Solving for n)",
+        "passage": "",
+        "question": "How many years will it take for an amount of R75 000 to accrue to R116 253,50 in an account earning interest of $6{,}8\\%$ p.a., compounded quarterly?",
+        "memo": "$$A = P(1 + i)^n$$\n$$116\\ 253{,}50 = 75\\ 000 \\left(1 + \\frac{0{,}068}{4}\\right)^{4n}$$\n$$1{,}550\\ 046\\ 667 = (1{,}017)^{4n}$$\n$$\\log(1{,}550\\ 046\\ 667) = 4n \\log(1{,}017)$$\n$$4n = \\frac{\\log(1{,}550\\ 046\\ 667)}{\\log(1{,}017)} \\quad \\text{or } 4n = \\log_{1{,}017} (1{,}550\\ 046\\ 667)$$\n$$4n = 25{,}99\\dots \\approx 26$$\n$$n = 6{,}50 \\text{ years}$$\n\n* $\\checkmark \\frac{0{,}068}{4}$\n* $\\checkmark$ substitution in correct formula\n* $\\checkmark$ correct use of logs\n* $\\checkmark$ answer",
+        "final_answer": "$6{,}50$ years"
+    },
+    {
+        "question_ref": "8.3.1",
+        "marks": 3,
+        "topic": "Financial Mathematics - Future Value Annuity",
+        "passage": "Thabo wanted to save R450 000 as a deposit to buy a house on 30 June 2018.",
+        "question": "He deposited a fixed amount of money at the end of every month into an account earning interest of $8{,}35\\%$ p.a., compounded monthly. His first deposit was made on 31 July 2013 and his 60th deposit on 30 June 2018. Calculate the amount he deposited monthly.",
+        "memo": "$$F = \\frac{x[(1 + i)^n - 1]}{i}$$\n$$450\\ 000 = \\frac{x\\left[\\left(1 + \\frac{0{,}0835}{12}\\right)^{60} - 1\\right]}{\\frac{0{,}0835}{12}}$$\n$$x = \\text{R}6\\ 068{,}69$$\n\n* $\\checkmark i = \\frac{0{,}0835}{12}$\n* $\\checkmark$ substitution into correct formula\n* $\\checkmark$ answer",
+        "final_answer": "$\\text{R}6\\ 068{,}69$"
+    },
+    {
+        "question_ref": "8.3.2(a)",
+        "marks": 3,
+        "topic": "Financial Mathematics - Outstanding Balance on Home Loan",
+        "passage": "Thabo bought a house costing R1 500 000 and used his savings of R450 000 as the deposit. He obtained a home loan for the balance of the purchase price ($\\text{R}1\\ 050\\ 000$) at an interest of $12\\%$ p.a., compounded monthly over 25 years. He made his first monthly instalment of R11 058,85 towards the loan on 31 July 2018.",
+        "question": "What will the balance outstanding on the loan be on 30 June 2039, 21 years after the loan was granted?",
+        "memo": "$$P = \\frac{x[1 - (1 + i)^{-n}]}{i}$$\n$$P = \\frac{11\\ 058{,}85\\left[1 - \\left(1 + \\frac{0{,}12}{12}\\right)^{-4\\times 12}\\right]}{\\frac{0{,}12}{12}}$$\n$$P = \\text{R}419\\ 948{,}32$$\n\n**OR/OF**\n\n$$\\text{Balance} = A - F$$\n$$= P(1 + i)^n - \\frac{x[(1 + i)^n - 1]}{i}$$\n$$= 1\\ 050\\ 000\\left(1 + \\frac{0{,}12}{12}\\right)^{12\\times 21} - \\frac{11\\ 058{,}85\\left[\\left(1 + \\frac{0{,}12}{12}\\right)^{12\\times 21} - 1\\right]}{\\frac{0{,}12}{12}}$$\n$$= \\text{R}12\\ 887\\ 702{,}20 - \\text{R}12\\ 467\\ 749{,}81$$\n$$= \\text{R}419\\ 952{,}39$$\n\n* $\\checkmark n = 48$ in P-formula\n* $\\checkmark$ substitution into correct formula\n* $\\checkmark$ answer (A)\n\n**OR/OF**\n* $\\checkmark n = 252$ in both formulae\n* $\\checkmark$ subst into correct formulae\n* $\\checkmark$ answer (A)",
+        "final_answer": "$\\text{R}419\\ 948{,}32$ (or $\\text{R}419\\ 952{,}39$)"
+    },
+    {
+        "question_ref": "8.3.2(b)",
+        "marks": 3,
+        "topic": "Financial Mathematics - Total Interest Paid on Loan",
+        "passage": "Thabo bought a house costing R1 500 000 and used his savings of R450 000 as the deposit. He obtained a home loan for R1 050 000 at $12\\%$ p.a., compounded monthly over 25 years with monthly instalments of R11 058,85. The balance outstanding after 21 years (on 30 June 2039) is R419 948,32 (or R419 952,39).",
+        "question": "Calculate the interest Thabo will have paid over the first 21 years of the loan.",
+        "memo": "$$\\text{Total paid} = 11\\ 058{,}85 \\times 21 \\times 12 = 2\\ 786\\ 830{,}20$$\n$$\\text{Loan Paid} = 1\\ 050\\ 000 - 419\\ 948{,}32 = 630\\ 051{,}68$$\n$$\\text{Interest paid} = 2\\ 786\\ 830{,}20 - 630\\ 051{,}68 = \\text{R}2\\ 156\\ 778{,}52$$\n\n**OR/OF**\n\n$$\\text{Total paid} = 11\\ 058{,}85 \\times 21 \\times 12 = 2\\ 786\\ 830{,}20$$\n$$\\text{Loan Paid} = 1\\ 050\\ 000 - 419\\ 952{,}39 = 630\\ 047{,}61$$\n$$\\text{Interest paid} = 2\\ 786\\ 830{,}20 - 630\\ 047{,}61 = \\text{R}2\\ 156\\ 782{,}59$$\n\n**OR/OF**\n\n$$\\text{Interest paid} = 11\\ 058{,}85 \\times 21 \\times 12 - (1\\ 050\\ 000 - 419\\ 948{,}32)$$\n$$= 2\\ 786\\ 830{,}20 - 630\\ 051{,}68$$\n$$= \\text{R}2\\ 156\\ 778{,}52$$\n\n* $\\checkmark 11\\ 058{,}85 \\times 21 \\times 12$\n* $\\checkmark 1\\ 050\\ 000 - \\text{Balance Outstanding}$\n* $\\checkmark$ answer\n\n**OR/OF**\n* $\\checkmark 11\\ 058{,}85 \\times 21 \\times 12$\n* $\\checkmark 1\\ 050\\ 000 - \\text{Balance Outstanding}$\n* $\\checkmark$ answer\n\n**OR/OF**\n* $\\checkmark 11\\ 058{,}85 \\times 21 \\times 12$\n* $\\checkmark 1\\ 050\\ 000 - \\text{Balance Outstanding}$\n* $\\checkmark$ answer",
+        "final_answer": "$\\text{R}2\\ 156\\ 778{,}52$ (or $\\text{R}2\\ 156\\ 782{,}59$)"
+    },
+
+    # QUESTION 9
+    {
+        "question_ref": "9.1",
+        "marks": 5,
+        "topic": "Calculus - Derivative from First Principles",
+        "passage": "",
+        "question": "Determine $f'(x)$ from first principles if it is given that $f(x) = 2x^2 - 3x$.",
+        "memo": "$$f'(x) = \\lim_{h \\to 0} \\frac{f(x + h) - f(x)}{h}$$\n$$f'(x) = \\lim_{h \\to 0} \\frac{2(x + h)^2 - 3(x + h) - (2x^2 - 3x)}{h}$$\n$$f'(x) = \\lim_{h \\to 0} \\frac{2x^2 + 4xh + 2h^2 - 3x - 3h - 2x^2 + 3x}{h}$$\n$$= \\lim_{h \\to 0} \\frac{4xh + 2h^2 - 3h}{h}$$\n$$= \\lim_{h \\to 0} \\frac{h(4x + 2h - 3)}{h}$$\n$$= \\lim_{h \\to 0} (4x + 2h - 3)$$\n$$\\therefore f'(x) = 4x - 3$$\n\n**OR/OF**\n\n$$f(x) = 2x^2 - 3x$$\n$$f(x + h) = 2(x + h)^2 - 3(x + h)$$\n$$f(x + h) = 2x^2 + 4xh + 2h^2 - 3x - 3h$$\n$$f(x + h) - f(x) = 4xh + 2h^2 - 3h$$\n$$f'(x) = \\lim_{h \\to 0} \\frac{f(x + h) - f(x)}{h}$$\n$$= \\lim_{h \\to 0} \\frac{4xh + 2h^2 - 3h}{h}$$\n$$= \\lim_{h \\to 0} \\frac{h(4x + 2h - 3)}{h}$$\n$$= \\lim_{h \\to 0} (4x + 2h - 3)$$\n$$\\therefore f'(x) = 4x - 3$$\n\n* $\\checkmark$ substitution\n* $\\checkmark 2x^2 + 4xh + 2h^2 - 3x - 3h$\n* $\\checkmark 4xh + 2h^2 - 3h$\n* $\\checkmark$ factorisation\n* $\\checkmark$ answer\n\n**OR/OF**\n* $\\checkmark$ substitution\n* $\\checkmark 2x^2 + 4xh + 2h^2 - 3x - 3h$\n* $\\checkmark 4xh + 2h^2 - 3h$\n* $\\checkmark$ factorisation\n* $\\checkmark$ answer",
+        "final_answer": "$f'(x) = 4x - 3$"
+    },
+    {
+        "question_ref": "9.2.1",
+        "marks": 3,
+        "topic": "Calculus - Rules of Differentiation",
+        "passage": "",
+        "question": "Determine $\\frac{dy}{dx}$ if $y = 4x^5 - 6x^4 + 3x$.",
+        "memo": "$$y = 4x^5 - 6x^4 + 3x$$\n$$\\frac{dy}{dx} = 20x^4 - 24x^3 + 3$$\n\n* $\\checkmark 20x^4$\n* $\\checkmark -24x^3$\n* $\\checkmark 3$",
+        "final_answer": "$\\frac{dy}{dx} = 20x^4 - 24x^3 + 3$"
+    },
+    {
+        "question_ref": "9.2.2",
+        "marks": 4,
+        "topic": "Calculus - Rules of Differentiation (Radicals and Fractional Exponents)",
+        "passage": "",
+        "question": "Determine $D_x \\left[ -\\frac{\\sqrt[3]{x}}{2} + \\left(\\frac{1}{3x}\\right)^2 \\right]$.",
+        "memo": "$$D_x \\left[ -\\frac{\\sqrt[3]{x}}{2} + \\left(\\frac{1}{3x}\\right)^2 \\right]$$\n$$= D_x \\left[ -\\frac{1}{2}x^{\\frac{1}{3}} + \\frac{1}{9}x^{-2} \\right]$$\n$$= -\\frac{1}{6}x^{-\\frac{2}{3}} - \\frac{2}{9}x^{-3}$$\n$$= -\\frac{1}{6x^{\\frac{2}{3}}} - \\frac{2}{9x^3}$$\n\n* $\\checkmark -\\frac{1}{2}x^{\\frac{1}{3}}$\n* $\\checkmark \\frac{1}{9}x^{-2}$\n* $\\checkmark -\\frac{1}{6}x^{-\\frac{2}{3}}$\n* $\\checkmark -\\frac{2}{9}x^{-3}$",
+        "final_answer": "$-\\frac{1}{6}x^{-\\frac{2}{3}} - \\frac{2}{9}x^{-3}$ (or $-\\frac{1}{6x^{\\frac{2}{3}}} - \\frac{2}{9x^3}$)"
+    },
+
+    # QUESTION 10
+    {
+        "question_ref": "10.1",
+        "marks": 5,
+        "topic": "Calculus - Cubic Function (Determining Coefficients)",
+        "passage": "The graph of $h(x) = ax^3 + bx^2$ is drawn below.\nThe graph has turning points at the origin, $O(0 ; 0)$ and $B(4 ; 32)$.\nA is an $x$-intercept of $h$.\n\n[DIAGRAM DESCRIPTION: Cubic graph $h$ starting from top left in quadrant II, passing through the origin $O(0 ; 0)$ as a local minimum turning point, rising into quadrant I to reach a local maximum turning point at $B(4 ; 32)$, then decreasing to cross the positive $x$-axis at point $A$ and continuing downwards into quadrant IV.]",
+        "question": "Show that $a = -1$ and $b = 6$.",
+        "memo": "$$h(x) = ax^3 + bx^2$$\n$$h'(x) = 3ax^2 + 2bx$$\n$$h'(4) = 0$$\n$$48a + 8b = 0$$\n$$6a + b = 0 \\quad \\dots (1)$$\n\n$$h(4) = 32$$\n$$64a + 16b = 32$$\n$$4a + b = 2 \\quad \\dots (2)$$\n\n$$(1) - (2):$$\n$$6a + b = 0$$\n$$4a + b = 2$$\n$$2a = -2$$\n$$a = -1$$\n\n$$4(-1) + b = 2$$\n$$b = 6$$\n\n* $\\checkmark h'(x)$\n* $\\checkmark h'(4) = 0$\n* $\\checkmark 48a + 8b = 0$ or $6a + b = 0$\n* $\\checkmark h(4) = 32$\n* $\\checkmark 64a + 16b = 32$ or $4a + b = 2$",
+        "final_answer": "$a = -1$ and $b = 6$"
+    },
+    {
+        "question_ref": "10.2",
+        "marks": 3,
+        "topic": "Calculus - Cubic Function (x-intercept)",
+        "passage": "The graph of $h(x) = ax^3 + bx^2 = -x^3 + 6x^2$ is drawn below.\nThe graph has turning points at the origin, $O(0 ; 0)$ and $B(4 ; 32)$.\nA is an $x$-intercept of $h$.\n\n[DIAGRAM DESCRIPTION: Cubic graph $h(x) = -x^3 + 6x^2$ with local minimum at $O(0 ; 0)$, local maximum at $B(4 ; 32)$, and $x$-intercept at $A$.]",
+        "question": "Calculate the coordinates of A.",
+        "memo": "$$h(x) = -x^3 + 6x^2$$\n$$-x^3 + 6x^2 = 0$$\n$$x^2(-x + 6) = 0$$\n$$x = 0 \\quad \\text{or} \\quad x = 6$$\n$$\\therefore A(6 ; 0)$$\n\n* $\\checkmark -x^3 + 6x^2 = 0$\n* $\\checkmark$ factors\n* $\\checkmark A(6 ; 0)$",
+        "final_answer": "$A(6 ; 0)$"
+    },
+    {
+        "question_ref": "10.3.1",
+        "marks": 2,
+        "topic": "Calculus - Cubic Function (Increasing Interval)",
+        "passage": "The graph of $h(x) = -x^3 + 6x^2$ is drawn below.\nThe graph has turning points at the origin, $O(0 ; 0)$ and $B(4 ; 32)$.",
+        "question": "Write down the values of $x$ for which $h$ is increasing.",
+        "memo": "$$0 < x < 4 \\quad \\text{or} \\quad 0 \\le x \\le 4$$\n\n**OR/OF**\n\n$$x \\in (0 ; 4) \\quad \\text{or} \\quad x \\in [0 ; 4]$$\n\n* $\\checkmark$ critical values\n* $\\checkmark$ notation\n\n**OR/OF**\n* $\\checkmark$ critical values\n* $\\checkmark$ notation",
+        "final_answer": "$0 < x < 4$ or $x \\in (0 ; 4)$"
+    },
+    {
+        "question_ref": "10.3.2",
+        "marks": 2,
+        "topic": "Calculus - Cubic Function (Concavity)",
+        "passage": "The graph of $h(x) = -x^3 + 6x^2$ is drawn below.\nThe graph has turning points at $O(0 ; 0)$ and $B(4 ; 32)$.",
+        "question": "Write down the values of $x$ for which $h$ is concave down.",
+        "memo": "$$x > 2$$\n\n**OR/OF**\n\n$$x \\in (2 ; \\infty)$$\n\n* $\\checkmark 2$\n* $\\checkmark$ notation\n\n**OR/OF**\n* $\\checkmark 2$\n* $\\checkmark$ notation",
+        "final_answer": "$x > 2$ or $x \\in (2 ; \\infty)$"
+    },
+    {
+        "question_ref": "10.4",
+        "marks": 3,
+        "topic": "Calculus - Cubic Function (Nature of Roots and Transformations)",
+        "passage": "The graph of $h(x) = -x^3 + 6x^2$ has turning points at $O(0 ; 0)$ and $B(4 ; 32)$.",
+        "question": "For which values of $k$ will $-(x - 1)^3 + 6(x - 1)^2 - k = 0$ have one negative and two distinct positive roots?",
+        "memo": "Let $f(x) = h(x - 1) = -(x - 1)^3 + 6(x - 1)^2$.\n$f(x)$ is $h(x)$ shifted 1 unit to the right.\nLocal minimum moves to $(1 ; 0)$ and local maximum moves to $(5 ; 32)$.\n$$y\\text{-intercept of } f: f(0) = -(0 - 1)^3 + 6(0 - 1)^2 = -(-1) + 6(1) = 7$$\n\nFor $f(x) = k$ to have one negative root and two distinct positive roots, the line $y = k$ must intersect the graph between the $y$-intercept and the local maximum:\n$$7 < k < 32 \\quad \\text{or} \\quad k \\in (7 ; 32)$$\n\n* $\\checkmark k < 32$\n* $\\checkmark$ new $y$-intercept $= 7$\n* $\\checkmark 7 < k < 32$",
+        "final_answer": "$7 < k < 32$ or $k \\in (7 ; 32)$"
+    },
+
+    # QUESTION 11
+    {
+        "question_ref": "11",
+        "marks": 7,
+        "topic": "Calculus - Optimization (Minimizing Cost)",
+        "passage": "After travelling a distance of $20\\text{ km}$ from home, a person suddenly remembers that he did not close a tap in his garden. He decides to turn around immediately and return home to close the tap.\n\nThe cost of the water, at the rate at which water is flowing out of the tap, is $\\text{R}1{,}60\\text{ per hour}$.\n\nThe cost of petrol is $\\left(1{,}2 + \\frac{x}{4000}\\right)\\text{ rands per km}$, where $x$ is the average speed in $\\text{km/h}$.",
+        "question": "Calculate the average speed at which the person must travel home to keep his cost as low as possible.",
+        "memo": "$$\\text{Time} = \\frac{20}{x}$$\n$$\\text{Cost} = (\\text{water cost per hour} \\times \\text{time}) + (\\text{kms} \\times \\text{R/km})$$\n$$C(x) = 1{,}6 \\times \\left(\\frac{20}{x}\\right) + 20\\left(1{,}2 + \\frac{x}{4\\ 000}\\right)$$\n$$C(x) = \\frac{32}{x} + 24 + \\frac{x}{200}$$\n$$C'(x) = -\\frac{32}{x^2} + \\frac{1}{200} = 0$$\n$$x^2 = 6\\ 400$$\n$$x = 80\\text{ km/h}$$\n\n* $\\checkmark \\frac{20}{x}$\n* $\\checkmark 1{,}6 \\times \\left(\\frac{20}{x}\\right)$\n* $\\checkmark 20\\left(1{,}2 + \\frac{x}{4\\ 000}\\right)$\n* $\\checkmark C(x) = \\frac{32}{x} + 24 + \\frac{x}{200}$\n* $\\checkmark C'(x) = -\\frac{32}{x^2} + \\frac{1}{200}$\n* $\\checkmark C'(x) = 0$\n* $\\checkmark$ answer (A)",
+        "final_answer": "$80\\text{ km/h}$"
+    },
+
+    # QUESTION 12
+    {
+        "question_ref": "12.1.1",
+        "marks": 1,
+        "topic": "Probability - Mutually Exclusive Events",
+        "passage": "A and B are independent events. It is further given that:\n$\\text{P(A and B)} = 0{,}3$ and $\\text{P(only B)} = 0{,}2$",
+        "question": "Are A and B mutually exclusive? Motivate your answer.",
+        "memo": "No, because $\\text{P(A and B)} \\neq 0$ (or $\\text{P(A and B)} = 0{,}3$).\n\n* $\\checkmark$ answer and reason",
+        "final_answer": "No, because $\\text{P(A and B)} = 0{,}3 \\neq 0$"
+    },
+    {
+        "question_ref": "12.1.2(a)",
+        "marks": 4,
+        "topic": "Probability - Independent Events",
+        "passage": "A and B are independent events. It is further given that:\n$\\text{P(A and B)} = 0{,}3$ and $\\text{P(only B)} = 0{,}2$",
+        "question": "Determine $\\text{P(only A)}$.",
+        "memo": "$$\\text{P(A and B)} = 0{,}3 \\quad \\quad \\text{P(only B)} = 0{,}2$$\n$$\\text{P(B)} = \\text{P(only B)} + \\text{P(A and B)} = 0{,}2 + 0{,}3 = 0{,}5$$\n$$\\text{P(A and B)} = \\text{P(A)} \\times \\text{P(B)}$$\n$$0{,}3 = \\text{P(A)} \\times 0{,}5$$\n$$\\text{P(A)} = 0{,}6$$\n$$\\text{P(only A)} = \\text{P(A)} - \\text{P(A and B)} = 0{,}6 - 0{,}3 = 0{,}3$$\n\n* $\\checkmark \\text{P(A and B)} = \\text{P(A)} \\times \\text{P(B)}$\n* $\\checkmark 0{,}5$\n* $\\checkmark \\text{P(A)} = 0{,}6$\n* $\\checkmark$ answer",
+        "final_answer": "$\\text{P(only A)} = 0{,}3$"
+    },
+    {
+        "question_ref": "12.1.2(b)",
+        "marks": 2,
+        "topic": "Probability - Complement and Compound Events",
+        "passage": "A and B are independent events with $\\text{P(only A)} = 0{,}3$, $\\text{P(A and B)} = 0{,}3$, and $\\text{P(only B)} = 0{,}2$.",
+        "question": "Determine $\\text{P(not A or not B)}$.",
+        "memo": "$$\\text{P(not A or not B)} = 1 - \\text{P(A and B)} = 1 - 0{,}3 = 0{,}7$$\n\n**OR/OF**\n\n$$\\text{P(not A or not B)} = 0{,}2 + 0{,}2 + 0{,}3 = 0{,}7$$\n\n**OR/OF**\n\n$$\\text{P}(A' \\text{ or } B') = \\text{P}(A') + \\text{P}(B') - \\text{P}(A' \\text{ and } B')$$\n$$= 0{,}4 + 0{,}5 - 0{,}2 = 0{,}7$$\n\n* $\\checkmark$ method\n* $\\checkmark$ answer\n\n**OR/OF**\n* $\\checkmark$ method\n* $\\checkmark$ answer\n\n**OR/OF**\n* $\\checkmark$ method\n* $\\checkmark$ answer",
+        "final_answer": "$0{,}7$"
+    },
+    {
+        "question_ref": "12.2.1",
+        "marks": 1,
+        "topic": "Probability - Fundamental Counting Principle",
+        "passage": "A teacher has 5 different poetry books, 4 different dramas and 3 different novels. She must arrange these 12 books from left to right on a shelf.",
+        "question": "Write down the probability that a novel will be the first book placed on the shelf.",
+        "memo": "$$\\text{P(novel)} = \\frac{3}{12} = \\frac{1}{4}$$\n\n* $\\checkmark$ answer",
+        "final_answer": "$\\frac{1}{4}$ (or $\\frac{3}{12}$)"
+    },
+    {
+        "question_ref": "12.2.2",
+        "marks": 2,
+        "topic": "Probability - Permutations",
+        "passage": "A teacher has 5 different poetry books, 4 different dramas and 3 different novels. She must arrange these 12 books from left to right on a shelf.",
+        "question": "Calculate the number of different ways these 12 books can be placed on the shelf if any book can be placed in any position.",
+        "memo": "$$12! = 479\\ 001\\ 600$$\n\n* $\\checkmark\\checkmark$ answer",
+        "final_answer": "$479\\ 001\\ 600$ (or $12!$)"
+    },
+    {
+        "question_ref": "12.2.3",
+        "marks": 4,
+        "topic": "Probability - Permutations with Restrictions",
+        "passage": "A teacher has 5 different poetry books, 4 different dramas and 3 different novels. She must arrange these 12 books from left to right on a shelf.",
+        "question": "Calculate the probability that a poetry book is placed in the first position, the three novels are placed next to each other and a drama is placed in the last position.",
+        "memo": "Arrangement structure:\n- Position 1 (Poetry): 5 choices\n- Position 12 (Drama): 4 choices\n- Middle positions 2 to 11 (8 entities: 4 poetry + 3 drama + 1 block of 3 novels): $8!$ arrangements\n- Internal arrangement of 3 novels: $3! = 6$ arrangements\n\n$$\\text{P(start with poetry, end with drama AND all novels together)}$$\n$$= \\frac{5 \\times 3! \\times 8! \\times 4}{12!} = \\frac{1}{99}$$\n\n* $\\checkmark 5 \\times 4$\n* $\\checkmark 3! = 6$\n* $\\checkmark 8!$\n* $\\checkmark \\frac{5 \\times 3! \\times 8! \\times 4}{12!} = \\frac{1}{99}$ (A)",
+        "final_answer": "$\\frac{1}{99}$"
+    }
+]
+
+# Validation
+total_marks = sum(it["marks"] for it in items)
+print(f"Total items: {len(items)}")
+print(f"Total marks: {total_marks}")
+assert total_marks == 150, f"Expected 150 marks, got {total_marks}"
+
+def check_katex_dollars(text):
+    # Check that $ are balanced
+    # Avoid counting escaped \$
+    clean = re.sub(r'\\\$', '', text)
+    # Check $$ blocks
+    display_count = clean.count('$$')
+    without_display = clean.replace('$$', '')
+    inline_count = without_display.count('$')
+    if inline_count % 2 != 0:
+        return False, f"Unbalanced inline dollars: count={inline_count}"
+    return True, "OK"
+
+for it in items:
+    for f in ['question', 'memo', 'final_answer', 'passage']:
+        ok, msg = check_katex_dollars(it[f])
+        if not ok:
+            print(f"Error in {it['question_ref']} field {f}: {msg}")
+            raise ValueError(f"KaTeX error in {it['question_ref']}: {f}")
+
+# Build full JSONL objects
+full_items = []
+for it in items:
+    obj = {
+        "item_id": f"{source_id}-{it['question_ref']}",
+        "source_id": source_id,
+        "pair_source_id": paired_memo_id,
+        "subject": subject,
+        "grade": grade,
+        "language": language,
+        "track": track,
+        "kind": "question",
+        "question_ref": it["question_ref"],
+        "marks": it["marks"],
+        "topic": it["topic"],
+        "passage": it["passage"],
+        "question": it["question"],
+        "memo": it["memo"],
+        "final_answer": it["final_answer"],
+        "needs_review": False,
+        "licence": "DBE copyright - check terms",
+        "attribution": "Department of Basic Education"
+    }
+    full_items.append(obj)
+
+out_dir_1 = "sa-tutor-kit/sa-tutor-kit/workspace/items/mathematics"
+out_path_1 = os.path.join(out_dir_1, f"{source_id}.jsonl")
+out_dir_2 = "sa-tutor-kit/sa-tutor-kit/workspace/items"
+out_path_2 = os.path.join(out_dir_2, f"{source_id}.jsonl")
+
+os.makedirs(out_dir_1, exist_ok=True)
+os.makedirs(out_dir_2, exist_ok=True)
+
+with open(out_path_1, 'w', encoding='utf-8') as f1, open(out_path_2, 'w', encoding='utf-8') as f2:
+    for obj in full_items:
+        line = json.dumps(obj, ensure_ascii=False) + "\n"
+        f1.write(line)
+        f2.write(line)
+
+print(f"Successfully written {len(full_items)} items to:")
+print(f"  {out_path_1}")
+print(f"  {out_path_2}")

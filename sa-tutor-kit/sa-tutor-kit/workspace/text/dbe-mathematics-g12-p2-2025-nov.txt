@@ -256,4 +256,35 @@ In the diagram, $\text{PQRS}$ is a cyclic quadrilateral. $\text{T}$ is a point o
 
 ### QUESTION 11
 
-11.1 In the diagram, $\Delta \text
+11.1 In the diagram, $\Delta\text{ABC}$ is drawn. $\text{BA}$ is produced to $\text{E}$. $\text{F}$ and $\text{D}$ are points on $\text{BC}$ such that $\text{AD} \parallel \text{EF}$. $\text{AC}$ and $\text{EF}$ intersect at $\text{G}$. $\frac{\text{CF}}{\text{FB}} = \frac{2}{5}$ and $\frac{\text{CG}}{\text{GA}} = \frac{3}{2}$.
+
+[DIAGRAM: Triangle $\text{ABC}$ with side $\text{BA}$ extended/produced past $\text{A}$ to point $\text{E}$. Points $\text{F}$ and $\text{D}$ lie on side $\text{BC}$ with collinear ordering $\text{C}, \text{F}, \text{D}, \text{B}$. Line segments $\text{AD}$ and $\text{EF}$ are parallel ($\text{AD} \parallel \text{EF}$). Line segment $\text{EF}$ intersects side $\text{AC}$ at point $\text{G}$. Given ratios: $\frac{\text{CF}}{\text{FB}} = \frac{2}{5}$ and $\frac{\text{CG}}{\text{GA}} = \frac{3}{2}$.]
+
+Calculate, with reasons, the value of:
+
+11.1.1 $\frac{\text{FD}}{\text{CF}}$ (2)
+
+11.1.2 $\frac{\text{BA}}{\text{EA}}$ (4)
+
+11.1.3 $\frac{\text{Area of } \Delta\text{GCF}}{\text{Area of }\text{GFDA}}$ (4)
+
+11.2 In the diagram, $\text{WVZR}$ is a cyclic quadrilateral. $\text{RZ}$ is produced to $\text{Q}$. A tangent is drawn from $\text{Q}$ to touch the circle at $\text{S}$. $\text{WV}$ is produced to $\text{E}$, a point on $\text{ZQ}$. $\text{RW}$ produced meets $\text{ZV}$ produced in $\text{P}$. $\text{PQ} \parallel \text{WE}$. $\text{RS}$ and $\text{ZS}$ are drawn.
+
+[DIAGRAM: Cyclic quadrilateral $\text{WVZR}$ inscribed in a circle. Chord $\text{RZ}$ is produced past $\text{Z}$ to external point $\text{Q}$. From $\text{Q}$, tangent segment $\text{QS}$ touches the circle at point $\text{S}$. Chord $\text{WV}$ is produced past $\text{V}$ to point $\text{E}$ which lies on line segment $\text{ZQ}$. Chords $\text{RW}$ and $\text{ZV}$ are produced to meet at external point $\text{P}$. Line segments $\text{PQ}$ and $\text{WE}$ are parallel ($\text{PQ} \parallel \text{WE}$). Chords $\text{RS}$ and $\text{ZS}$ are drawn. Marked angles: $\hat{\text{P}}_1, \hat{\text{P}}_2$; $\hat{\text{Q}}_1, \hat{\text{Q}}_2$; $\hat{\text{W}}_1, \hat{\text{W}}_2$; $\hat{\text{V}}_1, \hat{\text{V}}_2$; $\hat{\text{Z}}_1, \hat{\text{Z}}_2$; $\hat{\text{R}}_1, \hat{\text{R}}_2$; $\hat{\text{S}}_1, \hat{\text{S}}_2$.]
+
+Prove, with reasons, that:
+
+11.2.1 $\text{PR} = \frac{\text{PW}\cdot\text{QR}}{\text{QE}}$ (2)
+
+11.2.2 If $\Delta\text{PQZ} \mathbin{|||} \Delta\text{RQP}$, then $\text{PQ}^2 = \text{RQ}\cdot\text{QZ}$ (1)
+
+11.2.3 $\Delta\text{QSZ} \mathbin{|||} \Delta\text{QRS}$ (3)
+
+11.2.4 $\text{PQ} = \text{QS}$ (3)
+
+11.2.5 $\text{PW} = \frac{\text{QE}\cdot\text{PZ}}{\sqrt{\text{QR}\cdot\text{QZ}}}$ (4)
+**[23]**
+
+---
+
+**TOTAL: 150**

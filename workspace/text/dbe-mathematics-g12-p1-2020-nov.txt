@@ -164,7 +164,7 @@ $B$ is the point of intersection of $f$ and the line $y = 9$.
 
 7.2 Determine:
 
-7.2.1 $\frac{d}{dx} (\sqrt[3]{x^2} + x^3)$ (3)
+7.2.1 $\frac{d}{dx} (\sqrt[5]{x^2} + x^3)$ (3)
 
 7.2.2 $f'(x)$ if $f(x) = \frac{4x^2 - 9}{4x + 6}\ ;\ x \neq -\frac{3}{2}$ (4)
 

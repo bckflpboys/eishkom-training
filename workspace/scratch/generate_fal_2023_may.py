@@ -1,0 +1,817 @@
+# -*- coding: utf-8 -*-
+"""
+Script to generate standardized UDVES JSONL items for:
+DBE English FAL Grade 12 Paper 1 May/June 2023
+Source ID: dbe-english_fal-g12-p1-2023-may
+Paired Memo ID: dbe-english_fal-g12-p1-2023-may-memo
+"""
+
+import json
+import os
+import re
+
+SOURCE_ID = "dbe-english_fal-g12-p1-2023-may"
+MEMO_ID = "dbe-english_fal-g12-p1-2023-may-memo"
+SUBJECT = "english_fal"
+GRADE = 12
+LANGUAGE = "en"
+TRACK = "languages_fal"
+
+# -------------------------------------------------------------
+# PASSAGES
+# -------------------------------------------------------------
+
+PASSAGE_TEXT_A = """### TEXT A
+
+**GEAR UP FOR ELECTRIC VEHICLES**
+
+1. Globally, there are about 10 million electric vehicles (EVs) on the roads – but only 1 509 of them are in South Africa. The South African national target is to have three million electric cars by 2050. According to a recent study, China tops the list of countries with the most registered electric vehicles with more than four million of these cars on its roads. It is followed by the United States, Germany, the United Kingdom and Norway.
+
+2. Currently, South Africa's 11 million cars fill up at 5 000 petrol stations. Cars are responsible for 10% of the country's carbon emissions and toxic pollutants released in densely populated cities. These emissions and pollutants contribute to air pollution and global warming.
+
+3. Local experts believe that South Africa needs to speed up its move into the electric vehicle industry. This move will benefit the economy, motorists and the environment. With the fuel price constantly rising, the demand for electric cars might very well increase dramatically.
+
+4. The Department of Trade and Industry has drawn up the Strategy for Policy Direction Promoting Green Transport Technologies in South Africa, better known as the green transport strategy. This strategy gives a step-by-step path for the country to follow to get to its target of three million environmentally friendly electric vehicles.
+
+5. The country's vision on climate change says there will be more than three million electric vehicles on the road by 2050, with R6,5 trillion invested in the industry over the next four decades. These two numbers form the basis of the green transport strategy. According to the Department of Trade and Industry, going the electric route will create a huge local industry. Instead of importing fossil fuels$^1$, power for cars will come from solar panels and wind turbines$^2$. The power will be stored in platinum batteries. South Africa has far more platinum than any other country. The demand for platinum will create a mining and manufacturing industry, which will supply more factories that will build electric vehicles.
+
+6. uYilo, an e-mobility programme, was established in 2013 to facilitate electric-vehicle development in South Africa. The name, uYilo, is taken from IsiXhosa, which means 'to create'. The director of this programme, Hiten Parmar, said the government and industry have been having discussions about electric vehicles for quite some time.
+
+7. So far, owners of electric cars in South Africa do not pay fuel tax or contribute to the Road Accident Fund. They also do not pay the taxes levied on normal vehicles for causing air pollution. However, the choice of these vehicles is limited, with only a few models available. The BMW i3, Jaguar I-Pace and the Nissan Leaf top the list. The limited options and the lack of competition contribute to the high price of EVs. With such few buyers of EVs, nobody in the business sector is willing to invest in charging stations. The country only has about 170 electric vehicle charging stations.
+
+8. Since there is limited interest from the business sector to invest in charging stations for EVs, the South African government has set aside an investment of R6,5 trillion. Taken from places such as the Department of Forestry, Fisheries and the Environment's Green Fund, this investment will go into improving battery technology so vehicles can go further on a single charge. This will make the building of the electric-vehicle infrastructure more lucrative for the private sector. Eighteen projects have been rolled out already, dedicated to working out the practicalities of electric vehicles. Another twelve projects are working on other green transport technologies, such as upgrading minibus taxis so they also run on natural gas.
+
+9. Toyota is investing millions of rands in electric vehicles globally. The president of Toyota South Motors, Andrew Kirby, believes it will be a while before electric vehicles become commonplace in South Africa. He recommends that the South African government needs to give incentives to encourage the adoption of new energy vehicles as well as make the cost attractive to the local market.
+
+10. Worldwide, the sale of electric vehicles is trending upward. It is estimated that about 50% of new cars sold by 2030 will be electric. The popularity of electric cars will rise as prices come down. Technology is improving as countries invest in battery development. Soon, a plug-in vehicle might be a cheaper and more environmentally friendly option to a fuel-powered car. South Africans should soon be moving in cars that do not harm their health and the environment.
+
+*[Adapted from www.mg.co.za, 2022]*
+
+**GLOSSARY:**
+* $^1$**fossil fuel:** a natural fuel such as coal or gas formed from the remains of living organisms
+* $^2$**wind turbine:** a modern windmill for providing electrical power"""
+
+PASSAGE_TEXT_B = """### TEXT B
+
+**WAYS TO REDUCE WASTE**
+
+An infographic comparing reusable household items with their disposable plastic equivalents:
+
+* **Row 1 (Toothbrush):**
+  * `1 bamboo toothbrush = 4 disposable plastic toothbrushes`
+  * Visual: 1 bamboo toothbrush on the left; an equals sign; 4 identical disposable plastic toothbrushes shown standing upright side by side on the right.
+
+* **Row 2 (Floss Container):**
+  * `1 glass floss container = 7 disposable plastic floss containers`
+  * Visual: 1 glass floss container on the left; an equals sign; 3 disposable plastic floss dispensers shown side by side on the right (representing 7).
+
+* **Row 3 (Water Bottle):**
+  * `1 reusable water bottle = 167 disposable plastic water bottles`
+  * Visual: 1 reusable water bottle on the left; an equals sign; 4 disposable plastic water bottles shown on the right (representing 167).
+
+* **Row 4 (Shopping Bag):**
+  * `1 reusable bag = 170 disposable plastic bags`
+  * Visual: 1 reusable tote bag on the left; an equals sign; 2 single-use plastic carrier bags shown on the right (representing 170).
+
+*[Adapted from www.pinterest.com]*"""
+
+PASSAGE_TEXT_C = """### TEXT C
+
+**FOOD WASTAGE**
+
+Food waste is a serious problem and affects us all. It is estimated that a third of all food is never eaten and ends up in rubbish dumps. One of the easiest ways to reduce food wastage is by planning your meals ahead of time.
+
+Before heading to the supermarket, check what is in the fridge and the grocery cupboard. After you have checked what you already have, make a list of what is needed for your planned meals. Sticking to this list is important as it will help you avoid buying unnecessary items.
+
+Fruit and vegetables that are slightly damaged still taste the same. Do not simply throw them away but use them in drinks and dishes where their appearance does not matter.
+
+Even though buying in bulk saves money, it does not serve its purpose if the bulk groceries go to waste. Ensure that the groceries you buy in bulk are versatile and can be used in more than one meal. You can avoid wasting food by using the items in your fridge according to their expiry dates.
+
+If you do not eat everything you make, freeze it for later. Apart from preserving it to prevent wastage, some people believe that left-over food tastes better. You can also reuse leftovers in another totally different meal. A left-over pasta salad can easily be turned into a pasta and cheese baked dish.
+
+You can avoid wastage by making these changes to how you deal with food.
+
+*[Adapted from Clockwork Media, 2022]*"""
+
+PASSAGE_TEXT_D = """### TEXT D
+
+**ADVERTISEMENT: TETLEY GREEN TEA IMMUNE**
+
+**Visual elements:**
+* On the left: A box/packaging of **Tetley Green Tea Immune (Lemon & Honey)** showing a cup of green tea with steam rising, a slice of lemon, a honeycomb piece, and a green logo badge. An arrow points to the text **'SINCE 1837'** directly underneath the Tetley logo.
+* In the foreground/center: A barbell (exercise dumbbell) where the metal weights at both ends are replaced with large circular sliced wheels of lemon connected by a metal bar, resting on a flat wooden surface.
+* On the right: A bold headline stating:
+  > **GREEN TEA**  
+  > **NOW WITH**  
+  > **IMMUNITY**  
+  > **POWER**  
+  > **OF VITAMIN C**
+
+**The text in small font reads as follows:**
+> **NEW YEAR IS ABOUT NEW BEGINNINGS.**  
+> **IN 2021, AS WE EMBRACE THE NEW NORMAL, LET US ALL MAKE A START TO BEING FIT, NOT JUST FROM THE OUTSIDE BUT FROM THE INSIDE AS WELL.**  
+>  
+> **TETLEY GREEN TEA IMMUNE HAS ALL THE GOODNESS OF ANTI-OXIDANT RICH GREEN TEA AND ADDED VITAMIN C THAT HELPS SUPPORT THE IMMUNE SYSTEM.**  
+>  
+> **GREEN TEA NOW WITH IMMUNITY POWER OF VITAMIN C**  
+>  
+> **TETLEY IMMUNE ALSO AVAILABLE IN GINGER, MINT & LEMON, MANGO AND CLASSIC VARIANTS**  
+>  
+> **SINCE 1837**
+
+*[Source: www.pinterest.com]*"""
+
+PASSAGE_TEXT_E = """### TEXT E
+
+**CALVIN AND HOBBES** by **WATTERSON**
+
+A 10-frame comic strip featuring Calvin and his tiger friend, Hobbes:
+
+* **FRAME 1:** A wide introductory banner. On the right, Calvin is sitting on the ground with a contented smile. Across the frame from left to right, large onomatopoeic letters repeat: "ZIP ZOP ZIP ZOP ZIP ZOP ZIP ZOP ZIP ZOP ZIP ZOP".
+* **FRAME 2:** Calvin stands dressed in bulky winter snow pants. He has wide eyes, raised eyebrows, and an eager, excited smile. A speech bubble reads: "SNOW PANTS."
+* **FRAME 3:** A scenic frame showing an empty winter landscape with bare trees and no snow falling.
+* **FRAME 4:** Calvin is outside wearing a winter beanie and jacket, pulling his wooden sled behind him with a rope.
+* **FRAME 5:** Calvin is sitting on his sled on the snow-covered ground, waiting expectantly with hands on his knees.
+* **FRAME 6:** Calvin throws his head back, raises a fist into the air, and shouts with his mouth wide open. The speech bubble has jagged, electric edges: "WELL? LET'S HAVE SOME SNOW!!"
+* **FRAME 7:** Calvin sits quietly on his sled with his eyes wide open and his mouth closed, looking straight ahead as snowflakes start falling from above around him.
+* **FRAME 8:** Calvin leaps up off the sled in pure excitement, running with joy with arms outstretched and his mouth wide open. He shouts: "IT'S SNOWING! I CAN MAKE IT SNOW! I'M PSYCHOKINETIC! HEY! HEY!"
+* **FRAME 9:** Calvin has run out of the frame. The empty sled sits quietly in the snow by the tree trunk as snow continues to fall.
+* **FRAME 10:** Behind the tree trunk, Hobbes the tiger is peeking out, holding a large sack of snow upside down and dumping it where Calvin was sitting. Hobbes has a sheepish, guilty expression, thinking in a thought bubble: "OOH, HE'S GOING TO HATE ME FOR THIS."
+
+*[Source: www.pinterest.com]*
+
+**NOTE:** In this cartoon, the boy's name is Calvin and his friend is Hobbes, the tiger.
+
+**GLOSSARY:**
+* **'snow pants'**, in FRAME 2, refers to a pair of trousers worn when walking and playing in the snow.
+* **'psychokinetic'**, in FRAME 8, refers to the ability to change any situation with one's mind."""
+
+PASSAGE_TEXT_F = """### TEXT F
+
+**LITERACY PROJECT**
+
+1. The Link Literacy Project are in need of volunteers. It is estimate that most South African children have lost learning time. Some community-based volunteer organisations will now, more than ever, play a vital role. A little effort will go the long way to helping children.
+
+2. Maggie Fussell said, 'The children need to be able to read to make their way through this education system.' She added, 'Many of our children live in chalenging environments. There is little opportunity for children to improve these core skills.'
+
+3. The nineteen centres are based at low-income schools throughout the country. The project is already supported by various communities. They help to build foundation skills in two programmes.
+
+4. The volunteers are a diverse group of people from all walks of life. They include parents of children from surrounding schools, grandparents, students and working people. It is better to choose one project to support. If you are interested in being a volunteer, you can send an e-mail to info@thelinkliteracyproject.co.za.
+
+*[Adapted from The Northcliff Melville Times, May 2021]*"""
+
+PASSAGE_TEXT_G = """### TEXT G
+
+**Visual text:**
+An illustration shows a frog sitting facing forward, wearing a small sparkling tiara/crown on its head.
+
+**Caption:**
+> **On her adventures, she'll play princess, kiss frogs and maybe catch worms.**
+
+*[Source: Business Times Magazine, November 2020]*"""
+
+# -------------------------------------------------------------
+# ITEMS DEFINITION
+# -------------------------------------------------------------
+
+raw_items = [
+    # ---------------------------------------------------------
+    # SECTION A: QUESTION 1 (TEXT A)
+    # ---------------------------------------------------------
+    {
+        "question_ref": "1.1.1",
+        "marks": 1,
+        "kind": "passage_questions",
+        "topic": "Comprehension - Text A (Electric vehicles in South Africa vs globally)",
+        "passage": PASSAGE_TEXT_A,
+        "question": "Refer to paragraph 1.\n\nHow does South Africa compare to other countries as far as electric vehicles are concerned?",
+        "memo": "South Africa has fewer electric vehicles $\\checkmark$ (than China, the United States, Germany, the United Kingdom and Norway).",
+        "final_answer": "South Africa has far fewer electric vehicles than other leading countries (only 1 509 out of 10 million globally).",
+    },
+    {
+        "question_ref": "1.1.2",
+        "marks": 1,
+        "kind": "passage_questions",
+        "topic": "Comprehension - Text A (Global EV leadership)",
+        "passage": PASSAGE_TEXT_A,
+        "question": "Refer to paragraph 1.\n\nWhy is the following statement FALSE?\n\n*America has the largest number of registered electric vehicles in the world.*",
+        "memo": "China is the leading country/tops the list with the most registered electric vehicles/America is second (follows China). $\\checkmark$",
+        "final_answer": "China tops the list of countries with the most registered electric vehicles (over four million), while the United States is second.",
+    },
+    {
+        "question_ref": "1.2.1",
+        "marks": 2,
+        "kind": "passage_questions",
+        "topic": "Comprehension - Text A (Environmental impact of conventional cars)",
+        "passage": PASSAGE_TEXT_A,
+        "question": "Refer to paragraph 2.\n\nWhy does the writer refer to '11 million cars'?",
+        "memo": "To show/emphasise there are many cars (11 million) $\\checkmark$ that impact on the environment (air pollution/global warming). $\\checkmark$",
+        "final_answer": "To emphasise the large number of petrol-powered cars in South Africa and show their significant contribution to carbon emissions, air pollution, and global warming.",
+    },
+    {
+        "question_ref": "1.2.2",
+        "marks": 1,
+        "kind": "passage_questions",
+        "topic": "Comprehension - Text A (Quotation - Population density)",
+        "passage": PASSAGE_TEXT_A,
+        "question": "Refer to paragraph 2.\n\nQuote TWO consecutive words which show that there are too many inhabitants in some areas of South Africa.",
+        "memo": "'densely populated' $\\checkmark$",
+        "final_answer": "'densely populated'",
+    },
+    {
+        "question_ref": "1.3",
+        "marks": 2,
+        "kind": "passage_questions",
+        "topic": "Comprehension - Text A (Reasons to accelerate EV transition)",
+        "passage": PASSAGE_TEXT_A,
+        "question": "Refer to paragraph 3.\n\nWhy does South Africa need to 'speed up its move into the electric-vehicle industry'? Give TWO points.",
+        "memo": "* Manufacturing electric vehicles will improve the economy of South Africa. $\\checkmark$\n* It will benefit motorists. $\\checkmark$\n* Motorists will save money on fuel. $\\checkmark$\n* It will benefit the environment. $\\checkmark$\n* Electric vehicles decrease air pollution. $\\checkmark$\n* There might be a greater demand for electric cars due to the constantly increasing fuel price. $\\checkmark$\n\n**NOTE:** Accept any TWO of the above answers.",
+        "final_answer": "It will benefit the economy, help motorists save on rising fuel costs, and benefit the environment by decreasing air pollution. (Any two)",
+    },
+    {
+        "question_ref": "1.4",
+        "marks": 2,
+        "kind": "passage_questions",
+        "topic": "Comprehension - Text A (Origin of 'green transport strategy')",
+        "passage": PASSAGE_TEXT_A,
+        "question": "Why is the strategy referred to as the 'green transport strategy' in paragraph 4?",
+        "memo": "* The word 'green' generally refers to caring for the environment. $\\checkmark$\n* The 'green transport strategy' is named aptly because it aims to ensure that the use of transport does not harm the environment. $\\checkmark$",
+        "final_answer": "The term 'green' represents environmental care, and the strategy is named 'green transport strategy' because it aims to ensure transport technologies do not harm the environment.",
+    },
+    {
+        "question_ref": "1.5.1",
+        "marks": 1,
+        "kind": "multiple_choice",
+        "topic": "Comprehension - Text A (Vocabulary - 'decades')",
+        "passage": PASSAGE_TEXT_A,
+        "question": "Refer to paragraph 5.\n\nChoose the CORRECT answer to complete the following sentence.\n\nIn this paragraph, 'four decades' means ... years.\n\nA four\nB forty\nC eight\nD eighty",
+        "memo": "B / forty $\\checkmark$",
+        "final_answer": "B forty",
+    },
+    {
+        "question_ref": "1.5.2",
+        "marks": 2,
+        "kind": "passage_questions",
+        "topic": "Comprehension - Text A (EV industry job creation)",
+        "passage": PASSAGE_TEXT_A,
+        "question": "Refer to paragraph 5.\n\nHow will the introduction of electric vehicles reduce unemployment?",
+        "memo": "More manufacturing industries/more factories will be created $\\checkmark$ and there will be more job opportunities (in mining). $\\checkmark$",
+        "final_answer": "The demand for platinum batteries will create mining and manufacturing industries, supplying more factories that build electric vehicles and generating new jobs.",
+    },
+    {
+        "question_ref": "1.6.1",
+        "marks": 2,
+        "kind": "passage_questions",
+        "topic": "Comprehension - Text A (uYilo e-mobility programme purpose)",
+        "passage": PASSAGE_TEXT_A,
+        "question": "Refer to paragraph 6.\n\nUsing your OWN words, explain why the uYilo e-mobility programme was created.",
+        "memo": "uYilo was created to assist with/ensure $\\checkmark$ the growth of the electric vehicle market in South Africa. $\\checkmark$",
+        "final_answer": "The uYilo programme was established to facilitate and support the growth and development of electric vehicles in South Africa.",
+    },
+    {
+        "question_ref": "1.6.2",
+        "marks": 1,
+        "kind": "passage_questions",
+        "topic": "Comprehension - Text A (Implication of 'established in 2013')",
+        "passage": PASSAGE_TEXT_A,
+        "question": "Refer to paragraph 6.\n\nWhat do the words 'established in 2013' suggest about the uYilo e-mobility programme?",
+        "memo": "The uYilo e-mobility programme can be trusted as it has been in existence for a number of years. $\\checkmark$\n\n**OR**\n\nThe uYilo e-mobility programme is fairly new therefore it is innovative. $\\checkmark$",
+        "final_answer": "It suggests that the programme has been established for a considerable time and is reliable, or that South Africa has been actively working on electric transport for about a decade.",
+    },
+    {
+        "question_ref": "1.7.1",
+        "marks": 2,
+        "kind": "passage_questions",
+        "topic": "Comprehension - Text A (Advantages of owning an EV)",
+        "passage": PASSAGE_TEXT_A,
+        "question": "Refer to paragraph 7.\n\nIdentify TWO advantages of owning an electric vehicle in South Africa.",
+        "memo": "* Owners do not pay tax on fuel. $\\checkmark$\n* They do not contribute to the Road Accident Fund. $\\checkmark$\n* They also do not pay air pollution taxes. $\\checkmark$\n\n**NOTE:** Accept any TWO of the above answers.",
+        "final_answer": "Owners do not pay fuel tax (or Road Accident Fund contributions) and do not pay the taxes levied on normal vehicles for air pollution. (Any two)",
+    },
+    {
+        "question_ref": "1.7.2",
+        "marks": 2,
+        "kind": "passage_questions",
+        "topic": "Comprehension - Text A (Symbolism of the name 'Leaf')",
+        "passage": PASSAGE_TEXT_A,
+        "question": "Refer to paragraph 7.\n\nIn the context of this passage, why is 'Leaf' a suitable name for a Nissan electric vehicle?",
+        "memo": "A leaf is green and represents the environment $\\checkmark$ therefore this is an appropriate name for an electric vehicle which is environmentally friendly as it does not use fuel. $\\checkmark$",
+        "final_answer": "A leaf is green and associated with nature and the environment, making it suitable for an electric car that does not use fossil fuels or cause air pollution.",
+    },
+    {
+        "question_ref": "1.8",
+        "marks": 1,
+        "kind": "passage_questions",
+        "topic": "Comprehension - Text A (Inclusion of minibus taxis)",
+        "passage": PASSAGE_TEXT_A,
+        "question": "Explain why the writer includes 'minibus taxis' in paragraph 8.",
+        "memo": "To show that minibus taxis contribute to air pollution. / To show that minibus taxis will also be adapted to be environmentally friendly. $\\checkmark$",
+        "final_answer": "To show that public transport, such as minibus taxis, also contributes to emissions and is being adapted with green technology to run on natural gas.",
+    },
+    {
+        "question_ref": "1.9",
+        "marks": 2,
+        "kind": "passage_questions",
+        "topic": "Comprehension - Text A (Critical Evaluation: Andrew Kirby's views)",
+        "passage": PASSAGE_TEXT_A,
+        "question": "Do you agree with Andrew Kirby's views in paragraph 9? Substantiate your answer.",
+        "memo": "Open-ended. Accept a suitable answer, e.g.\n\n**Yes.**  \nElectric vehicles are not common in South Africa. To encourage people to buy electric vehicles, the South African government will have to find ways to motivate buyers and also make these vehicles more affordable. $\\checkmark\\checkmark$\n\n**OR**\n\n**No.**  \nPeople should take action on their own to contribute towards saving the environment. Offering people incentives does not necessarily guarantee that they will be interested in buying electric vehicles. $\\checkmark\\checkmark$\n\n**NOTE:** Accept other suitable answers. A candidate can score 1 mark for an answer that is not well-substantiated. Accept a combination answer. Do not award a mark for YES/NO.",
+        "final_answer": "Yes. Electric vehicles are currently very expensive and rare in South Africa, so government incentives and subsidies are essential to make them affordable and motivate motorists to purchase them.",
+    },
+    {
+        "question_ref": "1.10",
+        "marks": 2,
+        "kind": "passage_questions",
+        "topic": "Comprehension - Text A (Suitability of Title)",
+        "passage": PASSAGE_TEXT_A,
+        "question": "Discuss the suitability of the title, 'GEAR UP FOR ELECTRIC VEHICLES'.",
+        "memo": "Open-ended. Accept a suitable answer, e.g.\n\nThe title is suitable because it is linked to the article which is about electric vehicles and how they contribute to saving the environment. 'Gear up' means 'get ready'. The writer is saying we should be ready/prepared for more electric vehicles on the roads. The title also uses a pun as vehicles use gears to increase their speed. $\\checkmark\\checkmark$\n\n**OR**\n\nThe title is not suitable because the article discusses the idea that electric vehicles are not popular and people need more motivation to purchase them. Electric cars are also depicted as being scarce and expensive in South Africa. $\\checkmark\\checkmark$\n\n**NOTE:** Accept other suitable answers. A candidate can score 1 mark for an answer that is not well-substantiated. Accept a combination answer.",
+        "final_answer": "The title is suitable because 'gear up' means 'get ready', urging South Africa to prepare for electric vehicles, and it cleverly puns on vehicle gears used to increase speed.",
+    },
+    # ---------------------------------------------------------
+    # SECTION A: QUESTION 1 (TEXT B)
+    # ---------------------------------------------------------
+    {
+        "question_ref": "1.11",
+        "marks": 2,
+        "kind": "passage_questions",
+        "topic": "Comprehension - Text B (Toothbrush comparison)",
+        "passage": PASSAGE_TEXT_B,
+        "question": "According to TEXT B, what type of toothbrush is recommended? Substantiate your answer.",
+        "memo": "* A bamboo toothbrush. $\\checkmark$\n* A bamboo toothbrush lasts longer than four disposable plastic toothbrushes thereby reducing waste. $\\checkmark$",
+        "final_answer": "A bamboo toothbrush, because one bamboo toothbrush replaces four disposable plastic toothbrushes, thereby reducing waste.",
+    },
+    {
+        "question_ref": "1.12",
+        "marks": 2,
+        "kind": "passage_questions",
+        "topic": "Comprehension - Text B (Core message of visual)",
+        "passage": PASSAGE_TEXT_B,
+        "question": "What message does TEXT B convey?",
+        "memo": "If households refrain from purchasing items that can be used only once and replace them with reusable/durable items $\\checkmark$, they can save money/the environment. $\\checkmark$",
+        "final_answer": "Using durable, reusable items instead of single-use disposable plastic products significantly cuts down on waste and protects the environment.",
+    },
+    {
+        "question_ref": "1.13",
+        "marks": 2,
+        "kind": "passage_questions",
+        "topic": "Comprehension - Text B (Visual effectiveness)",
+        "passage": PASSAGE_TEXT_B,
+        "question": "In your opinion, do the visuals make the text easier to understand? Give a reason for your answer.",
+        "memo": "Open-ended. Accept a suitable answer, e.g.\n\n**Yes.**  \nThe reader does not have to work out the meaning of the words to know what each visual represents. The visuals show which items to avoid and which ones to use in order to reduce waste. $\\checkmark\\checkmark$\n\n**OR**\n\n**No.**  \nThe words will be easier to understand because not all people are able to interpret visual texts. $\\checkmark\\checkmark$\n\n**NOTE:** Accept other suitable answers. A candidate can score 1 mark for an answer that is not well-substantiated. Accept a combination answer. Do not award a mark for YES/NO.",
+        "final_answer": "Yes. The simple illustrations and direct equations make the comparison between single reusable items and disposable plastic equivalents immediately clear without needing long explanations.",
+    },
+    # ---------------------------------------------------------
+    # SECTION B: QUESTION 2 (SUMMARY - TEXT C)
+    # ---------------------------------------------------------
+    {
+        "question_ref": "2",
+        "marks": 10,
+        "kind": "passage_questions",
+        "topic": "Summary Writing - Text C (Reducing Food Wastage)",
+        "passage": PASSAGE_TEXT_C,
+        "question": "Food that is not consumed often ends up being wasted.\n\nRead TEXT C below and list SEVEN points on how to reduce food wastage.\n\n#### INSTRUCTIONS:\n1. Your summary must be written in point form.\n2. List your SEVEN points in full sentences, using no more than 70 words.\n3. Number your sentences from 1 to 7.\n4. Write only ONE point per sentence.\n5. Use your OWN words as far as possible.\n6. Indicate the total number of words you have used in brackets at the end of your summary.",
+        "memo": """The following points form the answer to the question:
+
+| QUOTATIONS | FACTS / OWN WORDS (Candidates may phrase the facts differently.) |
+| :--- | :--- |
+| 1. 'One of the easiest ways to reduce food wastage is by planning your meals ahead of time.' | 1. Plan your meals in advance. |
+| 2. 'Before heading to the supermarket, check what is in the fridge and the grocery cupboard. / After you have checked what you already have, make a list of what is needed for your planned meals.' | 2. Take stock of the items you have in your fridge and grocery cupboard before going to the supermarket. / Write down a grocery/shopping list. |
+| 3. 'Sticking to this list is important as it will help you avoid buying unnecessary items.' | 3. Follow your shopping list. |
+| 4. 'Fruit and vegetables that are slightly damaged still taste the same. Do not simply throw them away but use them in drinks and dishes where their appearance does not matter.' | 4. Use slightly damaged fruit and vegetables to make other meals. |
+| 5. 'Ensure that the groceries you buy in bulk are versatile and can be used in more than one meal.' | 5. Purchase groceries in larger quantities if they can be used in various dishes. |
+| 6. 'You can avoid wasting food by using the items in your fridge according to their expiry dates.' | 6. Use the food items in your fridge before they expire. |
+| 7. 'If you do not eat everything you make, freeze it for later.' | 7. Freeze left-over food. |
+| 8. 'You can also reuse leftovers in another totally different meal.' | 8. Use left-over food in a different recipe. |
+
+#### MARKING THE SUMMARY:
+Marking is on the basis of the inclusion of valid material and the exclusion of invalid material.
+
+* **Mark allocation:**
+  * 7 marks for 7 points (1 mark per main point)
+  * 3 marks for language
+  * **Total marks: 10**
+* **Distribution of language marks when a candidate has not quoted verbatim:**
+  * 1–3 points correct: award 1 mark
+  * 4–5 points correct: award 2 marks
+  * 6–7 points correct: award 3 marks
+* **Distribution of language marks when a candidate has quoted verbatim:**
+  * 6–7 quotes: award no language mark
+  * 4–5 quotes: award a maximum of 1 language mark
+  * 2–3 quotes: award a maximum of 2 language marks
+
+**NOTE:**
+* **Word count:**
+  * Markers are required to verify the number of words used.
+  * Do not deduct any marks if the candidate fails to indicate the number of words used, or if the number of words used is indicated incorrectly.
+  * If the word limit is exceeded, read up to the last sentence above the stipulated upper limit and ignore the rest of the summary.""",
+        "final_answer": """1. Plan your meals ahead of time.
+2. Check existing kitchen stock and make a shopping list before visiting the supermarket.
+3. Stick strictly to your grocery list to avoid unnecessary purchases.
+4. Use damaged fruits and vegetables in smoothies, drinks, or cooked dishes.
+5. Only buy groceries in bulk if they are versatile enough for multiple meals.
+6. Consume refrigerated food items according to their expiry dates.
+7. Freeze uneaten food or repurpose leftovers into new dishes.""",
+    },
+    # ---------------------------------------------------------
+    # SECTION C: QUESTION 3 (ADVERTISEMENT - TEXT D)
+    # ---------------------------------------------------------
+    {
+        "question_ref": "3.1",
+        "marks": 1,
+        "kind": "passage_questions",
+        "topic": "Analysing an Advertisement - Target Audience",
+        "passage": PASSAGE_TEXT_D,
+        "question": "Study the advertisement (TEXT D) below and answer the set questions.\n\nWho is the target audience in this advertisement?",
+        "memo": "People who are interested in strengthening their immune system. / People who drink (green) tea. $\\checkmark$ (1)",
+        "final_answer": "People who want to boost their immune system or health-conscious green tea drinkers.",
+    },
+    {
+        "question_ref": "3.2",
+        "marks": 2,
+        "kind": "passage_questions",
+        "topic": "Analysing an Advertisement - Headline Techniques",
+        "passage": PASSAGE_TEXT_D,
+        "question": "How do the words 'IMMUNITY POWER' in the headline capture the reader's attention? Give TWO points.",
+        "memo": "* The words 'immunity power' are printed in bold $\\checkmark$ / capital letters $\\checkmark$ / bigger font (compared to the other words in the headline). $\\checkmark$\n\n**NOTE:** Accept any TWO of the above answers.\n\n**OR**\n\n* The words 'immunity power' appeal to the human desire $\\checkmark$ to be healthy. $\\checkmark$ (2)",
+        "final_answer": "The words are printed in large, bold capital letters to stand out visually, and they appeal directly to readers' desire to be healthy and protect their immune system.",
+    },
+    {
+        "question_ref": "3.3",
+        "marks": 1,
+        "kind": "passage_questions",
+        "topic": "Analysing an Advertisement - Brand Heritage ('Since 1837')",
+        "passage": PASSAGE_TEXT_D,
+        "question": "What do the words 'SINCE 1837' suggest?",
+        "memo": "The product is reliable/trustworthy/has been available for a long time. $\\checkmark$ (1)",
+        "final_answer": "It suggests that Tetley is a well-established, reliable, and trustworthy brand with a long heritage.",
+    },
+    {
+        "question_ref": "3.4",
+        "marks": 2,
+        "kind": "passage_questions",
+        "topic": "Analysing an Advertisement - Parts of Speech",
+        "passage": PASSAGE_TEXT_D,
+        "question": "Study the following sentence:\n\n*Tetley Green Tea Immune has all the goodness of anti-oxidant <u>rich</u> green <u>tea</u>.*\n\nState the parts of speech of EACH underlined word.",
+        "memo": "* rich – adjective $\\checkmark$\n* tea – (common) noun $\\checkmark$ (2)",
+        "final_answer": "rich: adjective; tea: (common) noun",
+    },
+    {
+        "question_ref": "3.5",
+        "marks": 2,
+        "kind": "passage_questions",
+        "topic": "Analysing an Advertisement - Product Variants / Flavours",
+        "passage": PASSAGE_TEXT_D,
+        "question": "Why does the advertiser state that Tetley Green Tea Immune is available in different flavours? Give TWO points.",
+        "memo": "* To highlight/emphasise Tetley Green Tea Immune caters for different people with different preferences. $\\checkmark$\n* It provides consumers with a choice. $\\checkmark$\n* It appeals to a wider target market. $\\checkmark$\n\n**NOTE:** Accept any TWO of the above answers. (2)",
+        "final_answer": "To show that the brand caters to diverse personal tastes, provides consumers with variety, and appeals to a broader target market.",
+    },
+    {
+        "question_ref": "3.6",
+        "marks": 2,
+        "kind": "passage_questions",
+        "topic": "Analysing an Advertisement - Visual Effectiveness (Lemon dumbbell)",
+        "passage": PASSAGE_TEXT_D,
+        "question": "Do you think the visual of the lemon slices joined by a bar supports the message of this advertisement? Substantiate your answer.",
+        "memo": """Open-ended. Accept a suitable answer, e.g.
+
+**Yes.**  
+The visual depicts lemon slices (which contain vitamin C) at each end of the dumbbell/weights which are used to exercise and build strength. The message of the advertisement is that drinking this variant of Tetley Green Tea Immune with vitamin C (found in lemons) will strengthen the immune system. $\\checkmark\\checkmark$
+
+**OR**
+
+**No.**  
+The idea of lemon slices/vitamin C does not come across because prior knowledge that the lemon contains vitamin C is needed for one to be convinced by the visual. The link between the dumbbell and Tetley Green Tea Immune is not clear. $\\checkmark\\checkmark$
+
+**NOTE:** Do not award a mark for Yes or No. The above are merely examples. A candidate can score 1 mark for an answer that is not well-substantiated. Accept a combination answer. (2)""",
+        "final_answer": "Yes. The dumbbell symbolizes physical fitness and building strength, while the lemon slices represent vitamin C, reinforcing the message that the tea builds internal immunity and strength.",
+    },
+    # ---------------------------------------------------------
+    # SECTION C: QUESTION 4 (CARTOON - TEXT E)
+    # ---------------------------------------------------------
+    {
+        "question_ref": "4.1",
+        "marks": 1,
+        "kind": "passage_questions",
+        "topic": "Analysing a Cartoon - Sound Words (Onomatopoeia)",
+        "passage": PASSAGE_TEXT_E,
+        "question": "Refer to FRAME 1.\n\nWhy are the words 'zip zop' used?",
+        "memo": "To indicate the sounds made by Calvin's pants/shoes/footsteps. $\\checkmark$ (1)",
+        "final_answer": "To represent the swishing sound made by Calvin's waterproof snow pants rubbing together as he moves.",
+    },
+    {
+        "question_ref": "4.2",
+        "marks": 1,
+        "kind": "multiple_choice",
+        "topic": "Analysing a Cartoon - Facial Expression",
+        "passage": PASSAGE_TEXT_E,
+        "question": "Choose the correct answer to complete the following sentence:\n\nCalvin's facial expression in FRAME 2 indicates that he is ...\n\nA nervous.\nB restless.\nC excited.\nD anxious.",
+        "memo": "C / excited. $\\checkmark$ (1)",
+        "final_answer": "C excited.",
+    },
+    {
+        "question_ref": "4.3",
+        "marks": 2,
+        "kind": "passage_questions",
+        "topic": "Analysing a Cartoon - Verbal and Visual Clues of Shouting",
+        "passage": PASSAGE_TEXT_E,
+        "question": "Refer to FRAME 6.\n\nExplain how the cartoonist conveys that Calvin is shouting. Refer to ONE verbal and ONE visual clue in your answer.",
+        "memo": "* Verbal: The words are printed in bold/bigger font. / The use of the question mark/double exclamation marks ('!!'). $\\checkmark$\n* Visual: His mouth is wide open. / His hand is raised. / The speech bubble has jagged edges. $\\checkmark$\n\n**NOTE:** Accept ONE verbal and ONE visual response. (2)",
+        "final_answer": "Verbal clue: The words are written in bold capital letters ending with double exclamation marks ('!!'). Visual clue: Calvin's mouth is wide open, his arm is raised, and the speech bubble has jagged, electric edges.",
+    },
+    {
+        "question_ref": "4.4",
+        "marks": 2,
+        "kind": "passage_questions",
+        "topic": "Analysing a Cartoon - Contrast in Body Language",
+        "passage": PASSAGE_TEXT_E,
+        "question": "Describe how Calvin's actions in FRAME 7 are in contrast to his actions in FRAME 8. Refer to the visual aspects ONLY.",
+        "memo": """* In FRAME 7, Calvin closes his mouth; in FRAME 8 he opens his mouth (widely). $\\checkmark\\checkmark$  
+**OR**  
+* In FRAME 7, Calvin opens his eyes widely; in FRAME 8 he opens his eyes. $\\checkmark\\checkmark$  
+**OR**  
+* In FRAME 7, Calvin is hovering in a sitting position; in FRAME 8 he is running. $\\checkmark\\checkmark$
+
+**NOTE:**
+* Accept ANY other suitable answer provided that the contrast is clear.
+* Award 2 or 0 marks. (2)""",
+        "final_answer": "In FRAME 7, Calvin is sitting still on his sled with his mouth closed, whereas in FRAME 8, he has leapt off the sled and is running wildly with his arms spread and mouth open shouting.",
+    },
+    {
+        "question_ref": "4.5.1",
+        "marks": 1,
+        "kind": "passage_questions",
+        "topic": "Analysing a Cartoon - Contractions",
+        "passage": PASSAGE_TEXT_E,
+        "question": "Study the following sentence:\n\n*'Ooh, he's going to hate me for this.'*\n\nRewrite 'he's' in full.",
+        "memo": "he is $\\checkmark$ (1)",
+        "final_answer": "he is",
+    },
+    {
+        "question_ref": "4.5.2",
+        "marks": 1,
+        "kind": "passage_questions",
+        "topic": "Analysing a Cartoon - Synonyms",
+        "passage": PASSAGE_TEXT_E,
+        "question": "Study the following sentence:\n\n*'Ooh, he's going to hate me for this.'*\n\nGive a synonym for the word 'hate'.",
+        "memo": "dislike / resent / despise / loathe $\\checkmark$ (1)",
+        "final_answer": "despise (or dislike / loathe / resent)",
+    },
+    {
+        "question_ref": "4.6",
+        "marks": 2,
+        "kind": "passage_questions",
+        "topic": "Analysing a Cartoon - Critical Response to Character Behavior",
+        "passage": PASSAGE_TEXT_E,
+        "question": "Do you think Hobbes' behaviour is acceptable in this cartoon?\n\nSubstantiate your answer.",
+        "memo": """Open-ended. Accept a suitable answer, e.g.
+
+**Yes.**  
+He wants to make Calvin happy by providing snow. He is not harming anyone. He proves that he is a good friend. $\\checkmark\\checkmark$
+
+**OR**
+
+**No.**  
+It is not right of Hobbes to lie to Calvin and to lead him into believing that he has the ability to make it snow. $\\checkmark\\checkmark$
+
+**NOTE:** Do not award a mark for Yes or No. The above are merely examples. A candidate can score 1 mark for an answer that is not well-substantiated. Accept a combination answer. (2)""",
+        "final_answer": "Yes. Hobbes playfully helps fulfill Calvin's wish for snow so they can enjoy winter playing together, showing harmless humour and friendship. (Alternatively: No, because deceiving Calvin into believing he has supernatural powers is dishonest.)",
+    },
+    # ---------------------------------------------------------
+    # SECTION C: QUESTION 5 (LANGUAGE & EDITING - TEXT F & TEXT G)
+    # ---------------------------------------------------------
+    {
+        "question_ref": "5.1.1a",
+        "marks": 1,
+        "kind": "passage_questions",
+        "topic": "Language & Editing - Subject-Verb Agreement (Concord)",
+        "passage": PASSAGE_TEXT_F,
+        "question": "Correct the SINGLE error in the following sentence. Write down ONLY the question number and the word you have corrected.\n\nThe Link Literacy Project are in need of volunteers.",
+        "memo": "is $\\checkmark$ (1)",
+        "final_answer": "is",
+    },
+    {
+        "question_ref": "5.1.1b",
+        "marks": 1,
+        "kind": "passage_questions",
+        "topic": "Language & Editing - Passive Voice / Past Participle",
+        "passage": PASSAGE_TEXT_F,
+        "question": "Correct the SINGLE error in the following sentence. Write down ONLY the question number and the word you have corrected.\n\nIt is estimate that most South African children have lost learning time.",
+        "memo": "estimated $\\checkmark$ (1)",
+        "final_answer": "estimated",
+    },
+    {
+        "question_ref": "5.1.1c",
+        "marks": 1,
+        "kind": "passage_questions",
+        "topic": "Language & Editing - Idiomatic Expression / Indefinite Article",
+        "passage": PASSAGE_TEXT_F,
+        "question": "Correct the SINGLE error in the following sentence. Write down ONLY the question number and the word you have corrected.\n\nA little effort will go the long way to helping children.",
+        "memo": "a $\\checkmark$ (1)",
+        "final_answer": "a",
+    },
+    {
+        "question_ref": "5.1.1d",
+        "marks": 1,
+        "kind": "passage_questions",
+        "topic": "Language & Editing - Spelling Error",
+        "passage": PASSAGE_TEXT_F,
+        "question": "Correct the SINGLE error in the following sentence. Write down ONLY the question number and the word you have corrected.\n\nShe added, 'Many of our children live in chalenging environments.'",
+        "memo": "challenging $\\checkmark$ (1)",
+        "final_answer": "challenging",
+    },
+    {
+        "question_ref": "5.1.2",
+        "marks": 1,
+        "kind": "passage_questions",
+        "topic": "Language & Editing - Question Tags",
+        "passage": PASSAGE_TEXT_F,
+        "question": "Complete the following tag question. Write down only the missing words.\n\nThe children need to be able to read to make their way through this education system, ... ...?",
+        "memo": "don't they / do they not $\\checkmark$ (1)",
+        "final_answer": "don't they",
+    },
+    {
+        "question_ref": "5.1.3",
+        "marks": 3,
+        "kind": "passage_questions",
+        "topic": "Language & Editing - Reported Speech",
+        "passage": PASSAGE_TEXT_F,
+        "question": "Rewrite the following sentence in reported speech:\n\nMaggie Fussell said, 'There is little opportunity for children to improve these core skills.'",
+        "memo": """Maggie Fussell said (that) there <u>was</u> $\\checkmark$ little opportunity for children to improve <u>those</u> $\\checkmark$ core skills. $\\checkmark$
+
+**NOTE:** Award ONE mark for each underlined change (`was`, `those`) and ONE mark for correct punctuation (no quotation marks, final full stop). (3)""",
+        "final_answer": "Maggie Fussell said that there was little opportunity for children to improve those core skills.",
+    },
+    {
+        "question_ref": "5.1.4",
+        "marks": 1,
+        "kind": "passage_questions",
+        "topic": "Language & Editing - Negative Form",
+        "passage": PASSAGE_TEXT_F,
+        "question": "Rewrite the following sentence in the negative form:\n\nThe nineteen centres are based at low-income schools throughout the country.",
+        "memo": "The nineteen centres are not/aren't based at low-income schools throughout the country. $\\checkmark$ (1)",
+        "final_answer": "The nineteen centres are not based at low-income schools throughout the country.",
+    },
+    {
+        "question_ref": "5.1.5",
+        "marks": 1,
+        "kind": "passage_questions",
+        "topic": "Language & Editing - Active Voice",
+        "passage": PASSAGE_TEXT_F,
+        "question": "Rewrite the following sentence in the active voice:\n\nThe project is already supported by various communities.",
+        "memo": "Various communities already support the project. $\\checkmark$ (1)",
+        "final_answer": "Various communities already support the project.",
+    },
+    {
+        "question_ref": "5.1.6",
+        "marks": 1,
+        "kind": "passage_questions",
+        "topic": "Language & Editing - Past Continuous Tense",
+        "passage": PASSAGE_TEXT_F,
+        "question": "Rewrite the following sentence in the past continuous tense:\n\nThey help to build foundation skills in two programmes.",
+        "memo": "They were helping to build foundation skills in two programmes. $\\checkmark$ (1)",
+        "final_answer": "They were helping to build foundation skills in two programmes.",
+    },
+    {
+        "question_ref": "5.1.7",
+        "marks": 2,
+        "kind": "passage_questions",
+        "topic": "Language & Editing - Sentence Synthesis ('either ... or')",
+        "passage": PASSAGE_TEXT_F,
+        "question": "Combine the following sentences into a single sentence:\n\n*Volunteers can be parents of children from surrounding schools.*\n*Volunteers can be working people.*\n\nUse the words 'either ... or'.",
+        "memo": """Volunteers can either be parents of children from surrounding schools $\\checkmark$ or (they can be) working people. $\\checkmark$  
+**OR**  
+Volunteers can either be working people $\\checkmark$ or parents of children from surrounding schools. $\\checkmark$  
+**OR**  
+Either parents of children from surrounding schools $\\checkmark$ or working people can be volunteers. $\\checkmark$
+
+**NOTE:** Accept other suitable answers. (2)""",
+        "final_answer": "Volunteers can either be parents of children from surrounding schools or working people.",
+    },
+    {
+        "question_ref": "5.1.8",
+        "marks": 1,
+        "kind": "passage_questions",
+        "topic": "Language & Editing - Homophones ('one' / 'won')",
+        "passage": PASSAGE_TEXT_F,
+        "question": "Study the following sentence:\n\n*It is better to choose one project to support.*\n\nUse a homophone for the word 'one' in a sentence of your own.",
+        "memo": "We recently won the soccer match. $\\checkmark$\n*(Award 1 mark for a grammatically correct sentence using 'won' appropriately.)*\n\n**NOTE:** Accept other suitable answers. (1)",
+        "final_answer": "Our team won the soccer tournament last weekend.",
+    },
+    {
+        "question_ref": "5.2.1",
+        "marks": 1,
+        "kind": "passage_questions",
+        "topic": "Language & Editing - Punctuation (Hyphenation)",
+        "passage": PASSAGE_TEXT_G,
+        "question": "Rewrite the following sentence and insert the missing punctuation mark:\n\nFairy tales are well known stories that inspire children's creativity.",
+        "memo": "Fairy tales are well-known stories that inspire children's creativity. $\\checkmark$ (1)",
+        "final_answer": "Fairy tales are well-known stories that inspire children's creativity.",
+    },
+    {
+        "question_ref": "5.2.2",
+        "marks": 1,
+        "kind": "passage_questions",
+        "topic": "Language & Editing - Antonyms",
+        "passage": PASSAGE_TEXT_G,
+        "question": "Give an antonym for the underlined word in the following sentence:\n\nIt is <u>easy</u> to understand fairy tales.",
+        "memo": "difficult / challenging / hard $\\checkmark$ (1)",
+        "final_answer": "difficult",
+    },
+    {
+        "question_ref": "5.2.3",
+        "marks": 1,
+        "kind": "passage_questions",
+        "topic": "Language & Editing - Singular Noun Formation",
+        "passage": PASSAGE_TEXT_G,
+        "question": "Give the singular form of the underlined word in the following sentence:\n\nShe participated in the most interesting <u>activities</u>.",
+        "memo": "activity $\\checkmark$ (1)",
+        "final_answer": "activity",
+    },
+    {
+        "question_ref": "5.2.4",
+        "marks": 1,
+        "kind": "passage_questions",
+        "topic": "Language & Editing - Word Formation (Adjective from Noun)",
+        "passage": PASSAGE_TEXT_G,
+        "question": "Give the correct form of the word in brackets:\n\n(Adventure) people enjoy mountain climbing.",
+        "memo": "Adventurous $\\checkmark$ (1)",
+        "final_answer": "Adventurous",
+    },
+    {
+        "question_ref": "5.2.5",
+        "marks": 2,
+        "kind": "passage_questions",
+        "topic": "Language & Editing - Prepositions",
+        "passage": PASSAGE_TEXT_G,
+        "question": "Complete the following sentence by filling in the missing words. Write only the word next to the question numbers (5.2.5(a) and 5.2.5(b)) in the ANSWER BOOK.\n\n*at; on; in; from; to; too*\n\nSome girls want to kiss frogs (a) ... order (b) ... turn them into princes.",
+        "memo": "(a) in $\\checkmark$ (1)\n(b) to $\\checkmark$ (1) (2)",
+        "final_answer": "(a) in; (b) to",
+    },
+]
+
+# -------------------------------------------------------------
+# BUILD AND VALIDATE
+# -------------------------------------------------------------
+
+def check_katex_balance(text: str) -> bool:
+    """Verifies that single ($) and double ($$) dollar delimiters are properly closed."""
+    # Find all unescaped dollar signs
+    # An escaped dollar is preceded by odd number of backslashes
+    tokens = re.findall(r'(?<!\\)\$', text)
+    return len(tokens) % 2 == 0
+
+def main():
+    items = []
+    total_marks = 0
+
+    for raw in raw_items:
+        item_id = f"{SOURCE_ID}-{raw['question_ref']}"
+        marks = raw["marks"]
+        total_marks += marks
+
+        # Validate KaTeX in all string fields
+        for field in ["passage", "question", "memo", "final_answer"]:
+            val = raw[field]
+            if not check_katex_balance(val):
+                raise ValueError(f"Unbalanced KaTeX in item {item_id}, field {field}!\nContent: {val}")
+
+        item = {
+            "item_id": item_id,
+            "source_id": SOURCE_ID,
+            "pair_source_id": MEMO_ID,
+            "subject": SUBJECT,
+            "grade": GRADE,
+            "language": LANGUAGE,
+            "track": TRACK,
+            "kind": raw["kind"],
+            "question_ref": raw["question_ref"],
+            "marks": marks,
+            "topic": raw["topic"],
+            "passage": raw["passage"],
+            "question": raw["question"],
+            "memo": raw["memo"],
+            "final_answer": raw["final_answer"],
+            "needs_review": False,
+            "licence": "DBE copyright - check terms",
+            "attribution": "Department of Basic Education",
+        }
+        items.append(item)
+
+    print(f"Total items created: {len(items)}")
+    print(f"Total marks summed: {total_marks}")
+    assert total_marks == 80, f"Expected 80 marks, got {total_marks}!"
+
+    # Target output paths
+    out_path_subject = "workspace/items/english_fal/dbe-english_fal-g12-p1-2023-may.jsonl"
+    out_path_flat = "workspace/items/dbe-english_fal-g12-p1-2023-may.jsonl"
+
+    for path in [out_path_subject, out_path_flat]:
+        os.makedirs(os.path.dirname(path), exist_ok=True)
+        with open(path, "w", encoding="utf-8") as f:
+            for item in items:
+                f.write(json.dumps(item, ensure_ascii=False) + "\n")
+        print(f"Successfully wrote {len(items)} items to {path}")
+
+if __name__ == "__main__":
+    main()

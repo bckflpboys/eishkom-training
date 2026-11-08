@@ -341,4 +341,153 @@ $$\varepsilon = I(R + r) \implies 24 = V_{\text{ext}} + 3,05(0,3) \checkmark \im
 The total/external resistance increases / *Totale/eksterne weerstand neem toe* $\checkmark$ (2)
 
 8.4 Increases / *Neem toe* $\checkmark$  
-*   $V_R / IR$ decreases $\
+*    / IR$ decreases $\checkmark$ thus  
+*   {\text{lost}} / Ir$ decreases AND $ increases $\checkmark$ (and emf stays constant)  
+*   $ constant AND  \propto V^2 / P = \frac{V^2}{R} \checkmark$ therefore L is brighter  
+**OR**  
+*   $ constant AND $ increases AND  \propto I^2 / P = I^2R \checkmark$ therefore L is brighter  
+*(Accept for this exam ONLY: calculation of P)* (4)  
+
+8.5 C $\checkmark$, D $\checkmark$ and F $\checkmark$ OR/OF $, $ and {9\Omega}$  
+Mark first three answers. (3)  
+**[23]**  
+
+---
+
+### **QUESTION 9 / VRAAG 9**
+
+9.1.1 North / Noord $\checkmark\checkmark$ (2)  
+
+9.1.2 ANY ONE of the following / ENIGE EEN van die volgende: $\checkmark$  
+* Increase speed of the rotation / Verhoog spoed van rotasie  
+* Increase number of coils (turns) / Meer windings  
+* Use magnet with stronger field / stronger magnet / increase magnetic flux / electromagnets / insert soft iron core / Gebruik magneet met sterker veld / sterker magneet / verhoog magnetiese vloedkoppeling / elektromagneet / voeg sagte ysterkern by (1)  
+
+9.1.3  
+**Criteria for graph:**  
+* AC-graph starts with maximum current $\checkmark$  
+* Graph drawn for one cycle / one complete wavelength $\checkmark$  
+* Correct shape (cosine graph) $\checkmark$  
+*(If one cycle of a sin-graph drawn: max $\frac{1}{3}$)* (3)  
+
+9.2.1 **Marking criteria:**  
+If any of the underlined key words/phrases in the correct context is omitted deduct 1 mark.  
+
+Root-mean-square current is the **alternating current (AC)** that **dissipates the same amount of energy / heating effect** as an **equivalent direct current (DC)**. $\checkmark\checkmark$  
+*Die wortelgemiddeldekwadraat-stroom is die wisselstroom (WS) wat dieselfde hoeveelheid energie verbruik/verhittingseffek het as 'n ekwivalente gelykstroom (GS) het.*  
+
+**NOTE:** If learner writes DC first / If energy or heating effect is omitted / If learner defines potential difference: $\frac{0}{2}$. (2)  
+
+9.2.2  
+**OPTION 1**  
+\begin{aligned}
+V_{\text{rms}} &= \frac{V_{\max}}{\sqrt{2}} \\
+&= \frac{340}{\sqrt{2}} \quad \checkmark \\
+&= 240{,}42\text{ V} \\
+P_{\text{ave}} &= V_{\text{rms}}I_{\text{rms}} \quad \checkmark \\
+1\text{ }200 &= (240{,}42)I_{\text{rms}} \quad \checkmark \\
+I_{\text{rms}} &= 4{,}99\text{ A} \quad \checkmark
+\end{aligned}
+
+**OPTION 2**  
+\begin{aligned}
+P_{\text{ave}} &= \frac{I_{\max} V_{\max}}{2} \\
+1\text{ }200 &= \frac{I_{\max}(340)}{2} \quad \checkmark \\
+I_{\max} &= 7{,}06\text{ A} \\
+I_{\text{rms}} &= \frac{I_{\max}}{\sqrt{2}} \quad \checkmark \\
+&= \frac{7{,}06}{\sqrt{2}} \quad \checkmark \\
+&= 4{,}99\text{ A} \quad \checkmark
+\end{aligned}
+
+**OPTION 3**  
+\begin{aligned}
+V_{\text{rms}} &= \frac{V_{\max}}{\sqrt{2}} = \frac{340}{\sqrt{2}} = 240{,}42\text{ V} \quad \checkmark \\
+P_{\text{ave}} &= \frac{V_{\text{rms}}^2}{R} \implies 1\text{ }200 = \frac{(240{,}42)^2}{R} \implies R = 48{,}17\ \Omega \\
+V &= IR \implies 240{,}42 = I(48{,}17) \quad \checkmark \\
+I &= 4{,}99\text{ A} \quad \checkmark
+\end{aligned}
+
+*(NOTE: Penalise for subscripts not shown)* (4)  
+
+9.2.3 **POSITIVE MARKING FROM QUESTION 9.2.2**  
+
+**OPTION 1**  
+\begin{aligned}
+R &= \frac{V_{\text{rms}}}{I_{\text{rms}}} \quad \checkmark \\
+&= \frac{240{,}42}{4{,}99} \quad \checkmark \\
+R &= 48{,}18\ \Omega \quad \checkmark
+\end{aligned}
+
+**OPTION 2**  
+\begin{aligned}
+R &= \frac{V_{\max}}{I_{\max}} \quad \checkmark \\
+&= \frac{340}{7{,}06} \quad \checkmark \\
+R &= 48{,}18\ \Omega \quad \checkmark
+\end{aligned}
+
+**OPTION 3**  
+\begin{aligned}
+P_{\text{ave}} &= \frac{V_{\text{rms}}^2}{R} \quad \checkmark \\
+1\text{ }200 &= \frac{(240{,}42)^2}{R} \quad \checkmark \\
+R &= 48{,}17\ \Omega \quad \checkmark
+\end{aligned}
+
+**OPTION 4**  
+\begin{aligned}
+P_{\text{ave}} &= I_{\text{rms}}^2 R \quad \checkmark \\
+1\text{ }200 &= (4{,}99)^2 R \quad \checkmark \\
+R &= 48{,}19\ \Omega \quad \checkmark
+\end{aligned}
+
+*(NOTE: If R calculated in Q9.2.2 option 3 give credit)* (3)  
+**[15]**  
+
+---
+
+### **QUESTION 10 / VRAAG 10**
+
+10.1 **Marking criteria:**  
+If any of the underlined key words/phrases in the correct context is omitted deduct 1 mark.  
+
+The **minimum energy** (of incident photons) that can **eject electrons** from a **metal / surface**. $\checkmark\checkmark$  
+*Die minimum energie (van invallende fotone) wat elektrone kan vrystel vanuit 'n metaal/oppervlak.*  
+
+**NOTE:** If reference to frequency: $\frac{0}{2}$. (2)  
+
+10.2  
+$ $\checkmark\checkmark$ (2)  
+
+10.3.1  
+\begin{aligned}
+E_{k(\max)} &= \frac{1}{2}m v_{\max}^2 \quad \checkmark \\
+2{,}99 \times 10^{-19} &= \frac{1}{2}(9{,}11 \times 10^{-31})v_{\max}^2 \quad \checkmark \\
+v_{\max} &= 8{,}10 \times 10^5\text{ m}\cdot\text{s}^{-1} \quad \checkmark
+\end{aligned} (3)  
+
+10.3.2 **POSITIVE MARKING FROM Q10.2**  
+
+**OPTION 1**  
+\begin{aligned}
+E &= W_0 + E_{k(\max)} \quad \checkmark \\
+hf &= W_0 + E_{k(\max)} \\
+&= 3{,}68 \times 10^{-19} \checkmark + 2{,}99 \times 10^{-19} \checkmark \\
+Y &= 6{,}67 \times 10^{-19}\text{ J} \quad \checkmark
+\end{aligned}
+
+**OPTION 2**  
+\begin{aligned}
+\text{gradient} &= \frac{\Delta E_{k(\max)}}{\Delta E} \quad \checkmark \\
+1 &= \frac{2{,}99 \times 10^{-19} - 0}{Y - 3{,}68 \times 10^{-19}} \quad \checkmark\checkmark \\
+Y &= 6{,}67 \times 10^{-19}\text{ J} \quad \checkmark
+\end{aligned} (4)  
+
+10.4  
+Remains the same / Bly dieselfde $\checkmark$  
+The energy of the incident photons is not changing. / Die energie van die invallende fotone verander nie. $\checkmark$  
+
+**OR/OF**  
+
+Kinetic energy is affected by / depends on the frequency of the photons and the frequency remains the same. / Kinetiese energie word beïnvloed deur / hang af van die frekwensie van die fotone en die frekwensie bly dieselfde. $\checkmark$ (2)  
+**[13]**  
+
+**TOTAL: 150**

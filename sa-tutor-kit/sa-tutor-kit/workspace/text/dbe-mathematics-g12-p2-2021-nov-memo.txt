@@ -585,4 +585,264 @@ $$\begin{aligned}
 * ✓ $QT = \frac{5\tan x \sin 2x}{\sin x}$
 * ✓ $\tan x = \frac{\sin x}{\cos x}$
 * ✓ $\sin 2x = 2\sin x \cos x$ (5)
+\\begin{aligned}
+\\textbf{OR/OF} \\
+QT^2 &= QS^2 + TS^2 - 2 \\cdot QS \\cdot TS \\cdot \\cos Q\\hat{S}T \\
+&= (5\\tan x)^2 + (5\\tan x)^2 - 2(5\\tan x)(5\\tan x)\\cos(180^\\circ - 2x) \\
+&= 50\\tan^2 x - 50\\tan^2 x(-\\cos 2x) \\
+&= 50\\tan^2 x(1 + \\cos 2x) \\
+&= 50\\tan^2 x(1 + 2\\cos^2 x - 1) \\
+&= 50\\tan^2 x(2\\cos^2 x) \\
+&= 100 \\cdot \\frac{\\sin^2 x}{\\cos^2 x} \\cdot \\cos^2 x \\
+&= 100\\sin^2 x \\
+\\therefore QT &= 10\\sin x
+\\end{aligned}
+* ✓ correct use of cos rule
+* ✓  = QS = 5\\tan x$
+* ✓ $\\cos 2x = 2\\cos^2 x - 1$ & reduction
+* ✓ $\\tan x = \\frac{\\sin x}{\\cos x}$
+* ✓  = 10\\sin x$ (5)
 
+\\begin{aligned}
+\\textbf{OR/OF} \\
+TS^2 &= QS^2 + TQ^2 - 2 \\cdot QS \\cdot TQ \\cdot \\cos x \\
+(5\\tan x)^2 &= (5\\tan x)^2 + TQ^2 - 2(5\\tan x)TQ\\cos x \\
+0 &= TQ^2 - 10\\tan x \\cdot TQ \\cdot \\cos x \\
+0 &= TQ(TQ - 10\\tan x \\cos x) \\
+TQ &= 10\\tan x \\cos x \\quad [TQ \\neq 0] \\
+&= 10\\left(\\frac{\\sin x}{\\cos x}\\right)\\cos x \\
+&= 10\\sin x
+\\end{aligned}
+* ✓ correct use of cos rule
+* ✓  = QS = 5\\tan x$
+* ✓ quadratic equation in terms of $
+* ✓  = 10\\tan x \\cos x$
+* ✓ $\\tan x = \\frac{\\sin x}{\\cos x}$ (5)
+
+\\begin{aligned}
+8.3 \\quad \\text{Area of } \\Delta TQR &= \\frac{1}{2} \\cdot QT \\cdot QR \\cdot \\sin T\\hat{Q}R \\
+&= \\frac{1}{2}(10\\sin 25^\\circ)(5)(\\sin 70^\\circ) \\
+&= 9{,}93 \\text{ units}^2
+\\end{aligned}
+* ✓ correct substitution into the area rule
+* ✓ answer (2)
+* **[10]**
+
+---
+
+### QUESTION / VRAAG 9
+
+\\begin{aligned}
+9.1 \\quad &\\text{Tangents from same (common) point / raaklyne vanaf dieselfde punt}
+\\end{aligned}
+* ✓ reason (1)
+
+\\begin{aligned}
+9.2.1 \\quad &\\hat{S}_2 = \\hat{R}_2 \\quad [\\angle\\text{s opp equal sides / } \\angle\\text{e teenoor gelyke sye}] \\
+&\\hat{S}_2 + \\hat{R}_2 + \\hat{T} = 180^\\circ \\quad [\\text{sum of } \\angle\\text{s in } \\Delta / \\text{som van } \\angle\\text{e in } \\Delta] \\
+&2\\hat{S}_2 + 78^\\circ = 180^\\circ \\
+&\\therefore \\hat{S}_2 = 51^\\circ
+\\end{aligned}
+* ✓ reason
+* ✓ statement / answer (2)
+
+\\begin{aligned}
+9.2.2 \\quad &\\hat{S}_2 + \\hat{S}_3 = 93^\\circ \\quad [\\text{ext } \\angle \\text{ of cyclic quad / buite}\\angle \\text{ van koordevh}] \\
+&51^\\circ + \\hat{S}_3 = 93^\\circ \\
+&\\therefore \\hat{S}_3 = 42^\\circ \\
+&\\textbf{OR/OF} \\
+&\\hat{S}_1 = 180^\\circ - 93^\\circ = 87^\\circ \\quad [\\text{opp } \\angle\\text{s of cyclic quad / teenoorst } \\angle\\text{e v kdvh}] \\
+&\\hat{S}_3 = 180^\\circ - (87^\\circ + 51^\\circ) \\quad [\\angle\\text{s on a str line / } \\angle\\text{e op reguitlyn}] \\
+&\\therefore \\hat{S}_3 = 42^\\circ
+\\end{aligned}
+* ✓ reason
+* ✓ answer (2)
+* **[5]**
+
+---
+
+### QUESTION / VRAAG 10
+
+\\begin{aligned}
+10.1 \\quad &\\text{Line from centre } \\perp \\text{ to chord / lyn vanaf middelpunt } \\perp \\text{ op koord}
+\\end{aligned}
+* ✓ reason (1)
+
+\\begin{aligned}
+10.2 \\quad &\\hat{A}_1 = 90^\\circ - x \\quad [\\text{sum of } \\angle\\text{s in } \\Delta / \\text{som van } \\angle\\text{e in } \\Delta] \\
+&\\hat{M}_1 = 2\\hat{A}_1 = 2(90^\\circ - x) = 180^\\circ - 2x \\quad [\\angle \\text{ at centre} = 2 \\times \\angle \\text{ at circumf / midpts}\\angle = 2 \\times \\text{omtreks}\\angle]
+\\end{aligned}
+* ✓ statement ($\\hat{A}_1 = 90^\\circ - x$)
+* ✓ statement ($\\hat{M}_1 = 180^\\circ - 2x$)
+* ✓ reason (3)
+
+\\begin{aligned}
+10.3 \\quad &C\\hat{A}D = 90^\\circ \\quad [\\angle \\text{ in semi-circle / } \\angle \\text{ in halfsirkel}] \\
+&\\hat{A}_2 = 90^\\circ - (90^\\circ - x) = x \\
+&\\therefore \\hat{A}_2 = \\hat{C} = x \\
+&\\therefore AD \\text{ is a tangent} \\quad [\\text{converse tan-chord theorem / omgek rkl-kd st.}] \\
+&\\textbf{OR/OF} \\
+&E\\hat{M}D = 2x \\quad [\\text{adj suppl } \\angle\\text{s / aanligg suppl } \\angle\\text{e}] \\
+&\\hat{A}_2 = x \\quad [\\angle\\text{at centre} = 2 \\times \\angle\\text{ at circumf / midpts}\\angle = 2 \\times \\text{omtreks}\\angle] \\
+&\\therefore \\hat{A}_2 = \\hat{C} = x \\
+&\\therefore AD \\text{ is a tangent} \\quad [\\text{converse tan-chord theorem / omgek rkl-kd st.}] \\
+&\\textbf{OR/OF} \\
+&\\hat{M}_3 = 180^\\circ - 2x \\quad [\\text{vert. opp / regoorstaande } \\angle\\text{e}] \\
+&\\hat{A}_3 = 90^\\circ - x \\quad [\\angle\\text{at centre} = 2 \\times \\angle\\text{ at circumf / midpts}\\angle = 2 \\times \\text{omtreks}\\angle] \\
+&B\\hat{A}E = 90^\\circ \\quad [\\angle \\text{ in semi-circle / } \\angle \\text{ in halfsirkel}] \\
+&\\therefore \\hat{A}_2 = \\hat{C} = x \\
+&\\therefore AD \\text{ is a tangent} \\quad [\\text{converse tan-chord theorem / omgek rkl-kd st.}] \\
+&\\textbf{OR/OF} \\
+&CD \\parallel AB \\quad [\\text{Midpt. Thm / middelpuntst.}] \\
+&B\\hat{A}E = 90^\\circ \\quad [\\angle \\text{ in semi-circle / } \\angle \\text{ in halfsirkel}] \\
+&\\hat{A}_3 = \\hat{D} = 90^\\circ - x \\quad [\\text{alt. } \\angle\\text{s; } CD \\parallel AB / \\text{verwiss } \\angle\\text{e}] \\
+&\\therefore \\hat{A}_2 = \\hat{C} = x \\
+&\\therefore AD \\text{ is a tangent} \\quad [\\text{converse tan-chord theorem / omgek rkl-kd st.}] \\
+&\\textbf{OR/OF} \\
+&C\\hat{A}D = 90^\\circ \\quad [\\angle \\text{ in semi-circle / } \\angle \\text{ in halfsirkel}] \\
+&AC = \\text{diameter} \\quad [\\text{converse } \\angle \\text{ in semi-circle / omgek } \\angle \\text{ in halfsirkel}] \\
+&\\therefore AD \\text{ is a tangent} \\quad [\\text{converse radius } \\perp \\text{ tangent / omgek radius } \\perp \\text{rkl}]
+\\end{aligned}
+* ✓ statement ($\\hat{A}_2 = x$)
+* ✓ reason (\\hat{A}D = 90^\\circ$)
+* ✓ statement ($\\hat{A}_2 = \\hat{C}$)
+* ✓ reason (converse tan-chord theorem) (4)
+
+\\begin{aligned}
+10.4 \\quad &AF = FE \\text{ and } BM = ME \\quad [\\text{given \\& radii}] \\
+&\\therefore FM = \\frac{1}{2}AB = 12 \\text{ units} \\quad [\\text{Midpt Theorem / middelpuntstelling}] \\
+&EM = MB = CM = CF + FM = 6 + 12 = 18 \\text{ units} \\quad [\\text{radii}] \\
+&\\therefore EB = 36 \\text{ units} \\quad [\\text{diameter} = 2 \\times \\text{radius}] \\
+&\\text{In } \\Delta ABE, B\\hat{A}E = 90^\\circ \\quad [\\angle \\text{ in semi-circle}]: \\
+&AE^2 = EB^2 - AB^2 \\quad [\\text{Pythagoras}] \\
+&AE^2 = (36)^2 - (24)^2 = 1296 - 576 = 720 \\
+&AE = \\sqrt{720} = 12\\sqrt{5} \\approx 26{,}83 \\text{ units} \\
+&\\textbf{OR/OF} \\
+&AF = FE \\text{ and } BM = ME \\quad [\\text{given \\& radii}] \\
+&\\therefore FM = \\frac{1}{2}AB = 12 \\text{ units} \\quad [\\text{Midpt Theorem / middelpuntstelling}] \\
+&EM = MB = CM = 6 + 12 = 18 \\text{ units} \\quad [\\text{radii}] \\
+&\\text{In } \\Delta EFM, E\\hat{F}M = 90^\\circ: \\
+&FE^2 = (18)^2 - (12)^2 = 324 - 144 = 180 \\quad [\\text{Pythagoras}] \\
+&FE = \\sqrt{180} = 6\\sqrt{5} \\
+&AE = 2 \\times FE = 12\\sqrt{5} \\approx 26{,}83 \\text{ units}
+\\end{aligned}
+* ✓  = 12$
+* ✓ reason (Midpt Theorem)
+* ✓  = 36$ (or  = 18$)
+* ✓ using Pythagoras correctly
+* ✓ answer (\\sqrt{5}$ or {,}83$) (5)
+* **[13]**
+
+---
+
+### QUESTION / VRAAG 11
+
+\\begin{aligned}
+11.1 \\quad &\\textbf{Method 1: Draw diameter } BF \\textbf{ and draw } BE \\
+&\\text{Construction: Draw diameter } BF \\text{ and draw } BE \\
+&B\\hat{F}K = 90^\\circ \\text{ or } D\\hat{F}K = 90^\\circ - B\\hat{F}D \\quad [\\text{radius } \\perp \\text{ tangent / raaklyn}] \\
+&F\\hat{E}B = 90^\\circ \\quad [\\angle \\text{ in semi-circle / semi-sirkel}] \\
+&D\\hat{E}F = 90^\\circ - B\\hat{E}D \\
+&\\phantom{D\\hat{E}F} = 90^\\circ - B\\hat{F}D \\quad [\\angle\\text{s same segment / } \\angle\\text{e dieselfde segment}] \\
+&\\therefore D\\hat{F}K = D\\hat{E}F = \\hat{E} \\
+&\\textbf{OR/OF} \\
+&\\textbf{Method 2: Draw radii } DO \\textbf{ and } OF \\
+&\\text{Construction: Draw radii } DO \\text{ and } OF \\
+&O\\hat{F}K = 90^\\circ \\text{ or } D\\hat{F}K = 90^\\circ - O\\hat{F}D \\quad [\\text{radius } \\perp \\text{ tangent / raaklyn}] \\
+&O\\hat{D}F = O\\hat{F}D \\quad [\\angle\\text{s opp } = \\text{sides / } \\angle\\text{e teenoor } = \\text{sye}] \\
+&D\\hat{O}F = 180^\\circ - 2 \\cdot O\\hat{F}D \\quad [\\angle\\text{s of } \\Delta / \\angle\\text{e van } \\Delta] \\
+&D\\hat{E}F = 90^\\circ - O\\hat{F}D \\quad [\\angle \\text{ at centre} = 2 \\times \\angle \\text{ circumf / midpts}\\angle = 2 \\times \\text{omtreks}\\angle] \\
+&\\therefore D\\hat{F}K = D\\hat{E}F = \\hat{E} \\
+&\\textbf{OR/OF} \\
+&\\textbf{Method 3: Draw diameter } BF \\textbf{ and join } BD \\
+&\\text{Construction: Draw diameter } BF \\text{ and join } BD \\
+&B\\hat{F}K = 90^\\circ \\text{ or } D\\hat{F}K = 90^\\circ - B\\hat{F}D \\quad [\\text{radius } \\perp \\text{ tangent / raaklyn}] \\
+&F\\hat{D}B = 90^\\circ \\quad [\\angle \\text{ in half circle / semi-sirkel}] \\
+&\\hat{B} = 90^\\circ - B\\hat{F}D \\quad [\\angle\\text{s of } \\Delta] \\
+&\\therefore D\\hat{F}K = \\hat{B} \\
+&\\text{but } \\hat{B} = \\hat{E} \\quad [\\angle\\text{s same segment / } \\angle\\text{e dieselfde segment}] \\
+&\\therefore D\\hat{F}K = \\hat{E}
+\\end{aligned}
+* ✓ construction
+* ✓ statement & reason (\\hat{F}K = 90^\\circ$ [radius $\\perp$ tangent])
+* ✓ statement (\\hat{E}B = 90^\\circ$ or \\hat{D}F = O\\hat{F}D$ or \\hat{D}B = 90^\\circ$)
+* ✓ statement & reason (\\hat{E}F = 90^\\circ - B\\hat{F}D$ [$\\angle same segment])
+* ✓ conclusion \\hat{F}K = \\hat{E}$ (5)
+
+\\begin{aligned}
+11.2.1\\text{ (a)} \\quad &\\hat{K}_4 = \\hat{S}_1 \\quad [\\text{tan chord theorem / raaklynkoordstelling}] \\
+&\\hat{S}_1 = \\hat{M}_2 + \\hat{M}_3 \\quad [\\text{corresp } \\angle\\text{s; } MN \\parallel KS / \\text{ooreenk } \\angle\\text{s; } MN \\parallel KS] \\
+&\\therefore \\hat{K}_4 = \\hat{M}_2 + \\hat{M}_3 = N\\hat{M}L
+\\end{aligned}
+* ✓ statement & reason ($\\hat{K}_4 = \\hat{S}_1$ [tan chord theorem])
+* ✓ statement & reason ($\\hat{S}_1 = N\\hat{M}L$ [corresp $\\angle;  \\parallel KS$]) (4)
+
+\\begin{aligned}
+11.2.1\\text{ (b)} \\quad &\\hat{K}_4 = N\\hat{M}L \\quad [\\text{proved in 11.2.1(a)}] \\
+&\\therefore KLMN \\text{ is a cyclic quad} \\quad [\\text{ext } \\angle \\text{ of quad} = \\text{opp int } \\angle / \\text{buite} \\angle \\text{ van vh} = \\text{teenoorst binne} \\angle] \\
+&\\textbf{OR/OF} \\
+&N\\hat{K}S = \\hat{N}_1 \\quad [\\text{corresp } \\angle\\text{s; } MN \\parallel KS] \\
+&K\\hat{L}S = N\\hat{K}S \\quad [\\text{tan chord theorem}] \\
+&\\therefore \\hat{N}_1 = K\\hat{L}S \\
+&\\therefore KLMN \\text{ is a cyclic quad} \\quad [\\text{ext } \\angle \\text{ of quad} = \\text{opp int } \\angle] \\
+&\\textbf{OR/OF} \\
+&N\\hat{K}L = 180^\\circ - \\hat{K}_4 \\quad [\\text{adj. suppl.}] \\
+&\\therefore N\\hat{K}L = 180^\\circ - N\\hat{M}L \\quad [\\hat{K}_4 = N\\hat{M}L \\text{ proved}] \\
+&\\therefore KLMN \\text{ is a cyclic quad} \\quad [\\text{opp } \\angle\\text{s supplementary / teenoorst } \\angle\\text{e supplementêr}]
+\\end{aligned}
+* ✓ reason (1)
+
+\\begin{aligned}
+11.2.2 \\quad &\\text{In } \\Delta LKN \\text{ and } \\Delta KSM: \\
+&\\hat{N}_3 = \\hat{M}_3 \\quad [\\angle\\text{s in the same seg / } \\angle\\text{e in dieselfde sirkelsegm}] \\
+&\\hat{L}_1 = \\hat{M}_2 \\quad [\\angle\\text{s in the same seg / } \\angle\\text{e in dieselfde sirkelsegm}] \\
+&\\phantom{\\hat{L}_1} = \\hat{K}_2 \\quad [\\text{alt } \\angle\\text{s; } MN \\parallel KS / \\text{verw } \\angle\\text{e; } MN \\parallel KS] \\
+&N\\hat{K}L = M\\hat{S}K \\quad [\\angle\\text{s of } \\Delta / \\angle\\text{e van } \\Delta] \\
+&\\therefore \\Delta LKN \\parallel\\parallel\\parallel \\Delta KSM \\quad [\\angle, \\angle, \\angle] \\
+&\\textbf{OR/OF} \\
+&\\text{In } \\Delta LKN \\text{ and } \\Delta KSM: \\
+&\\hat{N}_3 = \\hat{M}_3 \\quad [\\angle\\text{s in the same seg / } \\angle\\text{e in dieselfde sirkelsegm}] \\
+&N\\hat{K}L = \\hat{M}_1 \\quad [\\text{ext } \\angle \\text{ of cyclic quad / buite} \\angle \\text{ van koordevh}] \\
+&\\phantom{N\\hat{K}L} = \\hat{S}_2 \\quad [\\text{corresp } \\angle\\text{s; } KS \\parallel NM / \\text{ooreenk } \\angle\\text{e; } KS \\parallel NM] \\
+&\\therefore \\Delta LKN \\parallel\\parallel\\parallel \\Delta KSM \\quad [\\angle, \\angle, \\angle] \\
+&\\textbf{OR/OF} \\
+&\\text{In } \\Delta LKN \\text{ and } \\Delta KSM: \\
+&\\hat{N}_3 = \\hat{M}_3 \\quad [\\angle\\text{s in the same seg / } \\angle\\text{e in dieselfde sirkelsegm}] \\
+&\\hat{K}_4 + N\\hat{K}L = \\hat{S}_1 + \\hat{S}_2 = 180^\\circ \\quad [\\angle\\text{s on straight line / } \\angle\\text{e op reguitlyn}] \\
+&\\therefore N\\hat{K}L = \\hat{S}_2 \\quad [\\hat{K}_4 = \\hat{S}_1] \\
+&\\therefore \\Delta LKN \\parallel\\parallel\\parallel \\Delta KSM \\quad [\\angle, \\angle, \\angle]
+\\end{aligned}
+* ✓ statement & reason ($\\hat{N}_3 = \\hat{M}_3$)
+* ✓ statement ($\\hat{L}_1 = \\hat{M}_2$)
+* ✓ statement & reason ($\\hat{M}_2 = \\hat{K}_2$)
+* ✓ statement (\\hat{K}L = M\\hat{S}K$)
+* ✓ conclusion $\\Delta LKN \\parallel\\parallel\\parallel \\Delta KSM$ [$\\angle, \\angle, \\angle$] (5)
+
+\\begin{aligned}
+11.2.3 \\quad &\\frac{LK}{KS} = \\frac{KN}{SM} \\quad [\\Delta LKN \\parallel\\parallel\\parallel \\Delta KSM] \\
+&3KN = 4SM \\implies \\frac{KN}{SM} = \\frac{4}{3} \\
+&\\frac{12}{KS} = \\frac{4}{3} \\
+&4KS = 36 \\
+&\\therefore KS = 9 \\text{ units}
+\\end{aligned}
+* ✓ statement $\\frac{LK}{KS} = \\frac{KN}{SM}$
+* ✓ reason [$\\Delta LKN \\parallel\\parallel\\parallel \\Delta KSM$]
+* ✓ substitution $\\frac{12}{KS} = \\frac{4}{3}$
+* ✓ answer  = 9$ (4)
+
+\\begin{aligned}
+11.2.4 \\quad &4SM = 3KN = 3(8) = 24 \\
+&\\therefore SM = 6 \\text{ units} \\
+&ML = MS + SL = 6 + 13 = 19 \\text{ units} \\
+&\\text{In } \\Delta LNM, TS \\parallel NM: \\
+&\\frac{LT}{NL} = \\frac{LS}{ML} \\quad [\\text{line } \\parallel \\text{ one side of } \\Delta / \\text{lyn } \\parallel \\text{ een sy v } \\Delta] \\
+&\\frac{LT}{16} = \\frac{13}{19} \\
+&LT = \\frac{16 \\times 13}{19} = \\frac{208}{19} \\approx 10{,}95 \\text{ units}
+\\end{aligned}
+* ✓  = 6$
+* ✓ statement $\\frac{LT}{NL} = \\frac{LS}{ML}$
+* ✓ reason [line $\\parallel$ one side of $\\Delta$]
+* ✓ answer ( = \\frac{208}{19}$ or {,}95$) (4)
+* **[23]**
+
+**TOTAL / TOTAAL: 150**

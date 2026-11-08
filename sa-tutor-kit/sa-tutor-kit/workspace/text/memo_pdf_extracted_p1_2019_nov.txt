@@ -1,0 +1,1952 @@
+
+=== PAGE 1 ===
+Copyright reserved/Kopiereg voorbehou Please turn over/Blaai om asseblief 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MARKS/PUNTE:  150 
+ 
+ 
+ 
+ 
+These marking guidelines consist of 18 pages. 
+Hierdie nasienriglyne bestaan uit 18 bladsye. 
+ 
+ 
+MATHEMATICS P1/WISKUNDE V1 
+ 
+NOVEMBER 2019 
+ 
+MARKING GUIDELINES/NASIENRIGLYNE 
+GRADE 12/GRAAD 12 
+ 
+ 
+NATIONAL 
+SENIOR CERTIFICATE/ 
+NASIONALE SENIOR 
+SERTIFIKAAT 
+ 
+=== PAGE 2 ===
+Mathematics P1/Wiskunde V1 2 DBE/November 2019 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief 
+ 
+ 
+NOTE: 
+ If a candidate answers a question TWICE, only mark the FIRST attempt. 
+ Consistent Accuracy applies in all aspects of the marking memorandum. 
+ 
+LET WEL: 
+ Indien 'n kandidaat ’n vraag TWEE keer beantwoord, merk slegs die EERSTE poging. 
+ Volgehoue akkuraatheid is op ALLE aspekte van die nasienriglyne van toepassing. 
+ 
+QUESTION/VRAAG 1 
+ 
+1.1.1 
+0652  xx  
+0)1)(6(  xx
+ 
+1or6  xx
+ 
+ 
+factors 
+
+6x 
+1x       (3) 
+1.1.2 
+0534 2  xx  
+a
+acbbx 2 42 
+ 
+)4(2
+)5)(4(4)3(3 2 x
+ 
+8
+893x
+ 
+8,0or55,1  xx
+ 
+ 
+ 
+ 
+ 
+substitution into the   
+   correct formula 
+ 
+ 
+ 
+ 
+
+55,1x 
+8,0x    (3) 
+1.1.3 
+014 2 x  
+0)12)(12(  xx
+ 
+2
+1
+2
+1  x
+                 
+ 
+factors 
+ 
+method 
+answer                     (3) 
+ 
+1.1.4 
+xxx    3232  
+22
+2
+32
+32
+xx
+xx
+
+
+ 
+4
+16
+322
+2
+2
+
+
+
+x
+x
+x
+ 
+     
+4 x  
+ 
+ 
+ 
+
+232 x  
+ squaring both sides 
+ 
+ 
+ 
+162 x  
+ 
+ 
+
+4x (selection)             (4) 
+ 
+2
+1
+ 
+2
+1  + + – 
+=== PAGE 3 ===
+Mathematics P1/Wiskunde V1 3 DBE/November 2019 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief 
+ 
+ 
+1.2 
+12 xy  
+)1(..........12 xy
+ 
+)2........(314 xxy 
+ 
+Sub (1) into (2) 
+xxx 314)12( 
+ 
+0314122  xxx
+ 
+014152  xx
+ 
+014152  xx
+ 
+0)1)(14(  xx
+ 
+1or14  xx
+ 
+11or2  yy
+ 
+OR/OF 
+12 xy
+ 
+)1(..........12 yx
+ 
+)2.........(314 xxy 
+ 
+Sub (1) into (2) 
+)12(314)12(  yyy
+ 
+03361412 2  yyy
+ 
+02292  yy
+ 
+02292  yy
+ 
+0)11)(2(  yy
+ 
+11or2  yy
+ 
+1or14  xx
+ 
+ 
+y subject of the formula 
+ 
+ 
+ substitution 
+ 
+ 
+ 
+ 
+simplification 
+ 
+ 
+both values of x 
+ 
+both values of y         (5) 
+ 
+OR/OF 
+  
+ 
+ 
+x subject of the formula 
+ 
+ 
+substitution 
+ 
+simplification 
+ 
+ 
+ 
+ 
+ 
+both values of y 
+ 
+both values of x          (5) 
+1.3 
+ 
+ 
+3      6      9     12     15     18     21     24     27     30  
+3      3    
+23      3       3      
+23       3       3      
+33       3 
+14k
+ 
+identifying multiples of 3 
+ten multiples of 3 
+ powers of 3 
+ answer                       (4) 
+  [22] 
+ 
+=== PAGE 4 ===
+Mathematics P1/Wiskunde V1 4 DBE/November 2019 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief 
+ 
+QUESTION/VRAAG 2 
+ 
+2.1.1 209   ;   186 209   186                           (2) 
+2.1.2 
+35434
+321)34(131)1(31
+32131322
+222
+2729311
+234;261;290;321
+
+
+
+
+cb
+cba
+cbabaa
+diffnd
+diffst
+ 
+354342  nnTn
+ 
+ 
+ 
+ 
+ 2nd diff = 2 
+ a = 1 
+ b = –34 
+ c = 354 
+ 
+                                               (4)                                                           
+2.1.3 
+74354342  nn  
+0280342  nn
+ 
+   02014  nn
+ 
+20or14  nn
+ 
+equating 
+nT to 74 
+standard form 
+ 
+14  20                                (4) 
+2.1.4 
+17
+342
+0342
+0)(/
+
+
+
+
+n
+n
+n
+nf
+ 
+Term 17 will have the smallest value 
+OR/OF 
+17
+2
+34
+2
+
+
+
+n
+n
+a
+bn
+ 
+Term 17 will have the smallest value 
+OR/OF 
+172 2014 n
+ 
+Term 17 will have the smallest value 
+ 
+ 
+
+0342 n  
+ 
+ 
+answer                                
+)2(  
+ 
+OR/OF 
+ 
+substitution 
+answer                                
+)2(   
+OR/OF             
+substitution 
+answer                                
+)2(  
+=== PAGE 5 ===
+Mathematics P1/Wiskunde V1 5 DBE/November 2019 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief 
+ 
+ 
+2.2.1 
+251
+24991
+2
+11
+2
+1185
+1
+1
+212185
+21
+21
+,
+...,
+S
+r
+)r(aS
+n;r;a
+n
+n
+
+
+
+ 
+
+
+
+ 
+ r 
+ 
+ 
+ substitution into the      
+    correct formula 
+ 
+ answer                                (3) 
+2.2.2 
+1010
+1111
+101101
+222121
+1024
+1
+2
+1
+8192
+5
+2
+1
+8
+5
+8192
+5
+8192
+5
+101
+101
+1
+1
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nn
+nn
+nn
+or
+ar
+T
+n
+n
+n
+n
+n
+n
+ 
+ 
+OR/OF 
+8 ; 16 ; 32 ; … ; 8192 
+10
+11
+101
+22
+10242
+81922.8
+101
+1
+1
+
+
+
+
+
+
+
+
+
+n
+n
+n
+n
+n
+n
+ 
+ 
+ substitution into the correct  
+    formula 
+ 
+ 
+ method /same base or log 
+ 
+ 
+calculating n 
+ answer                                 
+(4) 
+ 
+OR/OF 
+ 
+ 
+ substitution into the correct  
+    formula 
+ method 
+ 
+calculating n 
+ answer                            (4) 
+ 
+  [19] 
+ 
+=== PAGE 6 ===
+Mathematics P1/Wiskunde V1 6 DBE/November 2019 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief 
+ 
+QUESTION/VRAAG 3 
+ 
+3.1 
+ 
+  
+10
+3
+10
+3 1
+1
+2
+1
+y y yy  
+=
+   9181....312181....312111  
+= 1–
+9
+1  
+= 
+9
+8  
+ 
+ 
+ 
+
+
+
+
+  81....312111  
+
+
+
+
+
+  9181....3121  
+ 
+answer                       (3) 
+ 
+3.2 
+ 
+3
+8....329492
+3
+24....32132323231
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+   
+9
+2a
+      
+9
+2
+9
+4
+3
+2     and d  
+ dnanSn )1(22 
+            OR   
+ lanSn  2  
+
+
+
+  92)112(92221212S
+          
+  389221212S  
+      
+2m352                                          
+2m352  
+
+ for both sides = 2 ×
+2m67,343104352   
+OR/OF 
+2m 67,34
+2)121110987654321(92
+
+
+ 
+OR/OF 
+3
+812921 T
+                  
+9
+2192 l  
+2
+12
+m 67,34
+9
+2
+3
+8
+2
+1222
+
+ S
+ 
+  
+ 
+a  
+  d 
+ 
+ 
+ substitution into the     
+    correct formula 
+ 
+ 
+ answer 
+ 
+ 
+ answer for both sides 
+                                      (6) 
+OR/OF 
+ 
+a  
+ (1 + …. + 12) 
+  
+2  
+ answer                     (6) 
+OR/OF 
+ 
+ 
+a  
+ 
+3
+8
+1T  
+9
+2l  
+ substitution into correct   
+     formula 
+ answer                    (6) 
+                                        [9] 
+=== PAGE 7 ===
+Mathematics P1/Wiskunde V1 7 DBE/November 2019 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief 
+ 
+ 
+QUESTION/VRAAG 4 
+ 
+4.1 
+1p   p =  –1                     (1) 
+4.2 
+1 xay  
+103  a
+ 
+3a
+ 
+32  bxxy
+    
+    3110
+2
+ b
+ 
+2b
+ 
+ 
+ 
+coordinates D(0 ; –3) 
+substitute (0 ; –3) 
+ 
+ 
+ 
+substitute (1 ; 0)  
+                                      (3) 
+4.3 
+322  xxy  
+a
+bx 2 :symofaxis 
+ 
+)1(2
+2x
+ 
+1x
+ 
+43)1(2)1( 2 y
+ 
+)4;1(C 
+ 
+ 
+OR/OF 
+0dxdy
+ 
+022 x
+ 
+1x
+ 
+43)1(2)1( 2 y
+ 
+)4;1(C 
+ 
+ 
+ 
+ 
+substitution 
+ 
+
+1x  
+ 
+substitution 
+y =  –4                        (4) 
+ 
+OR/OF 
+ 
+ 
+derivative  
+
+1x  
+substitution 
+y =  –4                        (4) 
+4.4 
+   4or);4[  yy  
+4  
+ answer                      (2) 
+4.5 
+145tan m  
+cmxy 
+ 
+c )1)(1(4
+ 
+3c
+ 
+3 xy
+ 
+gradient 
+ 
+subs m and 
+)4;1(   
+ 
+equation                    (3) 
+4.6 No, the line passes through C and D 
+ 
+OR/OF 
+No, a tangent through turning point C will have a 
+gradient of 0  
+ No  
+ reason                      (2)                                           
+OR/OF 
+ No  
+ reason                      (2)           
+                                      
+=== PAGE 8 ===
+Mathematics P1/Wiskunde V1 8 DBE/November 2019 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief 
+ 
+ 
+4.7 
+    mxfxmf   
+f  is reflected in the y-axis and translated  1  unit to 
+the left and 4 units upwards. 
+Therefore:             
+1m  
+                               
+4q  
+ 
+OR/OF 
+Substitute 
+4and0  qx  for one  x- intercept 
+4
+1
+)1(0
+120
+43)0(2)0()0(
+3)(2)()(
+2
+2
+2
+2
+
+
+
+
+
+
+q
+m
+m
+mm
+mmh
+qxmxmxh
+ 
+ 
+ 
+ 
+value of  m 
+ value of  q              (4) 
+ 
+OR/OF 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+value of  m 
+ value of  q              (4) 
+                                      [19] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== PAGE 9 ===
+Mathematics P1/Wiskunde V1 9 DBE/November 2019 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief 
+ 
+ 
+QUESTION/VRAAG 5 
+ 
+5.1  
+xkxf )(   
+416 k
+ 
+2k
+ 
+ 
+substitution 
+    (4 ; 16) 
+answer       (2) 
+5.2 
+xy
+xf
+yf
+y
+x
+2
+1
+log              
+2       :
+2          :
+
+
+
+
+ 
+ 
+ 
+
+yx 2  
+
+xy 2log                      
+                     (2)                                        
+5.3 
+ 
+  
+ 
+ 
+asymptote 
+shape     
+for any two     
+      valid  
+      points  
+ eg.(16 ; 4) or  
+ (2 ; 1) or (4 ; 2)    
+  or (1 ; 0)            
+                    (4) 
+5.4.1 
+);1( x   or
+1x  
+1   answer                         
+                     (2)                                              
+5.4.2 
+2
+10  x    or   
+
+
+
+ 21;0x  
+
+2
+1  
+ answer                         
+                     (2)                                              
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+x 
+y 
+ (16 ; 4) 
+ (1 ; 0) 
+. 
+=== PAGE 10 ===
+Mathematics P1/Wiskunde V1 10 DBE/November 2019 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief 
+ 
+ 
+5.5 
+2          N/A       
+22or412
+042or012.4
+0)42)(12.4(
+042.152.4
+21542.4
+241512
+4
+15
+2
+12
+4
+1522
+2
+2
+2
+2
+
+
+
+
+
+
+
+
+ 
+x
+xx
+xx
+xx
+xx
+xx
+xx
+x
+x
+xx
+ 
+OR/OF 
+2          N/A       
+22or412
+4or41
+0)4)(1.4(
+04.15.4
+154.4
+4
+151
+2Let 
+4
+15
+2
+12
+4
+1522
+2
+2
+2
+2
+
+
+
+
+
+
+
+
+
+ 
+x
+kk
+kk
+kk
+kk
+kk
+k
+xx
+x
+x
+x
+xx
+ 
+ 
+
+4
+1522  xx  
+ 
+ 
+ 
+ 
+ 
+ 
+standard form 
+  
+ 
+factors 
+ 
+ 
+answer 
+                     (4) 
+ 
+OR/OF 
+
+4
+1522   xx
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+standard form 
+factors 
+ 
+ 
+ 
+ 
+ 
+answer 
+                     (4) 
+                     [16] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== PAGE 11 ===
+Mathematics P1/Wiskunde V1 11 DBE/November 2019 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief 
+ 
+ 
+QUESTION/VRAAG 6 
+ 
+6.1 
+)1(:Kuda inPA   
+)4083,01(0005 
+ 
+00,6606R
+ 
+R266,40660,00R6 :AnswerFinal 
+ 
+40,9266R
+ 
+ 
+OR/OF 
+04,1)1(:Kuda  inPA
+ 
+04,1)4083,01(0005 
+ 
+40,9266R
+ 
+ 
+niPA )1(:Thabo 
+ 
+412
+12
+081,010005
+
+
+
+
+
+ 
+ 
+71,9056R
+ 
+ 
+Kuda will have a better investment 
+ 
+substitution into the   
+   correct formula 
+ 
+final answer 
+ 
+ 
+OR/OF 
+substitution into the   
+   correct formula 
+final answer 
+ 
+ 
+ 
+substitution into the  
+   correct formula 
+answer 
+ 
+conclusion                 (5)                         
+6.2.1 
+                    
+i
+ixP n ])1(1[   
+           
+12
+1,0
+12
+1,0110006
+000525 
+
+
+
+
+
+
+
+ 
+n      
+48
+13log121,01log
+12
+1,0114835
+
+
+
+
+ 
+
+
+
+
+ 
+
+n
+n
+ 
+                   
+ n
+  121,01log
+48
+13log  
+                     
+40,157n  
+                      n = 158 payments  
+ 
+ 
+OR/OF 
+ 
+ 
+
+12
+1,0  
+ 
+substitution into the  
+   correct formula 
+ 
+simplification 
+ 
+use of logs 
+ 
+ 
+ 
+ 
+ 
+answer                       (5) 
+ 
+ 
+OR/OF 
+ 
+ 
+=== PAGE 12 ===
+Mathematics P1/Wiskunde V1 12 DBE/November 2019 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief 
+ 
+ 
+ 
+                       
+i
+ixP n ])1(1[   
+               
+12
+1,0
+12
+1,0110006
+000525
+12
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ n  
+ 
+48
+13log121,01log12
+12
+1,0114835 12
+
+
+
+
+ 
+
+
+
+
+ 
+
+n
+n  
+                    
+ n12
+  121,01log
+48
+13log  
+                           
+n
+12
+1
+12
+1,01log
+48
+13log
+
+   
+                          
+11686841,13n  
+Number of payments = 13,11686841
+ 12=157,40 
+n = 158 payments 
+ 
+ 
+
+12
+1,0  
+ 
+substitution into the  
+   correct formula 
+ 
+ 
+simplification 
+ 
+use of logs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+answer                       
+                                     (5) 
+6.2.2 Difference: R6 000 – R5 066,36 = R933,64 
+i
+ixF n ]1)1[( 
+ 
+ 
+51,503162
+12
+1,0
+1121,0164,933
+108
+R
+F
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+ 
+OR/OF 
+ R933,64  
+ 
+ 
+ 
+ n = 108 
+ substitution into the  
+    correct formula 
+ 
+ 
+ answer                       (4) 
+ 
+OR/OF 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== PAGE 13 ===
+Mathematics P1/Wiskunde V1 13 DBE/November 2019 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief 
+ 
+ 
+ 
+i
+ixF n ]1)1[( 
+ 
+ 
+12
+1,0
+1121,010006
+108
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+F
+ 
+28,3220441R   
+ 
+ 
+12
+1,0
+1121,0136,0665
+108
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+F
+ 
+.....77,818188RF
+ 
+Amount available for withdrawal  
+= R1 044 322,28 – R 881 818,77 
+= R162 503,51 
+ 
+OR/OF 
+ 
+Outstanding balance with monthly repayment of  
+R5 066,35 
+12
+1,0
+1121,0136,0665
+12
+1,01000525
+108
+108 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+ 
+= R404 666, 23 
+Outstanding balance with monthly repayment of  
+R6 000 
+12
+1,0
+1121,010006
+12
+1,01000525
+108
+108 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+ 
+= R242 162,72 
+Amount available for withdrawal 
+R404 666,23 – R242 162,72 = R162 512,18 
+ 
+ 
+ 
+ 
+ n = 108  
+substitution  
+   into correct formula 
+ 
+ 
+ 
+ substitution into  
+   correct formula 
+ 
+ 
+ 
+final answer 
+                                    (4) 
+OR/OF 
+ 
+ 
+ 
+n = 108  
+substitution into the  
+   correct formula 
+ 
+ 
+ 
+ 
+ substitution into the  
+   correct formula 
+ 
+ 
+ 
+final answer 
+                                     (4) 
+                                      [14] 
+ 
+=== PAGE 14 ===
+Mathematics P1/Wiskunde V1 14 DBE/November 2019 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief 
+ 
+ 
+QUESTION/VRAAG 7 
+ 
+7.1 
+xxf 74)(   
+h
+xfhxfxf
+h
+)()(lim)(
+0
+/ 
+
+ 
+ 
+h
+xhx
+h
+)74()(74lim
+0
+
+  
+h
+h
+h
+)7(lim
+0
+
+
+ 
+       =  –7 
+ 
+ 
+
+)(74 hx  
+substitution 
+simplification 
+ 
+answer                        (4) 
+7.2   
+384 xxy   
+     
+2
+3
+84 xx   
+2
+1
+7
+2
+332 xxdxdy 
+ 
+ 
+ 
+ 
+2
+3
+x  
+ 
+ 
+732x  
+ 
+2
+1
+2
+3 x                          (3) 
+7.3.1 
+aaxy  2  
+02  axdxdy
+ 
+axdxdy 2
+ 
+ 
+ 
+ 
+ 
+
+ax2                             (1) 
+7.3.2 
+aaxy  2  
+12  xdady
+ 
+ 
+ 
+  answer                   (2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== PAGE 15 ===
+Mathematics P1/Wiskunde V1 15 DBE/November 2019 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief 
+ 
+ 
+7.4  Substitute (2 ; b) in 
+xxy 12  
+                                 
+2
+122b  
+                                 
+8b  
+dx
+dym tangent
+ 
+2
+121 xdxdy 
+ 
+22121 2tangent m
+ 
+ 
+2
+1
+perp m
+ 
+Equation of perpendicular line: 
+ 11 xxmyy 
+     OR    
+cmxy   
+ 2218  xy
+                   
+  c 2218  
+721  xy
+                             
+7c  
+                                                    
+721  xy  
+ 
+ 
+ 
+ 
+ value of  b 
+ 
+ 
+ 
+2
+121 xdxdy   
+ 
+ 
+ 
+gradient of perpendicular  
+   line 
+ 
+ 
+ 
+ 
+  equation                    (4) 
+                                      [14] 
+ 
+QUESTION/VRAAG 8 
+ 
+8.1 36cm answer                       (1) 
+8.2 
+)632(6 2  ttt  have no real roots 
+Insect reaches the floor only once. 
+ 
+ 
+ only once            (3) 
+8.3 
+3624152)( 23  tttth  
+24306)( 2  ttth
+ 
+024306 2  tt
+ 
+0452  tt
+ 
+0)1)(4(  tt
+ 
+1or4  tt
+ 
+Only 
+4t  because maximum value required 
+cmh 5236)4(24)4(15)4(2 23 
+ 
+  expansion 
+ 
+ 
+ 
+24306 2  tt = 0 
+ 
+ 
+both values 
+answer                      (4) 
+                                       [8] 
+ 
+=== PAGE 16 ===
+Mathematics P1/Wiskunde V1 16 DBE/November 2019 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief 
+ 
+ 
+QUESTION/VRAAG 9 
+ 
+9.1 
+3or        0
+0)3(3
+093
+93
+9)(
+2
+23
+23
+2/
+
+
+
+
+
+x x
+xx
+xx
+xx
+xxf
+ 
+ 
+2/ 9)( xxf   
+ 
+ 
+ 
+ x = 0 
+ x = 3                     (3) 
+9.2.1 For  f  and 
+/f   answer                   (1)                         
+9.2.2 The point (0 ; 0) is : 
+A point of inflection of  f 
+A turning point of 
+/f  
+ 
+ f : inflection   
+         point 
+
+point turning:/f   (2) 
+9.3 
+xxf 18)(//   
+)1()1(Distance /// ff 
+ 
+2)1(9)1(18                  
+ 
+9                  
+ 
+
+xxf 18)(//   
+ 
+substitution 
+answer                    (3) 
+9.4 
+        03but 
+0)3(3
+093
+2
+2
+23
+
+
+
+x
+xx
+xx
+         
+ 
+ 
+0,3
+03
+
+
+xx
+x
+ 
+ 
+093 23  xx  
+ factors 
+ 
+ 
+ 
+ 
+ 
+ 
+3x    
+  
+0x                         (4)            
+                            [13] 
+ 
+QUESTION/VRAAG 10 
+ 
+10.1 P(same day) =
+16
+4  or 
+4
+1   or  0,25  or 25% 4 numerator 16 denominator          (2) 
+10.2 P(2 consecutive days) = 
+8
+3
+16
+23   
+3 
+2   answer                       (3) 
+                                        [5] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0 3 
+=== PAGE 17 ===
+Mathematics P1/Wiskunde V1 17 DBE/November 2019 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou  Please turn over/Blaai om asseblief 
+ 
+ 
+QUESTION/VRAAG 11 
+ 
+11.1.1 
+)()( BPAP        independent events 
+25,040,0 
+ 
+1,0  
+ 
+ 
+ 
+ 
+ 
+ 
+0,1 
+ 
+ 
+0,15 and 0,3 
+0,45                      (3) 
+11.1.2 
+     BnotandABnotA)BnotorA( PPPP   
+                         
+3,075,04,0   
+                         
+85,0  
+ 
+OR/OF 
+P(A or not B) = 1 – P(only B) 
+                       = 1 – 0,15 
+                       = 0,85 
+ 
+OR/OF 
+From Venn diagram: 
+0,3 + 0,1 + 0,45 = 0,85 
+ 
+ 
+ substitution 
+ 
+answer 
+                                (2) 
+OR/OF 
+ 
+ 1 – 0,15   
+answer 
+                                (2) 
+ 
+OR/OF 
+ substitution 
+ answer                 (2) 
+11.2 (5 × 1 × 5) + (5 × 1 × 6 )+ (5 × 1 × 6) + (5 × 1 × 5) =110  
+ 
+ 
+ 
+ 
+110 × 5 = 550 > 500 
+ 
+Not possible, because not enough space 
+ 
+OR/OF 
+ 
+(5 × 2 × 5) + (5 × 2 × 6) = 110 
+110 × 5 = 550 > 500 
+ 
+Not possible because not enough space 
+ 
+ 
+OR/OF 
+5 × 1 × 5 
+5 × 1 × 6 
+5 × 1 × 6 
+5 × 1 × 5  
+110 
+ 
+ conclusion         (6)   
+OR/OF 
+ 
+5 × 2 × 5 
+5 × 2 × 6 
+ 110 
+ conclusion          (6) 
+ 
+OR/OF 
+A B 
+0,3 0,1 0,15 
+0,45 
+=== PAGE 18 ===
+Mathematics P1/Wiskunde V1 18 DBE/November 2019 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou 
+ 
+ 
+  
+11010120
+1025
+120645
+
+
+
+ 
+ 
+110 × 5 = 550 > 500 
+ 
+Not possible because not enough space 
+
+120645   
+
+1025   
+
+10120  
+110 
+ conclusion         (6) 
+                                [11] 
+ 
+                                                                                                               TOTAL/TOTAAL:  150 

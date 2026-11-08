@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Overview
 
 The `stage-1/` directory is the master coordination center for **Eishkom AI's Stage 1 release cycle**. It tracks all progress, documentation, architectural specifications, and data artifacts for our initial release of five specialized models.
@@ -41,8 +42,8 @@ All models in this release adhere to our **Clean Branding Rule**: public model n
 - **Phase 0 (Environment Setup):** `90% Complete` — Python 3.12 verified, Colab Enterprise notebook ready, Spot VM configuration loaded, multi-model rotation active.
 - **Phase 1 (Data Collection):** `100% Complete` — **600 PDFs downloaded (378.15 MB, 0 errors)** from DBE across Grades 10–12 for Mathematics, Physical Sciences, English, and Afrikaans. All 16 November 2024 Grade 12 papers are locked as held-out evaluation benchmarks in [`sources.csv`](../sa-tutor-kit/sa-tutor-kit/workspace/sources/sources.csv).
 - **Phase 2 (Vision Ingestion & Quality Audit):** `100% Complete & Verified` — All 4 curriculum stages vision-extracted into **11,310,442 characters of clean KaTeX LaTeX and Markdown**. Two-pass verification audited all 301 exam pairs (**287 / 301 clean structural passes, 95.3%**; 47,299 equations; 1,005 diagrams; 137 documents sanitized via `pipeline/sanitize_text.py`).
-- **Phase 2.5 (Item Extraction):** `In Progress (Pilot Verified)` — 4-subject pilot complete (195 atomic items, 440/440 marks, 100% verified across Math P1, Physics P2, English HL P1, Afrikaans HL P1). Autonomous orchestrator hierarchy and live tracking checklist initialized.
-- **Phase 3 (Benchmark Lock):** `Ready to Compile` — 16 November 2024 Grade 12 papers held out in `workspace/eval/eval_items.jsonl`.
+- **Phase 2.5 (Item Extraction):** `100% Complete & Audited` — **265 / 265 exam papers extracted** (100% of real DBE papers in corpus, 3 zero-byte stubs skipped). **13,168 atomic items**, **31,278 marks accounted for** (100% agreement with DBE memorandums), **0 KaTeX delimiter errors** across all items. Quad-mirrored across `workspace/items/<subject>/`, `workspace/items/`, and `sa-tutor-kit/sa-tutor-kit/workspace/items/`.
+- **Phase 3 (Benchmark Lock & Item Synthesis):** `Active` — 33 held-out 2024 Grade 12 benchmark papers quarantined in `workspace/eval/` (0% contamination). Synthesis and packaging for Unsloth QLoRA fine-tuning in progress.
 
 ---
 

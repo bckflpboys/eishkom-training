@@ -1,0 +1,4902 @@
+=== MEMO PAGE 1 ===
+Copyright reserved/Kopiereg voorbehou 
+Please turn over/Blaai om asseblief 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MARKS/PUNTE:  150 
+ 
+ 
+ 
+ 
+ 
+ 
+These marking guidelines consist of 26pages. 
+Hierdie nasienriglyne bestaan uit 26 bladsye.
+MATHEMATICS P2/WISKUNDE V2 
+ 
+NOVEMBER 2019 
+ 
+MARKING GUIDELINES/NASIENRIGLYNE 
+GRADE/GRAAD 12 
+NATIONAL 
+SENIOR CERTIFICATE/ 
+NASIONALE  
+SENIOR SERTIFIKAAT 
+
+
+=== MEMO PAGE 2 ===
+Mathematics P2/Wiskunde V2 
+2 
+DBE/November 2019 
+ 
+NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou 
+Please turn over/Blaai om asseblief 
+ 
+ 
+NOTE: 
+ 
+If a candidate answers a question TWICE, only mark the FIRST attempt. 
+ 
+If a candidate has crossed out an attempt of a question and not redone the question, mark the 
+crossed out version. 
+ 
+Consistent accuracy applies in ALL aspects of the marking memorandum. Stop marking at the 
+second calculation error.  
+ 
+Assuming answers/values in order to solve a problem is NOT acceptable. 
+ 
+NOTA: 
+ 
+As 'n kandidaat 'n vraag TWEE KEER beantwoord, sien slegs die EERSTE poging na. 
+ 
+As 'n kandidaat 'n antwoord van 'n vraag doodtrek en nie oordoen nie, sien die doodgetrekte 
+poging na.  
+ 
+Volgehoue akkuraatheid word in ALLE aspekte van die nasienriglyne toegepas. Hou op nasien 
+by die tweede berekeningsfout. 
+ 
+Om antwoorde/waardes te aanvaar om 'n probleem op te los, word NIE toegelaat NIE.  
+ 
+ 
+ 
+ 
+ 
+GEOMETRY   MEETKUNDE 
+S 
+A mark for a correct statement 
+(A statement mark is independent of a reason) 
+'n Punt vir 'n korrekte bewering 
+('n Punt vir 'n bewering is onafhanklik van die rede) 
+R 
+A mark for the correct reason  
+(A reason mark may only be awarded if the statement is correct) 
+'n Punt vir 'n korrekte rede 
+('n Punt word slegs vir die rede toegeken as die bewering korrek is) 
+S/R 
+Award a mark if statement AND reason are both correct 
+Ken 'n punt toe as die bewering EN rede beide korrek is 
+
+
+=== MEMO PAGE 3 ===
+Mathematics P2/Wiskunde V2 
+3 
+DBE/November 2019 
+ 
+NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou 
+Please turn over/Blaai om asseblief 
+ 
+ 
+QUESTION/VRAAG 1 
+ 
+Monthly income (in rands) 
+Maandelikse inkomste (in rand) 
+9 000 
+13 500 
+15 000 
+16 500 
+17 000 
+20 000 
+Monthly repayment (in rands) 
+Maandelikse paaiement (in rand) 
+2 000 
+3 000 
+3 500 
+5 200 
+5 500 
+6 000 
+ 
+ 
+1.1 
+88
+,
+1946
+...
+875
+,
+1946
+
+
+
+
+a
+ 
+41
+,0
+
+b
+ 
+x
+y
+41
+,0
+88
+,
+1946
+ˆ
+
+
+
+ 
+ 
+88
+,
+1946
+
+
+a
+ 
+ 
+41
+,0
+
+b
+ 
+ equation 
+            (3) 
+1.2 
+Monthly repayment  R3 727,16                (calculator) 
+Maandelikse paaiement  R3 727,16 
+ 
+OR 
+ 
+)
+14000
+(
+41
+,0
+88
+,
+1946
+ˆ
+
+
+
+y
+ 
+    R3 793,12 
+ 
+ answer            
+(2) 
+ 
+ 
+ 
+ substitution 
+ answer  
+(2) 
+1.3 
+r = 0,946 ….   0,95    
+ answer                          
+(1) 
+1.4 
+Not to spend R9 000 per month because the point  (18 000 ; 9 000)  
+lies very far from the least squares regression line. OR D  
+Spandeer nie R9 000 per maand nie, want die punt (18 000 ;9 000) 
+lê baie ver van die kleinste-kwadrate regressielyn. OF D 
+ 
+ answer                       
+(2) 
+ [8] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer only: Full marks 
+
+
+=== MEMO PAGE 4 ===
+Mathematics P2/Wiskunde V2 
+4 
+DBE/November 2019 
+ 
+NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou 
+Please turn over/Blaai om asseblief 
+ 
+ 
+QUESTION/VRAAG 2 
+ 
+2.1 Number people paid R200 or less = 19 
+Aantal mense wat R200 of minder betaal het = 19  
+ answer 
+  (1) 
+2.2 
+100
+6
+35
+12
+7
+
+
+
+
+
+
+b
+a
+ 
+b
+a
+
+40
+ 
+ 
+100
+)
+6
+550
+(
+)
+450
+(
+)
+35
+350
+(
+)
+(250
+12)
+(150
+7)
+(50
+309
+
+
+
+
+
+
+
+
+
+
+
+
+b
+a
+ 
+100
+)
+6
+550
+(
+)
+450
+(
+)
+35
+350
+(
+))
+40
+(
+(250
+12)
+(150
+7)
+(50
+309
+
+
+
+
+
+
+
+
+
+
+
+
+
+b
+b
+ 
+350 + 1800 + 10000 – 250b + 12250 + 450b +3300 = 30900 
+200b = 3200 
+b = 16  
+a = 24 
+ 
+OR/OF 
+ 
+100
+6
+35
+12
+7
+
+
+
+
+
+
+b
+a
+ 
+a
+b
+
+40
+ 
+ 
+100
+)
+6
+550
+(
+)
+450
+(
+)
+35
+350
+(
+)
+(250
+12)
+(150
+7)
+(50
+309
+
+
+
+
+
+
+
+
+
+
+
+
+b
+a
+ 
+100
+)
+6
+550
+(
+))
+40
+(
+450
+(
+)
+35
+350
+(
+)
+(250
+12)
+(150
+7)
+(50
+309
+
+
+
+
+
+
+
+
+
+
+
+
+
+a
+a
+ 
+350 + 1800 +  250a + 12250 + 1800  –  450a = 30900 
+200a = 4 800 
+a = 24 
+b = 16  
+ 
+ 
+100
+x
+ 
+ 
+b
+a
+
+40
+ 
+ 
+ fX 
+ 
+309
+
+n
+fX
+ 
+ 
+ 
+ 200b = 3200 
+                         
+  (5) 
+ 
+ 
+ 
+100
+x
+ 
+ 
+a
+b
+
+40
+ 
+ 
+ fX 
+ 
+309
+
+n
+fX
+ 
+ 
+ 
+ 200a = 4 800 
+                         
+  (5) 
+2.3 Modal class/modale klas: 
+400
+300
+
+x
+ 
+ 
+ answer 
+              (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== MEMO PAGE 5 ===
+Mathematics P2/Wiskunde V2 
+5 
+DBE/November 2019 
+ 
+NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou 
+Please turn over/Blaai om asseblief 
+ 
+ 
+2.4 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+100
+200
+300
+400
+500
+600
+Cumulative frequency
+Amount spent (in Rands) on cellphone contracts per 
+month
+CUMULATIVE FREQUENCY GRAPH 
+(OGIVE)
+ 
+ 
+ 
+ 
+ 
+ 
+ grounded at  
+    (0 ; 0) 
+ 
+ (600 ; 100) 
+ 
+ cumulative 
+    frequencies for  
+    y-coordinates 
+ 
+ smooth shape    
+ 
+ 
+ 
+ 
+ 
+ 
+                     
+(4) 
+2.5 Number of people/Aantal mense = 100 – 82  [accept 80 – 84 people] 
+18 people paid more than R420 per month/.   [accept 16 – 20 people] 
+18 mense betaal meer as R420 per maand 
+ 
+  82 
+ answer        
+ 
+            (2) 
+[13] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer only: Full marks 
+
+
+=== MEMO PAGE 6 ===
+Mathematics P2/Wiskunde V2 
+6 
+DBE/November 2019 
+ 
+NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou 
+Please turn over/Blaai om asseblief 
+ 
+ 
+QUESTION/VRAAG 3 
+ 
+ 
+ 
+3.1 
+Equation of PR: 
+5
+
+y
+ 
+ answer                          
+(1) 
+3.2.1 
+1
+2
+1
+2
+RS
+x
+x
+y
+y
+m
+
+
+
+ 
+6
+12
+)
+3
+(
+3
+)
+7
+(
+5
+RS
+
+
+
+
+
+
+m
+ 
+        
+2
+
+ 
+ 
+ 
+ 
+ substitution of R & S 
+    into gradient formula 
+ answer                           
+(2) 
+3.2.2 
+PT
+RS
+m
+m
+
+  [PT || RS] 
+2
+tan
+
+
+ 
+
+
+43
+,
+63
+
+    
+ 
+ 
+PT
+RS
+m
+m
+
+ 
+ 
+2
+tan
+
+
+ 
+ 
+
+
+43
+,
+63
+
+ 
+ (3) 
+3.2.3 
+Equation of RS: 
+1
+2
+1
+2
+1
+2
+1
+6
+2
+7
+6
+2
+5
+)
+3
+(
+2
+5
+or
+))
+3
+(
+(
+2
+)
+7
+(
+or
+)
+3
+(
+2
+5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
+y
+x
+y
+x
+y
+c
+x
+y
+x
+y
+c
+x
+y
+x
+y
+ 
+ D(0 ; –1) 
+ 
+OR/OF 
+1
+)
+3
+(
+0
+7
+0
+3
+5
+2
+
+
+
+
+
+
+
+
+
+
+
+
+y
+y
+y
+m
+m
+m
+DS
+RD
+RS
+ 
+ D(0 ; –1) 
+ 
+ 
+ substitution 
+ 
+ equation of RS 
+ coordinates of D 
+ (3) 
+ 
+ 
+ 
+ 
+ equating gradients 
+ 
+ value of y 
+ coordinates of D 
+ (3) 
+P 
+R(3 ; 5) 
+D 
+T(–5 ; k) 
+S(–3 ; –7)  
+O 
+x 
+y 
+ 
+C(0 ; 5) 
+E 
+F 
+Answer only: Full marks 
+Answer only: Full marks 
+
+
+=== MEMO PAGE 7 ===
+Mathematics P2/Wiskunde V2 
+7 
+DBE/November 2019 
+ 
+NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou 
+Please turn over/Blaai om asseblief 
+ 
+ 
+3.3 
+2
+2
+))
+7
+(
+(
+)]
+3
+(
+5
+[
+5
+2
+ST
+
+
+
+
+
+
+
+
+k
+ 
+2)
+7
+(
+4
+0
+2
+
+
+
+k
+                   
+16
+)
+7
+(
+2 
+
+k
+                         
+4
+7
+
+
+
+k
+ 
+3
+r  
+  
+11
+
+
+
+
+k
+o
+k
+ 
+ k = –3 
+ 
+OR 
+ 
+2
+2
+))
+7
+(
+(
+)]
+3
+(
+5
+[
+5
+2
+ST
+
+
+
+
+
+
+
+
+k
+ 
+49
+14
+4
+0
+2
+2
+
+
+
+
+k
+k
+                   
+0
+33
+14
+2
+
+
+
+k
+k
+                         
+0
+)3
+)(
+11
+(
+
+
+
+k
+k
+ 
+3
+r  
+   
+11
+
+
+
+
+k
+o
+k
+ 
+ k = –3 
+ substitute S and T into 
+    distance formula 
+ 
+ isolate square 
+ square root both sides 
+ 
+ answer 
+     (4) 
+ 
+ 
+ 
+ substitute S and T into 
+    distance formula 
+ standard form 
+ factors 
+ 
+ answer 
+     (4) 
+3.4 Method:   translation 
+TS:  
+ 
+)
+4
+ ; 2
+(
+)
+ ; 
+(
+
+
+
+y
+x
+y
+x
+ 
+ by symmetry: DN: 
+D(0 ; –1)  N(0 + 2 ; –1 – 4) 
+ N(2 ; –5) 
+ 
+OR 
+ 
+Midpoint of TN =  Midpoint of SD 
+2
+)1
+(
+7
+2
+)
+3
+(
+   
+and
+   
+2
+0
+3
+2
+)
+5
+(
+
+
+
+
+
+
+
+
+
+
+
+
+y
+x
+ 
+5
+   
+and
+   
+2
+
+
+
+y
+x
+ 
+N(2 ; – 5) 
+ 
+ 
+ method 
+ 
+ 
+ x-coordinate 
+ y-coordinate 
+ (3) 
+ 
+ 
+ 
+ method:  
+    midpoint of diagonals 
+ x-coordinate 
+ y-coordinate 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer only: Full marks 
+Answer only: Full marks 
+
+
+=== MEMO PAGE 8 ===
+Mathematics P2/Wiskunde V2 
+8 
+DBE/November 2019 
+ 
+NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou 
+Please turn over/Blaai om asseblief 
+ 
+ 
+3.5  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ is the inclination of RS    
+
+
+...
+434
+,
+63
+
+                   
+
+
+...
+434
+,
+63
+D
+Fˆ
+O
+           [vert opp s] 
+
+
+
+
+
+
+...
+565
+,
+26
+...
+434
+,
+63
+90
+F
+Dˆ
+O
+ 
+/
+R
+Dˆ
+R
+
+
+
+
+13
+,
+53
+)
+...
+565
+,
+26
+(
+2
+  
+ 
+OR 
+PEFR is a ||m                   [both pairs of opp sides || ] 
+
+
+
+
+...
+434
+,
+63
+Rˆ
+
+       [opp s of ||m] 
+
+63,434...
+D
+Rˆ
+R
+/
+          [s opp = sides:RD =
+D
+R /
+] 
+)
+43
+,
+63
+43
+,
+63
+(
+180
+R
+Dˆ
+R
+/
+
+
+
+
+
+
+[sum of s in ∆] 
+
+
+13
+,
+53
+R
+Dˆ
+R
+/
+ 
+ 
+OR 
+   
+6
+3
+F
+Dˆ
+O
+tan
+
+ 
+
+
+..
+565
+,
+26
+F
+Dˆ
+O
+ 
+/
+R
+Dˆ
+R
+
+
+
+
+13
+,
+53
+)
+...
+565
+,
+26
+(
+2
+  
+ 
+ 
+OR 
+R/
+ 
+5)
+ ; 3
+(
+       [reflection of R(3 ; 5) about the y-axis] 
+ 
+)1
+(
+5
+(
+)
+0
+3
+(
+RD
+2
+2
+
+
+
+
+
+ 
+ 
+45
+RD 
+= R//D   or   
+5
+3
+  or   6,71 
+)
+R
+Dˆ
+R
+)(cos
+45
+)(
+45
+(
+2
+)
+45
+(
+)
+45
+(
+)
+RR
+(
+/
+2
+2
+2
+/
+
+
+
+ 
+)
+R
+Dˆ
+R
+)(cos
+45
+(
+2
+45
+45
+6
+/
+2
+
+
+
+ 
+)
+45
+(
+2
+36
+45
+45
+R
+Dˆ
+R
+cos
+/
+
+
+
+ 
+5
+3
+R
+Dˆ
+R
+cos
+/ 
+   
+ 
+
+
+13
+,
+53
+R
+Dˆ
+R
+/
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+43
+,
+63
+
+ 
+ 
+ 
+ 
+
+
+57
+,
+26
+F
+Dˆ
+O
+ 
+ answer 
+ (3) 
+ 
+ 
+ 
+
+
+43
+,
+63
+Rˆ
+ 
+ 
+
+63,43
+D
+Rˆ
+R
+/
+ 
+ 
+ answer 
+ (3) 
+ 
+ 
+  trig ratio 
+ 
+
+
+..
+565
+,
+26
+F
+Dˆ
+O
+ 
+ 
+ answer 
+ (3) 
+ 
+ 
+ 
+ R/
+ 
+5)
+ ; 3
+(
+ OR    
+   
+ 
+45
+RD 
+= R//D 
+ substitution into cosine 
+    rule 
+ 
+ 
+ 
+ 
+ 
+ 
+ answer 
+ (3) 
+                                      [19] 
+P 
+/
+R 
+R 
+D 
+/P 
+F 
+O 
+E 
+T 
+S 
+
+
+=== MEMO PAGE 9 ===
+Mathematics P2/Wiskunde V2 
+9 
+DBE/November 2019 
+ 
+NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou 
+Please turn over/Blaai om asseblief 
+ 
+ 
+QUESTION/VRAAG 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.1 
+1)
+ ; 1
+(
+M 
+ 
+1
+)1
+(
+)1
+(
+2
+2
+
+
+
+
+y
+x
+ 
+
+1)
+ ; 1
+(
+M 
+ 
+LHS  RHS 
+ (3) 
+4.2 
+Midpoint of CB, N: (– 0,5 ; 1,5) 
+2
+3
+2
+1
+   
+and
+   
+2
+1
+2
+0
+C
+C
+
+
+
+
+
+
+y
+x
+ 
+C(– 1 ; 2) 
+ 
+OR 
+BN:  
+)
+5,0
+ ; 5,0
+(
+)
+ ; 
+(
+
+
+
+y
+x
+y
+x
+ 
+NC:  
+ 
+)
+5,0
+ ; 5,0
+(
+)
+ ; 
+(
+
+
+
+y
+x
+y
+x
+ 
+C(– 0,5 – 0,5 ; 1,5 + 0,5) 
+C(– 1 ; 2) 
+ 
+ 
+ 
+x value  y value 
+                                (2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+x value  y value 
+                                (2) 
+ 
+ 
+ 
+ 
+ 
+ 
+D 
+O 
+E 
+B (0; 1) 
+A(–1; 0) 
+N
+
+
+
+
+
+
+2
+3
+;
+2
+1
+ 
+x 
+M 
+y 
+C 
+Answer only: Full marks 
+Answer only: Full marks 
+Answer only: Full marks 
+
+
+=== MEMO PAGE 10 ===
+Mathematics P2/Wiskunde V2 
+10 
+DBE/November 2019 
+ 
+NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou 
+Please turn over/Blaai om asseblief 
+ 
+ 
+4.3 
+2
+3
+2
+1
+2
+3
+2
+1
+radius
+1
+)
+(
+0
+OR
+1
+)
+(
+2
+OR
+0
+1
+1
+2
+
+
+
+
+
+
+
+
+
+
+
+m
+ 
+        
+1
+
+
+ 
+1
+tangent 
+m
+ 
+c
+mx
+y
+
+
+ 
+c
+x
+y
+
+
+ 
+c
+
+
+
+)1
+(1
+2
+ 
+c = 3 
+
+3
+
+x
+y
+ 
+y – x = 3   
+ 
+OR 
+0
+1
+1
+2
+radius
+
+
+
+
+m
+ 
+        
+1
+
+
+ 
+1
+tangent 
+m
+ 
+)
+(
+1
+1
+x
+x
+m
+y
+y
+
+
+
+ 
+)
+(1
+1
+1
+x
+x
+y
+y
+
+
+
+ 
+))
+1
+(
+(1
+2
+
+
+
+
+x
+y
+ 
+1
+2
+
+
+
+x
+y
+ 
+
+3
+
+x
+y
+ 
+y – x = 3 
+ 
+
+radius
+m
+ 
+
+tangent
+m
+ 
+ 
+ 
+ 
+ substitute (– 1 ; 2)  
+    and m  
+ simplification               
+ (4) 
+ 
+ 
+ 
+
+radius
+m
+ 
+ 
+
+tangent
+m
+ 
+ 
+ 
+ 
+ substitute (– 1 ; 2) 
+    and m  
+ simplification               
+ (4) 
+4.4 
+Tangents to circle:  y = x + 3  and y = x +1 
+ 
+1
+or    
+   
+3
+
+
+
+t
+t
+ 
+ y = x +1 
+ 
+ 
+3
+
+t
+    
+1
+
+t
+  
+(3) 
+4.5 
+Draw rectangle CNED: 
+ 
+Midpt of DN 
+
+
+
+
+
+
+4
+3
+;
+4
+7
+ 
+ E(– 2
+5 ; – 2
+1 ) 
+ 
+ 
+ 
+ 
+OR/OF 
+D(– 3 ; 0) 
+CN:  
+)
+5,0
+ ; 5,0
+(
+)
+ ; 
+(
+
+
+
+y
+x
+y
+x
+ 
+DE: 
+D
+)
+5,0
+ ; 5,0
+(
+E
+)
+ ; 
+(
+
+
+
+y
+x
+y
+x
+ 
+E(– 3 + 0,5 ; 0 – 0,5) 
+E(– 2,5 ; – 0,5) 
+ 
+ 
+ 
+ midpt of DN 
+ 
+ 
+x value  y value 
+ (3) 
+ 
+ 
+ 
+ 
+ coordinates of D 
+ 
+ 
+ 
+x value  y value 
+ (3) 
+ 
+ 
+Answer only: Full marks 
+Answers only: Full marks 
+C(–1 ; 2)  
+N
+
+
+
+
+
+
+2
+3
+;
+2
+1
+ 
+D(–3 ; 0)  
+E  
+
+
+=== MEMO PAGE 11 ===
+Mathematics P2/Wiskunde V2 
+11 
+DBE/November 2019 
+ 
+NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou 
+Please turn over/Blaai om asseblief 
+ 
+ 
+4.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+area of trapezium AOBC = 
+)1
+)(
+2
+1(
+2
+1
+
+   
+                                        =   2
+1
+1
+ square units 
+area of ACD = 
+)
+2
+)(
+2
+(
+2
+1
+ 
+                        = 2 square units 
+area of quadrilateral OBCD = 
+2
+1
+3
+ square units 
+2
+7
+2 2 
+a
+ 
+     
+2
+7
+4
+7
+2
+
+
+a
+a
+ 
+ 
+ 
+ 
+OR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ substitution into area  
+    of trapezium form 
+ 
+ area of trapezium 
+ 
+ 
+ 
+ area of triangle 
+ 
+ area of OBCD 
+ 
+ 
+ equating area OBCD 
+to 
+2
+2a 
+ 
+(5) 
+ 
+ 
+ 
+ 
+ 
+) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+O 
+
+
+0
+;3
+D 
+ 
+A(–1; 0) 
+
+1;
+0
+B
+ 
+
+
+2
+;1
+C 
+ 
+
+
+=== MEMO PAGE 12 ===
+Mathematics P2/Wiskunde V2 
+12 
+DBE/November 2019 
+ 
+NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou 
+Please turn over/Blaai om asseblief 
+ 
+ 
+ 
+ 
+ 
+ 
+BM produced cuts the tangent at F. 
+area of  CFB = 
+)1
+)(
+2
+(
+2
+1
+ 
+                        = 1 square unit 
+area of trapezium BFDO = 
+)1
+)(
+3
+2
+(
+2
+1
+
+ 
+                                        = 
+2
+1
+2
+ square units 
+area of quadrilateral OBCD = 
+2
+1
+3
+ square units 
+2
+7
+2 2 
+a
+ 
+     
+2
+7
+4
+7
+2
+
+
+a
+a
+ 
+ 
+ 
+OR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ area of triangle 
+ 
+ substitution into  
+    area of trapezium  
+ 
+ area of trapezium 
+ 
+ area of OBCD  
+ 
+ equating area 
+OBCD to 
+2
+2a 
+ 
+ 
+ 
+(5) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+2
+;1
+C 
+ 
+
+
+0
+;3
+D 
+ 
+O 
+
+1;
+0
+B
+ 
+
+1;
+2
+F 
+ 
+
+
+=== MEMO PAGE 13 ===
+Mathematics P2/Wiskunde V2 
+13 
+DBE/November 2019 
+ 
+NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou 
+Please turn over/Blaai om asseblief 
+ 
+ 
+ 
+ 
+ 
+Join DB 
+area of  ODB = 
+)1
+)(
+3
+(
+2
+1
+ 
+                        = 
+2
+3 square unit 
+area of  DCB = 
+
+
+2
+2
+2
+2
+1
+ 
+                         = 2 square unit 
+area of OBCD = 
+2
+2
+3 
+= square units 
+2
+7
+4
+7
+2
+7
+2
+2
+2
+
+
+
+a
+a
+a
+ 
+ 
+OR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ area of  
+ 
+ subst into area of   
+ 
+ area of  
+ area of OBCD 
+ 
+ equating area 
+OBCD to 
+2
+2a 
+ 
+ 
+ 
+ 
+(5) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+0
+;3
+D 
+ 
+
+1;
+0
+B
+ 
+O 
+
+
+2
+;1
+C 
+ 
+
+
+=== MEMO PAGE 14 ===
+Mathematics P2/Wiskunde V2 
+14 
+DBE/November 2019 
+ 
+NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou 
+Please turn over/Blaai om asseblief 
+ 
+ 
+ 
+ 
+ 
+Let E be the point of intersection of DC with the positive y–axis. 
+area of  DEO = 
+)
+3
+)(
+3
+(
+2
+1
+ 
+                        = 2
+9 square unit 
+area of  ECB = 
+)1
+)(
+2
+(
+2
+1
+   or   
+)
+2
+)(
+2
+(
+2
+1
+ 
+                        = 1 square unit 
+area of quadrilateral OBCD = 
+
+1
+2
+9
+2
+1
+3
+ square units 
+2
+7
+2 2 
+a
+ 
+     
+2
+7
+4
+7
+2
+
+
+a
+a
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ area of  
+ 
+ subst into area of   
+ 
+ area of  
+ 
+ area of OBCD 
+ 
+ equating area 
+OBCD to 
+2
+2a 
+ 
+ 
+ 
+(5) 
+[20] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+0
+;3
+D 
+ 
+
+1;
+0
+B
+ 
+O 
+
+
+2
+;1
+C 
+ 
+
+
+3
+;
+0
+E
+ 
+
+
+=== MEMO PAGE 15 ===
+Mathematics P2/Wiskunde V2 
+15 
+DBE/November 2019 
+ 
+NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou 
+Please turn over/Blaai om asseblief 
+ 
+ 
+QUESTION/VRAAG 5 
+ 
+ 
+5.1 
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+2
+2
+cos
+sin
+1
+sin
+)
+sin
+(
+cos
+sin
+.
+cos
+sin
+)
+90
+cos(
+)
+180
+sin(
+tan
+.
+cos
+sin
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ –sin x   sin x 
+
+x
+x
+x
+cos
+sin
+tan
+
+ 
+ 
+x
+2
+sin
+1
+ 
+ 
+x
+2
+cos
+ 
+(5) 
+5.2 
+
+
+
+
+
+10
+cos
+10
+sin
+4
+35
+cos
+35
+sin
+2
+2
+ 
+
+
+)
+10
+cos
+10
+sin
+2
+(
+2
+35
+sin
+35
+cos
+2
+2
+
+
+
+
+
+
+
+ 
+
+
+
+
+20
+sin
+2
+70
+cos
+ 
+
+
+
+
+70
+cos
+2
+70
+cos
+   OR   
+
+
+
+
+20
+sin
+2
+20
+sin
+ 
+2
+1
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+35
+sin
+35
+cos
+2
+2
+ 
+–
+
+70
+cos
+ 
+
+
+20
+sin
+2
+ 
+ 
+ 
+ answer 
+(4) 
+5.3 
+
+
+
+
+
+
+
+
+
+13
+cos
+2
+)
+13
+90
+sin(
+2
+77
+sin
+2
+2
+2
+2
+ 
+                
+1
+1
+13
+cos
+2
+2
+
+
+
+
+ 
+                
+1
+26
+cos
+
+
+
+ 
+                
+1
+
+m
+ 
+ 
+OR 
+
+
+
+
+154
+cos
+77
+sin
+2
+1
+2
+ 
+
+
+
+
+154
+cos
+1
+77
+sin
+2
+2
+ 
+                
+)
+26
+cos
+(
+1
+
+
+
+
+ 
+                
+m
+
+1
+ 
+ using co-ratio 
+ reduction 
+ 
+ 
+
+
+
+
+26
+cos
+1
+13
+cos
+2
+2
+ 
+ answer 
+(4) 
+ 
+ 
+
+
+
+
+154
+cos
+77
+sin
+2
+1
+2
+ 
+ 
+
+
+
+
+154
+cos
+1
+77
+sin
+2
+2
+ 
+ reduction 
+ answer 
+(4) 
+5.4.1 
+3
+2
+...
+2679
+,0
+)
+10
+sin(
+3
+2
+...
+2679
+,0
+)
+15
+25
+sin(
+165
+tan
+15
+sin
+)
+25
+cos(
+15
+cos
+)
+25
+sin(
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OR
+x
+OR
+x
+x
+x
+ 
+x + 10° = 195,54° + k.360°           or  x + 10° = 344,46° + k.360° 
+x  = 185,54° + k.360°; 
+Z
+k 
+ or        x = 334,46° + k.360°;
+Z
+k 
+ 
+ 
+OR/OF 
+ 
+
+)
+10
+sin(
+
+
+x
+ 
+
+...
+2679
+,0
+
+   
+ 195,54° & 344,46° 
+ 185,54° & 334,46° 
+  + k.360°; 
+Z
+k 
+                  
+(6) 
+ 
+ 
+ 
+ 
+
+
+=== MEMO PAGE 16 ===
+Mathematics P2/Wiskunde V2 
+16 
+DBE/November 2019 
+ 
+NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou 
+Please turn over/Blaai om asseblief 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+165
+tan
+75
+cos
+)
+25
+cos(
+75
+sin
+)
+25
+sin(
+x
+x
+ 
+...
+2679
+,0
+)
+75
+sin
+)
+25
+sin(
+75
+cos
+)
+25
+(cos(
+
+
+
+
+
+
+
+
+
+
+x
+x
+ 
+...
+2679
+,0
+)
+100
+cos(
+
+
+
+x
+ 
+ref.= 74.4577…° 
+
+
+
+
+
+
+
+
+
+
+
+
+360
+.
+54
+,
+285
+100
+360
+.
+46
+,
+74
+100
+k
+x
+or
+k
+x
+ 
+x =  –25,54° + k.360°; 
+Z
+k 
+ or  x = 185,54° +k.360°; 
+Z
+k 
+ 
+ 
+ 
+ 
+
+)
+100
+cos(
+
+
+x
+ 
+
+...
+2679
+,0
+
+   
+ 
+ 74,46° & 285,54° 
+ 
+
+
+54
+,
+25
+ & 185,54° 
+  + k.360°; 
+Z
+k 
+                  
+(6) 
+5.4.2 
+)
+10
+sin(
+)
+(
+
+
+
+x
+x
+f
+ 
+ 
+For minimum value of 
+x
+sin
+ :                x = 270°   
+For minimum value of 
+)
+10
+sin(
+
+
+x
+:      x = 260°  
+  
+)
+10
+sin(
+)
+(
+
+
+
+x
+x
+f
+ 
+ 
+ 270°   
+ answer 
+ 
+   (3) 
+ 
+ 
+[22] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answers only: Full marks 
+
+
+=== MEMO PAGE 17 ===
+Mathematics P2/Wiskunde V2 
+17 
+DBE/November 2019 
+ 
+NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou 
+Please turn over/Blaai om asseblief 
+ 
+ 
+QUESTION/VRAAG 6 
+ 
+ 
+ 
+ 
+ 
+6.1 
+Range of  f: 
+
+
+0
+; 
+2
+
+
+y
+   OR  
+0
+2
+
+
+
+y
+ 
+ critical values 
+ notation 
+ (2) 
+6.2  
+)
+270
+ ; 
+90
+(
+
+
+
+x
+  OR 
+]
+270
+ ; 
+90
+[
+
+
+
+x
+ 
+ critical values 
+ notation 
+ (2) 
+6.3 
+
+1
+sin
+2
+cos
+PQ
+
+
+
+x
+x
+ 
+    
+1
+sin
+sin
+2
+1
+2
+
+
+
+
+x
+x
+ 
+    
+2
+sin
+sin
+2
+2
+
+
+
+
+x
+x
+ 
+
+
+
+
+2
+2
+1
+2
+sin
+
+
+
+
+
+
+a
+b
+x
+ 
+4
+1
+sin
+
+
+x
+ 
+ x = 194,48° or  x = 345,52° 
+ 
+
+1
+sin
+2
+cos
+PQ
+
+
+
+x
+x
+ 
+
+x
+x
+2
+sin
+2
+1
+2
+cos
+
+
+ 
+ 
+ 
+substitution into formula 
+ 
+ 
+ 
+
+4
+1
+sin
+
+
+x
+ 
+ 194,48°    345,52° 
+ (6) 
+[10] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+360° 
+180° 
+g 
+A 
+B 
+f 
+0° 
+
+90 
+90° 
+270° 
+x 
+y 
+
+
+=== MEMO PAGE 18 ===
+Mathematics P2/Wiskunde V2 
+18 
+DBE/November 2019 
+ 
+NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou 
+Please turn over/Blaai om asseblief 
+ 
+QUESTION/VRAAG 7 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7.1 
+x
+AK
+60
+sin
+
+
+ 
+x
+x
+x
+866
+,0
+or
+2
+3
+or  
+  
+60
+sin
+AK
+
+
+ 
+ 
+ trig ratio 
+ 
+ answer 
+(2) 
+7.2 
+
+120
+F
+Cˆ
+K
+ 
+ answer 
+(1) 
+7.3 
+F
+Cˆ
+K
+cos
+2CF.CK
+CK
+CF
+KF
+2
+2
+2
+
+
+
+ 
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+120
+cos
+2
+2
+2
+2
+2
+x
+x
+x
+x
+ 
+
+
+
+
+
+
+
+
+
+2
+1
+4
+2
+2
+2
+x
+x
+x
+ 
+4
+7
+2
+x
+
+ 
+2
+7
+KF
+x
+
+ 
+ 
+y 
+ F
+Kˆ
+A
+
+ 
+F
+Kˆ
+A
+sin
+KF
+AK.
+.
+2
+1
+AKF
+Area
+
+
+ 
+                     
+y
+x
+x
+sin
+2
+7
+.
+2
+3
+.
+2
+1
+
+  
+ 
+                     
+8
+sin
+21
+2
+y
+x
+
+ 
+ 
+ correct use of cosine rule 
+ 
+substitution 
+ 
+ 
+2
+1
+120
+cos
+
+
+
+ 
+ 
+ 
+ 
+ KF =
+2
+7x 
+ 
+ 
+ 
+ correct use of area rule 
+ 
+substitution 
+ 
+ 
+ answer in terms of x and y 
+(7) 
+[10] 
+A 
+D 
+B 
+K 
+C 
+E 
+F 
+60° 
+x 
+60° 
+ 
+
+
+=== MEMO PAGE 19 ===
+Mathematics P2/Wiskunde V2 
+19 
+DBE/November 2019 
+ 
+NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou 
+Please turn over/Blaai om asseblief 
+ 
+QUESTION/VRAAG 8 
+ 
+8.1.1 
+
+80
+Rˆ
+               [co-int s/ko-binne e; QW || RK] 
+ 
+S  R                          
+ 
+ (2) 
+8.1.2 
+Pˆ
+
+100             [opp s of cyclic quad/teenoorst e v koordevh ] 
+ 
+S  R 
+                        (2) 
+8.1.3 
+R
+Qˆ
+P
+= 136°         [ext  of cyclic quad/buite  v  koordevh] 
+2
+Qˆ = 36° 
+ 
+OR 
+ 
+
+
+
+136
+Sˆ
+W
+Uˆ
+P
+2
+  [corresp s/ooreenkomstige e; QW || RK]  
+W
+Uˆ
+P
+Pˆ
+W
+Qˆ
+P
+
+
+    [ext s of/buite  van  QPU]  
+
+
+
+
+136
+100
+W
+Qˆ
+P
+  
+
+36
+W
+Qˆ
+P
+ 
+ 
+OR 
+ 
+
+
+
+
+136
+180
+Uˆ
+3
+ = 44°    [co-int s/ko-binne e; QW || RK] 
+ 
+
+
+
+44
+Uˆ
+Uˆ
+3
+1
+                     [vert opp s/regoorstaande e ] 
+)
+44
+100
+(
+180
+W
+Qˆ
+P
+
+
+
+
+
+   [sum of s in ∆/som e van ] 
+
+36
+W
+Qˆ
+P
+ 
+S  R 
+S   
+(3) 
+ 
+ 
+ 
+S  R 
+ 
+ 
+ 
+S   
+(3)  
+ 
+ 
+S  R 
+ 
+ 
+ 
+ 
+ 
+S   
+(3)  
+T 
+ P 
+Q 
+ W 
+ S 
+ K 
+ R 
+ 
+ 136° 
+ 100° 
+1 
+1 
+1 
+2 
+2 
+2 
+ U 
+2 
+3 
+1 
+
+
+=== MEMO PAGE 20 ===
+Mathematics P2/Wiskunde V2 
+20 
+DBE/November 2019 
+ 
+NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou 
+Please turn over/Blaai om asseblief 
+ 
+ 
+8.1.4 
+
+
+
+136
+Sˆ
+Uˆ
+2
+2
+                  [alt s/verwiss e ; QW || RK] 
+ 
+OR 
+ 
+ 
+
+
+
+
+36
+100
+Uˆ
+2
+ 
+        [ext s of/buite  van QPU]  
+      = 136° 
+ 
+ 
+OR 
+ 
+
+
+
+136
+W
+Uˆ
+P
+Uˆ
+2
+             [vert opp s/regoorstaande e ] 
+ 
+OR 
+ 
+3
+2
+Uˆ
+180
+Uˆ
+
+
+
+                  [s on a str line/e op reguitlyn] 
+
+
+
+
+44
+180
+      
+ 
+
+136
+      
+ 
+ 
+ 
+ 
+S  R 
+ (2) 
+ 
+ 
+ 
+ 
+S  R 
+                        (2) 
+ 
+ 
+ 
+ 
+S  R 
+                        (2) 
+ 
+ 
+S  R 
+                        (2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== MEMO PAGE 21 ===
+Mathematics P2/Wiskunde V2 
+21 
+DBE/November 2019 
+ 
+NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou  
+Please turn over/Blaai om asseblief 
+ 
+ 
+8.2 
+ 
+8.2.1 
+In EFT and DCT: 
+2
+1
+18
+9
+CD
+EF
+
+
+ 
+2
+1
+10
+5
+TC
+FT
+
+
+ 
+2
+1
+14
+7
+TD
+ET
+
+
+ 
+∆EFT ||| ∆DCT   [ Sides of ∆ in prop/ sye van  in dieselfde verh] 
+D
+Cˆ
+E
+D
+Fˆ
+E
+
+
+ 
+ 
+OR 
+ 
+In FET: 
+
+
+
+
+
+
+50,7
+Fˆ
+30
+19
+Fˆ
+cos
+Fˆ
+2(5)(9)cos
+81
+25
+49
+ 
+ 
+ 
+ 
+ 
+ all 3 ratios = 2
+1 
+ 
+ 
+ 
+ 
+ ∆EFT ||| ∆DCT  R 
+ 
+ (4) 
+ 
+ 
+ 
+ 
+ 
+
+50,7
+Fˆ
+ 
+ 
+ 
+
+50,7
+Cˆ
+ 
+(4) 
+ F 
+ D 
+E 
+ C 
+ T 
+18 
+7 
+10 
+14 
+5 
+9 
+In TDC: 
+
+
+
+
+
+
+50,7
+Cˆ
+30
+19
+Cˆ
+cos
+Cˆ
+os
+2(10)(18)c
+56
+2
+00
+1
+96
+1
+ 
+
+
+=== MEMO PAGE 22 ===
+Mathematics P2/Wiskunde V2 
+22 
+DBE/November 2019 
+ 
+NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou 
+Please turn over/Blaai om asseblief 
+ 
+ 
+8.2.2 
+D
+Cˆ
+E
+D
+Fˆ
+E
+
+                               [proved in 8.2.1] 
+E, F, C and D are concyclic 
+EFCD is a cyclic quad         [converse s in the same segment/ 
+ 
+ 
+ 
+          omgekeerde e in dies segment] 
+ 
+ 
+ 
+ 
+C
+Eˆ
+D
+C
+Fˆ
+D
+
+
+    [s in the same segment/e in dies segment] 
+ 
+ 
+ 
+S  R 
+ 
+ 
+ R  
+ (3)  
+ [16] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== MEMO PAGE 23 ===
+Mathematics P2/Wiskunde V2 
+23 
+DBE/November 2019 
+ 
+NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou 
+Please turn over/Blaai om asseblief 
+ 
+QUESTION/VRAAG 9 
+ 
+ 
+x
+
+
+360
+Oˆ
+2
+        [s round a pt/e om ´n punt ] 
+x
+2
+1
+180
+Mˆ
+
+
+
+
+   [ at centre = 2 × at circumference/ 
+ 
+ 
+         middelpunts = 2 × omtreks ] 
+x
+2
+1
+Pˆ
+Tˆ
+1
+2
+
+
+
+       [sum of s in ∆/som e van ∆ ] 
+x
+4
+1
+Pˆ
+Tˆ
+1
+2
+
+
+
+      [s opp equal sides/e teenoor gelyke sye] 
+x
+4
+1
+Pˆ
+M
+Tˆ
+S
+1 
+
+
+   [tan chord theorem/raaklyn koordstelling] 
+ 
+OR/OF 
+x
+
+
+360
+Oˆ
+2
+        [s round a pt/e om ´n punt ] 
+2
+Oˆ
+2
+1
+Mˆ 
+
+           [ at centre = 2 × at circumference] 
+Mˆ
+180
+Pˆ
+Tˆ
+1
+2
+
+
+
+
+
+       [sum of s in ∆/som e van ∆ ] 
+1
+2
+Pˆ
+Tˆ
+
+
+      [s opp equal sides/e teenoor gelyke sye] 
+         = 
+x
+x
+4
+1
+2
+)
+360
+(
+180
+2
+Oˆ
+180
+2
+Mˆ
+180
+2
+1
+2
+2
+1
+
+
+
+
+
+
+
+
+
+
+
+ 
+x
+4
+1
+M
+Tˆ
+S
+
+
+   [tan chord theorem/raaklyn koordstelling] 
+
+x
+
+
+360
+Oˆ
+2
+ 
+
+x
+2
+1
+180
+Mˆ
+
+
+
+ R 
+ 
+
+x
+2
+1
+Pˆ
+Tˆ
+1
+2
+
+
+ 
+
+x
+4
+1
+Pˆ
+1 
+ R 
+ 
+R                             
+ (7) 
+ 
+
+x
+
+
+360
+Oˆ
+2
+ 
+ S  R 
+ 
+S 
+ 
+R 
+ 
+ 
+ S 
+ 
+R                          (7) 
+ [7] 
+S 
+ T 
+ M 
+ O 
+ P 
+  1 
+ 1 
+ 1 
+2 
+2 
+2 
+3 
+x 
+
+
+=== MEMO PAGE 24 ===
+Mathematics P2/Wiskunde V2 
+24 
+DBE/November 2019 
+ 
+NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou 
+Please turn over/Blaai om asseblief 
+ 
+ 
+QUESTION/VRAAG 10 
+ 
+10.1 
+ 
+ 
+10.1 
+Constr:  Draw 
+1h from E  AD and 
+2h from D  AE 
+Konstr:  Trek 
+1h vanaf E  AD en 
+2h vanaf D  AE 
+ 
+Proof/Bewys: 
+DB
+AD
+DB
+2
+1
+AD
+2
+1
+BDE
+ 
+area
+ADE
+ 
+area
+1
+1
+
+
+
+
+
+
+h
+h
+ 
+ 
+EC
+AE
+EC
+2
+1
+AE
+2
+1
+DEC
+ 
+area
+ADE
+ 
+area
+2
+2
+
+
+
+
+
+
+h
+h
+ 
+       
+DEC
+ 
+area
+ 
+ 
+BDE
+ 
+area
+But 
+
+
+
+ [same base & height or DE || BC/   
+ 
+ 
+ 
+          dies basis & hoogte; of DE || BC] 
+ΔDEC
+area
+ΔADE
+area
+BDE
+ 
+area
+ADE
+ 
+area
+
+
+
+
+ 
+EC
+AE
+DB
+AD 
+
+ 
+ constr/konstr  OR 
+    reason:  common 
+                  vertex or 
+                 same height 
+ 
+ 
+BDE
+ 
+area
+ADE
+ 
+area
+ 
+
+
+1
+1
+DB
+2
+1
+AD
+2
+1
+h
+h
+
+
+
+ 
+ 
+ 
+EC
+AE
+DEC
+ 
+area
+ADE
+ 
+area
+
+
+
+ 
+ 
+ 
+ 
+ S R 
+ 
+ S 
+ 
+ 
+(6) 
+ 
+ 
+ 
+D 
+E 
+A 
+B 
+C 
+h1 
+h2 
+
+
+=== MEMO PAGE 25 ===
+Mathematics P2/Wiskunde V2 
+25 
+DBE/November 2019 
+ 
+NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou 
+Please turn over/Blaai om asseblief 
+ 
+10.2 
+ 
+ 
+ 
+10.2.1 
+x
+
+3
+Vˆ
+   [Tans from same point/raaklyne vanaf dieselfde pt] 
+x
+
+Rˆ
+    [tan chord theorem/raaklyn koordstelling] 
+x
+
+3
+Wˆ
+  [corresp s/ooreenkomstige e; WT || RV] 
+ 
+ S   R 
+ S   R 
+ S   R 
+                (6) 
+10.2.2(a) 
+x
+
+
+3
+3
+Wˆ
+Vˆ
+ 
+[proved in 10.2.1] 
+W, S, T and V are concyclic/is konsiklies 
+WSTV is a cyclic quad  [converse s in the same segment/ 
+ 
+ 
+                Omgekeerde e in dieselfde segment] 
+ S 
+ 
+ R 
+ 
+ 
+(2) 
+10.2.2(b) 
+x
+
+
+2
+2
+Sˆ
+Wˆ
+     [s in the same segment/e in dies segment] 
+x
+
+
+2
+1
+Wˆ
+Vˆ
+     [alt s/verwiss e ; WT || RV] 
+But 
+x
+
+Rˆ
+         [proved in 10.2.1] 
+x
+
+
+
+1
+Vˆ
+Rˆ
+ 
+WR = WV      [sides opp equal s/sye teenoor gelyke e] 
+WRV is isosceles/is gelykbenig 
+ 
+OR/OF 
+ S  R 
+ S/ R 
+ 
+ S 
+ 
+                      (4) 
+ 
+S 
+1 
+1 
+1 
+1 
+1 
+2 
+2 
+2 
+2 
+2 
+3 
+3 
+3 
+4 
+W 
+K 
+R 
+V 
+T 
+
+
+=== MEMO PAGE 26 ===
+Mathematics P2/Wiskunde V2 
+26 
+DBE/November 2019 
+ 
+NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou  
+ 
+ 
+x
+
+
+2
+2
+Wˆ
+Sˆ
+   [s in the same segment ] 
+x
+
+
+3
+2
+Wˆ
+Wˆ
+ 
+1
+3
+2
+Vˆ
+Rˆ
+Wˆ
+Wˆ
+
+
+
+   [ext  of ] 
+ 
+Rˆ
+Vˆ1
+
+x
+ 
+WR = WV      [sides opp equal s/sye teenoor gelyke e] 
+WRV is isosceles/is gelykbenig 
+ S  R 
+ 
+ 
+ S/ R 
+ S 
+ 
+                      (4) 
+10.2.2(c) In ∆WRV and/en ∆TSV 
+x
+
+
+2
+Sˆ
+Rˆ
+                    [proved OR tan chord theorem] 
+x
+
+
+3
+1
+Vˆ
+Vˆ
+                  [proved] 
+∆WRV ||| ∆TSV        [, ,  ] 
+ 
+ 
+OR/OF 
+ 
+In ∆WRV and/en ∆TSV 
+x
+
+
+2
+Sˆ
+Rˆ
+                    [proved OR tan chord theorem] 
+x
+
+
+3
+1
+Vˆ
+Vˆ
+                  [proved] 
+x
+
+
+V
+Tˆ
+S
+Wˆ
+1
+              [sum of s in ∆/e van ] 
+∆WRV ||| ∆TSV          
+ 
+ 
+ S 
+ 
+ S 
+ R     
+  
+(3) 
+ 
+ 
+ 
+ S 
+ S 
+ 
+ S 
+(3) 
+10.2.2(d) 
+TS
+WR
+SV
+RV 
+                   [WRV ||| TSV]            
+TS
+RV
+SV
+WR
+
+
+
+
+ 
+SV
+KV
+SR
+WR 
+         [prop theorem/eweredighst; WT || RV] 
+SR
+KV
+SV
+WR
+
+
+
+
+ 
+SR
+KV
+TS
+RV
+
+
+
+
+ 
+TS
+KV
+SR
+RV 
+
+ 
+ 
+OR/OF 
+ 
+In ∆RVS and/en ∆VKT 
+4
+Kˆ
+R
+Vˆ
+S
+
+                    [alt s, WT || RV] 
+3
+Vˆ
+V
+Rˆ
+S
+
+                    [proven] 
+∆RVS ||| ∆VKT  [, ,  ] 
+VT
+KV
+SR
+RV 
+
+ 
+but VT = ST  [tans from same point] 
+TS
+KV
+SR
+RV 
+
+ 
+ 
+ correct ratios  
+ 
+ 
+ 
+SV
+KV
+SR
+WR 
+  R 
+ 
+ equating
+SV
+WR
+ 
+ 
+ 
+(4) 
+ 
+ 
+ identifying correct 
+    s 
+ 
+ proving ||| 
+ 
+ correct ratio 
+ 
+ S 
+(4) 
+[25] 
+ 
+TOTAL/TOTAAL:  150 

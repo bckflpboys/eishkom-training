@@ -1,0 +1,3721 @@
+--- PAGE 1 ---
+Copyright reserved/Kopiereg voorbehou 
+ 
+     Please turn over/Blaai om asseblief 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SENIOR CERTIFICATE EXAMINATIONS/ 
+SENIORSERTIFIKAAT-EKSAMEN 
+NATIONAL SENIOR CERTIFICATE EXAMINATIONS/ 
+NASIONALE SENIORSERTIFIKAAT-EKSAMEN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MARKS: 150 
+PUNTE: 150 
+ 
+ 
+ 
+ 
+ 
+ 
+These marking guidelines consist of 15 pages./ 
+Hierdie nasienriglyne bestaan uit 15 bladsye. 
+ 
+ 
+ 
+ 
+MATHEMATICS P1/WISKUNDE V1 
+ 
+MARKING GUIDELINES/NASIENRIGLYNE 
+ 
+MAY/JUNE/MEI/JUNIE 2023 
+ 
+
+--- PAGE 2 ---
+Mathematics P1/Wiskunde V1 
+2 
+DBE/May/June/Mei/Junie 2023 
+ 
+SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou                         
+Please turn the page/Blaai om asseblief 
+ 
+ 
+NOTE: 
+ 
+If a candidate answers a question TWICE, only mark the FIRST attempt. 
+ 
+Consistent Accuracy applies in all aspects of the marking guidelines. 
+ 
+LET WEL: 
+ 
+Indien 'n kandidaat 'n vraag TWEE keer beantwoord, merk slegs die EERSTE poging. 
+ 
+Volgehoue akkuraatheid is DEURGAANS op ALLE aspekte van die nasienriglyne van 
+toepassing. 
+ 
+QUESTION 1/VRAAG 1 
+ 
+1.1.1 
+0
+12
+7
+2
+
+
+x
+x
+ 
+
+
+
+0
+3
+4
+
+
+
+x
+x
+ 
+x = 4  or  x = 3 
+ factors 
+
+4
+
+x
+ 
+
+3
+
+x
+                               (3)   
+1.1.2 
+0
+1
+5
+3
+2
+
+
+x
+x
+ 
+
+
+
+6
+37
+5
+3
+2
+1
+3
+4
+5
+5
+2
+
+
+
+
+
+
+
+
+x
+ 
+85
+,1
+or  
+  
+18
+,0
+
+
+
+
+x
+x
+ 
+standard form 
+ 
+substitution into the  
+   correct formula 
+
+18
+,0
+
+x
+  
+
+85
+,1
+
+
+x
+                   (4)   
+1.1.3 
+0
+15
+2
+2
+
+
+x
+x
+ 
+
+
+
+0
+5
+3
+
+
+
+x
+x
+ 
+5
+or  
+  
+3
+
+
+
+x
+x
+ 
+3
+5
+
+
+
+x
+ 
+standard form 
+ 
+ critical values 
+ 
+answer                     (4) 
+1.1.4 
+1
+)
+1(
+2
+
+
+
+x
+x
+ 
+
+
+
+
+2
+2
+1
+)
+1(
+2
+
+
+
+x
+x
+ 
+2
+2
+2
+2
+1
+x
+x
+x
+
+
+
+ 
+0
+1
+2
+
+
+x
+ 
+1
+and
+1
+
+
+
+
+x
+x
+ 
+ 
+ 
+squaring both sides 
+simplification 
+standard form 
+ answer with selection         
+                                               (4)  
+ 
+ 
+ 
+ 
+   
+– 5  
+3   
+Answer only: 
+Full Marks 
+
+--- PAGE 3 ---
+Mathematics P1/Wiskunde V1 
+3 
+DBE/May/June/Mei/Junie 2023 
+ 
+SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou                         
+Please turn the page/Blaai om asseblief 
+ 
+1.2 
+27
+3
+
+y
+x
+ 
+17
+2
+2
+
+y
+x
+ 
+3
+3
+3
+
+y
+x
+ 
+3
+
+y
+x
+  …….(1) 
+x
+y
+
+3
+ 
+
+
+17
+3
+2
+2
+
+
+
+x
+x
+ 
+0
+8
+6
+2
+2
+
+
+x
+x
+ 
+0
+4
+3
+2
+
+
+x
+x
+ 
+
+
+
+0
+1
+4
+
+
+
+x
+x
+ 
+1
+or  
+  
+4
+
+
+
+x
+x
+ 
+4
+or  
+  
+1
+
+
+
+y
+y
+ 
+OR/OF 
+27
+3
+
+y
+x
+ 
+17
+2
+2
+
+y
+x
+ 
+3
+3
+3
+
+y
+x
+ 
+3
+
+y
+x
+  …….(1) 
+y
+x
+
+3
+ 
+17
+)
+3
+(
+2
+2
+
+
+
+y
+y
+ 
+0
+17
+6
+9
+2
+2
+
+
+
+
+
+y
+y
+y
+ 
+0
+8
+6
+2
+2
+
+
+y
+y
+ 
+0
+4
+3
+2
+
+
+y
+y
+ 
+0
+)1
+)(
+4
+(
+
+
+
+y
+y
+ 
+4
+or  
+  
+1
+
+
+
+y
+y
+ 
+1
+or  
+  
+4
+
+
+
+x
+x
+ 
+ 
+ 
+ 
+ 
+
+33
+3
+
+y
+x
+ 
+ 
+
+3
+
+y
+x
+ 
+ 
+ 
+substitution 
+ 
+ 
+standard form 
+ 
+ 
+x-values 
+y-values                      (6) 
+OR/OF 
+ 
+ 
+ 
+ 
+
+33
+3
+
+y
+x
+ 
+ 
+
+3
+
+y
+x
+ 
+ 
+ 
+substitution 
+ 
+ 
+ 
+standard form 
+ 
+ 
+ 
+y-values 
+x-values                      (6) 
+ 
+
+--- PAGE 4 ---
+Mathematics P1/Wiskunde V1 
+4 
+DBE/May/June/Mei/Junie 2023 
+ 
+SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou                         
+Please turn the page/Blaai om asseblief 
+ 
+1.3 
+100
+99
+1
+...
+4
+3
+1
+3
+2
+1
+2
+1
+1
+
+
+
+
+
+
+
+
+ 
+100
+99
+100
+99
+100
+99
+1
+...
+2
+1
+2
+1
+2
+1
+1
+
+
+
+
+
+
+
+
+
+
+
+ 
+10
+99
+...
+2
+3
+3
+2
+2
+1
+
+
+
+
+
+
+
+
+
+ 
+9
+10
+1
+
+
+
+
+ 
+ 
+ 
+ 
+rationalisation 
+ 
+ 
+ 
+ 
+ simplification 
+ 
+ 
+ answer                       (3) 
+ 
+ 
+                                     [24] 
+ 
+
+--- PAGE 5 ---
+Mathematics P1/Wiskunde V1 
+5 
+DBE/May/June/Mei/Junie 2023 
+ 
+SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou                         
+Please turn the page/Blaai om asseblief 
+ 
+ 
+QUESTION 2/VRAAG 2 
+ 
+2.1.1 
+1
+1
+1
+...
+5
+15
+45
+
+
+
+ 
+r = 
+3
+1
+5
+1
+15
+1
+
+ 
+1
+3
+1
+1
+
+
+
+ 
+ the series is convergent. 
+ 
+ 
+ 
+  
+3
+1
+
+r
+ 
+ 
+  answer  (any indicator  
+     of convergence)        (2)  
+2.1.2 
+r
+a
+S
+
+
+
+1
+ 
+       
+3
+1
+1
+5
+1
+
+
+ 
+       
+10
+3
+
+ 
+ 
+ 
+ 
+ 
+ 
+  substitution 
+ 
+ 
+  answer                      (2) 
+2.2.1 
+81
+1
+;
+4x
+ 
+  4x    81
+1                 (2) 
+2.2.2 
+x
+n
+x
+Tn
+)1
+(
+
+
+
+ 
+     
+x
+xn
+x
+
+
+
+ 
+     
+xn
+
+ 
+ substitution 
+ 
+ answer                       (2) 
+2.2.3 
+1
+
+
+n
+n
+ar
+T
+ 
+1
+13
+13
+3
+1
+3
+1
+
+
+
+
+
+
+
+
+T
+ 
+ 
+13
+13
+1
+1
+ or 
+3
+1594 323
+T
+
+
+
+
+
+
+ or 6,27 × 
+7
+10 or 
+13
+3 
+ 
+ 
+
+13
+
+n
+ 
+ 
+3
+1
+
+r
+ 
+ 
+ answer                       (3) 
+ 
+ 
+2.2.4 
+10
+11
+21
+1
+S
+S
+P
+n
+n
+
+
+
+
+ 
+        
+
+
+3
+1
+1
+3
+1
+1
+3
+1
+10
+2
+2
+11
+10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
+x
+ 
+         = 66 x + 0,5 
+33,5 = 66 x + 0,5 
+2
+1
+
+x
+ 
+ 
+
+11
+S 
+10
+S
+
+ 
+ 
+ arithmetic sum 
+ geometric sum 
+ 
+ 
+ 66 x  + 0,5    (A) 
+ 
+ answer                       (6) 
+ 
+ 
+[17] 
+Answer only: 
+Full Marks 
+
+--- PAGE 6 ---
+Mathematics P1/Wiskunde V1 
+6 
+DBE/May/June/Mei/Junie 2023 
+ 
+SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou                         
+Please turn the page/Blaai om asseblief 
+ 
+ 
+QUESTION 3/VRAAG 3 
+ 
+3.1 
+  x   ;   x    ; 
+3
+T ; … 
+ 
+      0      
+x
+T 
+3
+ 
+ 
+          10 
+ 
+5
+10
+2
+
+
+a
+a
+        
+15
+0
+3
+
+
+
+
+b
+b
+a
+       
+    
+10
+10
+0
+3
+3
+
+
+
+
+
+
+x
+T
+x
+T
+ 
+ 
+6
+18
+3
+28
+10
+2
+28
+2
+3
+
+
+
+
+
+
+
+x
+x
+x
+x
+T
+x
+ 
+ 
+16
+6
+15
+5
+6
+
+
+
+
+
+
+
+c
+c
+c
+b
+a
+ 
+ 
+16
+15
+5
+2
+
+
+
+
+n
+n
+Tn
+ 
+ 
+OR/OF 
+ 
+10
+2 
+a
+ 
+5
+
+a
+ 
+ 
+c
+b
+a
+T
+
+
+
+1
+    
+c
+b
+a
+T
+
+
+
+2
+4
+2
+    
+c
+b
+a
+T
+
+
+
+3
+9
+3
+ 
+    
+c
+b 
+
+5
+         
+c
+b 
+
+
+2
+20
+         
+c
+b 
+
+
+3
+45
+ 
+ 
+c
+b
+c
+b
+
+
+
+
+
+2
+20
+5
+ 
+           
+15
+
+
+b
+ 
+ 
+c
+T
+
+
+10
+1
+      
+c
+T
+
+
+10
+2
+         
+c
+T 
+3
+ 
+ 
+16
+20
+3
+28
+10
+10
+3
+2
+1
+
+
+
+
+
+
+
+
+
+
+
+c
+c
+c
+c
+c
+T
+T
+T
+ 
+ 
+    
+ 
+ 
+2
+10
+a 
+ 
+3
+0
+a
+b
+
+
+ 
+ 
+ 
+3
+10
+T
+x
+
+
+ 
+
+28
+2
+3 
+T
+x
+ 
+ 
+
+6
+
+x
+ 
+5 15
+6
+c
+
+
+
+ 
+                                       (6) 
+ 
+ 
+OR/OF  
+ 
+2
+10
+a 
+ 
+ 
+ 
+ 
+ 
+ 
+
+c
+b
+c
+b
+
+
+
+
+
+2
+20
+5
+ 
+ 
+ 
+
+c
+T
+
+
+10
+1
+ 
+
+c
+T
+
+
+10
+2
+ 
+ 
+
+20
+3
+28
+
+c
+ 
+
+16
+
+c
+                         (6) 
+
+--- PAGE 7 ---
+Mathematics P1/Wiskunde V1 
+7 
+DBE/May/June/Mei/Junie 2023 
+ 
+SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou                         
+Please turn the page/Blaai om asseblief 
+ 
+ 
+3.2 
+16
+15
+5
+2
+
+
+
+n
+n
+Tn
+ 
+16
+15
+5
+216
+2
+
+
+
+n
+n
+ 
+0
+200
+15
+5
+2
+
+
+
+n
+n
+ 
+0
+40
+3
+2
+
+
+n
+n
+ 
+0
+)
+5
+)(
+8
+(
+
+
+
+n
+n
+ 
+5
+or    
+    
+8
+
+
+
+n
+n
+ 
+216
+8 
+T
+ 
+ 
+ equating 
+ 
+ standard form 
+ 
+ n = 8                         (3) 
+ 
+ 
+[9] 
+ 
+QUESTION 4/VRAAG 4 
+ 
+4.1.1 
+decreasing 
+ decreasing                 (1) 
+4.1.2 
+x
+y
+
+
+
+
+
+
+3
+1
+ 
+y
+x
+
+
+
+
+
+
+3
+1
+ 
+x
+y
+3
+1
+log
+
+
+ 
+OR/OF 
+3 x
+y
+
+
+ 
+3 y
+x
+
+
+ 
+3
+log
+y
+x
+
+
+ 
+ 
+ 
+ 
+ 
+ swop x and y 
+ 
+ answer                       (2) 
+ 
+OR/OF 
+ 
+ swop x and y 
+ 
+ answer                       (2) 
+4.1.3 
+R
+x
+x
+
+;
+0
+ 
+ answer                       (1) 
+4.1.4 
+5
+
+
+y
+ 
+ answer                       (1) 
+4.2.1 
+x = 1  
+y = 2 
+ x = 1  
+ y = 2                          (2)    
+4.2.2 
+ 
+0
+2
+1
+4
+
+
+
+x
+ 
+1
+2
+2
+2
+2
+4
+
+
+
+
+
+
+
+x
+x
+x
+ 
+ 
+ 
+ let y = 0 
+ 
+ 
+ 
+ 
+1
+
+
+x
+ 
+                                       (2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 8 ---
+Mathematics P1/Wiskunde V1 
+8 
+DBE/May/June/Mei/Junie 2023 
+ 
+SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou                         
+Please turn the page/Blaai om asseblief 
+ 
+ 
+4.2.3 
+ 
+ x
+ y
+ f
+ 2
+1
+‒ 1
+ ‒ 2
+ 
+ 
+ 
+ asymptotes 
+ x-intercept 
+ y-intercept     
+ shape                         (4) 
+4.2.4 
+2
+1
+4
+
+
+
+x
+ 
+0
+2
+1
+4
+
+
+
+x
+ 
+ 
+1
+
+
+x
+    or   
+1
+
+x
+ 
+ 
+ 
+
+1
+
+
+x
+ 
+ 
+
+1
+
+x
+                           (2) 
+4.2.5 
+5
+5
+3
+2
+
+
+
+
+
+
+
+
+
+
+x
+y
+c
+c
+c
+x
+y
+ 
+ 
+OR/OF 
+5
+3
+)
+2
+(
+3
+3
+1
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
+y
+x
+y
+x
+y
+c
+c
+c
+x
+y
+ 
+ 
+OR/OF 
+(
+)
+y
+x
+p
+q
+
+
+
+ 
+((
+2)
+( 1))
+2
+y
+x
+
+
+
+
+ 
+5
+y
+x
+ 
+ intersection of axes at (3 ; 2) 
+ subst (3 ; 2) and m = – 1  
+ 
+ 
+
+5
+
+
+
+x
+y
+                  (3) 
+ 
+OR/OF 
+ 
+ 
+ 
+ 
+ 
+
+3
+)
+2
+(
+
+
+x
+ 
+
+5
+
+
+
+x
+y
+                  (3) 
+ 
+OR/OF 
+ 
+
+((
+2)
+( 1))
+2
+y
+x
+
+
+
+
+ 
+
+5
+
+
+
+x
+y
+                  (3) 
+ 
+ 
+[18] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 9 ---
+Mathematics P1/Wiskunde V1 
+9 
+DBE/May/June/Mei/Junie 2023 
+ 
+SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou                         
+Please turn the page/Blaai om asseblief 
+ 
+ 
+QUESTION 5/VRAAG 5 
+ 
+5.1 
+
+
+4
+;
+3
+T.P 
+ 
+– 3  
+ 4                                (2) 
+5.2 
+4
+
+y
+  or   
+]
+4
+;
+(
+
+y
+ 
+answer                        (1) 
+5.3 
+)
+(
+)
+(
+x
+g
+x
+f
+
+ 
+5
+4
+)3
+(
+2
+
+
+
+
+
+x
+x
+ 
+2
+6
+9
+4
+5
+x
+x
+x
+
+
+
+
+ 
+0
+10
+7
+2
+
+
+
+
+x
+x
+ 
+0
+10
+7
+2
+
+
+x
+x
+ 
+0
+)
+2
+)(
+5
+(
+
+
+
+x
+x
+ 
+5
+
+
+x
+    or  
+2
+
+
+x
+ 
+ 
+ equating 
+ 
+2
+6
+9
+x
+x
+
+
+ 
+ standard form 
+ factors                        (4) 
+5.4 
+The graph must shift more than 2 and less than 5 
+units to the right 
+2
+5
+
+
+
+
+
+c
+ 
+ 
+ 
+answer                     (2) 
+5.5 
+
+
+
+
+)
+(
+)
+(
+x
+g
+x
+f
+x
+D
+10
+7
+2
+
+
+
+x
+x
+ 
+  
+0
+7
+2
+ :
+Max
+
+
+x
+    OR/OF          
+
+
+
+1
+2
+7
+
+
+
+
+x
+ 
+                 
+2
+7
+
+
+x
+ 
+25
+,2
+10
+2
+7
+7
+2
+7
+2
+7
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+D
+ 
+25
+,2
+
+k
+ 
+25
+,7
+)
+(
+
+
+
+x
+x
+h
+ 
+distance 
+ 
+2
+7
+0
+x
+
+
+
+ 
+ 
+
+2
+7
+
+
+x
+ 
+ 
+
+25
+,2
+
+k
+ 
+
+25
+,7
+)
+(
+
+x
+x
+h
+         (5) 
+ 
+ 
+[14] 
+ 
+
+--- PAGE 10 ---
+Mathematics P1/Wiskunde V1 
+10 
+DBE/May/June/Mei/Junie 2023 
+ 
+SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou                         
+Please turn the page/Blaai om asseblief 
+ 
+ 
+QUESTION 6/VRAAG 6 
+6.1.1 
+n
+i
+P
+A
+)
+1( 
+
+ 
+
+
+5
+065
+,0
+1
+000
+150
+A
+
+
+ 
+A = R205 513 
+ 
+ substitution into the     
+    correct formula 
+ answer                       (2) 
+6.1.2 
+)
+1(
+in
+P
+A
+
+
+ 
+)
+5
+09
+,0
+1(
+000
+150
+
+
+
+A
+ 
+150 000
+67 000
+A 
+
+ 
+A = R82 500 
+ 
+ 
+ substitution into the     
+    correct formula 
+ answer                       (2) 
+6.1.3 
+SF = A – T = 205 513 – 82 500 
+                   = R123 013 
+
+
+
+
+i
+i
+x
+F
+n
+1
+1
+
+
+
+ 
+1
+)
+1(
+
+
+
+
+n
+i
+i
+F
+x
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12
+0785
+,0
+1
+1
+12
+0785
+,0
+1
+12
+0785
+,0
+013
+23
+1
+59
+x
+ 
+   = R1 704,01 
+ 
+ 
+ answer  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0,0785
+12
+i 
+ 
+ 59  and 
+
+
+
+
+
+
+12
+0785
+,0
+1
+(A) 
+ 
+ 
+ answer   (A)              (4) 
+6.2 
+
+
+
+
+i
+i
+x
+P
+n
+
+
+
+
+1
+1
+ 
+4
+0,0525
+6 000 1
+1
+4
+200 000
+0,0525
+4
+n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+4
+7
+0,0525
+1
+1
+16
+4
+n
+
+
+
+
+
+
+
+
+
+ 
+4
+9
+1621
+16
+1600
+n
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+1600
+1621
+log
+16
+9
+log
+4n
+ 
+– 4n =  – 44,1243… 
+    n = 11,03 years  
+ 
+ 
+ 
+ 
+ 
+ substitution into correct 
+    formula 
+ 
+ 
+ simplification 
+ 
+ 
+ 
+ 
+ 
+ 
+ use of logs 
+ 
+ 
+ – 4n =  – 44,1243… 
+ n = 11,03 years         (5) 
+ 
+ 
+[13] 
+ 
+
+--- PAGE 11 ---
+Mathematics P1/Wiskunde V1 
+11 
+DBE/May/June/Mei/Junie 2023 
+ 
+SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou                         
+Please turn the page/Blaai om asseblief 
+ 
+ 
+QUESTION 7/VRAAG 7 
+ 
+7.1 
+
+1
+2
+2 
+
+
+x
+x
+f
+ 
+
+
+
+
+h
+x
+f
+h
+x
+f
+x
+f
+h
+
+
+
+0
+/
+lim
+ 
+
+
+
+
+
+h
+x
+h
+x
+x
+f
+h
+1
+2
+1
+2
+lim
+2
+2
+0
+/
+
+
+
+
+
+
+
+
+ 
+
+h
+x
+h
+xh
+x
+x
+f
+h
+1
+2
+1
+2
+4
+2
+lim
+2
+2
+2
+0
+/
+
+
+
+
+
+
+
+
+ 
+           = 
+h
+h
+xh
+h
+2
+0
+2
+4
+lim
+
+
+
+ 
+              
+
+
+h
+h
+x
+h
+h
+2
+4
+lim
+0
+
+
+
+
+ 
+               
+x
+4
+
+
+ 
+OR/OF 
+
+
+
+
+1
+2
+2 
+
+
+
+
+h
+x
+h
+x
+f
+ 
+
+
+1
+2
+4
+2
+2
+2
+
+
+
+
+
+
+h
+xh
+x
+h
+x
+f
+
+
+
+1
+2
+1
+2
+4
+2
+2
+2
+2
+
+
+
+
+
+
+
+
+
+x
+h
+xh
+x
+x
+f
+h
+x
+f
+ 
+
+
+
+2
+2
+4
+h
+xh
+x
+f
+h
+x
+f
+
+
+
+
+
+ 
+
+
+
+
+h
+x
+f
+h
+x
+f
+x
+f
+h
+
+
+
+0
+/
+lim
+ 
+           
+h
+h
+xh
+h
+2
+0
+2
+4
+lim
+
+
+
+ 
+              
+
+
+h
+h
+x
+h
+h
+2
+4
+lim
+0
+
+
+
+
+ 
+               
+x
+4
+
+
+ 
+ 
+ 
+ 
+ 
+substitution into the  
+   correct formula 
+
+1
+2
+4
+2
+2
+2
+
+
+
+
+h
+xh
+x
+ 
+ 
+
+2
+2
+4
+h
+xh 
+
+ 
+ 
+common factor 
+answer                         (5) 
+ 
+OR/OF 
+ 
+
+1
+2
+4
+2
+2
+2
+
+
+
+
+h
+xh
+x
+ 
+ 
+
+2
+2
+4
+h
+xh 
+
+ 
+ 
+ 
+substitution into the  
+   correct formula 
+common factor 
+answer                         (5) 
+7.2.1 
+
+2
+3
+3
+2
+x
+x
+x
+f
+
+
+
+ 
+
+x
+x
+x
+f
+6
+6
+2
+/
+
+
+
+ 
+
+2
+6x
+
+ 
+
+x
+6
+
+                                  (2) 
+7.2.2 
+x
+x
+y
+4
+1
+2 
+
+ 
+2
+1
+2
+1
+2
+
+
+
+x
+x
+y
+ 
+ 
+2
+3
+4
+1
+2
+
+
+
+x
+dx
+dy
+ 
+ 
+ 
+2
+1 
+1
+2
+x
+
+ 
+ 
+ 
+ 2 
+3
+2
+1
+4 x
+
+
+                     (4) 
+7.3 
+1
+
+x
+ 
+ answer                     (2) 
+ 
+ 
+[13] 
+ 
+
+--- PAGE 12 ---
+Mathematics P1/Wiskunde V1 
+12 
+DBE/May/June/Mei/Junie 2023 
+ 
+SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou                         
+Please turn the page/Blaai om asseblief 
+ 
+ 
+QUESTION 8/VRAAG 8 
+ 
+8.1 
+y = – 10  
+ answer                   (1) 
+8.2 
+
+10
+7
+4
+2
+3
+
+
+
+
+x
+x
+x
+x
+f
+ 
+
+
+
+0
+10
+2
+7
+2
+4
+2
+2
+2
+3
+
+
+
+
+
+f
+ 
+ 
+substitution of x = 2 
+
+0
+2 
+f
+                 (2) 
+8.3 
+)
+5
+6
+)(
+2
+(
+)
+(
+2
+
+
+
+
+x
+x
+x
+x
+f
+ 
+
+1
+)
+5
+)(
+2
+(
+)
+(
+
+
+
+
+x
+x
+x
+x
+f
+ 
+ 
+
+2
+
+x
+ 
+ 
+
+5
+
+x
+ 
+ 
+1
+
+x
+                    (3)  
+8.4 
+ 
+ − 5
+− 1
+ 2
+ 0
+(0,7 ; − 12,6)
+ (− 3,4 ; 20,8) 
+− 10
+x
+ y
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x- intercepts 
+ y-intercept 
+ sketching the graph   
+    with turning points in  
+    2nd and 4th quadrant 
+ 
+ 
+                                   (3) 
+8.5.1 
+)
+7,0
+;
+4,3
+(
+
+x
+   
+OR/OF 
+7,0
+4,3
+
+
+
+x
+ 
+
+)
+7,0
+;
+4,3
+(
+
+x
+     
+                                   (2) 
+8.5.2  
+
+10
+7
+4
+2
+3
+
+
+
+
+x
+x
+x
+x
+f
+ 
+
+7
+8
+3
+2
+/
+
+
+
+x
+x
+x
+f
+ 
+
+0
+8
+6
+//
+
+
+x
+x
+f
+ 
+33
+,1
+3
+4
+6
+8
+
+
+
+
+
+
+x
+ 
+ 
+OR/OF 
+35
+,1
+35
+,1
+2
+7,0
+4,3
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+//
+6
+8
+f
+x
+x
+
+ 
+ answer                   (2) 
+ 
+ 
+OR/OF 
+ 
+ substitution 
+ answer                   (2) 
+ 
+8.5.3 
+4,3
+
+
+x
+ or  1,33
+0,7
+x
+
+
+
+   
+OR/OF 
+
+
+(
+;
+3,4]
+1,33 ; 0,7
+x
+
+
+ 
+ 
+
+4,3
+
+
+x
+(A) 
+1,33
+0,7
+x
+
+
+
+  
+                     (A 0,7)          
+                                  (3) 
+ 
+ 
+[16] 
+
+--- PAGE 13 ---
+Mathematics P1/Wiskunde V1 
+13 
+DBE/May/June/Mei/Junie 2023 
+ 
+SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou                         
+Please turn the page/Blaai om asseblief 
+ 
+ 
+QUESTION 9/VRAAG 9 
+ 
+9.1 
+Perimeter of the square = 
+x
+6
+12
+ 
+Side length of square 
+x
+x
+x
+2
+3
+3
+2
+3
+6
+4
+6
+12
+
+
+
+
+
+
+ 
+
+x
+6
+12 
+ 
+ 
+ answer                   (2) 
+9.2 
+  
+
+
+
+
+3
+2
+2
+2
+9
+36
+36
+4
+4
+9
+36
+36
+4
+2
+3
+6
+x
+x
+x
+x
+x
+x
+x
+x
+V
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+3
+2
+9
+36
+36
+)
+(
+x
+x
+x
+x
+V
+
+
+
+ 
+2
+/
+27
+72
+36
+)
+(
+x
+x
+x
+V
+
+
+
+ 
+0
+27
+72
+36
+2 
+
+
+x
+x
+ 
+0
+12
+24
+9
+2
+
+
+
+x
+x
+ 
+0
+4
+8
+3
+2
+
+
+x
+x
+ 
+0
+)
+2
+)(
+2
+3
+(
+
+
+
+x
+x
+ 
+3
+2
+
+x
+    or    x = 2  
+3
+3
+3
+2
+m
+67
+,
+10
+m
+ 
+3
+32
+3
+2
+9
+3
+2
+36
+3
+2
+36
+3
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+V
+ 
+ 
+
+
+x
+x
+4
+2
+3
+6
+2
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+4
+9
+36
+36
+2x
+x
+ 
+
+3
+2
+9
+36
+36
+x
+x
+x
+
+
+ 
+ 
+
+/
+V 
+
+0
+/ 
+V
+ 
+ 
+ 
+ 
+ 
+ values 
+ 
+ 
+ 
+ 
+ answer                   (7) 
+                                   
+ 
+ 
+[9] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 14 ---
+Mathematics P1/Wiskunde V1 
+14 
+DBE/May/June/Mei/Junie 2023 
+ 
+SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou                         
+Please turn the page/Blaai om asseblief 
+ 
+ 
+ 
+QUESTION 10/VRAAG 10 
+ 
+10.1.1 Event A              Event B 
+ 
+  HC    
+ 
+                                                                
+                                                                
+                                                              HN 
+                                                              SC 
+ 
+ 
+ 
+                                                               SN 
+ 
+  Event A 
+ 
+  Event B Medication: 
+     for P(C) = 
+5
+3 
+ 
+  Event B sugar pill: 
+     for P(NC) = 10
+7              
+                                                
+                                         (3) 
+10.1.2 P(Not Cured)  = P(H) × P(NC) + P(S) × P(NC) 
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10
+7
+2
+1
+5
+2
+2
+1
+ 
+                         
+55
+,0
+20
+11 
+
+ 
+ 
+ 
+substitution 
+ 
+answer                          (2) 
+10.2.1 P(A or B) = P(A) + P(B) – P(A and B) 
+P(A and B) = 
+0
+4
+1
+5
+2
+20
+13
+
+
+
+ 
+ 
+Events are mutually exclusive 
+ 
+OR/OF 
+P(A) + P(B) = 
+4
+1
+5
+2 
+ 
+                    
+20
+13
+
+ 
+P(A or B) = P(A) + P(B) 
+P(A and B) = 0 
+Events are mutually exclusive 
+ 
+ 
+ substitution 
+ 
+answer  (P(A and B) = 0) 
+                                         (2) 
+OR/OF 
+ 
+ substitution 
+ 
+ 
+ 
+ 
+answer (P(A and B) = 0) 
+                                         (2) 
+ 
+ 
+ 
+ 
+ 
+ 
+10
+7 
+C 
+H 
+S 
+N
+N
+2
+1 
+2
+1 
+10
+3 
+5
+3 
+C 
+5
+2 
+
+--- PAGE 15 ---
+Mathematics P1/Wiskunde V1 
+15 
+DBE/May/June/Mei/Junie 2023 
+ 
+SC/SS/NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou                         
+  
+ 
+10.2.2 P(B and C) = 
+2,0
+5
+1 
+ 
+P( only C) = 
+1,0
+10
+1
+5
+1
+5
+2
+10
+7
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ P(B and C) = 
+5
+1 (A) 
+ 
+5
+1
+5
+2
+10
+7
+
+
+ 
+ 10
+1                                      (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+10.2.3 P(no event) = 
+25
+,0
+4
+1
+20
+1
+5
+1
+10
+1
+5
+2
+1
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+1 – (P(A) or P(B) or P(C)) 
+answer                          (2) 
+10.3.1 3! × 5! 
+= 720 
+ 3!     
+ 3! × 5!   (A)                 (2) 
+10.3.2 
+71
+,0
+7
+5
+!7
+2
+!6
+!7
+
+
+
+
+ 
+ 
+OR/OF 
+!7
+2
+!6
+1
+
+
+ 
+7
+2
+1
+
+ 
+7
+5
+
+ = 0,71 
+  
+2
+!6
+!7
+
+
+   
+ denominator (7!) 
+  answer                        (3) 
+OR/OF 
+  
+2
+!6 
+ 
+ denominator (7!) 
+ 
+ 
+  answer                        (3) 
+ 
+ 
+ 
+[17] 
+ 
+TOTAL/TOTAAL: 150 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer only: 
+Full Marks
+A 
+B 
+C 
+0 
+5
+2 
+5
+1 
+10
+1 
+20
+1 

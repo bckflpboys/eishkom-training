@@ -1,0 +1,1148 @@
+# -*- coding: utf-8 -*-
+"""
+Builder and validator for DBE Physical Sciences Grade 12 P2 November 2021
+Source ID: dbe-physical_sciences-g12-p2-2021-nov
+Paired Memo ID: dbe-physical_sciences-g12-p2-2021-nov-memo
+Total Marks: 150
+"""
+
+import json
+import re
+import os
+import sys
+
+SOURCE_ID = "dbe-physical_sciences-g12-p2-2021-nov"
+PAIR_SOURCE_ID = "dbe-physical_sciences-g12-p2-2021-nov-memo"
+SUBJECT = "physical_sciences"
+GRADE = 12
+LANGUAGE = "en"
+TRACK = "physical_sciences"
+
+items = []
+
+def add_item(q_ref, kind, marks, topic, passage, question, memo, final_answer):
+    item = {
+        "item_id": f"{SOURCE_ID}-{q_ref}",
+        "source_id": SOURCE_ID,
+        "pair_source_id": PAIR_SOURCE_ID,
+        "subject": SUBJECT,
+        "grade": GRADE,
+        "language": LANGUAGE,
+        "track": TRACK,
+        "kind": kind,
+        "question_ref": q_ref,
+        "marks": marks,
+        "topic": topic,
+        "passage": passage,
+        "question": question,
+        "memo": memo,
+        "final_answer": final_answer,
+        "needs_review": False,
+        "licence": "DBE copyright - check terms",
+        "attribution": "Department of Basic Education"
+    }
+    items.append(item)
+
+# ==============================================================================
+# QUESTION 1: MULTIPLE-CHOICE QUESTIONS (20 marks: 10 x 2 marks)
+# ==============================================================================
+
+# 1.1
+add_item(
+    q_ref="1.1",
+    kind="multiple_choice",
+    marks=2,
+    topic="Organic Chemistry - Organic Molecular Structures",
+    passage="",
+    question="Which formula shows the way in which atoms are bonded in a molecule but does not show all the bond lines?\n\nA Empirical\nB Molecular\nC Structural\nD Condensed structural",
+    memo="* $\\checkmark\\checkmark$ D (or Condensed structural)\n\n**Reasoning:**\nA condensed structural formula represents the arrangement of atoms in a molecule without showing all carbon-carbon and carbon-hydrogen bond lines (e.g. $\\text{CH}_3\\text{CH}_2\\text{OH}$). A structural formula shows all the bonds and atoms, while empirical and molecular formulas show only atom ratios or totals without depicting bonding connections.",
+    final_answer="D"
+)
+
+# 1.2
+add_item(
+    q_ref="1.2",
+    kind="multiple_choice",
+    marks=2,
+    topic="Organic Chemistry - Intermolecular Forces",
+    passage="",
+    question="Which ONE of the following compounds has hydrogen bonds between its molecules?\n\nA $\\text{CH}_3(\\text{CH}_2)_2\\text{CH}_3$\nB $\\text{CH}_3\\text{COCH}_2\\text{CH}_3$\nC $\\text{CH}_3\\text{COOCH}_2\\text{CH}_3$\nD $\\text{CH}_3\\text{CH(OH)CH}_2\\text{CH}_3$",
+    memo="* $\\checkmark\\checkmark$ D (or $\\text{CH}_3\\text{CH(OH)CH}_2\\text{CH}_3$)\n\n**Reasoning:**\nHydrogen bonding between molecules occurs when hydrogen is covalently bonded to a highly electronegative atom (N, O, or F) that possesses lone pairs of electrons. Compound D is an alcohol (butan-2-ol) with a hydroxyl ($\\text{–OH}$) group, allowing molecules to form intermolecular hydrogen bonds. Compound A is an alkane (London forces), while B (a ketone) and C (an ester) experience dipole-dipole forces.",
+    final_answer="D"
+)
+
+# 1.3
+add_item(
+    q_ref="1.3",
+    kind="multiple_choice",
+    marks=2,
+    topic="Organic Chemistry - IUPAC Naming",
+    passage="The structural formula of an organic carbonyl compound is shown below:\n\n```\n        CH3\n        |\n  CH3 - CH - C - CH2 - CH3\n             ||\n             O\n```\n\n- The longest continuous carbon chain contains 5 carbon atoms (pentan-3-one).\n- A methyl substituent ($\\text{CH}_3$) is attached to carbon 2.",
+    question="Consider the compound described above.\n\nWhich ONE of the following is the IUPAC name of this compound?\n\nA 2-methylpentan-3-one\nB 4-methylpentan-3-one\nC 2,3-dimethylbutan-2-one\nD 2,2,4-trimethylpropan-2-one",
+    memo="* $\\checkmark\\checkmark$ A (or 2-methylpentan-3-one)\n\n**Reasoning:**\nThe longest carbon chain containing the carbonyl ($-\\text{C}(=\\text{O})-$) functional group has five carbon atoms (pentan-3-one). Numbering the chain from the left gives the carbonyl group locant 3 (symmetrical from either end) and gives the methyl substituent the lowest locant 2. Hence, the correct IUPAC name is 2-methylpentan-3-one.",
+    final_answer="A"
+)
+
+# 1.4
+add_item(
+    q_ref="1.4",
+    kind="multiple_choice",
+    marks=2,
+    topic="Chemical Change - Reaction Rates and Stoichiometry",
+    passage="A $2\\text{ g}$ piece of magnesium reacts with EXCESS hydrochloric acid according to the following balanced equation:\n$$\\text{Mg(s)} + 2\\text{HC}\\ell\\text{(aq)} \\rightarrow \\text{MgC}\\ell_2\\text{(aq)} + \\text{H}_2\\text{(g)}$$",
+    question="Which ONE of the following changes will INCREASE the YIELD of $\\text{H}_2\\text{(g)}$?\n\nA Crush the piece of magnesium.\nB Use a $3\\text{ g}$ piece of magnesium.\nC Use a greater volume of the acid.\nD Use a higher concentration of the acid.",
+    memo="* $\\checkmark\\checkmark$ B (or Use a $3\\text{ g}$ piece of magnesium.)\n\n**Reasoning:**\nHydrochloric acid is present in EXCESS, making magnesium the limiting reactant. The yield (total amount of product formed) depends directly on the amount of the limiting reactant. Increasing the mass of magnesium from $2\\text{ g}$ to $3\\text{ g}$ increases the moles of limiting reactant, thereby increasing the maximum theoretical yield of $\\text{H}_2\\text{(g)}$. Crushing magnesium, increasing acid concentration, or increasing acid volume can affect the reaction rate, but do not increase the maximum yield.",
+    final_answer="B"
+)
+
+# 1.5
+add_item(
+    q_ref="1.5",
+    kind="multiple_choice",
+    marks=2,
+    topic="Chemical Change - Maxwell-Boltzmann Distribution and Reaction Rate",
+    passage="The Maxwell-Boltzmann distribution curve P represents the number of molecules against kinetic energy for a certain reaction.\nCurve Q is obtained after a change was made to one reaction condition:\n- Curve P has a peak at a specific kinetic energy and height.\n- Curve Q has a higher peak at the EXACT SAME kinetic energy, and its curve lies entirely above curve P across the kinetic energy range, indicating an increased area under the curve.\n- The activation energy threshold $E_A$ remains unchanged.",
+    question="Which ONE of the following changes resulted in curve Q?\n\nA Addition of a catalyst\nB Increase in temperature\nC Increase in activation energy\nD Increase in the concentration of the reactants",
+    memo="* $\\checkmark\\checkmark$ D (or Increase in the concentration of the reactants)\n\n**Reasoning:**\nAn increase in concentration increases the total number of reactant molecules per unit volume without altering their temperature (and thus without altering the average kinetic energy). Therefore, the peak occurs at the exact same kinetic energy value, but the height of the peak and the total area under the curve increase. An increase in temperature would flatten the peak and shift it to the right. Adding a catalyst shifts the activation energy $E_A$ to the left without changing the distribution curve itself.",
+    final_answer="D"
+)
+
+# 1.6
+add_item(
+    q_ref="1.6",
+    kind="multiple_choice",
+    marks=2,
+    topic="Chemical Change - Chemical Equilibrium Constant",
+    passage="The expression for the equilibrium constant ($K_c$) of a hypothetical reaction is given as follows:\n$$K_c = \\frac{[\\text{X}]^3}{[\\text{Y}]^2[\\text{Z}]}$$\nwhere $[\\text{X}]$, $[\\text{Y}]$, and $[\\text{Z}]$ represent equilibrium concentrations of chemical species.",
+    question="Which ONE of the following equations for a reaction at equilibrium matches the above expression?\n\nA $\\text{Z(g)} + 2\\text{Y(g)} \\rightleftharpoons 3\\text{X(s)}$\nB $\\text{Z(aq)} + 2\\text{Y(aq)} \\rightleftharpoons 3\\text{X(\\ell)}$\nC $\\text{Z(g)} + \\text{Y}_2\\text{(g)} \\rightleftharpoons 3\\text{X(aq)} + \\text{Q(s)}$\nD $\\text{Z(aq)} + 2\\text{Y(aq)} \\rightleftharpoons 3\\text{X(aq)} + \\text{Q(s)}$",
+    memo="* $\\checkmark\\checkmark$ D\n\n**Reasoning:**\nPure solids and pure liquids are omitted from the equilibrium constant expression ($K_c$) because their concentrations remain constant. In option D, $\\text{Q(s)}$ is omitted, while aqueous $\\text{X}$ has stoichiometric coefficient 3 (yielding $[\\text{X}]^3$ in the numerator), aqueous $\\text{Y}$ has coefficient 2 (yielding $[\\text{Y}]^2$ in the denominator), and aqueous $\\text{Z}$ has coefficient 1 (yielding $[\\text{Z}]$ in the denominator). This exactly produces $K_c = \\frac{[\\text{X}]^3}{[\\text{Y}]^2[\\text{Z}]}$.",
+    final_answer="D"
+)
+
+# 1.7
+add_item(
+    q_ref="1.7",
+    kind="multiple_choice",
+    marks=2,
+    topic="Chemical Change - Acids and Bases",
+    passage="Two dilute acids of equal concentrations are added to separate test tubes as shown below:\n- Test tube 1: $100\\text{ cm}^3\\ \\text{HC}\\ell\\text{(aq)}$ (a strong monoprotic acid)\n- Test tube 2: $100\\text{ cm}^3\\ \\text{CH}_3\\text{COOH(aq)}$ (a weak monoprotic acid)",
+    question="Consider the following statements regarding these acids:\n\nI: The pH of each is less than 7.\nII: Both will react at the same rate with $5\\text{ g}$ of magnesium powder.\nIII: Both will neutralise the same number of moles of $\\text{NaOH(aq)}$.\n\nWhich of the statements above is/are TRUE?\n\nA I only\nB I, II and III\nC I and III only\nD II and III only",
+    memo="* $\\checkmark\\checkmark$ C (or I and III only)\n\n**Reasoning:**\n- Statement I is TRUE: Both solutions are acids, so their $\\text{pH} < 7$ at $25\\ ^\\circ\\text{C}$.\n- Statement II is FALSE: $\\text{HC}\\ell$ is a strong acid that ionises completely in aqueous solution, providing a significantly higher initial $[\\text{H}_3\\text{O}^+]$ and therefore a faster initial reaction rate with magnesium powder than $\\text{CH}_3\\text{COOH}$, which is a weak acid that only partially ionises.\n- Statement III is TRUE: Both acids are monoprotic and have identical concentrations and volumes ($100\\text{ cm}^3$), meaning they contain the exact same number of moles of acid ($n = c \\times V$). Since 1 mole of any monoprotic acid reacts with 1 mole of $\\text{NaOH}$, both solutions neutralise the exact same number of moles of $\\text{NaOH(aq)}$.",
+    final_answer="C"
+)
+
+# 1.8
+add_item(
+    q_ref="1.8",
+    kind="multiple_choice",
+    marks=2,
+    topic="Chemical Change - Conjugate Acid-Base Pairs",
+    passage="",
+    question="Which ONE of the following is the conjugate base of $\\text{H}_2\\text{PO}_4^-$?\n\nA $\\text{PO}_4^{3-}$\nB $\\text{HPO}_4^{2-}$\nC $\\text{H}_3\\text{PO}_4$\nD $\\text{H}_4\\text{PO}_4^+$",
+    memo="* $\\checkmark\\checkmark$ B (or $\\text{HPO}_4^{2-}$)\n\n**Reasoning:**\nUnder the Lowry-Brønsted model, the conjugate base of a species is formed when it donates one proton ($\\text{H}^+$):\n$$\\text{H}_2\\text{PO}_4^- \\rightarrow \\text{H}^+ + \\text{HPO}_4^{2-}$$\nRemoving a single $\\text{H}^+$ from $\\text{H}_2\\text{PO}_4^-$ leaves $\\text{HPO}_4^{2-}$.",
+    final_answer="B"
+)
+
+# 1.9
+add_item(
+    q_ref="1.9",
+    kind="multiple_choice",
+    marks=2,
+    topic="Electrochemical Reactions - Galvanic Cells and Ion Movement",
+    passage="The diagram below represents a voltaic (galvanic) cell:\n- Anode half-cell: Zinc electrode $\\text{Zn(s)}$ dipping into zinc sulphate solution, $\\text{ZnSO}_4\\text{(aq)}$.\n- Cathode half-cell: Copper electrode $\\text{Cu(s)}$ dipping into copper(II) sulphate solution, $\\text{CuSO}_4\\text{(aq)}$.\n- A voltmeter (V) connects the two electrodes through external wiring.\n- A U-tube salt bridge contains potassium chloride solution, $\\text{KC}\\ell\\text{(aq)}$. End X of the salt bridge is in the zinc half-cell and end Y is in the copper half-cell.",
+    question="Which ONE of the following correctly describes the movement of ions in the cell?\n\n| | TYPE OF IONS | DIRECTION OF MOVEMENT |\n|---|---|---|\n| A | $\\text{C}\\ell^-(\\text{aq})$ | Y to X |\n| B | $\\text{SO}_4^{2-}(\text{aq})$ | X to Y |\n| C | $\\text{Cu}^{2+}(\text{aq})$ | Y to X |\n| D | $\\text{K}^+(\text{aq})$ | Y to X |",
+    memo="* $\\checkmark\\checkmark$ A (or $\\text{C}\\ell^-(\\text{aq})$: Y to X)\n\n**Reasoning:**\nIn this galvanic cell, zinc is more easily oxidised than copper (higher on the table of standard reduction potentials). Zinc oxidises at the anode: $\\text{Zn(s)} \\rightarrow \\text{Zn}^{2+}\\text{(aq)} + 2\\text{e}^-$, causing a buildup of positive charge in half-cell X. To maintain electrical neutrality, anions from the salt bridge ($\\text{C}\\ell^-$) migrate towards half-cell X (from Y to X). Cations ($\\text{K}^+$) migrate towards half-cell Y where copper ions are reduced.",
+    final_answer="A"
+)
+
+# 1.10
+add_item(
+    q_ref="1.10",
+    kind="multiple_choice",
+    marks=2,
+    topic="Electrochemical Reactions - Electrolytic Refining of Copper",
+    passage="The diagram below represents an electrolytic cell that is used for the refining of copper:\n- The electrolyte is copper(II) sulphate solution, $\\text{CuSO}_4\\text{(aq)}$.\n- An impure copper electrode is connected to the positive terminal of the power supply (anode).\n- Electrode X is connected to the negative terminal of the power supply (cathode).",
+    question="Which ONE of the following statements is TRUE?\n\nA X is made of platinum.\nB The mass of X increases.\nC X is the electrode where oxidation takes place.\nD X is connected to the positive terminal of the power supply.",
+    memo="* $\\checkmark\\checkmark$ B (or The mass of X increases.)\n\n**Reasoning:**\nIn the electrolytic refining of copper, the impure copper is the anode (positive electrode), where oxidation occurs: $\\text{Cu(s, impure)} \\rightarrow \\text{Cu}^{2+}\\text{(aq)} + 2\\text{e}^-$. Electrode X is the cathode (negative electrode, made of pure copper), where copper(II) ions from solution are reduced: $\\text{Cu}^{2+}\\text{(aq)} + 2\\text{e}^- \\rightarrow \\text{Cu(s, pure)}$. The deposited metallic copper causes the mass of electrode X to increase over time.",
+    final_answer="B"
+)
+
+# ==============================================================================
+# QUESTION 2: ORGANIC MOLECULES, IUPAC, ISOMERS, REACTIONS (18 marks)
+# ==============================================================================
+
+q2_passage = (
+    "The letters A to H in the table below represent eight organic compounds:\n\n"
+    "| Compound | Formula / Structure / Name |\n"
+    "|:---:|:---|\n"
+    "| **A** | Structural formula: Ethanoic acid<br>$$\\begin{matrix} & \\text{H} & \\text{O} & \\\\ & | & || & \\\\ \\text{H} - & \\text{C} - & \\text{C} - & \\text{O} - \\text{H} \\\\ & | & & \\\\ & \\text{H} & & \\end{matrix}$$ |\n"
+    "| **B** | Structural formula: 2-methylbut-2-ene<br>$$\\begin{matrix} & \\text{H} & \\text{H} & & \\\\ & | & | & & \\\\ \\text{H} - & \\text{C} - & \\text{C} = & \\text{C} - & \\text{CH}_3 \\\\ & | & & | & \\\\ & \\text{H} & & \\text{CH}_3 & \\end{matrix}$$ |\n"
+    "| **C** | Condensed structural formula: $\\text{CH}_3\\text{CH}_2\\text{CH}_2\\text{COCH}_3$ |\n"
+    "| **D** | Molecular formula: $\\text{C}_2\\text{H}_6\\text{O}$ |\n"
+    "| **E** | Molecular formula: $\\text{C}_2\\text{H}_4$ |\n"
+    "| **F** | IUPAC name: 3-methylbutan-2-one |\n"
+    "| **G** | Structural formula: 2,5-dichloro-3-methylhexane<br>$$\\begin{matrix} & \\text{H} & \\text{C}\\ell & \\text{H} & \\text{H} & \\text{H} & \\text{H} & \\\\ & | & | & | & | & | & | & \\\\ \\text{H} - & \\text{C} - & \\text{C} - & \\text{C} - & \\text{C} - & \\text{C} - & \\text{C} - & \\text{H} \\\\ & | & | & | & | & | & | & \\\\ & \\text{H} & \\text{H} & \\text{CH}_3 & \\text{H} & \\text{C}\\ell & \\text{H} & \\end{matrix}$$ |\n"
+    "| **H** | IUPAC name: 3-methylbutanal |"
+)
+
+# 2.1
+add_item(
+    q_ref="2.1",
+    kind="question",
+    marks=2,
+    topic="Organic Chemistry - Organic Molecular Structures",
+    passage=q2_passage,
+    question="Define the term unsaturated compound.",
+    memo="* $\\checkmark\\checkmark$ A compound that contains a double bond / multiple bond / does NOT contain only single bonds (between C atoms). [2 or 0 marks]\n*(Afrik: 'n Verbinding wat dubbelbindings/meervoudige bindings/NIE net enkelbindings tussen C-atome bevat NIE).* ",
+    final_answer="A compound that contains a double bond (or multiple bond / does not contain only single bonds) between carbon atoms."
+)
+
+# 2.2.1
+add_item(
+    q_ref="2.2.1",
+    kind="question",
+    marks=1,
+    topic="Organic Chemistry - Unsaturated Hydrocarbons",
+    passage=q2_passage,
+    question="Write down the letter that represents an UNSATURATED compound.",
+    memo="* $\\checkmark$ B (or E)",
+    final_answer="B (or E)"
+)
+
+# 2.2.2
+add_item(
+    q_ref="2.2.2",
+    kind="question",
+    marks=1,
+    topic="Organic Chemistry - Functional Groups",
+    passage=q2_passage,
+    question="Write down the NAME of the functional group of compound C.",
+    memo="* $\\checkmark$ Carbonyl (group bonded to two C atoms) / ACCEPT: Ketone\n*(Afrik: Karbonielgroep gebind aan twee C-atome / Ketoon).* ",
+    final_answer="Carbonyl group (accept: Ketone)"
+)
+
+# 2.2.3
+add_item(
+    q_ref="2.2.3",
+    kind="question",
+    marks=2,
+    topic="Organic Chemistry - Isomers",
+    passage=q2_passage,
+    question="Write down the letter that represents a CHAIN ISOMER of compound C.",
+    memo="* $\\checkmark\\checkmark$ F\n\n**Reasoning:**\nCompound C is pentan-2-one (a five-carbon straight-chain ketone, molecular formula $\\text{C}_5\\text{H}_{10}\\text{O}$). Compound F is 3-methylbutan-2-one (a branched four-carbon chain ketone with a methyl branch, same molecular formula $\\text{C}_5\\text{H}_{10}\\text{O}$). Since they share the same molecular formula and functional group but have different carbon chain skeletons, F is a chain isomer of C.",
+    final_answer="F"
+)
+
+# 2.2.4
+add_item(
+    q_ref="2.2.4",
+    kind="question",
+    marks=3,
+    topic="Organic Chemistry - IUPAC Naming",
+    passage=q2_passage,
+    question="Write down the IUPAC name of compound G.",
+    memo="* $\\checkmark$ Correct stem i.e. hexane.\n* $\\checkmark$ All substituents (dichloro and methyl) correctly identified.\n* $\\checkmark$ IUPAC name completely correct including numbering, sequence, hyphens and commas: 2,5-dichloro-3-methylhexane.\n*(Afrik: 2,5-dichloro-3-metielheksaan).* ",
+    final_answer="2,5-dichloro-3-methylhexane"
+)
+
+# 2.2.5
+add_item(
+    q_ref="2.2.5",
+    kind="question",
+    marks=1,
+    topic="Organic Chemistry - Homologous Series",
+    passage=q2_passage,
+    question="Write down the general formula of the homologous series to which compound E belongs.",
+    memo="* $\\checkmark$ $\\text{C}_n\\text{H}_{2n}$",
+    final_answer="$\\text{C}_n\\text{H}_{2n}$"
+)
+
+# 2.3
+add_item(
+    q_ref="2.3",
+    kind="question",
+    marks=2,
+    topic="Organic Chemistry - Isomers",
+    passage=q2_passage,
+    question="Define the term functional isomers.",
+    memo="* $\\checkmark$ Compounds with the same molecular formula,\n* $\\checkmark$ but different functional groups / homologous series.\n*(Afrik: Verbindings met dieselfde molekulêre formule, maar verskillende funksionele groepe/homoloë reekse).* ",
+    final_answer="Compounds with the same molecular formula, but different functional groups (or homologous series)."
+)
+
+# 2.4.1
+add_item(
+    q_ref="2.4.1",
+    kind="question",
+    marks=1,
+    topic="Organic Chemistry - Homologous Series",
+    passage=q2_passage,
+    question="For compound A, write down the homologous series to which it belongs.",
+    memo="* $\\checkmark$ Carboxylic acids\n*(Afrik: Karboksielsure).* ",
+    final_answer="Carboxylic acids"
+)
+
+# 2.4.2
+add_item(
+    q_ref="2.4.2",
+    kind="question",
+    marks=2,
+    topic="Organic Chemistry - Structural Isomers",
+    passage=q2_passage,
+    question="For compound A, write down the STRUCTURAL FORMULA of its FUNCTIONAL isomer.",
+    memo="* $\\checkmark\\checkmark$ Whole structure correct for methyl methanoate:\n\n```\n    O       H\n    |       |\n H - C - O - C - H\n            |\n            H\n```\n\n**Marking criteria:**\n* Whole structure correct: 2/2 marks.\n* Only functional group correct: Max 1/2 marks.\n* More than one functional group: 0/2 marks.\n* Molecular formula: 0/2 marks.\n* Condensed structural formula: 1/2 marks.",
+    final_answer="Methyl methanoate: $\\text{H}-\\text{C}(=\\text{O})-\\text{O}-\\text{CH}_3$ (drawn as full structural formula)"
+)
+
+# 2.5.1
+add_item(
+    q_ref="2.5.1",
+    kind="question",
+    marks=1,
+    topic="Organic Chemistry - IUPAC Naming",
+    passage=q2_passage,
+    question="Compound D undergoes a dehydration reaction.\n\nWrite down the IUPAC name of compound D.",
+    memo="* $\\checkmark$ Ethanol\n*(Afrik: Etanol).* ",
+    final_answer="Ethanol"
+)
+
+# 2.5.2
+add_item(
+    q_ref="2.5.2",
+    kind="question",
+    marks=1,
+    topic="Organic Chemistry - Organic Reactions",
+    passage=q2_passage,
+    question="Compound D undergoes a dehydration reaction.\n\nWrite down the letter that represents a product of this reaction.",
+    memo="* $\\checkmark$ E (ACCEPT: $\\text{C}_2\\text{H}_4$ / ethene)",
+    final_answer="E (or $\\text{C}_2\\text{H}_4$)"
+)
+
+# 2.5.3
+add_item(
+    q_ref="2.5.3",
+    kind="question",
+    marks=1,
+    topic="Organic Chemistry - Organic Reactions",
+    passage=q2_passage,
+    question="Compound D undergoes a dehydration reaction.\n\nWrite down the NAME or FORMULA of the inorganic reactant that is used in this reaction.",
+    memo="* $\\checkmark$ (Concentrated) sulphuric acid / $\\text{H}_2\\text{SO}_4$ / (concentrated) phosphoric acid / $\\text{H}_3\\text{PO}_4$\n*(Afrik: (Gekonsentreerde) swawelsuur / H2SO4 / (gekonsentreerde) fosforsuur / H3PO4).* ",
+    final_answer="Concentrated sulphuric acid (or $\\text{H}_2\\text{SO}_4$ / concentrated phosphoric acid / $\\text{H}_3\\text{PO}_4$)"
+)
+
+# ==============================================================================
+# QUESTION 3: PHYSICAL PROPERTIES & INTERMOLECULAR FORCES (13 marks)
+# ==============================================================================
+
+q3_passage = (
+    "The melting points and boiling points of four straight-chain ALKANES are shown in the table below:\n\n"
+    "| COMPOUND | MELTING POINT ($^\\circ\\text{C}$) | BOILING POINT ($^\\circ\\text{C}$) |\n"
+    "|:---|:---:|:---:|\n"
+    "| Pentane | $-130$ | $36{,}1$ |\n"
+    "| Hexane | $-94$ | $69$ |\n"
+    "| Heptane | $-90{,}6$ | $98{,}4$ |\n"
+    "| Octane | $-57$ | $125$ |"
+)
+
+# 3.1
+add_item(
+    q_ref="3.1",
+    kind="question",
+    marks=2,
+    topic="Organic Chemistry - Physical Properties",
+    passage=q3_passage,
+    question="Define the term melting point.",
+    memo="* $\\checkmark\\checkmark$ The temperature at which solid and liquid phases (of a substance) are in equilibrium.\n*(Afrik: Die temperatuur waarby die vastestof- en vloeistoffases van 'n stof in ewewig is).*\n*(Marking criteria: If any one of the underlined key phrases in the correct context is omitted, deduct 1 mark).* ",
+    final_answer="The temperature at which the solid and liquid phases of a substance are in equilibrium."
+)
+
+# 3.2
+add_item(
+    q_ref="3.2",
+    kind="question",
+    marks=2,
+    topic="Organic Chemistry - Physical Properties",
+    passage=q3_passage,
+    question="Write down the general conclusion that can be made about the melting points of straight-chain alkanes.",
+    memo="* $\\checkmark$ Identification of independent variable (chain length / number of C atoms / molecular mass / surface area / strength of intermolecular forces).\n* $\\checkmark$ Stating the relationship: As chain length / number of C atoms / molecular mass / surface area / strength of intermolecular forces increases, melting points increase.\n*(OR: As chain length / number of C atoms decreases, melting points decrease).* ",
+    final_answer="As the chain length (or number of carbon atoms / molecular mass / surface area) increases, the melting point increases."
+)
+
+# 3.3
+add_item(
+    q_ref="3.3",
+    kind="question",
+    marks=1,
+    topic="Organic Chemistry - Intermolecular Forces",
+    passage=q3_passage,
+    question="Name the type of Van der Waals forces between molecules of octane.",
+    memo="* $\\checkmark$ London forces (ACCEPT: Dispersion forces / induced dipole forces)\n*(Afrik: Londonkragte / Dispersiekragte / geïnduseerde dipoolkragte).* ",
+    final_answer="London forces (or dispersion forces / induced dipole forces)"
+)
+
+# 3.4.1
+add_item(
+    q_ref="3.4.1",
+    kind="question",
+    marks=1,
+    topic="Organic Chemistry - Physical Properties and Phases",
+    passage=q3_passage,
+    question="Write down the predominant phase of pentane at $-100\\ ^\\circ\\text{C}$.\n\nChoose from GAS, LIQUID or SOLID.",
+    memo="* $\\checkmark$ Liquid\n*(Afrik: Vloeistof).* ",
+    final_answer="Liquid"
+)
+
+# 3.4.2
+add_item(
+    q_ref="3.4.2",
+    kind="question",
+    marks=1,
+    topic="Organic Chemistry - Physical Properties and Phases",
+    passage=q3_passage,
+    question="Write down the predominant phase of octane at $-100\\ ^\\circ\\text{C}$.\n\nChoose from GAS, LIQUID or SOLID.",
+    memo="* $\\checkmark$ Solid\n*(Afrik: Vaste stof).* ",
+    final_answer="Solid"
+)
+
+# 3.5.1
+add_item(
+    q_ref="3.5.1",
+    kind="question",
+    marks=2,
+    topic="Organic Chemistry - Physical Properties and Isomers",
+    passage=q3_passage + "\n\nHexane is now compared to 2,2-dimethylbutane.",
+    question="Is the molecular mass of hexane GREATER THAN, LESS THAN or EQUAL to that of 2,2-dimethylbutane?\n\nGive a reason for the answer.",
+    memo="* $\\checkmark$ Equal to\n* $\\checkmark$ Same molecular formula / Isomers / same number and types of atoms (same number of C and H atoms).\n*(Afrik: Gelyk aan; Dieselfde molekulêre formule / Isomere).* ",
+    final_answer="Equal to. Both compounds have the same molecular formula ($\\text{C}_6\\text{H}_{14}$) / are structural isomers."
+)
+
+# 3.5.2
+add_item(
+    q_ref="3.5.2",
+    kind="question",
+    marks=1,
+    topic="Organic Chemistry - Physical Properties and Boiling Point",
+    passage=q3_passage + "\n\nHexane is now compared to 2,2-dimethylbutane.",
+    question="Is the boiling point of 2,2-dimethylbutane HIGHER THAN, LOWER THAN or EQUAL TO that of hexane?",
+    memo="* $\\checkmark$ Lower than\n*(Afrik: Laer as).* ",
+    final_answer="Lower than"
+)
+
+# 3.5.3
+add_item(
+    q_ref="3.5.3",
+    kind="question",
+    marks=3,
+    topic="Organic Chemistry - Intermolecular Forces and Boiling Point",
+    passage=q3_passage + "\n\nHexane is now compared to 2,2-dimethylbutane.",
+    question="Fully explain the answer to QUESTION 3.5.2.",
+    memo="* $\\checkmark$ Compare structures: 2,2-dimethylbutane is more branched / more compact / more spherical / has a smaller surface area (over which intermolecular forces act). [OR: Hexane has a longer chain length / is unbranched / less compact / larger surface area].\n* $\\checkmark$ Compare intermolecular forces: Weaker / fewer intermolecular forces / London forces / dispersion forces in 2,2-dimethylbutane. [OR: Stronger intermolecular forces in hexane].\n* $\\checkmark$ Compare energy: Less energy is needed to overcome or break intermolecular forces in 2,2-dimethylbutane. [OR: More energy needed in hexane].",
+    final_answer="2,2-dimethylbutane is more branched (more compact / smaller surface area over which intermolecular forces act), resulting in weaker London forces between molecules. Less energy is needed to overcome these intermolecular forces, giving it a lower boiling point than hexane."
+)
+
+# ==============================================================================
+# QUESTION 4: ORGANIC REACTIONS & SYNTHESIS (21 marks)
+# ==============================================================================
+
+q4_1_passage = (
+    "Compound P is used as a starting reactant in each of two reactions as shown in the flow diagram below:\n\n"
+    "```\n"
+    "                      Compound P (C5H11Br)\n"
+    "                          |          |\n"
+    "         Reaction I       |          |  Reaction II\n"
+    "   (Dilute NaOH(aq))      |          |  (Concentrated NaOH, heat)\n"
+    "                          v          v\n"
+    "                  2-methylbutan-1-ol Compound Q\n"
+    "                                     |\n"
+    "                                     |  Reaction III\n"
+    "                                     |  (+ HBr)\n"
+    "                                     v\n"
+    "                                 Compound R (major product)\n"
+    "```\n"
+    "I, II and III represent organic reactions."
+)
+
+# 4.1.1
+add_item(
+    q_ref="4.1.1",
+    kind="question",
+    marks=1,
+    topic="Organic Chemistry - Organic Reactions",
+    passage=q4_1_passage,
+    question="Name the type of reaction represented by I.",
+    memo="* $\\checkmark$ Substitution / Hydrolysis\n*(Afrik: Substitusie / Hidrolise).* ",
+    final_answer="Substitution (or Hydrolysis)"
+)
+
+# 4.1.2
+add_item(
+    q_ref="4.1.2",
+    kind="question",
+    marks=2,
+    topic="Organic Chemistry - Alcohols",
+    passage=q4_1_passage,
+    question="Is 2-methylbutan-1-ol a PRIMARY, SECONDARY or TERTIARY alcohol?\n\nGive a reason for the answer.",
+    memo="* $\\checkmark$ Primary (alcohol)\n* $\\checkmark$ ANY ONE:\n  - The C atom of the functional group is the terminal C atom.\n  - The C-atom bonded to the hydroxyl/$-\\text{OH}$ is bonded to (only) one other C-atom.\n  - The hydroxyl/$-\\text{OH}$ is bonded to a C-atom which is bonded to two hydrogen atoms.\n  - The hydroxyl/$-\\text{OH}$ is bonded to a primary C atom / terminal C atom / first C atom.",
+    final_answer="Primary. The carbon atom bonded to the hydroxyl ($-OH$) group is bonded to only one other carbon atom (or is a terminal carbon atom)."
+)
+
+# 4.1.3
+add_item(
+    q_ref="4.1.3",
+    kind="question",
+    marks=3,
+    topic="Organic Chemistry - Structural Formula",
+    passage=q4_1_passage,
+    question="Write down the STRUCTURAL FORMULA of compound P.",
+    memo="* $\\checkmark$ Four C atoms in longest chain.\n* $\\checkmark$ One methyl substituent on C2.\n* $\\checkmark$ Bromo substituent on C1.\n\nStructural representation:\n```\n     H    H   CH3   H\n     |    |    |    |\n H - C -  C -  C -  C - Br\n     |    |    |    |\n     H    H    H    H\n```\n*(IUPAC: 1-bromo-2-methylbutane)*\n*(Marking criteria: Any error e.g. omission of H atoms, condensed or semi-structural formula: Max 2/3 marks).* ",
+    final_answer="1-bromo-2-methylbutane: $\\text{CH}_3-\\text{CH}_2-\\text{CH}(\\text{CH}_3)-\\text{CH}_2\\text{Br}$ (drawn with full structural bonds)"
+)
+
+# 4.1.4
+add_item(
+    q_ref="4.1.4",
+    kind="question",
+    marks=1,
+    topic="Organic Chemistry - Organic Reactions",
+    passage=q4_1_passage,
+    question="Name the type of reaction represented by II.",
+    memo="* $\\checkmark$ Elimination / dehydrohalogenation / dehydrobromination\n*(Afrik: Eliminasie / dehidrohalogenering / dehidrohalogenasie / dehidrobrominasie / dehidrobromonering).* ",
+    final_answer="Elimination (or dehydrohalogenation / dehydrobromination)"
+)
+
+# 4.1.5
+add_item(
+    q_ref="4.1.5",
+    kind="question",
+    marks=1,
+    topic="Organic Chemistry - Homologous Series",
+    passage=q4_1_passage,
+    question="To which homologous series does compound Q belong?",
+    memo="* $\\checkmark$ Alkenes\n*(Afrik: Alkene).* ",
+    final_answer="Alkenes"
+)
+
+# 4.1.6
+add_item(
+    q_ref="4.1.6",
+    kind="question",
+    marks=1,
+    topic="Organic Chemistry - Organic Reactions",
+    passage=q4_1_passage,
+    question="Name the type of reaction represented by III.\n\nChoose from ADDITION, ELIMINATION or SUBSTITUTION.",
+    memo="* $\\checkmark$ Addition\n*(Afrik: Addisie).* ",
+    final_answer="Addition"
+)
+
+# 4.1.7
+add_item(
+    q_ref="4.1.7",
+    kind="question",
+    marks=2,
+    topic="Organic Chemistry - IUPAC Naming",
+    passage=q4_1_passage,
+    question="Write down the IUPAC name of compound R.",
+    memo="* $\\checkmark$ 2-bromo-2-methyl\n* $\\checkmark$ butane\n*(IUPAC name: 2-bromo-2-methylbutane; Afrik: 2-bromo-2-metielbutaan).* ",
+    final_answer="2-bromo-2-methylbutane"
+)
+
+q4_2_passage = (
+    "1,2-dibromopropane can be prepared from but-2-ene by a three-step process as shown in the flow diagram below:\n\n"
+    "```\n"
+    "    But-2-ene  --->  Compound A  --->  Compound B  --->  1,2-dibromopropane\n"
+    "               step 1            step 2            step 3\n"
+    "```"
+)
+
+# 4.2.1
+add_item(
+    q_ref="4.2.1",
+    kind="question",
+    marks=4,
+    topic="Organic Chemistry - Organic Equations",
+    passage=q4_2_passage,
+    question="Using CONDENSED STRUCTURAL FORMULAE, write down a balanced equation for step 1. Indicate the reaction conditions on the arrow.",
+    memo="* $\\checkmark$ Correct condensed structure for but-2-ene: $\\text{CH}_3\\text{CH}=\\text{CHCH}_3$ (or $\\text{CH}_3\\text{CHCHCH}_3$)\n* $\\checkmark$ React but-2-ene with $\\text{H}_2$ (or $\\text{H}-\\text{H}$)\n* $\\checkmark$ Indicate catalyst $\\text{Pt}$ / $\\text{Ni}$ / $\\text{Pd}$ on the arrow\n* $\\checkmark$ Correct condensed formula for butane as product: $\\text{CH}_3\\text{CH}_2\\text{CH}_2\\text{CH}_3$ (or $\\text{CH}_3(\\text{CH}_2)_2\\text{CH}_3$)\n\nBalanced equation:\n$$\\text{CH}_3\\text{CH}=\\text{CHCH}_3 + \\text{H}_2 \\xrightarrow{\\text{Pt/Ni/Pd}} \\text{CH}_3\\text{CH}_2\\text{CH}_2\\text{CH}_3$$\n*(Penalty: Any additional products or reactants: minus 1 mark).* ",
+    final_answer="$$\\text{CH}_3\\text{CH}=\\text{CHCH}_3 + \\text{H}_2 \\xrightarrow{\\text{Pt/Ni/Pd}} \\text{CH}_3\\text{CH}_2\\text{CH}_2\\text{CH}_3$$"
+)
+
+# 4.2.2
+add_item(
+    q_ref="4.2.2",
+    kind="question",
+    marks=1,
+    topic="Organic Chemistry - Organic Reactions",
+    passage=q4_2_passage,
+    question="Write down the type of reaction in step 2.",
+    memo="* $\\checkmark$ Elimination / Cracking\n*(Afrik: Eliminasie / Kraking).* ",
+    final_answer="Elimination (or Cracking)"
+)
+
+# 4.2.3
+add_item(
+    q_ref="4.2.3",
+    kind="question",
+    marks=2,
+    topic="Organic Chemistry - IUPAC Naming",
+    passage=q4_2_passage,
+    question="Write down the IUPAC name of compound B.",
+    memo="* $\\checkmark\\checkmark$ Propene (or 1-propene / prop-1-ene)\n*(Afrik: Propeen / 1-propeen / prop-1-een).* ",
+    final_answer="Propene (or prop-1-ene)"
+)
+
+# 4.2.4
+add_item(
+    q_ref="4.2.4",
+    kind="question",
+    marks=3,
+    topic="Organic Chemistry - Organic Equations",
+    passage=q4_2_passage,
+    question="Using CONDENSED STRUCTURAL FORMULAE, write down a balanced equation for step 3.",
+    memo="* $\\checkmark$ Correct condensed formula for propene as reactant: $\\text{CH}_3\\text{CH}=\\text{CH}_2$ (or $\\text{CH}_3\\text{CHCH}_2$)\n* $\\checkmark$ React with $\\text{Br}_2$ (or $\\text{Br}-\\text{Br}$)\n* $\\checkmark$ Correct condensed formula for 1,2-dibromopropane as product: $\\text{CH}_3\\text{CHBrCH}_2\\text{Br}$\n\nBalanced equation:\n$$\\text{CH}_3\\text{CH}=\\text{CH}_2 + \\text{Br}_2 \\rightarrow \\text{CH}_3\\text{CHBrCH}_2\\text{Br}$$\n*(Penalty: Any additional products or reactants: minus 1 mark).* ",
+    final_answer="$$\\text{CH}_3\\text{CH}=\\text{CH}_2 + \\text{Br}_2 \\rightarrow \\text{CH}_3\\text{CHBrCH}_2\\text{Br}$$"
+)
+
+# ==============================================================================
+# QUESTION 5: REACTION RATES & CHEMICAL KINETICS (15 marks)
+# ==============================================================================
+
+q5_passage = (
+    "The reaction of $15\\text{ g}$ of an IMPURE sample of calcium carbonate, $\\text{CaCO}_3$, with EXCESS hydrochloric acid, $\\text{HC}\\ell$, of concentration $1{,}0\\text{ mol}\\cdot\\text{dm}^{-3}$, is used to investigate the rate of a reaction. The balanced equation for the reaction is:\n"
+    "$$\\text{CaCO}_3\\text{(s)} + 2\\text{HC}\\ell\\text{(aq)} \\rightarrow \\text{CaC}\\ell_2\\text{(aq)} + \\text{H}_2\\text{O(\\ell)} + \\text{CO}_2\\text{(g)}$$\n\n"
+    "The volume of $\\text{CO}_2\\text{(g)}$ produced is measured at regular intervals. A sketch graph representing the total volume of carbon dioxide gas produced as a function of time is shown below:\n"
+    "- y-axis: Volume of $\\text{CO}_2\\text{(g)}$ in $\\text{cm}^3$, leveling off at maximum value X.\n"
+    "- x-axis: Time in seconds, with points marked $0$, $t_1$, $t_2$, and $t_3$.\n"
+    "- From $0$ to $t_1$: The graph rises with an initial moderate slope.\n"
+    "- Between $t_1$ and $t_2$: The gradient increases and the curve becomes noticeably steeper.\n"
+    "- Between $t_2$ and $t_3$: The gradient decreases and the curve flattens.\n"
+    "- At and after $t_3$: The curve reaches a constant horizontal plateau at volume X."
+)
+
+# 5.1
+add_item(
+    q_ref="5.1",
+    kind="question",
+    marks=2,
+    topic="Chemical Change - Reaction Rates",
+    passage=q5_passage,
+    question="Define the term reaction rate.",
+    memo="* $\\checkmark$ Change in concentration / amount / number of moles / volume / mass of products or reactants\n* $\\checkmark$ per (unit) time.\n*(Accept: Rate of change in concentration / amount of moles / number of moles / volume / mass: 2 or 0 marks).* ",
+    final_answer="Change in concentration (or amount / number of moles / volume / mass) of products or reactants per unit time."
+)
+
+# 5.2
+add_item(
+    q_ref="5.2",
+    kind="question",
+    marks=1,
+    topic="Chemical Change - Reaction Rates",
+    passage=q5_passage,
+    question="Give a reason why the gradient of the graph decreases between $t_2$ and $t_3$.",
+    memo="* $\\checkmark$ Reaction rate decreases / Concentration of $\\text{HC}\\ell$ decreases / Concentration of reactant decreases / Reactants are used up / Mass of $\\text{CaCO}_3$ decreases or is used up.",
+    final_answer="Reaction rate decreases because reactants are used up (concentration of $\\text{HC}\\ell$ and mass of $\\text{CaCO}_3$ decrease)."
+)
+
+# 5.3.1
+add_item(
+    q_ref="5.3.1",
+    kind="question",
+    marks=1,
+    topic="Chemical Change - Energy Changes in Reactions",
+    passage=q5_passage + "\n\nChanges in the graph between $t_1$ and $t_2$ are due to temperature changes within the reaction mixture.",
+    question="Is the reaction EXOTHERMIC or ENDOTHERMIC?",
+    memo="* $\\checkmark$ Exothermic\n*(Afrik: Eksotermies).* ",
+    final_answer="Exothermic"
+)
+
+# 5.3.2
+add_item(
+    q_ref="5.3.2",
+    kind="question",
+    marks=3,
+    topic="Chemical Change - Reaction Rates and Temperature",
+    passage=q5_passage + "\n\nChanges in the graph between $t_1$ and $t_2$ are due to temperature changes within the reaction mixture.",
+    question="Explain the answer by referring to the graph.",
+    memo="* $\\checkmark$ Gradient increases / becomes steeper (between $t_1$ and $t_2$) / Curve becomes steeper.\n* $\\checkmark$ Reaction rate increases / More (or larger volume of) $\\text{CO}_2$ is produced per unit time.\n* $\\checkmark$ Temperature increases / Energy is released / Average kinetic energy of the molecules increases.",
+    final_answer="The gradient of the graph increases (becomes steeper) between $t_1$ and $t_2$, indicating that the reaction rate increases. An increase in reaction rate indicates that the temperature of the reaction mixture increased (energy was released), which confirms that the reaction is exothermic."
+)
+
+# 5.4
+add_item(
+    q_ref="5.4",
+    kind="question",
+    marks=5,
+    topic="Chemical Change - Stoichiometry and Gas Volumes",
+    passage=q5_passage,
+    question="The percentage purity of the sample is $82{,}5\\%$.\n\nCalculate the value of X on the graph assuming that the gas is collected at $25\\ ^\\circ\\text{C}$. Take the molar gas volume at $25\\ ^\\circ\\text{C}$ as $24\\,000\\text{ cm}^3$.",
+    memo="* $\\checkmark$ Calculate pure mass of $\\text{CaCO}_3$: $m(\\text{pure CaCO}_3) = \\frac{82{,}5}{100} \\times 15 = 12{,}375\\text{ g}$\n* $\\checkmark$ Divide by molar mass $M = 100\\text{ g}\\cdot\\text{mol}^{-1}$: $n(\\text{pure CaCO}_3) = \\frac{12{,}375}{100} = 0{,}124\\text{ mol}$ (or $0{,}12375\\text{ mol}$)\n* $\\checkmark$ Use mole ratio: $n(\\text{CO}_2) = n(\\text{CaCO}_3) = 0{,}124\\text{ mol}$\n* $\\checkmark$ Multiply $n(\\text{CO}_2)$ by $V_m = 24\\,000\\text{ cm}^3$ (or $24\\text{ dm}^3$): $V = 0{,}124 \\times 24\\,000$\n* $\\checkmark$ Final answer: $2\\,976\\text{ cm}^3$ (or $2{,}98\\text{ dm}^3$ / $2\\,970\\text{ cm}^3$; Range: $2\\,880$ to $2\\,976\\text{ cm}^3$ / $2{,}88$ to $2{,}98\\text{ dm}^3$).",
+    final_answer="$2\\,976\\text{ cm}^3$ (or $2{,}98\\text{ dm}^3$)"
+)
+
+# 5.5
+add_item(
+    q_ref="5.5",
+    kind="question",
+    marks=1,
+    topic="Chemical Change - Factors Affecting Reaction Rate",
+    passage=q5_passage,
+    question="How will the reaction rate change if $15\\text{ g}$ of a PURE sample of $\\text{CaCO}_3$ reacts with the same $\\text{HC}\\ell$ solution?\n\nChoose from INCREASES, DECREASES or REMAINS THE SAME.",
+    memo="* $\\checkmark$ Increases\n*(Afrik: Toeneem).* ",
+    final_answer="Increases"
+)
+
+# 5.6
+add_item(
+    q_ref="5.6",
+    kind="question",
+    marks=2,
+    topic="Chemical Change - Collision Theory",
+    passage=q5_passage,
+    question="Use the collision theory to explain the answer to QUESTION 5.5.",
+    memo="* $\\checkmark$ More $\\text{CaCO}_3$ particles with correct orientation / exposed / Greater (exposed) surface area.\n* $\\checkmark$ More effective collisions per unit time / Higher frequency of effective collisions.\n*(Note: If explanation is in terms of CONCENTRATION: No mark for bullet 1. Bullets are marked independently).* ",
+    final_answer="A pure sample contains more $\\text{CaCO}_3$ particles exposed to the acid (greater surface area). This leads to a higher frequency of effective collisions (more effective collisions per unit time), thereby increasing the reaction rate."
+)
+
+# ==============================================================================
+# QUESTION 6: CHEMICAL EQUILIBRIUM (18 marks)
+# ==============================================================================
+
+q6_passage = (
+    "Consider the balanced equation below for a hypothetical reaction that takes place in a sealed $2\\text{ dm}^3$ container at $300\\text{ K}$:\n"
+    "$$2\\text{P(g)} + \\text{Q}_2\\text{(g)} \\rightleftharpoons 2\\text{PQ(g)}$$\n\n"
+    "The amount of each substance present in the equilibrium mixture at $300\\text{ K}$ is shown in the table below:\n\n"
+    "| Substance | AMOUNT (mol) AT EQUILIBRIUM |\n"
+    "|:---:|:---:|\n"
+    "| P | $0{,}8$ |\n"
+    "| $\\text{Q}_2$ | $0{,}8$ |\n"
+    "| PQ | $3{,}2$ |\n\n"
+    "The temperature of the container is now increased to $350\\text{ K}$.\n"
+    "When a NEW equilibrium is established, it is found that $1{,}2\\text{ mol P(g)}$ is present in the container."
+)
+
+# 6.1
+add_item(
+    q_ref="6.1",
+    kind="question",
+    marks=2,
+    topic="Chemical Change - Chemical Equilibrium",
+    passage=q6_passage,
+    question="Define the term chemical equilibrium.",
+    memo="* $\\checkmark\\checkmark$ (The stage in a chemical reaction when the) rate of forward reaction equals the rate of reverse reaction. [2 or 0 marks]\n*(OR: The stage in a chemical reaction when the concentrations of reactants and products remain constant: 2 or 0 marks).* ",
+    final_answer="The stage in a chemical reaction when the rate of the forward reaction equals the rate of the reverse reaction (or when the concentrations of reactants and products remain constant)."
+)
+
+# 6.2.1
+add_item(
+    q_ref="6.2.1",
+    kind="question",
+    marks=1,
+    topic="Chemical Change - Chemical Equilibrium and Le Chatelier",
+    passage=q6_passage,
+    question="Is the heat of the reaction ($\\Delta H$) POSITIVE or NEGATIVE?",
+    memo="* $\\checkmark$ Negative\n*(Afrik: Negatief).* ",
+    final_answer="Negative"
+)
+
+# 6.2.2
+add_item(
+    q_ref="6.2.2",
+    kind="question",
+    marks=3,
+    topic="Chemical Change - Le Chatelier's Principle",
+    passage=q6_passage,
+    question="Use Le Chatelier's principle to explain the answer to QUESTION 6.2.1.",
+    memo="* $\\checkmark$ An increase in temperature favours an endothermic reaction. (Accept: Decrease in temperature favours an exothermic reaction).\n* $\\checkmark$ The reverse reaction is favoured / Concentration of reactants increases / Concentration of products decreases.\n* $\\checkmark$ The (forward) reaction is exothermic (Accept: Reverse reaction is endothermic).",
+    final_answer="According to Le Chatelier's principle, an increase in temperature favours the endothermic reaction. Since the amount of reactant P increased (from $0{,}8\\text{ mol}$ to $1{,}2\\text{ mol}$), the reverse reaction was favoured. Therefore, the reverse reaction is endothermic, which means the forward reaction is exothermic ($\\Delta H$ is negative)."
+)
+
+# 6.2.3
+add_item(
+    q_ref="6.2.3",
+    kind="question",
+    marks=8,
+    topic="Chemical Change - Equilibrium Constant Calculation",
+    passage=q6_passage,
+    question="Calculate the equilibrium constant at $350\\text{ K}$.",
+    memo=(
+        "* $\\checkmark$ Initial amounts from table: $n(\\text{P}) = 0{,}8\\text{ mol}$, $n(\\text{Q}_2) = 0{,}8\\text{ mol}$, $n(\\text{PQ}) = 3{,}2\\text{ mol}$\n"
+        "* $\\checkmark$ Change in $n(\\text{P}) = 1{,}2 - 0{,}8 = 0{,}4\\text{ mol}$\n"
+        "* $\\checkmark$ Use mole ratio: $\\text{P} : \\text{Q}_2 : \\text{PQ} = 2 : 1 : 2$\n"
+        "* $\\checkmark$ Equilibrium amounts: $n(\\text{Q}_2) = 0{,}8 + 0{,}2 = 1{,}0\\text{ mol}$, and $n(\\text{PQ}) = 3{,}2 - 0{,}4 = 2{,}8\\text{ mol}$\n"
+        "* $\\checkmark$ Divide equilibrium amounts of $\\text{P}$, $\\text{Q}_2$, and $\\text{PQ}$ by $V = 2\\text{ dm}^3$:\n"
+        "  $[\\text{P}] = \\frac{1{,}2}{2} = 0{,}6\\text{ mol}\\cdot\\text{dm}^{-3}$, $[\\text{Q}_2] = \\frac{1{,}0}{2} = 0{,}5\\text{ mol}\\cdot\\text{dm}^{-3}$, $[\\text{PQ}] = \\frac{2{,}8}{2} = 1{,}4\\text{ mol}\\cdot\\text{dm}^{-3}$\n"
+        "* $\\checkmark$ Correct $K_c$ expression (formulae in square brackets): $K_c = \\frac{[\\text{PQ}]^2}{[\\text{P}]^2[\\text{Q}_2]}$\n"
+        "* $\\checkmark$ Substitution of equilibrium concentrations into $K_c$ expression: $K_c = \\frac{(1{,}4)^2}{(0{,}6)^2(0{,}5)}$\n"
+        "* $\\checkmark$ Final answer: $10{,}89$ (or $10{,}889$)"
+    ),
+    final_answer="$10{,}89$"
+)
+
+# 6.2.4
+add_item(
+    q_ref="6.2.4",
+    kind="question",
+    marks=2,
+    topic="Chemical Change - Equilibrium Constant and Pressure/Volume",
+    passage=q6_passage,
+    question="How will the equilibrium constant calculated in QUESTION 6.2.3 be affected when the volume of the container is decreased at constant temperature?\n\nChoose from INCREASES, DECREASES or REMAINS THE SAME.\n\nGive a reason for the answer.",
+    memo="* $\\checkmark$ Remains the same\n* $\\checkmark$ Only temperature can change $K_c$ / Temperature remains constant.\n*(Afrik: Bly dieselfde; Slegs temperatuur kan Kc verander / Temperatuur bly konstant).* ",
+    final_answer="Remains the same. Only a change in temperature can change the value of the equilibrium constant $K_c$ (temperature remains constant)."
+)
+
+# 6.3.1
+add_item(
+    q_ref="6.3.1",
+    kind="question",
+    marks=1,
+    topic="Chemical Change - Le Chatelier's Principle and Concentration",
+    passage=q6_passage + "\n\nMore $\\text{Q}_2\\text{(g)}$ is now added to the reaction mixture at constant temperature.\nHow will EACH of the following be affected?\nChoose from INCREASES, DECREASES or REMAINS THE SAME.",
+    question="The yield of $\\text{PQ(g)}$",
+    memo="* $\\checkmark$ Increases\n*(Afrik: Toeneem).* ",
+    final_answer="Increases"
+)
+
+# 6.3.2
+add_item(
+    q_ref="6.3.2",
+    kind="question",
+    marks=1,
+    topic="Chemical Change - Le Chatelier's Principle and Concentration",
+    passage=q6_passage + "\n\nMore $\\text{Q}_2\\text{(g)}$ is now added to the reaction mixture at constant temperature.\nHow will EACH of the following be affected?\nChoose from INCREASES, DECREASES or REMAINS THE SAME.",
+    question="Number of moles of $\\text{P(g)}$",
+    memo="* $\\checkmark$ Decreases\n*(Afrik: Afneem).* ",
+    final_answer="Decreases"
+)
+
+# ==============================================================================
+# QUESTION 7: ACIDS AND BASES (18 marks)
+# ==============================================================================
+
+q7_1_passage = (
+    "Sulphuric acid, $\\text{H}_2\\text{SO}_4$, ionises in two steps as follows:\n\n"
+    "$$\\text{I: }\\text{H}_2\\text{SO}_4\\text{(aq)} + \\text{H}_2\\text{O(\\ell)} \\rightarrow \\text{HSO}_4^-\\text{(aq)} + \\text{H}_3\\text{O}^+\\text{(aq)} \\quad K_a = 1 \\times 10^3$$\n"
+    "$$\\text{II: }\\text{HSO}_4^-\\text{(aq)} + \\text{H}_2\\text{O(\\ell)} \\rightleftharpoons \\text{SO}_4^{2-}\\text{(aq)} + \\text{H}_3\\text{O}^+\\text{(aq)} \\quad K_a = 1 \\times 10^{-2}$$"
+)
+
+# 7.1.1
+add_item(
+    q_ref="7.1.1",
+    kind="question",
+    marks=2,
+    topic="Chemical Change - Lowry-Brønsted Acid Definition",
+    passage=q7_1_passage,
+    question="Define an acid in terms of the Lowry-Brønsted theory.",
+    memo="* $\\checkmark\\checkmark$ (It is a) proton / $\\text{H}_3\\text{O}^+$ (ion) / $\\text{H}^+$ (ion) donor.\n*(Afrik: (Dit is 'n) proton/H3O+-(ioon)/H+-(ioon)skenker).* ",
+    final_answer="A proton ($\\text{H}^+$ ion) donor."
+)
+
+# 7.1.2
+add_item(
+    q_ref="7.1.2",
+    kind="question",
+    marks=2,
+    topic="Chemical Change - Ampholytes",
+    passage=q7_1_passage,
+    question="Write down the NAME or FORMULA of the substance that acts as an ampholyte in the above equations.\n\nGive a reason for the answer.",
+    memo="* $\\checkmark$ $\\text{HSO}_4^-$ / hydrogen sulphate ion\n* $\\checkmark$ ANY ONE:\n  - It acts as a base in reaction I and as an acid in reaction II.\n  - Acts as acid and base.",
+    final_answer="$\\text{HSO}_4^-$ (hydrogen sulphate ion). It acts as a base in reaction I (accepts a proton) and as an acid in reaction II (donates a proton)."
+)
+
+# 7.1.3
+add_item(
+    q_ref="7.1.3",
+    kind="question",
+    marks=3,
+    topic="Chemical Change - Acid Strength and Conductivity",
+    passage=q7_1_passage,
+    question="The conductivity of solutions of $\\text{HSO}_4^-\\text{(aq)}$ and $\\text{H}_2\\text{SO}_4\\text{(aq)}$ are compared. Which solution will have a LOWER conductivity?\n\nExplain the answer.",
+    memo="* $\\checkmark$ $\\text{HSO}_4^-$ / Reaction (solution) II\n* $\\checkmark$ Smaller $K_a$ value / weaker acid\n* $\\checkmark$ Lower ion concentration / Incompletely ionised.\n*(Afrik: HSO4- / Reaksie II; Kleiner Ka-waarde / swakker suur; Laer ioonkonsentrasie / Onvolledig geïoniseer).* ",
+    final_answer="$\\text{HSO}_4^-(\\text{aq})$. It has a much smaller $K_a$ value ($1 \\times 10^{-2}$ vs $1 \\times 10^3$), meaning it is a weaker acid that only partially ionises, resulting in a lower concentration of free ions in solution to conduct electricity."
+)
+
+q7_2_passage = (
+    "The pH of a hydrochloric acid solution, $\\text{HC}\\ell\\text{(aq)}$, is $1{,}02$ at $25\\ ^\\circ\\text{C}$.\n\n"
+    "This $\\text{HC}\\ell$ solution reacts with sodium carbonate, $\\text{Na}_2\\text{CO}_3$, according to the following balanced equation:\n"
+    "$$2\\text{HC}\\ell\\text{(aq)} + \\text{Na}_2\\text{CO}_3\\text{(aq)} \\rightarrow 2\\text{NaC}\\ell\\text{(aq)} + \\text{CO}_2\\text{(g)} + \\text{H}_2\\text{O(\\ell)}$$\n\n"
+    "$50\\text{ cm}^3$ of the $\\text{HC}\\ell$ solution is added to $25\\text{ cm}^3$ of a $0{,}075\\text{ mol}\\cdot\\text{dm}^{-3}\\ \\text{Na}_2\\text{CO}_3$ solution."
+)
+
+# 7.2.1
+add_item(
+    q_ref="7.2.1",
+    kind="question",
+    marks=3,
+    topic="Chemical Change - pH and Acid Concentration",
+    passage=q7_2_passage,
+    question="Calculate the concentration of the $\\text{HC}\\ell\\text{(aq)}$.",
+    memo="* $\\checkmark$ $\\text{pH} = -\\log[\\text{H}_3\\text{O}^+]$\n* $\\checkmark$ $1{,}02 = -\\log[\\text{H}_3\\text{O}^+]$ (or $[\\text{H}_3\\text{O}^+] = 10^{-1{,}02}$)\n* $\\checkmark$ $[\\text{HC}\\ell] = [\\text{H}_3\\text{O}^+] = 0{,}0955\\text{ mol}\\cdot\\text{dm}^{-3}$ (or $0{,}096\\text{ mol}\\cdot\\text{dm}^{-3}$ / $0{,}1\\text{ mol}\\cdot\\text{dm}^{-3}$)",
+    final_answer="$0{,}0955\\text{ mol}\\cdot\\text{dm}^{-3}$ (or $0{,}096\\text{ mol}\\cdot\\text{dm}^{-3}$)"
+)
+
+# 7.2.2
+add_item(
+    q_ref="7.2.2",
+    kind="question",
+    marks=8,
+    topic="Chemical Change - Stoichiometry and Excess Reactant Concentration",
+    passage=q7_2_passage,
+    question="Calculate the concentration of the EXCESS $\\text{HC}\\ell$ in the new solution.",
+    memo=(
+        "* $\\checkmark$ Formula: $c = \\frac{n}{V}$ (or $\\frac{c_a V_a}{c_b V_b} = \\frac{n_a}{n_b}$)\n"
+        "* $\\checkmark$ Calculate $n(\\text{Na}_2\\text{CO}_3) = cV = 0{,}075 \\times 0{,}025 = 0{,}001875\\text{ mol}$ ($1{,}875 \\times 10^{-3}\\text{ mol}$)\n"
+        "* $\\checkmark$ Calculate $n(\\text{HC}\\ell)_{\\text{initial}} = cV = 0{,}0955 \\times 0{,}050 = 0{,}004775\\text{ mol}$ (or $0{,}096 \\times 0{,}050 = 0{,}0048\\text{ mol}$)\n"
+        "* $\\checkmark$ Use mole ratio: $n(\\text{HC}\\ell)_{\\text{used}} = 2 \\times n(\\text{Na}_2\\text{CO}_3) = 2(0{,}001875) = 0{,}00375\\text{ mol}$ (or $0{,}0038\\text{ mol}$)\n"
+        "* $\\checkmark\\checkmark$ $n(\\text{HC}\\ell)_{\\text{excess}} = n(\\text{HC}\\ell)_{\\text{initial}} - n(\\text{HC}\\ell)_{\\text{used}} = 0{,}00475 - 0{,}0038 = 0{,}00095\\text{ mol}$ (or $0{,}004775 - 0{,}00375 = 0{,}001025\\text{ mol}$)\n"
+        "* $\\checkmark$ Substitute total volume $V = 50 + 25 = 75\\text{ cm}^3 = 0{,}075\\text{ dm}^3$ into $c = \\frac{n}{V}$\n"
+        "* $\\checkmark$ Final answer: $c = \\frac{0{,}00095}{0{,}075} = 0{,}013\\text{ mol}\\cdot\\text{dm}^{-3}$ (or $0{,}014\\text{ mol}\\cdot\\text{dm}^{-3}$ / $1{,}3 \\times 10^{-2}\\text{ mol}\\cdot\\text{dm}^{-3}$; Range: $0{,}01$ to $0{,}02\\text{ mol}\\cdot\\text{dm}^{-3}$)"
+    ),
+    final_answer="$0{,}013\\text{ mol}\\cdot\\text{dm}^{-3}$ (or $0{,}014\\text{ mol}\\cdot\\text{dm}^{-3}$)"
+)
+
+# ==============================================================================
+# QUESTION 8: ELECTROCHEMICAL CELLS (GALVANIC CELL) (16 marks)
+# ==============================================================================
+
+q8_passage = (
+    "The table below shows two half-cells, A and B, used to assemble an electrochemical cell under STANDARD CONDITIONS:\n\n"
+    "| Half-cell | Cell Notation / Components |\n"
+    "|:---:|:---:|\n"
+    "| **Half-cell A** | $\\text{Cu}^{2+}\\text{(aq)} \\mid \\text{Cu(s)}$ |\n"
+    "| **Half-cell B** | $\\text{Ag}^+\\text{(aq)} \\mid \\text{Ag(s)}$ |"
+)
+
+# 8.1
+add_item(
+    q_ref="8.1",
+    kind="question",
+    marks=1,
+    topic="Electrochemical Reactions - Galvanic Cells",
+    passage=q8_passage,
+    question="State the energy conversion that takes place in this cell.",
+    memo="* $\\checkmark$ Chemical (energy) to electrical (energy)\n*(Afrik: Chemiese energie na elektriese energie).* ",
+    final_answer="Chemical energy to electrical energy"
+)
+
+# 8.2
+add_item(
+    q_ref="8.2",
+    kind="question",
+    marks=4,
+    topic="Electrochemical Reactions - Standard Conditions and Solution Preparation",
+    passage=q8_passage,
+    question="Calculate the mass of silver nitrate, $\\text{AgNO}_3$, used to prepare $150\\text{ cm}^3$ of the electrolyte solution in half-cell B.",
+    memo=(
+        "* $\\checkmark$ Any formula: $c = \\frac{m}{MV}$ or $n = cV$ and $m = nM$\n"
+        "* $\\checkmark$ Substitute $c = 1\\text{ mol}\\cdot\\text{dm}^{-3}$ (standard condition)\n"
+        "* $\\checkmark$ Substitute $M = 170\\text{ g}\\cdot\\text{mol}^{-1}$ [or $108 + 14 + 3(16)$] and $V = 0{,}15\\text{ dm}^3$\n"
+        "* $\\checkmark$ Final answer: $25{,}50\\text{ g}$\n\n"
+        "Calculation:\n"
+        "$$n = c \\times V = (1)(0{,}15) = 0{,}15\\text{ mol}$$\n"
+        "$$m = n \\times M = (0{,}15)(170) = 25{,}50\\text{ g}$$"
+    ),
+    final_answer="$25{,}50\\text{ g}$"
+)
+
+# 8.3
+add_item(
+    q_ref="8.3",
+    kind="question",
+    marks=2,
+    topic="Electrochemical Reactions - Oxidation and Reduction Definitions",
+    passage=q8_passage,
+    question="Define the term reducing agent.",
+    memo="* $\\checkmark\\checkmark$ ANY ONE:\n  - A substance that loses/donates electrons.\n  - A substance that is oxidised.\n  - A substance whose oxidation number increases.\n*(Afrik: 'n Stof wat elektrone verloor/skenk / geoksideer word / waarvan die oksidasiegetal toeneem).* ",
+    final_answer="A substance that loses (or donates) electrons (or a substance that is oxidised)."
+)
+
+# 8.4.1
+add_item(
+    q_ref="8.4.1",
+    kind="question",
+    marks=1,
+    topic="Electrochemical Reactions - Identifying Reducing Agent",
+    passage=q8_passage,
+    question="Write down the NAME or FORMULA of the reducing agent.",
+    memo="* $\\checkmark$ Copper / $\\text{Cu}$ / Koper",
+    final_answer="Copper (or $\\text{Cu}$)"
+)
+
+# 8.4.2
+add_item(
+    q_ref="8.4.2",
+    kind="question",
+    marks=3,
+    topic="Electrochemical Reactions - Overall Cell Reaction",
+    passage=q8_passage,
+    question="Write down the balanced equation for the reaction that takes place.",
+    memo=(
+        "* $\\checkmark$ Reactants: $\\text{Cu(s)} + 2\\text{Ag}^+\\text{(aq)}$\n"
+        "* $\\checkmark$ Products: $\\text{Cu}^{2+}\\text{(aq)} + 2\\text{Ag(s)}$\n"
+        "* $\\checkmark$ Balancing: $\\text{Bal}$\n"
+        "$$\\text{Cu(s)} + 2\\text{Ag}^+\\text{(aq)} \\rightarrow \\text{Cu}^{2+}\\text{(aq)} + 2\\text{Ag(s)}$$\n"
+        "*(ACCEPT: $\\text{Cu(s)} + 2\\text{AgNO}_3\\text{(aq)} \\rightarrow \\text{Cu(NO}_3)_2\\text{(aq)} + 2\\text{Ag(s)}$).\n"
+        "*(Note: Ignore double arrows and phases. If electrons are not cancelled: minus 1 mark).* "
+    ),
+    final_answer="$$\\text{Cu(s)} + 2\\text{Ag}^+\\text{(aq)} \\rightarrow \\text{Cu}^{2+}\\text{(aq)} + 2\\text{Ag(s)}$$"
+)
+
+# 8.5
+add_item(
+    q_ref="8.5",
+    kind="question",
+    marks=4,
+    topic="Electrochemical Reactions - Standard Cell Potential (EMF)",
+    passage=q8_passage,
+    question="Calculate the initial emf of this cell.",
+    memo=(
+        "* $\\checkmark$ Formula: $E^\\theta_{\\text{cell}} = E^\\theta_{\\text{reduction}} - E^\\theta_{\\text{oxidation}}$ (or $E^\\theta_{\\text{cathode}} - E^\\theta_{\\text{anode}}$)\n"
+        "* $\\checkmark$ Substitution: $0{,}80\\text{ V}$\n"
+        "* $\\checkmark$ Substitution: $0{,}34\\text{ V}$\n"
+        "* $\\checkmark$ Final answer: $0{,}46\\text{ V}$\n\n"
+        "Calculation:\n"
+        "$$E^\\theta_{\\text{cell}} = 0{,}80 - 0{,}34 = 0{,}46\\text{ V}$$\n"
+        "*(Option 2 using half-reactions: $2\\text{Ag}^+ + 2\\text{e}^- \\rightarrow 2\\text{Ag}$ ($E^\\theta = 0{,}80\\text{ V}$), $\\text{Cu} \\rightarrow \\text{Cu}^{2+} + 2\\text{e}^-$ ($E^\\theta = -0{,}34\\text{ V}$), $E^\\theta_{\\text{cell}} = +0{,}46\\text{ V}$).* "
+    ),
+    final_answer="$0{,}46\\text{ V}$"
+)
+
+# 8.6
+add_item(
+    q_ref="8.6",
+    kind="question",
+    marks=1,
+    topic="Electrochemical Reactions - Concentration and Cell Potential",
+    passage=q8_passage,
+    question="How will the emf of the cell be affected if the concentration of the copper ions in half-cell A increases?\n\nChoose from INCREASES, DECREASES or REMAINS THE SAME.",
+    memo="* $\\checkmark$ Decreases\n*(Afrik: Afneem).* ",
+    final_answer="Decreases"
+)
+
+# ==============================================================================
+# QUESTION 9: ELECTROLYTIC CELL (ELECTROPLATING) (11 marks)
+# ==============================================================================
+
+q9_passage = (
+    "The diagram below shows a simplified electrolytic cell used to electroplate a ring:\n"
+    "- A DC power source has its terminals connected to two electrodes in an electrolytic bath.\n"
+    "- Anode: Pure chromium metal electrode.\n"
+    "- Cathode: A metal ring to be electroplated.\n"
+    "- Electrolyte: Concentrated chromium(III) ion solution, $\\text{Cr}^{3+}\\text{(aq)}$."
+)
+
+# 9.1
+add_item(
+    q_ref="9.1",
+    kind="question",
+    marks=2,
+    topic="Electrochemical Reactions - Electrolyte Definition",
+    passage=q9_passage,
+    question="Define the term electrolyte.",
+    memo="* $\\checkmark\\checkmark$ ANY ONE: [2 or 0 marks]\n  - A substance whose (aqueous) solution contains ions.\n  - A substance that dissolves in water to give a solution that conducts electricity.\n  - A substance that forms ions in water / when melted.\n  - A solution that conducts electricity through the movement of ions.\n*(Afrik: 'n Stof waarvan die oplossing ione bevat / in water oplos om 'n oplossing te vorm wat elektrisiteit gelei / ione vorm in water of wanneer gesmelt).* ",
+    final_answer="A substance that dissolves in water to give a solution that conducts electricity (or a solution that conducts electricity through the movement of ions)."
+)
+
+# 9.2
+add_item(
+    q_ref="9.2",
+    kind="question",
+    marks=2,
+    topic="Electrochemical Reactions - Anode and Cathode Identification",
+    passage=q9_passage,
+    question="Is the pure chromium metal the ANODE or the CATHODE of the cell? Give a reason for the answer.",
+    memo="* $\\checkmark$ Anode\n* $\\checkmark$ Chromium is oxidised / Oxidation takes place (at the anode) / Chromium (it) loses electrons / Mass decreases / $\\text{Cr} \\rightarrow \\text{Cr}^{3+} + 3\\text{e}^-$\n*(Afrik: Anode; Chroom word geoksideer / Oksidasie vind plaas / Chroom verloor elektrone / Massa neem af).* ",
+    final_answer="Anode. Chromium is oxidised (loses electrons: $\\text{Cr} \\rightarrow \\text{Cr}^{3+} + 3\\text{e}^-$)."
+)
+
+# 9.3
+add_item(
+    q_ref="9.3",
+    kind="question",
+    marks=2,
+    topic="Electrochemical Reactions - Half-Reactions in Electroplating",
+    passage=q9_passage,
+    question="Write down the half-reaction that takes place at the ring.",
+    memo="* $\\checkmark\\checkmark$ $\\text{Cr}^{3+}\\text{(aq)} + 3\\text{e}^- \\rightarrow \\text{Cr(s)}$\n*(Ignore phases. If single arrow in wrong direction: 0/2. If reversible double arrows: 1/2. If charge omitted on Cr3+: Max 1/2).* ",
+    final_answer="$$\\text{Cr}^{3+}\\text{(aq)} + 3\\text{e}^- \\rightarrow \\text{Cr(s)}$$"
+)
+
+# 9.4
+add_item(
+    q_ref="9.4",
+    kind="question",
+    marks=5,
+    topic="Electrochemical Reactions - Stoichiometry of Electrolysis (Faraday's Law)",
+    passage=q9_passage,
+    question="Calculate the total charge transferred when the mass of the pure chromium changes by $2\\text{ g}$.",
+    memo=(
+        "* $\\checkmark$ Substitute $52\\text{ g}\\cdot\\text{mol}^{-1}$ in $n = \\frac{m}{M}$: $n = \\frac{2}{52} = 0{,}038\\text{ mol}$ (or $0{,}03846\\text{ mol}$)\n"
+        "* $\\checkmark$ Use mole ratio: $n(\\text{electrons}) : n(\\text{Cr}) = 3 : 1$ ($n(\\text{e}^-) = 3(0{,}03846) = 0{,}115\\text{ mol}$)\n"
+        "* $\\checkmark$ Number of electrons $= n \\times 6{,}02 \\times 10^{23} = 0{,}11538 \\times 6{,}02 \\times 10^{23} = 6{,}946 \\times 10^{22}$\n"
+        "* $\\checkmark$ Total charge $Q = \\text{number of electrons} \\times 1{,}6 \\times 10^{-19} = (6{,}946 \\times 10^{22})(1{,}6 \\times 10^{-19})$\n"
+        "* $\\checkmark$ Final answer: $11\\,113{,}85\\text{ C}$ (Range: $11\\,076{,}8$ to $11\\,580\\text{ C}$; or using Faraday's constant: $0{,}11538 \\times 96\\,500 = 11\\,134{,}62\\text{ C}$)"
+    ),
+    final_answer="$11\\,113{,}85\\text{ C}$"
+)
+
+# ==============================================================================
+# VALIDATION & DUAL EXPORT
+# ==============================================================================
+
+print(f"Total items generated: {len(items)}")
+
+total_marks = sum(it["marks"] for it in items)
+print(f"Total marks: {total_marks} (Expected: 150)")
+assert total_marks == 150, f"Total marks mismatch: {total_marks} != 150"
+
+# Check KaTeX balance in all strings
+def check_katex_balance(text, ref, field):
+    # Check for unescaped $ signs
+    # Double dollars
+    # A simple way to check dollar parity: count non-escaped $
+    # In math strings, \$ is rare, but let's count all '$'
+    cnt = text.count('$')
+    if cnt % 2 != 0:
+        print(f"ERROR: Odd number of $ ({cnt}) in {ref} field '{field}'")
+        print(f"Content:\n{text}\n")
+        return False
+    # Check for prohibited patterns like \text{^\circ C}
+    if r"\text{^\circ C}" in text or r"\text{^\circ" in text:
+        print(f"ERROR: Prohibited Celsius pattern in {ref} field '{field}'")
+        return False
+    # Check for decimal comma without braces in math mode e.g. $0,15$
+    # Regex: within $...$, look for digit,comma,digit without braces
+    math_spans = re.findall(r'\$(.*?)\$', text)
+    for span in math_spans:
+        bad_comma = re.search(r'\d,\d', span)
+        if bad_comma:
+            print(f"WARNING: Potential bare decimal comma in {ref} field '{field}': '{span}'")
+    return True
+
+all_valid = True
+for it in items:
+    for field in ["passage", "question", "memo", "final_answer"]:
+        val = it[field]
+        if not check_katex_balance(val, it["question_ref"], field):
+            all_valid = False
+
+assert all_valid, "KaTeX syntax validation failed!"
+print("KaTeX syntax validation PASSED!")
+
+# Write output files
+output_dir1 = "workspace/items/physical_sciences"
+output_file1 = os.path.join(output_dir1, f"{SOURCE_ID}.jsonl")
+output_dir2 = "workspace/items"
+output_file2 = os.path.join(output_dir2, f"{SOURCE_ID}.jsonl")
+
+os.makedirs(output_dir1, exist_ok=True)
+os.makedirs(output_dir2, exist_ok=True)
+
+with open(output_file1, "w", encoding="utf-8") as f1:
+    for it in items:
+        f1.write(json.dumps(it, ensure_ascii=False) + "\n")
+
+with open(output_file2, "w", encoding="utf-8") as f2:
+    for it in items:
+        f2.write(json.dumps(it, ensure_ascii=False) + "\n")
+
+print(f"Successfully wrote {len(items)} items to:")
+print(f"  - {output_file1}")
+print(f"  - {output_file2}")

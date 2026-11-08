@@ -79,13 +79,13 @@ $^1$ *symbiotic – interdependent/mutual*
 
 #### TEXT B
 
-[DIAGRAM: A 6-panel cartoon strip. 
-- Panel 1: A bearded man sitting on a sofa looking at his phone, saying "I'M GOING OUT." A robot standing nearby asks "WHERE?". The man replies "NOWHERE."
-- Panel 2: The robot leans in, asking "IS THERE A PARTY AT THIS 'NOWHERE'?" The man looks annoyed, saying "WHAT??".
-- Panel 3: The man responds, "I'M JUST ASKING IF YOU'RE GOING TO A PARTY THAT YOU DON'T WANT ME TO KNOW ABOUT."
-- Panel 4: The man throws his hands up in frustration, shouting "MO-OM!" while the robot looks on innocently.
-- Panel 5: The robot replies, "YETH."
-- Panel 6: The man sits back down with his phone, thinking. The robot looks at the reader with a text bubble: "Does mom always know the truth?" with a thought bubble from the man saying "I'd be lying if I said she doesn't."]
+[DIAGRAM: A 6-panel cartoon strip depicting a discussion between a bearded human software engineer and an autonomous humanoid robot at a social networking event.
+- Panel 1: A bearded man with glasses holding a drink, wearing a lanyard badge, stands at a high table with snacks and drinks beside a tall white humanoid robot. Shadows of other attendees chat in the background. Man: "We know that some day you machines will write better code than us humans..." Robot: "Oh... I don't know... maybe..."
+- Panel 2: The man sips from his drink, gesturing: "Come on, algorithms are so powerful nowadays! AI^2 will soon be able to organise everything and take much better decisions than we can, us human coders will become obsolete!" Robot: "Yeah"
+- Panel 3: The man gestures with an open palm: "For example, take the well-known ethical dilemma with self-driving cars. If an accident is unavoidable and a choice has to be made between injuring the driver or a pedestrian, an AI can make a decision in a fraction of a second. It's much better for you to take care of that" Robot: "Yes, that's a good example"
+- Panel 4: The robot speaks cheerfully with large, round eyes and a smile: "In fact, after a quick analysis, considering that self-driving cars are currently quite rare, and considering the current world population, it would seem that the best outcome would be to ensure the least damage to the car, regardless of the humans" Robot: "Saving the car is more important"
+- Panel 5: Wordless panel. The man stares sideways at the robot in stunned disbelief and frozen shock, drink held mid-air. The robot stands innocently beside him.
+- Panel 6: The man takes another nervous sip, looking alarmed: "Hmm, I think maybe we humans should code this part ourselves..." Robot smiling pleasantly: "Hmm, maybe..."]
 
 *[Source: www.twitter.com]*
 

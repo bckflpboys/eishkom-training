@@ -1,18 +1,228 @@
-=== page 1 ===
+# SENIOR CERTIFICATE EXAMINATIONS/NATIONAL SENIOR CERTIFICATE EXAMINATIONS
 
-=== page 2 ===
+## GRADE 12
 
-=== page 3 ===
+### MATHEMATICS P1
+#### MAY/JUNE 2023
 
-=== page 4 ===
+---
 
-=== page 5 ===
+**MARKS: 150**  
+**TIME: 3 hours**
 
-=== page 6 ===
+This question paper consists of 9 pages and 1 information sheet.
 
-=== page 7 ===
+---
 
-=== page 8 ===
+## INSTRUCTIONS AND INFORMATION
 
-=== page 9 ===
+Read the following instructions carefully before answering the questions.
 
+1. This question paper consists of 10 questions.
+2. Answer ALL the questions.
+3. Number the answers correctly according to the numbering system used in this question paper.
+4. Clearly show ALL calculations, diagrams, graphs, etc. that you have used in determining your answers.
+5. Answers only will NOT necessarily be awarded full marks.
+6. You may use an approved scientific calculator (non-programmable and non-graphical), unless stated otherwise.
+7. If necessary, round off answers to TWO decimal places, unless stated otherwise.
+8. Diagrams are NOT necessarily drawn to scale.
+9. An information sheet with formulae is included at the end of the question paper.
+10. Write neatly and legibly.
+
+---
+
+### QUESTION 1
+
+1.1 Solve for $x$:
+    1.1.1 $x^2 - 7x + 12 = 0$ (3)
+    1.1.2 $x(3x + 5) = 1$ (correct to TWO decimal places) (4)
+    1.1.3 $x^2 < -2x + 15$ (4)
+    1.1.4 $\sqrt{2(1 - x)} = x - 1$ (4)
+
+1.2 Solve for $x$ and $y$ simultaneously:
+    $$3^{x+y} = 27 \quad \text{and} \quad x^2 + y^2 = 17$$ (6)
+
+1.3 Determine, without the use of a calculator, the value of:
+    $$\frac{1}{\sqrt{1} + \sqrt{2}} + \frac{1}{\sqrt{2} + \sqrt{3}} + \frac{1}{\sqrt{3} + \sqrt{4}} + \dots + \frac{1}{\sqrt{99} + \sqrt{100}}$$ (3)
+**[24]**
+
+---
+
+### QUESTION 2
+
+2.1 Given the geometric series: $\frac{1}{5} + \frac{1}{15} + \frac{1}{45} + \dots$
+    2.1.1 Is this a convergent geometric series? Justify your answer with the necessary calculations. (2)
+    2.1.2 Calculate the sum to infinity of this series. (2)
+
+2.2 An arithmetic and a geometric sequence are combined to form the pattern, which is given by:
+    $$P_n = x \ ; \ \frac{1}{3} \ ; \ 2x \ ; \ \frac{1}{9} \ ; \ 3x \ ; \ \frac{1}{27} \ ; \ \dots$$
+    2.2.1 Write down the next TWO terms of the pattern. (2)
+    2.2.2 Determine the general term ($T_n$) for the odd terms of this pattern. Write down your answer in terms of $x$. (2)
+    2.2.3 Calculate the value of $P_{26}$. (3)
+    2.2.4 If $\sum_{n=1}^{21} P_n = 33{,}5$, determine the value of $x$. (6)
+**[17]**
+
+---
+
+### QUESTION 3
+
+A quadratic sequence has the following properties:
+• The second difference is 10.
+• The first two terms are equal, i.e. $T_1 = T_2$.
+• $T_1 + T_2 + T_3 = 28$
+
+3.1 Show that the general term of the sequence is $T_n = 5n^2 - 15n + 16$. (6)
+3.2 Is 216 a term in this sequence? Justify your answer with the necessary calculations. (3)
+**[9]**
+
+---
+
+### QUESTION 4
+
+4.1 Given the function $p(x) = \left(\frac{1}{3}\right)^x$.
+    4.1.1 Is $p$ an increasing or decreasing function? (1)
+    4.1.2 Determine $p^{-1}$, the inverse of $p$, in the form $y = \dots$ (2)
+    4.1.3 Write down the domain of $p^{-1}$. (1)
+    4.1.4 Write down the equation of the asymptote of $p(x) - 5$. (1)
+
+4.2 Given: $f(x) = \frac{4}{x - 1} + 2$
+    4.2.1 Write down the equations of the asymptotes of $f$. (2)
+    4.2.2 Calculate the $x$-intercept of $f$. (2)
+    4.2.3 Sketch the graph of $f$, label all asymptotes and indicate the intercepts with the axes. (4)
+    4.2.4 Use your graph to determine the values of $x$ for which $\frac{4}{x - 1} \geq -2$. (2)
+    4.2.5 Determine the equation of the axis of symmetry of $f(x - 2)$, that has a negative gradient. (3)
+**[18]**
+
+---
+
+### QUESTION 5
+
+The graphs of the functions $f(x) = -(x + 3)^2 + 4$ and $g(x) = x + 5$ are drawn below.
+The graphs intersect at A and B.
+
+[DIAGRAM: Parabola f and straight line g drawn on the Cartesian plane.
+Parabola f opens downwards with turning point in the second quadrant at (-3, 4) above the x-axis, intersects the x-axis at (-5, 0) and (-1, 0), and y-axis at (0, -5).
+Straight line g has positive gradient 1 and y-intercept at (0, 5).
+Line g intersects parabola f at point A (-5, 0) on the negative x-axis and point B (-2, 3) in the second quadrant.
+The origin is O.]
+
+5.1 Write down the coordinates of the turning point of $f$. (2)
+5.2 Write down the range of $f$. (1)
+5.3 Show that the $x$-coordinates of A and B are $-5$ and $-2$ respectively. (4)
+5.4 Hence, determine the values of $c$ for which the equation $-(x + c + 3)^2 + 4 = (x + c) + 5$ has ONE negative and ONE positive root. (2)
+5.5 The maximum distance between $f$ and $g$ in the interval $x_A < x < x_B$ is $k$.
+    If $h(x) = g(x) + k$, determine the equation of $h$ in the form $h(x) = \dots$ (5)
+**[14]**
+
+---
+
+### QUESTION 6
+
+6.1 A company bought a photocopier for R150 000 on 1 July 2022. They will use the old photocopier as a trade-in when they replace it with a similar new photocopier in 5 years' time on 30 June 2027.
+    6.1.1 The average rate of inflation over the next 5 years will be 6,5% p.a. Determine the price of a similar new photocopier in 5 years' time. (2)
+    6.1.2 Calculate the trade-in value of the old photocopier after 5 years, if it depreciates at a rate of 9% p.a. on a straight-line method. (2)
+    6.1.3 The company set up a sinking fund to cover the replacement cost of the new photocopier. The fund earns interest at the rate of 7,85% p.a., compounded monthly. The company made its first monthly deposit on 31 July 2022 and will continue to do so until 31 May 2027, one month prior to the new photocopier being bought. How much should be deposited at the end of each month so that the company will be able to buy the new photocopier? (4)
+
+6.2 Today, Andrew borrowed R200 000 from a bank. The bank charges interest at 5,25% p.a., compounded quarterly. Andrew will make repayments of R6 000 at the end of every 3 months. His first repayment will be made in 3 months from now. How long, in years, will it take Andrew to settle the loan? (5)
+**[13]**
+
+---
+
+### QUESTION 7
+
+7.1 Determine $f'(x)$ from first principles if $f(x) = -2x^2 - 1$. (5)
+7.2 Determine:
+    7.2.1 $f'(x)$, if it is given that $f(x) = -2x^3 + 3x^2$ (2)
+    7.2.2 $\frac{dy}{dx}$ if $y = 2x + \frac{1}{\sqrt{4x}}$ (4)
+7.3 The graph $y = f'(x)$ has a minimum turning point at $(1 ; -3)$.
+    Determine the values of $x$ for which $f$ is concave down. (2)
+**[13]**
+
+---
+
+### QUESTION 8
+
+Given: $f(x) = x^3 + 4x^2 - 7x - 10$
+
+8.1 Write down the $y$-intercept of $f$. (1)
+8.2 Show that 2 is a root of the equation $f(x) = 0$. (2)
+8.3 Hence, factorise $f(x)$ completely. (3)
+8.4 If it is further given that the coordinates of the turning points are approximately at $(0{,}7 ; -12{,}6)$ and $(-3{,}4 ; 20{,}8)$, draw a sketch graph of $f$ and label all intercepts and turning points. (3)
+8.5 Use your graph to determine the values of $x$ for which:
+    8.5.1 $f'(x) < 0$ (2)
+    8.5.2 The gradient of a tangent to $f$ will be a minimum (2)
+    8.5.3 $f'(x) \cdot f''(x) \leq 0$ (3)
+**[16]**
+
+---
+
+### QUESTION 9
+
+A wire, 12 metres long, is cut into two pieces. One part is bent to form an equilateral triangle and the other a square. A side of the triangle has a length of $2x$ metres.
+
+9.1 Write down the length of a side of the square in terms of $x$. (2)
+9.2 If this square is now used as the base of a rectangular prism with a height of $4x$ metres, determine the maximum volume of the rectangular prism. (7)
+**[9]**
+
+---
+
+### QUESTION 10
+
+10.1 A group of people participated in a trial to test a new headache pill.
+     • 50% of the participants received the headache pill.
+     • 50% of the participants received a sugar pill.
+     • $\frac{2}{5}$ of the group receiving the headache pill were not cured.
+     • $\frac{3}{10}$ of the group receiving the sugar pill were cured.
+     10.1.1 Represent the given information on a tree diagram. Indicate on your diagram the probability associated with each branch as well as the outcomes. (3)
+     10.1.2 Determine the probability that a person chosen at random from the group will NOT be cured. (2)
+
+10.2 Three events, A, B and C, are considered:
+     $$P(A) = \frac{2}{5}, \quad P(B) = \frac{1}{4} \quad \text{and} \quad P(A \text{ or } B) = \frac{13}{20}.$$
+     10.2.1 Are events A and B mutually exclusive? Support your answer with the necessary calculations. (2)
+     10.2.2 Determine $P(\text{only } C)$, if it is further given that
+            $$P(A \text{ or } C) = \frac{7}{10}, \quad P(A \text{ and } C) = \frac{2}{5} \quad \text{and} \quad 2P(B \text{ and } C) = P(A \text{ and } C).$$ (3)
+     10.2.3 Determine the probability that events A, B or C do NOT take place. (2)
+
+10.3 Seven friends (4 boys and 3 girls) want to stand in a straight line next to each other to take a photo.
+     10.3.1 In how many ways can the 3 girls stand next to each other in the photo? (2)
+     10.3.2 In the next photo, determine the probability that Selwyn (a boy) and Lindiwe (a girl) will NOT stand next to each other in the photo. (3)
+**[17]**
+
+**TOTAL: 150**
+
+---
+
+### INFORMATION SHEET
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+$$A = P(1 + ni) \quad A = P(1 - ni) \quad A = P(1 - i)^n \quad A = P(1 + i)^n$$
+
+$$T_n = a + (n - 1)d \quad S_n = \frac{n}{2}[2a + (n - 1)d]$$
+
+$$T_n = ar^{n-1} \quad S_n = \frac{a(r^n - 1)}{r - 1} ; r \neq 1 \quad S_\infty = \frac{a}{1 - r} ; -1 < r < 1$$
+
+$$F = \frac{x[(1 + i)^n - 1]}{i} \quad P = \frac{x[1 - (1 + i)^{-n}]}{i}$$
+
+$$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} \quad M\left(\frac{x_1 + x_2}{2} ; \frac{y_1 + y_2}{2}\right)$$
+
+$$y = mx + c \quad y - y_1 = m(x - x_1) \quad m = \frac{y_2 - y_1}{x_2 - x_1} \quad m = \tan \theta$$
+
+$$(x - a)^2 + (y - b)^2 = r^2$$
+
+$$\text{In } \triangle ABC: \quad \frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}$$
+$$a^2 = b^2 + c^2 - 2bc \cos A$$
+$$\text{area } \triangle ABC = \frac{1}{2}ab \sin C$$
+
+$$\sin(\alpha + \beta) = \sin\alpha\cos\beta + \cos\alpha\sin\beta \quad \sin(\alpha - \beta) = \sin\alpha\cos\beta - \cos\alpha\sin\beta$$
+$$\cos(\alpha + \beta) = \cos\alpha\cos\beta - \sin\alpha\sin\beta \quad \cos(\alpha - \beta) = \cos\alpha\cos\beta + \sin\alpha\sin\beta$$
+
+$$\cos 2\alpha = \begin{cases} \cos^2\alpha - \sin^2\alpha \\ 1 - 2\sin^2\alpha \\ 2\cos^2\alpha - 1 \end{cases} \quad \sin 2\alpha = 2\sin\alpha\cos\alpha$$
+
+$$\bar{x} = \frac{\sum x}{n} \quad \sigma^2 = \frac{\sum_{i=1}^n (x_i - \bar{x})^2}{n}$$
+
+$$P(A) = \frac{n(A)}{n(S)} \quad P(A \text{ or } B) = P(A) + P(B) - P(A \text{ and } B)$$
+
+$$\hat{y} = a + bx \quad b = \frac{\sum (x - \bar{x})(y - \bar{y})}{\sum (x - \bar{x})^2}$$

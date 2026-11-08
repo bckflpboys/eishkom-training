@@ -567,4 +567,98 @@ $$\text{Total surface area} = 2\ell w + 2wh + 2\ell h\text{but: } \ell = 3w\text
 ---
 
 9.2 
-$$5 = 3w^2 hh = \frac{5}{3w^2}C = 90w^2 + 48whC(w) = 90w^2 + 48w\left(\frac{5}{3w^2}\right)= 90w^2 + 80w^{-1}C'(w) = 180w - 80w^{-2}18$$
+5 = 3w^2 h
+h = \frac{5}{3w^2}
+C = 90w^2 + 48wh
+C(w) = 90w^2 + 48w\left(\frac{5}{3w^2}\right)
+C(w) = 90w^2 + 80w^{-1}
+C'(w) = 180w - 80w^{-2}
+0 = 180w - 80w^{-2}
+180w^3 - 80 = 0
+w^3 = \frac{80}{180}
+w = \sqrt[3]{\frac{80}{180}} = 0{,}76\text{ m}
+
+* $\checkmark h = \frac{5}{3w^2}$
+* $\checkmark$ substitution
+* $\checkmark C(w) = 90w^2 + 80w^{-1}$
+* $\checkmark$ derivative
+* $\checkmark$ equating derivative to zero
+* $\checkmark$ value of $
+**(6)**
+
+[10]
+
+---
+
+### QUESTION / VRAAG 10
+
+10.1 
+10^{10} = 10\ 000\ 000\ 000
+
+* $\checkmark\checkmark$ answer
+**(2)**
+
+---
+
+10.2.1 
+\text{Area code: } 8 \times 10 \times 10
+\text{Exchange code: } 8 \times 8 \times 10
+\text{Number: } 2 \times 10 \times 10 \times 10
+
+\text{No. of valid 10-digit numbers} = (8 \times 10 \times 10) \times (8 \times 8 \times 10) \times (2 \times 10 \times 10 \times 10)
+= 800 \times 640 \times 2000 = 1{,}024 \times 10^9 \text{ or } 1\ 024\ 000\ 000
+
+* $\checkmark 8 \times 10 \times 10 \text{ or } 8 \times 8 \times 10$
+* $\checkmark 2 \times 10 \times 10 \times 10$
+* $\checkmark 1{,}024 \times 10^9\text{ (A)}$
+**(3)**
+
+---
+
+10.2.2 
+\text{Probability} = \frac{1{,}024 \times 10^9}{10^{10}} = 0{,}1024 \text{ or } \frac{64}{625} \text{ or } 10{,}24\%
+
+* $\checkmark \frac{1{,}024 \times 10^9}{10^{10}}$
+* $\checkmark$ answer
+**(2)**
+
+[7]
+
+---
+
+### QUESTION / VRAAG 11
+
+11.1 
+P(\text{Bull's eye first shot and second shot}) = 0{,}5 \times 0{,}5 = 0{,}25 \text{ or } \frac{1}{4}
+
+* $\checkmark \text{two } 0{,}5\text{'s}$
+* $\checkmark 0{,}5 \times 0{,}5$
+**(2)**
+
+---
+
+11.2 
+P(\text{Bull's eye at least twice in 3 shots}) = (0{,}5 \times 0{,}5 \times 0{,}5) + (0{,}5 \times 0{,}5 \times 0{,}5) + (0{,}5 \times 0{,}5 \times 0{,}5) + (0{,}5 \times 0{,}5 \times 0{,}5)
+= 4 \times (0{,}5)^3 = 0{,}125 + 0{,}125 + 0{,}125 + 0{,}125 = 0{,}5 \text{ or } \frac{1}{2}
+
+* $\checkmark 0{,}5 \times 0{,}5 \times 0{,}5$
+* $\checkmark \text{four events}$
+* $\checkmark \text{answer (A)}$
+**(3)**
+
+---
+
+11.3 
+Person shoots first:
+P = 0{,}5 + (0{,}5)^3 + (0{,}5)^5 + \dots
+P = \frac{a}{1 - r}
+P = \frac{0{,}5}{1 - 0{,}25} = \frac{0{,}5}{0{,}75} = \frac{2}{3} \approx 0{,}67
+
+* $\checkmark 0{,}5 + (0{,}5)^3$
+* $\checkmark + (0{,}5)^5 + \dots$
+* $\checkmark P = \frac{0{,}5}{1 - 0{,}25}$
+**(3)**
+
+[8]
+
+**TOTAL: 150**

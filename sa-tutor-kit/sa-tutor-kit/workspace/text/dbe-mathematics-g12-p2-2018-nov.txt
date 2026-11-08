@@ -1,32 +1,63 @@
-=== page 1 ===
+﻿=== page 1 ===
+
+11 11 basic education Department: Basic Education REPUBLIC OF SOUTH AFRICA NATIONAL SENIOR CERTIFICATE GRADE 12 MATHEMATICS P2 NOVEMBER 2018 MARKS: 150 TIME: 3 hours This question paper consists of 15 pages, I information sheet and an answer book of 31 pages. Copyright reserved Please turn over
 
 === page 2 ===
 
+Mathematics/P2 2 NSC DBE/November 2018 INSTRUCTIONS AND INFORMATION Read the following instructions carefully before answering the questions. 1. 2. 3. 4. 5. 6. 7. 8. 9. This question paper consists of IO questions. Answer ALL the questions in the SPECIAL ANSWER BOOK provided. Clearly show ALL calculations, diagrams, graphs, etc. which you have used in determining your answers. Answers only will NOT necessarily be awarded full marks. You may use an approved scientific calculator (non-programmable and non-graphical), unless stated otherwise. If necessary, round off answers correct to TWO decimal places, unless stated otherwise. Diagrams are NOT necessarily drawn to scale. An information sheet with formulae is included at the end of the question paper. Write neatly and legibly. Copyright reserved Please turn over
+
 === page 3 ===
+
+Mathematics/P2 QUESTION 1 60 DBEfNovember 2018 NSC The cumulative frequency graph (ogive) drawn below shows the total number of 1.1 food items ordered from a menu over a period of I hour. CUMULATIVE FREQUENCY GRAPH (OGIVE) 140 130 120 110 100 90 80 70 50 40 30 20 10 10 20 30 Number of minutes so 60 I.I.I 1.1.2 1.1.3 1.1.4 1.1.5 1.1.6 Copyright reserved Write down the total number of food items ordered from the menu during this hour. Write down the modal class of the data. How long did it take to order the first 30 food items? How many food items were ordered in the last 15 minutes? Determine the 75th percentile for the data. Calculate the interquartile range ofthe data. (1) (1) (1) (2) (2) (2) Please turn over
 
 === page 4 ===
 
+Mathematics/P2 4 NSC DBE/November 2018 1.2 Reggie works part-time as a waiter at a local restaurant. The amount of money (in rands) he made in tips over a 15-day period is given below. 35 90 110 Calculate: 70 100 110 75 100 115 80 105 120 80 105 125 1.2.1 1.2.2 Copyright reserved (a) The mean of the data (b) The standard deviation of the data Mary also works part-time as a waitress at the same restaurant. Over the same 15-day period Mary collected the same mean amount in tips as Reggie, but her standard deviation was RI 4. Using the available information, comment on the: (a) Total amount in tips that they EACH collected over the 15-day period (b) Variation that EACH of them received in daily tips over this period Please turn over (2) (2) (1) [151
+
 === page 5 ===
+
+Mathematics (P2 QUESTION 2 235 5 NSC DBE/November2018 A familiar question among professional tennis players is whether the speed of a tennis serve (in kmfh) depends on the height of a player (in metres). The heights of 21 tennis players and the average speed of their serves were recorded during a tournament. The data is represented in the scatter plot below. The least squares regression line is also drawn. 255 250 245 240 230 225 220 215 210 205 1,8 1,85 SCATTER PLOT 1,95 2 2,05 2,1 2.1 2.2 2.3 2.4 Height of a player (in metres) Write down the fastest average serve speed (in klib/h) achieved in this tournament. Consider the following correlation coefficients: A. 0,93 2.2.1 2.2.2 Which ONE of the given correlation coefficients best fits the plotted data? Use the scatter plot and least squares regression line to motivate your answer to QUESTION 2.2.1. What does the data suggest about the speed of a tennis serve (in km/h) and the height of a player (in metres)? The equation ofthe regression line is given as = 27,07 + bx . Explain why, in this context, the least squares regression line CANNOT intersect the y-axis at (0 ; 27,07). (1) (1) (1) (1) (1) [51 Copyright reserved Please tum over
 
 === page 6 ===
 
+Mathematics/P2 QUESTION 3 6 NSC DBE/November 2018 In the diagram, K(— I ; 2), L and ; — I) are vertices of AKLN such that LkN = 78,690. KL intersects the x-axis at P. KL is produced. The inclination of KN is O. The coordinates of M are (-3 ;-5). 78,690 o 3.1 3.2 3.3 3.4 3.5 3.6 Calculate: 3.1.1 3.1.2 The gradient of KN The size of O, the inclination of KN Show that the gradient of KL is equal to 1. Determine the equation of the straight line KL in the form y = mx + c Calculate the length of KN. It is further given that KN = LM. 3.5.1 3.5.2 Calculate the possible coordinates of L. Deterrnine the coordinates of L if it is given that parallelogram. T is a point on KL produced. TM is drawn such that TM = LM. area of AKTN. Copyright reserved x (2) (2) (2) (2) (2) (5) KLMN is a (3) Calculate the (4) [221 Please turn over
+
 === page 7 ===
+
+Mathematics.Q2 QUESTION 4 7 NSC DBE/November 2018 In the diagram, the equation of the circle with centre F is =r2. S(6 ; 5) is a point on the circle with centre F. Another circle with centre G(m ; n) in the 4th quadrant touches the circle with centre F, at H such that FH : HG = 1 : 2. The point J lies in the first quadrant such that HJ is a common tangent to both these circles. JK is a tangent to the larger circle at K. 4.1 4.2 4.3 4.4 4.5 o G(m ; n) Write down the coordinates of F. Calculate the length of FS. Write down the length of HG. Give a reason why JH JK. Determine: x (2) (2) (1) (1) (4) (1) 4.5.1 4.5.2 4.5.3 Copyright reserved The distance FJ, with reasons, if it is given that JK 20 The equation of the circle with centre G in terms of m and n in the 2 form The coordinates of G, if it is further given that the equation of tangent JK is x = 22 (7) [181 Please turn over
 
 === page 8 ===
 
+Mathematics/P2 QUESTION 5 8 NSC DBE/November 2018 5.1 5.2 5.3 In the diagram, P(k ; 1) is a point in the 2nd quadrant and is units from the origin. R is a point on the positive x-axis and obtuse ROP= 9. x o 5.1.1 5.1.2 5.1.3 Calculate the value of k Without using a calculator, calculate the value of: (a) tan 0 (b) cos(1800+0) (c) sin(9 + 600) in the form 20 Use a calculator to calculate the value of tan(20 —400) ONE decimal place. cos x + sin x Prove the following identity: cos x — sin x 520 cos x — sin x = 2 tan 2x cos x + sin x Evaluate, without using a calculator: E cos 2 A A-38' correct to Please turn over (2) (1) (2) (5) (3) (5) (5) [231 Copyright reserved
+
 === page 9 ===
+
+Mathematics/P2 QUESTION 6 Consider: f (x) = —2 tan —x 9 NSC DBE[November 2018 6.1 6.2 6.3 6.4 6.5 Write down the period of f. The point A( t ; 2) lies on the graph. Determine the general solution of t. On the grid provided in the ANSWER BOOK, draw the graph of f for the interval x e [—1200 ; 1800]. Clearly show ALL asymptotes, intercepts with the axes and endpoint(s) of the graph. Use the graph to determine for which value(s) of x G [-1200 ; 1800]. Describe the transformation of graph f to g(x)=—2tan —x +600 x will f (x) > 2 form the graph for of (3) (4) (3) (2) [131 Copyright reserved Please turn over
 
 === page 10 ===
 
+Mathematicsm QUESTION 7 10 NSC DBE/November 2018 A pilot is flying in a helicopter. At point A, which is h metres directly above point D on the ground, he notices a strange object at point B. The pilot determines that the angle of depression from A to B is 300. He also determines that the control room at point C is 3h metres from A and BAC = 2x. Points B, C and D are in the same horizontal plane. This scenario is shown in the diagram below. 300 2x h Determine the distance AB in terms of h. c 7.1 7.2 Show that the distance between the strange object at point B and the control room at point C is given by BC = h 25—24cos2x. (2) (4) [61 Copyright reserved Please turn over
+
 === page 11 ===
+
+Mathematics/P2 QUESTION 8 11 NSC 2018 8.1 PON is a diameter of the circle centred at O. TM is a tangent to the circle at M, a point on the circle. R is another point on the circle such that OR II PM. NR and MN are drawn. Let = 660 660 Calculate, with reasons, the size of EACH of the following angles: 8.1.1 8.1.2 8.1.3 8.1.4 8.1.5 (2) (2) (2) (3) Copyright reserved Please turn over
 
 === page 12 ===
 
+Mathematics/P2 12 NSC DBE/November 2018 8.2 In the diagram, AAGH is drawn. F and C are points on AG and AH respectively such that AF = 20 units, FG = 15 units and CH 21 units. D is a point on FC such that ABCD is a rectangle with AB also parallel to GH. The diagonals of ABCD intersect at M, a point on AH. 15 8.2.1 8.2.2 Copyright reserved 20 D Explain why FC II GH. Calculate, with reasons, the length of DM. 1 (1) (5) [16] Please turn over
+
 === page 13 ===
+
+Mathematics/P2 QUESTION 9 13 NSC DBE/November 2018 9.1 In the diagram, JKLM is a cyclic quadrilateral and the circle has centre O. Prove the theorem which states that j 4-i, = 1800. (5) Copyright reserved Please turn over
 
 === page 14 ===
 
+Mathematics/P2 14 NSC DBENovember 2018 9.2 In the diagram, a smaller circle ABTS and a bigger circle BDRT are given. BT is a common chord. Straight lines STD and ATR are drawn. Chords AS and DR are produced to meetin C, a point outside the two circles. BS and BD are drawn. A = x and = Y • 3 2 y 1 2 2 9.2.1 9.2.2 9.2.3 Copyright reserved Name, giving a reason, another angle equal to: Prove that SCDB is a cyclic quadrilateral. Itis further given that = 300 and AST = 1000. Prove that SD is not a diameter of circle BDS. (2) (2) (3) (4) [161 Please turn over
+
 === page 15 ===
+
+Mathematics/P2 QUESTION 10 15 NSC DBEfNovember 2018 In the diagram, ABCD is a cyclic quadrilateral such that AC L CB and DC produced to M such that AM L MC. Let i = x . = CB. AD is x 10.1 10.2 2 1 c Prove that: 10.1.1 MC is a tangent tothe circle at C 10.1.2 AACB III ACMD Hence, or otherwise, prove that: 10.2.1 10.2.2 Copyright reserved CM2 DC2 AM = sin x TOTAL: (5) (3) (6) (2) [161 150
 
 === page 16 ===
 
+Mathematics/P2 Tn = a + — 4ac 2a NSC INFORMATION SHEET -E[2a + (n — I)d] 2 arn -1) I—r f' (x) = lim y = mx+c a In NBC: - f(x) 2 2 2 Y2 -YI x DBFAovember 2018 m = tan O b sin A sin B — 2bc.cosA area AABC = —ab.sinC 2 sin(a + = sina.cosß + cosa.sinß co(a + = cosa. cosß — sina.sinß c sin C cos2a = cos a —sin a I—2sin2 a 2 cos2 a—I sine — = sina- cosß — cosa.sinß cov — p) cosa.cosß + sina.sinß sin2u = 2sinu.cosu 2 n or B) = P(A) + P(B) - and B) n(A) Fl(S) j = a + bx Copyright reserved

@@ -16,23 +16,22 @@
 * Consistent accuracy applies in ALL aspects of the Marking Guidelines. Stop marking at the second calculation error.
 * Assuming answers/values in order to solve a problem is NOT acceptable.
 
-### LET WEL:
-* As 'n kandidaat 'n vraag TWEE KEER beantwoord, sien slegs die EERSTE poging na.
-* As 'n kandidaat 'n antwoord van 'n vraag doodtrek en nie oordoen nie, sien die doodgetrekte poging na.
-* Volgehoue akkuraatheid word in ALLE aspekte van die Nasienriglyne toegepas. Hou op nasien by die tweede berekeningsfout.
-* Aanvaar van antwoorde/waardes om 'n probleem op te los, word NIE toegelaat nie.
-
 ---
 
 | GEOMETRY • MEETKUNDE |
 | :--- |
-| **S** | A mark for a correct statement<br>(A statement mark is independent of a reason)<br><br>'n Punt vir 'n korrekte bewering<br>('n Punt vir 'n bewering is onafhanklik van die rede) |
-| **R** | A mark for the correct reason<br>(A reason mark may only be awarded if the statement is correct)<br><br>'n Punt vir 'n korrekte rede<br>('n Punt word slegs vir die rede toegeken as die bewering korrek is) |
-| **S/R** | Award a mark if statement AND reason are both correct<br><br>Ken 'n punt toe as die bewering EN rede beide korrek is |
+| **S** | A mark for a correct statement (independent of a reason) |
+| **R** | A mark for the correct reason (may only be awarded if statement is correct) |
+| **S/R** | Award a mark if statement AND reason are both correct |
 
 ---
 
-## QUESTION / VRAAG 1
+## QUESTION 1
+
+### 1.1 (3 marks)
+
+**Passage / Context:**
+There were 11 cars of the same model for sale at a car dealership. The age (in years) of each car and its corresponding selling price (in rands) is provided in the table below.
 
 | AGE OF CAR (IN YEARS) | SELLING PRICE OF CAR (IN RANDS) |
 | :---: | :---: |
@@ -48,105 +47,1623 @@
 | 7 | 180 000 |
 | 8 | 148 000 |
 
+**Question:**
+Determine the equation of the least squares regression line.
+
+**Marking Guideline:**
+$$a = 331~397{,}20$$
+$$b = -22~988{,}32$$
+$$\hat{y} = 331~397{,}20 - 22~988{,}32x$$
+
+* $\checkmark a = 331~397{,}20$
+* $\checkmark b = -22~988{,}32$
+* $\checkmark \text{equation}$
+
+**Final Target Answer:** `y = -22988.32x + 331397.20`
+
 ---
 
-| 1.1 | $\begin{aligned} a &= 331~397,20 \\ b &= -22~988,32 \\ \hat{y} &= 331~397,20 - 22~988,32x \end{aligned}$ | $\begin{aligned} &\checkmark a = 331~397,20 \\ &\checkmark b = -22~988,32 \\ &\checkmark \text{equation} \end{aligned}$ | (3) |
-| :---: | :---: | :---: | :---: |
-| 1.2 | $\begin{aligned} \hat{y} &= 331~397,20 - 22~988,32(5) \\ &= 216~455,60 \end{aligned}$<br><br>**OR/OF**<br><br>$\hat{y} = 216~455,61 \text{ (calculator)}$ | $\begin{aligned} &\checkmark \text{substitution} \\ &\checkmark \text{answer} \end{aligned}$<br><br><br>$\checkmark\checkmark \text{answer}$ | (2)<br><br>(2) |
-| 1.3 | The strong correlation ($r = -0,95$) suggests that the data points lie close to the regression line.<br>Therefore, the prediction will be valid.<br><br>'n Sterk korrelasie ($r = -0,95$) dui aan dat die punte naby aan die regressielyn lê.<br>Dus, die voorspelling is geldig. | $\begin{aligned} &\checkmark \text{strong correlation} \\ &\quad\textbf{OR } r = -0,95 \\ &\checkmark \text{answer} \end{aligned}$ | (2) |
-| 1.4 | The average decrease per year is $\text{R}22~988,32$.<br>Die gemiddelde afname per jaar is $\text{R }22~988,32$. | $\checkmark \text{answer}$ | (1) |
-| | | | **[8]** |
+### 1.2 (2 marks)
+
+**Passage / Context:**
+There were 11 cars of the same model for sale at a car dealership. The age (in years) of each car and its corresponding selling price (in rands) is provided in the table below.
+
+| AGE OF CAR (IN YEARS) | SELLING PRICE OF CAR (IN RANDS) |
+| :---: | :---: |
+| 2 | 293 000 |
+| 3 | 265 000 |
+| 3 | 256 000 |
+| 4 | 219 000 |
+| 4 | 241 000 |
+| 4 | 246 000 |
+| 6 | 226 000 |
+| 6 | 176 000 |
+| 7 | 154 000 |
+| 7 | 180 000 |
+| 8 | 148 000 |
+
+**Question:**
+Predict the selling price of a similar car at this car dealership that is 5 years old.
+
+**Marking Guideline:**
+$$\hat{y} = 331~397{,}20 - 22~988{,}32(5)$$
+$$= 216~455{,}60$$
+
+* $\checkmark \text{substitution}$
+* $\checkmark \text{answer}$
+
+**OR / OF**
+
+$$\hat{y} = 216~455{,}61 \text{ (calculator)}$$
+
+* $\checkmark\checkmark \text{answer}$
+
+**Final Target Answer:** `216455.60`
 
 ---
 
-## QUESTION / VRAAG 2
+### 1.3 (2 marks)
+
+**Passage / Context:**
+There were 11 cars of the same model for sale at a car dealership. The age (in years) of each car and its corresponding selling price (in rands) is provided in the table below.
+
+| AGE OF CAR (IN YEARS) | SELLING PRICE OF CAR (IN RANDS) |
+| :---: | :---: |
+| 2 | 293 000 |
+| 3 | 265 000 |
+| 3 | 256 000 |
+| 4 | 219 000 |
+| 4 | 241 000 |
+| 4 | 246 000 |
+| 6 | 226 000 |
+| 6 | 176 000 |
+| 7 | 154 000 |
+| 7 | 180 000 |
+| 8 | 148 000 |
+
+**Question:**
+Use the correlation coefficient to show whether the prediction made in QUESTION 1.2 is valid or not.
+
+**Marking Guideline:**
+The strong correlation ($r = -0{,}95$) suggests that the data points lie close to the regression line.
+Therefore, the prediction will be valid.
+
+* $\checkmark \text{strong correlation OR } r = -0{,}95$
+* $\checkmark \text{answer (valid)}$
+
+**Final Target Answer:** `Valid (strong correlation r = -0.95)`
+
+---
+
+### 1.4 (1 marks)
+
+**Passage / Context:**
+There were 11 cars of the same model for sale at a car dealership. The age (in years) of each car and its corresponding selling price (in rands) is provided in the table below.
+
+| AGE OF CAR (IN YEARS) | SELLING PRICE OF CAR (IN RANDS) |
+| :---: | :---: |
+| 2 | 293 000 |
+| 3 | 265 000 |
+| 3 | 256 000 |
+| 4 | 219 000 |
+| 4 | 241 000 |
+| 4 | 246 000 |
+| 6 | 226 000 |
+| 6 | 176 000 |
+| 7 | 154 000 |
+| 7 | 180 000 |
+| 8 | 148 000 |
+
+**Question:**
+Use the answer to QUESTION 1.1 to write down the estimated average yearly decrease in the selling price of these 11 cars.
+
+**Marking Guideline:**
+The average decrease per year is $\text{R}22~988{,}32$.
+
+* $\checkmark \text{answer}$
+
+**Final Target Answer:** `R22 988.32`
+
+---
+
+**[TOTAL QUESTION 1: 8]**
+
+---
+
+## QUESTION 2
+
+### 2.1.1 (1 marks)
+
+**Passage / Context:**
+The cumulative frequency table below shows the amount of time that people spent on a particular website on a certain day.
 
 | TIME, $t$ (IN MINUTES) | CUMULATIVE FREQUENCY |
 | :---: | :---: |
-| $0 < t \leqslant 20$ | 16 |
-| $0 < t \leqslant 40$ | 40 |
-| $0 < t \leqslant 60$ | 59 |
-| $0 < t \leqslant 80$ | 67 |
-| $0 < t \leqslant 100$ | 70 |
+| $0 < t \le 20$ | 16 |
+| $0 < t \le 40$ | 40 |
+| $0 < t \le 60$ | 59 |
+| $0 < t \le 80$ | 67 |
+| $0 < t \le 100$ | 70 |
+
+**Question:**
+How many people visited this website on that day?
+
+**Marking Guideline:**
+$$70$$
+
+* $\checkmark 70$
+
+**Final Target Answer:** `70`
 
 ---
 
-| 2.1.1 | 70 | $\checkmark 70$ | (1) |
-| :---: | :---: | :---: | :---: |
-| 2.1.2 | $\begin{aligned} \text{No. of people} &= 67 - 40 \\ &= 27 \end{aligned}$ | $\begin{aligned} &\checkmark 67 - 40 \\ &\checkmark 27 \end{aligned}$ | (2) |
-| 2.1.3 | ![Histogram](../images/page4_img1.png) | $\begin{aligned} &\checkmark \text{two frequencies correct} \\ &\checkmark \text{all frequencies correct} \\ &\checkmark \text{no gaps between bars} \end{aligned}$ | (3) |
-| 2.1.4 | Skewed to the right **OR** positively skewed<br>Skeef na regs **OF** positief skeef | $\checkmark \text{answer}$ | (1) |
+### 2.1.2 (2 marks)
+
+**Passage / Context:**
+The cumulative frequency table below shows the amount of time that people spent on a particular website on a certain day.
+
+| TIME, $t$ (IN MINUTES) | CUMULATIVE FREQUENCY |
+| :---: | :---: |
+| $0 < t \le 20$ | 16 |
+| $0 < t \le 40$ | 40 |
+| $0 < t \le 60$ | 59 |
+| $0 < t \le 80$ | 67 |
+| $0 < t \le 100$ | 70 |
+
+**Question:**
+How many people spent more than 40 and up to 80 minutes on the website?
+
+**Marking Guideline:**
+$$\text{No. of people} = 67 - 40 = 27$$
+
+* $\checkmark 67 - 40$
+* $\checkmark 27$
+
+**Final Target Answer:** `27`
 
 ---
 
-| 2.2 | $11 \quad 14 \quad 19 \quad 20 \quad 8 \quad 10 \quad 2 \quad 14 \quad x$ | |
-| :---: | :--- | :--- |
-| | $\begin{aligned} \frac{11 + 14 + 19 + 20 + 8 + 10 + 2 + 14 + x}{9} &= 12 \\ x + 98 &= 108 \\ x &= 10 \end{aligned}$<br><br>The $9^{\text{th}}$ player scored $10$ points.<br><br>$\begin{aligned} \sigma &= 5,23 \quad (5,22812) \\ (\bar{x} - \sigma ; \bar{x} + \sigma) &= (12 - 5,23 ; 12 + 5,23) \\ &= (6,77 ; 17,23) \end{aligned}$<br><br>3 players' points were outside one standard deviation of the mean.<br>3 spelers se punte aangeteken lê buite een standaardafwyking van die gemiddeld. | $\begin{aligned} &\checkmark \text{equating using mean} \\ &\checkmark \text{answer} \\ &\checkmark \text{standard deviation} \\ &\checkmark \text{interval} \\ &\checkmark \text{answer} \end{aligned}$ | (5) |
-| | | | **[12]** |
+### 2.1.3 (3 marks)
+
+**Passage / Context:**
+The cumulative frequency table below shows the amount of time that people spent on a particular website on a certain day.
+
+| TIME, $t$ (IN MINUTES) | CUMULATIVE FREQUENCY |
+| :---: | :---: |
+| $0 < t \le 20$ | 16 |
+| $0 < t \le 40$ | 40 |
+| $0 < t \le 60$ | 59 |
+| $0 < t \le 80$ | 67 |
+| $0 < t \le 100$ | 70 |
+
+**Question:**
+Draw a histogram to represent the information provided in the cumulative frequency table.
+
+**Marking Guideline:**
+[HISTOGRAM: Frequencies per interval: $0 < t \le 20$: 16; $20 < t \le 40$: $40 - 16 = 24$; $40 < t \le 60$: $59 - 40 = 19$; $60 < t \le 80$: $67 - 59 = 8$; $80 < t \le 100$: $70 - 67 = 3$. Adjacent bars without gaps between classes.]
+
+* $\checkmark \text{two frequencies correct}$
+* $\checkmark \text{all frequencies correct}$
+* $\checkmark \text{no gaps between bars}$
+
+**Final Target Answer:** `Histogram with class frequencies: 16, 24, 19, 8, 3`
 
 ---
 
-## QUESTION / VRAAG 3
+### 2.1.4 (1 marks)
 
-![Graph Q3](../images/page6_img1.png)
+**Passage / Context:**
+The cumulative frequency table below shows the amount of time that people spent on a particular website on a certain day.
 
-| 3.1 | $\begin{aligned} QR &= \sqrt{(-4 - 12)^2 + (-6 - 2)^2} \\ &= \sqrt{320} = 8\sqrt{5} \text{ units} \end{aligned}$ | $\begin{aligned} &\checkmark QR = \sqrt{(-4 - 12)^2 + (-6 - 2)^2} \\ &\checkmark \text{answer} \end{aligned}$ | (2) |
-| :---: | :--- | :--- | :--- |
-| 3.2 | $\begin{aligned} m_{QR} &= \frac{-6 - 2}{-4 - 12} \quad \textbf{OR} \quad m_{QR} &= \frac{2 - (-6)}{12 - (-4)} \\ m_{QR} &= \frac{1}{2} & m_{QR} &= \frac{1}{2} \end{aligned}$ | $\begin{aligned} &\checkmark \text{correct substitution of } Q(-4 ; -6) \\ &\quad \text{\& } R(12 ; 2) \text{ into gradient formula} \\ &\checkmark \text{answer} \end{aligned}$ | (2) |
-| 3.3 | $\begin{aligned} m_{QR} &= \frac{1}{2} \\ \tan \theta &= \frac{1}{2} \\ \theta &= 26,57^{\circ} \end{aligned}$ | $\begin{aligned} &\checkmark \tan \theta = m_{QR} \\ &\checkmark \text{answer} \end{aligned}$ | (2) |
-| 3.4 | $\begin{aligned} m_{QR} &= \frac{1}{2} \\ -6 &= \frac{1}{2}(-4) + c \quad \textbf{OR} \quad y - 2 &= \frac{1}{2}(x - 12) \\ c &= -4 & y - 2 &= \frac{1}{2}x - 6 \\ y &= \frac{1}{2}x - 4 & y &= \frac{1}{2}x - 4 \end{aligned}$ | $\begin{aligned} &\checkmark \text{correct substitution of gradient and} \\ &\quad \text{point } Q(-4 ; -6) \text{ or } R(12 ; 2) \\ &\checkmark \text{answer} \end{aligned}$ | (2) |
-| 3.5 | $\begin{aligned} Q \rightarrow R &: (x ; y) \rightarrow (x + 16 ; y + 8) \\ &\therefore S(15 ; 16) \end{aligned}$ | $\checkmark x_S = 15 \quad \checkmark y_S = 16$ | (2) |
+| TIME, $t$ (IN MINUTES) | CUMULATIVE FREQUENCY |
+| :---: | :---: |
+| $0 < t \le 20$ | 16 |
+| $0 < t \le 40$ | 40 |
+| $0 < t \le 60$ | 59 |
+| $0 < t \le 80$ | 67 |
+| $0 < t \le 100$ | 70 |
 
----
+**Question:**
+Comment on the skewness of the data.
 
-| 3.6 | $\begin{aligned} m_{QR} &= \frac{1}{2} \\ m_{PT} &= -2 \end{aligned}$<br><br>Equation of PT:<br>$\begin{array}{rlrl} y &= -2x + c & y - y_1 &= -2(x - x_1) \\ 8 &= -2(-1) + c \quad \textbf{OR} & y - 8 &= -2(x - (-1)) \\ c &= 6 & y - 8 &= -2x - 2 \\ y &= -2x + 6 & y &= -2x + 6 \end{array}$<br><br>$\begin{aligned} -2x + 6 &= \frac{1}{2}x - 4 \\ -4x + 12 &= x - 8 \\ 5x &= 20 \\ x &= 4 \\ y &= \frac{1}{2}(4) - 4 \\ y &= -2 \\ T(4& ; -2) \end{aligned}$<br><br>**OR**<br><br>$\begin{aligned} PQ &= \sqrt{(-4 - (-1))^2 + (-6 - 8)^2} = \sqrt{205} \\ PR &= \sqrt{(12 - (-1))^2 + (2 - 8)^2} = \sqrt{205} \\ \therefore &\Delta PQR \text{ is isosceles / } \Delta PQR \text{ is 'n gelykbenige } \Delta \\ \therefore &\perp \text{ height bisects the base QR / } \\ &\perp \text{ hoogte halveer die basis QR} \\ \therefore &T \text{ is midpoint of QR / } T \text{ is middelpunt van QR} \\ \therefore &T(4 ; -2) \end{aligned}$ | $\begin{aligned} &\checkmark m_{PT} \\ &\checkmark \text{equation of PT} \\ &\checkmark \text{equation QR} = \text{equation PT} \\ &\checkmark \text{simplification} \\ &\checkmark T(x_T ; y_T) \end{aligned}$<br><br><br><br><br><br><br><br><br><br><br><br>$\begin{aligned} &\checkmark PQ = \sqrt{205} \\ &\checkmark PR = \sqrt{205} \\ &\checkmark \Delta PQR \text{ is isosceles} \\ &\checkmark \perp \text{ height bisects the base QR} \\ &\checkmark T(4 ; -2) \end{aligned}$ | (5)<br><br><br><br><br><br><br><br><br><br><br><br>(5) |
-| 3.7 | $\begin{aligned} PT &= \sqrt{(4 - (-1))^2 + (-2 - 8)^2} \\ PT &= \sqrt{125} = 5\sqrt{5} \text{ units} = 11,18 \text{ units} \\ \text{Area of PQRS} &= QR \cdot PT \\ &= (8\sqrt{5})(5\sqrt{5}) \\ &= 200 \text{ units}^2 \end{aligned}$<br><br>**OR**<br><br>$\begin{aligned} PT &= \sqrt{(4 - (-1))^2 + (-2 - 8)^2} \\ PT &= \sqrt{125} = 5\sqrt{5} \text{ units} = 11,18 \text{ units} \\ \text{Area of } \Delta PQR &= \frac{1}{2}(8\sqrt{5})(5\sqrt{5}) \\ &= 100 \text{ units}^2 \\ \text{Area of PQRS} &= 2 \times \text{Area of } \Delta PQR \\ &= 200 \text{ units}^2 \end{aligned}$ | $\begin{aligned} &\checkmark \text{length of PT} \\ &\checkmark \text{substitution of QR and PT} \\ &\checkmark \text{answer} \end{aligned}$<br><br><br><br><br><br><br><br><br><br><br><br><br>$\begin{aligned} &\checkmark \text{length of PT} \\ &\checkmark \text{substitution of QR and PT} \\ &\checkmark \text{answer} \end{aligned}$ | (3)<br><br><br><br><br><br><br><br><br><br><br><br><br>(3) |
-| | | | **[18]** |
+**Marking Guideline:**
+Skewed to the right **OR** positively skewed
 
----
+* $\checkmark \text{answer}$
 
-## QUESTION / VRAAG 4
-
-![Graph Q4](../images/page9_img1.png)
-
-| 4.1 | $p = -6$ | $\checkmark p = -6$ | (1) |
-| :---: | :--- | :--- | :--- |
-| 4.2 | $\begin{aligned} M\hat{D}B &= 90^{\circ} \quad [MC \parallel y\text{-axis}] \\ AM &= ME = q + 1 \quad [\text{radii}] \\ MD &= q \\ AM^2 &= AD^2 + MD^2 \quad [\text{Pythagoras}] \\ (q + 1)^2 &= (q - 1)^2 + q^2 \\ q^2 + 2q + 1 &= q^2 - 2q + 1 + q^2 \\ q^2 - 4q &= 0 \\ q(q - 4) &= 0 \\ q \neq 0 \text{ or } q &= 4 \end{aligned}$ | $\begin{aligned} &\checkmark AM = q + 1 \\ &\checkmark MD = q \\ &\checkmark \text{substitution into Pythagoras} \\ &\checkmark \text{standard form} \end{aligned}$ | (4) |
-| 4.3 | $\begin{aligned} AM &= 5 \text{ units} \\ (x + 6)^2 &+ (y - 4)^2 = 25 \end{aligned}$ | $\checkmark \text{LHS} \quad \checkmark \text{RHS}$ | (2) |
-| 4.4 | $3 \text{ units}$ | $\checkmark \text{answer}$ | (1) |
+**Final Target Answer:** `Skewed to the right (positively skewed)`
 
 ---
 
-| 4.5 | $\begin{aligned} (x + 6)^2 + (0 - 4)^2 &= 25 \\ (x + 6)^2 &= 9 \\ x + 6 = 3 \quad &\text{or} \quad x + 6 = -3 \\ x = -3 \quad &\text{or} \quad x = -9 \\ A(-9 ; 0) \\ B(-3 ; 0) \end{aligned}$<br><br>**OR**<br><br>$\begin{aligned} (x + 6)^2 + (0 - 4)^2 &= 25 \\ x^2 + 12x + 36 + 16 - 25 &= 0 \\ x^2 + 12x + 27 &= 0 \\ (x + 3)(x + 9) &= 0 \\ x = -3 \quad &\text{or} \quad x = -9 \\ A(-9 ; 0) \\ B(-3 ; 0) \end{aligned}$<br><br>**OR**<br><br>$\begin{aligned} q - 1 &= 3 \\ DB = AD &= 3 \quad [\text{line from centre } \perp \text{ to chord}] \\ A(-9 ; 0) \\ B(-3 ; 0) \end{aligned}$ | $\begin{aligned} &\checkmark \text{substituting } y = 0 \text{ into equation of circle} \\ &\checkmark \text{coordinates of A} \\ &\checkmark \text{coordinates of B} \end{aligned}$<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>$\begin{aligned} &\checkmark DB = 3 \\ &\checkmark \text{coordinates of A} \\ &\checkmark \text{coordinates of B} \end{aligned}$ | (3)<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>(3) |
-| 4.6 | $\begin{aligned} m_{MB} &= \frac{4 - 0}{-6 - (-3)} \\ &= -\frac{4}{3} \\ m_{BC} &= \frac{3}{4} \end{aligned}$<br><br>$\begin{array}{rlrl} y &= \frac{3}{4}x + c & y - y_1 &= \frac{3}{4}(x + x_1) \\ 0 &= \frac{3}{4}(-3) + c \quad \textbf{OR} & y - 0 &= \frac{3}{4}[x - (-3)] \\ c &= \frac{9}{4} & y &= \frac{3}{4}(x + 3) \\ y &= \frac{3}{4}x + \frac{9}{4} & y &= \frac{3}{4}x + \frac{9}{4} \end{array}$ | $\begin{aligned} &\checkmark m_{MB} \\ &\checkmark m_{BC} \\ &\checkmark \text{substitution of gradient BC} \\ &\quad \text{and coordinates of B} \\ &\checkmark \text{answer} \end{aligned}$ | (4) |
-| 4.7 | $C\left(-6 ; \frac{9}{4}\right)$ | $\checkmark x_C \quad \checkmark y_C$ | (2) |
+### 2.2 (5 marks)
+
+**Passage / Context:**
+There are 9 players in a basketball team. The coach calculated that on average, each player scored 12 points during a game. The points scored by 8 of the 9 players from the team is given below:
+
+$$11 \quad 14 \quad 19 \quad 20 \quad 8 \quad 10 \quad 2 \quad 14$$
+
+**Question:**
+How many players' points score was outside ONE standard deviation of the mean points score?
+
+**Marking Guideline:**
+$$\frac{11 + 14 + 19 + 20 + 8 + 10 + 2 + 14 + x}{9} = 12$$
+$$x + 98 = 108$$
+$$x = 10$$
+$$\text{The } 9^{\text{th}} \text{ player scored } 10 \text{ points.}$$
+$$\sigma = 5{,}23 \quad (5{,}22812)$$
+$$(\bar{x} - \sigma \; ; \; \bar{x} + \sigma) = (12 - 5{,}23 \; ; \; 12 + 5{,}23) = (6{,}77 \; ; \; 17{,}23)$$
+$$\text{Scores outside this interval: } 2, 19, 20.$$
+$$3 \text{ players' points were outside one standard deviation of the mean.}$$
+
+* $\checkmark \text{equating using mean}$
+* $\checkmark x = 10$
+* $\checkmark \text{standard deviation } (\sigma = 5{,}23)$
+* $\checkmark \text{interval } (6{,}77 \; ; \; 17{,}23)$
+* $\checkmark \text{answer (3)}$
+
+**Final Target Answer:** `3`
 
 ---
 
-| 4.8 | $\begin{aligned} \tan \alpha &= -\frac{3}{4} \\ \alpha &= 36,87^{\circ} \\ m_{AC} &= -\frac{3}{4} \\ \tan \beta &= -\frac{3}{4} \\ \beta &= 180^{\circ} - 36,87^{\circ} \\ \beta &= 143,13^{\circ} \\ \therefore A\hat{C}B &= 106,26^{\circ} \end{aligned}$<br><br>**OR**<br><br>$\begin{aligned} \tan M\hat{A}B &= m_{MA} = \frac{4}{3} \\ M\hat{A}B &= 53,13^{\circ} \\ A\hat{M}D &= 90^{\circ} - 53,13^{\circ} \\ A\hat{M}D &= 36,87^{\circ} \\ M\hat{A}C &= 90^{\circ} \quad [\text{tangent } \perp \text{ radius}] \\ A\hat{C}M &= 53,13^{\circ} \\ \therefore A\hat{C}B &= 106,26^{\circ} \quad [\text{property of kite}] \end{aligned}$<br><br>**OR**<br><br>$\begin{aligned} \tan A\hat{C}D &= \frac{AD}{DC} \\ \tan A\hat{C}D &= \frac{3}{4} \div 3 = \frac{4}{3} \text{ [Wait, check values: } AD=3, DC=4 \Rightarrow \tan A\hat{C}D = \frac{3}{4}? \text{ Let's use marking guideline verbatim]} \\ \tan A\hat{C}D &= \frac{\frac{3}{4}}{\frac{9}{4}} = \frac{1}{3} \text{ (Wait: guidelines show } \frac{\frac{3}{4}}{\frac{9}{3}} \text{ or similar? Let's transcribe exactly: } \frac{\frac{3}{4}}{\frac{9}{3}} \text{? No, transcribed: } \tan A\hat{C}D = \frac{3}{4} \div \dots) \\ A\hat{C}D &= 53,13^{\circ} \\ \therefore A\hat{C}B &= 106,26^{\circ} \quad [\text{property of kite}] \end{aligned}$ | $\begin{aligned} &\checkmark \alpha = 36,87^{\circ} \\ &\checkmark \tan \beta = m_{AC} \\ &\checkmark \text{value of } \beta \\ &\checkmark \text{answer} \end{aligned}$<br><br><br><br><br><br><br><br><br>$\begin{aligned} &\checkmark M\hat{A}B \\ &\checkmark A\hat{M}D \\ &\checkmark A\hat{C}M \\ &\checkmark \text{answer} \end{aligned}$<br><br><br><br><br><br><br><br><br>$\begin{aligned} &\checkmark \text{trig ratio in } \Delta ACD \text{ or } \Delta BCD \\ &\checkmark \tan A\hat{C}D \\ &\checkmark A\hat{C}D \\ &\checkmark \text{answer} \end{aligned}$ | (4)<br><br><br><br><br><br><br><br><br>(4)<br><br><br><br><br><br><br><br><br>(4) |
-| | **OR** | | |
-| | $\begin{aligned} AB &= 6 \text{ units} \\ AC = BC &= \frac{15}{4} \text{ units} \quad [\text{tangent from same point}] \\ (AB)^2 &= (AC)^2 + (BC)^2 - 2(AC)(BC)\cos \hat{C} \\ (6)^2 &= \left(\frac{15}{4}\right)^2 + \left(\frac{15}{4}\right)^2 - 2\left(\frac{15}{4}\right)\left(\frac{15}{4}\right)\cos \hat{C} \\ \cos A\hat{C}B &= -0,28 \\ A\hat{C}B &= 106,26^{\circ} \end{aligned}$<br><br>**OR**<br><br>$\begin{aligned} \tan M\hat{A}B &= m_{MA} = \frac{4}{3} \\ M\hat{A}B &= 53,13^{\circ} \\ AMBC &\text{ is a cyclic quad} \\ \therefore M\hat{C}B &= 53,13^{\circ} \quad [\text{ls in the same seg}] \\ \therefore A\hat{C}B &= 106,26^{\circ} \quad [\text{property of kite}] \end{aligned}$ | $\begin{aligned} &\checkmark AC = BC \\ &\checkmark \text{substitution into cosine-rule} \\ &\checkmark \text{simplification} \\ &\checkmark \text{answer} \end{aligned}$<br><br><br><br><br><br><br><br><br>$\begin{aligned} &\checkmark M\hat{A}B \\ &\checkmark AMBC \text{ is a cyclic quad} \\ &\checkmark M\hat{C}B \\ &\checkmark \text{answer} \end{aligned}$ | (4)<br><br><br><br><br><br><br><br><br>(4) |
-| | | | **[21]** |
+**[TOTAL QUESTION 2: 12]**
 
 ---
 
-## QUESTION / VRAAG 5
+## QUESTION 3
 
-| 5.1.1 | $\begin{aligned} r^2 &= k^2 + 1^2 \quad [\text{Pythagoras}] \\ r &= \sqrt{k^2 + 1} \\ \cos 40^{\circ} &= \frac{k}{\sqrt{k^2 + 1}} \end{aligned}$ | $\begin{aligned} &\checkmark \text{third side} = \sqrt{k^2 + 1} \\ &\checkmark \text{answer} \end{aligned}$ | (2) |
-| :---: | :--- | :--- | :--- |
-| 5.1.2 | $\begin{aligned} &\frac{2\sin 25^{\circ}\cos 25^{\circ}}{-2 + 4\sin^2 25^{\circ}} \\ &= \frac{\sin 50^{\circ}}{-2(1 - 2\sin^2 25^{\circ})} \\ &= \frac{\sin 50^{\circ}}{-2\cos 50^{\circ}} \\ &= -\frac{1}{2}\tan 50^{\circ} \quad \textbf{OR} \quad = -\frac{1}{2}\left(\frac{k}{\sqrt{k^2 + 1}}\right) \div \left(\frac{-2}{\sqrt{k^2 + 1}}\right) \\ &= -\frac{1}{2}k \end{aligned}$ | $\begin{aligned} &\checkmark \sin 50^{\circ} \\ &\checkmark -2(1 - 2\sin^2 25^{\circ}) \\ &\checkmark \text{double angle} \\ &\checkmark \text{subst OR quotient identity} \\ &\checkmark \text{answer} \end{aligned}$ | (5) |
-| 5.1.3 | $\begin{aligned} \sin 10^{\circ} &= \sin(50^{\circ} - 40^{\circ}) \\ &= \sin 50^{\circ}\cos 40^{\circ} - \cos 50^{\circ}\sin 40^{\circ} \\ &= \left(\frac{k}{\sqrt{k^2 + 1}}\right)\left(\frac{k}{\sqrt{k^2 + 1}}\right) - \left(\frac{1}{\sqrt{k^2 + 1}}\right)\left(\frac{1}{\sqrt{k^2 + 1}}\right) \\ &= \frac{k^2 - 1}{k^2 + 1} \end{aligned}$<br><br>**OR**<br><br>$\begin{aligned} \sin 10^{\circ} &= \cos 80^{\circ} = \cos 2(40^{\circ}) \\ &= 2\cos^2 40^{\circ} - 1 \\ &= 2\left(\frac{k}{\sqrt{k^2 + 1}}\right)^2 - 1 \\ &= \frac{2k^2}{k^2 + 1} - 1 \\ &= \frac{k^2 - 1}{k^2 + 1} \end{aligned}$<br><br>**OR**<br><br>$\begin{aligned} \sin 10^{\circ} &= \sin(60^{\circ} - 50^{\circ}) \\ &= \sin 60^{\circ}\cos 50^{\circ} - \cos 60^{\circ}\sin 50^{\circ} \\ &= \left(\frac{\sqrt{3}}{2}\right)\left(\frac{1}{\sqrt{k^2 + 1}}\right) - \left(\frac{1}{2}\right)\left(\frac{k}{\sqrt{k^2 + 1}}\right) \\ &= \frac{\sqrt{3} - k}{2\sqrt{k^2 + 1}} \quad \text{[Wait, transcription says } \frac{\sqrt{3}-k}{2\sqrt{k^2+1}}, \text{ let's check marking guideline text]} \end{aligned}$ | $\begin{aligned} &\checkmark \sin 10^{\circ} = \sin(50^{\circ} - 40^{\circ}) \\ &\checkmark \text{correct expansion} \\ &\checkmark \text{first term} \quad \checkmark \text{second term} \end{aligned}$<br><br><br><br><br><br><br><br><br><br><br><br><br><br>$\begin{aligned} &\checkmark \sin 10^{\circ} = \cos 80^{\circ} \\ &\checkmark \text{correct expansion} \\ &\checkmark\checkmark \text{substitution} \end{aligned}$<br><br><br><br><br><br><br><br><br><br><br><br><br><br>$\begin{aligned} &\checkmark \sin 10^{\circ} = \sin(60^{\circ} - 50^{\circ}) \\ &\checkmark \text{correct expansion} \\ &\checkmark \text{first term} \quad \checkmark \text{second term} \end{aligned}$ | (4)<br><br><br><br><br><br><br><br><br><br><br><br><br><br>(4)<br><br><br><br><br><br><br><br><br><br><br><br><br><br>(4) |
+### 3.1 (2 marks)
+
+**Passage / Context:**
+In the diagram, $\text{P}(-1 ; 8)$, $\text{Q}(-4 ; -6)$ and $\text{R}(12 ; 2)$ are the vertices of $\Delta\text{PQR}$. The angle of inclination of $\text{QR}$ is $\theta$.
+
+[DIAGRAM: Cartesian plane showing triangle $\text{PQR}$ with vertices $\text{P}(-1 ; 8)$, $\text{Q}(-4 ; -6)$, and $\text{R}(12 ; 2)$. Line $\text{QR}$ extends across the x-axis, forming an angle of inclination $\theta$ with the positive x-axis.]
+
+**Question:**
+Calculate the length of $\text{QR}$. Leave your answer in simplified surd form.
+
+**Marking Guideline:**
+$$\text{QR} = \sqrt{(-4 - 12)^2 + (-6 - 2)^2}$$
+$$= \sqrt{(-16)^2 + (-8)^2}$$
+$$= \sqrt{256 + 64} = \sqrt{320} = 8\sqrt{5} \text{ units}$$
+
+* $\checkmark \text{QR} = \sqrt{(-4 - 12)^2 + (-6 - 2)^2}$
+* $\checkmark \text{answer } (8\sqrt{5})$
+
+**Final Target Answer:** `8\sqrt{5}`
 
 ---
 
-| 5.2.1 | $\begin{aligned} &\frac{\sin(540^{\circ} + x)\cos(90^{\circ} + x)}{\sin(-x)} \\ &= \frac{(-\sin x)(-\sin x)}{-\sin x} \\ &= -\sin x \end{aligned}$ | $\begin{aligned} &\checkmark \sin(540^{\circ} + x) = -\sin x \\ &\checkmark \cos(90^{\circ} + x) = -\sin x \\ &\checkmark \sin(-x) = -\sin x \\ &\checkmark \text{answer} \end{aligned}$ | (4) |
-| :---: | :--- | :--- | :--- |
-| 5.2.2 | $x \in (180^{\circ}; 360^{\circ})$<br><br>**OR**<br><br>$180^{\circ} < x < 360^{\circ}$ | $\checkmark\checkmark x \in (180^{\circ}; 360^{\circ})$<br><br>$\checkmark\checkmark 180^{\circ} < x < 360^{\circ}$ | (2)<br><br>(2) |
-| | | | **[17]** |
+### 3.2 (2 marks)
+
+**Passage / Context:**
+In the diagram, $\text{P}(-1 ; 8)$, $\text{Q}(-4 ; -6)$ and $\text{R}(12 ; 2)$ are the vertices of $\Delta\text{PQR}$. The angle of inclination of $\text{QR}$ is $\theta$.
+
+[DIAGRAM: Cartesian plane showing triangle $\text{PQR}$ with vertices $\text{P}(-1 ; 8)$, $\text{Q}(-4 ; -6)$, and $\text{R}(12 ; 2)$. Line $\text{QR}$ extends across the x-axis, forming an angle of inclination $\theta$ with the positive x-axis.]
+
+**Question:**
+Calculate the gradient of $\text{QR}$.
+
+**Marking Guideline:**
+$$m_{\text{QR}} = \frac{-6 - 2}{-4 - 12} = \frac{-8}{-16} = \frac{1}{2}$$
+
+**OR / OF**
+
+$$m_{\text{QR}} = \frac{2 - (-6)}{12 - (-4)} = \frac{8}{16} = \frac{1}{2}$$
+
+* $\checkmark \text{correct substitution of } \text{Q}(-4 ; -6) \text{ and } \text{R}(12 ; 2) \text{ into gradient formula}$
+* $\checkmark \text{answer } (\frac{1}{2})$
+
+**Final Target Answer:** `1/2`
 
 ---
 
-## QUESTION / VRAAG 6
+### 3.3 (2 marks)
 
-| 6.1 | $\begin{aligned} \text{LHS} &= [\tan(180^{\circ} - x)](1 - \cos^2 x) + \cos^2 x \\ &= (-\tan x)(\sin^2 x) + \cos^2 x \\ &= \left(-\frac{\sin x}{\cos x}\right)(\sin^2 x) + \cos^2 x \\ &= -\frac{\sin^3 x}{\cos x} + \cos^2 x \\ &= \frac{-\sin^3 x + \cos^3 x}{\cos x} \quad \text{(Wait: let's check numerator sign)} \\ &= \frac{(\sin x - \cos x)(\sin^2 x + \sin x \cos x + \cos^2 x)}{-\cos x} \\ &= \frac{(\sin x - \cos x)(1 + \sin x \cos x)}{-\cos x} \\ &= \text{RHS} \end{aligned}$<br><br>**OR**<br><br>$\begin{aligned} \text{RHS} &= \frac{(\sin x - \cos x)(1 + \sin x \cos x)}{-\cos x} \\ &= \frac{(\sin x - \cos x)(\cos^2 x + \sin^2 x + \sin x \cos x)}{-\cos x} \\ &= \frac{\sin x \cos^2 x + \sin^3 x + \sin^2 x \cos x - \cos^3 x - \sin^2 x \cos x - \sin x \cos^2 x}{-\cos x} \\ &= \frac{\sin^3 x - \cos^3 x}{-\cos x} \\ &= \frac{\sin^3 x}{-\cos x} + \cos^2 x \\ &= -\frac{\sin x}{\cos x}(\sin^2 x) + \cos^2 x \\ &= -\tan x(1 - \cos^2 x) + \cos^2 x \\ &= \text{LHS} \end{aligned}$ | $\begin{aligned} &\checkmark \tan(180^{\circ} - x) = -\tan x \\ &\checkmark 1 - \cos^2 x = \sin^2 x \\ &\checkmark \text{quotient identity} \\ &\checkmark \text{simplification to a single fraction} \\ &\checkmark \text{factors for a difference of cubes} \\ &\checkmark \sin^2 x + \cos^2 x = 1 \end{aligned}$<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>$\begin{aligned} &\checkmark 1 = \sin^2 x + \cos^2 x \\ &\checkmark \text{expansion} \\ &\checkmark \text{simplification} \\ &\checkmark \text{split fraction} \\ &\checkmark \text{
-\end{aligned}$$$$
+**Passage / Context:**
+In the diagram, $\text{P}(-1 ; 8)$, $\text{Q}(-4 ; -6)$ and $\text{R}(12 ; 2)$ are the vertices of $\Delta\text{PQR}$. The angle of inclination of $\text{QR}$ is $\theta$.
+
+[DIAGRAM: Cartesian plane showing triangle $\text{PQR}$ with vertices $\text{P}(-1 ; 8)$, $\text{Q}(-4 ; -6)$, and $\text{R}(12 ; 2)$. Line $\text{QR}$ extends across the x-axis, forming an angle of inclination $\theta$ with the positive x-axis.]
+
+**Question:**
+Calculate the size of $\theta$.
+
+**Marking Guideline:**
+$$m_{\text{QR}} = \frac{1}{2}$$
+$$\tan \theta = \frac{1}{2}$$
+$$\theta = 26{,}57^\circ$$
+
+* $\checkmark \tan \theta = m_{\text{QR}}$
+* $\checkmark \text{answer } (26{,}57^\circ)$
+
+**Final Target Answer:** `26.57°`
+
+---
+
+### 3.4 (2 marks)
+
+**Passage / Context:**
+In the diagram, $\text{P}(-1 ; 8)$, $\text{Q}(-4 ; -6)$ and $\text{R}(12 ; 2)$ are the vertices of $\Delta\text{PQR}$. The angle of inclination of $\text{QR}$ is $\theta$.
+
+[DIAGRAM: Cartesian plane showing triangle $\text{PQR}$ with vertices $\text{P}(-1 ; 8)$, $\text{Q}(-4 ; -6)$, and $\text{R}(12 ; 2)$. Line $\text{QR}$ extends across the x-axis, forming an angle of inclination $\theta$ with the positive x-axis.]
+
+**Question:**
+Determine the equation of $\text{QR}$.
+
+**Marking Guideline:**
+$$m_{\text{QR}} = \frac{1}{2}$$
+$$-6 = \frac{1}{2}(-4) + c \implies c = -4$$
+$$y = \frac{1}{2}x - 4$$
+
+**OR / OF**
+
+$$y - 2 = \frac{1}{2}(x - 12)$$
+$$y - 2 = \frac{1}{2}x - 6$$
+$$y = \frac{1}{2}x - 4$$
+
+* $\checkmark \text{correct substitution of gradient and point } \text{Q}(-4 ; -6) \text{ or } \text{R}(12 ; 2)$
+* $\checkmark \text{answer } (y = \frac{1}{2}x - 4)$
+
+**Final Target Answer:** `y = 1/2 x - 4`
+
+---
+
+### 3.5 (2 marks)
+
+**Passage / Context:**
+In the diagram, $\text{P}(-1 ; 8)$, $\text{Q}(-4 ; -6)$ and $\text{R}(12 ; 2)$ are the vertices of $\Delta\text{PQR}$. The angle of inclination of $\text{QR}$ is $\theta$.
+
+[DIAGRAM: Cartesian plane showing triangle $\text{PQR}$ with vertices $\text{P}(-1 ; 8)$, $\text{Q}(-4 ; -6)$, and $\text{R}(12 ; 2)$. Line $\text{QR}$ extends across the x-axis, forming an angle of inclination $\theta$ with the positive x-axis.]
+
+**Question:**
+$\text{PQRS}$, in that order, is a parallelogram. Write down the coordinates of $\text{S}$.
+
+**Marking Guideline:**
+$$\text{By translation } \text{Q} \rightarrow \text{R}: (x ; y) \rightarrow (x + 16 ; y + 8)$$
+$$\text{Applying to } \text{P}(-1 ; 8):$$
+$$x_{\text{S}} = -1 + 16 = 15$$
+$$y_{\text{S}} = 8 + 8 = 16$$
+$$\therefore \text{S}(15 ; 16)$$
+
+**OR / OF**
+
+$$\text{Midpoint of PR} = \left(\frac{-1 + 12}{2} ; \frac{8 + 2}{2}\right) = \left(\frac{11}{2} ; 5\right)$$
+$$\frac{-4 + x_{\text{S}}}{2} = \frac{11}{2} \implies x_{\text{S}} = 15$$
+$$\frac{-6 + y_{\text{S}}}{2} = 5 \implies y_{\text{S}} = 16$$
+$$\therefore \text{S}(15 ; 16)$$
+
+* $\checkmark x_{\text{S}} = 15$
+* $\checkmark y_{\text{S}} = 16$
+
+**Final Target Answer:** `S(15 ; 16)`
+
+---
+
+### 3.6 (5 marks)
+
+**Passage / Context:**
+In the diagram, $\text{P}(-1 ; 8)$, $\text{Q}(-4 ; -6)$ and $\text{R}(12 ; 2)$ are the vertices of $\Delta\text{PQR}$. The angle of inclination of $\text{QR}$ is $\theta$.
+
+[DIAGRAM: Cartesian plane showing triangle $\text{PQR}$ with vertices $\text{P}(-1 ; 8)$, $\text{Q}(-4 ; -6)$, and $\text{R}(12 ; 2)$. Line $\text{QR}$ extends across the x-axis, forming an angle of inclination $\theta$ with the positive x-axis.]
+
+**Question:**
+$\text{T}$ is a point on $\text{QR}$ such that $\text{PT} \perp \text{QR}$. Calculate the coordinates of $\text{T}$.
+
+**Marking Guideline:**
+$$m_{\text{QR}} = \frac{1}{2}$$
+$$m_{\text{PT}} = -2 \quad [\text{PT} \perp \text{QR}]$$
+$$\text{Equation of PT:}$$
+$$y - 8 = -2(x - (-1))$$
+$$y - 8 = -2x - 2$$
+$$y = -2x + 6$$
+$$\text{Equating QR and PT:}$$
+$$-2x + 6 = \frac{1}{2}x - 4$$
+$$-4x + 12 = x - 8$$
+$$5x = 20$$
+$$x = 4$$
+$$y = \frac{1}{2}(4) - 4 = -2$$
+$$\therefore \text{T}(4 ; -2)$$
+
+* $\checkmark m_{\text{PT}} = -2$
+* $\checkmark \text{equation of PT } (y = -2x + 6)$
+* $\checkmark \text{equating equations: } -2x + 6 = \frac{1}{2}x - 4$
+* $\checkmark \text{simplification } (x = 4)$
+* $\checkmark \text{coordinates of T } (4 ; -2)$
+
+**OR / OF**
+
+$$\text{PQ} = \sqrt{(-4 - (-1))^2 + (-6 - 8)^2} = \sqrt{(-3)^2 + (-14)^2} = \sqrt{205}$$
+$$\text{PR} = \sqrt{(12 - (-1))^2 + (2 - 8)^2} = \sqrt{(13)^2 + (-6)^2} = \sqrt{205}$$
+$$\therefore \Delta\text{PQR} \text{ is isosceles}$$
+$$\therefore \perp \text{ height PT bisects the base QR}$$
+$$\therefore \text{T is the midpoint of QR}$$
+$$\text{T} = \left(\frac{-4 + 12}{2} ; \frac{-6 + 2}{2}\right) = (4 ; -2)$$
+
+* $\checkmark \text{PQ} = \sqrt{205}$
+* $\checkmark \text{PR} = \sqrt{205}$
+* $\checkmark \Delta\text{PQR} \text{ is isosceles}$
+* $\checkmark \perp \text{ height bisects the base QR / T is midpoint}$
+* $\checkmark \text{T}(4 ; -2)$
+
+**Final Target Answer:** `T(4 ; -2)`
+
+---
+
+### 3.7 (3 marks)
+
+**Passage / Context:**
+In the diagram, $\text{P}(-1 ; 8)$, $\text{Q}(-4 ; -6)$ and $\text{R}(12 ; 2)$ are the vertices of $\Delta\text{PQR}$. The angle of inclination of $\text{QR}$ is $\theta$.
+
+[DIAGRAM: Cartesian plane showing triangle $\text{PQR}$ with vertices $\text{P}(-1 ; 8)$, $\text{Q}(-4 ; -6)$, and $\text{R}(12 ; 2)$. Line $\text{QR}$ extends across the x-axis, forming an angle of inclination $\theta$ with the positive x-axis.]
+
+**Question:**
+Calculate the area of parallelogram $\text{PQRS}$.
+
+**Marking Guideline:**
+$$\text{PT} = \sqrt{(4 - (-1))^2 + (-2 - 8)^2} = \sqrt{5^2 + (-10)^2} = \sqrt{125} = 5\sqrt{5} \approx 11{,}18 \text{ units}$$
+$$\text{Area of PQRS} = \text{base} \times \perp \text{height}$$
+$$= \text{QR} \cdot \text{PT}$$
+$$= (8\sqrt{5})(5\sqrt{5})$$
+$$= 40 \times 5 = 200 \text{ units}^2$$
+
+* $\checkmark \text{length of PT } (5\sqrt{5})$
+* $\checkmark \text{substitution of QR and PT}$
+* $\checkmark \text{answer } (200)$
+
+**OR / OF**
+
+$$\text{PT} = \sqrt{125} = 5\sqrt{5} \text{ units}$$
+$$\text{Area of } \Delta\text{PQR} = \frac{1}{2}(8\sqrt{5})(5\sqrt{5}) = 100 \text{ units}^2$$
+$$\text{Area of PQRS} = 2 \times \text{Area of } \Delta\text{PQR} = 2(100) = 200 \text{ units}^2$$
+
+* $\checkmark \text{length of PT}$
+* $\checkmark \text{substitution of QR and PT}$
+* $\checkmark \text{answer } (200)$
+
+**Final Target Answer:** `200`
+
+---
+
+**[TOTAL QUESTION 3: 18]**
+
+---
+
+## QUESTION 4
+
+### 4.1 (1 marks)
+
+**Passage / Context:**
+In the diagram, $\text{M}(p ; q)$ is the centre of the circle that intersects the x-axis at $\text{A}$ and $\text{B}$. $\text{C}$ is a point such that the line drawn from $\text{M}$ to $\text{C}$ is parallel to the y-axis and intersects the x-axis at $\text{D}$. $\text{MC}$ intersects the circle at $\text{E}(-6 ; -1)$. Tangents drawn from $\text{C}$ touch the circle at $\text{A}$ and $\text{B}$. $\text{AD} = (q - 1)$ units.
+
+[DIAGRAM: Circle with centre $\text{M}(p ; q)$ in the second quadrant intersecting the x-axis at $\text{A}$ and $\text{B}$. A vertical line $\text{MC}$ parallel to the y-axis passes through centre $\text{M}(p ; q)$, intersects the x-axis at $\text{D}$, intersects the circle at $\text{E}(-6 ; -1)$, and extends down to point $\text{C}$. Tangents $\text{CA}$ and $\text{CB}$ touch the circle at $\text{A}$ and $\text{B}$. Radii $\text{MA}$ and $\text{MB}$ are drawn. $\text{AD} = (q - 1)$.]
+
+**Question:**
+Write down the value of $p$.
+
+**Marking Guideline:**
+$$p = -6$$
+
+* $\checkmark p = -6$
+
+**Final Target Answer:** `p = -6`
+
+---
+
+### 4.2 (4 marks)
+
+**Passage / Context:**
+In the diagram, $\text{M}(p ; q)$ is the centre of the circle that intersects the x-axis at $\text{A}$ and $\text{B}$. $\text{C}$ is a point such that the line drawn from $\text{M}$ to $\text{C}$ is parallel to the y-axis and intersects the x-axis at $\text{D}$. $\text{MC}$ intersects the circle at $\text{E}(-6 ; -1)$. Tangents drawn from $\text{C}$ touch the circle at $\text{A}$ and $\text{B}$. $\text{AD} = (q - 1)$ units.
+
+[DIAGRAM: Circle with centre $\text{M}(p ; q)$ in the second quadrant intersecting the x-axis at $\text{A}$ and $\text{B}$. A vertical line $\text{MC}$ parallel to the y-axis passes through centre $\text{M}(p ; q)$, intersects the x-axis at $\text{D}$, intersects the circle at $\text{E}(-6 ; -1)$, and extends down to point $\text{C}$. Tangents $\text{CA}$ and $\text{CB}$ touch the circle at $\text{A}$ and $\text{B}$. Radii $\text{MA}$ and $\text{MB}$ are drawn. $\text{AD} = (q - 1)$.]
+
+**Question:**
+Show that $q = 4$.
+
+**Marking Guideline:**
+$$\text{M}\hat{\text{D}}\text{B} = 90^\circ \quad [\text{MC} \parallel y\text{-axis}]$$
+$$\text{AM} = \text{ME} = q - (-1) = q + 1 \quad [\text{radii}]$$
+$$\text{MD} = q - 0 = q$$
+$$\text{AM}^2 = \text{AD}^2 + \text{MD}^2 \quad [\text{Pythagoras in } \Delta\text{AMD}]$$
+$$(q + 1)^2 = (q - 1)^2 + q^2$$
+$$q^2 + 2q + 1 = q^2 - 2q + 1 + q^2$$
+$$q^2 - 4q = 0$$
+$$q(q - 4) = 0$$
+$$q = 4 \quad (q \ne 0)$$
+
+* $\checkmark \text{AM} = q + 1$
+* $\checkmark \text{MD} = q$
+* $\checkmark \text{substitution into Pythagoras}$
+* $\checkmark \text{standard form / solving } q = 4$
+
+**Final Target Answer:** `q = 4`
+
+---
+
+### 4.3 (2 marks)
+
+**Passage / Context:**
+In the diagram, $\text{M}(p ; q)$ is the centre of the circle that intersects the x-axis at $\text{A}$ and $\text{B}$. $\text{C}$ is a point such that the line drawn from $\text{M}$ to $\text{C}$ is parallel to the y-axis and intersects the x-axis at $\text{D}$. $\text{MC}$ intersects the circle at $\text{E}(-6 ; -1)$. Tangents drawn from $\text{C}$ touch the circle at $\text{A}$ and $\text{B}$. $\text{AD} = (q - 1)$ units.
+
+[DIAGRAM: Circle with centre $\text{M}(p ; q)$ in the second quadrant intersecting the x-axis at $\text{A}$ and $\text{B}$. A vertical line $\text{MC}$ parallel to the y-axis passes through centre $\text{M}(p ; q)$, intersects the x-axis at $\text{D}$, intersects the circle at $\text{E}(-6 ; -1)$, and extends down to point $\text{C}$. Tangents $\text{CA}$ and $\text{CB}$ touch the circle at $\text{A}$ and $\text{B}$. Radii $\text{MA}$ and $\text{MB}$ are drawn. $\text{AD} = (q - 1)$.]
+
+**Question:**
+Determine the equation of the circle in the form $(x - a)^2 + (y - b)^2 = r^2$.
+
+**Marking Guideline:**
+$$\text{Centre } \text{M}(-6 ; 4)$$
+$$\text{Radius } r = \text{AM} = q + 1 = 4 + 1 = 5$$
+$$(x + 6)^2 + (y - 4)^2 = 25$$
+
+* $\checkmark \text{LHS: } (x + 6)^2 + (y - 4)^2$
+* $\checkmark \text{RHS: } 25$
+
+**Final Target Answer:** `(x + 6)^2 + (y - 4)^2 = 25`
+
+---
+
+### 4.4 (1 marks)
+
+**Passage / Context:**
+In the diagram, $\text{M}(p ; q)$ is the centre of the circle that intersects the x-axis at $\text{A}$ and $\text{B}$. $\text{C}$ is a point such that the line drawn from $\text{M}$ to $\text{C}$ is parallel to the y-axis and intersects the x-axis at $\text{D}$. $\text{MC}$ intersects the circle at $\text{E}(-6 ; -1)$. Tangents drawn from $\text{C}$ touch the circle at $\text{A}$ and $\text{B}$. $\text{AD} = (q - 1)$ units.
+
+[DIAGRAM: Circle with centre $\text{M}(p ; q)$ in the second quadrant intersecting the x-axis at $\text{A}$ and $\text{B}$. A vertical line $\text{MC}$ parallel to the y-axis passes through centre $\text{M}(p ; q)$, intersects the x-axis at $\text{D}$, intersects the circle at $\text{E}(-6 ; -1)$, and extends down to point $\text{C}$. Tangents $\text{CA}$ and $\text{CB}$ touch the circle at $\text{A}$ and $\text{B}$. Radii $\text{MA}$ and $\text{MB}$ are drawn. $\text{AD} = (q - 1)$.]
+
+**Question:**
+If the circle is translated 2 units to the left, determine the minimum distance between the circle and the y-axis.
+
+**Marking Guideline:**
+$$\text{Original centre: } (-6 ; 4)$$
+$$\text{New centre after translating } 2 \text{ units left: } (-8 ; 4)$$
+$$\text{Radius } = 5$$
+$$\text{Closest point on circle to } y\text{-axis: } x = -8 + 5 = -3$$
+$$\text{Minimum distance to } y\text{-axis} = 3 \text{ units}$$
+
+* $\checkmark 3 \text{ units}$
+
+**Final Target Answer:** `3`
+
+---
+
+### 4.5 (3 marks)
+
+**Passage / Context:**
+In the diagram, $\text{M}(p ; q)$ is the centre of the circle that intersects the x-axis at $\text{A}$ and $\text{B}$. $\text{C}$ is a point such that the line drawn from $\text{M}$ to $\text{C}$ is parallel to the y-axis and intersects the x-axis at $\text{D}$. $\text{MC}$ intersects the circle at $\text{E}(-6 ; -1)$. Tangents drawn from $\text{C}$ touch the circle at $\text{A}$ and $\text{B}$. $\text{AD} = (q - 1)$ units.
+
+[DIAGRAM: Circle with centre $\text{M}(p ; q)$ in the second quadrant intersecting the x-axis at $\text{A}$ and $\text{B}$. A vertical line $\text{MC}$ parallel to the y-axis passes through centre $\text{M}(p ; q)$, intersects the x-axis at $\text{D}$, intersects the circle at $\text{E}(-6 ; -1)$, and extends down to point $\text{C}$. Tangents $\text{CA}$ and $\text{CB}$ touch the circle at $\text{A}$ and $\text{B}$. Radii $\text{MA}$ and $\text{MB}$ are drawn. $\text{AD} = (q - 1)$.]
+
+**Question:**
+Calculate the coordinates of $\text{A}$ and $\text{B}$.
+
+**Marking Guideline:**
+$$\text{Let } y = 0:$$
+$$(x + 6)^2 + (0 - 4)^2 = 25$$
+$$(x + 6)^2 + 16 = 25$$
+$$(x + 6)^2 = 9$$
+$$x + 6 = 3 \quad \text{or} \quad x + 6 = -3$$
+$$x = -3 \quad \text{or} \quad x = -9$$
+$$\therefore \text{A}(-9 ; 0) \quad \text{and} \quad \text{B}(-3 ; 0)$$
+
+* $\checkmark \text{substituting } y = 0 \text{ into equation of circle}$
+* $\checkmark \text{coordinates of A}(-9 ; 0)$
+* $\checkmark \text{coordinates of B}(-3 ; 0)$
+
+**OR / OF**
+
+$$\text{AD} = q - 1 = 4 - 1 = 3$$
+$$\text{Since line from centre } \text{MD} \perp \text{AB}, \text{D bisects AB: } \text{DB} = \text{AD} = 3$$
+$$\text{D has coordinates } (-6 ; 0)$$
+$$\text{A}(-6 - 3 ; 0) = \text{A}(-9 ; 0)$$
+$$\text{B}(-6 + 3 ; 0) = \text{B}(-3 ; 0)$$
+
+* $\checkmark \text{DB} = 3$
+* $\checkmark \text{coordinates of A}(-9 ; 0)$
+* $\checkmark \text{coordinates of B}(-3 ; 0)$
+
+**Final Target Answer:** `A(-9 ; 0), B(-3 ; 0)`
+
+---
+
+### 4.6 (4 marks)
+
+**Passage / Context:**
+In the diagram, $\text{M}(p ; q)$ is the centre of the circle that intersects the x-axis at $\text{A}$ and $\text{B}$. $\text{C}$ is a point such that the line drawn from $\text{M}$ to $\text{C}$ is parallel to the y-axis and intersects the x-axis at $\text{D}$. $\text{MC}$ intersects the circle at $\text{E}(-6 ; -1)$. Tangents drawn from $\text{C}$ touch the circle at $\text{A}$ and $\text{B}$. $\text{AD} = (q - 1)$ units.
+
+[DIAGRAM: Circle with centre $\text{M}(p ; q)$ in the second quadrant intersecting the x-axis at $\text{A}$ and $\text{B}$. A vertical line $\text{MC}$ parallel to the y-axis passes through centre $\text{M}(p ; q)$, intersects the x-axis at $\text{D}$, intersects the circle at $\text{E}(-6 ; -1)$, and extends down to point $\text{C}$. Tangents $\text{CA}$ and $\text{CB}$ touch the circle at $\text{A}$ and $\text{B}$. Radii $\text{MA}$ and $\text{MB}$ are drawn. $\text{AD} = (q - 1)$.]
+
+**Question:**
+Determine the equation of tangent $\text{BC}$.
+
+**Marking Guideline:**
+$$\text{Radius MB connects } \text{M}(-6 ; 4) \text{ and } \text{B}(-3 ; 0):$$
+$$m_{\text{MB}} = \frac{4 - 0}{-6 - (-3)} = \frac{4}{-3} = -\frac{4}{3}$$
+$$m_{\text{BC}} = \frac{3}{4} \quad [\text{tangent } \perp \text{ radius}]$$
+$$\text{Equation of tangent BC through } \text{B}(-3 ; 0):$$
+$$y - 0 = \frac{3}{4}(x - (-3))$$
+$$y = \frac{3}{4}(x + 3)$$
+$$y = \frac{3}{4}x + \frac{9}{4}$$
+
+* $\checkmark m_{\text{MB}} = -\frac{4}{3}$
+* $\checkmark m_{\text{BC}} = \frac{3}{4}$
+* $\checkmark \text{substitution of } m_{\text{BC}} \text{ and } \text{B}(-3 ; 0)$
+* $\checkmark \text{answer } (y = \frac{3}{4}x + \frac{9}{4})$
+
+**Final Target Answer:** `y = 3/4 x + 9/4`
+
+---
+
+### 4.7 (2 marks)
+
+**Passage / Context:**
+In the diagram, $\text{M}(p ; q)$ is the centre of the circle that intersects the x-axis at $\text{A}$ and $\text{B}$. $\text{C}$ is a point such that the line drawn from $\text{M}$ to $\text{C}$ is parallel to the y-axis and intersects the x-axis at $\text{D}$. $\text{MC}$ intersects the circle at $\text{E}(-6 ; -1)$. Tangents drawn from $\text{C}$ touch the circle at $\text{A}$ and $\text{B}$. $\text{AD} = (q - 1)$ units.
+
+[DIAGRAM: Circle with centre $\text{M}(p ; q)$ in the second quadrant intersecting the x-axis at $\text{A}$ and $\text{B}$. A vertical line $\text{MC}$ parallel to the y-axis passes through centre $\text{M}(p ; q)$, intersects the x-axis at $\text{D}$, intersects the circle at $\text{E}(-6 ; -1)$, and extends down to point $\text{C}$. Tangents $\text{CA}$ and $\text{CB}$ touch the circle at $\text{A}$ and $\text{B}$. Radii $\text{MA}$ and $\text{MB}$ are drawn. $\text{AD} = (q - 1)$.]
+
+**Question:**
+Write down the coordinates of $\text{C}$.
+
+**Marking Guideline:**
+$$\text{Point C lies on the vertical line } x = -6.$$
+$$\text{Substituting } x = -6 \text{ into equation of BC:}$$
+$$y = \frac{3}{4}(-6) + \frac{9}{4} = -\frac{18}{4} + \frac{9}{4} = -\frac{9}{4}$$
+$$\therefore \text{C}\left(-6 ; -\frac{9}{4}\right)$$
+
+* $\checkmark x_{\text{C}} = -6$
+* $\checkmark y_{\text{C}} = -\frac{9}{4}$
+
+**Final Target Answer:** `C(-6 ; -9/4)`
+
+---
+
+### 4.8 (4 marks)
+
+**Passage / Context:**
+In the diagram, $\text{M}(p ; q)$ is the centre of the circle that intersects the x-axis at $\text{A}$ and $\text{B}$. $\text{C}$ is a point such that the line drawn from $\text{M}$ to $\text{C}$ is parallel to the y-axis and intersects the x-axis at $\text{D}$. $\text{MC}$ intersects the circle at $\text{E}(-6 ; -1)$. Tangents drawn from $\text{C}$ touch the circle at $\text{A}$ and $\text{B}$. $\text{AD} = (q - 1)$ units.
+
+[DIAGRAM: Circle with centre $\text{M}(p ; q)$ in the second quadrant intersecting the x-axis at $\text{A}$ and $\text{B}$. A vertical line $\text{MC}$ parallel to the y-axis passes through centre $\text{M}(p ; q)$, intersects the x-axis at $\text{D}$, intersects the circle at $\text{E}(-6 ; -1)$, and extends down to point $\text{C}$. Tangents $\text{CA}$ and $\text{CB}$ touch the circle at $\text{A}$ and $\text{B}$. Radii $\text{MA}$ and $\text{MB}$ are drawn. $\text{AD} = (q - 1)$.]
+
+**Question:**
+Calculate the size of $\text{A}\hat{\text{C}}\text{B}$.
+
+**Marking Guideline:**
+$$m_{\text{BC}} = \frac{3}{4}$$
+$$\tan \alpha = \frac{3}{4} \implies \alpha = 36{,}87^\circ$$
+$$m_{\text{AC}} = -\frac{3}{4}$$
+$$\tan \beta = -\frac{3}{4} \implies \beta = 180^\circ - 36{,}87^\circ = 143{,}13^\circ$$
+$$\therefore \text{A}\hat{\text{C}}\text{B} = 180^\circ - 2(36{,}87^\circ) = 106{,}26^\circ$$
+
+* $\checkmark \alpha = 36{,}87^\circ$
+* $\checkmark \tan \beta = m_{\text{AC}}$
+* $\checkmark \text{value of } \beta = 143{,}13^\circ$
+* $\checkmark \text{answer } (106{,}26^\circ)$
+
+**OR / OF**
+
+$$\text{In } \Delta\text{ACD}:$$
+$$\tan \text{A}\hat{\text{C}}\text{D} = \frac{\text{AD}}{\text{DC}} = \frac{3}{\frac{9}{4}} = \frac{12}{9} = \frac{4}{3}$$
+$$\text{A}\hat{\text{C}}\text{D} = 53{,}13^\circ$$
+$$\therefore \text{A}\hat{\text{C}}\text{B} = 2 \times 53{,}13^\circ = 106{,}26^\circ \quad [\text{property of kite}]$$
+
+* $\checkmark \text{trig ratio in } \Delta\text{ACD} \text{ or } \Delta\text{BCD}$
+* $\checkmark \tan \text{A}\hat{\text{C}}\text{D} = \frac{4}{3}$
+* $\checkmark \text{A}\hat{\text{C}}\text{D} = 53{,}13^\circ$
+* $\checkmark \text{answer } (106{,}26^\circ)$
+
+**OR / OF**
+
+$$\text{AB} = 6 \text{ units}$$
+$$\text{AC} = \text{BC} = \sqrt{(-3 - (-6))^2 + \left(0 - \left(-\frac{9}{4}\right)\right)^2} = \sqrt{9 + \frac{81}{16}} = \frac{15}{4} \text{ units}$$
+$$\text{In } \Delta\text{ABC}:$$
+$$(\text{AB})^2 = (\text{AC})^2 + (\text{BC})^2 - 2(\text{AC})(\text{BC})\cos \text{A}\hat{\text{C}}\text{B}$$
+$$(6)^2 = \left(\frac{15}{4}\right)^2 + \left(\frac{15}{4}\right)^2 - 2\left(\frac{15}{4}\right)\left(\frac{15}{4}\right)\cos \text{A}\hat{\text{C}}\text{B}$$
+$$\cos \text{A}\hat{\text{C}}\text{B} = -0{,}28$$
+$$\text{A}\hat{\text{C}}\text{B} = 106{,}26^\circ$$
+
+* $\checkmark \text{AC} = \text{BC} = \frac{15}{4}$
+* $\checkmark \text{substitution into cosine rule}$
+* $\checkmark \text{simplification } (\cos \text{A}\hat{\text{C}}\text{B} = -0{,}28)$
+* $\checkmark \text{answer } (106{,}26^\circ)$
+
+**Final Target Answer:** `106.26°`
+
+---
+
+**[TOTAL QUESTION 4: 21]**
+
+---
+
+## QUESTION 5
+
+### 5.1.1 (2 marks)
+
+**Passage / Context:**
+It is given that $\tan 50^\circ = k$.
+
+**Question:**
+Express $\cos 40^\circ$ in terms of $k$.
+
+**Marking Guideline:**
+$$r^2 = k^2 + 1^2 \quad [\text{Pythagoras}]$$
+$$r = \sqrt{k^2 + 1}$$
+$$\cos 40^\circ = \sin 50^\circ = \frac{k}{\sqrt{k^2 + 1}}$$
+
+* $\checkmark \text{third side } r = \sqrt{k^2 + 1}$
+* $\checkmark \text{answer } \left(\frac{k}{\sqrt{k^2 + 1}}\right)$
+
+**Final Target Answer:** `k / \sqrt{k^2 + 1}`
+
+---
+
+### 5.1.2 (5 marks)
+
+**Passage / Context:**
+It is given that $\tan 50^\circ = k$.
+
+**Question:**
+Express $\frac{2\sin 25^\circ \cdot \cos 25^\circ}{-2 + 4\sin^2 25^\circ}$ in terms of $k$.
+
+**Marking Guideline:**
+$$\frac{2\sin 25^\circ \cos 25^\circ}{-2 + 4\sin^2 25^\circ}$$
+$$= \frac{\sin 50^\circ}{-2(1 - 2\sin^2 25^\circ)}$$
+$$= \frac{\sin 50^\circ}{-2\cos 50^\circ}$$
+$$= -\frac{1}{2}\tan 50^\circ$$
+$$= -\frac{1}{2}k$$
+
+* $\checkmark \sin 50^\circ$
+* $\checkmark -2(1 - 2\sin^2 25^\circ)$
+* $\checkmark \text{double angle: } -2\cos 50^\circ$
+* $\checkmark \text{quotient identity } \tan 50^\circ$
+* $\checkmark \text{answer } \left(-\frac{1}{2}k\right)$
+
+**Final Target Answer:** `-1/2 k`
+
+---
+
+### 5.1.3 (4 marks)
+
+**Passage / Context:**
+It is given that $\tan 50^\circ = k$.
+
+**Question:**
+Express $\sin 10^\circ$ in terms of $k$.
+
+**Marking Guideline:**
+$$\sin 10^\circ = \sin(50^\circ - 40^\circ)$$
+$$= \sin 50^\circ \cos 40^\circ - \cos 50^\circ \sin 40^\circ$$
+$$= \left(\frac{k}{\sqrt{k^2 + 1}}\right)\left(\frac{k}{\sqrt{k^2 + 1}}\right) - \left(\frac{1}{\sqrt{k^2 + 1}}\right)\left(\frac{1}{\sqrt{k^2 + 1}}\right)$$
+$$= \frac{k^2 - 1}{k^2 + 1}$$
+
+* $\checkmark \sin 10^\circ = \sin(50^\circ - 40^\circ)$
+* $\checkmark \text{correct expansion}$
+* $\checkmark \text{first term } \left(\frac{k^2}{k^2 + 1}\right)$
+* $\checkmark \text{second term } \left(\frac{1}{k^2 + 1}\right) \text{ and answer}$
+
+**OR / OF**
+
+$$\sin 10^\circ = \cos 80^\circ = \cos 2(40^\circ)$$
+$$= 2\cos^2 40^\circ - 1$$
+$$= 2\left(\frac{k}{\sqrt{k^2 + 1}}\right)^2 - 1$$
+$$= \frac{2k^2}{k^2 + 1} - 1$$
+$$= \frac{k^2 - 1}{k^2 + 1}$$
+
+* $\checkmark \sin 10^\circ = \cos 80^\circ$
+* $\checkmark \text{correct expansion: } 2\cos^2 40^\circ - 1$
+* $\checkmark\checkmark \text{substitution and answer}$
+
+**OR / OF**
+
+$$\sin 10^\circ = \sin(60^\circ - 50^\circ)$$
+$$= \sin 60^\circ \cos 50^\circ - \cos 60^\circ \sin 50^\circ$$
+$$= \left(\frac{\sqrt{3}}{2}\right)\left(\frac{1}{\sqrt{k^2 + 1}}\right) - \left(\frac{1}{2}\right)\left(\frac{k}{\sqrt{k^2 + 1}}\right)$$
+$$= \frac{\sqrt{3} - k}{2\sqrt{k^2 + 1}}$$
+
+* $\checkmark \sin 10^\circ = \sin(60^\circ - 50^\circ)$
+* $\checkmark \text{correct expansion}$
+* $\checkmark \text{first term}$
+* $\checkmark \text{second term and answer}$
+
+**Final Target Answer:** `(k^2 - 1)/(k^2 + 1)`
+
+---
+
+### 5.2.1 (4 marks)
+
+**Passage / Context:**
+Given: $\frac{\sin(540^\circ + x) \cdot \cos(90^\circ + x)}{\sin(-x)}$
+
+**Question:**
+Simplify the expression above fully to a single trigonometric ratio.
+
+**Marking Guideline:**
+$$\frac{\sin(540^\circ + x) \cdot \cos(90^\circ + x)}{\sin(-x)}$$
+$$= \frac{(-\sin x)(-\sin x)}{-\sin x}$$
+$$= -\sin x$$
+
+* $\checkmark \sin(540^\circ + x) = -\sin x$
+* $\checkmark \cos(90^\circ + x) = -\sin x$
+* $\checkmark \sin(-x) = -\sin x$
+* $\checkmark \text{answer } (-\sin x)$
+
+**Final Target Answer:** `-\sin x`
+
+---
+
+### 5.2.2 (2 marks)
+
+**Passage / Context:**
+Given: $\frac{\sin(540^\circ + x) \cdot \cos(90^\circ + x)}{\sin(-x)}$
+
+**Question:**
+Hence, determine the values of $x$ in the interval $x \in [0^\circ ; 360^\circ]$ for which $\sqrt{\frac{\sin(540^\circ + x) \cdot \cos(90^\circ + x)}{\sin(-x)}}$ will be real.
+
+**Marking Guideline:**
+$$\text{For the square root to be real, the expression under the radical must be non-negative:}$$
+$$-\sin x \ge 0 \iff \sin x \le 0$$
+$$\text{Also, the denominator } \sin(-x) = -\sin x \ne 0 \implies \sin x \ne 0.$$
+$$\therefore \sin x < 0$$
+$$\text{In } [0^\circ ; 360^\circ], \sin x < 0 \text{ for:}$$
+$$x \in (180^\circ ; 360^\circ) \quad \text{OR} \quad 180^\circ < x < 360^\circ$$
+
+* $\checkmark\checkmark x \in (180^\circ ; 360^\circ) \text{ OR } 180^\circ < x < 360^\circ$
+
+**Final Target Answer:** `180° < x < 360°`
+
+---
+
+**[TOTAL QUESTION 5: 17]**
+
+---
+
+## QUESTION 6
+
+### 6.1 (6 marks)
+
+**Question:**
+Prove that:
+$$[\tan(180^\circ - x)](1 - \cos^2 x) + \cos^2 x = \frac{(\sin x - \cos x)(1 + \sin x \cdot \cos x)}{-\cos x}$$
+
+**Marking Guideline:**
+$$\begin{aligned} \text{LHS} &= [\tan(180^\circ - x)](1 - \cos^2 x) + \cos^2 x \\ &= (-\tan x)(\sin^2 x) + \cos^2 x \\ &= \left(-\frac{\sin x}{\cos x}\right)(\sin^2 x) + \cos^2 x \\ &= -\frac{\sin^3 x}{\cos x} + \cos^2 x \\ &= \frac{-\sin^3 x + \cos^3 x}{\cos x} \\ &= \frac{\sin^3 x - \cos^3 x}{-\cos x} \\ &= \frac{(\sin x - \cos x)(\sin^2 x + \sin x \cos x + \cos^2 x)}{-\cos x} \\ &= \frac{(\sin x - \cos x)(1 + \sin x \cos x)}{-\cos x} \\ &= \text{RHS} \end{aligned}$$
+
+* $\checkmark \tan(180^\circ - x) = -\tan x$
+* $\checkmark 1 - \cos^2 x = \sin^2 x$
+* $\checkmark \text{quotient identity}$
+* $\checkmark \text{simplification to a single fraction}$
+* $\checkmark \text{factors for a difference of cubes}$
+* $\checkmark \sin^2 x + \cos^2 x = 1$
+
+**OR / OF**
+
+$$\begin{aligned} \text{RHS} &= \frac{(\sin x - \cos x)(1 + \sin x \cos x)}{-\cos x} \\ &= \frac{(\sin x - \cos x)(\sin^2 x + \cos^2 x + \sin x \cos x)}{-\cos x} \\ &= \frac{\sin^3 x - \cos^3 x}{-\cos x} \\ &= \frac{\sin^3 x}{-\cos x} + \frac{\cos^3 x}{\cos x} \\ &= -\frac{\sin x}{\cos x}(\sin^2 x) + \cos^2 x \\ &= -\tan x(1 - \cos^2 x) + \cos^2 x \\ &= [\tan(180^\circ - x)](1 - \cos^2 x) + \cos^2 x \\ &= \text{LHS} \end{aligned}$$
+
+* $\checkmark 1 = \sin^2 x + \cos^2 x$
+* $\checkmark \text{expansion}$
+* $\checkmark \text{simplification } (\sin^3 x - \cos^3 x)$
+* $\checkmark \text{split fraction}$
+* $\checkmark \text{quotient identity}$
+* $\checkmark \sin^2 x = 1 - \cos^2 x$
+
+**Final Target Answer:** `LHS = RHS`
+
+---
+
+### 6.2 (7 marks)
+
+**Question:**
+It is given that $\sin^2 x$ ; $\cos^2 x$ and $\frac{1}{2}\sin 2x$ are the first three terms of an arithmetic sequence. The constant difference of the arithmetic sequence is NOT zero. Determine the general solution for $x$.
+
+**Marking Guideline:**
+$$\text{Terms: } T_1 = \sin^2 x, \quad T_2 = \cos^2 x, \quad T_3 = \frac{1}{2}\sin 2x$$
+$$T_2 - T_1 = T_3 - T_2$$
+$$\cos^2 x - \sin^2 x = \frac{1}{2}\sin 2x - \cos^2 x$$
+$$\cos^2 x - \sin^2 x = \frac{1}{2}(2\sin x \cos x) - \cos^2 x$$
+$$\cos^2 x - \sin^2 x = \sin x \cos x - \cos^2 x$$
+$$2\cos^2 x - \sin x \cos x - \sin^2 x = 0$$
+$$(2\cos x + \sin x)(\cos x - \sin x) = 0$$
+$$2\cos x + \sin x = 0 \quad \text{or} \quad \cos x - \sin x = 0$$
+$$\sin x = -2\cos x \quad \text{or} \quad \sin x = \cos x$$
+$$\tan x = -2 \quad \text{or} \quad \tan x = 1$$
+$$\text{If } \tan x = 1, \text{ then } \sin^2 x = \cos^2 x = \frac{1}{2}\sin 2x = \frac{1}{2}, \text{ so common difference } d = 0.$$
+$$\text{Since the constant difference is NOT zero, } \tan x \ne 1 \implies x \ne 45^\circ + k \cdot 180^\circ.$$
+$$\text{For } \tan x = -2:$$
+$$\text{ref } \angle = 63{,}43^\circ$$
+$$x = 180^\circ - 63{,}43^\circ + k \cdot 180^\circ$$
+$$x = 116{,}57^\circ + k \cdot 180^\circ ; \quad k \in \mathbb{Z}$$
+
+* $\checkmark \cos^2 x - \sin^2 x = \frac{1}{2}\sin 2x - \cos^2 x$
+* $\checkmark \sin 2x = 2\sin x \cos x$
+* $\checkmark \text{standard form } (2\cos^2 x - \sin x \cos x - \sin^2 x = 0)$
+* $\checkmark \text{factors } (2\cos x + \sin x)(\cos x - \sin x) = 0$
+* $\checkmark \text{both equations } (\tan x = -2 \text{ or } \tan x = 1)$
+* $\checkmark x = 116{,}57^\circ$
+* $\checkmark 116{,}57^\circ + k \cdot 180^\circ ; k \in \mathbb{Z} \quad (x \ne 45^\circ + k \cdot 180^\circ)$
+
+**Final Target Answer:** `x = 116.57° + k * 180°, k in Z`
+
+---
+
+**[TOTAL QUESTION 6: 13]**
+
+---
+
+## QUESTION 7
+
+### 7.1 (1 marks)
+
+**Passage / Context:**
+In the diagram, the graph of $f(x) = \cos 2x$ is drawn for $x \in [-135^\circ ; 135^\circ]$.
+
+[DIAGRAM: Cartesian graph of $f(x) = \cos 2x$ on $x \in [-135^\circ ; 135^\circ]$. The function values range from $-1$ to $1$. Key points: $(-135^\circ ; 0)$, minimum at $(-90^\circ ; -1)$, intercept at $(-45^\circ ; 0)$, maximum at $(0^\circ ; 1)$, intercept at $(45^\circ ; 0)$, minimum at $(90^\circ ; -1)$, and $(135^\circ ; 0)$.]
+
+**Question:**
+Write down the period of $f$.
+
+**Marking Guideline:**
+$$\text{Period} = \frac{360^\circ}{2} = 180^\circ$$
+
+* $\checkmark 180^\circ$
+
+**Final Target Answer:** `180°`
+
+---
+
+### 7.2 (3 marks)
+
+**Passage / Context:**
+In the diagram, the graph of $f(x) = \cos 2x$ is drawn for $x \in [-135^\circ ; 135^\circ]$.
+
+[DIAGRAM: Cartesian graph of $f(x) = \cos 2x$ on $x \in [-135^\circ ; 135^\circ]$. The function values range from $-1$ to $1$. Key points: $(-135^\circ ; 0)$, minimum at $(-90^\circ ; -1)$, intercept at $(-45^\circ ; 0)$, maximum at $(0^\circ ; 1)$, intercept at $(45^\circ ; 0)$, minimum at $(90^\circ ; -1)$, and $(135^\circ ; 0)$.]
+
+**Question:**
+On the set of axes provided in the ANSWER BOOK, draw the graph of $g(x) = \tan 2x - 1$ for $x \in [-135^\circ ; 135^\circ]$.
+
+**Marking Guideline:**
+[GRAPH: $g(x) = \tan 2x - 1$ on $[-135^\circ ; 135^\circ]$. Vertical asymptotes at $2x = \pm 90^\circ, \pm 270^\circ \implies x = -112{,}5^\circ, -22{,}5^\circ, 67{,}5^\circ$. Shape: standard tan curves shifted down 1 unit. Intercepts with axes: $y$-intercept at $(0^\circ ; -1)$; $x$-intercepts where $\tan 2x = 1 \implies x = -67{,}5^\circ, 22{,}5^\circ, 112{,}5^\circ$. Endpoints: $(-135^\circ ; -1)$ and asymptote approaching $135^\circ$.]
+
+* $\checkmark \text{asymptotes } (x = -112{,}5^\circ, -22{,}5^\circ, 67{,}5^\circ)$
+* $\checkmark \text{shape}$
+* $\checkmark \text{intercepts with axes}$
+
+**Final Target Answer:** `Graph of g(x) = tan(2x) - 1 with asymptotes at x = -112.5°, -22.5°, 67.5°`
+
+---
+
+### 7.3 (1 marks)
+
+**Passage / Context:**
+In the diagram, the graph of $f(x) = \cos 2x$ is drawn for $x \in [-135^\circ ; 135^\circ]$.
+
+[DIAGRAM: Cartesian graph of $f(x) = \cos 2x$ on $x \in [-135^\circ ; 135^\circ]$. The function values range from $-1$ to $1$. Key points: $(-135^\circ ; 0)$, minimum at $(-90^\circ ; -1)$, intercept at $(-45^\circ ; 0)$, maximum at $(0^\circ ; 1)$, intercept at $(45^\circ ; 0)$, minimum at $(90^\circ ; -1)$, and $(135^\circ ; 0)$.]
+
+**Question:**
+Graph $f$ is translated $45^\circ$ to the left to form graph $h$. Determine the equation of $h$ in its simplest form.
+
+**Marking Guideline:**
+$$f(x) = \cos 2x$$
+$$h(x) = \cos(2(x + 45^\circ))$$
+$$= \cos(2x + 90^\circ)$$
+$$= -\sin 2x$$
+
+* $\checkmark h(x) = -\sin 2x$
+
+**Final Target Answer:** `h(x) = -\sin 2x`
+
+---
+
+### 7.4 (1 marks)
+
+**Passage / Context:**
+In the diagram, the graph of $f(x) = \cos 2x$ is drawn for $x \in [-135^\circ ; 135^\circ]$.
+
+[DIAGRAM: Cartesian graph of $f(x) = \cos 2x$ on $x \in [-135^\circ ; 135^\circ]$. The function values range from $-1$ to $1$. Key points: $(-135^\circ ; 0)$, minimum at $(-90^\circ ; -1)$, intercept at $(-45^\circ ; 0)$, maximum at $(0^\circ ; 1)$, intercept at $(45^\circ ; 0)$, minimum at $(90^\circ ; -1)$, and $(135^\circ ; 0)$.]
+
+**Question:**
+Write down the range of $h$.
+
+**Marking Guideline:**
+$$y \in [-1 ; 1] \quad \text{OR} \quad -1 \le y \le 1$$
+
+* $\checkmark y \in [-1 ; 1] \text{ OR } -1 \le y \le 1$
+
+**Final Target Answer:** `[-1 ; 1]`
+
+---
+
+### 7.5 (4 marks)
+
+**Passage / Context:**
+In the diagram, the graph of $f(x) = \cos 2x$ is drawn for $x \in [-135^\circ ; 135^\circ]$.
+
+[DIAGRAM: Cartesian graph of $f(x) = \cos 2x$ on $x \in [-135^\circ ; 135^\circ]$. The function values range from $-1$ to $1$. Key points: $(-135^\circ ; 0)$, minimum at $(-90^\circ ; -1)$, intercept at $(-45^\circ ; 0)$, maximum at $(0^\circ ; 1)$, intercept at $(45^\circ ; 0)$, minimum at $(90^\circ ; -1)$, and $(135^\circ ; 0)$.]
+
+**Question:**
+Determine the values of $x$ for which $(1 - \tan 2x)(\cos 2x) \ge 0$ in the interval $x \in [0^\circ ; 135^\circ]$.
+
+**Marking Guideline:**
+$$(1 - \tan 2x)(\cos 2x) \ge 0$$
+$$-(\tan 2x - 1)(\cos 2x) \ge 0$$
+$$(\tan 2x - 1)(\cos 2x) \le 0$$
+$$\text{Critical values in } [0^\circ ; 135^\circ]:$$
+$$\tan 2x - 1 = 0 \implies 2x = 45^\circ \implies x = 22{,}5^\circ$$
+$$\cos 2x = 0 \implies 2x = 90^\circ \implies x = 45^\circ$$
+$$\text{Asymptote of } \tan 2x: 2x = 90^\circ \implies x = 45^\circ$$
+$$\text{At } x = 112{,}5^\circ: 2x = 225^\circ \implies \tan 225^\circ = 1$$
+$$\text{At } x = 135^\circ: 2x = 270^\circ \implies \tan 270^\circ \text{ is undefined}$$
+$$\text{Analyzing signs on intervals:}$$
+$$x \in [0^\circ ; 22{,}5^\circ] \cup [112{,}5^\circ ; 135^\circ)$$
+
+**OR / OF**
+
+$$0^\circ \le x \le 22{,}5^\circ \quad \text{or} \quad 112{,}5^\circ \le x < 135^\circ$$
+
+* $\checkmark x = 22{,}5^\circ$
+* $\checkmark (\tan 2x - 1)(\cos 2x) \le 0$
+* $\checkmark \text{first interval: } [0^\circ ; 22{,}5^\circ]$
+* $\checkmark \text{second interval: } [112{,}5^\circ ; 135^\circ)$
+
+**Final Target Answer:** `[0° ; 22.5°] U [112.5° ; 135°)`
+
+---
+
+**[TOTAL QUESTION 7: 10]**
+
+---
+
+## QUESTION 8
+
+### 8.1 (2 marks)
+
+**Passage / Context:**
+As part of a school project, learners are required to design a portable stage for a puppet show, as shown in the diagram below. The design must fulfil the following requirements:
+- $\text{BKLC}$ is a horizontal base having $\text{K}\hat{\text{B}}\text{C} = 104^\circ$ and $\text{B}\hat{\text{K}}\text{C} = 52{,}6^\circ$.
+- The rectangular backdrop, $\text{ABCD}$, is vertical to the horizontal base and must have an area of $648\text{ cm}^2$.
+- The sides of $\text{ABCD}$ must be in the ratio $\text{AB} : \text{BC} = 1 : 2$.
+- The stage must be partly enclosed with triangular sides $\text{ABK}$ and $\text{DCL}$.
+
+[DIAGRAM: 3D perspective of puppet stage. Horizontal base quadrilateral $\text{BKLC}$ on the floor with $\text{K}\hat{\text{B}}\text{C} = 104^\circ$ and $\text{B}\hat{\text{K}}\text{C} = 52{,}6^\circ$. Vertical rectangular backdrop $\text{ABCD}$ with area $= 648\text{ cm}^2$ and sides in ratio $\text{AB} : \text{BC} = 1 : 2$, with $\text{AB} \perp \text{BC}$ and $\text{AB}$ perpendicular to the base. Diagonal $\text{KC}$ is drawn on the horizontal base. Line segment $\text{AC}$ connects opposite vertices of the rectangle. Triangular side flaps $\text{ABK}$ and $\text{DCL}$ connect the backdrop to base vertices.]
+
+**Question:**
+Show that $\text{AB} = 18\text{ cm}$.
+
+**Marking Guideline:**
+$$\text{Area of ABCD} = \text{AB} \times \text{BC}$$
+$$\text{Ratio } \text{AB} : \text{BC} = 1 : 2 \implies \text{BC} = 2\text{AB}$$
+$$648 = \text{AB} \times 2\text{AB}$$
+$$2\text{AB}^2 = 648$$
+$$\text{AB}^2 = 324$$
+$$\text{AB} = 18\text{ cm}$$
+
+* $\checkmark \text{BC} = 2\text{AB}$
+* $\checkmark \text{substitution into area formula and solving}$
+
+**Final Target Answer:** `AB = 18 cm`
+
+---
+
+### 8.2 (2 marks)
+
+**Passage / Context:**
+As part of a school project, learners are required to design a portable stage for a puppet show, as shown in the diagram below. The design must fulfil the following requirements:
+- $\text{BKLC}$ is a horizontal base having $\text{K}\hat{\text{B}}\text{C} = 104^\circ$ and $\text{B}\hat{\text{K}}\text{C} = 52{,}6^\circ$.
+- The rectangular backdrop, $\text{ABCD}$, is vertical to the horizontal base and must have an area of $648\text{ cm}^2$.
+- The sides of $\text{ABCD}$ must be in the ratio $\text{AB} : \text{BC} = 1 : 2$.
+- The stage must be partly enclosed with triangular sides $\text{ABK}$ and $\text{DCL}$.
+
+[DIAGRAM: 3D perspective of puppet stage. Horizontal base quadrilateral $\text{BKLC}$ on the floor with $\text{K}\hat{\text{B}}\text{C} = 104^\circ$ and $\text{B}\hat{\text{K}}\text{C} = 52{,}6^\circ$. Vertical rectangular backdrop $\text{ABCD}$ with area $= 648\text{ cm}^2$ and sides in ratio $\text{AB} : \text{BC} = 1 : 2$, with $\text{AB} \perp \text{BC}$ and $\text{AB}$ perpendicular to the base. Diagonal $\text{KC}$ is drawn on the horizontal base. Line segment $\text{AC}$ connects opposite vertices of the rectangle. Triangular side flaps $\text{ABK}$ and $\text{DCL}$ connect the backdrop to base vertices.]
+
+**Question:**
+Calculate the length of $\text{AC}$.
+
+**Marking Guideline:**
+$$\text{In right-angled } \Delta\text{ABC} \; [\hat{\text{B}} = 90^\circ]:$$
+$$\text{AC}^2 = \text{AB}^2 + \text{BC}^2 \quad [\text{Pythagoras}]$$
+$$\text{BC} = 2(18) = 36\text{ cm}$$
+$$\text{AC}^2 = 18^2 + 36^2$$
+$$\text{AC}^2 = 324 + 1296 = 1620$$
+$$\text{AC} = \sqrt{1620} = 18\sqrt{5} \approx 40{,}25\text{ cm}$$
+
+* $\checkmark \text{AC}^2 = 18^2 + 36^2$
+* $\checkmark \text{answer } (18\sqrt{5} \text{ or } 40{,}25\text{ cm})$
+
+**Final Target Answer:** `40.25 cm`
+
+---
+
+### 8.3 (2 marks)
+
+**Passage / Context:**
+As part of a school project, learners are required to design a portable stage for a puppet show, as shown in the diagram below. The design must fulfil the following requirements:
+- $\text{BKLC}$ is a horizontal base having $\text{K}\hat{\text{B}}\text{C} = 104^\circ$ and $\text{B}\hat{\text{K}}\text{C} = 52{,}6^\circ$.
+- The rectangular backdrop, $\text{ABCD}$, is vertical to the horizontal base and must have an area of $648\text{ cm}^2$.
+- The sides of $\text{ABCD}$ must be in the ratio $\text{AB} : \text{BC} = 1 : 2$.
+- The stage must be partly enclosed with triangular sides $\text{ABK}$ and $\text{DCL}$.
+
+[DIAGRAM: 3D perspective of puppet stage. Horizontal base quadrilateral $\text{BKLC}$ on the floor with $\text{K}\hat{\text{B}}\text{C} = 104^\circ$ and $\text{B}\hat{\text{K}}\text{C} = 52{,}6^\circ$. Vertical rectangular backdrop $\text{ABCD}$ with area $= 648\text{ cm}^2$ and sides in ratio $\text{AB} : \text{BC} = 1 : 2$, with $\text{AB} \perp \text{BC}$ and $\text{AB}$ perpendicular to the base. Diagonal $\text{KC}$ is drawn on the horizontal base. Line segment $\text{AC}$ connects opposite vertices of the rectangle. Triangular side flaps $\text{ABK}$ and $\text{DCL}$ connect the backdrop to base vertices.]
+
+**Question:**
+Calculate the length of diagonal $\text{KC}$.
+
+**Marking Guideline:**
+$$\text{In } \Delta\text{BKC}:$$
+$$\frac{\text{KC}}{\sin \text{K}\hat{\text{B}}\text{C}} = \frac{\text{BC}}{\sin \text{B}\hat{\text{K}}\text{C}}$$
+$$\frac{\text{KC}}{\sin 104^\circ} = \frac{36}{\sin 52{,}6^\circ}$$
+$$\text{KC} = \frac{36\sin 104^\circ}{\sin 52{,}6^\circ}$$
+$$\text{KC} = 43{,}97\text{ cm}$$
+
+* $\checkmark \text{substitution into sine rule}$
+* $\checkmark \text{answer } (43{,}97\text{ cm})$
+
+**Final Target Answer:** `43.97 cm`
+
+---
+
+### 8.4 (4 marks)
+
+**Passage / Context:**
+As part of a school project, learners are required to design a portable stage for a puppet show, as shown in the diagram below. The design must fulfil the following requirements:
+- $\text{BKLC}$ is a horizontal base having $\text{K}\hat{\text{B}}\text{C} = 104^\circ$ and $\text{B}\hat{\text{K}}\text{C} = 52{,}6^\circ$.
+- The rectangular backdrop, $\text{ABCD}$, is vertical to the horizontal base and must have an area of $648\text{ cm}^2$.
+- The sides of $\text{ABCD}$ must be in the ratio $\text{AB} : \text{BC} = 1 : 2$.
+- The stage must be partly enclosed with triangular sides $\text{ABK}$ and $\text{DCL}$.
+
+[DIAGRAM: 3D perspective of puppet stage. Horizontal base quadrilateral $\text{BKLC}$ on the floor with $\text{K}\hat{\text{B}}\text{C} = 104^\circ$ and $\text{B}\hat{\text{K}}\text{C} = 52{,}6^\circ$. Vertical rectangular backdrop $\text{ABCD}$ with area $= 648\text{ cm}^2$ and sides in ratio $\text{AB} : \text{BC} = 1 : 2$, with $\text{AB} \perp \text{BC}$ and $\text{AB}$ perpendicular to the base. Diagonal $\text{KC}$ is drawn on the horizontal base. Line segment $\text{AC}$ connects opposite vertices of the rectangle. Triangular side flaps $\text{ABK}$ and $\text{DCL}$ connect the backdrop to base vertices.]
+
+**Question:**
+If $\text{AB} = \text{BK}$, calculate the size of $\text{K}\hat{\text{A}}\text{C}$.
+
+**Marking Guideline:**
+$$\text{Since ABCD is vertical to base BKLC}, \text{AB} \perp \text{BK}:$$
+$$\text{In right-angled } \Delta\text{ABK}:$$
+$$\text{AK}^2 = \text{AB}^2 + \text{BK}^2 \quad [\text{Pythagoras}]$$
+$$\text{AK}^2 = 18^2 + 18^2 = 648$$
+$$\text{AK} = \sqrt{648} = 18\sqrt{2} \approx 25{,}46\text{ cm}$$
+$$\text{In } \Delta\text{AKC}:$$
+$$\text{KC}^2 = \text{AK}^2 + \text{AC}^2 - 2(\text{AK})(\text{AC})\cos \text{K}\hat{\text{A}}\text{C} \quad [\text{Cosine rule}]$$
+$$(43{,}97)^2 = (18\sqrt{2})^2 + (18\sqrt{5})^2 - 2(18\sqrt{2})(18\sqrt{5})\cos \text{K}\hat{\text{A}}\text{C}$$
+$$1933{,}36 = 648 + 1620 - 2(25{,}4558)(40{,}2492)\cos \text{K}\hat{\text{A}}\text{C}$$
+$$1933{,}36 = 2268 - 2049{,}16\cos \text{K}\hat{\text{A}}\text{C}$$
+$$\cos \text{K}\hat{\text{A}}\text{C} = 0{,}163...$$
+$$\text{K}\hat{\text{A}}\text{C} = 80{,}60^\circ$$
+
+* $\checkmark \text{length of AK } (18\sqrt{2} \text{ or } 25{,}46\text{ cm})$
+* $\checkmark \text{substitution into cosine rule}$
+* $\checkmark \text{simplification } (\cos \text{K}\hat{\text{A}}\text{C} = 0{,}16...)$
+* $\checkmark \text{answer } (80{,}60^\circ)$
+
+**Final Target Answer:** `80.60°`
+
+---
+
+**[TOTAL QUESTION 8: 10]**
+
+---
+
+## QUESTION 9
+
+### 9.1 (5 marks)
+
+**Passage / Context:**
+In the diagram, $\text{O}$ is the centre of the circle. $\text{K}$, $\text{T}$ and $\text{P}$ lie on the circle.
+
+[DIAGRAM: Circle with centre $\text{O}$. Points $\text{K}$, $\text{T}$, and $\text{P}$ lie on the circumference, with $\text{K}$ near the top, $\text{T}$ on bottom-left, $\text{P}$ on bottom-right. Radii $\text{OT}$ and $\text{OP}$ are drawn to form central angle $\text{T}\hat{\text{O}}\text{P}$. Chords $\text{KT}$ and $\text{KP}$ are drawn to form angle $\text{T}\hat{\text{K}}\text{P}$ at the circumference.]
+
+**Question:**
+Use the diagram above to prove the theorem which states that the angle subtended by a chord (or arc) at the centre of the circle is equal to twice the angle subtended by the same chord (or arc) at the circumference, that is prove that $\text{T}\hat{\text{O}}\text{P} = 2\text{T}\hat{\text{K}}\text{P}$.
+
+**Marking Guideline:**
+$$\text{Construction: Draw diameter KO produced to any point. Label angles } \hat{\text{O}}_1, \hat{\text{O}}_2, \hat{\text{K}}_1, \hat{\text{K}}_2.$$
+$$\hat{\text{O}}_1 = \hat{\text{K}}_1 + \hat{\text{T}} \quad [\text{ext } \angle \text{ of } \Delta\text{KOT}]$$
+$$\text{But } \hat{\text{K}}_1 = \hat{\text{T}} \quad [\angle\text{s opp equal radii, OK = OT}]$$
+$$\therefore \hat{\text{O}}_1 = 2\hat{\text{K}}_1$$
+$$\text{Similarly, in } \Delta\text{KOP}:$$
+$$\hat{\text{O}}_2 = \hat{\text{K}}_2 + \hat{\text{P}} \quad [\text{ext } \angle \text{ of } \Delta\text{KOP}]$$
+$$\text{But } \hat{\text{K}}_2 = \hat{\text{P}} \quad [\angle\text{s opp equal radii, OK = OP}]$$
+$$\therefore \hat{\text{O}}_2 = 2\hat{\text{K}}_2$$
+$$\hat{\text{O}}_1 + \hat{\text{O}}_2 = 2\hat{\text{K}}_1 + 2\hat{\text{K}}_2 = 2(\hat{\text{K}}_1 + \hat{\text{K}}_2)$$
+$$\therefore \text{T}\hat{\text{O}}\text{P} = 2\text{T}\hat{\text{K}}\text{P}$$
+
+* $\checkmark \text{construction (Draw KO produced)}$
+* $\checkmark \text{S/R: } \hat{\text{O}}_1 = \hat{\text{K}}_1 + \hat{\text{T}} \; [\text{ext } \angle \text{ of } \Delta]$
+* $\checkmark \text{S: } \hat{\text{O}}_1 = 2\hat{\text{K}}_1$
+* $\checkmark \text{S: } \hat{\text{O}}_2 = 2\hat{\text{K}}_2$
+* $\checkmark \text{S: } \text{T}\hat{\text{O}}\text{P} = 2\text{T}\hat{\text{K}}\text{P}$
+
+**OR / OF**
+
+$$\text{Construction: Draw KO}$$
+$$\hat{\text{T}} = \hat{\text{K}}_1 \quad [\angle\text{s opp equal radii}]$$
+$$\text{K}\hat{\text{O}}\text{T} = 180^\circ - 2\hat{\text{K}}_1 \quad [\text{sum of } \angle\text{s in } \Delta]$$
+$$\hat{\text{P}} = \hat{\text{K}}_2 \quad [\angle\text{s opp equal radii}]$$
+$$\text{K}\hat{\text{O}}\text{P} = 180^\circ - 2\hat{\text{K}}_2 \quad [\text{sum of } \angle\text{s in } \Delta]$$
+$$\text{T}\hat{\text{O}}\text{P} = 360^\circ - (\text{K}\hat{\text{O}}\text{T} + \text{K}\hat{\text{O}}\text{P}) \quad [\angle\text{s around a point}]$$
+$$= 360^\circ - (180^\circ - 2\hat{\text{K}}_1 + 180^\circ - 2\hat{\text{K}}_2)$$
+$$= 2\hat{\text{K}}_1 + 2\hat{\text{K}}_2 = 2(\hat{\text{K}}_1 + \hat{\text{K}}_2) = 2\text{T}\hat{\text{K}}\text{P}$$
+
+* $\checkmark \text{construction (Draw KO)}$
+* $\checkmark \text{S/R: } \hat{\text{T}} = \hat{\text{K}}_1 \; [\angle\text{s opp equal radii}]$
+* $\checkmark \text{S: } \text{K}\hat{\text{O}}\text{T} = 180^\circ - 2\hat{\text{K}}_1$
+* $\checkmark \text{S: } \text{K}\hat{\text{O}}\text{P} = 180^\circ - 2\hat{\text{K}}_2$
+* $\checkmark \text{S: } \text{T}\hat{\text{O}}\text{P} = 2\text{T}\hat{\text{K}}\text{P}$
+
+**Final Target Answer:** `TÔP = 2 TK̂P`
+
+---
+
+### 9.2.1 (2 marks)
+
+**Passage / Context:**
+In the diagram, $\text{O}$ is the centre of the circle. $\text{POF}$ is the diameter of the circle and $\text{MF}$ is a tangent to the circle at $\text{F}$. $\text{OM}$ cuts the circle at $\text{L}$. $\hat{\text{P}} = 32^\circ$.
+
+[DIAGRAM: Circle with centre $\text{O}$ and vertical diameter $\text{POF}$ with $\text{P}$ at the top and $\text{F}$ at the bottom. $\text{MF}$ is a horizontal tangent to the circle at $\text{F}$, extending to the left. Line segment $\text{OM}$ connects centre $\text{O}$ to external point $\text{M}$, cutting the circle at point $\text{L}$. Chord $\text{PL}$ is drawn. At centre $\text{O}$, the angle is divided by line segment $\text{OL}$ into $\hat{\text{O}}_1$ (top angle $\text{P}\hat{\text{O}}\text{L}$) and $\hat{\text{O}}_2$ (bottom angle $\text{L}\hat{\text{O}}\text{F}$). Angle $\text{O}\hat{\text{P}}\text{L} = \hat{\text{P}} = 32^\circ$.]
+
+**Question:**
+Calculate, with reasons, the size of $\hat{\text{O}}_2$.
+
+**Marking Guideline:**
+$$\hat{\text{O}}_2 = 2 \times 32^\circ = 64^\circ \quad [\angle \text{ at centre } = 2 \times \angle \text{ at circumference}]$$
+
+* $\checkmark \text{S } (\hat{\text{O}}_2 = 64^\circ)$
+* $\checkmark \text{R } (\angle \text{ at centre } = 2 \times \angle \text{ at circumference})$
+
+**OR / OF**
+
+$$\text{P}\hat{\text{L}}\text{O} = \hat{\text{P}} = 32^\circ \quad [\angle\text{s opp equal radii, OP = OL}]$$
+$$\hat{\text{O}}_2 = \hat{\text{P}} + \text{P}\hat{\text{L}}\text{O} = 32^\circ + 32^\circ = 64^\circ \quad [\text{ext } \angle \text{ of } \Delta\text{POL}]$$
+
+* $\checkmark \text{S/R } (\text{P}\hat{\text{L}}\text{O} = 32^\circ \; [\angle\text{s opp equal radii}])$
+* $\checkmark \text{S } (\hat{\text{O}}_2 = 64^\circ)$
+
+**Final Target Answer:** `64°`
+
+---
+
+### 9.2.2 (3 marks)
+
+**Passage / Context:**
+In the diagram, $\text{O}$ is the centre of the circle. $\text{POF}$ is the diameter of the circle and $\text{MF}$ is a tangent to the circle at $\text{F}$. $\text{OM}$ cuts the circle at $\text{L}$. $\hat{\text{P}} = 32^\circ$.
+
+[DIAGRAM: Circle with centre $\text{O}$ and vertical diameter $\text{POF}$ with $\text{P}$ at the top and $\text{F}$ at the bottom. $\text{MF}$ is a horizontal tangent to the circle at $\text{F}$, extending to the left. Line segment $\text{OM}$ connects centre $\text{O}$ to external point $\text{M}$, cutting the circle at point $\text{L}$. Chord $\text{PL}$ is drawn. At centre $\text{O}$, the angle is divided by line segment $\text{OL}$ into $\hat{\text{O}}_1$ (top angle $\text{P}\hat{\text{O}}\text{L}$) and $\hat{\text{O}}_2$ (bottom angle $\text{L}\hat{\text{O}}\text{F}$). Angle $\text{O}\hat{\text{P}}\text{L} = \hat{\text{P}} = 32^\circ$.]
+
+**Question:**
+Calculate, with reasons, the size of $\hat{\text{M}}$.
+
+**Marking Guideline:**
+$$\text{P}\hat{\text{F}}\text{M} = 90^\circ \quad [\text{tangent } \perp \text{ diameter/radius}]$$
+$$\text{In } \Delta\text{MOF}:$$
+$$\hat{\text{M}} + \hat{\text{O}}_2 + \text{O}\hat{\text{F}}\text{M} = 180^\circ \quad [\text{sum of } \angle\text{s in } \Delta]$$
+$$\hat{\text{M}} + 64^\circ + 90^\circ = 180^\circ$$
+$$\hat{\text{M}} = 26^\circ$$
+
+* $\checkmark \text{S } (\text{P}\hat{\text{F}}\text{M} = 90^\circ)$
+* $\checkmark \text{R } (\text{tangent } \perp \text{ diameter})$
+* $\checkmark \text{S } (\hat{\text{M}} = 26^\circ)$
+
+**Final Target Answer:** `26°`
+
+---
+
+**[TOTAL QUESTION 9: 10]**
+
+---
+
+## QUESTION 10
+
+### 10.1 (3 marks)
+
+**Passage / Context:**
+In the diagram, $\text{PQRS}$ is a cyclic quadrilateral. $\text{T}$ is a point on the circle such that $\text{QT}$ is perpendicular to $\text{SR}$ at $\text{V}$. $\text{PT}$ and $\text{ST}$ are drawn. $\hat{\text{Q}}_2 = 35^\circ$ and $\hat{\text{R}} = \hat{\text{S}}_1$.
+
+[DIAGRAM: Cyclic quadrilateral $\text{PQRS}$ inscribed in a circle. Point $\text{T}$ lies on the circle. Chord $\text{QT}$ intersects chord $\text{SR}$ perpendicularly at $\text{V}$ forming right angles $\hat{\text{V}}_1 = \hat{\text{V}}_2 = \hat{\text{V}}_3 = \hat{\text{V}}_4 = 90^\circ$. Chords $\text{PT}$ and $\text{ST}$ are drawn. Angles indicated: $\hat{\text{P}}_1, \hat{\text{P}}_2$; $\hat{\text{Q}}_1, \hat{\text{Q}}_2 = 35^\circ$ (where $\hat{\text{Q}}_2 = \text{R}\hat{\text{Q}}\text{T}$); $\hat{\text{R}}$; $\hat{\text{S}}_1, \hat{\text{S}}_2$ (where $\hat{\text{S}}_1 = \text{P}\hat{\text{S}}\text{R}$ and $\hat{\text{S}}_2 = \text{R}\hat{\text{S}}\text{T}$); $\hat{\text{T}}_1, \hat{\text{T}}_2$. Given: $\hat{\text{Q}}_2 = 35^\circ$ and $\hat{\text{R}} = \hat{\text{S}}_1$.]
+
+**Question:**
+Calculate, with reasons, the size of $\text{Q}\hat{\text{T}}\text{S}$.
+
+**Marking Guideline:**
+$$\text{In } \Delta\text{QVR}:$$
+$$\hat{\text{R}} = 180^\circ - 90^\circ - 35^\circ = 55^\circ \quad [\text{sum of } \angle\text{s in } \Delta]$$
+$$\text{Q}\hat{\text{T}}\text{S} = \hat{\text{R}} = 55^\circ \quad [\angle\text{s in the same seg}]$$
+
+* $\checkmark \text{S } (\hat{\text{R}} = 55^\circ)$
+* $\checkmark \text{S } (\text{Q}\hat{\text{T}}\text{S} = 55^\circ)$
+* $\checkmark \text{R } [\angle\text{s in the same seg}]$
+
+**OR / OF**
+
+$$\hat{\text{S}}_2 = \hat{\text{Q}}_2 = 35^\circ \quad [\angle\text{s in the same seg}]$$
+$$\text{In right-angled } \Delta\text{SVT}:$$
+$$\text{Q}\hat{\text{T}}\text{S} = 90^\circ - 35^\circ = 55^\circ \quad [\text{sum of } \angle\text{s in } \Delta]$$
+
+* $\checkmark \text{S } (\hat{\text{S}}_2 = 35^\circ)$
+* $\checkmark \text{R } [\angle\text{s in the same seg}]$
+* $\checkmark \text{S } (\text{Q}\hat{\text{T}}\text{S} = 55^\circ)$
+
+**Final Target Answer:** `55°`
+
+---
+
+### 10.2 (3 marks)
+
+**Passage / Context:**
+In the diagram, $\text{PQRS}$ is a cyclic quadrilateral. $\text{T}$ is a point on the circle such that $\text{QT}$ is perpendicular to $\text{SR}$ at $\text{V}$. $\text{PT}$ and $\text{ST}$ are drawn. $\hat{\text{Q}}_2 = 35^\circ$ and $\hat{\text{R}} = \hat{\text{S}}_1$.
+
+[DIAGRAM: Cyclic quadrilateral $\text{PQRS}$ inscribed in a circle. Point $\text{T}$ lies on the circle. Chord $\text{QT}$ intersects chord $\text{SR}$ perpendicularly at $\text{V}$ forming right angles $\hat{\text{V}}_1 = \hat{\text{V}}_2 = \hat{\text{V}}_3 = \hat{\text{V}}_4 = 90^\circ$. Chords $\text{PT}$ and $\text{ST}$ are drawn. Angles indicated: $\hat{\text{P}}_1, \hat{\text{P}}_2$; $\hat{\text{Q}}_1, \hat{\text{Q}}_2 = 35^\circ$ (where $\hat{\text{Q}}_2 = \text{R}\hat{\text{Q}}\text{T}$); $\hat{\text{R}}$; $\hat{\text{S}}_1, \hat{\text{S}}_2$ (where $\hat{\text{S}}_1 = \text{P}\hat{\text{S}}\text{R}$ and $\hat{\text{S}}_2 = \text{R}\hat{\text{S}}\text{T}$); $\hat{\text{T}}_1, \hat{\text{T}}_2$. Given: $\hat{\text{Q}}_2 = 35^\circ$ and $\hat{\text{R}} = \hat{\text{S}}_1$.]
+
+**Question:**
+Prove that $\text{PQ} \parallel \text{SR}$.
+
+**Marking Guideline:**
+$$\text{S}\hat{\text{P}}\text{Q} = 180^\circ - \hat{\text{R}} = 180^\circ - 55^\circ = 125^\circ \quad [\text{opp } \angle\text{s of cyclic quad}]$$
+$$\hat{\text{S}}_1 = \hat{\text{R}} = 55^\circ \quad [\text{given}]$$
+$$\text{S}\hat{\text{P}}\text{Q} + \hat{\text{S}}_1 = 125^\circ + 55^\circ = 180^\circ$$
+$$\therefore \text{PQ} \parallel \text{SR} \quad [\text{co-interior } \angle\text{s are supplementary}]$$
+
+* $\checkmark \text{S } (\text{S}\hat{\text{P}}\text{Q} = 125^\circ)$
+* $\checkmark \text{R } [\text{opp } \angle\text{s of cyclic quad}]$
+* $\checkmark \text{R } [\text{co-int } \angle\text{s supplementary}]$
+
+**OR / OF**
+
+$$\hat{\text{S}}_1 = \hat{\text{R}} = 55^\circ \quad [\text{given}]$$
+$$\text{P}\hat{\text{Q}}\text{R} = 180^\circ - \hat{\text{S}}_1 = 180^\circ - 55^\circ = 125^\circ \quad [\text{opp } \angle\text{s of cyclic quad}]$$
+$$\hat{\text{Q}}_1 = 125^\circ - 35^\circ = 90^\circ$$
+$$\hat{\text{Q}}_1 + \hat{\text{V}}_1 = 90^\circ + 90^\circ = 180^\circ$$
+$$\therefore \text{PQ} \parallel \text{SR} \quad [\text{co-interior } \angle\text{s are supplementary}]$$
+
+* $\checkmark \text{S } (\text{P}\hat{\text{Q}}\text{R} = 125^\circ \text{ or } \hat{\text{Q}}_1 = 90^\circ)$
+* $\checkmark \text{R } [\text{opp } \angle\text{s of cyclic quad}]$
+* $\checkmark \text{R } [\text{co-int } \angle\text{s supplementary}]$
+
+**Final Target Answer:** `PQ || SR`
+
+---
+
+### 10.3 (2 marks)
+
+**Passage / Context:**
+In the diagram, $\text{PQRS}$ is a cyclic quadrilateral. $\text{T}$ is a point on the circle such that $\text{QT}$ is perpendicular to $\text{SR}$ at $\text{V}$. $\text{PT}$ and $\text{ST}$ are drawn. $\hat{\text{Q}}_2 = 35^\circ$ and $\hat{\text{R}} = \hat{\text{S}}_1$.
+
+[DIAGRAM: Cyclic quadrilateral $\text{PQRS}$ inscribed in a circle. Point $\text{T}$ lies on the circle. Chord $\text{QT}$ intersects chord $\text{SR}$ perpendicularly at $\text{V}$ forming right angles $\hat{\text{V}}_1 = \hat{\text{V}}_2 = \hat{\text{V}}_3 = \hat{\text{V}}_4 = 90^\circ$. Chords $\text{PT}$ and $\text{ST}$ are drawn. Angles indicated: $\hat{\text{P}}_1, \hat{\text{P}}_2$; $\hat{\text{Q}}_1, \hat{\text{Q}}_2 = 35^\circ$ (where $\hat{\text{Q}}_2 = \text{R}\hat{\text{Q}}\text{T}$); $\hat{\text{R}}$; $\hat{\text{S}}_1, \hat{\text{S}}_2$ (where $\hat{\text{S}}_1 = \text{P}\hat{\text{S}}\text{R}$ and $\hat{\text{S}}_2 = \text{R}\hat{\text{S}}\text{T}$); $\hat{\text{T}}_1, \hat{\text{T}}_2$. Given: $\hat{\text{Q}}_2 = 35^\circ$ and $\hat{\text{R}} = \hat{\text{S}}_1$.]
+
+**Question:**
+Prove that $\text{PT}$ is a diameter of the circle.
+
+**Marking Guideline:**
+$$\hat{\text{Q}}_1 = 90^\circ \quad [\text{co-interior } \angle\text{s, PQ } \parallel \text{SR}] \quad (\text{since } \text{Q}\hat{\text{V}}\text{S} = 90^\circ)$$
+$$\therefore \text{P}\hat{\text{Q}}\text{T} = 90^\circ$$
+$$\therefore \text{PT is a diameter} \quad [\text{converse } \angle \text{ in semi-circle / chord subtends } 90^\circ \angle]$$
+
+* $\checkmark \text{S } (\hat{\text{Q}}_1 = 90^\circ)$
+* $\checkmark \text{R } [\text{converse } \angle \text{ in semi-circle / chord subtends } 90^\circ]$
+
+**OR / OF**
+
+$$\hat{\text{S}}_2 = 35^\circ \quad [\angle\text{s in the same seg}]$$
+$$\hat{\text{S}}_1 = 55^\circ$$
+$$\text{P}\hat{\text{S}}\text{T} = \hat{\text{S}}_1 + \hat{\text{S}}_2 = 55^\circ + 35^\circ = 90^\circ$$
+$$\therefore \text{PT is a diameter} \quad [\text{converse } \angle \text{ in semi-circle / chord subtends } 90^\circ \angle]$$
+
+* $\checkmark \text{S } (\text{P}\hat{\text{S}}\text{T} = 90^\circ)$
+* $\checkmark \text{R } [\text{converse } \angle \text{ in semi-circle / chord subtends } 90^\circ]$
+
+**Final Target Answer:** `PT is a diameter (PQT = 90° or PST = 90°)`
+
+---
+
+**[TOTAL QUESTION 10: 8]**
+
+---
+
+## QUESTION 11
+
+### 11.1.1 (2 marks)
+
+**Passage / Context:**
+In the diagram, $\Delta\text{ABC}$ is drawn. $\text{BA}$ is produced to $\text{E}$. $\text{F}$ and $\text{D}$ are points on $\text{BC}$ such that $\text{AD} \parallel \text{EF}$. $\text{AC}$ and $\text{EF}$ intersect at $\text{G}$. $\frac{\text{CF}}{\text{FB}} = \frac{2}{5}$ and $\frac{\text{CG}}{\text{GA}} = \frac{3}{2}$.
+
+[DIAGRAM: Triangle $\text{ABC}$ with side $\text{BA}$ extended/produced past $\text{A}$ to point $\text{E}$. Points $\text{F}$ and $\text{D}$ lie on side $\text{BC}$ with collinear ordering $\text{C}, \text{F}, \text{D}, \text{B}$. Line segments $\text{AD}$ and $\text{EF}$ are parallel ($\text{AD} \parallel \text{EF}$). Line segment $\text{EF}$ intersects side $\text{AC}$ at point $\text{G}$. Given ratios: $\frac{\text{CF}}{\text{FB}} = \frac{2}{5}$ and $\frac{\text{CG}}{\text{GA}} = \frac{3}{2}$.]
+
+**Question:**
+Calculate, with reasons, the value of $\frac{\text{FD}}{\text{CF}}$.
+
+**Marking Guideline:**
+$$\text{In } \Delta\text{CAD}, \text{ GF} \parallel \text{AD}:$$
+$$\frac{\text{FD}}{\text{CF}} = \frac{\text{GA}}{\text{CG}} \quad [\text{prop theorem; } \text{AD} \parallel \text{EF / line } \parallel \text{ one side of } \Delta]$$
+$$\text{Given } \frac{\text{CG}}{\text{GA}} = \frac{3}{2} \implies \frac{\text{GA}}{\text{CG}} = \frac{2}{3}$$
+$$\therefore \frac{\text{FD}}{\text{CF}} = \frac{2}{3}$$
+
+* $\checkmark \text{S: } \frac{\text{FD}}{\text{CF}} = \frac{\text{GA}}{\text{CG}} \; [\text{prop theorem; } \text{AD} \parallel \text{EF}]$
+* $\checkmark \text{answer } \left(\frac{2}{3}\right)$
+
+**Final Target Answer:** `2/3`
+
+---
+
+### 11.1.2 (4 marks)
+
+**Passage / Context:**
+In the diagram, $\Delta\text{ABC}$ is drawn. $\text{BA}$ is produced to $\text{E}$. $\text{F}$ and $\text{D}$ are points on $\text{BC}$ such that $\text{AD} \parallel \text{EF}$. $\text{AC}$ and $\text{EF}$ intersect at $\text{G}$. $\frac{\text{CF}}{\text{FB}} = \frac{2}{5}$ and $\frac{\text{CG}}{\text{GA}} = \frac{3}{2}$.
+
+[DIAGRAM: Triangle $\text{ABC}$ with side $\text{BA}$ extended/produced past $\text{A}$ to point $\text{E}$. Points $\text{F}$ and $\text{D}$ lie on side $\text{BC}$ with collinear ordering $\text{C}, \text{F}, \text{D}, \text{B}$. Line segments $\text{AD}$ and $\text{EF}$ are parallel ($\text{AD} \parallel \text{EF}$). Line segment $\text{EF}$ intersects side $\text{AC}$ at point $\text{G}$. Given ratios: $\frac{\text{CF}}{\text{FB}} = \frac{2}{5}$ and $\frac{\text{CG}}{\text{GA}} = \frac{3}{2}$.]
+
+**Question:**
+Calculate, with reasons, the value of $\frac{\text{BA}}{\text{EA}}$.
+
+**Marking Guideline:**
+$$\frac{\text{FD}}{\text{CF}} = \frac{2}{3} \implies \text{FD} = \frac{2}{3}\text{CF}$$
+$$\text{Let } \text{CF} = 2x \text{ and } \text{FB} = 5x \quad \left[\frac{\text{CF}}{\text{FB}} = \frac{2}{5}\right]$$
+$$\text{FD} = \frac{2}{3}(2x) = \frac{4}{3}x$$
+$$\text{BD} = \text{FB} - \text{FD} = 5x - \frac{4}{3}x = \frac{11}{3}x$$
+$$\text{In } \Delta\text{BEF}, \text{ AD} \parallel \text{EF}:$$
+$$\frac{\text{BA}}{\text{EA}} = \frac{\text{BD}}{\text{FD}} \quad [\text{prop theorem; } \text{AD} \parallel \text{EF / line } \parallel \text{ one side of } \Delta]$$
+$$\frac{\text{BA}}{\text{EA}} = \frac{5x - \frac{4}{3}x}{\frac{4}{3}x} = \frac{\frac{11}{3}x}{\frac{4}{3}x} = \frac{11}{3} \times \frac{3}{4} = \frac{11}{4}$$
+
+* $\checkmark \text{FD} = \frac{4}{3}x$
+* $\checkmark \text{S: } \frac{\text{BA}}{\text{EA}} = \frac{\text{BD}}{\text{FD}} \; [\text{prop theorem; } \text{AD} \parallel \text{EF}]$
+* $\checkmark \text{substitution: } \frac{5x - \frac{4}{3}x}{\frac{4}{3}x}$
+* $\checkmark \text{answer } \left(\frac{11}{4}\right)$
+
+**Final Target Answer:** `11/4`
+
+---
+
+### 11.1.3 (4 marks)
+
+**Passage / Context:**
+In the diagram, $\Delta\text{ABC}$ is drawn. $\text{BA}$ is produced to $\text{E}$. $\text{F}$ and $\text{D}$ are points on $\text{BC}$ such that $\text{AD} \parallel \text{EF}$. $\text{AC}$ and $\text{EF}$ intersect at $\text{G}$. $\frac{\text{CF}}{\text{FB}} = \frac{2}{5}$ and $\frac{\text{CG}}{\text{GA}} = \frac{3}{2}$.
+
+[DIAGRAM: Triangle $\text{ABC}$ with side $\text{BA}$ extended/produced past $\text{A}$ to point $\text{E}$. Points $\text{F}$ and $\text{D}$ lie on side $\text{BC}$ with collinear ordering $\text{C}, \text{F}, \text{D}, \text{B}$. Line segments $\text{AD}$ and $\text{EF}$ are parallel ($\text{AD} \parallel \text{EF}$). Line segment $\text{EF}$ intersects side $\text{AC}$ at point $\text{G}$. Given ratios: $\frac{\text{CF}}{\text{FB}} = \frac{2}{5}$ and $\frac{\text{CG}}{\text{GA}} = \frac{3}{2}$.]
+
+**Question:**
+Calculate, with reasons, the value of $\frac{\text{Area of } \Delta\text{GCF}}{\text{Area of }\text{GFDA}}$.
+
+**Marking Guideline:**
+$$\text{Area of GFDA} = \text{Area of } \Delta\text{CDA} - \text{Area of } \Delta\text{GCF}$$
+$$\frac{\text{Area of } \Delta\text{GCF}}{\text{Area of GFDA}} = \frac{\text{Area of } \Delta\text{GCF}}{\text{Area of } \Delta\text{CDA} - \text{Area of } \Delta\text{GCF}}$$
+$$= \frac{\frac{1}{2}\text{GC} \cdot \text{CF}\sin \hat{\text{C}}}{\frac{1}{2}\text{AC} \cdot \text{CD}\sin \hat{\text{C}} - \frac{1}{2}\text{GC} \cdot \text{CF}\sin \hat{\text{C}}}$$
+$$\text{Since } \frac{\text{CG}}{\text{GA}} = \frac{3}{2}, \text{ let } \text{GC} = 3k, \; \text{AC} = 5k.$$
+$$\text{Since } \frac{\text{FD}}{\text{CF}} = \frac{2}{3}, \text{ let } \text{CF} = 3p, \; \text{FD} = 2p \implies \text{CD} = \text{CF} + \text{FD} = 5p.$$
+$$= \frac{\frac{1}{2}(3k)(3p)\sin \hat{\text{C}}}{\frac{1}{2}(5k)(5p)\sin \hat{\text{C}} - \frac{1}{2}(3k)(3p)\sin \hat{\text{C}}}$$
+$$= \frac{9kp}{25kp - 9kp}$$
+$$= \frac{9}{16}$$
+
+* $\checkmark \text{GFDA} = \Delta\text{CDA} - \Delta\text{CGF}$
+* $\checkmark \text{Area of } \Delta\text{GCF} = \frac{1}{2}\text{GC} \cdot \text{CF}\sin \hat{\text{C}}$
+* $\checkmark \frac{1}{2}\text{AC} \cdot \text{CD}\sin \hat{\text{C}} - \frac{1}{2}\text{GC} \cdot \text{CF}\sin \hat{\text{C}}$
+* $\checkmark \text{answer } \left(\frac{9}{16}\right)$
+
+**Final Target Answer:** `9/16`
+
+---
+
+### 11.2.1 (2 marks)
+
+**Passage / Context:**
+In the diagram, $\text{WVZR}$ is a cyclic quadrilateral. $\text{RZ}$ is produced to $\text{Q}$. A tangent is drawn from $\text{Q}$ to touch the circle at $\text{S}$. $\text{WV}$ is produced to $\text{E}$, a point on $\text{ZQ}$. $\text{RW}$ produced meets $\text{ZV}$ produced in $\text{P}$. $\text{PQ} \parallel \text{WE}$. $\text{RS}$ and $\text{ZS}$ are drawn.
+
+[DIAGRAM: Cyclic quadrilateral $\text{WVZR}$ inscribed in a circle. Chord $\text{RZ}$ is produced past $\text{Z}$ to external point $\text{Q}$. From $\text{Q}$, tangent segment $\text{QS}$ touches the circle at point $\text{S}$. Chord $\text{WV}$ is produced past $\text{V}$ to point $\text{E}$ which lies on line segment $\text{ZQ}$. Chords $\text{RW}$ and $\text{ZV}$ are produced to meet at external point $\text{P}$. Line segments $\text{PQ}$ and $\text{WE}$ are parallel ($\text{PQ} \parallel \text{WE}$). Chords $\text{RS}$ and $\text{ZS}$ are drawn. Marked angles: $\hat{\text{P}}_1, \hat{\text{P}}_2$; $\hat{\text{Q}}_1, \hat{\text{Q}}_2$; $\hat{\text{W}}_1, \hat{\text{W}}_2$; $\hat{\text{V}}_1, \hat{\text{V}}_2$; $\hat{\text{Z}}_1, \hat{\text{Z}}_2$; $\hat{\text{R}}_1, \hat{\text{R}}_2$; $\hat{\text{S}}_1, \hat{\text{S}}_2$.]
+
+**Question:**
+Prove, with reasons, that:
+$$\text{PR} = \frac{\text{PW}\cdot\text{QR}}{\text{QE}}$$
+
+**Marking Guideline:**
+$$\text{In } \Delta\text{PQR}, \text{ WE} \parallel \text{PQ}:$$
+$$\frac{\text{QE}}{\text{QR}} = \frac{\text{PW}}{\text{PR}} \quad [\text{prop theorem; } \text{PQ} \parallel \text{WE / line } \parallel \text{ one side of } \Delta]$$
+$$\text{PR} \cdot \text{QE} = \text{PW} \cdot \text{QR}$$
+$$\therefore \text{PR} = \frac{\text{PW}\cdot\text{QR}}{\text{QE}}$$
+
+* $\checkmark \text{S: } \frac{\text{QE}}{\text{QR}} = \frac{\text{PW}}{\text{PR}}$
+* $\checkmark \text{R: } [\text{prop theorem; } \text{PQ} \parallel \text{WE}]$
+
+**Final Target Answer:** `PR = (PW * QR) / QE`
+
+---
+
+### 11.2.2 (1 marks)
+
+**Passage / Context:**
+In the diagram, $\text{WVZR}$ is a cyclic quadrilateral. $\text{RZ}$ is produced to $\text{Q}$. A tangent is drawn from $\text{Q}$ to touch the circle at $\text{S}$. $\text{WV}$ is produced to $\text{E}$, a point on $\text{ZQ}$. $\text{RW}$ produced meets $\text{ZV}$ produced in $\text{P}$. $\text{PQ} \parallel \text{WE}$. $\text{RS}$ and $\text{ZS}$ are drawn.
+
+[DIAGRAM: Cyclic quadrilateral $\text{WVZR}$ inscribed in a circle. Chord $\text{RZ}$ is produced past $\text{Z}$ to external point $\text{Q}$. From $\text{Q}$, tangent segment $\text{QS}$ touches the circle at point $\text{S}$. Chord $\text{WV}$ is produced past $\text{V}$ to point $\text{E}$ which lies on line segment $\text{ZQ}$. Chords $\text{RW}$ and $\text{ZV}$ are produced to meet at external point $\text{P}$. Line segments $\text{PQ}$ and $\text{WE}$ are parallel ($\text{PQ} \parallel \text{WE}$). Chords $\text{RS}$ and $\text{ZS}$ are drawn. Marked angles: $\hat{\text{P}}_1, \hat{\text{P}}_2$; $\hat{\text{Q}}_1, \hat{\text{Q}}_2$; $\hat{\text{W}}_1, \hat{\text{W}}_2$; $\hat{\text{V}}_1, \hat{\text{V}}_2$; $\hat{\text{Z}}_1, \hat{\text{Z}}_2$; $\hat{\text{R}}_1, \hat{\text{R}}_2$; $\hat{\text{S}}_1, \hat{\text{S}}_2$.]
+
+**Question:**
+Prove, with reasons, that:
+If $\Delta\text{PQZ} \mathbin{|||} \Delta\text{RQP}$, then $\text{PQ}^2 = \text{RQ}\cdot\text{QZ}$.
+
+**Marking Guideline:**
+$$\Delta\text{PQZ} \mathbin{|||} \Delta\text{RQP} \implies \frac{\text{PQ}}{\text{RQ}} = \frac{\text{QZ}}{\text{QP}} \quad [\mathbin{|||} \Delta\text{s}]$$
+$$\therefore \text{PQ}^2 = \text{RQ} \cdot \text{QZ}$$
+
+* $\checkmark \frac{\text{PQ}}{\text{RQ}} = \frac{\text{QZ}}{\text{QP}}$
+
+**Final Target Answer:** `PQ^2 = RQ * QZ`
+
+---
+
+### 11.2.3 (3 marks)
+
+**Passage / Context:**
+In the diagram, $\text{WVZR}$ is a cyclic quadrilateral. $\text{RZ}$ is produced to $\text{Q}$. A tangent is drawn from $\text{Q}$ to touch the circle at $\text{S}$. $\text{WV}$ is produced to $\text{E}$, a point on $\text{ZQ}$. $\text{RW}$ produced meets $\text{ZV}$ produced in $\text{P}$. $\text{PQ} \parallel \text{WE}$. $\text{RS}$ and $\text{ZS}$ are drawn.
+
+[DIAGRAM: Cyclic quadrilateral $\text{WVZR}$ inscribed in a circle. Chord $\text{RZ}$ is produced past $\text{Z}$ to external point $\text{Q}$. From $\text{Q}$, tangent segment $\text{QS}$ touches the circle at point $\text{S}$. Chord $\text{WV}$ is produced past $\text{V}$ to point $\text{E}$ which lies on line segment $\text{ZQ}$. Chords $\text{RW}$ and $\text{ZV}$ are produced to meet at external point $\text{P}$. Line segments $\text{PQ}$ and $\text{WE}$ are parallel ($\text{PQ} \parallel \text{WE}$). Chords $\text{RS}$ and $\text{ZS}$ are drawn. Marked angles: $\hat{\text{P}}_1, \hat{\text{P}}_2$; $\hat{\text{Q}}_1, \hat{\text{Q}}_2$; $\hat{\text{W}}_1, \hat{\text{W}}_2$; $\hat{\text{V}}_1, \hat{\text{V}}_2$; $\hat{\text{Z}}_1, \hat{\text{Z}}_2$; $\hat{\text{R}}_1, \hat{\text{R}}_2$; $\hat{\text{S}}_1, \hat{\text{S}}_2$.]
+
+**Question:**
+Prove, with reasons, that:
+$$\Delta\text{QSZ} \mathbin{|||} \Delta\text{QRS}$$
+
+**Marking Guideline:**
+$$\text{In } \Delta\text{QSZ} \text{ and } \Delta\text{QRS}:$$
+$$\hat{\text{Q}}_2 = \hat{\text{Q}}_2 \quad [\text{common } \angle]$$
+$$\hat{\text{S}}_1 = \hat{\text{R}}_2 \quad [\text{tan chord theorem}]$$
+$$\hat{\text{Z}}_1 = \text{Q}\hat{\text{S}}\text{R} \quad [3^{\text{rd}} \angle \text{ of } \Delta]$$
+$$\therefore \Delta\text{QSZ} \mathbin{|||} \Delta\text{QRS} \quad [\angle, \angle, \angle]$$
+
+* $\checkmark \text{S: } \hat{\text{Q}}_2 = \hat{\text{Q}}_2 \; [\text{common } \angle]$
+* $\checkmark \text{S/R: } \hat{\text{S}}_1 = \hat{\text{R}}_2 \; [\text{tan chord theorem}]$
+* $\checkmark \text{S OR R: } \hat{\text{Z}}_1 = \text{Q}\hat{\text{S}}\text{R} \; [3^{\text{rd}} \angle \text{ of } \Delta] \text{ or } [\angle, \angle, \angle]$
+
+**Final Target Answer:** `Delta QSZ ||| Delta QRS`
+
+---
+
+### 11.2.4 (3 marks)
+
+**Passage / Context:**
+In the diagram, $\text{WVZR}$ is a cyclic quadrilateral. $\text{RZ}$ is produced to $\text{Q}$. A tangent is drawn from $\text{Q}$ to touch the circle at $\text{S}$. $\text{WV}$ is produced to $\text{E}$, a point on $\text{ZQ}$. $\text{RW}$ produced meets $\text{ZV}$ produced in $\text{P}$. $\text{PQ} \parallel \text{WE}$. $\text{RS}$ and $\text{ZS}$ are drawn.
+
+[DIAGRAM: Cyclic quadrilateral $\text{WVZR}$ inscribed in a circle. Chord $\text{RZ}$ is produced past $\text{Z}$ to external point $\text{Q}$. From $\text{Q}$, tangent segment $\text{QS}$ touches the circle at point $\text{S}$. Chord $\text{WV}$ is produced past $\text{V}$ to point $\text{E}$ which lies on line segment $\text{ZQ}$. Chords $\text{RW}$ and $\text{ZV}$ are produced to meet at external point $\text{P}$. Line segments $\text{PQ}$ and $\text{WE}$ are parallel ($\text{PQ} \parallel \text{WE}$). Chords $\text{RS}$ and $\text{ZS}$ are drawn. Marked angles: $\hat{\text{P}}_1, \hat{\text{P}}_2$; $\hat{\text{Q}}_1, \hat{\text{Q}}_2$; $\hat{\text{W}}_1, \hat{\text{W}}_2$; $\hat{\text{V}}_1, \hat{\text{V}}_2$; $\hat{\text{Z}}_1, \hat{\text{Z}}_2$; $\hat{\text{R}}_1, \hat{\text{R}}_2$; $\hat{\text{S}}_1, \hat{\text{S}}_2$.]
+
+**Question:**
+Prove, with reasons, that:
+$$\text{PQ} = \text{QS}$$
+
+**Marking Guideline:**
+$$\Delta\text{QSZ} \mathbin{|||} \Delta\text{QRS} \quad [\text{proved in 11.2.3}]$$
+$$\frac{\text{QS}}{\text{QR}} = \frac{\text{QZ}}{\text{QS}} \quad [\mathbin{|||} \Delta\text{s}]$$
+$$\therefore \text{QS}^2 = \text{QZ} \cdot \text{QR}$$
+$$\text{But } \text{PQ}^2 = \text{RQ} \cdot \text{QZ} \quad [\text{proved in 11.2.2}]$$
+$$\therefore \text{PQ}^2 = \text{QS}^2$$
+$$\therefore \text{PQ} = \text{QS}$$
+
+* $\checkmark \text{S/R: } \frac{\text{QS}}{\text{QR}} = \frac{\text{QZ}}{\text{QS}}$
+* $\checkmark \text{S: } \text{QS}^2 = \text{QZ} \cdot \text{QR}$
+* $\checkmark \text{S: } \text{PQ} = \text{QS}$
+
+**Final Target Answer:** `PQ = QS`
+
+---
+
+### 11.2.5 (4 marks)
+
+**Passage / Context:**
+In the diagram, $\text{WVZR}$ is a cyclic quadrilateral. $\text{RZ}$ is produced to $\text{Q}$. A tangent is drawn from $\text{Q}$ to touch the circle at $\text{S}$. $\text{WV}$ is produced to $\text{E}$, a point on $\text{ZQ}$. $\text{RW}$ produced meets $\text{ZV}$ produced in $\text{P}$. $\text{PQ} \parallel \text{WE}$. $\text{RS}$ and $\text{ZS}$ are drawn.
+
+[DIAGRAM: Cyclic quadrilateral $\text{WVZR}$ inscribed in a circle. Chord $\text{RZ}$ is produced past $\text{Z}$ to external point $\text{Q}$. From $\text{Q}$, tangent segment $\text{QS}$ touches the circle at point $\text{S}$. Chord $\text{WV}$ is produced past $\text{V}$ to point $\text{E}$ which lies on line segment $\text{ZQ}$. Chords $\text{RW}$ and $\text{ZV}$ are produced to meet at external point $\text{P}$. Line segments $\text{PQ}$ and $\text{WE}$ are parallel ($\text{PQ} \parallel \text{WE}$). Chords $\text{RS}$ and $\text{ZS}$ are drawn. Marked angles: $\hat{\text{P}}_1, \hat{\text{P}}_2$; $\hat{\text{Q}}_1, \hat{\text{Q}}_2$; $\hat{\text{W}}_1, \hat{\text{W}}_2$; $\hat{\text{V}}_1, \hat{\text{V}}_2$; $\hat{\text{Z}}_1, \hat{\text{Z}}_2$; $\hat{\text{R}}_1, \hat{\text{R}}_2$; $\hat{\text{S}}_1, \hat{\text{S}}_2$.]
+
+**Question:**
+Prove, with reasons, that:
+$$\text{PW} = \frac{\text{QE}\cdot\text{PZ}}{\sqrt{\text{QR}\cdot\text{QZ}}}$$
+
+**Marking Guideline:**
+$$\Delta\text{PQZ} \mathbin{|||} \Delta\text{RQP} \implies \frac{\text{PQ}}{\text{RQ}} = \frac{\text{PZ}}{\text{PR}} \quad [\mathbin{|||} \Delta\text{s}]$$
+$$\text{PR} = \frac{\text{QR}\cdot\text{PZ}}{\text{PQ}}$$
+$$\text{From 11.2.1: } \text{PR} = \frac{\text{PW}\cdot\text{QR}}{\text{QE}}$$
+$$\frac{\text{PW}\cdot\text{QR}}{\text{QE}} = \frac{\text{QR}\cdot\text{PZ}}{\text{PQ}}$$
+$$\frac{\text{PW}}{\text{QE}} = \frac{\text{PZ}}{\text{PQ}}$$
+$$\text{PW} = \frac{\text{QE}\cdot\text{PZ}}{\text{PQ}}$$
+$$\text{From 11.2.2: } \text{PQ}^2 = \text{RQ}\cdot\text{QZ} = \text{QR}\cdot\text{QZ}$$
+$$\therefore \text{PQ} = \sqrt{\text{QR}\cdot\text{QZ}}$$
+$$\therefore \text{PW} = \frac{\text{QE}\cdot\text{PZ}}{\sqrt{\text{QR}\cdot\text{QZ}}}$$
+
+* $\checkmark \text{PR} = \frac{\text{QR}\cdot\text{PZ}}{\text{PQ}}$
+* $\checkmark \text{S: } \frac{\text{PW}\cdot\text{QR}}{\text{QE}} = \frac{\text{QR}\cdot\text{PZ}}{\text{PQ}}$
+* $\checkmark \text{PW} = \frac{\text{QE}\cdot\text{PZ}}{\text{PQ}}$
+* $\checkmark \text{PQ} = \sqrt{\text{QR}\cdot\text{QZ}}$
+
+**Final Target Answer:** `PW = (QE * PZ) / \sqrt{QR * QZ}`
+
+---
+
+**[TOTAL QUESTION 11: 23]**
+
+---
+
+# TOTAL MARKS: 150 / 150

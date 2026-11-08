@@ -1,0 +1,1712 @@
+=== PAGE 1 ===
+Copyright reserved/Kopiereg voorbehou                      Please turn over/Blaai om asseblief 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MARKS/PUNTE:  150 
+ 
+ 
+ 
+ 
+ 
+ 
+These marking guidelines consist of 16 pages. 
+Hierdie nasienriglyne bestaan uit 16 bladsye. 
+ 
+ 
+MATHEMATICS P1/WISKUNDE V1 
+ 
+NOVEMBER 2021 
+ 
+MARKING GUIDELINES/NASIENRIGLYNE 
+GRADE 12/GRAAD 12 
+ 
+ 
+NATIONAL 
+SENIOR CERTIFICATE/ 
+NASIONALE SENIOR 
+SERTIFIKAAT 
+ 
+
+=== PAGE 2 ===
+Mathematics P1/Wiskunde V1 2 DBE/November 2021 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou                      Please turn over/Blaai om asseblief 
+ 
+ 
+NOTE: 
+ If a candidate answers a question TWICE, only mark the FIRST attempt. 
+ Consistent accuracy applies in all aspects of the marking guidelines. 
+ 
+LET WEL: 
+ Indien 'n kandidaat 'n vraag TWEE keer beantwoord, sien slegs die EERSTE poging na. 
+ Volgehoue akkuraatheid is op ALLE aspekte van die nasienriglyne van toepassing. 
+ 
+QUESTION/VRAAG 1 
+1.1.1 
+02422  xx  
+   046  xx
+ 
+4or   6  xx
+ 
+ 
+factors 
+x = 6 
+x = – 4                               
+ (3) 
+1.1.2 
+0332 2  xx  
+)2(2
+)3)(2(4)3(3 2 x
+ 
+4
+333x
+ 
+69,0or   19,2  xx
+ 
+ 
+ 
+substitution into the correct 
+   formula 
+ 
+ 
+x = 2,19 x = – 0,69              
+             (3) 
+1.1.3 
+452  xx  
+0452  xx
+ 
+   014  xx
+ 
+Critical values: 
+4x  or   
+1x  
+ 
+ 
+ 
+ 
+14  x
+    OR/OF    x  [–4 ; –1] 
+ 
+ standard form 
+ 
+ critical values 
+ 
+ 
+ 
+ 
+ 
+answer                            
+ (4) 
+1.1.4 
+xx  228  
+   
+22
+228 xx 
+ 
+24428 xxx 
+ 
+02452  xx
+ 
+0)3)(8(  xx
+ 
+3or                8  xx
+ 
+ 
+ 
+ squaring both sides 
+ 
+ standard form 
+ factors 
+ answers with selection       
+(4) 
+ – 4                    –1 +                        –                     +                    
+
+=== PAGE 3 ===
+Mathematics P1/Wiskunde V1 3 DBE/November 2021 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou                      Please turn over/Blaai om asseblief 
+ 
+1.2 
+xy  32  
+32  yx
+               …  (1) 
+22 472 yxxy 
+  … (2)  
+    22 4327322 yyyy 
+ 
+222 49124764 yyyyy 
+ 
+0264 2  yy
+ 
+0132 2  yy
+ 
+   0112  yy
+ 
+1or   21  yy
+ 
+1or   2  xx
+ 
+ 
+ 
+OR/OF 
+ 
+xy  32
+ 
+22
+3 xy 
+                …(1) 
+22 472 yxxy 
+  … (2)  
+2
+2
+22
+3472232    xxxx
+ 
+ 
+222 6973 xxxxx 
+ 
+0232  xx
+ 
+   012  xx
+ 
+1or   2  xx
+ 
+1or   21  yy
+ 
+ 
+equation 1 
+ 
+ 
+substitution 
+simplification 
+ 
+ 
+standard form 
+ 
+ 
+y – values 
+x – values                              
+(6) 
+ 
+OR/OF 
+ 
+ 
+ 
+equation 1 
+ 
+ 
+ 
+substitution 
+ 
+ 
+simplification 
+standard form 
+ 
+x – values 
+y – values                              
+(6) 
+1.3 
+n
+p
+m
+n   
+mpn 2
+ 
+acb 42
+ 
+mpn 42 
+ , but 
+mpn 2   
+22 4nn 
+  OR/OF 
+mpmp 4  
+23n
+                                             
+3mp  
+2 0n 
+                                                 
+0mp  
+230n 
+                                         
+30mp   
+  
+0
+
+x is a non-real number 
+ 
+ 
+
+n
+p
+m
+n   
+
+mpn 2  
+ 
+ 
+ 
+
+23n   or  –3mp  
+ 
+ 
+ 
+ 
+ 
+
+0                  
+ (4) 
+ 
+  [24] 
+ 
+
+=== PAGE 4 ===
+Mathematics P1/Wiskunde V1 4 DBE/November 2021 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou                      Please turn over/Blaai om asseblief 
+ 
+ 
+QUESTION/VRAAG 2 
+ 
+2.1 
+90 81
+90x   
+81 8100
+100
+x
+x
+
+
+ 
+ 
+OR/OF 
+9
+1090x
+ 
+x = 100 
+ 
+90 81
+90x   
+ answer                             (2) 
+ 
+OR/OF 
+ 
+9
+10  
+ answer                          
+ (2) 
+2.2 
+ 
+r
+raS nn
+
+ 11
+ 
+  
+9,01
+9,01100
+
+
+n
+nS
+ 
+  
+1,0
+9,01100
+n
+nS 
+ 
+  
+n
+nS 9,010001 
+ 
+ 
+ 
+r = 0,9 
+substitution into correct  
+   formula                     
+ 
+(2)             
+2.3 
+r
+aS  1  
+10
+91
+100
+
+S
+ 
+1000S
+ 
+ 
+OR/OF 
+ 
+  lim 1 000 1 0,9
+n
+n
+S  
+ 
+1000S
+ 
+ 
+ 
+ 
+ 
+ substitution 
+ 
+ 
+ answer                            (2) 
+ 
+OR/OF 
+ 
+
+  lim 1 000 1 0,9
+n
+n
+S    
+ answer                            (2) 
+ 
+  [6]   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 5 ===
+Mathematics P1/Wiskunde V1 5 DBE/November 2021 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou                      Please turn over/Blaai om asseblief 
+ 
+QUESTION 3 
+3.1 –82
+   answer                (1) 
+3.2 –145 ; –122 ; –101 ; . . .  
+ 
+        23         21    
+ 
+            –2       –2 
+ 
+22 a
+    
+1a  
+233  ba
+    3(–1) + b = 23   
+26b  
+145 cba
+  –1 + 26 + c = –145   
+170c  
+170262  nnTn
+ 
+ 
+OR/OF 
+ 
+22 a
+    
+1a  
+145 ( 2) 23 170c    
+ 
+2 170nT n bn   
+ 
+145 1 170
+26
+b
+b
+   
+
+ 
+170262  nnTn
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22 a  
+ 3(–1) + b = 23 
+ –1 + 26 + c = –145   
+                           (3) 
+ 
+OR/OF 
+ 
+
+22 a  
+
+145 ( 2) 23c     
+ 
+ 
+145 1 170b       
+                           (3) 
+ 
+3.3 
+252 
+
+nT
+cbnT
+n
+n
+    or          
+( 1)
+23 ( 1)( 2)
+25 2
+nT a n d
+n
+n
+  
+   
+  
+121252  n
+           
+1462  n
+ 
+     
+73n  
+Between 
+73T  and 
+74T  
+ 
+OR/OF 
+ 
+22
+1 ( 1) 26( 1) 170 ( 26 170)
+121 2 25
+73
+nnT T n n n n
+n
+n
+          
+  
+
+ 
+Between 
+73T  and 
+74T  
+ 
+
+252  nTn  
+ 
+
+nT –121 
+ 
+
+73n  
+answer               
+ (4) 
+ 
+OR/OF 
+ 
+
+252  nTn  
+
+nT –121 
+
+73n  
+ answer               (4) 
+3.4 
+13)1(2 262  abn  
+113 T
+ 
+
+ add 2 
+ 
+OR/OF 
+ 
+0262/  nT n
+ 
+                      
+13n  
+1170)13(26)13( 213 T
+ 
+
+ add 2 
+13 
+ 
+
+113 T  
+ add 2                  (3) 
+ 
+OR/OF 
+ 
+13 
+ 
+
+113 T  
+ add 2                  (3) 
+  [11] 
+
+=== PAGE 6 ===
+Mathematics P1/Wiskunde V1 6 DBE/November 2021 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou                      Please turn over/Blaai om asseblief 
+ 
+QUESTION/VRAAG 4 
+ 
+4.1 a = 5    and/en  d = 2 
+105
+)2)(151(551
+
+T
+ 
+ a and d 
+ substitution into  
+    correct formula 
+ answer                
+ (3) 
+4.2 
+ dnanS n )1(22   
+ 51
+51 2(5) (51 1)22
+2 805
+S   
+
+ or/of      
+ 51
+51 5 1052
+2 805
+S 
+  
+ 
+ 
+ substitution into  
+    correct formula 
+ answer                  
+(2) 
+4.3 
+5 000
+1
+(2 3) 5 7 9 .... 10 003
+n
+n
+
+     
+ 
+ 
+ expansion           (1) 
+4.4 
+31 T       
+4 999 2(4 999) 1 9 999T     
+ 
+5000 4999
+11
+(2 3) ( 2 1)
+nn
+nn
+
+    
+ 
+=  (5 + 7 + 9 + … + 9 999 + 10 001 + 10 003) +  
+           (–3 – 5 – 7 –  9 – … – 9 999) 
+= 10 001 + 10 003 –3 
+= 20 001 
+ 
+OR/OF 
+ 
+ 4 999
+4 999 2( 3) (4 999 1)( 2) 24 999 9992S      
+ 
+ 
+ 5 000
+5000 (2)(5) (5 000 1)(2) 25 020 0002S    
+ 
+ 
+5 000 4 999
+11
+(2 3) ( 2 1)
+nn
+nn
+
+   
+= 25 020 000 – 24 999 999 
+                                         = 20 001 
+
+31 T  
+
+4999 9 999T   
+ 
+ 
+both expansions 
+ 
+ 
+ answer  (A)             
+ (4) 
+OR/OF 
+ 
+
+31 T  
+
+4 999S = 
+24 999 999  
+ 
+ 
+
+5 000S = 
+25 020 000  
+ 
+ 
+ 
+ answer (A)              
+ (4) 
+ 
+                               [10] 
+ 
+ 
+
+=== PAGE 7 ===
+Mathematics P1/Wiskunde V1 7 DBE/November 2021 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou                      Please turn over/Blaai om asseblief 
+ 
+ 
+QUESTION/VRAAG 5 
+ 
+5.1 
+3x  
+2y
+ 
+
+3x  
+
+2y                  
+ (2) 
+5.2 
+,Rx
+3x    
+  
+OR/OF   
+ 
+( ;3) (3 ; )x   
+ 
+ 
+OR/OF   
+ 
+3   or  3xx
+ 
+answer                 (1) 
+ 
+OR/OF 
+ 
+answer                 (1) 
+ 
+OR/OF 
+ 
+answer                 (1) 
+5.3            
+2310  x  
+162  x
+ 
+           
+2
+7x  
+x-int: 
+
+
+
+
+ 0;27  
+ 
+ 
+0y  
+ 
+ 
+ answer                 
+ 
+ 
+(2) 
+5.4 y-int:     
+
+
+
+
+
+3
+7;0   
+0x  
+ 
+7
+3               
+ (2)                          
+5.5 
+x
+y
+3,530
+2
+2,33
+ 
+ 
+ 
+ 
+ 
+ 
+ asymptotes 
+ intercepts with the  
+    axes 
+ shape 
+ 
+ 
+ 
+                               
+ (3)     
+  [10] 
+ 
+ 
+ 
+ 
+
+=== PAGE 8 ===
+Mathematics P1/Wiskunde V1 8 DBE/November 2021 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou                      Please turn over/Blaai om asseblief 
+ 
+ 
+QUESTION/VRAAG 6 
+ 
+6.1 
+  xxf 4log  
+     
+k4log2  
+   
+k24  
+  
+16k  
+ 
+ substitution of (k ; 2) 
+ 
+ 
+  answer                                     
+ (2) 
+6.2 
+x4log1    
+4
+1x  
+1641  x
+     or/of       
+1 ; 164x   
+ 
+4
+1x  
+ 
+ answer                              
+ (2) 
+6.3 
+xxf 4log)(   
+xy 4log
+ 
+yx 4log
+                               
+xy 4
+ 
+ 
+ 
+swopping x and y 
+ 
+answer                                  
+(2) 
+6.4 
+0x  
+ 
+OR/OF 
+ 
+( ; 0)x 
+ 
+answer                               
+(2) 
+OR/OF 
+ 
+answer                               
+(2) 
+  [8] 
+ 
+
+=== PAGE 9 ===
+Mathematics P1/Wiskunde V1 9 DBE/November 2021 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou                      Please turn over/Blaai om asseblief 
+ 
+ 
+QUESTION 7 
+ 
+7.1 B(–4 ; 0)   
+D(6 ; 0) 
+ B(–4 ; 0)   
+ D(6 ; 0)                      (2) 
+7.2 
+242)( 2  xxxf  
+a
+bxtp
+2
+
+   OR/OF    
+022 x    OR/OF    
+46
+2x   
+)1(2
+)2(x
+ 
+ 
+1tpx  
+25
+24)1(21
+)1(
+2
+
+
+ fytp
+ 
+C(1 ; –25) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1tpx  
+ 
+ 
+ 
+ 
+ 
+tpy –25                   (2) 
+7.3 
+25y    
+ 
+OR/OF 
+   
+y  
+);25[   
+ answer                       (1) 
+ 
+OR/OF 
+ 
+ answer                       (1) 
+7.4.1 
+1tan14,04 0,25 4AEm      answer  (1)                            
+ 
+7.4.2 
+tang 4m   
+22)(/  xxf
+ 
+ 
+422 x
+ 
+1Tx
+ 
+21Ty
+ 
+  
+tang 4m   
+  
+22)(/  xxf  
+ 
+ equating 
+
+1Tx  
+
+21Ty                     (5) 
+7.5 
+1
+4
+linem   
+ 3419  xy
+          OR/OF        
+ 193 4 c     
+4
+3
+4
+19  xy
+                                  
+33 8,254c   
+4
+33
+4
+1  xy
+              OR/OF           
+0,25 8,25yx  
+4
+33
+4
+12422  xxx
+  
+339684 2  xxx
+ 
+06394 2  xx
+ 
+0)3)(214(  xx
+ 
+21 5,254x  
+    or  
+3x                        
+
+4
+1linem  
+ 
+ substitution m and  
+    K(– 3 ; – 9)  
+ 
+ 
+ 
+4
+33
+4
+1  xy  
+ 
+ equating 
+ 
+ standard form 
+ 
+ 
+ answer with selection      
+(6) 
+                                      [17] 
+
+=== PAGE 10 ===
+Mathematics P1/Wiskunde V1 10 DBE/November 2021 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou                      Please turn over/Blaai om asseblief 
+ 
+ 
+QUESTION/VRAAG 8 
+ 
+8.1 
+ 
+n
+i 1PA  
+ 
+7
+A 980 000 1 0,092
+ 
+685,82R498A
+ 
+ correct formula 
+ substitution 
+ answer  (A)            (3) 
+8.2 
+ni)1(PA   
+n4
+4
+068,010007550,253161 
+
+
+
+ 
+ 
+ 
+ 
+4
+1,550 046 667 1,017
+n
+
+ 
+log(1,550 046 667) 4 log(1,017)n
+ 
+log(1,550 046 667)4 log(1,017)n
+ or 4n = 
+1,017log (1,550 046 667)  
+4n = 25,99 … 
+n =  6,50 years 
+ 
+  
+4
+068,0  
+ substitution in 
+    correct formula 
+ 
+ 
+ 
+ correct use of logs 
+ 
+ 
+ answer                   (4) 
+8.3.1 
+  
+i
+ix
+n
+11F 
+ 
+12
+0835,0
+1120835,01
+000450
+60
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+x
+ 
+068,69R6x
+ 
+ 
+
+12
+0835,0i  
+ 
+substitution into  
+   correct formula 
+ 
+answer                    (3) 
+8.3.2(a) 
+  
+i
+ix
+n
+ 11P
+ 
+4 12
+0,1211 058,85 1 1 12
+P 0,12
+12
+  
+ 
+948,32 R419P
+ 
+ 
+OR/OF 
+ 
+FABalance 
+ 
+             = 
+    iixi
+n
+n 111P           
+=
+12 21
+12 21
+0,1211 058,85 1 1 120,121 050 000 1 0,1212
+12
+
+
+   
+=R12 887 702,20 – R12 467 749,81 
+=R419 952,39 
+ 
+ 
+
+48n  in P-formula 
+ 
+substitution into  
+  correct formula 
+ 
+answer   (A)                
+(3) 
+ 
+OR/OF 
+ 
+ 
+ 
+ 
+n = 252 in both   
+   formulae 
+ 
+ subst into correct  
+    formulae 
+ 
+answer  (A)             (3) 
+
+=== PAGE 11 ===
+Mathematics P1/Wiskunde V1 11 DBE/November 2021 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou                      Please turn over/Blaai om asseblief 
+ 
+8.3.2(b) Total paid =
+11 058,85 21 12 2 786 830,20    
+Loan Paid = 
+1 050 000 419 948,32 630 051,68  
+Interest paid = 2 786 830,20 – 630 051,68 
+                     = R2 156 778,52                       
+ 
+OR/OF 
+ 
+Total paid =
+11 058,85 21 12 2 786 830,20    
+Loan Paid = 
+1 050 000 419 952,39 630 047,61  
+Interest paid = 2 786 830,20 – 630 047,61 
+                     = R2 156 782,59     
+ 
+OR/OF 
+ 
+Interest paid 
+= 11 058,85 × 21 × 12 – (1 050 000 – 419 948,32) 
+= 2 786 830,20 – 630 051,68 
+= R2 156 778,52                    
+  
+ 
+122185,05811   
+ 1 050 000 – Balance  
+    Outstanding 
+ answer                   
+ (3) 
+OR/OF 
+ 
+ 
+122185,05811   
+ 1 050 000 – Balance  
+    Outstanding 
+ answer                   
+ (3) 
+ 
+OR/OF 
+ 
+ 
+122185,05811   
+ 1 050 000 – Balance  
+    Outstanding 
+ answer                   (3)     
+  [16] 
+ 
+ 
+
+=== PAGE 12 ===
+Mathematics P1/Wiskunde V1 12 DBE/November 2021 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou                      Please turn over/Blaai om asseblief 
+ 
+ 
+QUESTION/VRAAG 9 
+ 
+9.1 
+h
+xfhxfxf )()(lim)(
+0h
+/ 
+  
+22
+/
+h0
+2( ) 3( ) (2 3 )( ) lim x h x h x xfx h     
+ 
+2 2 2
+/
+h0
+2 4 2 3 3 2 3( ) lim x xh h x h x xfx h      
+ 
+          
+h
+hhxh
+h
+324lim 2
+0
+
+  
+          
+ 
+h
+hxh
+h
+324lim
+0
+
+  
+          
+ 
+h0
+lim 4 2 3xh
+
+    
+  34/  xxf
+ 
+ 
+OR/OF 
+ 
+xxxf 32)( 2 
+ 
+)(3)(2)( 2 hxhxhxf 
+ 
+hxhxhxhxf 33242)( 22 
+ 
+hhxhxfhxf 324)()( 2 
+ 
+h
+xfhxfxf )()(lim)(
+0h
+/ 
+
+ 
+            
+h
+hhxh
+h
+324lim 2
+0
+
+  
+             
+ 
+h
+hxh
+h
+324lim
+0
+
+  
+             
+ 
+h0
+lim 4 2 3xh
+
+    
+  34/  xxf
+ 
+ 
+ 
+ 
+substitution 
+ 
+
+hxhxhx 33242 22   
+ 
+
+hhxh 324 2  
+ 
+factorisation 
+ 
+ 
+ 
+answer                                (5) 
+ 
+OR/OF 
+ 
+ 
+substitution 
+
+hxhxhx 33242 22   
+ 
+ 
+ 
+
+hhxh 324 2  
+ 
+factorisation 
+ 
+ 
+ 
+answer                                (5) 
+9.2.1 
+544 6 3y x x x    
+ 
+4320 24 3dy xxdx   
+ 
+ 
+ 
+ 
+
+420x  
+
+324x  
+3                                         (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 13 ===
+Mathematics P1/Wiskunde V1 13 DBE/November 2021 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou                      Please turn over/Blaai om asseblief 
+ 
+ 
+9.2.2 
+23 1
+23
+x
+xD x  
+ 
+1
+23
+29
+x
+xxD  
+
+ 
+1
+2311
+29
+xD x x 
+
+ 
+2 3
+3
+2 3
+3
+12    69
+12
+96
+xx
+xx
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+2
+3
+1
+x    
+9
+2x  
+ 
+ 
+ 
+ 
+
+3
+2
+6
+1 
+ x    – 
+9
+2 3x                                           
+(4) 
+  [12] 
+ 
+ 
+
+=== PAGE 14 ===
+Mathematics P1/Wiskunde V1 14 DBE/November 2021 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou                      Please turn over/Blaai om asseblief 
+ 
+ 
+QUESTION/VRAAG 10 
+ 
+10.1 
+23)( bxaxxh   
+bxaxxh 23)( 2/ 
+ 
+/ (4) 0h 
+ 
+48 8 0ab
+ 
+    
+)1...(06  ba  
+ 
+(4) 32h 
+ 
+64 16 32ab
+ 
+     
+)2...(24  ba  
+ 
+ (1)– (2): 6a + b = 0 
+               4a + b = 2 
+     
+                    2a = – 2 
+                      a = – 1   
+ 
+             4(– 1) + b = 2 
+                           b = 6  
+ 
+ 
+)(/ xh  
+ 
+ 
+/ (4)h  0 
+
+48 8 0ab  or 
+60ab  
+ 
+ 
+ 
+(4)h  32 
+
+64 16 32ab   or 
+42ab  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                               
+ (5) 
+10.2 
+23 6)( xxxh   
+06 23  xx
+ 
+0)6(2 xx
+ 
+6or0  xx
+ 
+)0;6(A
+ 
+ 
+
+06 23  xx  
+ factors 
+ 
+ 
+
+)0;6(A                               
+ (3) 
+10.3.1 
+40  x       or    
+04 x  
+ 
+ 
+OR/OF 
+ 
+(0 ; 4)x
+    or   
+ 0 ; 4x  
+critical values 
+notation                               (2) 
+ 
+OR/OF 
+ 
+critical values 
+notation                               (2) 
+10.3.2 x > 2     
+ 
+ 
+OR/OF 
+ 
+(2 ; )x
+ 
+ 2 
+ notation                              (2) 
+ 
+OR/OF 
+ 
+ 2 
+ notation                              (2) 
+10.4 
+32( ) ( 1) ( 1) 6( 1)
+(0) 7
+f x h x x x
+f
+     
+
+ 
+7 < k < 32    or    
+(7 ; 32)k  
+ k < 32                                 
+ new y-intercept = 7 
+ 7 < k < 32        
+ (3) 
+  [15] 
+ 
+
+=== PAGE 15 ===
+Mathematics P1/Wiskunde V1 15 DBE/November 2021 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou                      Please turn over/Blaai om asseblief 
+ 
+ 
+QUESTION/VRAAG 11 
+ 
+11 Time = 
+x
+20  
+Cost = (water cost per hour × time) + (kms × R/km) 
+
+
+
+
+ 
+
+
+
+ 40002,120206,1)( xxxC
+ 
+ 
+ 
+2002423)( xxxC 
+ 
+ 
+0200123)( 2/  xxC
+ 
+ 
+40062 x
+ 
+hkmx /80
+ 
+ 
+x
+20    
+ 
+
+
+
+
+
+ x206,1   
+
+
+
+
+
+  40002,120 x  
+
+2002423)( xxxC               
+
+/
+2
+32 1() 200Cx x   
+ 
+0)(/ xC  
+ 
+ 
+ answer   (A)                              
+(7) 
+  [7] 
+ 
+QUESTION/VRAAG 12 
+ 
+12.1.1 No, because P(A and B) 
+ 0  answer and reason        
+                         (1) 
+12.1.2(a) 
+  3,0B andA P            
+  2,0Bonly P   
+     BPAPB andA P 
+ 
+             
+  0,5AP0,3   
+          
+  0,6AP   
+  
+  0,3Aonly P   
+ 
+
+     BPAPB andA P   
+
+0,5  
+
+  0,6AP   
+answer                                 
+(4) 
+12.1.2(b)  
+ 
+ 
+ 
+ 
+ 
+ 
+ P not A or not B 0,2 0,2 0,3 0,7   
+ 
+ 
+OR/OF 
+ 
+ P not A or not B 1 P(A and B) 1 0,3 0,7    
+ 
+ 
+OR/OF 
+ 
+P(A/ or B/) = P(A/) + P(B/) – P(A/ and B/) 
+                  = 0,4 + 0,5 – 0,2 = 0,7  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+method 
+answer                              (2) 
+ 
+OR/OF 
+ 
+method 
+answer                                 
+(2) 
+OR/OF 
+ 
+method 
+answer                              (2) 
+A B 0,3 
+0,3 0,2 
+0,2 
+
+=== PAGE 16 ===
+Mathematics P1/Wiskunde V1 16 DBE/November 2021 
+ NSC/NSS – Marking Guidelines/Nasienriglyne 
+Copyright reserved/Kopiereg voorbehou    
+ 
+ 
+12.2.1 P(novel) = 
+4
+1
+12
+3    answer                              
+  (1) 
+12.2.2 12! = 479 001 600  answer                            
+ (2) 
+12.2.3 5 3! 8! 4 
+(Poetry) (Novels 
+all 
+together) 
+(Arrangements 
+of rest of the 
+books 
+including the 
+novels) 
+(Drama) 
+ 
+P(start with poetry, end with drama AND all 
+novels together) 
+= 
+!12
+4!8!35   
+99
+1
+ 
+ 5 × 4 
+
+6!3  
+8!  
+ 
+ 
+ 
+ 
+ 
+ 
+
+5 3! 8! 4 1
+12! 99
+     (A)               
+ (4) 
+  [14] 
+TOTAL/TOTAAL:  150 
+
