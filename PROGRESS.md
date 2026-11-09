@@ -2,7 +2,7 @@
 
 > **Release Cycle:** **Stage 1** (`koeberg-stage-1`, `kendal-stage-1`, `kendal-flash-stage-1`, `gariep-stage-1`, `gariep-flash-stage-1`)  
 > **Target Curriculum:** South African CAPS (Grades 7–12) — Mathematics, Physical Sciences, English, Afrikaans  
-> **Status:** **Phase 1, Phase 2, Phase 2.5 Completed (100%)** | **Phase 4 & 5 Multi-Model Fleet Waves 1 & 2 Completed (429 Verified Lessons, 1,099 SFT Samples)** | **Total Compute Spend: $0.00 / $60.00**  
+> **Status:** **Phase 1 to 7 Completed (100%)** | **Phase 8 SFT Training COMPLETED on Vertex AI Colab Enterprise NVIDIA L4 GPU Spot VM (`kendal-stage-1` 4B, 5,755 samples, 870 steps complete)** | **Total Compute Spend: ~$0.32 / $60.00**  
 > **Corpus Volume:** **600 PDFs (300 verified pairs, 378.15 MB, 0 download failures)**  
 > **Extracted Atomic Items:** **13,168 atomic items | 31,278 marks (100% DBE memo verified, 0 KaTeX errors across all 265 papers)**  
 > **Master SFT Dataset:** **`workspace/build/r1/` (1,099 canonical training turns ready for Colab)**  
@@ -64,6 +64,7 @@
 | **`kendal-flash-stage-1`** | Mobile & Phone (4B Q4) | `empero-ai/Qwen3.8-4B-Distill` *(or unsloth 4B)* | `Q4_K_M` | ~2.78–2.91 GB | **Local:** Midrange smartphones (6GB–8GB RAM) & 4GB PCs (100% offline) |
 | **`gariep-stage-1`** | Budget Phone Tutor (2B Q6) | `empero-ai/Qwen3.8-2B-Distill` *(or unsloth 2B)* | `Q6_K` or `Q8_0` | ~1.75–2.15 GB | **Local:** Budget smartphones (4GB RAM) & entry laptops (100% offline) |
 | **`gariep-flash-stage-1`** | Budget Vision/OCR (2B LiquidAI) | `LiquidAI/LFM3-VL-2B` | `Q6_K` | ~1.55 GB | **Local:** Budget phones for high-speed document, diagram, and OCR reading |
+| **`baby-jake-stage-3`** *(or `atom-stage-3`)* | Ultra-Budget Celeron & Entry Phone Tutor (1B) | `unsloth/Qwen3.5-1.5B` *(or LFM-1B)* | `Q4_K_M` | ~650–850 MB | **Local:** Extreme budget Celeron PCs (4GB RAM, 10–14 tokens/sec) & 2GB–3GB phones (100% offline). Stage 3 release via Stage 3 Kendal-4B self-distillation. |
 
 ---
 

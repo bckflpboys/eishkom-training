@@ -33,6 +33,7 @@ All models in this release adhere to our **Clean Branding Rule**: public model n
 | **`kendal-flash-stage-1`** | Mobile & Phone | `empero-ai/Qwen3.8-4B-Distill` | `Q4_K_M` | ~2.78–2.91 GB | Midrange smartphones (6GB–8GB RAM) & 4GB PCs (100% offline) |
 | **`gariep-stage-1`** | Budget Phone Tutor | `empero-ai/Qwen3.8-2B-Distill` | `Q6_K` / `Q8_0` | ~1.75–2.15 GB | Budget smartphones (4GB RAM) & entry laptops (100% offline) |
 | **`gariep-flash-stage-1`** | Budget Vision/OCR | `LiquidAI/LFM3-VL-2B` | `Q6_K` | ~1.55 GB | Budget phones for reading geometry diagrams, handwritten work, and OCR |
+| **`baby-jake-stage-3`** *(or `atom-stage-3`)* | Ultra-Budget Celeron & Entry Phone | `unsloth/Qwen3.5-1.5B` *(or LFM-1B)* | `Q4_K_M` | ~650–850 MB | Extreme budget Celeron PCs (4GB RAM, 10–14 tokens/sec) & 2GB–3GB phones (100% offline). Stage 3 release via Stage 3 Kendal-4B self-distillation. |
 
 ---
 

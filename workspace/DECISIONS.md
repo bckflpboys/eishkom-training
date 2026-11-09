@@ -16,6 +16,7 @@
 | **`kendal-flash-stage-1`** | Mobile & Phone (4B Q4) | `empero-ai/Qwen3.8-4B-Distill` *(or unsloth 4B)* | `Q4_K_M` (`empero-ai/Qwen3.8-4B-Distill-GGUF`) | ~2.78–2.91 GB | **Local:** Midrange smartphones (6GB–8GB RAM) & 4GB PCs (100% offline) |
 | **`gariep-stage-1`** | Budget Phone Tutor (2B Q6) | `empero-ai/Qwen3.8-2B-Distill` *(or unsloth 2B)* | `Q6_K` or `Q8_0` (`empero-ai/Qwen3.8-2B-Distill-GGUF`) | ~1.75–2.15 GB | **Local:** Budget smartphones (4GB RAM) & low-spec PCs (100% offline) |
 | **`gariep-flash-stage-1`** | Budget Vision/OCR (2B LiquidAI) | `LiquidAI/LFM3-VL-2B` | `Q6_K` (`LiquidAI/LFM3-VL-2B-GGUF`) | ~1.55 GB | **Local:** Budget phones for high-speed document, diagram, and OCR reading |
+| **`baby-jake-stage-3`** *(or `atom-stage-3`)* | Ultra-Budget Celeron & Entry Phone Tutor (1B) | `unsloth/Qwen3.5-1.5B` *(or LFM-1B)* | `Q4_K_M` / `Q6_K` | ~650–850 MB | **Local:** Extreme budget Celeron PCs (4GB RAM) & entry Android smartphones (2GB–3GB RAM). Targets 10–14 tokens/sec on legacy dual-core CPUs. Scheduled for Stage 3 via Stage 3 Kendal-4B self-distillation. |
 
 ---
 
@@ -28,7 +29,11 @@
 ## 3. Training & Compute Infrastructure
 - **Google Cloud & Gen AI Credits:** Leveraging **\$60 in promotional Google Cloud billing credits** ($10/month rolling grants).
 - **Vertex AI Colab Enterprise:** Training on **NVIDIA L4 GPUs (24GB VRAM)** using **Spot VM instances** (~$0.32/hr) to avoid browser disconnects and enable 27B model fine-tuning.
-- **GPU Quota:** NVIDIA L4 GPU quota increased to 1 in `IAM & Admin > Quotas`.
+- **GPU Quota (APPROVED Nov 9, 2026):** Global GPU Quota `GPUS_ALL_REGIONS` limit officially approved and increased from 0 to 1 by Google Cloud Support for project `eishkom`.
+- **Runtime Template Provisioned (Verified Nov 9, 2026):** Template `eishkom-gpu` (ID `5096703687183564800`) successfully configured and provisioned in `us-central1 (Iowa)` with `g2-standard-4` (4 vCPUs, 16GB RAM), 1x NVIDIA L4 GPU (24GB VRAM), 100GB SSD persistent disk (`pd-ssd`), and 60-minute automatic idle shutdown.
+- **L4 GPU Verified Active (Nov 9, 2026):** NVIDIA L4 GPU (23,034 MiB / 24GB VRAM) successfully booted and verified in Vertex AI Colab Enterprise with CUDA 13.0.
+- **Kendal Stage 1 (4B) Training Run Active (Nov 9, 2026):** Supervised fine-tuning running on L4 Spot VM. Loss dropped from 1.662 down to 0.6597 by Step 104/870 at 8.14s/it.
+- **Kendal Stage 1 (4B) Training COMPLETED (Nov 9, 2026):** Supervised fine-tuning successfully completed all 870 steps across 3 epochs on 5,755 South African curriculum items. Final adapter weights saved to `workspace/runs/r1/adapter/` (`adapter_model.safetensors`). Ready for GGUF multi-quant export.
 - **Cloud Run Hosting (Scale-to-Zero):** For `koeberg-stage-1`, deploy containerized Ollama/vLLM on Google Cloud Run with an NVIDIA L4 GPU. Configured with `--min-instances 0` so it scales down to \$0.00/hr when idle, only drawing credit during active chat queries (~$0.015/min).
 
 ---

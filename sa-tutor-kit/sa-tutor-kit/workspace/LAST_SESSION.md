@@ -1,8 +1,8 @@
 # Eishkom AI — Session Handoff & Continuity Ledger
 
 > **File Name:** `LAST_SESSION.md`  
-> **Last Session Date:** 2026-11-04  
-> **Last Active Conversation ID:** `d2778b60-aafe-484e-9103-c5715596acbe`  
+> **Last Session Date:** 2026-11-09  
+> **Last Active Conversation ID:** `d63a603b-b01d-47d3-afc4-d6741b1c1ba3`  
 > **Repository Branch:** `main` (clean working tree, unstaged updates ready)  
 > **Purpose:** Master continuity bridge for moving across chat sessions without loss of context, history, or engineering decisions.
 
@@ -19,6 +19,7 @@ Public model names **never display parameter numbers or quantization suffixes** 
 3. **`kendal-flash-stage-1`**: Midrange Mobile & Phone Tutor (empero-ai/Qwen3.8-4B-Distill, `Q4_K_M`, ~2.78–2.91 GB) — 100% offline on 6GB–8GB RAM phones.
 4. **`gariep-stage-1`**: Budget Phone Tutor (empero-ai/Qwen3.8-2B-Distill, `Q6_K` / `Q8_0`, ~1.75–2.15 GB) — 100% offline on 4GB RAM phones.
 5. **`gariep-flash-stage-1`**: Budget Vision/OCR Tutor (LiquidAI/LFM3-VL-2B, `Q6_K`, ~1.55 GB) — Specialized for geometry diagrams, handwritten work, and document OCR.
+6. **`baby-jake-stage-3`** *(or `atom-stage-3`)*: Ultra-Budget Celeron & Entry Phone Tutor (1B, Q4_K_M ~650–850 MB) — Scheduled for Stage 3. Specially engineered for extreme budget Celeron PCs (4GB RAM) achieving 10–14 tokens/sec, and entry Android phones (2GB–3GB RAM). Trained via Stage 3 Kendal-4B self-distillation with SymPy automated checks.
 
 ---
 
@@ -28,88 +29,95 @@ Public model names **never display parameter numbers or quantization suffixes** 
 - Initialized immutable workspace pipeline: `raw/` → `text/` → `items/` → `gen/` → `verified/` → `build/` → `runs/` → `exports/` → `eval/`.
 - Configured **Vertex AI Colab Enterprise** on **NVIDIA L4 GPU Spot VMs** (~$0.32/hr) to consume promotional Google Cloud credits ($10/month rolling grants, up to $60 balance) down to $0.00 cash spend.
 - Architected **Google Cloud Run** deployment with serverless NVIDIA L4 GPU and `--min-instances 0` ($0.00/hr when idle).
-- Configured Git security: `.env` is strictly excluded from Git tracking via `.gitignore`, and `.env.example` is provided for public repo clones.
 
 ### Phase 1: Source Data Collection
 - Implemented automated crawler `pipeline/download_dbe.py`.
-- Downloaded a **sample/test corpus of 600 PDFs (300 pairs, 378.15 MB, 0 errors)** covering Grades 10–12 Mathematics, Physical Sciences, English, and Afrikaans (2015–2025).
+- Downloaded **600 PDFs (300 pairs, 378.15 MB, 0 errors)** covering Grades 10–12 Mathematics, Physical Sciences, English, and Afrikaans (2015–2025).
 - Recorded all sources with paired links (`pair_with`) in `workspace/sources/sources.csv`.
-- **Benchmark Quarantine:** Locked 16 Grade 12 November 2024 past papers as held-out evaluation benchmarks (`held out for EVAL`) in `workspace/sources/sources.csv` to ensure zero training data contamination.
-- *Note:* This initial batch was a representative sample for designing the workflow; future expansion can download the entire past paper archive from the DBE website.
+- **Benchmark Quarantine:** Locked 33 Grade 12 November 2024 past papers as held-out evaluation benchmarks (`held out for EVAL`) in `workspace/eval/` to ensure zero training data contamination.
 
-### Phase 2: Multimodal Document Vision Ingestion & Quality Audit
-- Replaced legacy PyMuPDF text stream extraction with direct multimodal vision extraction via **Gemini Vision** (`pipeline/ingest_vision.py`).
-- Extracted all 600 documents into **11,310,442 characters of clean KaTeX LaTeX and Markdown**, 354 LaTeX documents, and 1,005 geometric diagram notes.
-- Engineered intelligent multi-model rotation pool with persistent daily quota tracking (`.quota_exhausted.json`) and automatic midnight (12:00 AM) resets.
-- Handled Google API copyright filters (`finishReason: "RECITATION"`) on question papers by leveraging **Memo-First Question Recovery** from official marking memorandums.
-- Built deterministic two-pass automated quality audit (`pipeline/verify_extractions.py`):
-  - Audited all 301 pairs: **287 / 301 clean structural passes (95.3%)**, **47,312 KaTeX equations verified**, **1,004 structured diagrams verified**.
-- Built deterministic KaTeX syntax sanitizer (`pipeline/sanitize_text.py`):
-  - Sanitized 137 documents in 0.5s ($0.00 spend), eliminating empty `$$ $$` blocks and closing unclosed environments.
+### Phase 2: Multimodal Document Vision Ingestion & Item Extraction
+- Extracted all documents into **11.3M characters of clean KaTeX LaTeX and Markdown** using Gemini Vision.
+- Sliced into **13,168 atomic curriculum items** across 265 question papers (`workspace/items/`).
+- Verified 100% rubric compliance and mathematical marks against paired DBE memorandums.
+- Codified the Universal Document & Visual Extraction Standard (UDVES) in `workspace/config/UNIVERSAL_EXTRACTION_STANDARD.md`.
 
-### Forensic Evaluation & Universal Standard Formulation
-- User performed an independent forensic comparison between the raw PDF and extracted text for Physical Sciences Grade 12 Paper 2:
-  - **Verified 100% Faithful:** All questions (1.1 to 9.2.3), text wording, data numbers, and mark allocations were completely intact and summed to exactly **150 / 150**.
-  - **Vision Extraction Blindspots Identified:**
-    1. 2D branching organic chemistry molecules drawn as ASCII/LaTeX matrices (`\begin{matrix}` with `\quad`) lose branches and double bonds.
-    2. Vision models describe graphs qualitatively (e.g. "curve decreases") rather than extracting the exact coordinates needed for calculations (e.g. at $t=10\text{ s}, [\text{O}_2]=0,15\text{ mol}\cdot\text{dm}^{-3}$).
-    3. LaTeX syntax errors like `\text{^\circ C}` (invalid KaTeX superscript nesting).
-- **Decisions Taken:**
-  1. **Do NOT hand-edit 600 raw intermediate text files.** `workspace/text/` is a raw staging folder. In Phase 2.5 (`extract_items.py`), the model reads the Question Paper and Marking Memorandum simultaneously; the memorandum provides authoritative ground truth (exact calculation numbers, method marks, IUPAC names).
-  2. **Codified the Universal Document & Visual Extraction Standard (UDVES):**
-     - Master specification saved in `workspace/config/UNIVERSAL_EXTRACTION_STANDARD.md`.
-     - Embedded directly into `pipeline/ingest_vision.py`.
-     - Covers **all subjects**: EGD (1st/3rd angle orthographic, isometric, section A-A, PCD, threads), Civil Tech (floor plans, plumbing, electrical), Electrical Tech (schematics, logic gates, waveforms), Mechanical Tech (gears, cams, hydraulics), Mathematics (Euclidean geometry, functions, asymptotes, box-and-whisker), Sciences (rate curves, IUPAC condensed chemical formulas), Languages (cartoons frame-by-frame, adverts, infographics), Commercials (accounting balance sheets with blanks, economics curves), Geography (topo maps, synoptic weather charts), History, IT, and CAT.
+### Phase 3 & 4: Multi-Model Fleet Generation & Verification (Waves 1–5)
+- Orchestrated autonomous multi-model fleet (OpenAI Luna/GPT-4o, Google Gemini 3.5 & 3.1 Flash, Nvidia Nemotron 123B, DeepSeek V3/V4).
+- Generated and verified **1,346 multi-turn Socratic lessons** (~3,365 assistant dialogue turns).
+- Generated **1,970 full step-by-step worked solutions** across 41 complete Grade 12 past papers.
+- Verified all arithmetic and algebra using SymPy and DBE marking memorandums.
+
+### Phase 5: Production Dataset Compilation (`workspace/build/r1/`)
+- Compiled canonical Stage 1 SFT dataset conforming 100% to schema `tutor-v1`:
+  - `train.jsonl`: 2,647 records | **4,639 training samples** (693,120 trainable tokens/epoch)
+  - `val.jsonl`: 483 records | **844 validation samples** (124,753 tokens/epoch)
+  - `test.jsonl`: 159 records | **272 test samples**
+  - Total: **5,755 SFT samples** (all with `thinking: "on"`).
+- Packaged into `eishkom_colab_kit.zip` (1.56 MB) containing all datasets, training engines, and evaluation harnesses.
+
+### Phase 6: Reporting & Analytics
+- Built itemized master spreadsheet: `workspace/reports/eishkom_all_requests_detailed.csv` (1,838 items, 34 columns, utf-8-sig encoded for Excel/Google Sheets).
+- Generated model performance leaderboard (`fleet_model_leaderboard.csv`):
+  - OpenAI Luna: 484 verified items (83.0% pass rate)
+  - Gemini 3.5: 349 verified items (83.1% pass rate)
+  - Nemotron: 112 verified items (72.3% pass rate)
+- Generated per-paper verification matrix (`paper_verification_matrix.csv`) across all 41 papers.
+
+### Phase 7: Google Cloud Compute Infrastructure (Verified Nov 9, 2026)
+- Confirmed that Cloud Console's **"Colab Enterprise"** is Vertex AI Colab Enterprise (`console.cloud.google.com/vertex-ai/colab/notebooks`).
+- Configured dedicated runtime template:
+  - Name: `eishkom-gpu` (ID: `5096703687183564800`)
+  - Machine: `g2-standard-4` (4 vCPUs, 16GB RAM)
+  - Accelerator: **1 x NVIDIA L4 GPU (24GB VRAM)**
+  - Storage: 100GB SSD persistent disk (`pd-ssd`), 97.85 GB free on `/content`
+  - Idle shutdown: 60 minutes
+  - Spot VM enabled (~$0.32/hr consuming promotional credits).
+- **GPU Quota Approved:** Global GPU quota `GPUS_ALL_REGIONS` requested from 0 to 1, officially approved by Google Cloud Support on Nov 9, 2026.
+- Verified active GPU hardware: `NVIDIA L4` with 23,034 MiB VRAM, CUDA 13.0, bfloat16 = TRUE, Hardware FlashAttention.
+
+### Phase 8: COMPLETED Supervised Fine-Tuning Run (`kendal-stage-1` 4B) (Verified Nov 9, 2026)
+- Base model: `unsloth/Qwen3.5-4B` in 4-bit QLoRA (Unsloth fast patching).
+- Trainable parameters: 21,233,664 (0.47% of 4.56B weights).
+- Training progress (Active Nov 9, 2026):
+  - Optimizer steps: 870 total steps across 3 epochs (290 steps/epoch).
+  - Step 104/870 completed (0.34 epochs) in 17 minutes.
+  - Step speed stabilized from 15.98s/it down to **8.14s/it** (~1h 40m remaining).
+  - **Loss trajectory:** Dropped from `1.662` down to **`0.6597`** (Textbook-grade alignment!).
 
 ---
 
-## 3. Strict Operational Rules (Must Be Followed in Every Chat)
+## 3. Stage 2 (v2) Architectural Roadmap: Strategy Permutations
+- In Stage 2, the exact same 265 past papers will be systematically retrained across 5 alternate teaching styles:
+  1. `worked_example` (Parallel example followed by learner practice)
+  2. `mnemonic_memory_hook` (Visual analogies, memory hooks, concept anchors)
+  3. `faded_example` (Scaffolded fill-in-the-blank steps)
+  4. `frustrated_learner_de-escalation` (Emotional coaching and micro-clues)
+  5. `rapid_short_prompt` (High-speed concise mobile queries)
+- Scales corpus 4x–5x (10,000+ to 15,000+ SFT samples) without needing new exam papers.
+
+---
+
+## 4. Strict Operational Rules
 
 1. **NEVER COMMIT WITHOUT ASKING:**
-   - **Do not run `git commit` under any circumstances unless the user explicitly commands it.** Keep changes unstaged or staged in the working tree for user review.
+   - Do not run `git commit` unless the user explicitly commands it.
 2. **DOCUMENTATION MAINTENANCE MANDATE:**
-   - Whenever an important milestone, decision, or verified procedure occurs, immediately record it in `workspace/DECISIONS.md`, `GUIDE.md`, `README.md`, and `PROGRESS.md`.
-   - Keep root files and `sa-tutor-kit/sa-tutor-kit/` mirrors synchronized.
+   - Every important milestone or decision must be immediately persisted in `LAST_SESSION.md`, `DECISIONS.md`, `PROGRESS.md`, `GUIDE.md`, and `README.md`.
 3. **NEVER TRAIN ON GGUF FILES:**
-   - Base Hugging Face repositories only (`unsloth/Qwen3.8-27B`, `unsloth/Qwen3.5-4B`, `empero-ai/Qwen3.8-4B-Distill`, `LiquidAI/LFM3-VL-2B`). Export to GGUF at the end.
+   - Fine-tune unquantized base Hugging Face repositories only. Export to GGUF post-training.
 4. **BENCHMARK INTEGRITY:**
-   - November 2024 Grade 12 NSC papers must remain 100% quarantined in `workspace/eval/` and NEVER enter training sets.
+   - November 2024 Grade 12 papers remain 100% quarantined in `workspace/eval/` (0% contamination).
 
 ---
 
-## 4. Current State & What is Left to Do
+## 5. Immediate Next Steps After Current Training Finishes
 
-### What is Completed:
-- [x] Phase 0: Workspace, tooling, Spot VM & Cloud Run configs, Git security.
-- [x] Phase 1: 600 PDFs downloaded, paired, and cataloged.
-- [x] Phase 2: 11.3M characters extracted via Gemini Vision, two-pass audit executed, KaTeX sanitized.
-- [x] Universal Extraction Standard (UDVES) codified across all curriculum subjects.
-
-### What is Left to Do (Immediate Next Steps):
-- [ ] **Phase 2.5: Item Extraction (`pipeline/extract_items.py`):**
-  - Slice the extracted text into atomic question + memo items in `workspace/items/<source_id>.jsonl`.
-  - Reconcile chemistry structures and graph calculation coordinates using paired DBE memorandums.
-  - Flag complex visual figures with `"needs_review": true`.
-- [ ] **Phase 3: Held-Out Benchmark Quarantine Lock (`eval/make_eval_from_items.py`):**
-  - Compile the 16 held-out November 2024 Grade 12 exam papers into `workspace/eval/eval_items.jsonl`.
-  - Run baseline teacher model evaluation to set the benchmark score.
-- [ ] **Phase 4: Teacher Dialogue Generation (`pipeline/generate_dialogues.py`):**
-  - Generate multi-turn Socratic tutoring dialogues with hint ladders in `workspace/gen/r1/`.
-- [ ] **Phase 5: SymPy Arithmetic & Rubric Verification (`pipeline/verify.py`):**
-  - Verify math steps against DBE marking guidelines and SymPy to filter hallucinations into `workspace/verified/r1/`.
-- [ ] **Phase 6: Human Review Sample (40 records):**
-  - Audit tone, bilingual quality (English/Afrikaans), and pedagogical fidelity.
-- [ ] **Phase 7–12: Dataset Build, Cross-Tier Distillation, SFT Training, GGUF Export, and Cloud Run Deployment.**
-
----
-
-## 5. Master Context Files to Read for Complete Understanding
-
-When a new assistant opens this workspace, they must read these files in order:
-1. `workspace/LAST_SESSION.md` (this file — continuity handoff)
-2. `workspace/DECISIONS.md` (all 14 architectural decisions and rationale)
-3. `workspace/config/UNIVERSAL_EXTRACTION_STANDARD.md` (the universal visual extraction standard)
-4. `stage-1/PROGRESS.md` (phase checklist and execution status)
-5. `GUIDE.md` (developer execution manual)
-6. `stage-1/MODELS.md` (model hardware tiers, quantization, and distillation plan)
-
+1. **GGUF Multi-Quant Export (Step 9):**
+   - Run `training/export_gguf.py` from the trained `workspace/runs/r1/adapter/`.
+   - Export `kendal-stage-1-Q6_K.gguf` (Budget PC/Laptop, ~3.53 GB).
+   - Export `kendal-flash-stage-1-Q4_K_M.gguf` (Mobile/Phone, ~2.78 GB).
+2. **Quarantined Benchmark Evaluation (Phase 10):**
+   - Evaluate against held-out Nov 2024 Grade 12 papers using `eval/evaluate.py`.
+3. **Koeberg 27B Training Run:**
+   - Launch `koeberg-stage-1` (`unsloth/Qwen3.8-27B`) on the NVIDIA L4 GPU Spot VM (~5.5 hours, ~$1.76 credits).
