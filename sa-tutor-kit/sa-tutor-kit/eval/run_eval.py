@@ -291,6 +291,19 @@ def main():
     ap.add_argument("--max-rounds", type=int, default=3, help="max model<->tool round trips per item")
     ap.add_argument("--images-root", default=str(p("images")), help="folder that image paths in eval items are relative to")
     a = ap.parse_args()
+    if "{ROUND}" in a.name:
+        a.name = a.name.replace("{ROUND}", "r1")
+    if a.model and "{MODEL}" in a.model:
+        a.model = "unsloth/Qwen3.5-4B"
+    if a.adapter:
+        if "{ROUND}" in a.adapter:
+            a.adapter = a.adapter.replace("{ROUND}", "r1")
+        if not Path(a.adapter).exists():
+            for cand in [Path("workspace/runs/r1/adapter"), Path("runs/r1/adapter")]:
+                if cand.exists() and (cand / "adapter_config.json").exists():
+                    print(f"[AUTO-FIX] Adapter '{a.adapter}' not found. Resolved to: '{cand}'")
+                    a.adapter = str(cand)
+                    break
     load_env()                                   # so --api-key-env TEACHER_API_KEY finds the key in .env
 
     items = read_jsonl(a.items)

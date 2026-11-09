@@ -34,6 +34,9 @@ def main():
     ap.add_argument("--judge", action="store_true", help="also mark rubric checks with the judge model")
     ap.add_argument("--analyze", action="store_true", help="also ask the teacher to analyse the failures")
     a, rest = ap.parse_known_args()
+    if "{ROUND}" in a.name:
+        a.name = a.name.replace("{ROUND}", "r1")
+    rest = [arg.replace("{ROUND}", "r1").replace("{MODEL}", "unsloth/Qwen3.5-4B") for arg in rest]
     run("run_eval.py", "--name", a.name, *rest)
     run("score_eval.py", "--name", a.name, *(["--judge"] if a.judge else []))
     run("report_eval.py", "--runs", *a.compare, a.name, "--out", a.name, *(["--ceiling", a.ceiling] if a.ceiling else []))

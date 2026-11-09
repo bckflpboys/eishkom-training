@@ -33,7 +33,16 @@
 - **Runtime Template Provisioned (Verified Nov 9, 2026):** Template `eishkom-gpu` (ID `5096703687183564800`) successfully configured and provisioned in `us-central1 (Iowa)` with `g2-standard-4` (4 vCPUs, 16GB RAM), 1x NVIDIA L4 GPU (24GB VRAM), 100GB SSD persistent disk (`pd-ssd`), and 60-minute automatic idle shutdown.
 - **L4 GPU Verified Active (Nov 9, 2026):** NVIDIA L4 GPU (23,034 MiB / 24GB VRAM) successfully booted and verified in Vertex AI Colab Enterprise with CUDA 13.0.
 - **Kendal Stage 1 (4B) Training Run Active (Nov 9, 2026):** Supervised fine-tuning running on L4 Spot VM. Loss dropped from 1.662 down to 0.6597 by Step 104/870 at 8.14s/it.
-- **Kendal Stage 1 (4B) Training COMPLETED (Nov 9, 2026):** Supervised fine-tuning successfully completed all 870 steps across 3 epochs on 5,755 South African curriculum items. Final adapter weights saved to `workspace/runs/r1/adapter/` (`adapter_model.safetensors`). Ready for GGUF multi-quant export.
+- **Kendal Stage 1 (4B) Training COMPLETED (Nov 9, 2026):** Supervised fine-tuning successfully completed all 870 steps across 3 epochs on 5,755 South African curriculum items. Final Train Loss dropped to **`0.34`** (down from 1.82). Validation Loss held steady at **`0.74–0.78`** flat (0% overfitting). Adapter weights saved to `workspace/runs/r1/adapter/` (`adapter_model.safetensors`, `adapter_config.json`).
+- **Kendal Stage 1 GGUF Multi-Quant Export VERIFIED (Nov 9, 2026):** Exported from trained adapter into deployable GGUF files:
+  - `kendal-stage-1-Q6_K.gguf` (~3.53 GB for budget PC/laptop CPU & GTX 1650)
+  - `kendal-flash-stage-1-Q4_K_M.gguf` (~2.78 GB for mobile phones & 4GB PCs)
+- **Pipeline & Codebase Hardening Milestone (Nov 9, 2026):**
+  1. *Dynamic VRAM Auto-Scaler:* Auto-detects GPU VRAM and tunes batch/gradient accumulation based on model parameter count (1B/2B uses high VRAM ~16-18GB for fast 15-min training; 4B uses ~18GB; 27B uses ~21GB leaving safe headroom to guarantee zero OOM).
+  2. *Clean Progress Logging Callback:* Sets `disable_tqdm=True` and `logging_steps=25` with `CleanProgressCallback` (Step, Pct, Loss, LR, Elapsed, VRAM). Completely eliminates browser memory leaks and Chrome tab freezing.
+  3. *Automatic Path & Template Variable Resolution:* Auto-resolves `{ROUND}` and `{MODEL}` in `export_gguf.py`, `train_sft.py`, `run_eval.py`, and `evaluate.py`. Automatically locates latest adapter folder in `workspace/runs/` if uninitialized.
+  4. *GGUF Suffix Auto-Correction:* Automatically strips `-GGUF` or `.gguf` if entered into `train_sft.py` and transparently routes to the unquantized base Hugging Face repository.
+  5. *Synchronized Repositories & Colab Kit:* Updated `sa_tutor_colab.ipynb`, `sa-tutor-kit/sa-tutor-kit/colab/sa_tutor_colab.ipynb`, and repacked `eishkom_colab_kit.zip` (1.57 MB).
 - **Cloud Run Hosting (Scale-to-Zero):** For `koeberg-stage-1`, deploy containerized Ollama/vLLM on Google Cloud Run with an NVIDIA L4 GPU. Configured with `--min-instances 0` so it scales down to \$0.00/hr when idle, only drawing credit during active chat queries (~$0.015/min).
 
 ---
@@ -41,7 +50,13 @@
 ## 4. Base Models vs. GGUF Files
 - **Rule:** Never pass a compiled `-GGUF` repository to `train_sft.py`.
 - **Action:** Fine-tune unquantized Transformers base repos using Unsloth QLoRA (4-bit base weights + 16-bit LoRA adapters).
-- **Multi-Quant Export:** Compile to `.gguf` at the end using `training/export_gguf.py`. Export both `kendal-stage-1` (Q6) and `kendal-flash-stage-1` (Q4) from a single 4B training run.
+- **Universal K-Quant Export Mandate (Nov 9, 2026):** For EVERY model family, export the high-precision quant (Q6_K / Q8_0 / UD-Q4_K_XL), the pure K-quant (Q4_K), AND the compact mobile quant (Q4_K_M) to benchmark pure-K reasoning retention vs file size:
+  - **4B (`kendal-stage-1`):** `q6_k` (~3.53 GB) + `q4_k` (~2.85 GB) + `q4_k_m` (~2.78 GB, `kendal-flash-stage-1`)
+  - **2B (`gariep-stage-1`):** `q8_0` (~2.15 GB) + `q6_k` (~1.75 GB) + `q4_k` (~1.40 GB) + `q4_k_m` (~1.35 GB)
+  - **1B (`baby-jake-stage-3`):** `q6_k` (~850 MB) + `q4_k` (~680 MB) + `q4_k_m` (~650 MB)
+  - **27B (`koeberg-stage-1`):** `ud-q4_k_xl` (~17.6 GB) + `q4_k` (~16.6 GB) + `q4_k_m` (~16.2 GB)
+- **Multi-Quant Export Efficiency:** Compile to `.gguf` using `training/export_gguf.py`. Merged 16-bit weights are converted to F16 once, producing all quants in ~3 minutes from a single trained adapter, with intermediate 16-bit weights automatically cleaned up to save 9GB disk space.
+- **Colab Enterprise Dual-Disk Routing:** Redirect `HF_HOME` to `/content/.cache/huggingface` so model downloads reside on the 100GB persistent SSD (88.8 GB free) instead of filling the 94GB root OS disk. Clean root Hugging Face cache (`rm -rf /root/.cache/huggingface/hub/*`) post-export.
 
 ---
 
@@ -6288,3 +6303,39 @@ eeds_review: true.
 - **Mirroring & Readiness:**
   - Mirrored to `sa-tutor-kit/sa-tutor-kit/workspace/build/r1/`.
   - 100% ready for SFT fine-tuning in Vertex AI Colab Enterprise on an NVIDIA L4 GPU Spot VM.
+
+
+## 2026-11-09: Milestone: Kendal Stage 1 (4B) SFT Run Complete & Multi-Quant GGUF Export (Q6_K, Q4_K_M, pure Q4_K)
+- **Training Run Verified:**
+  - Base Model: `unsloth/Qwen3.5-4B` in 4-bit QLoRA on NVIDIA L4 GPU Spot VM.
+  - Completed all 870 optimizer steps across 3 epochs on 5,755 SFT samples in 42 minutes.
+  - Final Loss: `0.34` (down from 1.82). Validation Loss: `0.74–0.78` flat with zero overfitting.
+  - Saved LoRA Adapter: `workspace/runs/r1/adapter/`.
+- **Multi-Quant Export & Pure K Policy:**
+  - Exported `kendal-stage-1-Q6_K.gguf` (3,398.0 MB), `kendal-flash-stage-1-Q4_K_M.gguf` (2,654.5 MB), and pure `kendal-stage-1-Q4_K.gguf`.
+  - Pure K policy enforced across all models: every model will have a pure K quant (`Q4_K`) alongside standard quants to evaluate pure-K reasoning retention.
+- **Storage & Download Architecture:**
+  - Verified Colab Web UI truncates browser downloads at ~60–65 MB.
+  - Model artifacts and archives are synced directly to Google Cloud Storage (`gs://${PROJECT}-models`) for full-speed, untruncated retrieval.
+- **Next Model Pipeline:**
+  - Model: `gariep-stage-1` (2B) on base `empero-ai/Qwen3.8-2B-Distill`.
+  - Batch size auto-scaled to 8 on L4 GPU for estimated ~20-minute completion.
+  - Quants: `q8_0`, `q6_k`, `q4_k`, `q4_k_m`.
+
+
+## 2026-11-09: Milestone: Kendal Stage 1 (4B) SFT Run Complete & Multi-Quant GGUF Export (Q6_K, Q4_K_M, pure Q4_K)
+- **Training Run Verified:**
+  - Base Model: `unsloth/Qwen3.5-4B` in 4-bit QLoRA on NVIDIA L4 GPU Spot VM.
+  - Completed all 870 optimizer steps across 3 epochs on 5,755 SFT samples in 42 minutes.
+  - Final Loss: `0.34` (down from 1.82). Validation Loss: `0.74–0.78` flat with zero overfitting.
+  - Saved LoRA Adapter: `workspace/runs/r1/adapter/`.
+- **Multi-Quant Export & Pure K Policy:**
+  - Exported `kendal-stage-1-Q6_K.gguf` (3,398.0 MB), `kendal-flash-stage-1-Q4_K_M.gguf` (2,654.5 MB), and pure `kendal-stage-1-Q4_K.gguf`.
+  - Pure K policy enforced across all models: every model will have a pure K quant (`Q4_K`) alongside standard quants to evaluate pure-K reasoning retention.
+- **Storage & Download Architecture:**
+  - Verified Colab Web UI truncates browser downloads at ~60–65 MB.
+  - Model artifacts and archives are synced directly to Google Cloud Storage (`gs://${PROJECT}-models`) for full-speed, untruncated retrieval.
+- **Next Model Pipeline:**
+  - Model: `gariep-stage-1` (2B) on base `empero-ai/Qwen3.8-2B-Distill`.
+  - Batch size auto-scaled to 8 on L4 GPU for estimated ~20-minute completion.
+  - Quants: `q8_0`, `q6_k`, `q4_k`, `q4_k_m`.

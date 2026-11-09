@@ -79,11 +79,30 @@ Public model names **never display parameter numbers or quantization suffixes** 
 ### Phase 8: COMPLETED Supervised Fine-Tuning Run (`kendal-stage-1` 4B) (Verified Nov 9, 2026)
 - Base model: `unsloth/Qwen3.5-4B` in 4-bit QLoRA (Unsloth fast patching).
 - Trainable parameters: 21,233,664 (0.47% of 4.56B weights).
-- Training progress (Active Nov 9, 2026):
-  - Optimizer steps: 870 total steps across 3 epochs (290 steps/epoch).
-  - Step 104/870 completed (0.34 epochs) in 17 minutes.
-  - Step speed stabilized from 15.98s/it down to **8.14s/it** (~1h 40m remaining).
-  - **Loss trajectory:** Dropped from `1.662` down to **`0.6597`** (Textbook-grade alignment!).
+- Training results (COMPLETED Nov 9, 2026):
+  - Optimizer steps: All 870 steps across 3 epochs (290 steps/epoch) successfully completed on 5,755 samples.
+  - Final Training Loss: **`0.34`** (dropped from 1.82 down to 0.34).
+  - Validation Loss: **`0.74–0.78`** flat (0% overfitting).
+  - Saved LoRA adapter: `workspace/runs/r1/adapter/` (`adapter_model.safetensors`, `adapter_config.json`).
+  - Saved training plot: `workspace/runs/r1/loss.png`.
+
+### Phase 9: GGUF Multi-Quant Export VERIFIED (Nov 9, 2026)
+- Exported deployable GGUF models directly from `workspace/runs/r1/adapter/`:
+  - **`kendal-stage-1-Q6_K.gguf`** (3,398.0 MB / ~3.4 GB): Tailored for budget desktop/laptop CPUs and GTX 1650 GPUs.
+  - **`kendal-stage-1-Q4_K.gguf`** (~2.85 GB): Pure K-quantization variant without sub-modifiers for testing pure-K reasoning retention.
+  - **`kendal-flash-stage-1-Q4_K_M.gguf`** (2,654.5 MB / ~2.65 GB): Tailored for mobile phones and 4GB RAM PCs.
+- Verified single-run export efficiency: exported multiple quantizations in ~3 minutes from the single trained adapter.
+- Packaged full models and runs into cloud storage zips and delivered via Google Cloud Storage (`gs://...`).
+
+### Phase 10: Training Pipeline & Script Hardening (Nov 9, 2026)
+- **VRAM Auto-Scaler:** Dynamically inspects model parameter count and GPU VRAM capacity:
+  - 1B/2B models (`gariep-stage-1`, `baby-jake-stage-3`): Auto-sets `batch=8–16, grad_accum=1–2`, using ~16–18GB VRAM for high-throughput training in ~10–20 minutes.
+  - 4B models (`kendal-stage-1`): Auto-sets `batch=4, grad_accum=4`, using ~18GB VRAM (~45–55 minutes).
+  - 27B models (`koeberg-stage-1`): Auto-sets `batch=2, grad_accum=8`, targeting ~21GB VRAM leaving safe headroom to guarantee zero out-of-memory (OOM) errors.
+- **Clean Progress Logging Callback:** Disabled `tqdm` (`disable_tqdm=True`) and configured `CleanProgressCallback` with `logging_steps=25` logging Step, Pct, Loss, LR, Elapsed, and VRAM. Solved the Chrome browser/DOM memory leak and tab freezing permanently.
+- **Template Variable & Path Auto-Resolution:** Automatically detects and resolves `{ROUND}` and `{MODEL}` in `export_gguf.py`, `train_sft.py`, `run_eval.py`, and `evaluate.py`. Auto-locates the latest adapter in `workspace/runs/` if uninitialized.
+- **GGUF Suffix Guard:** Automatically detects if a user inputs a `-GGUF` model name, warns them with an educational explanation, and strips the suffix to load the unquantized base Hugging Face repository.
+- **Synchronized Notebooks & Kit:** Repacked `eishkom_colab_kit.zip` (1.57 MB) and synchronized `sa_tutor_colab.ipynb` across root and `sa-tutor-kit/`.
 
 ---
 

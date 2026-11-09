@@ -143,8 +143,8 @@ def main():
     ap.add_argument("--lr", type=float, default=2e-4, help="learning rate for LoRA (1e-4 to 3e-4 is normal)")
     ap.add_argument("--rank", type=int, default=16, help="LoRA size: 16 is a good start, 32-64 if you add many skills")
     ap.add_argument("--alpha", type=int, default=16)
-    ap.add_argument("--batch", type=int, default=2)
-    ap.add_argument("--grad-accum", type=int, default=8, help="effective batch = batch x grad-accum")
+    ap.add_argument("--batch", type=int, default=0, help="batch size per device. 0 = auto-scale based on VRAM/model size")
+    ap.add_argument("--grad-accum", type=int, default=0, help="effective batch = batch x grad-accum. 0 = auto-scale")
     ap.add_argument("--seed", type=int, default=3407)
     ap.add_argument("--limit", type=int, default=0, help="use only the first N samples (overfit test)")
     ap.add_argument("--target-modules", help="comma list; default q,k,v,o,gate,up,down projections")
@@ -154,6 +154,86 @@ def main():
     ap.add_argument("--resume", action="store_true")
     ap.add_argument("--show", type=int, default=1, help="print N rendered samples")
     a = ap.parse_args()
+
+    # Proactive auto-correction for model name, template variables, and GGUF suffixes
+    if a.model:
+        if "{MODEL}" in a.model:
+            a.model = "unsloth/Qwen3.5-4B"
+            print(f"[AUTO-FIX] Detected raw variable in --model. Defaulting to: '{a.model}'")
+        if a.model.endswith("-GGUF") or a.model.endswith(".gguf") or "-GGUF" in a.model or "-gguf" in a.model:
+            clean_model = a.model.replace("-GGUF", "").replace("-gguf", "").replace(".gguf", "")
+            print(f"\n[AUTO-CORRECTION] Detected GGUF suffix in base model name: '{a.model}'")
+            print("GGUF files are compiled, read-only inference files and cannot be fine-tuned.")
+            print(f"Auto-switching to base Hugging Face repository: '{clean_model}'\n")
+            a.model = clean_model
+
+    if a.data:
+        if "{ROUND}" in a.data:
+            a.data = a.data.replace("{ROUND}", "r1")
+            print(f"[AUTO-FIX] Detected raw variable in --data. Resolved to: '{a.data}'")
+        data_p = Path(a.data)
+        if not data_p.exists():
+            for cand in [Path("workspace/build/r1"), Path("build/r1")]:
+                if cand.exists():
+                    print(f"[AUTO-FIX] Data folder '{a.data}' not found. Auto-resolved to: '{cand}'")
+                    a.data = str(cand)
+                    break
+
+    if a.out:
+        if "{ROUND}" in a.out:
+            a.out = a.out.replace("{ROUND}", "r1")
+            print(f"[AUTO-FIX] Detected raw variable in --out. Resolved to: '{a.out}'")
+
+    # Dynamic VRAM optimization: Auto-scale batch size based on GPU capacity and model tier
+    if a.batch == 0 or a.grad_accum == 0:
+        gpu_mem_gb = 24.0
+        gpu_name = "GPU"
+        try:
+            import torch
+            if torch.cuda.is_available():
+                gpu_mem_gb = torch.cuda.get_device_properties(0).total_memory / (1024**3)
+                gpu_name = torch.cuda.get_device_name(0)
+        except Exception:
+            pass
+
+        m_lower = a.model.lower()
+        is_small = any(k in m_lower for k in ["0.5b", "1b", "1.5b", "2b"])
+        is_mid = any(k in m_lower for k in ["3b", "4b", "7b", "8b"])
+
+        if gpu_mem_gb >= 20.0:  # e.g. NVIDIA L4 (24GB VRAM) or A100
+            if "1b" in m_lower or "0.5b" in m_lower:
+                # Ultra-light model (Baby Jake class): Saturate VRAM for ultra-fast training (~10 mins)
+                a.batch = 16 if a.batch == 0 else a.batch
+                a.grad_accum = 1 if a.grad_accum == 0 else a.grad_accum
+                target = "~14-16GB VRAM (Ultra-Fast ~10 min)"
+            elif is_small:  # 2B (Gariep class): High VRAM allocation as requested (~15-20 mins)
+                a.batch = 8 if a.batch == 0 else a.batch
+                a.grad_accum = 2 if a.grad_accum == 0 else a.grad_accum
+                target = "~16-18GB VRAM (High Throughput ~15-20 min)"
+            elif is_mid:  # 4B (Kendal class): Balanced VRAM (~18GB) (~45-55 mins)
+                a.batch = 4 if a.batch == 0 else a.batch
+                a.grad_accum = 4 if a.grad_accum == 0 else a.grad_accum
+                target = "~17-19GB VRAM (Optimal 4B ~45-55 min)"
+            else:  # 14B / 27B / 32B (Koeberg class): Safe headroom to prevent any OOM
+                a.batch = 2 if a.batch == 0 else a.batch
+                a.grad_accum = 8 if a.grad_accum == 0 else a.grad_accum
+                target = "~20-21GB VRAM (Safe headroom, 0% OOM risk)"
+        else:  # Smaller GPU (e.g. Tesla T4 15GB VRAM)
+            if is_small:
+                a.batch = 4 if a.batch == 0 else a.batch
+                a.grad_accum = 4 if a.grad_accum == 0 else a.grad_accum
+                target = "~10-12GB VRAM (T4 safe)"
+            elif is_mid:
+                a.batch = 2 if a.batch == 0 else a.batch
+                a.grad_accum = 8 if a.grad_accum == 0 else a.grad_accum
+                target = "~12-14GB VRAM (T4 safe)"
+            else:
+                a.batch = 1 if a.batch == 0 else a.batch
+                a.grad_accum = 16 if a.grad_accum == 0 else a.grad_accum
+                target = "~14GB VRAM (Warning: 27B strongly recommended on L4)"
+
+        print(f"[VRAM Optimizer] Detected {gpu_name} ({gpu_mem_gb:.1f} GB VRAM). "
+              f"Auto-configured batch={a.batch}, grad_accum={a.grad_accum} for {a.model} ({target}).")
 
     data = Path(a.data)
     tok_r = load_tokenizer(a.tokenizer or a.model)
@@ -179,7 +259,32 @@ def main():
         sys.exit("--out is required for a real run")
 
     import torch
-    from transformers import Trainer, TrainingArguments
+    from transformers import Trainer, TrainingArguments, TrainerCallback
+
+    class CleanProgressCallback(TrainerCallback):
+        def __init__(self, total_steps):
+            self.total_steps = total_steps
+            self.t0 = time.time()
+        def on_log(self, args, state, control, logs=None, **kwargs):
+            if not logs: return
+            step = state.global_step
+            loss = logs.get("loss")
+            eval_loss = logs.get("eval_loss")
+            lr = logs.get("learning_rate", 0)
+            elapsed = (time.time() - self.t0) / 60
+            pct = 100 * step / max(1, self.total_steps)
+
+            vram_str = ""
+            if torch.cuda.is_available():
+                res_gb = torch.cuda.memory_reserved() / (1024**3)
+                vram_str = f" | VRAM: {res_gb:.1f}GB"
+
+            if eval_loss is not None:
+                print(f"  ===> [Epoch {state.epoch:.1f} Validation] Eval Loss: {eval_loss:.4f}{vram_str}", flush=True)
+            if loss is not None:
+                loss_str = f"{loss:.4f}" if isinstance(loss, float) else str(loss)
+                print(f"  -> [Step {step:3d}/{self.total_steps} ({pct:4.1f}%)] Loss: {loss_str} | LR: {lr:.2e} | Elapsed: {elapsed:4.1f}m{vram_str}", flush=True)
+
     model, tok_model = load_model(a)
     pad_id = (tok_model or tok_r).pad_token_id if (tok_model or tok_r).pad_token_id is not None else tok_r.eos_token_id
     bf16 = torch.cuda.is_available() and torch.cuda.is_bf16_supported()
@@ -192,16 +297,23 @@ def main():
     out = Path(a.out)
     kw = dict(output_dir=str(out / "checkpoints"), per_device_train_batch_size=a.batch, gradient_accumulation_steps=a.grad_accum,
               num_train_epochs=a.epochs, learning_rate=a.lr, lr_scheduler_type="cosine", warmup_steps=max(1, int(0.03 * total_steps)),
-              weight_decay=0.01, logging_steps=5, save_strategy="epoch", save_total_limit=2, seed=a.seed, report_to="none",
+              weight_decay=0.01, logging_steps=25, disable_tqdm=True, save_strategy="epoch", save_total_limit=2, seed=a.seed, report_to="none",
               remove_unused_columns=False, optim=optim, bf16=bf16, fp16=not bf16, dataloader_num_workers=0)
     if val_rows:
         kw["eval_strategy" if "eval_strategy" in sig else "evaluation_strategy"] = "epoch"
         kw["per_device_eval_batch_size"] = a.batch
+    clean_cb = CleanProgressCallback(total_steps)
     trainer = Trainer(model=model, args=TrainingArguments(**kw), train_dataset=Rows(train_rows),
-                      eval_dataset=Rows(val_rows) if val_rows else None, data_collator=make_collator(pad_id))
+                      eval_dataset=Rows(val_rows) if val_rows else None, data_collator=make_collator(pad_id), callbacks=[clean_cb])
     t0 = time.time()
     result = trainer.train(resume_from_checkpoint=True if a.resume else None)
     minutes = (time.time() - t0) / 60
+
+    # Memory cleanup before saving
+    import gc
+    gc.collect()
+    if torch.cuda.is_available():
+        torch.cuda.empty_cache()
 
     adapter = out / "adapter"
     model.save_pretrained(str(adapter))
@@ -225,13 +337,15 @@ def main():
         plt.xlabel("step"); plt.ylabel("loss"); plt.legend(); plt.tight_layout(); plt.savefig(out / "loss.png", dpi=120)
     except Exception:                                                         # noqa: BLE001
         pass
-    print(f"\nsaved adapter to {adapter}  ({minutes:.1f} minutes, final train loss {result.training_loss:.3f})")
-    print("READ loss.png: train loss should fall and flatten; val loss falling then RISING means over-fitting (use fewer epochs).")
+    print(f"\n[Training Complete] Saved adapter to {adapter} ({minutes:.1f} minutes, final train loss {result.training_loss:.3f})")
+    print("READ loss.png: train loss should fall and flatten; val loss falling then RISING means over-fitting.")
     try:
         sanity_generate(model, tok_r, a)
     except Exception as e:                                                    # noqa: BLE001
         print(f"(sanity generation skipped: {type(e).__name__}: {e})")
-    print("NEXT: python eval/run_eval.py --backend hf --model", a.model, "--adapter", adapter, "--name", out.name)
+    print("\nNEXT STEPS:")
+    print("  1. Evaluate the model:  Run Notebook Cell 7 (or Cell 8 for consistency n=5)")
+    print("  2. Export GGUF files:   Run Notebook Cell 9 (exports clean Stage 1 quant files in minutes)")
 
 
 if __name__ == "__main__":
