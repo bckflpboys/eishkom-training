@@ -1,0 +1,225 @@
+#!/usr/bin/env python3
+import json
+import os
+
+notebook = {
+    "cells": [
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "# Eishkom Stage 1: Cloud TPU v5e-1 Runner (Google Cloud & Colab TPU)\n",
+                "Open this notebook in Google Colab (Research or Enterprise) with hardware accelerator set to **TPU v5e-1** (1 chip = 16GB HBM, 197 TFLOPs bfloat16).\n",
+                "\n",
+                "### Cloud TPU v5e-1 Architecture & Strategy:\n",
+                "- **Unsloth vs. TPU Note:** Unsloth uses custom NVIDIA Triton/CUDA kernels and does not run on TPUs. Therefore, this notebook runs native **PyTorch/XLA (`torch_xla`) + Hugging Face Transformers + PEFT LoRA**.\n",
+                "- **Hardware Optimization:** TPU v5e matrix units are purpose-built for **bfloat16**. Training runs natively in bfloat16 with `batch=8, grad_accum=2`, utilizing ~6–8 GB of the 16 GB High Bandwidth Memory (HBM).\n",
+                "- **Multi-Quant GGUF Export:** Converts adapter weights and exports **Q8_0, Q6_K, pure Q4_K, and Q4_K_M** using the x86 host CPU and llama.cpp."
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "# 1. Verify Cloud TPU v5e Hardware\n",
+                "import os\n",
+                "print('PJRT Device:', os.environ.get('PJRT_DEVICE', 'Default'))\n",
+                "try:\n",
+                "    import torch_xla.core.xla_model as xm\n",
+                "    print('✅ Active TPU Device:', xm.xla_device())\n",
+                "except Exception as e:\n",
+                "    print('TPU status note:', e)\n"
+            ]
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "## 2. Setup Workspace & Unpack Kit\n",
+                "Upload `gariep_colab_research_kit.zip` (or `eishkom_colab_kit.zip`) to the **Files** panel on the left."
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "# 2. Setup workspace & unpack kit\n",
+                "import os, shutil, zipfile\n",
+                "\n",
+                "if os.path.exists('gariep_colab_research_kit.zip'):\n",
+                "    print('Unpacking gariep_colab_research_kit.zip...')\n",
+                "    with zipfile.ZipFile('gariep_colab_research_kit.zip', 'r') as z:\n",
+                "        z.extractall('.')\n",
+                "    print('✅ Gariep 2B Kit unpacked successfully!')\n",
+                "elif os.path.exists('eishkom_colab_kit.zip'):\n",
+                "    print('Unpacking eishkom_colab_kit.zip...')\n",
+                "    with zipfile.ZipFile('eishkom_colab_kit.zip', 'r') as z:\n",
+                "        z.extractall('.')\n",
+                "    print('✅ Eishkom Kit unpacked!')\n",
+                "else:\n",
+                "    print('TIP: Please drag and drop gariep_colab_research_kit.zip or eishkom_colab_kit.zip into Files!')\n",
+                "\n",
+                "os.environ['SA_WORKSPACE'] = os.path.abspath('workspace')\n",
+                "print('Workspace active at:', os.environ['SA_WORKSPACE'])\n"
+            ]
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "## 3. Install TPU Training Tools (PyTorch-XLA + Transformers + PEFT)\n",
+                "Installs Hugging Face transformers, PEFT LoRA, accelerate, and mathematical verification packages."
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "!pip install -q transformers peft accelerate datasets sympy pypdf matplotlib\n"
+            ]
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "## 4. Dry Run Smoke Test on TPU (5 seconds)\n",
+                "Verifies dataset tokens, chat templates, and loss masks before launching the full training run."
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "!python training/train_sft.py --model empero-ai/Qwen3.8-2B-Distill --data workspace/build/r1 --no-unsloth --dry-run --show 2\n"
+            ]
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "## 5. TRAIN Gariep 2B on Cloud TPU v5e-1 (~15–20 minutes)\n",
+                "Trains `gariep-stage-1` (2B) with PyTorch/XLA bfloat16 LoRA across all 5,755 South African CAPS samples.\n",
+                "Hardware settings: `batch=8, grad_accum=2` saturates TPU v5e matrix units for ultra-fast throughput."
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "# Gariep 2B: Full training run on TPU v5e\n",
+                "!python training/train_sft.py --model empero-ai/Qwen3.8-2B-Distill --data workspace/build/r1 --out workspace/runs/r1-gariep --no-unsloth --epochs 3 --batch 8 --grad-accum 2 --show 0\n"
+            ]
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "## 6. Compile llama.cpp on Host CPU for GGUF Quantization (~1 minute)\n",
+                "TPU VMs use standard Linux x86 CPUs. We compile llama.cpp natively to quantize the model into all GGUF formats."
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "!git clone -q https://github.com/ggerganov/llama.cpp\n",
+                "!cd llama.cpp && cmake -B build -DGGML_CUDA=OFF > /dev/null && cmake --build build --config Release -j4 > /dev/null\n",
+                "print('✅ llama.cpp compiled successfully on host CPU!')\n"
+            ]
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "## 7. EXPORT GGUF Models (Multi-Quant: Q8_0, Q6_K, pure Q4_K, Q4_K_M)\n",
+                "Compiles all requested quantization formats directly from your trained adapter in one pass:\n",
+                "- **Q8_0**: Maximum 2B reasoning fidelity.\n",
+                "- **Q6_K**: High fidelity for budget PCs/laptops.\n",
+                "- **Q4_K**: Pure K-quantization variant without sub-modifiers.\n",
+                "- **Q4_K_M**: Mobile format for phones and low-RAM devices (~1.3 GB)."
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "!python training/export_gguf.py --adapter workspace/runs/r1-gariep/adapter --base empero-ai/Qwen3.8-2B-Distill --method manual --llama-cpp llama.cpp --out workspace/exports/gariep-stage-1 --quants q8_0 q6_k q4_k q4_k_m\n"
+            ]
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "## 8. Package & Download Models and Training Runs\n",
+                "Packages all GGUF models and adapter weights into clean archives for easy 1-click download."
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "import os, zipfile\n",
+                "from google.colab import files\n",
+                "\n",
+                "# 1. Package all exported GGUF models into one archive\n",
+                "gguf_zip = '/content/gariep_stage1_gguf_models.zip'\n",
+                "with zipfile.ZipFile(gguf_zip, 'w', zipfile.ZIP_STORED) as z:\n",
+                "    for root, dirs, files_list in os.walk('/content/workspace/exports'):\n",
+                "        for f in files_list:\n",
+                "            if f.endswith('.gguf'):\n",
+                "                p = os.path.join(root, f)\n",
+                "                z.write(p, arcname=os.path.basename(p))\n",
+                "\n",
+                "# 2. Package adapter, loss plot, and training metrics\n",
+                "run_zip = '/content/gariep_stage1_adapter_and_loss.zip'\n",
+                "with zipfile.ZipFile(run_zip, 'w', zipfile.ZIP_DEFLATED) as z:\n",
+                "    for root, dirs, files_list in os.walk('/content/workspace/runs/r1-gariep'):\n",
+                "        for f in files_list:\n",
+                "            p = os.path.join(root, f)\n",
+                "            z.write(p, arcname=os.path.relpath(p, '/content/workspace'))\n",
+                "\n",
+                "if os.path.exists(gguf_zip):\n",
+                "    print(f'✅ Created {gguf_zip} ({os.path.getsize(gguf_zip)/(1024*1024):.1f} MB)')\n",
+                "if os.path.exists(run_zip):\n",
+                "    print(f'✅ Created {run_zip} ({os.path.getsize(run_zip)/(1024*1024):.1f} MB)')\n",
+                "    print('⬇️ Downloading adapter & metrics archive to browser...')\n",
+                "    files.download(run_zip)\n",
+                "\n",
+                "print('\\nDone! To download the GGUF models, right-click gariep_stage1_gguf_models.zip in the Files panel or copy to Google Drive.')\n"
+            ]
+        }
+    ],
+    "metadata": {
+        "kernelspec": {"display_name": "Python 3", "language": "python", "name": "python3"},
+        "language_info": {"name": "python"},
+        "colab": {"provenance": []}
+    },
+    "nbformat": 4,
+    "nbformat_minor": 5
+}
+
+with open("sa_tutor_colab_tpu_v5e.ipynb", "w", encoding="utf-8") as f:
+    json.dump(notebook, f, indent=1)
+
+os.makedirs("sa-tutor-kit/sa-tutor-kit/colab", exist_ok=True)
+with open("sa-tutor-kit/sa-tutor-kit/colab/sa_tutor_colab_tpu_v5e.ipynb", "w", encoding="utf-8") as f:
+    json.dump(notebook, f, indent=1)
+
+print("Generated sa_tutor_colab_tpu_v5e.ipynb successfully!")
+

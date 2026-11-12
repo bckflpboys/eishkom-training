@@ -178,20 +178,125 @@ gcloud run deploy koeberg-stage-1 \
 - Run automated verification against SymPy and official DBE memorandums with forensic South African decimal comma normalization (`$13{,}32$` -> `13.32`).
 - Rejects any generated dialogue where the mathematical calculation disagrees with SymPy or the official memo.
 
-### Step 7: SFT Training in Vertex AI Colab Enterprise
-- Open `colab/sa_tutor_colab.ipynb` inside Google Cloud Console.
-- Choose **NVIDIA L4 GPU (24GB VRAM)** with **Spot VM** enabled (~$0.32/hr).
+### Step 7: SFT Training & GGUF Quantization
+
+#### 1. Hardware & Runner Notebooks:
+- **Option A (Vertex AI Colab Enterprise - NVIDIA L4 GPU 24GB):**
+  - Notebook: `colab/sa_tutor_colab.ipynb`
+  - Runs inside Google Cloud Console with Spot VM pricing (~$0.32/hr) consuming promotional GCP credits.
+  - Ideal for `koeberg-stage-1` (27B) and `kendal-stage-1` (4B).
+  - *Note on Regional Stock:* If `us-central1` experiences L4 capacity shortages, standard on-demand instances or alternate regions (`us-east4`) can be utilized.
+- **Option B (Google Colab Research - NVIDIA T4 GPU 15GB):**
+  - Notebook: `colab/sa_tutor_colab_research.ipynb`
+  - Packaged kit: `gariep_colab_research_kit.zip` (1.56 MB)
+  - Runs in standard consumer Colab (`colab.research.google.com`) on free or Pro NVIDIA T4 GPUs.
+  - Highly optimized for `gariep-stage-1` (2B): utilizes `batch=8, grad_accum=2` with FP16, saturating ~11-12GB VRAM for high-speed ~20-minute training.
+- **Option C (Cloud TPU v5e-1 - 16GB HBM, 197 TFLOPs bfloat16):**
+  - Notebook: `colab/sa_tutor_colab_tpu_v5e.ipynb`
+  - Packaged kit: `gariep_colab_research_kit.zip` or `eishkom_colab_kit.zip`
+  - Runs in Google Colab (Research or Enterprise) with hardware set to **TPU v5e-1**.
+  - Uses native **PyTorch/XLA (`torch_xla`) + Hugging Face Transformers + PEFT LoRA** with hardware `bfloat16` (`--no-unsloth`).
+  - Squeezes maximum matrix throughput: `batch=8, grad_accum=2` (~15–20 minutes for 2B). Exports GGUF via llama.cpp on the host CPU.
+
+#### 2. Model Training & Checkpointing:
 - Fine-tune unquantized base Hugging Face repositories using Unsloth QLoRA.
-- Checkpoints saved after each epoch to Google Drive (`--resume` protects against spot preemption).
-- Export GGUF binaries (`UD-Q4_K_XL`, `Q6_K`, `Q4_K_M`) via `training/export_gguf.py`.
+- Checkpoints saved after each epoch to Google Drive (`--resume` protects against preemption).
+- Logging throttled with `disable_tqdm=True` and `logging_steps=25` to prevent browser tab freezing.
+
+#### 3. Multi-Quant Export & Pure K Mandate:
+- Run `training/export_gguf.py` on the trained adapter.
+- Mandated quantization suite across all model tiers:
+  - High fidelity: `UD-Q4_K_XL` (27B), `Q6_K` (4B), `Q8_0` (2B)
+  - Pure K-quant: `Q4_K` (evaluates un-modified pure-K reasoning retention)
+  - Edge/Mobile: `Q4_K_M` (lightweight packaging for mobile phones and low-RAM PCs)
+- **Large File Download Protocol:** Colab's web UI truncates browser downloads at ~60MB. Always sync full `.gguf` binaries to Google Cloud Storage (`gs://${PROJECT}-models`) or save directly to mounted Google Drive.
 
 ### Step 8: Deploy Koeberg to Cloud Run
 - Deploy `koeberg-stage-1` containerized to Google Cloud Run with scale-to-zero (`--min-instances 0`).
 - Idle cost: $0.00/hour.
 - Active cost: ~$0.015/minute.
 
+### Step 9: Native Application Pipeline & Transient Page-Worker Architecture
+To ensure seamless execution on budget South African client devices (4GB RAM phones, legacy Celeron school laptops, and GTX 1650 PCs), the desktop/mobile application implements the **Transient Chunked Page-Worker Pattern (Map-Reduce)**:
 
-### Step 8: Multi-Stage Scaling & Evolution Architecture (Stages 2, 3 & 4)
+```
+[ Multi-Page PDF / Exam Photos ] 
+            │
+            ▼ (App renders 300 DPI PNG screenshots)
+[ Page 1 PNG ] ──> [ Transient Vision Worker (gariep-flash 2B) ] ──> [ KaTeX / Markdown Text ]
+                                  │
+                                  ▼ (Purge KV Cache & Release VRAM)
+[ Page 2 PNG ] ──> [ Transient Vision Worker (gariep-flash 2B) ] ──> [ KaTeX / Markdown Text ]
+                                  │
+                                  ▼ (Purge KV Cache & Release VRAM)
+            ...
+            │ (App stitches transcripts & resolves question continuity)
+            ▼
+[ Clean Extracted Exam / Homework Text ]
+            │
+            ▼
+[ Central Tutor Agent (kendal-stage-1 4B / gariep-stage-1 2B) ]
+(Socratic Dialogue • Ultra-Fast Token Speeds • Zero Vision Overhead • Flat Memory Footprint)
+```
+
+1. **Application Layer Responsibilities:**
+   - Slices input documents into high-resolution PNG page images (300 DPI).
+   - Sequentially dispatches one page at a time to the Vision Worker.
+   - Automatically detects and stitches cross-page questions (e.g. question statement ending at the bottom of Page 2 with sub-questions on Page 3).
+   - Enforces a complete memory purge of the vision worker between pages (`torch.cuda.empty_cache()` / context termination) to keep VRAM usage flat (~1.5–2GB) regardless of document page count.
+2. **Vision Worker Specialization (`gariep-flash-stage-1`):**
+   - **Pure High-Fidelity Digitization:** The vision model is strictly an OCR, KaTeX, and diagram transcriber—it does NOT solve problems or conduct tutoring.
+   - Transcribes printed exam text and student handwritten calculations.
+   - Standardizes all mathematical formulas into KaTeX LaTeX (`$...$` inline, `$$...$$` display).
+   - Encodes geometric circles, Cartesian curves, electric circuits, and chemical reaction pathways into structured diagram annotations (`[DIAGRAM: ...]`).
+3. **Central Tutor Specialization (`kendal-stage-1` / `gariep-stage-1`):**
+   - Operates 100% on the clean, aggregated text transcript.
+   - Dedicated exclusively to Socratic pedagogy, hint ladders, CAPS curriculum alignment, and diagnosing student misconceptions at maximum tokens per second.
+
+### Step 10: Vision Model Training & Ground-Truth Pipeline
+To fine-tune `gariep-flash-stage-1` (2B) for high-accuracy South African exam and handwriting digitization:
+
+1. **Synthetic Ground-Truth Generation:**
+   - Run high-capacity multimodal models (Gemini Flash Multimodal Vision) across exam pages and student handwritten homework samples to generate structured Markdown + KaTeX transcripts.
+   - Cross-check and reconcile extracted transcripts against the official DBE marking memorandums for exact mathematical and rubric fidelity.
+2. **Handwritten Sample Collection:**
+   - Collect 200–500 photographed student homework solutions on lined paper in varied lighting conditions and phone camera angles.
+   - Annotate with ground-truth KaTeX to train the vision model on real-world classroom pencil work.
+3. **Dataset Schema (Vision Multi-Turn JSONL):**
+   ```json
+   {
+     "messages": [
+       {
+         "role": "user",
+         "content": [
+           {"type": "image", "image": "workspace/images/gr12_physics_circuit_p1.png"},
+           {"type": "text", "text": "Transcribe this exam page exactly. Output all equations in KaTeX LaTeX and describe all diagrams."}
+         ]
+       },
+       {
+         "role": "assistant",
+         "content": "### QUESTION 8\nIn the circuit diagram below...\n[DIAGRAM: Battery with emf $\\mathcal{E} = 12\\text{ V}$, internal resistance $r$, connected in series with...]"
+       }
+     ]
+   }
+   ```
+4. **Fine-Tuning with Unsloth `FastVisionModel`:**
+   - Load base multimodal model (e.g. `Qwen/Qwen2-VL-2B-Instruct` or `LiquidAI/LFM3-VL-2B`) in 4-bit QLoRA.
+   - Fine-tune on Google Cloud Vertex AI / Colab GPU runtime (~2–3 hours on L4 GPU).
+   - Export both the base language GGUF and the companion vision projector (`mmproj-*.gguf`).
+
+### Step 11: Custom Architecture & Enterprise Branding Registration
+To establish custom architecture identity without sacrificing C++/CUDA inference performance:
+
+1. **Hugging Face Custom Architecture:**
+   - In `config.json`, configure `"model_type": "eishkom"`.
+   - Provide `configuration_eishkom.py` (defining `EishkomConfig`) and `modeling_eishkom.py` (defining `EishkomForCausalLM`).
+   - Register architecture to Hugging Face Hub so users load it via `AutoModelForCausalLM.from_pretrained("...", trust_remote_code=True)`.
+2. **GGUF & Local Engine Encapsulation:**
+   - In compiled GGUF binaries, retain standard execution kernels (`general.architecture = "qwen2"`) to maintain compatibility with llama.cpp, Ollama, and LM Studio.
+   - Brand model identity cleanly via GGUF metadata: `general.name = "Eishkom Kendal Stage 1"`, clean file names (`kendal-stage-1-Q6_K.gguf`), and complete UI brand encapsulation within the native Eishkom desktop/mobile app.
+
+### Step 12: Multi-Stage Scaling & Evolution Architecture (Stages 2, 3 & 4)
 
 #### 1. Stage 2 (v2 Models) — Cumulative Dataset Scaling & Base Model Adaptability:
 - **Cumulative Dataset Rule:** Never train on only the new data! Combine Round 1 + Round 2 into `workspace/build/r2/` (5,755 + 10,000 = 15,755 total samples) to prevent catastrophic forgetting.

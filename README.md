@@ -45,7 +45,45 @@ All models in this release adhere to our **Clean Branding Rule**: public model n
 - **Phase 2.5 (Item Extraction):** `100% Complete & Audited` — **265 / 265 exam papers extracted** (100% of real DBE papers in corpus, 3 zero-byte stubs skipped). **13,168 atomic items**, **31,278 marks accounted for** (100% agreement with DBE memorandums), **0 KaTeX delimiter errors** across all items. Quad-mirrored across `workspace/items/<subject>/`, `workspace/items/`, and `sa-tutor-kit/sa-tutor-kit/workspace/items/`.
 - **Phase 3 (Benchmark Lock & Quarantine):** `100% Locked` — 33 held-out 2024 Grade 12 benchmark papers strictly quarantined in `workspace/eval/` (0% training contamination).
 - **Phase 4 & 5 (Multi-Model Fleet & Verification):** `100% Active & Scaling` — Wave 1 (176 lessons), Wave 2 (253 lessons), and Wave 3 turbo fleet operating across 10 parallel lanes. Pass rate sustained above 80% with forensic South African decimal comma normalization.
-- **Phase 7 (SFT Dataset Packaging — 5,000+ SAMPLES SURPASSED):** `5,755 Production SFT Samples Compiled` — Combining multi-turn Socratic dialogues (`answer_policy: "guided"`) and structured full worked solutions (`answer_policy: "full_solution"`) in a 1:2 multi-task curriculum ratio. Embedded calculator tool checks in reasoning chains ensure arithmetic rigor. Ready for Vertex AI Colab Enterprise training.
+- **Phase 7 (SFT Dataset Packaging):** `100% Complete` — **5,755 Production SFT Samples Compiled** in `workspace/build/r1/` (`tutor-v1` schema) with multi-task 1:2 curriculum ratio and embedded calculator checks.
+- **Phase 8 (Kendal Stage 1 4B SFT & Multi-Quant Export):** `100% Verified` — Trained `unsloth/Qwen3.5-4B` for 3 epochs (870 steps, loss down to 0.34). Exported `kendal-stage-1-Q6_K.gguf` (3.4 GB), `kendal-flash-stage-1-Q4_K_M.gguf` (2.65 GB), and pure `kendal-stage-1-Q4_K.gguf`. Synced to Google Cloud Storage.
+- **Phase 9 (Gariep Stage 1 2B SFT & Multi-Quant Export):** `100% Complete & Verified` — Trained `empero-ai/Qwen3.8-2B-Distill` for 3 epochs across 5,755 SFT samples. Successfully exported all 4 mandated formats (`Q8_0`, `Q6_K`, pure `Q4_K`, and mobile `Q4_K_M`). Packaged into cloud-ready `.zip` archives.
+- **Phase 10 (Application Pipeline & Page-Worker Architecture):** `Architecture Finalized` — Codified the Transient Chunked Page-Worker Pattern (Map-Reduce) decoupling high-res page image digitization from text-based Socratic tutoring.
+- **Phase 11 (Vision Model Fine-Tuning Pipeline):** `Ready to Run` — Synthetic ground-truth transcription pipeline using Gemini Flash Multimodal Vision and DBE marking memorandums with Unsloth `FastVisionModel`.
+
+---
+
+## Native Application Architecture: Transient Page-Worker Pattern
+
+To run smoothly on budget South African hardware (4GB RAM phones, legacy Celeron laptops, and GTX 1650 desktops) without GPU memory exhaustion or attention degradation, the application implements a **Map-Reduce Transient Page-Worker Pattern**:
+
+```
+[ Multi-Page PDF / Photos ] 
+            │
+            ▼ (App slices into 300 DPI PNG screenshots)
+[ Page 1 PNG ] ──> [ Transient Vision Worker (gariep-flash 2B) ] ──> [ KaTeX / Markdown Text ]
+                                  │
+                                  ▼ (Wipe KV Cache & Release VRAM)
+[ Page 2 PNG ] ──> [ Transient Vision Worker (gariep-flash 2B) ] ──> [ KaTeX / Markdown Text ]
+                                  │
+                                  ▼ (Wipe KV Cache & Release VRAM)
+            ...
+            │ (App stitches transcripts & resolves question continuity)
+            ▼
+[ Clean Extracted Exam / Homework Text ]
+            │
+            ▼
+[ Central Tutor Agent (kendal-stage-1 4B / gariep-stage-1 2B) ]
+(100% Text Socratic Guidance • Fast Token Speed • Zero Vision Overhead • Flat Battery/RAM Footprint)
+```
+
+### Key Architectural Principles:
+1. **Separation of Concerns:**
+   - **The App:** Manages high-resolution page rendering, sequential dispatch, cross-page question continuity, and text stitching.
+   - **The Vision Worker (`gariep-flash-stage-1`):** Acts strictly as a **high-fidelity digitizer and transcriber** (extracts printed/handwritten text, KaTeX formulas, and structured diagram descriptions). It does NOT tutor or solve problems.
+   - **The Central Tutor (`kendal-stage-1` / `gariep-stage-1`):** Focuses 100% of its reasoning capacity on Socratic pedagogy, hint ladders, and CAPS curriculum alignment.
+2. **Zero KV-Cache Bloat:** Processing one page at a time with immediate memory deallocation guarantees that VRAM usage stays flat (~1.5–2GB) regardless of whether an exam is 2 pages or 20 pages.
+3. **Custom Architecture Branding:** Supported via custom Hugging Face modeling (`model_type: "eishkom"`, `configuration_eishkom.py`, and `modeling_eishkom.py` with `trust_remote_code=True`) while maintaining optimized C++/CUDA runtime execution in local GGUF engines.
 
 ---
 

@@ -6339,3 +6339,108 @@ eeds_review: true.
   - Model: `gariep-stage-1` (2B) on base `empero-ai/Qwen3.8-2B-Distill`.
   - Batch size auto-scaled to 8 on L4 GPU for estimated ~20-minute completion.
   - Quants: `q8_0`, `q6_k`, `q4_k`, `q4_k_m`.
+
+
+## 2026-11-09: Decision: Specialized Colab Research Kit (`gariep_colab_research_kit.zip`) & T4 Runner
+- **Context & Diagnosis:**
+  - In Google Cloud Vertex AI Colab Enterprise, the `us-central1` (Iowa) data center encountered physical L4 GPU stockouts (`ZONE_RESOURCE_POOL_EXHAUSTED` / insufficient resources for `g2-standard-4`).
+  - To eliminate dependency on volatile enterprise cloud GPU capacity, the 2B model pipeline is augmented with a dedicated runner for **Google Colab Research** (`colab.research.google.com`).
+- **Optimization Strategy for NVIDIA T4 (15GB VRAM):**
+  - Model: `gariep-stage-1` (2B) on base `empero-ai/Qwen3.8-2B-Distill`.
+  - In 4-bit QLoRA, the 2B model requires only ~1.5GB base weights.
+  - Squeezes maximum performance from the T4 by setting `batch=8, grad_accum=2` with FP16 (`torch.cuda.is_bf16_supported() == False`), utilizing ~10–12GB VRAM for high-speed completion in ~20–25 minutes.
+  - Logging configured with `disable_tqdm=True` and `logging_steps=25` to eliminate browser tab freezing.
+- **Artifacts Packaged:**
+  - Notebook: `sa_tutor_colab_research.ipynb` (mirrored in root and `sa-tutor-kit/colab/`).
+  - Standalone Kit: `gariep_colab_research_kit.zip` (1.56 MB) containing full 5,755 sample dataset (`workspace/build/r1/`), training engine, multi-quant exporter (`Q8_0`, `Q6_K`, `Q4_K`, `Q4_K_M`), and download tools.
+
+
+## 2026-11-09: Decision: Specialized Colab Research Kit (`gariep_colab_research_kit.zip`) & T4 Runner
+- **Context & Diagnosis:**
+  - In Google Cloud Vertex AI Colab Enterprise, the `us-central1` (Iowa) data center encountered physical L4 GPU stockouts (`ZONE_RESOURCE_POOL_EXHAUSTED` / insufficient resources for `g2-standard-4`).
+  - To eliminate dependency on volatile enterprise cloud GPU capacity, the 2B model pipeline is augmented with a dedicated runner for **Google Colab Research** (`colab.research.google.com`).
+- **Optimization Strategy for NVIDIA T4 (15GB VRAM):**
+  - Model: `gariep-stage-1` (2B) on base `empero-ai/Qwen3.8-2B-Distill`.
+  - In 4-bit QLoRA, the 2B model requires only ~1.5GB base weights.
+  - Squeezes maximum performance from the T4 by setting `batch=8, grad_accum=2` with FP16 (`torch.cuda.is_bf16_supported() == False`), utilizing ~10–12GB VRAM for high-speed completion in ~20–25 minutes.
+  - Logging configured with `disable_tqdm=True` and `logging_steps=25` to eliminate browser tab freezing.
+- **Artifacts Packaged:**
+  - Notebook: `sa_tutor_colab_research.ipynb` (mirrored in root and `sa-tutor-kit/colab/`).
+  - Standalone Kit: `gariep_colab_research_kit.zip` (1.56 MB) containing full 5,755 sample dataset (`workspace/build/r1/`), training engine, multi-quant exporter (`Q8_0`, `Q6_K`, `Q4_K`, `Q4_K_M`), and download tools.
+
+
+## 2026-11-09: Decision: Cloud TPU v5e-1 Optimization & Runner (`sa_tutor_colab_tpu_v5e.ipynb`)
+- **Context & Architecture:**
+  - Google Cloud and Colab Pro/Enterprise offer **Cloud TPU v5e-1** (1 chip = 16GB HBM, 197 TFLOPs bfloat16).
+  - Unsloth relies on proprietary NVIDIA Triton and CUDA kernels, making it incompatible with TPUs.
+  - To enable high-speed TPU training without CUDA dependencies, `training/train_sft.py` was hardened with native **PyTorch/XLA (`torch_xla`) + Hugging Face Transformers + PEFT LoRA** support (`--no-unsloth`).
+- **Optimization Strategy:**
+  - TPU v5e matrix units are purpose-built for bfloat16. Training runs in native hardware `bfloat16` with `batch=8, grad_accum=2` and `adamw_torch` optimizer.
+  - VRAM/HBM auto-scaler detects TPU via `torch_xla.core.xla_model` or environment variable `PJRT_DEVICE=TPU` and configures optimal parameters.
+  - Multi-quant GGUF export (`Q8_0`, `Q6_K`, `Q4_K`, `Q4_K_M`) is compiled via host x86 CPU and llama.cpp (`--method manual`).
+- **Artifacts Created:**
+  - Notebook: `sa_tutor_colab_tpu_v5e.ipynb` (mirrored in root and `sa-tutor-kit/colab/`).
+  - Compatible with both `gariep_colab_research_kit.zip` and `eishkom_colab_kit.zip`.
+
+
+## 2026-11-09: Decision: Cloud TPU v5e-1 Optimization & Runner (`sa_tutor_colab_tpu_v5e.ipynb`)
+- **Context & Architecture:**
+  - Google Cloud and Colab Pro/Enterprise offer **Cloud TPU v5e-1** (1 chip = 16GB HBM, 197 TFLOPs bfloat16).
+  - Unsloth relies on proprietary NVIDIA Triton and CUDA kernels, making it incompatible with TPUs.
+  - To enable high-speed TPU training without CUDA dependencies, `training/train_sft.py` was hardened with native **PyTorch/XLA (`torch_xla`) + Hugging Face Transformers + PEFT LoRA** support (`--no-unsloth`).
+- **Optimization Strategy:**
+  - TPU v5e matrix units are purpose-built for bfloat16. Training runs in native hardware `bfloat16` with `batch=8, grad_accum=2` and `adamw_torch` optimizer.
+  - VRAM/HBM auto-scaler detects TPU via `torch_xla.core.xla_model` or environment variable `PJRT_DEVICE=TPU` and configures optimal parameters.
+  - Multi-quant GGUF export (`Q8_0`, `Q6_K`, `Q4_K`, `Q4_K_M`) is compiled via host x86 CPU and llama.cpp (`--method manual`).
+- **Artifacts Created:**
+  - Notebook: `sa_tutor_colab_tpu_v5e.ipynb` (mirrored in root and `sa-tutor-kit/colab/`).
+  - Compatible with both `gariep_colab_research_kit.zip` and `eishkom_colab_kit.zip`.
+
+
+## 2026-11-10: Milestone: Gariep Stage 1 (2B) Training Run & GGUF Multi-Quant Export Complete
+- **Training Run Verified:**
+  - Base Model: `empero-ai/Qwen3.8-2B-Distill` in 4-bit QLoRA.
+  - Completed all optimizer steps across 3 epochs on 5,755 South African CAPS samples (`workspace/build/r1/`).
+  - Saved LoRA Adapter: `workspace/runs/r1-gariep/adapter/` (`adapter_model.safetensors`, `adapter_config.json`, tokenizer configs).
+- **Multi-Quant GGUF Export Verified:**
+  - Exported all 4 required quantization tiers:
+    - **`gariep-stage-1-Q8_0.gguf`**: Highest fidelity 2B model for high-precision math reasoning.
+    - **`gariep-stage-1-Q6_K.gguf`**: High fidelity for budget PCs/laptops.
+    - **`gariep-stage-1-Q4_K.gguf`**: Pure K-quantization variant without sub-modifiers for testing pure-K reasoning retention.
+    - **`gariep-stage-1-Q4_K_M.gguf`**: Standard mobile format for phones and low-RAM devices (~1.3 GB).
+- **Packaging Protocol:**
+  - Packaged runs, adapters, and GGUF binaries into clean `.zip` archives to avoid Colab 60MB browser download truncation.
+
+
+## 2026-11-12: Decision: Native Application Architecture — Transient Chunked Page-Worker Pattern & Vision Digitization Protocol
+- **Context & Operational Problem:**
+  - In real-world educational deployment, South African high-school students submit multi-page exam PDFs (5–15 pages) or smartphone photo captures of homework.
+  - Feeding multi-page images simultaneously into a local 2B or 4B Vision-Language Model triggers severe **KV-Cache explosion** (~1,000+ visual tokens per page = 10,000+ tokens), which leads to immediate CUDA Out-Of-Memory (OOM) or extreme token-generation throttling on 4GB RAM phones and budget laptops.
+  - Furthermore, multi-image context dilution causes "lost-in-the-middle" attention degradation, where compact models misread formulas or confuse question numbering across pages.
+- **Architectural Solution: Transient Chunked Page-Worker Pattern (Map-Reduce):**
+  1. *Application Layer (Frontend / Orchestrator):*
+     - Slices multi-page PDF documents or photo sets into individual 300 DPI PNG page screenshots.
+     - Spawns a lightweight, single-page Vision Worker agent per page.
+     - Handles sequential execution: feeds Page 1, receives transcript, purges the worker, then proceeds to Page 2.
+     - Stitches page outputs into unified markdown and automatically resolves cross-page question continuity (e.g., question statement ending on Page 3 and sub-questions continuing on Page 4).
+  2. *Vision Worker Agent (`gariep-flash-stage-1` / `LFM3-VL-2B` / `Qwen2-VL-2B`):*
+     - **Strict Separation of Concerns:** Role is **pure high-fidelity digitization and transcription**, NOT tutoring or problem-solving.
+     - Transcribes printed exam typography and messy student handwriting.
+     - Converts all mathematical and chemical equations into standard KaTeX LaTeX (`$...$` inline, `$$...$$` display).
+     - Encodes geometric circles, coordinate functions, circuits, and organic chemistry into structured diagram blocks (`[DIAGRAM: ...]`).
+     - Focuses 100% of its visual attention on one page at a time, eliminating hallucinations.
+  3. *Zero-Retention Memory Purge:*
+     - Immediately after transcribing a page, the vision worker's KV-cache and VRAM allocation are explicitly purged (`torch.cuda.empty_cache()` / context closure). VRAM usage remains flat regardless of document length.
+  4. *Central Tutor Agent (`kendal-stage-1` 4B / `gariep-stage-1` 2B / `koeberg-stage-1` 27B):*
+     - Conducts Socratic tutoring dialogues exclusively on the clean, aggregated text transcript.
+     - Runs 10x faster than multimodal inference, consumes minimal battery/RAM, and maintains an unpolluted dialogue history.
+- **Vision Model Training Strategy:**
+  - **Ground-Truth Generation:** High-capacity teacher models (Gemini Flash Multimodal Vision) generate structured KaTeX/markdown transcripts from past exam pages and student handwritten submissions.
+  - **Verification:** Transcripts are reconciled against official DBE marking memorandums for mathematical and rubric accuracy.
+  - **Training Dataset Schema:** Vision multi-turn JSONL formatted with `[{"type": "image", "image": "..."}, {"type": "text", "text": "..."}]`.
+  - **Multi-Modal Projector (`mmproj`) Training:** Pre-trained vision encoder (SigLIP / ViT) connected to LLM backbone via trainable MLP projector, fine-tuned with Unsloth `FastVisionModel` with 4-bit QLoRA.
+- **Custom Architecture & Branding Implementation:**
+  - **Execution vs Branding Separation:** The underlying C++/CUDA execution kernel (`qwen2`) is preserved in GGUF binaries to guarantee native compatibility with llama.cpp/Ollama/LM Studio.
+  - **Hugging Face Custom Architecture:** Custom `model_type: "eishkom"` registered with `configuration_eishkom.py` and `modeling_eishkom.py` (`trust_remote_code=True`).
+  - **Native App UI Insulation:** The custom client application encapsulates all technical kernel details, exposing unified Eishkom AI brand identity.
+

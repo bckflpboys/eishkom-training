@@ -1,142 +1,84 @@
 # Eishkom AI — Session Handoff & Continuity Ledger
 
 > **File Name:** `LAST_SESSION.md`  
-> **Last Session Date:** 2026-11-09  
-> **Last Active Conversation ID:** `d63a603b-b01d-47d3-afc4-d6741b1c1ba3`  
-> **Repository Branch:** `main` (clean working tree, unstaged updates ready)  
+> **Last Session Date:** 2026-11-12  
+> **Repository Branch:** `main` (clean working tree, zero unauthorized git commits)  
 > **Purpose:** Master continuity bridge for moving across chat sessions without loss of context, history, or engineering decisions.
 
 ---
 
-## 1. Executive Summary (The Story from Day 1 to Now)
+## 1. Executive Summary & Model Fleet Status
 
 **Eishkom AI** is building a family of open-source, South African CAPS curriculum-aligned AI tutor models (Grades 7–12 & TVET) designed for high pedagogical quality (Socratic hint ladders, diagnostic questioning, English and Afrikaans support).
 
 ### Clean Model Branding (Mandatory Rule):
 Public model names **never display parameter numbers or quantization suffixes** (`27B`, `4B`, `Q4`, `Q6` are strictly hidden from brand names):
 1. **`koeberg-stage-1`**: Flagship Cloud Tutor (unsloth/Qwen3.8-27B, `UD-Q4_K_XL`, ~17.6 GB) — Google Cloud Run (Serverless NVIDIA L4, scale-to-zero).
-2. **`kendal-stage-1`**: Budget PC & Laptop Tutor (unsloth/Qwen3.5-4B, `Q6_K` / `UD-Q6_K_XL`, ~3.53–4.15 GB) — 100% offline on GTX 1650 4GB / 16GB RAM.
-3. **`kendal-flash-stage-1`**: Midrange Mobile & Phone Tutor (empero-ai/Qwen3.8-4B-Distill, `Q4_K_M`, ~2.78–2.91 GB) — 100% offline on 6GB–8GB RAM phones.
-4. **`gariep-stage-1`**: Budget Phone Tutor (empero-ai/Qwen3.8-2B-Distill, `Q6_K` / `Q8_0`, ~1.75–2.15 GB) — 100% offline on 4GB RAM phones.
-5. **`gariep-flash-stage-1`**: Budget Vision/OCR Tutor (LiquidAI/LFM3-VL-2B, `Q6_K`, ~1.55 GB) — Specialized for geometry diagrams, handwritten work, and document OCR.
-6. **`baby-jake-stage-3`** *(or `atom-stage-3`)*: Ultra-Budget Celeron & Entry Phone Tutor (1B, Q4_K_M ~650–850 MB) — Scheduled for Stage 3. Specially engineered for extreme budget Celeron PCs (4GB RAM) achieving 10–14 tokens/sec, and entry Android phones (2GB–3GB RAM). Trained via Stage 3 Kendal-4B self-distillation with SymPy automated checks.
+2. **`kendal-stage-1`**: Budget PC & Laptop Tutor (unsloth/Qwen3.5-4B, `Q6_K` / `UD-Q6_K_XL`, ~3.40 GB) — **TRAINED & EXPORTED** (870 steps, loss 0.34, 100% offline).
+3. **`kendal-flash-stage-1`**: Midrange Mobile & Phone Tutor (empero-ai/Qwen3.8-4B-Distill, `Q4_K_M`, ~2.65 GB) — **EXPORTED** (100% offline).
+4. **`gariep-stage-1`**: Budget Phone Tutor (empero-ai/Qwen3.8-2B-Distill, `Q8_0` / `Q6_K` / `Q4_K` / `Q4_K_M`, ~1.35–2.15 GB) — **TRAINED & EXPORTED** (3 epochs, 100% offline).
+5. **`gariep-flash-stage-1`**: Budget Vision/OCR Tutor (LiquidAI/LFM3-VL-2B or Qwen2-VL-2B, `Q6_K` + `mmproj`, ~1.55 GB) — **Architecture finalized for Page-Worker pipeline**.
+6. **`baby-jake-stage-3`** *(or `atom-stage-3`)*: Ultra-Budget Celeron & Entry Phone Tutor (1B, Q4_K_M ~650–850 MB) — Scheduled for Stage 3 via local self-distillation.
 
 ---
 
-## 2. Exhaustive Timeline of Work Completed
+## 2. Exhaustive Timeline of Decisions & Architectural Breakthroughs (Nov 10–12, 2026)
 
-### Phase 0: Setup & Infrastructure Optimization
-- Initialized immutable workspace pipeline: `raw/` → `text/` → `items/` → `gen/` → `verified/` → `build/` → `runs/` → `exports/` → `eval/`.
-- Configured **Vertex AI Colab Enterprise** on **NVIDIA L4 GPU Spot VMs** (~$0.32/hr) to consume promotional Google Cloud credits ($10/month rolling grants, up to $60 balance) down to $0.00 cash spend.
-- Architected **Google Cloud Run** deployment with serverless NVIDIA L4 GPU and `--min-instances 0` ($0.00/hr when idle).
+### 1. Training Runs & Multi-Quant Exports Verified:
+- **Kendal Stage 1 (4B):** Completed 3 epochs (870 steps, loss down to 0.34). Exported `kendal-stage-1-Q6_K.gguf` (3.4 GB), `kendal-flash-stage-1-Q4_K_M.gguf` (2.65 GB), and pure `Q4_K`.
+- **Gariep Stage 1 (2B):** Completed 3 epochs across 5,755 SFT samples. Exported all 4 mandated formats: `Q8_0` (high reasoning), `Q6_K` (budget PC), pure `Q4_K` (pure-K benchmarking), and `Q4_K_M` (mobile phone ~1.3 GB).
+- Both runs packaged into clean `.zip` archives with automated cloud storage synchronization (`gs://${PROJECT}-models`).
 
-### Phase 1: Source Data Collection
-- Implemented automated crawler `pipeline/download_dbe.py`.
-- Downloaded **600 PDFs (300 pairs, 378.15 MB, 0 errors)** covering Grades 10–12 Mathematics, Physical Sciences, English, and Afrikaans (2015–2025).
-- Recorded all sources with paired links (`pair_with`) in `workspace/sources/sources.csv`.
-- **Benchmark Quarantine:** Locked 33 Grade 12 November 2024 past papers as held-out evaluation benchmarks (`held out for EVAL`) in `workspace/eval/` to ensure zero training data contamination.
+### 2. Multi-Model Single-GPU Training Pipeline (Colab Queueing):
+- Clarified that running multiple training processes concurrently on a single GPU triggers memory fragmentation, CUDA OOM, and Triton compiler deadlocks.
+- Designed an automated sequential chaining pipeline that runs 1B, 2B, and 4B back-to-back in a single Colab runtime session, automatically releasing 100% of VRAM between models.
 
-### Phase 2: Multimodal Document Vision Ingestion & Item Extraction
-- Extracted all documents into **11.3M characters of clean KaTeX LaTeX and Markdown** using Gemini Vision.
-- Sliced into **13,168 atomic curriculum items** across 265 question papers (`workspace/items/`).
-- Verified 100% rubric compliance and mathematical marks against paired DBE memorandums.
-- Codified the Universal Document & Visual Extraction Standard (UDVES) in `workspace/config/UNIVERSAL_EXTRACTION_STANDARD.md`.
+### 3. Native Application Architecture: Transient Chunked Page-Worker Pattern (Map-Reduce):
+- **The Problem:** Ingesting multi-page exams (5–15 pages) directly into a local 2B or 4B Vision-Language Model triggers severe **KV-Cache explosion** (~1,000+ visual tokens per page = 10,000+ tokens), which leads to immediate CUDA Out-Of-Memory (OOM) or extreme token-generation throttling on 4GB RAM phones and budget laptops.
+- **The Solution:**
+  1. **Application Layer (Orchestrator):** Renders input PDFs or camera photos into individual 300 DPI PNG page screenshots. Dispatches one page at a time to a transient Vision Worker. Stitches transcripts together and resolves cross-page question continuity.
+  2. **Transient Vision Worker (`gariep-flash-stage-1`):** Specializes in **pure high-fidelity digitization and transcription** (not problem-solving or tutoring). Focuses 100% of its visual attention on one page, transcribing printed text, student handwriting, KaTeX formulas, and diagram annotations (`[DIAGRAM: ...]`).
+  3. **Zero-Retention Memory Purge:** Immediately after each page, the vision worker's KV-cache and VRAM are purged (`torch.cuda.empty_cache()` / context termination), keeping client VRAM usage flat (~1.5–2GB) regardless of document length.
+  4. **Central Tutor Agent (`kendal-stage-1` 4B / `gariep-stage-1` 2B):** Conducts Socratic tutoring dialogues exclusively on the clean aggregated text. Runs 10x faster with zero vision overhead and minimal battery drain.
 
-### Phase 3 & 4: Multi-Model Fleet Generation & Verification (Waves 1–5)
-- Orchestrated autonomous multi-model fleet (OpenAI Luna/GPT-4o, Google Gemini 3.5 & 3.1 Flash, Nvidia Nemotron 123B, DeepSeek V3/V4).
-- Generated and verified **1,346 multi-turn Socratic lessons** (~3,365 assistant dialogue turns).
-- Generated **1,970 full step-by-step worked solutions** across 41 complete Grade 12 past papers.
-- Verified all arithmetic and algebra using SymPy and DBE marking memorandums.
+### 4. Vision Model Training Protocol:
+- **Synthetic Ground-Truth Pipeline:** High-capacity teacher models (Gemini Flash Multimodal Vision) generate structured KaTeX/markdown transcripts from past exam pages and student handwritten homework.
+- **Verification:** Transcripts are reconciled against official DBE marking memorandums for mathematical and rubric accuracy.
+- **Handwritten Sample Collection:** 200–500 photographed student homework solutions on lined paper in varied lighting conditions and phone camera angles to train the vision model on real-world classroom pencil work.
+- **Dataset Schema:** Vision multi-turn JSONL formatted with `[{"type": "image", "image": "..."}, {"type": "text", "text": "..."}]`.
+- **Fine-Tuning:** Trained using Unsloth `FastVisionModel` with 4-bit QLoRA and exported to GGUF + `mmproj-*.gguf`.
 
-### Phase 5: Production Dataset Compilation (`workspace/build/r1/`)
-- Compiled canonical Stage 1 SFT dataset conforming 100% to schema `tutor-v1`:
-  - `train.jsonl`: 2,647 records | **4,639 training samples** (693,120 trainable tokens/epoch)
-  - `val.jsonl`: 483 records | **844 validation samples** (124,753 tokens/epoch)
-  - `test.jsonl`: 159 records | **272 test samples**
-  - Total: **5,755 SFT samples** (all with `thinking: "on"`).
-- Packaged into `eishkom_colab_kit.zip` (1.56 MB) containing all datasets, training engines, and evaluation harnesses.
-
-### Phase 6: Reporting & Analytics
-- Built itemized master spreadsheet: `workspace/reports/eishkom_all_requests_detailed.csv` (1,838 items, 34 columns, utf-8-sig encoded for Excel/Google Sheets).
-- Generated model performance leaderboard (`fleet_model_leaderboard.csv`):
-  - OpenAI Luna: 484 verified items (83.0% pass rate)
-  - Gemini 3.5: 349 verified items (83.1% pass rate)
-  - Nemotron: 112 verified items (72.3% pass rate)
-- Generated per-paper verification matrix (`paper_verification_matrix.csv`) across all 41 papers.
-
-### Phase 7: Google Cloud Compute Infrastructure (Verified Nov 9, 2026)
-- Confirmed that Cloud Console's **"Colab Enterprise"** is Vertex AI Colab Enterprise (`console.cloud.google.com/vertex-ai/colab/notebooks`).
-- Configured dedicated runtime template:
-  - Name: `eishkom-gpu` (ID: `5096703687183564800`)
-  - Machine: `g2-standard-4` (4 vCPUs, 16GB RAM)
-  - Accelerator: **1 x NVIDIA L4 GPU (24GB VRAM)**
-  - Storage: 100GB SSD persistent disk (`pd-ssd`), 97.85 GB free on `/content`
-  - Idle shutdown: 60 minutes
-  - Spot VM enabled (~$0.32/hr consuming promotional credits).
-- **GPU Quota Approved:** Global GPU quota `GPUS_ALL_REGIONS` requested from 0 to 1, officially approved by Google Cloud Support on Nov 9, 2026.
-- Verified active GPU hardware: `NVIDIA L4` with 23,034 MiB VRAM, CUDA 13.0, bfloat16 = TRUE, Hardware FlashAttention.
-
-### Phase 8: COMPLETED Supervised Fine-Tuning Run (`kendal-stage-1` 4B) (Verified Nov 9, 2026)
-- Base model: `unsloth/Qwen3.5-4B` in 4-bit QLoRA (Unsloth fast patching).
-- Trainable parameters: 21,233,664 (0.47% of 4.56B weights).
-- Training results (COMPLETED Nov 9, 2026):
-  - Optimizer steps: All 870 steps across 3 epochs (290 steps/epoch) successfully completed on 5,755 samples.
-  - Final Training Loss: **`0.34`** (dropped from 1.82 down to 0.34).
-  - Validation Loss: **`0.74–0.78`** flat (0% overfitting).
-  - Saved LoRA adapter: `workspace/runs/r1/adapter/` (`adapter_model.safetensors`, `adapter_config.json`).
-  - Saved training plot: `workspace/runs/r1/loss.png`.
-
-### Phase 9: GGUF Multi-Quant Export VERIFIED (Nov 9, 2026)
-- Exported deployable GGUF models directly from `workspace/runs/r1/adapter/`:
-  - **`kendal-stage-1-Q6_K.gguf`** (3,398.0 MB / ~3.4 GB): Tailored for budget desktop/laptop CPUs and GTX 1650 GPUs.
-  - **`kendal-stage-1-Q4_K.gguf`** (~2.85 GB): Pure K-quantization variant without sub-modifiers for testing pure-K reasoning retention.
-  - **`kendal-flash-stage-1-Q4_K_M.gguf`** (2,654.5 MB / ~2.65 GB): Tailored for mobile phones and 4GB RAM PCs.
-- Verified single-run export efficiency: exported multiple quantizations in ~3 minutes from the single trained adapter.
-- Packaged full models and runs into cloud storage zips and delivered via Google Cloud Storage (`gs://...`).
-
-### Phase 10: Training Pipeline & Script Hardening (Nov 9, 2026)
-- **VRAM Auto-Scaler:** Dynamically inspects model parameter count and GPU VRAM capacity:
-  - 1B/2B models (`gariep-stage-1`, `baby-jake-stage-3`): Auto-sets `batch=8–16, grad_accum=1–2`, using ~16–18GB VRAM for high-throughput training in ~10–20 minutes.
-  - 4B models (`kendal-stage-1`): Auto-sets `batch=4, grad_accum=4`, using ~18GB VRAM (~45–55 minutes).
-  - 27B models (`koeberg-stage-1`): Auto-sets `batch=2, grad_accum=8`, targeting ~21GB VRAM leaving safe headroom to guarantee zero out-of-memory (OOM) errors.
-- **Clean Progress Logging Callback:** Disabled `tqdm` (`disable_tqdm=True`) and configured `CleanProgressCallback` with `logging_steps=25` logging Step, Pct, Loss, LR, Elapsed, and VRAM. Solved the Chrome browser/DOM memory leak and tab freezing permanently.
-- **Template Variable & Path Auto-Resolution:** Automatically detects and resolves `{ROUND}` and `{MODEL}` in `export_gguf.py`, `train_sft.py`, `run_eval.py`, and `evaluate.py`. Auto-locates the latest adapter in `workspace/runs/` if uninitialized.
-- **GGUF Suffix Guard:** Automatically detects if a user inputs a `-GGUF` model name, warns them with an educational explanation, and strips the suffix to load the unquantized base Hugging Face repository.
-- **Synchronized Notebooks & Kit:** Repacked `eishkom_colab_kit.zip` (1.57 MB) and synchronized `sa_tutor_colab.ipynb` across root and `sa-tutor-kit/`.
+### 5. Custom Architecture Branding Strategy:
+- **Execution vs Branding Separation:** In local GGUF binaries, standard execution kernels (`general.architecture = "qwen2"`) are retained to preserve native C++/CUDA hardware acceleration in llama.cpp, Ollama, and LM Studio.
+- **Hugging Face Custom Architecture:** Custom `model_type: "eishkom"` registered with `configuration_eishkom.py` and `modeling_eishkom.py` (`trust_remote_code=True`).
+- **Client App UI Insulation:** The custom desktop/mobile app encapsulates all technical kernel details, exposing unified Eishkom AI brand identity.
 
 ---
 
-## 3. Stage 2 (v2) Architectural Roadmap: Strategy Permutations
-- In Stage 2, the exact same 265 past papers will be systematically retrained across 5 alternate teaching styles:
-  1. `worked_example` (Parallel example followed by learner practice)
-  2. `mnemonic_memory_hook` (Visual analogies, memory hooks, concept anchors)
-  3. `faded_example` (Scaffolded fill-in-the-blank steps)
-  4. `frustrated_learner_de-escalation` (Emotional coaching and micro-clues)
-  5. `rapid_short_prompt` (High-speed concise mobile queries)
-- Scales corpus 4x–5x (10,000+ to 15,000+ SFT samples) without needing new exam papers.
+## 3. Critical Notes for the Next Agent
+
+> [!IMPORTANT]
+> **Instructions for the Next Agent picking up this conversation:**
+> 1. **Do NOT run `git commit` without explicit authorization from the user.**
+> 2. **Current Completed Models:**
+>    - `kendal-stage-1` (4B) & `kendal-flash-stage-1` (4B) — Completed & exported (Q6_K, Q4_K_M, pure Q4_K).
+>    - `gariep-stage-1` (2B) — Completed & exported (Q8_0, Q6_K, pure Q4_K, Q4_K_M).
+> 3. **Next Target:** Prepare the vision dataset and fine-tune `gariep-flash-stage-1` (2B Vision/OCR) using Unsloth `FastVisionModel` for the Transient Page-Worker pipeline.
+> 4. **Application Pipeline Architecture:** The application must decouple page digitization (transient vision worker) from Socratic tutoring (central text model).
+> 5. **Quad-Mirror Maintenance:** Keep all documentation in sync between root `files/` and `sa-tutor-kit/sa-tutor-kit/`.
 
 ---
 
-## 4. Strict Operational Rules
+## 4. Key File Paths
 
-1. **NEVER COMMIT WITHOUT ASKING:**
-   - Do not run `git commit` unless the user explicitly commands it.
-2. **DOCUMENTATION MAINTENANCE MANDATE:**
-   - Every important milestone or decision must be immediately persisted in `LAST_SESSION.md`, `DECISIONS.md`, `PROGRESS.md`, `GUIDE.md`, and `README.md`.
-3. **NEVER TRAIN ON GGUF FILES:**
-   - Fine-tune unquantized base Hugging Face repositories only. Export to GGUF post-training.
-4. **BENCHMARK INTEGRITY:**
-   - November 2024 Grade 12 papers remain 100% quarantined in `workspace/eval/` (0% contamination).
-
----
-
-## 5. Immediate Next Steps After Current Training Finishes
-
-1. **GGUF Multi-Quant Export (Step 9):**
-   - Run `training/export_gguf.py` from the trained `workspace/runs/r1/adapter/`.
-   - Export `kendal-stage-1-Q6_K.gguf` (Budget PC/Laptop, ~3.53 GB).
-   - Export `kendal-flash-stage-1-Q4_K_M.gguf` (Mobile/Phone, ~2.78 GB).
-2. **Quarantined Benchmark Evaluation (Phase 10):**
-   - Evaluate against held-out Nov 2024 Grade 12 papers using `eval/evaluate.py`.
-3. **Koeberg 27B Training Run:**
-   - Launch `koeberg-stage-1` (`unsloth/Qwen3.8-27B`) on the NVIDIA L4 GPU Spot VM (~5.5 hours, ~$1.76 credits).
+| File | Location | Purpose |
+| :--- | :--- | :--- |
+| **Colab TPU v5e Notebook** | `sa_tutor_colab_tpu_v5e.ipynb` | Specialized notebook for Cloud TPU v5e-1 (16GB HBM) |
+| **Colab Research Notebook** | `sa_tutor_colab_research.ipynb` | Specialized notebook for T4 GPU in `colab.research.google.com` |
+| **Colab Research Kit** | `gariep_colab_research_kit.zip` | Standalone 1.57 MB zip with dataset and training code for Gariep 2B |
+| **Enterprise Colab Notebook** | `sa_tutor_colab.ipynb` | Vertex AI Colab Enterprise runner for L4 GPU Spot VM |
+| **Enterprise Colab Kit** | `eishkom_colab_kit.zip` | Master 1.57 MB zip for Vertex AI Colab Enterprise |
+| **Training Engine** | `sa-tutor-kit/sa-tutor-kit/training/train_sft.py` | SFT trainer with CUDA and TPU v5e auto-scaler and clean console logging |
+| **GGUF Multi-Quant Exporter** | `sa-tutor-kit/sa-tutor-kit/training/export_gguf.py` | Exports Q8_0, Q6_K, pure Q4_K, and Q4_K_M from trained adapter |
+| **Master Dataset (r1)** | `workspace/build/r1/` | 5,755 SFT samples (`train.jsonl`, `val.jsonl`, `test.jsonl`) |
+| **Master Decisions Ledger** | `workspace/DECISIONS.md` | Chronological record of all project architectural decisions |

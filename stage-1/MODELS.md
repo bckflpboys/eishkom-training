@@ -56,11 +56,12 @@ In compliance with our brand guidelines:
 - **Target Hardware:** Budget Android devices (100% offline, fits in RAM alongside Android OS).
 
 ### 5. `gariep-flash-stage-1` (Budget Vision & OCR Specialist)
-- **Role:** Multi-modal image interpreter for reading diagrams, exam scans, and student handwriting.
-- **Base Architecture:** `LiquidAI/LFM3-VL-2B` (Liquid AI Edge Multi-Modal architecture).
+- **Role:** High-fidelity document digitizer and transcriber operating in the native app's **Transient Page-Worker Pattern**.
+- **Specialization:** Pure transcription and conversion into KaTeX and structured diagram text (`[DIAGRAM: ...]`); does not conduct tutoring or math solving directly.
+- **Base Architecture:** `LiquidAI/LFM3-VL-2B` or `Qwen/Qwen2-VL-2B-Instruct` (Unsloth `FastVisionModel` 4-bit QLoRA).
 - **Export Format:** `Q6_K` GGUF + `mmproj-gariep-flash-stage-1.gguf`.
 - **Disk Size:** ~1.55 GB.
-- **Target Hardware:** Mobile and laptop edge devices for visual tutoring.
+- **Target Hardware:** Mobile and laptop edge devices (operates on 1 page at a time with instant KV-cache wipe, consuming only ~1.5GB VRAM).
 
 ---
 

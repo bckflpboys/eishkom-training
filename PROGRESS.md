@@ -2,7 +2,7 @@
 
 > **Release Cycle:** **Stage 1** (`koeberg-stage-1`, `kendal-stage-1`, `kendal-flash-stage-1`, `gariep-stage-1`, `gariep-flash-stage-1`)  
 > **Target Curriculum:** South African CAPS (Grades 7–12) — Mathematics, Physical Sciences, English, Afrikaans  
-> **Status:** **Phase 1 to 7 Completed (100%)** | **Phase 8 SFT Training COMPLETED on Vertex AI Colab Enterprise NVIDIA L4 GPU Spot VM (`kendal-stage-1` 4B, 5,755 samples, 870 steps complete)** | **Total Compute Spend: ~$0.32 / $60.00**  
+> **Status:** **Phase 1 to 9 Completed (100%)** | **`kendal-stage-1` (4B) and `gariep-stage-1` (2B) Trained & Exported (Q8_0, Q6_K, Q4_K_M, pure Q4_K)** | **Phase 10: Held-Out Benchmark Eval & Koeberg 27B Prep** | **Total Compute Spend: ~$0.55 / $60.00**  
 > **Corpus Volume:** **600 PDFs (300 verified pairs, 378.15 MB, 0 download failures)**  
 > **Extracted Atomic Items:** **13,168 atomic items | 31,278 marks (100% DBE memo verified, 0 KaTeX errors across all 265 papers)**  
 > **Master SFT Dataset:** **`workspace/build/r1/` (1,099 canonical training turns ready for Colab)**  
