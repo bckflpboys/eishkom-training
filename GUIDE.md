@@ -298,10 +298,47 @@ To establish custom architecture identity without sacrificing C++/CUDA inference
 
 ### Step 12: Multi-Stage Scaling & Evolution Architecture (Stages 2, 3 & 4)
 
-#### 1. Stage 2 (v2 Models) — Cumulative Dataset Scaling & Base Model Adaptability:
+#### 1. Stage 2 (v2 Models) — Cumulative Dataset Scaling & Multi-Strategy Fleet Generation:
 - **Cumulative Dataset Rule:** Never train on only the new data! Combine Round 1 + Round 2 into `workspace/build/r2/` (5,755 + 10,000 = 15,755 total samples) to prevent catastrophic forgetting.
 - **LoRA Capacity Scaling:** Scale from `--rank 16` (0.47% weights) up to `--rank 32` or `--rank 64` (1%–2% weights) to give the neural network sufficient capacity for the 15,000+ multi-style lessons.
-- **Base Model Upgradability:** The dataset is vendor-neutral intellectual property (conforming to `tutor-v1` schema). If Alibaba releases `Qwen3.8-4B` or Google releases `Gemma 3`, simply point `train_sft.py` to the new base model to instantly upgrade Kendal with zero dataset rework.
+- **Base Model Upgradability:** The dataset is vendor-neutral intellectual property (conforming to `tutor-v1` and `tutor-v2` schemas). If Alibaba releases `Qwen3.8-4B` or Google releases `Gemma 3`, simply point `train_sft.py` to the new base model to instantly upgrade Kendal with zero dataset rework.
+- **Stage 2 Multi-Model Fleet Generation (`stage-2/run_stage2_fleet.py`):**
+  - **14-Worker Fleet Allocation (8x OpenAI STEM Exclusive + 4x Gemini Languages + Nemotron + Fast DeepSeek):**
+    * **OpenAI (8 Dedicated STEM Workers):** `gpt-6-luna` strictly dedicated to Mathematics and Physical Sciences (English & Afrikaans):
+      - `OAI_MTH_1` & `OAI_MTH_2`: Mathematics (English) - 2x
+      - `OAI_WSK_1` & `OAI_WSK_2`: Wiskunde (Afrikaans) - 2x
+      - `OAI_SCI_E1` & `OAI_SCI_E2`: Physical Sciences (English) - 2x
+      - `OAI_SCI_A1` & `OAI_SCI_A2`: Fisiese Wetenskappe (Afrikaans) - 2x
+      - Cadence: Strictly cycling within STEM (`math_en`, `math_af`, `sci_en`, `sci_af`). Zero language assignments.
+    * **Google AI Studio Key 1 & Key 2 (4 Dedicated Language Workers):**
+      - `GEM1_35` & `GEM1_31`: `gemini-3.5-flash-lite` & `gemini-3.1-flash-lite` (English & Afrikaans FAL/HL)
+      - `GEM2_35` & `GEM2_31`: `gemini-3.5-flash-lite` & `gemini-3.1-flash-lite` (English & Afrikaans FAL/HL)
+      - Self-contained cross-key fallback keeps 100% of language items inside Gemini without leaking to OpenAI.
+    * **OpenRouter (1 Worker - Free Model):** `nemotron-3-ultra-550b:free` (Maths P2)
+    * **Intern-AI DeepSeek (1 Worker - Free DeepSeek):** `deepseek-v4.1-flash-1017` on Physical Sciences & Fisiese Wetenskappe, optimized directly on the free Intern-AI endpoint with 3.5s rate pacing, progressive 429 backoff, and dual content/reasoning extraction.
+  - **Live Progress Monitor & Milestone Alerts:** Every 1,000 verified samples triggers a formatted milestone alert. Check live status at any time with `python tools/stage2_status.py` or `python stage-2/run_stage2_fleet.py --status`.
+  - **Mandatory Final Turn Output Format:**
+    * **STEM:** Final Answer + `📖 Formula Breakdown (How It Works):` (The Formula in KaTeX, What the letters mean in plain terms, Why we use it) + `🎯 Exam Tip:` (DBE mark allocation or common pitfall).
+    * **Languages:** Model Answer + `📖 Concept & Thought Process (How to Understand It):` (The Rule/Device, Step-by-Step mental unpacking, 3-mark scoring formula) + `🎯 Exam Tip:`.
+  - **Dual Coaching Profiles:** Short / Fast-Track Mode (35% of items, 2 turns) for rapid practice vs. Deep-Dive Socratic Mode (65% of items, 3–4 turns) for patient conceptual scaffolding.
+  - **Zero-Cost Verification & Rejection Forensics:** Deterministic SymPy execution for STEM and rule-based rubric scoring for Languages ($0.00 second LLM judge cost). Every rejected item is logged to `workspace/rejected/stage2/` with full diagnostic metadata (`rejection_reason`, `sympy_out`, `memo_target`, `verify_code`, `rubric_score`, `parsed_record`, `raw_response`) for human inspection.
+  - **10 Teaching Strategies:** Dynamic weighted rotation across `step_walkthrough`, `worked_example`, `faded_example`, `error_spotting`, `mnemonic_memory_hook`, `frustrated_learner_de-escalation`, `rapid_recall_drill`, `compare_and_contrast`, `exam_technique_focus`, and `concept_first`.
+  - **6 Student Personas:** Simulates varied cognitive states (`lost`, `stuck`, `frustrated`, `partially_correct`, `on_track`, `advanced`) across 2 to 5 dialogue turns.
+  - **10-Point Quality Rubric (`stage-2/quality/rubric_checker.py`):** Multi-dimensional scoring (0–100) checking turn counts, assistant reasoning fields, anti-spoiler compliance, language markers, and strategy alignment with automated 2-attempt retries.
+  - **Automated Deduplication:** Scans and excludes all 41 papers touched in Stage 1, pulling from the 225 untouched papers (11,193 atomic items) in `workspace/items/`.
+  - **Self-Contained Safe Build (`stage-2/compile_stage2_dataset.py`):** Compiles verified Stage 1 + Stage 2 data into `workspace/verified/stage2_master_combined.jsonl` and builds `workspace/build/r2/` with zero modification to `workspace/build/r1/`.
+  - **Execution Commands:**
+    ```bash
+    # Test pipeline and paper assignment without calling APIs:
+    python stage-2/run_stage2_fleet.py --dry-run
+
+    # Run live single-item end-to-end verification test:
+    python stage-2/run_stage2_fleet.py --test-item
+
+    # Launch full generation fleet targeting 10,000+ SFT samples:
+    python stage-2/run_stage2_fleet.py
+    ```
+
 
 #### 2. Stage 3 (v3 Models) — Baby Jake (1B) & Cross-Tier Self-Distillation:
 - **The Ultra-Budget Challenge:** On legacy dual-core Celeron PCs with 4GB RAM, 2B models run at ~4 tokens/second.

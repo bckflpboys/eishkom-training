@@ -53,6 +53,19 @@ Public model names **never display parameter numbers or quantization suffixes** 
 - **Hugging Face Custom Architecture:** Custom `model_type: "eishkom"` registered with `configuration_eishkom.py` and `modeling_eishkom.py` (`trust_remote_code=True`).
 - **Client App UI Insulation:** The custom desktop/mobile app encapsulates all technical kernel details, exposing unified Eishkom AI brand identity.
 
+### 6. Stage 2 Multi-Model Fleet Generation Engine (`stage-2/`):
+- **Pedagogical Shift:** Upgraded from Stage 1's single-mode walkthrough into 10 dynamically rotated teaching strategies (`step_walkthrough`, `worked_example`, `faded_example`, `error_spotting`, `mnemonic_memory_hook`, `frustrated_learner_de-escalation`, `rapid_recall_drill`, `compare_and_contrast`, `exam_technique_focus`, `concept_first`).
+- **Student Personas:** Simulates 6 distinct cognitive and emotional learner states (`lost`, `stuck`, `frustrated`, `partially_correct`, `on_track`, `advanced`) across 2 to 5 dialogue turns.
+- **Few-Shot Exemplars:** High-standard curriculum examples for Mathematics, Sciences, Languages, and Afrikaans Wiskunde with strictly compliant `ALLOWED_TECHNIQUES` metadata tags.
+- **10-Point Quality Rubric (`stage-2/quality/rubric_checker.py`):** Multi-dimensional scoring evaluating dialogue turns, teacher private reasoning, anti-spoiler compliance, language markers, and strategy alignment with automated retries.
+- **Zero-Cost Deterministic Verification:** Rejected external LLM judges to eliminate token expenses. STEM verified via SymPy + tolerance numeric matcher; languages verified via deterministic rule checks.
+- **Dedicated Rejection Repository (`workspace/rejected/stage2/`):** All rejected items logged with full diagnostic forensics for user inspection.
+- **Model Reallocation:** Retired `gemini-3.1-flash-lite` (empirically failed 88% in Wave 4); standardized on `gemini-3.5-flash-lite` across all Google AI Studio lanes (81.2% pass rate).
+- **Deduplication:** Automatically scans and excludes all 41 Stage 1 papers, unlocking the remaining 225 untouched papers (11,193 atomic items).
+- **Self-Contained SFT Build (`stage-2/compile_stage2_dataset.py`):** Assembles combined Stage 1 + Stage 2 data into `workspace/verified/stage2_master_combined.jsonl` and builds `workspace/build/r2/` with zero modification to `workspace/build/r1/`.
+- **Live Pipeline Verification:** Verified via live end-to-end execution (`--test-item`), passing model generation, JSON parsing, 100/100 rubric score, SymPy subprocess execution, and answers verification.
+
+
 ---
 
 ## 3. Critical Notes for the Next Agent

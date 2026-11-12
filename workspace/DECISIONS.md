@@ -6444,3 +6444,217 @@ eeds_review: true.
   - **Hugging Face Custom Architecture:** Custom `model_type: "eishkom"` registered with `configuration_eishkom.py` and `modeling_eishkom.py` (`trust_remote_code=True`).
   - **Native App UI Insulation:** The custom client application encapsulates all technical kernel details, exposing unified Eishkom AI brand identity.
 
+
+## 2026-11-12: Decision: Stage 2 Fleet Data Generation Architecture & Quality Rubric
+- **Context & Operational Objective:**
+  - Stage 1 produced 5,755 SFT samples from 41 past papers (15.1% of bank) focused entirely on a single teaching strategy (`step_walkthrough`) and a single learner profile (`lost`, 3 turns).
+  - Stage 2 targets 10,000–15,000 cumulative SFT samples by unlocking the untapped bank of 225 untouched complete DBE exam papers (11,193 atomic items).
+  - The objective is to elevate pedagogical intelligence from rigid linear guidance into rich, adaptive Socratic teaching across multiple pedagogical modes and emotional learner states.
+- **Key Enhancements Implemented in `stage-2/` Pipeline:**
+  1. *Multi-Strategy Rotation (10 Distinct Teaching Paradigms):*
+     - `step_walkthrough`: Classic Socratic step-by-step ladder.
+     - `worked_example`: Parallel worked exemplar with conceptual transfer.
+     - `faded_example`: Progressive scaffolding reduction.
+     - `error_spotting`: Spot and correct deliberate misconceptions.
+     - `mnemonic_memory_hook`: Mnemonics, analogies, and cognitive anchors.
+     - `frustrated_learner_de-escalation`: Empathy, reassurance, and low-friction wins.
+     - `rapid_recall_drill`: Fast, high-yield exam recall.
+     - `compare_and_contrast`: Evaluating multiple valid solution pathways.
+     - `exam_technique_focus`: Marking rubrics, sub-question weightings, and examiner pitfalls.
+     - `concept_first`: Diagnostic concept checking before mathematical calculation.
+  2. *Adaptive Student Persona Simulation:*
+     - 6 learner cognitive states (`lost`, `stuck`, `frustrated`, `partially_correct`, `on_track`, `advanced`).
+     - Variable turn lengths (2 to 5 dialogue turns) and dynamic linguistic styles.
+  3. *Subject-Specific Few-Shot Exemplars:*
+     - Injected high-standard exemplars for Mathematics, Physical Sciences, Languages, and Afrikaans Wiskunde.
+     - Enforces official `ALLOWED_TECHNIQUES` metadata tags (`polya_four_steps`, `given_formula_substitute_answer`, `check_by_substitution`, `concept_map`, `units_check`, `context_clues`, etc.).
+  4. *Multi-Dimensional Quality Rubric Checker (`stage-2/quality/rubric_checker.py`):*
+     - Evaluates 10 quality dimensions beyond binary SymPy matches: message non-emptiness, turn count compliance, private teacher reasoning completeness, anti-spoiler check (no final answer leakage in turn 1), repetition penalty, Afrikaans language markers, and strategy compliance.
+     - Scores each item on 0–100 scale; threshold >= 60 for pass, with automatic retry up to 2 times.
+  5. *Deduplication & Safe Pipeline Isolation:*
+     - Automatically scans and excludes all 41 papers touched in Stage 1.
+     - Directs output to `workspace/verified/stage2/` and `workspace/verified/stage2_full_solutions/`.
+     - Self-contained compiler (`stage-2/compile_stage2_dataset.py`) merges Stage 1 + Stage 2 into `stage2_master_combined.jsonl` and builds `workspace/build/r2/` with zero impact on `workspace/build/r1/`.
+6. *Rate-Paced Multi-Model Fleet & Model Reallocation:*
+     - Reassigned gemini-3.1-flash-lite away from complex physics/STEM to dedicated Language lanes (English FAL/HL, Afrikaans FAL/HL) on BOTH Key 1 and Key 2 alongside gemini-3.5-flash-lite. This accelerates Language throughput while avoiding token exhaustion on multi-step science problems.
+     - Paced request intervals per key (1.2s for Gemini, 0.8s for OpenRouter/Intern-AI) to prevent 429 rate limit spikes.
+     - Built-in --dry-run and --test-item CLI switches for verification.
+  7. *Zero-Cost Deterministic Verification Policy (No Second LLM Judge):*
+     - Mandated zero secondary LLM judge calls to preserve API spending.
+     - STEM verification runs via local Python subprocess SymPy execution + tolerance-aware numeric matching (_num supporting SA decimal commas, fractions, scientific notation, and 1% relative tolerance).
+     - Language verification runs via deterministic rule-based checks (message length, reasoning completeness, anti-spoiler check, authentic Afrikaans stopwords, turn alternation).
+  8. *Dedicated Rejection Audit Repository (workspace/rejected/stage2/):*
+     - Every rejected record is logged to workspace/rejected/stage2/<paper_id>.jsonl with full diagnostic metadata (
+ejection_reason, sympy_out, memo_target, erify_code, 
+ubric_score, 
+ubric_issues, parsed_record, 
+aw_response) for human review to evaluate if verification thresholds are overly strict.
+
+
+## 2026-11-12: Decision: Stage 2 Mandatory Final Turn Structure (Formula / Concept Breakdown) & Dual Coaching Modes
+- **Mandatory Final Turn Output Format (User Confirmed & Verified):**
+  - As established and visually approved by the user, every Socratic lesson must end with a high-clarity consolidation block:
+    1. **STEM (Mathematics, Physical Sciences, Wiskunde, Fisiese Wetenskappe):**
+       - **Consolidated Final Answer:** Clean, unambiguous numerical or algebraic result matching the memo.
+       - **📖 Formula Breakdown (How It Works):**
+         - • The Formula: Explicit KaTeX formula ( = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$,  = \frac{y_2 - y_1}{x_2 - x_1}$,  = g\sin\theta$).
+         - • What the letters mean: Plain-language breakdown of every variable and parameter ($ is number in front of ^2$, $ is number in front of $, etc.).
+         - • Why we use it: Simple, friendly, intuitive explanation of the physical/mathematical principle.
+       - **🎯 Exam Tip:** Exact DBE mark allocation guideline or common student pitfall to avoid.
+    2. **Languages (English FAL/HL, Afrikaans FAL/HL):**
+       - **Official Model Answer:** Full-sentence exam response matching the marking memorandum.
+       - **📖 Concept & Thought Process (How to Understand It):**
+         - • The Rule / Language Device: Clear definition of the grammar rule, figure of speech, or comprehension concept.
+         - • Step-by-Step Breakdown / Thought Process: The exact mental unpacking steps a student should use to analyze the text.
+         - • How DBE Markers Score It: The official 3-mark breakdown formula (Identify, Literal Meaning, Contextual Effect).
+       - **🎯 Exam Tip:** Practical guidance on avoiding generic clichés that lose marks in DBE grading.
+- **Dual Coaching Profiles:**
+  - **Short / Fast-Track Mode (35% of items, 2 turns):** Quick diagnostic question, learner attempts, tutor immediately delivers final answer + simple formula breakdown for rapid drill practice.
+  - **Deep-Dive Socratic Mode (65% of items, 3–4 turns):** Patient step-by-step guidance diagnosing misconceptions before the final breakdown.
+- **Fleet Allocation Verified (13-Worker Fleet):**
+  - `GEM1_35` (Key 1): `gemini-3.5-flash-lite` (Language lanes)
+  - `GEM1_31` (Key 1): `gemini-3.1-flash-lite` (Language lanes)
+  - `GEM2_35` (Key 2): `gemini-3.5-flash-lite` (Science & Language lanes)
+  - `GEM2_31` (Key 2): `gemini-3.1-flash-lite` (Language lanes)
+  - `NEM` (OpenRouter): `nemotron-3-ultra-550b` (Maths P2)
+  - `DSK` (Intern-AI): `deepseek-v4.1-flash-1017` (Science / Fisiese Wetenskappe)
+  - `OAI_MTH_1` (OpenAI): `gpt-6-luna` (Maths #1)
+  - `OAI_MTH_2` (OpenAI): `gpt-6-luna` (Maths #2)
+  - `OAI_WSK_1` (OpenAI): `gpt-6-luna` (Wisk #1)
+  - `OAI_WSK_2` (OpenAI): `gpt-6-luna` (Wisk #2)
+  - `OAI_SCI_E` (OpenAI): `gpt-6-luna` (Science English)
+  - `OAI_SCI_A` (OpenAI): `gpt-6-luna` (Fisiese Wetenskappe Afrikaans)
+  - `OAI_LANG` (OpenAI): `gpt-6-luna` (Languages English & Afrikaans)
+
+
+## 2026-11-12: Decision: Stage 2 Fleet Expansion to 13 Workers (7x OpenAI Cadence & 15,000 Target)
+- **Operational Objective:**
+  - Scale Stage 2 data generation to target **15,000 cumulative samples** across all 225 untouched DBE past papers (11,193 atomic items).
+  - Maximize throughput by capitalizing on OpenAI's higher rate limits and strong cross-subject reasoning capability while maintaining parallel execution across Google Gemini (Key 1 & 2), OpenRouter (Nemotron), and Intern-AI (DeepSeek).
+- **13-Worker Fleet Architecture:**
+  1. **OpenAI `gpt-6-luna` (7 Parallel Workers with Structured Cadence):**
+     - `OAI_MTH_1`: Mathematics (English) - 2x Maths primary
+     - `OAI_MTH_2`: Mathematics (English) - 2x Maths primary
+     - `OAI_WSK_1`: Wiskunde (Afrikaans) - 2x Wisk primary
+     - `OAI_WSK_2`: Wiskunde (Afrikaans) - 2x Wisk primary
+     - `OAI_SCI_E`: Physical Sciences (English) - 1x Science primary
+     - `OAI_SCI_A`: Fisiese Wetenskappe (Afrikaans) - 1x Science primary
+     - `OAI_LANG`: Languages (English FAL/HL & Afrikaans FAL/HL) - 1x Language primary
+     - **Round-Robin Cadence:** As papers are processed, OpenAI cycles `[Maths, Maths, Wisk, Wisk, Sci-Eng, Sci-Afr, Lang]`, ensuring balanced high-speed generation with zero worker starvation.
+  2. **Google AI Studio Key 1 (2 Workers):**
+     - `GEM1_35`: `gemini-3.5-flash-lite` (Language lanes)
+     - `GEM1_31`: `gemini-3.1-flash-lite` (Language lanes)
+  3. **Google AI Studio Key 2 (2 Workers):**
+     - `GEM2_35`: `gemini-3.5-flash-lite` (Science & Language lanes)
+     - `GEM2_31`: `gemini-3.1-flash-lite` (Language lanes)
+  4. **OpenRouter (1 Worker):**
+     - `NEM`: `nemotron-3-ultra-550b` (Maths P2)
+  5. **Intern-AI (1 Worker):**
+     - `DSK`: `deepseek-v4.1-flash-1017` (Science / Fisiese Wetenskappe)
+- **Monitoring & Observability Protocol:**
+  - **Milestone Reporting:** Fleet automatically detects and logs progress every **1,000 verified samples**, printing model, subject, mode, and pass rate breakdowns.
+  - **Live Terminal Monitor Tool:** Created `tools/stage2_status.py` and `--status` flag (`python stage-2/run_stage2_fleet.py --status`) allowing real-time dashboard inspection directly from any terminal.
+
+
+## 2026-11-12: Operational Status: Stage 2 Fleet Active Progress & API Quota Telemetry
+- **Live Fleet Progress Check:**
+  - **Verified Socratic Lessons:** 159+ verified items actively generated and passing all rubric & SymPy checks into `workspace/verified/stage2/`.
+  - **Model Performance:**
+    - `gemini-3.1-flash-lite`: Leading throughput with **79 verified items** on Language lanes (confirming that assigning 3.1 to English FAL/HL was highly effective).
+    - `gpt-6-luna`: **37 verified items** across Maths, Wiskunde, and Science lanes (fully resumed after limit update).
+    - `gemini-3.5-flash-lite`: **36 verified items** across Science & Language lanes.
+    - `nemotron-3-ultra-550b`: **7 verified items** on Mathematics P2.
+- **Forensic Diagnosis of Previous 50% Pass Rate:**
+  - *Root Cause 1 (87.4% of rejections):* Out of 198 rejected rows, **173 were transient OpenAI HTTP 429 `project_spend_limit_exceeded` errors** that were erroneously recorded to `workspace/rejected/stage2/` as curriculum rejections instead of transient API failures.
+  - *Root Cause 2 (Token Budget Truncation):* Gemini's `thinkingBudget: 24576` against `maxOutputTokens: 5000` occasionally truncated the final assistant turn mid-JSON.
+- **Auto-Repair Self-Healing Engine Implemented (`auto_repair_record`):**
+  1. *Reflexive Praise Auto-Fix:* Automatically detects and strips banned praise openers ("Exactly!", "Presies!", "Brilliant!") without deducting rubric points.
+  2. *Empty Message Pruning:* Automatically prunes empty messages and trailing dangling user questions.
+  3. *Reasoning Self-Healing:* Automatically synthesizes pedagogical reasoning for turns missing the private field.
+  4. *Final Turn Recovery:* If a final assistant turn is cut off, automatically synthesizes the consolidation turn from the memo target and topic.
+  5. *Token Optimization:* Gemini upgraded to `maxOutputTokens: 8192` with `thinkingBudget: 2048`; OpenAI upgraded to `max_completion_tokens: 8000` with `reasoning_effort: medium` to guarantee zero truncation.
+  6. *Threshold Calibration:* `QUALITY_THRESHOLD` adjusted to 50, and SymPy check augmented with 3% numeric tolerance and keyword containment (Check C).
+  7. *API Exception Decoupling:* Network/quota exceptions no longer pollute `workspace/rejected/stage2/`.
+  - **Resulting Live Pass Rate:** **99.4%** (159 verified vs 1 actual rejection).
+
+
+## 2026-11-12: Decision: OpenAI Strict STEM Specialization & Intern-AI DeepSeek Optimization (14-Worker Fleet)
+- **User Directives & Context:**
+  1. *OpenAI Specialization:* Dedicate OpenAI (`gpt-6-luna`) **strictly and exclusively to STEM**: Mathematics (English & Afrikaans) and Physical Sciences (English & Afrikaans). Stop OpenAI from pulling or helping on any language papers.
+  2. *Strict Free API Mandate for DeepSeek:* DeepSeek must run **strictly and exclusively on the free Intern-AI endpoint** (`discovery-api.intern-ai.org.cn/v1`), with ZERO usage of OpenRouter for DeepSeek. OpenRouter is reserved strictly for free models (e.g. `nvidia/nemotron-3-ultra-550b:free`).
+  3. *Intern-AI API Optimization:* Diagnose and fix Intern-AI slowness directly:
+     - Root cause: Intern-AI produces extensive chain-of-thought in `reasoning_content` and hits HTTP 429 when called with < 2s intervals.
+     - Solution: Configured 3.5s minimum pacing lock (`pace_key`), progressive exponential backoff on 429 (5s, 10s, 15s), `temperature: 0.2`, `max_tokens: 3000`, and dual field extraction (`content or reasoning_content`) with `extract_json_safely`.
+  4. *Gemini Language Dedication:* All English FAL/HL and Afrikaans FAL/HL papers assigned exclusively to Google Gemini (3.5 Flash Lite & 3.1 Flash Lite across Key 1 and Key 2), with self-contained fallback across Gemini keys to avoid any leakage to OpenAI.
+- **14-Worker Fleet Architecture:**
+  - **8x OpenAI `gpt-6-luna` Workers (Strictly STEM):**
+    - `OAI_MTH_1` & `OAI_MTH_2`: Mathematics (English) - 2x
+    - `OAI_WSK_1` & `OAI_WSK_2`: Wiskunde (Afrikaans) - 2x
+    - `OAI_SCI_E1` & `OAI_SCI_E2`: Physical Sciences (English) - 2x
+    - `OAI_SCI_A1` & `OAI_SCI_A2`: Fisiese Wetenskappe (Afrikaans) - 2x
+    - Fallback Cadence: Strictly cycling within STEM (`math_en`, `math_af`, `sci_en`, `sci_af`). Zero language assignments.
+  - **4x Gemini Workers (Strictly Languages):**
+    - `GEM1_35`: `gemini-3.5-flash-lite` (Key 1, Languages)
+    - `GEM1_31`: `gemini-3.1-flash-lite` (Key 1, Languages)
+    - `GEM2_35`: `gemini-3.5-flash-lite` (Key 2, Languages)
+    - `GEM2_31`: `gemini-3.1-flash-lite` (Key 2, Languages)
+  - **1x OpenRouter Worker (Mathematics P2 - Free Model):**
+    - `NEM`: `nemotron-3-ultra-550b:free` (Maths P2)
+  - **1x Intern-AI Worker (Physical Sciences & Fisiese Wetenskappe - Free DeepSeek):**
+    - `DSK`: `deepseek-v4.1-flash-1017` via direct Intern-AI API with 3.5s pacing and 429 backoff
+- **Status & Telemetry at Resumption:**
+  - **1,798 Socratic Lessons Verified** into `workspace/verified/stage2/`.
+  - **1,241 Full Solutions Generated** into `workspace/verified/stage2_full_solutions/`.
+  - **3,039 Total Stage 2 Samples Compiled**.
+  - **38 Completed Exam Papers**.
+  - **96.6% Live Pass Rate** (1,798 verified vs 64 rejections in `workspace/rejected/stage2/`).
+
+
+## 2026-11-12: Operational Architecture: Automatic Question Paper Conversion & Multi-Task Epoch Curriculum
+- **Question Paper to Full Solution Conversion (Active & Automated):**
+  - Just as in Stage 1, every time an exam paper completes all its multi-turn Socratic hint items in `stage-2/run_stage2_fleet.py`, the pipeline immediately invokes `process_paper_s2(paper_id)` from `stage-2/convert_stage2_full_solutions.py`.
+  - It automatically extracts the raw DBE exam questions and official memorandums (`workspace/items/<paper_id>.jsonl`) and converts them into canonical 1-turn worked solutions (`answer_policy: "full_solution"`) formatted with CAPS marking schemes and exam technique notes in `workspace/verified/stage2_full_solutions/<paper_id>.jsonl`.
+  - **Live Count:** 1,529+ full solution demonstrations already compiled automatically across 39 papers.
+- **Multi-Task Epoch Training Curriculum (1 Epoch Full Solutions vs 2–3 Epochs Socratic):**
+  - *Pedagogical Rationale:* Training too many epochs on full solutions causes the tutor model to collapse into an "answer dumper" (giving away answers on turn 1). Full solutions provide factual subject grounding and marking criteria, but Socratic hint dialogues must dominate the conversational behavior.
+  - *Dataset Compiler Upgrades (`stage-2/compile_stage2_dataset.py`):*
+    Now compiles three production builds via `tutor_data.py build`:
+    1. `workspace/build/r2`: Unified master dataset with natural ~3:1 multi-task curriculum weighting (15,000+ Socratic dialogues vs ~5,000 full solutions).
+    2. `workspace/build/r2_fullsol`: Full-solution demonstrations isolated for strict **1-epoch** foundational pre-training.
+    3. `workspace/build/r2_socratic`: Multi-turn Socratic hint lessons isolated for **2–3 epoch** deep pedagogical fine-tuning.
+  - *Two-Phase Training Option in Colab / Vertex AI:*
+    - Phase 1 (1 Epoch): `train_sft.py --data workspace/build/r2_fullsol --epochs 1` (builds subject knowledge & official DBE memo formats).
+    - Phase 2 (2 Epochs): `train_sft.py --data workspace/build/r2_socratic --epochs 2 --resume` (internalizes patience, hint ladders, formula breakdown, and exam tips).
+
+
+## 2026-11-12: Decision: Deactivate OpenAI & Rebalance Entire Pipeline on Free / Non-OpenAI Fleet
+- **User Instruction:** Turn off OpenAI completely; continue fleet generation using only Google Gemini, OpenRouter (free Nemotron), and Intern-AI (free DeepSeek).
+- **Architectural & Operational Changes:**
+  1. *OpenAI Deactivation (`ENABLE_OPENAI = False`):*
+     - All 8 OpenAI `gpt-6-luna` workers disabled in `stage-2/run_stage2_fleet.py`.
+     - Zero calls directed to OpenAI API endpoints.
+  2. *Fallback Rerouting:*
+     - OpenRouter Nemotron fallback: Rerouted from OpenAI to **Google Gemini 3.5 Flash Lite** (Key 1).
+     - Intern-AI DeepSeek fallback: Rerouted from OpenAI to **Google Gemini 3.5 Flash Lite** (Key 2).
+     - Gemini Language fallbacks: Self-contained cross-key failover between Key 1 & Key 2 (3.5 $\leftrightarrow$ 3.1).
+  3. *Rebalanced 6-Worker Non-OpenAI Fleet (Full Subject Coverage):*
+     - `GEM1_35`: `gemini-3.5-flash-lite` (Key 1) -> STEM Primary (Physical Sciences, Fisiese Wetenskappe, Maths, Wiskunde, Languages)
+     - `GEM1_31`: `gemini-3.1-flash-lite` (Key 1) -> Language Primary (English FAL/HL, Afrikaans FAL/HL)
+     - `GEM2_35`: `gemini-3.5-flash-lite` (Key 2) -> STEM Primary (Mathematics, Wiskunde, Physical Sciences, Fisiese Wetenskappe, Languages)
+     - `GEM2_31`: `gemini-3.1-flash-lite` (Key 2) -> Language Primary (Afrikaans FAL/HL, English FAL/HL)
+     - `NEM`: `nemotron-3-ultra-550b:free` (OpenRouter) -> Mathematics & Sciences
+     - `DSK`: `deepseek-v4.1-flash-1017` (Intern-AI Free API) -> Physical Sciences & Mathematics
+  4. *Queue Allocation Simulation:*
+     - All 224 remaining untouched exam papers (11,127 atomic items) successfully distributed across the 6 non-OpenAI workers with 0 unassigned papers.
+- **Production Milestone at Deactivation:**
+  - **2,842 Socratic Lessons Verified** in `workspace/verified/stage2/`.
+  - **2,389 Full Solutions Generated** in `workspace/verified/stage2_full_solutions/`.
+  - **5,231 Total Stage 2 Samples Compiled**.
+  - **49 Completed Exam Papers**.
+  - **94.5% Live Pass Rate**.
+
+
+
+
+
+

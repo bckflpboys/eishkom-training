@@ -90,8 +90,12 @@ To run smoothly on budget South African hardware (4GB RAM phones, legacy Celeron
 
 - **Pedagogical Strategy & Architectural Roadmap (Stages 1–4):**
   - **Stage 1 (Current):** Employs **subject-adaptive teaching styles** (Polya 4-step for Maths; concept mapping & SI units for Physics; context clues & visual literacy for Languages; frustrated learner de-escalation across all subjects) balanced in a **1:2 Multi-Task Curriculum Ratio** (1 full solution demonstration per 2 Socratic hint dialogues across 5,755 SFT samples).
-  - **Stage 2 (v2 Models) — Strategy Permutations & Cumulative SFT Scaling:**
-    - **Cumulative Dataset Rule:** Retrain on combined datasets (`r1` + `r2` = 15,000+ samples) to prevent catastrophic forgetting.
+  - **Stage 2 (v2 Models) — Multi-Strategy Permutations & Cumulative SFT Scaling:**
+    - **Production Fleet Pipeline (`stage-2/run_stage2_fleet.py`):** 10-strategy weighted rotation (`step_walkthrough`, `worked_example`, `faded_example`, `error_spotting`, `mnemonic_memory_hook`, `frustrated_learner_de-escalation`, `rapid_recall_drill`, `compare_and_contrast`, `exam_technique_focus`, `concept_first`) paired with 6 student persona states across dual coaching profiles (35% short 2-turn mode, 65% deep Socratic mode).
+    - **14-Worker Parallel Fleet:** 8 dedicated OpenAI `gpt-6-luna` workers exclusively focused on STEM (Mathematics & Physical Sciences in English & Afrikaans), alongside 4x Google Gemini workers (`gemini-3.5-flash-lite` & `gemini-3.1-flash-lite` across Key 1 and Key 2) dedicated to Languages, Nemotron Ultra 550B (Maths P2), and Fast DeepSeek (Physical Sciences) targeting 15,000 samples.
+    - **Mandatory Final Turn Consolidation:** Every lesson concludes with a clean final answer, a dedicated `📖 Formula Breakdown (How It Works)` (for STEM) or `📖 Concept & Thought Process (How to Understand It)` (for Languages), and a practical `🎯 Exam Tip`.
+    - **10-Point Quality Rubric (`stage-2/quality/rubric_checker.py`):** Automated multi-dimensional scoring catching reasoning omissions, turn count deviations, anti-spoiler violations, and language mismatches before accepting items. All rejections logged to `workspace/rejected/stage2/` for full diagnostic auditing.
+    - **Cumulative Dataset Rule:** Fresh base models are trained on combined datasets (`r1` + `r2` = 15,000+ samples) into `workspace/build/r2/` to prevent catastrophic forgetting.
     - **Base Model Adaptability:** If newer models release (e.g. `Qwen3.8-4B`), the compiled dataset plugs in directly with zero data rework.
     - **LoRA Capacity Scaling:** Scale from Rank 16 (0.5% weights) up to Rank 32/64 (1%–2% weights) as data expands to 15k–30k+ samples.
   - **Stage 3 (v3 Models) — Baby Jake (1B) & Cross-Tier Self-Distillation:**

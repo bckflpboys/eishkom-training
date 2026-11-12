@@ -1,0 +1,17 @@
+{
+  "total_verified": 0,
+  "total_generated": 0,
+  "total_rejected": 0,
+  "papers_done": 23,
+  "papers_total": 224,
+  "by_model": {},
+  "by_subject": {},
+  "by_strategy": {},
+  "by_mode": {},
+  "start_time": 1794514185.9334733,
+  "last_update": "2026-11-12T22:09:50.431455",
+  "target_verified": 15000,
+  "completed_papers": [
+    "dbe-english_fal-g12-p2-2019-may"
+  ]
+}
