@@ -1,17 +1,49 @@
 {
-  "total_verified": 0,
-  "total_generated": 0,
-  "total_rejected": 0,
-  "papers_done": 23,
+  "total_verified": 1058,
+  "total_generated": 1162,
+  "total_rejected": 104,
+  "papers_done": 149,
   "papers_total": 224,
-  "by_model": {},
-  "by_subject": {},
-  "by_strategy": {},
-  "by_mode": {},
-  "start_time": 1794514185.9334733,
-  "last_update": "2026-11-12T22:09:50.431455",
+  "by_model": {
+    "qwen3.8-27b": 37,
+    "gemini-3.5-flash-lite": 177,
+    "command-a": 115,
+    "gpt-oss-120b": 9,
+    "deepseek-v4.1-flash-1017": 19,
+    "gemma-4-31b-it": 300,
+    "command-r": 87,
+    "gemma-4-26b-a4b-it": 126,
+    "command-a-reasoning": 57,
+    "gemini-3.1-flash-lite": 106,
+    "nemotron-3-ultra-550b": 25
+  },
+  "by_subject": {
+    "wiskunde": 307,
+    "fisiese_wetenskappe": 295,
+    "physical_sciences": 30,
+    "afrikaans_fal": 300,
+    "english_fal": 58,
+    "english_hl": 68
+  },
+  "by_strategy": {
+    "faded_example": 116,
+    "mnemonic": 102,
+    "worked_example": 113,
+    "analogy_real_world": 109,
+    "error_analysis": 129,
+    "direct_explanation": 104,
+    "socratic_hints": 127,
+    "step_walkthrough": 137,
+    "exam_technique": 121
+  },
+  "by_mode": {
+    "deep": 684,
+    "short": 374
+  },
+  "start_time": 1794572817.1406174,
+  "last_update": "2026-11-13T17:46:41.104508",
   "target_verified": 15000,
   "completed_papers": [
-    "dbe-english_fal-g12-p2-2019-may"
+    "dbe-fisiese_wetenskappe-g12-v1-2022-may"
   ]
 }

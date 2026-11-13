@@ -6658,3 +6658,118 @@ aw_response) for human review to evaluate if verification thresholds are overly 
 
 
 
+
+## 2026-11-13: Multi-Provider Expansion: Groq LPU, Cerebras WSE, NVIDIA NIM & Cloudflare Integration
+- **New API Keys Added & Verified:**
+  1. *Groq API:* `GROQ_API_KEY` saved in `.env`. Validated with `curl/8.4.0` User-Agent. Both `qwen/qwen3.8-27b` and `openai/gpt-oss-120b` verified with sub-second LPU inference.
+  2. *Cerebras API:* `CEREBRAS_API_KEY` saved in `.env`. Validated on Wafer-Scale Engine (1,300+ tok/s). Both `qwen-3.8-27b` and `gpt-oss-120b` verified.
+  3. *NVIDIA NIM API:* `NVIDIA_API_KEY` saved in `.env`. Validated across 83 models. Rate limited at strictly **< 40 RPM combined** via `nvidia_lock` (1.6s interval). Models verified: `nemotron-3.5-lightning-30b-a3b`, `mistralai/mistral-large-4-1t-a52b`, `minimaxai/minimax-m3.1-flash`, `nemotron-3.5-super-vl-120b-a12b`.
+  4. *Cloudflare Workers AI:* `CLOUDFLARE_API_TOKEN` verified valid (`active`). Workers AI endpoints require an `account_id` in the URI. Free tier includes 10,000 Neurons/day (~50-100 requests).
+
+## 2026-11-13: Cohere Integration & 26-Worker Multi-Provider Fleet Upgrade
+- **Cohere API Integration:**
+  - `COHERE_API_KEY` saved to `.env`.
+  - All 6 requested models tested and verified working via Cohere v2 Chat API (`https://api.cohere.com/v2/chat`):
+    1. `Command A` (`command-a-03-2025`): High-speed structured JSON generation.
+    2. `Command R+` (`command-r-plus-08-2024`): Flagship reasoning model for hard DBE Mathematics & Physics.
+    3. `Command R` (`command-r-08-2024`): Balanced STEM tutoring.
+    4. `Command A Reasoning` (`command-a-reasoning-08-2025`): Deep thinking model with interleaved chain-of-thought.
+    5. `Command A+` (`command-a-plus-05-2026`): Multimodal & extended context synthesis.
+    6. `North Mini Code` (`north-mini-code`): Sparse MoE code & mathematical execution.
+  - Strict free-tier quota guard: Thread lock `cohere_lock` with atomic counter enforcing a hard cap of 950 requests (protecting the user's 1,000 monthly free quota).
+
+- **Diagnostic Insights:**
+  1. *AI Studio Paid (Key 3) vs Keys 1 & 2:* Key 3 returns `HTTP 402 Payment Required` (prepayment credits exhausted). `gemini-4-hydrogen` was routed to Key 1 and Key 2 where it is actively producing verified Mathematics items. For the other requested models: `gemini-2.5-*` are decommissioned by Google (`HTTP 404`), and `gemini-4-argon`/`carbon`/`3.1-pro` require paid tier (`HTTP 429` on free keys).
+  2. *What "Paced" Means:* Enforcing a mandatory minimum delay (`min_interval_sec`) between successive API calls on a shared key via a thread lock (`pace_key`) so that concurrent workers never exceed provider rate limits (e.g., NVIDIA kept strictly under 40 RPM combined via 1.6s interval).
+  3. *NVIDIA NIM Model Resolution:* NVIDIA requires full org prefixes (`nvidia/`, `mistralai/`, `minimaxai/`). Without prefixes, bare model names return `HTTP 404`. Furthermore, models with thinking blocks output to `reasoning_content`, which is now extracted directly.
+
+- **Unified 26-Worker Multi-Provider Fleet Active:**
+  - Google AI Studio (Key 1 & 2): 10 workers (Gemma 4 31B Afrikaans, Gemma 4 26B English, Gemini 4 Hydrogen Math, Gemini 3.5 & 3.1 STEM)
+  - Groq LPU: 2 workers (`qwen3.8-27b`, `gpt-oss-120b`)
+  - Cerebras WSE: 2 workers (`qwen-3.8-27b`, `gpt-oss-120b`)
+  - NVIDIA NIM (< 40 RPM): 4 workers (`nemotron-3.5-lightning`, `mistral-large-4`, `minimax-m3.1-flash`, `nemotron-3.5-super-vl`)
+  - Cohere (Capped to 950 requests): 6 workers (`command-a`, `command-r-plus`, `command-r`, `command-a-reasoning`, `command-a-plus`, `north-mini-code`)
+  - Intern-AI: 1 worker (`deepseek-v4.1-flash-1017`)
+  - OpenRouter: 1 worker (`nemotron-3-ultra-550b`)
+  - OpenAI: 0 workers (`ENABLE_OPENAI = False`).
+
+## 2026-11-13: Cerebras Quota Tuning & AI Studio Gemma Fleet Optimization
+- **Cerebras Rate Limit Tuning:**
+  - `gpt-oss-120b` (Strict 5 RPM quota): Separated onto `cerebras_oss_lock` and paced at `min_interval_sec=12.5s` ($\le 4.8\text{ RPM} < 5\text{ RPM}$), preventing HTTP 429 rate limit triggers.
+  - `qwen-3.8-27b` (Massive 450 RPM quota, 1,300 tok/s): Separated onto `cerebras_qwen_lock` with `min_interval_sec=0.08s` and scaled up to **6 dedicated parallel workers** (`CRB_QWN_1..6`).
+  - Production immediately accelerated across Mathematics and Physical Sciences in both English and Afrikaans.
+- **Dual AI Studio Gemma 4 Optimization:**
+  - Dedicated thread locks `gma1_lock` and `gma2_lock` prevent Gemma models from contending with Flash Lite calls.
+  - Increased request timeout to **180s** to eliminate premature read timeout drops on long multi-turn Socratic responses.
+  - Expanded paper affinity according to the user rule:
+    * `gemma-4-31b-it` (Key 1 & 2): Dedicated to Afrikaans Language & STEM papers (`lang_af`, `math_af`, `sci_af`).
+    * `gemma-4-26b-a4b-it` (Key 1 & 2): Dedicated to English Language & STEM papers (`lang_en`, `math_en`, `sci_en`).
+  - Robust retry logic added to absorb transient HTTP 500 internal errors with seamless cross-key failover.
+- **Milestone Reached:**
+  - Socratic Lessons Verified: **4,864** / 15,000.
+  - Full Solutions Generated: **4,310**.
+  - Total Stage 2 Samples: **9,174**.
+  - Completed Exam Papers: **101 papers**.
+
+## 2026-11-13: 10,000 Samples Milestone, Cerebras Key Replacement & API Service Attribution Dashboard
+- **Cerebras Key Replaced:**
+  - Replaced exhausted Cerebras API key with new active key: `csk-8t8e36xet4c9r8yc5e2yt2vdf3hvmkyyh6hwpmec32dhtdn4`.
+  - Verified active with sub-second latency (0.62s) on `qwen-3.8-27b` and fresh quota.
+  - Mirrored key update to both `.env` and `sa-tutor-kit/sa-tutor-kit/.env`.
+- **Comprehensive Multi-Provider Health & Quota Audit:**
+  - `Cerebras WSE`: ✅ PASS (0.62s, fresh quota, 6x parallel Qwen 27B streams).
+  - `Google AI Studio Key 1`: ✅ PASS (1.33s, active quota).
+  - `Google AI Studio Key 2`: ✅ PASS (0.84s, active quota).
+  - `Google AI Studio Key 3`: ⚠️ HTTP 402 Payment Required (Prepayment credits exhausted, dormant).
+  - `Groq LPU`: ✅ PASS (0.41s, active quota on Qwen 27B and GPT-OSS 120B).
+  - `NVIDIA NIM`: ✅ PASS (0.97s, strictly paced < 40 RPM combined).
+  - `Cohere API`: ✅ PASS (1.49s, atomic counter capped safely at 950 requests).
+  - `Intern-AI Free`: ✅ PASS (updated to `deepseek-v4.1-flash-1017`).
+  - `OpenRouter Free`: ✅ PASS (1.06s, active on `nemotron-3-ultra-550b:free`).
+  - `OpenAI Luna`: 🛑 STRICTLY DISABLED (`ENABLE_OPENAI = False`, 0 calls).
+- **Status Dashboard API Attribution Upgrade (`tools/stage2_status.py`):**
+  - Enhanced dashboard now categorizes production by API Service / Provider and Model & API Service.
+  - Verified records now record `provider` and `lane_id` in metadata to distinguish between AI Studio 1, AI Studio 2, Cerebras WSE, Groq LPU, NVIDIA NIM, Cohere, etc.
+- **10,000 Milestone Crossed:**
+  - Socratic Lessons Verified: **5,228** / 15,000 (34.9% of target).
+  - Full Solutions Generated: **4,860**.
+  - **Total Stage 2 Samples: 10,088 items.**
+  - Completed Exam Papers: **108 papers**.
+
+## 2026-11-13: Cerebras Provider Deactivation & Rebalanced 26-Worker Non-Cerebras Fleet
+- **Cerebras Deactivated:**
+  - `ENABLE_CEREBRAS = False` set in `stage-2/run_stage2_fleet.py` following free credit depletion (`HTTP 402 Payment Required`). Zero further calls routed to Cerebras.
+  - Final Cerebras contribution recorded: **333 verified Socratic lessons** generated at 1,300 tok/s prior to credit exhaustion.
+- **Provider & Quota Audit across All Remaining Active Providers:**
+  - `Google AI Studio Key 1`: ✅ 100% operational across Gemini 3.5, Gemini 3.1, Gemma 4 31B, Gemma 4 26B, Gemini 4 Hydrogen.
+  - `Google AI Studio Key 2`: ✅ 100% operational across Gemini 3.5, Gemini 3.1, Gemma 4 31B, Gemma 4 26B, Gemini 4 Hydrogen.
+  - `Groq LPU`: ✅ Scaled to **4 concurrent workers** (2x `qwen/qwen3.8-27b`, 2x `openai/gpt-oss-120b`) at sub-second latency (0.32s).
+  - `NVIDIA NIM`: ✅ 4 workers active (`nemotron-3.5-lightning`, `nemotron-3.5-super-vl`, `minimax-m3.1-flash`, `mistral-large-4`), strictly paced < 40 RPM combined.
+  - `Cohere API`: ✅ 6 workers active (`command-a`, `command-r-plus`, `command-r`, `command-a-reasoning`, `command-a-plus`, `north-mini-code`), atomic quota counter capped safely at 950 requests.
+  - `Intern-AI Free`: ✅ Active on `deepseek-v4.1-flash-1017`.
+  - `OpenRouter Free`: ✅ Active on `nemotron-3-ultra-550b:free`.
+  - `OpenAI Luna`: 🛑 DISABLED (`ENABLE_OPENAI = False`, 0 calls).
+- **Relaunched Active Fleet:**
+  - Daemon task `task-1944` running with **26 active workers** across 5 top-tier cloud providers.
+  - Socratic Lessons Verified: **5,533** / 15,000 (36.9% of target).
+  - Completed Exam Papers: **118 papers**.
+  - Total Stage 2 Samples: **10,996 items**.
+
+---
+
+## 2026-11-13: Stage 2 STEM Paper Clarification & Fleet Milestone (6,431 Lessons)
+
+- **STEM Status Clarification:**
+  - **English-Medium STEM Completed:**
+    - physical_sciences: 100% of available Stage 2 papers completed (1,565 lessons verified).
+    - mathematics: 100% of available Stage 2 papers completed (1,037 lessons verified).
+  - **Afrikaans-Medium STEM In-Progress:**
+    - isiese_wetenskappe: 11 papers remaining (780 lessons verified so far).
+    - wiskunde: 7 papers remaining (892 lessons verified so far).
+  - **Total Remaining Papers Fleet-Wide:** 78 papers (out of 225 Stage 2 pool).
+- **Fleet Milestone (Checked 17:05):**
+  - Socratic Lessons Verified: **6,431** / 15,000 (42.9% of target).
+  - Full Solutions Generated: **7,066**.
+  - Total Stage 2 Samples: **13,497 items**.
+  - Live Pass Rate: **86.2%** (6,431 verified vs 1,031 rejected).
+  - Completed Papers: **147 papers** (65.3% complete).

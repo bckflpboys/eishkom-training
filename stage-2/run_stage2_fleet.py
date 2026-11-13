@@ -105,20 +105,37 @@ def load_env():
 
 ENV_KEYS = load_env()
 ENABLE_OPENAI = False        # Turned OFF by user command - Zero OpenAI calls
+ENABLE_CEREBRAS = False      # Turned OFF by user command - Free credits depleted
 OPENAI_KEY = ENV_KEYS.get("OPENAI_API_KEY", "") if ENABLE_OPENAI else ""
+CEREBRAS_KEY = ENV_KEYS.get("CEREBRAS_API_KEY", "") if ENABLE_CEREBRAS else ""
 OPENROUTER_KEY = ENV_KEYS.get("OPENROUTER_API_KEY", "")
 GEMINI_KEY_1 = ENV_KEYS.get("GEMINI_API_KEY", "")
 GEMINI_KEY_2 = ENV_KEYS.get("GEMINI_API_KEY_2", "") or GEMINI_KEY_1
+GEMINI_KEY_3 = ENV_KEYS.get("GEMINI_API_KEY_3", "")
 INTERN_KEY = ENV_KEYS.get("INTERN_API_KEY", "")
 INTERN_BASE_URL = ENV_KEYS.get("INTERN_BASE_URL", "https://discovery-api.intern-ai.org.cn/v1")
+GROQ_KEY = ENV_KEYS.get("GROQ_API_KEY", "")
+NVIDIA_KEY = ENV_KEYS.get("NVIDIA_API_KEY", "")
+COHERE_KEY = ENV_KEYS.get("COHERE_API_KEY", "iNTzE94EZk0t0ZGlgAudCE3eOHgqVHsL4KKX05Kh")
+MAX_COHERE_MONTHLY_REQUESTS = 950
+cohere_request_count = 0
 
 # ── Thread Locks & Pacing ──────────────────────────────────────────────────
 print_lock = threading.Lock()
 key1_lock = threading.Lock()
 key2_lock = threading.Lock()
+key3_lock = threading.Lock()
 openrouter_lock = threading.Lock()
 intern_lock = threading.Lock()
 openai_lock = threading.Lock()
+groq_lock = threading.Lock()
+cerebras_lock = threading.Lock()
+cerebras_qwen_lock = threading.Lock()
+cerebras_oss_lock = threading.Lock()
+gma1_lock = threading.Lock()
+gma2_lock = threading.Lock()
+nvidia_lock = threading.Lock()
+cohere_lock = threading.Lock()
 stats_lock = threading.Lock()
 progress_lock = threading.Lock()
 reject_lock = threading.Lock()
@@ -519,6 +536,70 @@ def call_gemini_language_safe(prompt, api_key, model_name, lock, key_id):
     # Final retry on primary
     return call_gemini(prompt, api_key, model_name, lock, key_id)
 
+def call_gemma_aistudio(prompt, api_key, model_name, lock, key_id):
+    """
+    Dedicated caller for Gemma 4 models on Google AI Studio:
+    - Strictly omits thinkingConfig (Gemma throws HTTP 400 with thinkingBudget).
+    - Uses timeout=180s so multi-turn Socratic responses never hit premature read timeout.
+    - Handles rate limiting (429) and transient 500s with progressive backoff.
+    - Falls back across Key 1 and Key 2 if one hits a quota block.
+    """
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={api_key}"
+    headers = {"Content-Type": "application/json"}
+    payload = {
+        "contents": [{"parts": [{"text": SYSTEM_PROMPT + "\n\n" + prompt}]}],
+        "generationConfig": {
+            "temperature": 0.3,
+            "maxOutputTokens": 6144
+        }
+    }
+    timeout = 180
+    pace_key(lock, key_id, min_interval_sec=1.0)
+    for attempt in range(4):
+        try:
+            req = urllib.request.Request(url, data=json.dumps(payload).encode("utf-8"), headers=headers)
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                data = json.loads(resp.read().decode("utf-8"))
+                candidates = data.get("candidates", [])
+                if candidates:
+                    parts = candidates[0].get("content", {}).get("parts", [])
+                    texts = [p["text"] for p in parts if "text" in p]
+                    res = "\n".join(texts).strip()
+                    if res:
+                        return res
+        except urllib.error.HTTPError as he:
+            if he.code == 429:
+                wait_sec = 6.0 * (attempt + 1)
+                with print_lock:
+                    print(f"[{model_name} on {key_id}] 429 Rate Limit. Backing off {wait_sec}s...")
+                time.sleep(wait_sec)
+            elif he.code == 500:
+                time.sleep(2.0 * (attempt + 1))
+            else:
+                time.sleep(1.5)
+        except Exception as e:
+            with print_lock:
+                print(f"[{model_name} on {key_id}] Attempt {attempt+1}/4 failed ({e}). Retrying...")
+            # Try alt key if available
+            alt_key = GEMINI_KEY_2 if (api_key == GEMINI_KEY_1 and GEMINI_KEY_2) else GEMINI_KEY_1
+            alt_lock = gma2_lock if alt_key == GEMINI_KEY_2 else gma1_lock
+            try:
+                time.sleep(1.5)
+                alt_url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={alt_key}"
+                req = urllib.request.Request(alt_url, data=json.dumps(payload).encode("utf-8"), headers=headers)
+                with urllib.request.urlopen(req, timeout=timeout) as resp:
+                    data = json.loads(resp.read().decode("utf-8"))
+                    candidates = data.get("candidates", [])
+                    if candidates:
+                        parts = candidates[0].get("content", {}).get("parts", [])
+                        texts = [p["text"] for p in parts if "text" in p]
+                        res = "\n".join(texts).strip()
+                        if res:
+                            return res
+            except Exception:
+                time.sleep(2.0 * (attempt + 1))
+    raise RuntimeError(f"Gemma {model_name} failed on both keys after 4 attempts")
+
 def call_openrouter_nemotron_turbo(prompt):
     url = "https://openrouter.ai/api/v1/chat/completions"
     headers = {
@@ -576,7 +657,7 @@ def call_intern_deepseek(prompt):
         "User-Agent": "curl/8.4.0"
     }
     pace_key(intern_lock, "intern", min_interval_sec=3.5)
-    for model_name in ["deepseek-v4-flash-0731", "deepseek-v4.1-flash-1017"]:
+    for model_name in ["deepseek-v4.1-flash-1017"]:
         payload = {
             "model": model_name,
             "messages": [
@@ -609,6 +690,197 @@ def call_intern_deepseek(prompt):
                 time.sleep(2.0)
 
     raise RuntimeError("Intern-AI DeepSeek failed on all models")
+
+def call_groq(prompt, model_name="qwen/qwen3.8-27b"):
+    url = "https://api.groq.com/openai/v1/chat/completions"
+    headers = {
+        "Authorization": f"Bearer {GROQ_KEY}",
+        "Content-Type": "application/json",
+        "User-Agent": "curl/8.4.0"
+    }
+    payload = {
+        "model": model_name,
+        "messages": [
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": prompt}
+        ],
+        "temperature": 0.2,
+        "max_tokens": 4096
+    }
+    pace_key(groq_lock, "groq", min_interval_sec=0.5)
+    for attempt in range(3):
+        try:
+            req = urllib.request.Request(url, data=json.dumps(payload).encode("utf-8"), headers=headers)
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                data = json.loads(resp.read().decode("utf-8"))
+                c0 = data.get("choices", [{}])[0]
+                if isinstance(c0, dict):
+                    msg = c0.get("message", {})
+                    if isinstance(msg, dict):
+                        res = msg.get("content") or msg.get("reasoning") or ""
+                        if res:
+                            return str(res)
+                    elif isinstance(msg, str):
+                        return msg
+                elif isinstance(c0, str):
+                    return c0
+        except urllib.error.HTTPError as he:
+            if he.code == 429:
+                time.sleep(3.0 * (attempt + 1))
+            else:
+                time.sleep(1.5)
+        except Exception:
+            time.sleep(1.5)
+    raise RuntimeError(f"Groq {model_name} failed")
+
+def call_cerebras(prompt, model_name="qwen-3.8-27b"):
+    """
+    Cerebras Wafer-Scale Engine caller:
+    - qwen-3.8-27b has a 450 RPM quota (27,000/hr, 648,000/day): paced at 0.08s for blazing sub-second inference.
+    - gpt-oss-120b has a strict 5 RPM quota (150/hr, 2,400/day): strictly paced at 12.5s to prevent 429 errors.
+    - Captures both 'content' and 'reasoning' fields seamlessly.
+    """
+    url = "https://api.cerebras.ai/v1/chat/completions"
+    headers = {
+        "Authorization": f"Bearer {CEREBRAS_KEY}",
+        "Content-Type": "application/json",
+        "User-Agent": "curl/8.4.0"
+    }
+    is_qwen = "qwen" in model_name.lower()
+    payload = {
+        "model": model_name,
+        "messages": [
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": prompt}
+        ],
+        "temperature": 0.2,
+        "max_tokens": 6144 if is_qwen else 4096
+    }
+    if is_qwen:
+        pace_key(cerebras_qwen_lock, "cerebras_qwen", min_interval_sec=0.08)
+    else:
+        pace_key(cerebras_oss_lock, "cerebras_oss", min_interval_sec=12.5)
+
+    for attempt in range(3):
+        try:
+            req = urllib.request.Request(url, data=json.dumps(payload).encode("utf-8"), headers=headers)
+            with urllib.request.urlopen(req, timeout=40) as resp:
+                data = json.loads(resp.read().decode("utf-8"))
+                c0 = data.get("choices", [{}])[0]
+                if isinstance(c0, dict):
+                    msg = c0.get("message", {})
+                    if isinstance(msg, dict):
+                        res = msg.get("content") or msg.get("reasoning") or ""
+                        if res:
+                            return str(res)
+                    elif isinstance(msg, str):
+                        return msg
+                elif isinstance(c0, str):
+                    return c0
+        except urllib.error.HTTPError as he:
+            if he.code == 429:
+                wait_sec = 2.0 if is_qwen else 15.0
+                time.sleep(wait_sec * (attempt + 1))
+            else:
+                time.sleep(1.0)
+        except Exception:
+            time.sleep(1.0)
+    raise RuntimeError(f"Cerebras {model_name} failed")
+
+def call_nvidia(prompt, model_name):
+    """
+    NVIDIA NIM API caller:
+    - Strictly paces at min_interval_sec=1.6 across all NVIDIA workers to keep combined RPM under 40.
+    - Handles reasoning_content extraction seamlessly.
+    """
+    url = "https://integrate.api.nvidia.com/v1/chat/completions"
+    headers = {
+        "Authorization": f"Bearer {NVIDIA_KEY}",
+        "Content-Type": "application/json",
+        "User-Agent": "curl/8.4.0"
+    }
+    payload = {
+        "model": model_name,
+        "messages": [
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": prompt}
+        ],
+        "temperature": 0.2,
+        "max_tokens": 4096
+    }
+    pace_key(nvidia_lock, "nvidia", min_interval_sec=1.6)
+    for attempt in range(3):
+        try:
+            req = urllib.request.Request(url, data=json.dumps(payload).encode("utf-8"), headers=headers)
+            with urllib.request.urlopen(req, timeout=60) as resp:
+                data = json.loads(resp.read().decode("utf-8"))
+                c0 = data.get("choices", [{}])[0]
+                if isinstance(c0, dict):
+                    msg = c0.get("message", {})
+                    if isinstance(msg, dict):
+                        res = msg.get("content") or msg.get("reasoning_content") or msg.get("reasoning") or ""
+                        if res:
+                            return str(res)
+                    elif isinstance(msg, str):
+                        return msg
+                elif isinstance(c0, str):
+                    return c0
+        except urllib.error.HTTPError as he:
+            if he.code == 429:
+                time.sleep(4.0 * (attempt + 1))
+            else:
+                time.sleep(2.0)
+        except Exception:
+            time.sleep(2.0)
+    raise RuntimeError(f"NVIDIA {model_name} failed")
+
+def call_cohere(prompt, model_name):
+    """
+    Cohere v2 Chat API caller:
+    - Enforces monthly request cap (MAX_COHERE_MONTHLY_REQUESTS = 950) to protect the 1,000 monthly free tier.
+    - Extracts text content seamlessly from v2 blocks (including reasoning/thinking fallback).
+    - Paces at min_interval_sec=0.5 to prevent bursts.
+    """
+    global cohere_request_count
+    with cohere_lock:
+        if cohere_request_count >= MAX_COHERE_MONTHLY_REQUESTS:
+            raise RuntimeError(f"Cohere monthly limit reached ({cohere_request_count}/{MAX_COHERE_MONTHLY_REQUESTS})")
+        cohere_request_count += 1
+
+    url = "https://api.cohere.com/v2/chat"
+    headers = {
+        "Authorization": f"Bearer {COHERE_KEY}",
+        "Content-Type": "application/json",
+        "User-Agent": "curl/8.4.0"
+    }
+    payload = {
+        "model": model_name,
+        "messages": [
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": prompt}
+        ]
+    }
+    pace_key(cohere_lock, "cohere", min_interval_sec=0.5)
+    for attempt in range(3):
+        try:
+            req = urllib.request.Request(url, data=json.dumps(payload).encode("utf-8"), headers=headers)
+            with urllib.request.urlopen(req, timeout=60) as resp:
+                data = json.loads(resp.read().decode("utf-8"))
+                contents = data.get("message", {}).get("content", [])
+                text_blocks = [c.get("text", "") for c in contents if c.get("type") == "text"]
+                if not text_blocks:
+                    text_blocks = [c.get("thinking", "") or c.get("text", "") for c in contents]
+                res = "\n".join(text_blocks).strip()
+                if res:
+                    return res
+        except urllib.error.HTTPError as he:
+            if he.code == 429:
+                time.sleep(3.0 * (attempt + 1))
+            else:
+                time.sleep(1.5)
+        except Exception:
+            time.sleep(1.5)
+    raise RuntimeError(f"Cohere {model_name} failed")
 
 # ══════════════════════════════════════════════════════════════════════════════
 #  DEDUPLICATION & PAPER DISCOVERY
@@ -760,6 +1032,7 @@ def process_paper_stage2(lane: dict) -> tuple:
     paper_id = lane["paper_id"]
     caller = lane["caller"]
     model_desc = lane["model_desc"]
+    provider = lane.get("provider", "unknown")
 
     item_file = find_item_file(paper_id)
     if not item_file.exists():
@@ -962,12 +1235,20 @@ def process_paper_stage2(lane: dict) -> tuple:
                     }, ensure_ascii=False) + "\n")
 
                 parsed_obj = extract_json_safely(resp_text)
+                if not isinstance(parsed_obj, dict):
+                    raise ValueError(f"Extracted JSON is not a dictionary (type={type(parsed_obj).__name__})")
 
                 # ── Auto-Repair & Self-Healing Engine ──
                 target_ans = final if final else memo
                 parsed_obj = auto_repair_record(parsed_obj, topic=topic, final_answer=target_ans)
-                messages = parsed_obj.get("messages", [])
+                if not isinstance(parsed_obj, dict):
+                    raise ValueError("auto_repair_record returned a non-dictionary")
+                messages = [m for m in parsed_obj.get("messages", []) if isinstance(m, dict)]
+                parsed_obj["messages"] = messages
                 meta = parsed_obj.get("meta", {})
+                if not isinstance(meta, dict):
+                    meta = {}
+                parsed_obj["meta"] = meta
                 verify_code = meta.get("verify_code", "")
 
                 # ── Verification Check 1: Mathematical Accuracy (STEM) ──
@@ -1039,6 +1320,8 @@ def process_paper_stage2(lane: dict) -> tuple:
                             "source_type": "past_paper_adapted",
                             "source_licence": "DBE Open Educational Resource",
                             "generator": model_desc,
+                            "provider": provider,
+                            "lane_id": lane_id,
                             "answer_verified": True,
                             "verification_method": v_math_reason,
                             "rubric_score": rubric_score,
@@ -1139,58 +1422,233 @@ def process_paper_stage2(lane: dict) -> tuple:
 def assign_callers():
     callers = []
 
-    # ── Key 1 Lanes (Gemini 3.5 on STEM & Gemini 3.1 on Languages) ──
+    # ── Key 1 Lanes (Gemma 4 31B Afrikaans, Gemma 4 26B English, Gemini 3.5 STEM, Gemini 3.1 STEM) ──
     if GEMINI_KEY_1:
+        # GMA1_31: Gemma 4 31B — Afrikaans Language & STEM papers
+        callers.append({
+            "caller": lambda p: call_gemma_aistudio(p, GEMINI_KEY_1, "gemma-4-31b-it", gma1_lock, "gma1_31"),
+            "model_desc": "gemma-4-31b-it",
+            "affinity": ["lang_af", "math_af", "sci_af"],
+            "id_prefix": "GMA1_31",
+            "provider": "gemini",
+        })
+        # GMA1_26: Gemma 4 26B — English Language & STEM papers
+        callers.append({
+            "caller": lambda p: call_gemma_aistudio(p, GEMINI_KEY_1, "gemma-4-26b-a4b-it", gma1_lock, "gma1_26"),
+            "model_desc": "gemma-4-26b-a4b-it",
+            "affinity": ["lang_en", "math_en", "sci_en"],
+            "id_prefix": "GMA1_26",
+            "provider": "gemini",
+        })
+        # GEM1_HYD: Gemini 4 Hydrogen — Mathematics Focus
+        callers.append({
+            "caller": lambda p: call_gemini(p, GEMINI_KEY_1, "gemini-4-hydrogen", key1_lock, "gem1_hyd"),
+            "model_desc": "gemini-4-hydrogen",
+            "affinity": ["math_en", "math_af"],
+            "id_prefix": "GEM1_HYD",
+            "provider": "gemini",
+        })
+        # GEM1_35: Gemini 3.5 Flash Lite — STEM focus
         callers.append({
             "caller": lambda p: call_gemini_language_safe(p, GEMINI_KEY_1, "gemini-3.5-flash-lite", key1_lock, "gem1_35"),
             "model_desc": "gemini-3.5-flash-lite",
-            "affinity": ["sci_en", "sci_af", "math_en", "math_af", "lang_en", "lang_af"],
+            "affinity": ["sci_en", "sci_af", "math_en", "math_af"],
             "id_prefix": "GEM1_35",
             "provider": "gemini",
         })
+        # GEM1_31: Gemini 3.1 Flash Lite — STEM focus
         callers.append({
             "caller": lambda p: call_gemini_language_safe(p, GEMINI_KEY_1, "gemini-3.1-flash-lite", key1_lock, "gem1_31"),
             "model_desc": "gemini-3.1-flash-lite",
-            "affinity": ["lang_en", "lang_af", "math_en"],
+            "affinity": ["math_en", "math_af", "sci_en", "sci_af"],
             "id_prefix": "GEM1_31",
             "provider": "gemini",
         })
 
-    # ── Key 2 Lanes (Gemini 3.5 on STEM & Gemini 3.1 on Languages) ──
+    # ── Key 2 Lanes (Gemma 4 31B Afrikaans, Gemma 4 26B English, Gemini 4 Hydrogen, Gemini 3.5 STEM, Gemini 3.1 STEM) ──
     if GEMINI_KEY_2:
+        # GMA2_31: Gemma 4 31B — Afrikaans Language & STEM papers
+        callers.append({
+            "caller": lambda p: call_gemma_aistudio(p, GEMINI_KEY_2, "gemma-4-31b-it", gma2_lock, "gma2_31"),
+            "model_desc": "gemma-4-31b-it",
+            "affinity": ["lang_af", "math_af", "sci_af"],
+            "id_prefix": "GMA2_31",
+            "provider": "gemini",
+        })
+        # GMA2_26: Gemma 4 26B — English Language & STEM papers
+        callers.append({
+            "caller": lambda p: call_gemma_aistudio(p, GEMINI_KEY_2, "gemma-4-26b-a4b-it", gma2_lock, "gma2_26"),
+            "model_desc": "gemma-4-26b-a4b-it",
+            "affinity": ["lang_en", "math_en", "sci_en"],
+            "id_prefix": "GMA2_26",
+            "provider": "gemini",
+        })
+        # GEM2_HYD: Gemini 4 Hydrogen — Mathematics Focus
+        callers.append({
+            "caller": lambda p: call_gemini(p, GEMINI_KEY_2, "gemini-4-hydrogen", key2_lock, "gem2_hyd"),
+            "model_desc": "gemini-4-hydrogen",
+            "affinity": ["math_en", "math_af"],
+            "id_prefix": "GEM2_HYD",
+            "provider": "gemini",
+        })
+        # GEM2_35: Gemini 3.5 Flash Lite — STEM focus
         callers.append({
             "caller": lambda p: call_gemini_language_safe(p, GEMINI_KEY_2, "gemini-3.5-flash-lite", key2_lock, "gem2_35"),
             "model_desc": "gemini-3.5-flash-lite",
-            "affinity": ["math_en", "math_af", "sci_en", "sci_af", "lang_af", "lang_en"],
+            "affinity": ["math_en", "math_af", "sci_en", "sci_af"],
             "id_prefix": "GEM2_35",
             "provider": "gemini",
         })
+        # GEM2_31: Gemini 3.1 Flash Lite — STEM focus
         callers.append({
             "caller": lambda p: call_gemini_language_safe(p, GEMINI_KEY_2, "gemini-3.1-flash-lite", key2_lock, "gem2_31"),
             "model_desc": "gemini-3.1-flash-lite",
-            "affinity": ["lang_af", "lang_en", "math_af"],
+            "affinity": ["sci_af", "sci_en", "math_af", "math_en"],
             "id_prefix": "GEM2_31",
             "provider": "gemini",
         })
 
-    # ── OpenRouter Lane (Maths & Sciences - Free Model) ──
+    # ── OpenRouter Lane (Maths - Free Model) ──
     if OPENROUTER_KEY:
         callers.append({
             "caller": call_openrouter_nemotron_turbo,
             "model_desc": "nemotron-3-ultra-550b",
-            "affinity": ["math_en", "math_af", "sci_en", "sci_af"],
+            "affinity": ["math_en", "math_af"],
             "id_prefix": "NEM",
             "provider": "openrouter",
         })
 
-    # ── Intern-AI DeepSeek Lane (Physical Sciences & Maths - Strictly Free Endpoint) ──
+    # ── Intern-AI DeepSeek Lane (Physical Sciences - Strictly Free Endpoint) ──
     if INTERN_KEY:
         callers.append({
             "caller": call_intern_deepseek,
             "model_desc": "deepseek-v4.1-flash-1017",
-            "affinity": ["sci_en", "sci_af", "math_en", "math_af"],
+            "affinity": ["sci_en", "sci_af"],
             "id_prefix": "DSK",
             "provider": "intern",
+        })
+
+    # ── Groq Lanes (High-Speed LPU: 2x Qwen 27B & 2x GPT-OSS 120B) ──
+    if GROQ_KEY:
+        callers.append({
+            "caller": lambda p: call_groq(p, "qwen/qwen3.8-27b"),
+            "model_desc": "qwen3.8-27b",
+            "affinity": ["math_en", "math_af", "sci_en", "sci_af"],
+            "id_prefix": "GRQ_QWN_1",
+            "provider": "groq",
+        })
+        callers.append({
+            "caller": lambda p: call_groq(p, "qwen/qwen3.8-27b"),
+            "model_desc": "qwen3.8-27b",
+            "affinity": ["math_en", "math_af", "sci_en", "sci_af"],
+            "id_prefix": "GRQ_QWN_2",
+            "provider": "groq",
+        })
+        callers.append({
+            "caller": lambda p: call_groq(p, "openai/gpt-oss-120b"),
+            "model_desc": "gpt-oss-120b",
+            "affinity": ["sci_en", "sci_af", "math_en", "math_af"],
+            "id_prefix": "GRQ_OSS_1",
+            "provider": "groq",
+        })
+        callers.append({
+            "caller": lambda p: call_groq(p, "openai/gpt-oss-120b"),
+            "model_desc": "gpt-oss-120b",
+            "affinity": ["sci_en", "sci_af", "math_en", "math_af"],
+            "id_prefix": "GRQ_OSS_2",
+            "provider": "groq",
+        })
+
+    # ── Cerebras Lanes (Disabled - User Command: ENABLE_CEREBRAS = False) ──
+    if ENABLE_CEREBRAS and CEREBRAS_KEY:
+        callers.append({
+            "caller": lambda p: call_cerebras(p, "qwen-3.8-27b"),
+            "model_desc": "qwen-3.8-27b",
+            "affinity": ["math_en", "math_af"],
+            "id_prefix": "CRB_QWN",
+            "provider": "cerebras",
+        })
+
+    # ── NVIDIA NIM Lanes (Strictly Paced at < 40 RPM Combined) ──
+    if NVIDIA_KEY:
+        callers.append({
+            "caller": lambda p: call_nvidia(p, "nvidia/nemotron-3.5-lightning-30b-a3b"),
+            "model_desc": "nemotron-3.5-lightning",
+            "affinity": ["math_en", "math_af"],
+            "id_prefix": "NVD_LGT",
+            "provider": "nvidia",
+        })
+        callers.append({
+            "caller": lambda p: call_nvidia(p, "mistralai/mistral-large-4-1t-a52b"),
+            "model_desc": "mistral-large-4",
+            "affinity": ["sci_en", "sci_af"],
+            "id_prefix": "NVD_MST",
+            "provider": "nvidia",
+        })
+        callers.append({
+            "caller": lambda p: call_nvidia(p, "minimaxai/minimax-m3.1-flash"),
+            "model_desc": "minimax-m3.1-flash",
+            "affinity": ["sci_en", "sci_af"],
+            "id_prefix": "NVD_MMX",
+            "provider": "nvidia",
+        })
+        callers.append({
+            "caller": lambda p: call_nvidia(p, "nvidia/nemotron-3.5-super-vl-120b-a12b"),
+            "model_desc": "nemotron-3.5-super-vl",
+            "affinity": ["sci_en", "math_en"],
+            "id_prefix": "NVD_SVL",
+            "provider": "nvidia",
+        })
+
+    # ── Cohere Lanes (Strictly Paced & Capped to 950 Requests Monthly Free Budget) ──
+    if COHERE_KEY:
+        # Command A: Mathematics & Sciences (High speed & structured JSON)
+        callers.append({
+            "caller": lambda p: call_cohere(p, "command-a-03-2025"),
+            "model_desc": "command-a",
+            "affinity": ["math_en", "sci_en", "math_af"],
+            "id_prefix": "COH_CMA",
+            "provider": "cohere",
+        })
+        # Command R+: High parameter flagship reasoning (DBE Math & Physics)
+        callers.append({
+            "caller": lambda p: call_cohere(p, "command-r-plus-08-2024"),
+            "model_desc": "command-r-plus",
+            "affinity": ["math_en", "sci_en"],
+            "id_prefix": "COH_CRP",
+            "provider": "cohere",
+        })
+        # Command R: Balanced STEM tutoring
+        callers.append({
+            "caller": lambda p: call_cohere(p, "command-r-08-2024"),
+            "model_desc": "command-r",
+            "affinity": ["sci_en", "sci_af"],
+            "id_prefix": "COH_CMR",
+            "provider": "cohere",
+        })
+        # Command A Reasoning: Deep step-by-step thinking for hard DBE problems
+        callers.append({
+            "caller": lambda p: call_cohere(p, "command-a-reasoning-08-2025"),
+            "model_desc": "command-a-reasoning",
+            "affinity": ["math_en", "math_af"],
+            "id_prefix": "COH_CAR",
+            "provider": "cohere",
+        })
+        # Command A+: Advanced multimodal & extended synthesis
+        callers.append({
+            "caller": lambda p: call_cohere(p, "command-a-plus-05-2026"),
+            "model_desc": "command-a-plus",
+            "affinity": ["sci_en", "math_en"],
+            "id_prefix": "COH_CAP",
+            "provider": "cohere",
+        })
+        # North Mini Code: Efficient sparse MoE code & mathematical execution
+        callers.append({
+            "caller": lambda p: call_cohere(p, "north-mini-code"),
+            "model_desc": "north-mini-code",
+            "affinity": ["math_en", "sci_en"],
+            "id_prefix": "COH_NMC",
+            "provider": "cohere",
         })
 
     # ── OpenAI Lanes (Disabled - User Command: ENABLE_OPENAI = False) ──
@@ -1609,10 +2067,10 @@ def main():
 
     # Step 3: Run fleet in parallel
     global_stats["start_time"] = time.time()
-    print(f"\nLaunching {len(lanes)} parallel lanes (max concurrent: 16)...")
+    print(f"\nLaunching {len(lanes)} parallel lanes (max concurrent: 20)...")
     print("-" * 80)
 
-    max_workers = min(len(lanes), 16)
+    max_workers = min(len(lanes), 20)
 
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = {executor.submit(process_paper_stage2, lane): lane for lane in lanes}

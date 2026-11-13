@@ -103,8 +103,12 @@ def check_rubric(record: dict,
     final_answer = str(meta.get("final_answer") or "").strip()
 
     # 1. Structure check
-    if not messages:
+    if not messages or not isinstance(messages, list):
         return False, ["No messages array"], 0
+
+    messages = [m for m in messages if isinstance(m, dict)]
+    if not messages:
+        return False, ["No valid message dicts"], 0
 
     if messages[0].get("role") != "user":
         issues.append("Dialogue must start on user turn")
