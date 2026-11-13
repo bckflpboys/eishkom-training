@@ -1,8 +1,8 @@
 {
-  "total_verified": 1638,
-  "total_generated": 1744,
-  "total_rejected": 106,
-  "papers_done": 159,
+  "total_verified": 3326,
+  "total_generated": 3437,
+  "total_rejected": 111,
+  "papers_done": 199,
   "papers_total": 224,
   "by_model": {
     "qwen3.8-27b": 37,
@@ -10,9 +10,9 @@
     "command-a": 115,
     "gpt-oss-120b": 9,
     "deepseek-v4.1-flash-1017": 20,
-    "gemma-4-31b-it": 682,
+    "gemma-4-31b-it": 1668,
     "command-r": 93,
-    "gemma-4-26b-a4b-it": 317,
+    "gemma-4-26b-a4b-it": 1019,
     "command-a-reasoning": 57,
     "gemini-3.1-flash-lite": 106,
     "nemotron-3-ultra-550b": 25
@@ -21,30 +21,30 @@
     "wiskunde": 307,
     "fisiese_wetenskappe": 302,
     "physical_sciences": 30,
-    "afrikaans_fal": 665,
-    "english_fal": 129,
-    "english_hl": 188,
-    "afrikaans_hl": 17
+    "afrikaans_fal": 963,
+    "english_fal": 401,
+    "english_hl": 618,
+    "afrikaans_hl": 705
   },
   "by_strategy": {
-    "faded_example": 161,
-    "mnemonic": 170,
-    "worked_example": 160,
-    "analogy_real_world": 186,
-    "error_analysis": 204,
-    "direct_explanation": 172,
-    "socratic_hints": 196,
-    "step_walkthrough": 200,
-    "exam_technique": 189
+    "faded_example": 299,
+    "mnemonic": 358,
+    "worked_example": 309,
+    "analogy_real_world": 391,
+    "error_analysis": 408,
+    "direct_explanation": 356,
+    "socratic_hints": 412,
+    "step_walkthrough": 397,
+    "exam_technique": 396
   },
   "by_mode": {
-    "deep": 1040,
-    "short": 598
+    "deep": 2108,
+    "short": 1218
   },
   "start_time": 1794572817.1406174,
-  "last_update": "2026-11-13T19:42:33.419713",
+  "last_update": "2026-11-14T00:03:38.674182",
   "target_verified": 15000,
   "completed_papers": [
-    "dbe-afrikaans_fal-g12-p1-2019-nov"
+    "dbe-english_hl-g12-p2-2019-may"
   ]
 }
