@@ -6773,3 +6773,23 @@ aw_response) for human review to evaluate if verification thresholds are overly 
   - Total Stage 2 Samples: **13,497 items**.
   - Live Pass Rate: **86.2%** (6,431 verified vs 1,031 rejected).
   - Completed Papers: **147 papers** (65.3% complete).
+
+---
+
+## 2026-11-13 19:38: Stage 2 Fleet Milestone — 7,134 Verified Lessons (166 Papers Done)
+
+- **Live Generation Milestone:**
+  - Socratic Lessons Verified: **7,134** / 15,000 (47.6% of goal).
+  - Full Solutions Generated: **7,693**.
+  - Total Stage 2 Training Samples: **14,827 items**.
+  - Completed Exam Papers: **166 papers** (74.1% of Stage 2 pool).
+  - Remaining Papers to Finish: **59 papers** (down from 78 earlier).
+  - Live Pass Rate: **86.7%** (7,134 verified vs 1,090 rejected).
+- **Subject Queue Progress:**
+  - isiese_wetenskappe: down to 6 papers remaining (812 verified lessons).
+  - wiskunde: 7 papers remaining (892 verified lessons).
+  - frikaans_fal: down to 3 papers remaining (1,383 verified lessons).
+  - nglish_fal: down to 7 papers remaining (1,076 verified lessons).
+  - nglish_hl: 16 papers remaining (241 verified lessons).
+  - frikaans_hl: 20 papers remaining (120 verified lessons).
+  - mathematics (English) & physical_sciences (English): 100% complete (0 remaining).
