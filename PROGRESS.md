@@ -1,11 +1,11 @@
-# Eishkom AI — Stage 1 Master Progress & Execution Roadmap
+# Eishkom AI — Stage 1 & Stage 2 Master Progress & Execution Roadmap
 
-> **Release Cycle:** **Stage 1** (`koeberg-stage-1`, `kendal-stage-1`, `kendal-flash-stage-1`, `gariep-stage-1`, `gariep-flash-stage-1`)  
+> **Release Cycle:** **Stage 1 & Stage 2** (`koeberg-stage-1`, `kendal-stage-1`, `kendal-flash-stage-1`, `gariep-stage-1`, `gariep-flash-stage-1`)  
 > **Target Curriculum:** South African CAPS (Grades 7–12) — Mathematics, Physical Sciences, English, Afrikaans  
-> **Status:** **Phase 1 to 9 Completed (100%)** | **`kendal-stage-1` (4B) and `gariep-stage-1` (2B) Trained & Exported (Q8_0, Q6_K, Q4_K_M, pure Q4_K)** | **Phase 10: Held-Out Benchmark Eval & Koeberg 27B Prep** | **Total Compute Spend: ~$0.55 / $60.00**  
+> **Status:** **Stage 1 (100% Trained & Exported)** | **Stage 2 Fleet Generation 100% Complete (23,503 Records, 40,241 SFT Samples Compiled)** | **Phase 2.5: Agentic & Study Coaching Expansion Active** | **Total Compute Spend: ~$0.55 / $60.00**  
 > **Corpus Volume:** **600 PDFs (300 verified pairs, 378.15 MB, 0 download failures)**  
 > **Extracted Atomic Items:** **13,168 atomic items | 31,278 marks (100% DBE memo verified, 0 KaTeX errors across all 265 papers)**  
-> **Master SFT Dataset:** **`workspace/build/r1/` (1,099 canonical training turns ready for Colab)**  
+> **Stage 2 Master SFT Dataset:** **`workspace/build/r2/` (40,241 SFT samples / 28.5M tokens ready for Colab Enterprise)**  
 > **Master Sources Ledger:** [`../sa-tutor-kit/sa-tutor-kit/workspace/sources/sources.csv`](../sa-tutor-kit/sa-tutor-kit/workspace/sources/sources.csv) (**604 entries**)
 
 ---
@@ -328,4 +328,11 @@ The table below audits the 600 text files extracted into `workspace/text/` by `p
 | 2026-11-03 | Phase 1 Download Complete | Verified | `workspace/raw/dbe/` | **600 PDFs downloaded (378.15 MB, 0 failures)** |
 | 2026-11-03 | Sources Ledger Populated | Verified | `workspace/sources/sources.csv` | **604 rows**, `pair_with` links, 16 Nov 2024 Gr12 papers locked |
 | 2026-11-03 | Phase 2 Ingestion Complete | Verified | `workspace/text/` | **600 text files extracted (14,959,351 characters, 0 failures)** |
+| 2026-11-09 | Kendal Stage 1 Trained | Verified | `workspace/runs/r1/` | Completed 870 steps (3 epochs, loss 0.34, exported Q6_K & Q4_K_M) |
+| 2026-11-10 | Gariep Stage 1 Trained | Verified | `workspace/runs/r1/` | Completed 3 epochs (exported Q8_0, Q6_K, pure Q4_K, Q4_K_M) |
+| 2026-11-14 | Stage 2 Fleet 100% Complete | Verified | `workspace/build/r2/` | **23,503 records (40,241 SFT samples / 28.5M tokens), 99.99% valid** |
+| 2026-11-14 | Phase 2.5 Agentic Architecture | Verified | `stage-2/agentic/` | Created `sampler_agentic.py` & `run_agentic_fleet.py` for 9 task families |
+| 2026-11-14 | Phase 2.6 Context Compaction | Verified | `stage-2/agentic/` | Created `sampler_ops.py` (KV math, session state, ledger, resume) |
+| 2026-11-14 | Stage 2 Pass 2 Fleet Launched | Running | `workspace/verified/stage2_pass2/` | Background multi-strategy permutation fleet running across 225 papers |
+| 2026-11-14 | Stage 2 Pass 2 Milestone | Running | `workspace/verified/stage2_pass2/` | **2,013 verified Socratic lessons (12,604 total Socratic, 84.0% of goal)** |
 

@@ -1,0 +1,54 @@
+{
+  "total_verified": 2080,
+  "total_generated": 2184,
+  "total_rejected": 104,
+  "papers_done": 66,
+  "papers_total": 225,
+  "by_model": {
+    "qwen3.8-27b": 45,
+    "gpt-oss-120b": 54,
+    "gemini-3.1-flash-lite": 358,
+    "gemini-3.5-flash-lite": 353,
+    "nemotron-3.5-super-vl": 74,
+    "gemma-4-31b-it": 560,
+    "gemini-4-hydrogen": 3,
+    "gemma-4-26b-a4b-it": 445,
+    "nemotron-3-ultra-550b": 91,
+    "command-a": 46,
+    "command-r-plus": 10,
+    "command-r": 9,
+    "command-a-reasoning": 20,
+    "nemotron-3.5-lightning": 4,
+    "deepseek-v4.1-flash-1017": 8
+  },
+  "by_subject": {
+    "mathematics": 424,
+    "physical_sciences": 397,
+    "fisiese_wetenskappe": 203,
+    "afrikaans_fal": 456,
+    "afrikaans_hl": 104,
+    "english_fal": 445,
+    "wiskunde": 51
+  },
+  "by_strategy": {
+    "step_walkthrough": 260,
+    "exam_technique": 250,
+    "analogy_real_world": 222,
+    "mnemonic": 214,
+    "faded_example": 215,
+    "socratic_hints": 238,
+    "error_analysis": 256,
+    "direct_explanation": 210,
+    "worked_example": 215
+  },
+  "by_mode": {
+    "deep": 1299,
+    "short": 781
+  },
+  "start_time": 1794649779.1618593,
+  "last_update": "2026-11-14T17:09:35.058985",
+  "target_verified": 15000,
+  "completed_papers": [
+    "dbe-wiskunde-g12-v2-2023-nov"
+  ]
+}

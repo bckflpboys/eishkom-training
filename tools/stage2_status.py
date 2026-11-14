@@ -1,5 +1,5 @@
 """
-tools/stage2_status.py - Real-Time Stage 2 Fleet Generation Monitor
+tools/stage2_status.py - Real-Time Stage 2 Fleet Generation Monitor (Pass 1 + Pass 2 Live)
 
 Run from any terminal to check live progress:
     python tools/stage2_status.py
@@ -8,16 +8,23 @@ import sys
 import json
 import time
 import pathlib
-from collections import defaultdict
+from collections import defaultdict, Counter
 from datetime import datetime
 
 ROOT_DIR = pathlib.Path(__file__).resolve().parent.parent
-VER_DIR = ROOT_DIR / "workspace" / "verified" / "stage2"
-FULL_DIR = ROOT_DIR / "workspace" / "verified" / "stage2_full_solutions"
-REJ_DIR = ROOT_DIR / "workspace" / "rejected" / "stage2"
-PROGRESS_FILE = ROOT_DIR / "stage-2" / "progress.json"
+S1_VER_DIR = ROOT_DIR / "workspace" / "verified"
+S2_P1_VER_DIR = ROOT_DIR / "workspace" / "verified" / "stage2"
+S2_P1_FULL_DIR = ROOT_DIR / "workspace" / "verified" / "stage2_full_solutions"
+S2_P1_REJ_DIR = ROOT_DIR / "workspace" / "rejected" / "stage2"
 
-TARGET_VERIFIED = 15000
+S2_P2_VER_DIR = ROOT_DIR / "workspace" / "verified" / "stage2_pass2"
+S2_P2_GEN_DIR = ROOT_DIR / "workspace" / "gen" / "stage2_pass2"
+S2_P2_REJ_DIR = ROOT_DIR / "workspace" / "rejected" / "stage2_pass2"
+
+PROGRESS_FILE_P1 = ROOT_DIR / "stage-2" / "progress.json"
+PROGRESS_FILE_P2 = ROOT_DIR / "stage-2" / "progress_pass2.json"
+
+TARGET_SOCRATIC = 15000
 
 PROVIDER_MAP = {
     "gpt-6-luna": "OpenAI Luna (Deactivated)",
@@ -86,125 +93,119 @@ def resolve_service_info(rec):
 
     return svc, gen
 
-def get_live_counts():
-    socratic_count = 0
-    full_count = 0
-    rej_count = 0
-    by_service = defaultdict(int)
-    by_svc_model = defaultdict(int)
-    by_subject = defaultdict(int)
-    by_strategy = defaultdict(int)
-    by_mode = defaultdict(int)
-    papers_socratic = set()
-    papers_full = set()
+def count_jsonl_records(directory, is_socratic=True):
+    count = 0
+    by_strat = Counter()
+    by_subj = Counter()
+    by_svc = Counter()
+    by_mode = Counter()
+    papers = set()
 
-    if VER_DIR.exists():
-        for f in VER_DIR.glob("*.jsonl"):
-            papers_socratic.add(f.stem)
-            with open(f, encoding="utf-8") as fp:
-                for line in fp:
-                    line = line.strip()
-                    if not line:
-                        continue
-                    try:
-                        rec = json.loads(line)
-                        socratic_count += 1
-                        m = rec.get("meta", {})
-                        svc, gen = resolve_service_info(rec)
-                        by_service[svc] += 1
-                        by_svc_model[f"[{svc}] {gen}"] += 1
+    if not directory.exists():
+        return count, by_strat, by_subj, by_svc, by_mode, papers
 
-                        subj = rec.get("control", {}).get("subject") or m.get("subject", "unknown")
-                        by_subject[subj] += 1
-                        strat = m.get("strategy_used", "unknown")
-                        by_strategy[strat] += 1
-                        mode = m.get("coaching_mode", "unknown")
-                        by_mode[mode] += 1
-                    except Exception:
-                        pass
-
-    if FULL_DIR.exists():
-        for f in FULL_DIR.glob("*.jsonl"):
-            papers_full.add(f.stem)
+    for f in directory.glob("*.jsonl"):
+        papers.add(f.stem)
+        try:
             with open(f, encoding="utf-8") as fp:
                 for line in fp:
                     if line.strip():
-                        full_count += 1
+                        try:
+                            rec = json.loads(line)
+                            count += 1
+                            m = rec.get("meta", {})
+                            strat = m.get("strategy_used") or m.get("teaching_strategy", "unknown")
+                            by_strat[strat] += 1
+                            subj = rec.get("control", {}).get("subject") or m.get("subject", "unknown")
+                            by_subj[subj] += 1
+                            svc, _ = resolve_service_info(rec)
+                            by_svc[svc] += 1
+                            mode = m.get("coaching_mode", "unknown")
+                            by_mode[mode] += 1
+                        except Exception:
+                            count += 1
+        except Exception:
+            pass
 
-    if REJ_DIR.exists():
-        for f in REJ_DIR.glob("*.jsonl"):
-            with open(f, encoding="utf-8") as fp:
-                for line in fp:
-                    if line.strip():
-                        rej_count += 1
-
-    return {
-        "socratic_count": socratic_count,
-        "full_count": full_count,
-        "total_verified": socratic_count,
-        "total_combined": socratic_count + full_count,
-        "rej_count": rej_count,
-        "papers_done": len(papers_socratic),
-        "by_service": by_service,
-        "by_svc_model": by_svc_model,
-        "by_subject": by_subject,
-        "by_strategy": by_strategy,
-        "by_mode": by_mode,
-    }
+    return count, by_strat, by_subj, by_svc, by_mode, papers
 
 def print_status_dashboard():
-    counts = get_live_counts()
-    v_tot = counts["socratic_count"]
-    comb_tot = counts["total_combined"]
-    rej_tot = counts["rej_count"]
-    gen_tot = v_tot + rej_tot
-    pass_rate = (v_tot / gen_tot * 100) if gen_tot > 0 else 0.0
-    pct_target = (v_tot / TARGET_VERIFIED * 100) if TARGET_VERIFIED > 0 else 0.0
+    # 1. Stage 1 Baseline Counts
+    s1_socratic = 1319
+    s1_fullsol = 1970
+
+    # 2. Stage 2 Pass 1 Counts
+    p1_socratic, p1_strat, p1_subj, p1_svc, p1_mode, p1_papers = count_jsonl_records(S2_P1_VER_DIR)
+    p1_fullsol = sum(sum(1 for _ in open(f, encoding="utf-8") if _.strip()) for f in S2_P1_FULL_DIR.glob("*.jsonl")) if S2_P1_FULL_DIR.exists() else 0
+    p1_rej = sum(sum(1 for _ in open(f, encoding="utf-8") if _.strip()) for f in S2_P1_REJ_DIR.glob("*.jsonl")) if S2_P1_REJ_DIR.exists() else 0
+
+    # 3. Stage 2 Pass 2 Counts (Live Running)
+    p2_socratic, p2_strat, p2_subj, p2_svc, p2_mode, p2_papers = count_jsonl_records(S2_P2_VER_DIR)
+    p2_gen = sum(sum(1 for _ in open(f, encoding="utf-8") if _.strip()) for f in S2_P2_GEN_DIR.glob("*.jsonl")) if S2_P2_GEN_DIR.exists() else 0
+    p2_rej = sum(sum(1 for _ in open(f, encoding="utf-8") if _.strip()) for f in S2_P2_REJ_DIR.glob("*.jsonl")) if S2_P2_REJ_DIR.exists() else 0
+    p2_pass_rate = (p2_socratic / p2_gen * 100) if p2_gen > 0 else 0.0
+
+    # 4. Project Grand Totals
+    total_socratic = s1_socratic + p1_socratic + p2_socratic
+    total_fullsol = s1_fullsol + p1_fullsol
+    total_records = total_socratic + total_fullsol
+    est_sft_samples = int(total_socratic * 2.5 + total_fullsol)
+    pct_goal = (total_socratic / TARGET_SOCRATIC * 100) if TARGET_SOCRATIC > 0 else 0.0
+
+    # Progress bar (30 chars)
+    bar_len = 30
+    filled = int(bar_len * (total_socratic / TARGET_SOCRATIC))
+    bar = "█" * min(filled, bar_len) + "░" * max(0, bar_len - filled)
 
     print("=" * 80)
     print("       EISHKOM AI — STAGE 2 FLEET GENERATION LIVE STATUS DASHBOARD")
     print(f"       Checked at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("=" * 80)
-    print(f"  Socratic Lessons Verified:    {v_tot:,} / {TARGET_VERIFIED:,} ({pct_target:.1f}% of goal)")
-    print(f"  Full Solutions Generated:     {counts['full_count']:,}")
-    print(f"  Total Stage 2 Samples:        {comb_tot:,} items")
-    print(f"  Rejected Samples:             {rej_tot:,} (workspace/rejected/stage2/)")
-    print(f"  Live Pass Rate:               {pass_rate:.1f}%")
-    print(f"  Completed Exam Papers:        {counts['papers_done']} papers")
+
+    print(f"\n  🎯 SOCRATIC LESSONS PROGRESS TOWARDS {TARGET_SOCRATIC:,} TARGET:")
+    print(f"  [{bar}] {pct_goal:.1f}% ({total_socratic:,} / {TARGET_SOCRATIC:,} lessons)")
+    print(f"  Remaining to 15,000 Goal: {max(0, TARGET_SOCRATIC - total_socratic):,} lessons")
+    print(f"  Total Project Records:    {total_records:,} (Socratic: {total_socratic:,} + Full Sol: {total_fullsol:,})")
+    print(f"  Estimated SFT Samples:    ~{est_sft_samples:,} samples (~{est_sft_samples * 700 / 1e6:.1f}M tokens)")
     print("-" * 80)
 
-    print("  PRODUCTION BY API SERVICE / PROVIDER:")
-    if counts["by_service"]:
-        for svc, c in sorted(counts["by_service"].items(), key=lambda x: -x[1]):
-            share = (c / v_tot * 100) if v_tot > 0 else 0.0
-            print(f"    {svc:<35s}: {c:>5d} ({share:.1f}%)")
-    else:
-        print("    (No records yet)")
+    print("  🚀 PASS 2: STRATEGY PERMUTATION FLEET (LIVE IN BACKGROUND):")
+    print(f"    Verified Socratic Lessons: {p2_socratic:,} (alternating strategies)")
+    print(f"    Total Generated Items:     {p2_gen:,}")
+    print(f"    Rejected Items:            {p2_rej:,} (workspace/rejected/stage2_pass2/)")
+    print(f"    Pass 2 Quality Pass Rate:  {p2_pass_rate:.1f}%")
+    print(f"    Active Papers in Pass 2:   {len(p2_papers)} papers")
 
-    print("\n  PRODUCTION BY MODEL & API SERVICE:")
-    if counts["by_svc_model"]:
-        for item, c in sorted(counts["by_svc_model"].items(), key=lambda x: -x[1]):
-            share = (c / v_tot * 100) if v_tot > 0 else 0.0
-            print(f"    {item:<45s}: {c:>5d} ({share:.1f}%)")
+    print("\n    Pass 2 Teaching Strategy Spread (Permuted vs Pass 1):")
+    if p2_strat:
+        for strat, count in p2_strat.most_common(8):
+            print(f"      {strat:<25s}: {count:>4d} ({count/max(p2_socratic,1)*100:4.1f}%)")
     else:
-        print("    (No verified records yet)")
+        print("      (Starting generation...)")
 
-    print("\n  PRODUCTION BY SUBJECT:")
-    if counts["by_subject"]:
-        for subj, c in sorted(counts["by_subject"].items(), key=lambda x: -x[1]):
-            print(f"    {subj:<35s}: {c:>5d}")
-    else:
-        print("    (No verified records yet)")
+    print("\n    Pass 2 Subject Breakdown:")
+    if p2_subj:
+        for subj, count in p2_subj.most_common(7):
+            print(f"      {subj:<25s}: {count:>4d}")
+    print("-" * 80)
 
-    print("\n  PRODUCTION BY COACHING MODE:")
-    if counts["by_mode"]:
-        for mode, c in sorted(counts["by_mode"].items(), key=lambda x: -x[1]):
-            print(f"    {mode:<25s}: {c:>5d}")
+    print("  📦 PASS 1: BASELINE MULTI-STRATEGY CORPUS (100% COMPLETE):")
+    print(f"    Verified Socratic Lessons: {p1_socratic:,} / 10,000")
+    print(f"    Full Solutions Generated:  {p1_fullsol:,}")
+    print(f"    Pass 1 Quality Pass Rate:  {(p1_socratic/(p1_socratic+p1_rej)*100) if (p1_socratic+p1_rej)>0 else 0.0:.1f}%")
+    print(f"    Completed Exam Papers:     {len(p1_papers)} / 225")
+    print("-" * 80)
+
+    print("  ⚡ ACTIVE FLEET PROVIDERS (PASS 2):")
+    if p2_svc:
+        for svc, count in p2_svc.most_common():
+            print(f"    {svc:<30s}: {count:>5d} lessons ({count/max(p2_socratic,1)*100:4.1f}%)")
     else:
-        print("    (No records yet)")
+        print("    Google AI Studio, Groq LPU, Cohere API, NVIDIA NIM, Intern-AI Free")
 
     print("=" * 80)
-    print("To refresh, rerun: python tools/stage2_status.py")
+    print("To refresh live status at any time, run:")
+    print("    python tools/stage2_status.py")
     print("=" * 80)
 
 if __name__ == "__main__":

@@ -71,19 +71,28 @@ from convert_stage2_full_solutions import process_paper_s2
 from compile_stage2_dataset import compile_corpus
 
 # ── Output Directories (Strictly Stage 2; Never touch Stage 1) ──────────────
+PASS_NUM = 1
 S2_VER_DIR = ROOT_DIR / "workspace" / "verified" / "stage2"
-S2_VER_DIR.mkdir(parents=True, exist_ok=True)
 S2_GEN_DIR = ROOT_DIR / "workspace" / "gen" / "stage2"
-S2_GEN_DIR.mkdir(parents=True, exist_ok=True)
+S2_REJ_DIR = ROOT_DIR / "workspace" / "rejected" / "stage2"
+PROGRESS_FILE = STAGE2_DIR / "progress.json"
+
+def init_pass_config(pass_num: int):
+    global PASS_NUM, S2_VER_DIR, S2_GEN_DIR, S2_REJ_DIR, PROGRESS_FILE
+    PASS_NUM = pass_num
+    suffix = f"_pass{pass_num}" if pass_num > 1 else ""
+    S2_VER_DIR = ROOT_DIR / "workspace" / "verified" / f"stage2{suffix}"
+    S2_GEN_DIR = ROOT_DIR / "workspace" / "gen" / f"stage2{suffix}"
+    S2_REJ_DIR = ROOT_DIR / "workspace" / "rejected" / f"stage2{suffix}"
+    PROGRESS_FILE = STAGE2_DIR / f"progress{suffix}.json"
+    S2_VER_DIR.mkdir(parents=True, exist_ok=True)
+    S2_GEN_DIR.mkdir(parents=True, exist_ok=True)
+    S2_REJ_DIR.mkdir(parents=True, exist_ok=True)
+
+init_pass_config(1)
 S2_FULLSOL_DIR = ROOT_DIR / "workspace" / "verified" / "stage2_full_solutions"
 S2_FULLSOL_DIR.mkdir(parents=True, exist_ok=True)
-
-# ── Dedicated Rejected Folder for User Audit ────────────────────────────────
-S2_REJ_DIR = ROOT_DIR / "workspace" / "rejected" / "stage2"
-S2_REJ_DIR.mkdir(parents=True, exist_ok=True)
-
 ITEMS_DIR = ROOT_DIR / "workspace" / "items"
-PROGRESS_FILE = STAGE2_DIR / "progress.json"
 
 # ── Default Configuration ───────────────────────────────────────────────────
 TARGET_VERIFIED = 15000      # Target verified Socratic lessons (~15,000 SFT samples)
@@ -1075,6 +1084,23 @@ def process_paper_stage2(lane: dict) -> tuple:
 
     used_strategies = set()
 
+    pass1_strategies = {}
+    if PASS_NUM > 1:
+        p1_file = ROOT_DIR / "workspace" / "verified" / "stage2" / f"{paper_id}.jsonl"
+        if p1_file.exists():
+            with open(p1_file, encoding="utf-8") as fp:
+                for line in fp:
+                    try:
+                        rec = json.loads(line)
+                        iid = rec.get("id") or rec.get("item_id") or rec.get("meta", {}).get("item_id")
+                        strat = rec.get("meta", {}).get("strategy_used")
+                        if iid and strat:
+                            base_id = iid.replace("_p2", "")
+                            pass1_strategies[base_id] = strat
+                            pass1_strategies[iid] = strat
+                    except Exception:
+                        pass
+
     for idx, item in enumerate(items, 1):
         item_id = item.get("item_id", f"{paper_id}-item-{idx}")
         if item_id in done_items:
@@ -1094,7 +1120,12 @@ def process_paper_stage2(lane: dict) -> tuple:
         cat = classify_subject(subject)
         is_lang_subj = (cat == "language")
 
-        strategy = pick_strategy(subject, exclude=used_strategies)
+        exclude_strategies = set(used_strategies)
+        p1_strat = pass1_strategies.get(item_id)
+        if p1_strat:
+            exclude_strategies.add(p1_strat)
+
+        strategy = pick_strategy(subject, exclude=exclude_strategies)
         used_strategies.add(strategy["name"])
         if len(used_strategies) >= 8:
             used_strategies.clear()
@@ -1329,8 +1360,10 @@ def process_paper_stage2(lane: dict) -> tuple:
                             "final_answer": final or memo[:100],
                             "verify_code": verify_code,
                             "paper_id": paper_id,
-                            "item_id": item_id,
-                            "stage": "stage-2",
+                            "item_id": item_id if PASS_NUM == 1 else f"{item_id}_p2",
+                            "pass": PASS_NUM,
+                            "stage": f"stage-2-pass{PASS_NUM}" if PASS_NUM > 1 else "stage-2",
+                            "pass1_strategy": p1_strat if PASS_NUM > 1 else None,
                             "techniques": meta.get("techniques", persona["techniques"])
                         }
                     }
@@ -1995,7 +2028,10 @@ def main():
     parser.add_argument("--status", action="store_true", help="Display real-time Stage 2 generation dashboard")
     parser.add_argument("--target", type=int, default=TARGET_VERIFIED, help="Target verified count")
     parser.add_argument("--max-papers", type=int, default=MAX_PAPERS, help="Max papers to process")
+    parser.add_argument("--pass", dest="pass_num", type=int, default=1, choices=[1, 2], help="Generation pass (1 = baseline multi-strategy, 2 = alternate strategy permutation)")
     args = parser.parse_args()
+
+    init_pass_config(args.pass_num)
 
     if args.status:
         try:
@@ -2007,8 +2043,9 @@ def main():
         return
 
     print("=" * 80)
-    print("EISHKOM AI — STAGE 2 MULTI-MODEL FLEET GENERATOR")
+    print(f"EISHKOM AI — STAGE 2 MULTI-MODEL FLEET GENERATOR (PASS {args.pass_num}: {'ALTERNATE STRATEGY PERMUTATION' if args.pass_num == 2 else 'BASELINE'})")
     print(f"Target: {args.target} verified Socratic lessons (~{args.target * 2.5:.0f} SFT samples)")
+    print(f"Destination: {S2_VER_DIR}")
     print(f"Rejected items destination: {S2_REJ_DIR}")
     print("=" * 80)
 

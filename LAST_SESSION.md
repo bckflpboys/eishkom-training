@@ -1,7 +1,7 @@
 # Eishkom AI — Session Handoff & Continuity Ledger
 
 > **File Name:** `LAST_SESSION.md`  
-> **Last Session Date:** 2026-11-12  
+> **Last Session Date:** 2026-11-14  
 > **Repository Branch:** `main` (clean working tree, zero unauthorized git commits)  
 > **Purpose:** Master continuity bridge for moving across chat sessions without loss of context, history, or engineering decisions.
 
@@ -22,49 +22,44 @@ Public model names **never display parameter numbers or quantization suffixes** 
 
 ---
 
-## 2. Exhaustive Timeline of Decisions & Architectural Breakthroughs (Nov 10–12, 2026)
+## 2. Historic Milestones & Architectural Breakthroughs (Nov 13–14, 2026)
 
-### 1. Training Runs & Multi-Quant Exports Verified:
-- **Kendal Stage 1 (4B):** Completed 3 epochs (870 steps, loss down to 0.34). Exported `kendal-stage-1-Q6_K.gguf` (3.4 GB), `kendal-flash-stage-1-Q4_K_M.gguf` (2.65 GB), and pure `Q4_K`.
-- **Gariep Stage 1 (2B):** Completed 3 epochs across 5,755 SFT samples. Exported all 4 mandated formats: `Q8_0` (high reasoning), `Q6_K` (budget PC), pure `Q4_K` (pure-K benchmarking), and `Q4_K_M` (mobile phone ~1.3 GB).
-- Both runs packaged into clean `.zip` archives with automated cloud storage synchronization (`gs://${PROJECT}-models`).
+### 1. Stage 2 Dedicated Fleet 100% Complete (23,503 Records):
+- The dedicated Stage 2 generation daemon completed all 224 exam papers with exit code 0.
+- Master verified corpus: **23,503 canonical records** across Mathematics, Physical Sciences, Natural Sciences, English (HL & FAL), and Afrikaans (Huistaal & EAT).
+  - **Socratic Multi-Turn Lessons:** **10,591 records** (averaging 2–5 turns each across 10 teaching styles).
+  - **Full Step-by-Step Solutions:** **12,912 records**.
+- Schema repair and `tutor_data.py build` validation achieved a **99.99% pass rate** (23,500 of 23,503 valid).
+- Compiled SFT datasets in `workspace/build/`:
+  - `workspace/build/r2/` (Master Combined): **32,351 training samples** (81.3 MB), 5,853 validation, 2,037 test. Total: **40,241 SFT samples** (~28.5M tokens).
+  - `workspace/build/r2_socratic/`: **21,999 training samples** (57.4 MB).
+  - `workspace/build/r2_fullsol/`: **10,352 training samples** (23.9 MB).
 
-### 2. Multi-Model Single-GPU Training Pipeline (Colab Queueing):
-- Clarified that running multiple training processes concurrently on a single GPU triggers memory fragmentation, CUDA OOM, and Triton compiler deadlocks.
-- Designed an automated sequential chaining pipeline that runs 1B, 2B, and 4B back-to-back in a single Colab runtime session, automatically releasing 100% of VRAM between models.
+### 2. Phase 2.5: Agentic Teacher & Study Coach Expansion:
+- User supplied 4 design files: `conversation and idea for the agentic teacher.txt`, `stage2_agentic_mix_calculator.xlsx`, `eishkom_agentic_and_study_teacher_prompts.md`, and `sampler_agentic.py`.
+- **Target Audience:** Small on-device models ($\le 4\text{B}$, e.g. `kendal-stage-1` 4B, `gariep-stage-1` 2B) running offline on budget phones and laptops.
+- **Architectural Guardrails Established:**
+  1. *Stateless Atomic Roles:* Decouple into **Page Worker** (single-page OCR notes with KV-cache purge after every page) and **Synthesiser / Coach** (dialogue grounded purely in notes and code-computed metrics). Prevents KV-cache explosion on mobile devices.
+  2. *Deterministic Code Computation:* Models NEVER do math, date calculation, mark totals, or topic ranking. Python functions (`build_schedule()`, `rank_weak_topics()`, `time_plan()`, `aggregate_notes()`) calculate all numbers; the model only reads and explains them.
+  3. *Exposure Budget Guardrail (< 20%):* Target **3,000 – 4,500 unique agentic samples** trained for 2 epochs = **6,000 – 9,000 exposures** (~11%–15% of total dataset exposures). Protects math/science reasoning core from dilution.
+  4. *South African Wellbeing Protocol (`distress_signal`):* 2% of training data covers crisis de-escalation with verified South African helplines (SADAG: 0800 567 567 / 0800 456 789; Childline: 116; LifeLine: 0861 322 322).
+  5. *Real Exam Item Grounding:* Revision sessions and study guides pull authentic questions and rubrics from our 265 DBE item files in `workspace/items/*.jsonl`.
+- **Code Assets Created:**
+  - `stage-2/agentic/sampler_agentic.py`: Spec builders, CAPS curriculum taxonomies, helpline directory, and arithmetic engines.
+  - `stage-2/agentic/run_agentic_fleet.py`: Multi-provider generator connecting Google AI Studio, Groq, Cohere, OpenRouter, and NVIDIA NIM with retry backoff and tool call verification.
 
-### 3. Native Application Architecture: Transient Chunked Page-Worker Pattern (Map-Reduce):
-- **The Problem:** Ingesting multi-page exams (5–15 pages) directly into a local 2B or 4B Vision-Language Model triggers severe **KV-Cache explosion** (~1,000+ visual tokens per page = 10,000+ tokens), which leads to immediate CUDA Out-Of-Memory (OOM) or extreme token-generation throttling on 4GB RAM phones and budget laptops.
-- **The Solution:**
-  1. **Application Layer (Orchestrator):** Renders input PDFs or camera photos into individual 300 DPI PNG page screenshots. Dispatches one page at a time to a transient Vision Worker. Stitches transcripts together and resolves cross-page question continuity.
-  2. **Transient Vision Worker (`gariep-flash-stage-1`):** Specializes in **pure high-fidelity digitization and transcription** (not problem-solving or tutoring). Focuses 100% of its visual attention on one page, transcribing printed text, student handwriting, KaTeX formulas, and diagram annotations (`[DIAGRAM: ...]`).
-  3. **Zero-Retention Memory Purge:** Immediately after each page, the vision worker's KV-cache and VRAM are purged (`torch.cuda.empty_cache()` / context termination), keeping client VRAM usage flat (~1.5–2GB) regardless of document length.
-  4. **Central Tutor Agent (`kendal-stage-1` 4B / `gariep-stage-1` 2B):** Conducts Socratic tutoring dialogues exclusively on the clean aggregated text. Runs 10x faster with zero vision overhead and minimal battery drain.
+### 3. Phase 2.6: Context Compaction (Session Summaries) & Operations Engine:
+- User integrated `sampler_ops.py` for on-device context compaction, state resumption, and reply budgets.
+- **Architectural Tenet:** Code owns the facts and thresholds (token counters, ledger, when to compact); the model owns language judgment only (writing 5 strict state fields: `narrative`, `misconceptions`, `current`, `next`, `learner_notes`).
+- **Exposure Target:** 10%–15% exposure share for all non-school tasks combined (page worker, study tasks, synthesiser, compaction, resume), strictly respecting the $\le 20\%$ ceiling.
+- **Agentic Fleet Status:** Paused per user directive until new API keys and routes for superior models are provided.
 
-### 4. Vision Model Training Protocol:
-- **Synthetic Ground-Truth Pipeline:** High-capacity teacher models (Gemini Flash Multimodal Vision) generate structured KaTeX/markdown transcripts from past exam pages and student handwritten homework.
-- **Verification:** Transcripts are reconciled against official DBE marking memorandums for mathematical and rubric accuracy.
-- **Handwritten Sample Collection:** 200–500 photographed student homework solutions on lined paper in varied lighting conditions and phone camera angles to train the vision model on real-world classroom pencil work.
-- **Dataset Schema:** Vision multi-turn JSONL formatted with `[{"type": "image", "image": "..."}, {"type": "text", "text": "..."}]`.
-- **Fine-Tuning:** Trained using Unsloth `FastVisionModel` with 4-bit QLoRA and exported to GGUF + `mmproj-*.gguf`.
-
-### 5. Custom Architecture Branding Strategy:
-- **Execution vs Branding Separation:** In local GGUF binaries, standard execution kernels (`general.architecture = "qwen2"`) are retained to preserve native C++/CUDA hardware acceleration in llama.cpp, Ollama, and LM Studio.
-- **Hugging Face Custom Architecture:** Custom `model_type: "eishkom"` registered with `configuration_eishkom.py` and `modeling_eishkom.py` (`trust_remote_code=True`).
-- **Client App UI Insulation:** The custom desktop/mobile app encapsulates all technical kernel details, exposing unified Eishkom AI brand identity.
-
-### 6. Stage 2 Multi-Model Fleet Generation Engine (`stage-2/`):
-- **Pedagogical Shift:** Upgraded from Stage 1's single-mode walkthrough into 10 dynamically rotated teaching strategies (`step_walkthrough`, `worked_example`, `faded_example`, `error_spotting`, `mnemonic_memory_hook`, `frustrated_learner_de-escalation`, `rapid_recall_drill`, `compare_and_contrast`, `exam_technique_focus`, `concept_first`).
-- **Student Personas:** Simulates 6 distinct cognitive and emotional learner states (`lost`, `stuck`, `frustrated`, `partially_correct`, `on_track`, `advanced`) across 2 to 5 dialogue turns.
-- **Few-Shot Exemplars:** High-standard curriculum examples for Mathematics, Sciences, Languages, and Afrikaans Wiskunde with strictly compliant `ALLOWED_TECHNIQUES` metadata tags.
-- **10-Point Quality Rubric (`stage-2/quality/rubric_checker.py`):** Multi-dimensional scoring evaluating dialogue turns, teacher private reasoning, anti-spoiler compliance, language markers, and strategy alignment with automated retries.
-- **Zero-Cost Deterministic Verification:** Rejected external LLM judges to eliminate token expenses. STEM verified via SymPy + tolerance numeric matcher; languages verified via deterministic rule checks.
-- **Dedicated Rejection Repository (`workspace/rejected/stage2/`):** All rejected items logged with full diagnostic forensics for user inspection.
-- **Model Reallocation:** Retired `gemini-3.1-flash-lite` (empirically failed 88% in Wave 4); standardized on `gemini-3.5-flash-lite` across all Google AI Studio lanes (81.2% pass rate).
-- **Deduplication:** Automatically scans and excludes all 41 Stage 1 papers, unlocking the remaining 225 untouched papers (11,193 atomic items).
-- **Self-Contained SFT Build (`stage-2/compile_stage2_dataset.py`):** Assembles combined Stage 1 + Stage 2 data into `workspace/verified/stage2_master_combined.jsonl` and builds `workspace/build/r2/` with zero modification to `workspace/build/r1/`.
-- **Live Pipeline Verification:** Verified via live end-to-end execution (`--test-item`), passing model generation, JSON parsing, 100/100 rubric score, SymPy subprocess execution, and answers verification.
-
+### 4. Stage 2 Pass 2: Multi-Strategy Socratic Permutation Fleet (RUNNING & SCALING):
+- Active background generation daemon (`python stage-2/run_stage2_fleet.py --pass 2`).
+- **Pass 2 Verified Lessons:** **2,013 lessons** across 8 alternate pedagogical strategies (`step_walkthrough`: 253, `error_analysis`: 245, `exam_technique`: 243, `socratic_hints`: 228, `analogy_real_world`: 214, `worked_example`: 210, `faded_example`: 208, `mnemonic`: 207).
+- **Total Project Socratic Lessons:** **12,604 lessons** (84.0% of 15,000 goal).
+- **Total Project Corpus:** **25,516 records** (~45,200+ SFT samples / ~32M tokens).
+- Output destinations: `workspace/verified/stage2_pass2/` and `stage-2/progress_pass2.json`.
 
 ---
 
@@ -73,12 +68,10 @@ Public model names **never display parameter numbers or quantization suffixes** 
 > [!IMPORTANT]
 > **Instructions for the Next Agent picking up this conversation:**
 > 1. **Do NOT run `git commit` without explicit authorization from the user.**
-> 2. **Current Completed Models:**
->    - `kendal-stage-1` (4B) & `kendal-flash-stage-1` (4B) — Completed & exported (Q6_K, Q4_K_M, pure Q4_K).
->    - `gariep-stage-1` (2B) — Completed & exported (Q8_0, Q6_K, pure Q4_K, Q4_K_M).
-> 3. **Next Target:** Prepare the vision dataset and fine-tune `gariep-flash-stage-1` (2B Vision/OCR) using Unsloth `FastVisionModel` for the Transient Page-Worker pipeline.
-> 4. **Application Pipeline Architecture:** The application must decouple page digitization (transient vision worker) from Socratic tutoring (central text model).
-> 5. **Quad-Mirror Maintenance:** Keep all documentation in sync between root `files/` and `sa-tutor-kit/sa-tutor-kit/`.
+> 2. **Pass 2 Multi-Strategy Fleet is ACTIVE in background:** Do not launch duplicate `run_stage2_fleet.py` processes. Check progress with `python stage-2/run_stage2_fleet.py --status`.
+> 3. **Agentic Fleet on Hold:** Await user's new API keys and model routes before running `stage-2/agentic/run_agentic_fleet.py`.
+> 4. **Master Corpus Ready:** `workspace/build/r2/` contains 40,241 SFT samples (~28.5M tokens) ready for Colab Enterprise training.
+> 5. **Quad-Mirror Maintenance:** Keep all documentation synchronized between root `files/` and `sa-tutor-kit/sa-tutor-kit/`.
 
 ---
 
@@ -86,12 +79,10 @@ Public model names **never display parameter numbers or quantization suffixes** 
 
 | File | Location | Purpose |
 | :--- | :--- | :--- |
-| **Colab TPU v5e Notebook** | `sa_tutor_colab_tpu_v5e.ipynb` | Specialized notebook for Cloud TPU v5e-1 (16GB HBM) |
-| **Colab Research Notebook** | `sa_tutor_colab_research.ipynb` | Specialized notebook for T4 GPU in `colab.research.google.com` |
-| **Colab Research Kit** | `gariep_colab_research_kit.zip` | Standalone 1.57 MB zip with dataset and training code for Gariep 2B |
-| **Enterprise Colab Notebook** | `sa_tutor_colab.ipynb` | Vertex AI Colab Enterprise runner for L4 GPU Spot VM |
-| **Enterprise Colab Kit** | `eishkom_colab_kit.zip` | Master 1.57 MB zip for Vertex AI Colab Enterprise |
-| **Training Engine** | `sa-tutor-kit/sa-tutor-kit/training/train_sft.py` | SFT trainer with CUDA and TPU v5e auto-scaler and clean console logging |
-| **GGUF Multi-Quant Exporter** | `sa-tutor-kit/sa-tutor-kit/training/export_gguf.py` | Exports Q8_0, Q6_K, pure Q4_K, and Q4_K_M from trained adapter |
-| **Master Dataset (r1)** | `workspace/build/r1/` | 5,755 SFT samples (`train.jsonl`, `val.jsonl`, `test.jsonl`) |
-| **Master Decisions Ledger** | `workspace/DECISIONS.md` | Chronological record of all project architectural decisions |
+| **Stage 2 Master Dataset (r2)** | `workspace/build/r2/` | 40,241 SFT samples (`train.jsonl`, `val.jsonl`, `test.jsonl`, ~28.5M tokens) |
+| **Socratic Split (r2_socratic)** | `workspace/build/r2_socratic/` | 21,999 Socratic training samples |
+| **Full Solutions Split (r2_fullsol)**| `workspace/build/r2_fullsol/` | 10,352 full solution training samples |
+| **Agentic Sampler & Math Engine**| `stage-2/agentic/sampler_agentic.py` | Deterministic scheduling, ranking, time planning, and spec sampling |
+| **Agentic Fleet Generator** | `stage-2/agentic/run_agentic_fleet.py` | Multi-provider LLM generation fleet for the 9 agentic task families |
+| **Master Decisions Ledger** | `workspace/DECISIONS.md` | Chronological record of all architectural milestones |
+| **Live Execution Tracker** | `PROGRESS.md` | Master execution roadmap and phase status |

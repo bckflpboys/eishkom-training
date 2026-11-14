@@ -353,3 +353,54 @@ To establish custom architecture identity without sacrificing C++/CUDA inference
 
 #### 3. Stage 4 — Autonomous Cross-Style Expansion:
 - Uses verified Stage 3 local models to generate diverse teaching styles across additional grades and technical subjects with authentic South African classroom pedagogy.
+
+### Step 13: Phase 2.5 — Agentic Teacher & Study Coach Expansion (`stage-2/agentic/`)
+
+To expand beyond pure question answering into holistic academic coaching and on-device agentic workflows:
+
+1. **Stateless Atomic Architecture (Mobile Optimization):**
+   - **Page Worker:** Reads ONE page at a time. Returns structured JSON notes (`issues`, `questions`, `passages`, `carry_out`). Never solves problems or provides tutoring. Purges KV-cache after each page to keep mobile VRAM flat (~1.5–2GB).
+   - **Synthesiser / Study Coach:** Dialogue between learner and coach based exclusively on aggregated notes, Python tool results, or curriculum profiles.
+2. **Deterministic Code Computation:**
+   - Small models NEVER perform arithmetic, compute dates, sum marks, or rank topics.
+   - Python functions in `stage-2/agentic/sampler_agentic.py` (`build_schedule()`, `rank_weak_topics()`, `time_plan()`, `aggregate_notes()`) calculate 100% of the numbers.
+   - The tutor model ONLY reads, explains, and contextualizes code-computed results.
+3. **9 Agentic Task Families & Exposure Guardrail:**
+   - Target: **3,500 unique samples** trained for 2 epochs = **7,000 training exposures** (strictly 10–18% of the total dataset, preserving core STEM reasoning).
+   - Task families: `page_worker`, `study_plan`, `study_guide_section`, `revision_session`, `paper_walkthrough`, `paper_prep_guide`, `intake`, `weak_topic_diagnosis`, `exam_strategy`, and `distress_signal`.
+4. **South African Crisis & Wellbeing Protocol (`distress_signal`):**
+   - Approximately 2% of agentic training data covers crisis de-escalation with official verified South African helplines (SADAG: 0800 567 567 / 0800 456 789; Childline: 116; LifeLine: 0861 322 322).
+5. **Execution Commands:**
+   ```bash
+   # Test deterministic arithmetic helpers and spec sampler:
+   python stage-2/agentic/sampler_agentic.py
+
+   # Run single-sample verification smoke test across task families:
+   python stage-2/agentic/run_agentic_fleet.py --test-sample
+
+   # Launch full agentic generation fleet (targeting 3,500 verified samples):
+   python stage-2/agentic/run_agentic_fleet.py --target 3500 --workers 8
+   ```
+
+### Step 14: Phase 2.6 — Context Compaction (`sampler_ops.py`) & Pass 2 Fleet
+
+1. **Context Compaction & Operations Engine (`stage-2/agentic/sampler_ops.py`):**
+   - Implements on-device token tracking, soft triggers (55% budget between turns), hard triggers (80%), history pruning (`reasoning`/`thinking` stripped after turns), ledger management, and 5-field model-written state.
+   - Test KV calculations and spec builders:
+     ```bash
+     python stage-2/agentic/sampler_ops.py
+     ```
+
+2. **Stage 2 Pass 2: Multi-Strategy Socratic Permutation Fleet:**
+   - Runs across all 225 exam papers, actively excluding the strategy used in Pass 1 for every item to generate diverse pedagogical styles (`faded_example`, `worked_example`, `error_analysis`, `mnemonic`, `socratic_hints`, `exam_technique`, `concept_first`).
+   - Execution commands:
+     ```bash
+     # Dry-run audit for Pass 2 lanes:
+     python stage-2/run_stage2_fleet.py --dry-run --pass 2
+
+     # Launch full Pass 2 generation fleet in background:
+     python stage-2/run_stage2_fleet.py --pass 2
+
+     # Check real-time progress of Pass 2:
+     python stage-2/run_stage2_fleet.py --status
+     ```

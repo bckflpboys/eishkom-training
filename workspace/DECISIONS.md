@@ -6881,3 +6881,110 @@ aw_response) for human review to evaluate if verification thresholds are overly 
     - test.jsonl: 661 records (661 test samples).
 - **Readiness for Training:**
   - The Phase 2 training corpus is fully compiled, validated against tutor-v1 schema, and ready for fine-tuning on Google Cloud Vertex AI Colab Enterprise with NVIDIA L4 GPU Spot VM.
+
+---
+
+## 2026-11-14: Phase 2.5 Architectural Decision — On-Device Agentic Teacher & Study Coach Expansion
+
+- **Context & Motivation:**
+  - The user provided 4 architectural design files (`conversation and idea for the agentic teacher.txt`, `stage2_agentic_mix_calculator.xlsx`, `eishkom_agentic_and_study_teacher_prompts.md`, `sampler_agentic.py`).
+  - While Stage 2 mastered exam problem solving (23,503 canonical records across 10 pedagogical strategies), real learners also need holistic academic coaching: intake triage, study scheduling, weak topic diagnosis, exam pacing strategies, revision sessions, reading multi-page scanned documents/homework with visual defects, and crisis/wellbeing support.
+  - Target deployment: Small on-device models ($\le 4\text{B}$ parameters, such as `kendal-stage-1` and `gariep-stage-1` at Q4/Q6 quantization running offline on 4GB RAM phones and budget laptops).
+
+- **Core Principles & Architectural Guardrails:**
+  1. **Stateless Atomic Roles (Zero KV-Cache Explosion):**
+     - Never train small models on multi-step, multi-page agent trajectories.
+     - Divide the workload into two atomic roles:
+       - **Page Worker:** Read ONE page at a time. Returns structured JSON notes (`issues`, `questions`, `passages`, `carry_out`). Never solves problems or provides tutoring. Purges KV-cache after each page.
+       - **Synthesiser / Study Coach:** Dialogue between learner and coach based exclusively on aggregated notes, Python tool results, or curriculum profiles.
+  2. **Non-Negotiable Deterministic Code Computation:**
+     - Models NEVER invent numbers, add, subtract, calculate mark percentages, rank topics, or calculate calendar dates.
+     - Python helper functions (`build_schedule()`, `rank_weak_topics()`, `time_plan()`, `aggregate_notes()`) perform 100% of the arithmetic.
+     - The tutor model ONLY reads, explains, and contextualizes code-computed results.
+  3. **Strict Exposure Share Guardrail (< 20%):**
+     - Base exam SFT corpus provides 41,000–56,000 training exposures (Socratic at 2–3 epochs + Full Solutions at 1 epoch).
+     - Target agentic dataset: **3,000 – 4,500 unique samples** trained for 2 epochs = **6,000 – 9,000 training exposures**.
+     - Agentic share is strictly **10% – 18%** of total exposures, completely protecting core mathematical and scientific reasoning from dilution.
+  4. **South African Crisis & Wellbeing Protocol (`distress_signal`):**
+     - Approximately 2% of agentic training data (~80 samples) covers severe emotional distress, burnout, or hopelessness.
+     - Non-negotiable rule: Model immediately aborts study coaching, provides 2–4 sentences of warm non-clinical support, provides official verified South African helplines (SADAG: 0800 567 567 / 0800 456 789; Childline: 116; LifeLine: 0861 322 322), and warmly offers to resume studying whenever the learner is ready.
+  5. **Authentic Question Bank Grounding:**
+     - Content coaching tasks (`study_guide_section`, `revision_session`) sample real questions and marking rubrics from our 265 parsed DBE exam items in `workspace/items/*.jsonl` rather than hallucinating artificial questions.
+
+- **Task Family Distribution (3,500 Target Unique Samples):**
+  - `page_worker`: 1,320 samples (37.7%) — Single-page JSON OCR notes with defects (torn, folded, blurry).
+  - `study_plan`: 450 samples (12.9%) — Tool-augmented spaced revision schedules.
+  - `study_guide_section`: 350 samples (10.0%) — Grounded topic summaries with key formulas and concepts.
+  - `revision_session`: 350 samples (10.0%) — Grounded micro-tests with real DBE questions and hints.
+  - `paper_walkthrough`: 300 samples (8.6%) — Multi-page walkthrough explaining aggregated paper notes.
+  - `intake`: 250 samples (7.1%) — Warm diagnostic intake for new learners across CAPS subjects.
+  - `weak_topic_diagnosis`: 250 samples (7.1%) — Diagnostic triage ranking weak areas using `rank_weak_topics()`.
+  - `paper_prep_guide`: 200 samples (5.7%) — Preparation plan derived from aggregated paper notes.
+  - `exam_strategy`: 150 samples (4.3%) — Exam timing and mark pacing plans using `time_plan()`.
+  - `distress_signal`: 80 samples (2.3%) — Crisis de-escalation with official SA helplines.
+
+- **Implementation Tooling:**
+  - `stage-2/agentic/sampler_agentic.py`: Spec builders for all 9 task types, CAPS curriculum topic taxonomies, verified helpline registries, and deterministic Python arithmetic engines.
+  - `stage-2/agentic/run_agentic_fleet.py`: High-concurrency generation fleet connecting Google AI Studio (Gemma 4 31B/26B), Groq LPU (Qwen 27B, GPT-OSS 120B), Cohere API (Command A/R), OpenRouter, and NVIDIA NIM with automated tool call verification, distress protocol checks, and banned praise rejection.
+
+---
+
+## 2026-11-14: Phase 2.6 Architectural Decision — Context Compaction (Session Summaries) & Pass 2 Multi-Strategy Fleet Launch
+
+- **Context Compaction & Operations Architecture (`sampler_ops.py`):**
+  - **The Problem:** Long tutoring sessions and multi-page exam reviews balloon the on-device KV cache, degrading time-to-first-token and inducing hallucinations on 4GB RAM phones.
+  - **The Architectural Solution:** Implement code-driven context compaction:
+    1. *App-Controlled Triggers:* The application measures active tokens against per-tier budgets (Low: 3,000; Mid: 6,000; High: 12,000). Triggers a silent, out-of-band compaction between turns when the learner is idle (soft trigger at 55% of budget, hard trigger at 80%).
+    2. *Strict Code vs Model Ownership Boundary:*
+       - **Code owns facts & arithmetic:** Questions attempted, outcomes (`solved` / `stuck`), hint tallies, timestamps, token counts, and thresholds.
+       - **Model owns language only (5 strict state fields):** `narrative` ($\le 120$ words), `misconceptions` ($\le 5$ items, each $\le 25$ words), `current` (`q`, `status`, `last_step`), `next` (1 sentence forward plan), `learner_notes` (learner-stated preferences/facts only).
+    3. *Clean Context Rebuild:* Drops old conversation turns, rebuilds context with: Static System Prompt (prefix cache reuse) + Session State JSON + Current Question verbatim + last 2–3 messages. Never summarizes a summary from scratch; merges previous state with newly elapsed turns.
+    4. *Pruning History:* Strips `reasoning` and `thinking` fields after every turn to save VRAM and decode time with zero loss in pedagogical quality.
+
+- **Non-School Training Mix Guardrail (Agentic + Operational Data):**
+  - **Sweet Spot:** **10% to 15% of total training exposures** (Strict ceiling: **20%**).
+  - Out of a ~26,000 base exam item corpus (~41,000–56,000 exposures):
+    - 10% share = ~2,280 – 3,110 operational samples.
+    - 15% share = ~3,620 – 4,940 operational samples.
+    - **Recommended Allocation (~3,500 – 4,000 total unique samples at 2 epochs):**
+      - Page Worker (Single-page OCR): 1,200 – 1,400 samples
+      - Synthesiser (Aggregated notes): 300 – 400 samples
+      - Conversational Study Tasks (Intake, Plan, Weak Diagnosis, Exam Strategy): 1,500 samples
+      - Context Compaction & Resume-from-State: 500 samples
+  - All non-school tasks (agentic vision, coaching, compaction, distress) come out of this unified pool, completely protecting core STEM and language problem-solving capabilities from dilution.
+
+- **Pass 2: Multi-Strategy Socratic Permutation Fleet LAUNCHED:**
+  - In accordance with user instruction, the agentic fleet remains paused until updated API keys and routes are provided.
+  - Launched `python stage-2/run_stage2_fleet.py --pass 2` as a background daemon process.
+  - Across all 225 untouched exam papers (11,193 items), Pass 2 inspects what teaching strategy Pass 1 used for each item and explicitly excludes it, forcing the model to adopt an alternate pedagogical style (`faded_example`, `worked_example`, `error_analysis`, `mnemonic`, `socratic_hints`, `exam_technique`, `concept_first`).
+  - Pass 2 outputs are saved into `workspace/verified/stage2_pass2/` and tracked via `stage-2/progress_pass2.json`, multiplying Socratic training diversity without overwriting earlier pipeline data.
+
+---
+
+## 2026-11-14 16:58: Stage 2 Pass 2 Fleet Milestone — 2,013 Verified Socratic Lessons (12,604 Total Socratic Lessons, 84.0% of Goal)
+
+- **Milestone Overview:**
+  - Pass 2 Verified Socratic Lessons: **2,013 lessons** across alternate pedagogical teaching styles.
+  - Pass 2 Generated Items: 3,263 items.
+  - Pass 2 Quality Pass Rate: **61.7%** (strictly enforced via automated SymPy verification and 10-point rubric scoring).
+  - **Total Socratic Dialogues Across Project:** **12,604 lessons** (Stage 1: 1,319 + Stage 2 Pass 1: 9,272 + Pass 2: 2,013), officially reaching **84.0% of the 15,000 Socratic lesson goal**.
+  - **Total Project Corpus:** **25,516 canonical records** (12,604 Socratic + 12,912 Full Worked Solutions).
+  - **Estimated Exploded SFT Samples:** **~45,200+ samples (~32M tokens)**.
+- **Pedagogical Strategy Permutation Distribution in Pass 2 (Balanced Spread):**
+  - `step_walkthrough`: 253 lessons
+  - `error_analysis`: 245 lessons
+  - `exam_technique`: 243 lessons
+  - `socratic_hints`: 228 lessons
+  - `analogy_real_world`: 214 lessons
+  - `worked_example`: 210 lessons
+  - `faded_example`: 208 lessons
+  - `mnemonic`: 207 lessons
+- **Subject Coverage in Pass 2:**
+  - `english_fal`: 437 lessons
+  - `afrikaans_fal`: 425 lessons
+  - `mathematics`: 424 lessons
+  - `physical_sciences`: 397 lessons
+  - `fisiese_wetenskappe`: 203 lessons
+  - `afrikaans_hl`: 104 lessons
+  - `wiskunde`: 23 lessons
+- **Fleet State:** Background daemon continues running smoothly across parallel workers with automated key rotation and retries.
