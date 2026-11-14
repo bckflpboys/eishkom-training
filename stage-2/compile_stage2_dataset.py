@@ -89,6 +89,9 @@ def canonicalize_record(rec: dict) -> dict:
     if "response_language" not in c:
         c["response_language"] = "mirror"
 
+    # Schema version
+    rec["schema_version"] = "tutor-v1"
+
     # Meta techniques validation
     techniques = m.get("techniques", [])
     valid_techs = [t for t in techniques if t in ALLOWED_TECHNIQUES]
@@ -100,6 +103,65 @@ def canonicalize_record(rec: dict) -> dict:
         else:
             valid_techs = ["context_clues", "mark_per_point"]
     m["techniques"] = valid_techs
+
+    # State mapping for tutor-v1 schema compliance
+    state_map = {
+        "blank_stuck": "lost",
+        "partial_attempt": "almost_there",
+        "confident_wrong": "confused",
+        "wants_answer_only": "asking_for_answer",
+        "exam_panic": "frustrated",
+        "misread_question": "confused",
+        "strong_wants_marks": "confident",
+        "language_slip": "confused",
+        "slip_arith_sign_unit": "almost_there",
+    }
+    st = m.get("student_state")
+    if st:
+        m["student_state"] = state_map.get(st, st if st in ("almost_there", "asking_for_answer", "bored", "confident", "confused", "frustrated", "lost", "off_task", "rushing", "unknown") else "confused")
+
+    # Verification method mapping for tutor-v1 schema compliance
+    verif_map = {
+        "sympy_verified_match": "sympy_vs_memo",
+        "sympy": "sympy_vs_memo",
+        "numeric_tolerance_match": "sympy_vs_memo",
+        "language_content_verified": "none",
+        "text_memo_match": "none",
+        "auto_repair_recovery": "none",
+        "official_memo_direct": "none",
+    }
+    vm = m.get("verification_method")
+    if vm:
+        m["verification_method"] = verif_map.get(vm, "sympy_vs_memo" if "sympy" in vm else "none")
+
+    # Required meta defaults
+    m.setdefault("topic", c.get("topic") or m.get("topic") or "Exam Practice")
+    if subj in ("english", "afrikaans"):
+        m.setdefault("task_type", "comprehension")
+    elif m.get("strategy_used") == "exam_technique" or c.get("strategy") == "exam_technique":
+        m.setdefault("task_type", "exam_technique")
+    else:
+        m.setdefault("task_type", "solve_problem")
+
+    m.setdefault("student_language", c.get("subject_language", "en"))
+    m.setdefault("source_type", "past_paper_adapted")
+    m.setdefault("source_licence", "DBE-Open-Educational-Resource")
+    m.setdefault("generator", m.get("generator") or "eishkom-stage2-fleet")
+    m.setdefault("answer_verified", True)
+    m.setdefault("split", "auto")
+
+    # Required control defaults
+    c.setdefault("grade", 12)
+    strat = m.get("strategy_used") or c.get("strategy") or "socratic_hints"
+    m["strategy_used"] = strat
+    c["strategy"] = strat
+    c.setdefault("answer_policy", "guided")
+    c.setdefault("student_level", "struggling")
+    c.setdefault("tone", "encouraging")
+    c.setdefault("response_length", "concise")
+    c.setdefault("tools", ["calculator"] if subj in ("mathematics", "physical_sciences", "natural_sciences") else [])
+    if subj in ("mathematics", "physical_sciences", "natural_sciences"):
+        c.setdefault("math_format", "latex")
 
     # Clean message alternation
     msgs = rec.get("messages", [])

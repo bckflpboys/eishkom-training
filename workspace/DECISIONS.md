@@ -6854,3 +6854,30 @@ aw_response) for human review to evaluate if verification thresholds are overly 
   - isiese_wetenskappe: 6 papers remaining.
   - wiskunde: 7 papers remaining.
   - frikaans_fal, mathematics (English), physical_sciences (English): 100% complete.
+
+---
+
+## 2026-11-14: HISTORIC MILESTONE — Stage 2 Fleet Run 100% Complete & Master Dataset Compiled (23,503 Records, 40,241 SFT Samples)
+
+- **Fleet Completion Overview:**
+  - All 224 exam papers in the Stage 2 dedicated pool are **100% COMPLETE**.
+  - Total Unique Canonical Records: **23,503 items**.
+    - **Socratic Hint Lessons (Multi-Turn Dialogues):** **10,591 records** (Stage 1: 1,319 + Stage 2: 9,272).
+    - **Full Solution Demos (1-Turn Exam Memos):** **12,912 records** (Stage 1: 1,970 + Stage 2: 10,942).
+  - Validation Pass Rate: **99.99%** (Only 3 records skipped invalid across 23,503 items).
+- **Compiled SFT Build Targets (tutor_data.py build):**
+  - **Master Combined SFT Dataset (workspace/build/r2/):**
+    - train.jsonl: 18,881 records (32,351 exploded training samples, 14,443 with tool calls).
+    - val.jsonl: 3,426 records (5,853 validation samples).
+    - test.jsonl: 1,193 records (2,037 test samples).
+    - Total Master SFT Samples: 40,241 samples (~28.5 Million tokens).
+  - **Socratic Dialogues Split (workspace/build/r2_socratic/):**
+    - train.jsonl: 8,529 records (21,999 training samples).
+    - val.jsonl: 1,527 records (3,954 validation samples).
+    - test.jsonl: 532 records (1,376 test samples).
+  - **Full Solutions Split (workspace/build/r2_fullsol/):**
+    - train.jsonl: 10,352 records (10,352 1-turn training samples).
+    - val.jsonl: 1,899 records (1,899 validation samples).
+    - test.jsonl: 661 records (661 test samples).
+- **Readiness for Training:**
+  - The Phase 2 training corpus is fully compiled, validated against tutor-v1 schema, and ready for fine-tuning on Google Cloud Vertex AI Colab Enterprise with NVIDIA L4 GPU Spot VM.
