@@ -1433,14 +1433,15 @@ def process_paper_stage2(lane: dict) -> tuple:
                     continue
                 break
 
-    try:
-        cnt_full = process_paper_s2(paper_id)
-        if cnt_full > 0:
+    if PASS_NUM == 1:
+        try:
+            cnt_full = process_paper_s2(paper_id)
+            if cnt_full > 0:
+                with print_lock:
+                    print(f"[{lane_id}] Paper {paper_id} -> {cnt_full} Stage 2 full_solution demos generated")
+        except Exception as e:
             with print_lock:
-                print(f"[{lane_id}] Paper {paper_id} -> {cnt_full} Stage 2 full_solution demos generated")
-    except Exception as e:
-        with print_lock:
-            print(f"[{lane_id}] Full solution error: {e}")
+                print(f"[{lane_id}] Full solution error: {e}")
 
     with stats_lock:
         global_stats["papers_done"] += 1

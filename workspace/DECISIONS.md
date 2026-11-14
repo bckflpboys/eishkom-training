@@ -6988,3 +6988,33 @@ aw_response) for human review to evaluate if verification thresholds are overly 
   - `afrikaans_hl`: 104 lessons
   - `wiskunde`: 23 lessons
 - **Fleet State:** Background daemon continues running smoothly across parallel workers with automated key rotation and retries.
+
+---
+
+## 2026-11-14 18:30: Multi-Provider Expansion Batch 2 Testing (Vercel, DashScope, Token Lab AMD, TokenHarbor, Kilo, LLM7)
+
+- **New Batch 2 Onboarding Results:**
+  - **Vercel AI Gateway:** Verified operational with `nvidia/nemotron-3-ultra-550b-a55b` (0.64s), `openai/gpt-oss-120b` (0.75s), `nvidia/nemotron-3.5-super-vl` (0.69s), and `google/gemini-2.5-flash`.
+  - **Alibaba Model Studio (DashScope MaaS):** Verified operational with flagship `qwen3.8-max` (2.61s), `kimi-k3.1-pro` (4.50s), and `qwen-max` (1.99s).
+  - **Token Lab AMD:** Verified operational with `Gemma-4-31B-IT` (3.25s), `Qwen3.8-27B` (4.26s), and `DeepSeek-V4-Flash` (7.45s).
+  - **TokenHarbor:** Verified operational with `deepseek-v4.1-flash:free`, `mimo-v2.6-flash:free`, and `deepseek-v4-flash:free`.
+  - **Kilo Gateway:** Verified operational with `kilo-auto/free`, `nvidia/nemotron-3-ultra-550b-a55b:free`, `nvidia/nemotron-3.5-super-vl:free`, and `liquid/lfm-3-1.7b:free`.
+  - **LLM7.io:** Verified operational with `default` (1.31s) and `glm-5.3-flash` (3.86s).
+  - **Ollama Cloud:** Account currently on zero balance (HTTP 402, requires top-up).
+- **Strict User Hold Active:**
+  - All verified models remain in standby awaiting user assignment to specific generation lanes (Agentic/Ops vs Socratic Pass 2).
+
+
+- **Provider Onboarding & Credentials Integration:**
+  - Added and tested 4 external LLM service providers to support agentic/operational data generation and Pass 2 Socratic fleet capacity:
+    1. **APInex.bond** (OpenAI-compatible `/v1/chat/completions`, Key: `sk-apxa...`): 13 models verified operational.
+    2. **APMix.ai** (OpenAI-compatible `/v1/chat/completions`, Key: `apx_live_...`): 2 free models verified operational.
+    3. **Refuseless.com** (OpenAI-compatible `/v1/chat/completions`, Key: `abl_7c4...`): 1 free model verified operational.
+    4. **Google Cloud Vertex AI** (Project: `eishkom`, SA: `vertex-express@eishkom.iam.gserviceaccount.com`): Service account OAuth2 authentication verified. Requires `roles/aiplatform.user` IAM role to access endpoints.
+- **Strict User Hold Applied:**
+  - In accordance with explicit user instructions, **NONE of these newly added models or providers will be deployed to active generation tasks** until the user reviews the unbundled model catalog and assigns specific models to specific roles (Agentic data vs Socratic Pass 2 expansion).
+- **Stage 2 Progress at Verification Time:**
+  - Socratic Lessons: **13,092 / 15,000 (87.3% of goal)**. Only 1,908 lessons remaining.
+  - Pass 2 Verified Lessons: **2,422 lessons** with balanced strategy distribution.
+  - Total Corpus: **26,145 canonical records** (13,092 Socratic + 13,053 Full Solutions) = ~45,783 SFT samples (~32.0M tokens).
+

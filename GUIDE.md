@@ -404,3 +404,15 @@ To expand beyond pure question answering into holistic academic coaching and on-
      # Check real-time progress of Pass 2:
      python stage-2/run_stage2_fleet.py --status
      ```
+
+### Step 15: Phase 2.7 — Multi-Provider API Onboarding (APInex, APMix, Refuseless, Vertex AI, Vercel, DashScope, AMD Token Lab, TokenHarbor, Kilo, LLM7)
+
+1. **Provider Credentials Configuration:**
+   - Provider API keys and credentials configured in `.env` and `vertex_service_account.json`.
+   - Standalone provider health and response validation:
+     ```bash
+     python tools/test_new_providers.py
+     python tools/test_batch2_providers.py
+     ```
+2. **Operational Constraint:**
+   - All newly added providers remain in standby until explicit user role assignment.
