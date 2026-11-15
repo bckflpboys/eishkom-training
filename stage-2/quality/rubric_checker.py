@@ -99,7 +99,11 @@ def check_rubric(record: dict,
     issues = []
     score = 100
     messages = record.get("messages", [])
+    if not isinstance(messages, list):
+        return False, ["messages array must be a list"], 0
     meta = record.get("meta", {})
+    if not isinstance(meta, dict):
+        meta = {}
     final_answer = str(meta.get("final_answer") or "").strip()
 
     # 1. Structure check

@@ -1,0 +1,2 @@
+{"item_id": "dbe-wiskunde-g12-v2-2022-may-9.2.3", "paper_id": "dbe-wiskunde-g12-v2-2022-may", "model_desc": "openai/gpt-oss-120b [Vercel]", "reason": "unverified", "rubric_issues": ["No messages array"]}
+{"item_id": "dbe-wiskunde-g12-v2-2022-may-9.2.3", "paper_id": "dbe-wiskunde-g12-v2-2022-may", "model_desc": "gemini-3.1-flash-lite [Google AI Studio 1]", "reason": "sympy_mismatch: RL = 11.25 vs verwys na memo", "rubric_issues": ["Assistant message 1 opens with unearned reflexive praise: 'Presies!'"]}

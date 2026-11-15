@@ -1446,7 +1446,10 @@ def process_paper_stage2(lane: dict) -> tuple:
                 parsed_obj = auto_repair_record(parsed_obj, topic=topic, final_answer=target_ans)
                 if not isinstance(parsed_obj, dict):
                     raise ValueError("auto_repair_record returned a non-dictionary")
-                messages = [m for m in parsed_obj.get("messages", []) if isinstance(m, dict)]
+                raw_msgs = parsed_obj.get("messages")
+                if not isinstance(raw_msgs, list):
+                    raw_msgs = []
+                messages = [m for m in raw_msgs if isinstance(m, dict)]
                 parsed_obj["messages"] = messages
                 meta = parsed_obj.get("meta", {})
                 if not isinstance(meta, dict):
@@ -1632,7 +1635,7 @@ def assign_callers():
     # PRIORITY 1: NEW EXTERNAL FLEET WORKERS (Alibaba, Vercel, AMD, Kilo, APInex, APMix, Refuseless, TokenHarbor)
     # ══════════════════════════════════════════════════════════════════════════
 
-    # ── Alibaba Model Studio (Socratic Models: Qwen 3.8 Flash, Qwen 3.7 Flash, Qwen 3.8 27B, Qwen 3 VL Plus, GLM 5.3, DeepSeek V4.1 Flash 1017, Qwen Max) ──
+    # ── Alibaba Model Studio (Active Quota Models: deepseek-v4.1-flash, qwen3-vl-plus, qwen3.7-flash, qwen3.8-flash, qwen3.7-max, deepseek-v4.1-flash-1017, deepseek-v4-pro-0813, deepseek-v4-pro) ──
     if DASHSCOPE_KEY:
         callers.append({
             "caller": lambda p: call_dashscope(p, "qwen3.8-flash"),
@@ -1649,10 +1652,10 @@ def assign_callers():
             "provider": "alibaba",
         })
         callers.append({
-            "caller": lambda p: call_dashscope(p, "qwen3.8-27b"),
-            "model_desc": "qwen3.8-27b",
+            "caller": lambda p: call_dashscope(p, "qwen3.7-max"),
+            "model_desc": "qwen3.7-max",
             "affinity": ["math_en", "math_af", "sci_en", "sci_af"],
-            "id_prefix": "ALI_Q27B",
+            "id_prefix": "ALI_Q37M",
             "provider": "alibaba",
         })
         callers.append({
@@ -1663,10 +1666,10 @@ def assign_callers():
             "provider": "alibaba",
         })
         callers.append({
-            "caller": lambda p: call_dashscope(p, "glm-5.3"),
-            "model_desc": "glm-5.3",
-            "affinity": ["math_af", "lang_af"],
-            "id_prefix": "ALI_GLM",
+            "caller": lambda p: call_dashscope(p, "deepseek-v4.1-flash"),
+            "model_desc": "deepseek-v4.1-flash",
+            "affinity": ["sci_en", "sci_af", "math_en", "math_af"],
+            "id_prefix": "ALI_DS41",
             "provider": "alibaba",
         })
         callers.append({
@@ -1677,12 +1680,24 @@ def assign_callers():
             "provider": "alibaba",
         })
         callers.append({
-            "caller": lambda p: call_dashscope(p, "qwen-max"),
-            "model_desc": "qwen-max",
-            "affinity": ["math_en", "math_af"],
-            "id_prefix": "ALI_MAX",
+            "caller": lambda p: call_dashscope(p, "deepseek-v4-pro"),
+            "model_desc": "deepseek-v4-pro",
+            "affinity": ["math_en", "math_af", "sci_en", "sci_af"],
+            "id_prefix": "ALI_DSPRO",
             "provider": "alibaba",
         })
+        callers.append({
+            "caller": lambda p: call_dashscope(p, "deepseek-v4-pro-0813"),
+            "model_desc": "deepseek-v4-pro-0813",
+            "affinity": ["sci_en", "sci_af", "math_en", "math_af"],
+            "id_prefix": "ALI_DS0813",
+            "provider": "alibaba",
+        })
+
+        # ── Alibaba Disabled Models (Quota exhausted on current key; preserved for new key) ──
+        # callers.append({"caller": lambda p: call_dashscope(p, "qwen3.8-27b"), "model_desc": "qwen3.8-27b", "affinity": ["math_en", "math_af", "sci_en", "sci_af"], "id_prefix": "ALI_Q27B", "provider": "alibaba"})
+        # callers.append({"caller": lambda p: call_dashscope(p, "glm-5.3"), "model_desc": "glm-5.3", "affinity": ["math_af", "lang_af"], "id_prefix": "ALI_GLM", "provider": "alibaba"})
+        # callers.append({"caller": lambda p: call_dashscope(p, "qwen-max"), "model_desc": "qwen-max", "affinity": ["math_en", "math_af"], "id_prefix": "ALI_MAX", "provider": "alibaba"})
 
     # ── Vercel AI Gateway (Nemotron 550B, GPT-OSS 120B, Nemotron 3.5 Super VL, Nemotron Lightning, MiMo Flash, Muse Ember, Inkling, MiniMax) ──
     if VERCEL_KEY:

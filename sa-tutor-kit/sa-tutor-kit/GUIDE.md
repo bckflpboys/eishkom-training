@@ -408,14 +408,27 @@ To expand beyond pure question answering into holistic academic coaching and on-
 ### Step 15: Phase 2.7 — Multi-Provider Fleet Generation & Agentic Coaching Fleet
 
 1. **Provider Credentials & Speed Tuning:**
-   - Multi-provider fleet operating across Alibaba Model Studio, Vercel AI Gateway, Token Lab AMD, APInex, APMix, TokenHarbor, Kilo Gateway, LLM7.io, Refuseless, Groq, Google AI Studio, and Cohere.
+   - Multi-provider fleet operating across Alibaba DashScope, Vercel AI Gateway, Token Lab AMD, APInex, APMix, TokenHarbor, Kilo Gateway, LLM7.io, Groq, Google AI Studio, and Cohere.
    - Pacing accelerated for maximum throughput: Alibaba (0.05s), AMD (0.05s), Vercel (0.05s), TokenHarbor (0.1s), APMix (0.1s), LLM7 (0.2s), APInex (0.4s).
 2. **Current Production Status:**
-   - Core Socratic Lessons: **15,710 / 15,000 (104.7% Goal Reached)** across all 8 Grade 10–12 STEM and language subjects.
-   - DBE Past Paper Full Solutions: **13,053 items (100% Complete across 266 papers)**.
-   - Total Combined Records: **28,763 items (~52,328 SFT training samples)**.
-   - Agentic & Study Coaching Fleet: Generating target of 3,500 samples across 16 parallel threads with 32 multi-model workers.
-3. **Status Monitoring:**
-   ```bash
-   python tools/stage2_status.py
-   ```
+   - Core Socratic Lessons: **17,075+ verified dialogues** across all Grade 10–12 STEM and language subjects.
+   - DBE Past Paper Full Solutions: **12,912 items (100% Complete across all 266 papers)**.
+   - Total Unique Canonical Records: **25,981 items (~37,179 SFT training samples / ~20.0M tokens)**.
+
+### Step 16: Phase 2.8 — Residual Redo & Unified Production Dataset Build
+
+1. **100% Past Paper Coverage (Residual Redo):**
+   - Redo runner (`tools/redo_rejected_samples.py`) resolved 100% of historical rejections (386 residual items across 3 progressive sprints: 290 solved -> 87 solved -> 9 solved -> **0 unsolved**).
+   - Zero unsolved past paper questions remain across the entire 266-paper DBE archive.
+
+2. **Master Dataset Compilation (`stage-2/compile_stage2_dataset.py`):**
+   - Merges all 6 verified sources (Stage 1 Socratic, Stage 1 Full Solutions, Stage 2 Pass 1 Socratic, Stage 2 Pass 2 & Redo Socratic, Stage 2 Full Solutions, Stage 2 Agentic Coaching).
+   - Executes standard schema canonicalization (`tutor-v1`), enforces `thinking: "on"`, and runs `tutor_data.py build` across 4 production targets:
+     * **Master Combined (`workspace/build/r2`):** 20,856 train records | 37,179 train samples | 46,211 thinking-on samples (~20.0M tokens)
+     * **Socratic Dialogues (`workspace/build/r2_socratic`):** 9,618 train records | 24,921 train samples | 30,888 thinking-on samples
+     * **Full Solutions (`workspace/build/r2_fullsol`):** 10,352 train records | 10,352 train samples | 12,912 thinking-on samples
+     * **Agentic Coaching (`workspace/build/r2_agentic`):** 886 train records | 1,906 train samples | 2,411 thinking-on samples
+   - Execution command:
+     ```bash
+     python stage-2/compile_stage2_dataset.py
+     ```

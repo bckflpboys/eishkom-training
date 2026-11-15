@@ -1,0 +1,2 @@
+{"item_id": "dbe-mathematics-g11-p2-2015-nov-6.2.1", "paper_id": "dbe-mathematics-g11-p2-2015-nov", "model_desc": "qwen3.7-flash [Alibaba]", "reason": "sympy_err: SyntaxError: f-string: single '}' is not allowed", "rubric_issues": []}
+{"item_id": "dbe-mathematics-g11-p2-2015-nov-6.2.1", "paper_id": "dbe-mathematics-g11-p2-2015-nov", "model_desc": "thinkingmachines/inkling-2-small [Vercel]", "reason": "unverified", "rubric_issues": ["No messages array"]}

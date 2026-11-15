@@ -378,15 +378,21 @@ def init_fleet_workers():
     workers = []
     # ── Alibaba DashScope (Non-Socratic SOTA Agentic Models) ──
     if DASHSCOPE_KEY:
+        # ── Active Quota Models on Alibaba DashScope ──
         ali_models = [
             ("dashscope-deepseek-v4.1-flash", "deepseek-v4.1-flash", 0.2),
-            ("dashscope-qwen3.8-max-0902", "qwen3.8-max-0902", 0.2),
-            ("dashscope-qwen3.7-plus", "qwen3.7-plus", 0.2),
-            ("dashscope-kimi-k3", "kimi-k3", None),
             ("dashscope-qwen3.7-max", "qwen3.7-max", 0.2),
             ("dashscope-deepseek-v4-pro", "deepseek-v4-pro", 0.2),
-            ("dashscope-qwen3.8-2.4t-a95b", "qwen3.8-2.4t-a95b", 0.2),
             ("dashscope-deepseek-v4-pro-0813", "deepseek-v4-pro-0813", 0.2),
+            ("dashscope-qwen3-vl-plus", "qwen3-vl-plus", 0.2),
+            ("dashscope-qwen3.7-flash", "qwen3.7-flash", 0.2),
+            ("dashscope-qwen3.8-flash", "qwen3.8-flash", 0.2),
+            ("dashscope-deepseek-v4.1-flash-1017", "deepseek-v4.1-flash-1017", 0.2),
+            # ── Disabled Models (Quota exhausted on current key; preserved for new key) ──
+            # ("dashscope-qwen3.8-max-0902", "qwen3.8-max-0902", 0.2),
+            # ("dashscope-qwen3.7-plus", "qwen3.7-plus", 0.2),
+            # ("dashscope-kimi-k3", "kimi-k3", None),
+            # ("dashscope-qwen3.8-2.4t-a95b", "qwen3.8-2.4t-a95b", 0.2),
         ]
         for wname, mname, temp in ali_models:
             workers.append({
@@ -567,7 +573,7 @@ def generate_single_sample(task_type: str, worker: dict, rng: random.Random) -> 
     try:
         raw_resp = worker["fn"](spec_json, system_prompt)
     except Exception as e:
-        return {"ok": False, "reason": f"worker_error: {e}", "spec": spec}
+        return {"ok": False, "reason": f"worker_error ({worker['name']}): {e}", "spec": spec}
     
     # 3. Parse JSON
     try:
@@ -648,15 +654,15 @@ def main():
     start_time = time.time()
 
     task_affinity_map = {
-        "page_worker": ["vercel-nemotron-supervl", "dashscope-deepseek-v4.1-flash", "apinex-deepseek-pro", "tokenlab-deepseek", "apmix-deepseek", "gemini-flash-k1", "gemini-flash-k2"],
-        "intake": ["dashscope-qwen3.7-plus", "dashscope-kimi-k3", "dashscope-qwen3.8-max-0902", "apinex-gemini3.8flash", "groq-qwen27b", "vercel-gpt-oss"],
-        "study_plan": ["dashscope-qwen3.7-plus", "dashscope-kimi-k3", "dashscope-qwen3.8-max-0902", "apinex-gemini3.8flash", "groq-qwen27b", "vercel-gpt-oss"],
-        "weak_topic_diagnosis": ["dashscope-qwen3.7-max", "dashscope-qwen3.8-2.4t-a95b", "dashscope-deepseek-v4-pro", "apinex-kimi-k3", "apinex-glm5.3", "groq-oss120b"],
-        "exam_strategy": ["dashscope-qwen3.7-max", "dashscope-qwen3.8-2.4t-a95b", "dashscope-deepseek-v4-pro", "apinex-kimi-k3", "apinex-glm5.3", "groq-oss120b"],
+        "page_worker": ["vercel-nemotron-supervl", "dashscope-deepseek-v4.1-flash", "dashscope-qwen3-vl-plus", "apinex-deepseek-pro", "tokenlab-deepseek", "apmix-deepseek", "gemini-flash-k1", "gemini-flash-k2"],
+        "intake": ["dashscope-qwen3.7-flash", "dashscope-qwen3.8-flash", "dashscope-qwen3.7-max", "apinex-gemini3.8flash", "groq-qwen27b", "vercel-gpt-oss"],
+        "study_plan": ["dashscope-qwen3.7-flash", "dashscope-qwen3.8-flash", "dashscope-qwen3.7-max", "apinex-gemini3.8flash", "groq-qwen27b", "vercel-gpt-oss"],
+        "weak_topic_diagnosis": ["dashscope-qwen3.7-max", "dashscope-deepseek-v4-pro", "dashscope-deepseek-v4.1-flash-1017", "apinex-kimi-k3", "apinex-glm5.3", "groq-oss120b"],
+        "exam_strategy": ["dashscope-qwen3.7-max", "dashscope-deepseek-v4-pro", "dashscope-deepseek-v4.1-flash", "apinex-kimi-k3", "apinex-glm5.3", "groq-oss120b"],
         "study_guide_section": ["dashscope-deepseek-v4-pro-0813", "kilo-auto-free", "tokenlab-gemma", "cohere-command-a1", "gemini-flash-k1", "vercel-inkling"],
         "revision_session": ["dashscope-deepseek-v4-pro-0813", "kilo-auto-free", "tokenlab-gemma", "cohere-command-a1", "gemini-flash-k1", "vercel-muse-ember"],
-        "paper_walkthrough": ["dashscope-qwen3.7-max", "dashscope-qwen3.8-max-0902", "groq-oss120b", "cohere-command-a1", "vercel-nemotron-lightning"],
-        "paper_prep_guide": ["vercel-nemotron-supervl", "dashscope-deepseek-v4.1-flash", "tokenharbor-deepseek", "gemini-flash-k1"],
+        "paper_walkthrough": ["dashscope-qwen3.7-max", "dashscope-deepseek-v4-pro", "groq-oss120b", "cohere-command-a1", "vercel-nemotron-lightning"],
+        "paper_prep_guide": ["vercel-nemotron-supervl", "dashscope-deepseek-v4.1-flash", "dashscope-qwen3-vl-plus", "tokenharbor-deepseek", "gemini-flash-k1"],
         "distress_signal": ["groq-qwen27b", "groq-oss120b", "cohere-command-a1", "vercel-mimo-flash", "tokenharbor-mimo"],
     }
 

@@ -1,0 +1,1 @@
+{"item_id": "dbe-mathematics-g11-p2-2018-nov-11.1", "paper_id": "dbe-mathematics-g11-p2-2018-nov", "model_desc": "openai/gpt-oss-120b [Vercel]", "reason": "text_memo_match", "rubric_issues": ["Dialogue must start on user turn", "Dialogue must end on assistant turn", "Assistant message 0 missing private reasoning trace"]}

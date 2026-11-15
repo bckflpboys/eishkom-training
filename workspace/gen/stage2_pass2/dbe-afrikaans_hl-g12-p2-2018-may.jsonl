@@ -1,0 +1,9 @@
+{"item_id": "dbe-afrikaans_hl-g12-p2-2018-may-1", "model": "glm-5.3", "strategy": "worked_example", "persona_state": "wants_answer_only", "mode": "deep", "attempt": 1, "raw": "{"}
+{"item_id": "dbe-afrikaans_hl-g12-p2-2018-may-1", "model": "glm-5.3", "strategy": "worked_example", "persona_state": "wants_answer_only", "mode": "deep", "attempt": 2, "raw": "{\""}
+{"item_id": "dbe-afrikaans_hl-g12-p2-2018-may-1", "model": "glm-5.3", "strategy": "worked_example", "persona_state": "wants_answer_only", "mode": "deep", "attempt": 3, "raw": "',"}
+{"item_id": "dbe-afrikaans_hl-g12-p2-2018-may-2.1", "model": "glm-5.3", "strategy": "direct_explanation", "persona_state": "partial_attempt", "mode": "short", "attempt": 1, "raw": "{\""}
+{"item_id": "dbe-afrikaans_hl-g12-p2-2018-may-2.1", "model": "glm-5.3", "strategy": "direct_explanation", "persona_state": "partial_attempt", "mode": "short", "attempt": 2, "raw": "{\""}
+{"item_id": "dbe-afrikaans_hl-g12-p2-2018-may-2.1", "model": "glm-5.3", "strategy": "direct_explanation", "persona_state": "partial_attempt", "mode": "short", "attempt": 3, "raw": "{\""}
+{"item_id": "dbe-afrikaans_hl-g12-p2-2018-may-2.2", "model": "glm-5.3", "strategy": "socratic_hints", "persona_state": "partial_attempt", "mode": "short", "attempt": 1, "raw": "{"}
+{"item_id": "dbe-afrikaans_hl-g12-p2-2018-may-2.2", "model": "glm-5.3", "strategy": "socratic_hints", "persona_state": "partial_attempt", "mode": "short", "attempt": 2, "raw": "{\""}
+{"item_id": "dbe-afrikaans_hl-g12-p2-2018-may-2.2", "model": "glm-5.3", "strategy": "socratic_hints", "persona_state": "partial_attempt", "mode": "short", "attempt": 3, "raw": "{\""}

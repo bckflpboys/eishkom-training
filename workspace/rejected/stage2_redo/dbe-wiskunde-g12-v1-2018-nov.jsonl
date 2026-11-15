@@ -1,0 +1,1 @@
+{"item_id": "dbe-wiskunde-g12-v1-2018-nov-6.5", "paper_id": "dbe-wiskunde-g12-v1-2018-nov", "model_desc": "qwen-max [Alibaba]", "reason": "sympy_mismatch: Eq(y, x - 21/4) vs $y = x - \\frac{23}{4}$", "rubric_issues": ["Dialogue must start on user turn", "Assistant message 0 missing private reasoning trace"]}

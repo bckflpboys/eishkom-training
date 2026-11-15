@@ -1,0 +1,5 @@
+{"item_id": "dbe-wiskunde-g12-v1-2025-nov-1.1.5", "paper_id": "dbe-wiskunde-g12-v1-2025-nov", "model_desc": "qwen-max [Alibaba]", "reason": "sympy_err: IndexError: list index out of range", "rubric_issues": []}
+{"item_id": "dbe-wiskunde-g12-v1-2025-nov-1.1.5", "paper_id": "dbe-wiskunde-g12-v1-2025-nov", "model_desc": "openai/gpt-oss-120b [Vercel]", "reason": "unverified", "rubric_issues": ["No messages array"]}
+{"item_id": "dbe-wiskunde-g12-v1-2025-nov-1.1.5", "paper_id": "dbe-wiskunde-g12-v1-2025-nov", "model_desc": "qwen3.7-flash [Alibaba]", "reason": "unverified", "rubric_issues": ["No messages array"]}
+{"item_id": "dbe-wiskunde-g12-v1-2025-nov-1.1.5", "paper_id": "dbe-wiskunde-g12-v1-2025-nov", "model_desc": "deepseek-v4-pro [Alibaba]", "reason": "unverified", "rubric_issues": ["No messages array"]}
+{"item_id": "dbe-wiskunde-g12-v1-2025-nov-1.1.5", "paper_id": "dbe-wiskunde-g12-v1-2025-nov", "model_desc": "deepseek-v4-pro [Alibaba]", "reason": "unverified", "rubric_issues": ["No messages array"]}

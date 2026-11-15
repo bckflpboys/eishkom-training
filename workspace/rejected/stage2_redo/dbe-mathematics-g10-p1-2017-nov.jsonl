@@ -1,0 +1,1 @@
+{"item_id": "dbe-mathematics-g10-p1-2017-nov-2.1.2", "paper_id": "dbe-mathematics-g10-p1-2017-nov", "model_desc": "openai/gpt-oss-120b [Vercel]", "reason": "sympy_mismatch: -6 < x vs Number line representatio", "rubric_issues": ["Dialogue must start on user turn", "Too few assistant turns: 1 (expected >= 2)", "Assistant message 0 missing private reasoning trace"]}
