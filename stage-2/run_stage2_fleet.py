@@ -129,6 +129,16 @@ COHERE_KEY = ENV_KEYS.get("COHERE_API_KEY", "iNTzE94EZk0t0ZGlgAudCE3eOHgqVHsL4KK
 MAX_COHERE_MONTHLY_REQUESTS = 950
 cohere_request_count = 0
 
+DASHSCOPE_KEY = ENV_KEYS.get("DASHSCOPE_API_KEY", "")
+VERCEL_KEY = ENV_KEYS.get("VERCEL_GATEWAY_API_KEY", "")
+TOKENLAB_KEY = ENV_KEYS.get("TOKENLAB_API_KEY", "")
+TOKENHARBOR_KEY = ENV_KEYS.get("TOKENHARBOUR_API_KEY", "")
+KILO_KEY = ENV_KEYS.get("KILO_API_KEY", "")
+APINEX_KEY = ENV_KEYS.get("APINEX_API_KEY", "")
+APMIX_KEY = ENV_KEYS.get("APMIX_API_KEY", "")
+REFUSELESS_KEY = ENV_KEYS.get("REFUSELESS_API_KEY", "")
+LLM7_KEY = ENV_KEYS.get("LLM7_API_KEY", "")
+
 # ── Thread Locks & Pacing ──────────────────────────────────────────────────
 print_lock = threading.Lock()
 key1_lock = threading.Lock()
@@ -145,6 +155,15 @@ gma1_lock = threading.Lock()
 gma2_lock = threading.Lock()
 nvidia_lock = threading.Lock()
 cohere_lock = threading.Lock()
+dashscope_lock = threading.Lock()
+vercel_lock = threading.Lock()
+tokenlab_lock = threading.Lock()
+tokenharbor_lock = threading.Lock()
+kilo_lock = threading.Lock()
+apinex_lock = threading.Lock()
+apmix_lock = threading.Lock()
+refuseless_lock = threading.Lock()
+llm7_lock = threading.Lock()
 stats_lock = threading.Lock()
 progress_lock = threading.Lock()
 reject_lock = threading.Lock()
@@ -891,6 +910,159 @@ def call_cohere(prompt, model_name):
             time.sleep(1.5)
     raise RuntimeError(f"Cohere {model_name} failed")
 
+# ── Generic OpenAI-Compatible Caller ─────────────────────────────────────────
+def call_openai_compatible_api(prompt, base_url, api_key, model_name, lock, key_id, min_interval_sec=1.0, temperature=0.3, max_tokens=4096, extra_body=None, timeout=75):
+    url = f"{base_url.rstrip('/')}/chat/completions"
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {api_key}"
+    }
+    payload = {
+        "model": model_name,
+        "messages": [
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": prompt}
+        ],
+        "max_tokens": max_tokens
+    }
+    if temperature is not None:
+        payload["temperature"] = temperature
+    if extra_body:
+        payload.update(extra_body)
+
+    pace_key(lock, key_id, min_interval_sec=min_interval_sec)
+    for attempt in range(3):
+        try:
+            req = urllib.request.Request(url, data=json.dumps(payload).encode("utf-8"), headers=headers)
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                data = json.loads(resp.read().decode("utf-8"))
+                choice = data["choices"][0]["message"]
+                res = choice.get("content") or choice.get("reasoning") or choice.get("reasoning_content") or ""
+                if res.strip():
+                    return res.strip()
+        except urllib.error.HTTPError as he:
+            if he.code == 429:
+                wait_sec = 4.0 * (attempt + 1)
+                time.sleep(wait_sec)
+            else:
+                time.sleep(1.5)
+        except Exception:
+            time.sleep(1.5)
+    raise RuntimeError(f"{key_id} ({model_name}) failed after 3 attempts")
+
+def call_dashscope(prompt, model_name="qwen3.8-flash", temperature=0.2):
+    # Kimi models on DashScope forbid custom temperature
+    t = None if "kimi" in model_name else temperature
+    return call_openai_compatible_api(
+        prompt=prompt,
+        base_url="https://ws-kvneg1w4j01n4v80.ap-southeast-1.maas.aliyuncs.com/compatible-mode/v1",
+        api_key=DASHSCOPE_KEY,
+        model_name=model_name,
+        lock=dashscope_lock,
+        key_id="dashscope",
+        min_interval_sec=0.05,
+        temperature=t,
+        timeout=120
+    )
+
+def call_vercel(prompt, model_name="nvidia/nemotron-3-ultra-550b-a55b"):
+    return call_openai_compatible_api(
+        prompt=prompt,
+        base_url="https://ai-gateway.vercel.sh/v1",
+        api_key=VERCEL_KEY,
+        model_name=model_name,
+        lock=vercel_lock,
+        key_id="vercel",
+        min_interval_sec=0.05
+    )
+
+def call_tokenlab(prompt, model_name="Gemma-4-31B-IT"):
+    return call_openai_compatible_api(
+        prompt=prompt,
+        base_url="https://api.tokenlab.amd.com/v1",
+        api_key=TOKENLAB_KEY,
+        model_name=model_name,
+        lock=tokenlab_lock,
+        key_id="tokenlab",
+        min_interval_sec=0.05
+    )
+
+def call_tokenharbor(prompt, model_name="deepseek-v4.1-flash:free"):
+    return call_openai_compatible_api(
+        prompt=prompt,
+        base_url="https://tokenharbor.ai/v1",
+        api_key=TOKENHARBOR_KEY,
+        model_name=model_name,
+        lock=tokenharbor_lock,
+        key_id="tokenharbor",
+        min_interval_sec=0.1
+    )
+
+def call_kilo(prompt, model_name="kilo-auto/free"):
+    return call_openai_compatible_api(
+        prompt=prompt,
+        base_url="https://kilo.ai/api/gateway/v1",
+        api_key=KILO_KEY,
+        model_name=model_name,
+        lock=kilo_lock,
+        key_id="kilo",
+        min_interval_sec=0.4
+    )
+
+def call_apinex(prompt, model_name="free/qwen-3.8-max"):
+    return call_openai_compatible_api(
+        prompt=prompt,
+        base_url="https://api.apinex.bond/v1",
+        api_key=APINEX_KEY,
+        model_name=model_name,
+        lock=apinex_lock,
+        key_id="apinex",
+        min_interval_sec=0.4
+    )
+
+def call_apmix(prompt, model_name="deepseek-v4.1-flash-1017-free"):
+    return call_openai_compatible_api(
+        prompt=prompt,
+        base_url="https://api.apmix.ai/v1",
+        api_key=APMIX_KEY,
+        model_name=model_name,
+        lock=apmix_lock,
+        key_id="apmix",
+        min_interval_sec=0.1
+    )
+
+def call_refuseless(prompt, model_name="deepseek-v4.1-flash-abliterated-free"):
+    return call_openai_compatible_api(
+        prompt=prompt,
+        base_url="https://api.refuseless.com/v1",
+        api_key=REFUSELESS_KEY,
+        model_name=model_name,
+        lock=refuseless_lock,
+        key_id="refuseless",
+        min_interval_sec=0.3
+    )
+
+def call_llm7(prompt, model_name="default"):
+    return call_openai_compatible_api(
+        prompt=prompt,
+        base_url="https://api.llm7.io/v1",
+        api_key=LLM7_KEY,
+        model_name=model_name,
+        lock=llm7_lock,
+        key_id="llm7",
+        min_interval_sec=0.2
+    )
+    return call_openai_compatible_api(
+        prompt=prompt,
+        base_url="https://api.llm7.io/v1",
+        api_key=LLM7_KEY,
+        model_name=model_name,
+        lock=llm7_lock,
+        key_id="llm7",
+        min_interval_sec=1.5
+    )
+
+
 # ══════════════════════════════════════════════════════════════════════════════
 #  DEDUPLICATION & PAPER DISCOVERY
 # ══════════════════════════════════════════════════════════════════════════════
@@ -1456,6 +1628,260 @@ def process_paper_stage2(lane: dict) -> tuple:
 def assign_callers():
     callers = []
 
+    # ══════════════════════════════════════════════════════════════════════════
+    # PRIORITY 1: NEW EXTERNAL FLEET WORKERS (Alibaba, Vercel, AMD, Kilo, APInex, APMix, Refuseless, TokenHarbor)
+    # ══════════════════════════════════════════════════════════════════════════
+
+    # ── Alibaba Model Studio (Socratic Models: Qwen 3.8 Flash, Qwen 3.7 Flash, Qwen 3.8 27B, Qwen 3 VL Plus, GLM 5.3, DeepSeek V4.1 Flash 1017, Qwen Max) ──
+    if DASHSCOPE_KEY:
+        callers.append({
+            "caller": lambda p: call_dashscope(p, "qwen3.8-flash"),
+            "model_desc": "qwen3.8-flash",
+            "affinity": ["math_en", "math_af"],
+            "id_prefix": "ALI_Q38F",
+            "provider": "alibaba",
+        })
+        callers.append({
+            "caller": lambda p: call_dashscope(p, "qwen3.7-flash"),
+            "model_desc": "qwen3.7-flash",
+            "affinity": ["math_en", "sci_en"],
+            "id_prefix": "ALI_Q37F",
+            "provider": "alibaba",
+        })
+        callers.append({
+            "caller": lambda p: call_dashscope(p, "qwen3.8-27b"),
+            "model_desc": "qwen3.8-27b",
+            "affinity": ["math_en", "math_af", "sci_en", "sci_af"],
+            "id_prefix": "ALI_Q27B",
+            "provider": "alibaba",
+        })
+        callers.append({
+            "caller": lambda p: call_dashscope(p, "qwen3-vl-plus"),
+            "model_desc": "qwen3-vl-plus",
+            "affinity": ["sci_en", "sci_af"],
+            "id_prefix": "ALI_QVL",
+            "provider": "alibaba",
+        })
+        callers.append({
+            "caller": lambda p: call_dashscope(p, "glm-5.3"),
+            "model_desc": "glm-5.3",
+            "affinity": ["math_af", "lang_af"],
+            "id_prefix": "ALI_GLM",
+            "provider": "alibaba",
+        })
+        callers.append({
+            "caller": lambda p: call_dashscope(p, "deepseek-v4.1-flash-1017"),
+            "model_desc": "deepseek-v4.1-flash-1017",
+            "affinity": ["sci_en", "sci_af"],
+            "id_prefix": "ALI_DSK",
+            "provider": "alibaba",
+        })
+        callers.append({
+            "caller": lambda p: call_dashscope(p, "qwen-max"),
+            "model_desc": "qwen-max",
+            "affinity": ["math_en", "math_af"],
+            "id_prefix": "ALI_MAX",
+            "provider": "alibaba",
+        })
+
+    # ── Vercel AI Gateway (Nemotron 550B, GPT-OSS 120B, Nemotron 3.5 Super VL, Nemotron Lightning, MiMo Flash, Muse Ember, Inkling, MiniMax) ──
+    if VERCEL_KEY:
+        callers.append({
+            "caller": lambda p: call_vercel(p, "nvidia/nemotron-3-ultra-550b-a55b"),
+            "model_desc": "nemotron-3-ultra-550b-a55b",
+            "affinity": ["math_af", "math_en", "sci_af"],
+            "id_prefix": "VRC_NEM",
+            "provider": "vercel",
+        })
+        callers.append({
+            "caller": lambda p: call_vercel(p, "openai/gpt-oss-120b"),
+            "model_desc": "gpt-oss-120b",
+            "affinity": ["math_en", "sci_en", "math_af"],
+            "id_prefix": "VRC_OSS",
+            "provider": "vercel",
+        })
+        callers.append({
+            "caller": lambda p: call_vercel(p, "nvidia/nemotron-3.5-super-vl"),
+            "model_desc": "nemotron-3.5-super-vl",
+            "affinity": ["sci_en", "sci_af"],
+            "id_prefix": "VRC_NVL",
+            "provider": "vercel",
+        })
+        callers.append({
+            "caller": lambda p: call_vercel(p, "nvidia/nemotron-3.5-lightning-free"),
+            "model_desc": "nemotron-3.5-lightning-free",
+            "affinity": ["math_en", "sci_en"],
+            "id_prefix": "VRC_LGT",
+            "provider": "vercel",
+        })
+        callers.append({
+            "caller": lambda p: call_vercel(p, "xiaomi/mimo-v2.6-flash"),
+            "model_desc": "mimo-v2.6-flash",
+            "affinity": ["lang_en", "lang_af"],
+            "id_prefix": "VRC_MMO",
+            "provider": "vercel",
+        })
+        callers.append({
+            "caller": lambda p: call_vercel(p, "meta/muse-ember"),
+            "model_desc": "muse-ember",
+            "affinity": ["lang_af", "lang_en"],
+            "id_prefix": "VRC_MBR",
+            "provider": "vercel",
+        })
+        callers.append({
+            "caller": lambda p: call_vercel(p, "thinkingmachines/inkling-2-small"),
+            "model_desc": "inkling-2-small",
+            "affinity": ["math_en", "lang_en"],
+            "id_prefix": "VRC_INK",
+            "provider": "vercel",
+        })
+        callers.append({
+            "caller": lambda p: call_vercel(p, "minimax/minimax-m3.1-flash"),
+            "model_desc": "minimax-m3.1-flash",
+            "affinity": ["lang_en"],
+            "id_prefix": "VRC_MMX",
+            "provider": "vercel",
+        })
+
+    # ── Token Lab AMD (Gemma 4 31B Afrikaans & Wiskunde, Qwen 27B Maths, DeepSeek V4 Flash Physics) ──
+    if TOKENLAB_KEY:
+        callers.append({
+            "caller": lambda p: call_tokenlab(p, "Gemma-4-31B-IT"),
+            "model_desc": "Gemma-4-31B-IT",
+            "affinity": ["lang_af", "math_af", "sci_af"],
+            "id_prefix": "AMD_GMA",
+            "provider": "tokenlab",
+        })
+        callers.append({
+            "caller": lambda p: call_tokenlab(p, "Qwen3.8-27B"),
+            "model_desc": "Qwen3.8-27B",
+            "affinity": ["math_en", "sci_en"],
+            "id_prefix": "AMD_QWN",
+            "provider": "tokenlab",
+        })
+        callers.append({
+            "caller": lambda p: call_tokenlab(p, "DeepSeek-V4-Flash"),
+            "model_desc": "DeepSeek-V4-Flash",
+            "affinity": ["sci_en", "sci_af"],
+            "id_prefix": "AMD_DSK",
+            "provider": "tokenlab",
+        })
+
+    # ── TokenHarbor (DeepSeek V4.1 Flash Fisiese Wetenskappe, MiMo V2.6 Flash English FAL/HL) ──
+    if TOKENHARBOR_KEY:
+        callers.append({
+            "caller": lambda p: call_tokenharbor(p, "deepseek-v4.1-flash:free"),
+            "model_desc": "deepseek-v4.1-flash:free",
+            "affinity": ["sci_af", "sci_en"],
+            "id_prefix": "THB_DSK",
+            "provider": "tokenharbor",
+        })
+        callers.append({
+            "caller": lambda p: call_tokenharbor(p, "mimo-v2.6-flash:free"),
+            "model_desc": "mimo-v2.6-flash:free",
+            "affinity": ["lang_en", "lang_af"],
+            "id_prefix": "THB_MMO",
+            "provider": "tokenharbor",
+        })
+        callers.append({
+            "caller": lambda p: call_tokenharbor(p, "deepseek-v4-flash:free"),
+            "model_desc": "deepseek-v4-flash:free",
+            "affinity": ["sci_en"],
+            "id_prefix": "THB_DS4",
+            "provider": "tokenharbor",
+        })
+
+    # ── Kilo Gateway (Nemotron 550B Wiskunde, Nemotron Super VL Physics, Kilo Auto) ──
+    if KILO_KEY:
+        callers.append({
+            "caller": lambda p: call_kilo(p, "nvidia/nemotron-3-ultra-550b-a55b:free"),
+            "model_desc": "nemotron-3-ultra-550b-a55b:free",
+            "affinity": ["math_af", "math_en"],
+            "id_prefix": "KLO_NEM",
+            "provider": "kilo",
+        })
+        callers.append({
+            "caller": lambda p: call_kilo(p, "nvidia/nemotron-3.5-super-vl:free"),
+            "model_desc": "nemotron-3.5-super-vl:free",
+            "affinity": ["sci_en", "sci_af"],
+            "id_prefix": "KLO_NVL",
+            "provider": "kilo",
+        })
+
+    # ── APInex (Qwen 3.8 Max Maths, MiMo Pro Physics, DeepSeek Flash Physics, GLM 5.3 Flash Wiskunde) ──
+    if APINEX_KEY:
+        callers.append({
+            "caller": lambda p: call_apinex(p, "free/qwen-3.8-max"),
+            "model_desc": "free/qwen-3.8-max",
+            "affinity": ["math_en", "math_af"],
+            "id_prefix": "APN_QWN",
+            "provider": "apinex",
+        })
+        callers.append({
+            "caller": lambda p: call_apinex(p, "free/mimo-v2.6-pro"),
+            "model_desc": "free/mimo-v2.6-pro",
+            "affinity": ["sci_en"],
+            "id_prefix": "APN_MMO",
+            "provider": "apinex",
+        })
+        callers.append({
+            "caller": lambda p: call_apinex(p, "free/deepseek-v4-flash-0731"),
+            "model_desc": "free/deepseek-v4-flash-0731",
+            "affinity": ["sci_en"],
+            "id_prefix": "APN_DSF",
+            "provider": "apinex",
+        })
+        callers.append({
+            "caller": lambda p: call_apinex(p, "free/deepseek-v4.1-flash"),
+            "model_desc": "free/deepseek-v4.1-flash",
+            "affinity": ["sci_af"],
+            "id_prefix": "APN_DS4",
+            "provider": "apinex",
+        })
+        callers.append({
+            "caller": lambda p: call_apinex(p, "free/glm-5.3-flash"),
+            "model_desc": "free/glm-5.3-flash",
+            "affinity": ["math_af", "math_en"],
+            "id_prefix": "APN_GLM",
+            "provider": "apinex",
+        })
+        callers.append({
+            "caller": lambda p: call_apinex(p, "free/minimax-m3.1-flash"),
+            "model_desc": "free/minimax-m3.1-flash",
+            "affinity": ["lang_en"],
+            "id_prefix": "APN_MMX",
+            "provider": "apinex",
+        })
+        callers.append({
+            "caller": lambda p: call_apinex(p, "free/muse-spark-1.3"),
+            "model_desc": "free/muse-spark-1.3",
+            "affinity": ["lang_af"],
+            "id_prefix": "APN_MUS",
+            "provider": "apinex",
+        })
+
+    # ── APMix & Refuseless (DeepSeek Flash Physical Sciences & Fisiese Wetenskappe) ──
+    if APMIX_KEY:
+        callers.append({
+            "caller": lambda p: call_apmix(p, "deepseek-v4.1-flash-1017-free"),
+            "model_desc": "deepseek-v4.1-flash-1017-free",
+            "affinity": ["sci_en", "sci_af"],
+            "id_prefix": "APM_DSK",
+            "provider": "apmix",
+        })
+    if REFUSELESS_KEY:
+        callers.append({
+            "caller": lambda p: call_refuseless(p, "deepseek-v4.1-flash-abliterated-free"),
+            "model_desc": "deepseek-v4.1-flash-abliterated-free",
+            "affinity": ["sci_en"],
+            "id_prefix": "RFS_DSK",
+            "provider": "refuseless",
+        })
+
+    # ══════════════════════════════════════════════════════════════════════════
+    # PRIORITY 2: WORKHORSE CAPACITY (Google AI Studio, Groq, Cohere, Cerebras)
+    # ══════════════════════════════════════════════════════════════════════════
+
     # ── Key 1 Lanes (Gemma 4 31B Afrikaans, Gemma 4 26B English, Gemini 3.5 STEM, Gemini 3.1 STEM) ──
     if GEMINI_KEY_1:
         # GMA1_31: Gemma 4 31B — Afrikaans Language & STEM papers
@@ -1747,6 +2173,7 @@ def assign_callers():
             "id_prefix": "OAI_SCI_A2",
             "provider": "openai",
         })
+
 
     return callers
 
@@ -2105,10 +2532,10 @@ def main():
 
     # Step 3: Run fleet in parallel
     global_stats["start_time"] = time.time()
-    print(f"\nLaunching {len(lanes)} parallel lanes (max concurrent: 20)...")
+    print(f"\nLaunching {len(lanes)} parallel lanes (max concurrent: 40)...")
     print("-" * 80)
 
-    max_workers = min(len(lanes), 20)
+    max_workers = min(len(lanes), 40)
 
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = {executor.submit(process_paper_stage2, lane): lane for lane in lanes}

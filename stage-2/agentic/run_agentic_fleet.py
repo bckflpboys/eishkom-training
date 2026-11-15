@@ -66,6 +66,14 @@ COHERE_KEY = ENV.get("COHERE_API_KEY", "")
 OPENROUTER_KEY = ENV.get("OPENROUTER_API_KEY", "")
 NVIDIA_KEY = ENV.get("NVIDIA_NIM_API_KEY", "")
 INTERN_KEY = ENV.get("INTERN_API_KEY", "")
+DASHSCOPE_KEY = ENV.get("DASHSCOPE_API_KEY", "")
+APINEX_KEY = ENV.get("APINEX_API_KEY", "")
+KILO_KEY = ENV.get("KILO_API_KEY", "")
+LLM7_KEY = ENV.get("LLM7_API_KEY", "")
+VERCEL_KEY = ENV.get("VERCEL_GATEWAY_API_KEY", "")
+TOKENHARBOR_KEY = ENV.get("TOKENHARBOUR_API_KEY", "") or ENV.get("TOKENHARBOR_API_KEY", "")
+APMIX_KEY = ENV.get("APMIX_API_KEY", "")
+TOKENLAB_KEY = ENV.get("TOKENLAB_API_KEY", "")
 
 # Thread Locks
 print_lock = threading.Lock()
@@ -75,6 +83,14 @@ cohere_lock = threading.Lock()
 nvidia_lock = threading.Lock()
 gma1_lock = threading.Lock()
 gma2_lock = threading.Lock()
+dashscope_lock = threading.Lock()
+apinex_lock = threading.Lock()
+kilo_lock = threading.Lock()
+llm7_lock = threading.Lock()
+vercel_lock = threading.Lock()
+tokenharbor_lock = threading.Lock()
+apmix_lock = threading.Lock()
+tokenlab_lock = threading.Lock()
 
 last_call_time = defaultdict(float)
 
@@ -172,7 +188,7 @@ def call_gemini(prompt, system_prompt, api_key, model_name="gemini-3.5-flash-lit
                 return data["candidates"][0]["content"]["parts"][0]["text"]
         except urllib.error.HTTPError as e:
             if e.code in (429, 503) and attempt < 3:
-                time.sleep(3.0 * (attempt + 1))
+                time.sleep(8.0 * (attempt + 1))
                 continue
             raise
 
@@ -208,7 +224,7 @@ def call_groq(prompt, system_prompt, model_name="qwen/qwen3.8-27b"):
         "response_format": {"type": "json_object"}
     }
     for attempt in range(4):
-        pace_key(groq_lock, "groq", min_interval_sec=1.0)
+        pace_key(groq_lock, "groq", min_interval_sec=2.2)
         req = urllib.request.Request(url, data=json.dumps(payload).encode("utf-8"), headers=headers)
         try:
             with urllib.request.urlopen(req, timeout=75) as resp:
@@ -216,7 +232,7 @@ def call_groq(prompt, system_prompt, model_name="qwen/qwen3.8-27b"):
                 return data["choices"][0]["message"]["content"]
         except urllib.error.HTTPError as e:
             if e.code in (429, 503) and attempt < 3:
-                time.sleep(3.0 * (attempt + 1))
+                time.sleep(10.0 * (attempt + 1))
                 continue
             raise
 
@@ -237,9 +253,42 @@ def call_cohere(prompt, system_prompt, model_name="command-a-03-2025"):
                 return data["message"]["content"][0]["text"]
         except urllib.error.HTTPError as e:
             if e.code in (429, 503) and attempt < 3:
-                time.sleep(3.0 * (attempt + 1))
+                time.sleep(8.0 * (attempt + 1))
                 continue
             raise
+
+def call_openai_generic(prompt, system_prompt, base_url, api_key, model_name, lock=None, key_id="generic", min_interval_sec=1.0, temperature=0.2):
+    url = f"{base_url.rstrip('/')}/chat/completions"
+    headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
+    payload = {
+        "model": model_name,
+        "messages": [{"role": "system", "content": system_prompt}, {"role": "user", "content": prompt}],
+        "max_tokens": 4096
+    }
+    if temperature is not None:
+        payload["temperature"] = temperature
+    for attempt in range(4):
+        if lock:
+            pace_key(lock, key_id, min_interval_sec=min_interval_sec)
+        req = urllib.request.Request(url, data=json.dumps(payload).encode("utf-8"), headers=headers)
+        try:
+            with urllib.request.urlopen(req, timeout=90) as resp:
+                data = json.loads(resp.read().decode("utf-8"))
+                choice = data["choices"][0]["message"]
+                res = choice.get("content") or choice.get("reasoning") or choice.get("reasoning_content") or ""
+                if res.strip():
+                    return res.strip()
+        except urllib.error.HTTPError as e:
+            if e.code in (429, 503) and attempt < 3:
+                time.sleep(4.0 * (attempt + 1))
+                continue
+            raise
+        except Exception:
+            if attempt < 3:
+                time.sleep(2.0)
+                continue
+            raise
+    raise RuntimeError(f"{key_id} ({model_name}) failed")
 
 # ── Question Bank & Source Excerpt Loader ────────────────────────────────────
 CACHED_ITEMS = []
@@ -327,19 +376,149 @@ FLEET_WORKERS = []
 
 def init_fleet_workers():
     workers = []
-    # Groq LPU (Speed workhorse for study plans, intake, diagnosis)
+    # ── Alibaba DashScope (Non-Socratic SOTA Agentic Models) ──
+    if DASHSCOPE_KEY:
+        ali_models = [
+            ("dashscope-deepseek-v4.1-flash", "deepseek-v4.1-flash", 0.2),
+            ("dashscope-qwen3.8-max-0902", "qwen3.8-max-0902", 0.2),
+            ("dashscope-qwen3.7-plus", "qwen3.7-plus", 0.2),
+            ("dashscope-kimi-k3", "kimi-k3", None),
+            ("dashscope-qwen3.7-max", "qwen3.7-max", 0.2),
+            ("dashscope-deepseek-v4-pro", "deepseek-v4-pro", 0.2),
+            ("dashscope-qwen3.8-2.4t-a95b", "qwen3.8-2.4t-a95b", 0.2),
+            ("dashscope-deepseek-v4-pro-0813", "deepseek-v4-pro-0813", 0.2),
+        ]
+        for wname, mname, temp in ali_models:
+            workers.append({
+                "name": wname,
+                "fn": (lambda m=mname, t=temp: (lambda p, s: call_openai_generic(
+                    p, s,
+                    "https://ws-kvneg1w4j01n4v80.ap-southeast-1.maas.aliyuncs.com/compatible-mode/v1",
+                    DASHSCOPE_KEY, m, dashscope_lock, f"ali_{m}",
+                    min_interval_sec=0.05, temperature=t
+                )))()
+            })
+
+    # ── Vercel AI Gateway (High-Speed Agentic & OCR Workers) ──
+    if VERCEL_KEY:
+        vrc_models = [
+            ("vercel-nemotron-supervl", "nvidia/nemotron-3.5-super-vl"),
+            ("vercel-nemotron-lightning", "nvidia/nemotron-3.5-lightning-free"),
+            ("vercel-mimo-flash", "xiaomi/mimo-v2.6-flash"),
+            ("vercel-gpt-oss", "openai/gpt-oss-120b"),
+            ("vercel-muse-ember", "meta/muse-ember"),
+            ("vercel-inkling", "thinkingmachines/inkling-2-small"),
+            ("vercel-minimax", "minimax/minimax-m3.1-flash"),
+        ]
+        for wname, mname in vrc_models:
+            workers.append({
+                "name": wname,
+                "fn": (lambda m=mname: (lambda p, s: call_openai_generic(
+                    p, s, "https://ai-gateway.vercel.sh/v1", VERCEL_KEY, m,
+                    vercel_lock, f"vrc_{m}", min_interval_sec=0.05
+                )))()
+            })
+
+    # ── APInex (Gemini 3.8 Flash, Kimi K3, GLM 5.3, DeepSeek Pro) ──
+    if APINEX_KEY:
+        apn_models = [
+            ("apinex-gemini3.8flash", "free/gemini-3.8-flash"),
+            ("apinex-kimi-k3", "free/kimi-k3"),
+            ("apinex-glm5.3", "free/glm-5.3"),
+            ("apinex-deepseek-pro", "free/deepseek-v4-pro-0813"),
+        ]
+        for wname, mname in apn_models:
+            workers.append({
+                "name": wname,
+                "fn": (lambda m=mname: (lambda p, s: call_openai_generic(
+                    p, s, "https://api.apinex.bond/v1", APINEX_KEY, m,
+                    apinex_lock, f"apn_{m}", min_interval_sec=0.4
+                )))()
+            })
+
+    # ── TokenHarbor ──
+    if TOKENHARBOR_KEY:
+        workers.append({
+            "name": "tokenharbor-deepseek",
+            "fn": lambda p, s: call_openai_generic(
+                p, s, "https://tokenharbor.ai/v1", TOKENHARBOR_KEY, "deepseek-v4.1-flash:free",
+                tokenharbor_lock, "thb_ds", min_interval_sec=0.1
+            )
+        })
+        workers.append({
+            "name": "tokenharbor-mimo",
+            "fn": lambda p, s: call_openai_generic(
+                p, s, "https://tokenharbor.ai/v1", TOKENHARBOR_KEY, "mimo-v2.6-flash:free",
+                tokenharbor_lock, "thb_mmo", min_interval_sec=0.1
+            )
+        })
+
+    # ── APMix ──
+    if APMIX_KEY:
+        workers.append({
+            "name": "apmix-deepseek",
+            "fn": lambda p, s: call_openai_generic(
+                p, s, "https://api.apmix.ai/v1", APMIX_KEY, "deepseek-v4.1-flash-1017-free",
+                apmix_lock, "apm_ds", min_interval_sec=0.1
+            )
+        })
+
+    # ── Token Lab AMD ──
+    if TOKENLAB_KEY:
+        workers.append({
+            "name": "tokenlab-gemma",
+            "fn": lambda p, s: call_openai_generic(
+                p, s, "https://api.tokenlab.amd.com/v1", TOKENLAB_KEY, "Gemma-4-31B-IT",
+                tokenlab_lock, "amd_gma", min_interval_sec=0.05
+            )
+        })
+        workers.append({
+            "name": "tokenlab-deepseek",
+            "fn": lambda p, s: call_openai_generic(
+                p, s, "https://api.tokenlab.amd.com/v1", TOKENLAB_KEY, "DeepSeek-V4-Flash",
+                tokenlab_lock, "amd_dsk", min_interval_sec=0.05
+            )
+        })
+
+    # ── Kilo Gateway ──
+    if KILO_KEY:
+        workers.append({
+            "name": "kilo-auto-free",
+            "fn": lambda p, s: call_openai_generic(
+                p, s, "https://kilo.ai/api/gateway/v1", KILO_KEY, "kilo-auto/free",
+                kilo_lock, "klo_auto", min_interval_sec=0.4
+            )
+        })
+        workers.append({
+            "name": "kilo-nemotron-supervl",
+            "fn": lambda p, s: call_openai_generic(
+                p, s, "https://kilo.ai/api/gateway/v1", KILO_KEY, "nvidia/nemotron-3.5-super-vl:free",
+                kilo_lock, "klo_nvl", min_interval_sec=0.4
+            )
+        })
+
+    # ── LLM7.io ──
+    if LLM7_KEY:
+        workers.append({
+            "name": "llm7-glm",
+            "fn": lambda p, s: call_openai_generic(
+                p, s, "https://api.llm7.io/v1", LLM7_KEY, "glm-5.3-flash",
+                llm7_lock, "llm7_glm", min_interval_sec=0.2
+            )
+        })
+
+    # ── Groq LPU ──
     if GROQ_KEY:
         workers.append({"name": "groq-qwen27b", "fn": lambda p, s: call_groq(p, s, "qwen/qwen3.8-27b")})
         workers.append({"name": "groq-oss120b", "fn": lambda p, s: call_groq(p, s, "openai/gpt-oss-120b")})
-    # Google AI Studio Gemini Flash (Afrikaans & English language excellence with native JSON mode)
+    # ── Google AI Studio Gemini Flash ──
     if GEMINI_KEY_1:
         workers.append({"name": "gemini-flash-k1", "fn": lambda p, s: call_gemini(p, s, GEMINI_KEY_1, "gemini-3.5-flash-lite", gma1_lock, "gma1")})
     if GEMINI_KEY_2:
         workers.append({"name": "gemini-flash-k2", "fn": lambda p, s: call_gemini(p, s, GEMINI_KEY_2, "gemini-3.5-flash-lite", gma2_lock, "gma2")})
-    # Cohere API (Structured JSON and STEM reasoning)
+    # ── Cohere API ──
     if COHERE_KEY:
         workers.append({"name": "cohere-command-a1", "fn": lambda p, s: call_cohere(p, s, "command-a-03-2025")})
-        workers.append({"name": "cohere-command-a2", "fn": lambda p, s: call_cohere(p, s, "command-a-03-2025")})
     return workers
 
 def clean_and_parse_json(raw_text: str) -> dict:
@@ -436,16 +615,16 @@ def main():
     ]
 
     if args.test_sample:
-        print("\n--- Running 1 test sample per task family ---")
+        print("\n--- Running 1 test sample per task family ---", flush=True)
         rng = random.Random(42)
         for i, (task, _) in enumerate(task_distribution):
             w = workers[i % len(workers)]
-            print(f">> Testing {task} on {w['name']}...")
+            print(f">> Testing {task} on {w['name']}...", flush=True)
             res = generate_single_sample(task, w, rng)
             if res["ok"]:
-                print(f"   PASS! Verified -> keys: {list(res['record'].keys())}")
+                print(f"   PASS! Verified -> keys: {list(res['record'].keys())}", flush=True)
             else:
-                print(f"   FAIL: {res['reason']}")
+                print(f"   FAIL: {res['reason']}", flush=True)
         return
 
     print("\nPlanned distribution:")
@@ -468,10 +647,25 @@ def main():
     rejected_count = 0
     start_time = time.time()
 
+    task_affinity_map = {
+        "page_worker": ["vercel-nemotron-supervl", "dashscope-deepseek-v4.1-flash", "apinex-deepseek-pro", "tokenlab-deepseek", "apmix-deepseek", "gemini-flash-k1", "gemini-flash-k2"],
+        "intake": ["dashscope-qwen3.7-plus", "dashscope-kimi-k3", "dashscope-qwen3.8-max-0902", "apinex-gemini3.8flash", "groq-qwen27b", "vercel-gpt-oss"],
+        "study_plan": ["dashscope-qwen3.7-plus", "dashscope-kimi-k3", "dashscope-qwen3.8-max-0902", "apinex-gemini3.8flash", "groq-qwen27b", "vercel-gpt-oss"],
+        "weak_topic_diagnosis": ["dashscope-qwen3.7-max", "dashscope-qwen3.8-2.4t-a95b", "dashscope-deepseek-v4-pro", "apinex-kimi-k3", "apinex-glm5.3", "groq-oss120b"],
+        "exam_strategy": ["dashscope-qwen3.7-max", "dashscope-qwen3.8-2.4t-a95b", "dashscope-deepseek-v4-pro", "apinex-kimi-k3", "apinex-glm5.3", "groq-oss120b"],
+        "study_guide_section": ["dashscope-deepseek-v4-pro-0813", "kilo-auto-free", "tokenlab-gemma", "cohere-command-a1", "gemini-flash-k1", "vercel-inkling"],
+        "revision_session": ["dashscope-deepseek-v4-pro-0813", "kilo-auto-free", "tokenlab-gemma", "cohere-command-a1", "gemini-flash-k1", "vercel-muse-ember"],
+        "paper_walkthrough": ["dashscope-qwen3.7-max", "dashscope-qwen3.8-max-0902", "groq-oss120b", "cohere-command-a1", "vercel-nemotron-lightning"],
+        "paper_prep_guide": ["vercel-nemotron-supervl", "dashscope-deepseek-v4.1-flash", "tokenharbor-deepseek", "gemini-flash-k1"],
+        "distress_signal": ["groq-qwen27b", "groq-oss120b", "cohere-command-a1", "vercel-mimo-flash", "tokenharbor-mimo"],
+    }
+
     def worker_job(item_tuple):
         idx, task = item_tuple
         rng = random.Random(time.time() + idx)
-        worker = random.choice(workers)
+        aff_names = task_affinity_map.get(task, [])
+        cand_workers = [w for w in workers if w["name"] in aff_names]
+        worker = random.choice(cand_workers) if cand_workers else random.choice(workers)
         return generate_single_sample(task, worker, rng)
 
     with ThreadPoolExecutor(max_workers=args.workers) as executor:

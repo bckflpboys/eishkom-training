@@ -405,14 +405,17 @@ To expand beyond pure question answering into holistic academic coaching and on-
      python stage-2/run_stage2_fleet.py --status
      ```
 
-### Step 15: Phase 2.7 — Multi-Provider API Onboarding (APInex, APMix, Refuseless, Vertex AI, Vercel, DashScope, AMD Token Lab, TokenHarbor, Kilo, LLM7)
+### Step 15: Phase 2.7 — Multi-Provider Fleet Generation & Agentic Coaching Fleet
 
-1. **Provider Credentials Configuration:**
-   - Provider API keys and credentials configured in `.env` and `vertex_service_account.json`.
-   - Standalone provider health and response validation:
-     ```bash
-     python tools/test_new_providers.py
-     python tools/test_batch2_providers.py
-     ```
-2. **Operational Constraint:**
-   - All newly added providers remain in standby until explicit user role assignment.
+1. **Provider Credentials & Speed Tuning:**
+   - Multi-provider fleet operating across Alibaba Model Studio, Vercel AI Gateway, Token Lab AMD, APInex, APMix, TokenHarbor, Kilo Gateway, LLM7.io, Refuseless, Groq, Google AI Studio, and Cohere.
+   - Pacing accelerated for maximum throughput: Alibaba (0.05s), AMD (0.05s), Vercel (0.05s), TokenHarbor (0.1s), APMix (0.1s), LLM7 (0.2s), APInex (0.4s).
+2. **Current Production Status:**
+   - Core Socratic Lessons: **15,710 / 15,000 (104.7% Goal Reached)** across all 8 Grade 10–12 STEM and language subjects.
+   - DBE Past Paper Full Solutions: **13,053 items (100% Complete across 266 papers)**.
+   - Total Combined Records: **28,763 items (~52,328 SFT training samples)**.
+   - Agentic & Study Coaching Fleet: Generating target of 3,500 samples across 16 parallel threads with 32 multi-model workers.
+3. **Status Monitoring:**
+   ```bash
+   python tools/stage2_status.py
+   ```

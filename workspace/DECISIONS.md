@@ -7018,3 +7018,110 @@ aw_response) for human review to evaluate if verification thresholds are overly 
   - Pass 2 Verified Lessons: **2,422 lessons** with balanced strategy distribution.
   - Total Corpus: **26,145 canonical records** (13,092 Socratic + 13,053 Full Solutions) = ~45,783 SFT samples (~32.0M tokens).
 
+---
+
+## 2026-11-14 21:50: Stage 2 Socratic Milestone (94.3%), Status Dashboard Upgrade & Multi-Lane Model Allocation
+
+- **Stage 2 Generation Milestone:**
+  - Core Socratic Lessons: **14,145 / 15,000 verified lessons (94.3% of goal)** — only **855 lessons remaining!**
+  - Full Solutions: **13,053 items (100% complete across all 266 DBE exam papers)**.
+  - Total Stage 2 Corpus: **27,198 records** (~48,415 SFT samples, ~33.9M tokens).
+  - Grand Stage 2 Pass Rate: **87.1%** across 212 exam papers.
+- **Status Dashboard Upgrade (`tools/stage2_status.py`):**
+  - Synchronized `tools/stage2_status.py` and `sa-tutor-kit/sa-tutor-kit/tools/stage2_status.py`.
+  - Added dual progress tracking: Socratic 15k goal + Agentic 3.5k goal (10-15% dataset share).
+  - Added production by API service, per-model pass/fail rates, CAPS subject distribution, coaching modes (deep vs short), and pedagogical teaching strategy spread.
+  - Resolved model rejection attribution to track failures per model name.
+- **Authentication Setup & OAuth Decision:**
+  - In Google Cloud Console OAuth Client creation, **Desktop app** is selected for Python scripts, CLI tools, and local workstations.
+  - Primary Vertex AI integration utilizes Service Account JSON (`vertex-express@eishkom.iam.gserviceaccount.com`), enabling automated ADC authentication without interactive browser popups.
+- **Model Lane Research & Categorization:**
+  - **Mathematics (`math_en`):** `qwen3.8-max` (Alibaba), `qwen-max` (Alibaba), `free/qwen-3.8-max` (APInex), `openai/gpt-oss-120b` (Vercel), `Qwen3.8-27B` (Token Lab AMD).
+  - **Wiskunde (`math_af`):** `nvidia/nemotron-3-ultra-550b-a55b` (Vercel), `Gemma-4-31B-IT` (Token Lab AMD), `free/glm-5.3-flash` (APInex), `nvidia/nemotron-3-ultra-550b-a55b:free` (Kilo Gateway).
+  - **Physical Sciences (`sci_en`):** `nvidia/nemotron-3.5-super-vl` (Vercel), `free/mimo-v2.6-pro` (APInex), `free/deepseek-v4-flash-0731` (APInex), `DeepSeek-V4-Flash` (Token Lab AMD), `deepseek-v4.1-flash-abliterated-free` (Refuseless).
+  - **Fisiese Wetenskappe (`sci_af`):** `deepseek-v4.1-flash:free` (TokenHarbor), `free/deepseek-v4.1-flash` (APInex), `deepseek-v4.1-flash-1017-free` (APMix).
+  - **English Languages (`lang_en`):** `mimo-v2.6-flash:free` (TokenHarbor), `free/minimax-m3.1-flash` (APInex), `google/gemini-2.5-flash` (Vercel).
+  - **Afrikaans Languages (`lang_af`):** `Gemma-4-31B-IT` (Token Lab AMD), `free/muse-spark-1.3` (APInex), `mimo-v2.5:free` (TokenHarbor).
+  - **Agentic & Optimization Fleet (`agent_opti`):** `kimi-k3.1-pro` (Alibaba), `free/gemini-3.8-flash` (APInex), `free/kimi-k3` (APInex), `free/deepseek-v4-pro-0813` (APInex), `nvidia/nemotron-3.5-super-vl` (Vercel), `free/glm-5.3` (APInex), `kilo-auto/free` (Kilo), `liquid/lfm-3-1.7b:free` (Kilo), `glm-5.3-flash` (LLM7.io).
+
+---
+
+## 2026-11-14 22:00: Dual Fleet Activation — Socratic Pass 2 Fleet (49 Workers) + Agentic Fleet (3,500 Target)
+
+- **User Direct Authorization:**
+  - Approved full research model-to-subject assignments across all newly onboarded providers.
+  - Mandated exclusion of Google Vertex AI; full operation restricted to the user-specified provider list (Alibaba Model Studio, Vercel AI Gateway, Token Lab AMD, TokenHarbor, Kilo Gateway, APInex, APMix, Refuseless, Groq, Google AI Studio, Cohere).
+- **Core Socratic Pass 2 Fleet Relaunched (`stage-2/run_stage2_fleet.py --pass 2`):**
+  - Upgraded from 15 lanes to **49 active model lanes** across 224 exam papers with 11,124 items.
+  - Active subject workers:
+    * `math_en`: `qwen3.8-max` (Alibaba), `qwen-max` (Alibaba), `gpt-oss-120b` (Vercel), `Qwen3.8-27B` (Token Lab AMD), `free/qwen-3.8-max` (APInex).
+    * `math_af`: `nemotron-3-ultra-550b-a55b` (Vercel), `Gemma-4-31B-IT` (Token Lab AMD), `free/glm-5.3-flash` (APInex), `nemotron-3-ultra-550b-a55b:free` (Kilo Gateway).
+    * `sci_en`: `nemotron-3.5-super-vl` (Vercel), `DeepSeek-V4-Flash` (Token Lab AMD), `free/mimo-v2.6-pro` (APInex), `free/deepseek-v4-flash-0731` (APInex), `deepseek-v4.1-flash-abliterated-free` (Refuseless).
+    * `sci_af`: `deepseek-v4.1-flash:free` (TokenHarbor), `free/deepseek-v4.1-flash` (APInex), `deepseek-v4.1-flash-1017-free` (APMix).
+    * `lang_en`: `mimo-v2.6-flash:free` (TokenHarbor), `free/minimax-m3.1-flash` (APInex), `gemini-2.5-flash` (Vercel).
+    * `lang_af`: `Gemma-4-31B-IT` (Token Lab AMD), `free/muse-spark-1.3` (APInex), `mimo-v2.5:free` (TokenHarbor).
+- **Agentic Fleet Launched (`stage-2/agentic/run_agentic_fleet.py --target 3500 --workers 8`):**
+  - Generates 3,495 planned samples across 10 task families with strict model-to-task affinity routing.
+  - Preserves strict dataset balance (10–15% total corpus share) to guarantee zero dilution of STEM core abilities.
+  - Active workers: `dashscope-kimi3.1pro`, `dashscope-qwen3.8max`, `apinex-gemini3.8flash`, `apinex-kimi-k3`, `apinex-glm5.3`, `apinex-deepseek-pro`, `kilo-auto-free`, `vercel-nemotron-supervl`, `groq-qwen27b`, `groq-oss120b`, `gemini-flash-k1`, `gemini-flash-k2`, `cohere-command-a1`.
+- **Live Status Monitoring:**
+  - Real-time dashboard updated via `python tools/stage2_status.py`.
+
+---
+
+## 2026-11-14 22:25: Fleet Queue Re-Prioritization & Status Attribution Bug Fix
+
+- **Provider Dashboard Quota & Queue Order Fix:**
+  - Diagnosed why certain new provider dashboards (Alibaba, TokenHarbor, APMix, Refuseless) had low initial activity: `run_stage2_fleet.py` previously had the new callers appended after 28 legacy lanes. Because Socratic generation was already at 95% completion and thread pool was set to 20, the new lanes were queued at positions 21–224 and were receiving papers with mostly finished items.
+  - Re-prioritized `assign_callers()` to place all newly integrated providers (Alibaba DashScope, Vercel AI Gateway, Token Lab AMD, TokenHarbor, Kilo Gateway, APInex, APMix, Refuseless) as **Priority 1 at the top of the queue**, followed by legacy workers.
+  - Increased fleet thread concurrency to **32 parallel workers** and boosted DashScope timeout to 120s to allow complete deep-thinking output for Qwen 3.8 Max.
+  - Traffic is now actively hitting all external providers immediately.
+- **Status Dashboard Attribution Bug Resolved:**
+  - Fixed an issue in `tools/stage2_status.py` where rejected records without `lane_id` or explicit provider tags were defaulting to `"Google AI Studio"` via `PROVIDER_MAP.get(gen, "Google AI Studio")`. This caused past rejections from NVIDIA NIM (`nemotron-3.5-super-vl`, `minimax`), Kilo Gateway (`:free`), and APInex (`free/`) to appear under Google AI Studio.
+  - Replaced fallback with comprehensive model and prefix pattern resolution. Google AI Studio now exclusively tracks native Google models (`gemini-*` and `gemma-*`), with 100% accurate attribution across all providers.
+
+
+
+
+---
+
+## 2026-11-15 10:00: Alibaba 14-Model & Vercel Update, Fleet Pacing Acceleration, and Core Socratic 15,000 Goal Complete
+
+- **Alibaba Model Studio 14-Model Integration:**
+  - Replaced legacy `kimi-k3.1-pro` and `qwen3.8-max` with 14 designated models across Socratic and Agentic pipelines.
+  - Socratic Models (added to `stage-2/run_stage2_fleet.py`):
+    * `qwen3.8-flash`
+    * `qwen3.7-flash`
+    * `qwen3.8-27b`
+    * `qwen3-vl-plus`
+    * `glm-5.3`
+    * `deepseek-v4.1-flash-1017`
+  - Non-Socratic Agentic Models (added to `stage-2/agentic/run_agentic_fleet.py`):
+    * `deepseek-v4.1-flash`
+    * `qwen3.8-max-0902`
+    * `qwen3.7-plus`
+    * `kimi-k3`
+    * `qwen3.7-max`
+    * `deepseek-v4-pro`
+    * `qwen3.8-2.4t-a95b`
+    * `deepseek-v4-pro-0813`
+  - Set `temperature=None` for Kimi models to adhere to DashScope API constraints.
+- **Vercel AI Gateway Model Selection:**
+  - Excluded `google/gemini-2.5-flash` per user instructions.
+  - Added verified operational models: `nvidia/nemotron-3.5-lightning-free`, `xiaomi/mimo-v2.6-flash`, `meta/muse-ember`, `thinkingmachines/inkling-2-small`, `minimax/minimax-m3.1-flash`.
+  - Filtered paid/403 models (`claude-haiku-5.5`, `deepseek-v4.1-flash-1017`, `mimo-v2.6-pro`, `muse-spark-1.3-contributor`) and routed them to active free endpoints on Alibaba, APMix, and APInex.
+- **Provider Speed & Pacing Acceleration:**
+  - Decreased throttling delays across all active providers:
+    * Alibaba DashScope: `0.05s` interval
+    * Token Lab AMD: `0.05s` interval
+    * Vercel AI Gateway: `0.05s` interval
+    * TokenHarbor: `0.1s` interval
+    * APMix: `0.1s` interval
+    * LLM7.io: `0.2s` interval
+    * APInex: `0.4s` interval
+- **Major Milestone: Core Socratic Target Reached & Surpassed:**
+  - **15,710 / 15,000 verified lessons (104.7% of goal)**.
+  - Full Solutions: **13,053 items (100% complete across all 266 papers)**.
+  - Total Corpus: **28,763 verified items (~52,328 SFT training samples / ~36.6M tokens)**.
+- **Agentic Fleet Actively Running:**
+  - Generating 3,500 target samples across 16 concurrent threads with 32 verified multi-provider workers.
