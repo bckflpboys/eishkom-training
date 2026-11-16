@@ -17,6 +17,7 @@ credentials.json
 *.pth
 *.safetensors
 *.onnx
+sa-tutor-kit.zip
 runs/
 workspace/runs/
 workspace/build/
