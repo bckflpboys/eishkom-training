@@ -48,23 +48,23 @@ python tools/package_all_verified_sft.py
 python sa-tutor-kit/sa-tutor-kit/tutor_data.py build workspace/verified/train_master_combined.jsonl --out workspace/build/r1 --val 0.15
 
 # ==============================================================================
-# PHASE 7 & 8: VERTEX AI COLAB ENTERPRISE SFT & GGUF EXPORT (VERIFIED NOV 9, 2026)
+# PHASE 7 & 8: VERTEX AI COLAB ENTERPRISE SFT & GGUF EXPORT (STAGE 2 / R2 PRODUCTION)
 # Runtime template: eishkom-gpu (g2-standard-4, 1x NVIDIA L4 24GB VRAM, 100GB SSD)
 # Spot VM enabled (~$0.32/hr consuming promotional credits, Quota GPUS_ALL_REGIONS = 1 approved)
 # ==============================================================================
-# 1. Unpack dataset (5,755 samples) and training scripts:
+# 1. Unpack dataset (37,179 production samples, ~20.0M tokens) and training scripts:
 #    !unzip -q eishkom_colab_kit.zip
 #    os.environ['SA_WORKSPACE'] = os.path.abspath('workspace')
 #
 # 2. Train kendal-stage-1 (4B) on unsloth/Qwen3.5-4B (4-bit QLoRA, bfloat16, FlashAttention):
-#    !python training/train_sft.py --model unsloth/Qwen3.5-4B --data workspace/build/r1 --out workspace/runs/r1 --load-4bit --epochs 3 --show 0
+#    # Note: For r2 (37k samples), 1 epoch (~2,324 steps, ~5.2 hrs on L4) is optimal for fine-tuning.
+#    !python training/train_sft.py --model unsloth/Qwen3.5-4B --data workspace/build/r2 --out workspace/runs/r2-kendal --load-4bit --epochs 1 --show 0
 #
 # 3. Export clean branded GGUF models:
-#    !python training/export_gguf.py --adapter workspace/runs/r1/adapter --out workspace/exports/kendal-stage-1 --quants q6_k q4_k_m
+#    !python training/export_gguf.py --adapter workspace/runs/r2-kendal/adapter --out workspace/exports/kendal-stage-1 --quants q6_k q4_k q4_k_m
 #
 # 4. Train koeberg-stage-1 (27B) on unsloth/Qwen3.8-27B (~5.5 hrs, ~$1.76 credits):
-#    !python training/train_sft.py --model unsloth/Qwen3.8-27B --data workspace/build/r1 --out workspace/runs/r1-koeberg --load-4bit --epochs 3
-
+#    !python training/train_sft.py --model unsloth/Qwen3.8-27B --data workspace/build/r2 --out workspace/runs/r2-koeberg --load-4bit --epochs 1
 # ==============================================================================
 # PHASE 9: DEPLOY KOEBERG-STAGE-1 TO GOOGLE CLOUD RUN (SCALE-TO-ZERO)
 # ==============================================================================

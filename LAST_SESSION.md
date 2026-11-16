@@ -82,6 +82,14 @@ Public model names **never display parameter numbers or quantization suffixes** 
   * **Full Solutions Split (`workspace/build/r2_fullsol/`):** **10,352 train records** | **10,352 train samples** | **12,912 thinking-on samples** (100% acceptance, 0 skipped invalid).
   * **Agentic Coaching Split (`workspace/build/r2_agentic/`):** **886 train records** | **1,906 train samples** | **2,411 thinking-on samples**.
 
+### Phase 17: Stage 2 Training Files Hardening & Pre-Flight Packaging
+- **Forensic Audit & Hardening Completed:**
+  * Upgraded `training/export_gguf.py`: Resolved `ud-q4_k_xl` vs `q4_k` substring collision order; dynamic `flash_brand` resolution for `stage-2` (now cleanly exports `kendal-flash-stage-2-Q4_K_M.gguf` alongside `kendal-stage-2-Q6_K.gguf`), dynamic `{ROUND}` path resolution to active round, and Stage 2 model card branding.
+  * Upgraded `training/train_sft.py`: Added `--eval-steps 250` for Spot VM checkpoint survival and regular validation curves; added dynamic alpha scaling (`alpha = rank`); added multi-component validation loss monitoring (`overall`, `socratic`, `fullsol`, `agentic`) with 0-leakage verification; wrapped `render` import with defensive fallback.
+  * Hardened Notebooks (`sa_tutor_colab.ipynb` and `colab/sa_tutor_colab.ipynb`): Dynamic `STAGE_TAG = "stage-2" if str(ROUND).startswith("r2") else "stage-1"`, exporting to `workspace/exports/kendal-{STAGE_TAG}` cleanly; added `koeberg-stage-2` Cloud Run serverless command.
+  * Repacked `eishkom_colab_kit.zip` (35.06 MB) containing all 4 Stage 2 production splits and hardened training tools.
+  * All mirrors synchronized between root and `sa-tutor-kit/sa-tutor-kit/`.
+
 ---
 
 ## 3. Critical Notes for the Next Agent

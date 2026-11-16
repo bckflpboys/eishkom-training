@@ -47,7 +47,10 @@ if "--no-unsloth" not in sys.argv and "--dry-run" not in sys.argv:
         print(f"(Unsloth not available: {type(e).__name__}; using plain transformers + peft, slower and hungrier)")
 
 import tutor_data as td  # noqa: E402
-from render import load_tokenizer, render_file, show  # noqa: E402
+try:
+    from training.render import load_tokenizer, render_file, show  # noqa: E402
+except ImportError:
+    from render import load_tokenizer, render_file, show  # noqa: E402
 from wspaths import read_jsonl  # noqa: E402
 
 DEFAULT_TARGETS = ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"]
@@ -158,7 +161,7 @@ def main():
     ap.add_argument("--epochs", type=float, default=2.0, help="passes over the data. 2-3 is usual; more memorises")
     ap.add_argument("--lr", type=float, default=2e-4, help="learning rate for LoRA (1e-4 to 3e-4 is normal)")
     ap.add_argument("--rank", type=int, default=16, help="LoRA size: 16 is a good start, 32-64 if you add many skills")
-    ap.add_argument("--alpha", type=int, default=16)
+    ap.add_argument("--alpha", type=int, default=0, help="LoRA alpha. 0 = same as --rank, so alpha/rank stays 1 when you raise the rank")
     ap.add_argument("--batch", "--batch-size", dest="batch", type=int, default=0, help="batch size per device. 0 = auto-scale based on VRAM/model size")
     ap.add_argument("--grad-accum", "--grad-accum-steps", "--gradient-accumulation-steps", dest="grad_accum", type=int, default=0, help="effective batch = batch x grad-accum. 0 = auto-scale")
     ap.add_argument("--seed", type=int, default=3407)
@@ -168,8 +171,11 @@ def main():
     ap.add_argument("--no-unsloth", action="store_true")
     ap.add_argument("--dry-run", action="store_true", help="render + statistics only; needs no GPU")
     ap.add_argument("--resume", action="store_true")
+    ap.add_argument("--eval-steps", type=int, default=250, help="validate AND save a checkpoint every N optimizer steps (also your Spot-VM resume points)")
     ap.add_argument("--show", type=int, default=1, help="print N rendered samples")
     a = ap.parse_args()
+    if a.alpha == 0:
+        a.alpha = a.rank
 
     # Proactive auto-correction for model name, template variables, and GGUF suffixes
     if a.model:
@@ -183,13 +189,16 @@ def main():
             print(f"Auto-switching to base Hugging Face repository: '{clean_model}'\n")
             a.model = clean_model
 
+    # Determine active dataset round dynamically (prefers r2 if present)
+    active_round = "r2" if (Path("workspace/build/r2").exists() or Path("build/r2").exists()) else "r1"
+
     if a.data:
         if "{ROUND}" in a.data:
-            a.data = a.data.replace("{ROUND}", "r1")
+            a.data = a.data.replace("{ROUND}", active_round)
             print(f"[AUTO-FIX] Detected raw variable in --data. Resolved to: '{a.data}'")
         data_p = Path(a.data)
         if not data_p.exists():
-            for cand in [Path("workspace/build/r1"), Path("build/r1")]:
+            for cand in [Path("workspace/build/r2"), Path("build/r2"), Path("workspace/build/r1"), Path("build/r1")]:
                 if cand.exists():
                     print(f"[AUTO-FIX] Data folder '{a.data}' not found. Auto-resolved to: '{cand}'")
                     a.data = str(cand)
@@ -197,7 +206,7 @@ def main():
 
     if a.out:
         if "{ROUND}" in a.out:
-            a.out = a.out.replace("{ROUND}", "r1")
+            a.out = a.out.replace("{ROUND}", active_round)
             print(f"[AUTO-FIX] Detected raw variable in --out. Resolved to: '{a.out}'")
 
     # Dynamic VRAM/HBM optimization: Auto-scale batch size based on GPU/TPU capacity and model tier
@@ -270,6 +279,23 @@ def main():
     train_rows, st = render_file(data / "train.jsonl", tok_r, a.think_style, a.max_len, a.limit)
     val_rows, vst = (render_file(data / "val.jsonl", tok_r, a.think_style, a.max_len)
                      if (data / "val.jsonl").exists() and (data / "val.jsonl").stat().st_size else ([], {}))
+
+    # Multi-component validation: Track overall validation + individual component losses (socratic, fullsol, agentic)
+    val_sets = {}
+    train_records = {r["id"].split("#")[0] for r in train_rows}
+    if val_rows:
+        val_sets["overall"] = Rows(val_rows)
+    for comp in ("socratic", "fullsol", "agentic"):
+        vf = data.parent / f"{data.name}_{comp}" / "val.jsonl"
+        if vf.exists() and vf.stat().st_size:
+            comp_rows, _ = render_file(vf, tok_r, a.think_style, a.max_len)
+            leak = sum(1 for r in comp_rows if r["id"].split("#")[0] in train_records)
+            if leak:
+                print(f"WARNING: {leak}/{len(comp_rows)} '{comp}' validation records are also in train.jsonl: skipped (not a clean validation set).")
+            elif comp_rows:
+                val_sets[comp] = Rows(comp_rows)
+    eval_ds = val_sets if len(val_sets) > 1 else (Rows(val_rows) if val_rows else None)
+
     for s in read_jsonl(data / "train.jsonl")[: a.show]:
         show(s, tok_r, a.think_style)
     print("\ntrain:", json.dumps(st))
@@ -299,7 +325,6 @@ def main():
             if not logs: return
             step = state.global_step
             loss = logs.get("loss")
-            eval_loss = logs.get("eval_loss")
             lr = logs.get("learning_rate", 0)
             elapsed = (time.time() - self.t0) / 60
             pct = 100 * step / max(1, self.total_steps)
@@ -309,8 +334,9 @@ def main():
                 res_gb = torch.cuda.memory_reserved() / (1024**3)
                 vram_str = f" | VRAM: {res_gb:.1f}GB"
 
-            if eval_loss is not None:
-                print(f"  ===> [Epoch {state.epoch:.1f} Validation] Eval Loss: {eval_loss:.4f}{vram_str}", flush=True)
+            for k, v in logs.items():
+                if k.startswith("eval_") and k.endswith("_loss") and isinstance(v, (float, int)):
+                    print(f"  ===> [Step {step:3d} / epoch {state.epoch:.2f}] {k}: {v:.4f}{vram_str}", flush=True)
             if loss is not None:
                 loss_str = f"{loss:.4f}" if isinstance(loss, float) else str(loss)
                 print(f"  -> [Step {step:3d}/{self.total_steps} ({pct:4.1f}%)] Loss: {loss_str} | LR: {lr:.2e} | Elapsed: {elapsed:4.1f}m{vram_str}", flush=True)
@@ -338,18 +364,20 @@ def main():
             optim = "adamw_8bit"
         except ImportError:
             optim = "adamw_torch"
+    ev_steps = max(1, min(a.eval_steps, steps_per_epoch))
     sig = inspect.signature(TrainingArguments.__init__).parameters
     out = Path(a.out)
     kw = dict(output_dir=str(out / "checkpoints"), per_device_train_batch_size=a.batch, gradient_accumulation_steps=a.grad_accum,
               num_train_epochs=a.epochs, learning_rate=a.lr, lr_scheduler_type="cosine", warmup_steps=max(1, int(0.03 * total_steps)),
-              weight_decay=0.01, logging_steps=25, disable_tqdm=True, save_strategy="epoch", save_total_limit=2, seed=a.seed, report_to="none",
+              weight_decay=0.01, logging_steps=25, disable_tqdm=True, save_strategy="steps", save_steps=ev_steps, save_total_limit=2, seed=a.seed, report_to="none",
               remove_unused_columns=False, optim=optim, bf16=bf16, fp16=not bf16, dataloader_num_workers=0)
-    if val_rows:
-        kw["eval_strategy" if "eval_strategy" in sig else "evaluation_strategy"] = "epoch"
+    if eval_ds:
+        kw["eval_strategy" if "eval_strategy" in sig else "evaluation_strategy"] = "steps"
+        kw["eval_steps"] = ev_steps
         kw["per_device_eval_batch_size"] = a.batch
     clean_cb = CleanProgressCallback(total_steps)
     trainer = Trainer(model=model, args=TrainingArguments(**kw), train_dataset=Rows(train_rows),
-                      eval_dataset=Rows(val_rows) if val_rows else None, data_collator=make_collator(pad_id), callbacks=[clean_cb])
+                      eval_dataset=eval_ds, data_collator=make_collator(pad_id), callbacks=[clean_cb])
     t0 = time.time()
     result = trainer.train(resume_from_checkpoint=True if a.resume else None)
     minutes = (time.time() - t0) / 60
@@ -374,11 +402,15 @@ def main():
         matplotlib.use("Agg")
         import matplotlib.pyplot as plt
         logs = [x for x in trainer.state.log_history if "loss" in x]
-        evals = [x for x in trainer.state.log_history if "eval_loss" in x]
+        eval_keys = sorted({k for x in trainer.state.log_history for k in x if k.startswith("eval_") and k.endswith("_loss")})
+        evals = [x for x in trainer.state.log_history if any(k in x for k in eval_keys)]
         plt.figure(figsize=(6, 3.5))
         plt.plot([x["step"] for x in logs], [x["loss"] for x in logs], label="train loss")
-        if evals:
-            plt.plot([x["step"] for x in evals], [x["eval_loss"] for x in evals], "o-", label="val loss")
+        for k in eval_keys:
+            pts = [(x["step"], x[k]) for x in evals if k in x]
+            if pts:
+                lbl = k.replace("eval_", "").replace("_loss", "") + " val"
+                plt.plot([p_[0] for p_ in pts], [p_[1] for p_ in pts], "o-", label=lbl)
         plt.xlabel("step"); plt.ylabel("loss"); plt.legend(); plt.tight_layout(); plt.savefig(out / "loss.png", dpi=120)
     except Exception:                                                         # noqa: BLE001
         pass

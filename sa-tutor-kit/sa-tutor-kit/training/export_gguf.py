@@ -42,12 +42,13 @@ def sizes(folder):
 
 def resolve_adapter_path(adapter_arg):
     """Robustly resolve adapter path, auto-handling {ROUND}, uninitialized variables, or relative paths."""
+    active_round = "r2" if (Path("workspace/runs/r2").exists() or Path("runs/r2").exists() or Path("workspace/build/r2").exists()) else "r1"
     if not adapter_arg or adapter_arg.strip() in ("", "auto", "default"):
-        adapter_arg = "workspace/runs/r1/adapter"
+        adapter_arg = f"workspace/runs/{active_round}/adapter"
 
     # Always sanitize raw template variables
     if "{ROUND}" in adapter_arg:
-        adapter_arg = adapter_arg.replace("{ROUND}", "r1")
+        adapter_arg = adapter_arg.replace("{ROUND}", active_round)
 
     p = Path(adapter_arg)
     if p.exists() and (p / "adapter_config.json").exists():
@@ -130,14 +131,20 @@ def consolidate_and_brand_gguf(out_dir, base_brand="kendal-stage-1"):
         if "q6_k" in f_lower:
             dest_name = f"{base_brand}-Q6_K.gguf"
         elif "q4_k_m" in f_lower:
-            flash_brand = base_brand.replace("-stage-1", "-flash-stage-1") if "-flash" not in base_brand else base_brand
+            if "-flash" not in base_brand:
+                if "-stage-" in base_brand:
+                    flash_brand = base_brand.replace("-stage-", "-flash-stage-")
+                else:
+                    flash_brand = f"{base_brand}-flash"
+            else:
+                flash_brand = base_brand
             dest_name = f"{flash_brand}-Q4_K_M.gguf"
+        elif "q4_k_xl" in f_lower or "ud-q4_k_xl" in f_lower:
+            dest_name = f"{base_brand}-UD-Q4_K_XL.gguf"
         elif "q4_k" in f_lower or "q4k" in f_lower:
             dest_name = f"{base_brand}-Q4_K.gguf"
         elif "q8_0" in f_lower:
             dest_name = f"{base_brand}-Q8_0.gguf"
-        elif "ud-q4_k_xl" in f_lower or "q4_k_xl" in f_lower:
-            dest_name = f"{base_brand}-UD-Q4_K_XL.gguf"
 
         dest_path = out / dest_name
         if f.resolve() != dest_path.resolve():
@@ -176,8 +183,9 @@ def main():
     a = ap.parse_args()
 
     a.adapter = resolve_adapter_path(a.adapter)
+    active_round = "r2" if (Path("workspace/runs/r2").exists() or Path("runs/r2").exists() or Path("workspace/build/r2").exists()) else "r1"
     if "{ROUND}" in str(a.out):
-        a.out = str(a.out).replace("{ROUND}", "r1")
+        a.out = str(a.out).replace("{ROUND}", active_round)
         print(f"[AUTO-FIX] Detected raw variable in --out. Resolved to: '{a.out}'")
     if a.base and "{MODEL}" in a.base:
         a.base = "unsloth/Qwen3.5-4B"
@@ -188,9 +196,10 @@ def main():
     consolidate_and_brand_gguf(out, base_brand=out.name)
     files = sizes(out)
     (out / "exports.json").write_text(json.dumps({"adapter": a.adapter, "quants": a.quants, "files_gb": files, "when": time.strftime("%Y-%m-%d %H:%M")}, indent=2), encoding="utf-8")
+    stage_cycle = "Stage 2 Cycle" if ("stage-2" in out.name.lower() or "r2" in str(a.adapter).lower()) else "Stage 1 Cycle"
     card = [
-        "# Eishkom Stage 1 Model Card\n",
-        f"- Release Brand: Eishkom AI (Stage 1 Cycle)",
+        f"# Eishkom {stage_cycle} Model Card\n",
+        f"- Release Brand: Eishkom AI ({stage_cycle})",
         f"- Base model: {a.base or '(see training config)'}  - licence: Apache 2.0 / Permissive",
         f"- Trained with: LoRA adapter {a.adapter} via Unsloth QLoRA",
         "- Training data: South African CAPS curriculum (DBE past exam papers & Siyavula CC-BY textbooks)",

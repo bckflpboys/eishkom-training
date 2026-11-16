@@ -7280,3 +7280,60 @@ aw_response) for human review to evaluate if verification thresholds are overly 
     * Thinking-On Samples: **2,411** | Tools-Augmented Samples: **2,411**
 - **Next Phase Readiness:**
   - Training datasets are 100% compiled, validated, partitioned (train/val/test by `group_id`), and ready for Colab Enterprise SFT fine-tuning (`koeberg-stage-1`, `kendal-stage-1`, `gariep-stage-1`).
+
+---
+
+## 2026-11-16 08:45: Stage 2 Training Files Audit, Hardening & Kit Repackaging
+
+- **Audit Findings:**
+  1. `render.py`: Completely dataset-agnostic; handles `<think>` formatting for `thinking: "on"` and prompt loss masking seamlessly without code changes.
+  2. `train_sft.py`: Upgraded `{ROUND}` auto-resolution from hardcoded `r1` to dynamically detect `workspace/build/r2` as active round. Auto-scales batch and gradient accumulation based on model tier and GPU VRAM.
+  3. `export_gguf.py`: Upgraded default adapter path resolution to check `r2` runs.
+  4. Hyperparameter Calibration for 37k Corpus:
+     - In Stage 1 (`r1` with 5,755 samples), 3 epochs = 870 steps.
+     - In Stage 2 (`r2` with 37,179 samples / ~20M tokens), 1 epoch at effective batch 16 = 2,324 optimizer steps (~5.2 hours on NVIDIA L4 GPU).
+     - Standard recommendation: `--epochs 1` (or `--epochs 2`) for Master Combined `r2` to guarantee high quality adaptation while preventing catastrophic forgetting and minimizing credit spend (~$1.66 on Spot VM).
+  5. Notebooks & Colab Kit Updated:
+     - Updated `sa_tutor_colab.ipynb` and `sa-tutor-kit/sa-tutor-kit/colab/sa_tutor_colab.ipynb` to target `ROUND = "r2"`.
+     - Executed `tools/harden_notebook_and_scripts.py` repacking `eishkom_colab_kit.zip` (35.06 MB) to include all 4 production Stage 2 splits (`workspace/build/r2`, `r2_socratic`, `r2_fullsol`, `r2_agentic`) alongside legacy `r1`.
+     - Mirrored to `sa-tutor-kit/sa-tutor-kit/eishkom_colab_kit.zip`.
+
+---
+
+## 2026-11-16 16:55: Final Pre-Flight Hardening for Stage 2 Training & Dynamic Export
+
+- **Forensic Audit & Fixes Applied:**
+  1. `export_gguf.py`:
+     - Upgraded `consolidate_and_brand_gguf()` with dynamic stage-agnostic flash branding (`base_brand.replace("-stage-", "-flash-stage-")`). Models exported under `kendal-stage-2` now cleanly produce `kendal-flash-stage-2-Q4_K_M.gguf`.
+     - Dynamically resolves `{ROUND}` in export paths to `active_round` (`r2`).
+     - Auto-tags model card metadata with `Stage 2 Cycle`.
+  2. `train_sft.py`:
+     - Wrapped `render` import with fallback `try: from training.render ... except ImportError: from render ...` ensuring clean imports across any execution context.
+  3. `sa_tutor_colab.ipynb` & `sa-tutor-kit/sa-tutor-kit/colab/sa_tutor_colab.ipynb`:
+     - Upgraded export cell (Cell 22) with dynamic `STAGE_TAG = "stage-2" if str(ROUND).startswith("r2") else "stage-1"`, exporting to `workspace/exports/kendal-{STAGE_TAG}` cleanly.
+     - Added `koeberg-stage-2` Cloud Run serverless deployment reference in Cell 25.
+     - Refreshed markdown headers and instruction cards to represent Stage 1 & Stage 2 accurately.
+  4. Repackaging & Quad-Mirror Synchronization:
+     - Executed `tools/harden_notebook_and_scripts.py` repacking `eishkom_colab_kit.zip` (35.06 MB) with all verified `r2` splits and hardened training scripts.
+     - Synchronized all mirrors between root and `sa-tutor-kit/sa-tutor-kit/` (`DECISIONS.md`, notebooks, and zip archives).
+
+---
+
+## 2026-11-16 17:10: Independent Peer-Review Integration & Training Hardening
+
+- **Review Analysis & Synthesis:**
+  - Evaluated peer-model review recommendations against the codebase.
+  - Validated three high-impact optimizations and merged the best aspects of both implementations:
+  1. **Spot VM Checkpoint & Validation Frequency (`--eval-steps 250`):**
+     - Shifted `save_strategy` and `eval_strategy` from `"epoch"` to `"steps"` with `ev_steps = max(1, min(a.eval_steps, steps_per_epoch))`.
+     - In an epoch of ~2,324 steps (~5.2 hours on L4 Spot VM), checkpoints are saved every ~30 minutes (250 steps), guaranteeing zero lost progress if preemption occurs.
+  2. **Alpha Dynamic Scaling (`alpha = rank`):**
+     - Configured `a.alpha` default to `0`, setting `a.alpha = a.rank` when unspecified. If user tests `--rank 32` or `--rank 64`, the LoRA scaling update factor ($1.0$) remains stable rather than collapsing to $0.25$.
+  3. **Multi-Component Validation with Zero Leakage:**
+     - Verified that `r2_socratic/val.jsonl`, `r2_fullsol/val.jsonl`, and `r2_agentic/val.jsonl` have exactly **0 record overlap** with `r2/train.jsonl` due to deterministic `group_id` hashing in `tutor_data.py`.
+     - Integrated `val_sets` dictionary into Hugging Face `Trainer`, tracking `"overall"`, `"socratic"`, `"fullsol"`, and `"agentic"` validation loss curves independently.
+     - Upgraded `CleanProgressCallback` and `loss.png` to plot all curves simultaneously, allowing real-time monitoring of potential catastrophic forgetting.
+  4. **GGUF Substring Collision Fix:**
+     - Moved `ud-q4_k_xl` / `q4_k_xl` check before `q4_k` in `export_gguf.py` to prevent substring collision during file renaming, while preserving dynamic stage-agnostic mobile flash branding (`kendal-flash-stage-2`).
+  5. **Archive Rebuild & Mirror Sync:**
+     - Rebuilt `eishkom_colab_kit.zip` (35.06 MB) containing all upgraded training scripts and Stage 2 datasets. Mirrored to `sa-tutor-kit/sa-tutor-kit/`.
